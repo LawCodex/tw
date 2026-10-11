@@ -1,0 +1,611 @@
+---
+title: "Act on the Prevention and Control of Infectious Animal Diseases"
+title_zh: "動物傳染病防治條例"
+identifier: "M0130003"
+type: act
+law_level: "法律"
+category: "行政＞農業部＞動植物防檢疫目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1967-08-23
+last_amended: 2019-12-13
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0130003"
+retrieved: 2026-10-12
+---
+
+# Act on the Prevention and Control of Infectious Animal Diseases
+
+> Translation. The Chinese text ([zh/laws/ministry-of-agriculture/M0130003-act-on-the-prevention-and-control-of-infectious-animal-diseases.md](../../../zh/laws/ministry-of-agriculture/M0130003-act-on-the-prevention-and-control-of-infectious-animal-diseases.md)) is authoritative.
+
+## Chapter 1 General Provisions
+
+### Article 1
+
+This Act is enacted to prevent the occurrence, transmission, and spread of infectious animal diseases. Any matters not covered by this Act shall be governed by other applicable laws.
+
+### Article 2
+
+Competent authorities as referred to in this Act: At the central government level: the Council of Agriculture, Executive Yuan; at the special municipal level: the government of the special municipality; and at the county (city) level: the government of the county (city).
+
+The animal health inspection authorities as mentioned in this Act refer to authorities and district offices (cities and towns) established by the respective authorities concerned at different government levels in accordance with Paragraph 2 of Article 8.
+
+The competent authority, in matters related to public health, shall take action jointly with the public health authorities.
+
+### Article 3
+
+The term “prevention and control” used in this Act includes matters relating to prevention, inspection, and quarantine.
+
+### Article 4
+
+The term “animals” used in this Act refers to cattle, water buffaloes, horses, mules, donkeys, camels, sheep, goats, rabbits, pigs, dogs, cats, fowls, turkeys, ducks, geese, eels, prawns, tilapia, milkfish, salmons, trouts, and other animals as specified by the central competent authority.
+
+### Article 5
+
+The term “objects subject to quarantine” used in this Act refers to animals specified in Article 4 and other animals of similar breeds, or animals that are susceptible to animal infectious diseases, as well as their carcasses, bones, meats, internal organs, fats, blood, hide, hair, feather, horns, hooves, tendons, raw milk, blood meal, eggs, sperm, embryos, and other forms which could spread the pathogens of animal infectious diseases.
+
+The central competent authority may designate animals or animal products as objects specified in the preceding Paragraph and announce them as items to be quarantined (hereinafter referred to as “quarantine objects”)
+
+### Article 6
+
+Under this Act, infectious animal diseases are classified by the central competent authority into three Lists, A, B, and C, according to the severity of the infectious disease hazard and announced accordingly.
+
+To prevent the occurrences, transmission, and spread of infectious animal diseases, the special municipality and county (city) competent authorities may designate an infectious animal disease, and the infectious animal disease other than those mentioned in the preceding Paragraph and apply part or all of the regulations stipulated in this Act.
+
+### Article 7
+
+The term “infection with infectious animal diseases” used in this Act refers to animals which have been confirmed to be infected with infectious animal diseases after they have signs of sickness.
+
+The term “suspected of infection with infectious animal diseases” used in this Act refers to animals which have signs of sickness, and are suspected to be infected with infectious animal disease, either without a diagnosis or with a diagnosis that is yet to be confirmed.
+
+The term “potentially infected with infectious animal diseases” used in this Act refers to animals which have had direct or indirect contact with animals infected or suspected to be infected with infectious animal diseases. These animals have no signs of sickness but are potentially infected with infectious animal diseases according to scientific conclusions drawn from epidemiological data.
+
+### Article 8
+
+The respective authorities concerned at different levels of governments shall be staffed with animal health inspection officer who are veterinarians.
+
+Governments of special municipalities and counties (cities) shall establish animal health inspection authorities; the central competent authority shall establish an animal health inspection and quarantine agency; when necessary, a central veterinary research institute may be established.
+
+Animal quarantine agency for import/export shall be staffed with animal quarantine officers who are veterinarians.
+
+The respective authorities concerned at different levels of governments may send animal quarantine officer or animal health inspection officer within their direct jurisdiction to implement the relevant measures for emergency prevention and control.
+
+### Article 9
+
+For the necessity of inspection, animal health inspection officer shall enter places for raising animals, warehouses and related places, vehicles, vessels, and aircraft to check the animals, animal products, or their packaging containers and related objects.
+
+Investigations of relevant data and persons involved shall be carried out, and all persons or related parties must not evade, obstruct, or refuse the investigations.
+
+For the necessity of quarantine, animal quarantine officer shall conduct inspections of any unloaded animals, animal products and their packing, containers, cargoes, postal parcels, luggage, vehicles, vessels, aircraft and deposit sites, or the dispatch entre pots, which can potentially introduce animal diseases or pathogens. The owners or related parties must not evade, obstruct, or refuse the inspections.
+
+For all persons or related parties who evade, obstruct, or refuse the investigations or inspections mentioned in paragraphs 1 and 2 of this Article, the inspection and quarantine personnel may compulsorily execute the investigations and inspections.
+
+### Article 10
+
+When animal health inspection and quarantine officer are implementing measures of prevention and control, personnel of relevant agencies shall provide the necessary assistance and coordination.
+
+### Article 10-1
+
+Authorities concerned shall grant reward to anyone reporting events against measures of animal disease prevention and control.
+
+Regulations governing the granting of the above reward shall be prescribed by the central competent authority.
+
+### Article 10-2
+
+No person may intentionally spread rumors or false information about infectious animal diseases.
+
+### Article 11
+
+(Deleted)
+
+## Chapter 2 Prevention
+
+### Article 12
+
+The owners and keepers of animals shall report to the animal health inspection authorities when their animals are infected or suspected to be infected with infectious animal diseases; or when their animals die of unknown causes. If the above-mentioned situation happens in the course of transportation, the person in charge of the transportation shall report to the animal health inspection authority of the original stop. Upon receiving the report, the animal health inspection authorities shall send their animal health inspection officer to check the carcasses and give instructions on incineration, burying, disinfecting the carcasses, and other imperative treatment. When requested by the owners or keepers of animals concerned, a certificate of disposal shall be provided.
+
+The preceding Paragraph does not apply if the animals are raised by households as a subsidiary means of income and the total number of dead animals is less than 10. The animals mentioned above include chickens, turkeys, ducks, geese, and wild animals of similar breeds. When the animals die of sicknesses, the owners must dispose of the carcasses by themselves. However, in case of an epidemic, the special municipality or county (city) competent authorities may designate the name of the infectious animal disease and the animal species by district, announce at any time for the approaches taken in accordance with the preceding paragraph, and shall also report the matter to the central competent authority for verification.
+
+When the owners dispose of the carcasses by themselves according to the preceding Paragraph, incineration, burying, or disinfection must be used. Selling or the arbitrary disposal of carcasses from the death of illness is prohibited.
+
+### Article 12-1
+
+The central competent authority shall set up a system to manage owners or users of biomaterials related to infectious animal diseases specified and announced as such by the central competent authority.
+
+Owners/users of infectious biomaterials shall comply with the advice and inspection of various competent authorities without evasion, obstruction, or refusion.
+
+Regarding the Paragraph 1 of this Article, the sort of infectious biomaterials, qualifications of owner or users, laboratory biosecurity protocols, information to be submitted to the authorities, and other protocols for compliances shall be prescribed by the central competent authority.
+
+### Article 12-2
+
+Regarding infectious animal diseases specified and declared by the central competent authority, specimen testing and reporting as well as disease confirmation shall comply with the following requirements:
+
+\1. Testing and reporting: After sampling is conducted by the animal health inspection authority or the central competent authority, it shall be submitted to the central competent authority or institution, school, or research institution (hereinafter referred to as “testing institutions”) with accredited proficiency testing. The reports of testing shall be submitted to competent authorities of the special municipality, county or city, and the central competent authority.
+
+\2. Confirmation: The testing reports mentioned in the preceding Paragraph are verified by the central competent authority or its designated or authorized testing institutions. Once the testing result is confirmed, the central competent authority shall make a public announcement.
+
+The authorization to do the tests, qualifications for the testing institutions mentioned in the preceding Paragraph, application procedures and validity, rescission and revocation, sampling, supervision, audit and other protocols shall be prescribed by the central competent authority.
+
+### Article 13
+
+To prevent and control the occurrence of the infectious animal diseases, competent authorities of special municipalities and counties (cities) shall order animal health inspection officer to implement such prevention and control measures as physical examinations of animals, immunizations, vaccinations, medicinal bath or other medical treatments. Moreover, for animals and places that have been treated by these measures, marks, labels, or certificates may be attached. If necessary, competent authorities of special municipalities and counties (cities) may commission veterinary practice licensees to implement those measures. Animal owners and keepers shall not intentionally damage and counterfeit those marks, labels, or certificates.
+
+Depending on the types of infectious animal diseases, competent authorities of special municipalities and counties (cities) may order animal owners and keepers to employ veterinary practice licensees to implement the measures mentioned in the preceding Paragraph or to implement under the supervision of veterinary practice licensees.
+
+If the animal owners or keepers are unwilling to or cannot implement the measures mentioned in Paragraph 1, the special municipality or county (city) competent authority may authorize animal health inspection officer or veterinary practice licensees to implement those measures and charge for the implementation service. The rate of the implementation service shall be prescribed by the special municipality or county (city) competent authority.
+
+When the animal health inspection officer implement the measures mentioned in Paragraphs 1 and 3, the animal owners or keepers shall follow the instructions of the animal health inspection officer or authorized veterinary practice licensees to controlling the movement of animals and provide necessary assistance without evading, obstructing, or refusing the implementation.
+
+10 days before implementing the measures mentioned in Paragraphs 1 and 2, the special municipality or county (city) competent authority shall announce the aims of the implementation, dates, areas, methods, animal species, and other relevant matter. However, in case of an emergency, the period of announcement period may be shortened or the implementation may be carried out at any time.
+
+### Article 13-1
+
+To eradicate specific infectious animal diseases, the central competent authority may announce the types of vaccine, time of administration, attached label, relevant documents, movement restraint, and other control measures. Animal owners or keepers, veterinarians, veterinary assistant, and veterinary drug dealers shall comply with and execute regulations as listed above.
+
+Regulations governing the administration, labeling, application, control, terms and other relevant objects of vaccination provided under the preceding Paragraph shall be prescribed by the central competent authority based on the animal species and infectious animal diseases.
+
+### Article 14
+
+To prevent and control the occurrences of infectious animal diseases, the special municipality or county (city) competent authority shall designate specific areas when necessary, and order the animal owners and keepers to sterilize their rearing area and facilities, improve the rear environment, isolate the animals, and eliminate the vectors.
+
+To prevent the spread of the infectious animal diseases, the animal transport service providers shall implement measures for cleaning and disinfecting transportation vehicles as well as animal-carrying boxes and cages.
+
+The cleaning and disinfecting measures carried out by animal transport service providers as mentioned in the preceding Paragraph shall be prescribed by the central competent authority.
+
+Raw poultry eggs shall be transported only in disposable containers or single-use packing materials.
+
+### Article 14-1
+
+In the case that a major zoonotic disease publicly announced according to Paragraph 2 of Article 17 could spread by poultry, such as chickens, ducks, geese, or turkeys, the central competent authority may ban the display and sales of such live poultry in the retail market.
+
+### Article 15
+
+For animals infected or suspected to be infected with infectious or unknown diseases, the special municipality or county (city) competent authority may order animal owners or keepers to offer animals for necropsy by animal health inspection officer. Carcasses following necropsy, shall be returned to the owners or keepers, and incineration or buried immediately under the supervision of the animal health inspection officer.
+
+### Article 16
+
+Regarding the processing of deceased livestock and poultry as raw materials (hereinafter referred to as rendering materials), and the places where such processing occurs (hereinafter referred to as rendering plants), the following regulations shall be complied with:
+
+\1. Disinfection facilities and equipment are set in rendering plants for implementing sterilization procedures;
+
+\2. The hygiene and safety in the rendering plant shall be supervised by veterinarians (or veterinary assistant);
+
+\3. Before raw materials are received, a written contract with the farm/ranch of origin are required to authorize rendering, except the farm/ranch of origin designated by the competent authority;
+
+\4. Rendering plants or their commissioned transport operators shall use vehicles in compliance with provisions of Paragraph 2. The rendering plants shall sign a written contract with the commissioned transport operators before the start of transportation of raw materials;
+
+\5. The sources and amount of raw materials shall be recorded, and such records shall be kept at least for two years;
+
+\6. Rendering plants are subject to audit by the competent authority and shall report relevant matters.
+
+When loading or unloading raw materials, transport vehicles shall comply with the following provisions:
+
+\1. Vehicles used for transporting raw materials shall have disinfection equipment and closed systems to prevent leakage, and shall be maintained properly to keep them functioning normally;
+
+\2. Upon application by rendering plants or transportation companies, their vehicles are certified by the special municipal or county (city) animal health inspection authority and shall affix the certificate of compliance to the vehicle.
+
+\3. Rendering plants are subject to audit by the competent authority and should report relevant matters.
+
+The installation, items, disinfection procedures, items to be recorded in the contract, inspection, reporting of disinfection facilities and equipment in rendering plants mentioned in Paragraph 1 as well as disinfection equipment, closed systems for preventing leakage, approval and granting of certified vehicle, expiration date, presenting places, replacement, recession and revocation of certificates, audits, reporting, loading and transport of raw materials, and other matters pertaining to transport vehicles mentioned in the preceding Paragraph shall be prescribed by the central competent authority.
+
+## Chapter 3 Epidemic Control
+
+### Article 17
+
+In the line of duty, upon finding an animal infected, suspected to be infected, or possibly infected with a List A infectious animal disease defined in Paragraph 1 of Article 6, or an infectious animal disease of List B or C with the major zoonotic characteristic, a veterinarian or a veterinary assistant shall report to the local animal health inspection authority within 24 hours. Upon receiving the report, the local animal health inspection authority shall take necessary measures and notify the central competent authority. In cases involving major zoonotic infectious animal diseases, the central competent authority shall immediately give notice to the central health competent authority.
+
+Major zoonotic infectious animal diseases mentioned in the preceding Paragraph and Paragraph 3 of Article 20 shall be published by the central competent authority in consultation with the central health competent authority.
+
+### Article 18
+
+When animal health inspection authorities suspect a fast spread of an infectious animal disease, a report shall be made immediately to the higher authorities concerned. The neighboring authorities and competent authorities of special municipalities or counties (cities) taking charge of managing the place of assembling and distributing of animals shall be informed.
+
+### Article 19
+
+The owner or keeper of animals finding that their animals have, or suspected of having, an infectious animal disease shall promptly isolate the animals or take necessary actions under the instruction of animal health inspection officer, who may, in the view of the spreading status of the infections animal disease, prohibit animal movement into or out of the same farm or rearing area. To determine the etiology, the animal health inspection officer may require the owner or keeper of animals to isolate the animals suspected of having an infectious animal disease, but the duration shall not exceed fourteen (14) days. However, this restriction does not apply to a disease with a possible longer incubation period which requires a longer duration of isolation.
+
+During the isolation period as mentioned in the preceding Paragraph, the animal inspection officer shall notify animal welfare protection inspectors to perform relevant inspections, which shall be in compliance with biosafety protocols.
+
+### Article 20
+
+Regarding animals infected, suspected to be infected, or potentially infected with infectious animal diseases and facilities or premises that are, or may be, contaminated with pathogens of infectious animal diseases, animal health inspection officer, upon approval by the competent authority, shall take following actions:
+
+\1. Regarding animals infected, suspected to be infected, or potentially infected with List A infectious animal diseases defined in Paragraph 1 of Article 6, the owner or keeper shall follow the instruction of animal health inspection officer to immediately cull the animals and have the carcasses incinerated, buried, or rendered.
+
+\2. Regarding animals infected with List B infectious animal diseases defined in Paragraph 1 of Article 6, if deemed necessary by animal health inspection officer, the owner or keeper shall follow the instruction of animal health inspection officer to immediately cull the animals and have the carcasses incinerated, buried, rendered, or take other necessary measures.
+
+\3. Regarding premises, vehicles, vessels, and apparatus that are contaminated or may be contaminated with infectious animal disease pathogens, the owner or keeper shall follow the instruction of animal health inspection officer to promptly have them incinerated, buried, disinfected, or take other necessary measures.
+
+Culling as mentioned in the preceding Paragraph shall be conducted in a humane manner, minimizing the pain inflicted on animals without compromising the disease control and prevention; culling methods shall be reviewed and updated appropriately in accordance with the guidelines of international animal welfare science.
+
+In the case of animals infected with List B infectious animal diseases defined in Paragraph 1 of Article 6, with the major zoonotic characteristics, upon recommendation of the central health competent authority and deemed necessary by animal health inspection officer, animals within the affected premises can be disposed of in accordance with Subparagraph 1 of Paragraph 1 of this Article.
+
+For the purpose of etiologic identification or academic research, animals shall be disposed of under the instruction of the competent authority that grants the approval.
+
+### Article 21
+
+If the special municipality or county (city) competent authority deems that emergency measures are necessary for epidemic prevention, it may order the animal health inspection officer within its jurisdiction to manage the situation in accordance with the provisions of the preceding Article and then submit a report for review.
+
+### Article 22
+
+In order to control and prevent the spread of infectious animal diseases, the special municipality or county (city) competent authority may order animal health inspection officer, commissioned veterinary practice licensees, or veterinary practice licensees employed by animal owners and keepers to freely implement physical examination, immunizations, vaccinations, medicinal bath, or medical treatment of animals in accordance with Paragraphs 1 and 2 of Article 13. Animal owners and keepers shall follow the instruction of animal health inspection officer or veterinary practice licensees to control the movement of animals and provide other necessary assistance without evasion, obstruction, or refusion.
+
+### Article 23
+
+The carcasses of animals that died of List A or List B infectious animal diseases, as specified in Paragraph 1 of Article 6, shall be promptly incinerated, buried, rendered, or disposed by other necessary means, according to the instruction of animal health inspection officer. However, upon approval by the competent authorities, animals concerned may be used to establish the etiology of the infectious animal diseases or for academic research.
+
+### Article 24
+
+For carcasses or objected buried according to the provisions of Article 20 and the preceding Articles, within a certain period, their burial sites and markings cannot be excavated or damaged without the permission of the competent authority.
+
+### Article 25
+
+When animals died, or suspected of dying from infectious animal diseases in the course of sea transportation, the owners, keepers, or ship captains may sterilize the carcasses, place and facilities or take other measures as deemed necessary.
+
+### Article 26
+
+Before slaughtering animals that are infected or suspected of infected with infectious animal diseases, the owners or keepers of animals shall report to animal health inspection officer and take instructions on the methods and places of slaughtering.
+
+For persons who cannot or will not carry out their mandatory duties according to the preceding Paragraph, animal health inspection officer may implement or order a third party to do so. Fees shall be collected for implementing the necessary measures.
+
+### Article 27
+
+When the special municipality or county (city) competent authority deems it necessary to establish the etiology of sickness of animals or their carcasses that are suspected of being contaminated with infectious animal diseases, it may order animal health inspection officer to conduct a necropsy.
+
+### Article 28
+
+When the competent authorities at all levels deem it necessary for disease control, they may announce the implementation of the following measures:
+
+\1. Within a designated zone and specified period of time, banning or restricting the transport of specific types of animals, and suspending movement of carcasses or materials suspected of carrying pathogen of infectious animal diseases.
+
+\2. Suspending importation of materials subjected to quarantine from designated zones.
+
+\3. Setting up quarantine stations at major road junctions to check animals and their products. Materials failing to pass the quarantine check will be banned from the movement and could be treated with necessary operations.
+
+Protocols on checking criteria, procedures, methods for disposal, fee standard, locations, and other necessary measures in mentioned in Subparagraph 3 of the preceding Paragraph shall be prescribed by the central competent authority.
+
+When the competent authorities of special municipalities or counties (cities) implement the provisions of the preceding Paragraph, they shall report the situation to the central competent authority for reference and notify the relevant competent authorities of neighboring areas.
+
+### Article 29
+
+When the competent authorities of special municipalities or counties (cities) deem it necessary for disease control, they may order zoos, abattoirs, farm animal (meat) markets, poultry markets, fish market, processing plants for farm products and aquatic products, incubation sites, artificial insemination stations, milk harvesting station, or other entities to halt their businesses. In addition, animal competitions, horse racing competitions, and other activities which involve the gathering of animals shall be prohibited.
+
+### Article 30
+
+When the central competent authority deems it necessary, animal health inspection officer under their jurisdiction may be dispatched to host joined infectious animal disease prevention and control activities among counties (cities) or among counties (cities) and special municipalities, or to assist competent authorities of special municipalities and counties (cities) in managing matters of prevention and control of infectious animal diseases.
+
+### Article 31
+
+Upon the eradication of infectious animal diseases, the competent authorities of special municipalities and counties (cities) shall annul the announcement of restrictive measures and report the situation to the central competent authority for reference, as well as notify the relevant competent authorities of neighboring areas.
+
+## Chapter 4 Importation/Exportation and Quarantine
+
+### Article 32
+
+The import, transit, or transshipment of quarantine objects shall be performed at the port or station specified by the import/export animal quarantine authority.
+
+The quarantine objects mentioned in the preceding Paragraph, as well as those provided in Paragraph 5 of Article 33 are be quarantined by import/export animal quarantine authorities or authorized organizations (institutions) or groups. In addition, inspection shall be conducted at ports, stations, animal quarantine premises, and other places and areas specified by import export animal quarantine authorities.
+
+For quarantine objects requiring to be quarantined at the places of origin before export, the animal health inspection authorities and owners or keepers of exported quarantine objects shall cooperate with import/export animal quarantine authorities to conduct inspections. The regulations for quarantine procedures, export registration or annulment, sanitary management, sampling and analysis examination, reporting of diseases, audits, animal health certificate issuance or annulment, and other related matters are prescribed by the central competent authority.
+
+If it is necessary, the import/export animal quarantine authorities shall notify animal health inspection authorities to conduct a post-entry follow-up quarantine of imported quarantine objects. The regulations for inspection, breeding management, notification, reporting of diseases, period of post-entry follow-up quarantine and other related matters are prescribed by the central competent authority.
+
+### Article 32-1
+
+If parts of quarantine objects after quarantine are deemed unqualified by the import/export animal quarantine authorities, the whole batch shall be assessed as unqualified objects. However, after the import/export animal quarantine authorities determine that the quarantine batches are not likely to spread infectious animal diseases or cross-contamination, the quarantine inspection results may be assessed individually.
+
+The import/export animal quarantine authorities should notify the result of quarantine inspection to the importers, exporters or their agents.
+
+Unqualified objects after quarantine inspection is not allowed to apply for re-inspection.
+
+### Article 33
+
+To ensure the health of animals and humans, the central competent authority shall announce the overseas disease status of infectious animal diseases and implement the following quarantine measures for quarantine objects as deemed necessary:
+
+\1. Prohibition of import, transit, or transshipment;
+
+\2. Before importing quarantine objects, the importers or their agents shall apply for the issuance of import quarantine permits and apply for the quarantine inspection upon arrival;
+
+\3. Submit the animal quarantine certificate or other documents according to quarantine requirements for implementing inspection; and
+
+\4. Post-entry quarantine.
+
+For quarantine objects that the quarantine requirements are not prescribed by the central competent authority, the importer shall apply for the issuance of individual quarantine requirements from the central competent authority before importation, and apply for quarantine inspection with the import/export animal quarantine authorities accordingly.
+
+Regulations for prohibiting importation, transit or transshipment specified in Paragraph 1, application for import quarantine permits, quarantine requirements, submission of animal quarantine certificates or other documents for inspection, post-entry quarantine, application procedures specified in the preceding Paragraph, and other regulations of compliance are prescribed by the central competent authority.
+
+In response to an international epidemic emergency, the central competent authority may announce quarantine diseases and quarantine measures related to quarantine objects.
+
+Objects that have not been announced by the central competent authority as quarantine objects in accordance with Paragraph 2 of Article 5, but determined by the import/export animal quarantine authorities as potentially capable of spreading infectious animal diseases, may be forced to be quarantine. If the risk of transmission of infectious animal diseases is identified, the importation, transit, transshipment of the objects may be prohibited, or other necessary measures of the objects may be implemented.
+
+### Article 34
+
+Importers or their agents of quarantine objects shall apply for quarantine prior to the arrival of such objects at ports or stations according to the provisions of Paragraph 1 of Article 32 and submit the animal quarantine certificate or other document granted by the inspection authorities of exporting countries in accordance with the requirements of Paragraph 3 of the preceding Article. However, if agreed upon by both the Republic of China and exporting countries, animal quarantine certificates may be issued electronically.
+
+Passengers or serving personnel on the vehicles, vessels, or aircraft that carry quarantine objects shall, in accordance with the provisions specified in the preceding Paragraph, apply for animal quarantine inspection upon arrival.
+
+Quarantine objects must not be imported through postal delivery. If quarantine objects are sent through postal delivery, they shall be returned, confiscated or destroyed. If an individual receives imported objects that are subject to quarantine by post, he/she shall promptly submit them to animal quarantine authorities for destruction.
+
+Quarantine objects must remain intact until quarantine procedures are completed. Without approval from animal quarantine authorities, it is prohibited to tamper with packaging, moving, or engaging in any other activities that may spread infectious animal diseases.
+
+### Article 34-1
+
+Importers or their agents of animals subject to post-entry quarantine shall apply for post-entry quarantine at animal quarantine premises or other places designated by the import/export animal quarantine authorities before importation/exportation.
+
+Importers or their agents of animals subject to post-entry quarantine shall follow the instructions of animal quarantine officer to transfer the animals to animal quarantine premises or other designated places for post-entry quarantine within a specified period.
+
+Upon quarantine, any individual with the exception of the import/export animal quarantine officer, cannot enter the animal quarantine premises or designated place without the permission of import/export animal quarantine authorities. During the post-entry quarantine period, the animal, related quarantine objects, and medicines should not be removed or brought in without the inspection and permission of the animal quarantine officer.
+
+During the quarantine period, if the animal found to be infected or suspected of infected with infectious animal diseases, the import/export animal quarantine officer may take necessary measures according to the actual situation. If immediate action is necessary, the import/export animal quarantine officer may proceed accordingly and issue a certificate of disposal to the importer or their agents.
+
+### Article 34-2
+
+If any of the following circumstances applies to imported quarantine objects, the import/export animal quarantine authorities may take necessary measures according to the circumstances:
+
+\1. Failure to submit the animal quarantine certificate or other documents in accordance with the requirements under Paragraph 3 of Article 33;
+
+\2. The information recorded in the animal quarantine certificate or other documents mentioned in the preceding Paragraph does not comply with the requirements under Paragraph 3 of Article 33; or
+
+\3. Other situations that do not comply with the requirements under Paragraph 3 of Article 33.
+
+The necessary measures mentioned in the preceding Paragraph are as follows:
+
+\1. Implement safety measures for animal quarantine in accordance with international animal quarantine standards;
+
+\2. Extend the animal quarantine period, conduct diagnostic tests, vaccinations, or implement treatment measures;
+
+\3. Notify the importer or their agents to rectify necessary documents within a specified period; if rectification is not possible, the quarantine objects may be returned or culled; and
+
+\4. Return or cull quarantine objects.
+
+### Article 34-3
+
+Quarantine objects which are in transit or for transshipment, the owners, the agents or keepers shall apply for quarantine to import/export animal quarantine authorities.
+
+For quarantine objects that are not intended for importation but enter and are stored in free trade zones, the application procedures or required documents for quarantine may be simplified. The specific methods are prescribed by the central competent authority in consultation with the competent authority of the free trade zone.
+
+### Article 35
+
+Before the quarantine objects are imported, transited, or re-exported for unloading, animal quarantine officer may conduct quarantine in vehicles, vessels, or aircraft when necessary. If quarantine objects are found to be infected or suspected of infected, or possibly infected or contaminated with infectious animal diseases, the animal quarantine officer may take necessary measures against the quarantine objects, vehicles, vessels, or aircraft. Car conductors, captains, pilots, managers, or their agents shall not evade, obstruct, or refuse the inspections.
+
+When animals died or are suspected of dying from infectious animal diseases in the course of transportation, car conductors, captains, pilots, managers, or their agents, in charge of transportation shall report to animal quarantine officer and follow their instructions prior to arrival at ports or stations and unloading.
+
+After taking measures in accordance with Article 25, owners, keepers, or captains shall record the details in the log book in preparation for animal quarantine officer’s inquiries upon arrival at harbors.
+
+If importers or their agents fail to apply for quarantine inspections in accordance with Paragraph 1 of Article 34, the import/export animal quarantine authorities shall carry out disposal procedures in addition to imposing a penalty specified in Paragraph 11 of Article 43.
+
+### Article 36
+
+If any of the following situations occur regarding the quarantine objects for exportation, the exporter or their agents shall apply for quarantine. The quarantine objects may be exported only after they are inspected and certified as qualified by import/export animal quarantine authorities, and an export animal quarantine certificate is issued:
+
+\1. According to Paragraph 2 of Article 5, the application for exported objects subject to quarantine and inspection by import/export animal quarantine authorities shall be submitted prior to export.
+
+\2. For objects other than those described in the preceding Subparagraph, the animal quarantine certificate of the Republic of China shall be attached upon request by the competent authority of the importing country.
+
+Those who apply for export quarantine without the circumstances specified in the preceding Paragraph shall not be accepted by the import/export animal quarantine authorities.
+
+If agreed upon by both the Republic of China and import countries, certificates mentioned in Paragraph 1 may be issued electronically.
+
+### Article 37
+
+(Deleted)
+
+### Article 38
+
+In the case of situations stated in Articles 12, 14, 15, 18 to 21, 26, and 27, and sampling matters specified in Subparagraph 1, Paragraph 1 of Article 12-2 during quarantine, the import/export animal quarantine authorities shall take necessary actions.
+
+### Article 38-1
+
+Food and catering waste carried by vehicles, ships or aircraft from abroad is not allowed to leave the vehicle, ship or aircraft.If it leaves, it shall be transported and destroyed in a manner approved by the import/export animal quarantine authorities.
+
+### Article 38-2
+
+The importers, owners, administrators, or their agents bear the cost of necessary measures stipulated in Paragraph 5 of Article 33, Paragraph 4 of Article 34-1, Paragraph 2 of Article 34-2, Paragraph 1 of Article 35, Paragraph 2 of Article 35, and Paragraph 4 of Article 35.
+
+### Article 38-3
+
+For internet content involving the sale of objects from overseas to the Republic of China that are subject to quarantine, as well as importation or other quarantine-related matters, and those announced by the import/export animal quarantine authorities, their advertisers, platform providers, application service providers, or telecommunications businesses shall adopt the following measures based on the announcement of the import/export animal quarantine authorities:
+
+\1. Add necessary warnings for the awareness campaign of animal health inspection or quarantine;
+
+\2. Keep the personal information of the advertisers, seller, or purchaser or provide the information to the import/export animal quarantine authorities regularly; and
+
+\3. Restrict access and browsing of related web pages or remove them.
+
+### Article 39
+
+Regulations regarding import and export, transit, transshipment of quarantine objects, application for quarantine, issuance of animal quarantine certificates, conveying of closed containers, and the carrying of passengers or personnel serving personnel on the vehicles, vessels, or aircraft and other related matters of compliance are prescribed by the central competent authority.
+
+## Chapter 5 Compensations for Losses and Penalties
+
+### Article 40
+
+In accordance with the provisions of this Act, if animals that died or have fetuses aborted, due to physical examination, immunization, vaccination, medicated bathing, or medication administered by animal health inspection officer, or culled animals and materials are destroyed, compensation are granted unless the owner or keeper violates the requirements of Paragraph 1 of Article 12, or fails to follow the instructions of animal health inspection officer. The competent authority of the special municipality or county (city) shall organize an evaluation committee to assess the price and issue compensation fees based on the following standards:
+
+\1. Healthy animals dying or fetuses aborted as a result of physical examination, immunization, vaccination, medical bath, or medication, are compensated within the evaluated price;
+
+\2. Animals culled for suspicion to be infected or potentially infected with an infectious animal disease are compensated within the evaluated price;
+
+\3. Animals culled for etiology identification are compensated within the evaluated price;
+
+\4. Animals culled for having an infectious animal disease are compensated within three-fifths of the evaluated price. However, if the disease is a new one, or an old one reappearing after a lapse of over two years within national borders, the owner or keeper who reports the first case voluntarily will be compensated within the evaluated price for animals culled;
+
+\5. Materials destroyed are compensated within half of the evaluated price; and
+
+\6. Upon prior consent of authorities, animals slaughtered at the slaughterhouse to limit the potential of disease outbreak are compensated fully to cover the difference between evaluated price and the actual sales price.
+
+The composition and evaluation standards for the valuation committee in the preceding Paragraph are prescribed by the central competent authority.
+
+No compensation is paid for animals or materials that are handled in accordance with Subparagraphs 2 to 5 of Paragraph 1 during import and export quarantine, or animals that die during quarantine period.
+
+The compensation mentioned under Paragraph 1 is borne by the competent authority of the special municipality or county (city); however the central competent authority may provide subsidies.
+
+### Article 41
+
+Any person who imports quarantine objects that are prohibited from being imported under Subparagraph 1, Paragraph 1 of Article 33 without authorization is sentenced to imprisonment for not more than 7 years; in addition to that, a fine of not more than 3,000,000 New Taiwan Dollars may be imposed.
+
+Regardless of the ownership of quarantine objects mentioned in the preceding Paragraph, they may be confiscated by the import/export animal quarantine authorities before the Court of First Instance is announced.
+
+In the case that a representative of a juridical person, or an agent, employee, or other person engaged in the relevant business activities of a juridical or natural person commits the violations as stipulated in Paragraph 1 in the performance of their duties, in addition to punishing the offender(s), a criminal fine as referred to in Paragraph 1 is also imposed upon the juridical or natural person concerned. However, if the representative of the juridical person or ordinary person has tried the best efforts to prevent crimes from happening, the juridical persons or ordinary persons are exempted from the punishment.
+
+### Article 41-1
+
+If the owner of the transportation vehicle commits the acts stipulated in the preceding Paragraph, or if the owner intentional or gross negligence causes a third party to engage in such acts by using his or her transportation vehicle, hereby spreading a specific type of infectious animal disease or causing a risk of spreading it, such transportation vehicle shall be confiscated.
+
+The same shall apply to those who knowingly acquire ownership of the transportation vehicle with the circumstances as stipulated in the preceding Paragraph.
+
+The central competent authority announces the specific infectious animal diseases referred to in Paragraph 1.
+
+Confiscations mentioned in Paragraph 1 are conducted by authorities in charge of search and seizure.
+
+### Article 42
+
+If any of the following circumstances occur, a fine of more than 50 thousand New Taiwan Dollars but less than 1 million New Taiwan Dollars is imposed, and the offender may be ordered to make rectifications within a specified period. Those who fail to rectify by the deadline may be fined repeatedly:
+
+\1. Animal owners or keepers violate the provision of Paragraph 1 of Article 19 regarding moving animals out of quarantine areas without permission.
+
+\2. The importers or their agents violate the provision of Paragraph 2 of Article 34-1 and fail to deliver the animals subject to post-entry quarantine to the animal quarantine premises or other designated places for post-entry quarantine within a specified period by following the instructions of animal quarantine officer.
+
+\3. Violation of Paragraph 3 of Article 34-1 regarding moving animals subject to quarantine, related quarantine objects or medicines into or out of the animal quarantine premises or other designated places without permission of the import/export animal quarantine authority during the quarantine period.
+
+\4. The car conductors, captains, pilots, managers, or their agents in charge of transportation, violate the provisions of Paragraph 2 of Article 35 by failing to report to the animal quarantine officer or to implement necessary measures according to instructions before unloading.
+
+Any person, who commits the violations stipulated in the Subparagraphs of the preceding Paragraph and causes the spread or transmission of animal diseases, is sentenced imprisonment for up to three years or detention; in addition to that, a fine of not more than one million New Taiwan Dollars may be imposed.
+
+In the case that a representative of a juridical person, or an agent, employee, or other person engaged in the relevant business activities of a juridical or natural person commits the violations as stipulated in the preceding Paragraph in the performance of their duties, in addition to punishing the offender(s), a criminal fine as referred to in the preceding Paragraph is also be imposed upon the juridical or natural person concerned. However, if the representative of the juridical person or ordinary person has tried the best efforts to prevent crimes from happening, the juridical persons or ordinary persons shall be exempted from the punishment.
+
+### Article 43
+
+If any of the following circumstances occur, a fine of more than 50 thousand New Taiwan Dollars but less than 1 million New Taiwan Dollars is imposed, and the offender may be ordered to make rectifications within a specified period. Those who fail to rectify by the deadline may be fined repeatedly:
+
+\1. Violation of Article 10-2. Persons intentionally spread rumors or false information about infectious animal diseases which cause damage to the public or others.
+
+\2. Violation of Paragraph 1 of Article 12. The animal owners, keepers, or transport operators fail to report to the animal health inspection authority or complete the necessary measures according to instructions of the animal health inspection officer.
+
+\3. Violation of Paragraph 2 of Article 12-1. Persons who hold and use infectious biological materials evade, obstruct, or refuse counseling or inspection of competent authorities at all levels.
+
+\4. Violation of Paragraph 1 of Article 13-1. A veterinarian or veterinarian assistant violates the provisions regarding the type, and time of vaccine administration, attached label, submission, application of relevant documents, or movement control or other preventive and control measures to be implemented; veterinary medicine distributors sell the type of vaccine that is not approved by the central competent authority in accordance with Paragraph 1 of Article 13-1.
+
+\5. Violation of Paragraph 1 of Article 17. A veterinarian or veterinarian assistant fails to report to the local animal health inspection authority.
+
+\6. Violation of Paragraphs 1 or 2 of Article 19. Owners or keepers of animals move animals into or out of animal quarantine premises or fail to segregate animals and implement necessary measures by following the instructions of animal health inspection officer.
+
+\7. Violation of Article 23 or violation of Paragraph 1 of Article 26. Owners or keepers of animals fail to follow the instruction of animal health inspection officer or report to animal health inspection officer.
+
+\8. Violation of Paragraph 1 of Article 28 by owners or keepers fail to implement one of the measures announced by competent authorities at all levels.
+
+\9. Violation of Paragraph 3 of Article 32. Owners or keepers of export quarantine objects fail to follow protocols regarding the provision of quarantine procedures, export registration, hygiene management, sampling and testing, disease notification, or audits.
+
+\10. Violation of Paragraph 4 of Article 32. Owners or keepers of quarantine objects fail to comply with regulations pertaining to inspection, feeding management, report, or disease notification.
+
+\11. Violation of Paragraph 1 of Article 34. Importers or their agents of quarantine objects fail to apply for quarantine.
+
+### Article 44
+
+If any of the following circumstances occur, a fine of more than 20 thousand New Taiwan Dollars but less than 100 thousand New Taiwan Dollars shall be imposed, and the offender may be ordered to make rectifications within a specified period. Those who fail to rectify by the deadline may be fined repeatedly:
+
+\1. Proprietors of rendering plants that violate any provision regarding Subparagraphs 2 to 6 of Paragraph 1 of Article 16.
+
+\2. Proprietors of rendering plants or transport operators of raw material who violate the provisions of Subparagraphs 1 or 2 of Paragraph 2 of Article 16.
+
+\3. Proprietors of rendering plants or transport operators of raw material who violate the provisions of Paragraph 3 of Article 16. The methods for the installation, items, disinfection methods and procedures shall be indicated in the contracts regarding disinfection facilities and equipment, or provisions of disinfection equipment, closed systems for preventing leakage, presenting of the certificate, audit, reporting, loading/unloading of raw materials, and loading operations of transport vehicle.
+
+\4. Captains of vessels or their agents who violate the provisions of Paragraph 3 of Article 35, and do not record details in the logbook according to the provisions of Article 25.
+
+\5. Exporters or their agents of quarantine objects who violate the provisions of Paragraph 1 of Article 36 and do not apply for quarantine.
+
+\6. Violation of the provisions of Article 38-1. Failure to transport or destroy food and catering waste in the manner approved by the import/export animal quarantine authorities.
+
+### Article 45
+
+If any of the following circumstances occur, a fine of more than 30 thousand New Taiwan Dollars but less than 150 thousand New Taiwan Dollars shall be imposed, and the offender may be ordered to make rectifications within a specified period. Those who fail to rectify by the deadline may be fined repeatedly:
+
+\1. Owners or relevant entities evade, obstruct, or refuse the animal health inspection officer, or inspection, assessment, or inquiry implemented by the animal quarantine officer, pursuant to Paragraphs 1 or 2 of Article 9.
+
+\2. Violation of Paragraphs 1, 2, or 4 of Article 13. Owners or keepers of animals attempt to destroy and forge attached marks, signs, or certified documents, fail to take animal preventive and control measures, as well as evade, obstruct, or refuse preventive and control measures set by the animal health inspection officer or practicing veterinarians.
+
+\3. Violation of Paragraph 1 of Article 13-1. Owners or keepers of animals fail to comply with the provision regarding the type and time of vaccine administration, attached label, submission, application of relevant documents, or movement control or other preventive and control measures to be implemented.
+
+\4. Violation of Paragraph 1 of Article 14. Owners or keepers of animals fail to implement preventive and control measures in designated areas, as required by the special municipality or county (city) competent authority.
+
+\5. Animal transport operators who fail to implement cleaning and disinfection measures in accordance with Paragraph 2 of Article 14, comply with the cleaning and disinfection measures specified in Paragraph 3 of Article 14, or use disposable/single-use containers or packaging materials pursuant to Paragraph 4 of Article 14 under the situations of no improvement despite repeated warnings or additional violation within one year.
+
+\6. Violation of Article 14-1 regarding the prohibited matters announced by the central competent authority.
+
+\7. Violation of Article 15. Owners or keepers of animals fail to comply with the directive of the special municipality or county (city) competent authority with regard to providing autopsy or following the instruction of animal health inspection officer to incinerate and bury animal carcasses.
+
+\8. Violation of Paragraphs 1 or 3 of Article 20, as applied mutatis mutandis pursuant to Subparagraph 1, Paragraph 1 of Article 20.
+
+Owners or keepers of animals fail to follow the instruction of animal health inspection officer to cull, incinerate, bury, disinfect, render, or implement other necessary measures in handling animals.
+
+\9. Violation of Article 22. Owners or keepers of animals fail to follow instructions with regard to controlling animals' actions or providing other necessary assistance, or evading, obstructing, or refusing instructions.
+
+\10. Violation of Article 24. Exhuming remains from burial sites or defacing warning signs without permission.
+
+\11. Violation of the directive of the special municipality, county (city) competent authority in accordance with Article 29.
+
+\12. Violation of Subparagraph 2, Paragraph 1 of Article 33 or Paragraph 3 of Article 33. Importers or their agents of quarantine objects fail to comply with the provisions pertaining to the application of import permit before importing.
+
+\13. Violation of Paragraph 3 of Article 34. The recipients fail to deliver imported quarantine objects to the import/export animal quarantine authorities for destroying.
+
+\14. Violation of Paragraph 4 of Article 34. Importers or their agents of quarantine objects destroy the packaging of quarantine objects, move objects, or commit acts that could spread infectious animal diseases without permission of import/export animal quarantine authorities.
+
+\15. Violation of Paragraph 1 of Article 34-1. Importers or their agents of animals fail to apply for post-entry quarantine space at animal quarantine premises or other designated places prior to exportation/importation.
+
+\16. Violation of Paragraph 1 of Article 34-3. Owners or their agents of quarantine objects fail to apply to the import/export animal quarantine authorities for quarantine inspection before transit or transshipment.
+
+\17. Violation of Paragraph 1 of Article 35. Car conductors, captains, pilots, managers, or their agents in charge of transportation, evade, obstruct, or refuse the necessary measures taken by the animal quarantine officer.
+
+\18. Violation of provisions of Paragraph 3 of Article 38. Failure to implement measures announced by the import/export animal quarantine authorities.
+
+### Article 45-1
+
+Passengers or serving personnel on the vehicles, vessels, or aircraft who do not apply for quarantine inspections in accordance with Paragraph 2 of Article 34 are fined of more than 10 thousand New Taiwan Dollars but less than 1 million New Taiwan Dollars.
+
+### Article 46
+
+The fines stipulated in the Act are imposed by the special municipal or county (cities) competent authority, or import/export animal quarantine authorities.
+
+## Chapter 6 Supplemental Provisions
+
+### Article 47
+
+The Enforcement Rules of this Act are prescribed by the central competent authority.
+
+### Article 48
+
+This Act becomes effective on the date of its promulgation.
+
+## History
+
+1.Adopted on August 23, 1967 – denominated “Statute for Prevention and Control of Infectious Domestic Animal Diseases”, enactment of the 43-article ordinace
+
+2.Amended on January 31, 1996 – re-denominated “Statute for Prevention and Control of Infectious Animal Diseases” enactment of the 43-article ordinace
+
+3.Amended on May 17, 2000 – Articles 2, 6, 8, 12, 13, 18, 28-31, 40
+
+4.Amended on November 7, 2001 – Article 28
+
+5.Amended on February 6, 2002 – Articles 12, 13, 13-1, 22, 31, 32 , 32-1, 34, 34-1, 35, 38-1, 39, 41-45
+
+6.Amended on May 29, 2002 – Article 10-1
+
+7.Amended on May 24, 2006 – Articles 41, 41-1
+
+8.Amended on Dec 10, 2008 – Articles 9, 11, 16, 32, 34, 34-1, 39, 41, 42, 44, 45-1, 46
+
+9.Amended on Jan 23, 2009 – Article 9
+
+10.Amended on Jun 4, 2014 – Articles 17, 20
+
+11.Amended on Dec 24, 2014 – Articles 12-1, 12-2, 14, 14-1, 19, 28, 40, 43, 45
+
+12.Amended on Dec 12, 2018 –Articles 45-1
+
+13.Amended on Jan 4, 2019 - Articles 34
+
+14.Amended on December 13, 2019 – Article 5, 10-2, 12-2, 16, 32, 32-1, 33, 34, 34-1, 34-2, 34-3, 35, 36, 37, 38-1, 38-2, 38-3, 39, 41, 41-1, 42, 43, 44, 45, 47.
+
+The announcement was made on July 27, 2023 by the Executive Yuan Order tai-gui-zi No. 1125014346. The relevant matters set out in Article 2, Article 4, Paragraph 2 of Article 5, Paragraph 1 of Article 6, Paragraphs 1,2,4 of Article 8, Article 10-1, Paragraph 2 of Article 12, Article 12-2, Article 13-1, Paragraph 3 of Article 14, Article 14-1, Subparagraphs 3,6 of Paragraph 1, Subparagraphs 3 of Paragraphs 2, Paragraph 3 of Article 16, Article 17, Article 18, Paragraph 1,4 of Article 20, Article 23, Article 24, Article 28, Article 30, Article 31, Paragraphs 3,4 of Article 32, Article 33, Paragraph 2 of Article 34-3, Article 39, Subparagraphs 6 of Paragraph 1, Paragraph 2,4 of Article 40, Paragraph 3 of Article 41-1, Subparagraphs 3,4,8 of Article 43, Subparagraphs 3,6 of Article 45,Article 47 pertaining to “Council of Agriculture” shall be handled by “Ministry of Agriculture” as governing body, effective August 1, 2023; Paragraph 2 of Article 8, The issue belonging to “animal health inspection and quarantine agency”, pertaining to “The Bureau of Animal and Plant Health Inspection and Quarantine, and branches” shall be handled by “The Animal and Plant Health Inspection Agency and branches” as governing body, effective August 1, 2023; Paragraph 3 of Article 8, Article 32, Paragraphs 1,2 of Article 32-1, Paragraphs 2,5 of Article 33, Paragraphs 1,3,4 of Article 34, Paragraphs 1,3 of Article 34-1, Paragraph 1 of Article 34-2, Paragraph 1 of Article 34-3, Paragraph 4 of Article 35, Paragraphs 1,2 of Article 36, Article 38, Article 38-1, Article 38-3, Paragraph 2 of Article 41, Subparagraph 3 of Paragraph 1 of Article 42, Subparagraph 6 of Article 44, Subparagraphs 13,14,16,18 of Article 45, Article 46, The issue belonging to “animal health inspection and quarantine agency”, pertaining to “The Bureau of Animal and Plant Health Inspection and Quarantine, and branches” shall be handled by “The Animal and Plant Health Inspection Agency and branches, Ministry of Agriculture ” as governing body, effective August 1, 2023.

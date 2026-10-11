@@ -1,0 +1,815 @@
+---
+title: "Intellectual Property Case Adjudication Act"
+title_zh: "智慧財產案件審理法"
+identifier: "A0030215"
+type: act
+law_level: "法律"
+category: "司法＞院本部＞行懲及智財目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2007-03-28
+last_amended: 2023-02-15
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=A0030215"
+retrieved: 2026-10-12
+---
+
+# Intellectual Property Case Adjudication Act
+
+> Translation. The Chinese text ([zh/laws/judicial-yuan/A0030215-intellectual-property-case-adjudication-act.md](../../../zh/laws/judicial-yuan/A0030215-intellectual-property-case-adjudication-act.md)) is authoritative.
+
+## Chapter One - General Provisions
+
+### Article 1
+
+This Act is enacted for the purpose of protecting intellectual properties and related rights and interests through the establishment of a litigation system for the professional, proper, and expeditious adjudication of intellectual property cases.
+
+### Article 2
+
+Intellectual property cases shall be adjudicated pursuant to this Act. For matters not provided for under this Act, the laws applicable to civil, criminal or administrative actions, as the case may be, shall govern.
+
+### Article 3
+
+For the purposes of this Act, the IPCC denotes the Intellectual Property and Commercial Court; an intellectual property tribunal and a commercial tribunal denote respectively an intellectual property tribunal and a commercial tribunal of the IPCC.
+
+For the purposes of this Act, intellectual property cases denote the following cases:
+
+\1. intellectual property civil actions
+
+\2. intellectual property criminal cases
+
+\3. intellectual property administrative actions
+
+\4. other cases over which the IPCC has jurisdiction, as designated by law or the Judicial Yuan
+
+### Article 4
+
+For the purposes of this Act, "trade secrets" denotes the trade secrets defined in Article 2 of the Trade Secrets Act.
+
+### Article 5
+
+Where there are technological equipment for the transmission of voices and images between the premises of a party, representative, officer, agent, advocate, assistant ad litem, intervener, witness, expert witness, appraiser, verifier, court interpreter, expert, or other related party to an action and the court, allowing the direct conduct of a trial, the court may, if it deems appropriate, hear the case using such equipment upon motion or ex officio.
+
+In the circumstances in the preceding paragraph, the court shall first seek the opinions of the parties.
+
+No appeal may be lodged if the motion in Paragraph 1 is denied.
+
+In the circumstance in Paragraph 1, the venue of attendance specified on the date notification or summons shall be the premises where such equipment are located.
+
+If a transcript or other documents are prepared during an action pursuant to Paragraph 1, and signatures are required, such transcript or documents shall be transmitted from the court remotely. After their contents are verified and they are signed, they shall be returned to the court via technological equipment. Such transcript or other documents have the same effect as having been signed.
+
+The rules governing the trial described in Paragraph 1 and transmission of documents in the preceding paragraph shall be established by the Judicial Yuan.
+
+### Article 6
+
+The court may, whenever necessary, order a Technical Examination Officer to perform the following duties:
+
+\1. ask questions or explain to the parties pertaining to factual and legal issues based on his or her professional knowledge, in order to clarify matters involved in the action
+
+\2. ask questions directly to witnesses, expert witnesses, or appraisers
+
+\3. state opinions on the case to the judge
+
+\4. assist in evidence-taking in the event of preservation of evidence
+
+\5. assist in injunctive procedures or compulsory enforcement procedures
+
+\6. assist with a verifier's verification
+
+The court may order a Technical Examination Officer to compile a report on the results of his or her performance of duties, provided it may order that an interim report and a final report be made where necessary if the case is complicated.
+
+A report compiled by a Technical Examination Officer may be disclosed in whole or in part where the court deems necessary.
+
+Before any special professional knowledge already known to the court as provided by a Technical Examination Officer is adopted as basis for judgment, the parties shall be accorded an opportunity to present their arguments regarding such knowledge.
+
+### Article 7
+
+Disqualification of a Technical Examination Officer shall, depending on the procedure he or she is involved in, be governed mutatis mutandis by the rules of disqualification of a judge as provided in the procedure concerned.
+
+## Chapter Two Intellectual Property Civil Procedure
+
+### Article 8
+
+Chapters III and IV of Part I of the Code of Civil Procedure shall not apply in civil actions concerning intellectual properties.
+
+### Article 9
+
+First instance civil actions specified in Subparagraphs 1 and 4 of Article 3 of the Intellectual Property and Commercial Court Organization Act are submitted to the exclusive jurisdiction of the IPCC, notwithstanding any amendment or addition of a claim, provided the court in Articles 24 and 25 of the Code of Civil Procedure also has jurisdiction in the circumstances described in such articles.
+
+Jurisdiction over a civil action as in the preceding paragraph shall be exercised by the IPCC if said case involves in whole or in part a labor incident as in Paragraph 1 of Article 2 of the Labor Incident Act.
+
+Adjudication of the civil action in the preceding paragraph by an intellectual property tribunal is governed by this Act, and by the Labor Incident Act where this Act is silent, provided Paragraph 1 of Article 4 and Chapter 2 of the Labor Incident Act do not apply.
+
+An intellectual property tribunal shall by a ruling transfer a civil action as in Paragraph 1 to a commercial tribunal upon motion or ex officio if said case involves in whole or in part a commercial action as in Paragraph 2 of Article 2 of the Commercial Case Adjudication Act.
+
+An intellectual property tribunal shall accord the parties an opportunity to be heard before rendering a ruling as in the preceding paragraph, unless the court deems inappropriate.
+
+No appeal may be lodged if the motion in Paragraph 4 is denied.
+
+Adjudication of the civil action in Paragraph 4 by a commercial tribunal is governed by the Commercial Case Adjudication Act, and by this Act where the Commercial Case Adjudication Act is silent.
+
+### Article 10
+
+A party to an intellectual property civil action shall retain a lawyer as an agent ad litem if any of the following occurs, unless the party or its legal representative is qualified as a judge, prosecutor, or lawyer:
+
+\1. a first instance civil action, where the amount or value of the claim exceeds the amount where an appeal may be taken to the court of third instance as in Article 466 of the Code of Civil Procedure
+
+\2. a first instance civil action over patent rights, copyrights in computer programs or trade secrets
+
+\3. a second instance civil action
+
+\4. a motion for preservation of evidence or injunctive procedure, or a motion or interlocutory appeal over other case arising out of an action as in any of the preceding three subparagraphs, which is filed before a suit is initiated
+
+\5. a retrial of the action in any of the preceding four subparagraphs
+
+\6. an action before the court of third instance
+
+\7. other action in which an agent ad litem is required by the Judicial Yuan to be retained
+
+The preceding paragraph does not apply to the following:
+
+\1. an application for determination of the agent's remuneration
+
+\2. an application for litigation aid
+
+\3. an application for appointment of a lawyer as agent ad litem
+
+\4. other action specified by the Judicial Yuan
+
+The amount or value of the claim in Subparagraph 1 of Paragraph 1 is separately calculated among parties in a common joint action.
+
+No reduction or amendment of a claim which results in the amount or value of the claim falling short of the amount mentioned will affect the circumstance in Subparagraph 1 of Paragraph 1.
+
+If the spouse, a relative within the third degree by blood, or relative within the second degree by marriage of a party, or if a party, is a juridical person or a central or local agency with full-time personnel qualified to act as lawyers, such personnel as deemed appropriate by the court may act as agents ad litem as described in Paragraph 1.
+
+A preliminary showing of the circumstances in the proviso of Paragraph 1 and in the preceding paragraph shall be made when an action, appeal, motion, or interlocutory appeal is filed or when a retention is made.
+
+### Article 11
+
+If a party as in the main text of Paragraph 1 of the preceding article lacks the financial means to retain an agent ad litem, it may file a motion with the court to appoint a lawyer as its agent ad litem in accordance with provisions governing litigation aid.
+
+Where a party lodging an appeal or interlocutory appeal files a motion as in the preceding paragraph, the court of the previous instance shall forward the dossier to the higher court.
+
+The Judicial Yuan will establish regulations governing the appointment of lawyers as agents ad litem as in Paragraph 1 in consultation with the Ministry of Justice and Taiwan Bar Association etc.
+
+### Article 12
+
+A case as in Paragraph 1 of Article 10 is invalid unless the litigation is conducted by an agent ad litem, unless otherwise stipulated.
+
+For the filing of an action, appeal, motion, or interlocutory appeal, if no agent ad litem is appointed in accordance with the Paragraph 1 or 5 of Article 10, or if the one appointed in accordance with Paragraph 5 is deemed inappropriate by the court, the presiding judge shall order rectification be made within a prescribed time limit, and shall dismiss the action, appeal, motion, or interlocutory appeal by a ruling if no rectification is made within the prescribed time limit and no motion as in Paragraph 1 of the preceding article is made.
+
+The presiding judge shall first order rectification be made within a prescribed time limit if the defendant, appellee, or respondent fails to appoint an agent ad litem in accordance with Paragraph 1 or 5 of Article 10 or appoints one in accordance with Paragraph 5 that is deemed inappropriate by the Court.
+
+If a party rectifies in accordance with the preceding two paragraphs, its litigation is ratified by its agent ad litem with effect from the time of the litigation retroactively, and from the time of ratification if rectification is made beyond the prescribed time limit.
+
+### Article 13
+
+In a case as in the main text of Paragraph 1 of Article 10, an agent ad litem may appear together with the party on the court date, and the party may make statements orally with the permission of the presiding judge.
+
+The permission in the preceding paragraph may be revoked by the presiding judge by a ruling at any time.
+
+A party is deemed absent if it fails to retain an agent ad litem as required or if the agent ad litem it retains fails to attend court.
+
+In the circumstance referenced in Paragraph 1, a party may conduct litigation for itself as follows:
+
+\1. admission
+
+\2. reaching of settlement or mediation
+
+\3. withdrawal of an action or motion
+
+\4. withdrawal of an appeal or interlocutory appeal
+
+### Article 14
+
+Any litigation by or against an agent ad litem is directly effective against the party personally, unless an admission or statement of facts by the agent ad litem is promptly revoked or corrected by the party attending court in person.
+
+In the case of willful misconduct or negligence by an agent ad litem in litigation, the party shall bear the same responsibility as if it were its own willful misconduct or negligence.
+
+### Article 15
+
+Remuneration of lawyers as in the main text of Paragraph 1 of Article 10 and Paragraph 1 of Article 11 is part of litigation expenses or procedural costs and shall be capped. The Judicial Yuan will prescribe the standards for paying remuneration in consultation with the Ministry of Justice and Taiwan Bar Association etc.
+
+### Article 16
+
+A party to the patent actions in Subparagraphs 2 to 7 of Paragraph 1 of Article 10 may also appoint a patent attorney as the joint agent ad litem with the permission of the presiding judge.
+
+The permission in the preceding paragraph may be revoked by the presiding judge by a ruling at any time. A notice of such revocation shall be served on the principal.
+
+In the circumstance in Paragraph 1, the patent attorney and the lawyer shall jointly attend court to litigate unless the presiding judge permits otherwise.
+
+No act of litigation of a patent attorney that contradicts those of a lawyer is valid.
+
+Remuneration of patent attorneys is not part of litigation expenses or procedural costs.
+
+### Article 17
+
+Articles 10, 12 to 14, and 16 are applicable to an intervener mutatis mutandis.
+
+Remuneration of an intervener's lawyers and patent attorneys is not part of litigation expenses or procedural costs.
+
+### Article 18
+
+The court shall decide on a trial plan through discussion with the parties when it adjudicates a case as in Subparagraphs 1 to 3, and Subparagraph 5, of Paragraph 1 of Article 10, or other case, when the case is complicated, or where necessary.
+
+The following shall be incorporated in the trial plan in the preceding paragraph and clearly recorded in a transcript:
+
+\1. the court date or time period for the formulation of issues
+
+\2. the method, order, and court date or time period of the investigation of evidence
+
+The following may be incorporated in the trial plan in Paragraph 1 and clearly recorded in a transcript:
+
+\1. the time period for the presentation of the means of attack or defense on a specific issue
+
+\2. the court date or time period of other matters necessary for conducting the scheduled proceedings
+
+Subject to the status of the proceedings or where the court otherwise deems necessary, the court may decide through discussion with the parties on amendments to a trial plan that has been decided on through discussion as in the preceding two paragraphs, in which case amendments made shall be clearly recorded in a transcript.
+
+If the parties submit a written statement of an agreed trial plan or an amendment to a trial plan to the court, following which the court formulates a trial plan or amends the existing trial plan accordingly, the court shall notify the parties, or said plan or amended plan shall be clearly recorded in a transcript on the next court date.
+
+When the court conducts proceedings according to a trial plan, the presiding judge may, if necessary, set a time period for the presentation of the means of attack or defense on a specific issue after hearing the opinions of the parties.
+
+The court may overrule the means of attack or defense that a party presents beyond the time period set forth in Subparagraph 1 of Paragraph 3 or the preceding paragraph, unless the party makes a preliminary showing that the late presentation does not delay the proceedings or that there are factors not attributable to itself.
+
+Save in the circumstance in the preceding paragraph, when a party violates a trial plan, the court may, upon motion or ex officio, order the party to submit a written statement to explain the reasons, and may deliberate the entire import of the oral argument in making a judgment if the party fails to offer an explanation.
+
+### Article 19
+
+To determine the truthfulness of a factum probandum in a patent infringement case, the court may, upon motion filed by a party, appoint a verifier to verify the documents or devices or equipment held or managed by the opposing party or a third party, unless the time or costs required for the verification or the burden on the verified party is obviously disproportionate.
+
+An application for verification as in the preceding paragraph shall specify the following expressly in writing:
+
+\1. the probable cause for patent infringement or the likelihood of patent infringement
+
+\2. the reasons the applicant is unable to collect evidence by itself or by other means
+
+\3. the necessity to order a Technical Examination Officer to assist a verifier with verification
+
+\4. the object to be verified and its location
+
+\5. the connection between the factum probandum and evidence to be obtained through verification
+
+\6. the matter, method of, and necessity for verification
+
+A preliminary showing shall be made of the items in Subparagraphs 1 to 3 of the preceding paragraph.
+
+The court shall accord the parties or a third party an opportunity to be heard before making a ruling as in Paragraph 1.
+
+A ruling granting verification shall specify the following:
+
+\1. the name of the verifier and that of the Technical Examination Officer assisting with verification
+
+\2. the object verified and its location
+
+\3. the reasons and matter for, and method of, verification
+
+An interlocutory appeal may be filed against a ruling denying the application in Paragraph 1.
+
+### Article 20
+
+No person in any of the situations in Article 32 of the Code of Civil Procedure with a party or a third party may act as a verifier.
+
+A verifier shall, within five days of its receipt of the ruling in Paragraph 5 of the preceding article, disclose the following to the court in writing, to be delivered by the court to the parties or third party:
+
+\1. the academic background, work experience, specialty, or patent infringement actions or non-litigious or court mediation procedures in which it has participated based on its expertise and experience
+
+\2. whether the verifier has in the last three years shared work or collaborated academically or business-wise with a party, intervener, assistant ad litem, legal representative, agent ad litem, or a third party being verified
+
+\3. whether the verifier has in the last three years received monetary remuneration or financial sponsorship from a party, intervener, assistant ad litem, legal representative, agent ad litem, or a third party being verified, and the amount or value
+
+\4. whether the verifier has received other monetary remuneration or financial sponsorship in connection with the case concerned, and the amount or value
+
+Rejection of a verifier is governed by Articles 331 to 333 of the Code of Civil Procedure mutatis mutandis.
+
+### Article 21
+
+The court may revoke a ruling as in Paragraph 5 of Article 19 ex officio if any of the following occurs:
+
+\1. the circumstance in the proviso of Paragraph 1 of Article 19
+
+\2. a violation of Paragraph 1 of the preceding article
+
+\3. a violation of the disclosure provision of Paragraph 2 of the preceding article, as a result of which the verifier's objectivity or impartiality is likely to be affected
+
+\4. a stake as in Subparagraphs 2 to 4 of Paragraph 2 of the preceding article, which is likely to affect the verifier's objectivity or impartiality
+
+Under any of the circumstances in the preceding paragraph, the party or third party may, within seven days of the date it becomes aware of the circumstance, file a motion with the court for revoking the ruling in Paragraph 5 of Article 19.
+
+No appeal may be lodged against a ruling that is revoked in accordance with the preceding two paragraphs.
+
+An interlocutory appeal may be filed against a ruling denying the motion in the preceding two paragraphs.
+
+### Article 22
+
+A verifier shall sign a written oath before verification, indicating that its verification will be impartial and truthful and that it agrees to be subjected to punishment for perjury if its verification is false etc.
+
+In conducting a verification, a verifier may access the place of the object to be verified to verify documents or devices or equipment according to the method permitted by the court and, in addition, may ask questions to a verified party or request said party to present a necessary document.
+
+A Technical Examination Officer may, if necessary, also perform the acts of verification in the preceding paragraph in order to assist a verifier with verification.
+
+Where a party under verification refuses or hinders a verification without good cause, the court may, taking all circumstances into consideration, deem the factum probandum which the applicant seeks to be verified to be true.
+
+The court shall accord the parties an opportunity to present their arguments before adopting the circumstance in the preceding paragraph as basis for judgment.
+
+The court may by a ruling fine a third party under verification not more than NT$100,000 for refusing or hindering a verification without good cause.
+
+An interlocutory appeal may be filed against the ruling in the preceding paragraph. Enforcement shall be suspended during the interlocutory appeal.
+
+### Article 23
+
+A verifier shall compile a verification report and submit it to the court after verification.
+
+The court shall deliver a photocopy or electronic file of the verification report received to the party under verification.
+
+A party under verification shall, within 14 days of the service of a photocopy or electronic file of the verification report, file a motion with the court for a ruling prohibiting disclosure of the report in whole or in part to the parties to the action if the report involves trade secrets.
+
+For the purpose of determining whether the motion in the preceding paragraph is properly justified or not, the court may, where it deems necessary, disclose a verification report in whole or in part to an agent ad litem or to a person interested in the action which has been approved by the party under verification, and hear the opinion of said agent or person in a nonpublic proceeding.
+
+The court shall notify a party under verification before disclosing a verification report in the circumstance in the preceding paragraph. No disclosure may be made if a party under verification files a motion with the court within 14 days of being notified for a confidentiality preservation order against a party to whom disclosure is to be made, until the ruling being sought becomes conclusive.
+
+A party to whom disclosure is prohibited may file a motion with the court for revocation of the ruling if the reason for such prohibition as in Paragraph 3 ceases to exist.
+
+An interlocutory appeal may be filed against a ruling as in Paragraph 3 and the preceding paragraph. The court may not disclose a verification report to the parties to the action during an interlocutory appeal against a ruling dismissing the motion in Paragraph 3 and allowing the motion in the preceding paragraph.
+
+### Article 24
+
+If a party under verification in Paragraph 3 of the preceding article fails to file a motion within the prescribed time limit or is not prohibited by a court ruling from disclosing a verification report, a party to the action may apply to a court clerk for reviewing, transcribing, videotaping, or otherwise reproducing the report or an electronic file thereof in whole or in part, or may apply, with a fee prepaid, for a copy, photocopy, excerpt, or electronic file of the report in whole or in part.
+
+No application may be made to a court clerk save under the circumstance in the preceding paragraph.
+
+### Article 25
+
+A witness having acted as a verifier may refuse to testify on trade secrets that became known to it due to its verification.
+
+The witness in the preceding paragraph may not refuse to testify if relieved of its verifier's duty of secrecy.
+
+### Article 26
+
+A verifier's per diem fee, travel expenses, remuneration, and other costs required for its verification are governed mutatis mutandis by appraiser provisions and form part of the litigation expenses.
+
+### Article 27
+
+Article 19 to the preceding article are applicable mutatis mutandis to copyrights in computer programs and trade secret infringements.
+
+### Article 28
+
+Articles 47 to 52 and Article 75 of the Commercial Case Adjudication Act are applicable to intellectual property civil actions mutatis mutandis.
+
+### Article 29
+
+The court shall accord the parties an opportunity to present their arguments on any special professional knowledge known to it before adopting it as basis for judgment.
+
+The Presiding Judge or Commissioned Judge shall direct the parties to issues concerning the legal relations of the disputed matters, and may, at an appropriate time , provide his or her legal opinions and disclose conviction to the extent appropriate.
+
+### Article 30
+
+If a dispute occurs over the claim construction of a patent scope in the court's adjudication of a civil action arising out of a patent right, it is advisable for the court to define at an appropriate time, upon motion or ex officio, the literal meaning of the patent right and to disclose its conviction to the extent appropriate.
+
+### Article 31
+
+When a party's means of attack or defense involves its own trade secrets or those of a third party, the court may hold a non-public trial upon motion of the party if the court deems appropriate; the same applies where both parties have agreed to a non-public trial.
+
+### Article 32
+
+Where litigation materials involve trade secrets, the court may, without prejudicing the parties' benefit of argument, refuse or otherwise allow limited review, transcription, videotaping, or otherwise reproduction of such litigation materials upon motion of the parties or a third party.
+
+The motion in the preceding paragraph shall be in writing, with the scope specified by a code or by the name and number of the corresponding exhibit.
+
+As regards a copy or photocopy of the written motion in the preceding paragraph, the movant shall give direct notice to the opposing party, the party concerned, or a third party unless there exist circumstances which are emergent or sufficiently likely to cause the party concerned or the third party suffer material damage.
+
+The movant submitting the written motion shall make a preliminary showing if a dispute arises over whether the opposing party, the party concerned, or a third party has received a copy or photocopy of the written motion in the preceding paragraph.
+
+The court shall, before rendering a ruling as in Paragraph 1, accord the opposing party, the party concerned, or the third party an opportunity to be heard.
+
+The scopes and methods etc. of the non-public trial in the preceding article and the review, transcription, videotaping, or otherwise reproduction of litigation materials in the preceding paragraph, will be determined by the Judicial Yuan in conjunction with the Executive Yuan.
+
+### Article 33
+
+An opposing party, a party concerned, or a third party may file a motion with the court to revoke or amend its ruling which disallows or restricts the review, transcription, videotaping, or otherwise reproduction as in Paragraph 1 of the preceding article if the reason for such ruling ceases to exist.
+
+An interlocutory appeal may be filed against a ruling as in Paragraph 1 of the preceding article and the preceding paragraph. No motion by an opposing party, a party concerned, or a third party for the review, transcription, videotaping, or otherwise reproduction of litigation materials during an interlocutory appeal is allowed.
+
+The court shall disallow or restrict the review, transcription, videotaping, or otherwise reproduction of litigation materials during an interlocutory appeal against a ruling which dismisses the motion in Paragraph 1 of the preceding article and allows the motion in Paragraph 1.
+
+No trade secret known or held upon the review, transcription, videotaping, or otherwise reproduction in Paragraph 1 the preceding article may be used for purposes other than conducting the litigation.
+
+### Article 34
+
+The court may impose a penalty not more than NT$100,000 upon a holder of a document, object for inspection, or data required for appraisal who refuses without good cause to submit such document, object, or data to the court, and the court may order by a ruling such holder be subject to compulsory measures when necessary.
+
+Provisions of the Compulsory Enforcement Act concerning mandatory submission of documents or objects for inspection shall apply mutatis mutandis to the enforcement of the compulsory measures in the preceding paragraph.
+
+An interlocutory appeal may be filed against the ruling in Paragraph 1, and enforcement of a ruling on the penalty shall be suspended during the interlocutory appeal.
+
+Where the court considers whether there are grounds for the holder of a document, object for inspection, or data required for appraisal described in Paragraph 1 not to submit such document, object, or data, it may, whenever necessary, order such holder to submit the same in a manner not open to the public.
+
+Under the circumstance in the preceding paragraph, the court shall not order discovery of the document, object for inspection, or data required for appraisal, unless such discovery is required for the court to understand the related party's opinions.
+
+Under the circumstance in the preceding proviso, the court shall notify the holder of the document, object for inspection, or data required for appraisal before ordering discovery of such document, object, or data. Such holder shall not make any disclosure before a ruling becomes conclusive with respect to its motion for an order to preserve confidentiality which is filed within 14 days after notification is received.
+
+### Article 35
+
+In infringement cases involving patent rights, copyrights in computer programs or trade secrets, if a party has made a preliminary showing that any rights or interests that it claims have been or are likely to be infringed, and the opposing party denies such claim, the court shall order the opposing party to raise a specific defense as to the fact and evidence concerning its denial within a prescribed time limit.
+
+The court may, subject to the circumstances, find the preliminary showing of the infringed party true if the opposing party mentioned in the preceding paragraph fails without good cause to raise a defense within the prescribed time limit or to raise a specific defense.
+
+The court shall accord the parties an opportunity to present their arguments before adopting the circumstances mentioned in the preceding paragraph as basis for judgment.
+
+### Article 36
+
+Where any of the following situations occurs with respect to trade secrets held by a party or a third party, the court may, upon motion along with a preliminary showing by such party or third party, issue a confidentiality preservation order upon the opposing party, the first-mentioned party, an agent, an assistant ad litem, or other related party to the action:
+
+\1. A party's own trade secrets or those of a third party are disclosed in the first-mentioned party's pleadings, or evidence-taking that has been or is to be made involves trade secrets of the party or a third party.
+
+\2. Limitation on discovery or use is required so as to prevent the discovery or use of the trade secrets in the preceding paragraph being intended for purposes other than those related to the case, and there are concerns of obstruction to the party's or the third party's business operation as a result of the disclosure of the trade secrets.
+
+The preceding paragraph does not apply where an opposing party, a party concerned, an agent, an assistant ad litem, or other related party has obtained or possessed such trade secrets through means other than the document review or evidence-taking prior to the motion.
+
+If a party concerned or a third party still fails to file a motion for a confidentiality preservation order in accordance with Paragraph 1 as directed by the court when the court deems it necessary to issue such order, the court may, at the request of the opposing party or the first-mentioned party, and after hearing the opinion of the first-mentioned party or the third party, so issue against those not subject to the confidentiality preservation order in Paragraph 1.
+
+The person subject to a confidentiality preservation order shall not use the trade secrets for purposes other than those related to the case, nor shall it disclose said trade secrets to those not subject to the order.
+
+### Article 37
+
+A motion seeking a confidentiality preservation order shall specify in writing the following:
+
+\1. The persons to be subject to the confidentiality preservation order;
+
+\2. The trade secrets to be protected by such order;
+
+\3. The facts showing that conditions described in Paragraph 1 of the preceding article are met.
+
+### Article 38
+
+A ruling granting a confidentiality preservation order shall specify the trade secrets to be protected, grounds for such protection, and content of the prohibition.
+
+A ruling granting a confidentiality preservation order shall be served on the party or the third party holding the trade secret, the requester, and anyone subject to the order, as described in Paragraphs 1 and 3 of Article 36.
+
+A confidentiality preservation order shall become effective upon being served on the person subject thereto.
+
+An interlocutory appeal may be filed if a motion or request for a confidentiality preservation order is denied by the court.
+
+### Article 39
+
+A movant or requester of a confidentiality preservation order may, unless otherwise stipulated, move for or request revocation of the order.
+
+A person subject to a confidentiality preservation order may file a motion to revoke such order with the court at which the action is pending when the requirements specified in Paragraph 1 of Article 36 are not met, or when the situation described by Paragraph 2 of Article 36 occurs, or when the grounds of such order no longer exist. However, when a judgment of the principal case becomes conclusive, the motion to revoke the confidentiality preservation order shall be made to the court that grants the order.
+
+No person subject to a confidentiality preservation order may move for revocation of the order on the grounds of a lack of standing of the movant or requester of the order if the trade secret in Subparagraph 1 of Paragraph 1 of Article 36 is already known to or obtained or held by said person. The same applies to the movant or requester of such order.
+
+The court may revoke a confidentiality preservation order ex officio if it deems the ruling granting the order inappropriate, save in the circumstance in the preceding paragraph.
+
+The ruling revoking a confidentiality preservation order shall be served on the movant and the respondent.
+
+An interlocutory appeal may be filed against the ruling in the preceding paragraph.
+
+A confidentiality preservation order shall become void when the ruling revoking such order becomes conclusive.
+
+When a ruling revoking a confidentiality preservation order becomes conclusive, the court shall notify, in addition to the movant, the requester, and the respondent, any other persons subject to the confidentiality preservation order of the gist for the revocation of such order.
+
+### Article 40
+
+In an action where a confidentiality preservation order has been granted, the court clerk shall immediately notify the party or the third party that holds the trade secret as in Paragraph 1 of Article 36 of any application made by anyone not subject to the order or prohibition or limitation of review for review, transcription, videotaping, or otherwise reproduction of the dossier documents. This does not apply if the ruling revoking the confidentiality preservation order becomes conclusive.
+
+Under the circumstances in the preceding paragraph, the court clerk shall not deliver the dossier documents for review, transcription, videotaping, or otherwise reproduction for 14 days from the date the party or the third party that holds the trade secret is notified. If within 14 days of notification the party or the third party that holds the trade secret files for a motion for a confidentiality preservation order or requests prohibition or limitation against the requester in the main text of the preceding paragraph, the court clerk shall not deliver the dossier documents until the ruling on such application becomes conclusive.
+
+Where a party concerned or a third party that holds a trade secret agrees to the application in Paragraph 1, the preceding paragraph shall not apply.
+
+### Article 41
+
+When a party concerned claims or defends that an intellectual property right shall be cancelled or revoked, the court shall decide based on the merit of the case, and the Code of Civil Procedure, Administrative Litigation Act, the Plant Variety and Plant Seed Act, or other applicable laws concerning the stay of an action shall not apply.
+
+Under the circumstances in the preceding paragraph, the holder of the intellectual property right shall not claim in the civil action any rights against the opposing party where the court has recognized the grounds for cancellation or revocation of the intellectual property right.
+
+### Article 42
+
+The court shall notify the competent intellectual property authority immediately under the circumstance in Paragraph 1 of the preceding article. The same applies when the proceedings are concluded.
+
+The competent intellectual property authority shall notify the court immediately, upon receipt of the notice in the preceding paragraph, of whether the application for canceling or revoking the intellectual property right is entertained or not. The same applies when the competent intellectual property authority renders an administrative disposition or the application is withdrawn by the applicant.
+
+Upon receipt of the notice in the preceding paragraph, the court may, upon motion filed by a party, request from the competent intellectual property authority a photocopy or electronic file of the application documents.
+
+The competent intellectual property authority may, upon receipt of the notice in Paragraph 1, request the court in writing to provide a photocopy or electronic file of any document required for determining whether to cancel or revoke of the intellectual property right.
+
+### Article 43
+
+When a party claims or defends in accordance with Paragraph 1 of Article 41 that there are grounds for revocation of a patent right, where the patentee has applied to the competent patent authority for amending the claims, the party shall state to the court that the amended claims apply to its further claim or assertion on the patent right.
+
+If a patentee under the circumstance in the preceding paragraph is prevented by factors not attributable to itself from applying to the competent patent authority for the requested amendment, and if denying such the amendment is obviously unfair, the party may directly state to the court that the aforesaid amendment to the claims applies to its further claim or assertion on the patent right.
+
+A patentee under the circumstances in the preceding two paragraphs shall describe in a written statement the facts and reasons based on which the claims are amended and notify the opposing party accordingly.
+
+Under the circumstances in Paragraphs 1 and 2, the court may determine the legality of the amendment of claims, and, before rendering a judgment, indicate its legal opinion and disclose its conviction to the extent appropriate.
+
+Save in the circumstance in Paragraph 2, no claim or assertion may be made of any amended claims if the patentee fails to apply to the competent patent authority for amendment or withdraws its application for amendment.
+
+The court shall adjudicate the case based on the amended claims if it finds in accordance with Paragraph 4 that the amendment is legal.
+
+### Article 44
+
+The court may, where necessary, seek the advice of the competent intellectual property authority on relevant legislation or other necessary matters for the purpose of determining the merits of a claim or defense which a party raises in accordance with Paragraph 1 of Article 41.
+
+In regard to an advice sought under the preceding paragraph or where it deems necessary for opinions to be stated, the competent intellectual property authority may, where the court deems appropriate, present its opinion to the court in writing or through its designee.
+
+The court shall accord the parties an opportunity to present their arguments on an opinion which the competent intellectual property authority states in accordance with the preceding paragraph, before adopting such opinion as basis for judgment.
+
+### Article 45
+
+A right-holder, a trade secret owner, or an exclusive licensee of an exclusively licensed intellectual property right or interest that is engaged in a civil action with a third party over said right or interest shall notify the other party of the action and phase of litigation at an appropriate time prior to the conclusion of oral argument. The party being notified of the action may make further notification to another person.
+
+Notification of an action shall be made in the form of a pleading indicating the reason and phase of litigation, and submitted to the court to be served by the court on the other party or the opposing party under the preceding paragraph.
+
+A party being notified is deemed to have intervened in an action when intervention is available, notwithstanding its failure to intervene or delay in intervention.
+
+### Article 46
+
+Where no action has been initiated, a motion for preservation of evidence shall be made to the court where the action is to be brought; where an action has been initiated, such motion shall be made to the court where the action is pending.
+
+The court may inspect, examine, or preserve documentary evidence or interrogate a witness, expert witness, or the party itself in the execution of the preservation of evidence.
+
+The court may order a Technical Examination Officer to execute his duties on site in the execution of the preservation of evidence.
+
+Where a respondent refuses an order of preservation of evidence without good cause, the court may, when necessary, enforce such order by force and request assistance from the police authority.
+
+Where preservation of evidence is likely to violate the trade secrets of a respondent or a third party, the court may, at the request of the movant, a respondent or a third party, set limits on or prohibit the presence of the persons on the premises of the preservation of evidence, and may preserve the evidence separately and set limits on or prohibit the review, transcription, videotaping, or otherwise reproduction of said evidence.
+
+Articles 36 through 40 shall apply mutatis mutandis to situations concerning a likely violation of trade secrets described in the preceding paragraph.
+
+Where it deems necessary, the court may execute a preservation of evidence order through the district court in the locality of the domicile or residence of the party being interrogated, or of the place where the evidence is located. When the assigned court executes a preservation of evidence order, the second to the preceding paragraph shall apply.
+
+### Article 47
+
+The IPCC has exclusive jurisdiction over an appeal or interlocutory appeal against a judgment rendered by the court of first instance on an intellectual property civil action, unless otherwise stipulated.
+
+### Article 48
+
+Unless otherwise prescribed herein, an appeal or interlocutory appeal against a judgment of the second instance court regarding an intellectual property civil action may be filed with the third instance court.
+
+The court of third instance shall establish a special tribunal or special division in the circumstance in the preceding paragraph.
+
+### Article 49
+
+Where any of the following measures becomes conclusive, no party may initiate an action for retrial in accordance with Subparagraph 11 of Paragraph 1 of Article 496 of the Code of Civil Procedure in regard to a final and conclusive judgment on a patent, trademark, or plant variety right infringement case:
+
+\1. a measure finding the invalidation of a patent right, invalidation or revocation of a trademark right, or nullification or cancellation of a plant variety right founded
+
+\2. a measure finding an invalidation action over the extension of the term of an invention patent founded
+
+\3. a measure approving an amendment of the description, claim(s), or drawing(s) of a patent
+
+Under the circumstance in the preceding paragraph, no respondent to a matter concerning provisional attachment, provisional injunction, or an injunction maintaining a temporary status quo may claim compensation from a movant for damage sustained from the provisional attachment, provisional injunction, or injunction maintaining a temporary status quo.
+
+### Article 50
+
+Application for and handling of an order for payment in intellectual property civil actions shall comply with the provisions of Part VI of the Code of Civil Procedure.
+
+Where opposition is raised in due process by a debtor to an order for payment, the court that grants such order shall transfer the dossier documents to the IPCC.
+
+### Article 51
+
+Where no action has been initiated, an application for provisional attachment, preliminary injunction, or injunction maintaining the temporary status quo shall be filed with the court where the action is to be brought; where the action has been initiated, such application shall be filed with the court where the action is pending.
+
+### Article 52
+
+An applicant seeking an injunction maintaining the temporary status quo shall provide a preliminary showing proving it is necessary to prevent material harm or imminent danger or other similar circumstances with regard to the legal relation in dispute. The court shall dismiss the application if the preliminary showing is insufficient.
+
+When the grounds for an application for an injunction maintaining the temporary status quo are demonstrated in the preliminary showing, the court may still order the applicant to provide a bond for granting the injunction.
+
+Before an injunction maintaining the temporary status quo is granted, the court shall accord the parties an opportunity to be heard. However, where the applicant asserts and is able to provide evidence to substantiate its assertion that there is a special circumstance that shall restrict the respondent from being notified before the injunction is issued, and the court deems such assertion appropriate, or finds the applicant's application manifestly without legal ground, the above shall not apply.
+
+The court may, upon motion or ex officio, revoke an injunction maintaining the temporary status quo where the movant fails to prove to the court within a peremptory period of 14 days of the service of the ruling granting the injunction that an action has been initiated.
+
+The revocation described in the preceding paragraph shall become effective when public notice of the revocation is given.
+
+When the court revokes an injunction maintaining the temporary status quo because such order is not justified ab initio, due to the situation prescribed in Paragraph 4, or upon motion of the movant, or by virtue of a conclusive judgment against the movant on the case, the applicant of the injunction shall indemnify the respondent against damage suffered.
+
+### Article 53
+
+An authenticated copy of a judgment shall be served upon each of the parties. Service of an authenticated copy in the form of an electronic document is subject to consent of the party to be served, provided no authenticated copy in the form of an electronic document may be served on a prisoner.
+
+The preceding paragraph applies to a ruling mutatis mutandis.
+
+## Chapter Three - Intellectual Property Criminal Procedure
+
+### Article 54
+
+The district court has jurisdiction over the criminal cases in the main text of Subparagraph 2, and Subparagraph 4, of Article 3 of the Intellectual Property and Commercial Court Organization Act.
+
+The court of first instance regarding criminal cases that involve trade secrets is governed by the following subparagraphs but not the preceding paragraph:
+
+\1. An intellectual property tribunal of first instance has jurisdiction over cases concerning the offenses in Articles 13-1, 13-2, Paragraph 3 of Article 13-3, and Article 13-4 of the Trade Secrets Act.
+
+\2. An intellectual property tribunal of second instance has jurisdiction over cases concerning the offenses in Paragraphs 1 to 3 of Article 8 of the National Security Act.
+
+Jurisdiction over other criminal cases which arise out of the same offense in trial as in Subparagraph 1 of the preceding paragraph or that are related as in Subparagraph 1 of Article 7 of the Code of Criminal Procedure and over which the district court has first instance jurisdiction shall be exercised by an intellectual property tribunal of first instance if those cases have been prosecuted independently or together by the prosecutor.
+
+A motion for compulsory measures during an investigation of a case as in Subparagraph 1 of Paragraph 2 shall be filed with the district court of the location where the offense is committed or the accused is domiciled, resides, or is located.
+
+### Article 55
+
+Where a dossier or an exhibit involves trade secrets, the court may hold a non-public trial upon motion filed by a party or an interested party.
+
+Where dossier documents or evidence involves trade secrets, the court may set limits on the review, transcription, videotaping, or otherwise transcription of such dossier documents or evidence upon motion filed by a party or an interested party or ex officio.
+
+The scopes and methods etc. in regard to a non-public trial held by the court and the review, transcription, videotaping, or otherwise reproduction of dossiers and exhibits, as mentioned in the preceding two paragraphs, are determined by the Judicial Yuan in conjunction with the Executive Yuan.
+
+### Article 56
+
+Where a dossier or exhibit of a trade secret criminal case or a supplemental civil action thereof involves a trade secret of a party or an interested party which is a method for proving or making a preliminary showing of a fact of an offense or of damages, the party or interested party may file a motion with the court for determining a de-identified pseudonym or code before the first trial date, save in special circumstances.
+
+The motion in the preceding paragraph shall specify the following expressly in writing:
+
+\1. the trade secret that shall be de-identified
+
+\2. the wording for the pseudonym or code
+
+\3. that disclosure of the trade secret in Subparagraph 1 during the proceedings is likely to impair any business activity which a party or an interested party conducts based on such secret
+
+The court shall accord the persons concerned an opportunity to be heard before rendering a ruling as in Paragraph 1.
+
+The court shall overrule by a ruling a motion as in Paragraph 1 if it finds the motion fails to comply with legal formality or shall not be granted as a matter of law or is meritless, provided that where such failure to comply with legal formality is amendable, the court shall order an amendment to be made within a prescribed time limit.
+
+The court shall allow before the first trial date a motion as in Paragraph 1 if it finds the motion meritorious, save in special circumstances.
+
+No interlocutory appeal may be filed against a ruling as in the preceding two paragraphs.
+
+### Article 57
+
+An appeal or interlocutory appeal against a judgment which an intellectual property tribunal of first instance renders on a case as in Subparagraph 1 of Paragraph 2 of Article 54 in summary proceedings shall be filed with the collegiate bench of an intellectual property tribunal of first instance.
+
+Paragraphs 2 and 3 of Article 455-1 and Part IV of the Code of Criminal Procedure apply to the circumstance in the preceding paragraph mutatis mutandis.
+
+### Article 58
+
+An appeal or interlocutory appeal against a judgment of the first instance rendered by a district court in an ordinary proceeding, summary trial proceeding, or bargaining process on a case as in Paragraph 1 of Article 54 or a case entertained by an intellectual property tribunal of first instance shall be filed with an intellectual property tribunal of second instance. The same applies to an interlocutory appeal requesting review of a ruling on compulsory measures which the district court renders during investigation in a case as in Paragraph 1 or Subparagraph 1 of Paragraph 2 of Article 54.
+
+The preceding paragraph applies to the other criminal cases associated with the cases in Paragraph 2 of Article 54 and prescribed by Paragraph 1 of Article 7 of the Code of Criminal Procedure , and that have been tried jointly in the district court and subjected to appeal or interlocutory appeal jointly. Notwithstanding, an intellectual property tribunal of second instance may by a ruling consolidate the cases and transfer them to the competent High Court provided that the other criminal cases are more serious and are complicated.
+
+An interlocutory appeal may be filed against the ruling in the preceding proviso.
+
+### Article 59
+
+The transferee court in the proviso in Paragraph 2 of the preceding article shall stay the proceedings by a ruling and request the Supreme Court to designate the court with jurisdiction if the first-mentioned court finds jurisdiction disputed, unless an interlocutory appeal has been filed by a party in accordance with Paragraph 3 of the preceding article and found meritless by the Supreme Court.
+
+The Supreme Court shall overrule by a ruling the request in the preceding paragraph if it finds the transferee court has jurisdiction, and shall designate the court with jurisdiction over the case if it finds the transferee court has no jurisdiction.
+
+The designated court in the preceding paragraph shall be bound by the ruling by which it is designated.
+
+The Supreme Court may not reverse a judgment on the principal case of a transferee court or designated court on a case on the grounds of lack of jurisdiction when such judgment is appealed.
+
+### Article 60
+
+A transferee court may reverse a ruling to stay the proceedings as in Paragraph 1 of the preceding article upon motion or ex officio.
+
+A transferee court shall give prompt notice to the Supreme Court after rendering a ruling as in the preceding paragraph.
+
+A transferee court is deemed to withdraw its request for designation when its ruling as in Paragraph 1 becomes conclusive.
+
+### Article 61
+
+A trial court shall take necessary measures upon motion or ex officio if there exist emergent circumstances before it transfers an action or renders a ruling as in Paragraph 2 of Article 59.
+
+An action is deemed pending before a transferee court ab initio when the ruling by which said action is transferred becomes conclusive.
+
+A court clerk as in the preceding paragraph shall enclose an authenticated copy of the ruling in the dossier to be delivered to the transferee court.
+
+### Article 62
+
+An appeal or interlocutory appeal against a judgment of an intellectual property tribunal of second instance shall be filed with the Supreme Court in accordance with the Code of Criminal Procedure unless otherwise stipulated.
+
+The Supreme Court in the preceding paragraph shall apply the procedure of third instance and establish a special tribunal or special division.
+
+### Article 63
+
+In regard to a supplemental civil action in which a case as in Paragraphs 1 and 2 of Article 54 is adjudicated, the plaintiff's suit shall be dismissed by a ruling, and Paragraphs 1 to 3 of Article 503 of the Code of Criminal Procedure apply mutatis mutandis, if prosecution in the relevant criminal action is dismissed by a ruling in accordance with Paragraph 2 of Article 161 of said code.
+
+Except where the Supreme Court renders a judgment pursuant to Articles 508 through 511 of the Code of Criminal Procedure, the court shall try the supplemental civil action of a case concerning Paragraphs 1 and 2 of Article 54 by itself, and Paragraph 1 of Article 504, and the main text of the first part of Paragraph 1 of Article 511 of the Code of Criminal Procedure shall not apply. This provision shall not apply where a mistake in jurisdiction is pronounced and the case is transferred pursuant to Paragraph 2 of Article 489 of Code of Criminal Procedure.
+
+A trial court transferring a supplemental civil action to a civil tribunal by a ruling in violation of Paragraph 1 or the main text of the preceding paragraph, or the Paragraph 1 of Article 502 or the main text of Paragraph 1 and Paragraph 4 of Article 503 of the Code of Criminal Procedure shall reverse said ruling ex officio within 10 days of the service of the ruling, or the ruling by which said action is transferred is deemed reversed if it is not reversed within the prescribed time limit, unless otherwise stipulated.
+
+A ruling revered ex officio or deemed reversed as in the preceding paragraph shall be notified to the civil court of the transferee court.
+
+The preceding two paragraphs do not apply when the civil tribunal of the transferee court in the preceding three paragraphs concludes the proceedings.
+
+No appeal may be lodged against a ruling making a transfer as in Paragraph 3 after the ruling is reversed ex officio.
+
+### Article 64
+
+An appeal or interlocutory appeal against a judgment on a supplemental civil action of the district court rendered in an ordinary proceeding, summary trial proceeding or bargaining process in a case as in Paragraph 1 of Article 54 or a case entertained by an intellectual property tribunal of first instance shall be filed with an intellectual property tribunal of second instance.
+
+An appeal or interlocutory appeal against a judgment on a supplemental civil action of an intellectual property tribunal of first instance rendered in a summary proceeding in a case as in Subparagraph 1 of Paragraph 2 of Article 54 shall be filed with the collegiate bench of an intellectual property tribunal.
+
+An appeal or interlocutory appeal against a judgment on a supplemental civil action of an intellectual property tribunal of second instance rendered in an ordinary proceeding, summary trial proceeding or bargaining process shall be filed with the Supreme Court in accordance with the Code of Criminal Procedure.
+
+Paragraph 2 of Article 48 applies to the preceding paragraph mutatis mutandis.
+
+### Article 65
+
+A supplemental civil action in a case as in Paragraphs 1 and 2 of Article 54 shall be decided with the criminal action at the same time. However, if necessary, it can be decided within 60 days after the judgment on the criminal action is rendered.
+
+The provisions of Articles 436-2 through 436-5 of the Code of Civil Procedure shall apply mutatis mutandis to an appeal or interlocutory appeal filed with the third instance court against a judgment of the second instance in a supplemental civil action under a summary proceeding.
+
+### Article 66
+
+The provisions of Paragraph 1 of Article 29, Articles 36 to 40, Paragraph 1 of Article 41, and Article 53 shall apply mutatis mutandis to a case in Paragraphs 1 and 2 of Article 54 or its supplemental civil action.
+
+Article 49 applies mutatis mutandis to adjudication of supplemental civil actions on violations of the Trademark Act.
+
+Provisions of the Code of Criminal Procedure governing participation in proceedings by victims apply mutatis mutandis to cases in Paragraphs 1 and 2 of Article 54.
+
+## Chapter Four - Intellectual Property Administrative Procedure
+
+### Article 67
+
+The summary proceeding in Chapter II of Part II of the Code of Administrative Litigation Proceedings shall not apply to an administrative action concerning intellectual properties.
+
+### Article 68
+
+The administrative actions prescribed in Subparagraphs 3 and 4 of Article 3 of the Intellectual Property and Commercial Court Organization Act are subject to the jurisdiction of the IPCC.
+
+When other administrative actions are jointly initiated with the actions set forth above, or are filed in addition thereto, they shall be filed with the IPCC.
+
+For the purposes of enforcement set forth in Paragraph 1, the IPCC may establish an enforcement bureau, request the enforcement bureau of the civil division of the district court, or request an administrative agency, to administer enforcement matters on its behalf.
+
+An intellectual property tribunal shall rule where a debtor opposes an enforcement order assigned in the preceding paragraph.
+
+### Article 69
+
+Unless otherwise prescribed by law, an appeal or interlocutory appeal against a judgment of the IPCC may be filed with the Supreme Administrative Court.
+
+### Article 70
+
+In an administrative action concerning cancellation or revocation of a registered trademark or revocation of a patent right, the IPCC shall take into account any new evidence submitted on the same grounds for the cancellation or revocation prior to the end of the oral argument.
+
+The competent intellectual property authority shall provide written briefs in response to the new evidence in the preceding paragraph, indicating whether arguments provided by the opposing party concerning such new evidence have merit.
+
+### Article 71
+
+The provisions of Articles 29 through 40, Article 46, Articles 51 and 52 shall apply mutatis mutandis to an administrative action concerning intellectual properties.
+
+A judge handling intellectual property civil or criminal actions may participate in the relevant intellectual property administrative trial, to which Subparagraph 3 of Article 19 of the Code of Administrative Litigation Proceedings shall not apply.
+
+## Chapter Five - Penal Provisions
+
+### Article 72
+
+One who violates a confidentiality preservation order under this Act shall be subject to a sentence of imprisonment not more than three years, detention, or in lieu thereof or in addition thereto, a fine of not more than NT$1,000,000.
+
+Anyone committing the offense in the preceding paragraph will be sentenced to imprisonment not more than five years, detention, or in lieu thereof or in addition thereto, a fine of not more than NT$3,000,000 if the relevant trade secret protected by the order is a trade secret of national core key technologies under Article 3 of the National Security Act.
+
+The preceding two paragraphs apply where an offense as in said paragraphs is committed overseas or in China, Hong Kong, or Macau, regardless of whether punishment is set forth in the laws of the place of the offense.
+
+### Article 73
+
+Where the responsible person of a juridical person, or a manager or a representative of an unincorporated association, or an agent or an employee of a juridical person or other personnel engaging in the business of a juridical person, an unincorporated association, or a natural person commits in conducting business an offense described in the preceding article, not only shall the committer be punished, but such juridical person, the unincorporated association, or the natural person shall also be subject to the fine set forth in Paragraphs 1 and 2, unless the responsible person of the juridical person, or the manager or representative of the unincorporated association, or the natural person has used its best efforts to prevent the offense.
+
+### Article 74
+
+A verifier who makes a false verification or statement in a court trial with regard to a matter material to a case after signing a written oath will be sentenced to imprisonment not more than seven years.
+
+A person having committed an offense specified in the preceding paragraph will have its punishment reduced or remitted if it makes a confession before a judgment on its false verification or statement becomes conclusive.
+
+A verifier who reproduces, uses, or divulges against the purpose of verification a trade secret which is known to it by virtue of its verification will be sentenced to imprisonment not more than three years, detention, or in lieu thereof or in addition thereto, a fine of not more than NT$1,000,000.
+
+Anyone committing the offense in the preceding paragraph will be sentenced to imprisonment not more than five years, detention, or in lieu thereof or in addition thereto, a fine of not more than NT$3,000,000 if the trade secret reproduced, used, or divulged is a trade secret of national core key technologies under Article 3 of the National Security Act.
+
+Paragraphs 3 and 4 also apply where an offense as in said paragraphs is committed overseas or in China, Hong Kong, or Macau, regardless of whether punishment is set forth in the laws of the place of the offense.
+
+## Chapter Six - Supplemental Provisions
+
+### Article 75
+
+Intellectual property civil actions pending before court prior to the enforcement of the January 12, 2023 amendment of this Act are governed by this Act as pre-amended, unless the parties mutually agree to the application of Articles 18 to 40, Articles 42, 44, 45, and 53 as amended.
+
+Intellectual property criminal cases and supplemental civil actions thereof as pending before court prior to the enforcement of the January 12, 2023 amendment of this Act are governed by this Act as pre-amended.
+
+Intellectual property administrative actions pending before court prior to the enforcement of the January 12, 2023 amendment of this Act are governed by this Act as pre-amended.
+
+### Article 76
+
+The Judicial Yuan shall enact the adjudication rules of this Act.
+
+### Article 77
+
+This Act shall be enforced as of the date to be prescribed by the Judicial Yuan.
+
+## History
+
+1.Promulgated on March 28, 2007 by Presidential Order Hwa-Tzong-1-Yi-Tze  No. 09600035711
+
+Promulgated per May 6, 2008 Judicial Yuan Order Yuan Tai Ting Xing 1 Zi No. 0970009972 and Enforced as of July 1, 2008
+
+2.Amendment to Article 30-1 promulgated November 23, 2011 per Presidential Order Hwa Tzong 1 Yi Tze No. 10000259681 and enforced as of September 6, 2012.
+
+3.Articles 4, 19, 23 and 31 amended and promulgated, and Article 10-1 enacted, per June 4, 2014 Presidential Order Hwa Tzong 1 Yi Tze No. 10300085261.  The date of enforcement will be decreed by the Judicial Yuan.
+
+Promulgated per June 6, 2014 Judicial Yuan Order Yuan Tai Ting Xing 3 Zi No. 1030015766.
+
+4.Amended on December 8, 2021
+
+5.Date of Amendment: promulgated on February 15, 2023 by Presidential Order Hwa Tzong 1 Yi Tze No. 11200010201
+
+Date of Enforcement: promulgated per February 22, 2023 Judicial Yuan Order Yuan Tai Ting Hsing 3 Tze No. 11200031521 and enforced as of August 30, 2023

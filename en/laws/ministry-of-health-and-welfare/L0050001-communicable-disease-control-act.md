@@ -1,0 +1,751 @@
+---
+title: "Communicable Disease Control Act"
+title_zh: "傳染病防治法"
+identifier: "L0050001"
+type: act
+law_level: "法律"
+category: "行政＞衛生福利部＞疾病管制目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1944-12-06
+last_amended: 2023-06-28
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0050001"
+retrieved: 2026-10-12
+---
+
+# Communicable Disease Control Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-health-and-welfare/L0050001-communicable-disease-control-act.md](../../../zh/laws/ministry-of-health-and-welfare/L0050001-communicable-disease-control-act.md)) is authoritative.
+
+## Chapter 1 General Principles
+
+### Article 1
+
+This Act is hereby formulated to arrest the occurrence, infection and spread of communicable diseases.
+
+### Article 2
+
+”The competent authority” specified herein refer to the Ministry of Health and Welfare at the central government level; the municipal governments at the municipal government level; and the county (city) governments at the county (city) government level.
+
+### Article 3
+
+“Communicable diseases” specified herein refer to diseases categorized by the central competent authority according to degrees of risks and hazards such as case fatality rate, incidence rate, and transmission speed:
+
+\1. Category 1 communicable diseases: Smallpox, plague, severe acute respiratory syndrome (SARS), etc.
+
+\2. Category 2 communicable diseases: Diphtheria, typhoid fever, dengue fever, etc.
+
+\3. Category 3 communicable diseases: Pertussis, tetanus, Japanese encephalitis, etc.
+
+\4. Category 4 communicable diseases: Known communicable diseases or syndromes other than those mentioned in the preceding three Subparagraphs that are considered by the central competent authority to require monitoring of their occurrence or implementation of preventive and control measures
+
+\5. Category 5 communicable diseases: Emerging communicable diseases or syndromes other than those mentioned in the preceding four Subparagraphs that are considered by the central competent authority to cause a substantial impact on the health of the population through their transmission and to require the formulation of preventive and control measures or preparedness plans in accordance with this Act.
+
+The central competent authority shall announce the names of communicable diseases mentioned in the various Subparagraphs of the preceding Paragraph in the Executive Yuan Gazette; when any adjustment is required, an amendment shall be made immediately.
+
+### Article 4
+
+“Epidemic conditions” specified herein refer to situations where the number of cases of a communicable disease occurring in a specific area during a specific time period exceeds the expected number or when clustered outbreaks occur.
+
+“Ports” specified herein mean harbors, wharves, and airports.
+
+“Medical care institutions” specified herein refer to institutions operated by medical personnel specified in Paragraph 1, Article 10 of the Medical Care Act, the operation of which has been applied for and approved in accordance with the relevant regulations of professional and occupational laws.
+
+“Infectious biological materials” specified herein refer to materials which are suspected of containing infectious pathogens or their derivatives and those confirmed to contain such pathogens or derivatives.
+
+“Specimens of communicable diseases” specified herein refer to bodily fluids, secretions, excretions and other potentially contagious substances collected from patients and suspected patients with communicable diseases or contacts.
+
+### Article 5
+
+The authority and responsibilities of the central competent authority, municipal competent authorities, and county (city) competent authorities (hereinafter the “local competent authorities”) in the implementation of the matters stipulated herein shall be as follows:
+
+\1. The central competent authority:
+
+\1) Formulate policies and plans for communicable disease prevention and control including immunization, communicable disease prevention, epidemiological surveillance, case reporting, investigations, laboratory testing, management, quarantine, drills, mobilization by level, training, and stockpiling of pharmaceuticals, devices, and protective equipment.
+
+\2) Supervise, command, guide and assess local competent authorities in the execution of matters concerning communicable disease prevention and control.
+
+\3) Establish funds for compensating vaccine victims and related activities.
+
+\4) Conduct quarantines of international and specifically designated ports.
+
+\5) Organize international collaborative projects and exchanges on matters concerning communicable disease prevention and control.
+
+\6) Other matters deemed necessary by the central competent authority for disease control.
+
+\2. Local competent authorities:
+
+\1) Develop implementation plans and implement the plans according to the communicable disease control policies and plans formulated by the central competent authority, and locality-specific disease control practices, and report to the central competent authority for reference.
+
+\2) Implement various communicable disease control measures in the locality including public service matters such as immunization, prevention of communicable diseases, epidemiological surveillance, case reporting, investigations, laboratory testing, management, drills, mobilization by level, training, pharmaceutical, device and protective equipment stockpile, and house-isolation.
+
+\3) Conduct quarantine of ports in the locality and ports other than those mentioned in item 4 of the preceding Subparagraph.
+
+\4) Implement matters instructed or commissioned by the central competent authority.
+
+\5) Other matters that shall be implemented by local competent authorities.
+
+In implementing the matters mentioned in Subparagraph 2 of the preceding Paragraph, local competent authorities, when necessary, may request support from the central competent authority.
+
+For the implementation of matters concerning the quarantine of ports, competent authorities at various levels may commission other organizations (institutions) or groups to perform such implementation.
+
+### Article 6
+
+Matters concerning communicable disease control in which the central competent authorities of their respective enterprises shall coordinate and assist shall be as follows:
+
+\1. The competent authority of the interior: matters concerning the control of entry and exit, assistance in supervising local governments in the implementation of public services such as home isolation.
+
+\2. The competent authority of foreign affairs: matters concerning liaison with foreign governments and international organizations, issuance of visas to foreign passport holders.
+
+\3. The competent authority of finance: matters concerning the leasing of state properties for use.
+
+\4. The competent authority of education: matters concerning the promotion, education, surveillance, and control of communicable diseases for students and school personnel.
+
+\5. The competent authority of justice: matters concerning the surveillance and control of communicable diseases among inmates in correctional centers.
+
+\6. The competent authority of economic affairs: matters concerning the supply of protective equipment and the control of industry-specific ports.
+
+\7. The competent authority of transportation: matters concerning the control of airports and commercial seaports and the requisition of transport facilities.
+
+\8. The competent authority of mainland affairs: matters concerning the coordination of policies governing contacts between the people of the Taiwan Area and the people of the Mainland Area, or Hong Kong and Macau.
+
+\9. The competent authority of environmental protection: matters concerning sanitation and disinfection of the public environment and the disposal of wastes.
+
+\10. The competent authority of agriculture: matters concerning the control of communicable diseases common to humans and animals and control of fishing harbors.
+
+\11. The competent authority of labor: matters concerning occupational safety and health and protection of workers’ rights.
+
+\12. The competent authority of press, radio and television: matters concerning the management and release of news, dissemination of government orders, and the designation of radio and television media for broadcast.
+
+\13. The competent authority of the coast guard: matters concerning the seizure of smuggled of vectors of communicable diseases in sea areas, on coastlines, at river mouths and in non-commercial ports and illegal entry and exit across the national borders.
+
+\14. Other relevant organizations: the implementation of relevant matters necessary to communicable disease control.
+
+### Article 7
+
+Competent authorities shall conduct various investigations and implement effective preventive measures to control the occurrence of communicable diseases; when there are outbreaks or epidemics of communicable diseases, they shall be controlled promptly to prevent further transmission.
+
+### Article 8
+
+The determination, announcement, and removal of epidemic conditions of communicable diseases and their affected areas shall be made by the central competent authority. For category 2 and category 3 communicable diseases, the aforementioned actions shall be done by the local competent authorities and reported to the central competent authority for record-keeping at the same time.
+
+The central competent authority shall announce international epidemic conditions or relevant warnings in a timely manner.
+
+### Article 9
+
+When announcements regarding communicable disease outbreaks or information related to control measures released through mass media when the Central Epidemic Command Center is in operation are erroneous or not in accord with the facts, which may result in undesirable outcomes on or affect the overall disease control efforts, corrections must be made immediately upon notification for correction by the competent authorities.
+
+### Article 10
+
+Government organizations, medical institutions, medical personnel, and others who learn about, in the course of their professional duties, information about patients or suspected patients with communicable diseases, such as names, medical records, and medical history, shall not disclose such information.
+
+### Article 11
+
+The dignity and legal rights of patients with communicable diseases, medical personnel caring for such patients, patients under isolation care, home quarantine, group quarantine, and their families shall be respected and protected without any discrimination.
+
+Without the consent of the individuals mentioned in the preceding Paragraph, no recording, videotaping, or photographing may be permitted.
+
+### Article 12
+
+Government organizations (institutions), private groups, enterprises or individuals shall not deny patients with communicable diseases their rights to education, employment, nursing care, or housing or subject them to any other unfair treatment. However, this provision shall not apply to individuals who are subject to restrictions imposed by competent authorities for communicable disease control.
+
+### Article 13
+
+Individuals infected with pathogenic agents of communicable diseases and suspected patients with communicable diseases are regarded as patients with communicable diseases, and the provisions of this Act shall apply.
+
+## Chapter 2 Disease Control Systems
+
+### Article 14
+
+The central competent authority may establish a communicable disease control medical network by dividing the country into several regions and designating medical care institutions to set up communicable disease isolation wards. Designated medical care institutions, upon receiving instructions from the competent authorities to admit and treat patients with communicable diseases, shall not refuse, evade or obstruct such directives.
+
+The central competent authority may designate a regional commanding officer and several deputy commanding officers for the unified command, coordination, and allocation of essential medical supplies for disease control in their region.
+
+The central competent authority may, at its discretion, subsidize the medical care institutions designated in Paragraph 1.
+
+The ways of dividing the communicable disease control medical medical network into regions, the roles and authority of regional commanding officers and deputy commanding officers, the requirements, period, and procedures for the designation of medical care institutions, the scope of subsidies, and other matters to be complied with shall be decided by the central competent authority.
+
+### Article 15
+
+When communicable diseases occur or there is a risk of their occurrence, competent authorities may organize mobile squads to conduct disease control operations.
+
+### Article 16
+
+Local competent authorities shall, when communicable diseases occur or there is a risk of their occurrence in their respective jurisdiction, immediately mobilize relevant affiliated organizations (institutions) and personnel to implement necessary measures and promptly report the implementation outcome to the central competent authority.
+
+Under the conditions mentioned in the preceding Paragraph, local competent authorities shall, in addition to implementing appropriate control measures within their jurisdiction, act in accordance with the instructions of the central competent authority.
+
+In the management of epidemic conditions mentioned in the preceding two Paragraphs, if local competent authorities deem it necessary to command and assemble personnel and facilities from relevant affiliated organizations (institutions) in a unified manner for the execution of disease control measures, they may establish epidemic command centers.
+
+The central competent authority may, when necessary, to convene coordination meetings on the management of epidemic conditions with relevant organizations to coordinate personnel, resources, and facilities across relevant organizations of governments at various levels and to supervise and assist local competent authorities in implementing control measures.
+
+### Article 17
+
+The central competent authority, in consideration of the severity of the domestic and international epidemic conditions after seeking approval from the Executive Yuan, may establish a central epidemic command center and assign one person to be the commanding officer to command, supervise, and coordinate government organizations at various levels, state enterprises, reserve service organizations and civic groups in an unified manner to implement disease control measures when it deems necessary to assemble various resources and facilities and integrate personnel of relevant organizations (institutions). When necessary, the national armed forces may be coordinated for support.
+
+The implementation regulations on matters concerning the organization, training, assistance, and operational procedures of the central epidemic command center shall be decided by the central competent authority.
+
+### Article 18
+
+Competent authorities, in times of serious domestic or international epidemic conditions of communicable diseases or biological agent attacks, may implement relevant disease control measures in coordination with the national defense mobilization preparedness system.
+
+## Chapter 3 Prevention of Communicable Diseases
+
+### Article 19
+
+Government organizations (institutions) at various levels and schools shall reinforce the education and promotion of matters concerning disease control and may request relevant professional groups for assistance; competent authorities and medical care institutions shall conduct regular training and drills related to disease control.
+
+### Article 20
+
+Competent authorities and medical care institutions shall keep sufficient pharmaceuticals, devices, and protective equipment for communicable disease control.
+
+Regulations governing the stockpiling, allocation, reporting, validity management, inspections of the pharmaceuticals, devices and protective equipment mentioned in the preceding Paragraph and other matters to be complied with shall be decided by the central competent authority.
+
+### Article 21
+
+Competent authorities, when necessary, may temporarily shut down water supplies that potentially spread communicable diseases.
+
+### Article 22
+
+Government organizations at various levels shall optimize the operation of the water and sewer supply systems in their jurisdictions, improve the infrastructure of public toilets, promote the cleanliness and sanitation of private toilets, and, when necessary, may disinfect feces or dismantle toilets and their facilities that are hazardous to sanitation.
+
+### Article 23
+
+During domestic epidemics, local competent authorities shall, as necessary for communicable disease control, strictly prohibit the raising, slaughtering, sales, donation, discarding of various animals or animal remains as well as foods and beverages that have been confirmed to transmit communicable diseases and shall exterminate, destruct, bury, or chemically handle them or take other necessary actions.
+
+Competent authorities, as necessary for communicable disease control, shall apply the prohibition and management provisions mentioned in the preceding Paragraph to animals suspected of transmitting communicable diseases.
+
+As necessary for communicable disease control, when major outbreaks of zoonotic diseases occur in animals, competent authorities shall request the central competent authority for agriculture to take necessary actions in accordance with the relevant provisions of the Statute for Prevention and Control of Infectious Animal Disease.
+
+### Article 24
+
+For animals, animal remains, or foods and beverages mentioned in the preceding Article that have been, pursuant to regulations, exterminated, destructed, buried, chemically handled or processed by other necessary methods, owners or managers of such items will not be compensated if the reasons of transmitting communicable diseases are due to their illegal actions or their failure to immediately cooperate in the management of these items; otherwise, local competent authorities shall assess the value of the items and compensate them at their discretion.
+
+Regulations concerning the qualifications, procedures, recognition, methods and other matters to be complied with for the compensation mentioned in the preceding Paragraph shall be decided by the central competent authority.
+
+### Article 25
+
+Local competent authorities shall supervise the elimination of mosquitoes, flies, fleas, lice, rats, cockroaches, and other vectors.
+
+Owners, managers or users of public and private sites where breeding sources of the vectors mentioned in the preceding Paragraph are present shall, upon notification or announcement of the local competent authorities, voluntarily clean up such sites.
+
+### Article 26
+
+The central competent authority shall formulate procedures for reporting communicable diseases, methods of epidemiological investigations, and establish systems for surveillance, warning and disease control resources. The implementation regulations shall be decided by the central competent authority.
+
+### Article 27
+
+The central competent authority, to promote immunization policies for children and citizens, shall establish a fund to perform the procurement of vaccines and immunization work.
+
+Sources of the aforementioned fund are as follows:
+
+\1. Subsidies from the government budgets;
+
+\2. Surpluses generated by public-interest lotteries and health and welfare surcharges on tobacco products;
+
+\3. Revenues from donations;
+
+\4. Revenues from interest generated by this fund;
+
+\5. Other relevant revenues.
+
+Revenues from any kinds of donations mentioned in Subparagraph 3 of the preceding Paragraph shall not be used for the procurement of designated vaccines.
+
+When using the vaccine fund for the procurement of additional vaccines, the procurement shall be made in accordance with the items recommended by the Communicable Disease Control Advisory Committee of the central competent authority and in a priority order based on cost-efficiency. Such procurement shall be made using the budgets prepared for the following year. Relevant meetings shall be recorded, and detailed meeting minutes shall be made public. Members of the Committee shall disclose the following information:
+
+\1. Research projects and the amount of the subsidy received by the individual concerned and his/her affiliated groups from non-governmental organizations;
+
+\2. Subsidies on vaccine-related research projects and funds given to the individual’s affiliated groups by non-governmental organizations;
+
+\3. The individual’s role as a member of the board of directors or board of supervisors or as an advisor of a vaccine-related enterprise or corporation.
+
+Legal proxies of children shall ensure that children receive routine immunizations on schedule and present a record of immunization when entering elementary school.
+
+Elementary schools and pre-school (nurseries) institutions shall ensure non-immunized new students complete the required immunizations.
+
+### Article 28
+
+Various immunization efforts and the specific management, use and administration of vaccines implemented for the control of epidemic conditions by the competent authorities may be carried out by trained and recognized nursing personnel. The restrictions provided for in Article 28 of the Physicians Act, Article 37 of the Pharmaceutical Affairs Act, and Article 24 of the Pharmacists Act shall not apply to such personnel.
+
+Regulations governing the conditions and the restrictions of immunization administration mentioned in the preceding Paragraph, and examination of immunization records, catch-up immunizations, and other matters to be complied with mentioned in the preceding Article shall be stipulated by the central competent authority.
+
+### Article 29
+
+Medical care institutions shall comply with the immunization policies formulated by the central competent authority.
+
+Medical care institutions shall not refuse, evade, or obstruct supervision and inspections conducted by the competent authorities.
+
+### Article 30
+
+Persons suffering from vaccine-related injury may apply for compensation.
+
+The right to apply for the compensation mentioned in the preceding Paragraph shall be extinguished if it is not exercised by the person entitled to apply for such compensation within two years from the day the damage is discovered; the same shall apply when a period exceeding five years has passed since the day the adverse event occurred.
+
+The central competent authority shall collect a fee when a vaccine is approved to fund the vaccine injury compensation fund.
+
+Regulations governing the fee mentioned in the preceding Paragraph such as the payment deadline and exemptions, as well as eligibility criteria, payment methods, amount, review methods and procedures, and other compliance matters of vaccine
+
+### Article 31
+
+When patients seek medical treatment, medical care institutions shall inquire about their medical history, medical records, history of contact, travel history, and other matters related to communicable diseases; patients or their families shall make a factual report without concealment.
+
+### Article 32
+
+Medical care institutions shall , in accordance with the regulations of competent authorities, execute infection control measures; and shall prevent the occurrence of infections within the institutions; they shall not refuse, evade, or obstruct the supervision and inspection conducted by the competent authorities.
+
+Regulations governing the infection control measures to be implemented by medical care institutions, the baseline criteria of inspection by the competent authorities, and other matters to be complied with shall be decided by the central competent authority.
+
+### Article 33
+
+Nursing homes, nursing care institutions, long-term care institutions, placement (reform) institutions, correction organizations and other similar places shall bear the responsibilities of the health care and management of persons under their care, detention, or correction.
+
+The organizations (institutions) and places mentioned in the preceding Paragraph shall, in accordance with the regulations of competent authorities, execute infection control measures to prevent the occurrence of infections within the organizations (institutions) or places; they shall not refuse, evade, or obstruct the supervision and inspection conducted by the competent authorities.
+
+Regulations governing the infection control measures to be implemented, the organizations (institutions) and places to be inspected, the baseline criteria of inspection, and other matters to be complied with shall be decided by the central competent authority.
+
+### Article 34
+
+For those who possess or use infectious biological materials, the central competent authority shall establish a tiered management system based on the degrees of hazard associated with infectious biological materials.
+
+The import and export of infectious biological materials by those who possess or use infectious biological materials shall not be made without the approval of the central competent authority.
+
+Regulations governing the scope, qualifications and conditions of persons in possession or use of infectious biological materials, methods of bio-safety management in laboratories, matters to be reported to competent authorities, and application procedures for import and export mentioned in the preceding Paragraph, and other matters to be complied with shall be decided by the central competent authority.
+
+## Chapter 4 Disease Control Measures
+
+### Article 35
+
+When communicable diseases occur or there is a risk of their occurrence, local competent authorities may impose restrictions, prohibitions, or other adequate measures on farming, fishing, husbandry, swimming, or drinking water in certain areas under their jurisdiction; when necessary, they may request various central competent authorities of their respective enterprises for assistance.
+
+### Article 36
+
+When communicable diseases occur or there is a risk of their occurrence, the public shall cooperate and accept the inspections, treatment, immunization or other disease control and quarantine measures conducted by the competent authorities.
+
+### Article 37
+
+When communicable diseases occur or there is a risk of their occurrence, local competent authorities shall, after considering actual needs, take the following measures in collaboration with relevant organizations (institutions):
+
+\1. Regulate school-related activities, meetings, gatherings, or other group activities;
+
+\2. Regulate the entry and exit of people in specific places and restrict the number of people admitted;
+
+\3. Regulate traffic in specific areas;
+
+\4. Evacuate people from specific places or areas;
+
+\5. Restrict or prohibit patients or suspected patients with communicable diseases from traveling by means of public transportation or entering/leaving specific places;
+
+\6. Take other disease control measures announced by government organizations at various levels.
+
+Organizations (institutions), groups, enterprises and individuals shall not refuse, evade, or obstruct the abovementioned measures.
+
+Measures mentioned in Paragraph 1 that shall be taken by local competent authorities shall be implemented when the central epidemic command center is in operation in accordance with the instructions of its commander.
+
+### Article 38
+
+When communicable diseases occur, all personnel required to enter public and private places or a means of transportation for disease control practices shall be personnel from local competent authorities working in collaboration with the police and other organizations concerned; owners, managers, or users of such public and private places or transportation means shall be notified in advance to be present on site. When they are t the site, they shall not refuse, evade, or obstruct disease control operations. If they are not present at the site, personnel concerned may enter directly for disease control operations; when necessary, village (“li”) leaders or neighborhood chiefs may be requested to be present at the site.
+
+For persons specified in the preceding Paragraph who are notified and are present at the site, their organizations (institutions), schools, groups, companies, and factories shall grant them official leave according to the instructions of the competent authorities.
+
+### Article 39
+
+When physicians or forensic physicians detect communicable diseases or suspect communicable diseases in patients or corpses in the process of performing an examination or autopsy, they shall immediately take necessary infection control measures and report such cases to the local competent authority.
+
+Case reporting mentioned in the preceding Paragraph shall be conducted within 24 hours for Category 1 and Category 2 communicable diseases and within one week for Category 3 communicable diseases. When necessary, the central competent authority may make adjustments to the reporting timeframe. For Category 4 and Category 5 communicable diseases, case reporting shall be conducted by the deadline and according to the regulations announced by the central competent authority.
+
+When physicians needed to explain disease conditions of relevant cases to the public, they shall first report the cases to the competent authorities in their region and only proceed to make a public explanation after the content of the explanation has been verified by the competent authorities.
+
+Medical care institutions, physicians, forensic physicians, and related organizations (institutions) shall, upon the request of competent authorities, provide diagnosis records, medical records, results of relevant laboratory testing, treatment, and autopsy assessment reports of patients of communicable diseases or cases of adverse reactions after immunization; they shall not refuse, evade or obstruct compliance with these requirements. The central competent authority in charge of controlling disease outbreaks may announce information about deaths related to communicable diseases or immunization without being bound by the confidentiality of investigations.
+
+If the supplied report or information mentioned in Paragraph 1 and the preceding Paragraph is incomplete, competent authorities may request the submitting party to correct or supplement it within a specified deadline.
+
+### Article 40
+
+When medical personnel other than physicians, in the course of their professional duties, detect patients, suspected patients or remains that they consider to have been infected with communicable diseases, they shall immediately report such cases to a physician or the local competent authority in accordance with Paragraph 2 of the preceding Article.
+
+Medical institutions shall assign a full-time person who is responsible for the supervision of subordinate medical personnel to ensure that the provisions specified in the preceding Paragraph or the preceding Article are followed.
+
+### Article 41
+
+When village (“li”) leaders, neighborhood chiefs, village (“li”) clerks, police officers, or firefighters detect suspected patients or remains that they consider to have been infected with communicable diseases, they shall notify the local competent authorities of such cases within 24 hours.
+
+### Article 42
+
+When the following persons detect suspected patients or remains that they consider to have been infected with communicable diseases but have not yet been diagnosed or examined by a physician, they shall notify the local competent authority of such cases within 24 hours:
+
+\1. Relatives or cohabitants of patients or the deceased;
+
+\2. Persons in charge of hotels or stores;
+
+\3. Owners, managers, or drivers of the means of transportation;
+
+\4. Persons in charge of organizations, schools, preschool (nurseries) institutions, enterprises, factories, mines, temples, churches, funeral services or other public places or their managers;
+
+\5. Persons in charge of nursing homes, nursing care institutions, long-term care institutions, placement (education and nursing) institutions, correctional organizations, and other similar places or their managers;
+
+\6. Travel service representatives, tour guides, or tour leaders.
+
+### Article 43
+
+Local competent authorities, upon receipt of a report or notification of communicable diseases or suspected communicable diseases, shall immediately proceed with laboratory testing, diagnosis, and investigation of sources of communicable diseases or take other necessary measures and report it to the central competent authority.
+
+Patients or suspected patients with communicable diseases and relevant personnel shall not refuse, evade, or obstruct the laboratory testing, diagnosis, investigation, and management mentioned in the preceding Paragraph.
+
+### Article 44
+
+Measures for the management of patients with communicable diseases by the competent authorities are as follows:
+
+\1. Patients with category 1 communicable diseases shall be placed under isolation care in designated isolation care institutions;
+
+\2. Patients with Category 2 and Category 3 communicable diseases, when necessary, may be placed under isolation care in designated isolation care institutions;
+
+\3. Patients with Category 4 and Category 5 communicable diseases shall be managed in accordance with the control measures announced by the central competent authority.
+
+When competent authorities provide isolation care of patients with communicable diseases, they shall prepare an isolation care notice and deliver the original to the patient or their family and a copy to the isolation care institution within three days from the second day of mandatory isolation care.
+
+The central competent authority shall set budgets to cover the costs associated with patients placed under isolation care by competent authorities mentioned in the Subparagraphs of the preceding Paragraph.
+
+### Article 45
+
+Patients with communicable diseases who are notified by the competent authorities to receive mandatory isolation care at designated isolation care institutions shall receive care in isolation wards according to instructions and shall not depart at will; for those who refuse to comply with such instructions, medical care institutions shall request local competent authorities to notify police authorities for assistance in the management of such cases.
+
+For patients under isolation care mentioned in the preceding Paragraph, competent authorities shall provide them with necessary care and assessment any time. After receiving treatment and assessment, when they are no longer considered in need of further isolation care, they shall be immediately discharged from their isolation care management, and a notice of discharge from isolation care shall be prepared within three days from the second day of discharge. The original notice shall be sent to the patient or their family, and a copy of the notice shall be sent to the isolation care institution.
+
+When the period of isolation care mentioned in the preceding Paragraph exceeds thirty days, local competent authorities shall, no later than every thirty days, invite two and more other specialists to reassess the need for further isolation care.
+
+### Article 46
+
+The collection, laboratory testing and reporting, confirmation, and disinfection of communicable disease specimens shall be conducted in the following manner:
+
+\1. Specimen collection for testing: in principle, communicable disease specimens shall be collected by physicians; specimens from contacts of patients shall be collected by physicians or other medical personnel; environmental specimens shall be collected by medical personnel or personnel trained in specimen collection. Persons in charge of medical institutions shall be responsible for supervising specimen collection; patients and persons concerned shall not refuse, evade, or obstruct the specimen collection process.
+
+\2. Laboratory testing and reporting: specimens related to category 1 and category 5 communicable diseases shall be sent to the central competent authority or their respective designated local competent authorities, medical institutions, academic, or research institutes equipped with certified laboratory testing capabilities for testing; other communicable disease specimens may be laboratory-tested by health or medical institutions or academic or research institutes commissioned or recognized by the central competent authority. Results of laboratory testing shall be reported to the local and central competent authorities.
+
+\3. Confirmation: Results of laboratory testing of communicable diseases shall be confirmed by the central competent authority or its designated commissioned and recognized laboratory testing units.
+
+\4. Disinfection: Medical institutions shall disinfect or destroy communicable disease specimens; patients and persons concerned shall not refuse, evade, or obstruct this process.
+
+Regulations concerning the requirements for the specimens to be collected from patients, time of collection, and methods of delivering the specimens for laboratory testing prescribed in Subparagraph 1 of the preceding Paragraph, the qualifications, duration, application and review procedures for the institutions designated, commissioned, and recognized for laboratory testing as mentioned in Subparagraph 2, the storage of specimens and their detected pathogenic agents, and other matters to be complied with shall be decided by the central competent authority.
+
+### Article 47
+
+Specimens collected in accordance with the preceding Article may be, for the need of disease control, handled and studied.
+
+### Article 48
+
+Competent authorities may, for case confirmation, detain persons who have been in contact with patients with communicable diseases or who are suspected of being infected; if necessary, they may be ordered to move to a designated place for necessary measures such as examination, immunization, medication, control of certain designated areas, or isolation.
+
+The central competent authority may implement disease control measures for risk groups of communicable diseases and specific target population; the target population, the scope, and other compliance matters of relevant measures shall be decided by the central competent authority.
+
+### Article 49
+
+When patients with communicable diseases move to other places or die, the medical institutions caring for such patients or the respective competent authorities, depending on the actual situation, shall conduct necessary disinfection or other appropriate management of the interior and the exterior of the wards or the residences where the patients previously stayed (resided).
+
+### Article 50
+
+The medical institutions caring for patients with communicable diseases or the respective local competent authorities shall conduct disinfection and other appropriate management of the remains of deceased individuals confirmed or suspected to have died from communicable diseases. Families of the deceased and funeral service providers shall not refuse, evade or obstruct relevant procedures.
+
+For the remains mentioned in the preceding Paragraph, the central competent authority, may perform a pathological autopsy if it is deemed necessary to understand the pathological causes of communicable diseases or to control epidemic conditions; families of the deceased shall not refuse.
+
+For deaths suspected to be caused by immunization, a pathological autopsy may be required when the central competent authority deems it necessary to determine the cause of death and the autopsy result may influence the overall outcome of disease control efforts.
+
+Families of the deceased shall place corpses into coffins and conduct cremation of remains within 24 hours when infection with Category 1 communicable diseases is confirmed; remains that have been infected with Category 5 communicable diseases must be cremated within the timeframe announced by the central competent authority; remains of persons known to have died from other communicable diseases, if they cannot be cremated for special reasons, shall be reported to the local competent authorities for permission for deep burial according to relevant regulations.
+
+For remains examined by a pathological autopsy as mentioned in Paragraph 2, the central competent authority shall decide the criteria for subsidizing funeral costs.
+
+### Article 51
+
+When communicable diseases occur or there is a risk of their occurrence, the central competent authority, for emergency purposes, may procure pharmaceuticals and equipment, provided that relevant documents shall be filled within six months and that relevant testing shall be completed.
+
+If the operating procedures in the preceding paragraph cannot be fulfilled or other alternative pharmaceuticals are unavailable, the central competent authority may make exceptions and explain the risks associated with the product to the general public.
+
+### Article 52
+
+During the period when the central epidemic command center is in operation, government organizations at various levels, in accordance with the instructions of its commander, may have the priority to use communication media and facilities to report epidemic conditions and information on necessary emergency measures.
+
+### Article 53
+
+During the period when the central epidemic command center is in operation, the commander, as necessary for disease control, may instruct the central competent authority to flexibly adjust the management measures outlined in Article 39, Article 44, and Article 50.
+
+During the period mentioned in the preceding Paragraph, government organizations at various levels, under the instructions of the commander, may designate or expropriate public or private medical care institutions or public places to set up quarantine or isolation sites and may require personnel concerned for assistance in performing disease control work. When necessary, the Ministry of National Defense may be requested to designate military hospitals for support. Losses incurred due to said designation, expropriation, requisition, isolation or quarantine shall be compensated appropriately.
+
+Operational procedures for the designation, the expropriation, and the requisition mentioned in the preceding Paragraph, methods of compensation, and other matters to be complied with shall be decided by the central competent authority.
+
+### Article 54
+
+During the period when the central epidemic command center is inoperation, government organizations at various levels, in accordance with instructions of the commanding officer, may expropriate or requisite private land, products, buildings, devices, facilities, pharmaceuticals and medical devices for disease control practices, facilities for the treatment of contamination, transportation means, and other designated disease control resources announced by the central competent authority, and adequate compensations shall be made to appropriate parties.
+
+Operational procedures, methods of compensation and other matters to be complied with for the expropriation and the requisition mentioned in the preceding Paragraph shall be decided by the central competent authority.
+
+### Article 55
+
+During the period when the central epidemic command center is in operation, actions taken by government organizations at various levels under the instructions of the commander for the expropriation of enterprises and the allocation and sale of disease control resources shall not be subject to the provisions outlined in Article 14 of the Fair Trade Act, and the regulations on labeling wordings, methods and items of labeling of the Commodity Labeling Act No business tax shall be levied on enterprises commissioned by government organizations at various levels to sell the expropriated or the rationed disease control resources at the regulated prices set by government organizations, and the total revenue generated from such sales must be remitted to the commissioning organizations for payment into the public treasury.
+
+### Article 56
+
+During the period when the central epidemic command center is in operation, government organizations at various levels, in accordance with the instructions of the commander, may use public properties without being subject to the provisions outlined in Article 40 of the State Property Act and the related regulations on local public property management.
+
+Administrative organizations shall not refuse the request made by government organizations at various levels for using public properties when the request is made according to the provisions outlined in the preceding Paragraph; when necessary, upon approval from the administrative organizations, public properties may be used by government organizations at various levels prior to completing the loan procedures.
+
+### Article 57
+
+During the period when local epidemic command centers are in operation, upon approval from the central competent authority, local competent authorities may apply the provisions outlined in Article 53 through the preceding Paragraph.
+
+## Chapter 5 Quarantine Measures
+
+### Article 58
+
+Competent authorities may impose the following quarantine or measures on persons entering and exiting the country (border) and may collect associated fees:
+
+\1. Provide quarantine information, anti-disease drugs, and immunization or issue warnings to persons visiting epidemic areas;
+
+\2. Require individuals to accurately fill out and submit communicable disease report forms and tables based on regulations set by the central competent authority and present health certificates or other relevant certificates depending on the actual situation;
+
+\3. Conduct health assessments or implement other quarantine measures;
+
+\4. Impose home quarantine, group quarantine, isolation care, or other necessary measures on persons entering from affected areas, contacts or suspected contacts, patients or suspected patients with communicable disease;
+
+\5. Inform immigration authorities to restrict patients who have not been fully cured and pose a risk of transmission when exiting the country (border);
+
+\6. Request organizations concerned to suspend issuing permits for entering the country (border) to persons of certain countries or areas or providing other assistance.
+
+For persons mentioned in the preceding Subparagraph 5 who no longer pose a risk of transmission, competent authorities shall immediately inform immigration authorities to abolish their exit restrictions.
+
+Persons entering or exiting the country (border) shall not refuse, evade, or obstruct the quarantine or the measures enforced by competent authorities as mentioned in Paragraph 1.
+
+### Article 59
+
+To prevent communicable diseases from entering or leaving the country (border), the central competent authority may request organizations concerned to implement the following measures:
+
+\1. Perform necessary disease control work and impose quarantine measures on persons entering or exiting the country (border), transportation means, and their cargos. Fees may be collected as applicable;
+
+\2. Request owners, managers, drivers, or agents of transportation means to provide relevant documents required by the competent authorities based upon the needs of disease control. They shall not refuse, evade or obstruct the provision of the required documents and shall maintain the sanitation of the transportation means.
+
+Relevant competent authorities shall cooperate in providing or implementing places and facilities necessary for the disease control work and quarantine measures mentioned in the preceding Paragraph and Paragraph 1 of the preceding Article.
+
+Regulations governing the quarantine methods, procedures, control measures, and management and other relevant compliance matters provided for in Paragraph 1 and Paragraph 1 of the preceding Article and regulations governing the target groups, amount, payment methods, duration, and other compliance matters related to fees to be collected shall be decided by the central competent authority.
+
+### Article 60
+
+When communicable diseases occur or there is a risk of their occurrence on transportation means or their cargo entering or leaving the country (border), competent authorities shall adopt the following measures:
+
+\1. Take necessary control and disease control measures against the transportation means, losses so incurred shall not be compensated;
+
+\2. For articles imported into or brought into the country (border) by passengers, the importers or the passengers shall be ordered to ship back or destroy the articles, and the losses incurred shall not be compensated. For articles exported or taken out of the country (border) by passengers, the provisions outlined in Article 23 and Article 24 shall apply accordingly for the management of such articles.
+
+For articles violating regulations set by the central competent authority, which govern declaration, or acceptance of quarantine or importation, competent authorities, without performing quarantine, may order the articles to be shipped back or destroyed, and no compensation shall be provided.
+
+## Chapter 6 Penal Provisions
+
+### Article 61
+
+During the period when the central epidemic command center is in operation, individuals engaging in hoarding or price gouging of resources already requisitioned by the competent authorities, where such act is deemed serious, shall be sentenced to imprisonment for a term of one year to seven years and may also be fined up to NT$ 5 million.
+
+### Article 61-1
+
+Individuals who endanger the normal functioning of the equipment or computer server room of the communicable disease surveillance and warning systems established by the central competent authority in accordance with Article 26 by theft, destruction, or other illegal means shall be sentenced to imprisonment for a term of one to seven years and a fine of up to NT$10 million.
+
+Individuals who commit an offense specified in the preceding Paragraph with the intent to endanger national security or social stability shall be sentenced to imprisonment for a term of three to ten years and a fine of up to NT$50 million.
+
+Where any of the situations specified in the preceding two Paragraphs results in a disaster, the punishment will be increased by half; where the situation results in death, the offender shall be sentenced to life imprisonment or imprisonment for a term of more than seven years and a fine of up to NT$100 million; where the situation results in serious injury, the offender shall be sentenced to imprisonment for a term of five to twelve years and a fine of up to NT$80 million.
+
+An attempt to commit an offense prescribed in Paragraph 1 or Paragraph 2 is punishable.
+
+### Article 61-2
+
+Individuals who endanger the normal functioning of the communicable disease surveillance and warning systems established by the central competent authority in accordance with Article 26 by any of the following means shall be sentenced to imprisonment for a term of one to seven years and a fine of up to NT$10 million:
+
+\1. Gaining access to the computer system or related equipment by entering the computer account's password, cracking the computer's security measures, or exploiting the computer system's vulnerabilities without any reason.
+
+\2. Interfering with the computer or related equipment without any reason by using computer programs or other electromagnetic methods.
+
+\3. Obtaining, deleting, or altering magnetic records of the system computer or related equipment without reason.
+
+Individuals who make computer programs specifically for themselves or others to commit the offenses specified in the preceding Paragraph shall also be punished.
+
+Individuals who commit an offense specified in the preceding two Paragraphs with the intent to endanger national security or social stability shall be sentenced to imprisonment for a term of three to ten years and a fine of up to NT$50 million.
+
+Where any of the situations specified in the preceding three Paragraphs results in a disaster, the punishment shall be increased by half; where the situation results in death, the offender shall be sentenced to life imprisonment or imprisonment for more than seven years and a fine of up to NT$100 million; where the situation results in serious injury, the offender shall be sentenced to imprisonment for a term of five to twelve years and a fine of up to NT$80 million.
+
+When the central epidemic command center is in operation, the punishment for individuals who commit any of the offenses specified in Paragraph 1 to Paragraph 3 shall be increased by half.
+
+An attempt to commit any offenses specified in Paragraph 1 to Paragraph 3 is punishable.
+
+### Article 62
+
+Persons who are fully aware that they have been infected by Category 1, Category 5, or multidrug-resistant tuberculosis of Category 2 communicable diseases, but fail to comply with the instructions of the competent authorities and have thus infected others shall be sentenced to imprisonment for a term of up to three years, criminal detention, or a fine up to NT$ 500,000.
+
+### Article 63
+
+Persons who disseminate rumors or incorrect information concerning epidemic conditions of communicable diseases, resulting in damages to the public or others, shall be fined up to NT$ 3,000,000.
+
+### Article 64
+
+Any person meeting one of the following conditions shall be subject to a fine of NT$ 90,000 to NT$ 450,000:
+
+\1. Physicians in violation of the provisions of Article 39;
+
+\2. Forensic physicians in violation of the provisions of Article 39;
+
+\3. Persons other than physicians in violation of the provisions of Paragraph 1 of Article 40;
+
+\4. Medical personnel and persons who learn about relevant information of patients with or suspected of having communicable diseases, in the course of their professional duties, and are in violation of the provisions of Article 10;
+
+\5. In violation of the provisions of Paragraph 2 of Article 34.
+
+### Article 64-1
+
+Any person in violation of the provisionss of Article 9 shall be subject to a fine of NT$ 100,000 to NT$ 1,000,000.
+
+### Article 65
+
+Medical institutions meeting one of the following conditions shall be subject to a fine of NT$ 300,000 to NT$ 2,000,000:
+
+\1. Any physician or other personnel employed by the medical institution is penalized in accordance with the provisions provided for in any subparagraph of Article 64 or the preceding article, the institution shall also be penalized;
+
+\2. Refusing, evading, or obstructing the admission and care of patients with communicable diseases prescribed by competent authorities in accordance with the provisions of Paragraph 1 of Article 14;
+
+3.Violating the provisions of Paragraph 1 of Article 29, or Paragraph 4 or Paragraph 5 of Article 39.
+
+### Article 66
+
+When the personnel at an academic or research institution is penalized in accordance with the provisions of Article 64-1 for violation of the provisions of Article 9, the institution shall also be subject to a fine of NT$ 300,000 to NT$2,000,000.
+
+### Article 67
+
+Any individual or entity meeting any one condition of the following is subject to a fine of NT$60,000 to NT$300,000:
+
+\1. In violation of the provisions concerning stockpiling, allocation, and validity management of Paragraph 2 of Article 20, or refusing inspections by the competent authority, or in violation of the provisions of Paragraph 4 of Article 30 concerning fee payment deadlines and the restrictions, prohibition, or management ordered by local competent authorities in accordance with the provisions of Article 35;
+
+\2. Refusing, evading, or obstructing supervision and instruction conducted by competent authorities in accordance with the provisions of Paragraph 2 of Article 29 and Paragraph 1 of Article 32, or measures taken in accordance with the regulations of Subparagraph 1 through Subparagraph 5, Paragraph 1 of Article 37;
+
+\3. In violation of the provisions of Paragraph 1 of Article 38, Paragraph 2 of Article 43, and Paragraph 4 of Article 50 or in violation of the measures implemented by the competent authorities in accordance with the provisions of Paragraph 1 of Article 44 and Paragraph 1 of Article 45;
+
+\4. In Violation of the orders of the competent authorities made in accordance with the provisions of Paragraph 1 of Article 48 on detention for testing, inspection, immunization, medication, or other necessary measures;
+
+\5. Refusing, evading, or obstructing the priority use, requisition, or allocation of government organizations at various levels in accordance with the provisions of Article 52, Paragraph 2 of Article 53, or Paragraph 1 of Article 54.
+
+For medical care institutions that are in violation of the provisions of Paragraph 1 of Article 32 and fail to execute the regulations of competent authorities, or that are in violation of the provisions concerning the infection control measures set by the central competent authority in accordance with the provisions of Paragraph 2, Article 32, competent authorities may order such institutions to make correct in a timely manner, and, may, depending on the gravity of the circumstances, impose a penalty as follows:
+
+\1. A fine of NT$60,000 up to NT$300,000.
+
+\2. Suspension of all or part of operations till improvement is made.
+
+### Article 68
+
+Violation of the regulations regarding prohibition or management set by competent authorities in accordance with the provisions of Article 23 is subject to a fine of NT$60,000 up to NT$300,000; in serious circumstances, suspension of operation for up to one year may also be imposed.
+
+### Article 69
+
+Any individual or entity meeting any one of the following conditions shall be subject to a fine of NT$10,000 to NT$150,000; if necessary, improvements to be made within a specified time may be ordered. If improvement is not made within a specified time, a fine may be imposed each time:
+
+\1. Violation of the provisions of Article 11, Article 12. Article 31, Paragraph 3 of Article 58, Paragraph 1 of Article 59, or the regulations set by the central competent authority under the authorization of Paragraph 3 of Article 34 regarding the possession and use of infectious biological materials, bio-safety management of laboratories, and reporting to competent authorities.
+
+\2. Refusing, evading, and obstructing supervision and inspection conducted by competent authorities in accordance with Paragraph 2 of Article 33.
+
+\3. Failing to report in accordance with the provisions of Article 42.
+
+\4. Violation of the restriction or prohibition orders issued by competent authorities in accordance with the provisions of Article 60.
+
+\5. Violation of the provisions of Subparagraph 1, Subparagraph 1, Subparagraph 2, Subparagraph 4, Paragraph 1 of Article 46, Article 49, Paragraph 1 of Article 50, and failure to cooperate in the collection, laboratory testing, reporting, disinfection, or management of specimens.
+
+In the event of violation of the provisions of Paragraph 2 of Article 33 and failure to execute the regulations of competent authorities, or the regulations decided by the central competent authority in accordance with the provisions of Paragraph 3 of Article 33 regarding the execution of infection control measures, competent authorities may order improvement within the specified time and may enforce the following measures:
+
+\1. Impose a fine of NT$10,000 up to NT$150,000.
+
+\2. Suspend all or part of operations until improvement is made.
+
+### Article 70
+
+Any person meeting one of the following conditions shall be subject to a fine of NT$ 3,000 to NT$ 15,000; when necessary, a deadline may be given for correction. If, however, correction is not made within the specified time, fines will be levied successively:
+
+\1. In violation of the regulations outlined in Paragraph 2 of Article 25;
+
+\2. Refusing, evading or obstructing the orders such as examination, treatment or other measures of disease control and quarantine decided by competent authorities in accordance with the regulations outlined in Article 36;
+
+\3. Refusing, evading, or obstructing the disease control measures announced by government organizations at various levels in accordance with the provisions outlined in Subparagraph 6, Paragraph 1 of Article 37;
+
+\4. In violation of regulations concerning the preservation of specimens and the pathogenic agents detected thereof in accordance with the provisions outlined in Paragraph 2 of Article 46.
+
+Organizations meeting the conditions described in Subparagraph 1 of the preceding Paragraph, if improvements are not made within a specified time and if the issues are severe, when necessary, may be ordered to suspend operations or business.
+
+### Article 71
+
+All the punishments, such as fines and suspension of business operations regulated herein, except violations of the provisions outlined in Article 34 that the central competent authority shall execute, shall be executed by the local competent authorities. Any person meeting one of the following conditions, however, may be subject to any punishment executed by the central competent authority:
+
+\1. In violation of the provisions outlined in Article 9, Article 58 through Article 60;
+
+\2. In violation of the provisions outlined herein during the period when the central epidemic command center is in operation.
+
+## Chapter 7 Supplementary Provisions
+
+### Article 72
+
+Local governments shall budget funds for communicable disease control ; when necessary, the central competent authority may subsidize at discretion.
+
+### Article 73
+
+Individuals, medical institutions, and other organizations concerned with outstanding achievements in the implementation of this Act for disease control shall be awarded; regulations governing awards shall be decided by the central competent authority.
+
+### Article 74
+
+For persons who become injured, ill, physically or mentally impaired or die as result of the implementation of this Act for the control of Category 5 communicable diseases, competent authorities may at their discretion, subsidize various payments or education costs for their children; regulations governing payment items, criteria, qualifications for such application, the procedures thereof and other matters to be complied with shall be decided by the central competent authority.
+
+Funds mentioned in the preceding Paragraph shall be budgeted for payment by the competent authorities.
+
+### Article 74-1
+
+During the implementation period of the Special Act for Prevention, Relief and Revitalization Measures for Severe Pneumonia with Novel Pathogens, those who meet the criteria for disease prevention compensation stipulated in the Special Act but have not applied before the expiration of the Special Act, if the two-year limitation period for claims has not yet expired, can still apply for disease prevention compensation in accordance with the relevant provisions of the Special Act within the two years after the expiration of the Special Act.
+
+### Article 75
+
+If local competent authorities fail to implement matters regulated herein to be implemented by local competent authorities, the central competent authority may order them to implement these matters within a specified time; if they fail to implement the regulations within the specified time, the central competent authority may implement the same on behalf of the local competent authorities; at time of emergency, the central competent authority may directly implement these matters.
+
+### Article 76
+
+The implementation regulations outlined herein shall be decided by the central competent authority.
+
+### Article 77
+
+This Act shall be implemented on the day of promulgation.
+
+## History
+
+1.Formulated in 35 articles by the Nationalist Government and promulgated on December 6, 1944
+
+2.Amended Articles 31 and 32 and promulgated by Presidential Decree on December 28, 1948
+
+3.Amended 40 articles and promulgated by Presidential Decree on January 19, 1983
+
+4.Amended the title (original title: Communicable Disease Control Regulations) and 47 articles and promulgated under Hua-Tsun-1-Yi No. 8800142740 on June 23, 1999
+
+5.Amended Articles 27 and 37 and promulgated under Hua-Tsun-1-Yi No. 09100020670 on January 30, 2002
+
+6.Amended Articles 5 and 31 and promulgated under Hua-Tsun-1-Yi No. 09200248391 on January 7, 2004
+
+7.Amended 75 articles and promulgated under Hua-Tsun-1-Yi No. 09300010081 on January 20, 2004
+
+8.Amended Article 4 and promulgated under Hua-Tsun-1-Yi No. 09500085221 on June 14, 2006
+
+9.Amended and promulgated in 77 articles under Hua-Tsun-1-Yi No. 09600091011 on July 18, 2007.
+
+10.Amended Article 27 and promulgated under Hua-Tsun-1-Yi No. 09700288181 on January 7, 2009
+
+11.Amended and promulgated article 4, 9, 27, 32, 39, 46, 50, 59, 62, 67, 69 under Hua-Tsun-1-Yi No.10200113981 on June 19, 2013
+
+12.Amended and promulgated article 2, 23, 51 under Hua-Tsun-1-Yi No.10300085321 on June 4, 2014
+
+13.Amended and promulgated article 38, 67, 70 under Hua-Tsun-1-Yi No.10400070781 on June 17th, 2015
+
+14.Amended and promulgated article 32, 33, 67-69 under Hua-Tsun-1-Yi No.10400151501 on December 30, 2015
+
+15.Amended and promulgated article 28, 30, 39 under Hua-Tsun-1-Yi No.10700062421 on June 13, 2018
+
+16.Amended and promulgated Articles 63, 64, 65, 66 and added Article 64-1 under Hua-Tsun-1-Yi-No. 10800060021 on June 19, 2019
+
+\17. Added and promulgated Article 74-1 by President Order Hua-Zong-1-Yi No. 11200052341 on June 21, 2023
+
+18.Added and promulgated Articles 61-1 and 61-2 by President Order Hua-Zong-1-Yi No. 11200053931 on June 28, 2023

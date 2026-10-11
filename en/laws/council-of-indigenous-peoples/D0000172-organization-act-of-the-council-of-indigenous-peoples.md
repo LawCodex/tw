@@ -1,0 +1,77 @@
+---
+title: "Organization Act of the Council of Indigenous Peoples"
+title_zh: "原住民族委員會組織法"
+identifier: "D0000172"
+type: act
+law_level: "法律"
+category: "行政＞原住民族委員會＞組織目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2014-01-29
+last_amended: 2025-01-03
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0000172"
+retrieved: 2026-10-12
+---
+
+# Organization Act of the Council of Indigenous Peoples
+
+> Translation. The Chinese text ([zh/laws/council-of-indigenous-peoples/D0000172-organization-act-of-the-council-of-indigenous-peoples.md](../../../zh/laws/council-of-indigenous-peoples/D0000172-organization-act-of-the-council-of-indigenous-peoples.md)) is authoritative.
+
+## Article 1
+
+To integrate the policies and protect the rights and interests of indigenous people, and to handle business related to indigenous people, the Executive Yuan sets up a Council of Indigenous Peoples (hereinafter referred to as the “Council”).
+
+## Article 2
+
+The Council is in charge of the following affairs:
+
+\1. Integrated planning, coordination and promotion of policies, systems and laws and regulations relating to indigenous peoples.
+
+\2. Identification of indigenous persons, recognition of tribal status, and the planning, deliberation, coordination and promotion of the self-governance of indigenous people and of international interactions between indigenous peoples.
+
+\3. Preservation and passing on of the education, culture and language of indigenous peoples and the planning, deliberation, coordination and promotion of communication media.
+
+\4. Planning, coordination and promotion of health improvements, social welfare, protection of employment rights, employment services and legal services for indigenous persons.
+
+\5. Planning, coordination and promotion of the economy, tourism, industries, financial services, residences, infrastructure of tribal regions and protection of traditional intellectual property creations of indigenous people, and the planning, management and guidance of a comprehensive development fund for indigenous peoples.
+
+\6. Survey, planning, coordination, protection, utilization and management of the lands, sea areas, natural resources and traditional biodiversity knowledge of indigenous people, and the research, survey, consultation, planning, coordination, publication, recovery of rights and interests and dispute resolution for traditional indigenous fields.
+
+\7. Supervision, coordination and promotion of all related indigenous cultural development institutions.
+
+\8. Any other affairs in connection with indigenous people.
+
+## Article 3
+
+There is one specially appointed Chairman on the Council (the Minister). The chairmanship shall alternate between a person of mountain indigenous and plains indigenous origin. There are three Deputy Chairman (deputy ministers) on the Council, two of whom shall have a rank equivalent to grade fourteen while one shall have the rank of grade fourteen. Among the three Deputy Chairmen, two shall be mountain or plain indigenous persons, with the Deputy Chairman holding the grade fourteen rank being a mountain or plain indigenous person.
+
+## Article 4
+
+The Council is composed of 19 to 29 members, all serving without remuneration. At least one representative of each of the indigenous tribes of Taiwan shall be appointed to the Council by the Premier of the Executive Yuan through the nomination of the Chairman from among indigenous representatives, relevant governmental representatives, scholars and experts. The term of office of each of the members is two years, and may be continued upon expiration. However, if the member is a related government representative, the term of office of the member is dependent on any changes to his/her position.
+
+Half or more of the members specified in the preceding Paragraph shall be indigenous persons.
+
+## Article 5
+
+The Council shall have a head secretary, with a rank of grade twelve.
+
+## Article 6
+
+The official ranks and number of personnel of each position of the Council will be separately stipulated in an organization chart.
+
+No less than 60% of the personnel specified in the preceding Paragraph with the official title of senior, associate or junior shall be indigenous persons. If the current number of personnel does not reach the ratio of indigenous persons required to be employed under this Act, new personnel shall be employed after non-indigenous public servants vacate their positions.
+
+## Article 7
+
+The date of enforcement of this Act will be prescribed by the Executive Yuan by order.
+
+Amendments to this Act shall take effect from the date of promulgation.
+
+## History
+
+1.January 29, 2014 Presidential decree Hua-tsung-yi-tzu-no.10300013671
+
+2.Amended on January 3, 2025

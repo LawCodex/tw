@@ -1,0 +1,119 @@
+---
+title: "Oath Act"
+title_zh: "宣誓條例"
+identifier: "A0030013"
+type: act
+law_level: "法律"
+category: "行政＞內政部＞民政目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1930-05-27
+last_amended: 2020-06-10
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=A0030013"
+retrieved: 2026-10-12
+---
+
+# Oath Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-the-interior/A0030013-oath-act.md](../../../zh/laws/ministry-of-the-interior/A0030013-oath-act.md)) is authoritative.
+
+## Article 1
+
+This Act governs the oaths of all civil servants stipulated in this Act unless otherwise specified by law.
+
+## Article 2
+
+The following civil servants shall take an oath in accordance with this Act：
+
+\1. Legislators, councilors of the special municipality, county/city councilors, and township/city representatives.
+
+\2. The speaker and deputy speaker of the Legislative Yuan, the speaker and deputy speaker of the council of the special municipality and county/city council, and the chairperson and vice chairperson of township/city council.
+
+\3. Political appointees, directors and deputy directors, and department heads whose rank is above the tenth grade of senior-level civil servants in agencies at various levels of the central government.
+
+\4. Justices of the Judicial Yuan, members of the Examination Yuan, members, President and Vice President of the Control Yuan.
+
+\5. Ambassadors, ministers, charge d'affaires, consul generals, and consuls in the consulate, or other equivalent supervising personnel in diplomatic missions.
+
+\6. Judges of courts at various levels, prosecutors of prosecutorial agencies and judges of administrative courts and judges of disciplinary courts.
+
+\7. Mayors, committee members, and heads of the subordinate institutes of the special municipality
+
+\8. Magistrates and heads of subordinate institutes in county/city
+
+\9. Mayors of township/city
+
+\10. Principals of all-level public schools
+
+\11. Heads, directors, and supervisors of public enterprises and their subordinate institutes, whose rank is above the tenth grade of senior-level civil servants.
+
+## Article 3
+
+Civil servants specified in the preceding article shall take an oath when assuming office.
+
+The persons specified in Subparagraph 1 of the preceding article shall take an oath on alternative dates when they fail to take an oath on designated dates.The persons specified in Subparagraphs 2 to 11 shall take an oath on alternative dates within 3 months if they start to hold the post under specific circumstances earlier than the designated date.
+
+## Article 4
+
+Persons administering oath-taking are specified as follows:
+
+\1. The justice of the Judicial Yuan shall administer the oaths of the legislators, speaker and deputy speaker of the Legislative Yuan; The judge of the equivalent-level court shall administer the oaths of the councilors, speaker, and deputy speaker of council of the special municipality and county/city; and designated personnel from local autonomy supervising government agencies shall administer the oaths of the representatives, chairperson, and deputy chairperson of township/city council.
+
+\2. The President or designated persons shall administer the oaths of the political appointees of the central government, justices of the Judicial Yuan, members of the Examination Yuan, members, president, and vice president of the Control Yuan, and ambassadors and ministers.
+
+\3. The oaths of the remaining personnel specified in Article 2 shall be administered by the heads of working agencies, heads of supervising agencies, or designated persons.
+
+## Article 5
+
+Oaths shall be taken in the working offices or places designated by the supervising agency in a public manner. Persons taking an oath shall stand at attention and face to the national flag and the picture of Dr. Sun Yat-sen, raise the right hand up with an open palm, fingers together, and palm facing forward, and read oaths.
+
+## Article 6
+
+Oaths shall include:
+
+\1. For the persons stipulated in Subparagraph 1 of Article 2: I do solemnly and sincerely swear that I will observe the Constitution, be loyal to the nation, and perform duties on behalf of nationals without playing favorites and committing irregularities, pursuing personal profits, taking bribes, or interfering the judicial process. Should I break my oath, I shall be willing to submit myself to the severest punishment. This is my solemn oath.
+
+\2. For the persons stipulated in Subparagraphs 2 to 11 of Article 2: I do solemnly and sincerely swear that I will observe all the national regulations, faithfully perform my duties, and contribute myself to the nation without wasting public money, employing improper personnel, playing favorites and committing irregularities, and taking bribes. Should I break my oath, I shall be willing to submit myself to the severest punishment. This is my solemn oath.
+
+## Article 7
+
+Oath documents shall be signed and stamped by the person who takes the oath and be submitted to the agency of the supervisor for future reference.
+
+## Article 8
+
+Civil servants specified in Article 2 shall be deemed as not assuming office if they fail to take an oath in accordance with this Act; as stipulated in Paragraph 2 of Article 3, the positions of the civil servants who fail to take an oath on an alternative date shall be deemed vacant; as stipulated in Paragraph 3 of Article 3, failure to take an oath within three months shall be deemed as resignation. However, if the causes of failing to take an oath can not be attributable to the oath takers, these regulations shall not apply.
+
+## Article 9
+
+Any oath taker who breaks his oath shall be imposed severe punishments in accordance with the law.
+
+## Article 10
+
+This Act shall take effect on the date of promulgation.
+
+## History
+
+1.The full text of 11 Articles enacted and promulgated by National Government on 27 May 1930
+
+2.The full text of 10 Articles amended and promulgated by National Government on 9 Jan. 1942
+
+3.The full text of 12 Articles amended and promulgated by National Government on 30 Dec. 1943
+
+4.The full text of 9 Articles amended and promulgated by National Government on 16 July 1947
+
+5.The full text of 9 Articles amended and promulgated by President Order on 12 June 1953
+
+6.Article 2, Article 3, and Article 5 amended and Article 6-1 added by President Order on 9 May 1979
+
+7.The full text of 10 Articles amended and promulgated by President Order on 21 Nov. 1983
+
+8.Article 2 and Article 4 amended and Promulgated by President Order on 27 Jan. 1993
+
+9.Article 3 and Article 8 amended and Promulgated by President Order on 18 Jan. 1995
+
+10.Article 2, Article 3, Article 4, Article 6, and Article 8 amended and Promulgated by President Order Hua-Tsung-Yi-Yi-Tzu No. 09500069741 on 17 May 2006
+
+11.Article 2 amended and Promulgated by President Order Hua-Tsung-Yi-Yi-Tzu No. 10900064871 on 10 June 2020

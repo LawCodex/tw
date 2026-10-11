@@ -1,0 +1,441 @@
+---
+title: "The Act of Irrigation Association Organization"
+title_zh: "農田水利會組織通則"
+identifier: "M0100001"
+type: act
+law_level: "法律"
+category: "行政＞農業部＞農田水利目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1965-07-02
+last_amended: 2018-01-31
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0100001"
+retrieved: 2026-10-12
+---
+
+# The Act of Irrigation Association Organization
+
+> Translation. The Chinese text ([zh/laws/ministry-of-agriculture/M0100001-the-act-of-irrigation-association-organization.md](../../../zh/laws/ministry-of-agriculture/M0100001-the-act-of-irrigation-association-organization.md)) is authoritative.
+
+## Chapter I, General Provisions
+
+### Article 1
+
+The Irrigation Association is established promote farmland water conservancy activities on behalf of the government.
+
+The Irrigation Association is a public juridical person.
+
+### Article 2
+
+Guidelines to organizational structures and pertinent details of the Irrigation Associations are governed by this Act. Issues not addressed by this Act shall be governed by other relevant acts.
+
+### Article 3
+
+The Irrigation Association adopts designations specific to the region or names associated with the reservoirs and canals within that particular region.
+
+### Article 4
+
+The Competent Authority of this Act is the Council of Agriculture of the Executive Yuan.
+
+## Chapter II, Regions and Establishments
+
+### Article 5
+
+The Competent Authority shall establish activities areas based on river basin, their specific geographic environment and economic benefit.
+
+### Article 6
+
+Initiation of Irrigation Association is conducted according to one of the following Subparagraphs:
+
+\1. Initiation of Irrigation Association can be applied by 50 members or above in the activities areas with qualifications specified in the first Paragraph of Article 14. The applicants shall report to the Competent Authority for approval;
+
+\2. Initiation of Irrigation Association deemed necessary by the Competent Authority.
+
+### Article 7
+
+For preparations of Irrigation Association and its arrangement agencies of the initiator organizations, the Competent Authority can supervise and guide these matters and agencies.
+
+### Article 8
+
+Preparation agency of Irrigation Association shall put forth application forms, an organization constitution draft, activities zone map, activities proposal, budget proposal and roster of overall qualified members in activities area, and consent with joint signatures by more than half of the qualified members. They shall file an operation application to the Competent Authority for establishment approval.
+
+### Article 9
+
+In cases of natural environmental change or alteration of water resources plan after initiation of Irrigation Association, the Competent Authority may determine to merge, divide, alter or eliminate individual Irrigation Association and activities area thereof ex offcio or in accordance with application with Irrigation Association.
+
+Application in the preceding Paragraph shall be under resolution of advisory council and consent with joint signatures of more than half of qualified members.
+
+## Chapter III, Missions and Rights
+
+### Article 10
+
+Missions of the Irrigation Association are stipulated as the following:
+
+\1. Construction, improvement, maintenance, and management of farmland water conservancy activities;
+
+\2. Prevention of disasters and post-disaster response measures for farmland water conservancy activities;
+
+\3. Expenditures raising and fund initiation for farmland water conservancy activities;
+
+\4. Research and development for interest of farmland water conservancy activities;
+
+\5. Collaboration with government over land, agricultural, industrial policies, and rural village development;
+
+\6. Assignments by the Competent Authority in accordance with law.
+
+### Article 11
+
+Irrigation Association shall lease or purchase land for constructing or improving water conservancy facilities from landowner or rights-holders. Irrigation Association shall request authorization from the Competent Authority to expropriate the land according to law in cases of purchase or lease proposal fail to reach agreement; in cases of public land, Irrigation Association may apply for leasing or purchasing.
+
+Land provides for purpose of water conservancy shall be used as before; land taxes shall be exempted during the period of land use.
+
+### Article 12
+
+In cases of proceeding measurement for water conservancy construction such that removal of obstacles is necessary, Irrigation Association shall request local county or city government in jurisdiction to notify landowner or possessor to proceed removal.
+
+In cases of damage resulting from removal in the preceding Paragraph, landowner or possessor may request compensation; in cases of relevant controversy, the Competent Authority shall determine according to report from Irrigation Association.
+
+### Article 13
+
+Irrigation Association may report to the Competent Authority for water resources to handle emergency rescuing action resulting from flood event in accordance with Article 76 of the Water Act and relevant regulations.
+
+## Chapter IV, Members and Organization
+
+### Article 14
+
+Those beneficiary who meet any one of the following Subparagraph, within farmland water conservancy activities area, shall become a member:
+
+\1. Representative of administrative agency or utilizing agency of public farmland;
+
+\2. Owner or dian-holder of private farmland;
+
+\3. Lessee or permanent tenants of public or private farmland;
+
+4.Other beneficiaries.
+
+If the owner, dian-holder, lessee, permanent tenant, or beneficiary mentioned in the Subparagraph 2, 3 and 4 of the aforementioned Paragraph is a juridical person, whose supervisor or representative is a member.
+
+### Article 15
+
+Members of Irrigation Association are entitled to utilize irrigation and drainage facilities, and rights stipulated in pertinent regulations and its organization constitution.　Members are obliged to pay membership fees and fulfill obligations stipulated in pertinent regulations and association articles.
+
+In cases of member fails to fulfill obligations, Irrigation Association shall report to the Competent Authority for approval to suspend part, or all of rights of member.
+
+In cases of Irrigation Association violating regulations or its organization constitution , or other inappropriate act leading to injury of member, member may claim compensation to injury actually suffered.
+
+### Article 15-1
+
+Member of Irrigation Association entitled to elect or recall president and advisory committee is necessary of be qualified as requirements in the following Subparagraphs:
+
+\1. Members of natural person shall reach the twentieth year of age;
+
+\2. Continuous membership for more than 6 months;
+
+\3. Owning farmland entitled to utilize irrigation or drainage facilities which total area shall be more than 0.01 hectare.
+
+The calculation of land area related to Subparagraph 3 of the aforementioned Paragraph shall be in accordance with land register of land office; the valid date of record shall be 60 days before the voting date. In cases of land register do not specify land rights ratio, the land area of individual landowner is averagely calculated according to number of interested parties.
+
+The Competent Authority may request land office and household registration authority to provide cadastral data of land in farmland water conservancy activities area and household registration data of interested parties, and then transfer to individual Irrigation Association. Both data above shall be made, with duty of care of good administrators, in accordance with the provisions of the Personal Information Protection Act.
+
+Regulations governing for membership qualification in Article 14 and Paragraph 1 of this Article, making, updating roster of member in preceding Paragraph, and providing in the roster to president and candidate of advisory committee of Irrigation Association shall be stipulated by the Competent Authority.
+
+### Article 16
+
+Irrigation Association shall initiate advisory council consisting of 15 to 33 advisory committee. Number of advisory committees shall be determined according to irrigation or drainage farmland area in farmland water conservancy activities area. The advisory committee shall be elected by members of individual Irrigation Association. Advisory committee shall be unpaid, but would be reimbursed with transportation fares and postal and telecommunication fees. Standards of transportation fares and postal and telecommunication fees for the advisory committee shall be stipulated by the Competent Authority.
+
+Advisory committee conference shall be held every six months. In case of one-third of the committee request or president deems it necessary, president shall convene such conference and notify the Competent Authority for future reference.
+
+Advisory committees shall elect a chairman to host the conference. Regulations for governing organization, procedures, matters of conference, and other relevant matters that must be followed shall be stipulated by the Competent Authority.
+
+### Article 17
+
+Members reaching twenty-third years of the age and having continuous membership for more than one year may register as a candidate of advisory committee of the Irrigation Association.
+
+Advisory committee has a four-year term of office and is eligible for re-election. Regulations for governing registration for election, qualification censoring, proposal for recall, joint signature, procedure, conditions of establishment, voting and vote counting, announcement, dispute resolution for election of the advisory committee and other relevant matters that must be followed shall be stipulated by the Competent Authority.
+
+### Article 18
+
+The authorities of the advisory committee include the following:
+
+1.To deliberate on organization constitutions and matters related to membership rights and obligations, like membership suspension;
+
+2.To deliberate on　project planning　proposal;
+
+\3. To deliberate on disposal of real property, creation a right in rem or leases that extend for more than 10 years;
+
+4.To deliberate on loans and donation programs;
+
+\5. To deliberate on annual budgets and financial accounts;
+
+6.To deliberate on proposal by president and advisory committee;
+
+\7. To resolve petitions by members;
+
+\8. Other authorities stipulated by laws.
+
+Exercise of authorities in Subparagraphs of preceding Paragraph shall be implemented by convening conferences. Deliberation and resolutions in Subparagraphs 1 to 6 shall be implemented under authorization of the Competent Authority.
+
+In cases of exercise of authorities is controversial or floundering, advisory council shall report to the Competent Authority for resolutions.
+
+Advisory council shall not make resolutions for increasing budget expenditures.
+
+### Article 19
+
+President shall manage operation of Irrigation Association, supervise employees and activities agencies in accordance with law and its organization constitution , and represent Irrigation Association externally.
+
+President is elected by members having voting rights through direct election.
+
+### Article 19-1
+
+Members reaching thirtieth years of the age, having continuous membership for more than one year, and meeting one of the following qualifications, may be registered as a candidate for president of the Irrigation Association:
+
+1.With a diploma issued by high school certified by the Competent Education Authority, or passing Civil Service Examination and having more than 8 years of experience in governmental agencies or administrative work, water conservancy, civil engineering, and agriculture related in Irrigation Association;
+
+\2. Serving as president, or general manager for more than 4 years, and class 1 supervisor for more than 6 years for Irrigation Association.
+
+Regulations for governing registration of election, qualification censoring procedure, proposal for recall, joint signature, procedure, conditions of establishment, voting and cote counting, announcement, dispute resolution for president, and other relevant matters that must be stipulated by the Competent Authority.
+
+### Article 19-2
+
+Members meeting one of the following circumstances shall not registered as a candidate for president or advisory committee of Irrigation Association:
+
+\1. Suspension of rights of member and not yet been reinstated;
+
+\2. Deprivation of civil rights and not yet been reinstated;
+
+\3. A member who has committed the offense of civil disturbance or the offense of treason, and convicted with no further right of appeal;
+
+\4. A member who has committed the offense of fraudulence, embezzlement, breach of trust, and corruption, and convicted with no further right of appeal;
+
+\5. A member who has committed the offense of vote-buying, bribe-taking, interfering with balloting, campaign irregularities or monopolizing vote-buying , and convicted with no further right of appeal;
+
+\6. A member who has committed the offense of Paragraph 1 of Article 38-1 or Article 38-2 of this Act , and convicted with no further right of appeal ;
+
+\7. A member who has committed an crime other than the offenses set forth in the preceding four subparagraphs, and sentenced to imprisonment with the penalty is pending enforcement or enforced but not completed . Despite that, those who are reprieved or sentenced to less than six months in prison with the sentence which may be alternatively converted into a fine are excluded from this ruling;
+
+8.A member who is subject to    compulsory labor, and with no further right of interlocutory appeal, with the penalty to be enforced, or enforced but not completed, or completed within the past five years; a member who is subject to other rehabilitative measures, and with no further right of  interlocutory appeal, with the penalty to be enforced, or enforced but not completed. However, this provision shall not apply to those subject to probation under protective measure;
+
+\9. Been discharged from president or appointed position of Irrigation Association .
+
+In cases of election which notice of election has been announced before April 20, 2010, regulations prior to the amendment shall apply to the election instead of preceding Paragraph of this Article.
+
+### Article 20
+
+President has a four-year term of office and is eligible for one re-election.
+
+### Article 21
+
+In cases of president is vacant, the general manager shall serve as deputy. By-election for president shall be held within 60 days since deputy serve; By-elected president shall resume term of office of former president, and be counted as one term. In cases of remaining term of office of former president less than one year, by-election shall not be held.
+
+### Article 22
+
+Regulation for governing association articles and certified staff, appointment of employees on each level, salary, management shall be stipulated by the Competent Authority.
+
+### Article 23
+
+President and full-time staffs on each level of Irrigation Association shall be considered civil servants, as interpreted by Criminal Code, and shall not concurrently serve in other public sectors.
+
+Personnel of preceding Paragraph shall strictly obey administrative neutrality in conformity mutatis mutandis with Administrative Neutrality Act, executing their duties in accordance with law, and implement the government policy. In cases of violation, punishment shall be imposed depending on seriousness in accordance with relevant regulations.
+
+## Chapter V, Funding
+
+### Article 24
+
+Sources of funding of Irrigation Association shall be as the following:
+
+1.Membership dues;
+
+\2. Activities revenue;
+
+3.Financial income;
+
+4.Government subsidies;
+
+5.Donations and  gifts;
+
+6.Income from other legal sources as stipulated  in relevant regulations.
+
+Income in Subparagraphs of preceding Paragraph are exempted from business and income taxes.
+
+### Article 25
+
+Membership dues of Irrigation Association shall be collected from members benefiting from irrigation and drainage facilities.
+
+Membership dues may increase for members who request to increase irrigation water volume or the benefit from drainage irrigation in accordance with level of benefit of members.
+
+Membership dues that have not been collected for five years since the due day shall not be collected. But, in cases of membership dues have been petitioned into compulsory enforcement procedure before five years period expires and not been closed, this Paragraph not apply.
+
+Before membership dues in preceding Paragraph resumes collection, the government shall budget to subsidize Irrigation Association.
+
+### Article 26
+
+The Irrigation Association may collect construction fees from members who directly benefit from farmland water conservancy facilities under authorization or appointment by the Competent Authority in accordance with practical needs of Irrigation Association. Construction fees shall be collected annually since the second year member benefit from facilities, and shall be limited to total amount of construction fees.
+
+In cases of original purpose of benefited land is changed, landowner shall be responsible for unpaid construction fees. In cases of ownership of land is transferred, heir of land shall be responsible for paying construction fees.
+
+### Article 27
+
+New members, or members who benefit from expansion of constructed facilities, shall share construction fees proportionally; Collected construction fees shall be special funds, which shall not be used without authorization of the Competent Authority.
+
+### Article 28
+
+Irrigation Association may collect construction access fees and saved water access fees as income of activities.
+
+### Article 29
+
+Regulations for governing applicable party, category, collecting procedures and guidelines for calculation of individual fees collected by Irrigation Association in Articles 25 to 28 shall be stipulated by the Competent Authority.
+
+### Article 30
+
+Membership dues and construction fees in this Act, in cases of not paid by obligators as scheduled, delinquent fees shall be accumulated in rate of one percent of outstanding fees for every three days.　But, accumulated delinquent fees shall not exceed ten percent of outstanding fees.
+
+In cases of membership dues and construction fees in preceding Paragraph being overdue more than 30 days, Irrigation Association shall submit documents evidencing receivables along with delinquent fees to petition enforcement court for compulsory enforcement. Court ruling may be appealed but shall not be re-appealed. Enforcement court shall make ruling in seven days.
+
+### Article 31
+
+Total annual revenue of Irrigation Association, except necessary expenditures on personnel and administrative expenses, shall be used for construction, maintenance, and improvement of water conservancy facilities; provident funds, disaster relief funds and reserve funds shall be contributed with discretion.
+
+Provident funds and reserve funds in preceding Paragraph shall not be used without authorization of the Competent Authority.
+
+### Article 32
+
+Funding of Irrigation Association shall be collected and managed by financial institutions designated by the Competent Authority. Twenty percent of profits shall be appropriated for costs of counseling and assistance from Joint Irrigation Association.
+
+### Article 33
+
+Annual revenue and expenditure of Irrigation Association shall be budgeted and incorporated into financial statements.
+
+Regulations for governing budget, financial statements in preceding Paragraph and other relevant matters must be followed shall be stipulated by the Competent Authority.
+
+### Article 34
+
+Accounting systems of individual Irrigation Association shall be consistent; financial reports, accounts, vouchers and internal audit procedures of accounting systems shall be stipulated by the Competent Authority.
+
+Regulations for governing custody, use, property disposal of funding of Irrigation Association, and other disposal of financial affairs shall be stipulated by the Competent Authority.
+
+## Chapter VI, Supervision, counseling and assistance
+
+### Article 35
+
+Business of Irrigation Associations shall be assisted, counseled, and supervised by the Competent Authority; regulations for governing supervision, counseling, assistance, and other matters must be followed shall be stipulated by the Competent Authority.
+
+### Article 36
+
+In cases of Irrigation Association found to violate law, neglect of duties, or interfere with public interest, the Competent Authority shall impose correcting actions or restraints. In cases of serious violation, the Competent Authority may rectify or take over Irrigation Association for re-organization.
+
+### Article 37
+
+President or advisory committee of Irrigation Association shall be dismissed from office in cases of one the following:
+
+\1. A person who has committed the offense of civil disturbance or the offense of treason, and convicted with no further right of appeal;
+
+\2. A person who has committed the offense of fraudulence, embezzlement, breach of trust, and corruption, and convicted with no further right of appeal;
+
+3.A person who has committed a crime other than the offenses set forth in the preceding two subparagraphs, and sentenced to imprisonment without probation or a fine is not imposed in lieu of imprisonment by a final judgment;
+
+\4. A person who is subject to   rehabilitative measures or educational discipline, and with no further right of interlocutory appeal. However, this provision shall not apply to those subject to probation under protective measure;
+
+\5. Deprivation of civil rights and not yet been reinstated;
+
+\6. Receiving the order of the commencement of guardianship or assistance and not yet been revoked.
+
+Regulations for governing performance appraisal, rewards and punishments for president and advisory committee of Irrigation Association shall be stipulated by the Competent Authority.
+
+### Article 38
+
+President and advisory committee shall not have the following conducts:
+
+\1. Directly, or indirectly contract projects, or promote the sales of materials or merchandise to individual Irrigation Association;
+
+2.Profit by abusing  authorities or public funds;
+
+3.Disclose official secrets to illegally benefit another;
+
+4.Other conducts violating the laws.
+
+### Article 38-1
+
+A person who has the following acts in election of Irrigation Association shall be sentenced to imprisonment for not more than three years; in addition thereto, a fine of no more than NT$90,000 may be imposed:
+
+1.A qualified voter who demands, agrees to accept, or accepts a bribe or other improper benefit for refraining from exercising his right to vote or for exercising such right in a particular manner;
+
+\2. A person who promises, offers, or gives a bribe or other improper benefit to a qualified voter for refraining from exercising his right to vote or for exercising such right in a particular manner;
+
+\3. A person who promises, offers, or gives a bribe or other improper benefit to a candidate for abandoning campaign or campaigning in a particular manner;
+
+\4. A candidate who demands, agrees to accept, or accepts a bribe or other improper benefit for abandoning campaign or campaigning in a particular manner.
+
+Properties received through the commission of offense specified in the preceding paragraph shall be confiscated. If the whole or a part of such property cannot be confiscated, the value thereof shall be collected from the offender.
+
+### Article 38-2
+
+A person who by threat, violence, or other illegal means interfere with another in his campaign, abandoning his or free exercises of his right to vote shall be sentenced to imprisonment for not more than five years; in addition thereto, a fine of no more than NT$150,000 may be imposed.
+
+An attempt to commit an offense specified in the preceding paragraph shall be punishable.
+
+## Chapter VII, Supplementary Provisions
+
+### Article 39
+
+To promote mutual cooperation and developments, Joint Irrigation Association is initiated.
+
+The Joint Irrigation Association is a juridical person.
+
+### Article 39-1
+
+(Removed)
+
+### Article 40
+
+The election of president and advisory committee shall be halted since the articles of this Act amended on January 17, 2018 comes into effect. Term of office of the 4th president and advisory committee of individual Irrigation Association terminate on September 30, 2020; regulations for governing election and term of office of president and advisory committee Paragraph 1 of Article 15-1, Paragraph 1 of Article 16, Article 17, Paragraph 2 of Article 19, Article 19-1, Article 19-2 and Article 20 shall not apply.
+
+In cases of advisory committee in preceding Paragraph is vacant in his term, by-election shall not be held. In cases of president in preceding Paragraph is vacant in his term or his term expires, the Competent Authority shall appoint a deputy having no circumstances of Paragraph 1 of Article 19-2 and having one of qualifications in the following to which Article 21 does not apply:
+
+\1. A person who passed an examination superior to Civil Service Junior Examination or a Special Examination superior to Civil Service Junior Examination; the person shall serve or had served as a senior rank civil service (Grade 10).
+
+\2. A person had served as supervisor I in Irrigation Association for more than 6 years.
+
+\3. A person who had served as president, or general manager of Irrigation Association for more than 4 years.
+
+Matters relating to re-organization of Irrigation Association, assets disposal, and employment rights protection thereof shall be regulated in a particular law.
+
+### Article 41
+
+This Act shall come into effect the day they are promulgation.
+
+The Articles of this Act amended on December 22, 2009 shall come into effect on November 23, 2009.
+
+## History
+
+\1. The enacted Act with all 41 articles was promulgated by the Presidential Decree on July 2, 1965.
+
+\2. The amended Articles 11, 16, 17, 19, 20, 26, 35 and 37 were promulgated by the Presidential Decree on February 9, 1970.
+
+\3. The amended Articles 16, 19, 20 and 25 were promulgated by the Presidential Decree tai-tong-yi-yi-zi No.7202 on December 17, 1980.
+
+\4. The amended Article 23 was promulgated by the Presidential Decree hua-zong-yi-yi-zi No.3912 on August 2, 1991.
+
+\5. Articles 1, 4, 9, 13, 15~22, 35 and 37~39 were amended, Article 39-1was added and promulgated by the Presidential Decree hua-zong-yi-yi-zi No.0452 on February 3, 1993.
+
+\6. The amended Article 39-1 was promulgated by the Presidential Decree hua-zong-yi-yi-zi No.8754 on November 8, 1995.
+
+\7. The amended Act with all 41 articles was promulgated by the Presidential Decree hua-zong-yi-yi-zi No. 8900118950 on May 17, 2000.
+
+\8. Articles 4, 16, 17, 19~22, 24, 25, 37 and 39 were amended, Articles 19-1 and 19-2 were added, Article 39-1 was deleted and promulgated by the Presidential Decree hua-zong-yi-yi-zi No. 9000120780 on June 20, 2001.
+
+\9. The amended Articles 23, 37 and 41were promulgated by the Presidential Decree hua-zong-yi-yi-zi No. 09900005611 on January 13, 2010; the amendment was set to be effective since November 23, 2009.
+
+\10. Article 19-2 was amended, Articles 38-1 and 38-2 were added and promulgated by the Presidential Decree hua-zong-yi-yi-zi No. 09900110331 on April 30, 2010.
+
+\11. The amended Articles 4~9, 11, 15~18, 19-1, 22, 27, 29, 32~37 and 39 were promulgated by the Presidential Decree hua-zong-yi-yi-zi No. 10100021421 on January 30, 2012.
+
+\12. Articles 16, 17, 19 and 19-1 were amended, Article 15-1 was added and promulgated by the Presidential Decree hua-zong-yi-yi-zi No. 10500040021 on May 11, 2016.
+
+\13. The amended Articles 23, 35 and 40 were promulgated by the Presidential Decree hua-zong-yi-yi-zi No. 10700010301 on January 31, 2018.
+
+The announcement was made on July 27, 2023 by the Executive Yuan Order yuan-tai-gui-zi No. 1125014346. The relevant matters set out in Article 4, Article 5, Article 6, Article 7, Article 8, Paragraphs 1 of Article 9, Item 6 of Article 10, Paragraphs 1 of Article 11, Paragraphs 2 of Article 12, Paragraphs 2 of Article 15, Paragraphs 3,4 of Article 15-1, Article 16, Paragraphs 2 of Article 17, Paragraphs 2,3 of Article 18, Item 1 of Paragraphs 1 of Article 19-1, Paragraphs 2 of Article 19-1, Article 22, Paragraphs 1 of Article 26, Article 27, Article 29, Paragraphs 2 of Article 31, Article 32, Paragraphs 2 of Article 33, Article 34, Article 35, Article 36, Paragraphs 2 of Article 37 and the preamble of Paragraphs 2 of Article 40 pertaining to “Council of Agriculture, Executive Yuan” shall be handled by “Ministry of Agriculture” as governing body, effective August 1, 2023.
+
+(In accordance with Paragraph 2 of Article 34 of the Irrigation Act, starting from the date when this Act comes into effect, the Act of Irrigation Association Organization shall no longer apply.)

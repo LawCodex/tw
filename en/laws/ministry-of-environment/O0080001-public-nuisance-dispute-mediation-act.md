@@ -1,0 +1,401 @@
+---
+title: "Public Nuisance Dispute Mediation Act"
+title_zh: "公害糾紛處理法"
+identifier: "O0080001"
+type: act
+law_level: "法律"
+category: "行政＞環境部＞綜合規劃目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1992-02-01
+last_amended: 2009-06-17
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0080001"
+retrieved: 2026-10-12
+---
+
+# Public Nuisance Dispute Mediation Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-environment/O0080001-public-nuisance-dispute-mediation-act.md](../../../zh/laws/ministry-of-environment/O0080001-public-nuisance-dispute-mediation-act.md)) is authoritative.
+
+## Chapter 1 General Principles
+
+#### Article 1
+
+This Act is formulated to fairly, promptly and effectively handle public nuisance disputes, to safeguard the rights and interests of the people, and to improve social harmony.
+
+#### Article 2
+
+The term “public nuisance” referred to in this Act means human activities which destroy the living environment, and damage or endanger public health. Such activities include water pollution, air pollution, soil pollution, noise, vibration, noxious odors, waste, toxic substance pollution, land subsidence, radioactive pollution and other activities designated and officially announced as public nuisances by the central competent authority.
+
+“Public nuisance dispute” as referred to in this Act means a civil dispute resulting from a public nuisance or possible occurrence of a public nuisance.
+
+#### Article 3
+
+Pursuant to this Act, parties to public nuisance disputes may apply for mediation or arbitration.
+
+## Chapter 2 Organizations Handling Public Disputes
+
+### Subchapter 1 Mediation Committees
+
+#### Article 4
+
+All special municipalities and county (city) government shall establish their own public nuisance dispute mediation committee (herein referred to as “mediation committee”) to mediate public nuisance disputes.
+
+#### Article 5
+
+A mediation committee shall consist of nine to 21 members. One of the members shall be the chairman of the committee.
+
+The chairman of the mediation committee in special municipalities shall be the mayor of that municipality, or a suitable person designated by the mayor. The county commissioner or city mayor shall be the chairman of the mediation committee in a county or city. Other members of the committee shall be selected and appointed by the special municipality mayor, county commissioner or city mayor from among representatives of relevant agencies, environmental protection, legal and medical scholars and experts and impartial citizens. Scholars, experts and impartial citizens shall make up no less than two thirds of the total committee membership.
+
+#### Article 6
+
+The term of each member of a mediation committee shall be three years. Members may be reappointed.
+
+Should a member of a mediation committee resign his or her position, the successor shall serve until the end of the original term.
+
+#### Article 7
+
+Mediation committee members shall exercise their powers independently and in accordance with the law. A member may not be dismissed during his or her term unless any of the following situations occur:
+
+I. the member receives a prison sentence or more
+
+II. the member declares bankruptcy, or has been declared mentally incompetent or under guardianship
+
+III. the member is a civil servant and is dismissed or suspended from his or her position as a result of disciplinary action
+
+IV. the member is unable to execute his or her duties due to physical or mental handicap
+
+#### Article 8
+
+After being drafted and promulgated the organizational rules of the mediation committee shall be submitted by the special municipality and county (city) governments to the Environmental Protection Administration, Executive Yuan, for future reference.
+
+### Subchapter 2 Arbitration Panel
+
+#### Article 9
+
+The Environmental Protection Administration of the Executive Yuan, shall set up a Public Nuisance Dispute Arbitration Panel (herein referred to as the “Arbitration Panel”) to arbitrate public nuisance disputes over damage claims unresolved by mediation procedures.
+
+#### Article 10
+
+The Arbitration Panel shall consist of one chairperson and from seven to eleven members.
+
+The members of the Arbitration Panel shall be selected by the director of the Environmental Protection Administration, Executive Yuan, from among respected impartial individuals with expertise in environmental protection, law, medicine, or other relevant disciplines. The list of selected members shall be submitted to the Executive Yuan for approval prior to appointment.
+
+#### Article 11
+
+The chairperson of the Arbitration Panel shall serve full-time. Other members of the panel may serve part-time.
+
+The chairperson of the Arbitration Panel shall possess one of the following qualifications:
+
+I. be a qualified judge, prosecutor or public defender
+
+II. be a qualified lawyer
+
+III. have served as a full-time professor for two years, or full-time associate professor for three years, in the law department or in a legal research institute at a public or a registered private university or independent college, or have lectured on legal subjects for more than three years
+
+IV. have served for more than five years in a government legal or appeals agency at any government level, and have more than three years experience of handling affairs concerning laws and regulations or appeals.
+
+#### Article 12
+
+The organizational rules of the Arbitration Panel shall be drafted by the Environmental Protection Administration of the Executive Yuan, and be submitted to the Executive Yuan for approval prior to promulgation.
+
+#### Article 13
+
+The regulations in Article 6 and 7 shall apply to the members of the Arbitration Panel.
+
+## Chapter 3 Settlement Procedures
+
+### Subchapter 1 Mediation
+
+#### Article 14
+
+A party to a public nuisance dispute may apply for mediation by submitting an application form to the mediation committee in the special municipality, county (city) where the public nuisance dispute or damage occurred.
+
+One-third of the mediation committee's members must be present for the committee to be in quorum. However, following the agreement of the two parties, a dispute may be mediated by one or several committee members.
+
+#### Article 15
+
+The chairperson of the mediation committee shall act as chairperson when the committee convenes. When the chairperson is unable to attend a meeting for some reason, the attending committee members shall select one member to act as chairpoerson.
+
+#### Article 16
+
+Should one of the following situations occur, the Arbitration Panel shall assign jurisdiction to a mediation committee upon the application by a party to a dispute or by the mediation committee in a special municipality, county (city):
+
+I. the origin of a public nuisance dispute or damages covers several special municipalities, counties (cities);
+
+II. two or more mediation committees disagree on the jurisdiction of a dispute
+
+III. the mediation committee with jurisdiction cannot mediate the dispute on de jure or de facto grounds
+
+IV. it is not clear which mediation committee shall have jurisdiction because of poor delineation of territorial jurisdiction
+
+No objection may be made against the designation of jurisdiction referred to in the foregoing paragraph.
+
+#### Article 17
+
+A committee member shall voluntarily recuse himself or herself when a dispute involves that member or members of his or her family.
+
+#### Article 18
+
+If a mediation committee considers an application for mediation to be illegal, the application must be rejected clearly stating the reasons for rejection. However, in those circumstances in which corrections can be made, a committee shall order the applicant to make corrections within a designated period.
+
+The same procedure shall apply when the situation described in the foregoing paragraph is discovered during the mediation process.
+
+When a mediation committee considers a dispute to fall outside its jurisdiction, that dispute shall be transferred to the mediation committee holding jurisdiction.
+
+#### Article 19
+
+Several parties sharing common interests in a public nuisance dispute may jointly apply for mediation. During the process of mediation, a third person claiming to share a common interest with an involved party may, upon the approval of the mediation committee, join the ongoing mediation process as a party.
+
+The mediation committee shall consider the opinions of the original parties when granting the approval referred to in the foregoing paragraph.
+
+#### Article 20
+
+Several persons sharing a common interest in a public nuisance dispute may elect, among themselves, one or several persons to apply for mediation or proceed with mediation on behalf of all.
+
+The elected person or persons may be replaced, or their number increased or reduced.
+
+The election referred to in Paragraph 1 above, and the replacement, increase and reduction referred to in the foregoing paragraph of this Article, shall be conducted in writing, and the person or persons concerned shall be notified.
+
+#### Article 21
+
+Should the mediation committee consider it appropriate for several persons sharing a common interest in a public nuisance dispute to elect a party among themselves to proceed with the mediation, the mediation committee may recommend or assist parties in doing so.
+
+#### Article 22
+
+The person or persons elected pursuant to the two foregoing articles may not withdraw an application for mediation, reach an agreement, or agree upon a mediation proposal without special written authorization by those who elected them.
+
+#### Article 23
+
+The mediation procedure shall proceed in public. However, those circumstances in which the mediation committee deems that the mediation will be obstructed if conducted in public, and in which this determination receives the approval of the concerned parties, shall not be subject to this restriction.
+
+#### Article 24
+
+A mediation committee may request assistance from relevant agencies to investigate evidence.
+
+When the investigation referred to in the foregoing paragraph only can be carried out by a court of law, the mediation committee may request assistance from a court of law.
+
+A court acting upon such a request shall have all the powers of a court of law concerning the investigation of evidence.
+
+#### Article 25
+
+A mediation committee may commission the environmental protection competent authority, other relevant agencies, organizations and groups, or experts and scholars possessing professional knowledge, to perform necessary appraisals for the purposes of determining the reasons and responsibilities concerning a public nuisance dispute. All expenses for the appraisals shall first be borne by the government. If one of the parties later is found responsible for the damages arising from the public nuisance dispute, that party shall be responsible for bearing the expenses and also reimbursing the government.
+
+#### Article 26
+
+The members of the mediation committee shall sincerely and amicably provide both parties with appropriate advice and assist the parties in reaching an agreement.
+
+When an agreement is reached by the two parties, a mediation is achieved.
+
+#### Article 27
+
+Should the parties have difficulty in reaching an agreement, the mediation committee shall, taking all factors into consideration and striving for a balance of the interests of both parties, propose a mediation proposal upon the approval of more than one-half of the whole body of committee members and designate a period of less than 45 days within which the mediation committee advises the two parties to accept the proposal. When necessary, the period may be extended with another 45 days.
+
+Should the parties involved fail to express their disagreement with the proposal within the period designated in the foregoing paragraph, the mediation proposal shall be deemed accepted by both parties and the mediation concluded.
+
+When one or several persons in a party of more than two persons with a common interest have expressed disagreement with the proposal within the period designated pursuant to Paragraph 1 of this Article, the mediation proposal shall not bind on these persons. The mediation proposal shall, however, be considered as accepted by the rest of the party. Should the persons who have expressed their disagreement with the mediation proposal within the designated period constitute more than one-half of the total number of individuals in their party, the mediation shall be regarded as unachieved.
+
+When the mediation committee acts in an advisory capacity as referred to in Paragraph 1 of this Article, it may make the mediation proposal public if it finds the situation to be appropriate.
+
+#### Article 28
+
+When a mediation is achieved, a mediation accord shall be prepared within 7 days of the achieved mediation and submitted for approval to a court holding jurisdiction.
+
+If the mediation accord does not contravene applicable laws and regulations, the court shall approve the accord at its earliest convenience and return the accord to the mediation committee for delivery to the parties.
+
+When the court cannot approve a mediation accord because the mediation procedure or the contents of the mediation accord contravene applicable laws and regulations, the court shall inform the mediation committee of the reasons for not approving the accord. When the situation can be corrected, the court shall first designate a period for doing so.
+
+#### Article 29
+
+A mediation accord shall contain the following items and be signed by the parties and the committee members present. However, a mediation proposal deemed successful pursuant to Article 27 of this Act shall be signed by the members of the mediation committee in agreement with the proposal.
+
+I. The name(s), permanent residence address(es) and temporary residence address(es) of the parties. If the parties are juristic persons or other organizations, the name(s) of the person(s) or organization(s) and their representative(s) and principal office address(es) or business address(es)
+
+II. If the parties have representative(s) or agent(s), the name(s), permanent residence address(es) and temporary residence address(es) of the representatives or agents
+
+III. the reason for the mediation.
+
+IV. the contents of the achieved mediation.
+
+V. the location where mediation was achieved.
+
+VI. the date mediation was concluded.
+
+#### Article 30
+
+A mediation accord approved by a court shall have the same effect as a final civil decision by a court of law. The parties may not bring a suit in a court of law over the same subject matter. The mediation accord may serve as a legal basis for compulsory enforcement.
+
+Enterprises may conclude environmental protection agreements with local residents or local governments to prevent the occurrence of public nuisances.
+
+In the event of breach, the agreement referred to in the foregoing paragraph, may, once notarized, serve as legal based for compulsory enforcement without entering into a mediation process.
+
+#### Article 31
+
+When there is reason for finding a mediation approved by a court of law void or voidable, a party to the dispute may bring a lawsuit to declare the mediation void or cancelled in the court of law which first approved the mediation.
+
+The lawsuit referred to in the foregoing paragraph shall be filed in the court within 30 days of the delivery of the mediation accord approved by the court.
+
+#### Article 32
+
+(Deleted)
+
+### Subchapter 2 Arbitration
+
+#### Article 33
+
+When a dispute over damage claims arising from a public nuisance dispute remains unresolved after mediation by the mediation committee in a special municipality, county (city) government, the parties may apply for arbitration of that dispute.
+
+An application for arbitration shall be submitted, with application form, to the original mediation committee of the special municipality, county (city) government within 14 days of delivery of notification that mediation was not achieved.
+
+Upon receipt of the application referred to in the foregoing paragraph, the special municipality, county (city) mediation committee shall promptly submit a copy of the application to the other parties, and shall alse submit files relevant to the mediation, the application for arbitration and other relevant documents to the Arbitration Panel.
+
+#### Article 34
+
+Arbitration shall be conducted via an arbitration tribunal composed of 3 or 5 arbitration panel members designated by the chairman of the Panel.
+
+The tribunal referred to in the foregoing paragraph shall be decided by a majority of the designated members.
+
+When more than three different opinions of members exist on the amount of money, and no one opinion enjoys majority support, the vote for the opinion constituting the highest amount of money shall be added to the vote for the opinion granting the next highest amount of money, and so on until a majority opinion is reached.
+
+#### Article 35
+
+Before delivering an arbitration decision, the arbitration panel shall hear from the parties and conduct necessary inquiries into the facts.
+
+#### Article 36
+
+The arbitration panel shall render its arbitration decision within three months of the date the application is submitted by the parties, and deliver it to the parties. When necessary, this period may be extended for another three months.
+
+#### Article 37
+
+An arbitration decision shall contain the following items, and be signed by the panel members.
+
+I. The name(s), permanent residence address(es) and temporary residence address(es) of the parties. If the parties are juristic persons or other organizations, the name(s) of the person(s) or organization(s) and their representative(s) and principal office address(es)or business address(es)
+
+II. if the parties have representative(s) or agent(s), the name(s), permanent residence address(es) and temporary residence address(es) of the representatives/agents
+
+III. main body of the text
+
+IV. the facts
+
+V. the reasons
+
+VI. date
+
+An original copy of the arbitration decision shall be delivered to the parties within 10 days of the issuance of the decision.
+
+#### Article 38
+
+Whenever the parties reach an agreement during the arbitration process, the arbitration panel shall prepare an Agreement using Articles 28 to 31.The arbitration procedure shall be concluded when the Agreement is completed.
+
+#### Article 39
+
+Where the parties in arbitration have not initiated a civil action in a court of law over the same dispute within 20 days of delivery of an original copy of the arbitration decision, or if the parties have subsequently withdrawn such civil action, the arbitration decision shall be deemed an Agreement among the parties to the dispute.
+
+Where parties to an arbitration decision are deemed to be in Agreement pursuant to the foregoing paragraph, the arbitration panel shall, within 7 days of the expiration of the time-period referred to in the foregoing paragraph, submit the arbitration decision for approval at the court holding jurisdiction.
+
+Where appropriate, Paragraphs 2 and 3 of Article 28, and Articles 30 and 31 shall apply to the situations referred to in the foregoing paragraph.
+
+#### Article 40
+
+The provisions of Articles 17 to 22 and Articles 24 and 25 shall apply to arbitration proceedings.
+
+## Chapter 4 Supplementary Provisions
+
+#### Article 41
+
+Prior to approval of a mediation accord, an Agreement, or an arbitration decision by a court of law, the parties may, based on the mediation accord, the Agreement or the arbitration decision, apply to the court of law for provisional seizure or provisional disposition to secure compulsory enforcement or to avoid increased damages.
+
+When making the application prescribed in the foregoing paragraph, the parties may submit a mediation accord, an Agreement, or an arbitration decision as a substitute for cause for provisional seizure or provisional disposition. For those who use an arbitration decision as substitute for cause for provisional seizure or provisional disposition, no pledge is required.
+
+Where appropriate, the provisions of the Civil Procedures Act concerning provisional seizure and provisional disposition, not including Article 529 thereof, shall apply to the situations referred to in the foregoing two Paragraphs.
+
+Should the court of law disapprove a mediation accord, an Agreement, or an arbitration decision, the parties may apply to have the decree of provisional seizure or decree of provisional disposition revoked. The procedure referred to in the foregoing paragraph shall apply when a party brings a civil lawsuit in a court of law or when a party does not revoke a lawsuit.
+
+#### Article 42
+
+A public nuisance dispute with regard to which investigatory hearings in a court of the first instance are concluded may not be subject to mediation or arbitration.
+
+When parties to a public nuisance dispute have filed the dispute in a court of the first instance and also have applied for mediation or arbitration of the dispute pursuant to this Act, that court may, before mediation or arbitration succeeds, suspend the litigation proceeding. When the mediation or arbitration is approved by a court of law, the action filed shall be deemed withdrawn.
+
+When the parties have filed a public nuisance dispute for mediation pursuant to the Act on Mediation at Villages, Towns, County and City Governments and also have applied for mediation or arbitration of the dispute pursuant to this Act, the foregoing paragraph shall apply.
+
+#### Article 43
+
+For mediation and arbitration applied for pursuant to this Act, mediation fees, arbitration fees, appraisal fees and evidence investigation fees may be collected.
+
+The fee collection regulations in the foregoing paragraph shall be drafted by the Environmental Protection Administration, Executive Yuan, and submitted to the Executive Yuan for approval before announcement.
+
+#### Article 44
+
+The Executive Yuan shall set up the Emergency Public Nuisance Dispute Management Team to handle emergency public nuisance disputes and to safeguard public interests and civic safety. The Team shall designate a convener, who shall be the Vice Premier of the Executive Yuan.
+
+Each special municipality, county and city government shall set up an Emergency Public Nuisance Dispute Management Team to actively handle sudden and urgent public nuisance disputes. Each Team shall designate a convener, who shall be the special municipality mayor or an appropriate person designated by the special municipality mayor, the county commissioner or the city mayor, respectively.
+
+#### Article 45
+
+The organizational rules of the Emergency Public Nuisance Dispute Management, Executive Yuan, shall be promulgated by the Executive Yuan.
+
+The organization of the Emergency Public Nuisance Dispute Management Teams of the special municipality, county(city) governments shall be promulgated by the relevant special municipality, county (city) governments.
+
+#### Article 46
+
+The Environmental Protection Administration may set up a Public Nuisance Dispute Mediation, Supervision and Guidance Task Force, the members of which shall consist of designated representatives from the Ministry of the Interior, Ministry of Legal Affairs, Ministry of Economic Affairs, Ministry of Transportation and Communications, Government Information Office of the Executive Yuan, Department of Health of the Executive Yuan, Agriculture Commission of the Executive Yuan, Council of Labor Affairs of the Executive Yuan, as well as the Environmental Protection Administration. The duties of the Task Force are as follows:
+
+I. The coordination of relevant agencies to study methods and strategies for settling public nuisance disputes.
+
+II. The provision of necessary assistance to special municipality, county (city) governments in settling public nuisance disputes.
+
+The Task Force referred to in the foregoing paragraph shall designate a convener, who shall be the director of the Environmental Protection Administration.
+
+#### Article 47
+
+The organizational rules of the Environmental Protection Administration Task Force for Settling Public Nuisance Disputes shall be drafted by the Environmental Protection Administration, executive Yuan, and submitted to the Executive Yuan for approval prior to promulgation.
+
+#### Article 48
+
+The Environmental Protection Administration, Executive Yuan, and special municipality, county(city) governments shall install dedicated personnel to perform the following functions.
+
+I. handle public nuisance petitions
+
+II. conduct necessary investigations and provide guidance and recommendations for handling public nuisance petitions
+
+III. provide guidance to petitioners regarding the procedures for applying for mediation or arbitration pursuant to the provisions of this Act
+
+Rural township, urban township, city and district public offices may, when necessary, install dedicated personnel to perform the functions in the foregoing paragraph.
+
+#### Article 49
+
+The regulations of the Civil Procedures Act shall apply to the delivery of documents pursuant to this Act.
+
+#### Article 50
+
+The Enforcement Rules for this Act shall be drafted by the Environmental Protection Administration and submitted to the Executive Yuan for approval before promulgation.
+
+#### Article 51
+
+The articles of this Act revised on June 2, 2009 shall take effect on November 23, 2009.
+
+## History
+
+1.Promulgated on February 1, 1992.
+
+2.Revised Articles 5, 18, 30, 38, 41, 42, 44 and 45 promulgated by Presidential Order Hwa-tzong (1) Yi-tzu No. 8700110380 on June 3, 1998.
+
+3.Deleted Article 32 and revised Articles 3 through 5, Article 8, Article 9, name of Section 1 of Chapter 3, Article 16, Article 33, Articles 42 through 46,and Article 48 promulgated by Presidential Order Hwa-tzong-yi-tzu No. 8900011970 on January 19, 2000.
+
+4.Revised Article 11 and Article 30 promulgated by Presidential Order Hwa-tzong-yi-tzu No. 091000128660 on June 26, 2002.
+
+5.Revised Articles 7 and 51 promulgated by Presidential Order Hwa-tzong-yi-tzu No. 09800150551 on June 17, 2009.
+
+The responsibilities and duties previously assigned to the Government Information Office, Executive Yuan, under Article 46, Paragraph 1 of the Executive Yuan Gazette No. 1010131134, dated May 15, 2012, will cease to operate from May 20, 2012.
+
+As of July 23, 2013, the responsibilities and duties previously assigned to the Department of Health, Executive Yuan, under Article 46, Paragraph 1 of the Executive Yuan Gazette No. 1020141353, dated July 19, 2013, are now assigned to the Ministry of Health and Welfare.
+
+As of February 17, 2014, the responsibilities and duties previously assigned to the Council of Agriculture under Article 46, Paragraph 1 Introduction of the Executive Yuan Gazette No. 1030124618, dated February 14, 2014, are now assigned to the Ministry of Labor.
+
+As of August 1, 2023, the responsibilities and duties previously assigned to the Council of Agriculture under Article 46, Paragraph 1 of the Executive Yuan Gazette No. 1125014346, dated July 27, 2023, are now assigned to the Ministry of Agriculture.
+
+The transactions described in Paragraph 1 of Article 2, Article 8 , Article 9, Paragraph 2 of Article 10, Article 12, Article 25, Paragraph 2 of Article 43, the preamble of Paragraph 1, 2 of Article 46, Article 47, the preamble of Paragraph 1 of Article 48 and Article 50 were conducted by the Environmental Protection Administration of the Executive Yuan, and transferred to the Ministry of Environment from August 22, 2023 in accordance with the Order No. Yuan-Tai-Gui-Kui-Zi No. 1121028221 issued by the Executive Yuan on August 18,2023.

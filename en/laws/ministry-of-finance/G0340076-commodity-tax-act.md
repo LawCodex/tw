@@ -1,0 +1,545 @@
+---
+title: "Commodity Tax Act"
+title_zh: "貨物稅條例"
+identifier: "G0340076"
+type: act
+law_level: "法律"
+category: "行政＞財政部＞賦稅目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1946-08-16
+last_amended: 2025-12-30
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0340076"
+retrieved: 2026-10-12
+---
+
+# Commodity Tax Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-finance/G0340076-commodity-tax-act.md](../../../zh/laws/ministry-of-finance/G0340076-commodity-tax-act.md)) is authoritative.
+
+## Chapter 1 General Provisions
+
+### Article 1
+
+Commodities listed in this Act, whether manufactured domestically or imported from abroad shall be subject to commodity tax in accordance with this act except as otherwise provided by any other laws.
+
+### Article 2
+
+The taxpayer and the time of collection of the tax on the commodity tax are as follows:
+
+\1. In the case of a manufacturer of commodities, the taxpayer is the manufacturer, and the tax is collected upon release from the factory.
+
+\2. In the case of a manufacturer of commodities on a consign-process contract, the taxpayer is the manufacturer of the processed commodities, and the tax is collected upon release from the factory.
+
+\3. In the case of imported commodities, the taxpayer is the consignee or the holder of the bill of lading or of the commodities, and the tax is collected upon importation.
+
+\4. In the case of an auction or sale, by a court or other institution, of taxable commodities yet to be taxed, the taxpayer is the winning bidder, the purchaser, or the assumer of the commodities, and the tax is collected at the time of the auction or sale.
+
+\5. In the case of untaxed commodities that lose its tax-exempt status due to a transfer or a change in purpose of use, the taxpayer is the person initiating the transfer or the person who change the purpose of use, and the tax is collected at the time of the transfer or the change in purpose of use. However, in the event that the transferring party or the party that changes the purpose of use is unknown, the taxpayer is the holder of the commodities.
+
+For the commodities prescribed in Subparagraph 2 of the preceding paragraph, if the consignor is a manufacturer of taxable commodities, the consignor can apply to the competent tax authority for taking the consignor as the taxpayer.
+
+Taxable commodities deemed as “release from the factory” in any of the following conditions:
+
+\1. Commodities provided in the factory for consumption.
+
+\2. Commodities processed in the factory into non-taxable products.
+
+\3. Commodities in the factory transferred to another person except the case of an auction or sale by a court or other institution.
+
+\4. Commodities in stock when the manufacturer applies for de-registration.
+
+\5. Commodities yet to be taxed, destroyed or reduced in quantity for a reason other than fire, water or other uncontrollable calamity after transport to factories for processing, packing or storage in untaxed warehouses or in factories.
+
+### Article 3
+
+Commodities which meet any of the following conditions shall be exempt from Commodity tax:
+
+\1. Raw materials used for manufacturing other taxable commodities.
+
+\2. Export commodities.
+
+\3. Commodities for exhibition but not for sale.
+
+\4. Commodities donated for troop-cheering.
+
+\5. Commodities supplied directly for military use with the approval of the Ministry of National Defense.
+
+The rules governing tax exemption as mentioned in the preceding paragraph shall be prescribed by the Ministry of Finance (hereinafter referred to as the MOF).
+
+### Article 4
+
+Commodity tax paid or recorded on account as paid on commodities shall be refunded the tax paid or offset the recorded account if meet any of the following conditions:
+
+\1. Export commodities.
+
+\2. Raw materials used for manufacturing export commodities.
+
+\3. Unsaleable commodities returned to factory for reprocessing or for refining into similar taxable commodities which are subject to commodity tax.
+
+\4. Unsaleable commodities for reason of damage. However, if the quantity of commodities is less than one tax unit or if the original tax payment certificate is lost, no tax will be refunded.
+
+\5. Commodities physically destroyed in transit or in storage by fire or water or other calamities beyond control.
+
+The rules governing tax refund or offset as mentioned in the preceding paragraph shall be prescribed by the MOF.
+
+Tax exempt commodities that are destroyed or reduced in quantity after importation or release from the factory for reasons other than that described in Subparagraph 5, Paragraph 1 shall be subject to commodity tax pursuant to this Act.
+
+## Chapter 2 Taxable Commodities and Tax Rates or Tax Amounts
+
+### Article 5
+
+（Deleted）
+
+### Article 6
+
+The tax rates for all kinds of rubber tires are as follows:
+
+\1. Rubber tires for buses and trucks: taxed on an ad valorem basis at 10%.
+
+\2. All other rubber tires: taxed on an ad valorem basis at 15%.
+
+\3. Inner tubes, solid rubber tires, and rubber tires for use on man-powered/animal-powered vehicles and farming vehicles are exempt from the commodity tax.
+
+### Article 7
+
+The taxable amounts for cement and cement substitutes are as follows:
+
+\1. White or colored cement.........NT$600/MT
+
+\2. Portland I cement ........NT$320/MT
+
+\3. Portland blast-furnace slag cement .........NT$280/MT
+
+\4. Cement substitutes and others ...........NT$440/MT
+
+The so-called “cement substitutes” depicted in Subparagraph 4 of the preceding paragraph mean commodities made of lime, clay, or other stone or earth having hardening and strength properties that may be used in substitution of cement; the same definition applies to cement mixed with fly ashes or other stone or soil ashes.
+
+The Executive Yuan has the right to adjust the tax amounts within 50% of the prescribed taxable amounts according to the actual situation encountered.
+
+### Article 8
+
+The tax rates for all kinds of factory machine-made cool drinks are as follows:
+
+\1. Diluted natural fruit/vegetable juice: taxed on an ad valorem basis at 8%.
+
+\2. Other beverage: taxed on an ad valorem basis at 15%.
+
+Factory machine-made cool drinks referred to in the preceding paragraph that have no added sugar, or are pure natural fruit juice, fruit syrup, concentrated fruit syrup, concentrated fruit juice and pure natural vegetable juice which are in compliance with the national standards are exempt from commodity tax.
+
+Factory machine-made cool drinks in the first paragraph shall comply with one of the conditions below:
+
+\1. The drinks are made at fixed premises and sealed in bottles (boxes, cans or barrels) using motor-driven or non-motor driven machinery.
+
+\2. The drinks are made at fixed premises where the raw materials or semi-finished products of the drinks are made using motor-driven or non-motor driven machinery and loaded into a vending machine for mixture and sale.
+
+The cost of container for domestically produced beverage shall be deducted when calculating the ex-factory price.
+
+### Article 9
+
+Flat-glass which includes all kinds of flat-glass and glass bar that are polished or sand, colored or transparent, figured or engraved, polish-edged or nonpolish-edged, roll-edged or unroll-edged are taxed on an ad valorem basis at 10%. However, electrification glass and reinforced glass for used in producing molds are exempt from commodity tax.
+
+### Article 9-1
+
+Within five years from the effective date of this article, any domestic manufacturers or importers may apply for exemption from the commodity tax on the glass used exclusively for photovoltaic modules by submitting a statement promising not to sell or use such products for any other purposes as well as the certificate of usage issued by the competent industry authority.
+
+The Executive Yuan shall, in six months before the exemption period expires, decide to extend or terminate the exemption period based on the actual situation.
+
+### Article 10
+
+Taxable items and taxable amounts for Oil/Gas are as follows:
+
+\1. Gasoline ....NT$6,830/KL
+
+\2. Diesel oil ................NT$3,990/K
+
+\3. Kerosene .. NT$4,250/KL
+
+\4. Fuel oil for aircraft .........NT$ 610/KL
+
+\5. Fuel oil ........NT$ 110/KL
+
+\6. (Deleted)
+
+\7. Dissolving oil.................NT$ 720/KL
+
+\8. Liquefied petroleum gas ..............NT$ 690/MT
+
+For mixtures of various oils as listed in the preceding paragraph, the tax rate shall be the rate of the major components.
+
+The Executive Yuan has the right to adjust the tax amounts within 50% of the prescribed taxable amounts according to the actual situation encountered.
+
+### Article 11
+
+Taxable items and tax rates for electric appliances are as follows:
+
+\1. Refrigerators: taxed on an ad valorem basis at 13%.
+
+\2. Air conditioners: including all kinds of electric air conditioners that use electrical devices to control room temperature, taxed on an ad valorem basis at 20%. While central air conditioning systems composed of compressor, air conditioning box and fan coil are taxed on an ad valorem basis at 15%.
+
+\3. Dehumidifiers: including all kinds of electric dehumidifiers that use electrical devices to control room humidity, taxed on an ad valorem basis at 15%. However, the dehumidifiers for use in factories are exempt from the commodity tax.
+
+\4. Stereophonic systems: dividable stereophonic components including turntable, tuner, amplifier with tuner, recorder, amplifier, speaker and other components, taxed on an ad valorem basis at 10%.
+
+\5. Electric ovens: including all kinds of machines that use electric-thermic or micro waves to cook foods, taxed on an ad valorem basis at 15%.
+
+Commodities made of the commodities listed in the preceding paragraph and other non-taxable commodities, or combination of commodities listed in the preceding paragraph which are applicable to different tax rates, shall be taxed at the highest tax rates based on the total taxable value.
+
+Air conditioners mentioned in Subparagraph 2 of the first paragraph, may be taxed based on major components according to rules prescribed by the MOF.
+
+### Article 11-1
+
+From June 15, 2025 to December 31, 2029, the commodity tax on new refrigerators, new air conditioners, and new dehumidifiers which are classified as first- or second-grade of the energy-efficient levels approved by the Ministry of Economic Affairs and are not for resale, returned, or exchanged shall be reduced by the maximum amount of NT$2,000 in accordance with the Commodity Tax Refund Table for the Refrigerator, the Air Conditioner, and the Dehumidifier.
+
+The reduction of commodity tax in the preceding paragraph shall be claimed by purchasers.
+
+The aforementioned Table and provisions of the preceding two paragraphs relating to the application period, procedures, documentary evidence, and other related matters for the reduction of the commodity tax shall be prescribed by the MOF in conjunction with the Ministry of Economic Affairs.
+
+### Article 12
+
+Taxable items and tax rates for vehicles are as follows:
+
+\1. Automobiles: including all kinds of automobiles, chassis and bodies of automobiles, tractors and trailers:
+
+(1) Passenger sedans with fewer than 9 seats (including driver seat):
+
+i Cylinder volume 2,000cc or less: taxed on an ad valorem basis at 25%.
+
+ii Cylinder volume 2,001cc or above: taxed on an ad valorem basis at 30%.
+
+(2) Trucks, buses, and other vehicles: taxed on an ad valorem basis at 15%.
+
+(3) From January 1, 2025, to December 31, 2029, rehabilitation buses for the disabled that are purchased and registered are exempt from tax.
+
+\2. Motorcycles: including motorcycles, mopeds, and cycles fitted with an auxiliary motor are taxed on an ad valorem basis at 17%.
+
+\3. Vehicles imported for use in technical research and development, special purpose vehicles equipped with devices for exclusive use in security control and/or sanitary activities, mail transportation vehicles, tractors equipped with farming equipment, cargo trucks/cars for exclusive use in farmland, and engineering vehicles not running on public roads are exempt from tax.
+
+“Vehicles imported for use in technical research and development” depicted in Subparagraph 3 of the first paragraph means vehicles imported for the purpose of new model development and design, functional system analysis, testing, improvement in terms of safety performance, energy conservation, or pollution control, or development and design of parts and components.
+
+“Special purpose vehicles equipped with devices for exclusive use in security control and/or sanitary activities” described in Subparagraph 3 of the first paragraph includes the following:
+
+\1. Police cars, cars used in investigation and inspection, cars used in chasing and transporting criminals and suspects, fire engines, and breakdown lorries used for public safety purposes; and
+
+\2. Ambulances, medical vehicles, mobile-shower vehicles, spraying lorries, cesspool emptiers, garbage collectors, sanitizing vehicles, street sweepers, sewer and catch-basin cleaning trucks, sewer cleaning lorries, dog catching vehicles, and air quality testing vehicles used for public health purposes.
+
+Electric-powered automobiles and motorcycles and hybrid electric vehicles are taxed at one-half (1/2) of the statutory tax rates. Hybrid electric vehicles shall be in conformity with the standard announced by the MOF.
+
+From February 6, 2015, to December 31, 2029, wheelchair accessible vehicles that are purchased and registered are exempt from tax.
+
+However, owners of the tax-exempt vehicle in the preceding paragraph who remove the equipment for carrying wheelchairs within 5 years must pay the original commodity tax.
+
+### Article 12-1
+
+The Commodity Tax for passenger sedans, trucks and dual-purpose vehicle with cylinder volume not exceeding 2,000c.c. which have been purchased and completed registration during the period from the effectiveness of this article to December 31, 2009 could be cut NT$30,000 each.
+
+The Commodity Tax for motorcycles with cylinder volume not exceeding 150c.c. which have been purchased and completed registration during the period from the effectiveness of this article to December 31, 2009 could be cut NT$4,000 each.
+
+### Article 12-2
+
+(Deleted)
+
+### Article 12-3
+
+A passenger vehicle, with below 2000 cubic centimeter cylinder air displacement as provided in Item 1-1 of Subparagraph 1 of Paragraph 1 of Article 12 includes completely electric-operated passenger vehicle with maximum horsepower below 208.7 British system or 211.8 metric system. A passenger vehicle, with 2001 cubic centimeter cylinder air displacement as provided in Item 1-2 of Subparagraph 1 of Paragraph 1 of the same article includes completely electric-operated passenger vehicle with maximun horsepower above 208.8 British system or 211.9 metric system.
+
+From January 28, 2017 to December 31, 2030, a person who purchases a completely electric-operated automobiles or motorcycles and completed registration shall be exempted from the Commodity Tax. However, the exempted tax amount of the electric-operated passenger vehicle shall be limited to NT$1.4 million taxable value, the excessive portion is not exempted.
+
+### Article 12-4
+
+A person who purchases a liquefied petroleum gas passenger vehicle and completed registration within 5 years from the effectiveness of this article, the commodity tax of such vehicle shall be reduced by NT$25,000.
+
+### Article 12-5
+
+From the taking effect of amendments to these provisions made on August 29, 2025 to December 31, 2030, where a person purchases a new passenger sedan with cylinder volume of 2,000cc or below and completes its registration, the maximum commodity tax of such a new vehicle shall be reduced by NT$50,000. Where the commodity tax payable on the new vehicle is less than NT$50,000, it shall be calculated as the amount of commodity tax payable.
+
+From January 8, 2021 to December 31, 2030, a person who scraps or exports his/her passenger sedan, truck, or dual-purpose vehicle which had left the factory for at least 10 years and holds a license for the above vehicle for more than one year, within 6 months before or after the scrapping or export date, for the person purchasing a new vehicle of the above type and completes its registration, the maximum commodity tax of such a new vehicle shall be reduced by NT$50,000. A person who satisfies the requirements prescribed in the preceding paragraph may add said reduction to the reduced amount. Where the commodity tax payable on the new vehicle is less than NT$100,000, it shall be calculated as the amount of commodity tax payable.
+
+The provisions in the preceding paragraph shall apply to his/her spouse or a second-degree relative who purchases a new passenger sedan, truck, or dual-purpose vehicle and completes registration.
+
+From the taking effect of amendments to these provisions made on August 29, 2025 to December 31, 2030, where a person purchases a new motorcycle with cylinder volume of 150cc or below and completes its registration, the maximum commodity tax of such a new vehicle shall be reduced by NT$2,000. Where the commodity tax payable on the new vehicle is less than NT$2,000, it shall be calculated as the amount of commodity tax payable.
+
+From January 8, 2021 to December 31, 2030, a person who scraps or exports his/her motorcycle with cylinder volume of 150cc or below (hereinafter the used motorcycle) which had left the factory for at least 4 years, within 6 months before or after the scrapping or export date, for the person purchasing a new motorcycle and completes its registration, the maximum commodity tax of such a new motorcycle shall be reduced by NT$4,000. A person who satisfies the requirements prescribed in the preceding paragraph may add said reduction to the reduced amount. Where the commodity tax payable on the new vehicle is less than NT$6,000, it shall be calculated as the amount of commodity tax payable.
+
+The registration of the used motorcycle scrapped or exported in accordance with the provisions of the preceding paragraph and the registration of new licenses for purchasing new motorcycles are not limited to the same person.
+
+The MOF shall join with the Ministry of Economic Affairs in formulating the regulations to determine the application period, procedures, documentary evidence, and other related matters for such reduced/refund of commodity tax.
+
+### Article 12-6
+
+To control air pollution from very old heavy-duty diesel vehicles to improve air quality, between August 18, 2017 and December 31, 2026, a person who scraps his/her bus, heavy truck, huge passenger-cargo dual-purpose car, substitutional bus, or big-sized specially constructed vehicles which comply with one of the following conditions (1 or 2 below), purchases one of the aforementioned new vehicles, and completes its registration, shall be eligible to have the commodity tax on the new vehicle reduced by the maximum amount of NT$400,000. Where the commodity tax payable on the new vehicle is less than NT$400,000, it shall be calculated as the amount of commodity tax payable:
+
+\1. Released from the factory before September 30, 2006;
+
+\2. Released from the factory between October 1, 2006 and December 31, 2006 and has obtained the issuance of vehicle model’s emission Certificate of Conformity by the Environmental Protection Administration, Executive Yuan in accordance with the Vehicular Air Pollutant Emission Standards effective from July 1, 1999 or January 1, 2004.
+
+The provisions of the preceding paragraph relating to the application period, procedures, documentary evidence, and other related matters for the reduction of the commodity tax shall be prescribed by the MOF in conjunction with the Environmental Protection Administration, Executive Yuan.
+
+## Chapter 3 Taxable Value
+
+### Article 13
+
+Taxable value of a taxable commodity shall include the related packing costs. For domestically produced commodities, the taxable value shall be the manufacturers’ selling price less the commodity tax included in the price.
+
+The taxable value is calculated as follows:
+
+Taxable value = selling price ÷(1+commodity tax rate)
+
+### Article 14
+
+The selling price as prescribed in the preceding article pertain to the selling price of the month the commodities are sold to wholesalers; if there are no such wholesalers, the selling price is the price at which the commodities are sold to the retailers after deduction allowed for wholesale profits. Should there be different prices, the weighted average selling price shall be adopted. However, the following prices shall not be included in the calculation of the weighted average selling price when:
+
+\1. The price is obviously low without reasonable reason;
+
+\2. There is no selling price for the commodities when used for internal purposes or released from the factory.
+
+The wholesale profits as prescribed in the preceding paragraph shall be determined according to the facts by the MOF.
+
+### Article 15
+
+In case where the manufacturer produces the taxable commodity under a consignment process contract and where raw materials are provided by the consignor, the selling price shall be the selling price of the consignor and the taxable value shall be calculated in accordance with the preceding two articles.
+
+### Article 16
+
+Where the selling price of any taxable commodity is not available for the current month thus the taxable value can not be calculated in accordance with Article 13, the taxable value of such commodity shall be the last or most recent month taxable value. If there was no taxable value last month or in the most recent month, the taxable value shall be the taxable value of most similar commodities. If there is no similar commodities for newly produced products, the taxable value shall be calculated first based on the production cost plus profit and shall be adjusted according to the selling price after the commodity is sold.
+
+### Article 17
+
+In case where the competent tax authority, finds that the selling prices and taxable value reported by the manufacturer are not in compliance with Articles 13 to 16, through its investigating process, the competent tax authority shall adjusted the taxable value based on the investigation results or the standards established by the MOF in consultation with the related competent authority.
+
+The standards stated in the preceding paragraph are to be established in all districts by referring to the actual manufactured domestically condition in the market by the MOF in consultation with the related competent authority.
+
+### Article 18
+
+For imported taxable commodities, the taxable value is calculated based on the total amount including taxable value for customs duty and customs duty.
+
+## Chapter 4 Tax Collection
+
+### Article 19
+
+Manufacturers should apply to the competent tax authority at the place of the factory premise for manufacturer's registration as a taxable commodity manufacturer and register the taxable commodities before starting production of the taxable commodities.
+
+### Article 20
+
+Should there be any changes to the registered items, or in the case of merger, transfer of ownership, dissolution or discontinuance, the manufacturer should apply to the competent tax authority within fifteen days for amendment of the registration or cancellation of the registration and pay the commodity tax payable.
+
+### Article 21
+
+All tax-paid or tax-exempt commodities shall be issued with certificates by the competent tax authority or customs offices except otherwise approved by the MOF to use other substitutes.
+
+### Article 22
+
+The manufacturers should set up and keep accounting books, vouchers and accounting records for accurate calculation of commodity tax.
+
+### Article 23
+
+Manufacturers are required to pay the commodity tax to the government treasury and file with the competent tax authority a tax calculation report in the format prescribed by the MOF together with the tax payment receipt by the fifteenth of the next month for the commodities released from the factory in the month. If there is no commodity tax payable in one month, the manufacturer is still required to file with the competent tax authority.
+
+For imported taxable commodities, taxpayers should file with the custom offices, and the commodity tax shall be collected by the custom office together with the custom duties.
+
+In the case of an auction or sale, by a court or other institution, of taxable commodities yet to be taxed, the taxpayers shall declare and pay the tax to the local competent tax authority before collecting the commodities.
+
+The taxpayer shall declare and pay the tax to the competent tax authority within 30 days from the day following the day on which the tax-exempt commodities are transferred or the purpose of use is changed.
+
+### Article 24
+
+Any tax payable, surcharge for delinquent reporting and non-reporting as provided in this act shall be made known to the taxpayer by the competent tax authority through a demand notice requiring payment to the government treasury by the taxpayer within fifteen days after receipt of the notice.
+
+### Article 25
+
+Where a manufacturer fails to file a report within the time limit prescribed in Article 23, the competent tax authority shall request him to file the report and pay the commodity tax in three days. If the manufacturer still fails to file the commodity tax report during the three-day period, the competent tax authority shall undertake investigation and assess the commodity tax payable. If the manufacturer fails to pay the assessed tax payable within the prescribed time limit, the competent tax authority may prohibit the manufacturer to ship out the commodities until the payment is made.
+
+### Article 26
+
+In the case the competent tax authority adjusts the taxable value in accordance with Article 17, he shall calculate and collect the tax payable for the different between the assessed and reported taxable values.
+
+### Article 27
+
+In the case a taxpayer is suspected of tax evasion and committing a crime, the competent tax authority shall apply to the justice agency stating the fact for issuing a search order to search for accounting books, documents and evidential objects under the supervision of police officers or autonomy personnel. The accounting books, documents and evidential objects as obtained during the search process shall be carried back by personnel involved in the search to the competent tax authority office to be handled according to regulations.
+
+The justice agency shall issue the search order upon receipt of the application of the competent tax authority as long as the application is considered reasonable. The competent tax authority shall carry out the search in ten days from issuance of the search order and then return the search order to justice agency.
+
+## Chapter 5 Penalties
+
+### Article 28
+
+Taxpayers shall, in the event of any of the following, in addition to be notified for completing required procedures or making corrections, be severely liable to a fine exceeding NT$9,000 but not exceeding NT$30,000.
+
+\1. Failing to complete necessary registration in compliance with Article 19 or 20.
+
+\2. Failing to file the necessary report in compliance with Regulations for the Collection of Commodity Tax or filing false reports.
+
+\3. Failing to affix tax-payment or tax-exemption certificates or any other Substitutes as approved by the competent authority on packings and containers.
+
+\4. Manufacturers failing to keep original documents of evidence for consumption of raw materials or sale and inventory of commodities in accordance with regulations.
+
+### Article 29
+
+In the case the manufacturer fails to file the commodity tax calculation report within the time limit in accordance with Article 23 but has reported amendment and paid taxes within the amendment time limit prescribed in Article 25, a surcharge for delinquent reporting of 10% of the commodity tax payable but no less than NT$3,000 shall be collected from the manufacturer.
+
+In the case the manufacturer still fails to file the amendment report within the time limit prescribed in Article 25, a surcharge shall be collected for non-reporting of 20% of the tax assessed by the competent tax authority but no less than NT$9,000.
+
+Where there is no commodity tax payable, the surcharge shall be NT$3,000 for delinquent reporting and NT$9,000 for non-reporting.
+
+### Article 30
+
+Commodity tax recorded on account for raw materials used for producing exported commodities shall be collected if the manufacturer fails to process the exported commodities within one and a half years from the date of the tax recorded or sells the raw materials domestically. In addition to the collection of tax, the manufacturer is liable to a belated surcharge calculated on a daily basis at 0.05% of the tax payable from the date immediately following the date of recording till the date of payment except that the cause for not exporting the commodities is not the fault of the manufacturer and as approved by the MOF.
+
+### Article 31
+
+A taxpayer who fails to pay any amount of commodity tax within the prescribed time limit shall be subject to a belated surcharge.
+
+Interest on the aforesaid tax due calculated at the interest rate for one-year term deposit of postal savings on January 1 of each year shall accrue daily from the next day following the prescribed payment deadline to the date of full payment by the taxpayer.
+
+### Article 32
+
+In any of the following circumstances, the taxpayer shall be pursued for payment of taxes and fined 3 times less the amount of tax evaded:
+
+\1. Failing to complete necessary registration in compliance with Article 19, And illegally manufacturing commodities subject to commodity tax.
+
+\2. Failing to affix tax-payment or tax-exemption certificates or substitutes as approved.
+
+\3. Misrepresenting costly commodities as cheaper or other commodities.
+
+\4. Unauthorized selling or using of tax-exempt commodities for the purpose of tax evasion.
+
+\5. Altering or re-using tax-payment or tax-exemption certificates and tax payment receipts.
+
+\6. Misstating the quantities of raw material or finished commodities in stock in account books or records, the purpose of which has been ascertained as tax evasion.
+
+\7. Failing to report the ex factory quantity or under reporting.
+
+\8. Failing to report the selling price or taxable value or underpricing taxable commodities.
+
+\9. Forwarding the taxable commodities during the period prescribed in Article 25.
+
+\10. Failing to declare imported commodities subject to commodity tax at time of importation in accordance with regulations.
+
+\11. Any other illegal evasion of tax, receipt of tax refund or offset of commodity tax.
+
+### Article 33
+
+(Deleted)
+
+### Article 34
+
+(Deleted)
+
+### Article 35
+
+(Deleted)
+
+## Chapter 6 Supplementary Provisions
+
+### Article 36
+
+Regulations pertaining to registration, certification and tax collection as set forth in this Act shall be prescribed by the MOF.
+
+### Article 37
+
+This Act shall come into force from the date of promulgation, while the implementation of the amendments made to Articles 3, 5, 13 through 15, 17, 18 and 32, which were promulgated on May 7, 1997; and the amendments made to Article 12 which was promulgated on October 31, 2001, and the Articles which were amended on August 5, 2025, shall come into force when determined by the Executive Yuan.
+
+## History
+
+\1. Promulgated on 16 August 1946.
+
+\2. Amended and promulgated on 27 November 1946.
+
+\3. Article 3, Article 4, Article 7, and Article 10 are amended and promulgated on 21 March 1947.
+
+\4. Amended and promulgated on 2 April 1948.
+
+\5. Article 14 is amended and promulgated on 15 May 1948.
+
+\6. Article 3, Article 4, and Article 5 are amended and promulgated on 30 July 1948.
+
+\7. Article 3, Article 4, Article 12, Article 13, Article 14, and Article 15 are amended and promulgated on 16 June 1950.
+
+\8. Amended and promulgated on 16 May 1952.
+
+\9. Article 3, Article 4, and Article 7 are amended and promulgated on 10 July 1954.
+
+\10. Article 3, Article 4, and Article 7 are amended and promulgated on 12 July 1958.
+
+\11. Amended and promulgated on 14 August 1962.
+
+\12. Article 4 and Article 5 are amended and promulgated on 21 May 1965.
+
+\13. Article 4, Article 5, and Article 23 are amended and promulgated on 14 June 1968.
+
+\14. Amended and promulgated on 9 January 1971.
+
+\15. Article 4, Article 5, and Article 14 are amended and promulgated by Presidential Decree Tai-tung-1-Yi No. 888 on 26 July 1972.
+
+\16. Article 4 is amended and promulgated on 4 January 1977.
+
+\17. Article 4 and Article 5 are amended and promulgated on 29 May 1979.
+
+\18. Article 5 is amended and promulgated by Presidential Decree Tai-tung-1-Yi No. 5089 on 30 July 1981.
+
+\19. Article 4 and Article 5 are amended and promulgated by Presidential Decree Hua-Tsung-1-Yi No. 0447 on 27 January 1986.
+
+\20. Amended and Promulgated by Presidential Decree Hua-Tsung-1-Yi No. 0425 on 24 January 1990.
+
+\21. Article 34 and Article 35 are deleted and promulgated by Presidential Decree Hua-Tsung-1-Yi No. 3703 on 30 July 1993.
+
+\22. Article 7 and Article 10 are amended and promulgated by Presidential Decree Hua-Tsung-1-Yi No. 4337 on 29 June 1995.
+
+\23. Article 5 is deleted; Article 3, Article 13, Article 14, Article15, Article17, Article18, Article32, and Article37 are amended; are promulgated by Presidential Decree Hua-Tsung-1-Yi No. 8600105770 on 7 May 1997. (Article 3, Article 13, Article 14, Article
+
+15, Article 17, Article 18, and Article 32 come into force on 1 January 2002.)
+
+\24. Article 10 is amended and promulgated by Presidential Decree Hua-Tsung-1-Yi No. 9000199990 on 11 October 2001.
+
+\25. Article 12 and Article 37 are amended and promulgated by Presidential Decree Hua-Tsung-1-Yi No. 9000213940 on 31 October 2001. (Article 12 comes into force on 1 January 2002.)
+
+\26. Article 4, Article 6, Article 7, Article 8, Article 12, Article 20, and Article 37 are amended and promulgated by Presidential Decree Hua-Tsung-1-Yi No. 09100142250 on 17 July 2002.
+
+\27. Article 29 is amended and promulgated by Presidential Decree Hua-Tsung-1-Yi No. 09600087991 on 11 July 2007.
+
+\28. Article 12-1 is added and promulgated by Presidential Decree Hua-Tzung-1 Yi No. 09800014451 on 17 January 2009.
+
+\29. Article 12-2 is added and promulgated by Presidential Decree Hua-Tzung-1 Yi No. 09800139051 on 3 June 2009.
+
+\30. Article 32 is amended and promulgated by Presidential Decree Hua-Tsung-1-Yi No. 09800323261 on 30 December 2009.
+
+\31. Article 12-3 is added and promulgated by Presidential Decree Hua-Tzung-1 Yi No. 10000015551 on 26 January 2011.
+
+\32. Article 12-4 is added and promulgated by Presidential Decree Hua-Tzung-1 Yi No. 10000294971 on 28 December 2011.
+
+\33. Article 2, Article 12, Article 17, Article 23, and Article 36 are amended; Article 12-2 and Article 33 are deleted; are promulgated by Presidential Decree Hua-Tzung-1 Yi No. 10400013271 on 4 February 2015.
+
+\34. Article 12-5 is added and promulgated by Presidential Decree Hua-Tzung-1 Yi No. 10400154111 on 6 January 2016.
+
+\35. Article 12-5 is amended and promulgated by Presidential Decree Hua-Tsung-1-Yi No. 10500045991 on 25 May 2016.
+
+\36. Article 12-3 is amended and promulgated by Presidential Decree Hua-Tsung-1-Yi No. 10600005921 on 18 January 2017.
+
+\37. Article 31 is amended and promulgated by Presidential Decree Hua-Tsung-1-Yi No. 10600073261 on 14 June 2017.
+
+\38. Article 9-1 and Article 12-6 are added and promulgated by Presidential Decree Hua-Tzung-1 Yi No. 10600141591 on 22 November 2017.
+
+\39. Article 32 is amended and promulgated by Presidential Decree Hua-Tzung-1 Jing No. 10700125371 on 21 November 2018.
+
+\40. Article 11-1 is added; Article 12-6 is amended; are promulgated by Presidential Decree Hua-Tzung-1 Jing No. 10800060001 on 13 June 2019.
+
+\41. Article 12 is amended and promulgated by Presidential Decree Hua-Tzung-1 Jing No. 10800138861 on 25 December 2019.
+
+\42. Article 2, Article 4, Article 11-1, and Article 12-5 are amended and promulgated by Presidential Decree Hua-Tzung-1 Jing No. 11000048891 on 26 May 2021.
+
+\43. Article 12-6 is amended and promulgated by Presidential Decree Hua-Tzung-1 Jing No. 11100111281 on 30 December 2022.
+
+\44. Article 11-1 and Article 31 are amended and promulgated by Presidential Decree Hua-Tzung-1 Jing No. 11200050091 on 14 June 2023.
+
+\45. Article 12 is amended and promulgated by Presidential Decree Hua-Tzung-1 Yi No. 11300118961 on 18 December 2024.
+
+\46. Article 11-1 is amended and promulgated by Presidential Decree Hua-Tzung-1 Jing No. 11400059801 on 13 June 2025.
+
+\47. Article 8, Article 11, and Article 37 are amended and promulgated by Presidential Decree Hua-Tzung-1 Jing No. 11400083161 on 19 August 2025.
+
+\48. Article 12-5 is amended and promulgated by Presidential Decree Hua-Tzung-1 Jing No. 11400089681 on 5 September 2025.
+
+\49. Article 12-3 is amended and promulgated by Presidential Decree Hua-Tzung-1 Jing No. 11400134451 on 30 December 2025.

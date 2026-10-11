@@ -1,0 +1,383 @@
+---
+title: "Soil and water Conservation Act"
+title_zh: "水土保持法"
+identifier: "M0110001"
+type: act
+law_level: "法律"
+category: "行政＞農業部＞農村發展及水土保持目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1994-05-27
+last_amended: 2016-11-30
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0110001"
+retrieved: 2026-10-12
+---
+
+# Soil and water Conservation Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-agriculture/M0110001-soil-and-water-conservation-act.md](../../../zh/laws/ministry-of-agriculture/M0110001-soil-and-water-conservation-act.md)) is authoritative.
+
+## Chapter 1 General Provisions
+
+### Article 1
+
+This Act is enacted for the purposes of soil and water conservation treatment and maintenance, conserving soil and water resources, reducing the possibility of disasters, promoting the reasonable land use, and enhancing people’s welfare.
+
+Soil and water conservation is governed by this Act. Issues not addressed by this Act will be governed by other acts.
+
+### Article 2
+
+For purposes of this Act, the term " competent authority" denotes the Council of Agriculture, Executive Yuan at the central level, special municipality at the municipal level, and county/city government at the county/city level.
+
+### Article 3
+
+For purposes of this Act, the following special terms or phrases are defined as below:
+
+1.Soil and water conservation treatment and maintenance: the application of engineering, agronomic or vegetative measures to protect soil and water resources, maintain natural ecology and landscape, and prevent erosion, landslide, debris flow, and other disasters.
+
+2.Soil and water conservation plan: a plan on soil and water conservation treatment and maintenance.
+
+3.Slopeland: state-owned forestry area, forest land for experimentation, protection forest land and public and private land conforming to either of the following which the central the central level or municipality competent authority identifies in accordance with the natural terrain, requirements of the administrative regions, and requirement for conservation and utilization, and which are approved and publicly announced by the Executive Yuan upon application of the central or municipal competent authority:
+
+(1)With an elevation of 100 meter or above; or
+
+(2)With an elevation below 100 meter but average slope 5% or more.
+
+4.Watershed: area above a given point of stream and river where the natural flow of water converges.
+
+5.Designated soil and water conservation area: area designated by the central or municipality competent authority where soil and water conservation treatment and maintenance must be strengthened.
+
+6.Reservoir watershed: area within the watershed of a reservoir or dam (including the outlet of an off-channel reservoir).
+
+7.Protection belt: land not suitable for farming within a designated soil and water conservation area which shall be afforested with legally prescribed tree species or in which natural forest growth or vegetation cover shall be maintained.
+
+8.Protection forest: as defined in the Forest Act.
+
+### Article 4
+
+Where soil and water conservation must be treated and maintained pursuant to this Act with respect to the operation or use of public or private land, the land operator, user or owner are the soil and water conservation obligors under this Act.
+
+### Article 5
+
+The central or municipality competent authority, where necessary, may designate the authority responsible for specific business, a public business institution, or public entity to supervise and manage soil and water conservation treatment and maintenance in connection with the construction of a reservoir, development of communities, or other major engineering projects.
+
+### Article 6
+
+Where the soil and water conservation treatment and maintenance is of a certain scale or above as designated by the central competent authority, the project shall be planned, designed and supervised by soil and water conservation technicians, civil engineering technicians, Hydraulic engineering technicians, land engineering technicians, and other relevant professional engineers legally registered and practicing, or by the relevant technical consulting institutions employing the above professional engineers. Where the project is to be implemented by the government authority at any level, a public business institution, or a public entity on its own, such planning, design and supervision may be undertaken by persons in the above authority, institution or entity who have obtained by act the technician's license in a comparable category.
+
+### Article 6-1
+
+If the project sum of any investigation, planning, design or supervision of soil and water conservation treatment and maintenance as undertaken by a soil and water conservation technician, civil engineering technician, water conservancy engineering technician, land engineering technician, or technical consulting institution employing any of the above professional engineers, which involves agricultural or vegetation methods or measures, accounts for 30% or more of the entire project, the competent authority shall request that the technician in charge be certified by a soil and water conservation technician possessing the particular expertise.
+
+### Article 7
+
+The central competent authority shall strengthen the promotion, education, counseling and experimental research of soil and water conservation, and devise plans in conjunction with the relevant authorities for implementation.
+
+## Chapter 2 General Soil and Water Conservation Treatment and Maintenance
+
+### Article 8
+
+The treatment, management and usage of the following areas shall, after investigation and planning, be subject to the soil and water conservation treatment and maintenance in accordance with the Soil and Water Conservation Technical Specifications:
+
+1.Watershed treatment.
+
+2.Development and use of farmland, forest land, fishing land and meadowland.
+
+3.Prospecting of mineral deposits, mining, well digging, quarrying, or establishment of relevant ancillary facilities.
+
+4.Repair and building of railroads, highways, other roads or ditches etc.
+
+5.Development of land for construction, or establishment of parks, graves, pleasure grounds, sports grounds or military training grounds, or piling of sand and gravel, treatment of waste, or other excavation and soil preparation, on slopeland or within a forest zone.
+
+6.Averting of erosion or landslide of coasts, the riparian zones of lakes and reservoirs, or banks of waterways.
+
+7.Checking of winds, control of sand, and averting of disasters in deserts, sand beaches, sand dunes or windy regions.
+
+8.Administration of protection areas under urban planning.
+
+9.Other soil and water conservation treatment and maintenance as required to maintain soil and water resources and the quality thereof or to control disasters due to the development and use of land.
+
+The technical regulations for soil and water conservation mentioned in the preceding paragraph will be announced by the central competent authority.
+
+### Article 9
+
+River watershed shall be subject to the overall administration and planning of the competent authority in conjunction with the relevant authorities. Mid- term and long-term administration planning must be devised based on the requirement for the conservation of soil and water resources and the reasonable use of land, submitted to the central competent authority for approval, and implemented by each relevant authority, institution or soil and water conservation obligor by stages and by regions.
+
+Watershed mentioned in the preceding paragraph will be designated by the central competent authority in conjunction with the relevant authorities.
+
+### Article 10
+
+The soil and water conservation of slopeland that is suitable for farming or herding purpose shall, when such land is used for said purpose, be treated and maintained by the soil and water conservation obligor in line with the watershed administration plan or farming and herding area development plan.
+
+### Article 11
+
+The soil and water conservation of national or public forest zones shall be planned, treated and maintained by the forest operation and management authority. The soil and water conservation of private forest zones shall be treated and maintained by soil and water conservation obligor under the guidance of the local forestry competent authority.
+
+### Article 12
+
+A soil and water conservation obligor engaging in the following acts on slopeland or in a forest zone shall draft a soil and ater conservation plan and submit the same to the competent authority for approval. If by act an environmental impact assessment is necessary, the soil and water conservation obligor shall further submit the result of environmental impact assessment for approval.
+
+1.Repair or building of farm roads, or slope preparation, as required for the development and use of farmland, forest land, fishing land, and meadowland.
+
+2.Prospecting of mineral deposits, mining, well digging, quarrying, or establishment of relevant ancillary facilities.
+
+3.Repair and building of railroads, highways, other roads or ditches etc.
+
+4.Development of land for construction, or establishment of parks, graves, pleasure grounds, sports grounds or military training grounds, or piling of sand and gravel, treatment of waste, or other excavation and soil preparation.
+
+No authority responsible for specific business shall directly issue a development or use permit until the soil and water conservation plan mentioned in the preceding paragraph is approved by the competent authority.
+
+Where pursuant to the applicable acts and regulations governing regional planning an application for engaging in any of the acts described in the subparagraphs of the first paragraph is subject to the review of the authority formulating the regional planning, a soil and water conservation proposal must first be drafted and then submitted through the authority responsible for specific business to the competent authority on the same level of said authority formulating the regional planning, for review and approval. The soil and water conservation proposal may be reviewed along with the environmental impact assessment in a parallel manner.
+
+A simplified soil and water conservation statement may be submitted in lieu of a soil and water conservation plan with respect to any of the acts described in the subparagraphs of the first paragraph if such act falls in a category designated by the central competent authority with a scale smaller than that specified by the competent responsible authority. The above category and scale will be determined by the central competent authority
+
+### Article 13
+
+(Deleted)
+
+### Article 14
+
+With respect to land within a national park that must be subject to the soil and water conservation treatment and maintenance, the relevant soil and water conservation obligor shall draft a soil and water conservation plan and submit the same to the competent authority for approval in conjunction with the national park management authority. Such plan shall be implemented and maintained by the soil and water conservation obligor under the supervision of the competent authority in conjunction with the national park management authority.
+
+### Article 14-1
+
+The competent authority shall charge an examination fee for reviewing and approving a soil and water conservation plan or soil and water conservation proposal in accordance with Article 12. The rate will be determined by the central competent authority.
+
+Regulations governing the content, application procedure, review and approval procedure, supervision, issue and abolition of soil and water conservation work permit, approval of work schedule, reporting of commencement of work, reporting of completion of work, issue of certificate of completion, and modification etc. with respect to a soil and water conservation plan, soil and water conservation proposal or simplified soil and water conservation statement, will be determined by central level responsible authority.
+
+### Article 15
+
+The soil and water conservation obligor of slopeland suitable for farming or herding purpose, if not the landowner, shall treat and maintain the soil and water conservation of the land it uses, in accordance with the requirements of the competent authority. If the Soil and Water Conservation Technical Specifications are confirmed upon inspection to be conformed to, such obligor may advise the owner of the handling fee and government subsidy as well as the ratio paid by the obligor in writing. Such owner will accordingly pay compensation based on the current value ratio less the government subsidy upon the surrender of the land, unless the soil and water conservation treatment and maintenance fee is otherwise governed by act or by agreement between the owner and the soil and water conservation obligor.
+
+Any dispute over the handling fee and current value under the preceding paragraph is subject to mediation by the municipal, county or city competent authority.
+
+## Chapter 3 Special Soil and Water Conservation Treatment and Maintenance
+
+### Article 16
+
+The following areas shall be delimited as designated soil and conservation areas:
+
+1.Reservoir watershed; and
+
+2.River watershed that are subject to special protection; and
+
+3.Coasts, the riparian zones of lakes and reservoirs, or banks of waterways that are subject to special protection; and
+
+4.Sand dunes, sand beaches etc. that are under serious wind erosion; and
+
+5.Steep slopeland that is likely to jeopardize public safety; and
+
+6.Other areas with a grave impact on soil and water conservation.
+
+The designated soil and conservation area under the preceding paragraph shall be established by the central or special municipality competent authority or managed by the designated management authority.
+
+### Article 17
+
+Designated soil and conservation areas will be delimited and publicly announced by the central competent authority if located in a country/city administrative region or in an administrative region straddling across two or more special municipalities and counties/cities; if located in a special municipal administrative region, such areas will be delimited by the special municipality competent authority and, upon the request of the special municipality competent authority, publicly announced by the central competent authority.
+
+The guidelines for delimiting and abolishing the designated soil and conservation areas under the preceding paragraph will be determined by the central competent authority.
+
+### Article 18
+
+The management authority shall draft a long-term soil and water conservation plan with respect to a designated soil and water conservation area, and submit the same to the central competent authority directly or through the special municipality competent authority, for approval and implementation.
+
+The long-term soil and water conservation plan under the preceding paragraph shall be subject to thorough review once every five years and may be modified subject to practical need. Where specially necessary, an application may be made at any time to the central competent authority directly or through the special municipality competent authority for approval of modification.
+
+### Article 19
+
+The long-term soil and water conservation plan with respect to any type of area delimited as a designated soil and water conservation area shall focus on the following:
+
+1.Reservoir watershed: conservation of water resources; control of erosion, landslide, debris flow; purification of water quality; maintenance of the natural ecological environment.
+
+2.Watershed: protection of soil and water resources; control of erosion and landslide; prevention of flooding; maintenance of the natural ecological environment.
+
+3.Coasts, the riparian zones of lakes and reservoirs, or banks of waterways: prevention of landslide and erosion; maintenance of the natural ecological environment; protection of neighboring land.
+
+4.Sand dunes, sand beaches: wind break and sand fixation.
+
+5.Other areas: as specified by the competent authority subject to practical need.
+
+No development activities are allowed in any type of area delimited as a designated soil and water conservation area, except, subject to the approval of the central competent authority, major infrastructure associated with water sources that involves neither a change in terrain features of a specific scale or above nor a natural recreation area approved after environmental impact assessment review.
+
+The change in terrain features of a specific scale or above, as mentioned in the preceding paragraph, will be identified by the central competent authority in conjunction with the relevant authorities.
+
+### Article 20
+
+With respect to the reservoir watershed that is delimited as a designated soil and water conservation area, the management authority shall establish a protection belt from the top of the water line of the reservoir to 30m or 50m from the water level. The protection belts of other designated soil and water conservation areas will be established subject to the approval of the central competent authority upon the request of the management authority based on practical need.
+
+Any private land and public land within a protection belt as mentioned in the preceding paragraph may be subject to condemnation and appropriation respectively; in the event of land already leased, the lease shall be terminated and the land re-claimed.
+
+The area above the protection belt of the reservoir watershed, as mentioned in the first paragraph, being a forest shall be designated as protection forest and governed by the applicable provisions of the Forest Act.
+
+### Article 21
+
+The management authority may restrict or ban the gainful use of land within a protection belt mentioned in the preceding Article that has not been condemned or re-claimed, or may designate the method of operation and protection of such land.
+
+The protection belt mentioned in the preceding paragraph being a forest shall be designated as protection forest and governed by the applicable provisions of the Forest Act.
+
+The private landowner or the holder of any ground objects under the first paragraph may claim compensation for any loss suffered. The compensation shall be based on a fair, reasonable price.
+
+Regulations for the claim and payment of compensation under the third paragraph will be determined by the central competent authority and submitted to the Legislative Yuan for approval and the files.
+
+## Chapter 4 Supervision and Management
+
+### Article 22
+
+If slopeland utilization exceeding prescribed limits or if land is not used pursuant to Article 10 or soil and water conservation is not treated and maintained in accordance with the Soil and Water Conservation Technical Specifications when farming, forestry, fishing, or herding activities are being conducted, the special municipality or county/city competent authority will request, in conjunction with the relevant authorities, the soil and water conservation obligor to cure within a prescribed time limit. Where no cure is made within the time limit prescribed or where soil and water conservation treatment and maintenance does not conform to the Soil and Water Conservation Technical Specifications, the relevant authorities may be requested to take any of the following actions:
+
+1.Where the land for lease or sale or in which farming right has been registered is public land, the lease, sale or farming right will be terminated or revoked and the land will be re- claimed and dealt with separately; in the event of land for sale, the land price already paid will be confiscated;
+
+2.Where the land borrowed or appropriated is public land, it will be re-claimed by the original owner or management authority; and
+
+3.Where the land is private land, the development thereof will be ceased.
+
+Any ground objects under any of the preceding subparagraphs will be harvested or handled by the operator, user or owner within the prescribed time limit, otherwise, the egulatory authority may directly clear such objects in conjunction with the land management authority; The Forest Act shall further apply in the event of national or public forest land for lease.
+
+### Article 23
+
+Where soil and water conservation is not treated and maintained in accordance with the soil and water conservation plan approved pursuant to any of Articles 12 to 14, the competent authoritywill, in addition to imposing punishment successively pursuant to Article 33, request in conjunction with the authority responsible for specific business, the soil and water conservation obligor to cure within a prescribed time limit.
+
+Where no cure is made within the time limit prescribed or where soil and water conservation treatment and maintenance still does not conform to the Soil and Water Conservation Technical Specifications, the soil and water conservation obligor shall be ordered to suspend work, compulsory demolition will be imposed, or the relevant permit will be revoked, and use of completed portions may further be suspended.Where development is carried out without first drafting a soil and water conservation plan and submitting the same to the competent authority for approval in accordance with any of Articles 12 to 14, the competent authority shall, in addition to imposing punishment successively pursuant to Article 33, order work suspension and may confiscate the facilities and machinery and tools used, impose compulsory demolition and clear the work objects, at the expense of the operator, user or owner; applications for development of the particular land will also be suspended for two years from the date of the initial punishment.
+
+Maintenance of roads or facilities already completed will be governed by the preceding two paragraphs mutatis mutandis.
+
+### Article 24
+
+The development, operation or use under subparagraphs 3 to 5 of the first paragraph of Article 8 is subject to the payment of a soil and water conservation bond. Regulations for the payment, custody and utilization of such bond will be determined by the central competent authority in conjunction with the authority responsible for specific business.
+
+The bond under the preceding paragraph will be returned if soil and water conservation has been treated and maintained as required and such treatment and maintenance has been confirmed upon inspection to conform to the Soil and Water Conservation Technical Specifications.
+
+If under the circumstance mentioned in either of the preceding two Articles no cure is made within the time limit prescribed or the soil and water conservation treatment and maintenance does not conform to the Soil and Water Conservation Technical Specifications, the competent authority shall perform in conjunction with the authority responsible for specific business and charge a fee from the soil and water conservation obligor or deduct the fee from the bond paid by said obligor.
+
+### Article 25
+
+The competent authority may, for the purposes of soil and water conservation treatment and maintenance, appropriate the necessary public land or condemn the necessary private land. Where it is necessary to condemn land for emergency treatment, the competent authority may, subject to the approval of the Executive Yuan, first use the land.
+
+### Article 26
+
+The competent authority may appropriate any materials, supplies, labor and land required for emergency repair, and remove any obstacles, for the purpose of soil and water conservation treatment and maintenance on an emergency basis for the sake of public safety.
+
+The competent authority shall subsequently make considerable compensation for the appropriation of materials, supplies, labor and land and removal of obstacles under the preceding paragraph, and may request the superior competent authority for determination in the event of disagreement over the compensation.
+
+### Article 27
+
+The competent authority may exercise police powers in taking emergency action and banning work in areas that are, by this Act, subject to soil and water conservation treatment and maintenance, and may further seek assistance from the military and police in the local area where necessary.
+
+## Chapter 5 Budget and Funding
+
+### Article 28
+
+The competent authority and relevant authority at any level shall make annual budgeting and raise funds for the treatment and maintenance, promotion, education, counseling, experimental research, and other work relevant to soil and water conservation.
+
+### Article 29
+
+A project budget for the construction of reservoirs or the building and repair of railroads, highways, other roads or ditches, shall include a budget for the administration of watershed or for the soil and water conservation treatment and maintenance of roads.
+
+### Article 30
+
+The government shall make an annual budget for improving soil and water conservation treatment and maintenance, as follows:
+
+1.Financing for soil and water conservation treatment and maintenance;
+
+2.Budgeting for emergency soil and water conservation treatment and maintenance;
+
+3.Subsidies for the investigation, research and technical improvement of soil and water conservation;
+
+4.Budgeting for the promotion of international exchange and cooperation in soil and water conservation; and
+
+5.Other items associated with soil and water conservation treatment and maintenance.
+
+## Chapter 6 Penal Provisions
+
+### Article 31
+
+The competent authority will provide appropriate subsidy or relief under any of the following circumstances:
+
+1.Where loss is suffered from soil and water conservation treatment and maintenance for the sake of public safety;
+
+2.Where loss is suffered from the exchange of land or relocation due to soil and water conservation treatment and maintenance; or
+
+3.Where casualties result from emergency soil and water conservation treatment and maintenance under Article 26.
+
+## Chapter 7 Penal Provisions
+
+### Article 32
+
+Anyone cultivating, occupying, or developing, operating or using as in subparagraphs 2 to 5 of the first paragraph of Article 8, public or private slopeland, a national or public forest zone, or others' private forest zone, without consent, as a result of which soil and water is lost or facilities for soil and water conservation treatment and maintenance are damaged or destroyed, will be punished with imprisonment not less than six months and not more than five years and may further be fined not more than NT$600,000; provided, however, that the punishment may be mitigated or even waived where the circumstances are obviously pitiful.
+
+Where the above circumstances result in a disaster, the imprisonment will be increased by half. If death is caused to another, the imprisonment will be not less than five and not more than twelve years and a fine of not more than NT$1,000,000 may be additionally imposed. Where grave injury is sustained, the imprisonment will be not less than three and ten years and not more than a fine of not more than NT$800,000 may be additionally imposed.
+
+Anyone committing an offense under the first paragraph out of negligence that results in a disaster will be imprisoned for not more than one year and may be additionally fined not more than NT$600,000.
+
+An attempt to commit an offense specified in the first paragraph is punishable.
+
+The cultivated objects, work objects, work materials, and machinery and tools used in the event of an offense under this Article shall be confiscated, regardless of whether they belong to the offender.
+
+### Article 33
+
+Anyone violating either of the following will be fined not less than NT$60,000 and not more than NT$300,000:
+
+1.Violating the first paragraph of Article 8 by failing to treat and maintain soil and water conservation in accordance with the the Soil and Water Conservation Technical, or violating the first paragraph of Article 22 by failing to cure within the prescribed time limit or making cure that is inconsistent with the Soil and Water Conservation Technical Specifications; or
+
+2.Violating any of Articles 12 to 14 by failing to first prepare a soil and water conservation plan or to treat and maintain soil and water conservation in accordance with the approved plan, or violating Article 23 by failing to cure within the prescribed time limit or making cure that is inconsistent with the Soil and Water Conservation Technical Specifications.
+
+Under either of the circumstances described in the preceding paragraph, where no cure is made despite continuous requests for cure within a prescribed time limit or where the cure made is still inconsistent with the Soil and Water Conservation Technical Specifications, punishment will be imposed successively until cure is duly made, an order of work suspension will be issued, the facilities and machinery and tools used may be confiscated, and the work objects may be subject to compulsory demolition and removal. The costs required for the above will be borned by the operator, user or owner.
+
+Where soil and water is lost or facilities for soil and water conservation treatment and maintenance are damaged or destroyed under the circumstance described in subparagraph 2 of the first paragraph above, the imprisonment will be not less than six months and not more than five years and a fine of not more than NT$600,000 may be additionally imposed. If death is caused to another, the imprisonment will be not less than three and not more than ten years and a fine of not more than NT$800,000 may be additionally imposed. Where grave injury is sustained, the imprisonment will be not less than one and seven years and not more than a fine of not more than NT$600,000 may be additionally imposed.
+
+### Article 34
+
+If an offense under Article 32 or the third paragraph of Article 33 is committed in the course of the performance of business, the perpetrator will be punished in accordance with the relevant provision and, additionally, the legal entity or individual hiring such perpetrator will be fined the fine prescribed in each such Article.
+
+### Article 35
+
+All fines mentioned in this Act are to be meted out by the special municipality or county/city competent authority.
+
+### Article 36
+
+Where any of the fines meted out in accordance with this Act is not paid within the time limit prescribed, the case will be referred to court for enforcement.
+
+## Chapter 8 Supplementary Provisions
+
+### Article 37
+
+The enforcement rules of this Act will be established by the central competent authority.
+
+### Article 38
+
+The competent authority shall draft a guidance plan for the purposes of conserving soil and water resources and preventing or reducing the possibility of disasters, and shall report on the results of soil and water conservation within five years.
+
+The guidance plan mentioned in the preceding paragraph will be made by the central competent authority and submitted to the Legislative Yuan for approval and filing.
+
+### Article 38-1
+
+Any unfinished portion of soil and water conservation work may continue according to the soil and water conservation plan which was already approved in accordance with the Slopeland Conservation and Utilization Act prior to the enforcement rules of this Act coming into force as of July 2, 1995; provided, however, that this Act shall still apply to any modification of the approved plan.
+
+### Article 38-2
+
+The development, operation or use subject to soil and water conservation control and maintenance under this Act has been approved by the authority responsible for specific business prior to the amendment to the Slopeland Conservation and Utilization Act coming into force as of January 12, 1986, the soil and water conservation obligor must, within the time limit prescribed by the central competent authority in a public notice, draft a soil and water conservation plan and submit the same according to this Act to the competent authority for approval before implementing the plan. This Act as well as the relevant acts will apply where the soil and water conservation obligor fails to comply with the above within the prescribed time limit or to implement the plan in accordance with the applicable provisions of this Act.
+
+The development, operation or use concerned may continue during the period in which the soil and water conservation plan mentioned in the preceding paragraph is being submitted and reviewed, provided soil and water conservation is properly treated and maintained and other relevant safety measures properly taken.
+
+### Article 39
+
+This Act will be enforced as of the date of its promulgation.
+
+## History
+
+1.Promulgated by Presidential Order No. Hwa-Tzong-1-Yi- Zi-2845 on May 27, 1994.
+
+2.Amendment to Articles 4, 7, 8, 13~16, 19, 23 and 33 by Presidential Order No. Hwa-Tzong-1-Yi- Tze-6295on October 21, 1994.
+
+Amendment by Order of Executive Yuan No. Tai-88-Nung-Zi-25352 on June 30, 1999.
+
+3.Amendment by Presidential Order No. Hwa-Tzong-1-Yi-Zi-8900118410 on May 17, 2000.
+
+4.Addition of Articles 6-1, 14-1, 38-1 and 38-2, deletion of Article 13 and amendment to Articles 6 and 12 by Presidential Order No. Hwa-Tzong-1-Yi- Zi-09200235601on December 17, 2003.
+
+5.Amendment to Article 32 by Presidential Order No. Hwa-Tzong-1- Yi- Tze-10500146991 on November 30, 2016.
+
+The announcement was made on July 27, 2023 by the Executive Yuan Order tai-gui-zi No. 1125014346. The relevant matters set out in Article 2, Subparagraph 3,5 of Paragraph 1 of Article 3, Article 5, Article 6, Article 6-1, Article 7, Paragraph 2 of Article 8, Article 9, Article 11, Paragraph 1,2,3,4 of Article 12, Article14, Article 14-1, Paragraph 1 of Article 15, Paragraph 2 of Article 16, Article 17, Article 18, Subparagraph 5 of Paragraph 1, Paragraph 2,3 of Article 19, Paragraph 1 of Article 20, Paragraph 4 of Article 21, Paragraph 2 of Article 22, Paragraph 1,2 of Article 23, Paragraph 1,3 of Article 24, Article 25, Article 26, Article 27, Article 28, Article 31, Article 37, Article 38, Paragraph 1 of Article 38-2 pertaining to “ the Council of Agriculture of the Executive Yuan” shall be handled by “Ministry of Agriculture” as governing body, effective August 1, 2023.

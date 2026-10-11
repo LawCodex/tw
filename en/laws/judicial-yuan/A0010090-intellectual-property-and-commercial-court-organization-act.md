@@ -1,0 +1,386 @@
+---
+title: "Intellectual Property and Commercial Court Organization Act"
+title_zh: "智慧財產及商業法院組織法"
+identifier: "A0010090"
+type: act
+law_level: "法律"
+category: "司法＞院本部＞組織目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2007-03-28
+last_amended: 2023-04-26
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=A0010090"
+retrieved: 2026-10-12
+---
+
+# Intellectual Property and Commercial Court Organization Act
+
+> Translation. The Chinese text ([zh/laws/judicial-yuan/A0010090-intellectual-property-and-commercial-court-organization-act.md](../../../zh/laws/judicial-yuan/A0010090-intellectual-property-and-commercial-court-organization-act.md)) is authoritative.
+
+## Chapter One - General Provisions
+
+### Article 1
+
+This Act is enacted to protect intellectual property rights, optimize the commercial environment, properly handle intellectual property and commercial cases, and further the nation's technological and economic development.
+
+### Article 2
+
+The Intellectual Property and Commercial Court is in charge of the following affairs in accordance with the law:
+
+\1. Civil, criminal, and administrative actions concerning intellectual property.
+
+\2. Civil actions and non-litigation matters concerning commerce.
+
+### Article 3
+
+Jurisdiction of the Intellectual Property and Commercial Court includes the following:
+
+\1. First instance and second instance civil actions for the protection of intellectual property rights and interests arising under the Patent Act, the Trademark Act, the Copyright Act, the Optical Disk Act, the Trade Secrets Act, the Integrated Circuit Layout Protection Act, the Plant Variety and Plant Seed Act, or the Fair Trade Act as well as commercial actions under the Commercial Case Adjudication Act.
+
+\2. Offenses under Articles 253, 254, 317, and 318 of the Criminal Code, violation of the Trademark Act, the Copyright Act, and cases under Articles 72 to 74 of the Intellectual Property Case Adjudication Act, and appeals or interlocutory appeals against the decisions on criminal actions rendered by district courts in the first instance in an ordinary, summary, or plea bargain proceeding; first instance criminal actions under Article 13-1, 13-2, Paragraph 3 of Article 13-3 and Article 13-4 of the Trade Secrets Act; second instance criminal actions under the Trade Secrets Act; first instance criminal actions under Paragraphs 1 to 3 of Article 8 of the National Security Act. Criminal actions involving juveniles shall be excluded.
+
+\3. First instance administrative actions and compulsory enforcement matters concerning intellectual property rights arising under the Patent Act, the Trademark Act, the Copyright Act, the Copyright Collective Management Organization Act, the Optical Disk Act, the Integrated Circuit Layout Protection Act, the Plant Variety and Plant Seed Act, or the Fair Trade Act.
+
+\4. Other cases prescribed by law or determined by the Judicial Yuan to be within the jurisdiction of the Intellectual Property and Commercial Court.
+
+### Article 4
+
+The location of the Intellectual Property and Commercial Court shall be prescribed by the Judicial Yuan.
+
+The Judicial Yuan may set up additional branches of the Intellectual Property and Commercial Court based on geographic need and the caseload.
+
+### Article 5
+
+The Taiwan High Prosecutors Office, Intellectual Property Branch shall be set up as the corresponding authorities of the Intellectual Property and Commercial Court; the type and the required number of personnel thereof shall be in accordance with the Schedule.
+
+Prosecutors of the Prosecutors Office of district courts and branches thereof handle criminal cases prescribed in Subparagraphs 2 and 4 of Article 3; the Chief Prosecutor of the immediately supervising Prosecutors Office shall be the Chief Prosecutor of the Taiwan High Prosecutors Office, Intellectual Property Branch.
+
+### Article 6
+
+The Intellectual Property and Commercial Court cases shall be tried by a collegial panel of three judges. However, the following cases shall be tried by a single judge:
+
+\1. First instance civil action about intellectual property;
+
+\2. First instance criminal case under Articles 13-1, Article 13-2, Paragraph 3 of Article 13-3 and Article 13-4 of the Trade Secrets Act applicable for summary trials, summary proceedings or plea bargain proceedings;
+
+\3. Cases that involve facts of the same offense as those under the preceding paragraph or are related to such offense as defined in Paragraph 1 of Article 7 of the Code of Criminal Procedure, being prosecuted or jointly prosecuted under summary trials, summary proceedings or plea bargain proceedings;
+
+\4. Supplementary civil action applicable for summary proceedings described in the two preceding paragraphs.
+
+In a collegial panel, the Division Chief Judge shall serve as the Presiding Judge; if there is no Division Chief Judge or if the Division Chief Judge is not available, the most senior judge, or the eldest if the judges are of the same seniority, shall act as the Presiding Judge.
+
+In a single-judge trial, the sitting judge performs the duties of the Presiding Judge.
+
+### Article 7
+
+The type and the required number of personnel of the Intellectual Property and Commercial Court or its branch shall be determined in accordance with the Schedule.
+
+The rules governing the types and changes concerning the Intellectual Property and Commercial Court or its branch shall be prescribed by the Judicial Yuan.
+
+### Article 8
+
+The Intellectual Property and Commercial Court shall have one President, served by a judge concurrently, to handle the overall administrative affairs.
+
+The President of the Intellectual Property and Commercial Court shall have the qualification and leadership of a Supreme Court Judge, Supreme Administrative Court Judge, or Prosecutor of the Supreme Prosecutors Office.
+
+### Article 9
+
+The Intellectual Property and Commercial Court shall establish Intellectual Property Courts and Commercial Courts. The number of such divisions is determined by the caseload.
+
+Each division shall have one Division Chief Judge, to be served concurrently either by the judge who serves as the President on a concurrent basis or by any of the rest of the judges. The Division Chief Judge shall oversee the divisional affairs.
+
+### Article 10
+
+The Intellectual Property and Commercial Court shall have judges and judges-in-probation.
+
+To assist with the management of trial proceedings, clarification of issues, conducting legal research, performing analysis and drafting of judgments, the Judicial Yuan, when necessary, may transfer judges-in-probation or judges-in-training from the District Court or a branch thereof to the Intellectual Property and Commercial Court.
+
+The years that a judge-in-probation or judge-in-training has served during transfer to the Intellectual Property and Commercial Court shall be counted towards his or her years of service.
+
+The Intellectual Property and Commercial Court shall have Judicial Assistants. A Judicial Assistant is to be contracted in accordance with the applicable laws or transferred from other courts, administrative courts, or other appropriate agencies. A Judicial Assistant supports a Judge in the management of trial proceedings, clarification of issues, conducting legal research, and performing analysis.
+
+For those who have been admitted to the profession and contracted as a Judicial Assistant, their service years as a Judicial Assistant shall be counted towards their cumulative years of service.
+
+The rules governing the personnel selection, training, affairs, management, performance review, and other matters concerning Judicial Assistants shall be prescribed by the Judicial Yuan.
+
+### Article 11
+
+The Intellectual Property and Commercial Court may set up an enforcement department, where a judge or judicial affairs officer may administer enforcement matters for intellectual property cases, or request the civil enforcement department of an ordinary court or an administrative agency to administer enforcement matters on its behalf.
+
+### Article 12
+
+The Intellectual Property and Commercial Court shall set up a Public Defender's Office. The Public Defender shall have selection rank of the 10th and the 11th grade, or recommendation rank of the 9th grade. If there are two or more Public Defenders, the position of there may be a Director of Public Defenders, who shall be staffed by a Public Defender with a position ranking of grade 10 to 12 of the selection rank.
+
+The Public Defender mentioned in the preceding paragraph may be promoted to a selection rank up to the 12th grade if he or she is confirmed upon review to have served continuously for four years or greater with outstanding performance or if he or she has been promoted pursuant to Paragraphs 2 or 3, Article 17 of the Court Organization Act or Paragraphs 2 or 3, Article 11 of the Juvenile and Family Court Organization Act.
+
+Years of service on the Intellectual Property and Commercial Court above and those on the High Court or a High Court branch shall be counted cumulatively.
+
+The rules governing the review in Paragraph 2 shall be prescribed by the Judicial Yuan.
+
+For those who have the qualifications to practice law, the duration of time serving as Public Defenders shall accrue towards the seniority of legal practice.
+
+### Article 13
+
+The Intellectual Property and Commercial Court shall set up an Office of the Judicial Affairs Officers. The Judicial Affairs Officer shall have recommendation rank between the 7th and 9th grade. If there are two or more Judicial Affairs Officers, the position of there may be a Director of Judicial Affairs Officers, who shall be staffed by a Judicial Affairs Officer with a recommendation rank of the 9th grade to selection rank of the 10th grade.
+
+For those who have the qualifications to practice law, the duration of time serving as Judicial Affairs Officers shall accrue towards the seniority of legal practice.
+
+## Chapter Two - Qualifications of Judges
+
+### Article 14
+
+Judge of the Intellectual Property and Commercial Court shall satisfy one of the criteria set forth below to qualify for the position:
+
+\1. Has served as a judge on the Intellectual Property and Commercial Court;
+
+\2. Has served as a tenured judge or tenured prosecutor;
+
+\3. Has served in the position of judge or prosecutor and has served with a recommendation rank as a civil servant for over 8 years in total;
+
+\4. Has been substantially engaged in the practice of law as an attorney in intellectual property or commercial litigation for at least 8 years and possesses the qualifications for the proposed appointment;
+
+\5. Graduated from the department of law, political science, public administration, or its graduate school in a public or private university, or independent college, and served as a full-time professor, associate professor, or assistant professor in a university or independent college certified by the Ministry of Education for over eight years in total, teaching intellectual property rights or commercial law related courses for over five years, with the professional works related to the above-mentioned topics, and possesses the qualifications for the proposed appointment;
+
+\6. Graduated from the department of law, political science, public administration, or its graduate school of a public or private university, independent college, and has served as a distinguished research fellow, research fellow, associate research fellow, or assistant research fellow of the Academia Sinica for over eight years in total, with intellectual property rights or commercial law related specialized legal works, and possesses the qualifications for the proposed appointment;
+
+\7. Graduated from the department of law, political science, public administration, or its graduate school in a public or private university, or independent college; was in public service with a selection rank; possesses a total of over ten years' experience in the review, petition, or legal proceedings in connection with intellectual property, business management, securities transactions or management, or futures transactions or management; and has authored relevant legal works in intellectual property rights or commercial law.
+
+The years of service in Subparagraphs 5 and 6 of the preceding paragraph may be cumulated according to the legal categories of the lectures and works.
+
+For applicable personnel in Subparagraphs 2 and 3 of Paragraph 1, their qualifications, procedures, on-the-job training, and detail to other agencies for special assignments shall be governed by the regulations prescribed in Article 10, Paragraph 1 of the Judges Act.
+
+For applicable personnel in Subparagraphs 4 to 7 of Paragraph 1, the selection procedures, age limit of judges, and training and other matters shall be governed by the regulations set forth in Paragraphs 2 and 3 of Article 8 of the Judges Act.
+
+### Article 15
+
+The reassignment and selection of the Intellectual Property and Commercial Court judges who meet the qualifications in Paragraph 1 of the preceding Article shall be based on a review of their integrity, capabilities, physical and mental status, work ethics, experience, and accomplishment in the legal profession.
+
+The Judicial Yuan shall conduct on-the-job training for personnel of the Intellectual Property and Commercial Court every year to promote their legal professionalism and improve their judicative quality.
+
+## Chapter Three - Appointment of Technical Examination and Commercial Investigation Officers
+
+### Article 16
+
+The Intellectual Property and Commercial Court shall have a Technical Examination Officers' Office and a Commercial Investigation Officers' Office consisting of Technical Examination Officers and Commercial Investigation Officers with a recommendation rank between the 8th and 9th grade, half of whom may have a selection rank of the 10th grade. If there are two or more Officers of a respective type, then there may be a Chief Technical Examination Officer or a Chief Commercial Investigation Officer with a selection rank of the 10th to 11th grade.
+
+If necessary, the Intellectual Property and Commercial Court may hire or transfer various professionals to serve as the Technical Examination Officers or Commercial Investigation Officers in the preceding Paragraph in accordance with related personnel hiring laws and regulations. The rules governing such recruitment shall be prescribed by the Judicial Yuan.
+
+The Technical Examination Officers' Office and Commercial Investigation Officers' Office may be divided into teams if necessary. The leader of each team is concurrently assumed by the Technical Examination Officer and the Commercial Investigation Officer. Neither duties will have separate positions established.
+
+The Technical Examination Officer and the Commercial Investigation Officer are ordered by the judges to handle the following affairs:
+
+\1. The determination regarding the technical or commercial issues of a case, data collection, analysis, and providing opinions.
+
+\2. Other matters stipulated by the law.
+
+### Article 17
+
+A Technical Examination Officer shall satisfy one of the criteria set forth below and possess the qualifications for the proposed appointment:
+
+\1. Has served as a Patent Examiner or Trademark Examiner for over 3 years in total with a good track record and possesses proof of qualifications; or has graduated with a Master's Degree or above from a relevant department or a graduate school of a public or private university or an independent college, or a foreign institution of higher education recognized by the Ministry of Education, and served as a Patent Examiner or Trademark Examiner or Assistant Examiner for over 6 years in total with a good track record and possesses proof of qualifications; or has graduated with a diploma in a relevant field from a public or private college or a foreign institution of higher education recognized by the Ministry of Education, and served as a Patent Examiner or Trademark Examiner or Assistant Examiner for over 8 years in total with a good track record and possesses proof of qualifications;
+
+\2. Is or was a lecturer in a relevant department or a graduate school of a public or private university or independent college for over 6 years or an assistant professor, associate professor, or a professor in a relevant department or a graduate school of a public or private university or independent college for over 3 years in total, or a research fellow at a public or a private professional research institute for over 6 years; and has specialized publications on intellectual properties and possesses proof of qualifications.
+
+A Commercial Investigation Officer shall satisfy one of the criteria set forth below and possess the qualifications for the proposed appointment:
+
+\1. Has held a position for over 3 years in total in the Ministry of Economic Affairs, Financial Supervisory Commission, R.O.C., Taiwan Stock Exchange Corporation, Taipei Exchange, Taiwan Futures Exchange Corporation, Taiwan Depository and Clearing Corporation, or other equivalent units, and has a specialty in accounting, investments, financial analysis, economics, and financial markets, with a good track record and proof of qualifications.
+
+\2. Has graduated with a Master's Degree or above from a relevant department or a graduate school of a public or private university or an independent college, or a foreign institution of higher education recognized by the Ministry of Education, and has held a position in the Ministry of Economic Affairs, Financial Supervisory Commission, R.O.C., Taiwan Stock Exchange Corporation, Taipei Exchange, Taiwan Futures Exchange Corporation, Taiwan Depository and Clearing Corporation, or other equivalent units for over 2 years in total, and has a specialty in accounting, investments, financial analysis, economics, and financial markets, with a good track record and proof of qualifications.
+
+\3. Is or was a lecturer in a relevant department or a graduate school of a public or private university or independent college for over 3 years in total, or an assistant professor, associate professor, or a professor in a relevant department or a graduate school of a public or private university or independent college for over 2 years in total, or a research fellow at a public or a private professional research institute for over 3 years in total; and has specialized publications on accounting, investments, financial analysis, economics, or financial markets and proof of qualifications.
+
+\4. Currently or previously serving as a Judicial Affairs Officer in Financial Affairs Department for at least 3 years in total, with a good track record and proof of qualifications.
+
+For a person with qualification stated in Subparagraph 1 of Paragraph 1, his or her years of service as a Patent Examiner or Trademark Examiner prior to the promulgation of the Patent Examiner Qualification Act and the Trademark Examiner Qualification Act are includible.
+
+"Good track record" in Subparagraph 1 of Paragraph 1, and Subparagraphs 1, 2 and 4 of Paragraph 2, means a record of at least two As and one B on the merit system in the past three years, with no criminal sentence, disciplinary measure, or a demerit on the daily performance merit system, and shall be supported by documents issued by the relevant institutions.
+
+## Chapter Four - Department of Clerks, Auxiliary Units, and their Personnel Appointment
+
+### Article 18
+
+The Intellectual Property and Commercial Court shall set up a Department of Clerks consisting of a Chief Clerk with a recommendation rank of the 9th grade to a selection rank of the 11th grade, to take charge of administrative affairs according to the instruction of the President; 1st class Clerks with a recommendation rank between the 8th and the 9th grade, 2nd class Clerks with a recommendation rank between the 6th and the 7th grade, and 3rd class Clerks with an elementary rank between the 4th and the 5th grade. The Clerks are responsible for recordation, secretarial affairs, research and evaluation, general affairs, information, and litigation assistance affairs. The Department of Clerks may be divided into sections and units. The Section Chief shall be served by a 1st class Clerk, and the Unit Chief by either a 1st class Clerk or a 2nd class Clerk, on a concurrent basis and all with no particular ranking; the Section Chief may be served by a 2nd class Clerk concurrently when the number of 1st class Clerks is fewer than the number of sections established and there is a business need for such service.
+
+The total number of 1st class and 2nd class Clerks in the preceding Paragraph combined shall not exceed half of the total number of 1st, 2nd, and 3rd class Clerks in the same Intellectual Property and Commercial Court.
+
+### Article 19
+
+The Intellectual Property and Commercial Court may set up a Lodgment Office consisting of a Chief Officer with a selection rank of the 10th grade, 2nd class Clerks with a recommendation rank between the 6th and the 7th grade, and 3rd class Clerks with an elementary rank between the 4th and the 5th grade.
+
+### Article 20
+
+The Intellectual Property and Commercial Court shall have 1st class Interpreters with a recommendation rank between the 8th and 9th grade; 2nd class Interpreters with a recommendation rank between the 6th and 7th grade; 3rd class Interpreters with an elementary rank between the 4th and 5th grade; Technical Specialists with an elementary rank of the 5th grade or a recommendation rank between the 6th and 7th grade; Process Servers with an elementary rank between the 3rd and 5th grade; and Clerk Assistants and Court Attendants with an elementary rank between the 1st and 3rd grade.
+
+The number of 1st and 2nd class Interpreters in the preceding paragraph shall not exceed half of the total number of 1st, 2nd, and 3rd class Interpreters in the same Intellectual Property and Commercial Court.
+
+If interpretation is required, the Intellectual Property and Commercial Court shall contract specially arranged interpreters for Taiwan aboriginal or other languages on a case-by-case basis. The rules governing such personnel contracting will be prescribed by the Judicial Yuan.
+
+### Article 21
+
+The Intellectual Property and Commercial Court shall have Bailiffs: a Chief Bailiff with an elementary rank of the 5th grade or a recommendation rank between the 6th and 7th grade, a Deputy Bailiff with an elementary rank between the 4th and 5th grade or a recommendation rank of the 6th grade, and Bailiffs with an elementary rank between the 3rd and 5th grade.
+
+### Article 22
+
+The Intellectual Property and Commercial Court will set up a Personnel Office consisting of a Chief Officer with a recommendation rank of the 9th grade to a selection rank of the 10th grade and may be staffed with Specialists with a recommendation rank between the 7th and the 8th grade and Officers with an elementary rank of the 5th grade or a recommendation rank between the 6th and the 7th grade. The Chief Officer, Specialists, and Officers administer personnel matters pursuant to the law.
+
+### Article 23
+
+The Intellectual Property and Commercial Court shall set up an Accounting Office and a Statistics Office. Each consists of a Chief Officer with a recommendation rank of the 9th grade to a selection rank of the 10th grade. The two offices may be staffed with Specialists with a recommendation rank between the 7th and the 8th grade and Officers with an elementary rank of the 5th grade or a recommendation rank grade between the 6th and the 7th grade. The Chief Officers, Specialists, and Officers administer matters relating to annual calculation, accounting, and statistics pursuant to the law.
+
+### Article 24
+
+The Intellectual Property and Commercial Court shall set up a Government Ethics Office consisting of a Chief Officer with a recommendation rank of the 9th grade to a selection rank of the 10th grade and may be staffed with Specialists with a recommendation rank between the 7th and the 8th grade and Officers with an elementary rank of the 5th grade or a recommendation rank between the 6th and the 7th grade. The Chief Officer, Specialists, and Officers administer matters relating to government ethics pursuant to the law.
+
+### Article 25
+
+The Intellectual Property and Commercial Court shall set up an Information Management Office consisting of a Chief Officer with a recommendation rank of the 9th grade to a selection rank of the 10th grade, Programmers and Management Information System Officers, all with a recommendation rank between the 6th and 8th grade, and Assistant Programmers with an elementary rank between the 4th and 5th grade or a recommendation rank of the 6th grade. Information Management Office personnel administer matters related to information technology.
+
+The number of Assistant Programmers with a recommendation rank in the preceding paragraph may not exceed half of the total number of Assistant Programmers in the same Intellectual Property and Commercial Court.
+
+## Chapter Five - Judicial Year and Allocation of Assignments
+
+### Article 26
+
+A judicial year starts on January 1 and ends on December 31 of a year.
+
+### Article 27
+
+The administrative procedures and rules for the Intellectual Property and Commercial Court shall be prescribed by the Judicial Yuan.
+
+The administrative procedures and rules of the Taiwan High Prosecutors Office, Intellectual Property Branch, shall be prescribed by the Ministry of Justice.
+
+### Article 28
+
+The Intellectual Property and Commercial Court shall set up a Council of Judges.
+
+The composition, time of meetings, matters for resolution and resolution procedures, etc. of a Council of Judges are governed by Chapter 4 of the Judges Act unless otherwise stipulated.
+
+## Chapter Six - Commencement and Closure of Trials; Court Order
+
+### Article 29
+
+Unless otherwise prescribed by law, trials of the Intellectual Property and Commercial Court shall be held within the court.
+
+The rules governing court seats and auditing matters of the Intellectual Property and Commercial Court shall be prescribed by the Judicial Yuan.
+
+### Article 30
+
+If necessary, the Intellectual Property and Commercial Court may hold a temporary trial at a designated location of its jurisdiction.
+
+The rules governing the temporary trial in the preceding paragraph shall be prescribed by the Judicial Yuan.
+
+### Article 31
+
+The Presiding Judge has the authority to direct the commencement, closure, and proceeding of a trial.
+
+### Article 32
+
+The Presiding Judge has the authority to maintain court order in a trial.
+
+### Article 33
+
+The Presiding Judge may bar a person who is disrupting court order or engaging in other inappropriate behavior from entering the courtroom or order such person to leave the courtroom. If necessary, the Presiding Judge may arrange to have the person detained until the court session is adjourned.
+
+An order given pursuant to the preceding paragraph may not be appealed.
+
+The provision in the preceding two paragraphs shall apply mutatis mutandis where the Presiding Judge is performing duties outside of court.
+
+### Article 34
+
+In the event an agent ad litem or a defense attorney acts or speaks inappropriately during the course of a trial, the Presiding Judge may give warnings or restrain him from representation on the trial day.
+
+### Article 35
+
+When giving an order pursuant to the preceding two articles, the Presiding Judge shall provide grounds in the record.
+
+### Article 36
+
+Rules governing the Presiding Judge in this Chapter shall apply mutatis mutandis to the Commissioned Judge or Assigned Judge.
+
+### Article 37
+
+Anyone who violates an order given by the Presiding Judge, Commissioned Judge or Assigned Judge intending to maintain court order, thereby obstructing the court proceeding and who continues to refuse to comply upon warning, shall be sentenced to imprisonment for a term not exceeding three months, detention, or a fine not exceeding thirty thousand New Taiwan dollars.
+
+### Article 38
+
+Those who hold court audio recordings and video recordings may not distribute, broadcast, or use the recordings and video recordings obtained for other improper purposes.
+
+Violators of the provisions of the preceding paragraph shall be fined from thirty thousand to three hundred thousand New Taiwan dollars by the local court of the location of domicile or residence or the place of business or office of the perpetrator. However, other special laws shall apply if any such exist.
+
+The procedures for punishment and relief in the preceding paragraph shall be governed mutatis mutandis by the relevant laws and regulations.
+
+## Chapter Seven - Supervision over Judicial Administration
+
+### Article 39
+
+Administrative supervision of the Intellectual Property and Commercial Court is as follows:
+
+\1. The President of the Judicial Yuan supervises the Intellectual Property and Commercial Court and its branches.
+
+\2. The President of the Intellectual Property and Commercial Court supervises his or her court and its branches.
+
+### Article 40
+
+Persons with the supervisory powers in the preceding article may impose the following restrictions on the supervised personnel:
+
+\1. Issue orders to urge attention to matters concerning job duties.
+
+\2. Impose penalties or disciplinary actions according to the law on persons performing poorly, acting ultra vires, or misbehaving.
+
+### Article 41
+
+Provisions in Chapter Seven will not affect the independence of the exercise of judicial powers.
+
+## Chapter Eight - Supplementary Provisions
+
+### Article 42
+
+Decisions given by the Intellectual Property and Commercial Court shall be subject to time limits prescribed by the Judicial Yuan.
+
+### Article 43
+
+No part of the judgment of the Intellectual Property and Commercial Court or any branch thereof that involves the trade secrets of a party or third party may be disclosed.
+
+### Article 44
+
+Issues not addressed herein shall be governed mutatis mutandis by the Court Organization Act and other applicable laws.
+
+### Article 45
+
+This Act shall come into effect on a date to be prescribed by the Judicial Yuan.
+
+## Attachments
+
+- [Taiwan High Prosecutors Office Intellectual Property Branch Number of Personnel List.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006349)
+- [Taiwan High Prosecutors Office Intellectual Property Branch Number of Personnel List.doc](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006350)
+- [Personnel List for the Intellectual Property and Commercial Court and Branches.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006351)
+- [Personnel List for the Intellectual Property and Commercial Court and Branches.doc](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006352)
+
+## History
+
+\1. Promulgated on March 28, 2007 by Presidential Order Hwa-Tzong-1-Yi-Tze No. 09600035701
+
+Promulgated per May 6, 2008 Judicial Yuan Order Yuan Tai Ting Si 1 Zi No. 0970010117 and enforced as of July 1, 2008
+
+\2. Amendment to Article 10 and Schedule to Article 5 promulgated July 8, 2009 per Presidential Order Hwa Tzong 1 Yi Tze No. 09800167941, and enforced as of date of promulgation.
+
+\3. Article 5 amended and promulgated per May 12, 2010 Presidential Order Hwa Tzong 1 Yi Tze No. 09900117331.  The date of enforcement will be decreed by the Judicial Yuan.
+
+Promulgated per June 21, 2010 Judicial Yuan Order Yuan Tai Ting Si 1 Zi No. 0990012787 and enforced as of September 1, 2010.
+
+\4. Article 6 amended and promulgated per November 23, 2011 Presidential Order Hwa Tzong 1 Yi Tze No. 10000259671.  The date of enforcement will be decreed by the Judicial Yuan.
+
+Promulgated per January 18, 2012 Judicial Yuan Order Yuan Tai Ting Si 1 Zi No. 1010002242 and enforced as of September 6, 2012.
+
+\5. Articles 3, 8 to 10, 12, 17, 18, 21 to 24, 26 and 27 and Schedule to Article 7 amended and promulgated, and Articles 28 and 29 deleted, per June 4, 2014 Presidential Order  Hwa Tzong 1 Yi Tze No. 10300085271.  The date of enforcement will be decreed by the Judicial Yuan.
+
+Promulgated per June 6, 2014 Judicial Yuan Order Yuan Tai Ting Si 1 Tze No. 1030015767 and enforced as of June 6, 2014.
+
+\6. Amended on June 23, 2018
+
+\7. Promulgated January 15, 2020
+
+\8. Amended on April 26, 2023

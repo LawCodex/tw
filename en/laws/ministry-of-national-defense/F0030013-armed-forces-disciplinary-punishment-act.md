@@ -1,0 +1,643 @@
+---
+title: "Armed Forces Disciplinary Punishment Act"
+title_zh: "陸海空軍懲罰法"
+identifier: "F0030013"
+type: act
+law_level: "法律"
+category: "行政＞國防部＞人事目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1930-10-07
+last_amended: 2024-08-07
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=F0030013"
+retrieved: 2026-10-12
+---
+
+# Armed Forces Disciplinary Punishment Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-national-defense/F0030013-armed-forces-disciplinary-punishment-act.md](../../../zh/laws/ministry-of-national-defense/F0030013-armed-forces-disciplinary-punishment-act.md)) is authoritative.
+
+## Chapter I General Principles
+
+#### Article 1
+
+This Act is enacted to ensure the preservation of good order and discipline, buttressing military strength, with due regard to protecting human rights and correcting the servicemember’s behavior contributing to disciplinary offenses.
+
+#### Article 2
+
+Unless otherwise stipulated by other laws, the imposition of disciplinary punishment on a servicemember due to his/her commission of the disciplinary offense shall be governed by this Act.
+
+The provisions in this Act shall apply to anyone who loses the servicemember status but commits disciplinary offenses while he/she is in active service.
+
+#### Article 3
+
+Unless otherwise impeached in accordance with the Control Act, any servicemember shall not be subject to judicial disciplinary actions.
+
+The provision stipulated in Article 24 of the Civil Servant Disciplinary Action Act shall not apply to the misconduct by the servicemember.
+
+Whereas the Disciplinary Court adjudicates the matters stipulated in Paragraph 1, the types of judicial disciplinary actions and the statute of limitations period shall follow the corresponding provisions stipulated in this Act vis-a-vis punitive personnel management and punitive pecuniary measure.
+
+#### Article 4
+
+In this Act, terms are defined as follows:
+
+\1. The term “disciplinary offense” refers to the behavior, inconsistent with the mandates of the disciplinary rules, by the servicemember during his/her active service either committed while executing duty assignment or committed at occasions unrelated to the executing of duty assignment.
+
+\2. The term “service-affiliation agency” refers to the agencies (institutes), garrisons, schools, or non-departmental public bodies with which the servicemember is affiliated during his/her active service;
+
+\3. The term “competent authority” refers to the officer or official that is authorized to command and supervise or impose punishment on servicemembers;
+
+\4. The term “authority agency” refers to the agencies (institutes), garrisons, schools, or non-departmental public bodies with which the competent authority is affiliated;
+
+\5. The term “legal professional” refers to a commissioned officer who holds the certificate of qualification of Judge Advocate or National Defense Legal Officer and is assigned the position of Judge Advocate or National Defense Legal Officer pursuant to law;
+
+\6. The term “heavy punishment” refers to dismissal, rescission of enlistment, rank reduction, the record of major demerit, and confinement for repentance education, or a pecuniary punishment of more than 2-month basic pay of a punished servicemember.
+
+#### Article 5
+
+A servicemember shall be punishable for disciplinary offense on-duty in the event that any of the following behaviors is committed while executing duty assignments:
+
+\1. In contravention of or overstepping regulatory rules or orders in executing duty assignments;
+
+\2. In contravention of the order bearing the instruction on the mandate of the office issued by the competent authority within his/her powers, or the management rules issued by the service-affiliation agency;
+
+\3. Failure to supervise his/her subordinates on the matters of executing duty assignments or observing the management rules issued by the service-affiliation agency;
+
+4.Other disciplinary offenses that constitute the contravention of the regulatory rules that are submitted to the Legislative Yuan for recordation or orders promulgated by the Ministry of National Defense.
+
+Any abuse of the servicemember status, duty assignment powers, any contravention of the uniform and insignia regulations, or any other inappropriate behaviors that take place in the service-affiliation agency are considered as committing the disciplinary offense while executing duty assignment.
+
+#### Article 6
+
+A servicemember shall be punishable for disciplinary offense off-duty in the event that any of the following behaviors take place, though committed on occasions unrelated to the executing duty assignment:
+
+\1. Commission of offenses stipulated by laws of criminal nature with intent;
+
+\2. Without good causes, using or in possession of narcotics, hallucinogens, narcotic drugs, or similar official controlled drugs;
+
+\3. Consuming alcohol and driving vehicles in contravention of laws, or refusing to take an alcohol concentration test without good causes;
+
+\4. Commission of sexual harassment or sexual bullying;
+
+5.Behaviors inconsistent with rules promulgated by the service-affiliation agency or its superior authority in regard to ethics against corruption, political neutrality, or administrative neutrality;
+
+\6. Having a part-time employment or running a commercial business in contravention of provisions of regulatory rules;
+
+\7. Other behaviors that compromise the dignity and integrity of a servicemember and harm the honor of armed forces or the operations of the service-affiliation agency.
+
+The heavy punishment shall not be imposed on a servicemember who commits the disciplinary offenses stipulated in Subparagraph 7 of the preceding Paragraph.
+
+#### Article 7
+
+A disciplinary offense is punishable only when expressly provided by this Act at the time of its commission.
+
+In the event that the law is amended after the commission of an offense, the law in force at the time of its commission shall apply, if the amended law is more favorable to the offender, the most favorable law shall apply.
+
+#### Article 8
+
+A disciplinary offense committed by a servicemember is not punishable unless committed intentionally or negligently. A negligence offense is punishable with the heavy punishment only when such offense constitutes gross negligence.
+
+A servicemember may not be exempted from being liable for the punishment stipulated in this Act merely due to his/her unawareness of the content of regulatory rules or orders. Nonetheless, the punishment imposed may be reduced at discretion according to circumstances.
+
+#### Article 9
+
+A disciplinary offense shall not be punishable if any one of the following circumstances exists:
+
+\1. An act performed in defense of the servicemember’s own rights or the rights of another against immediate unlawful infringement thereof;
+
+\2. An act performed to avert imminent peril, not otherwise avoidable, to the life, body, right to personal liberty, reputation, or property of the servicemember himself/herself or of another;
+
+\3. An act performed in accordance with law or order;
+
+\4. A justifiable act performed in the course of duty assignment.
+
+Provided that the acts of defense and averting peril prescribed in Subparagraphs 1 and 2 in the preceding Paragraph are excessive, punishment may be reduced at discretion or remitted.
+
+The provisions of Subparagraph 2 of Paragraph 1 relating to averting peril to the servicemember himself/herself do not apply to a servicemember acting under an obligation resulting from his/her duty assignment.
+
+#### Article 10
+
+A servicemember shall be obligated to comply with the order bearing the instruction on the mandate of the office issued by the competent authority. In the event that the servicemember regards the order in contravention of laws, he/she should express his/her opinion to the competent authority. If the competent authority considers his/her order as not inconsistent with laws and issues the order in the written form, the servicemember shall immediately comply. Any liability incurred by the execution of the order will be borne by such competent authority.
+
+Whereas the order in the preceding Paragraph is in contravention of laws of criminal nature, unless it is a justifiable recourse to the use of force otherwise provided by law, any servicemember is not obligated to comply with such order. Whereas the servicemember is aware of the fact that the order is in contravention of laws of criminal nature while not a justifiable recourse to the use of force otherwise provided by law yet executes such order, the commission of offenses stipulated by laws of criminal nature is punishable.
+
+#### Article 11
+
+A disciplinary offense is not punishable if it was committed by a servicemember at the time when he/she was mentally disordered or defective and, as a result, was unable to judge his/her act as in contravention of laws or lacked the ability to act in accordance with his/her judgment.
+
+The punishment may be reduced at discretion whereas a disciplinary offense was committed by a servicemember at the time the existence of the causes stipulated in the preceding paragraph contributes to the obvious reduction of the ability to judge his/her act as in contravention of laws or the lack of the ability to act in accordance with his/her judgment.
+
+Provisions prescribed in the two preceding Paragraphs shall not apply to a servicemember who, with intent or by negligence, causes the mental disorder or defects.
+
+#### Article 12
+
+In administering disciplinary punishment, the serious level of all circumstances pertaining to a disciplinary offense shall be considered, and the following items shall be seriously
+
+regarded:
+
+\1. The motive and purpose of the offense;
+
+2.The stimulation perceived at the moment of committing the offense;
+
+\3. The means used for the commission of the offense;
+
+\4. The offender’s living conditions;
+
+\5. The character, education and intelligence of the offender;
+
+\6. The affects on the commander’s authority or military discipline;
+
+\7. Relationship between the offender and the victim;
+
+\8. The seriousness of the offender’s failure to comply with obligation;
+
+\9. The danger or damages caused by the offense;
+
+\10. The offender’s attitude after committing the offense.
+
+Whereas the provisions regarding the imposition of heavier or reduced punishment at discretion are mandated by this Act, the principle of proportionality shall be applied.
+
+#### Article 13
+
+The punishment may be reduced at discretion or exempted whereas the level of all circumstances pertaining to a disciplinary offense thereof is not serious, and the circumstances of the commission of the offense are pitiable.
+
+The punishment may be reduced at discretion whereas the disciplinary offense thereof is not known and the offender surrenders himself/herself to the appropriate authority and is willing to be punished for the offense that is committed.
+
+#### Article 14
+
+Whereas a servicemember commits a disciplinary offense with intent within 3 months after a punishment meting-out was served, a heavier punishment at discretion may be imposed on such servicemember.
+
+#### Article 15
+
+The officers who administer the procedure stipulated in this Act shall give equal attention to circumstances both favorable and unfavorable to an offender of disciplinary offense.
+
+#### Article 16
+
+Whereas the competent authority regards that the disciplinary offense by a servicemember is serious and that the investigation and punishment procedure or the operation of duty assignment is suspected to be impaired, the authority agency may suspend the duty assignment for a certain period of time.
+
+The maximum of the suspension of duty assignment stipulated in the preceding Paragraph is 6 months. The duty assignment may be resumed in the event that the authority agency regards that the suspension of duty assignment to the servicemember concerned is no longer necessary.
+
+Whereas the grounds for suspension of duty assignment stipulated in Paragraph 1 still exist, and there is a necessity to continue the suspension, the duty assignment suspension period may be extended with a maximum of 6-month period.
+
+#### Article 17
+
+The servicemember may be paid in half of his/her basic pay according to his/her pay grade during the period of suspension of duty assignment.
+
+After the grounds for suspension of duty assignment are extinguished, in the event that the punishment of dismissal or rescission of enlistment is not imposed on a servicemember, or that the servicemember is not discharged due to the result of evaluation as incompetent for active service under statutory requirement, such servicemember may request to resume his/her duty assignment. Unless otherwise provided by other laws, the authority agency shall grant permission to resume his/her duty assignment while compensating with retroactive pay which was the unpaid basic pay for the period of suspension of duty assignment.
+
+In case the servicemember deceases, the retroactive pay which was the unpaid basic pay for the period of suspension of duty assignment may be granted to the person who is entitled to claim the pecuniary aid, after related circumstances are taken into consideration.
+
+## Chapter II Types of Punishment
+
+#### Article 18
+
+Types of punishment for servicemembers are categorized as follows:
+
+\1. Punitive personnel management: dismissal, rescission of enlistment, rank reduction, demerit, reprimand;
+
+\2. Punitive pecuniary measure: forfeiture or reduction of Retirement/Separation pay, pay grade reduction, pay deduction, and fine;
+
+\3. Disciplinary correction: confinement for repentance education, restrictions, grounding, extra duty, and standing at attention.
+
+#### Article 19
+
+Punishments on servicemembers are categorized according to military ranks:
+
+\1. Commissioned officer punishment: dismissal, rank reduction, demerit, reprimand, forfeiture or reduction of retirement/separation pay, pay grade reduction, pay deduction, fine and restrictions;
+
+\2. Non-commissioned officer punishment: dismissal, rank reduction, demerit, reprimand, forfeiture or reduction of retirement/separation pay, pay grade reduction, pay deduction, fine, confinement for repentance education, restrictions, and extra duty;
+
+\3. Soldier punishment: rescission of enlistment, demerit, reprimand, forfeiture or reduction of retirement/separation pay, pay grade reduction, pay deduction, fine, confinement for repentance education, grounding, extra duty, standing at attention;
+
+The competent authority shall mete out the punishment according to the disciplinary offender’s rank at such time, whereas the offender lost his/her active service status at the time that punishment is imposed, the punishments that may be imposed are limited to dismissal, rank reduction, demerit, reprimand, forfeiture or reduction of retirement/separation pay, and fine.
+
+#### Article 20
+
+Dismissal. Whereas the dismissal is imposed on a commissioned officer or non-commissioned officer, removal from the military officer position and suspension from reinstatement for a certain period, no less than one year but no more than five years, follow thereby.
+
+#### Article 21
+
+Rescission of enlistment. Whereas the recession of enlistment is imposed on a voluntary enlistment soldier, a ban on voluntary re-enlistment for a certain period, no less than one year but no more than five years, follows thereby.
+
+#### Article 22
+
+Rank reduction. Whereas the rank reduction is imposed on a commissioned officer or a non-commissioned officer, the current rank is reduced to the next inferior rank with the accordingly reduced grade, yet a ban on reinstatement for the supervisory office within one year follows thereby.
+
+Whereas the punishment is meted out to the offender as stipulated in the preceding paragraph but the disciplinary offender has lost his/her active service status, his/her retirement/separation pay shall be reviewed and reapproved according to the rank and grade reduction in his/her rank at the time of retirement, demobilization, or separation from service.
+
+#### Article 23
+
+Demerit. Record of demerit and record of major demerit.
+
+Three cumulated records of demerit are equivalent to one major demerit. Whereas three cumulated records of major demerit are meted out to a servicemember within one year, a commissioned officer or non-commissioned officer shall be dismissed, and the recession of enlistment shall be thus imposed on a voluntary enlisted soldier.
+
+#### Article 24
+
+Reprimand. The reprimand shall be meted out in a written form. Three cumulated records of reprimand are equivalent to one record of demerit.
+
+#### Article 25
+
+Forfeiture of retirement/separation pay. The forfeiture of retirement/separation pay shall be imposed on the offender by the adjudication of the Disciplinary Court on the retirement/separation pay which was approved in accordance with law. Whereas the payment is received and collected, it shall be retrieved and recovered.
+
+Reduction of retirement/separation pay. The reduction of retirement/separation pay shall be imposed on the offender by the adjudication of the Disciplinary Court on no less than twenty percent but no more than fifty percent of the retirement/separation pay which was approved in accordance with law. Whereas the payment is received and collected, it shall be retrieved and recovered.
+
+The retirement/separation pay stipulated in the two preceding Paragraphs shall be calculated by the number of years of military service before the most recent retirement, demobilization, or separation from service. Nonetheless, the aforementioned calculation method does not apply to the payment paid by the offender to the Pension and Compensation Fund and the interest earned therefrom.
+
+#### Article 26
+
+Pay grade reduction. The pay grade shall be reduced to the next inferior grade vis-a-vis the pay grade that the offender is entitled to at the time when punishment is imposed. The period for remaining at a reduced pay grade shall be no less than three months but no more than one year. The pay grade and years of service shall be recalculated and resumed from the day of reduction after the end of the pay grade reduction period.
+
+#### Article 27
+
+Pay deduction. The amount for pay deduction is no less than ten percent but no more than thirty percent of the total monthly pays and allowances of a servicemember. The period for pay deduction shall be no less than one month but no more than six months.
+
+#### Article 28
+
+Fine. The amount of a fine shall be no less than five thousand but no more than one million New Taiwan Dollars.
+
+#### Article 29
+
+Confinement for repentance education. The confinement for repentance education shall be executed in a designated facility and its period shall be no less than one day but more than fifteen days yet the period shall not count toward as part of the years of active service nor the years of service for retirement, separation, and discharge.
+
+There shall not be imprisonment, torture, or other inhuman treatment against the offender in confinement for repentance education.
+
+The designated facility, contents of education, correction management and assessment, staff qualifications, responsibility delegation, exclusion of confinement period as part of the years of active service and years for retirement/ separation/discharge, and other related regulatory affairs shall be promulgated by the Ministry of National Defense.
+
+#### Article 30
+
+Restriction. The restriction shall be executed on weekends, leaves, or holidays and the offender shall conduct self-criticism at the time of restriction. The number of days of restriction shall be no less than one day but no more than ten days.
+
+#### Article 31
+
+Grounding. The grounding shall be executed on weekends, leaves, or holidays and the related necessary education shall be conducted concerning military duty, barrack administration, and routine discipline. The days for grounding are no less than one day but more than ten days.
+
+#### Article 32
+
+Extra duty. The extra-duty shall be executed on weekends, leaves, or holidays, and the duties shall be related to garrison or community public interest. The days for extra duty shall be no less than one day but no more than ten days, and six hours maximum for extra duty every day.
+
+#### Article 33
+
+Standing at attention. The standing at attention shall be executed at a time of no more than two hours.
+
+#### Article 34
+
+The jurisdiction of judicial disciplinary action or the disciplinary punishment shall not be conducted whereas a matter of judicial disciplinary action is not initiated in the Disciplinary Court or the disciplinary punishment is not meted out to an offender for disciplinary offenses before the expiration of the period stipulated as follows:
+
+\1. Offenses punishable by heavy punishment of punitive personnel management and punitive pecuniary measures: ten years;
+
+\2. Offenses punishable by punitive personnel management and punitive pecuniary measures other than punishment stipulated in the preceding Subparagraph: five years;
+
+\3. Offenses punishable by confinement for repentance education: one year;
+
+\4. Offenses punishable by extra duty, restriction, and grounding: three months
+
+\5. Offenses punishable by standing at attention: one month.
+
+#### Article 35
+
+The period stipulated in the preceding Article begins to run at the point when the misconduct or disciplinary offense is completed. Whereas the offense is an omission or failure to act, it begins to run at the point when the obligation to act ends. But if the wrong is incurred afterward, the period begins to run at the point when the wrong is incurred.
+
+Whereas the adjudication by the petition for deliberation, appeal, re-appeal, administrative litigation, or other relief procedures vacated the punishment for disciplinary offenses, and a revised punishment is mandated thereby, the period stipulated in the preceding Article begins to run on the date when the vacation is final and binding.
+
+#### Article 36
+
+Whereas the period limit for the jurisdiction of disciplinary punishment cannot begin to run or the punishment cannot be enforced due to a force majeure, casus fortuitus, or provisions of laws, the period shall cease.
+
+Whereas the identical disciplinary offense is under criminal investigation or pending on trial, the jurisdiction of disciplinary punishment will not cease. Nonetheless, if the punishment is premised on the existence of other legal relationship, and such relationship is pending in litigations or administrative relief procedures, before the legal relationship is affirmed the competent authority may cease the jurisdiction of disciplinary punishment and notify the disciplinary offender.
+
+Whereas the jurisdiction of disciplinary punishment ceases due to the provisions stipulated in the two preceding Paragraphs, the period that has run before its cessation shall be, from the next day of the date on which the causes of cessation extinguished or the relationship stipulated in the preceding Paragraph is affirmed, taken into calculation thereby.
+
+## Chapter III Investigation Procedures
+
+### Section I General Provisions
+
+#### Article 37
+
+The competent authority, being aware of, due to his/her position, by report or other occasions, the suspicion of a disciplinary offense having been committed by his/her subordinate, shall designate a commissioned officer, non-commissioned officer, ethics officer, inspector, or other personnel with the appropriate authority to conduct the investigation according to the provisions in this Chapter.
+
+#### Article 38
+
+The investigation officer shall conduct the investigation in accordance with this Act or related statutes or regulations. Evidence shall not be obtained by any illegal practice or improper method.
+
+The evidence obtained by illegal practice or other improper methods in conducting the investigation is not admissible for the establishment of the disciplinary offense. Nonetheless, in case the state of illegitimacy or improperness in obtaining evidence is minor, yet the exclusion of such evidence constitutes an obvious inconsistency with the national defense, military, or public interest, the exclusion rule does not apply.
+
+#### Article 39
+
+Without good causes, any servicemember shall not circumvent nor refuse to be investigated.
+
+While being under investigation for a suspicious disciplinary offense by others, the servicemember shall not forge, alter, destroy, or conceal any evidential material with relevance to the disciplinary offense under investigation, nor commit any frustration against the investigation by fabricated or false statement under inquiry.
+
+#### Article 40
+
+Whereas the servicemember suspected of committing the disciplinary offense is affiliated with the Ministry of National Defense or its service-affiliation agencies, the Ministry of National Defense may conduct a targeted investigation by itself or designate the service-affiliation agency where the servicemember is assigned to conduct such investigation and a report shall be made if any of the following circumstances exists,
+
+\1. Death or heavy casualties at the site of the service-affiliation agency;
+
+\2. Maneuver or training accidents;
+
+\3. Disciplinary offense committed by a general officer or a flag officer;
+
+\4. Other occasions where a targeted investigation is necessary.
+
+The injured person in Subparagraph 1 of the preceding Paragraph, or the spouse, relatives within the second degree of kinship, and persons living in the same household with the object of maintaining the common living permanently of the injured or deceased may, within six months after the death or casualties took place, by submitting an application, request the Ministry of National Defense to conduct the targeted investigation stipulated in the preceding Paragraph.
+
+#### Article 41
+
+Whereas a servicemember is suspected of committing the disciplinary offense, the component authority may choose not to conduct the investigation or terminate the investigation instead if any of the following circumstances exists,
+
+\1. The judicial disciplinary action has adjudicated or the disciplinary punishment has been imposed for the disciplinary offense, or there is no punishment meted out after investigation;
+
+\2. The regulation that stipulated the punishment has been abolished or ceases to apply after the commission of disciplinary offense;
+
+\3. The conduct of jurisdiction of disciplinary punishment exceeds the period stipulated in Article 34;
+
+\4. The suspected discipline offender is deceased;
+
+\5. Anonymous report, or the offender or the facts is unidentifiable;
+
+\6. The fact reported is not clear, and the reporter refuses to appear in person to address the reporting fact without good causes;
+
+\7. The reported fact does not constitute any disciplinary offense.
+
+### Section II Jurisdictional Conflict with Criminal Investigation
+
+#### Article 42
+
+Whereas the servicemember suspected of committing the disciplinary offense and criminal offense during peacetime is affiliated with the Ministry of National Defense or its service-affiliation agencies, the prosecutor may direct the legal professional of the service-affiliation agency or its superior agency to conduct an investigation in accordance with the Act of Criminal Procedure and other related statutory regulations.
+
+#### Article 43
+
+During peacetime, the legal professional is under the direction of the prosecutor in conducting the affairs as follows:
+
+\1. Conducting the search, seizure, inspection, or arrest with a warrant;
+
+\2. Interrogating the complainant, informer, crime suspect, witness, or expert witness;
+
+\3. Assisting the prosecutor in practicing the authority stipulated in Article 60 of the Court Organization Act.
+
+When conducting the affairs stipulated in Subparagraphs 1 and 2 in the preceding Paragraph, the legal professional shall be deemed the judicial police officer as specified in Paragraph 1, Article 230 of the Act of Criminal Procedure.
+
+#### Article 44
+
+Before the completion of the criminal investigation conducted according to the provisions of this Section, the legal professional, if considered necessary for conducting the disciplinary punishment, may transfer the evidential material collected therefrom to the competent authority after requesting and granted approval from the prosecutor.
+
+#### Article 45
+
+The Ministry of National Defense shall promulgate the guidelines vis-a-vis the conducting of crime investigation by the legal professional under this Section and regulatory rules regarding other related affairs.
+
+### Section III Practice of Investigation
+
+#### Article 46
+
+The investigation officer may, by written or oral notification or other proper means, notify the servicemember suspected of committing a disciplinary offense or other persons involved with the offense matters of appearing in person for inquiry.
+
+The notification stipulated in the preceding Paragraph shall detail the matters as follows:
+
+\1. Reasons for inquiry;
+
+\2. Date, hour, and place of appearance;
+
+\3. In-person appearance only or appointee instead permissible;
+
+\4. Consequences for failure to appear;
+
+\5. The authority agency or service-affiliation agency conducting the investigation;
+
+\6. The position and name of the investigation officer.
+
+In conducting the inquiry of a civilian, the notification shall be served at least twenty-four hours before the date of appearance with a written form bearing the matters stipulated in the preceding paragraph and signed by the officer in charge of the investigating agency. Whereas the inquiry respondent agrees or urgent circumstances exist, the aforementioned twenty-four-hour service requirement does not apply.
+
+Any person who agrees to the inquiry stipulated in Paragraph 1, though not caused by his/her disciplinary offense, may request daily fees and traveling expenses from the investigating agency within ten days after completion of the inquiry. Nonetheless, those who agree to the inquiry but refuse to state without justification are not eligible for the payment.
+
+The Ministry of National Defense shall promulgate the regulatory rules vis-a-vis the payment items and standards of the fees and expenses in the preceding Paragraph and other related affairs.
+
+#### Article 47
+
+Whereas the investigation officer is conducting an inquiry against the servicemember suspected of committing the disciplinary offense, the suspicious disciplinary offense and the laws and orders that were contravened shall be made known, and opportunities to express opinions shall be given; when the suspected offender makes a statement, it shall be ordered to make a detailed statement of the complete matter; if the statement contains facts favorable to the suspected offender, it shall be ordered to identify the methods of proof.
+
+If the investigation officer conducting the inquiry considers that the servicemember prescribed in the preceding Paragraph is suspicious of committing other disciplinary offenses or crimes, the servicemember shall be told.
+
+#### Article 48
+
+The inquiry respondent has the right to remain silent, and no statements should be made against his/her own will. An attorney may be retained as his/her representative. Whereas a request for an investigation on favorable evidential material is raised, it shall be granted.
+
+When an inquiry respondent without any retained attorney expresses that it needs to retain an attorney, the inquiry shall be ceased immediately. However, if the inquiry respondent requests conducting an immediate inquiry, or the attorney on retainer does not appear for four hours after the retention was made, the inquiry may be conducted immediately.
+
+#### Article 49
+
+An inquiry shall not be conducted with any means of violence, threat, inducement, fraud, exhausting query, or other improper practice.
+
+An inquiry shall not proceed at night, except with express consent by the inquiry respondent.
+
+The term “night” in the preceding Paragraph means the time between 10 pm and 8 am.
+
+#### Article 50
+
+The inquiry proceedings shall be recorded as a transcript and read aloud to the inquiry respondent, or the inquiry respondent shall be required to read the transcript; the whole proceedings shall be recorded without interruption in audio and also, if necessary, in video. The aforementioned rule may not apply provided that an emergency exists and is taken note of in the record.
+
+Where an inquiry respondent has a hearing or speech impairment or has difficulties understanding the language practiced, the interpretation service shall be furnished; if necessary, such an inquiry respondent may also be inquired by written communication or ordered to make a written statement instead.
+
+#### Article 51
+
+The investigation officer may request any person or group for any document, material, or other pieces of reference, if it is essential for the investigation of fact and evidential material.
+
+#### Article 52
+
+The investigation officer may, ex officio or at the request of the person under investigation, request the professional agency (institute), juridical persons, organizations, or individuals with professional experience and knowledge conduct the examination or request the competent authority in charge for opinions.
+
+Whereas the expert testimony is produced in written form, the expert witness conducting the examination may be requested to appear in person for elaboration if necessary.
+
+#### Article 53
+
+To discover the truth of the disciplinary offense, the investigation officer may conduct an inspection of essential articles or locations.
+
+The servicemember suspected of committing a disciplinary offense or other persons involved with the offense matters shall be notified to appear on site when the inspection is being conducted. Whereas the notification is not required if it is impracticable.
+
+An inspection record shall be made when the inspection is being conducted; the record may be in audio or video, but if necessary, shall be in video during the full course.
+
+## Chapter IV Punishment Procedure
+
+### Section I General Provisions
+
+#### Article 54
+
+The punishment shall be approved by the competent authority.
+
+To mete out punishment, any punishment imposed on a general and the dismissal or rank reduction imposed on a lieutenant general or a major general shall be submitted by the service-affiliation agency and approved by the President; the authority of meting out a punishment imposed on other personnel shall be promulgated by the Ministry of National Defense.
+
+#### Article 55
+
+Before the punishment procedure is concluded the competent authority shall make a collective assessment of all disciplinary offenses confirmed by an investigation and committed by the identical offender.
+
+#### Article 56
+
+The competent authority shall exempt the disciplinary punishment or dismiss the punishment procedure if one of the following matters exists:
+
+\1. Unpunishable matters stipulated in Paragraph 1, Article 8, Paragraph 1, Article 9, and Paragraph 1, Article 11;
+
+\2. Any one of the circumstances stipulated in Subparagraphs 1 to 4, Article 41;
+
+\3. Lack of evidence or behavior not constituting any disciplinary offenses.
+
+### Section II Punishment Advice and Ad Hoc Review Committee
+
+#### Article 57
+
+Unless the existence of any of the circumstances stipulated in Article 58 and an Ad Hoc Review Committee is convened whereby, the competent authority, when the imposition of a heavy punishment is regarded as necessary, shall appoint five to nine professionals with the proper rank as the members composing the Punishment Advisory Committee, and one among them may be the chairman; the number of committee members of either gender shall not be less than two-fifths of the total members.
+
+The Punishment Advisory Committee shall give the disciplinary offender opportunities to state and defend yet propose concrete advice to the competent authority.
+
+Whereas the competent authority does not agree with the advice in the preceding Paragraph, the ground shall be noted when the punishment is approved except in the case of a reduced punishment at discretion.
+
+#### Article 58
+
+Whereas a targeted investigation is conducted as stipulated in Article 40, the Ministry of National Defense itself or the designated service-affiliation agency or school shall convene an Ad Hoc Review Committee for deliberation.
+
+The Ad Hoc Review Committee in the preceding Paragraph shall be convened by a person assuming the office of general rank in the table of organization or of comparable rank and summon seven to eleven people from personnel of appropriate rank, experts and scholars, or upstanding citizens to form the Committee.
+
+The number of committee members of either gender in the Ad Hoc Review Committee in the preceding Paragraph shall not be less than two-fifths of the total members; the members of experts and scholars or upstanding citizens shall not be less than half of the total number.
+
+There shall be no less than half of the total members to attend the Ad Hoc Review Committee in Paragraph 1, and any decision shall be made by the approval of the majority of all attending members.
+
+Rules vis-a-vis the selection of the Ad Hoc Review Committee, deliberation procedure, and other related affairs shall be promulgated by the Ministry of National Defense.
+
+#### Article 59
+
+Whereas the Ad Hoc Review Committee presumes the existence of a culprit or the applicant in Paragraph 2, Article 40, it shall notify the culprit or the applicant to appear at the designated venue and date to present his/her statement.
+
+Provided that any of the circumstances stipulated in Subparagraph 1 of Paragraph 1, Article 40 exists yet no application for requesting a targeted investigation was submitted by persons stipulated in Paragraph 2, the Ad Hoc Review Committee shall notify the aforementioned persons to appear at the designated venue and date to present his/her statement. Such persons shall be given opportunities to present their statements before the conclusion of the deliberation procedure if they request so and furnish with justifiable grounds.
+
+Persons in the preceding two Paragraphs who are notified to appear may submit an application to the Ad Hoc Review Committee for examining, transcribing, copying, or taking photographs of relevant materials or records, or request the investigation of evidential material.
+
+#### Article 60
+
+Whereas the Ad Hoc Review Committee considers the report for a targeted investigation stipulated in Paragraph 1, Article 40 as incomplete, or there exists a request for the investigation of evidential evidence as stipulated in Paragraph 3 of the preceding Article, it shall specify the method of investigation and order the original investigation agency to make a supplement investigation.
+
+The supplement investigation stipulated in the preceding Paragraph shall be conducted only once, except for the occurrence of a new fact, or discovery of new evidence.
+
+#### Article 61
+
+All of the attendees, non-voting delegates, and minute-takers shall strictly keep confidential any matters discussed, deliberated, and decided during the sessions of an Ad Hoc Review Committee; no information shall be released to the public without consent from the Ad Hoc Review Committee.
+
+#### Article 62
+
+The Ad Hoc Review Committee shall make a report bearing its conclusion of the deliberation and submit the aforementioned report to the authority agency and other related agencies yet put the personnel notified to appear on site according to Paragraphs 1 and 2, Article 59.
+
+The content of the report stipulated in the preceding Paragraph shall include the items as follows and may be released to the public in the form of an executive summary:
+
+\1. The general finding of the fact;
+
+\2. The investigation method and its process of practice;
+
+\3. The grounds of conclusion;
+
+\4. Any advice on improvement;
+
+\5. The culprit, types of punishment, and gravity.
+
+The competent authority shall approve the punishment according to Subparagraph 5 in the preceding Paragraph.
+
+#### Article 63
+
+Depending on the nature of an organization, service-affiliation agencies that are not under the Ministry of National Defense may, independently or by reference to this Act, promulgate regulations vis-a-vis the Ad Hoc Review Committee and its related matters.
+
+### Section III Punishment Approval
+
+#### Article 64
+
+The imposition of disciplinary punishment shall be declared and served by the authority agency. Any punishment imposed on a general and the dismissal or rank reduction imposed on a lieutenant general or a major general shall be declared and served by the service-affiliation agency.
+
+#### Article 65
+
+The imposition of disciplinary punishment shall be meted out in a written form bearing the types of punishment, gravity, causes of disciplinary offense, and the legal basis for punishment; the legal notice vis-a-vis relief measures, the statute of limitations for appeal, and the agency with jurisdiction shall be remarked thereby.
+
+#### Article 66
+
+Any disciplinary correction other than the confinement for repentance education may be imposed and executed by the competent authority once his/her oral order is pronounced. Nonetheless, the requirement stipulated in the preceding two Articles shall be processed within seven days after the next day of the date that the oral order is pronounced.
+
+## Chapter V Execution of Punishment
+
+#### Article 67
+
+Whereas after the punishment has been meted out according to this Act, the identical disciplinary offense is referred to the judicial disciplinary actions, and the adjudication with disciplinary order or without disciplinary actions rendered by the Disciplinary Court is final and binding, the original punishment shall be invalid. Nonetheless, if a judication of dismissal is rendered due to the statute of limitations for the jurisdiction of judicial disciplinary actions stipulated in Article 34, the original punishment shall still take effect.
+
+#### Article 68
+
+Punitive personnel management and punitive pecuniary measures shall take effect on the next day of the date the punishment is declared.
+
+Whereas the punishment is revoked by the relief procedure due to the defect in the procedure but is later nonetheless ordered to be cured by another proper measure, if such a measure is the imposition of identical punishment on the identical fact of offense, such punishment takes effect retroactively on the effective date of the original punishment.
+
+#### Article 69
+
+Whereas a punitive pecuniary measure was not executed for five years since the effective date, it shall no longer be executed. Nonetheless, if the execution proceeded before the expiration of the five-year period, the execution shall be continued. But if the execution did not proceed for more than five years since the date of the expiration of the five-year period, it shall no longer be executed.
+
+#### Article 70
+
+The service-affiliation agency shall immediately notify the approval agency of Retirement/Separation pay when it receives a certificate to the effect that the adjudication by the Disciplinary Court has become final and binding vis-a-vis forfeiture or reduction of Retirement/Separation pay or the adjudication of the second instance of the Disciplinary Court; the disbursing agency of Retirement/Separation pay shall be put on notice.
+
+#### Article 71
+
+If the punished servicemember cannot afford to pay the fine in a lump sum, interest-free installments may be allowed at the discretion of the competent authority, who assesses all the personal financial condition and sees fit. If the punished servicemember is still in active service before the fine is fully paid, the outstanding overdue may be paid by deducting from the total monthly pays and allowances, no more than one-third, of a servicemember.
+
+The regulatory rules of related affairs vis-a-vis the assessment of personal financial condition, the number of installments, and the deduction of pays and allowances stipulated in the preceding Paragraph shall be promulgated by the Ministry of National Defense.
+
+#### Article 72
+
+Whereas the punished servicemember subject to a fine fails to pay within the considerable period prescribed by the imposing agency shall be referred to the administrative execution in the name of carrying out the enforcement of the fine.
+
+Paragraph 3, Article 51 of the Act of Military Service for Officers and Non-commissioned Officers of the Armed Forces does not apply to the execution stipulated in the preceding Paragraph.
+
+#### Article 73
+
+The execution of disciplinary correction shall be stayed due to the pregnancy, serious illness, or leaves with approval; in case of operations, maneuver and training, disaster relief, etc., or other particular incidents, a stay of execution may be issued.
+
+Whereas the cause for a stay of execution extinguishes and the circumstances permit the execution may be resumed; in case the punished servicemember behaves and performs well during the stay of execution, the competent authority may exempt execution after assessing every regard.
+
+#### Article 74
+
+No compensatory time is granted if the confinement for repentance education, restrictions, grounding, or extra duty is executed on weekends, leaves, or holidays.
+
+#### Article 75
+
+Before the execution of the confinement for repentance education begins, the authority agency shall notify in the written form the punished servicemember of the designated facility and the start and end time.
+
+#### Article 76
+
+The punished servicemember may, before the end of the execution process, file an appeal, re-appeal, or administrative litigation under the Servicemember Relief Act, against the authority agency or service-affiliation agency vis-a-vis the manner of punishment execution, the procedure shall be observed, or other matters on infringements of interests and rights.
+
+The execution shall not be stayed due to the filing of an appeal or a re-appeal; whereas the Appeal Review Authority regards the premises as sustainable, the execution shall be stayed immediately, and the execution measures that have been imposed shall be revoked or rectified; if regards as unsustainable, shall transfer within three days with its opinions attached to the Servicemember Rights Protection Committee (hereinafter SRPC) with jurisdiction established in the District Court of Military Justice for a decision on the subject matter of appeal or re-appeal within five days.
+
+The re-appeal in the preceding Paragraph may be decided by a panel of three Assigned SRPC members of the District Court of Military Justice SRPC; the provision of Paragraph 1, Article 10 of The Servicemember Relief Act does not apply.
+
+## Chapter VI Miscellaneous Provisons
+
+#### Article 77
+
+Whereas the disciplinary offense is committed during wartime, the implementation of martial law, or national mobilization and confirmed by the investigation yet requires an immediate punishment, the competent authority may, after an oral order is pronounced, execute the punishment without further ado; the provisions in Articles from 57 to 66 do not apply.
+
+#### Article 78
+
+The enforcement rules of this Act shall be promulgated by the Ministry of National Defense.
+
+#### Article 79
+
+The commence date of this Act shall be determined by the Executive Yuan.
+
+## History
+
+\1. Act of Punishment of the Armed Forces was amended and promulgated by the National Government on October 7, 1930.
+
+\2. Act of Punishment of the Armed Forces was amended and promulgated by the National Government on March 7, 1935.
+
+\3. Act of Punishment of the Armed Forces was amended and promulgated by Presidential Decree on December 8, 1952.
+
+\4. Act of Punishment of the Armed Forces was amended and promulgated by Presidential Decree on July 5, 1967, and was enforced on the same date.
+
+\5. Article 1, 9 and 22 of Punishment of the Armed Forces was amended, Article 9-1 and 24-1 was added, and Article 3 was deleted, and promulgated by Presidential Decree Hua- tzung-1 Yi Tzu No.09800010891 on January 21, 2009.
+
+\6. Act of Punishment of the Armed Forces was amended and promulgated by Presidential Decree Hua- tzung-1 Yi Tzu No.10400052201 on May 6, 2015 and enforced on May 6, 2015, except the second paragraph of Article 12, the second paragraph of Article 13 and Article 18 this Act which actual effective date shall be determined by the Executive Yuan.
+
+\7. Amended and promulgated on August 7th, 2024.

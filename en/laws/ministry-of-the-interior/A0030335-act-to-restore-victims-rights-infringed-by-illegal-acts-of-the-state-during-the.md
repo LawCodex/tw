@@ -1,0 +1,296 @@
+---
+title: "Act to Restore Victim's Rights Infringed by Illegal Acts of the State During the Period of Authoritarian Rule"
+title_zh: "威權統治時期國家不法行為被害者權利回復條例"
+identifier: "A0030335"
+type: act
+law_level: "法律"
+category: "行政＞內政部＞民政目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2022-05-27
+last_amended: 2025-01-03
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=A0030335"
+retrieved: 2026-10-12
+---
+
+# Act to Restore Victim's Rights Infringed by Illegal Acts of the State During the Period of Authoritarian Rule
+
+> Translation. The Chinese text ([zh/laws/ministry-of-the-interior/A0030335-act-to-restore-victims-rights-infringed-by-illegal-acts-of-the-state-during-the.md](../../../zh/laws/ministry-of-the-interior/A0030335-act-to-restore-victims-rights-infringed-by-illegal-acts-of-the-state-during-the.md)) is authoritative.
+
+## Chapter 1 General Provisions
+
+#### Article 1
+
+This Act is enacted to promote transitional justice by restoring people’s rights that were infringed during the period of authoritarian rule by an illegal act of the State.
+
+#### Article 2
+
+The Executive Yuan shall establish the Restoration of Victim's Rights Infringed by Illegal Acts of the State During the Period of Authoritarian Rule Foundation (hereinafter referred to as the Restoration of Rights Foundation) to handle matters related to compensation and restoration of rights as specified in this Act.
+
+The Restoration of Rights Foundation shall have thirteen directors whom shall be selected by the Executive Yuan from the following categories of qualified persons at the respectively specified numbers while the number of directors of any gender shall be not fewer than one-third of the total and the number of directors with membership of any single political party shall not exceed one-third of the total:
+
+1.Six from representatives of relevant agencies;
+
+2.Four from leaders with upright character and integrity in the society or scholars and experts;
+
+3.Three from representatives of victims or their family members.
+
+Anyone who had taken part in an illegal act of the State during the period of authoritarian rule may not be selected to serve as a director of the Restoration of Rights Foundation; where such a person has been selected to serve as such the said person shall be dismissed from the post of the director of the Restoration of Rights Foundation.
+
+Public property needed by the Restoration of Rights Foundation for handling matters specified in this Act may be provided by government agencies free of charge.
+
+#### Article 3
+
+The terms used in this Act are defined as follows:
+
+1.“The period of authoritarian rule” refers to the period from 15 August 1945 to 6 November 1992;
+
+2.An “illegal act of the State” refers to judicial wrongs as defined by Article 6 of the Act on Promoting Transitional Justice and administrative wrongs defined by Article 6-1 of the aforementioned Act;
+
+3.A “victim” refers to a person whose life, body, liberty, or property had been infringed by an illegal act of the State during the period of authoritarian rule;
+
+4.A “family member” refers to an heir of a deceased victim in accordance with and in the order as specified in Article 1138 of the Civil Code.
+
+## Chapter 2 Restoration of Rights Infringed by an Illegal Act of the State
+
+### Section 1 Compensation for an Infringement of Life and Personal Freedom and Restoration of Reputation
+
+#### Article 4
+
+A victim whose life or personal freedom had been infringed by an illegal act of the State may make an application in writing, submitting concrete supporting information at the same time, to the Restoration of Rights Foundation for compensation for the said infringement; where the said victim has deceased, an application may be made by one of the family members.
+
+#### Article 5
+
+The scope of compensation specified in Article 4 covers infringements in the following categories:
+
+1.Having been executed in implementation of a death sentence, having been shot dead, having been killed during pursuit or arrest by a public official, or having been killed or having disappeared after being tortured;
+
+2.Having been subject to arrest, detention, arrest with warrant, arrest prior to trial or restraint of personal freedom by a court judgment or an authority’s disposition;
+
+3.Having suffered death during the period of events specified in Subparagraph 2 of this Paragraph resulted from events other than those specified in Subparagraph 1 of this Paragraph.
+
+“Disappearance” referred to in Paragraph 1 of this Article refers to a situation where a victim has been declared dead by a court for reasons that the status the said victim as of whether he/she is alive is uncertain, having suffered from an illegal act of the State during the period of authoritarian rule.
+
+#### Article 6
+
+The amount of monetary compensation for infringements specified in Paragraph 1, Subparagraph 1 of Article 5 of this Act shall be 12,000,000 New Taiwan Dollar (NTD).
+
+The amount of monetary compensation for infringements specified in Paragraph 1, Subparagraph 2 of Article 5 of this Act shall be determined based on the approved number of units multiplied by the corresponding amount of compensation for each unit. Details concerning the approved compensation units and the amount of compensation of each corresponding unit are contained in Appendix 1.
+
+For infringements specified in Paragraph 1, Subparagraph 3 of Article 5 of this Act an extra 500,000 NTD shall be provided in addition to the amount of monetary compensation specified in the Paragraph 2 of this Article, except for cases in which increased amount of monetary compensation has been granted in accordance with provisions of Article 2, Paragraph 2 or Article 4 of the Standards for Granting Convicts Compensation in Wrongful Trials on Charges of Sedition and Espionage during the Martial Law Period.
+
+Where the family member of the victim who made an application in accordance with the second part of Article 4 is a person of the Mainland Area, the total amount of monetary compensation granted to him/her shall not exceed 2,000,000 NTD. The part of the monetary compensation that exceeds 2,000,000 NTD may be claimed by an applicant of the Taiwan Area in the same order of application; where there is no such an applicant in the same order of application, the said part of the monetary compensation may be claimed by an applicant of the Taiwan Area who is in latter order of application.
+
+#### Article 7
+
+The Restoration of Rights Foundation shall determine the amount of compensation after conducting, on its own initiative, an investigation.
+
+Detailed regulations governing the making of an application in accordance with Article 4 of this Act, the concrete supporting information that shall be filed together with the said application, the decision-making procedures that shall be followed in with regard to matters provided by Paragraph 1 of this Article, the granting of monetary compensation, and other relevant matters shall be drafted by the Restoration of Rights Foundation and submitted to the Executive Yuan for approval.
+
+#### Article 8
+
+The right to apply for monetary compensation provided in this Section shall not be an object for seizure, transfer, set off, or for providing as security.
+
+#### Article 9
+
+A victim of an illegal act of the State and his/her family member may apply to the Restoration of Rights Foundation for a certificate of reputation restoration. The right of a family member to apply for a said certificate shall not be affected by the fact that the victim in the case concerned is still alive.
+
+### Section 2 Restoration of Rights in respect of Deprivation of Ownership
+
+#### Article 10
+
+Where the ownership of a victim’s property had been deprived by an illegal act of the State, the said victim may make an application in writing, submitting concrete supporting information at the same time, to the Restoration of Rights Foundation for the restoration of his/her rights; where the said victim has deceased, an application may be made by the family members.
+
+#### Article 11
+
+For the purposes of the restoration of rights in respect of deprivation of ownership specified in Article 10 of this Act, where the target property in question is currently a public property with a status of abolishment of the intended use, desuetude, low-level usage or uneconomical usage, the property in question shall be returned to the application. Where the target property in question has since been acquired by illegitimate means by a third party other than a government agency and at the critical time nonetheless still belongs to the said third party, the said third party shall be ordered to return the property in question to the application.
+
+Where the circumstances specified in Paragraph 1 of this Article are not attached to the characters of the target property in question, or the target property in question has been destroyed or lost so as a return is not possible, a monetary compensation in accordance with provisions of this Act shall be provided. Nevertheless, the foregoing shall not be applicable to situations where the target property in question involves an item of a contraband nature, which will render the target property in question not an object on which a apply of return or compensation may rest.
+
+Where a third party other than a government agency referred to in Paragraph 1 of this Article has participated in an illegal acts of the State that deprived the ownership of a victim's property, and the said third party had acquired the said property in question from the State nonetheless, the said property shall be deemed as having been acquired by an illegitimate means, that is, that said property is ill-gotten property.
+
+Any disposition of Ill-gotten property referred to in Paragraph 3 of this Article shall be prohibited from the date this Act is promulgated, and where the said ill-gotten property is by law subject to registration, the Restoration of Rights Foundation shall request the competent registration agency to register it as one of restricted transaction. Where the said ill-gotten property is in the form of deposits or securities that are deposited or kept in a financial institution, the Restoration of Rights Foundation shall issue a notice to the financial institution concerned to freeze the relevant accounts.
+
+Where a property that is subject to a return in accordance with Paragraph 1 of this Article is a piece of land or a building, detailed regulations with regard to the procedures for the transfer of ownership, the necessary documents that shall be submitted, and other relevant matters shall be drafted by the Restoration of Rights Foundation and submitted to the Executive Yuan for approval.
+
+#### Article 12
+
+Where a third party has set up or created leases, superficies, mortgages, dians or other rights on the target property in question and circumstances provided in Paragraph 3 of Article 11 are not present, the aforementioned rights of such a third party shall not be affected by the return of the target property in question.
+
+In a case of return of a piece of land in accordance with the provisions of Paragraph 1 of Article 11, the transfer of the title of the said piece of land shall be exempted from land value increment tax.
+
+#### Article 13
+
+Where the target property in question is involved in a litigation for reasons of the implementation of provisions of the second part of Paragraph 1, Article 11 or Paragraph 1 of Article 12, or there is a situation in which a prior return of monetary compensation or reparation shall be made in accordance with provisions of Paragraph 2 or Paragraph 5 of Article 20, the applicant concerned may apply for monetary compensation instead of the return of the target property in question. The Restoration of Rights Foundation may not dismiss such an application without justifiable cause and shall revoke its original decision of ordering the return of the target property in question.
+
+Where the target property in question is involved in a litigation for reasons of the implementation of provisions of the second part of Paragraph 1, Article 11 or Paragraph 1 of Article 12 and the applicant concerned files an application for monetary compensation, the Restoration of Rights Foundation, after granting the monetary compensation in question, shall order the third party concerned to render a payment to the Restoration of Rights Foundation within a specific time period at the amount of the monetary compensation in question deducted by the repayments for the acquisition of the property by the third party concerned.
+
+A party that is obligated to return the target property in question that has paid for the expenses incurred by the use, alteration of the target property in question, or by the increase of its value, may apply to the Restoration of Rights Foundation for a reparation of the payment he/she had made. The said reparation shall not exceed the current value of the target property in question.
+
+Where the party that is obligated to return the target property in question is a public legal entity, Paragraph 3 of this Article shall not be applicable.
+
+#### Article 14
+
+The amount of monetary compensation shall be calculated by the formula provided in Appendix 2 to this Act on the sum total of value aggregating that of all items of a victim’s property the ownership of which had been deprived calculated in accordance with provisions of Articles 15 and 16 of this Act.
+
+#### Article 15
+
+The value of a piece of real estate the ownership of which had been deprived shall be calculated in accordance with the following criteria:
+
+1.Where the piece of real estate in question is a piece of land, its value shall be calculated by the assessed present value of the land at the date this Act takes effect divided by the ratio of the assessed present value of the land and the fair market value. But for a piece of land designated for public facilities, it shall be calculated according to the average market value of its adjoining land not so designated.
+
+2.Where the piece of real estate in question is a building, its value shall be calculated according to its replacement price at the date this Act takes effect. Where the said replacement price cannot be calculated, the Restoration of Rights Foundation may determine its value, which shall be not more than 5,000,000 NTD.
+
+Detailed regulations governing the appraisal method, appraisal procedures, the commissioned appraisal of real estate provided in the preceding Paragraph, as well as other relevant matters shall be drafted by the Restoration of Rights Foundation and submitted to the Executive Yuan for approval.
+
+#### Article 16
+
+The value of a piece of personal property the ownership of which had been deprived shall, as appropriate, be calculated in accordance with the following criteria:
+
+1.Cash: Where the personal property in question is cash, its value shall be calculated according to the face value of the said personal property at the date its ownership was deprived multiplied by the rate of change of the consumer price index;
+
+2.Artwork or jewelry: Where the personal property in question is artwork or jewelry, its value shall be calculated according to its assessed existing value at the date this Act takes effect;
+
+3.Cars, miscellaneous household personal properties, and assets, maritime vessels, and materials that belong to a business unit run by the victim: Where the personal property in question is in this category, its value shall be calculated according to the value of the personal property at the date its ownership was deprived multiplied by the rate of change of the consumer price index;
+
+4.Securities: Where the personal property in question is securities, its value shall be calculated according to its present value at the date its ownership was deprived multiplied by the rate of change of the consumer price index.
+
+An applicant concerned may give an account of the value of a specific item of personal property specified in Subparagraphs 2 to 4 of the preceding Paragraph to accompany his/her request for the Restoration of Rights Foundation for its appraisal.
+
+#### Article 17
+
+The Restoration of Rights Foundation shall be authorized, after conducting an investigation on its own initiative, to make a decision with regard to the means for restoration of rights in respect of deprivation of ownership and the amount of monetary compensation to be granted.
+
+In a case involving circumstances provided in the second part of Paragraph 1, Article 11, a hearing shall be held prior to making a decision of returning of the target property in question.
+
+The Restoration of Rights Foundation may enter into negotiation with an applicant on the means for restoration of rights in respect of deprivation of ownership. An agreement reached as a result of the negotiation shall be binding on the Restoration of Rights Foundation with regard to its decision-making on matters governed by Paragraph 1 of this Article.
+
+Detailed regulations governing the making of an application in accordance with Article 10 of this Act, the concrete supporting information that shall be filed together with the said application, the decision-making procedures, the decisions on the restoration of the target property or granting of monetary compensation, and other relevant matters shall be drafted by the Restoration of Rights Foundation and submitted to the Executive Yuan for approval.
+
+#### Article 17-1
+
+The right to request the restoration of property ownership deprived provided in this Section shall not be an object for seizure, transfer, set off, or for providing as security.
+
+#### Article 18
+
+The return of the ownership of a target property to a family member or the granting of monetary compensation to a family member shall be exempt from the estate tax.
+
+Where a family member of a victim who submits an application in accordance with the provisions of the second part of Article 10 is a person of the Mainland Area, the target property or monetary compensation to be received by such a said family member shall be deemed as part of a victim's estate, and the relevant provisions of the Act Governing Relations between the People of the Taiwan Area and the Mainland Area governing inheritance shall apply to the aforementioned case concerned.
+
+## Chapter 3 Right to Claim an Entitled Amount based on Current Regulations after Deducting Amounts already Received
+
+#### Article 19
+
+A person who has, prior to the entering into effect of this Act, received compensation/reparation in accordance with a decision made by the Memorial Foundation of 228 (hereinafter referred to as the Memorial Foundation) or the Compensation Foundation for Wrongful Trials on Charges of Sedition and Espionage during the Martial Law Period (hereinafter referred to as the Wrongful Trials Foundation) after the respective ascertainment of facts and applicable compensation units resulted in an investigation conducted on their respective initiatives, or been granted compensation by a court judgment made in accordance with Article 6, Paragraph 1 of the Compensation Act for Wrongful Trials on Charges of Sedition and Espionage during the Martial Law Period, which shall apply mutatis mutandis the provisions of the Wrongful Imprisonment Compensation Act, may apply for restoration of rights to the Restoration of Rights Foundation in accordance with provisions of Articles 4 and 10.
+
+Where a decision on the compensation/reparation units for a case involving the death or disappearance of a victim or a convict has been previously made by the Memorial Foundation or the Wrongful Trials Foundation, the Restoration of Rights Foundation shall conduct an investigation on its own initiative. Where the said investigation indicates that the circumstances of the death in question satisfy the criteria provided in Article 5, Paragraph 1, Subparagraph 1 of this Act, the amount of compensation for such a case shall be calculated in accordance with provisions of Article 6, Paragraph 1 of this Act. Where the grounds for compensation/reparation satisfy the criteria provided in Article 5, Paragraph 1, Subparagraph 3 of this Act, the amount of monetary compensation for such a person shall be calculated in accordance with provisions of Article 6, Paragraphs 2 and 3, based on the duration of personal freedom restraint multiplied by the compensation units specified in Appendix 1.
+
+Where there are grounds of granting compensation/reparation that are consistent with provisions of Article 5, Paragraph 1, Subparagraph 2 in a case that involves a person the compensation/reparation units in whose case have previously been determined by the Memorial Foundation or the Wrongful Trials Foundation in accordance with provisions of Article 8, Paragraph 1, Subparagraph 3 of The February 28 Incident Disposition and Compensation Act or Article 6, Subparagraph 2 and 3 of the Compensation Act for Wrongful Trials on Charges of Sedition and Espionage during the Martial Law Period, or a person who has previously been granted compensation by a court judgment made in accordance with Article 6, Paragraph 1 of the Compensation Act for Wrongful Trials on Charges of Sedition and Espionage during the Martial Law Period, which shall apply mutatis mutandis the provisions of the Wrongful Imprisonment Compensation Act, an amount of monetary compensation shall be calculated in accordance with provisions of Article 6, Paragraph 2, based on the duration of personal freedom restraint or the days ruled by the court judgment to be served as the basis for claiming compensation multiplied by the compensation units specified in Appendix 1.
+
+Where the compensation/reparation units have been determined by the Memorial Foundation in accordance with provisions of Article 8, Paragraph 1, Subparagraphs 2 or 5 of the February 28 Incident Disposition and Compensation Act, the amount of the monetary compensation shall be calculated based on the approved compensation units multiplied by the amount of 120,000 NTD for each unit.
+
+#### Article 20
+
+The amount of compensation/reparation payable shall be the sum of the monetary compensation calculated in accordance with provisions of Paragraphs 2 to 4 of the Article 19 of this Act deducted by the monetary compensation/ reparation previously received by the implementation of the February 28 Incident Disposition and Compensation Act, the Compensation Act for Wrongful Trials on Charges of Sedition and Espionage during the Martial Law Period and the Act Governing the Recovery of Damage of Individual Rights during the Period of Martial Law on grounds of same causal facts.
+
+An applicant who makes an claim for a return the property in accordance with provisions of Article 11, Paragraph 1 may only receive the target property after returning the amount of monetary compensation/ reparation previously received by the implementation of provisions of Article 8, Paragraph 1, Subparagraph 4 of the February 28 Incident Disposition and Compensation Act or Article 6, Subparagraph 4 of Compensation Act for Wrongful Trials on Charges of Sedition and Espionage during the Martial Law Period.
+
+A grant of monetary compensation made in accordance with provisions of Article 11, Paragraph 2 or Article 13 may be payable only after deducting the amount of the monetary compensation/reparation previously received by the implementation of provisions of Article 8, Paragraph1, Subparagraph 4 of the February 28 Incident Disposition and Compensation Act or Article 6, Subparagraph 4 of the Compensation Act for Wrongful Trials on Charges of Sedition and Espionage during the Martial Law Period.
+
+Provisions of Article 6, Paragraph 4 and Article 18, Paragraph 2 shall apply to the situations provided in Paragraphs 1 to 3 of this Article.
+
+Provisions of Paragraphs 1 to 4 of this Article shall apply mutatis mutandis to a case in which a victim or his/her family member has previously received monetary compensation/reparation by the implementation of provisions of other laws or regulations on grounds of same causal facts.
+
+## Chapter 4 Investigation, Disposition and Remedies
+
+#### Article 21
+
+The Restoration of Rights Foundation, for purposes of fulfilling the tasks set forth in this Act, may take any of the following actions to investigate related matters:
+
+1.To summon a relevant agency / institution, organization, enterprise, or individual to appear before it to give an account of the factual circumstances or express their views;
+
+2.To request a relevant agency / institution, organization, enterprise, or individual to provide files, archives, documents, or other necessary information or evidence. The request made to the taxation authorities for information on property, income, business, tax payment, among other matters, shall not be subject to the limitations in Article 33 of the Tax Collection Act;
+
+3.To send personnel to the location where the ownership of the real estate was deprived to conduct necessary investigations;
+
+4.To commission an appraisal or a research project;
+
+5.To commission another agency / institution to handle a specified case or matter;
+
+6.To take other necessary actions to conduct investigations.
+
+An agency / institution which accepts the commission provided in Subparagraph 5 of the preceding Paragraph shall proceed forthwith to carry out the requested task, and shall report back in writing the results of its handling of the matter.
+
+An investigative officer who duly performs his/her duties shall display or supply relevant documents or proof of identity. Where a said officer fails to do the foregoing, the party under the investigation may refuse to cooperate.
+
+An agency / institution, organization, enterprise, or individual that is under investigation in accordance with the provisions of this Act shall not evade, refuse, or impede such an investigation without justifiable cause.
+
+Detailed regulations governing matters in relation to investigations provided in the preceding four Paragraphs shall be prescribed by the Restoration of Rights Foundation.
+
+#### Article 22
+
+In handling matters in relation to the restoration of rights under this Act, the Restoration of Rights Foundation shall decide in favor of applicants when there are doubts about whether the evidence supports the facts.
+
+#### Article 23
+
+An application for monetary compensation, restoration of reputation or restoration of ownership of property in accordance with provisions of this Act shall be made within six years from the date this Act takes effect. Where the application period expires and it is necessary to extend the time limit, the Executive Yuan may approve an extension of the application period for two years, for not more than two times of extension at the maximum.
+
+After the Restoration of Rights Foundation has made a decision with regard to compensation or restoration of rights, it shall observe the following time limits:
+
+1.The payment for compensation shall be made within one year from the date of the service of the process for the compensation decision made in accordance with Article 7, Paragraph 1;
+
+2.After the service of the process for the restoration of rights decision:
+
+(1) Where the said decision orders a return of the target property, the party that is obligated to return the target property shall return it within the period specified in the decision. Where the party that is so obligated fails to comply, the Restoration of Rights Foundation shall proceed with a compulsory enforcement measure in accordance with the applicable statutory law. Where the said decision orders a registration of a piece of real estate, the Restoration of Rights Foundation shall request the registration agency to register the piece of real estate in question under the name of the original owner or his or her family members. The same shall apply to a decision that orders a registration of securities or maritime vessels.
+
+(2) Where the said decision orders a monetary compensation, the payment shall be made within three years from the date of the service of the process for the restoration of rights decision. The said payment may be effected in installments. The order of installed payment shall be decided based on the respective dates of application.
+
+Where the applicant concerned does not collect the compensation within five  years from the date he or she receives the notice of collection, unless there is justifiable cause, the amount of compensation specified in Article 7 and the monetary compensation specified in Article 17 shall then belong to the State.
+
+Property or payments received in accordance with provisions of this Act shall be exempt from income tax, and shall not be counted into the total household income or family property defined in other laws and regulations.
+
+Property or payments received in accordance with provisions of this Act shall not be an object for set off, seizure, provided as collateral, or a subject to compulsory enforcement. However, this restriction shall not apply to the recipient voluntarily uses the received property as collateral.
+
+The enforcement measures and the registration of transfer and change of titles of property specified in Paragraph 2 of this Article shall be exempt from the compulsory enforcement costs, registration fees and certificate fees.
+
+#### Article 24
+
+Where an applicant or an interested party disagrees with a decision made by the Restoration of Rights Foundation, the said party may file administrative appeals or administrative litigation in accordance with the applicable statutory law.
+
+## Chapter 5 Addendum
+
+#### Article 25
+
+The sources of funds for the Restoration of Rights Foundation shall consist of the following:
+
+1.Government budget;
+
+2.The special fund established under Article 7 of the Act on Promoting Transitional Justice;
+
+3.Donations from domestic and foreign legal entities, organizations, or individuals;
+
+4.Profits from funds and income from the use of profits;
+
+5.Deducted amounts of compensation paid back by a victim or a family member in accordance with provisions of Article 20, Paragraph 2 or Paragraph 5, which shall apply mutatis mutandis to provisions of Paragraph 2 of the same Article;
+
+6.Other income.
+
+#### Article 26
+
+The date this Act shall come into force shall be determined by the Executive Yuan.
+
+The amended articles of this Act shall take effect on the date of promulgation.
+
+## Attachments
+
+- [Appendix 1.ODT](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007722)
+- [Appendix 2.ODT](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007723)
+
+## History
+
+1.Promulgated by the Presidential Order No. Hwa-Zong-Yi-11100045941 on May ,27, 2022
+
+2.Article 17-1 supplemented, articles 8,23,26 amended and promulgated by Presidential Order No. Hwa-Zong-1-Yi 11300126211 on January 3, 2025

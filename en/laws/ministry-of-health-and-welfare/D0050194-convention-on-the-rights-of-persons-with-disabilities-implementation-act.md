@@ -1,0 +1,105 @@
+---
+title: "Convention on the Rights of Persons with Disabilities Implementation Act"
+title_zh: "身心障礙者權利公約施行法"
+identifier: "D0050194"
+type: act
+law_level: "法律"
+category: "行政＞衛生福利部＞社會及家庭目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2014-08-20
+last_amended: 2014-08-20
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0050194"
+retrieved: 2026-10-12
+---
+
+# Convention on the Rights of Persons with Disabilities Implementation Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-health-and-welfare/D0050194-convention-on-the-rights-of-persons-with-disabilities-implementation-act.md](../../../zh/laws/ministry-of-health-and-welfare/D0050194-convention-on-the-rights-of-persons-with-disabilities-implementation-act.md)) is authoritative.
+
+## Article 1
+
+This Act is enacted to implement the United Nations Convention on the Rights of Persons with Disabilities of 2006 (hereinafter referred to as "the Convention"), safeguard the rights and interests of persons with disabilities, ensure their equal opportunities to participate in social, political, economic, and cultural life, and promote their independence and development.
+
+## Article 2
+
+The provisions for the protection of human rights of persons with disabilities as set forth in the Convention shall have the force of domestic law.
+
+## Article 3
+
+In applying the provisions of the Convention, rules, regulations and administrative measures shall refer to the spirit of the Convention and the interpretations of the Convention by the United Nations Committee on the Rights of Persons with Disabilities.
+
+## Article 4
+
+When exercising their authority, government agencies at all levels shall comply with the Convention's provisions on the protection of the rights of persons with disabilities, avoid infringing upon the rights of persons with disabilities, protect persons with disabilities from infringement by others, and actively promote the realization of all rights of persons with disabilities.
+
+## Article 5
+
+1.Government agencies at all levels shall be responsible for planning, promoting, and implementing matters prescribed by the Convention in accordance with their current legal duties and responsibilities. Where matters involve the duties and responsibilities of different agencies, they shall coordinate and liaise with each other.
+
+2.The government shall cooperate with governments of other countries, domestic and international non-governmental organizations, and human rights institutions to protect and promote the realization of all human rights of persons with disabilities as safeguarded by the Convention.
+
+3.The government shall solicit opinions from disability organizations to establish human rights indicators, benchmarks, and impact assessment and monitoring mechanisms for policies and bills to evaluate the implementation and impact of the Convention.
+
+## Article 6
+
+1.To promote work related to this Convention, the Executive Yuan shall invite scholars, experts, and the representatives from disability organizations (institutions) and government agencies to establish a Committee for the Promotion of the Rights of Persons with Disabilities. This committee shall hold regular meetings to coordinate, research, review, consult, and handle the following matters:
+
+（1）Publicity and educational training on the Convention.
+
+（2）Supervision of the implementation of the Convention by government agencies at all levels.
+
+（3）Research and investigation into the current status of the rights and interests of persons with disabilities in the country.
+
+（4）Submission of national reports.
+
+（5）Acceptance of complaints involving violations of the Convention.
+
+（6）Other matters related to the Convention.
+
+2.The number of scholars, experts, and representatives from disability organizations (institutions) mentioned in the preceding paragraph shall not be less than one-half of the total number; the representation of any single gender shall not be less than one-third.
+
+## Article 7
+
+1.The government shall establish a reporting system for the rights of persons with disabilities in accordance with the Convention. The initial national report shall be submitted within two years after this Act takes effect, followed by national reports every four years. Relevant experts, scholars, and representatives from civil society organizations shall be invited to review these reports.
+
+2.The experts and scholars mentioned in the preceding paragraph shall include those with experience in matters related to the rights of persons with disabilities in the United Nations.
+
+3.The government shall review and formulate subsequent policy directions based on the review opinions and regularly track and evaluate the effectiveness of their implementation.
+
+## Article 8
+
+1.When the rights and interests of persons with disabilities protected by the Convention and its relevant rules and regulations are infringed upon, or cannot or are difficult to implement, they may file administrative appeals, lawsuits, or resort to other remedies to assert their rights. The same applies if the infringed rights and interests are protected by other international conventions ratified or acceded to by Taiwan and their relevant rules and regulations.
+
+2.If a person with disabilities appoints a lawyer to exercise rights in accordance with the preceding paragraph, the government shall provide legal aid in accordance with the law. Such legal aid services may be entrusted to the Legal Aid Foundation or other private organizations.
+
+3.To safeguard the human rights of persons with disabilities, the government shall provide relevant training for judicial personnel.
+
+## Article 9
+
+The expenditures required by government agencies at all levels to implement the provisions protecting the human rights of persons with disabilities under the Convention shall be given priority in budgeting and progressively implemented.
+
+## Article 10
+
+1.Government agencies at all levels shall, based on the content of the Convention, submit a priority review list of their governing rules, regulations and administrative measures within two years after this Act takes effect. If any inconsistencies with the Convention's provisions are found, amendments, abolitions, and improvements to administrative measures shall be completed within three years after this Act takes effect. Furthermore, the promulgation, amendment, or abolition of the remaining rules, regulations and improvements to administrative measures shall be completed within five years after this Act takes effect.
+
+2.Before the promulgation, amendment, or abolition of rules, regulations and improvements to administrative measures are completed in accordance with the preceding paragraph, the provisions of the Convention shall apply preferentially.
+
+3.The amendment, abolition, and improvement of rules, regulations and administrative measures mentioned in the first paragraph shall solicit opinions from disability organizations.
+
+## Article 11
+
+For matters not regulated by this Act, the government may, depending on their nature, refer to the Convention and the interpretations of the United Nations Committee on the Rights of Persons with Disabilities.
+
+## Article 12
+
+This act shall come into effect from December 3, 2014.
+
+## History
+
+1.August 20, 2014 Hua Zong Yi Document No.10300123071
+
+Implementation of December 3, 2013

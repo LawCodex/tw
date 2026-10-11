@@ -1,0 +1,91 @@
+---
+title: "Organization Act of Maritime and Port Bureau, Ministry of Transportation and Communications"
+title_zh: "交通部航港局組織法"
+identifier: "K0000209"
+type: act
+law_level: "法律"
+category: "行政＞交通部＞組織目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2023-06-07
+last_amended: 2026-02-11
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0000209"
+retrieved: 2026-10-12
+---
+
+# Organization Act of Maritime and Port Bureau, Ministry of Transportation and Communications
+
+> Translation. The Chinese text ([zh/laws/ministry-of-transportation-and-communications/K0000209-organization-act-of-maritime-and-port-bureau-ministry-of-transportation-and.md](../../../zh/laws/ministry-of-transportation-and-communications/K0000209-organization-act-of-maritime-and-port-bureau-ministry-of-transportation-and.md)) is authoritative.
+
+## Article 1
+
+The Ministry of Transportation and Communications has established the Maritime and Port Bureau (hereinafter referred to as “the Bureau”) to administer navigation and port-related affairs.
+
+## Article 2
+
+The Bureau is in charge of the following matters:
+
+\1. Formulating regulations, policies, and development plans for shipping Industry, vessels, seafarers, maritime affairs, and commercial ports.
+
+\2. Planning, implementing, and supervising the activities of the joint operation institutions, vessel inspection, seafarer and driver training institutions, and commercial ports and port facilities.
+
+\3. Planning, implementing, and supervising international maritime affairs cooperation, joint operation institutions, and management of the order of shipping.
+
+\4. Planning, implementing, and supervising vessel inspection, measurement, registration, and navigation safety activities.
+
+\5. Planning, executing, and supervising seafarer and driver training, licensing, and assessment activities.
+
+\6. Planning, executing, and supervising maritime affairs, pilotage, and smart navigation safety activities.
+
+\7. Supervising commercial ports and free-trade zones and managing public infrastructure.
+
+\8. Planning, constructing, maintaining, supervising, and managing navigation signs, as well as promoting navigation safety.
+
+\9. Collecting, translating, editing, and implementing international maritime treaties, conventions, agreements, norms, and standards.
+
+\10. Other matters related to maritime and port affairs.
+
+## Article 3
+
+The Bureau shall have one director at senior grade 13; two deputy directors at senior grade 12.
+
+## Article 4
+
+The Bureau shall have one Secretary-General at senior grade 11.
+
+## Article 5
+
+The official ranks, grades, and number of the Bureau positions shall be regulated by a separate Personnel Establishment Table.
+
+The 591 personnel transferred to the Bureau from the former Maritime and Port Bureau of the Ministry of Transportation shall not be included in the total number of posts as stipulated by the Act Governing the Total Number of Personnel Headcounts of Central Government Agencies.
+
+## Article 6
+
+Before the implementation of this Act, the personnel of the former Maritime and Port Bureau of the Ministry of Transportation and Communications who were transferred along with the relevant duties shall be handled in accordance with the following subparagraphs:
+
+\1. Incumbent personnel at or above the senior to field officer level whose appointments were approved in accordance with the Traffic Personnel Appointment Ordinance may, before September 14, 2029, apply mutatis mutandis the “Mutual transferring Qualification between Transportation Personnel and Traffic Administrative personnel and Methods on Verifying Work Experience” (hereinafter referred to as the transfer approach of second level personnel)  to transfer to other positions, or may continue to apply the provisions of the originally applicable laws and regulations. From the day following the expiration of the aforementioned period, those who continue to apply the originally applicable laws and regulations may be reassigned to other positions within the Bureau.
+
+\2. Incumbent personnel at the primary level whose appointments were approved in accordance with the Traffic Personnel Appointment Ordinance may, in accordance with the originally applicable laws and regulations or upon obtaining eligibility for the next higher rank, be reassigned to other positions within the Bureau.
+
+The promotion examinations for maritime affairs staff of the transportation system conducted prior to the implementation of the amendments to this Act shall no longer be held after September 15, 2028.
+
+Personnel referred to in Paragraph 1 who continue to apply the originally applicable laws and regulations may participate in the promotion examinations for maritime affairs staff of the transportation system. When reassigned to other positions within the Bureau, they may, before September 14, 2029, apply mutatis mutandis the provisions of the transfer approach of second level personnel.
+
+Personnel referred to in Paragraph 1 who have completed a transfer in accordance with the regulations for the appointment of a public official may no longer choose to apply the originally applicable laws and regulations.
+
+Incumbent personnel whose appointments had been duly approved before the implementation of this Act and who had already participated in Labor Insurance may, upon transfer (or retention) in their positions, elect to continue participating in Labor Insurance based on the official rank (or grade) and position determined at the time of such transfer (or retention). However, if they are reassigned to another position or promoted to a higher official rank (or grade), they shall participate in Public Servant and Teacher Insurance in accordance with the relevant provisions.
+
+Before the implementation of this Act, incumbent customs personnel of the former Maritime and Port Bureau of the Ministry of Transportation and Communications whose appointments had been approved in accordance with the Customs Personnel Management Act may, before September 14, 2029, have their officially approved ranks, grades, titles, classes, and salary levels converted to the equivalent official ranks and salary levels of public servants. With respect to retirement and bereavement compensation, in addition to being handled in accordance with the Public Servant Retirement, Severance, and Bereavement Compensation Act, they may also receive additional retirement pensions and bereavement compensation in accordance with the originally applicable provisions, subject to the principle of choosing only one benefit. From the day following the expiration of the aforementioned period, those who continue to apply the originally applicable laws and regulations may be reassigned to other positions within the Bureau.
+
+## Article 7
+
+The effective date of this act shall be determined by the decree of the Executive Yuan.
+
+## History
+
+1.Promulgated on June 7, 2023.
+
+2.By Presidential Order Hua-Zong-Yi-Yi No. 11500012861 dated February 11, 2026, Article 6 was amended and promulgated. The date of implementation shall be determined by an order of the Executive Yuan.

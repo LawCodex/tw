@@ -1,0 +1,403 @@
+---
+title: "Real Estate Brokerage Management Act"
+title_zh: "不動產經紀業管理條例"
+identifier: "D0060066"
+type: act
+law_level: "法律"
+category: "行政＞內政部＞地政目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1999-02-03
+last_amended: 2021-01-27
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0060066"
+retrieved: 2026-10-12
+---
+
+# Real Estate Brokerage Management Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-the-interior/D0060066-real-estate-brokerage-management-act.md](../../../zh/laws/ministry-of-the-interior/D0060066-real-estate-brokerage-management-act.md)) is authoritative.
+
+## Chapter 1. General Regulations
+
+### Article 1
+
+This act is constituted so as to manage the real estate brokerage (hereinafter referred to as brokerage), to establish the order of the transaction of property, to protect the interests of the clients, and to promote a sound development of the real estate market.
+
+### Article 2
+
+The management of brokerage is carried out in accordance with this act. Any other regulations of related law shall apply to what this act does not specify.
+
+### Article 3
+
+The term ‘competent authority’ referred to in this Act shall mean the Ministry of the Interior in the central government; the Department of Land Administration of Municipal Governments in Municipalities, the County (City) governments in the Counties (Cities) level.
+
+### Article 4
+
+The definitions of the terms employed in this act are as follows:
+
+\1. Property, which means land, things affixed to land or a house and its transferable rights. “House” refers to a completed house or a presale house and its transferable rights.
+
+\2. Completed House, which means a building with a usage license or a building of which the construction had been finished before building management was put into practice.
+
+\3. Presale House, which means a building with a construction license that has not finished being constructed and shall become the trading object as soon as its construction is done.
+
+\4. Brokerage Agency, which refers to the company or firm engaged in brokering or sales agency services as stipulated by this Act.
+
+\5. Brokering Services, which refers to the services engaged in intermediary or agency services for the sale, exchange, and leasing of property.
+
+\6. Sales Agency Services, which refers to the services of planning and representing the sale of property commissioned by proprietors or the building industry.
+
+\7. Brokerage Agent, which refers to a broker or an assistant broker.The job of a broker includes conducting brokering or sales agency services. The job of an assistant broker is to assist the broker in brokering or sales agency services.
+
+\8. Franchisee: One party of the brokerage Agency who, through a contract, agrees to utilize services, operational methods, trademarks, or service marks developed by the other party and is subject to their regulations or supervision.
+
+\9. Price Difference, which refers to the difference between the actual sale price and the price requested on commission.
+
+10.Business Office, which refers to the store, office, or non-regular fixed location where the brokerage agent conducts brokering or sales agency services.
+
+## Chapter 2. Brokerage Agency
+
+### Article 5
+
+After being issued a permit by the competent authority, a real estate brokerage agency shall be registered as a company or a profit-going legal person according to law. The broking agency dealing with the brokering or sales agency services of foreign property shall be registered as a company according to law.
+
+The items and necessary documents for the application of permit in the preceding paragraph are determined by the competent authority in central government.
+
+The brokerage agency shall report to the municipal or county (city) government when establishing a branch business office.
+
+### Article 6
+
+One of the following situations shall not apply for a permit for brokerage agency. Permitted though he or she has been, the permit shall be cancelled or revoked:
+
+\1. Being an incompetent person or a person limited in disposing capacity.
+
+\2. Going bankrupt and having not rehabilitated oneself.
+
+\3. Committing fraud, breach of trust, crime of misappropriation, article 2 of Prevention of Sexual Aggression, and article 3(1) and 3(2), article 6, and article 9 of Prevention of Organized Crime, which results in a conclusive judgment of more than a year of fixed-term imprisonment. Being still imprisoned or having been pardoned or been out of prison for fewer than three years. Nevertheless, being on probation is excluded from limitation.
+
+\4. Accepting a conclusive judgment of reformatory education, still receiving reformatory education, or not having been for three years since the close of reformatory education.
+
+\5. Having managed a brokerage agency of which the permit has been cancelled or revoked by the competent authority; not having been for five years since the first day when the permit was cancelled or revoked. Nevertheless excluded from this regulation are those who have not started their business beyond the specified time set by Article 7(1) or those who suspend their own business by themselves.
+
+\6. Suspension of business ordered by Article 29 and not having come to an end yet.
+
+\7. Suspension of business ordered by Article 31 and not having come to an end yet, or not having been for five years since the certificate of a broker was revoked.
+
+After the company registration or business registration of a brokerage agency, the responsible person, the director, the supervisor, the manager and the responsible person or manager of firm of it is found in one of the aforementioned situations, the competent authority shall order that improvement over the brokerage agency be done within a given time limit. Should there still be no improvement beyond the specified time, the permit of the brokerage agency shall be revoked and the competent authority in charge of the business registration of the brokerage agency will be informed that its business registration shall be revoked.
+
+### Article 7
+
+After being issued a permit by the competent authority, the brokerage agency shall complete the company registration or business registration and become a member of the local industry association before commencing operations. Operations must commence within six months. Failure to commence operations beyond the six-month period shall result in the revocation of the permit by the competent authority. However, for legitimate reasons, an application for a one-time extension with a maximum extension period of three months may be made.
+
+After being permitted by the competent authority, the brokerage agency in preceding paragraph may organize an industry association or national association of brokering or sales agency according to the nature of business.
+
+After company registration or business registration, a brokerage agency shall deposit a bond of operation according to the regulation of the central competent authority. If the bond that the brokerage agency shall pay exceeds a certain amount of money, a letter of guaranty provided by a financial institution may guarantee this excess.
+
+Regulations of the bond of operation and depositing or providing guarantees in the preceding paragraph shall be made by the Central Competent Authority.
+
+Besides the depositing of the bond in the third paragraph, the brokerage agency may apply to National Association in the second paragraph for the extra depositing of bond amount or the letter of guaranty provided by a financial institution.
+
+The National Association in the second paragraph shall made the ethical guidelines for the real estate brokerage. After approval by the general meeting of members' representatives, it shall be submitted to the central competent authority for record.
+
+### Article 8
+
+The bond of operation in the third paragraph of preceding article shall be deposited in the special account of bond opened in the financial institution named by the National Association of Brokering or Sales Agency of R.O.C. A committee of management shall be organized to keep in charge of the account. The fruits generated by the bond shall be spent on a sound development of the real estate brokerage system.
+
+The members of the committee of management in the preceding paragraph are to be chosen out of brokerage agencies. The number of the brokers acting as committee members shall not exceed two-fifths of the total number of the committee members. The central competent authority shall make the organization of the committee and the regulations for the management of the bond of the committee.
+
+Unless this act specifies otherwise, the bond shall not be spent under no circumstances other than Article 26(4).
+
+If the bond of a brokerage agency pays respectively are below the amount specified by Article 7(3), National Association of Brokering or Sales Agency of R.O.C. shall inform that the brokerage agency shall make up the payment within a month.
+
+### Article 9
+
+The bond of operation is independent of brokerage agencies and brokers, and, unless otherwise specified in this act, shall not be transferred, withheld, offset, or encumbered due to any debt or credit relationship with the brokerage agencies and brokers.
+
+Owing to the mergence of brokerage agencies or the change of the organization of brokerage agencies, the right of the bond of operation should be transferred to the new brokerage agency. Applying for the dissolution of a brokerage agency, the original brokerage agency may begin requesting a refund of the bond of operation exclusive of the fruits generated from the bond of operation one year after dissolution is permitted. Such a request of refund shall be presented within the following two years.
+
+### Article 10
+
+The industry associations of municipal or county (city) should report the situations of the members’ entrance into associations, suspension of rights, and withdrawal from business associations to local competent authority that shall transfer these reports to the records of the central competent authority.
+
+### Article 11
+
+A brokerage agency should install at least a broker in a business office. Nevertheless, a brokerage agency should install at least a professional broker in an extraordinary business office, which makes over 600 million NT dollars.
+
+A broker shall be added to every additional twenty assistant brokers in a business office.
+
+### Article 12
+
+Within the first fifteen days of the brokers’ report for duty, a brokerage agency should report the name list of brokers to local competent authority that shall transfer these reports to the records of the central competent authority. In the event of personnel changes, the same procedure shall be applied.
+
+## Chapter 3. Brokerage Agents
+
+### Article 13
+
+The citizen of R.O.C. who has passed the qualification examination of real estate brokers and who is issued a certificate of a real estate broker according to Real Estate Brokerage Management Act may serve as a real estate broker.
+
+Whoever has passed the qualification training of real estate assistant brokers or the qualification examination of brokers sponsored by the institution designated by the central competent authority or institution organization acknowledged by the central competent authority and may serve as an assistant real estate broker. The rules of the qualification examination of real estate assistant brokers are to be made by the central competent authority.
+
+The training of aforementioned real estate assistant brokers shall not be less than thirty hours, whose certificates are valid for four years. Expired, assistant brokers shall submit to the certified document of 30 hours professional training program to the institution or organization, and register on the institution or organization designated by the central government.
+
+The central competent authority shall make the fee of registration and certificate in preceding 2 paragraphs.
+
+The regulations of qualifications, procedures for recognition, criteria for revoking recognition, training requirements for assistant brokers, course offerings, fee structures, and other compliance matters related to the second paragraph of training institutions and organizations shall be made by the central competent authority.
+
+### Article 14
+
+Those who have passed the qualification examination of real estate brokers should have more than one year of experience in working as assistant brokers before they apply to the governments of municipal or county (city) for certificates of brokers.
+
+The experience in working as an assistant broker in the preceding paragraph shall be acknowledged according to one of the following situations:
+
+\1.  Having acquired the qualification of an assistant broker and having an income tax payment report of brokering or sales agency services.
+
+\2.  Having worked in brokering or sales agency services and having an income tax payment report before the announcement of Real Estate Brokerage Management Act.
+
+Those who are found in one of the situations specified in Article 6 (1) I~ iv or in Article 6(1) vii shall not serve as brokers. If they have already been brokers, their certificates or licenses shall be cancelled or revoked.
+
+### Article 15
+
+The certificate of a real estate broker in the first paragraph of preceding article is valid for four years. Expired, a new one shall be applied for to local governments by submitting the certified documents of the broker’s thirty-hour professional training program taken in the institution acknowledged by the central competent authority within the latest four years.
+
+The regulations of qualifications, recognition procedures, scope of training programs, and criteria for revoking recognition that institutions and organizations in the preceding paragraph must possess shall be made by the central competent authority.
+
+### Article 16
+
+A broker should work exclusively for one brokerage agency and shall not work for himself or herself or other agencies for broking and sale. Should the agency to which he or she belongs agrees that he or she may work for other brokerage agencies, this article shall not apply to him or her.
+
+### Article 17
+
+The brokerage agency shall not employ those who are not qualified to engage in brokering or sales agency services.
+
+## Chapter 4. Work and Duty
+
+### Article 18
+
+The permit of a brokerage agency, the documents related to the brokering or sales agency, and the brokers’ certificates should be displayed in an obvious place in the business office. A franchised agency should make its franchise noted.
+
+### Article 19
+
+A brokerage agency or a broker shall not receive any price difference or other repayment. The brokerage agency should receive the standard repayment out of the actual sale price or rent specified by the central competent authority.
+
+Violating the regulation in preceding paragraph, the brokerage agency or the broker should pay back the payer double the price difference or other repayment that has already been received plus interests.
+
+### Article 20
+
+A brokerage agency should display the criteria of repayment and the way of receiving it in an obvious place in the business office.
+
+### Article 21
+
+After a brokerage agency signs a contract with the client, the brokerage agency may advertise and begin dealing with sale.
+
+The advertising and sales content in preceding paragraph should coincide with reality and the title of the brokerage agency should be noted.
+
+Should the advertising and sale content not coincide with reality, the brokerage agency shall pay for the loss.
+
+### Article 22
+
+The sale and purchase, trade, lease or representative in the sale of real estate are dealt with brokering or sales agency by a brokerage agency. The broker designated by the broking agency should sign the following documents:
+
+1.An entrusted contract of renting or selling property.
+
+2.An offering document of rental and purchase.
+
+3.A receipt of earnest.
+
+4.A draft of the advertisement of property.
+
+5.An instruction of property.
+
+6.A contract of the sale and purchase, or the lease of property.
+
+The preceding article 22(1)( i.),(ii) shall not apply to those engaged in sales agency services.
+
+The central competent authority shall decide on what should be described in the instruction as to the preceding article 22(1)(v) and what should not.
+
+### Article 23
+
+While at work, the broker should explain the instruction of property to the counterpart with whom the trustor deals.
+
+Before the explanation of the instruction in the preceding paragraph, the trustor should sign it.
+
+### Article 24
+
+When the clients of both parties sign the contract of rental or sale and purchase, the broker should submit the instruction to the counterpart with whom the trustor deals and the counterpart shall sign on it.
+
+The instruction in the preceding paragraph is regarded as part of the contract of rental or sale and purchase.
+
+### Article 24-1
+
+For rental of Appointed Cases, a brokerage agency should declare the current transaction information to the competent authority of municipal or county (city) after signing the rental contract within 30 days.
+
+A sale agency commissioned by the proprietors or the building industry to sell pre-sale houses, should report the consigned contract to the competent authority of municipal or county (city) after signing, change, or termination of the consigned contract within 30 days and declare the current transaction information to the competent authority of municipal or county (city) after signing the sale contract within 30 days.
+
+Government may utilize the registered transaction information of the preceding two paragraphs and provide public for inquiry without revealing personal data.
+
+The registered real estate transaction price information shall become a basis for taxation only until complementary laws are enacted.
+
+Rules of the registered types and contents in the preceding first and second paragraphs and the provision of information contents, ways, fees and other matters to follow in the preceding third paragraph shall be made by the central competent authority.
+
+The competent authority of the municipality or county (city) may request parties to the transactions, or brokerage agency to access, obtain relevant documents or provide explanations in order to check the registered information.  The central competent authority may inquire about and obtain documents related to price information from relevant agencies or financial institutions in order to check suspected information of   declared price. The inspected person shall not evade, hinder or refuse the inspection.
+
+The inspection in the preceding paragraph shall not exceed the necessary scope for the purpose of ensuring the correctness of the declared real estate transaction information.
+
+Accepting the declaring real transaction information in the preceding first and second paragraphs and the inspection in the preceding sixth paragraph, the competent authority of the municipality or county (city) may authorize its subordinate authority to handle the matter.
+
+The district basis real estate transaction information provided prior to the enforcement of articles of this Act that were amended on December 30, 2020 shall be re-provided for inquiry in accordance with the preceding third paragraph.
+
+### Article 24-2
+
+A brokerage agency engaged in brokering services by trading or rental of parties in a written agreement, may accept both commissions and practice in accordance with the following prescriptions:
+
+\1. Provide fair prices to the parties similar to the real estate transaction prices.
+
+\2. Provide fair contract description to the parties.
+
+\3. Provide the buyer or lessee of real estate necessary information.
+
+\4. Inform the buyer or lessee in accordance with agency profession to check on real estate defects.
+
+\5. Assist the buyer or lessee of real estate to carry out the necessary checks.
+
+\6. The prescription by the central competent authority for the protection of the parties of the trading or the rental.
+
+### Article 25
+
+A broker shall keep classified the secrets of others he or she knows on account of performing business.
+
+### Article 26
+
+A brokerage agency shall be liable to pay compensation for the trustor’s loss resulting from the brokerage agency failing to realize the contract.
+
+The brokerage agency and the broker shall bear a joint liability for the compensation for the client’s loss resulting from the broker’s performance of business or the salesperson’s intentional act or misconduct.
+
+The victims’ recourse in the preceding 2 paragraphs to the National Association of Brokering or Sales Agency of R.O.C. for representative compensation is to be regarded as their application to the committee of guaranty bond management for reconciliation. The committee shall begin reconciliation.
+
+While the victim obtains the nominal execution over the brokerage agency or the broker, after arbitral settlement or the resolution of payment made by the committee of guaranty bond management, he or she may have recourse to the National Association of Brokering or Sales Agency of R.O.C. for representative compensation within the total amount of the bond of operation and within the total amount guaranteed by the bond of operation deposited by the brokerage agency. Following representative compensation, the brokerage agency shall be informed of making up the bond of operation within the specified time according to Article 8(4).
+
+### Article 27
+
+When the competent authority examines the business of a brokerage agency, the brokerage agency shall not refuse.
+
+## Chapter 5. Award and Penalty
+
+### Article 28
+
+If a brokerage agency or a broker meets one of the following situations, the competent authority may reward the brokerage agency or the broker. In special municipality, the competent authority of the special municipality shall do it. The extremely distinguished brokerage agency or broker may be reported to the central competent authority for reward.
+
+\1. Being Outstanding in keeping the safety and fairness of trading property and in promoting a sound development of real estate broking.
+
+\2. Being Outstanding in protecting the interests of the consumers.
+
+\3. Those who have made significant contributions to the research or suggestions related to real estate brokerage regulations.
+
+\4. Having other special events acknowledged by the competent authority.
+
+The central competent authority shall make the rules of the aforementioned system of award.
+
+### Article 29
+
+The brokerage agency, which violates this act, shall be penalized according to the following regulations：
+
+\1. Those who violate Article 7 (6) , Article 11, Article 17, Article 19 (1) , Article 21 (1) and (2) or Article 22 (1) shall be fined from sixty thousand to three hundred thousand NT dollars by the  competent authority of municipal or county (city).
+
+\2. Those who violate paragraph 2 of Article 24-1 by failing to declare real estate transaction information in accordance with the deadlines or declaring the incorrect price or area information, shall be fined by the competent authority of municipal or county (city) per household (unit) from thirty thousand to one hundred and fifty thousand NT dollars and rectified within the time limit. When they fail to do so, a fine should be imposed each time the violation occurs. After being punished twice, they should be fined from three hundred thousand to one million NT dollars.
+
+\3. Those who violate paragraph 2 of Article 24-1 by failing to report the consigned contract, violate paragraph 6 of Article 24-1 by evading, hindering or refusing the inspection, or violate Article 24-2 should be fined from thirty thousand to one hundred and fifty thousand NT dollars by the competent authority of municipal or county (city).
+
+\4. Those who violate Article 12, Article 18, Article 20, or Article 27 and who have not rectified themselves within the time limit given by the competent authority of municipal or county (city) shall be fined from thirty thousand to one hundred and fifty thousand NT dollars.
+
+\5. Those who violate paragraph 1 of Article 24-1 by failing to declare current transaction information in accordance with the deadline or declaring the incorrect rental or area information, shall be fined from ten thousand to fifty thousand NT dollars by the competent authority of municipal or county (city).
+
+\6. Those who violate paragraph 1 or 2 of Article 24-1 by declaring the incorrect information except rental, price or area information, and who have not rectified themselves within the time limit given by the competent authority of municipal or county (city) shall be fined from six thousand to thirty thousand NT dollars.
+
+\7. Those who violate Article 7 (3), (4) or Article 8 (4) shall be suspended by the competent authority of municipal or county (city). Suspension of business shall not be lifted until the brokerage agency makes up the guaranty bond. Nevertheless, if suspension of business lasts for one year, the permit of the brokerage agency shall be revoked.
+
+The brokerage agencies that are fined according to the subparagraph 1, 3 to 6 in the preceding paragraph and who have not rectified themselves within the time limit given by the competent authority shall be penalized each time.
+
+Financial institutions or parties to the transactions violate paragraph 6 of Article 24-1 by evading, hindering or refusing the inspection should be fined from thirty thousand to one hundred and fifty thousand NT dollars and rectified within the time limit. When they fail to do so, a fine should be imposed each time the violation occurs.
+
+### Article 30
+
+The competent authority of municipal or county (city) shall revoke the permit of the brokerage agency that, after operation of business, has suspended its business automatically for over six months in a row. Nevertheless, the brokerage agency that applies for suspension of business by law is excluded from this regulation.
+
+### Article 31
+
+The broker who violates this act shall be punished for the following regulations：
+
+\1. The broker who violates Article 16, 22(1), Article 23 or Article 25 shall receive reprimand.
+
+\2. Those who violate Article 19(1) shall be faced with suspension of business lasting for more than six months or fewer than three years.
+
+The broker who has been reprimanded three times shall be faced another suspension of business lasting for more than six months or fewer than three years. The total time of suspension of business amounts to five years, which will result in the revocation of the certificate of a broker.
+
+### Article 32
+
+Engage in brokering or sales agency services without being registered as brokerage agencies shall be prohibited from conducting business by the competent authority. Violating this regulation, the responsible person of company or firm or the actor shall be fined between one hundred thousand and three hundred thousand NT dollars.
+
+Having been prohibited from conducting business by the competent authority according to the preceding paragraph, the responsible person of company or firm or the actor who stills continues operation shall be sentenced to less than one year in prison, faced with criminal detention, or fined between one hundred thousand and three hundred thousand NT dollars, or a combination thereof.
+
+### Article 33
+
+If a broker violates one of the subparagraphs specified in Article31(1), the related interest party, the competent authority of all levels, or industry association may list the facts, provide evidence, and refer him or her to the competent authority of municipal or county (city) for reprimand.
+
+The competent authority of municipal or county (city) should organize a committee of award and penalty in charge of the brokers’ award and penalty.
+
+The organization of the committee of award and penalty in the preceding paragraph shall be determined by the central competent authority.
+
+### Article 34
+
+When the committee of award and penalty in the preceding article accepts a case of penalty, they should inform the impeached or referred broker that he or she may offer a self-defense or make a statement before the committee within twenty days. The committee may proceed to a final judgment if the impeached or referred broker does not offer a self-defense or make a statement before the committee within twenty days.
+
+### Article 35
+
+After being informed of paying the fine specified in this act, those who still do not pay the fine beyond the deadline shall be referred to the court for enforcement.
+
+## Chapter 6. Supplementary Provisions
+
+### Article 36
+
+Those who were engaged in brokering or sales agency services before the announcement of this act should acquire the certificates of brokerage according to the regulations specified in this act within three years after the realization of this act and then continue operation.
+
+Article 32 shall apply to those who violate what has been specified in the preceding paragraph and who continue their operation.
+
+### Article 37
+
+Those who served as real estate brokers before the realization of this act may continue operation for the next three years after the day of the realization of this act. Those who will not have acquired the qualification of brokers in three years shall not continue operation.
+
+After being considered qualified by the central competent authority, those who has served as real estate brokers or salespeople for exactly two years before the realization of this act and who have documentary proofs of operation and income tax reports may continue operation for the next three years after the day of the realization of this act and may take the special examination of real estate brokers.
+
+The special examination in the preceding paragraph should be held at least five times within five years after the announcement and realization of this act.
+
+### Article 38
+
+Foreigners may take the qualification examination of real estate brokers or the training of assistant brokers according to the law of the Republic of China.
+
+The foreigners, who have the certificates or who have qualification of training, and register according to Article 13 (2) and have certified documents, should acquire the permit issued by the central competent authority, obey all the laws of the Republic of China, and then may be employed as real estate brokers.
+
+Foreigners, who have been permitted to work as brokers in the Republic of China, should use the writing system of the Republic of China on the documents and illustrations related to business.
+
+### Article 38-1
+
+The fee of issued the certificates of real estate brokers shall be charged according to the article. The central competent authority shall make the fee by the rule.
+
+### Article 39
+
+The central competent authority shall make the detailed regulations on realization for this act.
+
+### Article 40
+
+This act shall be effective from the date of its promulgation. However, the enforcement date for Article 24-1, 24-2 and subparagraph 2 of paragraph 1 of Article 29 announced on December 30, 2011, of this Act is determined by Executive Yuan. The enforcement date for Articles amended on December 30, 2020, of this Act is determined by Executive Yuan.
+
+## History
+
+1.Promulgated by letter Hua-Zong-1-Yi No. 8800024800 of President on February 3, 1999.(40 Articles)
+
+2.Amended and Promulgated by letter Hua-Zong-1-Yi No.9000213980 of President on October 31,2001; revising Article 6,7,13-15,22,29-31,37,38; adding Article 38-1.
+
+3.Amended and Promulgated by letter Hua-Zong-1-Yi No.10000294941 of President on December 30, 2011; revising Article 29; adding Article 24-1,24-2.
+
+4.Amended and Promulgated by letter Hua-Zong-1-Yi No. 11000006191 of President on January 27, 2021; revising Article 24-1,29,40.

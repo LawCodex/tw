@@ -1,0 +1,741 @@
+---
+title: "Natural Gas Enterprise Act"
+title_zh: "天然氣事業法"
+identifier: "J0130045"
+type: act
+law_level: "法律"
+category: "行政＞經濟部＞能源目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2011-02-01
+last_amended: 2026-01-05
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0130045"
+retrieved: 2026-10-12
+---
+
+# Natural Gas Enterprise Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-economic-affairs/J0130045-natural-gas-enterprise-act.md](../../../zh/laws/ministry-of-economic-affairs/J0130045-natural-gas-enterprise-act.md)) is authoritative.
+
+## Chapter 1 General Provisions
+
+### Article 1
+
+This Act is enacted to advance the sound development of natural gas enterprises, protect the rights and interests of consumers, and ensure public interest.
+
+### Article 2
+
+The competent authorities stated in the Act are the Ministry of Economic Affairs at the central level, municipal governments at the municipal level, and county (city) governments at the county (city) level.
+
+### Article 3
+
+The terms used in this Act are defined as follows:
+
+\1. “Natural Gas” refers to gas that is a mixture of gaseous hydrocarbons originating from underground sources and contains main component no less than eighty percent methane.
+
+\2. “Natural Gas Enterprise” refers to Natural Gas Production Enterprise, Natural Gas Import Enterprise and Natural Gas Utility Enterprise.
+
+\3. “Natural Gas Production Enterprise” refers to an enterprise that produces natural gas to supply domestic Natural Gas Utility Enterprises, industrial sector users, electricity enterprises, cogeneration system, or transportation sector users.
+
+\4. “Natural Gas Import Enterprise” refers to an enterprise that imports liquefied natural gas from overseas to supply domestic Natural Gas Utility Enterprises, industrial sector users, electricity enterprises, cogeneration system, or transportation sector users.
+
+\5. “Natural Gas Utility Enterprise” refers to an enterprise that supply natural gas to users in the residential, commercial and service sectors via the natural gas conduit network.
+
+\6. “Public Natural Gas Conduit Installation Enterprise” refers to an enterprise that undertake the installation engineering of pipeline projects contracted by natural gas utility enterprises or their users and maintenance of conduit safety.
+
+\7. “Transmission and Storage Equipment” refers to the following transmission, distribution, and storage equipment installed by a natural gas enterprise for the supply of natural gas:
+
+(1) “Storage Equipment” refers to the equipment used for the storage of natural gas, including spherical-type tanks and tube-type tanks.
+
+(2) “Transmission and Distribution Equipment” refers to transmission pipelines, booster stations, regulator stations, and other relevant equipment installed from the source location.
+
+(3) “Blending Equipment” refers to the equipment used for blending air or other flammable gases to adjust the heating value that natural gas provides.
+
+(4) “Regasification Equipment” refers to the equipment used to regasify liquefied natural gas into the gaseous state.
+
+(5) “Unloading and Receiving Equipment” refers to the equipment used for unloading liquefied natural gas.
+
+## Chapter 2 Registration and Permission
+
+### Article 4
+
+The organization of a natural gas enterprise shall be a company limited by shares incorporated following the Company Act.
+
+A person who does not have Republic of China (Taiwan) nationality shall not be a promoter, director, or supervisor of a natural gas enterprise.
+
+### Article 5
+
+Operators of a natural gas production enterprise shall apply with the following documents to the central competent authority for registration:
+
+\1. Company registration documents;
+
+\2. Map of plant location;
+
+\3. Annual production capacity and production-processing plan;
+
+\4. Certifying documents of qualified inspection for transmission and storage equipment;
+
+\5. Layout and capacity of transmission and storage equipment;
+
+\6. Lease agreements proof for lessees of processing factory or of transmission and storage equipment.
+
+Operators of a natural gas import enterprise shall apply with the following documents to the central competent authority for registration:
+
+\1. Company registration documents;
+
+\2. Site location of receiving terminals and unloading capacity;
+
+\3. Import and supply plans;
+
+\4. Certifying documents of qualified inspection for transmission and storage equipment;
+
+\5. Layout and capacity of transmission and storage equipment;
+
+\6. Lease agreements proof for lessees of transmission and storage equipment.
+
+### Article 6
+
+In order to establish a natural gas utility enterprise, the applicant shall submit an application along with the following documents to the competent authority of the municipality or county (city) for reviewing and annotation, which shall subsequently forward the required documents to the central competent authority for permission:
+
+\1. Operation plan and progress chart;
+
+\2. Layout plans of transmission and storage equipment;
+
+\3. Transmission pipeline layout map at a scale of 1:10,000;
+
+\4. Gas supply area map at a scale of 1:10,000.
+
+The application in the preceding paragraph shall include the following details:
+
+\1. Name and address of the enterprise;
+
+\2. Name, date of birth, residential address, and national identification number of the responsible person.
+
+The operation plan in Subparagraph 1 of Paragraph 1 shall include the following details:
+
+\1. Capital amount;
+
+\2. Natural gas procuring project;
+
+\3. Gas supply area;
+
+\4. Gas supply capacity;
+
+\5. Number of households, gas supply quantity, and calculation basis for each gas supply area;
+
+\6. The commencement date of gas supply for each gas supply area;
+
+\7. Items of transmission and storage equipment and the total investment amount;
+
+\8. Business revenue and expenditure budget estimates and financial plans;
+
+\9. Maintenance plan for transmission and storage equipment;
+
+\10. Consequence analysis and risk assessment.
+
+### Article 7
+
+Upon receiving an application to establish a natural gas utility enterprise as stated in the preceding article, the competent authority of the municipality or county (city) shall promptly issue a public announcement for 30 days. The announcement shall state that other parties intending to apply for establishment in the same gas supply area shall submit their applications following the provisions of the preceding article, pay a guarantee bond within the announcement period, and submit the documents stated in the preceding article within 60 days upon the expiration of the announcement period.
+
+Upon receiving an application stated in the preceding paragraph, the competent authority of the municipality or county (city) shall conduct reviews and prepare written reports, and subsequently forward the reports with the original applications and relevant documents to the central competent authority for further review and approval.
+
+The regulations regarding the amount, payment method, and criteria for refund and possible forfeiture of the guarantee bond stated in Paragraph 1 shall be prescribed by the central competent authority.
+
+### Article 8
+
+The divisions of gas supply areas for natural gas utility enterprises is based on districts within municipalities, and townships (including towns, cities, districts) within counties (cities). However, for one of the following reasons, upon adjustment by the central competent authority, the divisions are not subject to this restriction:
+
+\1. Changes to an administration boundary;
+
+\2. Economic benefit;
+
+\3. The failure of the original enterprise operator to supply sufficient natural gas to users within the permitted gas supply area, and the original enterprise does not comply with instructions from the competent authority to expand equipment or take other corrective measures within a specified period;
+
+\4. Other special needs.
+
+Natural gas utility enterprises are not permitted to supply gas outside their designated gas supply areas without approval from the central competent authority.
+
+### Article 9
+
+After obtaining an establishment permit, the natural gas utility enterprise shall complete the following procedures:
+
+\1. Company registration: Company registration shall be completed within 4 months from the issue date of establishment permit;
+
+\2. Installation of transmission and storage equipment: Installation shall commence within 1 year from the issue date of establishment permit;
+
+\3. Application for gas supply operations: The application for gas supply operations shall be submitted within 3 years from the issue date of the establishment permit.
+
+The enterprise may apply for an extension if any of the procedures specified in the preceding paragraph cannot be completed within the specified deadlines. The extension period specified in Subparagraph 1 of the preceding paragraph shall not exceed 2 months. The extension period specified in Subparagraph 2 of said Paragraph shall not exceed 6 months. The extension period specified in Subparagraph 3 of said Paragraph shall not exceed 1 year. Each extension is limited to one occurrence. However, the period of delay attributable to the factors beyond the control of the natural gas utility enterprise shall not be included in the extension period.
+
+Applications for an extension stated in the preceding paragraph shall be accompanied by opinions from the competent authority of the municipality or county (city), which shall subsequently forward them to the central competent authority for approval.
+
+Failure to complete company registration, installation of transmission and storage equipment, or submission of the application for gas supply operations within the specified deadline as per Paragraphs 1 and 2, the central competent authority shall abolish the establishment permit.
+
+### Article 10
+
+When applying for gas supply operations, the natural gas utility enterprise shall apply along with the following documents to the competent authority of the municipality or county (city), which shall subsequently forward the required documents to the central competent authority for the issuance of a gas supply license:
+
+\1. Certificate of Company registration;
+
+\2. Identification documents of the responsible person;
+
+\3. Certifying documents of paid-in capital;
+
+\4. Certifying documents of qualified inspection for transmission and storage equipment and locations;
+
+\5. Three copies of the gas supply area map;
+
+\6. Layouts and locations of transmission and storage equipment;
+
+\7. Gas supply commencement date.
+
+For the certificate stated in Subparagraph 4 of the preceding paragraph, the following provisions shall apply:
+
+\1. For equipment and locations requiring certificates with relevant laws and regulations on labor safety and health, as well as fire services, certificates issued by the competent authorities shall be obtained.
+
+\2. For equipment and locations other than those stated in the preceding Subparagraph, certification of inspection by a private inspection organization recognized by the competent authority of the municipality or county (city) in conjunction with relevant agencies or government organizations shall be obtained.
+
+The regulations regarding the qualifications, conditions, approval procedures, abolishment of approval, and relevant information concerning private inspection organizations stated in Subparagraph 2 of the preceding paragraph shall be prescribed by the central competent authority.
+
+When issuing a gas supply license to a natural gas utility enterprise, the central competent authority shall consider whether transmission pipelines pass through primary streets in the gas supply area stated in the application.
+
+### Article 11
+
+The gas supply license issued under Paragraph 1 of the preceding article shall specify the following information:
+
+\1. Name and registered address of the company;
+
+\2. The responsible person;
+
+\3. Paid-in capital;
+
+\4. Gas supply areas.
+
+If any of the information in the license stated in the preceding paragraph changes, the natural gas utility enterprise shall, within 15 days from the date of change, submit relevant documents to the competent authority of the municipality or county (city), which shall subsequently forward the documents to the central competent authority for issuance of a revised gas supply license.
+
+### Article 12
+
+If the documents in the application submitted for an establishment permit or gas supply license are incomplete or inadequately recorded, the competent authority shall notify the applicant to make corrections within a specified period. Failure to make the required corrections or incomplete corrections by the deadline shall result in the rejection of the application.
+
+## Chapter 3 Equipment and Safety
+
+### Article 13
+
+The material, testing, installations, and other safety aspects of the transmission and storage equipment belonging to a natural gas enterprise shall comply with national standards or relevant regulations. In the absence of national standards or regulations, the national standards of other advanced countries recognized by the central competent authority may be adopted.
+
+Natural gas enterprises shall install disaster prevention-related equipment for transmission and storage equipment following the regulations stipulated by the competent authority.
+
+Natural gas utility enterprises shall install regional gas supply systems capable of immediately shutting off gas supply within their transmission and storage equipment.
+
+The installation locations of the storage equipment, blending equipment, regasification equipment, and unloading and receiving equipment of natural gas enterprises shall comply with geological safety-related regulations.
+
+The regulations regarding the scope, types, and procedures for recognizing the advanced national standards of other countries stated in Paragraph 1, and the installation method, maintenance, and other compliance requirements of disaster prevention-related equipment stated in Paragraph 2, shall be prescribed by the central competent authority.
+
+### Article 14
+
+Natural gas utility enterprises shall employ a certain number of full-time qualified natural gas pipeline installation staff, responsible for the transmission pipeline installation engineering and related safety maintenance operations.
+
+The regulations regarding the qualification, number, recruitment or replacement procedures, and other relevant matters concerning the qualified natural gas pipeline installation staff stated in the preceding paragraph shall be prescribed by the central competent authority.
+
+### Article 15
+
+Natural gas utility enterprises shall submit, in advance, their engineering plan for expanding or modifying existing primary transmission and storage equipment to the competent authority of the municipality or county (city), which shall subsequently forward the plan to the central competent authority for approval. However, this requirement does not apply in disaster, damage, or emergencies requiring temporary expansion or modification measures.
+
+In the cases related the proviso stated in the preceding paragraph, the natural gas utility enterprise shall report the measures taken within 1 month from the occurrence of the disaster, damage, or emergencies to the competent authority of the municipality or county (city), which shall subsequently forward the information to the central competent authority for reference.
+
+When necessary, the central competent authority may delegate the competence of approval or reference stated in the preceding two paragraphs to the competent authority of the municipality or county (city).
+
+### Article 16
+
+When there is a risk of disaster caused by transmission and storage equipment, natural gas enterprises shall take the necessary measures or improvements promptly.
+
+In the event of a fire or other extraordinary disasters near transmission and storage equipment, natural gas enterprises shall assign technical staff to implement protective measures with a visible sign. They may also suspend part or all of the gas supply or dismantle transmission and storage equipment that pose a hazard if necessary.
+
+### Article 17
+
+In the event of any type of disaster or emergency occurring within natural gas enterprises, or in the situation stated in the preceding article, the enterprise shall simultaneously report to the competent authorities at all levels.
+
+The regulations regarding the matter to be reported, the deadlines, methods, procedures, and other related matters for reporting stated in the preceding paragraph shall be prescribed by the central competent authority.
+
+### Article 18
+
+When a user applies for natural gas supply from a natural gas utility enterprise, the enterprise shall inspect the conduit pipe among the meters and user’s devices and ensure safety before providing gas supply.
+
+Natural gas utility enterprises shall stipulate the methods and procedures for the inspection stated in the preceding paragraph, including inspection items, inspection methods, inspection criteria, and other relevant matters. These methods and procedures shall be submitted to the competent authority of the municipality or county (city), which shall subsequently forward them to the central competent authority for reference. Any revisions to these methods and procedures shall also follow the same process.
+
+### Article 19
+
+The natural gas supplied by natural gas enterprises shall comply with national standards.
+
+natural gas utility enterprises supplying natural gas to users shall add sufficient odorants recognizable by humans. The types and concentrations of the added odorants shall be regularly submitted to the competent authority of the municipality or county (city) for reference.
+
+The reporting format, variety, concentrations, and the reporting deadline stated in the preceding paragraph shall be announced by the central competent authority.
+
+### Article 20
+
+Before operation, public natural gas conduit installation enterprises shall apply for and obtain a license from the competent authority of the municipality or county (city).
+
+Public natural gas conduit installation enterprises shall employ a certain number of full-time qualified natural gas pipeline installation staff.
+
+The regulations regarding the requirements for license application, amendment, revocation, abolishment, requirements and procedures of voluntary or ordered suspension of business, scope of operations, qualification requirements and number for staff, selection or replacement of qualified staff, and other matters to be complied by public natural gas conduit installation enterprises, shall be prescribed by the central competent authority.
+
+## Chapter 4 Land
+
+### Article 21
+
+The natural gas enterprise, requiring the purchase or lease of land from a third party for installing transmission and storage equipment excluding gas transmission equipment, may apply to the competent authority of the municipality or county (city) for coordination with relevant authority.
+
+### Article 22
+
+The natural gas enterprise shall obtain prior approval from the relevant competent authorities when necessary to install transmission and storage equipment that requires the use of roads, rivers, ditches, bridges, embankments, woodlands, green spaces, parks, or other publicly used land, facilities, public land, including airspace or underground area. If consent cannot be obtained, the enterprise may apply to the competent authority of the municipality or county (city) where the natural gas equipment is located for coordination. If necessary, the competent authority of the municipality or county (city) may seek assistance from the central competent authority.
+
+### Article 23
+
+A natural gas utility enterprise may install pipelines through other people’s land or the outer edge of buildings if necessary. Before the installation, the enterprise shall give written notice to the property owners or users. If the property owners or users raise objections, the enterprise may apply for coordination with the competent authority of the municipality or county (city). If coordination cannot be achieved, the enterprise shall seek permission from the competent authority of the municipality or county (city) before proceeding with the installation. The enterprise shall provide written notice to property owners or users 7 days before commencing with the installation.
+
+If providing written notice stated in the preceding paragraph proves difficult, it may be substituted with a public announcement.
+
+The installation of the pipelines stated in Paragraph 1 shall choose the location and method that causes the least damage and shall undertake repair or compensation.
+
+### Article 24
+
+The property owners or users of the land or buildings traversed by pipelines installed by the natural gas utility enterprise, as stated in the preceding article, may request the relocation of pipelines from the natural gas utility enterprise for justifiable reasons such as changes in land usage or expansion. Both parties shall share the associated expenses through mutual agreement. If an agreement cannot be reached, the owners or users may request mediation from the competent authority of the municipality or county (city). Legal procedures shall be followed if the issue cannot be resolved through mediation.
+
+### Article 25
+
+A natural gas utility enterprise, for the necessity of construction, inspection, or maintenance of a pipeline, may enter or use other people’s land or buildings after providing written notice to the owners or the users 7 days in advance. However, this requirement does not apply in the case of disasters, damages, or emergencies.
+
+Temporary use of the land or buildings under the preceding paragraph shall not damage the terrain or landscape or constructed fixed structures. Any losses incurred due to entry or use shall be compensated. In case of disagreements, the natural gas utility enterprise shall request approval from the competent authority of the municipality or county (city) before compensation.
+
+### Article 26
+
+Gas transmission pipelines shall be installed underground in principle. If there is a necessity to install pipelines above ground or overhead, considerations shall be given to traffic, water work, agriculture, landscape, or other relevant surface uses and safety.
+
+### Article 27
+
+The installation or maintenance of pipelines by natural gas production or import enterprises, when recognized by the central competent authority as necessary for the supply of natural gas utility enterprises, shall apply mutatis mutandis to the provisions of Article 23 to the preceding article.
+
+## Chapter 5 Management
+
+### Article 28
+
+Natural gas utility enterprises shall enter into contracts with their suppliers for the required natural gas, specifying the responsibilities of both parties, heating value, pressure, gas quantity, delivery point, pricing methods, and other obligations to be observed for both parties.
+
+The competent authorities may request natural gas utility enterprises to provide the content of contracts stated in the preceding paragraph if necessary.
+
+### Article 29
+
+Natural gas utility enterprises shall prescribe operating rules regarding their service-related matters. These regulations shall be submitted to the competent authority of the municipality or county (city) for approval and be implemented after receiving approval. When approved, the competent authority of the municipality or county (city) shall forward the regulations with relevant documents to the central competent authority for reference. Any revisions to these regulations shall also follow the same process.
+
+The matters to be recorded in the operating rules and the templates stated in the preceding paragraph shall be prescribed by the central competent authority.
+
+Upon approval by the competent authority of the municipality or county (city), natural gas utility enterprises shall announce and publish the operating rules in local newspapers 10 days before implementation and make them available at each business location for users to review. Any revisions to these regulations shall also follow the same process.
+
+If the provisions of the operating rules of a natural gas utility enterprise are deemed obviously inappropriate, detrimental to the public interest, harmful to the rights of users, or obliviously unfair due to changes in social or economic conditions, the competent authority may notify the enterprise to revise them within a certain period.
+
+### Article 30
+
+Natural gas utility enterprises shall not refuse requests for gas supply within their gas supply areas without justifiable reasons.
+
+### Article 31
+
+Natural gas production or import enterprises shall maintain a stable gas supply and store the required supply volume for their gas users.
+
+Natural gas production or import enterprises shall maintain a certain number of days of storage tank capacity.
+
+The central competent authority shall prescribe the storage tank capacity stated in the preceding paragraph.
+
+### Article 32
+
+Natural gas production or import enterprises shall submit their pricing calculation method to the central competent authority for approval.
+
+Prior to approving the pricing calculation method stated in the preceding paragraph, the central competent authority shall convene a review committee composed of scholars, experts, and relevant civil organizations, such as consumer protection groups. If necessary, a hearing may be held following the Administrative Procedure Act.
+
+When the price is adjusted based on the pricing calculation method stated in Paragraph 1, the enterprise shall publicly announce the adjustment in advance and report it in written form to the central competent authority for reference within 3 days of the occurrence. If the price adjustment resulting from the pricing items calculation is deemed obviously unreasonable, the central competent authority may order appropriate adjustments.
+
+Natural gas production or import enterprises shall retain the price calculation method, cost structure, selling prices, and other related information for supplying users for 5 years. The central competent authority may inspect or request such information when necessary. The enterprise shall not evade, obstruct, or refuse such requests.
+
+Natural gas production or import enterprises engaged in other business shall establish separate accounting systems for assets, revenues, costs, profits, and losses.
+
+### Article 33
+
+A natural gas utility enterprise may supply other industries, provided that this practice does not affect the stable gas supply to users in the residential, commercial, and service sectors.
+
+The natural gas utility enterprise, supplying other industries as per the preceding paragraph, shall submit the following documents to the competent authority of the municipality or county (city), which shall subsequently forward the documents to the central competent authority for reference:
+
+\1. Name of users;
+
+\2. Maximum peak-day load;
+
+\3. Utilized transmission and storage equipment.
+
+The natural gas utility enterprise, supplying gas in accordance with Paragraph 1, shall establish separate accounting items for the profits and losses, and shall not engage in cross-subsidization.
+
+### Article 34
+
+Natural gas utility enterprises shall assess the selling prices and basic fees of natural gas supplied to users in the residential, commercial and service sectors based on the calculation regulations. The assessments, along with the relevant documents, shall be submitted to the competent authority of the municipality or county (city), which shall subsequently forward them to the central competent authority for approval before implementation. The same procedure applies when adjusting selling prices or basic fees.
+
+The central competent authority may order a natural gas utility enterprise to reassess the selling prices and basic fees approved following the preceding paragraph and submit for approval following the procedure in the preceding paragraph.
+
+The calculation regulations for billing items, formulas, period for recalculating, and required data submission for the selling prices and basic fees, as stated in the preceding two paragraphs, shall be prescribed by the central competent authority. When necessary, the review committee, as stated in Paragraph 2 of Article 32, may be utilized to assist in the review.
+
+Before the central competent authority approves the selling prices and basic fees stated in Paragraph 1, the review committee, as stated in Paragraph 2 of Article 32, shall assist in the review.
+
+When the gas purchase cost of a natural gas utility enterprise changes, the enterprise shall adjust its selling prices of natural gas synchronously based on the amount of the change. Within 7 days from the adjustment date, the enterprise shall report the adjustment to the competent authority of the municipality or county (city) for reference. Upon recording, the competent authority of the municipality or county (city) shall simultaneously notify the central competent authority.
+
+### Article 35
+
+Natural gas utility enterprises may charge fees for installing natural gas pipeline equipment for the use of the residential, commercial, and service sector users. The charge fees shall comply with the billing regulations and shall be submitted to the competent authority of the municipality or county (city), which shall subsequently forward it to the central competent authority for approval.
+
+The competent authority of the municipality or county (city) shall make a public announcement specifying the qualified natural gas conduit installation enterprises for users to commission the installation of pipeline equipment inside buildings.
+
+Upon completion of the installation, the natural gas conduit installation enterprise stated in the preceding paragraph shall request an inspection by the natural gas utility enterprise and obtain a qualified certificate. Only then can the natural gas utility enterprise commence gas supply.
+
+The central competent authority shall prescribe the billing regulation stated in Paragraph 1.
+
+### Article 36
+
+To promote consumer safety at home, the central competent authority shall establish a promotion program upon the Act’s implementation date, directing natural gas utility enterprises to implement microcomputer gas meters equipped with earthquake-triggered shutoffs, low pressure-triggered shutoffs, and communication functions. This program shall be conducted year by year.
+
+### Article 37
+
+Natural gas utility enterprises shall maintain a normal gas supply throughout the day. Except for force majeure or emergency, if the need arises to suspend gas supply to all or part of the gas supply areas for more than 8 hours, the natural gas utility enterprise shall obtain prior approval from the competent authority of the municipality or county (city) and notify users 3 days before the suspension. If the suspension of gas supply exceeds 7 days, the enterprise shall obtain approval from the competent authority of the municipality or county (city) and the said competent authority shall subsequently notify the central competent authority for reference.
+
+If the supply of gas is suspended due to force majeure or emergency, as stated in the preceding paragraph, the natural gas utility enterprise shall report to the competent authority of the municipality or county (city) for reference within 3 days from the occurrence of the force majeure or emergency.
+
+### Article 38
+
+After a natural gas utility enterprise operates its gas supply service, if there is an expansion or replacement of primary transmission and storage equipment, the enterprise shall, upon completion, submit the required certificate stated in Subparagraph 4 of Paragraph 1 of Article 10. These documents shall be submitted to the competent authority of the municipality or county (city), which shall subsequently forward them to the central competent authority for reference.
+
+### Article 39
+
+In the event of a merger and acquisition involving a natural gas utility enterprise and another enterprise, the acquiring party shall prepare an application specifying the post-merger business name, responsible person, registered address, paid-in capital, and gas supply areas. This application, accompanied by the merger operation plan and relevant documents, shall be submitted to the competent authority of the municipality or county (city), which shall subsequently forward the documents to the central competent authority for approval. The merger process shall be carried out following relevant laws and regulations.
+
+### Article 40
+
+A natural gas utility enterprise that intends to engage in other businesses shall apply to the competent authority of the municipality or county (city), which shall subsequently forward the application to the central competent authority for approval. The other businesses shall not interfere with their gas supply operations.
+
+The natural gas utility enterprise engaging in other businesses shall establish separate accounting systems for assets, revenues, costs, profits, and losses.
+
+### Article 41
+
+The paid-in capital of a natural gas utility enterprise shall not be less than 35% of the original acquisition cost of its existing transmission and storage equipment. If the paid-in capital falls below the required amount, the enterprise shall increase it within 3 months of the occurrence.
+
+Before changing the paid-in capital, the natural gas utility enterprise shall submit a plan to the competent authority of the municipality or county (city), which shall subsequently forward the plan to the central competent authority for approval. The capital change matters shall then proceed following the relevant laws and regulations.
+
+The central competent authority and the competent authority of the municipality or county (city) may request explanations or send staff to inspect the plan stated in the preceding paragraph. The natural gas utility enterprise shall not evade, obstruct, or refuse such requests.
+
+The central competent authority shall prescribe the format and information of the plan stated in Paragraph 2.
+
+### Article 42
+
+A natural gas utility enterprise investing in other businesses shall not affect its normal gas supply operations. Before proceeding with these investments, those who intend to invest in other businesses shall submit their investment projects and the amount to the competent authority of the municipality or county (city), which shall subsequently forward them to the central competent authority for approval.
+
+### Article 43
+
+Natural gas utility enterprises shall establish accounting systems following accounting standards and regulations and create an accounting procedure manual. This manual shall be submitted to the competent authority of the municipality or county (city), which shall subsequently forward the manual to the central competent authority for reference. Any revisions to the manual shall also follow the same process.
+
+The central competent authority shall prescribe the accounting standards and regulations stated in the preceding paragraph.
+
+Natural gas utility enterprises shall, following the accounting standards and regulations stated in Paragraph 1, regularly submit financial statements to the competent authority of the municipality or county (city) and the central competent authority respectively.
+
+If necessary, the central competent authority or the competent authority of the municipality or county (city) may request explanations or send staff to inspect the financial statements stated in the preceding paragraph. The natural gas utility enterprise shall not evade, obstruct, or refuse such requests.
+
+### Article 44
+
+Natural gas enterprises shall insure public liability insurance. The insurance amount shall be prescribed by the central competent authority in conjunction with the Financial Supervisory Commission, based on the type and scale of the natural gas enterprise.
+
+## Chapter 6 Supervision
+
+### Article 45
+
+In the event of a natural gas shortage or great fluctuation in prices that might affect the steady supply of domestic natural gas or national security, the central competent authorities may carry out regulatory measures that are mandatory regarding natural gas supply and sell price.
+
+The regulations regarding the criteria, timing, procedures, applicable targets, scope, content and methods of the implementation stated in the preceding paragraph shall be prescribed by the central competent authority.
+
+### Article 46
+
+Natural gas utility enterprises shall establish a gas supply plan annually, specifying the estimated growth in the number of users, gas supply quantity, length of pipeline installation and areas, and other relevant information. The plan shall be submitted to the competent authority of the municipality or county (city), which shall subsequently forward it to the central competent authority for approval and shall be implemented conscientiously thereafter. When necessary, the competent authority may conduct inspections of the gas supply plan.
+
+The content, format, submission deadline, and other relevant matters that pertain to the gas supply plan stated in the preceding paragraph shall be announced by the central competent authority.
+
+### Article 47
+
+Natural gas enterprises shall establish a geographic information management system for their transmission and storage equipment containing relevant data. The information in the geographic information management system shall be updated in a timely manner and regularly provided to the competent authority of the municipality or county (city) or the central competent authority. If necessary, competent authorities at all levels may request natural gas enterprises to update the information within a specified period.
+
+The central competent authority shall prescribe the format, item, recipients, and deadline for the geographic information system data stated in the preceding paragraph.
+
+### Article 48
+
+Natural gas utility enterprises shall conduct regular inspections of pipelines for their users in the residential, commercial, and service sectors and record the results. In case of non-conformity, the enterprise shall notify the user to rectify the issues within a specified period. The same procedure shall apply when users request inspections.
+
+If a user refuses the inspection stated in the preceding paragraph, and the natural gas utility enterprise determines that it poses safety concerns, the enterprise may conduct forced inspections, with the consent of the competent authority of the municipality or county (city), in collaboration with relevant staff from the related agencies.
+
+Entities other than natural gas utility enterprises are prohibited from conducting the inspections stated in Paragraph 1. However, natural gas utility enterprises may commission public natural gas conduit installation enterprises to undertake such inspections.
+
+Staff conducting the inspections stated in Paragraph 1 and those commissioned in the preceding paragraph shall proactively present their identification documents when conducting such inspections and related matters.
+
+The items, cycles, operation procedures, billing items, and fee calculation methods for the regular inspections stated in Paragraph 1 shall be submitted to the competent authority of the municipality or county (city), which shall subsequently forward the information to the central competent authority for approval. The specified details shall be included in the operating rules of the natural gas utility enterprise thereafter. There shall be no fee charged for regular inspections of users in the residential sector.
+
+When conducting inspections, as stated in Paragraph 1, natural gas utility enterprises shall not promote or sell merchandise.
+
+### Article 49
+
+Natural gas enterprises shall conduct regular inspections of the self-installed gas pipelines for their users in the industrial, electrical, cogeneration systems, or transportation sectors and record the results thereof. In non-compliance, the enterprise shall notify the user to rectify the issues within a specified period.
+
+The items, cycles, fee calculation methods, and operation procedures for the regular inspections stated in the preceding paragraph shall be submitted to the competent authority of the municipality or county (city), which shall subsequently forward the information to the central competent authority for approval.
+
+### Article 50
+
+Natural gas enterprises shall conduct regular inspections of their transmission and storage equipment, record the results, and retain them for a period of 5 years for inspections by the competent authorities.
+
+The items and operation procedures for the regular inspections stated in the preceding paragraph shall be submitted to the competent authorities for reference. Any revisions to these items and procedures shall also follow the same process.
+
+The central competent authority shall inspect the transmission and storage equipment of natural gas production or import enterprises, while the competent authority of the municipality or county (city) shall inspect the transmission and storage equipment of natural gas utility enterprises at least once a year. If necessary, inspections may be conducted at any time.
+
+The competent authorities may delegate or commission subordinate or other agencies to undertake the inspections stated in the preceding paragraph.
+
+Natural gas enterprises shall not evade, obstruct, or refuse the inspections stated in Paragraphs 1 and 3.
+
+### Article 51
+
+When the gas transmission pipelines are affected by corrosion or other phenomena posing safety risks, the natural gas enterprise shall replace them promptly.
+
+The competent authorities may dispatch staff or entrust professional institutions to inspect natural gas enterprises' gas transmission pipelines. The enterprises shall not evade, obstruct, or refuse such inspections.
+
+By October 31 each year, natural gas enterprises shall prepare a maintenance, inspection, and replacement plan for the gas transmission pipelines for the following year and submit it to the competent authority of the municipality or county (city), which shall subsequently forward the plan to the central competent authority for reference.
+
+### Article 52
+
+When necessary, the central competent authority may request a natural gas enterprise to explain its operational status and may dispatch staff or entrust professionals or institutions to verify the actual operations and relevant data. The enterprise shall not evade, obstruct, or refuse such requests.
+
+### Article 53
+
+Natural gas enterprises shall report the quantity of gas supplied, user categories, and number of users monthly, as well as the operating revenue, expenditures, profits, and losses every six months to the central competent authority.
+
+The regulations regarding the report items, formats, reporting deadlines, and other matters to be complied with by a natural gas enterprise stated in the preceding paragraph shall be prescribed by the central competent authority.
+
+### Article 54
+
+Natural gas utility enterprises shall appropriate reserve funds for gas pipeline replacements, deposit them in a dedicated account at a financial institution, and submit the name of the financial institution and account details to the competent authority of the municipality or county (city) for reference. Upon recording, the competent authority of the municipality or county (city) shall simultaneously notify the central competent authority.
+
+The central competent authority shall prescribe the regulations regarding the appropriation method, ratio, and utilization of the funds stated in the preceding paragraph.
+
+### Article 55
+
+If a natural gas utility enterprise fails to maintain a normal supply of gas throughout the day as stipulated by Paragraph 1 of Article 37 due to deficiencies in operation or insufficient transmission and storage equipment, the competent authority of the municipality or county (city) shall order the enterprise to rectify the situation within a specified period. If the enterprise fails to improve by the deadline or if the improvements are deemed ineffective, the competent authority of the municipality or county (city) may request the central competent authority to replace its responsible person or abolish its gas supply license. When necessary, the central competent authority may coordinate with other natural gas utility enterprises to take over the operation in advance.
+
+## Chapter 7 Penalties
+
+### Article 55-1
+
+Those who engage in stealing, damaging, or using other unlawful means to jeopardize the normal operation of unloading and receiving equipment, storage equipment, regasification equipment, blending equipment, high-pressure transmission and distribution equipment, or monitoring and dispatching centers of natural gas import enterprises shall be sentenced to imprisonment for a term of not less than 1 year and not more than 7 years, and may also be fined up to NT$ 10,000,000.
+
+Those who commit the offenses stated in the preceding paragraph with the intent of harming national security or social stability shall be sentenced to imprisonment for a term of not less than 3 years and not more than 10 years and may also be fined up to NT$ 50,000,000.
+
+In cases where the circumstances stated in the preceding two paragraphs result in a disaster, the punishment shall be increased by one-half. If the offense results in death, the offender shall be sentenced to life imprisonment or imprisonment for a term of not less than 7 years and may be fined up to NT$ 100,000,000. If the offense results in serious injury, the offender shall be sentenced to imprisonment for a term of not less than 5 years and not more than 12 years and may also be fined up to NT$ 80,000,000.
+
+Anyone who, through negligence, damages or otherwise unlawfully impairs the proper functioning of subsea gas pipelines of Natural Gas Import Enterprises shall be sentenced to imprisonment for not more than 6 months, short-term detention, or a fine of not more than NT$2,000,000.
+
+Attempted offenses under Paragraphs 1 and 2 shall be subject to punishment.
+
+Any instruments, vessels or other machinery equipment used in committing an offense set forth in Paragraphs 1 through 3 and the preceding paragraph shall be confiscated, irrespective of whether they belong to the offender. Upon the finality of a judgment of confiscation, such items may, considering the specific circumstances of each case, be auctioned, sold, or disposed of through one of the following methods on a case-by-case basis after approval:
+
+\1. Preservation for public use without compensation.
+
+\2. Obsoletion.
+
+\3. Any other appropriate measures.
+
+### Article 55-2
+
+Those who engage in any of the following manners to jeopardize the normal operation of the core information and communication system of the transmission and storage equipment stated in Paragraph 1 of the preceding article shall be sentenced to imprisonment for a term of not less than 1 year and not more than 7 years, and may also be fined up to NT$ 10,000,000:
+
+\1. Unjustifiably hacking into a computer or related equipment by entering an unauthorized account username and password, disabling computer security measures, or exploiting computer system vulnerabilities;
+
+\2. Unjustifiably interfering with a computer or related equipment by using computer programs or other electromagnetic methods;
+
+\3. Unjustifiably obtaining, deleting, or altering the electromagnetic records of a computer or related equipment.
+
+Those who produce computer programs specifically designed to commit the offenses stated in the preceding paragraph, whether for themselves or for others to commit, shall be subject to the same punishment.
+
+Those who commit the offenses stated in the preceding two paragraphs with the intent of harming national security or social stability shall be sentenced to imprisonment for a term of not less than 3 years and not more than 10 years and may also be fined up to NT$ 50,000,000.
+
+In cases where the circumstances stated in the preceding three paragraphs result in a disaster, the punishment shall be increased by one-half. If the offense results in death, the offender shall be sentenced to life imprisonment or imprisonment for a term of not less than 7 years and may also be fined up to NT$ 100,000,000. If the offense results in serious injury, the offender shall be sentenced to imprisonment for a term of not less than 5 years and not more than 12 years and may also be fined up to NT$ 80,000,000.
+
+Attempted offenses under Paragraphs 1 to 3 shall be subject to punishment.
+
+### Article 56
+
+Those who cause natural gas to leak, resulting in public danger, shall be sentenced to imprisonment for a term of not more than 5 years, detention, and, alternatively or additionally, a fine ranging from NT$ 500,000 to 1,000,000.
+
+In cases where the circumstances stated in the preceding paragraph result in death, the offender shall be sentenced to life imprisonment or imprisonment for a term of not less than 7 years and may also be fined up to NT$ 10,000,000. If the offense results in serious injury, the offender shall be sentenced to imprisonment for a term of not less than 3 years and not more than 10 years and may also be fined up to NT$ 5,000,000.
+
+Those who commit the offense stated in Paragraph 1 due to negligence shall be sentenced to imprisonment for a term of not more than 2 years, detention, and, alternatively or additionally, a fine ranging from NT$ 200,000 to 400,000.
+
+If a responsible person, agent, employee, or other staff of a legal person commits any of the crimes stated in the preceding three paragraphs while performing their duties, in addition to punishing the individual, the legal person shall also be fined the corresponding amount.
+
+### Article 57
+
+Those who operate the business of a natural gas utility enterprise without obtaining a gas supply license following Paragraph 1 of Article 10 shall be fined ranging from NT$ 3,000,000 to 15,000,000 and be ordered to cease the supply of gas.
+
+### Article 58
+
+Natural gas utility enterprises violating Paragraph 2 of Article 8, supplying gas outside the designated gas supply area without approval, shall be fined NT$ 600,000 to 3,000,000 and be ordered to rectify the situation within a specified period. Failure to rectify the situation within the specified period may result in repeated fines until rectification is achieved. In serious circumstances, the competent authorities may also enforce the removal of transmission and storage equipment located outside the designated gas supply area.
+
+### Article 58-1
+
+Natural gas utility enterprises in violation of Article 30, refusing requests to supply natural gas within their gas supply areas without justifiable reasons, shall be fined ranging from NT$ 600,000 to 3,000,000 and be ordered to rectify the situation within a specified period. Failure to rectify the situation within the specified period may result in repeated fines until rectification is achieved. In serious circumstances, the central competent authority may also abolish its establishment permit and gas supply license.
+
+### Article 59
+
+Natural gas enterprises found in any of the following situations shall be fined from NT$ 500,000 to 2,500,000 and be ordered to rectify the situation within a specified period. Failure to rectify the situation within the specified period may result in repeated fines until rectification is achieved. In cases of serious circumstances, the central competent authority may also abolish the establishment permit and gas supply license of the natural gas utility enterprise:
+
+\1. Violating Paragraph 1 of Article 19 by supplying natural gas that does not comply with national standards;
+
+\2. Failing to comply with Paragraph 2 of Article 28 by not providing the content of contracts;
+
+\3. Failing to comply with Article 31 by not maintaining a stable gas supply;
+
+\4. Failing to comply with Paragraph 1 of Article 32 by not submitting the pricing calculation method to the competent authority for approval or violating Paragraph 3 by not making adjustments as ordered by the central competent authority;
+
+\5. Failing to comply with Paragraph 2 of Article 33 by not submitting for reference;
+
+\6. Failing to comply with Paragraph 1 of Article 34 by arbitrarily adjusting the selling price or basic fee;
+
+\7. Failing to comply with Paragraph 2 of Article 34 by not submitting for approval;
+
+\8. Failing to comply with Paragraph 1 of Article 41 by not increasing the paid-in capital amount within the specified period;
+
+\9. Failing to comply with Article 44 by not procuring public liability insurance or by not complying with the specified insurance amount;
+
+\10. Violating the controls imposed following Paragraph 1 of Article 45.
+
+### Article 60
+
+Natural gas enterprises found in any of the following situations shall be fined from NT$ 300,000 to 1,500,000 and be ordered to rectify the situation within a specified period. Failure to rectify the situation within the specified period may result in repeated fines until rectification is achieved. In cases of serious circumstances, the central competent authority may also abolish the establishment permit and gas supply license of the natural gas utility enterprise:
+
+\1. Violating Paragraph 2 of Article 13 by not installing disaster prevention-related equipment;
+
+\2. Violating Paragraph 3 of Article 13 by not installing regional gas supply systems capable of immediately shutting off gas supply;
+
+\3. Violating Paragraph 1 of Article 16 by not taking the necessary measures or improvement promptly;
+
+\4. Failing to comply with Paragraph 1 of Article 18 by not inspecting the pipelines and ensuring safety before providing supply gas;
+
+\5. Failing to comply with Paragraph 2 of Article 19 by not submitting the type or concentration of added odorant to the competent authority or having the concentrations of added odorant lower than those submitted for the record;
+
+\6. Violating Paragraph 4 of Article 32 by not retaining or providing the required information or evading, obstructing, or refusing inspections by the competent authority;
+
+\7. Violating Paragraph 1 of Article 35 by not charging pipeline equipment fees following the billing criteria;
+
+\8. Violating Paragraph 2 of Article 51 by evading, obstructing, or refusing inspections by the competent authority.
+
+### Article 61
+
+Natural gas enterprises found in any of the following situations shall be fined from NT$ 200,000 to 1,000,000 and be ordered to rectify the situation within a specified period. Failure to rectify the situation within the specified period may result in repeated fines until rectification is achieved. In cases of serious circumstances, the central competent authority may also abolish the establishment permit and gas supply license of the natural gas utility enterprise:
+
+\1. Violating Paragraph 1 of Article 14 by not employing a certain number of full-time natural gas pipeline installation staff;
+
+\2. Violating Paragraph 1 of Article 17 by not reporting to the competent authority or not reporting within deadlines, manners, or procedures as prescribed in Paragraph 2 of Article 17;
+
+\3. Violating Paragraph 3 of Article 41, Paragraph 4 of Article 43, Paragraph 5 of Article 50, or Article 52 by evading, obstructing, or refusing to provide explanations or undergo inspections;
+
+\4. Failing to comply with Paragraph 1 of Article 46 by not establishing a gas supply plan, not submitting the gas supply plan to the competent authority for approval within the prescribed period, or not implementing the plan diligently as required by the competent authority;
+
+\5. Violating Paragraph 1 of Article 50 by not conducting regular inspections or not recording or retaining inspection results;
+
+\6. Violating Paragraph 1 of Article 51 by not promptly replacing gas transmission pipelines;
+
+\7. Violating Paragraph 1 of Article 54 by not opening a dedicated account or not setting aside sufficient reserve funds for gas pipeline replacements.
+
+### Article 62
+
+Natural gas enterprises found in any of the following situations shall be fined from NT$ 100,000 to 500,000 and be ordered to rectify the situation within a specified period. Failure to rectify the situation within the specified period may result in repeated fines until rectification is achieved:
+
+\1. Failing to comply with Article 5 by operating without registration;
+
+\2. Failing to comply with Paragraph 2 of Article 11 by not applying for the reissuance of the gas supply license;
+
+\3. Failing to comply with Paragraph 1 of Article 15, Paragraph 1 of Article 35, Paragraph 1 of Article 40, Paragraph 2 of Article 41, Article 42, Paragraph 5 of Article 48, or Paragraph 2 of Article 49 by not submitting for approval;
+
+\4. Failing to comply with Paragraph 2 of Article 15, Paragraph 5 of Article 34, Article 38, Paragraph 1 of Article 43, Paragraph 2 of Article 50, Paragraph 3 of Article 51, or Paragraph 1 of Article 54 by not submitting for reference;
+
+\5. Failing to comply with Paragraph 1 of Article 29 by not submitting for approval of the operating rules or failing to make necessary revisions within the prescribed period after being notified by the competent authority in accordance with Paragraph 4 of Article 29;
+
+\6. Failing to comply with Paragraph 3 of Article 32 by not announcing to the public or reporting in writing to the central competent authority within the prescribed period;
+
+\7. Failing to comply with Article 37 by not obtaining approval, reporting for reference, or notifying users;
+
+\8. Failing to comply with Paragraph 4 of Article 13 or Paragraph 1 of Article 47 by not establishing a Geographic Information System or not updating data within the prescribed period;
+
+\9. Violating Paragraph 1 of Article 48 or Paragraph 1 of Article 49 by not conducting regular inspections or not recording the inspection results;
+
+\10. Failing to comply with Paragraph 1 of Article 53 by not reporting to the competent authority.
+
+### Article 63
+
+Those who operate the business of a public natural gas conduit installation enterprise without obtaining the license with Paragraph 1 of Article 20 shall be fined NT$ 300,000 to 1,500,000. Those ordered by the competent authorities to cease operations but fail to do so shall be subject to the same penalties.
+
+Those who fail to employ a certain number of full-time natural gas pipeline installation staff following Paragraph 2 of Article 20 shall be fined ranging from NT$ 30,000 to 150,000 and be ordered to rectify the situation within a specified period. Failure to rectify the situation within the specified period may result in repeated fines until rectification is achieved.
+
+### Article 64
+
+In accordance with Articles 55 and 59 to 61, if the gas supply license of a natural gas utility enterprise is abolished, the licensee shall be returned for cancellation. Failure to return the license for cancellation will result in direct cancellation by the central competent authority.
+
+## Chapter 8 Supplementary Provisions
+
+### Article 65
+
+If the gas supply license of a natural gas utility enterprise is abolished following Article 55 and Articles 59 to 61, the central competent authority may coordinate with other natural gas utility enterprises to take over the operation. The coordinated enterprise may utilize the existing transmission and storage equipment to continue the gas supply and provide compensation accordingly.
+
+### Article 66
+
+When a natural gas utility enterprise expands its gas supply area, it shall apply mutatis mutandis to the provisions specified in Articles 6 to 12.
+
+### Article 67
+
+Any natural gas enterprise established and operated following relevant regulations before the effective date of this Act, which does not conform to the provisions of this Act, shall rectify its operations following this Act within 1 year from the effective date of this Act.
+
+### Article 68
+
+Those who obtained a gas business license following other regulations before the effective date of this Act and operate the natural gas utility enterprise as defined in this Act shall apply for the issuance of a provisional gas supply license within 1 year after the effective date of this Act. Failure to apply within the prescribed period or failure to comply with the provisions of this Act after application shall result in the announcement of the cancellation of the original coal gas business license by the central competent authority. Those who continue to supply gas after the cancellation of their license shall be punished following Article 57.
+
+Natural gas utility enterprises that obtain provisional gas supply licenses per the preceding paragraph shall apply for a gas supply permit from the central competent authority within 2 years from the expiration of the one-year deadline specified in Paragraph 1. Failure to obtain the permit by the deadline shall invalidate the provisional gas supply license upon expiration. In such a case, the central competent authority may coordinate with other natural gas utility enterprises to take over the operation. The coordinated enterprise may utilize the existing transmission and storage equipment to continue the supply of gas and provide compensation accordingly.
+
+The regulations regarding reapplying for a gas supply permit stated in the preceding paragraph shall be prescribed by the central competent authority.
+
+### Article 69
+
+Safety technicians employed by natural gas utility enterprises or full-time technicians employed by public natural gas conduit installation enterprises before the effective date of this Act may pass a special technician skills certification test held by the central authority for skills certification to obtain qualifications as natural gas pipeline installation professionals.
+
+Employed safety technicians or full-time technicians stated in the preceding paragraph who do not meet the qualifications specified in Paragraph 2 of Article 14 or Paragraph 3 of Article 20 may continue to be employed by the original enterprise for gas pipeline installation and related safety maintenance work for up to 5 years after the effective date of this Act.
+
+The regulations regarding the special technician skills certification test stated in Paragraph 1 shall be prescribed by the central competent authority in conjunction with the central authority for skills certification.
+
+### Article 70
+
+Enterprises supplying propane-air mixture fuel gas for natural gas appliances in designated gas supply areas, where transmission and storage equipment of natural gas production or import enterprises have not been established, shall apply mutatis mutandis to the following provisions: Article 4 regarding the organizational structure of the enterprise; Articles 6 to 12 regarding the permits for the enterprise; Articles 13 to 19 regarding equipment safety for the enterprise; Articles 21 to 27 regarding land use for the enterprise; Articles 28 to 30, Articles 33 to 35, and Articles 37 to 44 regarding the operation and management of the enterprise; Articles 45 to 55 regarding supervision of the enterprise; Articles 65 to 69; Violators of these regulations shall be punished following Article 56 to Article 64.
+
+### Article 71
+
+The provisions of the Privately Owned Public Utilities Supervisory Act and the provisions of the Energy Administration Act for coal gas and natural gas enterprises shall no longer apply from the effective date of this Act.
+
+### Article 72
+
+This Act shall come into effect from the date of promulgation.
+
+## History
+
+\1. Enacted and Promulgated on February 1, 2011 per Order ref. Hwa-Tzong-1-Yi-Tze-No. 10000018911
+
+\2. Article 3、34、44、52、58～63 is Amended and Promulgated on May 25, 2016 per Order ref. Hwa-Tzong-1- Yi-Tze-No. 10500046011
+
+\3. Article 58-1 is added and promulgated by Presidential Order Hua-Tsung on May 27, 2020 per Order ref. Hwa-Tzong-1- Ching-Tze-No. 10900056511
+
+\4. Article 55-1、55-2 are added and promulgated by Presidential Order Hua-Tsung on June 28, 2023 per Order ref. Hwa-Tzong-1- Ching-Tze-No. 11200053981
+
+\5. Article 55-1 is Amended and Promulgated by Presidential Order Hua-Tsung on January 5, 2026 per Order ref. Hwa-Tzong-1- Ching-Tze-No. 11400135091

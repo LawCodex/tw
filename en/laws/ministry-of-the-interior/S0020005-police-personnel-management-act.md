@@ -1,0 +1,509 @@
+---
+title: "Police Personnel Management Act"
+title_zh: "警察人員人事條例"
+identifier: "S0020005"
+type: act
+law_level: "法律"
+category: "行政＞內政部＞警政目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1976-01-17
+last_amended: 2025-04-25
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=S0020005"
+retrieved: 2026-10-12
+---
+
+# Police Personnel Management Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-the-interior/S0020005-police-personnel-management-act.md](../../../zh/laws/ministry-of-the-interior/S0020005-police-personnel-management-act.md)) is authoritative.
+
+## Chapter I General Provisions
+
+### Article 1
+
+This Act is enacted pursuant to Article 32 of the Civil Service Employment Act and Article 3 of the Police Act.
+
+### Article 2
+
+Police personnel management shall be governed by this Act. For matters not specifically provided for in this Act, other relevant laws shall apply.
+
+### Article 3
+
+The term “police personnel” herein refers to officers appointed and ranked in accordance with this Act to carry out police duties.
+
+### Article 4
+
+Police personnel are organized with distinct ranks. The ranks are protected, while positions may be transferred. Police personnel shall not be stripped of their ranks or relieved of their positions unless otherwise permitted by law.
+
+### Article 5
+
+Police ranks are classified as Police General, Police Superintendent, and Police Sergeant. Police Generals are further classified into special, first, second, third, and fourth classes, with the special class as the highest. Both Police Superintendent and Police Sergeant ranks are classified into first, second, third and fourth classes, with the first class as the highest.
+
+### Article 6
+
+Prior to appointment, prospective officers shall be vetted regarding their personal integrity, loyalty, behavior, and physical and mental health by the institutions or academies that they will be serving. If necessary, assistance from relevant authorities may be requested for the vetting process.
+
+Regulations governing whom and what should be vetted and how the vetting should be conducted shall be formulated by the Ministry of the Interior.
+
+Prior to appointing a police officer, the appointing authority shall conduct a background check on the prospective officer’s personal character, loyalty, conduct, experience and physical and mental health; If necessary, relevant authorities may be consulted for assistance.
+
+The objects of the background check mentioned in the preceding paragraph, the subject matter, methods, and other related matters shall be determined by the Ministry of the Interior.
+
+Before the personnel assume office, attention shall also be paid to their intelligence, physical fitness, knowledge, experience, leadership abilities, and their ability to adapt to the local environment, language, customs, habits, and public sentiment of their duty station.
+
+### Article 7
+
+Police officers shall take an oath upon assuming office, the text of which shall be as follows: "I solemnly swear to abide by the laws of the country, fulfill my duties faithfully, serve the nation, execute my tasks and exercise my authority in accordance with the law, be diligent, humble, and serve the people. If I violate this oath, I shall be willing to submit myself to the severest punishment. I solemnly swear."
+
+### Article 8
+
+The titles of police personnel shall be determined in accordance with the organization acts of police institutions at various levels.
+
+### Article 9
+
+Police personnel shall be managed by the Ministry of the Interior or the respective governments of special municipalities.
+
+## Chapter 2 Appointment
+
+### Article 10
+
+The age of initial appointment of police officers shall not exceed the following limits:
+
+\1. Police Sergeant: 40 years old.
+
+\2. Police Superintendent: 45 years old.
+
+\3. Police General: 50 years old.
+
+The age limits do not apply to those who are appointed to a higher rank through promotion.
+
+### Article 10-1
+
+Persons subject to the provisions of Article 6 shall not be appointed in any of the following circumstances:
+
+\1. Those who have violated any of the provisions set forth in Paragraph 1, Article 28 of the Civil Service Employment Act.
+
+\2. Those who have been dismissed from the civil service in accordance with the Civil Service Performance Evaluation Act, removed from office in accordance with the Public Officials’ Discipline Act, or dismissed from office for other violations of the law.
+
+\3. Those listed as individuals for which there are public safety concerns in accordance with any subparagraph of Paragraph 1, Article 15 of the Police Powers Exercise Act.
+
+\4. Those who have been convicted of crimes specified in Article 268 of the Criminal Code, Article 267 of the Criminal Code as amended before July 1, 2006, or Article 350 of the Criminal Code, with conviction affirmed.
+
+\5. Those who have been put in pre-trial detention or wanted under criminal procedural law.
+
+\6. Those expelled or who have had their enrollment revoked from the Central Police University, Central Police College, Taiwan Police College or military academies.
+
+\7. Those found ineligible to serve as a public servant under other relevant laws.
+
+If any of the circumstances listed in the preceding paragraph are discovered after the appointment of a police officer, the appointment shall be revoked.
+
+The handling of the duties, salaries, and the results of the background check of personnel whose appointments are revoked pursuant to Paragraph 1, Article 6 shall be conducted in accordance with the provisions of the Public Service Employment Act.
+
+### Article 11
+
+The qualifications for the appointment of police officers are as follows:
+
+\1. Those who have passed the police personnel examination.
+
+\2. Those who have previously served as police officers and have been promoted or appointed in accordance with the law.
+
+\3. Those who had served as a police officer before this Act came into force and have been qualified through examination and assessment in accordance with the law.
+
+In addition to the qualifications listed in the preceding paragraph, persons to be appointed to the position of the Police Superintendent Third Class or higher shall have graduated from or completed training at the Central Police University or Central Police College; persons to be appointed to the position of Police Superintendent Fourth Class or below shall have graduated from or completed training at the Central Police University, Central Police College, Taiwan Police College or Taiwan Police Academy.
+
+### Article 12
+
+Police personnel who have passed the police personnel examination are eligible for the following appointments:
+
+\1. Those who have passed the Senior Civil Service Examination Level One or the Special Examination Level One for Police Officers are eligible for appointment as Police Superintendent First Class.
+
+\2. Those who have passed the Senior Civil Service Examination Level Twoor Special Examination Level Two for Police Officers are eligible for appointment as Police Superintendent Third Class.
+
+\3. Those who have passed the Senior Civil Service Examination Level Three or Special Examination Level Three for Police Officers are eligible for appointment as Police Superintendent Fourth Class.
+
+\4. Those who have passed the Junior Civil Service Examination or Special Examination Level Four for Police Officers are eligible for appointment as Police Sergeants Third Class.
+
+\5. Those who have passed the Elementary Civil Service Examination or Special Examination Level Five for Police Officers are eligible for appointment as Police Sergeant Fourth Class.
+
+Personnel who pass the examinations listed in the preceding paragraph but do not have suitable positions available for appointment may initially be appointed to a lower-ranking position.
+
+### Article 13
+
+The promotion of police personnel shall be subject to the provisions governing the promotion of civil servants based on performance evaluations.
+
+### Article 14
+
+Promotion of police personnel to a higher rank requires passing the relevant promotion examination.
+
+Police personnel who meet one of the following qualifications and whose eligibility to serve in the current position as Police Superintendent First Class has been reviewed by the Ministry of Civil Service and who have achieved a First-tier performance rating for two out of the last three years, with at least one year rated as second-tier or higher, who has been entitled to receive the highest salary level for Police Superintendent First Class, and who has also completed training for promotion to be a Police General, shall be eligible for promotion to Police General Fourth Class without being subject to the limitations of the preceding paragraph.
+
+\1. Those who have passed the Senior Civil Service Examination or the equivalent Special Examination for police personnel and who have served in the position of Police Superintendent First Class for three years after their qualifications to serve in the current rank have been reviewed by the Ministry of Civil Service.
+
+\2. Those who have graduated from the Central Police University or Central Police College with a bachelors’ degree or higher and have served in the position of the Police Superintendent First Class for more than six years after their qualifications to serve in the current rank has been reviewed by the Ministry of Civil Service.
+
+Under special circumstances, police personnel meeting the conditions specified in the preceding paragraph may be temporarily assigned to the position of Police General and must complete training within one year to qualify for promotion. The exception, however, is only valid for five years after the amended articles of this Act came into force on June 15, 2007. Police personnel required to undergo training as specified in the preceding paragraph who fail to complete the training or fail to pass it shall have their eligibility for the position of Police General revoked, and they shall be returned to their previous position as Police Superintendent.
+
+Police personnel who meet any of the following qualifications – and whose eligibility to serve in the current position of Police Sergeant First Class have been reviewed by the Ministry of Civil Service, and who have achieved a First-tier performance rating for two out of the last three years, with at least one year rated as second-tier or higher, who has been entitled to receive the highest salary level for Police Sergeant First Class, and who has also completed training for promotion to the rank of Police Superintendent , shall be eligible for promotion to Police Superintendent Four Class without being subject to the limitations of the first paragraph.
+
+\1. Those who have passed the Junior Civil Service Examination Level Four, the Special Examination Level Four for Police Officers or equivalent examination at Elementary Rank Grade 3 and have served in the position of Police Sergeant First Class for three years after their qualifications to serve in the current rank have been reviewed by the Ministry of Civil Service.
+
+\2. Those who have graduated from the Taiwan Police Academy or Taiwan Police College’s police programs and have served in the position of Police Sergeant First Class for over ten years after their qualifications to serve in the current rank have been reviewed by the Ministry of Civil Service, or who have graduated from the Taiwan Police Academy or Taiwan Police College’s Advanced Police Program or the two-year program of the Central Police University or Central Police College and have served in the position of Police Sergeant First Class for over eight years after their qualifications to serve in the current rank have been reviewed by the Ministry of Civil Service, or who have graduated from the four-year program of Central Police University or Central Police College with a bachelor degree or higher and have served in the position of Police Sergeant First Class for over six years after their qualifications to serve in the current rank have been reviewed by the Ministry of Civil Service.
+
+Police personnel specified in the preceding paragraph shall be subject to the restrictions specified in Paragraph 2 of Article 11 and may only hold positions up to Police Superintendent Third Class. However, those with a master’s degree or higher and who have achieved an outstanding performance rating for four out of the last five years, with at least one year rated as second-tier or higher, may hold positions up to Police Superintendent Second Class.
+
+Regulations governing the training period, training methods, eligibility for training, quota allocation and selection, performance evaluation, extension of training, termination of training, exemption from training, revocation of training eligibility, retention of training eligibility, training expenses and other relevant matters specified in Paragraphs 2 and 5 shall be determined by the Examination Yuan.
+
+### Article 14-1
+
+The seniority and performance evaluations of police personnel as defined in the organizational regulations of police institutions and academies, as well as administrative and technical personnel who are qualified to be appointed as police personnel, are interchangeable if their ranks are equivalent. The abovementioned police personnel and general administrative staff and technical personnel can be appointed interchangeably in accordance with Paragraphs 2 and 5 of the preceding Article 13, Paragraph 1 of Article 11 of the Civil Service Performance, and Paragraphs 2 and 5 of Article 17 of the Civil Service Employment Act.
+
+### Article 15
+
+Incumbent police officers whose rank had been qualified through examination and assessment in accordance with the law before this Act came into force shall be reappointed according to the following principles:
+
+\1. Those with senior rank shall be appointed as Police Generals.
+
+\2. Those appointed by recommendation shall be reappointed as Police Superintendents.
+
+\3. Those appointed by the commission shall be reappointed as Police Sergeants.
+
+### Article 16
+
+The appointment of police officers to all ranks and classes within each rank shall be subject to the following procedures:
+
+\1. For the ranks of Police General and Police Superintendent, the Ministry of the Interior shall forward nominations to the Ministry of Civil Service for review, and then appointment by the President.2. For the rank of Police Sergeant, the Ministry of the Interior shall forward nominations to the Ministry of Civil Service for review or by the government of a special municipality to the Ministry of Civil Service for review and then approval by the Ministry of the Interior.
+
+## Chapter 3 Assignments
+
+### Article 17
+
+Newly appointed police personnel without relevant experience to hold the position or who have had experience in a position one class lower for less than six months shall be subject to a six-month probationary period. Police personnel who pass the probationary period shall receive a formal appointment, while those who fail shall be dismissed.
+
+Officers under probation shall be deemed to have failed if any of the following circumstances apply: (1) Paragraph 2 of the Civil Service Employment Act’s Article 20, or (2) Any of the conditions punishable by one major reprimand in accordance with the Reward and Punishment Standard for Police Personnel, enacted pursuant to Article 28 of this Act.
+
+Graduates from the Central Police University, Central Police College, Taiwan Police College or Taiwan Police Academy, after completing internships and passing examinations before being assigned to their posts, shall be exempt from the probationary period.
+
+### Article 18
+
+Positions to which police officers are assigned shall be subject to the regulations of the organization act of each police institutions or academies and shall match the officer’s rank and class. If no officers with the required rank and class are available to be assigned to a specific position, a senior officer with good job performance may be assigned to the position despite being ranked one class lower. An officer ranked one class higher may be assigned to a lower position under special circumstances.
+
+Qualifications for various positions and the corresponding duties shall be delineated in the table of positions and corresponding ranks and classes; if necessary, one position may be open to two or three classes.
+
+The above-mentioned table of positions and corresponding ranks and classes shall be formulated by the Ministry of Civil Service in coordination with relevant agencies under the Executive Yuan after considering the degree of responsibilities and the nature of duties for each position, pending approval by the Examination Yuan.
+
+If the positions and corresponding ranks and classes prescribed in the organization acts of the organizations subject to this Act contradict the table of positions and corresponding ranks and classes in this Act before its amendment came into force on May 21, 1997, the provisions in the table of positions and corresponding ranks and classes shall apply temporarily. Nevertheless, if the organization acts of police institutions or academies are amended or formulated after May 21, 1997, the provisions in the organization acts shall apply.
+
+### Article 19
+
+Supervisors of all levels and personnel holding specialized positions in a police organization may be cultivated through promotion education or professional training.
+
+### Article 20
+
+Promotions and transfers of police personnel shall be based on the principle of compatibility between individuals and positions, considering the characteristics of institutions, academies, and job requirements. Emphasis shall be placed on performance, balancinginternal promotions and external recruitment, and coordinated with education, training, and assessments. Selections shall be made openly, fairly, and impartially, prioritizing the best candidates for promotion or transfer to gain work experience, in order to promote and cultivate talent.
+
+Police personnel with outstanding achievements should be promoted. A meeting shall be convened by the National Police Agency of the Ministry of the Interior for public review of the promotion.
+
+If police personnel who are being considered for promotion in accordance with the preceding paragraph are not yet sufficiently qualified for promotion, their promotion shall be deferred until they have acquired the qualifications. If their appointment qualifications do not meet those specified for the lowest rank of the target position in the table of positions and corresponding ranks and classes, they shall be promoted to one class higher and be exempt from the provisions of Article 13. The promotion of police personnel is not subject to the Regulations of the Civil Service Promotion Act. Its scope and manner of implementation, restrictions and other relevant matters shall be formulated by the Ministry of the Interior.
+
+### Article 21
+
+The authority to appoint officers of various ranks is divided as follows:
+
+\1. Positions of Police General shall be appointed by the Ministry of the Interior or be proposed to the Executive Yuan for appointment.
+
+\2. Positions of Police Superintendent and Police Sergeant shall be appointed by the Ministry of the Interior or by the governments of special municipalities.
+
+## Chapter 4 Remuneration
+
+### Article 22
+
+The remuneration of police personnel can be divided into basic salary (seniority pay) and additional pay; both of which are calculated on a monthly basis.
+
+The salary level and the amount of basic salary and seniority pay are presented in Attachment 1.
+
+Transfers between police personnel and general administrative or technical staff are subject to the provisions of this Act. The provisions of the Civil Service Employment Act and Civil Service Pay Act are also applicable. The conversion of ranks, classes and salary levels between the two systems shall be done in accordance with the regulations in Attachment 2.
+
+### Article 23
+
+The basic salary for newly appointed police personnel of the recommended rank or delegated rank is as follows:
+
+\1. Those who have passed the Senior Civil Service Examination Level One or Special Examination Level One for Police Officers are eligible for appointment as Police Superintendent First Class. They shall be paid at level 3 of class 1 if they are appointed as Police Superintendent First Class. They shall be paid at level 1 of class 2 if they are appointed as Police Superintendent Second Class.
+
+\2. Those who have passed the Senior Civil Service Examination Level Two or Special Examination Level Two for Police Officers are eligible for appointment as Police Superintendent Third Class. They shall be paid at level 3 of class 3 if they are appointed as Police Superintendent Third Class. They shall be paid at level 1 of class 4 if they are appointed as Police Superintendent Fourth Class.
+
+\3. Those who have passed the Senior Civil Service Examination Level Three or Special Examination Level Four for Police Officers are eligible for appointment as Police Superintendent Fourth Class. They shall be paid at level 3 of class 4 if they are appointed as Police Superintendent Fourth Class. They shall be paid at level 1 of class 1 if they are appointed as Police Sergeant First Class.
+
+\4. Those who have passed the Junior Civil Service Examination or Special Examination Fourth Level for Police Officers are eligible for appointment as Police Sergeant Third Class. They shall be paid at level 3 of class 3.
+
+\5. Those who has passed the Elementary Civil Service Examination or Special Examination Fifth Level for Police Officers shall be paid at level 6 for Police Sergeants Fourth Class.
+
+### Article 24
+
+The pay for reassigned active personnel pursuant to Article 15 shall be according to their redesigned level and rank; personnel whose original pay was higher than their new levels and ranks should be paid their original stipends.
+
+### Article 25
+
+Promotions in basic salary and seniority pay shall be made in accordance with Article 32 of this Act.
+
+### Article 26
+
+Police personnel who have been promoted to a higher class shall be paid at the lowest salary level of that class; personnel who have originally been paid at a salary level higher than the lowest salary level of the class they are promoted to shall be paid at the equivalent salary level of the higher class.
+
+Police personnel who have been promoted to a higher rank shall be paid at the lowest salary level of that rank; personnel who have originally been paid at a salary level higher than the lowest salary level of the rank they are promoted to shall be paid at the equivalent salary level of the higher rank.
+
+Police personnel transferred to lower-class positions at the same rank shall still be appointed to the same class and be paid at the same salary level.
+
+### Article 27
+
+Additional pay for police personnel is divided into five types, namely duty additional pay, technical additional pay, professional additional pay, supervisory differential pay and regional additional pay. The amounts for each type of additional pay shall be determined by the Executive Yuan.
+
+## Chapter 5 Conduct Assessment and Performance Evaluation
+
+### Article 28
+
+The types of rewards and punishments for police personnel’s regular conduct assessment shall be governed by the regulations of the Civil Service Performance Evaluation Act.
+
+Police personnel with two excellent merits after offsetting their reprimands shall not receive a performance evaluation grade below Grade A; those with one excellent merit after offsetting their reprimands shall not receive a performance evaluation grade below Grade B; those with one major reprimand after offsetting their merits shall not receive a performance evaluation grade above Grade C.
+
+In addition to compliance with the provisions of this Act, the Ministry of the Interior shall formulate the reasons and ranges for rewards and punishments, supervision responsibilities, and other relevant matters.
+
+### Article 29
+
+Police personnel shall be immediately suspended from their post under any of the following conditions:
+
+1.They are being prosecuted on charges of offenses against internal security or treason pending a verdict by the court of first instance.
+
+\2. They are being prosecuted on charges of corruption, dereliction of duty or robbery pending a verdict by the court of first instance, excluding charges of dereliction of duty carrying a maximum sentence of three years.
+
+\3. They are being prosecuted on charges of taking advantage of their posts to commit fraud, embezzlement, or intimidation, pending a verdict by the court of first instance, excluding offenses carrying a maximum sentence of three years.
+
+\4. They have been found guilty by a court of law for having committed crimes specified in the preceding three subparagraphs and the verdicts are subject to appeal or the verdicts have been withdrawn and the case sent back to a court of lower instance for trial or retrial after they had previously been found guilty by all courts of lower instance.
+
+\5. They have been sentenced to imprisonment by a court of law for having committed crimes other than those specified in Paragraphs 1 to 3 without being granted probation or substitution of imprisonment by a fine, or the verdicts have been withdrawn and the case sent back to a court of lower instance for trial or retrial, while the sentence by the court of previous instance is imprisonment subject to appeal, without probation or the substitution of imprisonment by a fine.
+
+\6. They are wanted for arrest or have been put in pre-trial detention. However, those who are wanted for offenses against internal security or for treason, corruption or robbery shall be processed in accordance with regulations of Paragraphs 2 or 3 of Article 31.
+
+Police personnel whose violations of the law have been considered severe and supported by substantial evidence may be suspended from their post.
+
+Approval for suspension from duty for police personnel under Paragraph 1 is the responsibility of their appointing agencies or the institutions or academies authorized by it, whereas those specified in the preceding paragraph should be approved by the competent authorities.
+
+### Article 30
+
+Police personnel who have been suspended from their post should be reinstated in the event of a decision of non-prosecution, deferred prosecution or a not-guilty verdict; their administrative liabilities do not constitute statutory reasons for dismissal.
+
+Police personnel who have been suspended from their post may be entitled to reinstatement if any of the following conditions apply:
+
+\1. A not-guilty verdict was handed down by a court and is subject to appeal.
+
+\2. The police personnel’s sentence to imprisonment has been substituted by probation or a fine for having committed crimes other than those specified in Subparagraphs 1 to 3 of the preceding Article’s Paragraph 1.
+
+\3. The police officer who has been removed from a wanted list or released does not have any of the conditions specified in Subparagraph 1 to 5 of Paragraph 1 and 2 of the preceding Article.
+
+Police personnel who have been reinstated in accordance with Subparagraphs 1 and 2 of the preceding paragraphs shall not be subject to Subparagraphs 4 and 5 of the preceding Article’s paragraph 1 before their verdicts are finalized.
+
+The reinstatement of police personnel in accordance with Paragraphs 1 and 2 of the Article shall be reviewed by the authorities that approved their appointment or the institutions or academies authorized by it.
+
+### Article 30-1
+
+Police personnel who are entitled to reinstatement in accordance with Paragraph 2 of the preceding Article shall apply for reinstatement in writing through the institution they serve to the institutions or academies that originally approved their suspension from duty.
+
+The institutions or academies that originally approved suspension from duty of the police personnel shall make a decision within two months starting from the date the application for reinstatement was received in accordance with the preceding Paragraph. If necessary, the two-month period may be extended and the applicant shall be notified of the extension. Only one extension is allowed, and the duration of extension shall not exceed two months.
+
+Police personnel whose reinstatement has been preliminarily approved shall resume work within 30 days starting from the date the reinstatement notice was delivered; failure to meet the deadline, except for grounds not attributable to the applicant, will lead to revocation of the preliminary reinstatement notice and continuation of the suspension from duty.
+
+### Article 31
+
+Under any of the following circumstances, police personnel shall be dismissed from their position by the institutions that approved their appointment or the institutions or academies authorized by the aforementioned institutions:
+
+\1. Any of the conditions prescribed in Subparagraphs 1, 2, and 7, of Paragraph 1 of Article 28 of the Civil Service Employment Act.
+
+\2. Having been convicted of or wanted for treason or offenses of Civil Disturbance after the termination of the Period of Mobilization for the Suppression of Communist Rebellion.
+
+\3. Having been convicted of or wanted for corruption or robbery.
+
+\4. Having committed crimes other than those specified in the preceding two subparagraphs and having been given a sentence of imprisonment or above without being granted probation or having the sentence commuted to a fine or community service, or with the sentence having been commuted to community service but with circumstances making it necessary to execute the original sentence in accordance with Paragraph 6 of Article 41 of the Criminal Code.
+
+\5. Having been deprived of civil rights pursuant to a criminal conviction.
+
+\6. Having one of the conditions punishable by two major reprimands in accordance with the Civil Service Personnel Performance Evaluation Act.
+
+\7. Having been wanted for over six months for crimes other than those specified in Subparagraphs 2 and 3, Paragraph 1 of this Article and still remaining on the wanted list.
+
+\8. Having used weapons to intimidate or injure their supervisors or colleagues, with specific evidence proving the incident as serious, and thus significantly damaging the reputation of the police.
+
+\9. Having used their authorities derived from their positions to commit fraud or extortion, with specific evidence as proof, and thus significantly damaging the reputation of the police.
+
+10.Having used their authorities derived from their positions to cover up theft, stolen goods, sex trade, or gambling, with specific evidence as proof, and thus significantly damaging the reputation of the police.
+
+\11. Having accumulated demerits equivalent to two major reprimands, after offsetting rewards and punishments, in the same evaluation year.
+
+\12. Having other circumstances that make them subject to dismissal from their position or deprivation of their right to serve as civil service personnel in accordance with relevant laws.
+
+Dismissal under Subparagraphs 6 to 11 preceding Paragraph shall be enforced after the order is confirmed, and suspension shall be imposed while the order is pending to be confirmed.
+
+Police personnel who are subject to dismissal from their position in accordance with Paragraph 1 of this Article shall also be stripped of their ranks.
+
+### Article 32
+
+In addition to provisions stipulated in this Act, regulations of the Civil Service Performance Evaluation Act are also applicable for the evaluation of the performance of police personnel.
+
+### Article 33
+
+Police personnel who have served in the same class of the same rank without being promoted to a higher class or rank for more than ten years, and have been advanced to the highest salary level of that class, are entitled to additional rewards listed as follows if their annual performance evaluation are graded as First-tier or Second-tier:
+
+\1. First-tier Grade: seniority pay advances one level higher in addition to a bonus equivalent to a salary of one and a half months; a bonus equivalent to a salary of two months is provided for personnel whose seniority pay has advanced to the highest level.
+
+\2. Second-tier Grade: seniority pay advances one level higher in addition to a bonus equivalent to a salary of one month; a bonus equivalent to a salary of one and a half months is provided for personnel whose seniority pay has advanced to the highest level.
+
+### Article 34
+
+Performance evaluations shall be conducted according to the following procedures:
+
+\1. Performance evaluations for police personnel at the National Police Agency and its subordinate police institutions, academies, county (city) police departments, and the Central Police University shall be approved by the Ministry of the Interior or the police institutions or academies authorized by it before being sent to the Ministry of Civil Service for review.
+
+\2. Performance evaluations for Police Generals serving in the police departments of special municipalities shall be approved by the government of the special municipality before being sent to the Ministry of the Interior to refer to the Ministry of Civil Service for review. The performance evaluations for other police personnel shall be approved by the government of the special municipality before being sent to the Ministry of Civil Service for review.
+
+## Chapter 6 Retirement and Compensation
+
+### Article 35
+
+The retirement of police personnel shall be governed by the Civil Service Retirement, Severance, and Compensation Act, except as otherwise provided herein:
+
+\1. The retirement age for police personnel with the rank of Police Superintendent or below whose positions are dangerous or laborious may be lowered in accordance with the provisions of the Civil Service Retirement, Severance, and Compensation Act.
+
+\2. Police officers who are required to retire under the Civil Service Retirement, Severance, and Compensation Act due to an inability to perform their duties caused by physical or mental disabilities resulting from violence or accidental harm sustained in the line of duty are entitled, in addition to the retirement benefits for work-related injuries or illnesses specified in relevant regulations, to an additional payment ranging from five to fifteen base units of pension, with each unit based on the highest seniority pay in the officer’s rank class.
+
+\3. Police personnel who have been awarded orders or medals are entitled to an additional amount of pension.
+
+\4. The monthly retirement benefits for personnel of the police, fire , coast guard, immigration, and airborne service corps shall be calculated based on the replacement rate determined by their certified years of service, in accordance with the schedule outlined in Attachment 3. For those with fifteen years of service, the replacement rate shall be 43.25%. For each additional year of service thereafter, the replacement rate shall increase by 1.75%, up to a maximum of 80% after 36 years of service. For those with 37 years to 40 years of service, the replacement rate shall remain at 80%. Fractional years of service of less than one full year shall be calculated proportionally. Service periods of less than one month shall be rounded up and counted as one full month.
+
+The provision of Subparagraph 4 of the preceding paragraph shall also apply to individuals whose retirement became effective prior to the promulgation and implementation of the amendments to this Act on January 7, 2025. Such individuals shall have their monthly retirement benefits recalculated based on the standards applicable to currently serving personnel of equivalent rank. Their benefits shall also be adjusted in accordance with any future changes in the basic salary (seniority pay).of active personnel of the same rank.
+
+The additional expenditures incurred by the Public Service Pension Fund as a result of the amendments to Subparagraph 4 of Paragraph 1 and the preceding paragraph shall be subsided annually by the Executive Yuan through appropriations from the national budget.
+
+The retirement pension for police personnel who had had any of the conditions prescribed in Subparagraph 2, Paragraph 1 before the amended articles of this Act came into force on August 19, 2004, and have been receiving a monthly retirement pension since then, shall be paid in accordance with the amended articles of this Act starting from the date when they come into force.
+
+Regulations governing the recipients, base units, and amounts of additional pensions, as prescribed in Subparagraphs 2 and 3, Paragraph 1 of this Article, as well as other relevant matters, shall be formulated by the Executive Yuan in collaboration with the Examination Yuan.
+
+For personnel covered by Subparagraphs 2 and 3, Paragraph 1 of this Article, if the retirement benefits calculated based on the highest salary level of the highest seniority pay for the position held by the police officer exceeds the retirement benefits calculated based on the standard approved by the Ministry of Civil Service, the difference shall be covered by the competent authority’s budget.
+
+### Article 35-1
+
+Police personnel suffering total or partial disability caused by violence or accidental harm while in the line of duty are entitled to medical care and care arrangements on a lifelong basis under the budget of the competent authority.
+
+Police personnel who had met the conditions specified in the preceding Paragraph prior to the implementation of the amended articles of this Act on August 19, 2004, are entitled to the care from the date on which the amended articles of the Act came into force.
+
+Regulations governing the standards, methods, and other matters related to the care specified in the preceding two Paragraphs shall be formulated by the Executive Yuan.
+
+### Article 35-2
+
+Police personnel who, after appointment, meet one of the conditions specified in Subparagraphs 8 or 9, Paragraph 1, Article 28 of the Civil Service Employment Act shall be subject to retirement or layoff from service as prescribed.
+
+### Article 36
+
+Except as otherwise provided in the following provisions, the compensation of police personnel shall be governed by the relevant regulations of the Civil Service Retirement, Severance, and Compensation Act.
+
+\1. For officers who die in the line of duty, the base amount of relief shall be calculated based on the highest seniority level of the highest class and rank for the position in which they are serving. They are also entitled to the same additional compensation as those who die in war.
+
+\2. Police personnel who have been awarded orders or medals are entitled to additional compensation.
+
+Family members of officers who died in the line of duty before the implementation of the amended articles of this Act on August 19, 2004, and who still receive annual compensation, shall be paid in accordance with the regulations of this Act from the date when the amended articles of this Act came into force.
+
+The standard for granting additional compensation as specified in Subparagraph 2, Paragraph 1 of this Article shall follow the same principle for granting of additional payment of retirement benefits.
+
+If the compensation calculated based on the highest seniority level of the highest class and rank for the position in which the police officer is serving is higher than that calculated by the standard approved by the Ministry of Civil Service, the difference shall be covered by the budget of the competent authority.
+
+### Article 36-1
+
+Police personnel who suffer work-related injury, disability or death in the line of duty shall be entitled to preferential relief; for those who are totally disabled, their relief shall be paid in accordance with the standard of those who die in the line of duty. Police personnel who are totally disabled or die while performing their duties or died in the line of duty by violence or accidental harm, their relief shall be not less than twice the amount of relief for public officials who are disabled or die because of their duties.
+
+The regulations governing the scope of duties specified in the preceding Paragraph, the compensation recipients, amount of compensation, and other relevant matters shall be formulated by the Executive Yuan.
+
+Children of police personnel who are totally or partially disabled because of violence or accidental harm while carrying out their duties or die in the line of duty shall be provided with support until they reach adulthood. If they are still enrolled in a university or college after reaching adulthood, support shall continue until they graduate.
+
+For cases falling under the preceding Paragraph before the amended articles of this Act came into force on August 19, 2004, their children shall be provided with support from the date of the amendment taking effect.
+
+The recipients, methods, and other relevant matters regarding this support prescribed in the preceding two Paragraphs shall be formulated by the Executive Yuan.
+
+## Chapter 7 Supplementary Provisions
+
+### Article 37
+
+Police personnel with special contributions or outstanding achievement are entitled to special leave; regulations regarding their deeds, the number of leave days, the approving agencies or academies, and other relevant matters shall be formulated and promulgated by the Ministry of the Interior and sent to the Ministry of Civil Service for reference.
+
+### Article 37-1
+
+To boost morale and promote solidarity among police personnel, police institutions may implement a mutual aid plan. The regulations governing the plan shall be formulated by the Ministry of the Interior.
+
+### Article 37-2
+
+Police organizations may offer monetary incentives to police officers and other personnel that aid in the conducting of police duties in order to boost morale and reward performance. The regulations governing their recipients, categories, conditions, procedures, and other relevant matters of the monetary incentives shall be formulated by the Executive Yuan.
+
+### Article 38
+
+To meet future development requirements, police institutions may select active police officers for advanced study at domestic or foreign universities or colleges. The relevant regulations shall be formulated by the Ministry of the Interior in collaboration with the Ministry of Education.
+
+### Article 39
+
+Provisions of this Act shall apply mutatis mutandis to general administrative and technical staff defined in the organization acts of police institutions and academies, except for matters regarding appointment, retirement and compensation.
+
+For active personnel hired in accordance with relevant laws before September 23, 1985, and paid at the same level as public officials of elementary rank, regulations governing their appointments, dismissal, and transfers, rewards, punishments, and performance evaluation, salaries, retirement benefits and compensation, and other relevant matters shall be formulated by the Ministry of the Interior.
+
+### Article 39-1
+
+Personnel matters related to the Coast Guard and fire departments shall be implemented by the respective competent authorities pursuant to the regulations of this Act.
+
+### Article 40
+
+Management regulations for establishing police guards in various organizations, academies and groups shall be formulated by the Ministry of the Interior.
+
+### Article 40-1
+
+Graduates of the Central Police University (Central Police College) who enrolled before 1998 or the Taiwan Police College (Taiwan Police Academy) who enrolled before 1999, who have not met the requirements for appointment may be paid temporarily at the same level as Police Sergeants and carry out their duties under the supervision of appointed police officers.
+
+Regulations governing the duties, appointments, dismissal, and transfers, rewards, punishment, and performance evaluation, salary, retirement benefits and compensation, and other relevant matters for personnel temporarily paid at the same level as Police Sergeants in accordance with the preceding Paragraph shall be formulated by the Ministry of the Interior.
+
+The preceding Paragraph also applies mutatis mutandis to personnel who had been hired and paid at the same level as Police Sergeants in accordance with relevant laws before the amended articles of this Act came into force on June 15, 2007.
+
+### Article 41
+
+The enforcement rules of this Act shall be formulated by the Ministry of the Interior in collaboration with the Ministry of Civil Service.
+
+### Article 42
+
+This Act shall come into force on the date of promulgation.
+
+## Attachments
+
+- [Attachment 1 Scale of Salary Grades and Remuneration Standards for Police Personnel.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004228)
+- [Attachment 1 Scale of Salary Grades and Remuneration Standards for Police Personnel.DOC](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004229)
+- [Attachment 2.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004230)
+- [Attachment 2.DOC](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004231)
+- [Attachment 3.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009253)
+
+## History
+
+\1. Enacted and promulgated by President Order Tai-Tong (1)-Yi-Tzu No.0167 on Jan. 17, 1976
+
+\2. Amended and promulgated by President Order Tai-Tong (1)-Yi-Tzu No.6454 on Nov.21, 1983
+
+\3. Amended and promulgated by President Order Hua-Tsung (1)-Yi-Tzu No. 8600118860 on May 21, 1997
+
+\4. Amended and promulgated by President Order Hua-Tsung (1)-Yi-Tzu No. 09100138660 on July 10, 2002
+
+\5. Amended and promulgated by President Order Hua-Tsung (1)-Yi-Tzu No. 09100239030 on Dec. 11, 2002
+
+\6. Amended and promulgated by President Order Hua-Tsung (1)-Yi-Tzu No. 09300156901 on Sep. 1, 2004
+
+\7. Amended and promulgated by President Order Hua-Tsung (1)-Yi-Tzu No. 09600088021 on July 11, 2007
+
+\8. Amended and promulgated by President Order Hua-Tsung (1)-Yi-Tzu No. 10700061501 on June 6, 2018
+
+\9. Amended and promulgated by President Order Hua-Tsung (1)-Yi-Tzu No. 11000001901 on Jan 13, 2021.
+
+\10. Amended and promulgated by President Order Hua-Tsung (1)-Yi-Tzu No. 11000113991 on Dec 22, 2021.
+
+\11. Amended and promulgated by President Order Hua-Tsung (1)-Yi-Tzu No. 11400038381 on Apr 25, 2025.

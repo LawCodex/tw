@@ -1,0 +1,77 @@
+---
+title: "Organization Act of the Aviation Training Institute under the Civil Aeronautics Administration of the MOTC"
+title_zh: "交通部民用航空局民航人員訓練所組織條例"
+identifier: "K0000057"
+type: act
+law_level: "法律"
+category: "行政＞交通部＞組織目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2000-02-02
+last_amended: 2000-02-02
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0000057"
+retrieved: 2026-10-12
+---
+
+# Organization Act of the Aviation Training Institute under the Civil Aeronautics Administration of the MOTC
+
+> Translation. The Chinese text ([zh/laws/ministry-of-transportation-and-communications/K0000057-organization-act-of-the-aviation-training-institute-under-the-civil-aeronautics.md](../../../zh/laws/ministry-of-transportation-and-communications/K0000057-organization-act-of-the-aviation-training-institute-under-the-civil-aeronautics.md)) is authoritative.
+
+## Article 1
+
+This act is enacted pursuant to the provisions of Article 10 of the Organization Act of the Civil Aeronautics Administration (hereafter referred as the CAA) of the MOTC.
+
+## Article 2
+
+The CAA Aviation Training Institute (hereafter referred as the ATI) shall take charge of the following affairs:
+
+\1. The training, retraining, and on-the-job training matters of the civil aviation personnel of the CAA.
+
+\2. The compilation of domestic civil aviation human resource training related information and provision of counseling services.
+
+\3. The respective professional training and the case study and research of aviation technology related matters.
+
+\4. The implementation of training courses commissioned for domestic and foreign civil aviation personnel.
+
+\5. The proposal and implementation of other related training courses for civil aviation personnel.
+
+## Article 3
+
+The following divisions shall be organized to attend to the aforementioned affairs of the ATI: Educational Affairs Section, Training and Development Section, Simulation and Retraining Section, and General Affairs Section.
+
+## Article 4
+
+An Institute Director bearing the rank of Senior Grade 11 shall be appointed to take charge of the management of all ATI affairs and the direction and supervision of the ATI personnel. A Deputy Director bearing the rank of Senior Grade 10 shall be appointed to assist the Institute Director.
+
+## Article 5
+
+The ATI staff organization shall consist of the following: four section chiefs ranked from Junior Grade 8 to Junior Grade 9, two senior staff ranked from Junior Grade 7 to Junior Grade 8, six to ten instructors ranked from Junior Grade 6 to Junior Grade 8, one or two technical staff members, and two to six staff members ranked either Elementary Grade 5 or from Junior Grade 6 to Junior Grade 7, four to six technical assistants ranked from Elementary Grade 4 to Elementary Grade 5, three of whom are ranked Junior Grade 6, and two office assistants ranked from Elementary Grade 1 to 3.
+
+Employees currently employed by ATI under the Regulations Governing the Employee Management and possessing no appointment qualification may be continuously employed as the officer assistant until the employees leave the job.
+
+## Article 6
+
+A personnel staff bearing a rank ranging from Elementary Grade 5 to Junior Grade 7 shall be appointed to attend to personnel administration matters of the ATI.
+
+## Article 7
+
+An accountant bearing a rank ranging from Elementary Grade 5 to Junior Grade 7 shall be appointed to attend to budgeting, accounting, and statistical matters of the ATI.
+
+## Article 8
+
+The officers and personnel and their respective designated ranks as defined in Articles 4 to 7 shall be screened and appointed pursuant to the provisions of Article 8 of the Civil Service Employment Act.
+
+## Article 9
+
+Specific executive regulations of the ATI shall be defined by the ATI and forwarded to the CAA for approval.
+
+## Article 10
+
+The Act shall come into effect on the date of its promulgation.
+
+## History
+
+1.Promulgated on February 2, 2000

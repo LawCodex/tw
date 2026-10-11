@@ -1,0 +1,219 @@
+---
+title: "Government Treasury Act"
+title_zh: "公庫法"
+identifier: "G0320001"
+type: act
+law_level: "法律"
+category: "行政＞財政部＞國庫目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1938-06-09
+last_amended: 2009-05-06
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0320001"
+retrieved: 2026-10-12
+---
+
+# Government Treasury Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-finance/G0320001-government-treasury-act.md](../../../zh/laws/ministry-of-finance/G0320001-government-treasury-act.md)) is authoritative.
+
+## Article 1
+
+The government treasury at all levels of government of the Republic of China and its activities shall be governed by this Act.
+
+## Article 2
+
+The government treasury takes charge of governments’ cash, bills, securities, and other properties.
+
+The government treasury of the central government is called the National Treasury, and the Ministry of Finance, R.O.C. (hereinafter referred to as the MOF) is its competent authority. The government treasury of the special municipality is called the special municipality treasury; the government treasury of a county/city is called county/city treasury; and the government treasury of a township/city is called township/city government treasury. The special municipality government, county/city government, and township/city government under whose jurisdictions such special municipality treasury, county/city treasury, and township/city government treasury belong, respectively, are the competent authorities.
+
+Where other properties provided in Paragraph 1 are real estate or movable property that needs to be kept in the repository for safekeeping, deed documents, repository receipts, or other supporting documents shall substitute the said real estate or movable property for safekeeping respectively.
+
+## Article 3
+
+The government treasury at each level is to commission a bank to act as agent (hereinafter referred to as “commissioned bank”) to take charge of disbursing, safekeeping and transferring activities of cash, bills, and securities, and the safekeeping of deed documents of properties, pursuant to the following provisions, unless the law provides otherwise:
+
+1.Where the government treasury is the national treasury, the competent authority of the national treasury is to commission the Central Bank of the Republic of China (Taiwan) to act as agent for it.
+
+2.Where the government treasury is a special musicality treasury, county/city treasury, or township/city government treasury, its competent authority is to select a bank within its jurisdiction, and after the approval of the legislative agency to entrust the approved bank to act as agent. The relevant government treasury competent authority shall also report its commission to the higher government treasury competent authority for future reference.
+
+If there are no banks, or the circumstance is exceptional in the jurisdiction of a township/city, the township/city treasury competent authority may select a bank within the county where it is located; and if there is no suitable bank, the government competent authority of that county shall coordinate with its commissioned bank to act for the township/city treasury competent authority.
+
+The MOF shall stipulate regulations on the capital amount, scope and conditions, standards of fees, and cost and benefit of the commissioned institutions mentioned in Subparagraph 2, Paragraph 1, and Paragraph 2.
+
+## Article 4
+
+The commissioned bank of the government treasury at each level may re-commission other financial institutions, payment collection agent institutions, or centralized securities depository enterprise (hereinafter referred to as “agent institutions”) to take charge of the entire or some activities mentioned in Paragraph 1 of the preceding article. Among said activities, the commissioned financial institution may re-commission a payment collection agent institution to handle the tax and fee collection activities.
+
+Where the commissioned bank of the government treasury at each level or commissioned financial institution re-commissions pursuant to the preceding paragraph, it is uniformly liable for the acts of agent institutions or payment collection agent institutions, and its own acts.
+
+## Article 5
+
+Where a commissioned bank receives cash and matured bills from a government treasury office, it is to be deposited. The rights and obligations of the commissioned bank and the government treasury at each level are to be stipulated in a contract, unless it is specifically restricted by laws and orders. This contract shall be signed pursuant to the following provisions:
+
+1.The contract which is commissioned by the competent authority of the national treasury to the Central Bank of the Republic of China (Taiwan) shall be reported to the Executive Yuan for future reference.
+
+2.The contract which is commissioned by the competent authority of the special municipality, county/city, or township/city treasury to the commissioned bank shall be reported to the competent authority of the national treasury or the competent authority of the county treasury for future reference.
+
+Where the commissioned bank re-commissions an agent institution to take charge of the government treasury activities pursuant to Paragraph 1 of the preceding article, it shall sign a re-commission contract, and report the contract to the relevant government treasury competent authority for future reference.
+
+Where a commissioned financial institution re-commissions a payment collection agent institution to collect taxes and fees, it shall sign a re-commission contract.
+
+## Article 6
+
+When the commissioned bank or agent institution is liquidated, or bankrupt, it shall pay off first the debts owed to the government treasury taken charged of by it. The priority order for paying off debts owed to the government treasury is as follows:
+
+1.the township /city treasury.
+
+2.the county/city treasury.
+
+3.the special municipality treasury.
+
+4.the national treasury.
+
+## Article 7
+
+A commissioned bank or an agent institution shall handle the disbursement, safekeeping and transferring of cash, bills and securities of each government agency (hereinafter referred to as “each agency”), and the safekeeping of deed documents of properties, unless this Act, other laws, or autonomous regulations on property management of local governments provide otherwise.
+
+Special funds managed by each agency shall be handled pursuant to this Act, and these special funds exclude enterprise funds, trust funds, and those funds that are approved by the competent authority of each relevant government treasury for the exclusion of the application of this Act.
+
+## Article 8
+
+For the government treasury funds held by the governments at all levels, each competent authority of relevant government treasury shall open a government treasury account in the commissioned bank, and all that funds shall be held together for the purpose of management. The competent authority of relevant government treasury may approve the opening of a special government agency account, in the commissioned bank or its commissioned financial institutions for the government treasury funds in accordance with the law, or for the special characters of such funds.
+
+Each competent authority of relevant government treasury shall stipulate provisions on management of the special government agency account mentioned in the preceding paragraph.
+
+## Article 9
+
+The revenue of each agency shall be paid to the commissioned bank or agent institution of the relevant government treasury by the payer, and such revenue shall come under the relevant government treasury account.
+
+## Article 10
+
+The tax revenue collected by the commissioned bank, agent institution, and tax collection institution of government treasury at each level respectively shall be paid to the concerned government treasury account pursuant to the prescribed period. The MOF shall stipulate regulations on such payment.
+
+## Article 11
+
+Each agency may receive and keep each of the following revenues on its own accord, and in accordance with the prescribed period, pay it to each relevant government treasury account:
+
+1.The piecemeal revenue;
+
+2.The revenue of the agency which is located outside the prescribed mileage from the commissioned bank or agent institution of each relevant government treasury;
+
+3.The income of a payer after the approval of the competent authority of each relevant government treasury. This is for the convenience of the payer.
+
+4.The revenue of the agency located overseas where there are no commissioned banks or agent institutions; or
+
+5.The revenue of the agency with no fixed location.
+
+Each competent authority of relevant government treasury shall, pursuant to the actual needs, stipulate provisions on the maximum amount of revenue or income to be received and safekept by the agency itself, the period of safekeeping, the prescribed mileage and other conditions that were mentioned in the preceding paragraph. It shall also notify its budget, accounting, and statistics agency, and auditing agency of these provisions, as well as reporting the provisions to the higher competent authority of government treasury for future reference.
+
+## Article 12
+
+The commissioned bank of a government treasury or agent institution of each agency may commission other financial institutions or payment collection agent institutions to collect each revenue mentioned in Paragraph 1 of the preceding article.
+
+## Article 13
+
+The expenditures of each agency shall be directly paid out centrally from each relevant government treasury account, unless this Act or other laws provide otherwise.
+
+## Article 14
+
+Each agency may, pursuant to provisions, safekeep each of the following sums of money that is for expenditure, and spend it pursuant to the law:
+
+1.Authorized petty cash;
+
+2.The budget fund of the agency which is located outside the prescribed mileage from the commissioned bank or agent institution of each relevant government treasury;
+
+3.The budget fund of the agency located overseas where there are no commissioned banks or agent institutions;
+
+4.The budget fund of the agency with no fixed location; or
+
+5.The budget fund of the agency, which is approved by the competent authority of the relevant government treasury due to its special characters.
+
+Each competent authority of relevant government treasury shall, pursuant to actual needs, stipulate provisions on the maximum amount of authorized petty cash mentioned in Subparagraph 1 of the preceding paragraph, prescribed mileage mentioned in Subparagraph 2 of the same paragraph, and other conditions provided for the item mentioned in each subparagraph. It shall also notify its budget, accounting, and statistics agency, and auditing agency of these provisions, as well as reporting the provisions to the higher competent authority of the government treasury for future reference.
+
+## Article 15
+
+The centralized payment agency (unit) of the government at each level shall create files for each payment of bills, and the allocated budgets that have been approved and verified.
+
+The approving and verifying agency shall give notice to the financial agency (unit) and the auditing agency about the bills on each payment and the allocated budgets that were mentioned in the preceding paragraph.
+
+## Article 16
+
+Each payment handled by the agency shall sign a payment order and submit it to each relevant centralized payment agency (unit); the latter shall then issue a government treasury check to pay directly to the payee by deposit to his/her/its account. However, for the payment of each of the following expenditures it may directly issue payment to the account of the designated person of the agency or to the account of the agency:
+
+1.The expenditures which were mentioned in Paragraph 1, Article 14 that are by provision, at the discretion of each relevant agency for safekeeping or spending.
+
+2.Salaries and/or wages of workers of each agency, or other payments of expenses, that are received by each relevant agency on behalf of these workers and passed on to said workers by such relevant agency.
+
+## Article 17
+
+A special government agency account check may be issued for an expense occurred in each relevant special government agency account, or such an expense may be handled pursuant to agreed terms after a consultation with the commissioned bank or agent institution.
+
+## Article 18
+
+The provisions of the Negotiable Instruments Act which concern checks shall be applicable, mutatis mutandis, to checks issued by the government treasury at each level and the special government agency account respectively.
+
+## Article 19
+
+At the end of a fiscal year, each agency shall cease to pay out of the balance of the allocated budget which has not been spent by it, unless the law provides otherwise, or by provision of law, the balance is permitted to be safekept.
+
+At the end of a fiscal year, the remaining unpaid amount of all kinds of expenditures pursuant to Paragraph 1, Article 14, that each agency may, at discretion, spend by law from the safekept sums of money, shall cease to pay out pursuant to the preceding paragraph. It shall then hand over to the relevant government treasury account.
+
+## Article 20
+
+The government at each level may, due to financial needs, accommodate revenues and expenditures pursuant to the following provisions:
+
+1.The central government may issue national treasury bills, or after a consultation, borrow a loan for less than a year.
+
+2.The local government at each level may borrow a loan for less than a year after a consultation.
+
+Both sums of money mentioned in the preceding paragraph shall come under each relevant government treasury account; when the loan is to be paid off, an appropriated sum of money directly from each relevant government treasury account shall be made out.
+
+Each competent authority of the relevant government treasury shall handle the consultation and borrowing of loans and their repayments that were mentioned in each subparagraph of Paragraph 1.
+
+## Article 21
+
+The government at each level may, depending on actual needs of the government treasury and under the objective that the establishment of an account is not hindered, centrally accommodate and apply sums of money in the special government agency account established pursuant to the proviso of Paragraph 1, Article 8.
+
+The sums of money that are accommodated pursuant to the preceding paragraph shall be appropriated into each relevant government treasury account; when a debt is to be paid off, an appropriated sum of money directly from each relevant government treasury account shall be made out.
+
+## Article 22
+
+The commissioned bank and the agent institution shall classify, assign numbers to, and record in detail the deed documents of properties of the government at each level, material contracts that concern creditor's rights and liabilities, and negotiable instruments and securities, and safekeep them properly. Duplicates or photographed pictures of these documents or the storage of the electromagnetic records of said documents shall be safekept if necessary.
+
+With respect to the commissioned safekeeping activities mentioned in the preceding paragraph, each agency shall, at any time, pay attention to the period of exchange and repayment period of the articles mentioned in the same Paragraph, and it shall send an official periodically to check out these articles or process clear-up works.
+
+## Article 23
+
+Each competent authority of the relevant government treasury may, at any time, send an official to check up the businesses of the government treasury at each level that are in charge of by the commissioned bank and the agent institution.
+
+When the competent authority of each relevant government treasury finds out that there is a breach of contract in the treasury affairs that is re-commissioned to the agent institution by the commissioned bank, it may issue a letter to consult with the commissioned bank; and asks the commissioned bank to deal with the matter in terms of the contract.
+
+The commissioned bank of the government treasury at each level may also, at any time, send an official to check up the treasury affairs that are in charge of by the agent institution; and when it finds out that there is a breach of contract, the breach shall be dealt with in terms of the contract.
+
+## Article 24
+
+Each relevant auditing agency shall handle auditing affairs of the concerned government treasury. This rule also applies to the auditing affairs of the concerned government treasury being acted for by the commissioned bank or agent institution.
+
+## Article 25
+
+Where revenues and expenditures which are/were resulted from the commissioned bank’s violation of laws and orders, or a breach of the contract causing damage to the concerned government treasury, the commissioned bank shall be liable for compensation; and when necessary, each competent authority of the relevant government treasury may terminate the agency relationship.
+
+When damage occurs to the sums of money that are safekept by the agency under its custody pursuant to Paragraph 1, Article 11 and Paragraph 1, Article 14, the person who is in charge of safekeeping the sums of money in the agency shall be liable for compensation, unless such damage is caused by force majeure.
+
+## Article 26
+
+This Act shall take effect on the date of promulgation.
+
+## History
+
+1.Promulgated on June 09, 1938
+
+2.Amended on May 25, 1946
+
+3.Amended on May 15, 2002
+
+4.Amended on May 06, 2009 ,Hua-Tsung-1-Yi-Tzu No. 09800110071

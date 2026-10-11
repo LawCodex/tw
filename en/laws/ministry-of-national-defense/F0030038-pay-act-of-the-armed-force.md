@@ -1,0 +1,242 @@
+---
+title: "Pay Act of the Armed Force"
+title_zh: "軍人待遇條例"
+identifier: "F0030038"
+type: act
+law_level: "法律"
+category: "行政＞國防部＞人事目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2008-01-16
+last_amended: 2025-06-27
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=F0030038"
+retrieved: 2026-10-12
+---
+
+# Pay Act of the Armed Force
+
+> Translation. The Chinese text ([zh/laws/ministry-of-national-defense/F0030038-pay-act-of-the-armed-force.md](../../../zh/laws/ministry-of-national-defense/F0030038-pay-act-of-the-armed-force.md)) is authoritative.
+
+## Article 1
+
+Pay of an active military serviceman shall be governed by this Act.
+
+## Article 2
+
+The following definitions apply in this Act:
+
+Subparagraph 1
+
+“Active military serviceman” means  commissioned officers, noncommissioned officers or enlisted servicemen who render active military service in accordance with the Act of Military Service System or other related laws.
+
+Subparagraph 2
+
+“Basic pay” means the basic payment shall be paid to active voluntary military servicemen.
+
+Subparagraph 3
+
+“Basic wage” means the basic payment shall be paid to active conscripted military servicemen.
+
+Subparagraph 4
+
+“Special pay” means the payment, in additional to basic pay (basic wage), paid based on the category, characteristics and geographic location of assigned duty.
+
+Subparagraph 5
+
+“Pay grades” means the grade in which the basic pay is categorized.
+
+Subparagraph 6
+
+“Pay units” means the unit of radix used for computing basic pay for pay amount.
+
+## Article 3
+
+Paragraph 1
+
+The pay, including the basic pay (basic wage) and the special pay, for an active military serviceman shall be computed on a monthly basis.
+
+Paragraph 2
+
+If the active service is less than a whole month, the pay shall be computed by the actual service days; the payment amount of each day shall be computed by the full payment divided by the number of the days of that month. Nevertheless, the pay tendered in the month of death is exempted from retrieval.
+
+## Article 4
+
+Paragraph 1
+
+The followings are the pay grades of an active voluntary military serviceman:
+
+Subparagraph 1
+
+The basic pay for Four-star General (or equivalent) is one pay grade.
+
+Subparagraph 2
+
+The basic pay for General (or equivalent) is one pay grade.
+
+Subparagraph 3
+
+The basic pay for Lieutenant General (or equivalent) is divided into 6 pay grades; for Major General (or equivalent) is divided into 10 pay grades.
+
+Subparagraph 4
+
+The basic pay for Colonel, Lieutenant Colonel and Major (or equivalents) is divided into 12 pay grades respectively.
+
+Subparagraph 5
+
+The basic pay for Captain (or equivalent) is divided into 12 pay grades; for First Lieutenant and Second Lieutenant (or equivalents) is divided into 10 pay grades respectively.
+
+Subparagraph 6
+
+The basic pay for Command Sergeant Major, First Sergeant and Platoon Sergeant (or equivalents) is divided into 20 pay grades; for Staff Sergeant, Sergeant and Corporal (or equivalents) is divided into 12 pay grades respectively.
+
+Subparagraph 7
+
+The basic pay for Private First (or equivalent) is divided into 6 pay grades; for Private (or equivalent) is one pay grade.
+
+Paragraph 2
+
+The pay rate of pay grades in the preceding paragraph shall be governed by the attached table; and pay amount shall be computed and paid accordingly. The currency in computing pay rate for pay amount shall be stipulated by the Executive Yuan; and if necessary, shall be divided into pay rate.
+
+## Article 5
+
+The special pay shall be classified into the following seven categories.
+
+(1) Special pay for position: this applies to Generals and officers in charge or holding positions of unusually heavy responsibilities.
+
+(2) Special pay for profession: this applies to professional military personnel at the rank of Lieutenant General or below.
+
+(3) Special pay for region: this applies to military personnel assigned to remote, special regions or overseas; such classification shall not be based on service category or rank.
+
+(4) Special pay for duty: this applies to military personnel assigned to hazardous or technica l duties, or to duties of a particular nature.
+
+(5) Special pay for volunteer military service: this applies to voluntary military personnel, who shall be entitled to a monthly allowance of NT$30,000.
+
+(6) Special pay for combat team: this applies to military personnel of combat teams or combat support teams.
+
+(7) Overtime pay: this applies to military personnel who did not take their entitled leave.
+
+Subparagraph 5 of the preceding paragraph shall take effect on January 1, 2026. The implementation of other categories of special pay shall be prescribed by the Executive Yuan.
+
+The amount of special pay under Paragraph 1 shall be properly adjusted when the cumulative growth rate of the Consumer Price Index, as announced by The Central BAS Agency, reaches three percent.
+
+## Article 6
+
+The monthly salary of active conscripted military personnel shall be determined by the Ministry of National Defense and submitted to the Executive Yuan for approval. The total amount of such salary shall not be less than the minimum wage prescribed by the Minimum Wage Act.
+
+## Article 7
+
+Paragraph 1
+
+Any active voluntary service commissioned officer, noncommissioned officer and enlisted serviceman shall be paid by pay grade in accordance with ranks assigned by appointment or evaluation on the date of effectiveness.
+
+Paragraph 2
+
+The pay grade of any active voluntary service noncommissioned officer appointed from active voluntary service enlisted serviceman and active voluntary service commissioned officer appointed from noncommissioned officer shall be converted from the original to the according one. If the pay rate of the pay grade converted to the highest is lower than the original pay rate, the original pay rate shall be retained until the promotion to a higher rank with pay rate of pay grade higher than the original.
+
+## Article 8
+
+The provisions of promotion and transfer of pay grade are as follows:
+
+Subparagraph 1
+
+The period of one pay grade due at one year shall be promoted to the higher grade from the first day of the first month in the following year. The period of leave without pay shall not be included in the period of one pay grade due at one year.
+
+Subparagraph 2
+
+Serviceman promoted to a higher rank with original rank pay grade due at one year shall be deemed as paid by the original rank with higher pay grade, then converted to the pay rate of higher pay grade of the promoted higher rank in accordance with the original rank pay grade; if the original rank pay grade is less than one year, its original pay rate shall be converted to the according pay rate of pay grade, then the rest period of less than one year of original rank pay grade shall be added to the period of higher rank pay grade, then converted to the pay rate of higher pay grade of the promoted higher rank on the first day of the first month in the following year. The pay rate of the pay grade of the higher rank promoted shall not be lower than the pay rate of original pay grade.
+
+## Article 9
+
+When a reserve military serviceman renders active military service, or an active or reserve military serviceman enters military academic for basic education for an officer and is appointed as an active voluntary military service commissioned officer or a noncommissioned officer after graduating, his prior service period shall be merged when the pay grade is promoted.
+
+## Article 10
+
+The pay for a reserve military serviceman with approval of promotion to a higher rank shall be paid by the rank promoted on the effective date of his/her rendering to active service voluntarily or compulsorily.
+
+## Article 11
+
+Paragraph 1
+
+An active military serviceman missing in action or in execution of duty shall be entitled for the full active service pay, and the pay shall be paid to his/her dependents in Taiwan; missing status other than preceding status shall be entitled for basic pay (basic wage).
+
+Paragraph 2
+
+An active service commissioned officer suspended other than missing status in the preceding paragraph shall be entitled half of its basic pay (basic wage) during his suspension.
+
+Paragraph 3
+
+A suspended active commissioned or noncommissioned officer due to involvement in a case , after review, investigation, and final judgment, without receiving an order of removal from office, and order of suspension from office, a settled ruling nolle prosequi, or an irrevocable final judgment of non-guilty, shall be paid the basic pay (basic wage) during the suspension period. If half of the basic pay (basic wage) has been paid to the suspended officers during the suspension period, the amount shall be deducted.
+
+Paragraph 4
+
+On the death of a suspended military serviceman, those who are entitled to relief may claim and receive the pay of the suspension period which has not been tendered.
+
+## Article 12
+
+Paragraph 1
+
+An active serviceman subject to suspension from service shall not be paid. After the reason of suspension fades and the return to service is approved, payment shall be paid from the day of return to service. If the day of return to service is retroacted to the day of suspension from service, the basic pay (basic wage) of the suspension period shall be compensated.
+
+Paragraph 2
+
+A commissioned or a noncommissioned officer subject to strip-off from rank shall not be paid. When the reason of strip-off fades, and the restoration to office position is approved, the pay shall be computed from the day of restoration.
+
+Paragraph 3
+
+An active serviceman approved to leave without pay shall not be paid during leave.
+
+## Article 13
+
+Paragraph 1
+
+The pay grade of a demoted active serviceman shall be changed to the pay grade of demoted rank. If there is no further lower rank for demotion, he shall be paid by difference according to demoted ranks.
+
+Paragraph 2
+
+When the pay grade of a demoted serviceman in the preceding paragraph is promoted, he shall be promoted from the demoted pay grade; if there is no further lower rank for demotion, he shall be paid by difference among pay grades and resumed pay on a yearly basis.
+
+## Article 14
+
+The pay for a reserve serviceman during rendering to active service by laws shall be prescribed by the Ministry of National Defense and then submitted to the Executive Yuan for approval.
+
+## Article 15
+
+The pay for an active military serviceman shall be paid till one day prior to the effective date of discharge, demobilization, suspension, exemption, restriction or separation from service.
+
+## Article 16
+
+The pay for a deserting active military serviceman shall be deducted or restituted by the days of default, and computed as stipulated in paragraph 2 of article 3.
+
+## Article 17
+
+Paragraph 1
+
+After the pay grade of an active voluntary serviceman is approved, if any objection exists, this serviceman may elucidate the facts and reasons, with relevant evidences, within three months from the next day of receiving the personnel order, to appeal for reassessment according to pay grade assessment procedure. This appeal of reassessment is limited to one time. Nevertheless, within one year from the day of the reassessment, if new evidence which has not been presented in the reassessment procedure is found, the applicant may appeal for reassessment with new evidences.
+
+Paragraph 2
+
+If the reassessed pay grade of an active voluntary serviceman, who filed the reassessment application within the time limit, is higher than the prior assessed pay grade, the applicant shall be reimbursed and paid according to the reassumed pay grade from the prior assessment date; if filing beyond the time limit, the applicant shall be paid according to the reassessed pay grade from the next day of the reassessment; if the reassessed pay grade is lower than the prior assessed pay grade, the applicant shall be paid according to the reassessed pay grade from the next month of the reassessment.
+
+## Article 18
+
+The items and amount of pay to an active serviceman overseas shall be stipulated by the Executive Yuan.
+
+## Article 19
+
+The commence date of this law shall be determined by the Executive Yuan.
+
+## Attachments
+
+- [Attachment：The table of the pay of active military servicemen (stipulated from the paragraph 2 of Article 4 of this Act).PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004409)
+- [Attachment：The table of the pay of active military servicemen (stipulated from the paragraph 2 of Article 4 of this Act).doc](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000000351)
+
+## History
+
+\1. Enacted and promulgated on January 16th, 2008.
+
+\2. The amended Article 5 was promulgated by the Presidential Decree hua-zong-yi-yi-zi No. 11400063061 on June 27, 2025.Except for Article 5, Paragraph 1, Subparagraph 5, which shall come into effect on January 1, 2026, the implementation dates of the remaining articles shall be determined by the Executive Yuan.
+
+The amended Article 6 was promulgated by the Presidential Decree hua-zong-yi-yi-zi No. 11400063071 on June 27, 2025 ,the implementation dates shall be determined by the Executive Yuan.

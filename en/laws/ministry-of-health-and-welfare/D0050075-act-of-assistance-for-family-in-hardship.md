@@ -1,0 +1,219 @@
+---
+title: "Act of Assistance for Family in Hardship"
+title_zh: "特殊境遇家庭扶助條例"
+identifier: "D0050075"
+type: act
+law_level: "法律"
+category: "行政＞衛生福利部＞社會及家庭目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2000-05-24
+last_amended: 2021-01-20
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0050075"
+retrieved: 2026-10-12
+---
+
+# Act of Assistance for Family in Hardship
+
+> Translation. The Chinese text ([zh/laws/ministry-of-health-and-welfare/D0050075-act-of-assistance-for-family-in-hardship.md](../../../zh/laws/ministry-of-health-and-welfare/D0050075-act-of-assistance-for-family-in-hardship.md)) is authoritative.
+
+## Article 1
+
+This Act is enacted to provide emergency care and support to families facing special circumstances, to assist them in overcoming livelihood difficulties, achieving self-reliance, and improving their living environment.
+
+## Article 2
+
+The assistance provided under this Act for families in special circumstances includes emergency living assistance, living allowances for children, educational subsidies for children, medical subsidies for illness or injury, childcare allowances, legal aid for litigation, and subsidies for start-up business loans.
+
+## Article 3
+
+The “competent authority” as referred to in this Act: The Ministry of Health and Welfare in Central Government, the City Government in Special Municipality and the County (City) in County (City) Government.
+
+The “affairs” as referred to in this Act are handled by government agency that acts as the regulatory authority.
+
+## Article 4
+
+“Family in hardship” as referred to in this Act is the family of which the income divided by the number of family member is less 2.5 times of minimum living expenses per person per month announced by government the current year, less 1.5 times of expenditure per person per month in Taiwan and family property less than a certain amount published by the central competent authority. Besides the family is under one of the follow situations:
+
+\1. Below 65 years old with a spouse deceased or missing and undiscovered after 6 months of search by the police authority.
+
+\2. Abandoned with malice of abuse by a spouse as well as divorced by judicial decree or completion of voluntary divorce.
+
+\3. Victim of family violence.
+
+\4. The unmarried woman is pregnant; the pregnancy is within three months and two months after accouchement.
+
+\5. Single parent raising any child under 18 years old due to divorce, loss of spouse, childbirth out of wedlock or grandparent raising any grandchild under 18 years old due to inability of the parent, without working ability or with working ability but unable to work due to serious injury, illness or caretaking of any child or grandchild under 6 years old.
+
+\6. The spouse is serving a prison sentence of more than one year or is under a custodial security measure restricting personal freedom for more than one year, and the sentence or measure is currently being enforced.
+
+\7. Other living and economic difficulty due to serious incident during the past three months other than due to personal liability, indebtedness or voluntary unemployment, as determined by municipal, county or city government.
+
+The status of such family under the previous paragraph shall be identified every year for the purpose of applying for a children’s living allowance, children’s educational allowance and childcare allowance.
+
+Assistance received by applicant in accordance with this Act for the applicant’s grandchild shall be limited to the grandchild under 18 years old who cannot be supported by the parent in accordance with Subparagraph 5, Paragraph 1.
+
+“Parent’s inability to support the child” referred to under Subparagraph 5, Paragraph 1 means both parents are unable to support the child due to death, involuntary employment without unemployment benefit, serious injury or illness, imprisonment or disappearance.
+
+## Article 4-1
+
+Article 5-1 and Article 5-3 of the Social Assistance Act shall apply mutatis mutandis to the total family income and inability to work referred to under Paragraph 1 of the previous Article.
+
+Family property referred to in the first paragraph of the previous Article includes movable property and real property, the amount of which shall be calculated separately. Article 5-2 of the Social Assistance Act shall apply mutatis mutandis.
+
+Family population referred to in the first paragraph of the previous Article should include the following:
+
+\1. Applicant.
+
+\2. Direct subordinate family members with supporting obligations and the spouses thereof.
+
+\3. Other than the previous subparagraph, family members under support as included for tax exemption under consolidated income tax declaration.
+
+If any person under Subparagraphs 2 or 3 of the previous paragraph has any of the following events, the person should be excluded from the population:
+
+\1. Direct subordinate family member who has no income, does not live with the applicant, has no supporting ability and is married.
+
+\2. Serving military duty or alternative duty.
+
+\3. Currently studying under a government-funded scholarship.
+
+\4. Serving imprisonment or detention due to a legal case or in accordance with law.
+
+\5. Missing and undiscovered after 6 months of searching by the police authority.
+
+## Article 5
+
+Families in special circumstances may apply for the types of assistance specified in Article 2, and are not limited to a single category. However, if the applicant is already receiving living assistance, benefits, or placement in accordance with other laws or regulations, only the difference between such assistance or benefits and those provided under this Act may be subsidized; no duplicate assistance shall be granted.
+
+The subsidy under this Act may be stopped by the municipal, county (city) competent authority and the subsidiary received may be claimed if the beneficiary under this Act has any of the following events:
+
+\1. Provision of false information.
+
+\2. Omission or refusal to provide information required by municipal, county (city) competent authority.
+
+\3. Acquisition of family support through fraud or other improper means.
+
+## Article 6
+
+Applicants who meet the requirements set forth in Paragraph 1 of Article 4 for emergency living assistance shall be granted assistance based on an amount equivalent to one month's minimum living expense standard per person for low-income households as defined for the current year. In principle, the subsidy shall cover a period of three months per person per application. Each case shall be subsidized only once for the same reason.
+
+In applying for emergency life assistance under Paragraph 1, Article 4, the applicant shall file the application enclosing the copy of household certificate and other related certificates to the local municipal, county (city) competent authority within 6 months from the occurrence of the fact or the application can be transferred by township (city, district) house or social welfare units. If it is difficult to acquire the certificate, the case can be evaluated with the site visit documents written by social workers.
+
+The competent authority of the municipality or county (city) shall assign personnel to conduct regular visits to assess the living conditions of recipients after emergency living assistance has been approved. If there is a clear improvement in their living conditions, the assistance shall be terminated immediately.
+
+## Article 7
+
+The family who fits the situations described in Subparagraph 1 to 3, 5 or 6 of Paragraph 1 to Article 4 and has children or grandchildren below 15 years old can apply for a living allowance for children.
+
+The amount of living allowance for children or grandchildren is 1/10 of the minimum wage of the current year for every child; the application shall be filed once a year.
+
+The first application for children’s living allowance can be filed any time, but the application of extending subsidy shall be filed two months before the beginning the fiscal year.
+
+The competent authority of the municipality or county (city) shall assign personnel to conduct home visits for applicants requesting an extension of the subsidy. If there is a clear improvement in their living conditions, the allowance shall be terminated immediately.
+
+In applying for the children’s living allowance, the applicant shall file the application enclosing the copy of household certificate and other related certificates to the local authority or the application can be transferred by township(city, district )house or social welfare units.
+
+## Article 8
+
+The family that fits the situation described in Paragraph 1 of Article 4 and the children or grandchildren are studying in public or registered private senior high school can apply for children education allowance, provided that no duplication applications shall be filed if any subsidy of the same nature is provided under other legislations.
+
+\1. 60% of tuition and miscellaneous fee will be reduced for high school and vocational high school.
+
+\2. 60% of tuition and miscellaneous fee will be reduced for college and university.
+
+To seek a reduction of tuition and miscellaneous fee under the previous paragraph, relevant justification documents should be submitted at the time of registration and reduction will be granted after review and confirmation by the school. For private schools, the educational administration authority of jurisdiction will be asked to provide subsidy after the reduction is granted by the school.
+
+The application procedure, method and other compliance matters of educational subsidy under the first paragraph shall be determined by the educational administration authority of jurisdiction.
+
+The first paragraph is amended on 18 December 2012 and shall be implemented from 1 August 2012.
+
+## Article 9
+
+The family that fits the situations described in Article 4 and is under one of the follow situations can apply for medical subsidy:
+
+\1. The applicant and his/her children or grandchildren over 6 years old & less 18 years have joined the national health insurance program and cannot afford the medical expense over NT$30,000 the last three months, furthermore did not obtain any other subsidy or insurance benefit.
+
+\2. His/her children or grandchildren under 6 years old have joined the national health insurance program and cannot afford the partial medical expense born by patient.
+
+Standards for medical subsidies due to illness or injury are as follows:
+
+\1. For the applicant and their children or grandchildren aged six and above but under eighteen: 70% of the portion of out-of-pocket medical expenses exceeding NT$30,000 may be subsidized, up to a maximum of NT$120,000 per person per year.
+
+\2. For the children or grandchildren less 6 years old: The maximum subsidy of partial medical expense born by patient is NT$120 thousand yearly per person in accordance with the Article 33 and Article 35 of National Health Insurance Act for the expense of out-patient service, emergency treatment and hospitalization in NHI contracted medical institutions.
+
+For applying the medical subsidy, the applicant shall file the application enclosing the related documents within 3 months from the occurrence of the injury/illness, one copy of both side of heath card, diagnosis certificate and original receipts of medical expenses to the local authority; the application for medical subsidy certificate of less 6 years old children or grandchildren shall be filed to the domiciliary township (city, district) house and then the applicant can go to the NHI contracted medical institution, the medical institution shall compile register by month apply the medical subsidy to the competent authority of special municipality or county (city).
+
+## Article 10
+
+Applicants who meet the requirements of Subparagraphs 1 to 3, 5, and 6 of Paragraph 1, Article 4, and have children or grandchildren under the age of six, shall be given priority admission to public childcare institutions. If the children or grandchildren are enrolled in private childcare institutions, a childcare allowance of NT$1,500 per person per month may be applied for.
+
+Applications for the childcare allowance shall be submitted to the competent authority at the applicant’s place of household registration within six months of the occurrence of the relevant event, along with supporting documentation.
+
+The competent authority of the municipality or county (city) shall assign personnel to conduct home visits for applicants requesting an extension of the subsidy. If there is a clear improvement in their living conditions, the allowance shall be terminated. However, those who have already been admitted to public childcare institutions may continue to receive childcare services.
+
+## Article 11
+
+Applicants who meet the requirements of Subparagraph 3, Paragraph 1, Article 4 and are unable to afford litigation expenses may apply for legal litigation subsidies. The maximum subsidy amount shall not exceed NT$50,000.
+
+Applications for legal litigation subsidies shall be submitted to the competent authority at the applicant’s place of household registration within three months of the occurrence of the relevant event, along with the required documents: proof of eligibility, the original receipt for attorney’s fees, and a copy of the litigation or judgment document.
+
+## Article 12
+
+The family who fits the situations described in Subparagraph 1 to 3, 5 and 6 of Paragraph 1 to Article 4 and is an adult may apply for career development loan, the qualification, procedure, subsidy amount, quota , term of time and another regulation shall be enacted by central competent authority.
+
+## Article 12-1
+
+To apply for children’s living subsidy or childcare subsidy in accordance with Subparagraph 3, Paragraph 1, Article 4, it is required to have a civil protective order granting the exercise of rights and obligations for minor children or substantial proof of facts that the applicant raises the child alone.
+
+## Article 13
+
+The expenditures needed for the assistance stated in the Act shall be budgeted by government at every level.
+
+## Article 13-1
+
+The right to claim any allowances or subsidies under this Act shall not be subject to attachment, assignment, or used as collateral.
+
+Recipients of allowances or subsidies under this Act may submit certification documents issued by the competent authority of the municipality or county (city) to open a designated bank account. The account must include the name, address, account number, and account holder information of the financial institution. Upon approval by the competent authority, the account shall be used exclusively for the deposit of such allowances or subsidies.
+
+The savings in the account described above shall not be detained, transferred, or used for guarantee purposes.
+
+## Article 14
+
+(Deleted)
+
+## Article 15
+
+The required documents, application formats, review criteria, review procedures, and methods for disbursement of funds related to the various types of family assistance stipulated in this Act shall be prescribed by the respective competent authorities.
+
+## Article 15-1
+
+With to assistance under this Act, the competent authority may ask relevant authority (institution), organization, corporation or individual to provide required necessary information and the requested party shall not refuse.
+
+The competent authority shall exercise due care as a good administrator with regard to the information received in accordance with the previous paragraph and duly perform information security audit procedure. The maintenance, processing and use thereof shall be in accordance with the Personal Information Protection Act.
+
+## Article 16
+
+This Act shall come into force from the date of promulgation.
+
+The implementation date for the provisions of this Act amended on 12 January 2009 shall be determined by the Executive Yuan.
+
+## History
+
+1.The whole text of 16 articles enacted, promulgated by President Order (89) Hua-Tsung (1)-Yi-Tzu No. 8900123170 on May 24, 2000, and take effect on May 24, 2000.
+
+2.Articles 4, 5~8, 10, 16 amended, Article 4-1, 12-1 added, Article 14 deleted and promulgated by President Order Hua-Tsung (1)-Yi-Tzu No. 09500069711 on May 17, 2006, and take effect on Jan. 1, 2007.
+
+3.The original title"Act of Assistance for Woman in Hardship"amended as"Act of Assistance for Family in Hardship", Articles 1, 2, 4, 5, 7~10, 12, 12-1, 16 amended and promulgated by President Order Hua-Tsung (1)-Yi-Tzu No. 09800019271 on Jan. 23, 2009, and take effect on Mar. 1, 2009.
+
+4.Articles 4 and 9 amended, Article 13-1 added and promulgated by President Order Hua-Tsung (1)-Yi-Tzu No.10000273361 on Dec. 7, 2011.
+
+5.Articles 8 amended, Article 15-1 added and promulgated by President Order Hua-Tsung (1)-Yi-Tzu No.10100290771 on Jan. 2, 2013.
+
+6.Amendment of Article 13-1 and Promulgation by President Order Hua-Tsung (1)-Yi-Tzu No.10300013771 on Jan. 29, 2014.
+
+7.Amendment of Article 3 and Promulgation by President Order Hua-Tsung (1)-Yi-Tzu No.10900003961 on January 15, 2020.
+
+8.Amendment of Article 12 and Promulgation by President Order Hua-Tsung (1)-Yi-Tzu No.11000003511 on January 20, 2021.

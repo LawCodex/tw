@@ -1,0 +1,503 @@
+---
+title: "Money Laundering Control Act"
+title_zh: "洗錢防制法"
+identifier: "G0380131"
+type: act
+law_level: "法律"
+category: "行政＞法務部＞檢察目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1996-10-23
+last_amended: 2024-07-31
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0380131"
+retrieved: 2026-10-12
+---
+
+# Money Laundering Control Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-justice/G0380131-money-laundering-control-act.md](../../../zh/laws/ministry-of-justice/G0380131-money-laundering-control-act.md)) is authoritative.
+
+## Article 1
+
+This Act is enacted to prevent money laundering activities and combat related crimes; bolster anti-money laundering systems; maintain financial stability; increase transparency in money flows; and strengthen international cooperation.
+
+## Article 2
+
+As used in this Act, the crime of money laundering is committed by any person who—
+
+\1. conceals the proceeds of specified unlawful activity or disguises the origin of the proceeds of specified unlawful activity;
+
+\2. obstructs or jeopardizes the Nation’s investigation, discovery, preservation, confiscation or requisition of the proceeds of specified unlawful activity;
+
+\3. accepts, obtains, possesses or uses the proceeds of specified unlawful activity committed by others.
+
+\4. uses his or hers proceeds of specified unlawful activity to conduct transactions with others.
+
+## Article 3
+
+As used in this Act, “specified unlawful activity” includes the following:
+
+\1. Any offense with a minimum punishment of imprisonment not less than six months.
+
+\2. Offenses listed in Article 121, Article 123, paragraph 2 of Article 201-1, Article 231, paragraph 1 of Article 233, paragraphs 1 and 2 of Article 235, paragraphs 1 and 2 of Article 266, Articles 268, paragraph 2 and 3 of Article 319-1 and the attempted offenses in those two paragraphs, paragraph 4 of Article 319-3 and commit offenses and its attempted offenses in paragraph 1, paragraph 3 of Article 319-4, Article 339, Article 339-2, Article 339-3, Article 342, paragraphs 1 of Article 344, Article 349, Articles 358 to 362 of the Criminal Code.
+
+\3. Offenses described in paragraphs 1 and 2 of Article 2, and Article 3 of the Smuggling Penalty Act.
+
+\4. Offenses defined in Articles 154 and 155 of the Bankruptcy Law.
+
+\5. Offenses described in Articles 95 and 96 of the Trademark Act.
+
+\6. Offenses described in Articles 71 and 72 of the Business Entity Accounting Act.
+
+\7. Offenses listed in paragraph 1 of Article 41, Article 42, and paragraphs 1 and 2 of Article 43 of the Tax Collection Act.
+
+\8. Offenses listed in paragraphs 3, 5 and 6 of Article 87, Article 89, and paragraphs 1 and 3 of Article 91 of the Government Procurement Act.
+
+\9. Offenses listed in paragraphs 2 and 3 of Article 46, and Article 47 of the Act Governing Electronic Payment Institutions.
+
+\10. Offenses described in Article 172 of the Securities and Exchange Act.
+
+\11. Offenses described in Article 113 of the Futures Trading Act.
+
+\12. Offenses defined in Article 8, paragraphs 1 ,2 and 4 of Article 9 of the Counter-Terrorism Financing Act.
+
+\13. Offenses described in Article 21 of this Act.
+
+\14. Offenses described in paragraphs 2, 4 and 5 of Article 3 of the Organized Crime Prevention Act.
+
+\15. Offenses described in paragraphs 1 and 2 of Article 13-1 of the Trade Secrets Act.
+
+\16. Offenses described in paragraphs 1 and 3 of Article 30, paragraphs 2 and 5 of Article 31, and Article 33 of the Human Trafficking Prevention Act.
+
+\17. Offenses described in Articles 73 and 74 of the Immigration Act.
+
+\18. Offenses described in paragraph 1, front section of paragraph 2, and paragraph 5 of Article 49 of the Act Governing Food Safety and Sanitation.
+
+\19. Offenses described in paragraph 1 of Article 91, paragraphs 1 and 2 of Article 91-1, and Article 92 of the Copyright Act.
+
+\20. Offenses described in paragraphs 1, 2 and 4 of Article 88-1 of the Act on the Presidential and Vice Presidential Election and Recall Act.
+
+\21. Offenses described in Paragraphs 1, 2 and 4 of Article 103-1 of the Public officials Election And Recall Act.
+
+## Article 4
+
+As used in this Act, the “proceeds of specified unlawful activity” mean the property or the benefits and interests of the property obtained or derived from the commission of specified unlawful activities prescribed in Article 3.
+
+When identifying that property is the proceeds of specified unlawful activity prescribed in paragraph 1, it shall not be necessary that a person is convicted of specified unlawful activity.
+
+## Article 5
+
+As used in this Act, “financial institutions” include:
+
+\1. Banks;
+
+\2. Trust and investment corporations;
+
+\3. Credit cooperative associations;
+
+\4. Credit departments of farmers’ associations;
+
+\5. Credit departments of fishermen’s associations;
+
+\6. Agricultural Bank of Taiwan;
+
+\7. Postal institutions handling postal savings, remittance businesses and simple life insurance business;
+
+\8. Bills finance companies;
+
+\9. Credit card companies;
+
+\10. Insurance companies;
+
+\11. Securities companies;
+
+\12. Securities investment trust enterprises;
+
+\13. Securities finance enterprises;
+
+\14. Securities investment consulting enterprises;
+
+\15. Centralized securities depository enterprises;
+
+\16. Futures commission merchants;
+
+\17. Trust enterprises; and
+
+\18. Other financial institutions designated by the competent authorities in charge of the relevant industries.
+
+The provisions governing financial institutions of this Act shall apply to enterprises or persons handling financial leasing, providing virtual asset services.
+
+As used in this Act, “designated nonfinancial enterprises or persons” include the following enterprises or persons:
+
+\1. Jewelry businesses.
+
+\2. Land administration agents and real estate agencies, when they are involved in transactions concerning purchase and sale of real estate.
+
+\3. Lawyers, notaries and accountants, when they prepare for or carry out transactions for their client concerning the following transactions:
+
+(1) Purchasing and selling real estate;
+
+(2) Managing of client money, securities or other assets;
+
+(3) Management of bank, savings or securities accounts;
+
+(4) Organization of contributions for the creation, operation or management of companies; or
+
+(5) Creation, operation or management of legal persons or agreements, and buying and selling business entities.
+
+\4. Trust and company service providers, when they prepare for or carry out transactions for a client concerning the following transactions:
+
+(1) Acting as a formation agent of a legal person;
+
+(2) Acting as or arranging for another person to act as a director or secretary of a company, a partner of a partnership, or a similar position in relation to other legal persons;
+
+(3) Providing a registered office, business address, accommodation, correspondence or administrative address for a company, a partnership, a trust or any other legal persons or arrangement;
+
+(4) Acting as or arranging for another person to act as a trustee of a trust or performing the equivalent function for another form of legal arrangement; or
+
+(5) Acting as or arranging for another person to act as a nominee shareholder for another person.
+
+5.Enterprises or persons that provide third-party payment services.
+
+\6. Other enterprises or persons, with the characteristics of their operation or transaction modes likely involved in money laundering.
+
+The Ministry of Justice shall, in consultation with the central competent authority in charge of the relevant industries, make a report for the Executive Yuan to designate the scope of enterprises or persons handling financial leasing, providing virtual asset services listed in paragraph 2, define the types of transactions applicable to the designated nonfinancial enterprises or persons mentioned in the sixth subparagraph of paragraph 3, and the enterprises or persons listed in the preceding paragraph not required to make a transaction report prescribed in paragraph 1 of Article 12.
+
+The Ministry of Justice in consultation with the central competent authorities in charge of the relevant industries, where necessary, shall designate payment tools aside from cash for the transactions that reach a certain amount made by financial institutions, enterprises or persons listed in paragraphs 1 to 3.
+
+If financial institutions, enterprises or persons in paragraphs 1 to 3 violate the provisions of the preceding paragraph, the central competent authority in charge of the relevant industries shall impose a fine of not more than twice the transaction amount.
+
+If the central competent authorities in charge of the relevant industries mentioned in the preceding six paragraphs are ambiguous, the Executive Yuan shall designate the central competent authorities in charge of the relevant industries.
+
+Where the designation prescribed in paragraph 4, paragraph 5 and the preceding paragraph involves matters of the Judicial Yuan, the Executive Yuan shall make the designation in consultation with the Judicial Yuan.
+
+## Article 6
+
+Enterprises or persons that provide virtual asset services or third-party payment services are not allowed to provide virtual asset services or third-party payment services if they have not completed money laundering prevention, service capacity registration or login with the central competent authority in charge of the relevant industries. Enterprises or persons established overseas that provide virtual asset services and third-party payment services are not allowed to provide virtual asset services or third-party payment services in Taiwan unless they have registered the establishment of a company or branch in accordance with the Company Act and have completed money laundering prevention and service capacity registration or login with the central competent authority in charge of the relevant industries.
+
+The application conditions and procedures for enterprises or persons providing virtual asset services to handle the money laundering prevention registration mentioned in the preceding paragraph, the cancellation or revocation of registration, the review mechanism for the listing and delisting of virtual assets, the unfair trading prevention mechanism, and the separate custody method of self-owned assets and client’s assets, regulations on information systems and security, wallet management mechanisms and other matters that must be complied with, shall be prescribed by the central competent authority in charge of the relevant industries.
+
+The application conditions and procedures for money laundering prevention and service capacity registration, revocation or cancellation of registration, and other matters that must be complied with by enterprises or persons providing third-party payment services, shall be prescribed by the central competent authority in charge of the relevant industries.
+
+Enterprises or persons providing virtual asset services or third-party payment services in violation of the provisions of paragraph 1 without completing money laundering prevention, service capacity registration or login, or still providing virtual assets services or third-party payment service after money laundering prevention registration has been revoked or cancelled, or service capacity registration has been cancelled or invalidated, shall be sentenced to imprisonment of not more than two years, short-term imprisonment, or a fine of not more than NT$5 million.
+
+If a legal person commits an offense described in the preceding paragraph, in addition to impose punishment on the offender, the legal person shall also be fined not more than ten times the amount prescribed in the preceding paragraph.
+
+## Article 7
+
+Each of the financial institutions and the designated nonfinancial enterprises or persons shall establish its own internal control and audit system against money laundering based on the risk of money laundering and terrorism financing as well as business scale; the system shall include the following:
+
+\1. Operation and internal control procedures against money laundering and terrorist financing.
+
+\2. Regular on-the-job training for money laundering prevention organized or attended by the financial institution.
+
+\3. Designation of personnel responsible for coordinating and supervising the implementation of the system prescribed in the first subparagraph.
+
+\4. Preparation and regular updates of the risk assessment report on anti-money laundering and counter financing of terrorism.
+
+\5. The procedures of audit.
+
+\6. Other matters prescribed by the central competent authorities in charge of the relevant industries.
+
+The central competent authorities in charge of the relevant industries shall conduct regularly inspections of the implementation of the system prescribed in the preceding paragraph, and may delegate the inspections to another agency, institution, legal person or organization to do so.
+
+The central competent authorities in charge of the relevant industries shall, in consultation with the Ministry of Justice and other relevant government agencies, establish the regulations governing performance content, operating procedures, implementation measures prescribed in paragraph 1, the method of inspection and review , the qualification and conditions of delegation prescribed in the preceding paragraph, and other matters to be obeyed; consultation with relevant industry associations shall be held prior to the establishment of the regulations.
+
+For violations of the requirements of establishment of the system in paragraphs 1 and performance content, operating procedures, implementation measures and other matters to be obeyed prescribed in the preceding paragraph, a limited time period for improvement shall be notified by the central competent authorities in charge of the relevant industries. If improvements are still failed to be made by the deadline, a fine of not less than NT$500,000 but not more than NT$10 million shall be imposed on financial institutions, and a fine of not less than NT$50,000 but not more than NT$5 million shall be imposed on designated nonfinancial enterprises or persons. The fine may be imposed each time the offense occurs.
+
+For avoiding, rejecting, or obstructing the on-site or off-site inspections, the central competent authorities in charge of the relevant industry shall impose a fine of not less than NT$500,000 but not more than NT$5 million on financial institutions, and a fine of not less than NT$50,000 but not more than NT$2,500,000 on designated nonfinancial enterprises or persons. The fine may be imposed each time the offense occurs.
+
+## Article 8
+
+Financial institutions and designated nonfinancial enterprises or persons shall apply a risk-based approach to undertake customer due diligence measures for verifying the identity of the customer and beneficial owner, and keep all information obtained through the customer due diligence measures.
+
+The information obtained through the customer due diligence measures prescribed in the preceding paragraph shall be maintained for at least five years after the business relationship is ended, or after the date of the occasional transaction, unless a longer record-keeping term is required by other laws.
+
+Financial institutions and designated nonfinancial enterprises or persons shall apply a risk-based approach to conduct enhanced customer due diligence measures for a customer or beneficial owner who is a politically exposed person currently or previously entrusted with a prominent public function by the domestic or a foreign government or an international organization, as well as his or her family members and close associates.
+
+The central competent authority in charge of the relevant industries shall, in consultation with the Ministry of Justice and other related government agencies, establish the regulations governing the scope of customer due diligence, and the scope, procedures and methods of customer identification data record-keeping prescribed in paragraph 1, as well as the scope, procedures and methods of enhanced customer due diligence measures prescribed in the preceding paragraph; consultation with relevant industry associations shall be held prior to the establishment of the regulations. The Ministry of Justice shall determine the scope of politically exposed persons, their family members and close associates mentioned in the preceding paragraph.
+
+For violations of the requirements in paragraphs 1 to 3, or regulations prescribed in the preceding paragraph regarding the scope, procedures, and methods of confirming customer identity, retaining confirmation information, and enhancing customer review, the central competent authorities in charge of the relevant industries shall impose a fine of not less than NT$500,000 but not more than NT$10 million on financial institutions, and a fine of not less than NT$50,000 but not more than NT$5 million on designated nonfinancial enterprises or persons. The fine may be imposed each time the offense occurs.
+
+## Article 9
+
+To provide international cooperation in relation to money laundering prevention and counter-terrorism financing, the competent authorities in charge of financial institutions and the central competent authorities in charge of the industry related to designated nonfinancial enterprises or persons may, spontaneously or in response to reports submitted by the Investigation Bureau of the Ministry of Justice, take the following measures against countries or regions with high risks of money laundering or terrorism financing :
+
+\1. To order financial institutions, designated nonfinancial business or professions to strengthen relevant measures for verification of the customer’s identity during transactions.
+
+\2. To limit or prohibit financial institutions designated nonfinancial business or professions to make wire transfers or conduct other transactions with high-risk money laundering and terrorist financing countries or regions.
+
+\3. To take other necessary preventive measures those are effective and proportionate to the risks.
+
+Countries or regions where risks of money laundering or terrorism financing are high as prescribed in the preceding paragraph refer to one of the following:
+
+\1. Countries or regions where major flaws are detected in its money laundering prevention and counter-terrorism financing efforts, according to announcements issued by international anti-money laundering organizations.
+
+\2. Countries or regions where advice of international anti-money laundering organizations are not followed or not fully followed, according to announcements issued by international anti-money laundering organizations.
+
+\3. Other countries or regions where high risks of money laundering and terrorism financing are confirmed by sufficient evidence.
+
+## Article 10
+
+Financial institutions and designated nonfinancial enterprises or persons shall maintain all necessary records on transactions, both domestic and international, made due to operating their business or practicing their profession.
+
+Records of the necessary transaction prescribed in the preceding paragraph shall be retained for a period of at least five years after the date of the transaction, unless a longer record-keeping term is required by other laws.
+
+The central competent authority in charge of the relevant industries shall, in consultation with the Ministry of Justice and other relevant government agencies, establish the regulations governing the scope of transactions and the procedures and methods of retaining records on necessary transactions prescribed in paragraph 1; consultation with relevant industry associations shall be held prior to the establishment of the regulations.
+
+For violations of the requirements in paragraphs 1 and 2, or regulations prescribed in the preceding paragraph regarding the scope, procedures, and methods of retaining records on necessary transactions, the central competent authority in charge of the relevant industries shall impose a fine of not less than NT$500,000 but not more than NT$10 million on financial institutions, and a fine of not less than NT$50,000 but not more than NT$5 million on designated nonfinancial enterprises or persons. The fine may be imposed each time the offense occurs.
+
+## Article 11
+
+During the existence of fiduciary relationship, the trustee of a non-trust enterprise must obtain and hold sufficient, accurate and up-to-date information about the identity of the trust's settlor, trustee, beneficiary and any other natural person who ultimately effectively controls the trust, and hold other basic information on trust agents and trust service providers.
+
+The trustee in the preceding paragraph shall report the trust information in the preceding paragraph and proactively update the declaration information when the information changes.
+
+The trustee of a non-trust enterprise in paragraph 1 is limited to non-financial enterprises or persons or other legal persons designated by the non-trust enterprise. The agencies that accept reports are as follows:
+
+\1. The non-financial enterprise or person designated as the trustee shall be the competent authority of each industry.
+
+\2. If a legal person other than the one mentioned in the preceding paragraph serves as the trustee, the competent authority for the respective enterprise shall be the one responsible.
+
+The trustee shall retain the information in paragraph 1 for at least five years from the termination of fiduciary relationship.
+
+When the trustee in paragraph 1 uses trust property to establish business relationships or conduct temporary transactions of a certain amount with a financial institution, designated non-financial enterprise or person, he or she shall proactively disclose his or her position in the trust.
+
+The scope, method, and procedure of the declaration and updated declaration in paragraph 2, the scope of a certain amount in the preceding paragraph, the method of disclosure, and other matters that must be complied with, shall be determined by the Ministry of Justice in consultation with relevant agencies.
+
+Any enterprise or person that violates the provisions of paragraph 2, paragraph 4, paragraph 5 or regulations prescribed in the preceding paragraph regarding the scope, method, and procedure of the declaration and update of the declaration in paragraph 2 or the disclosure method in paragraph 5, shall be imposed by the authority accepting the declaration in paragraph 3 a fine of not less than NT$50,000 but not more than NT$5 million. The fine may be imposed each time the offense occurs.
+
+## Article 12
+
+Financial institutions and designated nonfinancial enterprises or persons shall report currency transactions that reach the applicable designated threshold amount to the Investigation Bureau of the Ministry of Justice, unless otherwise prescribed in this Act.
+
+Financial institutions and designated nonfinancial enterprises or persons, including responsible persons, directors, managers and employees of such institutions or businesses declaration currency transactions as prescribed in the preceding paragraph shall be exempted from business confidentiality obligations.
+
+The central competent authorities in charge of the relevant industries shall, in consultation with the Ministry of Justice and other relevant government agencies, establish the regulations governing the applicable designated threshold amount, the scope and types of currency transactions, and the scope, methods and procedures of declaration prescribed in paragraph 1 and other matters to be obeyed; consultation with relevant industry associations shall be held prior to the establishment of the regulations.
+
+For violations of the requirements in the first paragraph and the rules enacted in accordance with the preceding paragraph relating to the scope, methods and procedures of declaration, the central competent authorities in charge of the relevant industry shall impose a fine of not less than NT$500,000 but not more than NT$10 million on financial institutions, and a fine of not less than NT$50,000 but not more than NT$5 million on designated nonfinancial enterprises or persons. The fine may be imposed each time the offense occurs.
+
+## Article 13
+
+Financial institutions and designated nonfinancial enterprises or persons shall report to the Investigation Bureau of the Ministry of Justice all suspicious transactions, including attempted transactions, which may involve any of the offenses described in Articles 19 and 20.
+
+Financial institutions and designated nonfinancial enterprises or persons, including responsible persons, directors, managers and employees of such institutions or businesses declaration suspicious transactions as prescribed in the preceding paragraph shall be exempted from business confidentiality obligations.
+
+Regulations governing the scope, methods and procedures of declaration prescribed in paragraph 1 as well as other matters to be obeyed shall be prescribed jointly by the central competent authority in charge of the relevant industry, the Ministry of Justice and the relevant competent authorities; consultation with the relevant industries associations shall be held prior to the enactment of the rules.
+
+Where the matters under the preceding paragraph, paragraph 3 of Article 7, paragraph 4 of Article 8, paragraph 3 of Article 10, and paragraph 3 of the preceding Article involve the Judicial Yuan, the methods governing those matters shall be prescribed jointly by the Judicial Yuan and the Executive Yuan.
+
+For violations of the provisions in paragraph 1 and rules prescribed in paragraph 3 relating to the scope, methods and procedures of declaration, the central competent authorities in charge of the relevant industry associations shall impose a fine of not less than NT$500,000 but not more than NT$10 million on financial institutions, and a fine of not less than NT$50,000 but not more than NT$5 million on designated nonfinancial enterprises or persons. The fine may be imposed each time the offense occurs.
+
+## Article 14
+
+Passengers or crew members entering or leaving the country along with the vehicle and carry the following items shall make declarations at the Customs; the Customs should subsequently file a report to the Investigation Bureau of the Ministry of Justice.
+
+\1. Cash in foreign currency or currencies issued by Hong Kong or Macau, and cash in New Taiwan dollars, totaling reach an applicable designated threshold amount.
+
+\2. Negotiable securities with a face value totaling reach an applicable designated threshold amount.
+
+\3. Gold with a value totaling reach to an applicable designated threshold amount.
+
+\4. Other items with a value totaling reach to an applicable designated threshold amount and might be used for the purpose of money laundering.
+
+Acts to deliver items prescribed in the preceding paragraph by shipment, express delivery, mail, or other similar means, across the border, would also be subject to the preceding provisions.
+
+The Ministry of Finance shall, in consultation with the Ministry of Justice, the Central Bank, and the Financial Supervisory Commission of the Executive Yuan, establish regulations governing the applicable designated threshold amount of currencies, negotiable securities, gold and items, as well as the scope and procedures of declaring and declaration, and other requirements that should be followed prescribed in the preceding two paragraphs.
+
+Foreign currencies, or currencies issued by Hong Kong or Macau, carried but are not declared to the Customs in accordance with provisions in paragraphs 1 and 2, the amount exceeds the threshold amount prescribed in the preceding paragraph, shall be confiscated by the Customs. In the event of a false declaration, the amount exceeding the amount declared shall be confiscated by the Customs. Failure to declare the value of negotiable securities, gold or items transported in accordance with paragraphs 1 and 2, or a false declaration, will lead to a fine imposed by the Customs equivalent to the amount exceeding the threshold amount prescribed in the preceding paragraph or the value of the negotiable securities, gold or items that are not declared or are falsely declared.
+
+In the event that the amount of cash in New Taiwan dollars declared in accordance with paragraphs 1 and 2 exceeds the threshold amount prescribed in paragraph 1 of Article 18-1 of the Central Bank of the Republic of China (Taiwan) Act, the exceeding amount shall be returned. When the cash in New Taiwan dollars is not declared in accordance with provisions in paragraphs 1 and 2, the cash exceeding the threshold amount prescribed in paragraph 3 shall be confiscated by the Customs; in the event of a false declaration, the amount of cash that is not declared shall be confiscated by the Customs— in both cases, provisions of paragraph 2 of Article 18-1 of the Central Bank of the Republic of China (Taiwan) Act will not apply.
+
+When currencies issued in the Mainland Area are to be transported across the border in accordance with provisions in paragraphs 1 and 2, provisions of the Act Governing Relations between the People of the Taiwan Area and the Mainland Area should apply. In the event that the total amount of currencies transported exceeds the threshold amount prescribed in paragraph 5 of Article 38 of the Act Governing Relations between the People of the Taiwan Area and the Mainland Area, a report should be filed by the Customs to the Investigation Bureau of the Ministry of Justice.
+
+## Article 15
+
+If the Customs discovers an item that has not been declared in accordance with the provisions of paragraph 1 or paragraph 2 of the preceding Article or has been falsely declared, the item shall be detained by the Customs. However, if the detained item is an item specified in paragraph 1, subparagraph 1 of the preceding Article, its owner, administrator or holder may apply to the Customs with a sufficient deposit to allow the detention to be cancelled and return the item.
+
+## Article 16
+
+The Customs may impose a fine in accordance with the back section of paragraph 4 of Article 14. In order to prevent the person being punished from concealing or transferring property to avoid execution, the Customs may apply to the administrative court for provisional attachment or provisional disposition without providing security deposit after the disposition is served, except when the person being punished has provided an adequate amount of security deposit.
+
+## Article 17
+
+For the purpose of preventing money laundering or financing terrorists, the agencies that accept declarations under Articles 12 and 13 and notifications under Article 14 may analyze the information declared and notified; in order to carry out the analysis, the agencies may obtain necessary information from relevant public agencies or non-public agencies.
+
+When the agency accepting the declaration and notification in the preceding paragraph analyzes the results and determines that it is necessary to investigate and prosecute criminal offenses, recover illegal proceeds, prevent money laundering, stabilize financial order, and strengthen international cooperation, the agency may send the results to relevant domestic and foreign agencies.
+
+For the purpose of preventing money laundering, financing terrorists, or in compliance with other statutory provisions, relevant public agencies may inquire about relevant information on declarations and notifications accepted by agencies accepting declarations and notifications under Paragraph 1.
+
+The types, scope, and usage, access, distribution, inquiry, and other related matters of the data and analysis results in preceding 3 paragraphs, shall be prescribed by the Ministry of Justice.
+
+## Article 18
+
+When a prosecutor obtains sufficient evidence during investigation to believe that an offender has committed an offence prescribed in Articles 19 and 20 by moving property through bank accounts, wire transfers, currency exchanges or other means of payment, the prosecutor may request a court order to prohibit the withdrawal, transfer, payment, delivery and assignment, or to make other necessary disposition of such property, for not more than six months. The prosecutor may, in his or her own authority, stop the above-mentioned transactions, in the event that the situation is urgent and reasonable cause is identified to believe that actions needed to be taken immediately to ensure the integrity of the confiscated property or evidence. However, a court order should be applied for subsequently within three days of the action. In the event that a court order is not issued, or that the prosecutor fails to apply for such an order within three days of the action, the action should be called to a halt immediately.
+
+The judge may, at his or her discretion, decide whether to issue a court order to prohibit the withdrawal, transfer, payment, delivery and assignment, or to make other necessary disposition of the property prescribed in the previous paragraph during the trial.
+
+The court order prescribed in the preceding two paragraphs should be put into writing and be subject to provisions under Article 128 of the Criminal Procedure Code.
+
+In the event that an extension of the action prescribed in paragraph 1 is deemed necessary, an application for extension can be made to the court for a ruling by the prosecutor with specific reasons included, not later than five days before the expiration of the period. However, the extension may not exceed six months, and only one extension will be granted at most.
+
+In the event that a request for assistance is made by foreign governments, institutions or international organizations, based on treaties or agreements concluded in accordance with Article 28, or on the principle of reciprocity, if the criminal activity involved constitutes an offence prescribed in Article 3, the preceding four paragraphs may also apply, even if the investigation or trial does not take place in the jurisdiction of the country.
+
+When the court order prescribed in paragraphs 1 and 2, or the ruling prescribed in paragraph 4, is found disappointing, provisions concerning interlocutory appeal under Part IV of the Criminal Procedure Code will apply.
+
+## Article 19
+
+Anyone involved in money laundering activities prescribed in paragraphs in Article 2 shall be sentenced to imprisonment of not less than three years but not more than ten years, and a fine of not more than NT$ 100 million shall be imposed. The offender whose money laundering property or property interests do not exceed NT$100 million, shall be sentenced to imprisonment of not less than six months but not more than five years, and a fine of not more than NT$ 50 million shall be imposed.
+
+An attempt to commit an offense specified in the preceding paragraph is punishable.
+
+## Article 20
+
+In the event of the following circumstances, if anyone accepts, possesses, or uses the property or the benefits of the property without a reasonable account of the origin of such assets, an imprisonment of not less than six months but not more than five years shall be imposed, and a fine of not more than NT$ 50 million may also be imposed:
+
+\1. Opening accounts at financial institutions, applying for accounts to enterprises or persons that provide virtual asset services or third-party payment services in other people's names, under a false name or other false information related to the identity.
+
+\2. Using or getting hold of accounts opened by others at financial institutions, accounts applied by others to enterprises or persons that provide virtual asset services or third-party payment services, via improper means.
+
+\3. Circumventing anti-money laundering procedures described in Article 8 and Articles 10 to 13.
+
+An attempt to commit an offense specified in the preceding paragraph is punishable.
+
+## Article 21
+
+A person who, without a legitimate reason, collects other people's account details, as filed with financial institutions, accounts filed with enterprises or persons providing virtual asset services or third-party payment services, and who does any of the following, shall be punished with imprisonment of up to five years, or with detention, and/or with a fine of up to NT$ 30 million:
+
+\1. Committing the offense while using the name of a government agency or civil servant;
+
+\2. Committing the offense by using radio, television, electronic communications, the Internet or other means of communication media to disseminate information to the public;
+
+\3. Committing the offense by using computer synthesis or other technological methods to create fake images, sounds or electromagnetic recordings of others;
+
+\4. Committing the crime by using promises, or quid pro quo, to coerce others to deliver or supply;
+
+\5. Committing the crime through the use of rape, coercion, fraud, surveillance, control, enticement or other improper means.
+
+A person attempting to commit the offenses, as described in the preceding paragraph, is subject to a fine.
+
+## Article 22
+
+No person shall deliver, or make available to another party, the account information that he or she or others filed with a financial institution, or the account number that he or she filed with enterprises or persons providing virtual asset services or third-party payment services. However, this does not apply to those instances that are consistent with general business or financial transaction practices, or those that are based on a relationship of trust between friends and relatives, or other justifiable reasons.
+
+Violators of the preceding provisions shall be reprimanded by the police authorities of the relevant municipalities, counties (cities). The same applies to those who repeat a violation of the preceding provisions within five years after being reprimanded by the authorities.
+
+Any person, who violates the provisions of the first paragraph under one of the following circumstances, shall be punished with imprisonment of up to three years, detention, and/or a fine of up to one million New Taiwan Dollars:
+
+1.Committing the crime while making promises or quid pro quo.
+
+2.The total number of accounts or account numbers delivered or supplied is three or more.
+
+3.Repeating the crime within five years after first being reprimanded by the police authorities of the relevant municipalities, counties (cities), pursuant to the provisions of the preceding paragraph or the fourth paragraph.
+
+The circumstances, as described in the first or second subparagraph of the preceding paragraph, shall be sanctioned jointly by the relevant authorities, pursuant to the provisions of the second paragraph.
+
+If provisions of paragraph 1 are violated, the said financial institutions, enterprises or persons providing virtual asset services or third-party payment services shall suspend or restrict all or part of the functions of existing accounts or new accounts they intend to open for a period of time, or simply close those accounts.
+
+The identification criteria for the aforementioned accounts and account numbers, the duration, scope, procedures, methods, and operating procedures for suspension, restriction of functions, or closure, shall be determined by the Ministry of Justice, in conjunction with the central authorities in charge of the relevant businesses.
+
+The competent police authority shall, in conjunction with the competent social welfare authority, establish a case declaration mechanism. Upon the issuance of a warning concerning such activities, in accordance with the provisions of the second paragraph, if an individual or a family is known to be in need of social assistance, they should notify the relevant social welfare authorities in their municipality or county (city) to obtain social assistance, as prescribed in the Public Assistance Act.
+
+## Article 23
+
+When a representative, agent, employee or other employee of a legal person commits an offence specified in the preceding four Articles while performing his or her duties of business, in addition to punish the offender, the legal person shall also be fined not more than ten times of the amount, except when the representative or natural person of a legal person has tried his or her best to prevent committing the offence.
+
+If a person who commits an offense specified in Articles 19 to 21, surrenders after committing the offense, and voluntarily surrenders all illegal money and property he or she has acquired, his or her sentence shall be reduced or exempted; and as a result, the judicial police or prosecutors will be able to seize all laundered money or property, or discover other principal offenders or accomplices, shall be exempted from punishment.
+
+If a person who commits an offense prescribed in the preceding four Articles, confesses during the investigation or trial, and voluntarily surrenders all illegal money and property he or she has acquired, his or her sentence shall be reduced; and as a result, the judicial police or prosecutors will be able to seize all laundered money or property, or discover other principal offenders or accomplices, his or her sentence shall be reduced or he or she shall be exempted from punishment.
+
+The offences prescribed in Article 19, Article 20 or Article 21 shall apply when citizens of the Republic of China commit such offences outside the territory of the Republic of China.
+
+The offense prescribed in Article 19 does not require the act or the result of specified unlawful activity to be undertaken or take place within the territory of the Republic of China, unless the specified unlawful activity is not punishable by the law of the place of the act.
+
+## Article 24
+
+Public officials who disclose or deliver documents, pictures, information or objects relating to reported transactions suspected of violating provisions under Articles 19 and 20, or to suspected offences listed in Articles 19 and 20, shall be sentenced to imprisonment of not more than three years.
+
+Any person who commits an offense prescribed in paragraphs 1 to 3 of Article 5 is not a public official and who discloses or delivers documents, pictures, information or objects relating to reported transactions suspected of violating provisions under Articles 19 and 20, or relating to suspected offences prescribed in Articles 19 and 20, shall be sentenced to imprisonment of not more than two years, short-term imprisonment, or a fine of not more than NT$500,000.
+
+## Article 25
+
+When a person commits an offence prescribed in Articles 19 and 20, the laundered money or property he or she acquired shall be confiscated regardless of whether the laundered money or property belongs to the offenders.
+
+When a person commits an offence prescribed in Articles 19 and 20, if there is sufficient evidence confirming that the money or property—not prescribed in the preceding paragraph—acquired or at the disposal of the offender, is in fact illegal gains of other unlawful activities, the said money or property shall be confiscated as well.
+
+In the event that a request for assistance for seizing and confiscation actions is made by foreign governments, institutions or international organizations, based on treaties or agreements concluded in accordance with Article 28, or on the principle of reciprocity, if the criminal activity involved constitutes an offence prescribed in Article 3, the assistance shall be provided even if the investigation or trial does not take place in the jurisdiction of the country.
+
+## Article 26
+
+In the event that proceeds of unlawful activity confiscated in accordance with this Act are assets other than cash or negotiable securities, the Ministry of Justice may distribute such proceeds to prosecutors’ offices, judicial police agencies, or other government agencies assisting the investigation of money laundering activity, for official use.
+
+For proceeds of unlawful activity confiscated or recovered as a result of assistance or efforts by this government and foreign governments, institutions or international organizations, based on treaties or agreements concluded in accordance with Article 28, or on the principle of reciprocity, the Ministry of Justice may return or share the property confiscated to, or request for return or sharing the property confiscated from, foreign governments, institutions or international organizations, based on treaties or agreements concluded, or on the principle of reciprocity.
+
+The Executive Yuan shall establish the regulations governing the distribution of confiscated property prescribed in the preceding two paragraphs.
+
+## Article 27
+
+The Ministry of Justice may set up a fund to perform operational duties concerning combating money laundering.
+
+## Article 28
+
+The government may enter into treaties or agreements on combating money laundering with foreign governments, institutions or international organizations, on the principle of reciprocity.
+
+With regard to requests for assistance made by foreign governments, institutions or international organizations, unless otherwise prescribed in the applicable treaties or agreements, information concerning declarations, reports or investigation results gathered based on Articles 12 to 14 may be provided based on the principle of reciprocity.
+
+Information exchanged in accordance with treaties or agreements other than the provisions of paragraph 1, may be used based on the principle of reciprocity for the purpose of preventing money laundering or financing of terrorists.
+
+The provisions of the preceding three paragraphs shall apply mutatis mutandis to the prevention of money laundering among Taiwan, the Mainland, Hong Kong and Macau.
+
+## Article 29
+
+In order to investigate money laundering offense, a prosecutor may, in accordance with his or her power or upon request from a judicial police officer, submit an investigation plan that is delivered under control, attach relevant information, and submit it to the Chief prosecutor for approval before issuing an investigation command writ.
+
+The investigation plan delivered under control specified in the preceding paragraph shall record the following matters:
+
+\1. The age of the criminal suspect or defendant.
+
+\2. The offense committed.
+
+\3. The facts of the offense.
+
+\4. The necessity of using investigation plan that is delivered under control.
+
+\5. The type, subject of money laundering activities and amount of laundered money.
+
+\6. The time, methods and other actions required to investigate the offense.
+
+\7. Other necessary matters.
+
+## Article 30
+
+For the inspection and review under Paragraph 2 of Article 7 and for the decision and its investigation under Paragraphs 4 and 5 of Article 7, Paragraph 5 of Article 8, Paragraph 4 of Article 10, Paragraph 4 of Article 12 and Paragraph 5 of Article 13, the central competent authorities in charge of the relevant industry may delegate the tasks to special municipality, county and provincial municipality governments, who shall report results of their inspections and reviews on a regular basis.
+
+## Article 31
+
+This Act shall come into effect on the date of promulgation, except that the implementation dates of Articles 6 and 11 are determined by the Executive Yuan.
+
+## History
+
+1.Promulgated on October 23, 1996,
+
+2.Amended and promulgated on February 6, 2003.
+
+3.Amended and promulgated on May 30, 2006.
+
+4.Amended and promulgated on July 11, 2007.
+
+5.Amended to Article 3 promulgated on June 11, 2008.
+
+6.Amended to Article 3,7~11,13 promulgated on June 10, 2009
+
+7.Amended to Article 3,17 promulgated on April 13, 2016.
+
+8.Amended and promulgated on December 28, 2016; Effective from June 28, 2017.
+
+9.Amended and promulgated on November 7, 2018
+
+10.Amended and promulgated on June 14, 2023
+
+11.Amended and promulgated on July 31, 2024

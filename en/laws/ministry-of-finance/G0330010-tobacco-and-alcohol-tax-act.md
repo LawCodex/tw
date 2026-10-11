@@ -1,0 +1,315 @@
+---
+title: "Tobacco and Alcohol Tax Act"
+title_zh: "菸酒稅法"
+identifier: "G0330010"
+type: act
+law_level: "法律"
+category: "行政＞財政部＞賦稅目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2000-04-19
+last_amended: 2025-01-24
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0330010"
+retrieved: 2026-10-12
+---
+
+# Tobacco and Alcohol Tax Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-finance/G0330010-tobacco-and-alcohol-tax-act.md](../../../zh/laws/ministry-of-finance/G0330010-tobacco-and-alcohol-tax-act.md)) is authoritative.
+
+## Chapter 1 General Provisions
+
+### Article 1
+
+Tobacco and alcohol products listed in this Act, whether manufactured domestically or imported from abroad, shall be subject to tobacco and alcohol tax in accordance with this Act.
+
+### Article 2
+
+The definitions of terms used in this Act are as follows:
+
+\1. "Manufacture" includes activities related to manufacturing or re-packaging.
+
+\2. "Tobacco products" refers to products made, wholly or in part, with tobacco plants or other tobacco plant substitutes as ingredients, in a form suitable for smoking, chewing, keeping in the mouth, sniffing or any other method. Tobacco products are classified into the following categories:
+
+(1) Cigarettes: tobacco products made by cutting tobacco plants into shreds which, after processing, are rolled with cigarette paper, with or without a filter added thereto.
+
+(2) Cut tobacco: tobacco products made by cutting tobacco plants into shreds which, after processing, are suitable for smoking.
+
+(3) Cigars: tobacco products made with cigar tobacco plants which, after processing, are wrapped and rolled into an elongated form by using filling leaves as buds and wrapping with center leaves and outer leaves, or non-leaf-rolled cigars made with cigar tobacco plants as the primary ingredients and having a distinctive cigar aroma.
+
+(4) Other tobacco products: tobacco products other than cigarettes, cut tobacco or cigars.
+
+\3. "Alcohol products" refers to beverages having an alcohol content in excess of 0.5% by volume, or un-denatured ethyl alcohol and other ethyl products which can be used for manufacturing or preparing the aforesaid beverages. However, this does not include medicated wines as prescribed in Paragraph 1, Article 4 of the Tobacco and Alcohol Administration Act. Alcohol products are classified into the following categories:
+
+(1) Brewed alcoholic beverages: following alcoholic beverages brewed from grains, cereals, fruits or other agricultural products containing starch or sugar, either by saccharification or not.
+
+i Beer: saccharized and fermented carbonated alcoholic beverages brewed from malt and hops as primary ingredients, with or without other cereals or starch as supplementary ingredients; complementary plant ingredients may or may not be added.
+
+ii Other brewed alcoholic beverages: Brewed alcoholic beverages other than beer, including various fruit-brewed alcoholic beverages, grain and cereal-brewed alcoholic beverages, honey-brewed alcoholic beverages and other alcoholic beverages made by using the brewing method.
+
+(2) Distilled spirits: alcoholic beverages made with grains, cereals, fruits or agricultural products plants containing starch or sugar as ingredients upon fermentation and distillation, after or without saccharification.
+
+(3) Reprocessed alcoholic beverages: alcoholic beverages made by using ethyl alcohol, brewed alcoholic beverages or distilled spirits as the base liquor, and adding supplemental ingredients of a zoological or botanical nature, herbs, minerals or other food additives for purposes of seasoning. Extracts of added ingredients should not be less than or equal to 2% of total volume.
+
+(4) Cooking alcoholic products: alcoholic products specified for cooking.
+
+i General cooking alcoholic products: alcoholic beverages utilizing liquor made from cereals or other starch-containing plants added with ethyl alcohol after saccharification as a base, or utilizing brewed alcoholic beverages, distilled spirits or ethyl alcohol directly as a base; with a salt content of more than 0.5% of the total volume, and with or without other flavors. The aforesaid salt content of more than 0.5% shall refer to the condition that each 1,000ml of the cooking alcoholic beverage contains more than 5g of salt.
+
+ii Cooking rice wine: alcoholic products made from rice as raw material by saccharification, fermentation, distillation, and either blended or not blended with ethyl alcohol, the alcohol content of which does not exceed 20% of the total volume, and the label on the container shall specify ‘exclusively used for cooking’.
+
+(5) Other alcoholic beverages: alcoholic beverages other than those specified in Items 1 through 4, including powder liquors and other unlisted liquors.
+
+(6) Ethyl alcohol: un-denatured ethyl alcohol with an alcohol content in excess of 90% of the total volume.
+
+\4. ”Alcohol content” refers to the volume percentage of ethyl alcohol at 20 degree Celsius.
+
+### Article 3
+
+Tobacco and alcohol tax shall be levied upon release of tobacco or alcohol products from the factory or upon importation.
+
+The taxable tobacco or alcohol products are deemed as “release from the factory” in any of the following conditions:
+
+\1. Products are provided in the factory for consumption.
+
+\2. Products are processed in the factory into non-taxable products.
+
+\3. Products in the factory are transferred to another person out of the law’s compulsory execution or for other purposes.
+
+\4. Products in stock when the manufacturer applies for de-registration.
+
+\5. Products yet to be taxed are short in quantity for a reason other than fire, water or other uncontrollable calamity after transport to factories for processing, packing or storage in untaxed warehouses or in factories.
+
+### Article 4
+
+The taxpayers of tobacco and alcohol tax are as follows:
+
+\1. For tobacco and alcohol products manufactured domestically: the manufacturer.
+
+\2. For tobacco and alcohol products manufactured on consignment basis: the consigned manufacturer.
+
+\3. For tobacco and alcohol products imported from abroad: the receiver of the products, the holder of the bill of lading or the holder of the products.
+
+\4. For tobacco and alcohol products yet to be taxed, auctioned off by the court or other agencies: the purchaser.
+
+\5. For exempted tobacco and alcohol products, which are resold or used for other purposes, having lost their tax-exempt status and on which tax shall be paid: the seller or the user, or the holder of the products.
+
+For the tobacco and alcohol products specified in Subparagraph 2 of the preceding paragraph, if the consignor is a manufacturer of taxable tobacco or alcohol products, the consignor may apply to the competent tax authority for taking the consignor as taxpayer.
+
+### Article 5
+
+Tobacco or alcohol products which meet any of the following conditions shall be exempt from tobacco and alcohol tax:
+
+\1. Products used for the manufacturing of other taxable tobacco or alcohol products.
+
+\2. Products exported abroad.
+
+\3. Products used for exhibition purposes and following the exhibition, either taken back in its original form to the factory or exported.
+
+\4. Products brought in from abroad as personal effects by either travelers or crewmembers for personal use, whose quantity does not exceed the limitation prescribed by the government.
+
+### Article 6
+
+The tobacco or alcohol tax paid on tobacco and alcohol products which meet any of the following conditions shall be refunded:
+
+\1. Products exported abroad.
+
+\2. Products used as raw materials for manufacturing export products.
+
+\3. Products returned to the factory for reprocessing or refining into taxable tobacco or alcohol products.
+
+\4. Products destroyed due to damage or the quality not conforming to the standard prescribed by the government.
+
+\5. Products physically destroyed by flood, fire or other uncontrollable force while in transit or storage.
+
+## Chapter 2 Taxable Items and Tax Amounts
+
+### Article 7
+
+The taxable tobacco products and their corresponding tax amounts are as follows:
+
+\1. Cigarettes: NT$1,590 per 1000 sticks.
+
+\2. Cut tobacco: NT$1,590 per kilo.
+
+\3. Cigars: NT$1,590 per kilo.
+
+\4. Other tobacco products: NT$1,590 per kilo or NT$1,590 per 1000 sticks, whichever is higher.
+
+### Article 8
+
+The taxable alcohol products and their corresponding tax amounts are as follows:
+
+\1. Brewed alcoholic beverages:
+
+(1) Beer: NT$26 per litre.
+
+(2) Other brewed alcoholic beverages: NT$7 per litre per degree of alcohol content.
+
+\2. Distilled spirits: NT$2.5 per litre per degree of alcohol content.
+
+\3. Reprocessed alcoholic beverages: alcohol content exceeding 20% by volume at NT$185 per litre; alcohol content not exceed 20% by volume at NT$7 per litre per degree of alcohol content.
+
+\4. Cooking alcoholic products: NT$9 per litre.
+
+\5. Other alcoholic beverages: NT$7 per litre per degree of alcohol content.
+
+\6. Ethyl alcohol: NT$15 per litre.
+
+## Chapter 3 Tax Collection
+
+### Article 9
+
+In addition to obtaining a permit in accordance with the relevant provisions of the Tobacco and Alcohol Administration Act, tobacco or alcohol manufacturers shall, prior to commencing manufacture, apply to the competent tax authority at the place where the factory is located for registration as a tobacco or alcohol manufacturer and for its tobacco and alcohol products.
+
+### Article 10
+
+Where there is a change to any registered items of the manufacturer, or where there is a dissolution or termination of the operation, the manufacturer shall apply to the competent tax authority for amendment or cancellation of the registration and shall pay the tax payable within 15 days from the day the event takes place.
+
+If a manufacturer has ceased production for over one year, moved to an unknown location or the permit licenses of the business have been nullified, revoked or abolished by the central competent authority, the competent tax authority may proceed to cancel the registration of the manufacturer. However, if the aforesaid manufacturer is found to have untaxed stock, owe tobacco and alcohol tax, or have unsettled cases of violation, the aforesaid registration will only be cancelled after all such cases are settled.
+
+### Article 11
+
+The manufacturer shall, according to regulation, set up and keep accounting books, vouchers and accounting records sufficient for the accurate calculation of tobacco and alcohol tax.
+
+### Article 12
+
+The manufacturer shall pay to the government treasury, prior to the 15th of the following month, the tax payable on the tobacco or alcohol products released from the factory in the current month, and file with the competent tax authority a tax return in the form prescribed by the Ministry of Finance (hereinafter referred to as the MOF), setting out the tax payable and attaching the tax payment receipt thereto. This provision also applies to the case where there is no tax payable.
+
+In the case of importation of taxable tobacco or alcohol products, the taxpayer shall file a report with the customs office, and the tobacco or alcohol tax shall be collected by the customs office on behalf of the competent tax authority.
+
+In the case of tobacco or alcohol products yet to be taxed, auctioned off by the court or other agencies, tax shall be paid to the competent tax authority at the place where the tobacco or alcohol products are located prior to delivery thereof.
+
+### Article 13
+
+Any additional tax payable and surcharges for delinquent reporting or non-reporting as provided in this Act shall be made known to the taxpayer by the competent tax authority through a payment notice demanding payment to the government treasury within 15 days following receipt of the notice.
+
+### Article 14
+
+If the manufacturer does not pay the tax payable and file the report required within the prescribed time limit, as prescribed in Paragraph 1, Article 12, the competent tax authority shall immediately notify the manufacturer to pay or file within 3 days. If the manufacturer still fails to do so within the specified time limit, the competent tax authority shall immediately proceed to investigate and, where there is tax payable, assess the tax payable. If the manufacturer does not pay the assessed tax within the prescribed time limit, the competent tax authority may prohibit the manufacture from releasing the tobacco or alcohol products from the factory until the tax is fully paid.
+
+### Article 15
+
+In the event that a tobacco or alcohol case is suspected of tax evasion and committing a crime, the competent tax authority shall state the facts and apply to the judicial authority to issue a search warrant and, in conjunction with the local police or self-governing personnel, enter the premises where the accounting books, documents or evidence are kept in order to conduct a search. During the search, persons who are not personnel of the aforesaid agencies shall not be allowed to participate in it. The relevant accounting books, documents or evidence obtained from the search shall all be taken back by the personnel participating in the search to the said competent tax authority for processing according to act.
+
+When the judicial authority receives the application referred to in the preceding paragraph from the competent tax authority and considers it reasonable, it shall promptly issue the search warrant; the competent tax authority shall complete the search within 10 days after the search warrant has been issued and shall return the search warrant to the judicial authority.
+
+## Chapter 4 Penalties
+
+### Article 16
+
+In any of the following circumstances, the taxpayer shall be subject to a fine of not less than NT$10,000 but not more than NT$50,000, in addition to being notified to comply with the requirements or make corrections; a continuous fine may be imposed if the correction is not made within the specified time limit.
+
+\1. Failing to apply for registration as prescribed in Articles 9 or 10.
+
+\2. Failing to make statements or making false statements as prescribed in the Regulations for the Collection of Tobacco and Alcohol Tax.
+
+\3. Failing to set up and keep accounting books, evidential documents and relevant records as prescribed in Article 11.
+
+### Article 17
+
+Where the manufacturer fails to file a tax return within the time limit prescribed in Paragraph 1 of Article 12 but has filed the tax return and paid the tobacco and alcohol tax and the health and welfare surcharge owed within the time limit as prescribed in Article 14 upon the notification of the competent tax authority, a surcharge of 1% for delinquent reporting shall be added to the total amount of the tobacco and alcohol tax and the health and welfare surcharge owed; the amount of such surcharge shall not exceed NT$100,000 but shall not be less than NT$10,000.
+
+Where the manufacturer still fails to file the return and pay the tobacco and alcohol tax and the health and welfare surcharge owed within the time limit as prescribed in Article 14, a surcharge of 2% for non-reporting shall be added to the total amount of the tobacco and alcohol tax and the health and welfare surcharge owed as assessed by the competent tax authority upon investigation; the amount of such surcharge shall not exceed NT$200,000 but shall not less than NT$20,000.
+
+Where the manufacturer as referred to in the preceding two paragraphs has no tobacco and alcohol tax and the health and welfare surcharge owing, the surcharge shall be NT$5,000 for delinquent reporting and NT$10,000 for non-reporting.
+
+### Article 18
+
+A taxpayer, failing to pay any amount of tobacco and alcohol tax and the health and welfare surcharge on tobacco products within the specified time limit, shall be subject to a surcharge on belated payment.
+
+Interest on the aforesaid tax and the health and welfare surcharge due are calculated at the fixed interest rate on January 1 of each year for a one-year time deposit of postal savings, shall accrue daily from the next day following the prescribed payment deadline to the date of full payment by the taxpayer or the date of compulsory enforcement.
+
+### Article 19
+
+In any of the following circumstances, the taxpayer shall be pursued for payment of taxes and surcharge and be fined no more than 3 times the amount of tax or surcharge evaded:
+
+\1. Manufacturing taxable tobacco or alcohol products and releasing the products from the factory without applying for registration as prescribed in Article 9.
+
+\2. Manufacturing taxable tobacco or alcohol products and releasing the products from the factory within the time limit, as prescribed in Article 14, during which products are forbidden to be released from the factory.
+
+\3. Failing to declare imported products and pay the tobacco and alcohol tax and the health and welfare surcharge at the time of importation.
+
+\4. Failing to pay the tobacco and alcohol tax and the health and welfare surcharge while selling or using exempt products for a purpose not originally intended.
+
+\5. The quantities of raw materials or finished products in stock differ from those recorded in the account books.
+
+\6. Failing to report or under-reporting the taxable quantity of the products.
+
+\7. Falsely reporting the classification of tobacco or alcohol products.
+
+\8. Any other evasion of the tobacco and alcohol tax and the health and welfare surcharge.
+
+## Chapter 5 Supplementary Provisions
+
+### Article 20
+
+Regulations pertaining to registration, tax collection, tax exemption and tax refund in this Act shall be prescribed by the MOF.
+
+### Article 20-1
+
+After the articles amended on April 21, 2017 came into force, the tax revenues from raising the tobacco and alcohol tax amounts from NT$590 to NT$1,590 referred to in Article 7 shall be appropriated for the long-term care service development fund established in accordance with the Long-Term Care Services Act, and used for long-term care services, notwithstanding the provisions of the Act Governing the Allocation of Government Revenues and Expenditures.
+
+### Article 21
+
+(Deleted)
+
+### Article 22
+
+The health and welfare surcharges on tobacco products shall be collected by the competent tax authority of the tobacco and alcohol taxes when such taxes are collected.
+
+### Article 22-1
+
+Articles 3 through 6 and the rules of tax collection, taxpayers, exemption, refund and enforcement prescribed in Chapter 3 shall apply mutatis mutandis to the health and welfare surcharge.
+
+### Article 23
+
+This Act shall come into force from the date determined by the Executive Yuan.
+
+Implementation of the amendments made to articles of this Act shall come into force from the date determined by the Executive Yuan, except in the case of those articles amended on June 12, 2002, June 14, 2017, and January 7, 2025, which shall take effect as of the date of promulgation hereof.
+
+## History
+
+\1. Promulgated on 19 April, 2000 by Presidential Decree (89) Hua–Tsung-1-Yi-Tze No. 8900098140.
+
+The Tobacco and Alcohol Tax Act come into force on 1 January, 2002 by Executive Yuan Decree (90) Yuan-Tai-Tsai-Tze No. 069671 on 29 November, 2001.
+
+\2. Article 17~19, Article 23 are amended; Article 22-1 is added; are promulgated by Presidential Decree Hua–Tsung-1-Yi-Tze No. 091000116810 on 20 June, 2002.
+
+\3. Article 22 and Article 23 are amended and promulgated by Presidential Decree Hua–Tsung-1-Yi-Tze No. 09500005901 on 18 January, 2006. The effective date of the promulgation shall be decided by the Executive Yuan.
+
+The amendments come into force on 16 February, 2006 by Executive Yuan Decree Yuan-Tai-Tsai-Tze No. 0950003674 on 27 January 2006.
+
+\4. Article 2, Article 3, Article 8 and Article 10 are amended and promulgated by Presidential Decree Hua–Tsung-1-Yi-Tze No. 09700053481 on 7 May, 2008. The effective date of the promulgation shall be decided by the Executive Yuan.
+
+The amendments come into force on 16 May, 2008 by Executive Yuan Decree Yuan-Tai-Tsai-Tze No. 0970017325 on 12 May, 2008.
+
+\5. Article 21 is amended and promulgated by Presidential Decree Hua–Tsung-1-Yi-Tze No. 09700250521 on 26 November, 2008. The effective date of the promulgation shall be decided by the Executive Yuan.
+
+The amendments come into force on 26 November, 2008 by Executive Yuan Decree Yuan-Tai-Tsai-Tze No. 0970053622 on 26 November, 2008.
+
+\6. Article 8 is amended and promulgated by Presidential Decree Hua–Tsung-1-Yi-Tze No. 09800118231 on 13 May, 2009. The effective date of the promulgation shall be decided by the Executive Yuan.
+
+The amendment come into force on 1 June, 2009 by Executive Yuan Decree Yuan-Tai-Tsai-Tze No. 0980028996 on 22 June, 2009.
+
+\7. Article 22 is amended and promulgated by Presidential Decree Hua–Tsung-1-Yi-Tze No. 09800323221 on 30 December, 2009. The effective date of the promulgation shall be decided by the Executive Yuan.
+
+The amendments come into force on 30 December, 2009 by Executive Yuan Decree Yuan-Tai-Tsai-Tze No. 0980112033 on 30 December, 2009.
+
+\8. Article 2 is amended and promulgated by Presidential Decree Hua–Tsung-1-Yi-Tze No. 09900224421 on 1 September, 2010. The effective date of the promulgation shall be decided by the Executive Yuan.
+
+The amendments come into force on 16 September, 2010 by Executive Yuan Decree Yuan-Tai-Tsai-Tze No. 0990050126 on 6 September, 2010.
+
+\9. Articles 7 and Article 20 are amended; Article 20-1 is added; and promulgated on 10 May 2017 by Presidential Decree Hua-Tzung-1-Yi-Tze No. 10600056421.
+
+The amendments come into force on 12 June 2017 by Executive Yuan Decree Yuan-Tai-Tsai-Tze No. 1060015615 on 16 May, 2017.
+
+\10. Article 18 and Article 23 are amended and promulgated on 14 June, 2017 by Presidential Decree Hua–Tsung-1-Yi-Tze No. 10600073241.
+
+\11. Article 7 is amended on 8 February 2023 by Presidential Decree No. Hua–Tsung-1-Jing -Tze No. 11200009201. The effective date of the promulgation shall be decided by the Executive Yuan.
+
+The amendments come into force on 1 April 2023 by Executive Yuan Decree Yuan-Tai-Tsai-Tze No. 1125004845 on 24 March, 2023.
+
+\12. Article 18, Article 19 and Article 23 are amended; Article 21 is deleted; and promulgated on 24 January 2025 by Presidential Decree No. Hua–Tsung-1-Jing -Tze No.11400008841.

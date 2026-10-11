@@ -1,0 +1,147 @@
+---
+title: "Fiscal Discipline Act"
+title_zh: "財政紀律法"
+identifier: "G0320034"
+type: act
+law_level: "法律"
+category: "行政＞院本部＞通用目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2019-04-10
+last_amended: 2019-04-10
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0320034"
+retrieved: 2026-10-12
+---
+
+# Fiscal Discipline Act
+
+> Translation. The Chinese text ([zh/laws/executive-yuan/G0320034-fiscal-discipline-act.md](../../../zh/laws/executive-yuan/G0320034-fiscal-discipline-act.md)) is authoritative.
+
+## Chapter 1 General Principles
+
+### Article 1
+
+This Act is enacted for the purpose of improving the public finance of central and local governments, implementing the spirit of zero-based budgeting, maintaining an appropriate scale of expenditure, strictly controlling the budget deficit and the amount of public debt, pursuing the sustainable development of the country, and exercising fiscal discipline.
+
+Any matter related to the regulation of fiscal discipline that is not fully provided for in this Act shall be subject to the application of other relevant laws.
+
+### Article 2
+
+Terms used in this Act are defined as follows:
+
+1.Fiscal discipline: restraining the growth of government spending, lowering the budget deficit, and controlling public debt and relevant financing measures, unaffected by political and electoral factors, so as to cause the government and political parties to place importance on the norms of fiscal responsibility and national interests.
+
+2.Tax expenditures: subsidies provided by the government to achieve economic, social, or other specific policy goals by using tax credits, tax base reductions, cost-plus reductions, tax-free items, tax deferrals, preferential tax rates, tariff reductions, or other tax-reducing tax incentive methods to provide tax benefits to specific targets.
+
+3.Public debt: public debt as defined in the Public Debt Act.
+
+4.Nonprofit Special Funds: Debt Service Funds, Operations Funds, Special Revenue Funds, and Capital Project Funds referred to in Article 4 of the Budget Act.
+
+### Article 3
+
+This Act shall be performed ex officio by the Ministry of Finance; the Directorate-General of Budget, Accounting and Statistics, Executive Yuan (hereinafter referred to as the DGBAS); the National Audit Office; and related agencies.
+
+## Chapter 2 Government Revenues and Expenditures
+
+### Article 4
+
+Before issuing its formal forecast of aggregate resource supply and demand, the DGBAS shall invite non-governmental organizations, experts, and academics to conduct external evaluations.
+
+If the difference from evaluation results reaches 20%, the DGBAS shall provide an explanation for the difference.
+
+### Article 5
+
+If a bill proposed by a central government agency at any level or by a member of the Legislative Yuan substantially increases the government's annual expenditures or reduces annual revenues, the source of the supplementary capital shall be specified first.
+
+The provisions of the preceding paragraph shall apply mutatis mutandis if a local ordinance or regulation proposed by a local government or legislative body at any level increases the government's annual expenditures or reduces annual revenues.
+
+### Article 6
+
+When a central government agency at any level proposes any tax expenditure law or regulation, it shall confirm that it does not constitute any harmful tax practice and take stock of the circumstances in which the policy instruments of the competent authorities in charge of the matters concerned are used and the results of their implementation, and carefully assess the necessity of continuing or adding tax incentives.
+
+If it is assessed that there is indeed a need to adopt tax expenditures, it shall conduct detailed study and analysis on the implementation benefits and costs of the tax expenditure law or regulation, the amount of tax revenue losses, the method for raising the required funds, the implementation period, and the performance evaluation mechanisms, to ensure the feasibility and effectiveness thereof.
+
+Operation regulations for evaluating tax expenditures shall be separately prescribed by the Executive Yuan.
+
+The governments of special municipalities and counties/cities shall prepare tax expenditure reports on local tax items and include them in the general budget for the local government.
+
+### Article 7
+
+When a government or legislative body at any level enacts (adopts) or amends any law, regulation, or local ordinance or regulation, it shall not introduce any fixed budgetary allocation quota or ratio guarantee or establish any fund as a means to limit the use of any existing government revenues to use only for specific purposes.
+
+### Article 8
+
+Central government Nonprofit Special Funds may be established only as provided by law or to meet important administrative needs, in accordance with the provisions of Article 4 of the Budget Act, and shall have a special (designated) source of funding.
+
+For a fund to be newly established under the preceding paragraph, it is requisite that the special (designated) source of funding shall have new and sufficient financial resources other than existing government revenue or national treasury appropriations, and that the business to be handled under the fund cannot be incorporated under an existing fund for handling.
+
+The establishment, custody, utilization, assessment, merger, and dissolution of central government Nonprofit Special Funds shall not exclude the application of the Budget Act, Accounting Act, Financial Statement Act, Audit Act and related laws and regulations. However, this shall not apply to Nonprofit Special Funds for which exclusionary provisions have already been adopted before the enforcement of this Act.
+
+A Nonprofit Special Fund of the central government shall be dissolved when dictated by a change in situation, or by poor performance in execution, or when the purpose for which the fund was established has been accomplished, or upon expiration of the duration for which the fund was established. The dissolution mechanism shall be separately formulated by the Executive Yuan.
+
+The preceding four paragraphs apply mutatis mutandis to Nonprofit Special Funds under the jurisdiction of governments of special municipalities and counties/cities.
+
+### Article 9
+
+The review of any budget proposal shall focus on the reason for any increase in expenditures or decrease in revenues, plans for raising alternative sources of revenue, and debt settlement plans.
+
+### Article 10
+
+When there is a substantial shortfall in the annual revenues of a legal budget, the administrative agency shall propose additional reductions in the annual budget expenditures to make up the deficit. Unless otherwise resolved by a legislative body, it shall not be financed by means of borrowing.
+
+### Article 11
+
+The cost-efficiency analysis reports on alternative measures and substitute measures for major public construction projects and major policy implementation plans of governments at all levels shall be published on relevant websites in accordance with the Freedom of Government Information Act.
+
+### Article 12
+
+The central government shall formulate a control mechanism for local governments with abnormal fiscal discipline.
+
+The control mechanism for abnormalities mentioned in the preceding paragraph shall be separately prescribed by the Executive Yuan.
+
+## Chapter 3 Deficit and Public Debt
+
+### Article 13
+
+Governments at all levels shall specifically propose target years for mid- to long-term balanced budgets and related structural adjustment plans for annual revenues and annual expenditures and publish them on their websites. When any change is made, the reason for the change and the impact on the targets shall be specified.
+
+### Article 14
+
+Governments at all levels shall follow Paragraph 2, Article 4 and Paragraphs 7 and 8, Article 5 of the Public Debt Act with respect to the loan cap for debt incurred to make up the deficit for a given fiscal year and newly incurred debt other than new borrowings to roll over maturing debt.
+
+When the central government sets the loan cap for a given fiscal year under the preceding paragraph by means of a special budget, if it is not subject to the restrictions of Paragraph 7, Article 5 of the Public Debt Act, its aggregate total loan cap during the period of enforcement of the Special Act shall not exceed 15 percent of the aggregate sum of annual expenditures under its general budget and special budget for that period.
+
+The forecasted amount of outstanding public debt with a maturity of 1 year or longer incurred by a government at any level under the preceding two paragraphs shall be handled in accordance with Paragraph 1, Article 5 of the Public Debt Act.
+
+### Article 15
+
+The competent authorities for public debt administration shall prepare monthly public debt statements and disclose them on the government website on a monthly basis.
+
+A debt improvement plan or debt repayment plan drawn up by a government at any level under Article 6 or 9 of the Public Debt Act shall be published after its approval, and the status of its implementation shall be published monthly.
+
+### Article 16
+
+Governments at all levels shall disclose quarterly on their websites the amounts they draw down for financing purposes from special funds, the drawdown periods, and the accounting statements of those special funds.
+
+## Chapter 4 Penal Provisions
+
+### Article 17
+
+Any civil servant who violates the provisions of this Act shall be referred to the Control Yuan for impeachment or censure.
+
+## Chapter 5 Supplementary Provisions
+
+### Article 18
+
+If government annual revenues, annual expenditures, or decisions relating thereto violate relevant provisions of the Budget Act, relevant authorities or groups may state the specific details and request the auditing authority in writing to handle the violation in accordance with law.
+
+### Article 19
+
+This Act shall come into force on the date of promulgation.
+
+## History
+
+\1. Full text of nineteen Articles promulgated per 10 April 2019 Presidential Order No. Hua-Zong-I-Jing-10800034691; for enforcement from the date of promulgation

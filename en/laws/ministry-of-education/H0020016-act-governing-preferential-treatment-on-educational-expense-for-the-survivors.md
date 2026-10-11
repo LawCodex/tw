@@ -1,0 +1,81 @@
+---
+title: "Act Governing Preferential Treatment on Educational Expense for the Survivors of Military and Civil Servants and School Educators"
+title_zh: "軍公教遺族就學費用優待條例"
+identifier: "H0020016"
+type: act
+law_level: "法律"
+category: "行政＞教育部＞教育通用目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1948-11-13
+last_amended: 2000-01-19
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=H0020016"
+retrieved: 2026-10-12
+---
+
+# Act Governing Preferential Treatment on Educational Expense for the Survivors of Military and Civil Servants and School Educators
+
+> Translation. The Chinese text ([zh/laws/ministry-of-education/H0020016-act-governing-preferential-treatment-on-educational-expense-for-the-survivors.md](../../../zh/laws/ministry-of-education/H0020016-act-governing-preferential-treatment-on-educational-expense-for-the-survivors.md)) is authoritative.
+
+## Article 1
+
+This Act is specifically formulated to provide educational assistance to the surviving next of kin of military and civil servants and school educators (hereinafter referred to as "the survivors").
+
+## Article 2
+
+The term "survivors" mentioned in this Act refers to the legitimate children, adopted children or siblings, who receive bereavement compensation in accordance with the law, of the military and civil servants and school educators who de-ceased due to combat, duty, illness or accident.
+
+The military, civil servants and school educators mentioned in the pre-ceding paragraph refer to active officers, noncommissioned officers, and soldiers of the army, navy, and air force, as well as personnel within the budgetary personnel headcount of governmental agencies and schools.
+
+## Article 3
+
+The survivors entitled to annual bereavement compensation of military and civil servants or school educators who died due to combat or official services shall receive a full waiver of education public funding. The survivors entitled to annual bereavement compensation of military and civil servants or school educators who died due to illness or accident shall receive a half waiver of education public funding. The survivor whose bereavement compensation has expired or who has already received lump sum compensation bereavement may be granted tuition and fees waiver or exemption pursuant to the regulations provided by the competent education administrative authority.
+
+The preferential treatment mentioned in the preceding paragraph shall be limited to the period during which a student is registered at a domestic school and is within the statutory limit on the duration of that course of study.
+
+## Article 4
+
+The preferential treatment mentioned in the preceding paragraph include tuition, miscellaneous fees, uniform, books, staple diet, and non-staple diet costs.
+
+The tuition and miscellaneous fees in the preceding paragraph shall be subject to the regulations provided by the competent educational administration authority. In terms of other fees, for colleges and universities shall be based on the standard of public funds for teacher training, and for schools below secondary schools, the fees shall be separately determined by the competent education administrative authority.
+
+## Article 5
+
+Eligible survivors who meet the pro-visions of this Act and other government education subsidies and preferential treatment at the same time should choose one of them to apply.
+
+## Article 6
+
+The survivors of the military and civ-il servants or school educators shall submit the bereavement payment order, bereavement order, bereavement compensation certificate, or other supporting documents issued by the Department of Defense, Ministry of Civil Services, or the competent education administrative authority when applying for preferential treatment on educational expense and shall meet the school-set deadline for application.
+
+## Article 7
+
+The school that received the application mentioned in the preceding article shall submit the application to the competent education administrative authority for approval.Once approved, preferential treatment will be granted until graduation.
+
+## Article 8
+
+Among the various expenses for the preferential treatment, tuition and miscellaneous fees for public schools will be directly waived by each school. The remaining expenses shall be budgeted and supported by each school or the competent educational administration authority. Private schools shall be provided with budgeted subsidies by the competent educational administration authority.
+
+## Article 9
+
+Students approved for preferential treatment in accordance with this Act shall cease the preferential treatment im-mediately if in any of the following situations:
+
+1.Those who have legal grounds for losing or stopping receiving bereavement compensation in accordance   with the law.
+
+2.Those who take a leave of absence, drop out of school, or are expelled from school.
+
+For students who take a leave of absence or drop out of school during the semester, the payment of   staple diet and non-staple diet fees will be stopped from the month of leaving school. Fees that have   been issued will not be recovered. However, when resuming or re-enrolling in school during the   semester, the fees that have been issued before taking leave of absence or drop-ping out from school,   cannot be claimed again.
+
+## Article 10
+
+This Act shall become effective on the date of promulgation.
+
+## History
+
+\1. November 13, 1948, by Presidential Decree Kan-Zong-Tong-Fu-Gong-Bao No.2783, the entire contents of the promulgation contains 10 articles.
+
+\2. July 27, 1992, by Presidential Decree Hua-Zong-(1)-Yi-Zi No.3641, the promulgated decree revises the name and the entire 10 articles(Original name:Preferential Schooling Measures for Children Affected by the Revolutionary and Anti-Japanese Wars).
+
+\3. January 19, 2000, by Presidential Decree (89) Hua-Zong-(1)-Yi No. 8900011910, the promulgation revises Article 4 of the Act.

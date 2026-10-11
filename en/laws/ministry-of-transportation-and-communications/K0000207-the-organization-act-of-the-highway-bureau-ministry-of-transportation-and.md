@@ -1,0 +1,97 @@
+---
+title: "The Organization Act of the Highway Bureau, Ministry of Transportation and Communications"
+title_zh: "交通部公路局組織法"
+identifier: "K0000207"
+type: act
+law_level: "法律"
+category: "行政＞交通部＞組織目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2023-06-07
+last_amended: 2026-02-11
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0000207"
+retrieved: 2026-10-12
+---
+
+# The Organization Act of the Highway Bureau, Ministry of Transportation and Communications
+
+> Translation. The Chinese text ([zh/laws/ministry-of-transportation-and-communications/K0000207-the-organization-act-of-the-highway-bureau-ministry-of-transportation-and.md](../../../zh/laws/ministry-of-transportation-and-communications/K0000207-the-organization-act-of-the-highway-bureau-ministry-of-transportation-and.md)) is authoritative.
+
+## Article 1
+
+The Ministry of Transportation and Communications (MOTC) shall specially set up the Highway Bureau (hereinafter referred to as the &quot;Bureau&quot;) to handle highway engineering and highway management matters.
+
+## Article 2
+
+The Bureau shall take charge of the following matters:
+
+(1)Highway development and construction planning.
+
+(2)Maintenance of and improvements to provincial highways, and supervision of the construction, maintenance, and management of county, township, and district roads.
+
+(3)Highway construction and renovation.
+
+(4)Planning, execution, supervision and management of highway regulatory matters, and identification and review of traffic accidents.
+
+(5)Traffic management and highway safety maintenance.
+
+(6)Planning, execution, and supervision of highway transportation management.
+
+(7)Geological survey for highways, testing of project materials, mix proportion design of materials, management of construction quality, and technological research and development.
+
+(8)Automobile traffic safety, training and certification of professional skills, and training for highway personnel.
+
+(9)Highway engineering and regulatory matters concerning digital transformation, climate change, and transportation science and technology.
+
+(10)Other matters relevant to highway engineering and regulatory administration.
+
+## Article 3
+
+The Bureau shall have one director general with a rank equivalent to that of a Grade-13 senior executive officer, and two deputy director generals with a rank equivalent to that of a Grade-12 senior executive officer.
+
+## Article 4
+
+The Bureau shall have one secretary general of a rank equivalent to that of a Grade-11 senior executive officer.
+
+## Article 5
+
+Subordinate agencies of the Bureau and their business matters are as follows:
+
+(1)Regional maintenance offices: Implementation of highway maintenance and improvement.
+
+(2)Regional highway construction and engineering offices: Implementation of highway construction and renovation.
+
+(3)Regional motor vehicles offices: Implementation of highway supervision, transportation management, and traffic accident identification.
+
+## Article 6
+
+Official ranks, grades, and the number of personnel at the Bureau shall be separately provided in an organization table.
+
+## Article 7
+
+The provisions of the following subparagraphs shall apply to personnel at the Directorate General of Highways, MOTC, and subordinate agencies (institutions) thereof who are transferred to the Bureau and to whom the original act is applicable before the implementation of the Act:
+
+(1)Incumbent personnel at or above the level of assistant whose appointments have been duly reviewed and approved pursuant to the Transportation Enterprise Personnel Appointment Act may, prior to June 18, 2024, apply mutatis mutandis the Regulations Governing the Qualifications and Seniority Recognition for Reciprocal Transfers between Transportation Enterprise Personnel and Transportation Administrative Personnel (hereinafter referred to as the “Regulations on Reciprocal Transfers of the Two Categories of Personnel”) to apply for a transfer, or continue to be governed by the provisions of original laws and regulations. From the day following the expiration of the aforesaid period, personnel who continue to be governed by original laws and regulations may be reassigned to other positions at the Bureau or subordinate agencies (institutions).
+
+(2)Incumbent employees at the level of clerk whose appointments have been duly assessed and recorded pursuant to the Act Governing the Appointment of Personnel of Traffic Enterprises may, in accordance with the provisions of original applicable laws and regulations or upon obtaining a higher-level qualification, be reassigned to other positions within the Bureau and subordinate agencies (institutions).
+
+The rank promotion examination for highway personnel of transportation enterprises in place prior to the implementation of this Act shall cease to be conducted after February 12, 2023.
+
+Personnel referred to in Paragraph 1 who continue to be governed by original laws and regulations may take the rank promotion examination for highway personnel of transportation enterprises; where such personnel are reassigned to other positions at the Bureau or subordinate agencies (institutions), the Regulations on Reciprocal Transfers of the Two Categories of Personnel shall apply mutatis mutandis prior to June 18, 2024.
+
+Personnel referred to in Paragraph 1 who have been transferred pursuant to civil service appointment laws and regulations shall not thereafter elect to be governed by the provisions of original laws and regulations.
+
+Incumbent personnel of the former Directorate General of Highways, MOTC, and subordinate agencies (institutions) whose appointments had been duly reviewed and approved prior to the implementation of this Act and who had already been enrolled in Labor Insurance may elect to continue enrollment in Labor Insurance on the basis of the original official level (rank) and position determined at the time of transfer or retention. Where such personnel are reassigned to other positions or promoted to the next level, they shall enroll in Civil Servant and Teacher Insurance in accordance with applicable regulations.
+
+## Article 8
+
+The date of implementation of the Act shall be determined in an order issued by the Executive Yuan.
+
+## History
+
+1.Eight Articles promulgated on June 7, 2023, by Presidential Order No. Hua-Zong-I-Yi-Zi-11200046751.
+
+2.By Presidential Order Hua-Zong-Yi-Yi No. 11500012851 dated February 11, 2026, Article 7 was amended and promulgated. The date of implementation shall be determined by an order of the Executive Yuan.

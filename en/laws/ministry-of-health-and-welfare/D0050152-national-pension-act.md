@@ -1,0 +1,629 @@
+---
+title: "National Pension Act"
+title_zh: "國民年金法"
+identifier: "D0050152"
+type: act
+law_level: "法律"
+category: "行政＞衛生福利部＞社會保險目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2007-08-08
+last_amended: 2020-06-03
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0050152"
+retrieved: 2026-10-12
+---
+
+# National Pension Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-health-and-welfare/D0050152-national-pension-act.md](../../../zh/laws/ministry-of-health-and-welfare/D0050152-national-pension-act.md)) is authoritative.
+
+## Chapter 1 General Principles
+
+#### Article 1
+
+This Act is hereby enacted to ensure basic economic security for citizens who lack adequate protection under relevant social insurance during old age, maternity, or disability and to promote the stability of their survivors’ livelihoods.
+
+#### Article 2
+
+The insurance contingencies of the National Pension Insurance (hereinafter referred to as “the Insurance”) include old age, maternity, mentally/physically disability, and death.
+
+Payments to the insured people during the validation of the insurance when contingencies happen include old age pension payment, maternity payment, mentally/physically disability pension payment, funeral payment, and surviving family pension payment.
+
+#### Article 3
+
+Competent authorities of this Act include: central social welfare competent authorities for the central government, municipal city government for the municipality, and county government for the county.
+
+#### Article 4
+
+Insurance operations shall be carried out by the Bureau of Labor Insurance, which is entrusted to the competent authorities in the central government. The Bureau of Labor Insurance will also act as the insurer.
+
+#### Article 5
+
+In order to supervise operations of the Insurance and examine the insurance issues of the central competent authority, there shall be a committee comprised of representatives from the related government institutions, the insured persons, and experts, with each party basically occupying 1/3 of the seats. Supervision shall be conducted under the collegial system of this committee.
+
+The insured citizen and the beneficiary shall file for examination within 60 days, starting from the next day of receiving the notice of assessment, if they have arguments about cases previously approved by the insurer. According to the related regulations, petitions and administrative litigations can then be filed if they disagree with the examination result.
+
+The examination boundary of the issues stipulated in the previous paragraph, the deadline and process to apply for examination or modification, the examination operation, and rules on other related issues will all be stipulated by the competent authorities in the central government.
+
+#### Article 6
+
+The definition of the terms in this Act includes:
+
+\1. Related social insurance means civil servant and teacher insurance (original civil servant insurance and original teacher and staff insurance for private schools), labor insurance, military personnel insurance, and farmer’s health insurance.
+
+\2. Old age pension payment from related social insurance means pension payment from civil servant and teacher insurance (including original civil servant insurance pension payment and original private school teacher and staff insurance pension payment), old age benefit of the labor insurance, and discharge payment from military personnel insurance.
+
+\3. Social welfare allowance means a living allowance for low-income senior citizens, a living allowance for middle or low-income senior citizens, a living allowance for people with disabilities, a senior farmer welfare allowance, and a living allowance for veterans.
+
+\4. Period of insurance meaning the total period of the insured citizen’s paying for the insurance premium according to the Act; the actual paying period shall be calculated proportionately on the basis of twelve months per year if the paying period is less than one year, and it is calculated proportionally on the basis of 30 days per month if the period of paying is less than a full month.
+
+\5. Beneficiary people are legally qualified to file for insurance payment when the insured citizen dies.
+
+\6. Imprisonment means personal freedom, which is deprived of or limited to due to the execution of sentences of detention, custody, observatory rehabilitation, compulsory rehabilitation, rehabilitative measures, or correctional measures in specific locations. However, people under the execution of probation, put on the wanted list but not yet arrested, or those under medication after being bailed out or currently under probation are not included.
+
+## Chapter 2 The Insured Person and the Effect of Insurance
+
+#### Article 7
+
+Citizens under 65 with their household registered in ROC and are qualified for one of the following shall, except for those who shall participate or have already participated in other related social insurances, take part in the Insurance and become insured persons.
+
+\1. Aged 25 or above and non-recipient of old age benefits of related social insurance.
+
+\2. Before the implementation of this Act, the recipient of old age benefit of other related social insurances with an insurance period less than 15 years or lump sum payment of old age benefit of other related social insurances less than NT$ 500,000, except for insurance period or lump sum payment of the old age benefit of the labor insurance.
+
+\3. Within 15 years of the implementation of this Act, the recipient of old age benefit of other related social insurances with an insurance period of less than 15 years, or lump sum payment of old age benefit of the labor insurance and other related social insurances totally less than NT$ 500,000. However, for recipients of old age benefits of labor insurance before the implementation of the pension scheme, the insurance period or payment for old age benefits of labor insurance is not calculated.
+
+#### Article 8
+
+For the insured persons qualified for the previous article, the effect of insurance will start from zero hours of the day of qualifying for the Insurance.
+
+The insurance effect from the previous paragraph will terminate at 24:00, one day before the insured persons lose their qualification. In the case of death, the effect will terminate on the same day of death.
+
+#### Article 9
+
+The insurance periods shall be combined for calculation when the insured persons participate in the insurance again after previous withdrawals.
+
+## Chapter 3 Insurance Premium
+
+#### Article 10
+
+The insurance premium rate for the Insurance shall be 6.5% for the first year of the implementation of this Act. The rate shall be increased by 0.5% in the third year and another increase of 0.5% for every 2 years thereafter until it reaches the limit of 12%. However, no increase shall be implemented if the balance of the insurance fund is enough to pay for the insurance payment for the next 20 years.
+
+#### Article 11
+
+The monthly insurance amount for the first year of the implementation of this Act shall be decided according to the first grade on the insured salary grading table of labor insurance. From the 2nd year on, adjustments shall be made according to the accumulated growth rate for the consumer price index published by the central Budget, Accounting, and Statistics institutions if it reaches 5%.
+
+#### Article 12
+
+The burden of insurance premiums for the Insurance will follow the rules stipulated below:
+
+\1. For low-income and middle-low-income households qualified for the Public Assistance Act living in the municipality area:
+
+(1) For low-income households, the insurance premium shall be fully paid by the municipality competent authorities; in county (city) areas, the central competent authority will pay for 35% of the insurance premium, and the county(city) competent authorities will pay for the rest 65%.
+
+(2) For middle-low-income households, the insured persons will have to pay for 30% of the insurance premium, and the municipality competent authorities will pay for the balance of 70% of the insurance premium in the municipality area; as for county (city) areas, the central competent authority will pay for 35% of the insurance premium, and the county (city) competent authorities will pay for the remaining 35% of the insurance premium.
+
+\2. For the insured persons whose incomes fail to reach certain standards:
+
+(1) When the monthly income per person, the amount of total family income divided by the number of the family, for the insured persons fails to reach 1.5 times the lowest living index of that specific year and does not exceed 1 time of the average monthly consumption per person in Taiwan area, the insured persons will have to pay for 30% of the insurance premium, and the municipality competent authorities will pay for the balance of 70% of the insurance premium in the municipality area; as for county (city) areas, the central competent authority will pay for 35% of the insurance premium and the county(city) competent authorities will pay for the remaining 35% of the insurance premium.
+
+(2) For insured individuals whose household’s total income (when evenly distributed among family members) results in a per capita monthly income less than twice the lowest living index for the current year and does not exceed 1.5 times the average monthly per capita consumption expenditure in Taiwan, the insured shall pay 45% of the insurance premium. In municipalities, the municipal authority shall cover 55% of the insurance premium. In counties (cities), the central authority shall cover 27.5%, and the county (city) authority shall cover 27.5%.
+
+\3. The insured persons qualify for the legally stipulated disabilities and with proof:
+
+(1) The central competent authority will pay the full amount of the insurance premium for people with extremely severe or severe disabilities.
+
+(2) The people with medium disabilities pay 30% of the insurance premium, and the central competent authority will pay the remaining 70% of the insurance premium.
+
+(3) The people with mild disabilities pay 45% of the insurance premium, and the central competent authority will pay 27.5% of the insurance premium. Competent authorities of the municipality, county, or city governments will pay for the remaining 27.5% of the insurance premium.
+
+\4. Other insured persons will have to pay 60% of the Insurance premium, and the central competent authority will pay for the remaining 40%.
+
+#### Article 13
+
+Calculation of insurance premiums will start from the specific date when the insurance takes effect for the insured person until the specific date of stoppage or termination of the effect. If the actual insured days of the specific month when the insurance comes into effect, stops, or terminates are less than a full month, it is calculated proportionally by the actual insured days (on the basis of 30 days per month).
+
+The insurer will calculate the insurance premium paid by the insured persons on a bi-monthly basis. Written notice of the insurance premium bill will be sent by the end of the third month, requesting that the insured persons pay their insurance premium through account transfer by financial institutions or other methods designated by the insurer by the end of the fourth month.
+
+If the insured persons join the insurance for less than a full month, the insurer is entitled to calculate their monthly insurance premium based on their next insurance premium. However, the notice of insurance premium bill shall be sent at least once a year.
+
+The insured person is eligible to pay the insurance premium in advance. The prepaid period is limited to one year.
+
+Insurance premium paid by the insured person during the validation of the insurance is non-refundable. However, insurance premium over-paid or paid by mistakes, which cannot be blamed on the insured person, is not included.
+
+The insurer is entitled to calculate the insurance premiums paid by the government at all levels under this Act by the end of May and November, respectively. In addition to the insurance premium paid by the insured person for the previous six months, which is eligible for full coverage by the government at all levels, an additional 15% of any unpaid insurance premiums by the insured person must also be calculated. Deadlines for insurance premiums paid by the government of all levels are the end of June and December, respectively, and the stipulations of this paragraph are traced back to October 1, 2008. Before the implementation of amendments to this Act on June 13, 2011, the difference between insurance premiums paid by the government of all levels and insurance premiums calculated by the insured person who had paid shall be deemed as prepaid insurance premiums for the government of all levels.
+
+The insurer is entitled to report various governments’ failure to pay their share of insurance premiums under this Act to the central competent authority, which will then request that the Executive Yuan deduct the amount payable from the subsidy to each specific institution.
+
+#### Article 13-1
+
+The insurer will send the written insurance premium bill for December 2011 by the end of January 2011, requesting the insured persons to pay before March 2012 the insurance premium of December 2011, excluding the limits in stipulations of the preceding article.
+
+#### Article 14
+
+For the insured person and government of all levels fail to pay the insurance premium before the deadlines as stipulated in the previous 2 articles, interests based on the one-year CD (Certificate of Deposit) interest rate of the Post Office savings account on January 1 of that specific year shall be imposed on a daily basis for every single day delayed starting from the next day of deadlines to the day before actual payment.
+
+Interests based on the preceding paragraph under a specific amount may be exempted from paying, and the amount shall be stipulated by the central competent authority.
+
+#### Article 15
+
+The insured person who’s unable to pay the insurance premium and the interests at lump sum is entitled to apply to the insurer requesting payments in installments or postponement of the payments. The conditions of the application, examination process, deadlines for payments in installments or postponement, and the regulations for other affairs to be followed shall be drawn by the insurer, who will then report these regulations to the central competent authority for verification and announcement.
+
+The insured person and his or her spouse are jointly responsible for the unpaid insurance premium and interests of the Insurance. The insurer is, therefore, entitled to send written notices requesting the spouse’s payments within the deadline if the insured person fails to pay the insurance premium and interest under the Act.
+
+#### Article 16
+
+The insurer is entitled to suspend pension payments before the insured person pays the insurance premium and interests. However, payments in installments or delayed payments approved by the insurer, according to the previous article, are not included.
+
+Insurance premium for the period of temporary payment suspension will still be calculated and collected.
+
+In case the insurer issues the payments, the insurance premium that the insured persons shall pay has not been overdue, and the interest imposed for overdue insurance premium payments shall be deducted from the payments and calculated into the insurance periods.
+
+#### Article 17
+
+The insurance periods will not be calculated if the insured person fails to pay the insurance premium and interests payable within the deadline under Article 13 and Article 14. The insured person is not entitled to request to pay the insurance premium and interests if the delay is over 10 years. However, the insured person is still entitled to request to pay the insurance premium and interests and calculate his or her insurance periods if the cause of delay cannot be blamed on the insured person.
+
+## Chapter 4 Insurance Payment
+
+### Section 1 General Standards
+
+#### Article 18
+
+The insured person or the beneficiary is not allowed to request payments unless the contingencies happen after the insurance takes effect and before the ending or termination of the insurance. However, requests for old age pension payment or mentally/physically disability basic guaranteed pension payment are not included.
+
+#### Article 18-1
+
+The insurance benefits under this Act, except applications for old age pension payment, shall be issued monthly starting from the month of meeting the qualifications to the month when the insured person dies. Other pension payments shall be issued monthly, starting from the month of the application approved to the month of pension termination or death of the insured person.
+
+If the surviving family pension payment does not apply during the month it becomes eligible, the insurer shall retroactively provide payment for up to five years prior to the application date, in accordance with the law. However, this does not apply to portions already claimed by other beneficiaries.
+
+#### Article 19
+
+Payments of the insurance shall be calculated based on the monthly insured amount for the specific month when contingencies happen.
+
+The calculation basis for pension payment shall be adjusted when adjustments are made to the monthly insured amount.
+
+#### Article 20
+
+The same payments from the same contingencies cannot be requested repeatedly.
+
+#### Article 21
+
+If the insured person qualifies with the mentally/physically disability pension payment, mentally/physically disability basic guaranteed pension payment, old age pension payment, old age basic guaranteed pension payment, and surviving family pension payment at the same time, he or she is entitled to request one payment only.
+
+#### Article 22
+
+The insurer is entitled to request the insured person, beneficiary, or medical care institutions to provide documents related to the Insurance when examining requests for insurance payments or when the central competent authorities consider it necessary when examining controversial cases. The insured person, beneficiary, or the medical care institutions are not entitled to refuse such requests.
+
+#### Article 23
+
+The insured person or the beneficiary shall present related information and proving documents when requesting insurance payments. The insurer is entitled to request modification or supplements if no such presentation is made.
+
+#### Article 24
+
+The insurer is entitled to verify the pension payment requests made by the insured person or his or her surviving family and to suspend payment during the verification period. Once requests are verified and approved, payment during the suspension period shall be compensated, and regular payments shall resume.
+
+Recipients not qualified to receive payments or when they die, himself or herself or the heir at law shall present related documents and notify the insurer within 30 days of the happening of the legal facts. Payments shall be terminated the next month after the legal facts are known.
+
+When the pension payment receiver dies and the payable pension payment is not yet wired into the receiver’s account, the heir at law is entitled to present the registration of death and household certificate transcript for the applicant and the household certificate transcript for the heir at law to apply for the receiving of payment. When there are more than 2 people for the heir at law, they’ll have to present the joint letter of attorney and an affidavit entrusting one of them to apply for the receiving of the payment.
+
+When overpayment results from the receiver’s failure or the failure of heir at law to notify the insurer, according to Paragraphs 1 and 2, the insurer shall send written notices to the receiver of the overpayment requesting repayment within 30 days. The insurer is also entitled to deduct the overpayment from the account used to receive the pension payments.
+
+#### Article 25
+
+The insured person is entitled to apply for a decrease in insurance payment. Such application is limited to once a year.
+
+The period of decreased insurance payment from the previous paragraph shall be at least one year, and any subsequent request for compensation is not allowed once the application for decreased payment has been filed. The insurer shall formulate the regulations for decreased insurance payment. The insurer will then forward these regulations to the central competent authorities for approval and announcement.
+
+#### Article 26
+
+The insurer will not pay for the insurance payment except for the funeral payment if the insured person, the beneficiary, or other interest parties deliberately caused the contingencies to happen.
+
+Insurance payment will not be paid, except for the beneficiary not involved in the misconduct, if the happening of contingencies was caused by deliberate crime behaviors of the insured person, his or her parent, sons and daughters, and spouse.
+
+Insurance payment will not be paid if the contingencies were caused by war or social unrest.
+
+#### Article 27
+
+The insurer shall cancel the qualification of the insured person if he or she is not qualified to participate in the Insurance and refund all insurance premiums paid. The insurer shall send written notices to the insured person requesting a refund of the insurance payment within the deadline if he or she has already received it.
+
+For people not qualified to apply for insurance payment but have received or received by mistake such payment, the insurer shall send written notices requesting the return of such payment within the deadline.
+
+#### Article 28
+
+The right to apply for insurance payment will extinguish after 5 years of non-exercise of such right starting from the first day when the right is ready to be asserted.
+
+### Section 2 Old Age Pension Payment and Maternity Payment
+
+#### Article 29
+
+The insured person or the one who participated in the Insurance before shall be entitled to apply for old age pension payment when he or she is aged 65 or above.
+
+#### Article 30
+
+The old age pension payment shall be calculated based on the most advantageous method of the below:
+
+\1. The monthly insured amount times the insurance period is 0.65%, and then NT3,000 dollars are added to the result.
+
+\2. The monthly insured amount times the insurance period times 1.3%.
+
+Calculation in the subparagraph 1 of the previous paragraph is forbidden if one of the following conditions is met:
+
+\1. The period of unpaid insurance premium is not included in the insurance period.
+
+\2. Recipient of related social welfare allowances
+
+\3. Recipient of old age benefit of related social insurance. However, the insured person under Article 7, Subparagraphs 2 and 3 receives the following payment is not included.
+
+(1). The insured person receives only the old age benefit of the labor insurance.
+
+(2). The insured person receives discharge payments of military personnel insurance or old age insurance benefits of Civil Servant and Teacher Insurance, the amount of NT$3,000 monthly base shall be accumulated from the month in which the insured person reaches the age of 65 years until the month in which the amount equals to his or her total original old age insurance benefits.
+
+In case an insured person has not paid insurance premiums or interests of the insurance within one year before the happening of a contingency, the insurer is entitled to send written notices requesting him or her to pay the bill within the deadline. If the insured person fails to pay in full before the deadline, the issuer is entitled to calculate his or her old age pension payments for the first three months according to 1st paragraph subparagraph 2.
+
+The central competent authority shall assume the differences between the old age pension payment calculated under the 1st paragraph, Subparagraph 1, and the one calculated in Subparagraph 2.
+
+The old age pension payment shall be paid monthly, starting from the month of meeting the qualifications to the month when the insured person dies.
+
+Applicants of the mentally/physically disability pension payment under Article 33 are entitled to switch to the application of old age pension payment at the age of 65 years. Their insurance period before the application of the mentally/physically disability pension payment is entitled to be calculated with the insurance period of this Article.
+
+#### Article 31
+
+Citizens shall be deemed as the insured persons of the Insurance if they are aged 65 or above at the time of the implementation of this Act with a household registered in ROC and live in ROC for more than 183 days per year for the latest 3 years and are not qualified for any one of the following subparagraphs. The insured persons are entitled to apply for an old age basic guarantee pension payment of NT3,000 dollars monthly until they die. However, they are not applicable to the regulations regarding insurance payment as stipulated from Sec. 3 to Sec. 5 of this Chapter. Nor are they applicable to regulations of the insured persons and insurance effect in Chapter 2 and insurance premium in Chapter 3.
+
+\1. Recipient of government’s full amount subsidy in accommodation.
+
+\2. Recipient of military personnel retirement pay (lifetime living subsidy), or government affairs personnel, civil servants and teachers, and state-run enterprises employees receiving monthly retirement pay or lump sum retirement pay. However, those who have one of the following conditions are not included:
+
+(1) Recipient of military personnel retirement lump-sum pay, or government affairs personnel, civil servant and teachers, and state-run enterprises employee receiving lump sum retirement pay without applying preferential treatment deposits, nor receiving old age insurance benefits of Civil Servant and Teacher Insurance or discharge payments of Military Personnel Insurance; or if the person has received old age insurance benefits of Civil Servant and Teacher Insurance or discharge payments of Military Personnel Insurance, the amount of NT$3,000 monthly base shall be accumulated from the month in which the insured person reaches the age of 65 years until the month in which the amount equals to the total original pension payment.
+
+(2) aboriginals receiving lump sum retirement pay.
+
+\3. Recipient of social welfare allowances.
+
+\4. The total amount of every category income of individual income tax for the declaring year approved by the Revenue Service Office exceeds NT500,000.
+
+\5. The total value of personal land and houses exceeds NT$5,000,000.
+
+\6. Currently serving sentences in prison or being detained or kept in custody because of criminal cases.
+
+The land value in item 5 of the previous paragraph shall be calculated based on the assessed present value; as for the value of the house, it shall be calculated based on the appraised prices. However, deductions shall be applied under the following conditions.
+
+\1. The zoning code of part or all of the lands has been set legally as the land reservation for public facilities. Additionally, these lands are not yet requisitioned or compensated because of government financial problems or other causes that are not the landowner’s responsibility.
+
+\2. The house is the only one personally owned and actually lived. However, the total deductible amount for the assessed present value, together with the appraised house price, is limited to NT4,000,000 dollars.
+
+\3. Lands reserved for Indigenous peoples without generating economic benefits
+
+The applicants whose accumulated amount equals the total original payment according to Paragraph 1, Subparagraph 2, Item 1 of this Act before the implementation of the amended Act on June 13, 2011, cannot claim for back payment of old age basic guarantee pension payment.
+
+From January 1, 2012, onwards, those who have received old age basic guarantee pension payment still qualified for Paragraph 1, Subparagraph 1 to Subparagraph 4 and Subparagraph 6 after local governments adjusted the assessed present value, and their land and houses have not increased, will not be restricted by the stipulations of Paragraph 1, Subparagraph 5. The same rule shall be applied for the mentally/physically disability basic guaranteed pension payments and aboriginal benefits specified in Article 53.
+
+#### Article 32
+
+The insured persons, once qualified for the Insurance and the old age benefit of the labor insurance, are entitled to apply for insurance payments to any one of the insurers at the same time. The insurer accepting the application shall calculate the payments based on respective insurance periods. Payments calculated respectively will then be combined and paid to the applicant according to the rules. Payments to be shared by other insurers shall be repaid by the respective insurer.
+
+Under the circumstances that the insurance period from the previous paragraph does not meet the limits of applying for old age pension payments but qualifies for such application if calculated in combination with other insurance periods, the applicants are still entitled to apply for old age pension payments. The insured persons under Article 7, Subparagraph 1 and Subparagraph 3, are forbidden to choose payment methods stipulated in Article 30, Paragraph 1, Subparagraph 1 when applying for the old age pension payment of the Insurance if they have already received senior pension payments from other insurances.
+
+Rules of the granting of combined old age pension payments, the repayments of respective shares among insurers, and other related affairs as stipulated in Paragraph 1 shall be drawn jointly by the central competent authority and the central competent authority of labor insurance.
+
+#### Article 32-1
+
+Maternity payments of the insured person are payable according to the following standards:
+
+\1. In case of childbirth or prematurity of an insured person, she shall receive lump sum maternity payments equivalent to two monthly insurance amounts.
+
+\2. In case of a plural birth resulting from childbirth or prematurity, maternity benefits shall be increased proportionately.
+
+The insured person shall choose one to apply when they’re qualified for other maternity benefits or subsidy conditions of related social insurance.
+
+The insured person shall choose one payment to apply when the childbirth contingency is qualified for some maternity benefits or subsidy conditions of the Insurance and related social insurance. The insured person applies for maternity payment and has been paying installments or delayed payments of insurance premium and interests according to the proviso regulations of article16 of this Act, the amount of the insurance premium and interests which have been paid shall not be less than half of the total amount of maternity payment.
+
+### Section 3 Mentally／Physically Disability Pension Payment
+
+#### Article 33
+
+Insured persons qualify for one of the following and are entitled to apply for mentally/physically disability pension payment according to the rules.
+
+\1. The insured persons were harmed or had suffered from disease before but with current symptoms remain stable after the termination of treatment. No improvement is expected, and the treatment will not be continued. Additionally, the insured persons have to be diagnosed as having severe mentally/physically disability without the capability to work by qualified hospitals evaluated by central health care competent authority.
+
+\2. The insured persons still have not yet recovered from the disease or harm suffered during the Insurance period after more than one year of treatment. The after-effect of suffering from severe mentally/physically disability was diagnosed as never to be recovered and no capability to work by qualified hospitals.
+
+After being diagnosed with severe mentally/physically disability with no capability to work, the insured persons can only pick one to apply for payments if they also qualify for related social insurance regulations.
+
+The regulations for relative stipulate such as valuation standards of the types, items, status, and treatment period for the insured persons diagnosed as having severe mentally/physically disability with no capability to work as stipulated in Paragraph 1 and documents needed to apply for mentally/physically disability pension payments shall be drawn jointly by the central competent authority and the central competent authority in charge of health care.
+
+#### Article 34
+
+Mentally/physically disability pension payments shall be calculated based on the insurance period of the insured persons. The monthly payment shall be 1.3% of the monthly insured amount for every insurance year.
+
+A monthly basic guaranteed amount shall be issued until the insured person dies if the amount calculated from the previous paragraph is lower than the basic guaranteed amount of NT4,000 dollars and none of the following applied:
+
+\1. The period of unpaid insurance premium is not included in the insurance period.
+
+\2. Recipient of related social welfare allowances.
+
+In case an insured person has not paid insurance premiums or interests of the insurance within one year before the happening of a contingency, the insurer is entitled to send written notices requesting him or her to pay the bill within the deadline. If the insured person fails to pay in full before the deadline, the insurer is entitled to calculate his or her mentally/physically disability pension for the first three months, according to Paragraph 1. The preceding basic guaranteed pension payment NT$4,000 is not applicable.
+
+Under the circumstances of applying for a basic guaranteed amount according to the previous paragraph, the difference between the amount calculated from Paragraph 1 and the basic guaranteed amount shall be assumed by the central competent authority.
+
+The labor insurance period of the insured persons can be combined with the insurance years from Paragraph 1. The labor insurance insurer shall repay the amount needed.
+
+#### Article 35
+
+Before participating in the Insurance, the insured persons were diagnosed as having severe mentally/physically disability with no capability to work as stipulated in Article 33 and had lived in ROC more than 183 days per year for three consecutive years before applying for mentally/physically disability basic guaranteed pension payments are entitled to, during the validation of the Insurance, apply for mentally/physically disability basic guaranteed pension payments of NT4,000 dollars per month per person if none of the following apply:
+
+\1. Recipient of pension or lump sum payments of related social insurance for severe mentally/physically disability.
+
+\2. Qualified for one of the items stipulated in Article 31, Paragraph 1, Subparagraph 1, 3,4,5,6.
+
+The insured persons are not entitled to apply for mentally/physically disability pension payments if they have already applied for basic guaranteed pension payments for mentally/physically disability according to the rule of the previous paragraph. However, they’re entitled to switch to apply for old age pension payments if they are aged 65 or above.
+
+#### Article 36
+
+The funds needed for both the mentally/physically disability basic guaranteed pension payments from the previous Article, Paragraph 1, and the old age basic guaranteed pension payments from Article 31, Paragraph 1 shall be budgeted and paid on a yearly basis by the central competent authority.
+
+#### Article 37
+
+The insurers are entitled to examine the extent of mentally/physically disability on recipients of the mentally/physically disability pension payments or the mentally/physically challenged basic guaranteed pension payments every 5 years except for those exempted from such examination after being evaluated. The insurers are also entitled to ask for presentation of proof of mentally/physically disability diagnosis when necessary. The expense needed for such a diagnosis shall be paid by the insurance fund of the insurance company.
+
+Pension payments shall be suspended temporarily if the insured persons fail to present related documents to the insurers for examination, as stipulated in the previous paragraph.
+
+Under the circumstances, the extent of mentally/physically disability eases to disqualify the insured persons for the stipulation of Article 33 after they received mentally/physically disability pension payments or the mentally/physically disability basic guaranteed pension payments, the pension payments shall be terminated from the next month of the mentally/physically disability date written on the diagnosis documents presented by qualified hospitals.
+
+#### Article 38
+
+During the examination of mentally/physically disability pension payments or the basic guaranteed pension payments for mentally/physically disability, the insured persons or the central competent authority are entitled to assign other hospitals or physicians to re-examine insurance-related issues when necessary. The re-examination expense shall be paid by the insurance fund.
+
+### Section 4 Funeral Payment
+
+#### Article 39
+
+Funeral payment shall be the lump sum of 5 times the monthly insured amount when the insured persons die.
+
+The funeral payment from the previous paragraph shall be received by the one who actually paid for such expense. The recipient of this payment is limited to one person only. If there are other applications for such payment before the insurer approves the previous application, the insurer shall advise each applicant to agree to allow only one of them to apply for such expense. The insurer shall distribute the expense equally among the applicants if the applicants fail to make such an agreement.
+
+### Section 5 Surviving Family Pension Payment
+
+#### Article 40
+
+When the insured persons die, or the insured persons are entitled to apply for old age pension payment under Article 29 but die before claiming benefit, or the recipients of mentally/physically disability pension payments or old age pension payment die, their surviving families, such as spouses, sons & daughters, parents, grandparents, grandchildren, brothers or sisters are entitled to apply for surviving family pension payment.
+
+Conditions for the surviving family pension payment of the previous Article are:
+
+\1. The spouse shall be aged 55 or above, and their marriage relationship lasts more than one year. However, the following conditions are not included
+
+(1). no capability to work.
+
+(2). raising children as stipulated in Subparagraph 3.
+
+\2. Spouses shall be aged 45 or above and have a marriage relationship that lasts more than one year. The monthly income of the spouse does not exceed minimum wage when receiving the surviving family pension payment.
+
+\3. Children shall qualify for one of the following conditions. As for adopted children, the adoption relationship shall last for more than 6 months:
+
+(1) not an adult person;
+
+(2) no capability to work;
+
+(3) under the age of 25 and still going to school with monthly work income not exceeding minimum wage when receiving surviving family pension payment.
+
+\4. Both the parents and the grandparents shall aged 55 or above with monthly work income not exceeding minimum wage when receiving surviving family pension payment.
+
+\5. Grandchildren shall be raised by the insured persons and qualify for one of the following:
+
+(1) not an adult;
+
+(2) no capability to work;
+
+(3) under the age of 25 and still going to school with monthly work income not exceeding minimum wage when receiving surviving family pension payment
+
+\6. Brothers and sisters shall be raised by the insured persons and qualify for one of the following
+
+(1) not an adult;
+
+(2) no capability to work;
+
+(3) aged 55 or above with monthly work income not exceeding minimum wage when receiving surviving family pension payment.
+
+The applied boundary, examination standard, and the regulation of other matters for “no capability to work,” as stipulated in the previous paragraph, shall be decided by the central competent authority.
+
+#### Article 41
+
+Order of recipients of surviving family pension payment, according to the previous Article, is
+
+\1. spouse and children;
+
+\2. parents;
+
+\3. grandparents;
+
+\4. grandchildren;
+
+\5. brothers and sisters.
+
+Surviving families listed on the rear order, as stipulated in the previous Paragraph, are not entitled to apply for surviving family pension payment if surviving families listed on the front still exist. The same applies when the surviving family dies after applying or becomes disqualified for applying.
+
+#### Article 42
+
+Standards for granting surviving family pension payment
+
+\1. In case the insured persons die, monthly payments are 1.3% of the monthly insured amount for every insurance year of the insured persons.
+
+\2. In case of death during the period of receiving the mentally/physically disability pension payments or old age pension, monthly payments are 50% payment of the mentally/physically disability pension payments or old age pension payment of the insured persons.
+
+\3. In case the insured persons are entitled to apply for old age pension payment under Article 29 but die before claiming the benefit, a monthly payment is half of the payments of 1.3% of the monthly insured for every insurance year of the insured person.
+
+A monthly payment of NT3,000 dollars shall be granted if the pension amount calculated from the previous Paragraph is less than NT3,000 dollars.
+
+When there are more than two survivors listed in the same order, 25% more of the standard surviving family pension payment shall be granted for every extra survivor. The maximum extra payment shall be 50% of the standard payment.
+
+Under the circumstances of receiving NT3,000 dollars surviving family pension payment based on Paragraph 2, the difference between the original amount calculated based on Paragraph 1 and the actual amount received shall be assumed by the central competent authority.
+
+#### Article 43
+
+Surviving families shall pick one to apply when they’re qualified for more than 2 types of pension payments.
+
+Article 39, Paragraph 2 shall apply mutatis mutandis if there are more than 2 surviving families listed on the same order in receiving surviving family pension payment.
+
+#### Article 44
+
+Surviving family pension payment shall be suspended if surviving families qualify for one of the following during the receiving period.
+
+\1. Spouse getting married again.
+
+\2. Spouse less than 55 years old raising children not qualified for the application conditions stipulated in Article 40.
+
+\3. Spouse, children, parents, grandparents, grandchildren, brothers, and sisters don’t qualify for the application conditions stipulated in Article 40.
+
+\4. Serving sentences in prison, detained, or in custody because of criminal cases.
+
+\5. Disappearance.
+
+## Chapter 5 Insurance Fund and Expense
+
+#### Article 45
+
+The government shall install the National Pension Insurance Fund (hereinafter referred to as “ the Fund”) for the Insurance. Sources for the Fund are
+
+\1. Lump sum appropriation from the central government when installing.
+
+\2. Income from the insurance premium.
+
+\3. Share assumed by the central competent authority according to the laws and the responsibility reserved from the central government.
+
+\4. Income from interest and fine.
+
+\5. Revenue from the interest and utilization of the Fund.
+
+\6. Other incomes.
+
+#### Article 46
+
+The central government will assume that up to 3.5% of the total insurance premium of that specific year will be the overhead and administrative costs incurred from the insurer’s operation of the insurance.
+
+#### Article 47
+
+In addition to the basic guaranteed pension payment, which shall be budgeted and paid on a yearly basis by the central competent authority as stipulated in Article 36, the funding for the subsidized insurance premium and related expenses, which the central competent authority shall assume according to the Act shall be in the following orders. Surplus, if any, shall be listed as the central government’s responsibility reserve for subsequent years.
+
+\1. Surplus from the Public Welfare Lottery for the national pension payment.
+
+\2. Increase the requisition rate for business tax by 1%. The scope and period of implementation shall be decided by administrative orders issued by the Executive Yuan.
+
+The raising of Public Welfare Lottery surplus and business tax, as stipulated in the previous Paragraph, shall be carried out by the Fund through direct appropriation from the insurance premium, the assumed share of funding by the central competent authority according to the laws, and the central government’s responsibility reserves. This appropriation will also serve as the financial tool for the funding as stipulated in Article 45, Item 1.
+
+If the central competent authority subsidized insurance premium and funding are still insufficient after the funding as stipulated in Paragraph 1, the central competent authority shall budget to compensate for this shortage if it cannot be supported by the central government’s responsibility reserves.
+
+#### Article 48
+
+In addition to the utilization stipulated in the Act, the utilization of the Fund is restricted to investment only and cannot be appropriated or disposed of otherwise. Regulations for managing, utilizing, and supervising the Fund shall be drawn by the central competent authority, which will then report to the Executive Yuan for approval.
+
+Once approved by the central competent authority, the insurer is entitled to entrust financial institutions to the utilization of the Fund. Regulations of the entrusted utilization, scope, funding, and other affairs to be followed shall be drawn by the insurer, who will then report them to the central competent authority for approval and announcement.
+
+Details on the income/expense and utilization of the Fund and the accumulated amount shall be reported by the insurer to the central competent authority for the annual announcement.
+
+#### Article 49
+
+The government will assume the ultimate responsibility for the Insurance’s finances.
+
+## Chapter 6 Penal Provisions
+
+#### Article 50
+
+Any person receiving insurance payments from fraud or other inappropriate behaviors will have to repay all amounts received. Additionally, there shall be a fine of twice the amount received.
+
+A fine of NT3,000 to NT15,000 dollars shall be imposed on the insured’s spouse jointly responsible for paying the insurance premium if he or she fails to pay the insurance premium and interest according to Article 15, Paragraph 2 without reasonable cause and still fails to do so after the insurer’s written request to pay by deadline.
+
+The central competent authority shall decide the extent of “reasonable causes” stipulated in the preceding paragraph.
+
+#### Article 51
+
+The insurers shall impose fines stipulated in the Act.
+
+## Chapter 7 Supplementary Provisions
+
+#### Article 52
+
+（Deleted）
+
+#### Article 53
+
+Indigenous peoples aged 55 or above with household registration in ROC and not qualified for any one of the following shall be entitled to apply for the monthly payment of NT$3,000 until the month before they become 65 years old after the implementation of the amended Act on June 13, 2011. Funding shall be budgeted and paid on a yearly basis by the central competent authority in charge of Aboriginal affairs
+
+\1. Military personnel, civil servants, and personnel of state-run or private enterprises currently on the posts, but those with work salaries not exceeding the first grade on the insured salary grading table of labor insurance are not included.
+
+\2. Recipient of monthly retirement pay of Government employees, civil servants, teachers, and state-run enterprise employees. Recipients of military retirement pay ( lifetime living subsidy ) are also included.
+
+\3. Recipients of living subsidy for people with disabilities or allowance of veteran accommodations.
+
+\4. Applicants qualified for one of the conditions stipulated in Article 31, Paragraph 1, Subparagraphs 1, 4, 5, and 6. but the Lands Reserved for Indigenous peoples without generating economic benefits are not included in the total value of land under Article 31, Paragraph 1, Subparagraph 5.
+
+The age limit on an individual’s application of NT3,000 dollars per month, according to the previous paragraph, shall be adjusted after the implementation of the laws to increase gradually to the minimum year of application of 65 years old according to the ever-decreasing gap of the average residual life span between Indigenous peoples and the whole citizens. The adjustment of the minimum applying age policy shall be examined every 5 years by the central competent authority in charge of aboriginal affairs, which will then report to the Executive Yuan for approval.
+
+#### Article 54
+
+(Deleted)
+
+#### Article 54-1
+
+From January 1, 2012, onwards, the additional amount to the old age pension payment, the old age basic guaranteed pension payment, and the amount specified in Paragraphs 2 and 4 of Article 42 and in Article 53 is adjusted to NT$3,500; the basic guaranteed amount of the mentally/physically disability pension payment and the basic guaranteed pension payment for mentally/physically disability are adjusted to NT$4,700. These are to be reviewed and adjusted every four years thereafter by the central competent authority with reference to the growth rate of the most recent year’s consumer price index as announced by the central Budget, Accounting, and Statistics institutions against the consumer price index of the year prior to the last adjustment and the adjustment is to be announced. However, no adjustment shall be made when the growth rate of the consumer price index is zero or negative.
+
+#### Article 55
+
+Rights of receiving related payments under this Act are not allowed to be the objects of seizure, assignment, offset, or security. However, the insurer is entitled to deduct from the cash payments or the returned insurance premium of the insured person’s over-received payments or payments received by mistake.
+
+Applicants of pension payments under this Act or payment specified in Article 53 are eligible to open a specific account in a financial institution with the proving documents provided by the insurer. The specific account is exclusively for depositing payments under this Act.
+
+The deposit in the specific account described in the previous paragraph shall not be the object of offset, seizure, security, or compulsory execution.
+
+#### Article 56
+
+Competent authorities of household registration and immigration/emigration shall forward monthly information of changes in household or immigration/emigration for citizens aged over 65 to the insurer prior to the third working day of the next month.
+
+Municipal and county (city) competent authorities shall forward monthly information on government fully subsidized accommodation, lists of recipients of low-income senior living allowance, middle to low-income senior living allowance, allowance for people with disabilities, and information on other changes to the insurer prior to the third working day of the next month.
+
+The central competent authority or the insurers are entitled to file for providing the necessary information needed for the insurer on the operation of the Insurance. All institutions are not allowed to reject such requests.
+
+Information acquired by the insurers according to the Act shall be kept under the attention obligation of an administrator with goodwill. The insurers shall also ensure the safety check on the operation of information. All keeping, processing, and utilization of such information shall follow the stipulations of the Computer-Processed Personal Data Protection Law.
+
+#### Article 57
+
+All accounting books, receipts, and business expenditures related to the Insurance are tax-free.
+
+#### Article 58
+
+Enforcement Rules of the Act shall be stipulated by the central competent authority.
+
+#### Article 59
+
+This Act shall be implemented starting from October 1, 2008.
+
+The implementation date of amendments to this Act shall take effect since the date of promulgation, except Article 7 subparagraph 2, subparagraph 3, and Article 30 paragraph 2 subparagraph 3, which were amended on June 13, 2011, shall take effect from October 1, 2008. As to Article 6 item 4, Article 13, Paragraphs 1 and 3, their implementation date shall be determined by Executive Yuan.
+
+## History
+
+1.Enacted and promulgated total 59 articles of the Act by President’s Order of Hua Chung (1) Yi Tze No.09600102821 on August 8, 2007, And effective from October 1, 2008
+
+2.Amended and Promulgated Articles 6,7,30～32 and deleted Article 54,55 by the President’s Order of Hua Chung (1) Yi Tze No. 09700151911 on August 13, 2008, And effective from October 1, 2008
+
+3.Amended and Promulgated Articles 1, 2, 6, 7, 12～14, 30～32, 34, 40, 42, 50, 53, 59, Section Name of Chapter 4 Section 2; added Article 13-1, 18-1, 32-1 by the President’s Order of Hua Chung (1) Yi Tze No. 10000137261 on June 29, 2011. Except for Article 7, Subparagraph 2, 3, Article 30, Paragraph 2, Subparagraph 3 effective from October 1, 1997, and the date of implementation of Article 6, Subparagraph 4, Article 13, Paragraph 1, 3 is determined by the Executive Yuan. Other amendments come into effect on promulgation date. Executive Yuan's Order of Yuan Tai Nei Tze No. 1000044139 on August 31, 2011, Article 6, Subparagraph 4, Article 13, Paragraph 1, 3 effective from January 1, 2012.
+
+4.Amended and Promulgated Article 54-1 by the President’s Order of Hua Chung (1) Yi Tze No. 10000283811 on December 21, 2011
+
+5.Amended and Promulgated Article 13 by the President’s Order of Hua Chung (1) Yi Tze No. 10000294981 on December 28, 2011
+
+6.Amended and Promulgated Article 31 by the President’s Order of Hua Chung (1) Yi Tze No. 10100284741 on December 26 2012
+
+7.Amended and Promulgated Article 55 by the President’s Order of Hua Chung (1) Yi Tze No. 10300000671 on January 8, 2014
+
+8.Amended and Promulgated Article 32-1 by the President’s Order of Hua Chung (1) Yi Tze No. 10400146771 on December 16, 2015
+
+9.Amended and Promulgated Article 18-1 by the President’s Order of Hua Chung (1) Yi Tze No. 10400151511 on December 30, 2015
+
+10.Amended and Promulgated Article 16 by the President’s Order of Hua Chung (1) Yi Tze No. 10500146921 on November 30, 2016
+
+11.Amended and Promulgated Article 18-1 by the President’s Order of Hua Chung (1) Yi Tze No. 10800134481 on December 11,2019
+
+12.Amended and Promulgated Article 12,40 by the President’s Order of Hua Chung (1) Yi Tze No. 10900060540 on June 3,2020

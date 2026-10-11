@@ -1,0 +1,173 @@
+---
+title: "Amusement Tax Act"
+title_zh: "娛樂稅法"
+identifier: "G0340106"
+type: act
+law_level: "法律"
+category: "行政＞財政部＞賦稅目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1942-04-24
+last_amended: 2026-05-20
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0340106"
+retrieved: 2026-10-12
+---
+
+# Amusement Tax Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-finance/G0340106-amusement-tax-act.md](../../../zh/laws/ministry-of-finance/G0340106-amusement-tax-act.md)) is authoritative.
+
+## Chapter I General
+
+### Article 1
+
+The amusement tax shall be levied in accordance with the provisions of this Act.
+
+### Article 2
+
+The amusement tax shall be levied on the ticket prices or fees collected for the following entertainment venues, facilities, or activities:
+
+1.Dance halls.
+
+2.Golf courses.
+
+3.Other entertainment places, facilities, or activities announced by the Ministry of Finance (hereinafter referred to as the MOF) as providing entertainment.
+
+For the aforementioned entertainment venues, facilities, or activities that do not sell tickets but provide entertainment to patrons through other means such as beverages or recreational facilities, the amusement tax shall be levied based on the fees collected.
+
+Municipal and county (city) governments may, taking into account industrial development, policy requirements, and financial conditions, suspend the collection of amusement tax on the taxable items specified in each subparagraph of paragraph 1, subject to approval by the corresponding municipal or county (city) council and reporting to the MOF for record.
+
+### Article 3
+
+The taxpayer of amusement tax is the person who pays for entertainment.
+
+The amusement tax collecting agent is the provider or organizer of entertainment venues, facilities or activities.
+
+### Article 4
+
+Exemptions from the amusement tax shall be granted in accordance with the following provisions:
+
+1.Educational, cultural, public welfare, and charitable organizations or groups, which are organized as public interest associations or foundations under the General Principles of Civil Code, or registered or filed with the competent authority according to other relevant laws and regulations, for all kinds of entertainment activities organized by them, with all proceeds being used for the purposes of the organization.
+
+2.All proceeds, excluding necessary expenses, used for various entertainment activities for disaster relief or military support.
+
+3.Temporary cultural and recreational activities organized internally by government agencies, organizations, public and private enterprises, schools, and other institutions, for which no fees are collected in any form.
+
+The necessary expenses eligible for deduction under the second provision above shall not exceed twenty percent of the total proceeds.
+
+## Chapter II Tax Rates
+
+### Article 5
+
+The amusement tax shall be levied according to the ticket prices or fees charged, based on the following tax rates:
+
+1.Dance halls – no more than 50%.
+
+2.Golf courses – no more than 20%.
+
+3.Other entertainment places, facilities, or activities announced by the MOF as providing entertainment– no more than 25%.
+
+### Article 6
+
+Municipal and county (city) governments may, based on the actual local circumstances, independently determine the rates for the collection of amusement tax within the range of tax rates stipulated in the preceding article. Such determination shall be approved by the municipal or county (city) assembly, and then submitted to or forwarded to the MOF for record.
+
+## Chapter III Tax Collection Procedure
+
+### Article 7
+
+Any business operator regularly providing entertainment subject to the tax as stipulated by this Act shall, upon opening, relocation, change of business, alteration, reorganization, merger, transfer, or suspension of business, register with the competent tax authorities beforehand and fulfill the procedures for the collection and filing returns of the amusement tax.
+
+### Article 8
+
+Any temporary organization of entertainment events that sell tickets or collect fees from the public shall, prior to the event, register with the competent tax authorities and apply for exemption or filing tax return of the amusement tax.
+
+If a temporary entertainment event does not collect fees in any form, its organizer shall make a report to the competent tax authority prior to the event.
+
+### Article 9
+
+The amusement tax collecting agent shall file monthly return and pay tax to the competent tax authority by the tenth day of the following month using the automatic payment form. For businesses whose operating method is special or business scale is determined by the competent tax authority to be small, the tax authority shall assess and determine their tax due and issue a payment form. The due tax shall be paid within ten days after receiving the payment form.
+
+For temporary entertainment activities, the competent tax authority shall calculate the tax due every five days and fill out a payment form, which must be paid within ten days after receiving the payment form.
+
+### Article 10
+
+The amusement tax-collecting agent shall issue entertainment tickets as proof at the time of collection, which shall be torn upon entry by the patron; otherwise, the tax is deemed not collected. However, exemptions from using entertainment tickets may be granted in accordance with the proviso of Paragraph 1, Article 9, where the tax is assessed and determined by the competent tax authority.
+
+The aforementioned entertainment tickets shall be used after verification by the competent tax authority. If tickets are sold for temporary entertainment activities, the responsible party shall submit the tickets with serial number and price printed on them to the competent tax authority for verification, complete the tax payment guarantee procedure, file a tax return, and pay the tax on time.
+
+## Chapter IV Reward and Penalty
+
+### Article 11
+
+If the amusement tax collecting agent collects the tax in accordance with this Avt and pays the tax on time, the competent tax authority shall provide a reward of one percent of the amount collected.
+
+The reward mentioned in the preceding paragraph shall be withheld by the collecting agent according to the prescribed procedures each time the tax is paid.
+
+### Article 12
+
+The failure to register, file tax return and pay amusement taxes to the competent tax authorities before opening, relocating, changing business, altering, reorganizing, merging, transferring, or suspending business operations therefore violating Article 7 shall result in a fine ranging from NT$15,000 to NT$150,000.
+
+### Article 13
+
+Violators of Paragraph 1, Article 8, shall result in a fine from NT$1,500 to NT$15,000. If the violator is an authority, organization, public institution, or school, the competent tax authority shall notify its supervising agency to take legal actions against the person in charge.
+
+### Article 14
+
+If an amusement tax collecting agent failing to collect, under-collecting, under-reporting, or concealing amusement taxes shall, in addition to recovering the tax due, be fined five to ten times the amount of tax due, and its business operations may be suspended.
+
+When imposing the suspension of business operations according to the preceding paragraph, a deadline shall be set, not exceeding one month at most. However, if the deadline for suspension expires and the collecting agent still fails to fulfill its obligations, the imposition may continue until the obligations are fulfilled
+
+The collecting agent who fails to pay the tax collected on time shall be subject to late payment surcharges.
+
+### Article 15
+
+(deleted).
+
+### Article 16
+
+(deleted).
+
+## Chapter V Supplemental Provisions
+
+### Article 17
+
+The implementation regulations for the collection of amusement taxes shall be formulated by the municipal and county (city) governments in accordance with this Act and submitted to the MOF for record.
+
+### Article 18
+
+This Act shall come into effect upon its promulgation.
+
+## History
+
+1.Full-text amendents(11 articles) promulgated on 24 April 1942 by Nationalist Government.
+
+2.Amendment to Article 2 promulgated on 8 July 1943 by Nationalist Government.
+
+3.Full-text amendents(13 articles) promulgated on 5 December 1946 by Nationalist Government.
+
+4.Full-text amendents(15 articles) promulgated on 1 December 1947 by Nationalist Government.
+
+5.Amendment to Article 10 promulgated on 30 December 1948 by Presidential Decree.
+
+6.Amendments to Articles 7, 9, 10 and 12 promulgated on 17 June 1950 by Presidential Decree.
+
+7.Full-text amendents(19 articles) promulgated on 31 December 1955 by Presidential Decree.
+
+8.Full-text amendents(32 articles) promulgated on 3 February 1962 by Presidential Decree.
+
+9.Amendments to Articles 1, 2, 4, 10, 12, 16 and 31 promulgated on 30 July 1971 by Presidential Decree.
+
+10.The title of Feast and Amusement Tax Act was renamed to Amusement Tax Act and full-text amendents(18 articles) promulgated on 29 June 1980 by Presidential Decree.
+
+11.Amendments to Articles 6, 12 and 13 promulgated on 6 April 1992 by Presidential Decree.
+
+12.Deletions of Article 15 and Article 16 promulgated on 30 July 1993 by Presidential Decree.
+
+13.Amendment to Article 17 promulgated on 15 May 2002 by Presidential Decree.
+
+14.Amendment to Article 2 promulgated on 23 May 2007 by Presidential Decree.
+
+15.Amendments to Articles 2, 5, 6, 10, and 17 promulgated on 20 May 2026 by Presidential Decree.

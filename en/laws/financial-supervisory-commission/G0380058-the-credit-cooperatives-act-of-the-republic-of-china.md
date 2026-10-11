@@ -1,0 +1,591 @@
+---
+title: "The Credit Cooperatives Act Of The Republic Of China"
+title_zh: "信用合作社法"
+identifier: "G0380058"
+type: act
+law_level: "法律"
+category: "行政＞金融監督管理委員會＞銀行目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1993-12-03
+last_amended: 2018-01-31
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0380058"
+retrieved: 2026-10-12
+---
+
+# The Credit Cooperatives Act Of The Republic Of China
+
+> Translation. The Chinese text ([zh/laws/financial-supervisory-commission/G0380058-the-credit-cooperatives-act-of-the-republic-of-china.md](../../../zh/laws/financial-supervisory-commission/G0380058-the-credit-cooperatives-act-of-the-republic-of-china.md)) is authoritative.
+
+## Chapter One -- General Provisions
+
+### Article 1
+
+This Act is adopted for the purposes of strengthening the sound operation of credit cooperatives, safeguarding the rights and interests of cooperative members and depositors, meeting the needs of the national economy, and coordinating with national financial policies.
+
+### Article 2
+
+In this Act, a credit cooperative means a cooperative that is organized and registered under this Act, and that the institution has been approved by the Central Competent Authority to carry on the business of providing banking services.
+
+### Article 3
+
+The incorporation of a credit cooperative shall be subject to the approval of the Central Competent Authority and shall be registered with the Competent Authority responsible for credit cooperatives.
+
+A credit cooperative incorporated under the preceding paragraph shall not engage in or carry on business until a business license has been issued by the Central Competent Authority.
+
+The procedures and the terms and conditions for the application to incorporate a credit cooperative shall be prescribed by the Central Competent Authority.
+
+### Article 4
+
+The regulation of credit cooperatives shall be governed by the provisions of this Act; where this Act is silent, it shall be governed by those of other relevant laws.
+
+### Article 5
+
+In this Act, the Competent Authority means, in respect to the central government, the Financial Supervisory Commission; in respect to the municipal level, the municipal governments, and in respect to the county (city) level, the county (city) governments.
+
+### Article 6
+
+In this Act, the responsible person of a credit cooperative means a director of the cooperative.
+
+The managerial officers, liquidators, control supervisors, and supervisors acting within the scope of their duties shall also be deemed responsible persons of a credit cooperative.
+
+### Article 7
+
+The business territory of a credit cooperative shall be delimited or adjusted at the discretion of the Central Competent Authority who, in determining the limits, though not required to conform with the administrative boundaries, shall take into account the economic and financial conditions of the locality and the business situation of the cooperative.
+
+A credit cooperative may establish branches within its business territory. The regulations for such establishment shall be identical to those of bank branches.
+
+### Article 8
+
+The articles of incorporation of a credit cooperative shall specify the following matters:
+
+\1. The name of the cooperative;
+
+\2. The place where the head office and the branch offices, if any, of the cooperative are to be situated;
+
+\3. The scope of business;
+
+\4. The business territory;
+
+\5. The nature of liabilities;
+
+\6. The membership qualifications, methods for admission to, withdrawal, and expulsion from membership;
+
+\7. The par value of each membership share and terms and conditions for paying in or redemption;
+
+\8. The minimum aggregate amount of share capital received;
+
+\9. The rights and obligations of members;
+
+\10. The amount guaranteed, where the liabilities of a credit cooperative are limited by guarantee;
+
+\11. The organization, functions, and powers of the general meetings of members and those of the boards of directors and supervisors;
+
+\12. The methods for handling managerial matters and business affairs of the cooperative, the number of directors and supervisors, and their terms of office;
+
+\13. The rules concerning the appointments of general managers and vice general managers;
+
+\14. The distribution of earnings and the sharing of losses;
+
+\15. The use of surplus reserves and welfare funds;
+
+\16. The methods for making public notices;
+
+\17. The causes for the dissolution of the cooperative;
+
+\18. Other matters specified by the Central Competent Authority; and
+
+\19. The dates of adoption of and amendment to the articles of cooperative.
+
+The adoption of and amendment to the articles of a cooperative shall be submitted to the county (city) Competent Authority for transmission to the Central Competent Authority or be submitted to the municipal Competent Authority for review and approval.
+
+An amendment to the articles of cooperative or change of directors and supervisors shall be registered within one (1) month of the amendment or change. Before registration of the amendment or change, the amendment or changes shall not be used against bona fide third party.
+
+### Article 9
+
+The accommodation and redeposit of credit cooperatives' surplus funds shall be administered by the Central Bank or by such other organization as it may designate, in such manner as the Bank may determine, after consultation with the Central Competent Authority. The rules for such administration shall be made by the Bank.
+
+The receipt and custody of the deposit reserves of credit cooperatives shall be administered by the Central Bank or by such other financial institution as it may designate.
+
+### Article 10
+
+The credit cooperatives may, with the approval of the Central Competent Authority, form a national federation, which shall be subject to the guidance of and supervision by the Central Competent Authority. The adoption of and amendment to the charter of the federation shall be submitted to the Central Competent Authority for review and approval.
+
+## Chapter Two -- Membership and Membership Shares
+
+### Article 11
+
+A natural person who can prove to have his (her) household registration records or to be working in the business territory of a credit cooperative or a non-profit-making juristic person with an office in the business territory may apply to be admitted to membership in the cooperative.
+
+A medium- or small-sized business that has a place of business in the business territory of a credit cooperative may apply to be admitted to the cooperative as an associate member. An associate member shall have the same rights and obligations as a regular member, except that it shall have no right to vote in or run for election.
+
+For the purpose of the preceding paragraph, the definition of medium- or small-sized business shall be mutatis mutandis governed by the Banking Act of The Republic of China.
+
+The medium- or small-sized business juristic persons which are associate members of a credit cooperative are not governed by Subparagraph 10 of Paragraph 1 of Article 8 of the Business Tax Act.
+
+### Article 12
+
+The par value of membership shares of a credit cooperative and the minimum and maximum number of such shares a member may subscribe to shall be stipulated by the Central Competent Authority.
+
+### Article 12-1
+
+A credit cooperative member may withdraw from the credit cooperative at the end of a business year, but they shall submit an application three months prior to the withdrawal.
+
+The period in the preceding paragraph may be extended to six months, as provided by the law; if the credit cooperative member is a juristic person, the period may be extended to one year.
+
+The member who withdrew may, according to the constitution, request redemption of the membership shares held by the member. The calculation of the share capital shall be based on the net value per share according to the resolutions of the general meeting of credit cooperative representatives at the end of the business year. However, the maximum amount of each membership share should not exceed the par value per share.
+
+Before resolving the net value in the preceding paragraph and before resolutions of the general meeting of credit cooperative representatives, the credit cooperatives should audit and attest with the Certified Public Accountants for the possible lost and recorded reserves. If not recorded, it should allocate supplementary valuation reserve accordingly.
+
+After the resolutions of the general meeting of credit cooperative representatives, the credit cooperative should redeem the membership shares in Paragraph 3 of this Article within three months.
+
+The preceding five paragraphs shall apply mutatis mutandis to the calculation of the member’s application for reduction of the membership shares and the amount of the redemption of membership shares.
+
+### Article 13
+
+Credit cooperatives with more than 200 members may elect member representatives and call general meetings of the representatives to exercise the functions and powers of the general meetings of members.
+
+The number of member representatives shall be ten percent of the total number of members, provided that it shall not be less than 51 nor exceeding 151.
+
+The term of a member representative is three years and may be re-elected.
+
+### Article 14
+
+A member of a credit cooperative, who has their household registration record or an office located in the business territory of the cooperative, and has transacted business with the cooperative for over a prescribed level, shall have the right to vote in elections upon the first anniversary of the admission to membership and shall have the rights to stand for elections upon the second anniversary of the admission, provided however that they who are admitted to the membership during the first year of the incorporation shall be exempted from these requirements.
+
+Where a non-profit-making juristic person is elected as membership representative, a natural person shall be appointed to perform  the functions and powers of the representative on its behalf.
+
+The prescribed level of business referred to in preceding paragraph 1 shall be set by the credit cooperative in its articles of cooperative.
+
+## Chapter Three -- Scope of Business
+
+### Article 15
+
+The scope of business a credit cooperative may engage in or carry on shall be set out in the business license as approved by the Central Competent Authority in the following businesses:
+
+\1. Accept checking deposits;
+
+\2. Accept demand deposits;
+
+\3. Accept time deposits;
+
+\4. Accept saving deposits;
+
+\5. Provide short-, medium- and long-term loans;
+
+\6. Discount negotiable instruments;
+
+\7. Invest in government bonds, short-term bills, corporate bonds, and bank debentures;
+
+\8. Conduct domestic remittance business;
+
+\9. Engage in credit cards and other similar businesses;
+
+\10. Accept commercial drafts;
+
+\11. Issue domestic letters of credit;
+
+\12. Provide domestic guaranty;
+
+\13. Act as collecting and paying agent;
+
+\14. Sell government bonds, treasury bills, corporate bonds, and company stocks as an agent;
+
+\15. Engage in warehousing, custodial, and agency services related to business described above;
+
+\16. Act as a receiving agent for banks in the foreign exchange business; and
+
+\17. Engage in other related businesses, which may be approved by the Central Competent Authority.
+
+The eligibility requirements and the maximum amount of business a non-member may be permitted to transact shall be determined by the Central Competent Authority.
+
+## Chapter Four -- Organization and Meetings
+
+### Article 16
+
+The term of directors and supervisors shall be three years and may be re-elected.
+
+A director may not be elected a supervisor until three years after they cease to hold the office of director and until their duties have been released.
+
+The office of a director and supervisor shall not remain vacant for more than one month after the expiry of its term without holding an election. Where no election is held within such period, the Competent Authority shall order that an election be held or cause to be held within such period, and the Competent Authority shall order that an election be held or cause to be held within one month after the expiry of such period.
+
+The directors and supervisors shall be elected by the allotment of secret limited vote from a list of registered candidates at the general meeting of members (or member representatives), each of whom shall have a limited number of votes not exceeding one-half of the vacant positions.
+
+The qualifications and the terms and conditions for member representatives, directors, supervisors, and managerial officers, as well as their selection procedures, shall be prescribed by the Central Competent Authority.
+
+### Article 16-1
+
+Expenses for the directors, supervisors, and member representatives shall not be allocated except for expenses of study and research, honorarium, transportation allowance for member representatives, and expenses designated by the Central Competent Authority.
+
+The standards of the expense allocations prescribed in the preceding paragraph shall be established by the National Federation of Credit Co-operatives R.O.C. and reported to the Central Competent Authority for approval.
+
+### Article 17
+
+A director, supervisor, managerial officer, and staff member of a credit cooperative may not concurrently hold a position in another credit cooperative, bank, insurance company, securities firm, or other financial institutions, provided that they may, with the approval of the Central Competent Authority, concurrently serve as a director or supervisor of a bank invested by the cooperative.
+
+### Article 18
+
+The directors shall perform their duties in accordance with law and regulations, the articles of cooperative, and the resolutions of the general meeting of cooperative members.
+
+Where a resolution of the board of directors violates the preceding paragraph, causing losses or damages to the credit cooperative, the directors who participated in the adoption of the resolution are liable to compensate the cooperative for the losses or damages incurred, provided that those who opposed to the adoption of the resolution as can be proven by the minutes of the meeting or by written statements, are exempted from such liability.
+
+The supervisors who are negligent in the performance of supervisory duties that cause losses or damages to the credit cooperative are liable to compensate the cooperative for the losses or damages incurred. Where both the supervisors and directors are liable to a credit cooperative or a third party for losses or damages incurred, they shall be jointly and severally liable.
+
+### Article 19
+
+Where a credit cooperative cannot repay the depositors, the directors and managerial officers shall be jointly and severally liable thereto.
+
+The liability of directors and managerial officers referred to in the preceding paragraph shall not be released until two years after they cease to hold office, provided that such liability shall not be released if the reason of the cooperative is incapable of repaying their depositor can be personally attributed to the directors and managerial officers.
+
+## Chapter Five -- Internal Systems
+
+### Article 20
+
+The accounting system of a credit cooperative shall be established in accordance with the uniform accounting system prescribed by the Central Competent Authority.
+
+### Article 21
+
+A credit cooperative shall establish internal control and auditing systems, the rules of its purpose, principal, policy, operation process, the qualification of internal auditor, the authorized scope of internal auditing to CPA, and other compliance matters made by the Central Competent Authority.
+
+A credit cooperative shall set up the credit review committees; the organizational rules for the credit review committees shall be prescribed by the Central Competent Authority.
+
+A credit cooperative shall establish internal control systems and procedures for assessing the quality of its assets, setting aside loss reserves, clearing  non-performing loans and non-accrual loans, and writing off bad debt; the applicable regulations shall be prescribed by the Central Competent Authority.
+
+A credit cooperative operation entrusted to other people shall establish internal control systems and procedures for the authorized scope protection of customer rights, risk management, and principles of internal control. Furthermore, applicable regulations shall be prescribed by the Central Competent Authority.
+
+### Article 21-1
+
+A credit cooperative shall strengthen its security protections for its business premises, vaults, safe deposit boxes (rooms), automatic teller machines, and cash transport operations, etc.; the applicable regulations shall be prescribed by the Central Competent Authority.
+
+### Article 22
+
+A credit cooperative shall establish a personnel system to govern appointment and dismissal, promotion and demotion, education and training, performance evaluation, wages and salaries, welfare and benefits, rewards and penalties, job rotation, retirement and pension, etc. It shall also adopt internal rules for personnel management.
+
+The rules for personnel management referred to in the preceding paragraph shall be adopted by the general meeting of members, and shall be submitted to the county (city) government for transmission to the Central Competent Authority or submitted to the municipal Competent Authority for review and record before implementation.
+
+## Chapter Six -- Surplus and Public Reserves
+
+### Article 23
+
+The after-tax surplus of a credit cooperative shall first be used to make up the accumulated losses; the remainder shall then be appropriated or distributed in accordance with the following order of priorities:
+
+\1. 40% or more thereof as legal surplus reserves;
+
+\2. Dividends on membership shares, provided that no dividends shall be allocated if there is no surplus of the current year;
+
+\3. 5% of the remainder, after deducting what is prescribed in the preceding Subparagraphs (1) and (2), as public welfare fund;
+
+\4. remunerations for directors and supervisors, provided that they shall not exceed 5% of the legal surplus reserves of the current year; and
+
+\5. Distributions to members on their transactions with the cooperative.
+
+### Article 24
+
+Where the amount of reserves appropriated under the preceding Article exceeds ten times the aggregate amount of the share capital, and the ratio of equity capital to risk capital has complied with what is prescribed in Article 44 of the Banking Act, and the credit cooperative may at its  discretion determine the amount to be appropriated as reserves of the year, provided however that, the percentage of surplus so appropriated shall be not less than 15%.
+
+In addition to legal surplus reserves, a credit cooperative may, by articles of cooperative or a resolution of the general meeting of members, determine to establish special surplus reserves. Where  necessary, the Central Competent Authority may also order that such reserves be established.
+
+### Article 25
+
+The following funds shall be accumulated as capital reserves:
+
+\1. Capital gains from disposal of fixed assets;
+
+\2. Donations received;
+
+\3. Excess of appreciation over depreciation from revaluation of fixed assets; and
+
+\4. The balance of assets received from a credit cooperative that has ceased to exist as a result of an amalgamation, fewer debts assumed from the credit cooperative, and the amounts paid to members of the credit cooperative.
+
+## Chapter Seven -- Supervision
+
+### Article 26
+
+A credit cooperative shall report to the boards of directors and supervisors the sanctions received from and improvements required by the Central Competent Authority on the shortcomings and failures of its business affairs and shall prepare the minutes of board meetings .
+
+The shortcomings and failures of business affairs referred to in the preceding paragraph shall be discussed, and the resolutions of corrective measures thereof shall be adopted by the boards of directors and supervisors for prompt implementation, the progress of which be tracked and reviewed by the supervisors.
+
+### Article 27
+
+When a credit cooperative fails to comply with the laws and regulations or the articles of the cooperative, or is incapable of sound management of its affairs, as likely to jeopardize the rights and interests of its members and depositors, the Competent Authority may impose the following sanctions:
+
+\1. Repealing the resolutions adopted at various statutory meetings. The resolutions with contents contravening the laws and regulations shall be null and void;
+
+\2. Dismissing the managerial officers and staff members, or ordering the credit cooperatives to take disciplinary measures against them;
+
+\3. Restricting the distribution of remuneration to its directors and supervisors;
+
+\4. Suspending or discharging directors or supervisors;
+
+\5. Suspending partial business operations;
+
+\6. Ordering to discontinue business, liquidate, or amalgamate;
+
+\7. Ordering to dissolve; and
+
+\8. Taking any other actions as may be necessary.
+
+Sanctions referred to in Subparagraphs 1 to 4 of the preceding paragraph shall be imposed by the county (city) governments or by the municipal governments, and the measures taken thereby shall be reported to the Central Competent Authority for acknowledgment, whereas sanctions referred to in Subparagraphs 5 to 8 shall be forwarded to the Central Competent Authority for action.
+
+When a director, supervisor, or managerial officer is suspected of committing an offense of embezzlement, breach of trust, or any other crimes, the credit cooperative shall refer the case to the appropriate authorities for legal action.
+
+The vacancy left by a director or supervisor removed from duties according to the provisions of this Act shall be filled by an alternate director or supervisor, if any. Where the number of vacancies of directors or supervisors has reached one-half of the total positions, a by-election shall be held promptly to fill the vacancies.
+
+## Chapter Eight -- Dissolution, Amalgamation, Reorganization, and Liquidation
+
+### Article 28
+
+Where a resolution to dissolve a credit cooperative has been adopted, an application setting forth the reasons therefor, and attached thereto minutes of the general meeting of members together with the debt payoff plan, shall be submitted to the Central Competent Authority for approval.
+
+### Article 29
+
+Where the amalgamation of a credit cooperative is proposed by a resolution or where it is ordered by the Central Competent Authority, the regulations governing the procedures and measures for such amalgamation shall be made by the Central Competent Authority.
+
+Where a credit cooperative ceases to exist after an amalgamation, its rights and obligations shall be assumed by the cooperative that continues to exist or the cooperative which is created after the amalgamation.
+
+### Article 30
+
+Where a credit cooperative has met the prescribed requirements and has been approved for reincorporated into a commercial bank organized as a company limited with shares by a resolution of at least two-thirds of the members or the member representatives present at a meeting having a quorum of at least three-fourths of the members or the member representatives, it shall apply to the Central Competent Authority for approval.
+
+Where the resolution referred to in the preceding paragraph was adopted at a general meeting of the member representatives, the credit cooperative shall give notice in writing to all members of the contents of the resolution and specify therein a period of more than 20 days during which an objection to the resolution may be raised. Any member who objects to the resolution shall submit the objection in writing during such period. Where the number of objecting members exceeds one-third of the total membership, the original resolution shall become null and void. All members who did not submit an objection during the specified period shall be deemed to have consented to the resolution.
+
+The terms and conditions and the procedures under which a credit cooperative may be reincorporated into a commercial bank shall be prescribed by the Central Competent Authority.
+
+Where a credit cooperative has been approved for reincorporation into a commercial bank, the procedures for the adoption of the articles of cooperative shall follow mutatis mutandis the same rules as those for the adoption of a resolution under Paragraph 1.
+
+### Article 31
+
+Where the size of a credit cooperative has reached prescribed standards, Subparagraph 10 of Paragraph 1 of Article 8 of the Business Tax Act exempting the payment of business tax shall become inapplicable.
+
+Where a credit cooperative has reached the prescribed standards referred to in the preceding paragraph, it may be reincorporated into a commercial bank according to the preceding Article.
+
+The standards referred to in paragraph 1 shall be prescribed by the Central Competent Authority and submitted to the Legislative Yuan for approval and record.
+
+### Article 32
+
+Where a credit cooperative has been reincorporated into a commercial bank according to the preceding Article, every member is entitled to have the membership shares converted into corporate shares with a specified conversion rate.
+
+Every member who objects to the reincorporation may, within 20 days of the adoption of the resolution to reincorporate, request the redemption of the membership shares held by the member in writing. The calculation of the share capital shall be governed by Paragraphs 3 and 4 of Article 12-1, which concerns the request to redeem membership shares in case of withdrawal from membership.
+
+In the conversion of membership shares referred to in paragraph 1, the credit coopera-tive shall construct the rate of conversion, which shall be calculated on weighted variables of the years of membership, amount of share capital, and the accumulated volume of transactions. All this shall be attached with the rules of conversion procedures for the reincorporation plans.
+
+### Article 33
+
+Where a credit cooperative has been approved for reincorporation into a commercial bank, it shall place a public notice to that effect, cancel the registration with the registration authorities for credit cooperatives, file an incorporation registration with the Ministry of Economic Affairs, and, in addition, submit the relevant documents to the Central Competent Authority to apply for a replacement of the business license.
+
+The cancellation registration, incorporation registration, and the replacement of the business license referred to in the preceding paragraph shall take effect on the date of the replacement of the business license.
+
+For the cancellation of registration referred to in paragraph 1, the application shall be attached the minutes of the meeting and the documents of approval by the Central Competent Authority referred to in paragraph 1 of Article 30. The application for incorporation registration and the issuance of a bank license shall not be governed by paragraph 1 of Article 419 and paragraph 1 of Article 420 of the Company Act nor Article 54 of the Banking Act. The documents and other relevant items required for the incorporation registration shall be prescribed by the Central Competent Authority in conjunction with the Ministry of Economic Affairs.
+
+### Article 34
+
+Where a credit cooperative has been reincorporated into a commercial bank, its rights and obligations shall be assumed by the commercial bank created after the reincorporation.
+
+### Article 35
+
+A credit cooperative that has been dissolved shall be subject to liquidation proceedings, except in the case of amalgamation or bankruptcy.
+
+## Chapter Nine -- Applicable Provisions
+
+### Article 36
+
+The powers and duties of the supervisors of a credit cooperative shall be governed, mutatis mutandis, by paragraphs 1 and 2 of Article 218, Article 218-1 to paragraph 2 of Article 219, Articles 220 to 223, and 225 of the Company Act.
+
+### Article 37
+
+The regulation of credit cooperatives shall be governed, mutatis mutandis, by Articles 5 to 9, 11 to 17, 22 to 24, 26, 30 to 35, 36 to45, 48, 49, 51, 55 to 57, 62 to 69, 74 to 76, and 79 of the Banking Act.
+
+## Chapter Ten -- Sanctions
+
+### Article 38
+
+In the event of a violation of Article 35 of the Banking Act, which is mutatis mutandis applicable pursuant to Article 37 of this Act, punishment by imprisonment for not more than three (3) years, short-term imprisonment, and/or a fine of not more than Five Million New Taiwan Dollars (NT$ 5,000,000) shall be imposed. However, if a more severe punishment is stipulated in other laws, such a more severe punishment shall prevail.
+
+### Article 38-1
+
+A person who damages the credit of a credit cooperative by spreading rumors or fraud shall be punished by imprisonment for not more than five (5) years and a fine of not more than Ten Million New Taiwan Dollars (NT$10,000,000).
+
+### Article 38-2
+
+The responsible person or staff member of a credit cooperative may be punished to a fixed-term imprisonment of not less than three (3) years and not more than ten (10) years, plus an applicable fine of not less than Ten Million New Taiwan Dollars (NT$10,000,000) and not more than Two Hundred Million New Taiwan Dollars (NT$200,000,000), for causing any damage to the property or other interests owned by the credit cooperative by committing any conduct in violation of their job responsibilities with the intent of receiving illegal gains for the interest of such individual or any third party, or to cause any damage to the credit cooperative. If the valuables or property interests acquired from such criminal conduct is One Hundred Million New Taiwan Dollars (NT$100,000,000) or more, a punishment of fixed-term imprisonment for not less than seven (7) years, plus an applicable fine of not less than Twenty Five Million New Taiwan Dollars (NT$25,000,000) and not more than Five Hundred Million New Taiwan Dollars (NT$500,000,000) will be imposed.
+
+If not less than two responsible persons or staff members jointly commit the acts described in the preceding paragraph, the punishment may be increased by up to one-half of the specified punishment.
+
+Attempts to commit the acts described in the first paragraph shall be punishable.
+
+### Article 38-3
+
+Whoever, with the intent of taking possession for that individual or any third party, causes the credit cooperative to deliver any valuable of the credit cooperative or any third party by fraud or produces any record of acquisition or loss, or change of property right by entering false information or wrongful direction into a computer or relevant equipment of the credit cooperative, will be punished to fixed-term imprisonment of not less than three (3) years and not more than then (10)years, plus an applicable fine of not less than Ten Million New Taiwan Dollars(NT$10,000,000)and not more than Two Hundred Million New Taiwan Dollars(NT$200,000,000)if the valuables or property interests acquired from such criminal conduct has exceeded One Hundred Million New Taiwan Dollars (NT$100,000,000).
+
+Those who use methods described in the preceding paragraph to obtain the illegal benefit of assets or cause a third party to do so shall likewise be subject to the specified punishments.
+
+Attempts to commit the acts described in the preceding two paragraphs shall be punishable.
+
+### Article 38-4
+
+An offender of Article 38-2 or Article 38-3 who turns himself in after committing the crime and voluntarily submits any and all of the proceeds of the crime, the punishment shall be reduced or remitted; if another offender or an accomplice is discovered, the punishment shall be remitted.
+
+An offender of Article 38-2 or Article 38-3 who confesses during the investigation and voluntarily submits any and all of the proceeds of the crime, the punishment shall be reduced; if another offender or an accomplice is discovered, the punishment shall be reduced by an amount up to one half.
+
+If the criminal gain of any valuables or property interests acquired by an offender of Article 38-2, Paragraph 1 and Article 38-3, Paragraph 1 or Paragraph 2 has exceeded the maximum fine, the penalty may be increased up to the amount of such criminal gain of any valuables or property interests; the punishment shall be increased up to one-half of the original penalty if the stability of the financial market is harmed thereof
+
+### Article 38-5
+
+Where a gratuitous act done by a responsible person, staff member of a credit cooperative under Article 38-2, Paragraph 1, or committer of a violation under Article 38-3, Paragraph 1, damages the rights of a credit cooperative, the credit cooperative may apply to a court for the revocation of such act.
+
+Where a non-gratuitous act done by a responsible person, staff member of a credit cooperative, or a committer of a violation as referred to in the preceding paragraph is done with the knowledge, at the time of commission, that it would damage the rights of a credit cooperative, and the beneficiary also knows of such circumstances at the time the benefit is received, the credit cooperative may apply to a court for the revocation of such act.
+
+When applying to a court for revocation under either of the preceding two paragraphs, a party may also apply to the court to order the beneficiary or any party to whom the benefit has been transferred to restore the status quo ante unless it was otherwise noted that the party to whom the benefit has been transferred was not aware at the time of transfer that there was cause for the revocation.
+
+Any disposition of property between a responsible person, staff member of a credit cooperative, or a committer of a violation as referred to in Paragraph 1 and such a person's spouse, lineal relative, cohabiting relative, parent, or family member shall be deemed a gratuitous act.
+
+Any disposition of property between a responsible person, staff member of a credit cooperative, or a committer of a violation as referred to in Paragraph 1 and any person other than those set forth in the preceding paragraph shall be presumed to be a gratuitous act.
+
+The claim for revocation set forth in Paragraphs 1 and 2 shall be extinguished by prescription if not exercised within one year from the date on which the credit cooperative became aware of the grounds for revocation, or shall be extinguished ten years from the date of the act.
+
+### Article 38-6
+
+The crimes set forth in Article 38-2, Paragraph 1, and Article 38-3, Paragraph 1 are serious crimes as defined in Article 3, Paragraph 1 of the Money Laundering Control Act. They are subject to the application of relevant provisions of the Money Laundering Control Act.
+
+### Article 39
+
+In the event of a violation of Article 32, Article 33, Article 33-2, or Article 33-4, Paragraph 1 of the Banking Act, which is mutatis mutandis applicable pursuant to Article 37 of this Act, the credit cooperative's responsible person shall be punished by imprisonment for a term not more than three (3) years, short-term imprisonment, and/or a fine of not less than Five Million New Taiwan Dollars (NT$ 5,000,000) and not more than Twenty-Five million New Taiwan Dollars (NT$ 25,000,000).
+
+In the event that the amount of credit ex-tended by the credit cooperative exceeds the amount prescribed by the Competent Au-thority under Article 33 of the Banking Act, which is mutatis mutandis applicable pursu-ant to Article 37 of this Act without obtaining approval from not less than three-quarters of the directors present in the board meeting at which not less than two-thirds directors are present, or violation of the credit limit and total credit balance extended prescribed by the Central Competent Authority under Arti-cle 33, Paragraph 2 of the Banking Act which is, mutatis mutandis, applicable pursuant to Article 37 of this Act, the credit cooperative's responsible person shall be punished by a fine of not less than Two Million New Taiwan Dollars (NT$ 2,000,000) and not more than Ten Million New Taiwan Dollars (NT$ 10,000,000) and the preceding paragraph shall not apply.
+
+### Article 40
+
+In the event of a violation of resolution measures ordered by the Central Competent Authority in accordance with Article 62, Paragraph 1 of the Banking Act, which is mutatis mutandis applicable pursuant to Article 37 of this Act, if the said violation is sufficient to cause damage to the public or others, the credit cooperative's responsible person(s) for the violation shall be punished by imprisonment for not less than one (1) year and not more than seven (7) years and may be fined not more than Twenty Million New Taiwan Dollars (NT$ 20,000,000).
+
+Commission of any of the following acts by a credit cooperative directors, supervisors, managerial officers, or other staff members in connection with the Competent Authority sending officials to supervise or take over the business operations or order of suspension of the business and resolution measures shall be punished by imprisonment for not less than one (1) year and not more than seven (7) years, and may be fined not more than Twenty Million New Taiwan Dollars (NT$ 20,000,000):
+
+\1. Refusing to deliver the books, documents, chops, and assets related to the credit cooperative business or finance to the supervisors, receivers, or resolution manager designated by the Competent Authority, refusing to provide information as to the necessary matters in connection with assets and liabilities of the credit cooperative to such persons, or refusing such persons' requests to carry out necessary acts for supervising, taking over or resolution.
+
+\2. Concealing or damaging the books or other documents regarding a credit cooperative business or financial condition;
+
+\3. Concealing or destroying a credit cooperative properties or making other decisions to the detriment of creditors;
+
+\4. Failing to replay, without justification, to inquiries from the officials sent by the Competent Authority to supervise or take over or take resolution measures for business operations; or
+
+\5. Fabricating claims or accepting false claims.
+
+### Article 40-1
+
+While punishment shall be imposed on the responsible person(s) in accordance with other provisions, if the responsible person(s), agents, employees, or staff members of a juristic person commit acts punishable under Articles 38 through 40 of this Act, the juristic person shall also be subject to the fines specified in each respective article.
+
+### Article 41
+
+Every director, supervisor, managerial officer, or staff member of a credit cooperative who concurrently holds another position in violation of Article 17 shall be punished with a fine not less than one hundred and fifty thousand and not exceeding one million and eight hundred thousand New Taiwan Dollars.
+
+Where the position concurrently held, as referred to in the preceding paragraph, is assigned by the credit cooperative, the cooperative shall be subject to the punishment.
+
+### Article 42
+
+Punishment with a fine not less than one hundred and fifty thousand and not exceeding one million and eight hundred thousand New Taiwan Dollars shall be imposed for any of the following wrongdoings:
+
+\1. Engaging in or carrying on business in violation of paragraph 1 of Article 15;
+
+\2. Acting in violation of the regulations prescribed by the Central Competent Authority pursuant to paragraph 2 of Article 15;
+
+\3. Failing to comply with the restrictions imposed by the Central Competent Authority according to Article 33-3 or Article 36 of the Banking Act, which is mutatis mutandis applicable pursuant to Article 37 herein;
+
+\4. Failing to take adjustment measures within the time period imposed by the Central Competent Authority according to Article 43 of the Banking Act, which is mutatis mutandis applicable pursuant to Article 37 herein;
+
+\5. Failing to comply with the restrictions imposed by the Central Competent Authority according to paragraph 1 of Article 44 of the Banking Act, which is mutatis mutandis applicable pursuant to Article 37 herein;
+
+\6. Engaging in or carrying on business in violation of Article 57 of the Banking Act, which is mutatis mutandis applicable pursuant to Article 37 herein; or
+
+\7. A director or supervisor failing to report the violation of paragraph 1 of Article 64 of the Banking Act, which is mutatis mutandis applicable herein pursuant to Article 37.
+
+### Article 43
+
+Where a loan is extended in violation of the regulations made by the Central Bank ac-cording to Article 40 of the Banking Act, which is mutatis mutandis applicable pursu-ant to Article 37 herein, punishment with a fine not less than ninety thousand and not exceeding one million and two hundred thousand New Taiwan Dollars shall be im-posed.
+
+### Article 44
+
+Punishment with a fine not less than thirty thousand and not exceeding six hundred thousand New Taiwan dollars shall be imposed for any of the following wrongdoings:
+
+\1. Accepting a deposit in violation of Article 34 of the Banking Act, which i mutatis mutandis, applicable herein pursuant to Article 37 herein; or
+
+\2. Failing to submit business reports, place public notices, or file other reports in violation of Article 45 or 49 of the Banking Act, which is mutatis mutandis applicable pursuant to Article 37 herein.
+
+### Article 45
+
+Except as otherwise provided in this Act, punishment with a fine not less than thirty thousand and not exceeding six hundred thousand New Taiwan Dollars shall be imposed for any violation of the provisions of this Act or of the regulations made by the Central Competent Authority or by the Central Bank as authorized by this Act.
+
+### Article 46
+
+The person subject to a fine according to the provisions of the preceding four Articles, except that of paragraph 7 of Article 42, shall be the credit cooperative or a branch thereof.
+
+A credit cooperative or a branch thereof that has been fined under the preceding paragraph shall have the right to be indemnified by the person who committed the act of violation.
+
+### Article 47
+
+If an administrative fine is not paid within the period of time, a surcharge for late payment shall be levied and calculated at the rate of one percent (1%) of the amount of the fine in arrears for each day of delay, starting from the day following the expiry of the set period of time. If the payment of the fine still has not been made after thirty (30) days, the case shall be referred to the court for compulsory execution. In addition, the Central Competent Authority may order that the credit cooperative, or the branch thereof, suspend its business operations
+
+### Article 48
+
+Where a credit cooperative has received a fine for violating the provisions of this chapter and fails to rectify the situation within the prescribed time period, an additional fine of up to five times the original amount may be imposed on the same happening or act. Where a credit cooperative commits repeated violations of a grave nature, it may be ordered to have its responsible person replaced within a prescribed time period or to have its permit revoked.
+
+Where a credit cooperative whose permit has been revoked by the Central Competent Authority, the Central Competent Authority shall notify the authorities in charge of registration to cancel the registration of the cooperative.
+
+### Article 48-1
+
+Any proceeds of the crime received by the actor, or any individual, juridical person, or unincorporated association under Article 38-1 paragraph 2 of the Criminal Code due to the offenses of the Act shall be returned to the victims, or any person entitled to claim for damages, or shall otherwise be confiscated.
+
+### Article 48-2
+
+Those who violate this Act and are fined Fifty Million New Taiwan Dollars (NT$ 50,000,000) or more but are unable to pay their fine in full shall perform labor service for a period of not more than two (2) years; the length of such labor service shall be calculated by the ratio of the total amount of the fine to the number of days in two (2) years. Those who are fined One Hundred Million New Taiwan Dollars (NT$ 100,000,000) or more but are unable to pay their fine in full shall perform labor service for a period of not more than three (3) years; the length of such labor service shall be calculated by the ratio of the total amount of the fine to the number of days in three (3) years.
+
+## Chapter Eleven -- Supplementary
+
+### Article 49
+
+A credit cooperative shall apply to the Central Competent Authority for the issuance of a business license. It shall do the same where the establishment of a branch has been approved.
+
+Where there is a change of the particulars in the business license, it shall be subject to approval by the Central Competent Authority, and a replacement license shall be applied for.
+
+A credit cooperative that has not applied for a business license prior to the implementation of this Act shall be required to do so retroactively.
+
+### Article 49-1
+
+The incumbent supervisors who have held office since before the implementation of this Act shall continue to do so for one additional year.
+
+Where a credit cooperative has not held an election of directors in 1994, the term of office of its incumbent supervisors shall be extended until the expiry of that of the incumbent directors, at which time new elections will be held concurrently.
+
+### Article 49-2
+
+For purposes of trying a criminal case of violation of this Act, a court may set up a special court or appoint a specialist to hear the case.
+
+### Article 50
+
+The enforcement rule of this Act shall be made by the Central Competent Authority.
+
+### Article 51
+
+This Act shall be implemented as of the date of its promulgation.
+
+Amended articles of this Act that were amended on May 5, 2006, will be implemented on July 1, 2006.
+
+## History
+
+\1. Promulgated on the third day of December 3, 1993.
+
+\2. Amended on February 4, 1994.
+
+\3. Amended on May 15, 2002.
+
+\4. Amended on May 29, 2002.
+
+\5. Amended on February 4, 2004.
+
+\6. Amended on May 18, 2005.
+
+\7. Amended on May 30, 2006.
+
+\8. Amended on June 4, 2014.
+
+\9. Amended on January 31,2018.

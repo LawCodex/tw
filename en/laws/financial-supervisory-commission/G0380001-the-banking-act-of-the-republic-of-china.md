@@ -1,0 +1,1725 @@
+---
+title: "The Banking Act of The Republic of China"
+title_zh: "銀行法"
+identifier: "G0380001"
+type: act
+law_level: "法律"
+category: "行政＞金融監督管理委員會＞銀行目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1931-03-28
+last_amended: 2023-06-28
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0380001"
+retrieved: 2026-10-12
+---
+
+# The Banking Act of The Republic of China
+
+> Translation. The Chinese text ([zh/laws/financial-supervisory-commission/G0380001-the-banking-act-of-the-republic-of-china.md](../../../zh/laws/financial-supervisory-commission/G0380001-the-banking-act-of-the-republic-of-china.md)) is authoritative.
+
+## Chapter I General Provisions
+
+### Article 1
+
+This Act is enacted to strengthen the banking business operations, to protect depositors’ rights, to coordinate with the industrial development and to enable the cooperation of bank credits with the national financial policy.
+
+### Article 2
+
+The term "bank" as used in this Act shall refer to an organization formed and registered in accordance with this Act and engaging in banking businesses.
+
+### Article 3
+
+A bank may engage in the following businesses:
+
+1.Accepting checking deposits;
+
+2.Accepting various kinds of other deposits;
+
+3.Managing trust funds under entrustment;
+
+4.Issuing bank debentures;
+
+5.Extending loans;
+
+6.Discounting bills and notes;
+
+7.Investing in securities;
+
+8.Direct investment in productive enterprises;
+
+9.Investing in residential construction and business construction;
+
+10.Conducting domestic and foreign remittances;
+
+11.Accepting commercial drafts;
+
+12.Issuing letters of credit;
+
+13.Conducting domestic and foreign guarantees;
+
+14.Acting as collecting and paying agent;
+
+15.Underwriting and trading in securities for its own account or for customers;
+
+16.Managing and advising the issuance of bonds and debentures;
+
+17.Acting as attestors for the issuance of stocks, bonds and debentures;
+
+18.Managing various kinds of property under entrustment;
+
+19.Conducting businesses related to securities investment trusts;
+
+20.Trading in gold bars/coins, silver bars/coins and foreign currencies;
+
+21.Conducting warehousing, custody and agency service businesses in relation to the businesses of the foregoing paragraphs; and
+
+22.Conducting other relevant businesses authorized by the central competent authority.
+
+### Article 4
+
+The business items of each bank shall be determined individually by the central competent authority in accordance with the bank’s classification and within the business scope specified in this Act, and shall be stated on the bank’s business license. However, business operations related to foreign exchange shall be approved by the Central Bank of the Republic of China.
+
+### Article 5
+
+Credit extended by a bank under this Act is short-term credit if it matures within no more than one (1) year; medium-term credit if it matures in more than one (1) year and no more than seven (7) years; and long-term credit if it matures in more than seven (7) years.
+
+### Article 5-1
+
+The term "accept(ing) deposits" as used in this Act shall refer to the act of accepting payments or receiving funds from the general public and agreeing to return the principal or to pay an amount equal to or greater than the principal.
+
+### Article 5-2
+
+The term "extend(ing) credit" as used in this Act shall refer to the extension of loans, extension of overdraft facilities, discount of bills and notes, extension of guarantees, acceptance of drafts, and other businesses specified by the central competent authority as conducted by a bank.
+
+### Article 6
+
+The term "checking deposit" as used in this Act shall refer to a deposit which may be drawn at any time without interest by, as agreed, a check signed by the depositor or by the use of automatic equipment of mandated payment.
+
+### Article 7
+
+The term "demand deposit" as used in this Act shall refer to a deposit which can be drawn by the depositor at any time by a passbook or by other agreed means.
+
+### Article 8
+
+The term "time deposit" as used in this Act shall refer to a deposit with a fixed term which can be drawn by the depositor by a deposit certificate or by other agreed means.
+
+### Article 8-1
+
+Time deposits shall not be drawn before
+
+maturity, provided that the depositor may pledge a time deposit or terminate it by giving seven (7) days prior notice to the bank.
+
+Rules governing the pledge and early termination in the preceding paragraph shall be prescribed by the competent authority after consulting with the Central Bank of the Republic of China.
+
+### Article 9
+
+Deleted
+
+### Article 10
+
+The term "trust funds" as used in this Act shall refer to funds which are received by a bank in the trustee’s position and managed in accordance with the terms of a trust agreement for the interest of a beneficiary designated by the trustor.
+
+### Article 11
+
+The term "bank debentures" as used in this Act shall refer to bonds/debentures issued by a bank in accordance with the relevant provisions of this Act whose issuance is approved by the competent authority.
+
+### Article 12
+
+The term "secured credit" as used in this Act shall refer to a bank’s extension of credit which is secured by one of the following means:
+
+1.Mortgage over immovables or movables;
+
+2.Pledge over movables or rights;
+
+3.Bills/Notes receivable arisen from business transactions of a borrower;
+
+4.Guarantees extended by a governmental treasury agency, a bank or a credit guarantee institution authorized by the government.
+
+### Article 12-1
+
+In extending self-use residence loans or consumer loans, a bank shall not require borrowers to provide joint and several guarantor(s).
+
+In extending self-use residence loans or consumer loans, if a bank has obtained sufficient security prescribed in the preceding article, it shall not require borrowers to provide guarantor(s).
+
+Except for the preceding paragraph, if a bank requires guarantor(s) when extending credits, the guaranty shall be in a specific amount.
+
+In seeking repayment, a bank shall first pursue the borrower; when the repayment is insufficient and there are multiple guarantors, it shall pursue the guarantors on a pro-rata basis; provided that the above shall not apply to applications for enforcement titles or provisional remedies proceedings.
+
+### Article 12-2
+
+For guarantors required for self-use residence loans or consumer loans, the duration of the guaranty contract shall not exceed fifteen years from the date of the contract formation unless consented by the guarantor in writing.
+
+### Article 13
+
+The term "unsecured credit" as used in this Act shall refer to a credit extended without the security prescribed in any of the paragraphs in Article 12.
+
+### Article 14
+
+The term "medium- or long-term loan repayable in installments" as used in this Act shall refer to a loan extended by a bank based on the borrower’s ability to repay the debt, in which the methods to repay the principal and interest in installments and other relevant terms to be observed by the borrower are stated in the loan agreement agreed between the lending and borrowing parties.
+
+### Article 15
+
+The term "commercial negotiable instrument" as used in this Act shall refer to a bill of exchange or promissory note issued in connection with domestic or foreign trade in goods or services.
+
+The bill of exchange in the preceding paragraph is called a commercial acceptance when its payor is the recipient of the goods sold or services provided and has accepted it.
+
+The bill of exchange is called a banker’s acceptance when the recipient in the preceding paragraph  mandates a bank as the payor and the bill of exchange is accepted by the bank. The same applies to cases where a person who sells goods or provides services signs and issues a bill of exchange in the transaction amount based on transaction documents and mandates a bank as the payor, and such bill of exchange is accepted by the bank.
+
+A bank’s purchase of a post-dated bill of exchange or promissory note by means of deducting non-accrued interest in advance shall be called a discount.
+
+### Article 16
+
+The term "letter of credit" as used in this Act shall refer to an instrument which a bank, mandated by a customer, notifies and authorizes a designated beneficiary to issue a bill of exchange or other certificates, in accordance with a prescribed form and in an amount not exceeding a certain limit, to be accepted or paid by the bank or its designated correspondent upon the beneficiary’s performance of agreed terms and conditions.
+
+### Article 17
+
+Deleted.
+
+### Article 18
+
+The term "responsible person of a bank" as used in this Act shall refer to the person designated to be responsible in accordance with the Company Act, other laws or the articles of incorporation of the relevant bank.
+
+### Article 19
+
+The term "competent authority" as used in this Act shall refer to the Financial Supervisory Commission.
+
+### Article 20
+
+The term "bank" as used in this Act shall be classified into the following three types:
+
+1.Commercial banks;
+
+2.Specialized banks; and;
+
+3.Investment trust companies.
+
+Except for those banks incorporated by the government, a bank’s type and specialization shall be stated in its name.
+
+A non-bank shall not use a name prescribed in Paragraph 1 or name that would likely cause people to mistake it as a bank.
+
+### Article 21
+
+A bank and its branch office shall not commence business operations before having completed the incorporation procedures prescribed in Chapter II of this Act.
+
+### Article 22
+
+A bank shall not conduct any business unauthorized by the central competent authority.
+
+### Article 22-1
+
+To promote the development of inclusive finance and financial technology, an applicant, not limited to banks, may apply to engage in an innovative experiment in banking businesses pursuant to the Act of Financial Technology Development and Innovative Experiment.
+
+The innovative experiment in the preceding paragraph may be exempt from the requirements of this Act during the period and within the scope authorized by the competent authority.
+
+The competent authority shall take into account the outcomes of the innovative experiment in Paragraph 1 and review the appropriateness of this Act and relevant financial laws and regulations.
+
+### Article 23
+
+The minimum capital requirements for different types of banks shall be determined or adjusted by the central competent authority after it divides the nation into different regions and examines the population and economic development conditions in each region and the type of bank, respectively.
+
+In the event that a bank's capital falls below the adjusted minimum requirements prescribed in the preceding paragraph, the central competent authority shall prescribe a period of time and order such bank to increase its capital; it shall revoke such bank's permit if the bank fails to complete the capital increase within such period of time.
+
+### Article 24
+
+The capital of a bank shall be denominated in terms of the national currency.
+
+### Article 25
+
+The shares issued by a bank shall be registered shares.
+
+The same person or same related party who singly, jointly or collectively holds more than five percent (5%) of a bank's outstanding voting shares shall report such fact to the competent authority within ten (10) days from the day of holding; the same applies to each cumulative increase or decrease in the shareholding by more than one percent (1%) thereafter.
+
+The same person or same related party who intends to singly, jointly or collectively hold more than ten percent (10%), twenty-five percent (25%) or fifty percent (50%) of a bank's outstanding voting shares shall, respectively, apply for prior approval of the competent authority.
+
+A third party who holds shares on behalf of the same person or same related party in trust, by mandate or through contracts, agreements, authorization, or other means shall fall within the purview of the same related party.
+
+The same person or same related party who singly, jointly or collectively holds more than five percent (5%) but less than fifteen percent (15%) of a bank's outstanding voting shares prior to the implementation of the amendment to this Act on December 9, 2008 shall report such fact to the competent authority within six (6) months from the implementation date of the said amendment. Those who report to the competent authority within the prescribed period may maintain their shareholding percentage at the time of reporting. However, those whose original shareholding is more than ten percent (10%) shall apply for the prior approval of the competent authority when they intend to increase their shareholding for the first time thereafter.
+
+The regulations governing the qualification requirements for the same person or same related party who applies for approval pursuant to Paragraph 3 hereof or the proviso of the preceding paragraph, required documentation, shares to be acquired, purpose, funding sources, and other matters to be complied with shall be prescribed by the competent authority.
+
+Where the same person or same related party who holds a bank’s outstanding voting shares without filing a report with or obtaining approval from the competent authority in accordance with the provisions set forth in Paragraphs 2, 3 or 5 hereof, their exceeding shares shall not have voting rights, and the competent authority shall order them to dispose of the shares within a prescribed period.
+
+If the same person or the principal and their spouse and minor children holds more than one percent (1%) of a bank's outstanding voting shares, the principal shall notify the bank thereof.
+
+### Article 25-1
+
+The term "same person" as used in the preceding article shall refer to the same natural or juridical person.
+
+The term "same related party" as used in the preceding article shall refer to parties related to the same natural or juridical person. The scopes are as follows:
+
+\1. Parties related to the same natural person:
+
+(1) The principal, their spouse and relatives by blood within the second degree of kinship.
+
+(2) An enterprise in which the persons prescribed in the preceding subparagraph collectively hold more than one third (1/3) of its outstanding voting shares or capital.
+
+(3) An enterprise or foundation in which the persons prescribed in Subparagraph (1) act as its chairperson, general manager or the majority of its directors.
+
+\2. Parties related to the same juridical person:
+
+(1) The same juridical person, its chairperson and general manager, and the spouse and relatives by blood within second degree of kinship of the chairperson and general manager.
+
+(2) Enterprises in which the same juridical person and natural persons prescribed in the preceding subparagraph hold more than one-third (1/3) of their outstanding voting shares or capital or act as their chairperson, general manager or the majority of their directors.
+
+(3) The affiliates of the same juridical person. The term "affiliate" shall be defined by Articles 369-1 through 369-3, 369-9 and 369-11 of the Company Act.
+
+The calculation of a bank’s shares held by the same person or same related party under the preceding two paragraphs shall exclude shares held under the following circumstances
+
+\1. Shares acquired by a securities firm during the underwriting period of the securities and disposed of during the period prescribed by the competent authority.
+
+\2. Shares acquired by a financial institution due to the assumption of security and four years have not elapsed since the date of acquisition.
+
+\3. Shares acquired by inheritance or bequest and two years have not elapsed since the date of inheritance or bequest.
+
+### Article 26
+
+The central competent authority may restrict the establishment of banks or their branches in specific regions depending on the domestic financial and economic conditions.
+
+### Article 27
+
+The establishment of overseas branches by a bank shall obtain the approval of the central competent authority after consultation with the Central Bank of the Republic of China.
+
+### Article 28
+
+Where a commercial bank or a specialized bank conducts trust or securities businesses, the business and accounting shall be independent; rules governing the operation scope and risk management of such businesses shall be prescribed by the competent authority.
+
+A bank conducting trust or securities businesses shall appropriate operational funds exclusively for such business operations. The amount of the appropriated operational funds shall be approved by the competent authority.
+
+Unless otherwise provided by other laws, a bank conducting trust businesses shall be subject to the provisions of Chapter Six of this Act.
+
+Unless otherwise provided by other laws or rules prescribed by the competent authority, a bank's staff conducting trust or securities businesses shall keep customer correspondence and transaction data confidential; the same applies to their dealings with staff of the bank’s other departments.
+
+### Article 29
+
+Unless otherwise provided by laws, a non-bank shall not conduct the business of accepting deposits, managing trust funds or public property under entrustment or handle domestic or foreign remittances.
+
+The competent authority or the competent authority in charge of the particular enterprise, together with the juridical police authority, shall ban the violation of the preceding paragraph and refer the case to justice. If the person concerned is a juridical person, the responsible person shall be jointly and severally liable for repaying the relevant obligations.
+
+In performing the duties in the preceding paragraph, the suspected party's accounting books and documents may be searched and detained in accordance with the law, and the signs and other facilities may be demolished or disposed by other necessary means.
+
+### Article 29-1
+
+Accepting payments or receiving funds from multiple persons or unspecified persons in the name of borrowing, accepting investments, becoming a shareholder or others and agreeing to pay or paying a bonus, interest, dividend interest, or other rewards in an amount obviously inequivalent to the principal shall be deemed accepting deposits.
+
+### Article 30
+
+Where a bank extends loans, issues letters of credit or issues guarantees, and the borrower, mandator, or the guaranteed which is a company limited by shares and whose board of directors resolves to issue a written commitment to the bank offering certain property as security and agreeing not to pledge or mortgage the same property to their other creditors, the bank may permanently or temporarily waive the registration of mortgages over immovables or movables or the transfer of possession of the pledged property. However, the debtor shall supplement it within a period of time prescribed by the bank when the bank considers it necessary.
+
+Where the borrower, mandator, or guaranteed breaches the commitment in the preceding paragraph, their directors and actors who participated in deciding the breach shall be jointly and severally liable for the compensation.
+
+### Article 31
+
+Where a bank issues letters of credit or undertakes to accept commercial negotiable instruments, its rights and obligations with customers shall be governed by an agreement.
+
+Where a bank conducts the businesses in the preceding paragraph and requires the customer to provide security, such security shall comply with each paragraph of Article 12 of this Act.
+
+### Article 32
+
+A bank shall not extend unsecured credits to enterprises in which the bank holds three percent (3%) or more of their total paid-in capital, the bank’s responsible persons, staff, major shareholders, or any interested party of the bank’s responsible persons or the staff in charge of credit extensions; provided that consumer loans and loans extended to the government are excluded.
+
+The credit amount of the consumer loans in the preceding paragraph shall be prescribed by the central competent authority.
+
+The term "major shareholder" as used in this Act shall refer to a shareholder who holds one percent (1%) or more of the bank’s total amount of outstanding shares. Where a major shareholder is a natural person, the shares held by their spouse and minor children shall be counted in their shareholding.
+
+### Article 33
+
+Where a bank extends secured credits to enterprises in which the bank holds five percent (5%) or more of their total paid-in capital, the bank’s responsible persons, staff, major shareholders, or any interested party of the bank’s responsible persons or staff in charge of credit extensions, the security shall be fully sufficient and the terms shall not be more favorable than those terms offered to other same category customers. Where the credit amount exceeds the amount prescribed by the central competent authority, the bank shall obtain the consent from three-quarters or more of the bank's presenting directors attended by two-thirds or more of the bank’s directors.
+
+The credit amount limits, aggregate credit amount, credit terms and the same category credit customers referred to in the preceding paragraph shall be prescribed by the central competent authority after consultation with the Central Bank of the Republic of China.
+
+### Article 33-1
+
+The interested parties referred to in the preceding two articles refer to the following persons:
+
+1.Spouse, relatives by blood within the third degree of relationship or relatives by marriage within the second degree of relationship of the bank’s responsible persons or staff in charge of credit extensions.
+
+2.An enterprise in sole proprietorship or partnership invested by the bank’s responsible persons, staff in charge of credit extensions or by the interested parties prescribed in the preceding subparagraph.
+
+3.An enterprise whose more than ten percent (10%) of its total outstanding shares or capital is solely or collectively held by the bank’s responsible persons, staff in charge of credit extensions or the interested parties prescribed in Subparagraph 1.
+
+4.An enterprise whose director, supervisor or manager is the bank’s responsible person, the staff in charge of credit extensions or the interested party prescribed in Subparagraph 1 of, except where the concurrent positions of the director, supervisor, or manager arise from an investment relationship and has been approved by the central competent authority.
+
+5.A juridical person or other organization whose representative or administrator is the bank’s responsible person, staff in charge of credit extensions or an interested party prescribed in Subparagraph 1.
+
+### Article 33-2
+
+A bank shall not mutually extend unsecured credits to the responsible person or major shareholder of its corresponding bank or to an enterprise whose responsible person is the responsible person of the corresponding bank. The secured credits thereof shall be handled in accordance with Article 33.
+
+### Article 33-3
+
+The competent authority may impose restrictions on credit extensions or other transactions by a bank with the same person, the same related party or the same affiliate. Regulations governing their amount limits, the scope of other transactions, and other matters to be complied with shall be prescribed by the competent authority.
+
+The same person, same related party or the same affiliate with which a bank may extend credits or engage in other transactions as referred to in the preceding paragraph shall be as follows:
+
+\1. The same person shall refer to the same natural or juridical person.
+
+\2. The same related party shall refer to the principal, their spouse and relatives by blood within the second degree of kinship, and enterprises whose responsible persons are the principal or their spouse.
+
+\3. The same affiliates shall be defined under Articles 369-1 to 369-3, 369-9 and 369-11 of the Company Act.
+
+### Article 33-4
+
+The foregoing provisions shall apply to where persons falling within Articles 32, 33 or 33-2 use other persons' names to apply for credit extensions from the bank.
+
+Where the proceeds of a credit extension applied from a bank are used by a person who uses other persons' names or transferred to such person who uses other persons' names, the credit extension shall be deemed as extended to persons who use other persons’ names as referred to in the preceding paragraph.
+
+### Article 33-5
+
+In determining whether a bank holds more than three percent (3%) or five percent (5%) of the paid-in capital of an enterprise for purposes of Article 32-1, Paragraph 1 and Article 33, Paragraph 1, the following amount of capital shall be included:
+
+1.The amount of capital held singly or collectively by the bank's subsidiaries;
+
+2.The amount of capital held by a third party on behalf of the bank; and
+
+3.The amount of capital held by a third party on behalf of the bank's subsidiaries.
+
+The scope of the bank's subsidiaries prescribed in the preceding paragraph shall apply the definition of Article 369-2, Paragraph 1 of the Company Act.
+
+### Article 34
+
+A bank shall not offer allowances, gifts or other payments in addition to interest to accept deposits, except where it provides dividends for trust funds pursuant to the agreements.
+
+### Article 34-1
+
+A bank that extends credit shall set reasonable prices in consideration of factors such as market rates, its own funding costs, operating costs, expected risks and losses and customer's overall contribution and shall not solicit or conduct credit extension businesses by offering unreasonable prices.
+
+### Article 35
+
+The responsible persons and staff of a bank shall not accept, in any name, commissions, rebates or other unwarranted benefits from depositors, borrowers or other customers.
+
+### Article 35-1
+
+The responsible persons and staff of a bank shall not hold concurrent positions in other banks, except where they may concurrently serve as the director or supervisor of an invested bank arising from an investment relationship and approved by the central competent authority.
+
+### Article 35-2
+
+The guidelines for qualification requirements for the responsible persons of a bank, restrictions on concurrent positions thereof, prohibition of conflicts of interest and other matters to be complied with shall be prescribed by the competent authority.
+
+Where a responsible person of a bank does not meet the qualification requirements prescribed in the guidelines referred to in the preceding paragraph, the competent authority shall discharge their position; where they violate the restrictions on concurrent positions and the prohibition of conflicts of interest, the competent authority may order the bank to make adjustment within a prescribed period of time and discharge the responsible person when the bank fails to make adjustment within the prescribed period without justified reason.
+
+### Article 36
+
+The central competent authority may, when necessary, impose appropriate restrictions on the extension of unsecured loans or guarantees by banks after consultation with the Central Bank of the Republic of China.
+
+The central competent authority may, when necessary, set the standard for the ratio of a bank's major assets to major liabilities and major liabilities to net worth after consultation with the Central Bank of the Republic of China. The competent authority shall punish the bank whose actual ratio does not meet the prescribed standard pursuant to the relevant provisions and may restrict its distribution of profits.
+
+The terms "major asset" and "major liability" as used in the preceding paragraph shall be defined by the central competent authority taking into consideration the business nature of different types of banks.
+
+### Article 37
+
+The value of the pledged or mortgaged property provided by a borrower shall be accurately determined by banks based on their current price, deprecation rate, and marketability.
+
+The Central Bank of the Republic of China, when necessary, may select several types of pledged or mortgaged property and impose their maximum lending rates to control credit.
+
+### Article 38
+
+A bank may extend medium- or long-term loans for the purchase or construction of residential or business constructions, and the maximum term of such loans shall not exceed thirty (30) years, except for the loans extended to persons who have no self-use housing for their purchase of self-use housing.
+
+### Article 39
+
+A bank may extend medium-term loans to individuals for their purchase of durable consumer goods or discount promissory notes issued by a buyer as endorsed by a distributor.
+
+### Article 40
+
+In extending the loans referred to in the preceding two articles, the procedure for repayment in instalments used in medium- or long-term loans may be applied. The Central Bank of the Republic of China may, when necessary, regulate and control the terms and credit duration of their repayment.
+
+### Article 41
+
+A bank's interest rates shall be in annual rate and posted in the bank's place of business.
+
+### Article 42
+
+A bank shall provide reserves for different types of deposits and other types of liabilities in accordance with the ratios prescribed by the Central Bank of the Republic of China.
+
+The scope of the "other types of liabilities" in the preceding paragraph shall be prescribed by the Central Bank of the Republic of China in consultation with the competent authority.
+
+### Article 42-1
+
+Deleted.
+
+### Article 43
+
+To assure that a bank maintains appropriate liquidity for its assets, the Central Bank of the Republic of China may, after consultation with the central competent authority, prescribe a minimum ratio between the bank’s current assets and various liabilities from time to time. The central competent authority shall notify the bank which fails to comply with the minimum ratio to make due adjustment within a prescribed period of time.
+
+### Article 44
+
+The ratio between a bank's equity capital to its risk assets shall not be less than the prescribed ratio. The same applies to the ratio between consolidated equity capital to risk assets of the bank which are required by the competent authority to produce consolidated financial statements.
+
+A bank shall be graded by capital as follows based on the ratio of its equity capital to risk assets:
+
+\1. Adequate capital.
+
+\2. Inadequate capital.
+
+\3. Significantly inadequate capital.
+
+\4. Seriously inadequate capital.
+
+The term "seriously inadequate capital" in Subparagraph 4 of the preceding paragraph shall refer to the ratio of equity capital to risk assets being less than two percent (2%). A bank whose ratio of net-worth to total assets is less than two percent (2%) shall be deemed as having seriously inadequate capital.
+
+The regulations governing the definition of "prescribed ratio" as referred to in Paragraph 1, the scope of a bank's equity capital and risk assets, method of calculation, and the classification and review for grading in Paragraph 2 shall be prescribed by the competent authority.
+
+### Article 44-1
+
+A bank having any of the following situations shall not distribute profits in cash or repurchase its shares:
+
+\1. The bank is graded as having inadequate capital, significantly inadequate capital or seriously inadequate capital.
+
+\2. The bank is graded as having adequate capital, but the bank is likely to be downgraded to any of the grades prescribed in the preceding subparagraph if it distributes profits in cash or repurchase its shares.
+
+A bank referred to in Subparagraph 1 of the preceding paragraph shall not make payments other than remunerations to its responsible persons, unless it is otherwise approved by the competent authority.
+
+### Article 44-2
+
+The competent authority shall take the following actions in part or in whole based on the grading of a bank's capital:
+
+\1. A bank having inadequate capital:
+
+(1) Order the bank or its responsible persons to propose a capital restructuring or other finance and business improvement plans within a prescribed period. For a bank that fails to propose a capital restructuring or finance and business improvement plans per the order or fails to perform the said plan accordingly, supervisory actions for the next capital grade may be adopted.
+
+(2) Restrict the new acquisition of risk assets or take other necessary actions.
+
+\2. A bank having significantly inadequate capital:
+
+(1) Apply the provisions in the preceding paragraph.
+
+(2) Discharge the responsible persons from their positions and notify the competent authority in charge of company registration to take note thereof on the registered items.
+
+(3) Order the bank to obtain the prior approval of the competent authority before acquiring or disposing of specific assets.
+
+(4) Order the bank to dispose of specific assets.
+
+(5) Restrict or prohibit credit extension or other transactions with interested parties.
+
+(6) Restrict the investment activities or some businesses of the bank or order the bank to close a branch or department within a prescribed period.
+
+(7) Limit the deposit rate to a level not exceeding the interest rate other banks pay on comparable deposits or deposits of the same nature.
+
+(8) Order the reduction of the remuneration of responsible persons, and the reduced remuneration shall not exceed 70% of the average remuneration paid out to the said responsible persons within twelve (12) months before the bank's capital becomes significantly inadequate.
+
+(9) Assign officials to supervise or take other necessary actions.
+
+\3. A bank having seriously inadequate capital: The competent authority shall take actions prescribed in Paragraph 2 of Article 62 of this Act in addition to the actions prescribed in the preceding subparagraph.
+
+The competent authority may examine at any time the implementation status of the bank's capital restructuring or finance and business improvement plan. When necessary, it may consult with relevant authorities or institutions and entrust a professional institution to provide assistance at the cost of the bank.
+
+Where a bank is under the supervision of an official assigned by the competent authority, Paragraph 3 of Article 62-2 of this Act shall apply mutatis mutandis.
+
+Where a bank's business operation is seriously unsound or its capital grade is likely to be downgraded, the competent authority may adopt supervisory actions for the next capital grade. Where there is a likelihood of imminent danger to the bank's continuing operation or adverse effect on the financial stability, the competent authority shall renew the review or adjust the bank's capital grade.
+
+The regulations governing the supervisory procedure in Paragraph 1, the duty and authority of the supervisor, the allocation of related expenses and other matters to be complied with shall be prescribed by the competent authority.
+
+### Article 45
+
+The central competent authority may, at any time, appoint a designee, entrust an appropriate institution or direct a local competent authority to appoint a designee to examine the business, finance and other relevant affairs of a bank or related parties, or direct a bank or related parties to submit, within a prescribed period of time, authentic balance sheets, property inventories or other relevant documents and reports.
+
+The central competent authority may, when necessary, appoint professionals and technologists to verify the matters, statements or materials subject to examination pursuant to the preceding paragraph, and such professionals and technologists shall, submit a report to the central competent authority based on the reality at the costs of the bank.
+
+### Article 45-1
+
+A bank shall establish an internal control and audit system. Regulations governing the objectives, principles, policies, operating procedures, qualification requirements for internal auditors, scope of internal control audits of mandated certified public accountants and other matters to be complied with shall be prescribed by the competent authority.
+
+A bank shall establish an internal processing system and procedures with respect to the evaluation of asset quality, the provision of loss reserves, the clearing of non-performing loan collectibles and writing off of bad loans. Regulations governing the above shall be prescribed by the competent authority.
+
+Where a bank entrusts its operation to another person, it shall establish internal operation systems and procedures for the scope of the entrusted matters, protection of customer rights and interests, risk management, and internal control principles. Regulations governing the above shall be prescribed by the competent authority.
+
+Where a bank engages in financial derivatives businesses, it shall establish internal operating systems and procedures for the scope of businesses, personnel management, protection of customer rights and interests, and risk management. Regulations governing the above shall be prescribed by the competent authority.
+
+### Article 45-2
+
+A bank shall exercise the due care of a good administrator with respect to deposit accounts. Where a deposit account is suspected of illegality or obviously irregular transactions, a bank may temporarily suspend deposits, withdrawals, or outward remittances of funds.
+
+Standards for determining suspected illegality or obviously irregular transactions accounts in the preceding paragraph and operational procedures and regulations for temporary account suspension shall be prescribed by the competent authority.
+
+### Article 46
+
+To protect depositors’ interests, a deposit insurance organization may be formed by the government or banks.
+
+### Article 47
+
+To mutually provide liquidity and reserves and increase the efficiency of monetary credit, banks may stipulate charters to form interbank lending organizations.
+
+### Article 47-1
+
+An institution engaging in a money market or credit card business shall obtain the approval of the central competent authority. Its administration rules shall be prescribed by the central competent authority after consultation with the Central Bank of the Republic of China.
+
+Starting September 1, 2015, the interest rate charged by a bank on cash cards or the interest rate charged by a credit card business institution on the revolving credits of credit cards shall not exceed fifteen percent (15%) per annum.
+
+### Article 47-2
+
+Articles 4, 32 to 33-4, 35 to 35-2, 36, 45, 45-1, 49 to 51, 58 to 62-9, 64 to Article 69 and 76 shall apply mutatis mutandis to institutions engaging in money market businesses.
+
+### Article 47-3
+
+A financial information service business engaging in fund transfers and account clearings between financial institutions shall obtain the competent authority's approval. The business involving large-sum fund transfer and account clearings shall obtain the approval of the Central Bank of the Republic of China. Regulations governing its approval and administration shall be prescribed by the competent authority after consultation with the Central Bank of the Republic of China.
+
+A service business engaging in credit information handling and exchange between financial institutions shall obtain the competent authority’s approval. Regulations governing their approval and administration shall be prescribed by the competent authority.
+
+### Article 48
+
+A bank may not accept requests from a third party to suspend payment on deposits or remittances, detain the security, or articles in custody or other similar requests, unless in accordance with a court judgment or provisions of other laws.
+
+A bank shall keep confidential the deposit, loan, remittance, or other information of its customers unless under any of the following circumstances:
+
+\1. Otherwise provided by laws.
+
+\2. The write-off bad debt information of the same customer whose non-performing debts have been written off and the cumulative amount of write-off bad debts exceeds fifty million New Taiwan Dollars (NT$50,000,000), or whose cumulative amount of write-off bad debt of the same customer within half a year after the loan was made exceeds thirty million New Taiwan Dollars (NT$30,000,000).
+
+\3. The information on non-performing loans or non-accrual loans related to cases prosecuted by prosecutors pursuant to Articles 125-2, 125-3, or127-1.
+
+\4. Other circumstances prescribed by the competent authority.
+
+### Article 49
+
+At the end of each business year, a bank shall prepare its annual reports and report its business report, financial statements, resolution on profit distribution or loss appointment and other items prescribed by the competent authority to the competent authority and the Central Bank of the Republic of China respectively, for recordation, within fifteen (15) days after such reports are ratified by their shareholders' meeting or, if there is no shareholders' meeting, within fifteen (15) days after such reports are approved by their board of directors. Matters to be included in the annual report shall be prescribed by the competent authority.
+
+In addition to publishing its financial statements and other items prescribed by the competent authority in a daily newspaper in the bank’s located place or in the manner prescribed by the competent authority, a bank shall also place them in a conspicuous place in each of its business premises for review; provided that a bank may be exempted from publishing them if it complies with Article 36 of the Securities and Exchange Act.
+
+The statements and items required to be published under the preceding paragraph shall be audited and certified by a certified public accountant.
+
+### Article 50
+
+A bank, before distributing its after-tax profits, shall set aside thirty percent (30%) of them as a legal reserve. Before the amount accumulated reaches that of the bank's paid-in capital, the maximum profit distribution in cash shall not exceed fifteen percent (15%) of the bank's paid-in capital.
+
+Where the amount of a bank’s legal reserve reaches that of a bank's paid-in capital or the bank is sound in finance and business and has set aside legal reserve in compliance with the Company Act, the restrictions prescribed in the preceding paragraph shall not apply.
+
+In addition to the legal reserve, a bank may set aside a special reserve in accordance with its Articles of Incorporation or a resolution of its shareholders’ meeting.
+
+Standards governing the capital adequacy ratio, asset quality, and compliance required for being sound in finance and business prescribed in Paragraph 2 shall be prescribed by the competent authority.
+
+### Article 51
+
+The business hours and holidays of banks may be prescribed and publicly announced by the central competent authority.
+
+### Article 51-1
+
+To develop financial professionals, a bank shall allocate funds exclusively for use in the development of financial studies and trainings. Methods for fund allocation and principles for the use and management shall be drafted by the Bankers Association of the Republic of China and approved by the competent authority.
+
+### Article 51-2
+
+To promote international cooperation between the competent financial authorities of the Republic of China and other countries, the government or its delegated institutions may, based on the principle of reciprocity, enter into a cooperation treaties, protocols, or agreements with foreign governments or institutions or international organizations on matters such as information exchange, technical cooperation, and investigation assistance.
+
+Unless in conflict with the national or public interests, the competent authority may, in accordance with the treaty, protocol, or agreement entered into pursuant to the preceding paragraph, request the provision of necessary information from related authorities and institutions in accordance with laws and, based on the principles of reciprocity and confidentiality, provide such information to the foreign government, institution or international organization which has entered into the treaty, protocol, or agreement with the Republic of China.
+
+## Chapter II Formation, Amendment, Suspension And Dissolution Of Banks
+
+### Article 52
+
+A bank is a juridical person. Unless otherwise provided by law or with special approval obtained prior to the enforcement of the amendment to this Act, a bank’s organization shall only be in the form of a company limited by shares.
+
+A bank’s shares shall be publicly issued unless otherwise approved by the competent authority.
+
+The incorporation standards for banks or other financial institutions incorporated in accordance with this Act or other laws shall be prescribed by the competent authority.
+
+### Article 53
+
+The incorporators of a bank shall state the following items and submit them to the central competent authority for approval:
+
+1.Type of bank, name and type of company organization;
+
+2.Total capital;
+
+3.Business plan;
+
+4.Locations of the head office and branch offices; and
+
+5.Names, native places, home addresses, resume of each promoter and the amount of shares subscribed by each promoter.
+
+### Article 54
+
+A bank which has been approved to be incorporated  shall incorporate a company in accordance with the Company Act; after its capital has been fully paid and its company registration has been completed, it shall submit the following documents to apply for a business license from the competent authority:
+
+1.Certificate of company registration;
+
+2.Statement for verification of capital;
+
+3.Articles of incorporation of the bank;
+
+4.Shareholders' roster and minutes of shareholders' meeting;
+
+5.Directors' roster and minutes of the board of directors' meeting;
+
+6.Managing directors' roster and minutes of the managing director's meeting; and
+
+7.Supervisors' roster and minutes of the supervisors' meeting.
+
+A bank which is not organized as a company may directly apply for a business license in accordance with the preceding paragraph after it is approved to be incorporated.
+
+### Article 55
+
+When commencing business operations, a bank shall, at its head office and branch offices, publicly announce the particulars stated in its business license issued by the central competent authority.
+
+### Article 56
+
+After issuing a business license to a bank, the central competent authority may revoke the approval if the particulars in the original application are found to be false in a material manner.
+
+### Article 57
+
+When a bank establishes a branch office, it shall prepare the business plan and location of such branch office and apply to the central competent authority for approval and obtain a business license. When a bank relocates or closes a branch office, it shall apply to the central competent authority for approval.
+
+When a bank establishes, relocates, or closes a non-business operation office or an automated service facility outside its business place, it shall file an application in advance. It may establish, relocate or close them if the central competent authority does not expressly reject such application within a specified period of time from the date of application, provided that the bank shall not engage in any actions applied for during the wait period after the application.
+
+Administration rules governing the preceding two paragraphs shall be prescribed by the central competent authority.
+
+### Article 58
+
+Bank mergers or any proposed amendments to the particulars filed for in accordance with Article 53, paragraphs 1, 2 or 4 shall obtain the approval of the central competent authority and conduct the amendment to the company registration and apply for the issuance of a new business license.
+
+Public announcement of the mergers and amendments in the preceding paragraph shall be made at the bank's head office and branch offices within fifteen (15) days after the issuance of the new business license.
+
+### Article 59
+
+If a bank violates Paragraph 1 of the preceding article, the competent authority shall order the bank to take corrective measures within a prescribed period of time. If such bank fails to take corrective measures in a serious manner, the competent authority may suspend its operations.
+
+### Article 60
+
+(deleted)
+
+### Article 61
+
+A bank whose shareholders’ meeting resolves to dissolve shall proceed to liquidation after it states the reasons for dissolution, attaches the minutes of shareholders' meeting and the debt repayment plan, and applies for the competent authority’s approval.
+
+The competent authority shall revoke the bank’s approval when approving the dissolution in accordance with the preceding paragraph.
+
+### Article 61-1
+
+Where a bank violates laws or regulations or its articles of incorporation or is likely to have unsound operations, the competent authority may, depending on the situation, take any of the following actions in addition to ordering correction or improvement by the bank within a prescribed period of time:
+
+1.Revoke resolutions of statutory meetings;
+
+2.Suspend part of the bank's business;
+
+\3. Restrict investments;
+
+4.Order or prohibit the bank from disposing of or transferring specific assets;
+
+5.Order the bank to close a branch or department within a prescribed period.
+
+6.Order the bank to discharge managers or staff or suspend them from performing their duties for a prescribed period of time;
+
+7.Discharge directors or supervisors or suspend them from performing their duties for a prescribed period of time;
+
+8.Order the bank to set aside a certain monetary amount of reserve;
+
+9.Other necessary measures.
+
+Where a bank's directors or supervisors are discharged in accordance with Subparagraph 7 of the preceding paragraph, the competent authority shall notify the competent authority of company registration to cancel or terminate the registration of such directors or supervisors.
+
+Where business assistance is necessary for improving a bank's operational defects, the competent authority may designate institutions to conduct it.
+
+### Article 62
+
+When there is a likelihood that a bank is unable to repay its debts or causes detriments to depositors' interests due to obvious deterioration in its business or financial conditions, the competent authority shall assign officials to take conservatorship over the bank, order the bank to suspend businesses and receive it or take other necessary measures. If deemed necessary, the competent authority may notify relevant authorities or institutions to prohibit the bank's responsible persons from transferring, delivering or creating other rights in their properties, and request the immigration authorities to prohibit them from departing the country.
+
+Where a bank's capital is graded as seriously inadequate, the competent authority shall assign officials to take conservatorship over the bank within ninety (90) days from the date the bank is enlisted. Notwithstanding the foregoing, for banks ordered by the competent authority to complete capital restructuring or merger within a prescribed period but failing to complete it accordingly, the competent authority shall assign officials to take conservatorship over the bank within ninety (90) days from the next day following the expiration of the prescribed period.
+
+The regulations governing the procedure for conservatorship in the preceding two paragraphs, the duties and powers of the conservator, assumption of related expenses and other matters to be complied with shall be prescribed by the competent authority.
+
+For a bank ordered to suspend business under Paragraph 1, its receiving procedure shall be deemed as liquidation under the Company Act.
+
+A court that receives a bank's petition for bankruptcy shall promptly forward a copy of the petition to the competent authority and consult the specific opinions of the competent authority on whether to declare bankruptcy.
+
+### Article 62-1
+
+Where a bank is placed under conservatorship or is ordered to suspend and receive its businesses, the duties and powers of the bank's shareholders' meeting, board of directors, directors, supervisors or audit committee are ipso facto suspended. The competent authority may notify relevant authorities or institutions to prohibit the transfer, delivery or creation of rights in the properties owned by the bank, its responsible persons or staff who are suspected of violating laws and may request the immigration authorities to prohibit them from departing the country.
+
+### Article 62-2
+
+Where the competent authority assigns officials to take conservatorship over a bank, the bank's operation and management and disposal of the bank's properties shall be exercised by the conservator.
+
+The conservator in the preceding paragraph has the authority to represent the bank under conservatorship in litigation and non-litigation matters and may designate a natural person to perform duties on its behalf. A conservator is not subject to Article 17 of the Administrative Execution Act in the performance of duties.
+
+When the conservatorship order is serviced to the bank, its responsible persons and staff shall deliver all books, documents, seals and properties together with an inventory thereof to the conservator and shall inform all necessary affairs relating to the claim and debts to the conservator and take other necessary actions to cooperate with the conservatorship per the conservator's request; the bank's responsible persons or staff shall not refuse to answer relevant inquiries or make false representations.
+
+A bank is not subject to Article 35 of the Civil Code, Articles 208-1, 211, 245, and 282 to 314 of the Company Act or the Bankruptcy Act during the duration of conservatorship.
+
+The duration of conservatorship over a bank shall last two hundred and seventy (270) days from the date the competent authority assigns officials to take conservatorship. If deemed necessary and with the approval of the competent authority, the duration may be extended once for a period of no longer than one hundred and eighty (180) days.
+
+A conservator is not required to furnish security when petitioning the court for provisional attachment or provisional disposition in the performance of its duties.
+
+### Article 62-3
+
+When taking the following actions toward a bank under conservatorship, the conservator shall prepare a specific action plan and submit it for the competent authority’s approval:
+
+\1. Mandating other banks, financial institutions or Central Deposit Insurance Corporation to operate all or part of the businesses.
+
+\2. Increasing capital, reducing capital or increasing capital after reducing capital.
+
+\3. Sale of all or part of the businesses, assets or liabilities.
+
+\4. Merger with another bank or financial institution.
+
+\5. Other material actions as designated by the competent authority.
+
+All necessary expenses and debts incurred by the conservator for maintaining the operations and performing the duties shall be borne by the bank under conservatorship and repaid by the properties of the bank under conservatorship at any time; the types of necessary expenses and debts shall be prescribed by the competent authority.
+
+Where the expenses and debts in the preceding paragraph are not repaid, they shall have priorities over other conservatorship claims when the bank under conservatorship is ordered by the competent authority to suspend and receive its businesses and may be repaid by the properties of the received bank at any time.
+
+### Article 62-4
+
+Where a bank or financial institution is transferred businesses, assets and liabilities pursuant to Subparagraph 3, Paragraph 1 of the preceding article, the following provisions shall apply:
+
+\1. For a company limited by shares, the consent shall be adopted by at least a majority of the votes of shareholders present at a shareholders' meeting attended by shareholders representing a majority of the outstanding shares of the company; dissenting shareholders may not request the appraisal of their shares, and Articles 185 to 188 of the Company Act do not apply.
+
+\2. Notifications of the transfer of claims may be done by a public announcement, and Article 297 of the Civil Code does not apply.
+
+\3. The assumption of obligations does not require the acknowledgment of creditors as provided in Article 301 of the Civil Code.
+
+\4. If the competent authority deems it necessary to take emergent measures, which will not have materially adverse effect on the financial market competition, reporting to Fair Trade Commission under Paragraph 1, Article 11 of the Fair Trade Act is not required.
+
+Where a bank transfers its businesses, assets and liabilities pursuant to Subparagraph 3, Paragraph 1 of the preceding article, Paragraph 2, Article 5 of the Act for Worker Protection of Mass Redundancy does not apply.
+
+In addition to Subparagraph 4 of Paragraph 1 hereof, the following provisions shall apply when a bank or another financial institution is merged with a bank under conservatorship in accordance with Subparagraph 4 of Paragraph 1 of the preceding article:
+
+\1. For a company limited by shares, the consent shall be adopted by at least a majority of the votes of shareholders present at a shareholders' meeting attended by shareholders representing a majority of outstanding shares of the company; dissenting shareholders may not request the appraisal of their shares. For a credit cooperative, the consent shall be adopted by at least a majority of members (representatives) present in a members (representatives) meeting attended by at least a majority of all members (representatives); dissenting members may not request the refund of their shares, and Paragraphs 1 to 3 of Article 316 and Article 317 of the Company Act and Paragraph 1 of Article 29 of the Credit Cooperatives Act of the Republic of China shall not apply.
+
+\2. Notifications of dissolution or merger may be done by a public announcement, and Paragraph 4, Article 316 of the Company Act does not apply.
+
+Subparagraph 4 of Paragraph 1 hereof shall apply where another bank, financial institution or Central Deposit Insurance Corporation is mandated to operate businesses pursuant to Subparagraph 1 of Paragraph 1 of the preceding article.
+
+### Article 62-5
+
+The competent authority shall designate a receiver to handle the receivership of a bank and may designate officials to supervise the receiving process; Paragraphs 1 to 3 and 6 of Article 62-2 herein shall apply to the receiver’s performance of duties.
+
+The duties of a receiver is as follows:
+
+\1. To wind up pending businesses.
+
+\2. To collect outstanding claims and repay all obligations .
+
+When a receiver, in performing the duties in the preceding paragraph, transfers the businesses, assets and liabilities of the received bank to another bank or financial institution, or facilitates the merger of the bank with another bank or financial institution, the receiver shall obtain the prior approval from the competent authority.
+
+Paragraphs 1 and 3 of the preceding article shall apply where a received bank transfers its businesses, assets, or liabilities to or merges with another bank or financial institution.
+
+### Article 62-6
+
+After the receiver takes office, it shall immediately make a public announcement in the daily newspapers where the bank's head office is located requesting creditors to report their claims within thirty (30) days and stating that claims which are not declared within such specified period of time shall be excluded from the receivership, provided that claims known to the receiver do not apply.
+
+The receiver shall investigate the bank's financial conditions and prepare a balance sheet and property inventories within three (3) months after the report period expires, prepare and report the receivership plan to the competent authority for records and publish the bank's balance sheet in daily newspapers where the bank's head office is located.
+
+During the period prescribed in the first paragraph, the receiver shall not repay any creditors, except for the release of trust asset or assets held in custody and the repayment of accrued staff salaries and repayments made in accordance with the Deposit Insurance Act.
+
+### Article 62-7
+
+Where the competent authority orders a bank to suspend its businesses and receives it, any third party shall not exercise their creditors' rights against the bank other than through the receiving proceedings prescribed in Paragraph 1 of the preceding article, except for rights that have been ascertained through litigation procedures.
+
+Where the distribution of creditors' rights in the preceding paragraph is likely to be delayed due to litigation, the receiver may lodge an amount based on the receiving distribution ratio and distribute the residual properties for other creditors’ rights.
+
+The proceedings of corporate reorganization, bankruptcy, settlement, and compulsory enforcement shall automatically stay during a bank's receiving period.
+
+The receiver may terminate or rescind the contract already concluded by the received bank but not yet being performed or fully performed. The counterparties to such contract may exercise their rights for their damages based on the receiving creditors’ rights.
+
+The following creditors' rights shall be excluded from the receiving creditors’ rights:
+
+\1. Interest accrued after the bank's suspension of business.
+
+\2. Expenses incurred by creditors for personal benefit in participating in the receiving proceeding.
+
+\3. Damages and penalties owed by the bank due to the non-performance of obligations after the bank's suspension of business.
+
+\4. Criminal fines, administrative fines and arrears fees.
+
+Those who hold pledges, mortgages or liens on the bank's properties prior to the date of the bank’s suspension of business shall have the right of exclusion against the properties; creditors with the right of exclusion may exercise their rights independently of the receiving proceeding; provided that unpaid creditors’ rights after the exercise of the right of exclusion may be filed as receiving creditors’ rights in accordance with the receiving proceeding.
+
+Expenses and debts incurred from the performance of receiving duties by the receiver shall have priority over receiving claims and may be repaid at any time by the properties of the received bank.
+
+The statute of limitations of claims filed in accordance with Paragraph 1 of the preceding article or known to the receiver and included as receiving creditors’ rights shall be interrupted and shall be reinstated from the date of the conclusion of the receiving proceedings.
+
+Where the creditors have been repaid in accordance with the receiving proceeding, the claims of the unpaid parts of their rights shall be deemed extinguished. After the completion of the receiving proceeding, if the distributable property is re-discovered, the distribution shall be supplemented. Where there is any residual property after the creditors listed in the receiving proceeding are repaid, the creditors in Paragraph 5 may request to be repaid.
+
+Where there is any residual property after the debts are repaid in accordance with the preceding paragraph, it shall be distributed among the bank's shareholders pursuant to the Company Act.
+
+### Article 62-8
+
+The receiver shall prepare a revenue and expense statement, income statement and other statements for the receiving period within fifteen (15) days after the completion of the receiving proceeding and shall publish the revenue and expense statement and the income statement in the daily newspapers where the bank's head office is located and file for the competent authority’s revocation of the bank's permit.
+
+### Article 62-9
+
+The expenses and debt incurred by an institution designated by the competent authority or its dispatched officials to provide assistance or carry out the task of supervision shall be borne by the assisted or supervised bank.
+
+### Article 63
+
+(Deleted)
+
+### Article 63-1
+
+Article 61-1 and Articles 62-1 through 62-9 shall apply to banks or a financial institutions incorporated under other laws.
+
+### Article 64
+
+If the losses of a bank exceed one third (1/3) of its capital, the bank's directors or supervisors shall immediately report such information to the central competent authority.
+
+The central competent authority shall, within three (3) months, require the bank with circumstances prescribed in the preceding paragraph to replenish its capital within the prescribed period. If the bank fails to replenish its capital within the prescribed period, the central competent authority shall dispatch officials to take conservatorship over the bank or order the bank to suspend its businesses.
+
+### Article 64-1
+
+Where the operation of a bank or a financial organization is unsound and there is a need to suspend its businesses and receive it to repay its debts, deposit debts shall have priority over non-deposit debts.
+
+The deposit debts referred to in the preceding paragraph shall refer to deposits prescribed in Article 12 of the Deposit Insurance Act. The non-deposit debts shall refer to liabilities other than the deposit debts of the insured institution.
+
+### Article 65
+
+Where a bank is ordered to suspend its businesses and take corrective measures for relevant matters within a prescribed period but fails to correct the matters within the prescribed period, its permit shall be revoked by the central competent authority.
+
+### Article 66
+
+Where a bank's permit is revoked by the central competent authority, it shall be immediately dissolved and proceed to liquidation proceedings.
+
+### Article 67
+
+Where a bank is approved for dissolution or has its permit revoked, it shall surrender and cancel its business license within a prescribed period. Where it fails to surrender and cancel it within the prescribed period, the central competent authority shall cancel it by public announcement.
+
+### Article 68
+
+In supervising the special liquidation of a bank, the court shall consult with the competent authority for advice and, when necessary, request the competent authority to recommend a liquidator or dispatch officials to assist the liquidator in performing the duties.
+
+### Article 69
+
+After a bank proceeds into liquidation, it shall not return capital or distribute dividends under any pretense unless it has repaid all its debts. In the course of a bank’s liquidation, the bank's trust funds and trust properties shall be dealt with in accordance with the terms of the relevant trust agreements.
+
+## Chapter III Commercial Banks
+
+### Article 70
+
+The term, "commercial bank" as used in this Act shall refer to a bank whose principal function is to accept checking deposits, demand deposits and time deposits and extend short-term and medium-term credits.
+
+### Article 71
+
+Businesses which may be conducted by a commercial bank are as follows:
+
+1.To accept checking deposits;
+
+2.To accept demand deposits;
+
+3.To accept time deposits;
+
+4.To issue bank debentures;
+
+5.To extend short-term, medium-term and long-term loans;
+
+6.To discount bills and notes;
+
+7.To invest in government bonds, short-term notes, corporate bonds, bank debentures and corporate stocks;
+
+8.To handle domestic and foreign remittances;
+
+9.To accept commercial drafts;
+
+10.To issue domestic and foreign and letters of credit;
+
+11.To guarantee the issuance of corporate bonds;
+
+12.To conduct domestic and foreign guarantees;
+
+13.To act as collecting and paying agent;
+
+14.To act as the agent to distribute government bonds, treasury notes, corporate bonds and corporate stocks;
+
+15.To conduct warehousing, custody and agency businesses in relation to the businesses in the preceding fourteen subparagraphs; and
+
+16.To conduct other relevant businesses authorized by the competent authority.
+
+### Article 72
+
+The total amount of medium-term loans extended by a commercial bank shall not exceed the balance of its received time deposits.
+
+### Article 72-1
+
+A commercial bank may issue bank debentures and may agree with the holders that such debentures may be repaid prior to other creditors of the bank; regulations governing their issuance and maximum issuance amounts shall be prescribed by the competent authority after consulting with the Central Bank of the Republic of China.
+
+### Article 72-2
+
+The total amount of loans extended for residential construction and business construction by a commercial bank shall not exceed thirty percent (30%) of the total balance of its received deposits and issued bank debentures at the time such loans are extended; provided, that the following shall not be subject to such limitation:
+
+\1. Housing savings and loans approved by the competent authority for the encouragement of savings to facilitate the purchase of self-use residence;
+
+\2. Housing loans using deposits redeposited from postal savings allocated by the Central Bank of the Republic of China;
+
+\3. Loans using medium-and long-term funds from the National Development Council to facilitate citizens’ purchase of residence;
+
+\4. Business construction loans using medium-term and long-term funds from the National Development Fund, Executive Yuan and the National Development Council;
+
+\5. Mandated loans for purposes of encouraging investment in the construction of public housing, public housing loans and loans for facilitating the purchase of self-use residence by government employees and teachers.
+
+A maximum amount of the loans under the provisos to the preceding paragraph may, when necessary, be prescribed by the competent authority.
+
+### Article 73
+
+A commercial bank may extend financing to securities firms or securities finance companies in connection to the issuance and sales and purchase of securities.
+
+Administration rules governing the financing in the preceding paragraph shall be prescribed by the Central Bank of the Republic of China.
+
+### Article 74
+
+A commercial bank may apply to the competent authority to invest in financial-related businesses. The application shall be deemed approved if the competent authority does not object thereto within fifteen (15) days after the application is serviced to it; provided that the bank shall not proceed with the investment under application during the foregoing period.
+
+A commercial bank which obtains the approval from the competent authority may invest in non-financial-related businesses to cooperate with the government's economic development plans; provided that it shall not be involved in the management of such businesses. The application shall be deemed approved if the competent authority does not object thereto within thirty (30) days after the application is serviced to it; provided that the bank shall not proceed with the investment under application during the foregoing period.
+
+Investment made pursuant to the preceding two paragraphs shall comply with the following requirements:
+
+1.The total investment amount shall not exceed forty percent (40%) of the bank's net worth at the time of investment, and the total amount invested in non-financial-related businesses shall not exceed ten percent (10%) of the bank's net worth at the time of investment.
+
+\2. Unless the investment is in cooperation with the government’s policy and is approved by the competent authority, a commercial bank shall not invest in more than one financial-related businesses engaging in the same business; and
+
+\3. Where a commercial bank invests in non-financial-related businesses, the investment in each business shall not exceed five percent (5%) of the total paid-in capital or the total issued shares of such business.
+
+The term "financial-related business" as used in Paragraph 1 and Subparagraph 2 of the preceding paragraph shall refer to businesses of banks, bills, securities, futures, credit cards, financial leasing, insurance, and trust and other financial-related businesses determined by the competent authority.
+
+Matters to be complied with by a bank which engages in multisectoral operations by investment shall be prescribed by the competent authority to facilitate the consolidated supervision and administration of the bank and invested businesses and prevent conflicts of interest between the bank and invested businesses to ensure the banks’ sound operations.
+
+Where it becomes obvious that the operation of an invested business is likely to affect a bank's sound operations, the competent authority may order the bank to dispose of its shares in such invested business within a prescribed period of time.
+
+Where, before the amendment dated November 1, 2000 becomes effective, the total amount invested in non-financial-related businesses exceeds the ratio prescribed in Paragraph 3, Subparagraph 3, a bank may, as approved by the competent authority, maintain the original investment amount before complying with the prescribed ratio. Where two or more banks merge and each bank has investment in the same business, the banks may maintain the original investment amount as approved by the competent authority at the time of applying for the merger.
+
+### Article 74-1
+
+A commercial bank may invest in securities; the types and limits shall be prescribed by the competent authority.
+
+### Article 75
+
+Except for warehousing for business use, a commercial bank shall not invest in real estate for self-use in an amount in excess of the net worth of such commercial bank at the time of investment in such real estate. The amount of a commercial bank's investment in warehousing for business use shall not exceed five percent (5%) of the total amount of its deposits at the time of investment in such warehousing.
+
+A commercial bank shall not invest in real estate not for self-use except for the following circumstances:
+
+\1. A substantial portion of the real estate of its business location is for self-use;
+
+\2. The real estate is pre-purchased for self-use in the near future; or
+
+\3. A substantial portion of rebuilt original real estate rebuilt in the same location is for self-use.
+
+\4. The real estate is provided for the use by a cultural, art or public interest institution or organization incorporated with the approval from the competent authority in charge of the particular enterprise and the use has obtained approval of the competent authority in consultation with the competent authority in charge of the particular enterprise.
+
+The total amount of a commercial bank's investment in real estate not for self-use in accordance with the proviso of the preceding paragraph shall not exceed twenty percent (20%) of the bank's net worth. The total amount of the bank's investment in real estate not for self-use and for self-use shall not exceed the bank's net worth at the time of the investment in such real estate.
+
+Where a commercial bank conducts real estate transactions with an entity in which the bank holds more than three percent (3%) of the paid-in capital, or with the responsible persons, staff or major shareholders of the bank, or with an interested party of the bank's responsible person as defined in Article 33-1, the transaction shall be at arm's length and obtain the consent of more than three-quarters of its directors present at a board meeting at which at least two-thirds of the directors are present.
+
+The scopes of real estate for self-use prescribed in Paragraph 1, real estate not for self-use, real estate with a substantial portion for self-use, for self-use in the near future, or to be rebuilt in the same location prescribed in Paragraph 2 and the rules governing the approval procedure in Paragraph 2, Subparagraph 4 and other matters to be complied with in relation to a bank's investment, holding and disposal of real estate shall be prescribed by the competent authority.
+
+### Article 76
+
+Except for those permitted by Articles 74 and 75 of this Act, real estate and stocks acquired by a commercial bank through the foreclosure of mortgages or pledges shall be disposed of within four (4) years from the date of acquisition, provided that the above shall not apply to cases approved by the competent authority.
+
+## Chapter IV Saving Banks
+
+### Article 77
+
+Deleted.
+
+### Article 78
+
+Deleted.
+
+### Article 79
+
+Deleted.
+
+### Article 80
+
+Deleted.
+
+### Article 81
+
+Deleted.
+
+### Article 82
+
+Deleted.
+
+### Article 83
+
+Deleted.
+
+### Article 84
+
+Deleted.
+
+### Article 85
+
+Deleted.
+
+### Article 86
+
+Deleted.
+
+## Chapter V Banks For A Special Business Purpose
+
+### Article 87
+
+To facilitate the extension of specialized credits, the central competent authority may approve the establishment of a specialized bank or designate an existing bank to perform the extension of such credits.
+
+### Article 88
+
+The term, "specialized credit" as used in the preceding article shall be classified into the following categories:
+
+1.Industrial credits;
+
+2.Agricultural credits;
+
+3.Export-import credits;
+
+4.Small and medium enterprise credits;
+
+5.Real estate credits; and
+
+6.Local credits.
+
+### Article 89
+
+The scope of business of a specialized bank shall be prescribed by the competent authority in accordance with the scopes prescribed in Article 3, taking into consideration their principal functions and the need for economic development.
+
+Unless otherwise prescribed in laws or by the competent authority, Articles 73 through 76 shall apply to specialized banks.
+
+### Article 90
+
+Unless otherwise prescribed by the competent authority, a specialized bank whose principal function is to extend medium-term and long-term loans may issue bank debentures. Article 72-1 applies mutatis mutandis to such issuance.
+
+The funds raised by a specialized bank from the issuance of bank debentures in accordance with the preceding paragraph shall be used exclusively for investing in and extending medium-term and long-term loans to its specialization.
+
+### Article 91
+
+A specialized bank which extends industrial credits is an industrial bank.
+
+The principal functions of an industrial bank shall be to extend medium-term and long-term credits to industrial, mining, transportation and other public utilities enterprises.
+
+An industrial bank may invest in manufacturing businesses; the scope of manufacturing business shall be prescribed by the competent authority.
+
+An industrial bank may accept deposits; provided that the deposits shall be limited to its customers which are companies invested by the bank or to which the bank extends credit, insurance enterprises and foundations established in accordance with applicable laws and the government agencies.
+
+The incorporation criteria, credit extensions, securities investment, enterprise investments, deposit taking and the scope and limits of the issuance of bank debentures and the administration rules for an industrial bank shall be prescribed by the competent authority.
+
+### Article 91-1
+
+Where an industrial bank directly invests in manufacturing businesses in the following circumstances, such bank shall obtain the consent of more than three-quarters of its directors present at a board meeting at which two-thirds of the directors are present; and its total investment amount shall not exceed five percent (5%) of the bank's net worth as of the end of the preceding fiscal year:
+
+1.The bank's major shareholder, responsible persons or their affiliates;
+
+2.The enterprises operated by the bank's major shareholder, responsible persons or their related parties in sole proprietorship or partnership;
+
+3.The enterprises whose ten percent (10%) of their issued shares or paid-in capital are held singly or collectively by the bank’s major shareholder, responsible persons or their related parties;
+
+4.The enterprises whose directors, supervisors or managers are the bank's major shareholder, responsible persons or their related parties, provided that the above shall not apply to companies whose directors, supervisors or managers are concurrent due to the bank's investment relationship.
+
+The term, "affiliate" as used in Subparagraph 1 of the preceding paragraph shall have the meaning prescribed in Articles 369-1 through 369-3, 369-9 and 369-11 of the Company Act.
+
+The term "related parties" as used in Subparagraphs 2 through 4 of Paragraph 1 shall include the spouse, blood relatives within three degree and marriage relatives within two degree of the bank's major shareholders and responsible persons.
+
+### Article 92
+
+A specialized bank which extends agricultural credits is an agricultural bank.
+
+The principal functions of an agricultural bank shall be to provide liquidity to the finance in rural areas and extend credits needed for the agricultural, forestry, fishing, animal production and related enterprises.
+
+### Article 93
+
+To strengthen the functions of agricultural credits, an agricultural bank may absorb funds in rural areas through the farmers' associations and extend agricultural credits and engage in financial businesses related to farmers' livelihood.
+
+### Article 94
+
+A specialized bank which extends export-import credits is an export-import bank.
+
+The principal functions of an export-import bank shall be to extend medium-term and long-term credits to assist in expanding exportations and importing equipment and raw materials needed by domestic industrial enterprises.
+
+### Article 95
+
+To facilitate the supply of important raw materials needed by domestic industrial enterprises, an export-import bank, with the approval of the central competent authority, may extend credits to enterprises for investment in obtaining important raw materials in foreign countries.
+
+### Article 96
+
+A specialized bank which extends credits to small and medium enterprises is a small and medium enterprise bank.
+
+The principal functions of a small and medium enterprise bank shall be to extend medium-term and long-term credits to small and medium enterprises to assist them in improving their productive equipment and financial structure and strengthening their management and operations.
+
+The scope of small and medium enterprises shall be as proposed by the central competent authority in charge of economic affairs and submitted to the Executive Yuan for approval.
+
+### Article 97
+
+A specialized bank which extends real estate credits is a real estate credit bank.
+
+The principal functions of a real estate credit bank shall be to extend medium-term and long-term credits needed for land development, urban improvement, community development, road construction, tourist facilities and housing constructions.
+
+### Article 98
+
+A specialized bank which extends local credits is a citizens' bank.
+
+The principal functions of a citizens' bank shall be to extend short-term and medium-term credits to meet the needs of the regional development and local citizens.
+
+### Article 99
+
+A citizens' bank shall be operated by district. In principle, there shall be only one such bank in each district.
+
+The total amount of loans extended by a citizens' bank to each customer shall not exceed a prescribed amount.
+
+The division of districts for the incorporation of a citizens' bank and the limits to the amount of loans extended to each customer shall be as prescribed by the central competent authority.
+
+Chapter VI Investment And Trust Companies
+
+## Chapter VI Investment And Trust Companies
+
+### Article 100
+
+The term "investment trust company" as used in this Act shall refer to a financial institution which, for a specific purpose and in the trustee’s capacity, accepts, manages and employs trust funds and operates trust properties or, in the investment intermediary’s capacity, engages in special-purpose investment relating to capital markets.
+
+The operations and administration of an investment trust company shall be governed by this Act; matters unregulated in this Act shall be governed by other relevant laws; their administration rules shall be as prescribed by the central competent authority.
+
+### Article 101
+
+An investment trust company may engage in the following businesses:
+
+1.To extend medium-term and long-term loans;
+
+2.To invest in government bonds, short-term notes, corporate bonds, bank debentures and listed stocks;
+
+3.To guarantee the issuance of corporate bonds;
+
+4.To conduct domestic and foreign guarantees;
+
+5.To underwrite and trade in securities for its own account or for customers;
+
+6.To accept, manage and employ various Trust Funds;
+
+7.To offer mutual trust funds;
+
+8.To manage various kinds of property under entrustment;
+
+9.To act as the trustee for the issuance of bonds;
+
+10.To act as attester for the issuance of bonds or stocks;
+
+11.To act as the agent for the issuance, registration and transfer of securities and the distribution of interest and dividends thereon;
+
+12.To execute wills and manage the inheritance under entrustment;
+
+13.To act as a company’s reorganization supervisor;
+
+14.To provide consulting services in connection with the issuance and offering of securities and to engage in agency services related to the businesses prescribed in the preceding subparagraphs; and
+
+15.To conduct other relevant businesses approved by the central competent authority.
+
+With the approval of the central competent authority, an investment trust company may use the non-trust funds to invest directly in manufacturing enterprises or in residential construction and business construction.
+
+### Article 102
+
+An investment trust company which engages in the businesses of securities underwriting or trading for its own account shall allocate a special fund equivalent to at least ten percent (10%) of its net worth in the preceding year exclusively for such operation. Such special fund shall, prior to any appropriation thereof, be deposited in cash with other financial institutions or shall be used for purchasing government bonds.
+
+### Article 103
+
+An investment trust company shall deposit a trust fund reserve with the Central Bank of the Republic of China in cash or securities accepted by the Central Bank of the Republic of China. The ratio of such reserve to the total value of various trust fund agreements shall be prescribed by the Central Bank of the Republic of China within the range between fifteen percent (15%) and twenty percent (20%); provided that the total deposit amount shall not be less than twenty percent (20%) of its total paid-in capital.
+
+At the commencement of operations of the company, the trust fund reserve in the preceding paragraph shall temporarily be based on twenty percent (20%) of the company’s paid-in capital. After one (1) year from the company’s commencement of operations, such reserve shall be adjusted at the end of each month in accordance with the standard in the preceding paragraph.
+
+### Article 104
+
+In accepting, managing or employing various trust funds and operating trust properties, investment and trust companies and trustors shall enter into trust agreements which state the following matters:
+
+1.Methods and scope of operating the funds;
+
+2.Methods of managing properties;
+
+3.Allocation of income;
+
+4.Responsibility of the investment trust company;'
+
+5.Service of accounting reports;
+
+6.Standards for the payment and collection of various fees and their calculation methods; and
+
+7.Other relevant agreed terms.
+
+### Article 105
+
+An investment trust company shall exercise the care of good administrators in managing trust funds or trust assets under entrustment.
+
+### Article 106
+
+The operation and management of an investment trust company shall be handled by financial personnel with special knowledge and experience, assisted by qualified legal, accounting and various technical personnel necessary for the businesses involved.
+
+### Article 107
+
+Where an investment trust company violates laws, regulations or trust agreements or, for other reasons attributable to the investment trust company, causes damages to trustors, its responsible directors, officers-in-charge, and the company itself shall be jointly and severally liable for the damages.
+
+The joint and several liability in the preceding paragraph shall be extinguished if no lawsuit has been brought within two (2) years after the registration date of the resignation of the responsible directors or officers-in-charge.
+
+### Article 108
+
+Except for the purchase or sale at the market price per the order of court judgments or the written consent of trustors, or the purchase or sale through an open competitive bidding in the centralized market without the trustors’ consent, an investment trust company shall not engage in the following transactions:
+
+1.Acquire the ownership of trust properties;
+
+2.Create or obtain any rights or interests over trust properties;
+
+3.Sell and transfer its own properties or rights or interests to trustors;
+
+4.Other transactions related to the preceding three subparagraphs; and
+
+5.Any transactions related to the trust properties or employing trust funds with the company's directors, staff or third parties who have an interest in the trust funds operated by the company.
+
+The transactions engaged in by an investment trust company in accordance with the proviso of the preceding paragraph shall be filed to the competent authority for records in accordance with regulations and subject to the following restrictions:
+
+\1. Where the company decides to engage in a transaction, any director or staff who has a direct or indirect interest in the trust accounts, trust properties or securities in connection with such transaction shall not participate in the decision related to such transaction.
+
+\2. Where the investment trust company engages in securities underwriting, securities trading or direct investment for its own account or as mandated by investors, its directors or staff who are concurrently directors or staff of the company issuing related securities or who have direct or indirect interests in such securities shall not participate in the decisions relating to such transaction.
+
+### Article 109
+
+Prior to the operation pursuant to the trust agreements or prior to the continuing operation after the retrieval of the operation pursuant to the agreement, the investment trust company shall deposit the funds of each trustor only with commercial banks or specialized banks.
+
+### Article 110
+
+An investment trust company may operate the following trust funds:
+
+1.Trust funds whose uses are designated by the trustors;
+
+2.Trust funds whose uses are determined by the company.
+
+For trust funds whose uses are determined by the company, the investment trust company may agree in the trust agreement that the shall be responsible for compensating the losses of principal.
+
+For the losses of principal to be compensated, the investment trust company shall, at the end of each fiscal year, make a precise assessment and compensate them by allocating funds from the company's special reserve as agreed in the trust agreement.
+
+The special reserve in the preceding paragraph shall be appropriated from the revenue of trust properties annually by the company pursuant to standards approved by the competent authority.
+
+Surpluses after the investment trust company fully compensates the losses of principal in accordance with regulations, shall be credited to the company's revenue; deficits shall be covered by the Company's own funds.
+
+### Article 111
+
+An investment trust company shall not borrow funds for the trust funds.
+
+### Article 112
+
+A creditor of an investment trust company may not apply for attachment or exercise other rights against trust properties.
+
+### Article 113
+
+An investment trust company shall establish a trust property assessment committee to assess the trust properties of each trustor every three (3) months. The assessment result of each trust account shall be reported to the board of directors.
+
+### Article 114
+
+An investment trust company shall submit to each trustor and to the central competent authority periodic accounting reports in accordance with the trust agreements and the regulations of the central competent authority.
+
+### Article 115
+
+An investment trust company, in offering mutual trust funds, shall prepare an issuance plan in advance and submit it to the central competent authority for approval. Administration rules governing the mutual trust funds in the preceding paragraph shall be prescribed by the central competent authority.
+
+### Article 115-1
+
+Except for businesses approved by the competent authority in accordance with Article 101, Paragraph 2, Articles 74, 75 and 76 shall apply mutatis mutandis to investment trust companies.
+
+## Chapter VII Foreign Banks
+
+### Article 116
+
+The term "foreign bank" as used in this Act shall refer to a bank which is organized and registered in accordance with the laws of a foreign country and whose branch office is registered and operated within the territory of the Republic of China in accordance with the Company Act and this Act.
+
+### Article 117
+
+The incorporation of a foreign bank in the territory of the Republic of China shall be approved by the competent authority and registered in accordance with the Company Act. It shall commence operations only after applying and being issued a business license pursuant to Article 54; the establishment of a representative office in the territory of the Republic of China shall be approved by the competent authority.
+
+The rules governing the incorporation and administration in the preceding paragraph shall be prescribed by the competent authority.
+
+### Article 118
+
+The central competent authority may, in consideration of the need for international trade and industrial development, designate areas where foreign banks may be incorporated.
+
+### Article 119
+
+(deleted)
+
+### Article 120
+
+A foreign bank shall appropriate funds exclusively for its operation of business in the territory of the Republic of China and Articles 23 and 24 shall apply mutatis mutandis.
+
+### Article 121
+
+Businesses which may be operated by a foreign bank shall be prescribed by the competent authority in regulations after the consultation with the Central Bank of the Republic of China and within the scope prescribed in Articles 71 and 101, Paragraph 1. Matters in connection to foreign exchange shall be approved by the Central Bank of the Republic of China.
+
+### Article 122
+
+Any payments received or paid by a foreign bank shall be in the national currency of the Republic of China, except for the receipt of foreign currency deposits as approved by the Central Bank of the Republic of China.
+
+### Article 123
+
+Chapters 1 through 3 and 6 shall apply mutatis mutandis to foreign banks.
+
+### Article 124
+
+(deleted)
+
+## Chapter VIII Penalties
+
+### Article 125
+
+Any person who violates Article 29, Paragraph 1 shall be punished by imprisonment for not less than three (3) years and not more than ten (10) years and may also be fined a criminal fine of not less than ten million New Taiwan Dollars (NT$10,000,000) and not more than two hundred million New Taiwan Dollars (NT$200,000,000). Any person who obtains any property or proprietary interests from such crimes of one hundred million New Taiwan Dollars (NT$100,000,000) or more shall be punished by imprisonment for more than seven (7) years, and may also be fined a criminal fine of not less than twenty five million New Taiwan Dollars (NT$25,000,000) and not more than five hundred million New Taiwan Dollars (NT$500,000,000).
+
+A financial information service business which operates fund transfer and account clearing between financial institutions without obtaining the approval of the competent authority shall be punished in accordance with the preceding paragraph.
+
+Where a juristic person commits the offenses prescribed in the preceding two paragraphs, its acting responsible persons shall be punished.
+
+### Article 125-1
+
+Any person who damages the credibility of a bank, a foreign bank, an institution operating money market businesses or a financial information service business which operates funds transfer and account clearing between financial institutions by spreading rumors or fraudulent practices shall be punished by imprisonment for less than five (5) years and may also be fined a criminal fine of less than ten million New Taiwan Dollars (NT$10,000,000).
+
+### Article 125-2
+
+A bank's responsible person or staff who breaches their duty with the intent to gain illegal benefit for themselves or a third party or damage the bank interests shall be punished by imprisonment for not less than three (3) years and not more than ten (10) years, and may also be fined a criminal fine of not less than ten million New Taiwan Dollars (NT ＄10,000000) and not more than two hundred million New Taiwan Dollars (NT$200,000,000). Those who obtain any property or proprietary interests from such crimes of one hundred million New Taiwan Dollars (NT$100,000,000) or more shall be punished by imprisonment for more than seven (7) years, and may also be fined a criminal fine of not less than twenty five million New Taiwan Dollars (NT$25,000,000) and not more than five hundred million New Taiwan Dollars (NT$500,000,000).
+
+When two or more responsible persons or staff of a bank jointly commit the offenses prescribed in the preceding paragraph, their punishment may be increased by up to one-half.
+
+An attempt to commit the offenses prescribed in the Paragraph 1 shall be punishable.
+
+The preceding three paragraphs shall apply to the responsible persons or staff of foreign banks or institutions operating money market businesses.
+
+### Article 125-3
+
+Any person who, with the intent to gain illegal benefit for themselves or a third party, employs fraudulent practices to cause the bank to deliver the properties of the bank or a third party, uses unjustified methods to enter fictitious data or unjustified commands into the bank’s computer or relevant equipment, or makes records of acquisition, loss or alteration of the property rights, and obtains others’ property or proprietary interests from such crimes of one hundred million New Taiwan Dollars (NT$100,000,000) or more, shall be punished by imprisonment for not less than three (3) years and not more than ten (10) years, and may also be fined a criminal fine of not less than ten million New Taiwan Dollars (NT$10,000,000) and not more than two hundred million New Taiwan Dollars (NT$200,000,000).
+
+The same regulation applies mutatis mutandis to any person who uses methods in the preceding paragraph and obtains illegal proprietary interest or causes a third party to obtain it.
+
+Attempts to commit the offenses in the preceding two paragraphs shall be punishable.
+
+### Article 125-4
+
+For persons who turn themselves in after committing crimes prescribed in Articles 125, 125-2 or 125-3 and voluntarily deliver all criminal gains, their sentences may be reduced or exempted. If the discovery of other principal offenders or joint offenders is thus caused, their sentences shall be exempted.
+
+For persons who commit crimes prescribed in Articles 125, 125-2 or 125-3, confess during the investigation, and voluntarily deliver all criminal gains, their sentences may be reduced. If the discovery of other principal offenders or joint offenders is thus caused, their sentences shall be reduced by one-half.
+
+For persons who commit crimes prescribed in Paragraph 1 of Article 125-1, Paragraph 1 of Article 125-2 or Paragraphs 1 and 2 of Article 125-3, where their property or proprietary interests obtained from such crimes exceed the highest level of criminal fines, more criminal fines may be added within the range of the property or proprietary interests obtained from such crimes. Where their criminal acts jeopardize the stability of the financial market, their sentences shall be increased by one-half.
+
+### Article 125-5
+
+Where a gratuitous act committed by a bank’s responsible person or staff in Article 125-2, Paragraph 1, or by an actor in Article 125-3, Paragraph 1, is prejudicial to the bank’s rights, the bank may petition the court to revoke such act.
+
+Where a non-gratuitous act committed by a bank’s responsible person or staff or the actor prescribed in the preceding paragraph is committed with the knowledge, at the time of commission, that it would be prejudicial to the bank’s rights, and the beneficiary of the act also knows such circumstances at the time the benefit is received, the bank may petition the court to revoke such act.
+
+When petitioning the court for revocation in accordance with the preceding two paragraphs, the bank may also petition the court to order the beneficiary or the transferee to restore the status quo; provided that this does not apply where the transferee did not know, at the time of transfer, the cause for revocation.
+
+Any disposition of property between a bank’s responsible person, staff or actor in Paragraph 1 and their spouse, lineal relative, cohabiting relative, head of household, or family member shall be deemed a gratuitous act.
+
+Any disposition of property between a bank’s responsible person, staff or actor in Paragraph 1 and any person other than those prescribed in the preceding paragraph shall be presumed to be a gratuitous act.
+
+The revocation right under Paragraphs 1 and 2 shall be extinguished one year after the time the bank is aware of the cause for revocation but fails to exercise it or ten years after the time of the act.
+
+The preceding six paragraphs shall apply to the responsible person or staff of foreign banks prescribed in Article 125-2, Paragraph 4.
+
+### Article 125-6
+
+Deleted.
+
+### Article 125-7
+
+Any person who intends to endanger national security or social stability and commit offenses in the preceding paragraph shall be sentenced to imprisonment for not less than three (3) years and not more than ten (10) years, and may also be fined a criminal fine of not more than fifty million New Taiwan Dollars (NT$50,000,000).
+
+Where the criminal acts in the preceding two paragraphs jeopardize the stability of the financial market, their sentences shall be increased by one-half.
+
+An attempt to commit the offenses in Paragraphs 1 or 2 shall be punished.
+
+### Article 125-8
+
+Any person who damages the normal functions of the core information and communications system of a financial information service enterprise engaging in funds transfer and account clearing between financial institutions through one of the following means shall be sentenced to imprisonment for not less than one (1) year and not more than seven (7) years, and may also be fined a criminal fine of not more than ten million New Taiwan Dollars (NT$10,000,000):
+
+\1. Without cause, accessing its computer or related equipment by entering its account and password, cracking the protective measures for using the computer, or exploiting the loophole of the computer system.
+
+\2. Without cause, interfering with its computer or related equipment through the use of computer programs or other electromagnetic methods.
+
+\3. Without cause, obtaining, deleting, or altering the electromagnetic record of its computer or related equipment.
+
+The same applies to any person who supplies computer programs specifically for themselves or others to commit the offenses in the preceding paragraph.
+
+Any person who intends to endanger national security or social stability and commits the offenses in the preceding two paragraphs shall be sentenced to imprisonment for not less than three (3) years and not more than ten (10) years, and may also be fined a criminal fine of not more than fifty million New Taiwan Dollars (NT$50,000,000).
+
+Where the criminal acts in the preceding three paragraphs jeopardize the stability of the financial market, their sentences shall be increased by onehalf.
+
+An attempt to commit offenses in Paragraphs 1 to 3 shall be punishable.
+
+### Article 126
+
+Where a company limited by shares breaches its commitment made pursuant to Article 30, its directors and persons who participated in the decision of such breach shall be sentenced to imprisonment for not more than three (3) years, detention, and/or a criminal fine of not more than one million and eight hundred thousand New Taiwan Dollars (NT$1,800,000).
+
+### Article 127
+
+Any person who violates Article 35 shall be sentenced to imprisonment for not more than three (3) years, detention, and/or a criminal fine of not more than five million New Taiwan Dollars (NT$ 5,000,000); provided that a more severe punishment prescribed in other laws shall apply.
+
+Any person who violates Articles 47-2 or 123 which refer to Article 35 shall be punished in accordance with the preceding paragraph.
+
+### Article 127-1
+
+Where a bank violates Articles 32, 33, or 33-2, violates the preceding three articles when applying Article 33-4, Paragraph 1 or violates Article 91-1, its acting responsible persons shall be sentenced to imprisonment for not more than three (3) years, detention, and/or a criminal fine of not less than five million New Taiwan Dollars (NT$ 5,000,000) and not more than twenty-five million New Taiwan Dollars (NT$25,000,000).
+
+Where the amount of a credits extended by a bank exceeds the amount prescribed by the competent authority in accordance with Article 33 or the direct investment in a manufacturing business is made under Article 91-1 without obtaining the consent from not less than three quarters of the directors present in the board meeting at which not less than two-thirds of the directors are present, violates the credit limit or total credit balance prescribed by the competent authority in accordance with Article 33, Paragraph 2 or violates Article 91-1 which prescribes that the total investment balance shall not exceed five percent (5%) of the bank's net worth in the preceding fiscal year, the acting responsible person shall be fined an administrative fine of not less than two million New Taiwan Dollars (NT$2,000,000) and not more than fifty million New Taiwan Dollars (NT$50,000,000) and the preceding paragraph shall not apply.
+
+Where a foreign bank violates Article 123 which refers to Articles 32, 33, 33-2 or 33-4, the acting responsible person shall be punished in accordance with the preceding two paragraphs.
+
+The preceding three paragraphs shall apply to acting responsible persons who commit the offenses outside the territory of the Republic of China.
+
+### Article 127-2
+
+Where a bank violates the disposition ordered by the competent authority in accordance with Article 62, Paragraph 1 and such violation is sufficient to cause damages to others or the public, its acting responsible persons shall be sentenced to imprisonment for not less than one (1) year and not more than seven (7) years, and may also be fined a criminal fine of not more than twenty million New Taiwan Dollars (NT$20,000,000).
+
+Where a bank’s responsible persons or staff commits any of the following acts when the competent authority designates an institution or dispatch officials to supervise, take conservatorship or order the suspension of businesses and receivership shall be sentenced by imprisonment for not less than one (1) year and not more than seven (7) years, and may also be fined a criminal fine of not more than twenty million New Taiwan Dollars (NT$20,000,000):
+
+1.Refusing to deliver the books, documents, seals and properties related to the bank’s business or finance to the supervisor, conservator or receiver designated by the competent authority within the period prescribed by the competent authority, refusing to inform them of the necessary matters in connection with claims and debts or refusing their requests to carry out necessary acts for supervision, conservatorship or receivership.
+
+2.Concealing or damaging the books or other documents in relation to a bank's business or financial condition;
+
+3.Concealing or destroying a bank's properties, or making other dispositions to the detriment of creditors;
+
+4.Failing to reply, without justification, to inquiries from the supervisor, conservator or receivers designated by the competent authority or making false statements; or
+
+5.Fabricating debts or accepting false debts.
+
+Any person who violates the measures imposed by the competent authority pursuant to Articles 47-2 or 123 which refers to Articles 62, Paragraph 1, 62-2 or 62-5 and commits acts prescribed in the preceding two paragraphs shall be punished in accordance with the preceding two paragraphs.
+
+### Article 127-3
+
+Deleted.
+
+### Article 127-4
+
+Where the responsible person, agent, employee or other staff of a juridical person violates Articles 125 to 127-2 in performing their duties, the acting responsible persons shall be punished in accordance with each said article, and the juridical person shall also be fined the administrative fine or criminal fine prescribed in each said article.
+
+The preceding paragraph shall apply to foreign banks.
+
+### Article 127-5
+
+Any person who violates Article 20, Paragraph 3, shall be sentenced to imprisonment for not more than three years, detention, and/or a criminal fine of not more than five million New Taiwan Dollars (NT$5 million).
+
+Where a juridical person commits the offenses in the preceding paragraph, its acting responsible person shall be punished.
+
+### Article 128
+
+The directors or supervisors of a bank who violate Article 64, Paragraph 1 by delaying in filing reports or the directors or staff of an investment trust company who violate Article 108 by participating in the decision, shall, respectively, be fined an administrative fine of not less than two million New Taiwan Dollars (NT$2,000,000) and not more than ten million New Taiwan Dollars (NT$10,000,000).
+
+The responsible persons or staff of a foreign bank who violate Article 123 which refers to Article 108 by participating in the decision shall be punished in accordance with the preceding paragraph.
+
+Where a bank’s shareholder violates Article 25, Paragraphs 2, 3 or 5 by failing to file a report with the competent authority or obtain the approval to hold the shares, the shareholder shall be fined an administrative fine of not less than two million New Taiwan Dollars (NT$2,000,000) and not more than ten million New Taiwan Dollars (NT$10,000,000).
+
+Where a financial information service enterprise which operates funds transfer and account clearing between financial institutions or a service enterprise which operates credit data processing and exchange between financial institutions commits one of the following acts, it shall be fined an administrative fine of not less than two million New Taiwan Dollars (NT$2,000,000) and not more than fifty million New Taiwan Dollars (NT$50,000,000):
+
+\1. Refusing the examination, concealing or damaging related materials, refusing to reply to the inquiries made by the examiners without justifications or making false representations, failing to submit materials within the prescribed period or submitting false or incomplete materials when the competent authority dispatches officials or appoints an appropriate institution to examine its businesses, financial conditions and other related matters or orders the submission of financial reports or other related materials within a prescribed period.
+
+\2. Suspending all or part of its business without obtaining the approval of the competent authority.
+
+\3. Unless otherwise provided for in other laws or regulations prescribed by the competent authority, disclosing, without cause, others’ data learned or held in their duties.
+
+A service enterprise operating credit data processing and exchange between financial institutions operates the businesses without obtaining the approval of the competent authority shall be punished in accordance with the preceding paragraph.
+
+### Article 129
+
+Any person committing any of the following acts shall be fined an administrative fine of not less than two million New Taiwan Dollars (NT$2,000,000) and not more than fifty million New Taiwan Dollars (NT$50,000,000):
+
+\1. Violation of Articles 21, 22 or 57 or violation of Article 123 which refers to Articles 21, 22 or 57.
+
+\2. Issuing stocks in violation of Article 25, Paragraph 1;
+
+\3. Violation of Article 28, Paragraphs 1 to 3 or violation of Article 123 which refers to of Article 28, Paragraphs 1 to 3;
+
+\4. Violation of the restrictions imposed by the competent authority in accordance with Articles 33-3 or 36 or Article 123 which refers to Articles 33-3 or 36;
+
+\5. Violation of the notice given by the competent authority in accordance with Article 43 or Article 123 which refers to Article 43 and failure to make the adjustment within the prescribed period;
+
+\6. Violation of Article 44-1t or the measures adopted by the competent authority in accordance with Article 44-2, Paragraph 1 herein;
+
+\7. Failure to establish or diligently conduct the internal control and audit systems, internal processing systems and procedures, and internal operation systems and procedures in accordance with Article 45-1 or Article 123 which refers to Article 45-1;
+
+\8. Failure to apply for approval in accordance with Article 108, Paragraph 2 or Article 123 which refers to Article 108, Paragraph 2;
+
+\9. Violation of Article 110, Paragraph 4 or violation of Article 123 which refers to Article 110, Paragraph 4 by failing to set aside sufficient special reserve;
+
+\10. Violation of Article 115, Paragraph 1 or violation of Article 123 which refers to Article 115, Paragraph 1 in offering mutual Trust Funds; or
+
+\11. Violation of Article 48.
+
+### Article 129-1
+
+The responsible person or staff of a bank or other related parties committing any of the following acts when the competent authority dispatches officials, mandates appropriate institutions, orders local competent authorities to dispatch officials or designates professionals and technologists to examine the businesses, financial conditions and other related matters, or orders the bank or other related parties to submit financial reports, property inventories or other related documents and reports in accordance with Article 45 shall be fined an administrative fine of not less than two million New Taiwan Dollars (NT$2,000,000) and not more than fifty million New Taiwan Dollars (NT$50,000,000):
+
+1.Refusing the examination or refusing to open the vault or other storage facilities;
+
+2.Concealing or damaging books and documents related to businesses or financial conditions;
+
+3.Refusing to reply to inquiries made by the examiner without justification or make false replies.
+
+4.Failure to submit financial reports, property inventories or other related documents or reports within the prescribed period, providing false or incomplete submissions or failure to pay examination fees within the prescribed period of time.
+
+A foreign bank’s responsible person or staff or other related parties committing the acts prescribed in any of the subparagraphs of the preceding paragraph when the competent authority dispatches officials, mandates appropriate institutions or designates professionals and technologists to examine the businesses, financial conditions and other related matters or order the foreign bank or other related parties to submit financial reports, property inventories or other related documents and reports in accordance with Article 123 which refers to Article 45 shall be punished pursuant to the preceding paragraph.
+
+### Article 129-2
+
+A bank’s responsible person who violates Article 44-2, Paragraph 1 by failing to submit the capital restructuring or other finance and business improvement plan within the prescribed period or diligently implement it shall be fined an administrative fine of not less than two million New Taiwan Dollars (NT$2,000,000) and not more than fifty million New Taiwan Dollars (NT$50,000,000).
+
+### Article 130
+
+Any person who commits any of the following acts shall be fined an administrative fine of not less than one million New Taiwan Dollars (NT$1,000,000) and not more than twenty million New Taiwan Dollars (NT$20,000,000).
+
+1.Extending loans in violation of regulations prescribed by the Central Bank of the Republic of China in accordance with Article 37, Paragraph 2, Article 40 or Article 123 which refers to Article 37, Paragraph 2 and Article 40.
+
+2.Extending loans in violation of Article 72 or Article 123 which refers to Article 72 or regulations prescribed by the competent authority in accordance with Article 99, Paragraph 3;
+
+3.Making investments in violation of Article 74, Article 89, Paragraph 2, Article 115-1 or Article 123 which refers to Article 74;
+
+4.Making investments in violation of Article 74-1, Article 75, Article 89, Paragraph 2 which refers to Articles 74-1, or Articles 89, 115-1 or 123 which refers to Article 75;
+
+5.Violations of Article 76 or Article 47-2, Article 89, Paragraph 2, Article 115-1, or Article 123 which refers to Article 76.
+
+6.Violations of Article 91 or the scope, restrictions and administration rules prescribed by the competent authority for credit extensions, investments, acceptance of deposits and issuance of bank debentures in accordance with Article 91.
+
+7.Emplying trust funds in violation of Article 109 or Article 123 which refers to Article 109.
+
+8.Violations of Article 111 or Article 123 which refers to Article 111.
+
+### Article 131
+
+Any person who commits any of the following acts shall be fined an administrative fine of not less than five hundred thousand New Taiwan Dollars (NT$ 500,000) and not more than ten million New Taiwan Dollars (NT$10,000,000):
+
+1.Violation of Article 25, Paragraph 8 by failing to give notice;
+
+2.Accepting deposits in violation of Article 34 or Article 123 which refers to Article 34;
+
+3.Violations of Article 34-1 or Article 123 which refers to Article 34-1;
+
+4.Holding concurrent positions in violation of Article 35-1 by a bank’s responsible person or staff or holding concurrent positions in violation of Article 123 which refers to Article 35-1 by a foreign bank’s responsible person or staff. Where the concurrent position is assigned by the bank, the punished person shall be the bank which assigns concurrent positions.
+
+5.Violations of Article 35-2, Paragraph 1 by a bank’s responsible person regarding restrictions on concurrent positions or prohibition on conflicts of interest or violations of Article 123 which refers to Article 35-1 by a foreign bank’s responsible person regarding restrictions on concurrent positions and prohibition on conflicts of interest;
+
+6.Appointing a responsible person not meeting the related qualification requirements prescribed in the guidelines prescribed in Article 35-2, Paragraph 1 or violating the rules governing the restrictions on concurrent positions or prohibition on conflicts of interest;
+
+7.Violations of rules prescribed by the competent authority in accordance with Article 47-1 governing businesses, management, or consumer protection.
+
+8.Violations of Article 49 or Article 123 which refers to Article 49;
+
+9.Violations of Article 114 or Article 123 which refers to Article 114;
+
+10.Violation of Article 50, Paragraph 1 by failing to set aside legal reserve;
+
+11.Violation of the rules prescribed by the competent authority in accordance with Article 51 or Article 123 which refers to Article 51;
+
+12.Violation of rules prescribed by the competent authority in accordance with Article 51-1 by refusing to make payment.
+
+### Article 132
+
+Unless otherwise prescribed by this Act with respect to punishment by an administrative fine, violation of this Act or the related mandatory or prohibitive rules in the regulations authorized by this Act, or failure to commit acts which shall be committed, shall be fined an administrative fine of not less than five hundred thousand New Taiwan Dollars (NT$500,000) and not more than ten million New Taiwan Dollars (NT$10,000,000).
+
+### Article 133
+
+The administrative fines prescribed in Articles 129, 129-1, 130, 131, Subparagraphs 2, 3, 6 to 12, and the preceding article shall be imposed against the bank or its branch.
+
+The bank or its branch shall seek recourse from the person to be responsible after paying the administrative fines in accordance with the preceding paragraph.
+
+### Article 133-1
+
+For an act to be imposed administrative fines under this Act , the punishment may be exempted if the circumstance is minor or if the actor was ordered to make improvements within a prescribed period and the improvements have been completed.
+
+### Article 134
+
+The administrative fines prescribed in this Act shall be imposed by the competent authority, provided that the administrative fines prescribed in Article 130, Subparagraph 1, and the administrative fines prescribed in Article 132 for the violation of Article 42 or the rules governing the restrictions and administrations of capital financing prescribed by the Central Bank of the Republic of China in accordance with Article 73, Paragraph 2 shall be imposed by the Central Bank of the Republic of China with notice to the competent authority.
+
+### Article 135
+
+Where an administrative fine is not paid within the prescribed payment period, a surcharge for late payment shall be levied since the date of expiry at the daily rate of one percent (1%). Where the payment is not made thirty (30) days from the expiry date, the competent authority may order the bank or branch to suspend the businesses.
+
+### Article 136
+
+For a bank or punished person that is imposed an administrative fine in accordance with this chapter but fails to take corrective measures within the period prescribed by the competent authority, the competent authority may impose consecutive penalties for each violation; where the violations are of a serious nature, it may discharge the duties of responsible persons or terminate the permit.
+
+### Article 136-1
+
+Proceeds of the crime under this Act which belong to the criminal offender or obtained by other natural persons, juridical persons or unincorporated bodies pursuant to Article 38-1, Paragraph 2 of the Criminal Code of the Republic of China shall be confiscated, except for compensations due to victims or parties entitled to the damage compensation.
+
+### Article 136-2
+
+Any person who violates this Act and is imposed criminal fines of fifty million New Taiwan Dollars (NT$50,000,000) or more but is unable to pay it in full shall perform not more than two (2) years of labor service; its length shall be calculated based on the number of days in a two-year period proportional to the amount of the criminal fine. Any person who is fined one hundred million New Taiwan Dollars (NT$100,000,000) or more but unable to pay it in full shall perform not more than three (3) years of labor service; its length shall be calculated based on the number of days in a three-year period proportional to the amount of the criminal fine.
+
+### Article 136-3
+
+Articles 133, 135 and 136 shall apply mutatis mutandis to institutions operating credit card businesses.
+
+## Chapter IX Supplementary Provisions
+
+### Article 137
+
+Prior to the enforcement of this Act, any bank that has not applied for approval or obtained a business license or any other quasi-banking institution that operates deposit and lending activities shall complete the incorporation procedures in accordance with the provisions of this Act within the period prescribed by the central competent authority.
+
+### Article 138
+
+Subsequent to the promulgation and enforcement of this Act, where the types and functions of any existing bank or quasi-banking institution are not in conformity with this Act, the central competent authority shall order it to make adjustments within a prescribed period in accordance with the relevant provisions of this Act.
+
+### Article 138-1
+
+For purposes of trying a criminal case of violation of this Act, the court may establish a special tribunal or appoint specialized persons to handle the case.
+
+### Article 139
+
+The provisions of this Act shall apply to banks or other financial institutions incorporated in accordance with other laws, unless such laws provide otherwise.
+
+Administration rules governing other financial institutions in the preceding paragraph shall be as prescribed by the Executive Yuan.
+
+### Article 139-1
+
+Enforcement rules of this Act shall be prescribed by the central competent authority.
+
+### Article 140
+
+This Act shall come into force from the date of promulgation.
+
+The effective date of Article 42 amended and promulgated on May 7, 1996 shall be prescribed by the Executive Yuan; The articles amended on May 5, 2006 shall come into force from July 1, 2006.
+
+## History
+
+\1. Promulgated on March 28, 1931
+
+\2. Amended on September 01, 1947
+
+\3. Amended on June 16, 1950
+
+\4. Amended on November 11, 1968
+
+\5. Amended on July 04, 1975
+
+\6. Amended on December 29, 1977
+
+\7. Amended on July 19, 1978
+
+\8. Amended on December 05, 1979
+
+\9. Amended on December 05, 1980
+
+\10. Amended on July 17, 1981
+
+\11. Amended on May 20, 1985
+
+\12. Amended on July 17, 1989
+
+\13. Amended on October 30, 1992
+
+\14. Amended on June 29, 1995
+
+\15. Amended on May 07, 1997
+
+\16. Amended on November 01, 2000
+
+\17. The Presidential Decree Hua-Zhong-Yi-Yi-Zi 09300016591 on February 4, 2004 publicized the amendments to Articles 125 and 125-2, and the additions of Articles 125-3, 125-4, 136-1 , and 136-2.
+
+\18. Articles 20, 45-1, 49, 52, 62, and 135 amended and promulgated, articles 45-2, 125-5, 125-6, 127-5, and 138-1 added, and articles 60, 119, 124 deleted per Presidential Order No. Hua-Zong-I-Yi-09400072481 of 18 May 2005
+
+\19. Amended on May 17, 2006
+
+\20. Modified on May 30, 2006
+
+\21. Amendment by Hua-Zong-Yi-Yi-Tze No. 09600034631 issued on March 21, 2007
+
+\22. Articles 25-1, 44-1, 44-2 and 129-2 added and Articles 19, 25, 33-3, 35-2, 42, 44, 48, 50, 62 ~ 62-5, 62-7, 62-9, 128, 129,131, and 133 amended per Presidential Decree Hua-Zong-Yi-Yi-Zi No. 09700279621 dated December 30, 2008.
+
+\23. Article 12-1 amended and 12-2 added per 9 November, 2011 Order No. Presidential Decree Hua-Zong-Yi-Yi-Zi 10000246121.
+
+\24. Article 19 amended per 4 June, 2014 Order No. Presidential Decree Hua-Zong-Yi-Yi-Zi 10300085241.
+
+\25. Article 11, 45.1, 47.1, 64.1, 72.1, 72.2, 74, 75 amended , and articles 42.1 deleted per 4 February, 2015 Order No. Presidential Decree Hua-Zong-Yi-Yi-Zi 10400014271.
+
+\26. Article 34.1 added and 131 amended per 24 June, 2015 Order No. Presidential Decree Hua-Zong-Yi-Yi-Zi 10400073891.
+
+\27. Article 125, 125-2 ~ 125-4, 136-1 amended, and article 22-1 added per 31 January, 2018 Order No. Presidential Decree Hua-Zong-Yi-Yi-Zi 10700011021.
+
+\28. Articles 13, 35-2, 47-3, 61-1, 116, 117, 125, 127-1, 128~133, 134~136 amended, articles 51-2, 133-1, 136-3 added, and articles 125-6, 127-3 deleted per 17 April, 2019 Order No. Presidential Decree Hua-Zong-Yi-Jing-Zi 10800037891.
+
+\29. Articles 125-7, 125-8 added per 28 June, 2023 Order No. Presidential Decree Hua-Zong-Yi-Jing-Zi 11200053951.

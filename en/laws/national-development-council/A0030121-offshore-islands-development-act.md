@@ -1,0 +1,299 @@
+---
+title: "Offshore Islands Development Act"
+title_zh: "離島建設條例"
+identifier: "A0030121"
+type: act
+law_level: "法律"
+category: "行政＞國家發展委員會＞通用目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2000-04-05
+last_amended: 2024-08-07
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=A0030121"
+retrieved: 2026-10-12
+---
+
+# Offshore Islands Development Act
+
+> Translation. The Chinese text ([zh/laws/national-development-council/A0030121-offshore-islands-development-act.md](../../../zh/laws/national-development-council/A0030121-offshore-islands-development-act.md)) is authoritative.
+
+## Article 1
+
+This Act is enacted to promote the developmental construction, enhance the industrial development, protect the natural environment, preserve the cultural features, improve the quality of life, and augment the welfare of residents of offshore islands. Matters not covered by this Act shall be governed by other applicable laws.
+
+## Article 2
+
+An offshore island as referred to in this Act means an island that is separated from the main island of Taiwan and is under the jurisdiction of the Republic of China.
+
+## Article 3
+
+A major public construction project as referred to in this Act means a major industrial investment plan recognized by the central competent authority or a public construction project assigned for undertaking by a private institution.
+
+## Article 4
+
+The competent authorities for this Act are the Executive Yuan at the central government level, municipal governments at the special municipality level, and county (city) governments at the county (city) level.
+
+To review, supervise, coordinate, and guide the development of offshore islands, the central competent authority may establish a Steering Committee for Offshore Islands Development under the convenership of the President of the Executive Yuan (“the Premier”).
+
+The main powers and responsibilities of the Steering Committee in the preceding paragraph are to review implementation schemes for the integrated development of offshore islands, and to coordinate matters concerning the implementation of major construction projects on offshore islands. Directions on the establishment of the Steering Committee shall be prescribed by the Executive Yuan.
+
+## Article 5
+
+The county (city) competent authorities shall, according to the integrated development plan of each county (city), formulate four-yearly implementation schemes for the integrated development of offshore islands, including the following:
+
+\1. Objectives of the scheme and scope of implementation.
+
+\2. Implementation strategies.
+
+\3. Development of infrastructure.
+
+\4. Development of industry.
+
+\5. Development of education.
+
+\6. Development of culture.
+
+\7. Development of transportation and communications.
+
+\8. Development of medical facilities and services.
+
+\9. Development of tourism.
+
+\10. Development of police administration and fire services.
+
+\11. Development of social welfare.
+
+\12. Disaster prevention and protection, and improvement in respect of improper land use for burial, cultivation and construction.
+
+\13. Yearly implementation plans and division of work.
+
+\14. Yearly financial requirements and sources of funds.
+
+\15. Other matters.
+
+## Article 6
+
+Implementation schemes for the integrated development of offshore islands shall be implemented only after having been reviewed and approved by the Steering Committee for Offshore Islands Development and then submitted to the Executive Yuan for approval.
+
+The county (city) competent authorities shall comprehensively review the implementation scheme in the preceding paragraph once every four years, or amend the scheme as necessary to match revision of the integrated development plan of the county (city); and such amendment shall be carried out in accordance with the procedure stipulated in the preceding paragraph.
+
+## Article 7
+
+To encourage the development of industries on offshore islands, in the case of investment projects recognized as major construction projects by the central competent authority, the review procedure for land-use alterations, from submission of application to the conclusion of review for land use zoning or alteration of use, shall be completed within a timeframe not exceeding one year.
+
+The standards for the recognition of major construction projects in the preceding paragraph shall be formulated by the Steering Committee for Offshore Islands Development and submitted to the Executive Yuan for approval.
+
+When a major construction project involves alteration of land use for an urban planning master plan or for non-urban land, and the alteration of land use has been approved by a county (city) government, it shall not be subject to the restrictions of the Urban Planning Act, non-urban land use control regulations or other related laws and regulations.
+
+## Article 8
+
+Where land required for a major construction project on an offshore island is publicly owned, the competent authority may, after carrying out the allocation for use, set a time limit for the provision of the land for use by a private institution by means of lease, establishment of superficies, trust, or the use of royalty or rent for the land as financial contribution, and shall not be subject to the restrictions of Article 25 of the Land Act, Article 28 of the National Property Act, or laws and regulations concerning the management of public property by local governments.
+
+Where a major construction project on an offshore island is a public construction assigned for undertaking by a private institution, and the land required for the project is privately owned, the competent authority or the private institution shall negotiate with the landowners to purchase the land at a regular price, and if the negotiation is unsuccessful or cannot be conducted, the competent authority may execute expropriation. The expropriation plan shall clearly state that the land is provided for a private institution to carry out development, construction and operation by means of joint development, commissioned development, cooperative business operation, lease, establishment of superficies, trust, or the use of royalty or rent for the land as financial contribution, and shall not be subject to the restrictions of Article 25 of the Land Act, Article 28 of the National Property Act, or laws and regulations concerning the management of public property by local governments.
+
+To help private institution acquire land needed for major construction projects on offshore islands, the competent authority or the county (city) government may select a suitable location and, after submitted to the Executive Yuan for approval the central competent authority, directly execute zone expropriation. After the scope of the zone expropriation is determined, the land allocated for investment by private institution may be sold by auction in advance,and shall not be subject to the restrictions of Article 53 and Article 55-2 of the Equalization of Land Rights Act.
+
+## Article 9
+
+In the areas to which this Act is applicable, where a piece of land was registered as public-owned due to expropriation, purchase, or compulsory purchase before the termination of battleground administration, or after the termination of battle administration period occupation, and the land administration authority has ceased to use or has in fact abandoned use of the land, the whole amount shall be publicly announced at the latest within two years from the date on which the amendment to this Act enters into force on December 20, 2013; and the original landowners or their heirs may, within five years of the public announcement, apply to the said land administration authority to buy back the land at the price calculated according to the current land value announced in the year in which the application is submitted. However, where the price paid for expropriation, purchase or compulsory purchase exceeds the land value as thus calculated, the price for buying back the land shall be the original expropriation, purchase or compulsory purchase price.
+
+After receipt of an application, the land administration authority shall reply to the applicant within 30 days. Where the application is found upon review to comply with the requirements of this Act, the land administration authority shall notify the applicant to pay the purchase price within 30 days, and if payment is not made within this time limit, the application shall be cancelled. Where the application is rejected as not complying with the requirements of this Act, the applicant if dissatisfied with this decision may submit a request for conciliation to the county (city) government of the area in which the land is situated.
+
+The time periods stated in the preceding paragraph may, when necessary, be extended by one month.
+
+The county (city) government conciliation referred to in paragraph 2 may be conducted under the mutatis mutandis application of Article 59 of the Land Act.
+
+Where land in the Kinmen area was registered as public land without the procedure for eminent domain or purchase, before the termination of battleground administration, and where there is sufficient proof of the pre-existence of a building or tomb on the land, the original landowners or their heirs or the original occupiers may, within five years from the date on which the amendment to this Act enters into force on December 20, 2013, apply with submission of relevant evidential documents to the authority in charge of the land in conjunction with the land administration authority in conducting a site inspection, and where the claim is confirmed as factual and there is no public use of the land, the area occupied by the building or tomb may be calculated, and the land sold at the current land value announced at the time of the application.
+
+Where land in the Matsu area, since 1949, was registered as public land without the procedure for eminent domain or purchase, causing the original landowner or person deemed as owner under Article 9 of the Enforcement Act of the Part of Rights in Rem of the Civil Code, or that person’s heir, to lose ownership right, and where land administration authority no longer has need to use it, the land shall be returned according to law upon application by the original owner, deemed owner or such person’s heir within five years from the date on which the amendment to this Act enters into force on December 20, 2013; and where land administration authority has continuing need to use the land, it shall conduct expropriation, purchase or lease of the land from the original owner, deemed owner or such person’s heir according to law. Where a request submitted under the Safety and Assistance Act for Kinmen, Matsu, Dongsha and Nansha has previously been rejected, a further application may be submitted under this Act.
+
+The Regulation for implementing the return of land as referred to in the preceding paragraph shall be prescribed by the Executive Yuan.
+
+Applications to buy back land under paragraph 1, applications to sell land under paragraph 5, and applications for the return of land under paragraph 6 shall not be subject to the restrictions of Articles 52 and 53 of the Urban Planning Act, Article 25 of the Land Act, Articles 28, 33 and 35 of the National Property Act, or local government public property management laws and regulations.
+
+The foregoing provisions of this Article shall apply mutatis mutandis any land in the Penghu area not expropriated, purchased or compulsorily purchased by government authorities under legally stipulated procedure.
+
+## Article 9-1
+
+Where an application was made for the return of a piece of land to which this Act is applicable during the applicable period of Article 14-1 of the Safety and Assistance Act for Kinmen, Matsu, Dongsha and Nansha, but the land could not be returned because it was under use by the government or had been transferred to a private party, the applicant may, within two years from the date on which the amendment to this Act enters into force, request the competent land administration authority or the authority rendering the disposition to pay compensation according to the land value at the time of the application for return, an Article 30 of the Land Expropriation Act may be applied mutatis mutandis.
+
+Regulations governing the conditions, time limit for application, requisite supporting documentation, and other matters concerning compensation as referred to in the preceding paragraph shall be prescribed by the Executive Yuan.
+
+## Article 9-2
+
+In the areas covered by this Act, where, prior to the termination of battleground administration, an application to cultivate idle land in Kinmen or Matsu was made and approved and cultivation commenced in accordance with restrictions, but subsequently cultivation could not be continued or ownership obtained due to military reasons, the applicants or their heirs may, within two years from the date on which the amendment to this Act enters into force, request the competent land administration authority to pay compensation for the costs of commencing cultivation. Where the applicant had acquired the right to cultivate, compensation shall be calculated according to the term of the right and the current land value announced at the time of application.
+
+Regulations governing the conditions, time limit for application, requisite supporting documentation, amount of compensation, and other matters concerning compensation as referred to in the preceding paragraph shall be prescribed by the Executive Yuan.
+
+## Article 9-3
+
+An original obligee before laying mines on April 30, 1971, or possessors or their heirs by adverse possession according to the Civil Code, of a land that locates within a minefield in the areas of Kinmen and that is registered as public land without following a remunerative procedure such as expropriation or procurement may, within five years from the date on which the amendment to this Act enters into force on May 26, 2015, apply to local Land Administration for the return of the land.
+
+Those applying for the return in accordance with the preceding paragraph should present one of the following relevant certified documents that demonstrate the ownership of the land, or acquisition of the land by adverse possession in accordance with the Civil Code, prior to laying landmines:
+
+\1. Certified documents of the land title prior to laying mines.
+
+\2. A certificate issued by the local township office or other government authorities.
+
+\3. Certified documents provided by at least two surrounding neighbors, or a certificate issued by the chief of the village (li, or neighborhood).
+
+The neighbor attesters or the chief described in the subparagraph 3 of preceding paragraph should have, during the period of occurrence to be proved, had registered as permanent residents at address(es) located in, or the village adjacent to, the land to be returned and had capacity to make juridical acts. In addition, they should in conjunction with the obligee be present at the scene to survey and verify the limits. The application for the return of the land should be dismissed, if any certifier did not present after being notified twice by the local land administration. The certificates described above should specify that the area of the land has been approximately measured and that the results are facts of each attester’s personal observation, rather than speculations. If an attester’s household register had been relocated to other place during occupancy certified by the attester, the applicant should seek another attester to make up the deficiency.
+
+If certified documents to support the application for return of land described in paragraph 1 are insufficient, the local land administration who supervises the related land should give notices to the applicant and request the applicant to provide amendment and complement to the insufficiency within three months. If the applicant cannot, or does not, provide amendment and complement to the insufficiency, the application should be dismissed. After having been verified by the local land administration, announced to the public for six months, and notified land administration authority, without anyone raising any objection by the expiration of the announcement, the ownership of the land should be transferred by the local land administration supervising the related land. If the original land administration authority has the need to continue using the land, it should, according to law, apply to the landowner for a land tenure, procurement, or expropriation.
+
+The local land administration should review the case described in preceding paragraph in conjunction with the local county government, the land administration authority, and relevant authorities. During the period of announcement, if someone raises an objection, the matters should be conciliation, mutatis mutandis, in accordance with paragraph 2 of Article 59 of the Land Act.
+
+The application for the return of land specified in paragraph 1 shall not be subject to the restrictions of Articles 52 and 53 of the Urban Planning Law, Article 25 of the Land Act, Articles 28, 33, and 35 of the National Property Act, or laws and regulations of public property specified by the local government.
+
+An applicant when he/she applies for the first registration of an unregistered land that he/she had acquired to the real property by adverse possession but later lost the possession due to being enclosed in a minefield described in paragraph 1 should be deemed to have uninterrupted possession of the land. The paragraphs 3 and 4 should apply, mutatis mutandis, to the requirements of the registration, such as the amendment and complement to insufficient evidence for review, the period of announcement, attester’s eligibility, etc.
+
+## Article 10
+
+Goods sold and delivered locally or services provided locally by business entity(entities) in the Penghu, Kinmen, Matsu, Ludao (Green Island), Lanyu, and Liuqiu areas shall be exempted from business tax.
+
+Merchandise imported and sold locally by business operators in the Penghu, Kinmen, Matsu, Ludao (Green Island), Lanyu, and Liuqiu areas shall be exempted from customs duties. The duty-free items and the method of implementation shall be prescribed by the Ministry of Finance.
+
+## Article 10-1
+
+To promote tourism in offshore islands, those who establish offshore island duty-free stores in the Penghu, Kinmen, Matsu, Ludao (Green Island), Lanyu, and Liuqiu areas shall, after obtaining approval from the county (city) competent authority, shall register with Customs to conduct the sale to visitors of goods to be taken out of offshore islands.
+
+Goods imported and stored for sale by offshore island duty-free stores shall be bonded and stored in bonded warehouses in accordance with the Customs Act.
+
+Goods sold by offshore island duty-free stores shall be subject to a zero rate of business tax.
+
+Goods purchased from abroad or from a bonded area that are brought in and stored for sale by an offshore island duty-free store, sold to a visitor within the range of a certain monetary value or quantity, and taken by the visitor out of offshore islands, shall be exempted from customs duty, commodity tax, tobacco and alcohol tax, and the Health and Welfare Surcharges of tobacco products.
+
+Bonded goods imported and stored for display and sale to visitors by an offshore island duty-free store may be exempted from the requirement for Chinese labeling, except in the case of drugs and medical devices.
+
+Domestically manufactured goods that are brought in and stored for sale by an offshore island duty-free store, sold to a visitor within the range of a certain monetary value or quantity, and taken by the visitor out of offshore islands, shall be exempted from commodity tax, tobacco and alcohol tax, and the Health and Welfare Surcharges of tobacco products.
+
+Regulations concerning the qualifying conditions, application procedures, registration of and changes in the establishment of offshore island duty-free stores, the monetary values and quantities as referred to in paragraph 4 and paragraph 6, the persons to whom sales may be made, the customs clearance procedures, the management of the delivery of goods, and other matters requiring compliance, shall be prescribed by the Ministry of Finance.
+
+If an offshore island duty-free store violates the regulations concerning application for or change or re-issuance of registration, the monetary value and quantity of sales or persons to whom sales may be made, customs clearance procedures, the management of the delivery of goods, or other matters requiring compliance, as referred to in the preceding paragraph, Customs may issue a warning or impose a fine of not less than NT$ 6,000 and not more than NT$30,000 and may order an improvement within a certain period of time; the fine shall be charged per violation in case of failure to improve before the given deadline. If there is no improvement after three penalties, may be punished by suspension of business for between three months and one year.
+
+Where the quantity or the amount of goods sold to a visitor by an offshore island duty-free store exceeds the limits as referred to in paragraph 4 and paragraph 6, the buyer may not take the goods out of offshore islands until after making supplementary payment of customs duty, commodity tax, tobacco and alcohol tax, the Health and Welfare Surcharges of tobacco products, and business tax, as calculated in accordance with the Customs Act, the Commodity Tax Act, the Tobacco and Alcohol Tax Act, and the Value-added and Non-value-added Business Tax Act.
+
+## Article 10-2
+
+Before an offshore island may be opened to the establishment of tourist casinos, a local referendum thereon must be held in accordance with the Referendum Act, and more than half of the valid votes cast in the referendum must be votes of approval. However, the validity of the referendum result shall not require votes to have been cast by at least half of the eligible voters in the in the county (city).
+
+Tourist casinos as referred to in the preceding paragraph shall be established within international tourist resort zones. The facilities in international tourist resort zones shall also include international tourist hotels, tourism and travel facilities, international conference and exhibition facilities, shopping malls and other service facilities related to developing tourism.
+
+Applications for plans to invest in international tourist resort zones shall be submitted to the central competent authority of tourism. The time schedule, review and approval standards, related procedures and other matters in respect of such applications shall be decided by the central competent authority of tourism and publicly announced after submission to and approval by the Executive Yuan.
+
+Application procedures, establishment standards, license issuance, license fees, special gaming tax, relevant supervision and administration, and other such matters concerning tourist casinos shall be separately prescribed by law.
+
+The Offenses of Gambling Chapter of the Criminal Code do not apply to the legally authorized operation of tourist casinos and engagement in gaming activities in accordance with the preceding paragraph.
+
+## Article 11
+
+Subject to the principles of not impeding national defense and the military security of offshore islands, the armed forces or military units stationed on offshore islands shall actively cooperate with all construction projects on the offshore islands, and shall constantly review their military defenses and improve military control measures that are out of keeping with the times.
+
+For the purpose of handling matters as referred to in the preceding paragraph, the Executive Yuan shall convene regular yearly review and discussion meetings of the Ministry of National Defense, related ministries and commissions, representatives of local public opinion, and persons of standing in society, to provide concrete measures in support of offshore islands construction and development.
+
+## Article 12
+
+The Ministry of Education shall allocate a budget to subsidize the textbook expenditure and miscellaneous expenses of students who receive national compulsory education on offshore islands.
+
+Where the lack of a school on an offshore island necessitates a student going to the main island of Taiwan or another offshore island to receive compulsory education, his/her two- way travel expenses shall be subsidized from a budget allocated by the Ministry of Education. But when, due to transportation and communication factors, a student is unable to return the same day to the offshore island on which he/she resides, he/she may use this travel allowance to pay the necessary living expenses for staying in the area in which his/her school is situated.
+
+## Article 12-1
+
+A teacher who has entered into initial employment to teach at a senior secondary school, or a lower level, on any offshore islands should serve at least actual six years in such a position before the teacher may apply for a teaching engagement on the mainland Taiwan, in order to guarantee the right to education of students who inhabit on outlying islands.
+
+The exact years of service described in the preceding paragraph should deduct the service seniority in a position retained without pay, in addition to the service seniority during parental leave without pay or a position retained without pay due to being conscripted. The service seniority is limited to actual years of service at the school the teacher is currently serving.
+
+## Article 13
+
+To maintain the safety and health of the residents of offshore islands, the Executive Yuan shall allocate a budget for subsidizing the establishment of medical institutions, nursing institutions, long-term care institutions, and other medical institutions on offshore islands, and for recruiting doctors in specialist departments that are under-staffed in offshore islands, and shall prescribe regulations for special incentive and assistance.
+
+The self-payment premiums requirement of the national health insurance beneficiaries for residents of offshore islands aged 65 and over shall be paid from a budget allocated by the central government.
+
+The central competent authority shall subsidize the two-way travel costs of acutely or severely ill patients who urgently need to be transferred from offshore islands to the main island of Taiwan for hospitalization, and of accompanying medical personnel.
+
+The central competent authority shall allocate a budget to subsidize expenses of physically and mentally disabled and elderly persons who have need for receiving long-term care services.
+
+To protect the dignity and health of elderly persons on offshore islands, the central competent authority shall provide each senior citizen with a two-yearly physical examination that is comparable to health checks provided for civil servants, and the central competent authority shall allocate a budget to subsidize the difference in cost between such physical examination and the health checks provided for senior citizens by the competent authorities of special municipality and county (city) in the current year under the Senior Citizens Welfare Act.
+
+## Article 14
+
+Charges for water and electric power consumption on offshore islands shall be levied at the average rates applicable on the main island of Taiwan. Reasonable losses sustained by utility operators in consequence of the setting of such rates shall, after review and approval by the central competent authority, be subsidized from budgets allocated for such purpose. However, charges for the electric power consumption of the self-use residences of the residents of the Lanyu area shall be exempted from collection.
+
+## Article 15
+
+The central government shall allocate a budget exclusively for offshore islands development expenditures pursuant to this Act. If such budget is insufficient, it may be supplemented from the Offshore Islands Development Fund.
+
+## Article 15-1
+
+To promote fast and convenient external transportation for residents of offshore islands, all charges for transportation between offshore islands and the main island of Taiwan shall be subsidized from the central government budget allocated for this purpose, and ticket subsidies shall not be less than 30 percent of ticket prices.
+
+Regulations for ticket subsidies as referred to in the preceding paragraph shall be drawn up by the Ministry of Transportation and Communications and submitted to the Executive Yuan for approval.
+
+## Article 16
+
+To speed up the development of offshore islands, the central competent authority shall establish an Offshore Islands Development Fund with a total fund of not less than NT$30 billion, obtained from the following sources:
+
+\1. Allocation from the ten-year budget compilation or financial sources designated by the central government.
+
+\2. Allocation from the budget compilation of the county (city) competent authorities.
+
+\3. Interest on the fund.
+
+\4. Donations from individuals or organizations.
+
+\5. Franchise fees from tourist gaming enterprises.
+
+\6. Other income.
+
+Regulation on the receipts and expenditures, custody and utilization of the Offshore Islands Development Fund shall be prescribed by the Executive Yuan.
+
+## Article 17
+
+Regulations on the subsidies referred to in Articles 12 to 14 shall be prescribed by the Steering Committee for Offshore Islands Development in consultation with the central competent authorities, and submitted to the Executive Yuan for approval.
+
+Education and culture in the Penghu, Kinmen, Matsu, Ludao (Green Island), Lanyu, and Liuqiu areas shall be guaranteed, and the Ministry of Education in consultation with related competent authorities shall prescribe regulation on student admission recommendation, to support and promote cultivation of talents in these areas.
+
+## Article 18
+
+To promote the development of offshore islands, prior to the comprehensive opening of transport links between the main island of Taiwan and the Mainland area, transport links between the Kinmen, Matsu and Penghu areas and the Mainland area may be opened on a pilot basis. Residents of the Taiwan area may, with due approval, use the pertinent entry/exit certificates, after checks, to enter the Mainland area from the pilot areas, or to enter the pilot areas from the Mainland area, and shall not be subject to the limitations prescribed in Act Governing Relations between the People of the Taiwan Area and the Mainland Area or other laws and regulations. Regulation on the implementation thereof shall be prescribed by the Executive Yuan.
+
+## Article 19
+
+The enforcement rule of this Act shall be prescribed by the central competent authority.
+
+## Article 20
+
+This Act shall come into force from the date of promulgation.
+
+## History
+
+1.Enacted and Promulgated per Presidential Order Hua-Zong-(1)-Yi-Zi No. 8900089260 on April 5, 2000；shall come into force from the date of promulgation.
+
+2.Amended and Promulgated per Presidential Order Hua-Zong-(1)-Yi-Zi No. 09100023630 on Feb. 6, 2002；shall come into force from the date of promulgation.
+
+3.Amended and Promulgated per Presidential Order Hua-Zong-(1)-Yi-Zi No. 09700002261 on Jan. 9, 2008；shall come into force from the date of promulgation.
+
+4.Amended and Promulgated per Presidential Order Hua-Zong-(1)-Yi-Zi No. 09800018541 on Jan. 23, 2009；shall come into force from the date of promulgation.
+
+5.Amended and Promulgated per Presidential Order Hua-Zong-(1)-Yi-Zi No. 09900331521 on Dec. 8, 2010；shall come into force from the date of promulgation.
+
+6.Amended and Promulgated per Presidential Order Hua-Zong-(1)-Yi-Zi No. 10000002981 on Jan. 12, 2011；shall come into force from the date of promulgation.
+
+7.Amended and Promulgated per Presidential Order Hua-Zong-(1)-Yi-Zi No. 10000131061 on June 22, 2011；shall come into force from the date of promulgation.
+
+8.Amended and Promulgated per Presidential Order Hua-Zong-(1)-Yi-Zi No. 10200000801 on Jan 9, 2013；shall come into force from the date of promulgation.
+
+9.Amended and Promulgated per Presidential Order Hua-Zong-(1)-Yi-Zi No. 10200011411 on Jan 23, 2013；shall come into force from the date of promulgation.
+
+10.Amended and Promulgated per Presidential Order Hua-Zong-(1)-Yi-Zi No. 10200225231 on Dec 11, 2013；shall come into force from the date of promulgation.
+
+11.Amended and promulgated per Presidential Order Hua-Zong-(1)-Yi-Zi No. 10300000591 on Jan 8, 2014；shall come into force from the date of promulgation.
+
+12.Amended and promulgated per Presidential Order Hua-Zong-(1)-Yi-Zi No. 10400067461 on June 10, 2015；shall come into force from the date of promulgation.
+
+13.Amended and promulgated per Presidential Order Hua-Zong-(1)-Yi-Zi No. 10800049591 on May 22, 2019；shall come into force from the date of promulgation.
+
+14.Amended and promulgated per Presidential Order Hua-Zong-(1)-Yi-Zi No. 11300068941 on August 7, 2024；shall come into force from the date of promulgation.

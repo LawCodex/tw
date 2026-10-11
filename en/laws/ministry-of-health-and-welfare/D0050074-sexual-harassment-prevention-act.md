@@ -1,0 +1,373 @@
+---
+title: "Sexual Harassment Prevention Act"
+title_zh: "性騷擾防治法"
+identifier: "D0050074"
+type: act
+law_level: "法律"
+category: "行政＞衛生福利部＞保護服務目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2005-02-05
+last_amended: 2023-08-16
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0050074"
+retrieved: 2026-10-12
+---
+
+# Sexual Harassment Prevention Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-health-and-welfare/D0050074-sexual-harassment-prevention-act.md](../../../zh/laws/ministry-of-health-and-welfare/D0050074-sexual-harassment-prevention-act.md)) is authoritative.
+
+## Chapter 1 General Principles
+
+### Article 1
+
+The Act is formulated in order to prevent sexual harassment and protect the rights of victims.
+
+The handling and prevention of incidents of sexual harassment are stipulated under the Act, unless otherwise provided in the Gender Equity Education Act and Gender Equality in Employment Act with respect to the handling and prevention, subject to the field where the incidents of sexual harassment occur, and the concerned party’s identity and relationship.
+
+### Article 2
+
+Excluding sexual assault crimes, the sexual harassment referred to herein means the sexual or gender-related behavior against the will of a male or female and meeting any of the following circumstances:
+
+\1. Impair another person’s dignity and personality, or create a situation that causes another person to feel scared, hostile or offensive, or improperly affect another person’s work, education, training, services, plans, activities or routine life, expressly or implicitly, by discriminatory or insulting language and conduct, or in any other manners; and
+
+\2. Allow oneself or another person to provoke, lose or impair the interest and right related to learning, work, training, service, plan and activity on condition that another obeys or reject the behavior.
+
+The power-abused sexual harassment referred to herein means that a person who is in charge of education, training, medical treatment, public affairs, business affairs, employment, or other relevant fields, and uses his or her power or opportunity to make sexually harass to another person.
+
+### Article 3
+
+A troop referred to herein means a unit subordinated to the Ministry of National Defense.
+
+The school referred to herein means any public or private school at all levels, military academy, preparatory school, police school at all levels, and juvenile correction school.
+
+The institution referred to herein means any juristic person, partnership, or a non-corporate body which has its own representative or manager, or any other organization.
+
+### Article 4
+
+Competent authorities as referred to in this Act mean the Ministries of Health and Welfare at the central level; the municipal government at the municipality level; and the county (city) government at the county (city) level.
+
+### Article 5
+
+The central competent authority has the following duties, provided that for matters related to the duties of each central authority in charge of relevant enterprises, they shall be taken appropriate actions by each central authority in charge of relevant enterprises.
+
+\1. Drafting and reviewing policies and regulations about sexual harassment prevention;
+
+\2. Coordinating, supervising and examining implementation of sexual harassment prevention in the government;
+
+\3. Supervising the handling procedures for sexual harassment incidents established by competent authorities at the special municipality or city (county) level, and assisting to provide victims with protection and assistance;
+
+\4. Training professionals specialized in investigation on incidents of sexual harassment;
+
+\5. Popularizing education and promotion of sexual harassment prevention;
+
+\6. Awarding prizes to any organization, school, institution, employer, group or individual that carries out sexual harassment prevention and has excellent performance;
+
+\7. Compiling and gathering statistics of any data about incidents of sexual harassment, and creating e-database for the incidents of sexual harassment;
+
+\8. Organizing the study on the trends and problems of sexual harassment prevention; and
+
+\9. Other sexual harassment prevention matters.
+
+To perform the activities under the previous paragraph, the central competent authority should select (appoint) scholars, experts and representatives of private organizations and relevant authorities to provide advice. Among the other things, the number of scholars, experts and representatives of private organizations shall be no less than one-half of the total number of persons. Female representatives shall be no less than one-half of the total number of persons.
+
+### Article 6
+
+The competent authorities at the special municipality or city (county) level shall establish a Sexual Harassment Prevention Committee (hereinafter referred to as the “Committee”) which can undertake the following matters, provided that for matters related to the duties of each municipal and county (city) authority in charge of relevant enterprises, they shall be taken appropriate actions by such competent authorities:
+
+\1. Drafting policies and regulations about sexual harassment prevention;
+
+\2. Coordinating, supervising and implementing sexual harassment prevention matters;
+
+\3. Investigating, mediating and reviewing incidents of sexual harassment and transferring the case to the related agency;
+
+\4. Providing victims with consultation services, psychological counseling, legal assistance, social welfare resources and other necessary services;
+
+\5. Popularizing education & training and promotion of sexual harassment prevention;
+
+\6. Compiling and gathering statistics of any data about incidents of sexual harassment; and
+
+\7. Other sexual harassment prevention matters.
+
+For the Committee referred to in the preceding paragraph, a convener shall be appointed and chaired by the administrator or deputy administrator of municipal or county (city) government concurrently. The Committee members shall be selected (appointed) from the senior officers of related agencies, persons of disinterested community members, representatives of private institutions, scholars and experts. Among the other things, the persons of disinterested community members, representatives of private institutions, scholars and experts shall be no less than one-half of the total, and female representatives shall be no less than one-half of the total.
+
+## Chapter 2 Sexual Harassment Prevention and Responsibility
+
+### Article 7
+
+The government agencies (entities), troops, schools, institutions or employers shall take the following preventive measures to prevent sexual harassment from occurrence in the belonged public areas, and places open to the public.
+
+\1. If the number of the organization's members, employees or personnel receiving the service reaches over ten, an access to sexual harassment grievance system/procedure for mediation and handling should be established; and
+
+\2. If the number of the organization’s members, employees, or personnel receiving the service reaches over thirty, methods for sexual harassment prevention shall be formulated and disclosed to the public.
+
+Upon awareness of any incident of sexual harassment taking place in the places referred to in the preceding paragraph, the government agencies (entities), troops, schools, institutions or employers shall take the following valid corrective action and remedial measures, and keep caring the safety and privacy of victims.
+
+\1. Help victims with filing a grievance and preserve the related evidence;
+
+\2. If necessary, assist in notifying the police to address the case on the site; and
+
+\2. Review the safety of the place where it belonged.
+
+After knowing the incident of sexual harassment, the government agencies (entities), troops, schools, institutions or employers shall take corrective actions and remedial measures referred to in the subparagraph 3 of the preceding Paragraph.
+
+In order to prevent and address incidents of sexual harassment, the central competent authorities shall specify standards of sexual harassment prevention, including patterns of sexual harassment, principles of sexual harassment prevention, accesses to sexual harassment grievance system/procedure, training programs of sexual harassment prevention and other relevant measures.
+
+### Article 8
+
+The government agencies (entities), troops, schools, institutions or employers referred to in the preceding Article shall organize regular educational training about sexual harassment prevention or encourage their staff to join the training.
+
+### Article 9
+
+During the course of grievance, investigation, detection or trial procedure for incidents of sexual harassment, no discriminatory treatment should be given against any person that filed a grievance, complaint, report, lawsuit, testimony, assistance or other participation by the government agencies (entities), troops, schools, institutions or employers.
+
+Those who violate the regulation of the preceding Paragraph shall be liable for damages.
+
+## Chapter 3 Victim Protection
+
+### Article 10
+
+Promotional materials, publications, broadcast, TV, Internet or other media shall not report or record the name of the victim or any other information that is sufficient to identify the victim, unless in any of the following circumstances:
+
+\1. Subject to the victim’s prior approval, if the victim is an adult, provided that if the victim is mentally disabled or has been placed under custodianship or guardianship, the information shall be provided in a manner understandable to the victim, and if the victim has been placed under custodianship, the consent of the victim’s guardian is also required; and
+
+\2. A competent prosecutor or a competent court finds the disclosure of personally identifiable information of a victim necessary according to the laws.
+
+When giving his consent, a custodian referred to in the proviso of Subparagraph 1 of the preceding Paragraph shall respect the will(s) of the victim who has been placed under custodianship.
+
+When the guardian referred to in the proviso of the subparagraph 1 of Paragraph 1 of this Article is the offender, suspect or defendant in the incident of sexual harassment, the name of the victim or any other information that is sufficient to identify the victim may not be reported or recorded.
+
+Any person other than those referred to in the proviso of Paragraph 1 of this Article may not, through the media or in any other manners, reveal to the public or disclose the name of the victim or any other information that is sufficient to identify the victim.
+
+Unless otherwise provided by other Acts, one shall keep confidential any information sufficient to identify a victim specified in Paragraph 1 which comes to his knowledge or possession because of his occupation or profession.
+
+Documents made known to the public by administrative agencies or judicial agencies may not reveal the name, date of birth, residential address, or any other personally identifiable information of a victim.
+
+### Article 11
+
+During the investigation on an incident of sexual harassment, the government agencies (entities), troops, schools, police agencies, and the municipal and county (city) competent authorities shall, subject to the victim’s physical and mental condition, provide or refer to the victim consultation services, psychological counseling, legal assistance, social welfare resources and other necessary services.
+
+### Article 12
+
+A person who has sexually harassed another person should take the responsibility of offering compensation for damage.
+
+In the case provided in the preceding Paragraph, the injured party may still claim an equitable compensation in money for a non-pecuniary loss. If reputation is harmed, a proper punishment of restoring reputation is required.
+
+In the case of the damages referred to in the preceding two Paragraphs resulting from power-abused sexual harassment, the court may, upon request and on the basis of the severity of the infringement, award damages equivalent to 1~3 times of the proven loss.
+
+### Article 13
+
+If an employee or the responsible person of an institution sexually harass another person by taking advantages of his or her official position, according to Paragraph 2 of the preceding Article, his or her employer or the institution shall provide adequate assistance when a proper punishment of restoring the victim's reputation back is required.
+
+Where a student or trainee sexually harasses another person when receiving education or training in a school, or educational or training institution, according to Paragraph 2 of the preceding Article, the school or educational or training institution shall provide adequate assistance when a proper punishment of restoring the victim's reputation is required.
+
+The requirements referred to in the preceding two Paragraphs shall not apply to the government agencies (entities) and troops.
+
+## Chapter 4 Grievance and Investigation Procedure
+
+### Article 14
+
+In addition to the relevant legal assistance, a victim in the incident of sexual harassment may also file a grievance in the following manners:
+
+\1. File the grievance within two years upon awareness of the incident, in the case of the incident of sexual harassment other than power-abused sexual harassment, unless it has been more than five years since the incident of sexual harassment takes place.
+
+\2. File the grievance within three years upon awareness of the incident, in the case of the incident of power-abused sexual harassment, unless it has been more than seven years since the incident of sexual harassment takes place.
+
+The victim who is still a minor when the incident of sexual harassment takes place may file the grievance within three years after reaching adulthood. Notwithstanding, where any subparagraph of the preceding Paragraph provides a longer time limit, the subparagraph shall apply.
+
+The grievance referred to in the preceding two paragraphs may be filed in writing or verbally, in the following manners:
+
+\1. If the offender works for any government agency (entity), troop or school at the time of grievance, the grievance shall be filed with the government agency (entity), troop or school;
+
+\2. If the offender is a head of any government agency (entity), chief officer above the rank of colonel in any military agency (entity) and troop, president of any school, supreme responsible person of any institution, or employer at the time of grievance, the grievance shall be filed with the municipal and county (city) competent authorities where the government agency (entity), troop, school, institution or employer is situated; and
+
+\3. If the offender is uncertain or any person other than those referred to in the preceding two subparagraphs at the time of grievance, the grievance shall be filed with the police agency situated within the jurisdiction where the incident of sexual harassment takes place.
+
+Where the grievance against an incident of sexual harassment is withdrawn or is considered withdrawn in accordance with Paragraph 5 of Article 21 herein, no further grievance may be filed against the same matter.
+
+In any of the following circumstances, the municipal and county (city) competent authorities may reject the grievance:
+
+\1. If the concerned party files the complaint after the due date;
+
+\2. If the grievance does not comply with the required forms and processes, and not corrected within the time limit as notified; and
+
+\3. If a second appeal is filed against the same incident of sexual harassment after the grievance is withdrawn or considered withdrawn.
+
+### Article 15
+
+The government agencies (entities), troops, schools, police agencies, and the municipal and county (city) competent authorities shall start investigating within seven days of receiving the grievance or arrival of the transferred case and also complete the investigation within two months. If necessary, the length of the investigation may be extended by another one month and concerned parties shall be informed.
+
+After the municipal and county (city) competent authorities accept the grievance against sexual harassment under the subparagraph 2 of Paragraph 3 of the preceding Article, the Committee convener shall assign three to five committee members to form an investigation team and address the case in accordance with the requirements referred to in the preceding paragraph. The female representatives in the investigation team shall be no less than one-half of the total team members, and one of them shall be elected as the team convener.
+
+The investigation on an incident of sexual harassment shall be based on the principle of objective, justice and professionalism and provide both parties with a chance to make statements and defend. The relevant case status shall be notified in a timely manner. Where it is necessary to question the concerned party, repeated questions shall be avoided.
+
+When the government agencies (entities), troops, schools and police agencies conduct the investigation under Paragraph 1 and the Committee conducts the investigation under Paragraph 2, they shall make an investigation report and propose suggestions to address the case, and transfer the documents to the municipal and county (city) competent authorities for resolution.
+
+### Article 16
+
+Upon receipt of the investigation report and suggestions referred to in Paragraph 4 of the preceding Article, the municipal and county (city) competent authorities shall submit them to the Committee for review. If the Committee deems it necessary, it may form an investigation team pursuant to Paragraph 2 of the preceding Article to re-investigate the case for re-consideration.
+
+When an incident of sexual harassment is under investigation or a trial and the Committee deems it necessary, it may pass a resolution to stop the process before the procedure is concluded.
+
+After any grievance against sexual harassment is reviewed by the Committee, the municipal and county (city) competent authorities shall notify the investigation result to the complainant, offender, the agency that originally referred the case, and the affiliated unit of the offender defined in the subparagraph 2 of Paragraph 3 of Article 14 herein, via a written decision specifying the facts and reasons.
+
+For disagreement to the decision against the investigation result referred to in the preceding paragraph, the complainant and offender may file an administrative appeal against the decision pursuant to laws.
+
+### Article 17
+
+When the government agencies (entities), troops, schools, police agencies, and he municipal and county (city) competent authorities are conducting the investigation, the offender and any person or unit invited to help the investigation shall work with them, provide related data and refrain from evading, interrupting or rejecting the investigation.
+
+## Chapter 5 Mediation Procedure
+
+### Article 18
+
+Either party directly involved in an incident of sexual harassment may apply to the municipal and county (city) competent authorities for mediation in either a written statement or verbally. Upon awareness of either party’s willingness to reach the mediation during the investigation on the incident of sexual harassment, the government agencies (entities), troops, schools and police agencies shall assist the party in filing with the municipal and county (city) competent authorities for mediation.
+
+Where the concerned party applies for mediation verbally, the municipal and county (city) competent authorities shall take record of statements. In the case of the application filed in writing, the copies shall be prepared according to the number of the opposing party to be served.
+
+During the mediation, the investigation procedure shall continue, unless the victim requests for suspension.
+
+### Article 19
+
+The municipal and county (city) competent authorities shall select 1 to 3 scholars/experts with legal literacy and awareness toward gender equality to serve as mediators of the incident of sexual harassment, within ten days upon acceptance of the application for mediation.
+
+Within twenty days upon selection of the mediators referred to in the preceding Paragraph, the municipal and county (city) competent authorities shall decide the date of mediation, notify the concerned parties or their agents to be present at the site, and serve the duplicates of the written petitions or written statement to the opposing parties. Notwithstanding, an extension of 10 days may be granted upon either party’s request.
+
+### Article 20
+
+The mediators shall proceed with the mediation in person and be prohibited from delegating others to act on their behalf.
+
+Subject to the case, the mediators may conduct any necessary investigation and ask related agencies for assistance, in order to conclude the mediation.
+
+For the mediation, except the verified fees for conducting the inspection the party shall pay, the parties may not be charged any other fees or remuneration under any other reasons.
+
+### Article 21
+
+Where mediation is successfully sustained, the mediation agreement   shall be made in writing, signed, sealed or fingerprinted by the concerned parties and present mediators.
+
+The mediation agreement referred to in the preceding paragraph shall record the following information:
+
+\1. Names, dates of birth, addresses/registered addresses, and ID Nos. of the concerned parties or their legal representatives;
+
+\2. Names of the present mediators;
+
+\3. Causes of mediation;
+
+\4. Contents of the sustained mediation;
+
+\5. Date/month/year of the sustained mediation; and
+
+\6. The agency which makes the decision and its head
+
+The municipal and county (city) competent authorities shall submit the mediation agreement and related data to the jurisdiction court for approval within 10 days after the mediation sustains. Upon approved by the court, except one duplicate thereof which shall be kept on file, the mediation agreement together with the mediation materials shall be remanded to the municipal and county (city) competent authorities and then served to the concerned party via the authorities.
+
+Where the court withholds approval due to the contents of the mediation being violated laws or regulations, contravening public order or good morals, or being impossible to execute the compulsory enforcement for some other reason, the court shall inform the municipal and county (city) competent authorities with the reasons.
+
+If a successful mediation is reached before the conclusion of the grievance case of sexual harassment is made and the intention of withdrawing the grievance, complaint, private prosecution or indictment of the party has been recorded in the mediation agreement, which is approved by the court, the grievance, complaint, criminal prosecution or private prosecution already filed shall be deemed as withdrawn, and the civil action already filed shall be considered concluded accordingly at the time when the successful mediation is reached. The plaintiff may claim refund of two-third of the court fees paid within 3 months from the day of the service of the mediation agreement approved by the court.
+
+Upon the court’s approval of the sustained conciliation, if any, the concerned party is not allowed to file a grievance, criminal prosecution, private prosecution or civil action against the same incident any longer.
+
+### Article 22
+
+Where the concerned party fails to appear on the date of mediation without justified reasons, the mediation shall be presumed to have not been reached. Should the mediators consider that there is still a possibility to reach a mediation, they may reschedule the date of mediation separately.
+
+Where the mediation is not sustained, the municipal and county (city) competent authorities shall issue a certificate of the unsuccessful mediation immediately. Within 10 days upon service of the certificate of an unsuccessful mediation, the victim may apply to the municipal and county (city) competent authorities to transfer the mediation matter to the jurisdictional judicial agency. The effects are as follows respectively:
+
+\1. If a grievance is already filed, the grieving procedure shall apply; otherwise, the grievance shall be deemed filed at the time of initiating the mediation;
+
+\2. If the mediation matter is transferred to a civil court, the court fees for the first instance may be exempted temporarily; and
+
+\3. Where the mediation matter involves the requirements under Paragraph 1 of Article 25 herein, the grievance shall be deemed filed at the time of the application for mediation after the case is transferred to the jurisdiction prosecutor for investigation.
+
+### Article 23
+
+The civil mediation approved by the court shall have the same effect as a binding judgment rendered by the civil court. Regarding the criminal mediation under Paragraph 1 of Article 25 herein, for the monetary payment, other substitutes, or certain amount of securities as the object of the litigation, the mediation agreement may be a ground for execution.
+
+For a successful civil mediation approved by the court, but, which is later disapproved due to the grounds existing for nullifying or revoking the mediation, the concerned party may initiate an action for a nullification declaration to the mediation or for revoking the mediation in the approving court.
+
+For the preceding Paragraph, the concerned party shall initiate it within thirty days after the service of the mediation agreement approved by the court.
+
+The provision of Article 502 of the Code of Civil Procedure and the provision of Paragraph 2 of Article 18 of the Compulsory Enforcement Act shall apply mutatis mutandis to the case provided in Paragraph 2.
+
+### Article 24
+
+The mediation proceeding may not be open to the public.
+
+The mediators and the mediation case handlers shall keep in confidence all of the information with regard to the mediation matter, except that the information has already been disclosed to the public.
+
+## Chapter 6 Penalty
+
+### Article 25
+
+A person who kisses, hugs or touches the bottom, breast, or other physical private parts of another person in such a way that he/she cannot immediately respond or resist shall be sentenced to imprisonment of no more than two years, or detention, or a fine, separately or jointly, of not more than NT$100,000. If the act is committed by means of the power or opportunity as stated in Paragraph 2 of Article 2, the person shall be subject to the punishment prescribed for such offense by increasing it up to one half.
+
+Prosecution for an offense specified in the above Paragraph may be instituted only upon complaint.
+
+### Article 26
+
+Any broadcaster or any television company violating the prohibitions under Paragraph 1 of Article 10 herein shall be subject to a fine of not less than sixty thousand New Taiwan dollars (NT$60,000) and not more than six hundred thousand New Taiwan dollars (NT$600,000) imposed by the authority in charge of relevant enterprises and the competent authority shall order the violator to rectify the violation within a specified time limit. In the event the violator fails to rectify the violation within the required time limit, the competent authority may impose consecutive fines upon the violator for each and every violation until the violation is rectified.
+
+Except for those specified in the preceding Paragraph, in the event of violation of Paragraph 1 or Paragraph 3 of Article 10, authority in charge of relevant enterprises shall  impose a fine on the person in charge and related offenders not less than sixty thousand New Taiwan dollars (NT$60,000) and not more than six hundred thousand New Taiwan dollars (NT$600,000), and may confiscate the items specified in Paragraph 1 of Article 10, or order them to remove the offending content, withdraw the items, or undertake other necessary measures within a specified period of time. Fines may be imposed consecutively in case of failure to comply with the orders when the specified period expires.
+
+In the case where the victim is deceased, the competent authority may opt not to impose a fine prescribed in (either of) the two preceding Paragraphs, if the authority in charge of relevant enterprises, after taking into account and balancing the benefits of maintenance of law and order, maintenance of peace of mind among the public, clarification of misleading information, prevention of problem escalation, as well as other public interests of the society, finds the reporting or disclosure in dispute necessary.
+
+Anyone who violates Paragraph 5 of Article 10 herein shall be subject to a fine between NT$60,000 and NT$600,000 imposed by the municipal and county (city) competent authorities.
+
+Anyone, other than those mentioned in Paragraph 1 or Paragraph 2 of this Article, who violates Paragraph 4 of Article 10 herein, without justification, shall be subject to a fine between NT$20,000 and NT$100,000 imposed by the municipal and county (city) competent authorities.
+
+If there is no person in charge of publicity material, a publication, an Internet source, or any other type of media, or if the person in charge (of the said publicity material, the said publication, the said Internet source, or the said other type of media) is not in a position to supervise the conduct of the responsible perpetrator, the fine prescribed in Paragraph 2 of this Article shall be imposed on the responsible perpetrator.
+
+### Article 27
+
+A person who sexually harasses another person by abusing power shall be fined not less than NT$60,000 but not more than NT$600,000 by the municipal and county (city) competent authorities, after the grievance is found sustained through investigation.
+
+A person who sexually harasses another person in any manners other than abuse of power shall be fined not less than NT$10,000 but not more than NT$100,000 by the municipal and county (city) competent authorities, after the grievance is found sustained through investigation.
+
+The power to impose administrative penalty referred to in the preceding two paragraphs is expired upon the lapse of a period of three years since the victim files the grievance.
+
+### Article 28
+
+A person who violates Paragraph 1 of Article 7 herein shall be fined not less than NT$20,000 but not more than NT$200,000 by the municipal and county (city) competent authorities and required to rectify the misconduct within specific time limit prescribed by the authorities. If the person fails to rectify his/her misconduct within said-noted time limit, said competent authorities may impose fines on the person consecutively per violation.
+
+Anyone who violates Paragraph 2 of Article 7 herein and thereby causes the victim’s interest and right to be impaired shall be subject to a fine between NT$20,000 and NT$200,000 imposed by the municipal or county (city) competent authorities.
+
+### Article 29
+
+Any government agency (entity), troop, school, institution or employer that adopts any discriminative treatment in violation of Paragraph 1 of Article 9 herein shall be fined not less than NT$10,000 but not more than NT$100,000 by the municipal and county (city) competent authorities, and required to rectify the misconduct within specific time limit prescribed by the authorities. If it fails to rectify its misconduct within said-noted time limit, said competent authorities may impose fines on it consecutively per violation.
+
+### Article 30
+
+Any person who evades, interrupts or rejects any investigation or refuses to provide information, without justified reasons, in violation of Article 17 herein, shall be fined not less than NT$10,000 but not more than NT$50,000 by the municipal and county (city) competent authorities, and may be fined consecutively per violation.
+
+## Chapter 7 Supplementary Provisions
+
+### Article 31
+
+The provisions of Articles 7 to 9, Articles 12 to 13, and Articles 28 to 29 herein can be applied to crimes of sexual assault.
+
+The administrative fines mentioned in the previous paragraph is imposed by the competent authorities concerned with sexual assault crime prevention.
+
+### Article 32
+
+Any grievance against sexual harassment already accepted, and any re-appeal case that has not yet been concluded, before the enforcement of this provision as amended on July 31, 2023, and the incident of sexual harassment taking place before the enforcement of the amended provision and the grievance against which is accepted after the enforcement of the amended provision, shall be concluded pursuant to the provisions enforced after the amendment, provided that the effect of the pending procedure, if any, shall remain unaffected.
+
+### Article 33
+
+The central competent authorities shall enact the Enforcement Rules for this Act.
+
+### Article 34
+
+The provisions of the Act shall be enforced as of the date of promulgation, other than Paragraph 2 and Paragraph 3 of Article 7, Articles 14 to 24, Article 27, Paragraph 2 of Article 28, and Article 30 herein, which shall be enforced as of March 8, 2024.
+
+## History
+
+1.Presidential Order No. Hua-Zong-Yi-Yi-Tzu-09400016851 enacting and promulgating a total of 28 Articles on February 5, 2005; to take effect one year from the date of promulgation
+
+2.Presidential Order No. Hua-Zong-Yi-Yi-Tzu-09500005861 enacting amendments to and promulgating amended Articles 18 and 26 on January 18, 2006.
+
+3.Presidential Order No. Hua-Zong-Yi-Yi-Tzu-09800015961 enacting amendments to and promulgating amended Article 1 on January 23, 2009
+
+4.Presidential Order No.Hua-Zong-(1)-Yi-Zi No. 11200069331 enacting amendments to and promulgating amended a total of 34 Articles on August 16,2023.

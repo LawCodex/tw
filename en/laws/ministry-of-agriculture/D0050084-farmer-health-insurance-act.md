@@ -1,0 +1,473 @@
+---
+title: "Farmer Health Insurance Act"
+title_zh: "農民健康保險條例"
+identifier: "D0050084"
+type: act
+law_level: "法律"
+category: "行政＞農業部＞農民輔導目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1989-06-23
+last_amended: 2023-02-08
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0050084"
+retrieved: 2026-10-12
+---
+
+# Farmer Health Insurance Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-agriculture/D0050084-farmer-health-insurance-act.md](../../../zh/laws/ministry-of-agriculture/D0050084-farmer-health-insurance-act.md)) is authoritative.
+
+## CHAPTER I General Provisions
+
+#### Article 1
+
+This Act is enacted in order to maintain the health and increase the welfare of farmers and to promote the stability of rural areas; for any affairs other than prescribed hereinto, other related laws shall apply.
+
+#### Article 2
+
+This Insurance accidents of the farmer health insurance (hereinafter referred to as “this Insurance”) are divided into five categories of procreation, injury, disease, disability, and death; and maternity benefit, medical benefit, and disability benefit as well as funeral allowance shall be offered correspondingly.
+
+#### Article 3
+
+The competent authority of this Insurance refers to the Council of Agriculture, Executive Yuan at the central level, the municipal governments at the municipal level, and the county (city) governments at the county (city) level.
+
+## CHAPTER Ⅱ Insurer, Insured Establishment, and Insured Person
+
+#### Article 4
+
+The Central Bureau of Social Insurance established by the central competent authority is the Insurer of this Insurance. Before the Central Bureau of Social Insurance is established, the Bureau of Labor Insurance shall temporarily deal with the business regarding this Insurance and act as the insurer.
+
+A Farmer Health Insurance Supervisory Commission shall be organized in order to supervise the operation of this Insurance and review the disputes related to this Insurance. In principle, the representatives of the related departments, farmers, and experts shall respectively account for 1/3 of the total number of the commissioners.
+
+The organizational regulations of the Farmer Health Insurance Supervisory Commission and the Regulations on review of the disputes regarding this Insurance shall be prepared by the central competent authority, and then reported to the Executive Yuan for approval and promulgation.
+
+#### Article 5
+
+A member of the farmer association as referred to in Article 12 of the Farmer Association Act who is engaged in agricultural work and has not received the old-aged benefits of other related social insurances may join in this Insurance program as an insured person, and the basic-level farmer association to which he belongs to shall be the insured unit.
+
+If a farmer over 15 years old who is not a member of farmer association as referred to in the preceding paragraph, and engaged in agricultural work and has not received the old-aged benefits of other related social insurances may join in this Insurance program as an insured person, the basic-level farmer association in the household registration shall act as the insured unit.
+
+The members of this Insurance program who have received the old-aged benefits of other related social insurances or who have applied for the old-aged benefits of other related social insurances prior to enforcement of this revised Act on January 30, 2013 may be allowed to continue the coverage of this Insurance program after the amendment; the insured members who have lost their qualifications of the Insurance program due to qualification changes may apply for joining the program in accordance with regulations after the amendment.
+
+The insured members of the farmer association in this Insurance, are still considered qualified for the enrollment in the regulations in Paragraph 1 and Paragraph 2 if through the examination of the insured unit which located in the region where the insured have their household registered after they move their household registrations out from the area of the farmer association or lose their membership due to the alterations of their membership conditions . The effectiveness of the insurance of these members starts from the date when the members take up a new household registration in the area of the farmer association or when the members lose the membership conditions. If these insured members lose their membership due to the alterations of their membership qualifications before November 27, 2008, these members can re-apply for insurance qualification examination to the insured unit which located in the region where the insured have their household registered within two years after the amendments to the Act, promulgated on January 27, 2010, became effective. After the examination, if these members still qualify the provisions prior to the amendments of this Act on January 5, 2010, their insurance qualifications will become effective on the date these members lose their membership. Even the insured persons pass away before his/her application for insurance re-enrollment is presented to the insured establishment which located in the region where the insured have their household registered and the examination of the qualifications is finished, the insured’s family members are allowed to file a membership examination with certificates.
+
+Before the amendment of this Article is promulgated and enforced on November 26, 2008, the insured persons in Paragraph 1 and Paragraph 2 who are deprived of the insured status due to the alteration of the household registration have certainly paid the insurance premium and suffered from the illness within the valid period of insurance coverage and are thus diagnosed as disabled incurred from this illness, are allowed to re-file an application for disability payment before November 27, 2010, exempt from the restrictions in the regulations in Article 36.
+
+The standards for determination of the farmers engaged in agricultural work as referred to in the first and second paragraphs and the regulations on examination of their qualifications shall be prescribed by the central competent authority.
+
+#### Article 5-1
+
+For persons who have collected payments for the elderly under relevant social insurance, in cases in which these are retirement payments under insurance for military personnel, and moreover the person meets any of the following criteria, they may apply to participate in this Insurance under the preceding Article, and shall not be subject to the restrictions under Paragraphs 1 and 2 of that Article that they shall not have received payments for the elderly under relevant social insurance:
+
+\1. Those who are under 50 years of age when they apply to participate in this Insurance.
+
+\2. Those who have not collected lifetime monthly pensions or retirement pay under Subparagraph 2 of Paragraph 1 of Article 23 of the Act of Military Service for Officers and Non-commissioned Officers of the Armed Forces. However, this does not apply to those who are qualified to collect these payments but have not done so.
+
+Persons who have participated in this Insurance under the preceding Paragraph, after withdrawing from this Insurance, if within five years of the day following their withdrawal they rejoin this Insurance under the provisions of the preceding Article, they shall not be limited by the restrictions under Paragraphs 1 and 2 of that Article that they shall not have received payments for the elderly under relevant social insurance.
+
+Persons participating in this Insurance based on the provisions of the preceding two paragraphs shall not collect any payments for the elderly under social insurance other than retirement payments under insurance for military personnel.
+
+#### Article 6
+
+The farmers, except those who should enroll or have enrolled in military servant insurance, civil servant and teacher insurance or labor insurance, should enroll in this insurance as the insured. At the same time, those who are qualified for the national pension insurance may have the choice to enroll in that insurance, exempt from the restrictions related to “those to enroll” or “those already enrolled”, in the regulation in Article 7 in the National Pension Act; those who are yet to enroll in this insurance are considered as already choosing to enroll in the national pension insurance.
+
+Those who have enrolled in this insurance should withdraw from this insurance once they enroll in one of the other insurances mentioned in previous paragraph. However, those who have enrolled in the occupational injury insurance of the labor insurance or those who have enrolled in the labor insurance for engaging in non-agricultural businesses during the period of non-busy seasons for farmers shall not be withdrawn from this insurance.
+
+According to the previous proviso, those who have enrolled in this insurance and the labor insurance or its occupational injury insurance are supposed to choose only one from the two to apply for the insurance payment when one insurance accident occurs and qualifies for the applications for both insurance payments; those who have been withdrawn from this insurance are refunded with the insurance premium paid in advance, exempt from the restrictions in the regulations of paragraph 2 in Article 13.
+
+The standards of paragraph 2 on the engagement of non-agricultural businesses during the period of non-busy seasons for farmers shall be prescribed by the central competent authority.
+
+#### Article 7
+
+In any of the following occasions, an insured person may continue participating in this Insurance:
+
+\1. Those who are recruited to take military service.
+
+\2. Those who are sent to a foreign country for visit or study or to provide service.
+
+\3. Those who have enrolled in this insurance, reach the age of 65 and whose insured time have added up to 15 years, and who haven’t been engaged in the agricultural businesses since they commission all their lands to the designated units of the competent authorities to do the land transfer or the land rent-out.
+
+\4. Those whose land for participation in this Insurance has been expropriated or who have reached agreement on sale of the land to the agency that requires it prior to expropriation, to the point that the land area does not meet the requirements for participation in this Insurance, may continue to be insured for a certain time period. However, for those who, when their land for participation in this Insurance has been expropriated or who have reached agreement on sale, are 65 years of age and have been insured for a total of 15 years shall not be subject to the restriction of the certain period of time for continuing to participate in this Insurance.
+
+With respect to the qualifications of transferees or renters of land and the applicable scale of farmland transferred or rented by units designated by the competent authorities under Subparagraph 3 of the preceding Paragraph, for persons who continue to participate in this Insurance under Subparagraph 4 of the preceding Paragraph, regulations governing their application process, point of time of continued participation, certain time period of continued participation, handling of the termination of their period of continued participation, and other relevant matters shall be stipulated by the central competent authority.
+
+For insured persons who have continued participation in this Insurance under the conditions stipulated in the proviso of Subparagraph 4 of Paragraph 1 prior to the coming into effect of the amendments to this Article of December 7, 2021, in cases in which there are no circumstances which require the person to withdraw from this Insurance after continuing to participate, and whose period of continued participation has not expired prior to the day of the coming into effect of these amendments, these persons shall not be subject to the restriction of a certain period of time for participating in this Insurance.
+
+#### Article 8
+
+Each insured unit shall effect this Insurance and handle other insurance-related affairs for the farmers who meet the provision of Article 5 in its organizational area, and prepare a roll list for the insurer to check.
+
+#### Article 9
+
+The insured unit shall, on the very day when examining this Insurance qualifications of the farmers who belong to the establishment, notify the insured persons whether they are covered by this Insurance or not; and the commencement or termination of the effectiveness of insurance shall be counted from the very day when the notice is given. If the insured unit doesn't give such notice to the insured persons on the very day of examination, it shall compensate for the payment paid by the insured persons in accordance with this Act.
+
+#### Article 9-1
+
+Application forms for effecting or cancellation of this Insurance that are submitted by an insured unit and in which the name is not filled will be rejected. For an application form without the seal of the insured unit or the chairman, or the date of birth or ID card number of the insured person, the insurer shall give a written notice to notify the insured establishment to supplement, and the insured unit shall correct within 10 days commencing from the next day after receipt of the notice.
+
+If the insured unit doesn't correct within the time limit pursuant to the above paragraph, the application will be ignored.
+
+#### Article 10
+
+If the insured person joins in this Insurance once again after having canceled this Insurance before, the originally insured period shall be counted accumulatively.
+
+## CHAPTER Ⅲ Insurance Premium
+
+#### Article 11
+
+The monthly insured amount for this Insurance is fixed at NT$20,400. The premium rate is fixed at 2.55%.
+
+Adjustments to the monthly insured amount and premiums shall be determined by the central competent authorities, taking into account the revenues and expenditures of this Insurance, the basic monthly remuneration of workers, the cumulative rate of increase of the consumer price index as announced by the central authorities for accounting and statistics, and the government’s financial situation, and shall be submitted to the Executive Yuan for approval.
+
+#### Article 12
+
+The insurant shall burden 30% of the premium of this Insurance, and the government shall subsidize for the left 70%.
+
+As for the insurance premium subsidized by the government, in a municipality, the central competent authority shall burden 40% and the municipal government 30%; in a county (city), the competent authority shall burden 60%, and the county (city) government 10%.
+
+#### Article 13
+
+The insured shall pay the insurance premium in advance. The premium shall be paid to the insured unit before the end of May and November every year, and the insured unit shall hand it over to the financial institution designated by the insurer.
+
+All insurance premiums paid to the insurer shall not be refundable except for the consequence of cases which are neither attributable to the insured unit, nor to the insured person.
+
+#### Article 14
+
+Where an insured unit doesn't pay the insurance premium within the time limit specified in the above paragraph, the payment may be postponed for 30 days. In case the establishment still doesn't day after the aforementioned thirty-day postponement expires, a late fee shall be additionally levied at a rate of 0.2% of the payable premium for each day within the period commencing from the next day after expiration and terminating at the day before completion of payment. However, the total amount of the late fee additionally levied may not exceed one time the payable premium.
+
+Where the insurance premium is still not paid after the above-mentioned late fee has been levied for 30 days, the insurer shall raise a lawsuit on the payable insurance premium and late fee against the insured unit to claim the payment. The insurer shall, after the lawsuit is raised and before the insurance premium and late fee is paid off, refuse to offer any payment, unless the proportion of insurance premium burdened by the insured person has been paid to the insured unit.
+
+#### Article 15
+
+Where an insured person doesn't pay the insurance premium according to the provision of Paragraph 1 of Article 13, the payment may be postponed for 30 days. In case the insured person still doesn't pay the premium within the postponed time limit, the insured unit may levy a late fee on the insured person according to the provision of Paragraph 1 of Article 14, and transfer it to the insurer. Where the payment has not been paid within 30 days after the late fee has been levied,when the insured person applies to collect a payment from this Insurance, until the premiums and late fee have been fully paid off, the insurer shall temporarily refuse to make any payment.
+
+The insurer shall, in accordance with law, replevy the insurance payment already received by the insured person for the period in which the insurance premium is not paid.
+
+When the insured person applies to collect a payment from this insurance, if that person still owes insurance premiums or late fees stipulated under Chapter 5-1, until the premiums and late fee have been fully paid off, the insurer shall temporarily refuse to make any payment.
+
+#### Article 15-1
+
+Insurance premium that competent authorities at all levels should bear in compliance with Article 12 shall be given the same payment period as the insurance premium that the insured person should bear.
+
+In case the authorities at all levels don't pay the insurance premium according to the provision mentioned in previous Paragraph, the grace period may be postponed for 30 days. If the authorities at all levels still don't pay the premium within the grace period, the insured unit may levy a extra interest daily before the payment is made, counted with the post office’s interest rate for one-year term deposit.
+
+If the authorities at all levels don’t pay the insurance premium according to the provision mentioned in Paragraph 1, the insurer can report to the central competent authority which shall then transfer this case to the Executive Yuan to have the amount deducted from the subsidies to the authorities. The insurer can also file for compulsory enforcement according to laws.
+
+## CHAPTER Ⅳ Insurance Payment
+
+### Section 1 General Provisions
+
+#### Article 16
+
+Where an insurance accident occurs after the effectiveness of insurance has begun and has not expired yet, the insured person, the beneficiary, or the person paying the funeral expenses may claim the insurance payment according to the provisions of this Act.
+
+#### Article 17
+
+Where an insured person must be hospitalized continuously for diagnosis and treatment after the effectiveness of insurance terminates due to an injury or disease occurred in the effective term, he may enjoy this kind of insurance payment within one year, and shall leave the hospital immediately after it is deemed by a medical institution established or designated by the insurer that it is time the insured person should leave the hospital for recuperation.
+
+#### Article 18
+
+An insured person may not repeatedly claim insurance payment for a same accident.
+
+#### Article 19
+
+Where an insured unit adds this Insurance and receive the insurance payment for a person who doesn't meet the provisions of this Act, the insurer shall replevy the payment in accordance with law, and cancel the qualification of the insured person.
+
+#### Article 20
+
+In any of the following occasion, an insured person may not enjoy the insurance payment:
+
+1.The insurance accident is caused by war, turmoil, or intended crime committed by the insured person.
+
+2.The insured person refuses to be examined by the medical institution established or designated by the insurer without due reasons, or doesn't submit the required certificates; or the beneficiary doesn't submit the required certificates.
+
+3.Legal epidemic, leprosy, stupefacient addiction, beautification surgery, installation of artificial tooth, artificial eye, glasses, or other auxiliary appliances, transportation of patients, special nursing, blood transfusion for non-emergent injury or disease deemed by physician as necessary, registration fee, certification fee, and medical expenses for using equipment that the medical institution doesn't have.
+
+#### Article 21
+
+For the necessity of auditing the insurance payment or reviewing disputes regarding the Insurance, an insured person or the Farmer Health Insurance Supervisory Commission may investigate the Insurance-related documents about the insured person in the insured establishment, the designated medical institution, or other related departments.
+
+#### Article 22
+
+The rights of an insured person, a beneficiary, or a person paying the funeral expenses to receive various insurance payments may not be transferred, countervailed, detained, or used for guarantee.
+
+In cases where the insurer revokes or terminates approval of the insurance payment, and where the already collected insurance payment shall be returned but has not been returned, the insurer may deduct the funds from the insurance payment that is claimed by the party collecting the insurance payment.
+
+#### Article 23
+
+The right of claim for insurance payment shall be eliminated if it is not exercised within two years commencing from the day when the claim becomes effective.
+
+The time limit for the period of effectiveness of the right of claim for insurance payment that has already begun prior to the coming into effect of the amendment to this Article of December 7, 2021, and which has not been completed as of the day of the coming into effect of the amendment, shall, starting from the day of its coming into effect, apply the amended provisions, with the period of effectiveness calculated by combining the periods of effectiveness before and after the coming into effect of the amendment.
+
+### Section 2 Maternity benefit
+
+#### Article 24
+
+In any of the following circumstances, an insured person or his/her spouse may claim the maternity benefit:
+
+1.Childbirth after the insured person has been covered by the Insurance.
+
+2.Premature delivery after the insured person has been covered by the Insurance.
+
+Prior to the coming into effect of the amendment to this Article of December 7, 2021, in cases of childbirth or premature delivery, the provisions for claims for the maternity benefit from prior to the coming into effect of this amendment shall apply.
+
+#### Article 25
+
+The standards for maternity benefit are as follows:
+
+\1. For childbirth or premature delivery, a sum three times the insured amount of the month when the incident occurs shall be paid in a single payment.
+
+\2. For twin birth or above, the sum shall be increased in proportion.
+
+In cases in which the insured person qualifies at the same time to collect procreation payments from relevant social insurance, that person must choose to collect from only one form of insurance.
+
+In cases in which childbirth or premature delivery occur prior to the taking effect of the amendments to these provisions made on January 10, 2023, the standards for their procreation payment that applied before the amendments shall continue to apply.
+
+### Section 3 Medical benefit
+
+#### Article 26
+
+In case of injury or disease except emergent case, the insured persons shall apply to the medical institutions established or designated by the insurer for diagnosis and treatment. Where hospitalization is suggested by the designated medical institution after the process of diagnosis, the patient may apply for hospitalization.
+
+To apply for hospitalization due to a common disease, the accumulated insured time shall be not less than 45 days.
+
+#### Article 27
+
+The scope of payment for outpatient treatment is as follows:
+
+\1. Diagnosis (including examination and consultation)
+
+\2. Medicament or materials for treatment
+
+\3. Disposal, surgery, or treatment.
+
+The insured persons shall burden 10% of the above-mentioned expenses. But the expenses burdened by an insured person may not exceed the maximum prescribed by the central competent authority.
+
+#### Article 28
+
+The scope of payment for hospitalization is as follows:
+
+\1. Diagnosis (including examination and consultation)
+
+\2. Medicament or materials for treatment
+
+\3. Disposal, surgery, or treatment
+
+\4. A half of the accommodation fees within 30 days
+
+5.The supply for farmer insurance sickrooms shall be provided according to the standard for public insurance sickrooms.
+
+The insured persons shall burden 5% of the expenses referred to in Subparagraphs 1, 2, 3, and 5 of the above paragraph. But the expenses burdened by an insured person may not exceed the maximum prescribed by the central competent authority.
+
+Where an insured person chooses a sickroom of a higher grade at his own will, he shall burden the expense prescribed in the above paragraph and the expense beyond that of a farmer insurance sickroom.
+
+The date of and regulations on enforcement of the second paragraph and the second paragraph of Article 27 shall be approved by the Legislative Yuan prior to implementation.
+
+#### Article 29
+
+Where an insured person is hospitalized due to injury or disease for more than one month, the medical institution shall handle the procedure for continuing hospitalization once every month.
+
+Where it is diagnosed by a medical institution established or designated by the insurer that it is the time for the hospitalized insured person to leave for recuperation, the insured person shall immediately leave the hospital; otherwise, he shall burden the expenses required for continuing hospitalization.
+
+#### Article 30
+
+An insured person has the right to freely choose a medical institution established or designated by the insurer for diagnosis and treatment. However, if it is prescribed otherwise in any special provisions, such provisions shall apply.
+
+#### Article 31
+
+Where an insured person is disabled due to injury or disease and has received the disability benefit, he may not apply for hospitalization for the same injury or disease.
+
+#### Article 32
+
+The insurer shall directly pay the expenses required for diagnosis and treatment to the medical institutions established or designated by the insurer, and the insured persons may not apply for insurance payment in cash.
+
+#### Article 33
+
+Where an insured person accepts outpatient service or is hospitalized in a medical institution other than those established and designated by the insurer because he requires immediate treatment due to emergent injury or disease, he shall, within 2 months commencing from the next day after completion of the outpatient service or after leaving the hospital, submit the medical certificates and expense vouchers to the insured unit for claiming insurance payment on the insurer. In case that the expense is more than the standard prescribed in the regulations on the insurer's paying expenses to the designated medical institutions, the excessive proportion shall be burdened by the insured person himself.
+
+#### Article 34
+
+The regulations on designation and management of the designated medical institutions of this Insurance as well as the standard for payment of medical expenses shall be prescribed by the central competent authority together with the central competent authority in charge of health.
+
+#### Article 35
+
+Where a bill for accepting diagnosis or a letter of application for hospitalization produced by an insured unit doesn't meet the provisions prescribed by the insurer on medical payment, or is false, or is used by someone other than the insured, the insured unit shall burden the whole expenses for diagnosis and treatment. However, if it is resulted in by causes not attributable to the insured unit, the insurer may request the insured unit to provide assistance in claiming compensation from the insured person.
+
+Where the diagnosis and treatment provided by a designated medical institution to an insured person is not covered in the scope of medical benefit, the expenses for diagnosis and treatment shall be burdened by the medical institution or the insured person.
+
+### Section 4 Disability benefit
+
+#### Article 36
+
+The insured person can apply for a lump sum disability benefit based on his/her month insured amount for that month and the level of disabled condition and benefits standards, once he/she is diagnosed as permanently disabled and can’t further recover by further treatment by a medical institution established or designated by the insurer for diagnosis and treatment due to injury or disease, if his/her disability is fit for disability benefits standards
+
+A disability payment is not available if the insured person is dead on the date when the Diagnosis Report of Disability for Farmer Health Insurance is issued by the medical institution designated by the insurer.
+
+The types of disability, conditions, levels, payment amount, levels of medical institution issuing the diagnosis report, examination criteria and other standards mentioned in Paragraph 1 shall be stipulated by the central competent authority and central health authority.
+
+#### Article 37
+
+If the insured person originally has a partial disability and the severity worsens or he/she has suffered from additional disability, the insurer shall re-evaluate the level of the worsened or newly added disability. The payment should also be made based on the new disabled level. However, the highest payment amount should be limited to the first level.
+
+In cases of an insured person who originally has a partial disability while his/her insurance is still in effect as mentioned in the preceding Paragraph but has not claimed the disability payment, the insurer shall, based on the level of disability following the increased severity of the disability, calculate and pay out the disability payment based on the standards for disability benefits. However, the highest payment amount should be limited to the first level.
+
+#### Article 38
+
+To determine the application for disabled payment, the insurer is allowed to hire medical experts who have clinical or actual experiences to examine the diagnosis report and verify the case history or other treatment records. If necessary, the insurer is allowed to ask the insured for re-examination and designate a hospital or doctor for the examination.
+
+#### Article 39
+
+Once the insured person receives the disabled payment according to Article 36, the insurer recognizes that the insured person cannot engage in farming activities any more, the effectiveness of the insurance qualification shall be terminated on the date when the Diagnosis Report of Disability for Farmer Health Insurance is issued by the designated medical institution by the insurer.
+
+### Section 5 Funeral and interment Allowance
+
+#### Article 40
+
+Upon the death of an insured person, a funeral and interment allowance 15 times the insured amount of the very month will be offered.
+
+The funeral and interment allowance referred to in the above paragraph shall be received by the person who pays the funeral and interment expenses.
+
+## CHAPTER V Insurance Fund and Financial Sources
+
+#### Article 41
+
+The fund of this Insurance derives from the following sources:
+
+1.The money allocated by the government upon establishment.
+
+2.The balance of the insurance premium and interest incomes minus the expenditure of insurance payment.
+
+3.Late fee.
+
+4.Operating incomes of the fund.
+
+#### Article 42
+
+The fund of this Insurance may be used for the following purposes with the approval of the Farmer Health Insurance Supervisory Commission:
+
+1.Investment in government bonds, treasury bills, and corporate bonds.
+
+2.Deposit in national banks or public-operated banks designated by the central competent authority.
+
+3.Investment approved by the central competent authority and favorable for the income of the fund or for the business of farmer health insurance.
+
+The fund of this Insurance may not be used for any purpose other than described above and for payment of insurance payment, or transferred to another organization or individuals; and the regulations on management and utilization of the fund shall be prescribed by the central competent authority.
+
+The insurer shall report the incomes, expenditures, utilization, and balance of the fund to the central competent authority for announcement every year.
+
+#### Article 43
+
+Every year the insurer shall compile a budget according to a percentage of 5.5% of the annual insurance premium for the funds required for implementing this Insurance. After the budget is approved by the Farmer Health Insurance Supervisory Commission, the funds shall be allocated by the executive departments that deal with the affairs regarding this Insurance before the Central Bureau of Social Insurance is established.
+
+#### Article 44
+
+In case of deficit occurs upon annual settlement, the competent authorities that deal with the affairs regarding this Insurance shall audit and allocate funds to make up for the deficit, and application may be submitted to the central competent authority for subsidization. Upon receipt of the aforementioned application, the central competent authority shall immediately examine the causes of the deficit, and shall adjust the premium rate according to relevant procedure where it is deemed necessary to do so.
+
+## CHAPTER V-1 Farmer’s Occupational Injury Insurance
+
+#### Article 44-1
+
+To ensure the farmers’ occupational injury insurance and the economical compensations, the central competent authority may pilot the farmers’ occupational injury insurance (hereinafter, the “Occupational Injury Insurance”).
+
+Regarding the Occupational Injury Insurance, Bureau of Labor Insurance, MOL shall be the insurer and the basic-level farmer association shall be the insured unit.
+
+The insurant shall burden 60% of the premium of this Occupational Injury Insurance; in a municipality, the central competent authority shall subsidize 20% and the municipal government subsidize 20%; in a county (city), the central competent authority shall subsidize 30%, and the county (city) government subsidize 10%
+
+#### Article 44-2
+
+In cases in which persons apply to join this Insurance starting from the taking effect of amendments to these provisions made on January 10, 2023, those persons shall be considered to be also applying for Occupational Injury Insurance.
+
+The supervision and the review of disputes related to this Occupational Injury Insurance shall be in compliance with requirements under Paragraph 2 and Paragraph 3 of Article 4.
+
+The management and the insurance payment of this Occupational Injury Insurance shall be in compliance with requirements under Paragraph 3 of Article 6, Article 9, Article 14, Article 15-1, Section 1 of Chapter 4, and Article 49-2.
+
+Regulations governing the pilot method, the qualifications of the insured person, scope, insurance premium rate, payment method and its effect, insurance amount, insurance accident types, content of the payment items, restriction conditions, review basis, and other matters related to this Insurance shall be determined by the central competent authority.
+
+#### Article 44-3
+
+In case of deficit regarding the fund upon annual settlement, Occupational Injury Insurance shall be complied with requirements under Article 43 and Article 44.
+
+## CHAPTER Ⅵ-1 Penal Provisions
+
+#### Article 45
+
+Where an insured person receives the insurance payment from this Act by means of cheat or other misconduct, or uses false certificate, report, or statement to declare the expenses of diagnosis and treatment, he/she will be fined a sum two times the received insurance payment or the medical expense, and compensation for damage shall be claimed in accordance with the Civil Code; if criminal liability is involved, the case will be transferred to judicial department for disposal. In this case, the medical expenses already received by a designated medical institution shall be deducted from the expenses receivable.
+
+#### Article 46
+
+Where an insured unit doesn't handle the insurance procedure in accordance with the provisions of this Act, a sum equal to 1/2 of the insurance premium that should be burdened by the insured person will be fined for the period commencing from the day when the establishment should join in the insurance program and terminating at the day before the insurance is effected. In this case, the loss caused to the farmer shall be compensated by the insured unit according to the payment standard prescribed in this Act.
+
+#### Article 47
+
+A farmer who is qualified for joining in the insurance after being examined by the insured unit and doesn't join in this Insurance program will be fined a sum of not less than NT$300 and not more than NT$1,500.
+
+#### Article 48
+
+Where the fine punished under this Act is not paid off within 30 days after the hastening notice is sent to the fined person, the case will be transferred to the court for coercive execution.
+
+#### Article 48-1
+
+The fines stipulated in this Act are for the insurer.
+
+## CHAPTER Ⅶ Supplementary Provisions
+
+#### Article 49
+
+All the accounting books, bills, and operating incomes and expenditures of this Act shall be exempted from tax.
+
+#### Article 49-1
+
+A member of the farmer association who suspends the Insurance program and joins the National Pension Insurance during the period from October 1, 2008 to November 27, 2008 may not be subject to an insured person stipulated in the amendments to Paragraph 1 of Article 5 and Article 6 of the Act on November 26, 2008.
+
+Those who meets one of the following circumstances during the period from October 1, 2008 to January 11, 2013, and meets the provisions of Paragraph 2 or Paragraph 3 of Article 7 of National Pension Act may apply in person for suspending the insurance or tracing back to suspend the insurance within six months after the amendments on January 11, 2013:
+
+1.An insured person who is over 65 years old and has not suspended the Insurance program;
+
+\2. An insured person who is over 65 years old and has suspended the Insurance program on the day before or after becoming 65 years old.
+
+The insurance coverage for the insured person who applies for suspending the insurance or tracing back to suspend the insurance in the preceding paragraph shall be invalidated at 24:00 two days before becoming 65 years old.
+
+#### Article 49-2
+
+The information needed by the central competent authority or by the insurer to confirm that the insured person meets the qualifications to participate in this Insurance shall be provided upon request by the relevant agencies or organizations; these agencies or organizations may not refuse to provide such information without a legitimate reason.
+
+The information acquired by the insurer, the Farmer Health Insurance Supervisory Commission, or the central competent authority under Article 21 and the preceding Paragraph shall be handled with the due care of a good administrator and information security auditing operations shall be practiced. Its storage, handling, and use shall follow the provisions of the Personal Data Protection Act.
+
+#### Article 50
+
+The enforcement rules for this Act shall be stipulated by the central competent authority.
+
+#### Article 51
+
+This Act shall become effective as of July 1, 1989.
+
+The amended articles of this Act become effective as of the promulgation day except Article 36 and Article 37, which were amended and promulgated on January 27, 2010 and went into effect on January 29, 2012, as well as provisions amended and promulgated on June 13, 2018 and Article 5-1 amended and promulgated on December 22, 2021, and provisions amended on January 10, 2023, whose date of coming into effect was left to the Executive Yuan’s discretion.
+
+## History
+
+1.The whole text of 51 articles enacted and promulgated by President Order (78) Hua-Tsung-(1)-Yi-Tzu No.3268 on June 23, 1989
+
+2.Article 4 amended and promulgated by President Order (81) Hua- Tsung-(1)-Yi-Tzu No.2804 on June 10, 1992
+
+3.Articles 3, 4, 12, and 42 amended and promulgated by President Order (89) Hua-Tsung-(1)-Yi-Tzu No.8900147030 on June 14, 2000
+
+4.Articles 39 and 51 amended and Article 9-1 supplemented by President Order Hua-Tsung-(1)-Yi-Tzu No.09100125200 on June 26, 2002; and enforced on the day of promulgation
+
+5.Articles 5, 6 and 7 amended by President Order Hua-Tsung-(1)- Yi-Tzu No.09700250531 on November 26, 2008
+
+6.Articles 2, 5, 31, 36 to 39, and 51 amended and Article 15-1 supplemented by President Order Hua-Tsung-(1)-Yi-Tzu No.09900017941 on January 27, 2010.
+
+7.Articles 5 and 20 amended and Article 49-1 supplemented by President Order Hua-Tsung (1)-Yi-Tzu No.10200017731 on January 30, 2013
+
+8.Article 5 amended and promulgated by President Order Hua- Tsung-(1)-Yi-Tzu No.10400151541 on December 30, 2015
+
+9.Articles 3, 5 to 7, 45, 49, 51 amended and promulgated by President Order Hua-Tsung-(1)-Yi-Tzu No.10700062371 on June 13, 2018; and the name of Chapter 5-1 as well as Article 44-1 to 44-3 was supplemented.
+
+10.The name of Chapter 4, Section 4 amended and promulgated by President Order Hua-Tsung-(1)-Yi-Tzu No.10700143931 on January 2, 2019
+
+11.Articles 7 , 16 , 22 , 23 to 25 , 36 , 37 , 44-2 , 50 and 51 amended and Articles 5-1 , 48-1 , 49-2 supplemented by Presidential Order Hua-Tsung-(1)-Yi-Tzu No. 11000113971 on December 22, 2021
+
+12.Articles 7 , 11 , 15 , 25 , 44-2 and 51 amended by Presidential Order Hua-Tsung-(1)-Yi-Tzu No. 11200009191 on February 8, 2023

@@ -1,0 +1,1047 @@
+---
+title: "Industrial Innovation Statute"
+title_zh: "產業創新條例"
+identifier: "J0040051"
+type: act
+law_level: "法律"
+category: "行政＞經濟部＞產業目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2010-05-12
+last_amended: 2025-05-07
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0040051"
+retrieved: 2026-10-12
+---
+
+# Industrial Innovation Statute
+
+> Translation. The Chinese text ([zh/laws/ministry-of-economic-affairs/J0040051-industrial-innovation-statute.md](../../../zh/laws/ministry-of-economic-affairs/J0040051-industrial-innovation-statute.md)) is authoritative.
+
+## Chapter One - General Provisions
+
+### Article 1
+
+This Statute is enacted for the furtherance of industrial innovation, improvement of the industrial environment, and enhancement of industrial competitiveness.
+
+The term “industries” as used in this Statute shall refer to agricultural, industrial, and service businesses.
+
+### Article 2
+
+The terms used in this Statute are defined as follows:
+
+\1. Company: A company incorporated in accordance with the Company Act.
+
+\2. Limited partnership: A juridical association organized and registered in accordance with the Limited Partnership Act.
+
+\3. Enterprise: A sole proprietorship, partnership, limited partnership, company, or farmers’ organization that has been registered in accordance with the law.
+
+\4. Intangible assets: Assets that do not have physical form but have clearly discernible content, have economic value, and can be directly controlled and disposed of without interference from any other party.
+
+### Article 3
+
+The term “competent authority” as used in this Statute refers to the Ministry of Economic Affairs at the central government level, the special municipality government at the special municipality level, and the county (city) government at the county (city) level.
+
+## Chapter Two - Basic Guidelines
+
+### Article 4
+
+Within one year after the promulgation of this Statute, the Executive Yuan shall put forward an framework for industrial development.
+
+Each central government authority in charge of the industry concerned shall formulate its industrial development direction and industrial development plan, which shall be submitted to the Executive Yuan for approval, and shall be reviewed on a regular basis.
+
+Each central government authority in charge of the industry concerned shall be responsible for promoting the development of the industries under its jurisdiction.
+
+### Article 5
+
+Each special municipality and county (city) government may formulate local industrial development strategies. When formulating such strategies, it shall consult with each central government authority in charge of the industry concerned.
+
+The central government authorities in charge of the industries concerned may provide incentives or subsidies for the special municipality and county (city) government to promote local industrial development.
+
+### Article 6
+
+(deleted)
+
+### Article 7
+
+The central government authorities in charge of the industries concerned shall provide counseling or subsidies to industries that are in difficulty, industries that are on the verge of being in difficulty, traditional industries, and small- and medium-sized enterprises, to help them raise their productivity and the quality of their products; and to help them establish industry-specific country-of-origin marks to certify their products as made in the Republic of China (Taiwan) (the “R.O.C.”).
+
+### Article 8
+
+The Executive Yuan shall undertake comprehensive industry surveys, assessment and analysis with respect to the impact of the domestic and international economic circumstances on the developments and innovations of domestic industries, and shall put forth industry and innovation support plans, and review such plans periodically.
+
+The industry and innovation support plans as referred to in the preceding paragraph shall include special counseling plans for supporting industries that are in difficulty, industries that are on the verge of being in difficulty, traditional industries, and small- and medium-sized enterprises.
+
+## Chapter Three - Subsidies and Counseling for Innovation Activities
+
+### Article 9
+
+The central government authorities in charge of the industries concerned may provide subsidies, incentives or counseling to promote the following matters:
+
+\1. Promoting industrial innovation or research and development (R&D).
+
+\2. Providing counseling relating to industrial technology and industrial upgrading.
+
+\3. Encouraging enterprises to establish innovation or R&D centers.
+
+\4. Assisting in the establishment of innovation or R&D institutions.
+
+\5. Promoting collaboration between industries, academic institutions, and research institutions.
+
+\6. Encouraging enterprises to participate in workforce cultivation in schools.
+
+\7. Ensuring adequate supply of industrial human resources.
+
+\8. Helping local industries innovate.
+
+\9. Encouraging enterprises to use big data and open government data to develop and innovate commercial applications or service models.
+
+\10. Other matters relating to the promotion of industrial innovation or R&D.
+
+The regulations governing the recipients of the subsidies, incentives or counseling, the eligibility criteria, the review standards, the application procedures, the reviewing authority, and other related matters, as referred to in the preceding paragraph, shall be prescribed by the central government authorities in charge of the industries concerned.
+
+### Article 9-1
+
+To promote state-owned enterprises’ innovation or R&D, state-owned enterprises are required to have an R&D budget accounting for a certain percentage of its total expenditure. If the R&D budget of a state-owned enterprise falls short of such a percentage for two consecutive years, the central competent authority shall consult the authority in charge of the state-owned enterprise about setting up a review and adjustment mechanism for such state-owned enterprise.
+
+The percentage of the R&D budget in the total expenditure under the preceding paragraph shall be set by the central competent authority, taking into account the characteristics and scales of the state-owned enterprises after consulting the authority in charge of each such state-owned enterprise.
+
+Unless otherwise provided in the treaties or agreements to which the R.O.C. is a party, a state-owned enterprise may apply a limited tendering procedure to a procurement project for cooperation or commissioned study for innovation or R&D with a value reaching the threshold for public announcement, without being subject to the restrictions under Article 19 or Paragraph 1 of Article 22 of the Government Procurement Act.
+
+The ownership or the right to license others regarding the R&D results generated from the cooperation or commissioned study for innovation or R&D projects conducted by state-owned enterprises under the preceding paragraph may be conferred, in whole or in part, on the entities doing such innovation or R&D, without being subject to the restrictions under the National Property Act.
+
+The R&D results that have been conferred on a public school, public institution (organization) or public enterprise in accordance with the preceding paragraph and their safekeeping, use, revenue, utilization and disposal shall not be subject to the restrictions under Articles 11, 13, 14, 20, 25, 28, 29, 33, 35, 36, 56, 57, 58, 60, or 64 of the National Property Act.
+
+The ownership and utilization of the R&D results and the income generated therefrom as referred to in Paragraph 1 and Paragraph 2 of this Article shall follow the principles of fairness and effectiveness, taking into account the proportion and contribution of capital and service, the nature of the R&D results, potential of application, social benefits, national security, and impacts on the market. Regulations for the objectives, prerequisites, durations, scopes, proportions (in whole or in part), registration, administration, allocation of revenue, recusal, and disclosure of relevant information shall be prescribed by the central competent authority in consultation with the authority in charge of each of such state-owned enterprise.
+
+The preceding six paragraphs shall not apply to a state-owned enterprise under either of the following circumstances:
+
+\1. The enterprise is not a company; or
+
+\2. The company is established to protect depositors’ rights and interests, maintain credit order, and promote the sound development of financial business.
+
+### Article 10
+
+To promote industrial innovation, where a company or limited partnership has not violated any environmental protection, labor safety and health, or food safety and sanitation laws in the past three years, the company or limited partnership may select one of the following incentives for crediting the funds invested by it in research and development against the profit-seeking enterprise income tax payable by it. Once the company or limited partnership selects an incentive, it cannot change its selection, and the creditable amount shall not exceed 30% of the profit-seeking enterprise income tax payable by it in the then-current year.
+
+\1. Up to 15% of the R&D expenses may be credited against the profit-seeking enterprise income tax payable by it in the then-current year.
+
+\2. Up to ten percent of the R&D expenses may be credited against the profit-seeking enterprise income tax payable by it in each of the three years from the then-current year.
+
+The regulations governing the scope of application of the investment credit under the preceding paragraph, the application deadline, the application procedure, the reviewing authority, the implementation period, and the tax credit rate shall be prescribed by the central competent authority in consultation with the Ministry of Finance.
+
+### Article 10-1
+
+For the purpose of optimizing industrial structure to achieve smart transformation and to encourage diversified and innovative applications, where a company or limited partnership has not committed material violation of any environmental protection, labor, or food safety or sanitation laws in the past three years, and has invested in the brand new hardware, software, technology or technical services in connection with brand-new smart machines, introduction of 5th-generation mobile networks, cyber security products or services, artificial intelligence products or services, and energy conservation and carbon reduction for its own use between January 1, 2025 and December 31, 2029, with an expenditure of NT$1 million or more and less than NT$2 billion in the same taxable year, may select one of the following credits against the payable profit-seeking enterprise income tax; once selected, it cannot be changed. The amount of the investment tax credit for each year is limited to 30% of the payable profit-seeking enterprise income tax in the then-current year:
+
+\1. Up to five percent of the expenditure may be credited against the payable profit-seeking enterprise income tax in the then-current year.
+
+\2. Up to three percent of the expenditure may be credited against the payable profit-seeking enterprise income tax in each of the three years from the then-current year.
+
+Where a company or limited partnership is concurrently receiving the investment credit under the preceding paragraph and/or other types of investment credit in the same year, the total amount creditable in the then-current year shall not exceed 50% of the payable profit-seeking enterprise income tax of the then-current year, unless, as stipulated by other applicable laws, the then-current year is the final creditable year and there is no limitation on the creditable amount.
+
+The term “smart machines” under Paragraph 1 refers to smart technology elements that utilize robots, digital management, clicks-and-mortar integration, or additive manufacturing, and having smart functions that produce information visualization, fault prediction, accuracy compensation, automatic parameter setting, automatic control, automatic scheduling, application service software, flexible production, or mixed-model production.
+
+The term “5th-generation mobile networks” under Paragraph 1 refers to the technological elements, equipment (including equipment needed for testing) or vertical application systems related to 5th generation mobile networks that utilize medium frequency/high frequency communications meeting the specifications of Release 15 of the 3rd Generation Partnership Project, large numbers of antenna arrays, network slicing, network virtualization, software-defined networking and edge computing to increase production efficacy or to provide smart services.
+
+The term “cyber security products or services” under Paragraph 1 refers to the hardware, software, technology or technical services used in connection with the safeguard of terminal and mobile devices, maintenance of network security and/or the maintenance of data and cloud security to prevent information and communication system or information from unauthorized access, use, control, disclosure, sabotage, alteration, destruction or other breaches to assure its confidentiality, integrity and availability.
+
+The term “artificial intelligence products or services” under Paragraph 1 refers to the hardware, software, technologies or technical services that use technology elements of machine learning algorithms, deep learning algorithms, large language models or natural language processing to imitate human intelligence for cognition, learning and inference, and can use various types of data on a large scale for various applications such as identification, classification or generation required by different industries, and optimize business operations or manufacturing efficiency.
+
+The term “energy conservation and carbon reduction” under Paragraph 1 refers to the use of low-carbon technology elements, such as energy conservation of public utilities or optimization of manufacturing process, to improve energy efficiency, reduce energy or resource consumption, and thereby reduce greenhouse gas emissions.
+
+A company or limited partnership applying for the investment credit under Paragraph 1 shall submit an investment scheme capable of generating certain effects to the central authority in charge of the industry concerned for approval on a case-by-case basis, and may apply only once in each taxable year.
+
+The regulations governing the scope of applicability, investment schemes capable of generating certain effects, application deadline, application procedure, reviewing authority, tax credit rate, calculation of the total creditable amount in the then-current year, and other related matters for investment credit in smart machines, 5th-generation mobile networks, cyber security products or services, artificial intelligence products or services, and energy conservation and carbon reduction under the preceding eight paragraphs shall be prescribed by the central competent authority in consultation with the Ministry of Finance.
+
+### Article 10-2
+
+To strengthen the international competitive advantage of industries and reinforce domestic industries’ foothold on the global supply chain, a company that engages in technological innovation in the territory of the R.O.C., occupies a key position in the international supply chain, and meets the following conditions may enjoy a tax credit of 25% of the amount that it spends on the forward-looking innovative R&D against its profit-seeking enterprise income tax payable in the then-current year, up to 30% of the amount of the profit-seeking enterprise income tax payable in the then-current year:
+
+\1. The amount of the company’s R&D expenses and the percentage of such expenses to its net operating revenues for the same taxable year reach certain thresholds.
+
+\2. The effective tax rate applicable to the company in the then-current year is not lower than a certain percentage.
+
+\3. The company has not committed any material violation of any environmental protection, labor, or food safety and sanitation laws in the past three years.
+
+Where a company meets the requirements specified in the preceding paragraph and the amount that it spends on the purchase of new machinery or equipment for its own use in advanced manufacturing processes reaches a certain threshold, the company may enjoy a tax credit of five percent of such amount against its profit-seeking enterprise income tax payable in the then-current year, up to 30% of the amount of the profit-seeking enterprise income tax payable in the then-current year.
+
+Where a company has applied and been approved for the investment credit under Paragraph 1, none of its R&D expenditures in the then-current year can enjoy the income tax credits or reductions provided for the purpose of encouraging the R&D under Article 10 or Paragraph 1, Article 12-1 of this Statute and other laws; where a company has applied and been approved for the investment credit under the preceding paragraph, none of its expenditures for the purchase of machinery and equipment in the then-current year can enjoy the income tax credits or reductions for investment in machinery or equipment under the preceding article and other laws.
+
+Where a company has applied and been approved for both the investment credits under Paragraphs 1 and 2, or concurrently enjoys such investment credits and any other investment credits under this Statute or other laws in the same year, the total amount creditable in the then-current year shall not exceed 50% of its profit-seeking enterprise income tax payable in the then-current year, unless, under other laws, the then-current year is the final creditable year and there is no limitation on the creditable amount.
+
+The effective tax rate referred to in Subparagraph 2, Paragraph 2 shall mean the percentage of the amount of the tax payable by a company in the then-current year as calculated pursuant to Paragraph 1, Article 71 of the Income Tax Act, after deducting the tax reductions for the income tax paid on overseas income in the country of origin under the tax laws of that country, the tax reductions for the income tax already paid in the People’s Republic of China (PRC) or any third area on PRC-sourced income, and the investment credits under this Statute and other laws, to its annual income; such percentage shall be 12% for 2023 and 15% from 2024 onwards; however, the percentage for 2024 may be changed to 12% based on the review by the central competent authority in conjunction with the Ministry of Finance of how the international community enforces the Organization for Economic Cooperation and Development’s Global Minimum Corporate Tax; such change shall be subject to the approval of the Executive Yuan before being promulgated by the central competent authority in conjunction with the Ministry of Finance.
+
+The regulations governing the scope of applicability, eligibility requirements, thresholds, application deadline, application procedure, reviewing authority, calculation of the total creditable amount in the then-current year, and other related matters for the investment credits under the preceding five paragraphs shall be determined by the central competent authority in conjunction with the Ministry of Finance.
+
+### Article 11
+
+(deleted)
+
+## Chapter Four - Circulation and Utilization of Intangible Assets
+
+### Article 12
+
+To promote the circulation and utilization of the results of innovation or R&D, when sponsoring, commissioning certain entities to do so, or funding innovation or R&D projects, the central government authorities in charge of the industries concerned and the state-owned enterprises subordinate to such authorities shall require the entities conducting such innovation or R&D to devise the strategy for applying such innovation or R&D results for business operation, substantively analyze the intellectual property rights, ensure the quality of the intellectual property, give comprehensive protection to the results, and evaluate circulation and utilization methods.
+
+When the intellectual property under the preceding paragraph is circulated or utilized, it shall be valuated by an institution or personnel who are qualified for intangible asset valuation or registered in accordance with Article 13, and the valuation data shall be recorded in the information service system designated by the central competent authority.
+
+The regulations governing the scope of application, promotion, administration measures, and other matters regarding the innovation and R&D under Paragraph 1 of this article shall be prescribed by the central competent authority.
+
+### Article 12-1
+
+To promote the circulation and application of the results of innovation or R&D, where a domestic individual, company or limited partnership receives revenue from assignment or licensing of his/her/its intellectual property rights in his/her/its own R&D results, up to 200% of his/her/its R&D expenditures in the then-current year may be deducted from the amount of his/her/its taxable income up to the amount of the above revenue in that year, and, in the case of a company or limited partnership, the company or limited partnership may choose between the tax credit against its R&D expenditures under this paragraph and the investment tax credit under Article 10.
+
+Where a domestic individual, company or limited partnership assigns or grants a license to use his/her/its intellectual property rights in his/her/its own R&D results to a company, the individual, company or limited partnership may opt to exclude the new shares acquired as the consideration from his/her/its taxable income in the year such shares are acquired. Once a choice of option is made, it cannot be reversed. However, after the individual, company or limited partnership has opted to exclude such new shares from his/her/its taxable income in the year such shares are acquired, if the shares are transferred or are delivered by book-entry transfer to an account with a securities depository enterprise, the entire transfer price, the market price of the shares at the time of gift or distribution as estate, or the market price of the shares on the date of book-entry transfer less the expenses or costs incurred for acquisition of the shares but not yet recognized, shall be included in the revenue for the year of transfer or book-entry transfer and be declared for assessment of income tax.
+
+Where a domestic individual has opted to exclude the new shares acquired as the consideration from his/her taxable income in the year such shares are acquired in accordance with the preceding paragraph, and has held such shares and provided services regarding application of the intellectual property rights under the preceding paragraph to the company issuing those shares accumulatively for two years, if the shares are transferred or are delivered by book-entry transfer to an account with a securities depository enterprise, and the entire transfer price, the market price of the shares at the time of gift or distribution as estate, or the market price of the shares on the date of book-entry transfer is higher than the acquisition price of the shares, the acquisition price of the shares shall be included in the revenue for the year of transfer or book-entry transfer and be declared for assessment of income tax. Where a domestic individual has not declared the price of the shares for assessment of income tax or has declared the price for assessment of income tax but cannot provide documentary proof of the acquisition price of the shares, and the information is not available from the taxation authority, the above provisions shall not apply.
+
+The transfer under the preceding two paragraphs refers to purchase and sale, transfer as a gift, distribution as estate, cancellation of shares as a result of capital reduction, corporate liquidation, or change in ownership due to any other causes.
+
+Where an individual's income is calculated in accordance with Paragraph 1, 2 or 3 hereof but is not declared or proved by any documents, the sum of his/her costs and necessary expenses shall be calculated at 30% of his/her revenue, the transfer price, the market price of the shares at the time of the gift or distribution as estate, or the market price of the shares on the date of book-entry transfer, and be deducted from the individual's taxable income.
+
+The incentives under Paragraph 2 are available only if the company issuing shares submits the required documents and information in the prescribed format to the central government authority in charge of the industry concerned for certification in the year it accepts contributions in exchange for its shares. A copy of the results of the certification shall also be delivered to the taxation authority at the place where the company is located.
+
+Where a domestic individual intends to apply for the tax benefit under Paragraph 3, the company issuing those shares shall submit documents prepared in the prescribed format to explain the services regarding application of the intellectual property rights provided by the individual to the company to the central government authority in charge of the industry concerned for recognition when it applies for the certification under the preceding paragraph. In the year when the individual has held the shares and provided services regarding application of the intellectual property rights to the company for two years, the company shall submit documents proving the individual’s shareholding and services mentioned above to the central government authority in charge of the industry concerned for recordation. A copy of the proof shall be delivered to the taxation authority at the place where the company is located.
+
+The regulations governing the scope of application of the R&D expenditures deductible from the taxable income under Paragraph 1, the application deadline, the application procedure, the reviewing authority, and other related matters shall be prescribed by the central competent authority in consultation with the Ministry of Finance.
+
+The scope of the intellectual property rights in the R&D results under Paragraphs 1 and 2, and the formats, the application deadlines and procedure, and the required documents under Paragraphs 6 and 7 shall be prescribed by the central competent authority.
+
+The regulations governing the procedure for deferred payment and assessment on shares acquired with the transferred or licensed intellectual property rights in R&D results under Paragraphs 2 and 3, the documents to be submitted, and other related matters shall be prescribed by the Ministry of Finance.
+
+### Article 12-2
+
+Where a domestic academic or research institution assigns the intellectual property rights resulting from its R&D achievements and vested in it to a company or licenses the company to use such rights in accordance with Paragraph 1, Article 6 of the Fundamental Science and Technology Act, and acquires shares in the company in return, and distributes such shares to the domestic creator of such intellectual property rights in accordance with Paragraph 3, Article 6 of the Fundamental Science and Technology Act, such domestic creator may opt to exclude the new shares so acquired from his/her income taxable in the year such shares are acquired. Once such option is chosen, it cannot be reversed. However, after the creator has opted to exclude such new shares from his/her income taxable in the year such shares are acquired, if the shares are transferred or are delivered by book-entry transfer to an account with a securities depository enterprise, the entire transfer price, the market price of the shares at the time of transfer as a gift or distribution as estate, or the market price of the shares on the date of book-entry transfer shall be included as the creator’s salary for the year of transfer or book-entry transfer and be declared for assessment of income tax in accordance with the Income Tax Act.
+
+Where a domestic creator has opted to exclude the acquired new shares from his/her taxable income in the year such shares are acquired in accordance with the preceding paragraph, and has held such shares and worked and carried out research and development at an industry or an academic or research institution within the territory of the R.O.C. accumulatively for two years, if the shares are transferred or are delivered by book-entry transfer to an account with a securities depository enterprise, and the entire transfer price, the market price of the shares at the time of transfer as a gift or distribution as estate, or the market price of the shares on the date of book-entry transfer is higher than the market price of the shares at the time they are acquired by the creator, the market price of the shares at the time they are acquired by the creator shall be included as the creator’s revenue for the year of transfer or book-entry transfer, and be declared for assessment of income tax. The aforesaid provision shall not apply if the domestic creator has not declared the price of the shares for assessment of income tax or has declared the price for assessment of income tax but cannot provide any supporting documentation to prove the market price of the shares at the time they are acquired by the creator, and the taxation authority cannot verify the price, either.
+
+The transfer under the preceding two paragraphs refers to purchase and sale, transfer as a gift, distribution as estate, cancellation of shares as a result of capital reduction, corporate liquidation, or change in ownership due to any other causes.
+
+Where a domestic academic or research institution distributes shares to a domestic creator in accordance with Paragraph 1 of this article and desires to apply for the incentive under that paragraph, it shall submit duly formatted documents to the competent authority specified in Paragraph 3, Article 6 of the Fundamental Science and Technology Act for approval. A copy of the decision of the competent authority shall be served on the company issuing the shares and the taxation authority at the place where the company is located.
+
+The regulations governing the scope of the intellectual property rights derived from an academic or research institution’s R&D results in accordance with Paragraph 1 and vested in the institution in accordance with Paragraph 1, Article 6 of the Fundamental Science and Technology Act, the recognition of the shares distributed to domestic creators in accordance with Paragraph 3, Article 6 of the Fundamental Science and Technology Act, the recognition of working in and carrying out research and development at an industry or an academic or research institution within the territory of the R.O.C. under Paragraph 2, the formats of the documents, the application procedure and the required documents under the preceding paragraph, and other related matters shall be prescribed by the Ministry of Science and Technology.
+
+The regulations governing the procedure for declaring deferral of the income tax payable for the shares acquired by the domestic creators under Paragraphs 1 and 2, the documents to be submitted, and other related matters shall be prescribed by the Ministry of Finance.
+
+### Article 13
+
+To assist enterprises in materializing the value of intangible assets derived from industrial innovations, the central competent authorities shall invite the relevant agencies to attend to the following matters:
+
+\1. Formulation and implementation of the valuation criteria.
+
+\2. Establishment and management of valuation databases.
+
+\3. Cultivation and training of valuation personnel, and setting up the mechanisms for registering and managing valuation personnel and institutions.
+
+\4. Promotion of investment in or financing with intangible assets, securitization transactions, insurance, completion guarantee, and other matters.
+
+Each central government authority in charge of the industry concerned may provide subsidies to certified or registered intangible asset valuation personnel and institutions for their valuation activities in accordance with the law. The valuation personnel and institutions receiving the subsidies shall register the valuation data from their valuation projects subject to the subsidies on the information service systems designated by the central competent authority.
+
+The regulations governing the formulation and application of the valuation criteria under Subparagraph 1, Paragraph 1, the measures for promoting the establishment and management of the databases under Subparagraph 2, Paragraph 1, and other related matters shall be prescribed by the central competent authority in consultation with the financial authorities and other relevant agencies.
+
+The regulations governing the scope and conditions of the registration of valuation personnel and institutions under Subparagraph 3, Paragraph 1, the method of applying for such registration, the matters to be reviewed, such personnel’s and institutions’ obligation to cooperate, the management measures, the revocation and invalidation of the registration, and other relevant matters shall be prescribed by the central government authority in consultation with the relevant agencies.
+
+The matters to be promoted under Subparagraph 4, Paragraph 1 shall be prescribed by the central competent authority in consultation with the financial authorities and other relevant agencies.
+
+### Article 14
+
+To encourage enterprises to make use of intellectual property to create operational benefits, the central government authorities in charge of the industries concerned may assist enterprises in the establishment of systems for the protection and management of intellectual property.
+
+### Article 15
+
+To improve the efficiency of the circulation and utilization of intellectual property, the central government authorities in charge of the industries concerned may establish service mechanisms to provide the following services:
+
+\1. Establishment of information service systems to provide information relating to the circulation of intellectual property.
+
+\2. Provision of information relating to value addition and combination of intellectual property.
+
+\3. Implementation of activities relating to the promotion and marketing of intellectual property.
+
+\4. Assistance in the development of the intellectual property services industry.
+
+\5. Providing counseling to industries on financing through the use of intellectual property.
+
+\6. Other applications of intellectual property.
+
+### Article 16
+
+To encourage industry to develop brands, the central government authorities in charge of the industries concerned may provide incentives, subsidies, or counseling for enterprises that take part in international exhibitions and trade fairs, explore sales opportunities, or undertake brand development with the aim of developing international brands and raising their international image.
+
+The regulations governing the recipients of the incentives, subsidies, or counseling as referred to in the preceding Paragraph, the eligibility criteria, the review standards, the application procedures, the reviewing authority, and other relevant matters shall be prescribed by the central government authorities in charge of the industries concerned.
+
+## Chapter Five - Industrial Human Resource Development
+
+### Article 17
+
+To strengthen the availability of the human resources required for industrial development, the Executive Yuan shall designate an agency to establish mechanisms to coordinate the development of industrial human resources and promote the following:
+
+\1. Coordination with the central government authorities in charge of the industries concerned to conduct surveys and projections on the supply and demand of human resources for key industries.
+
+\2. Integration of supply and demand data relating to industrial human resources, and formulation of industrial human resource development strategies.
+
+\3. Coordination of matters relating to the promotion of industrial human resources development.
+
+\4. Promotion of planning for collaboration between industries, academic institutions, research institutions, and vocational training institutions.
+
+### Article 18
+
+Unless otherwise provided for by law, the central government authorities in charge of the industries concerned may conduct the following matters in line with the needs of industrial development:
+
+\1. Formulating occupational competency standards for industrial human resources.
+
+\2. Promoting capability assessment of industrial human resources.
+
+\3. Promoting enterprises’ adoption of, private participation in, and international mutual recognition of the matters under the preceding two subparagraphs.
+
+The regulations governing the mechanisms for capability assessment of industrial human resources, the quality standard, the issuance, extension, replacement, reissuance, revocation and invalidation of professional capability assessment certificates, and recognition and revocation of private capability assessment as referred to in Subparagraphs 2 and 3 of the preceding paragraph, and other relevant matters shall be prescribed by the central government authorities in charge of the industries concerned.
+
+### Article 19
+
+To strengthen the resources for the cultivation of industrial human resources, the central government authorities in charge of the industries concerned may provide counseling to support the development of industrial human resources cultivation institutions or organizations, and to introduce international human resources cultivation institutions into the R.O.C.
+
+### Article 19-1
+
+Where a company’s employee acquires stock-based employee compensation, the employee may opt to exclude up to an annual total of NT$5 million worth of the acquired shares from his/her annual taxable income as calculated at the market price prevailing in the year such shares are acquired or the year of the day the acquired shares become disposable. Once an option is chosen, it cannot be reversed. However, where an employee has opted to exclude the acquired shares from the annual taxable income in the year such shares are acquired or the year of the day such shares become disposable, when the shares are transferred or book-entry transferred to an account of a securities depository enterprise, the entire transfer price, the market price of the shares at the time of gift or distribution as estate, or the market price of the shares on the date of book-entry transfer shall be deemed the employee’s revenue for the year of transfer or book-entry transfer, and be declared for assessment of income tax in accordance with the Income Tax Act.
+
+Where the employee has opted to exclude a certain value of the acquired shares from his/her annual taxable income in the year such shares are acquired or the year of the day the acquired shares become disposable in accordance with the preceding paragraph, and has held the shares and continued to work at the company accumulatively for two years from the day the shares are acquired, if the shares are transferred or book-entry transferred to an account of a securities depository enterprise, and the entire transfer price, the market price of the shares at the time of gift or distribution as estate, or the market price of the shares on the date of book-entry transfer is higher than the market price on the day the shares are acquired or become disposable, the market price on the day the shares are acquired or become disposable shall be included in the revenue for the year of transfer or book-entry transfer, and be declared for assessment of income tax in accordance with the Income Tax Act. However, if the employee has not declared the price of the shares for assessment of income tax or has declared the price for assessment of income tax but cannot provide documentary proof of the market price on the day the shares are acquired or become disposable, and the information about the market price on the day the shares become disposable is not available from the taxation authority, the above provisions shall not apply.
+
+Where an employee of the preceding paragraph has continued to work at the company for two or more years accumulatively, his/her years of service may be combined with the years of service with any of the following companies:
+
+\1. A company over 50% of whose total issued voting shares is held or over 50% of whose total capital is contributed by the company granting the stock-based employee compensation.
+
+\2. A company that holds over 50% of the total issued voting shares or contributes over 50% of the total capital of the company granting the stock-based employee compensation.
+
+A company employee as referred to in the preceding three paragraphs shall be a person described in one of the following subparagraphs and not be a director or a supervisor of the company granting the stock-based employee compensation:
+
+\1. An employee of the company that gives stock-based compensation to its employees.
+
+\2. An employee of a company over 50% of whose total issued voting shares or total capital is held or contributed by the company granting the stock-based employee compensation in accordance with the Company Act or the Securities and Exchange Act.
+
+\3. An employee of a company that holds over 50% of the total issued voting shares or contributes over 50% of the total capital of the company granting the stock-based employee compensation in accordance with the Company Act or the Securities and Exchange Act.
+
+The stock-based employee compensation under Paragraph 1 refers to shares issued as employee compensation, employee stock options at cash capital increase, shares purchased-back and issued to employees, share subscription warrants issued to employees, and new restricted shares issued to employees.
+
+Transfer under Paragraphs 1 and 2 refers to change in the ownership of shares as a result of sale, gift, distribution as estate, cancellation of shares for capital reduction, company liquidation or other causes.
+
+To be eligible for the incentive under Paragraph 1 to Paragraph 3, the company granting the stock-based employee compensation shall, in the year its employees acquire stock-based employee compensation or the year of the day the acquired shares become disposable, file employees' choices of tax deferral and other related matters in the prescribed formats with the central government authority in charge of the industries concerned for recordation, with copies of the submissions delivered to the taxation authority at the place where the company is located. The formats for filing the above matters shall be prescribed by the central competent authority.
+
+Where a company’s employee is subject to Paragraph 2 or 3, the company granting the stock-based employee compensation to the employee shall, in the year when the employee has held the shares and continued to work at the company for two years continuously, submit documents proving that the employee has held the shares and continued to work at the company continuously for two or more years accumulatively to the central government authority in charge of the industry concerned for recordation. A copy of the proof shall be delivered to the taxation authority at the place where the company is located.
+
+The regulations governing the procedure for declaring deferred income on the stock-based employee compensation under Paragraphs 1 through 3, setting of the date of acquisition of the stock and the day the stock becomes disposable, calculation of the annual total of NT$5 million worth of the acquired shares, determination of the market price, documents required for submission, and other related matters shall be prescribed by the Ministry of Finance.
+
+## Chapter Six - Promoting Investment in Industry
+
+### Article 20
+
+To promote investment, the central competent authority shall be responsible for the following matters:
+
+\1. Establishment of an inter-ministerial coordination mechanism.
+
+\2. Provision of consultation and assistance with respect to investment procedures and relevant matters.
+
+\3. Promotion and coordination of major investment plans.
+
+\4. Consultation and assistance with regard to other matters in furtherance of investment.
+
+### Article 21
+
+To encourage industries to use international resources, the central government authorities in charge of the industries concerned may provide appropriate assistance and counseling with respect to overseas investment or international technology collaboration.
+
+The regulations governing the recipients of assistance and counseling with respect to the overseas investment and technology collaboration as referred to in the preceding paragraph, the eligibility criteria, the review standards, the application procedures, the reviewing authority, and other relevant matters shall be prescribed by the central government authorities in charge of the industries concerned.
+
+### Article 22
+
+Companies or limited partnerships wanting to undertake any of the following types of overseas investment shall apply for approval from the central competent authority before making the investment:
+
+\1. Investment in a certain country or region.
+
+\2. Investment involving a certain industry or technology.
+
+\3. Investment reaching a certain amount.
+
+Companies or limited partnerships wanting to undertake overseas investment other than the types specified above shall report to the central competent authority after the investment has been made.
+
+When a company or limited partnership applies for investment approval in accordance with Paragraph 1 and the central competent authority determines, after consulting with the relevant competent authorities, that any of the following circumstances apply, the central competent authority may refuse to approve the investment in whole or in part or approve it with additional conditions:
+
+\1. It affects national security.
+
+\2. It has a negative impact on national economic development.
+
+\3. It affects the government's compliance with international treaties or agreements to which it is a party.
+
+\4. The company or limited partnership applying for the investment has violated labor-related regulations and has caused major labor disputes that have not yet been resolved.
+
+If the operation of the overseas investee is under any of the circumstances specified in the preceding paragraph after a company or limited partnership has made the overseas investment under Paragraph 1 or 2 above, the central competent authority may order it to take certain corrective measures; in serious cases, it may order the withdrawal of the investment.
+
+The regulations governing the scope of the certain country, region, industry, technology and amount, the methods used to make overseas investment, the types of investment, and the application procedures referred to in Paragraph 1, the information to be reported and the timeframe for submitting the report referred to in Paragraph 2, the certain corrective measures referred to in the preceding paragraph, and other relevant matters shall be prescribed by the central competent authority after consulting with the relevant competent authorities.
+
+### Article 23
+
+To attract funds back for investment in the R.O.C., the central competent authority may introduce measures to help investors obtain land for industrial use as an incentive for such investments.
+
+### Article 23-1
+
+To help innovative startups develop, a venture capital enterprise as referred to in Article 32, incorporated between January 1, 2025 and December 31, 2029 in accordance with the Limited Partnership Act meeting the requirements of one of the following subparagraphs, and from the second year of its establishment, using each year’s funds equal to at least 50% of the aggregate investment amount substantially received in that year within the territory of the R.O.C. or investing such funds in foreign companies conducting their substantial operational activities within the territory of the R.O.C. in accordance with the R.O.C. government’s policy as approved by the central competent authority on a yearly basis, is eligible for the tax benefit under Paragraph 3:
+
+\1. In the year of establishment and the second year: The total capital to be contributed in accordance with the limited partnership agreement reaches NT$150 million as of the last day of the respective year.
+
+\2. In the third year of establishment: The aggregate capital contribution substantially received by the venture capital enterprise reaches NT$50 million as of the last day of the year, and the accumulated sum invested by it in innovative startups accounts for 50% or more of the total capital contribution received by the enterprise in that year, or reaches NT$200 million but not less than 20% of the total capital contribution received by the enterprise in that year.
+
+\3. In the fourth year of establishment: The aggregate capital contribution substantially received by the venture capital enterprise reaches NT$100 million as of the last day of the year, and the accumulated sum invested by it in innovative startups accounts for 50% or more of the total capital contribution received by the enterprise in that year, or reaches NT$300 million but not less than 30% of the total capital contribution received by the enterprise in that year.
+
+\4. In the fifth year of establishment: The aggregate capital contribution substantially received by the venture capital enterprise reaches NT$150 million as of the last day of the year, and the accumulated sum invested by it in innovative startups accounts for 50% or more of the total capital contribution received by the enterprise in that year, or reaches NT$400 million but not less than 40% of the total capital contribution received by the enterprise in that year.
+
+Where an enterprise having been eligible for the tax benefit under Paragraph 3 subsequently goes to liquidation, the enterprise may be exempt from the restrictions under the preceding paragraph and remains eligible for the tax benefit under Paragraph 3 during liquidation.
+
+Within ten years from the fiscal year of establishment, an enterprise conforming to Paragraph 1 may calculate its each year’s total income in accordance with Article 24 of the Income Tax Act, and calculate each partner’s profit-seeking income according to the earning distribution proportion under Paragraph 2, Article 28 of the Limited Partnership Act, and the partner may be taxed or exempt from income tax on such income in accordance with the Income Tax Act; Paragraphs 4 and 5, Article 15 of the same Act do not apply to partners who are individuals. An individual or a partner in a profit-seeking enterprise whose head office is not within the territory of the R.O.C. is exempt from income tax regarding gains derived from securities transactions according to Article 4-1 of the Income Tax Act. When the earnings are distributed to a partner by an enterprise subject to this paragraph, such earnings shall not be counted as the partner’s income.
+
+Under special circumstances, an enterprise eligible for the tax benefit under the preceding paragraph may, three months before the expiration of the time limit, file a special request for the central competent authority’s approval of a one-time extension of the time limit for exemption under that paragraph for not more than five years.
+
+An enterprise eligible for the tax benefit under Paragraph 3 shall, during the period of eligibility under Paragraph 3, file annual income tax returns, and current final reports on total business income or income earned from liquidation in the formats prescribed by the Ministry of Finance within the time limits set forth in Paragraph 1 of Article 71, and Paragraphs 1 and 2 of Article 75 of the Income Tax Act, and not be required to calculate or pay the payable tax; it shall not be subject to the proviso of Paragraph 1, Article 39 of the Income Tax Act regarding deduction of losses, Paragraph 1 of Article 42 of the same Act regarding exclusion of earnings from reinvestment for the purpose of calculating taxable income, or provisions for any other tax incentives in this Statute or other laws; in addition, it shall not be required to pay additional profit-seeking income tax on undistributed surplus earnings under Article 66-9 of the same Act, or declare or pay the additional income tax on retained earnings under Paragraph 1 of Article 102-2 of the same Act, without being subject to the Income Basic Tax Act.
+
+An enterprise eligible for the tax benefit under Paragraph 3 may calculate the withholding tax distributable to each partner in a year out of the amount of tax withheld from the enterprise’s income in that year according to the earning distribution proportion under Paragraph 2, Article 28 of the Limited Partnership Act. The withholding tax already paid may be offset against the income tax payable by the partner. An enterprise eligible for the tax benefit under Paragraph 3 shall, before the deadline for filing the income tax return, or the current final report on total business income or income earned from settlement or liquidation for each year, issue to each partner a certificate in the document format prescribed by the Ministry of Finance indicating the partner’s income calculated in accordance with Paragraph 3 and the above-mentioned withholding tax distributable to the partner, and attribute such income to the partner’s income for the year in which the settlement date of the enterprise’s annual accounts, the day for filing its final income tax return for the current period, or the completion date on which its liquidation process falls.
+
+Where a partner receiving income under Paragraph 3 is an individual not residing in the R.O.C. or a profit-seeking enterprise having its head office outside the territory of the R.O.C., the enterprise subject to Paragraph 4 shall be considered the income tax withholder. The income tax shall be withheld from the taxpayer’s income according to the applicable withholding tax rate before the deadline for filing the income tax return, or the current final report on total business income or income earned from liquidation for the current year and shall be all paid to the national treasury within 10 days after the deadline passes. Withholding certificates proving such tax payment shall be issued to the partners after the certificates have been filed with and verified by the taxation authority. If there is a national holiday that lasts three days or more during the 10-day period beginning on the day immediately following such due date, the period for paying the tax withheld, filing the withholding certificates for verification, and issuing the certificate will be extended by five days. Where tax has been withheld from the partner’s income in accordance with the preceding paragraph, the withheld amount shall be deducted from the tax amount payable by the partner.
+
+To be eligible for the tax benefit under Paragraph 3, an enterprise shall opt for the eligibility for the tax benefit before the end of February in the next year after its establishment. Once an option is chosen, it cannot be reversed. During the period of eligibility, if the central competent authority finds that the enterprise does not comply with Paragraph 1, the enterprise shall no longer be eligible for the tax benefit under Paragraph 3 and shall pay tax in accordance with the Income Tax Act and the Basic Income Tax Act from the year it loses eligibility.
+
+An innovative startup under Paragraph 1 refers to a company incorporated in accordance with the Company Act or a foreign company conducting its substantial operational activities within the territory of the R.O.C., and having been incorporated for less than five years when an enterprise eligible for the tax benefit under Paragraph 3 acquired new shares issued by the company.
+
+A foreign company conducting its substantial operational activities within the territory of the R.O.C. under Paragraph 1 or the preceding paragraph refers to a company incorporated in accordance with the law of a foreign country, having a subsidiary or branch office in the R.O.C, and recognized by the central competent authority as meeting the following requirements:
+
+\1. The person who makes significant decisions in business management, financial management, and personnel management for the company is an individual residing in the R.O.C. or a profit-seeking enterprise having its head office within the territory of the R.O.C., or the place where such significant decisions are made is in the R.O.C.
+
+\2. The financial statements, records of accounting books, minutes of meetings of the board of directors or minutes of meetings of the shareholders are prepared or stored within the territory of the R.O.C.
+
+\3. Major business activities are carried out in the R.O.C.
+
+The regulations for calculating the actual received capital contributions and the aggregate investment amount under Paragraph 1, the funds used within the territory of the R.O.C. or invested in foreign companies conducting their substantial operational activities within the territory of the R.O.C., the proportion of the funds so used or invested, the extent of compliance with the R.O.C. government’s policy, the calculation of the percentage of the accumulated sum invested in innovative startups out of the actual received capital contributions received by a limited partnership, and the application and reviewing procedures under Paragraph 1; the special circumstances and the procedure for applying for extension of the time limit for exemption under Paragraph 4; the regulations for identifying foreign companies conducting substantial operational activities within the territory of the R.O.C. under the preceding paragraph, and required supporting documents; and other relevant matters shall be prescribed by the central competent authorities in consultation with the Ministry of Finance.
+
+The regulations for calculation of the income of enterprises subject to Paragraph 3 and the procedure for declaring such income, the tax-withholding procedure under Paragraph 7 and other related matters shall be prescribed by the Ministry of Finance; the income tax withholding rates under Paragraph 7 shall be set by the Ministry of Finance and submitted to the Executive Yuan for approval.
+
+### Article 23-2
+
+Where an individual invests at least NT$500,000 in cash in one year in domestic innovative startups that have been incorporated for less than five years and identified by the central government authority in charge of the industry concerned as high-risk innovative startups, and acquires and holds the new shares issued by the company for three years, up to 50% of the investment may be excluded from the individual’s consolidated income for the year in which the third anniversary of such shareholding falls.
+
+The amount of investment to be excluded from an individual’s consolidated income under the preceding paragraph is limited to NT$5 million in total in a given year, and the exclusion of investments in high-risk startups that are not recognized by the central competent authority as key industries for national development is limited to NT$3 million in a given year.
+
+The regulations governing the qualifications of the individuals, the scope and qualifications of the high-risk innovative startups, the scope and identification procedures for key national development industries, the calculation of the exclusion limit, the application deadline, the application procedure, the calculation of the shareholding period, and the reviewing authority under the preceding two paragraphs shall be prescribed or designated by the central competent authorities in consultation with the Ministry of Finance.
+
+### Article 23-3
+
+To encourage profit-seeking enterprises to use their earnings to make substantial investment or upgrade production technology or the quality of products or services, if a company or limited partnership uses a certain amount of its undistributed earnings to construct or purchase buildings, software or hardware equipment, or technology for use in production or operation as needed for operation of its business or ancillary business within three years from the year after such earnings are derived, such investment amounts may be deducted from the undistributed earnings in calculation of the current year’s undistributed earnings for assessment of additional profit-seeking enterprise income tax payable on undistributed earnings from the year 2018 under Article 66-9 of the Income Tax Act.
+
+When a company or limited partnership eligible for the tax benefit under the preceding paragraph declares its undistributed earnings in accordance with Article 102-2 of the Income Tax Act, it shall enter the data on the prescribed forms and submit documents proving such investment to the local taxation authority.
+
+Where a company or limited partnership eligible for the tax benefit under Paragraph 1 completes the investment after it has paid the additional profit-seeking enterprise income tax on its undistributed earnings, it shall apply to the local taxation authority for recalculation of its undistributed earnings for that year and refund of the overpaid tax by filing the prescribed forms and submitting documents proving such investment in accordance with Paragraph 1.
+
+The regulations governing the amounts of undistributed earnings under Paragraph 1, the prescribed forms and documents proving investment under Paragraph 2, the procedure for applying for refund of overpaid tax, and the documents required to be submitted under the preceding paragraph, and other related matters shall be prescribed by the Ministry of Finance.
+
+### Article 24
+
+(deleted)
+
+### Article 25
+
+To encourage companies to utilize global resources and internationalize their operations, companies may apply to establish within the territory of the R.O.C. an operational headquarters of a certain size and with significant economic benefits.
+
+With respect to the operational headquarters of a certain size and with significant economic benefits as referred to in the preceding Paragraph, the regulations governing the size, the scope of application, the application and approval procedures, and other relevant matters shall be prescribed by the central competent authority.
+
+## Chapter Seven - Environment for the Sustainable Development of Industries
+
+### Article 26
+
+To encourage the sustainable development of industries, the central government authorities in charge of the industries concerned may provide enterprises with subsidies or counseling to promote the following matters:
+
+\1. Assisting enterprises in adapting to international regulations for environmental protection and health and safety.
+
+\2. Promoting the development and application of technology relating to greenhouse gas reduction and pollution prevention.
+
+\3. Encouraging enterprises to improve the efficiency of their energy and resource consumption and to adopt relevant technologies that may recycle/renew energy/resources and save energy and water.
+
+\4. Production of non-toxic, less-polluting products and other products that reduce the burden on the environment.
+
+The regulations governing the recipients of the subsidies or counseling, the eligibility criteria, the review standards, the application procedures, the reviewing authority, and other relevant matters as referred to in the preceding paragraph, shall be prescribed by the central government authorities in charge of the industries concerned.
+
+### Article 27
+
+Each central government authority in charge of the industry concerned shall encourage government agencies and institutions, and enterprises to procure software, and innovative and green products and services.
+
+To enhance the procurement efficiency for supply and demand, the central competent authority may provide relevant assistance and services to the agencies and institutions making procurements under the preceding paragraph. For procurements made through joint supply contracts in accordance with the preceding paragraph, the common requirements may be defined by the central competent authority in consultation with the central government authority in charge of the industry concerned as the policy demands.
+
+Where the software, innovative and green products and services procured in accordance with Paragraph 1 must pass testing, review, accreditation and certification, the charges for such processes may be reduced, waived, or suspended.
+
+A government agency/institution may specify in the tender documentation that priority shall be given to procurement of innovative and green products or services identified as meeting the requirements of Paragraph 1, provided that such priority does not violate any treaty or agreement to which the R.O.C. is a party.
+
+The regulations governing the specifications and categories of, and certification procedures and review standards for, the software, innovative and green products and services under Paragraph 1, the testing and review criteria, accreditation and certification under Paragraph 3, the method of making priority procurement under Paragraph 4, and other relevant matters shall be prescribed by the central government authorities in charge of the industries concerned.
+
+### Article 28
+
+To encourage enterprises to fulfill their social responsibility, the central government authorities in charge of the industries concerned shall assist enterprises to actively disclose the relevant environmental information regarding their production processes, products, services, and other aspects of sustainable development, and the enterprises with outstanding performance may be eligible to receive commendations or awards.
+
+## Chapter Eight - Financial Assistance
+
+### Article 29
+
+To accelerate industrial innovation and value addition, and promote economic transformation and national development, the Executive Yuan shall establish an national development fund (the “National Development Fund”).
+
+### Article 30
+
+The National Development Fund may be used for the following purposes:
+
+\1. To invest in industrial innovation, high-tech development, recyclable/renewable energy/resources, “green energy” industries, introduction of technology, and other important businesses or projects that can enhance the efficiency of industries or improve the industrial structure, in line with the national industrial development strategy.
+
+\2. To provide financing facilities to supported projects relating to the sustainable development of industries, pollution prevention, energy conservation, mitigation of the greenhouse effect, and other areas that can enhance the efficiency of industries or improve the industrial structure, in line with the national industrial development strategy.
+
+\3. To assist the central government authorities in charge of the industries concerned in handling investment, financing, or technology collaboration expenditure relating to relevant projects.
+
+\4. To assist the central government authorities in charge of the industries concerned in expenditure required for projects undertaken for economic development, agricultural technology development, social development, cultural and creative development, introduction of technology, enhancement of R&D, development of own brands, human resources cultivation, improvement of the industrial structure and relevant matters.
+
+\5. Other matters approved by the Executive Yuan on a case-by-case basis.
+
+### Article 31
+
+The funding sources of the National Development Fund shall be the appropriations from the National Treasury, and in addition, the operating balance of the National Development Fund, if any, may be put into the Fund following due budget approval procedures for continuous use.
+
+The regulations governing the management and utilization of the National Development Fund shall be prescribed by the Executive Yuan.
+
+### Article 32
+
+The central competent authority shall provide counseling and assistance for venture capital enterprises in order to stimulate the start-up and growth of domestic new businesses.
+
+The regulations governing the scope of the venture capital enterprises as referred to in the preceding paragraph, the provision of counseling and assistance, and other relevant matters shall be prescribed by the central competent authority.
+
+## Chapter Nine - Establishment and Management of Industrial Parks
+
+### Article 33
+
+The central competent authority, a special municipal/county/city competent authority, a state-owned or private enterprise, or an industrial entrepreneur may select a lot of land at a certain size in accordance with the relevant industrial park establishment policy, and submit a feasibility study report on the land together with all the required documents under the Urban Planning Act, the Regional Planning Act, the Environmental Impact Assessment Act, and other relevant laws and regulations to the authorities administering the above laws and regulations for approval. After approval is obtained from the authorities, the feasibility study report shall be submitted to the central competent authority for approval.
+
+After the central competent authority approves the establishment of an industrial park in accordance with the preceding paragraph, it shall instruct the relevant special municipal/county/city competent authority to make a public announcement within 30 days. If such public announcement is not made within the time limit, the central competent authority may make the public announcement on its behalf.
+
+If the area of land selected by a special municipal/county/city competent authority, a state-owned or private enterprise or an industrial entrepreneur in accordance with Paragraph 1 does not exceed a specific size and is located within the administrative district of a single special municipal/county/city, the special municipal/county/city competent authority may propose establishment of an industrial park on the land by submitting the documents required by the applicable laws and regulations to the competent authority administering such laws and regulations for approval. After the competent authority approves the proposal, the proposal shall be submitted to the special municipal/county/city competent authority for approval. After the special municipal/county/city competent authority approves the proposal, it shall publicly announce it within 30 days.
+
+Prior to submitting a feasibility study report under Paragraph 1, a central competent authority, special municipal/county/city competent authority, state-owned or private enterprise, or industrial entrepreneur shall hold a public hearing to listen to the views of the owners of the land in question and other interested parties, and shall take full minutes of the meeting and submit the minutes to the relevant competent authorities for their review, except where the state-owned or private enterprise or the industrial entrepreneur proposes to establish an industrial park on its own land.
+
+The guidelines for establishing industrial parks under Paragraph 1, the size of the land required for the establishment of an industrial park, and the size of an industrial park area that may be approved by a special municipal/county/city competent authority as referred to in Paragraph 3 shall be prescribed by the central competent authority in consultation with the Ministry of the Interior.
+
+### Article 34
+
+Where a state-owned or private sector enterprise or industrial entrepreneur applies for establishment of an industrial park, prior to the rezoning of the land in question, an amount equivalent to the then-current announced land value of five percent of the total land area at the time of the approval for establishment of the industrial park shall be paid to the industrial park development and management fund established by the special municipality or county (city) competent authority, notwithstanding any restriction under Article 15-3 of the Regional Planning Act.
+
+The special municipality and county (city) competent authority shall set aside a specified percentage of the sum paid in accordance with the preceding paragraph to be used for the construction, maintenance, or improvement of relevant public facilities in the vicinity of the industrial park and to ensure environmental protection in the affected area.
+
+The percentage of the funds to be set aside as referred to in the preceding paragraph shall be prescribed by the central competent authority in consultation with the Ministry of the Interior.
+
+### Article 35
+
+With respect to the industrial park of which a state-owned or private sector enterprise or an industrial entrepreneur applies for establishment, the construction permit shall be obtained within three years from the next date on which approval of establishment is publicly announced. If the construction permit is not obtained within the prescribed period, the original establishment approval shall become invalid.
+
+After the approval for the establishment of an industrial park becomes invalid, the special municipality or county (city) competent authority shall notify the land registration authority to restore the land to its original zoning and designation pattern, and shall notify the central competent authority for recordation.
+
+### Article 36
+
+To promote industrial transformation and upgrading in order to maintain the livelihood of local industries and small- and medium-sized enterprises and protect local job opportunities and preserve the environment, the central competent authority may, in consultation with the Ministry of the Interior, plan the establishment of small rural industrial parks or small local industrial parks, and may provide necessary assistance, counseling, or subsidies.
+
+The regulations governing the recipients of the assistance, counseling, or subsidies as referred to in the preceding paragraph, the eligibility criteria, the review standards, the application procedures, and other relevant matters shall be prescribed by the central competent authority.
+
+### Article 37
+
+The central competent authority or a special municipality or county (city) competent authority may commission a state-owned or private sector enterprise to file the application for establishment of an industrial park, and undertake the planning, the development, the lease or sale, or the administration of the park.
+
+With respect to the commissioning of enterprises as referred to in the preceding paragraph, if the commissioned state-owned or private sector enterprise is also responsible for raising the necessary funds, it may be by means of open selection and the Government Procurement Act and the Act for Promotion of Private Participation in Infrastructure Projects shall not apply.
+
+The regulations governing eligibility of the state-owned or private sector enterprises as referred to in the first Paragraph, the terms and conditions of the commissioning, the scope of commissioned business, and the conditions and procedures for the open selection as referred to in the preceding paragraph, the handling of expiring development contracts, and relevant matters shall be prescribed by the central competent authority.
+
+### Article 38
+
+Where the land within an industrial park is to be reclaimed from the sea, the following matters shall be performed prior to the commencement of reclamation work:
+
+\1. Where the developer is the central competent authority, the approved reclamation construction management plan shall be submitted to the Ministry of the Interior for recordation.
+
+\2. Where the developer is a special municipality or county (city) competent authority or a state-owned or private sector enterprise, or an industrial entrepreneur, the developer shall submit a reclamation construction management plan to the central competent authority for review and approval, and pay the review fee. Reclamation work shall not begin until a development bond has been paid and a development contract has been signed with the central competent authority.
+
+The regulations governing the contents of the reclamation construction management plan as referred to in the preceding paragraph, the application procedures, the development bond, and other relevant matters shall be prescribed by the central competent authority.
+
+### Article 39
+
+The land in an industrial park may be used as follows:
+
+\1. Land for industries.
+
+\2. Land for communities.
+
+\3. Land for public facilities.
+
+\4. Other types of land approved by the central competent authority.
+
+The area of the land for industries shall not be less than 60% of the total land area of an industrial park.
+
+The area of the land for communities shall not be more than 10% of the total land area of an industrial park.
+
+The area of the land for public facilities shall not be less than 20% of the total land area of an industrial park.
+
+The regulations governing the uses of the types of land as referred to in the first Paragraph, the permitted scope of use, and other relevant matters shall be prescribed by the central competent authority in consultation with the central government authorities in charge of the industries concerned.
+
+### Article 40
+
+(deleted)
+
+### Article 41
+
+Where the central competent authority or a special municipality or county (city) competent authority is to develop an industrial park, after the public announcement of the approval for establishment of the industrial park but prior to the commencement of development work, the local special municipality government or county (city) competent authority shall publicly announce the suspension of transfer of ownership of the land and the buildings thereon, and the suspension of accepting applications for construction permits. The announced period of such suspension shall not exceed two years. Where a construction permit has already been obtained, construction work shall not commence until consent is given by the central competent authority or the special municipality or county (city) competent authority.
+
+The suspension of transfer of ownership of land and buildings publicly announced in accordance with the preceding paragraph shall not apply to any transfer effected as a result of inheritance, compulsory execution, expropriation for public purposes, or court judgment.
+
+### Article 42
+
+Where privately owned land is required by the central competent authority or a special municipality or county (city) competent authority for the development of an industrial park, the land may be expropriated.
+
+Where government-owned land is required by the central competent authority or a special municipality or county (city) competent authority for the development of an industrial park, the authority responsible for the sale of the government-owned land in question may conduct the sale without being subject to the restrictions set forth in Article 25 of the Land Act or the laws and regulations governing the management of public property promulgated by the relevant local government.
+
+The sale price of the government-owned land sold in accordance with the preceding paragraph shall be calculated at the same compensation amount for the privately owned land that is located in the same land-value area and which is used for the same original purpose and expropriated for development of the industrial district. However, if the entire portion of land in the industrial park under development is government-owned, the value of such land shall be determined in accordance with the evaluation standard applicable to the disposition of ordinary public property.
+
+### Article 43
+
+Where a state-owned or private sector enterprise, or an industrial entrepreneur has a need to use privately-owned land to develop an industrial park, such developer shall obtain the land on its own. However, under any of the following circumstances, the developer may apply to the special municipality or county (city) competent authority for land expropriation:
+
+\1. Where the original owner of the privately owned land has died and his/her heir fails to apply for registration of succession within two years from the date of inheritance.
+
+\2. Where the land cannot be purchased due to the death of the administrator of the clan property of an ancestral shrine.
+
+Land expropriated in accordance with the preceding paragraph shall be sold directly to the state-owned or private sector enterprise, or industrial entrepreneur as referred to in the preceding paragraph by the special municipality or county (city) competent authority that conducts the expropriation without being subject to the restrictions set forth in Article 25 of the Land Act and the laws and regulations governing the management of public property promulgated by the relevant local government. The sale price shall be determined by the special municipality or county (city) competent authority.
+
+Where government-owned land is required by a state-owned or private sector enterprise, or an industrial entrepreneur to develop an industrial park, the authority responsible for the sale of the government-owned land shall conduct the sale. Where the government-owned land occupies no more than one tenth of the total land area of the industrial park, or for no more than 5 hectares in total, the restrictions set forth in Article 25 of the Land Act and the laws and regulations governing the management of public property promulgated by the relevant local government shall not apply. The sale price shall be determined according to the evaluation standard applicable to the disposition of ordinary public property.
+
+### Article 44
+
+When the central competent authority or a special municipality or county (city) competent authority undertakes development of an industrial park, if the park contains land that has already been and will continue to be used for industrial purposes, the owner of such land shall share the costs of developing and constructing the industrial park in proportion to the size of such land.
+
+The costs of developing and constructing the industrial park shall be determined by the competent authority which develops the industrial park.
+
+### Article 45
+
+The land, buildings, and facilities located within an industrial park developed by the central competent authority or a special municipality or county (city) competent authority shall be utilized, used for profit, managed, and disposed of by the relevant competent authority in accordance with this Statute without being subject to the restrictions set forth in Article 25 of the Land Act, the National Property Act, or the laws or regulations governing the management of public property promulgated by the relevant local government.
+
+Where a lease is made for any purposes under the preceding paragraph, the calculation of rental and guarantee bond shall not be subject to the restrictions of Article 97, Paragraph 1 Article 99, or Article 105 of the Land Act; the termination of the lease agreement or the recovery of the lease property shall not be subject to the restrictions of Paragraph 2 or 3 of Article 440 of the Civil Code or Article 100 or 103 of the Land Act. Where a superficies is created for the purposes of the preceding paragraph, Paragraph 1 of Article 836 of the Civil Code, which stipulates that the total amount of outstanding land rental must amount to the sum of two years' land rental before superficies can be invalidated, shall not apply.
+
+### Article 46
+
+The land, buildings, and facilities located within an industrial park developed by the central competent authority or a special municipality or county (city) competent authority shall be utilized, used for profit, or disposed of in accordance with the following provisions respectively. The prices of utilizing, profiting from, and disposal of such land, buildings, and facilities shall be determined by the competent authority that develops the industrial park, provided that where the development funds are all raised by a commissioned state-owned or private sector enterprise, these matters are handled in accordance with the terms of the development mandate agreement.
+
+\1. With respect to land for industries and the buildings erected thereon, the competent authority that develops the industrial park shall handle the lease or sale of, or establishment of superficies on, the land or buildings, or shall handle the matters in other ways as approved by the central competent authority.
+
+\2. With respect to land for communities, the competent authority that develops the industrial park shall handle the matters using the following methods in the order of priority:
+
+(1) Allocated sale to the owners of land or buildings purchased or expropriated.
+
+(2) Sale to enterprises located within the industrial park for the construction of employee housing and sale to employees for housing construction.
+
+(3) Sale for construction of residential properties.
+
+\3. With respect to land for public facilities, public buildings, and public facilities, the competent authority that develops the industrial park shall handle their lease, sale, encumbrance, use for benefits, and provision for use free of charge.
+
+The term “owners of buildings” as referred to in Item 1 of Subparagraph 2 in the preceding paragraph shall refer to only those owners who have already completed cadastral registration prior to the date when suspension of transfer of ownership is announced as referred to in Paragraph 1, Article 41 hereof.
+
+The regulations governing the procedures, conditions, and other relevant matters regarding the utilization of, profits from, and disposal of the land, buildings, and facilities as referred to in Paragraph 1 shall be prescribed by the central competent authority.
+
+With respect to the land located within an industrial park developed by the central competent authority or a special municipality or county (city) competent authority, approval may be sought from the Executive Yuan for the sale of such land on a case-by-case basis, in line with the policy of national economic development, and in light of the location of the land, the anticipated buyers, the sale prices and other terms and conditions; the purchasers of the land may complete the construction of the relevant public facilities in accordance with the feasibility study.
+
+### Article 46-1
+
+Where the owner of a plot of land in an industrial park developed and established by the central competent authority or a special municipality or county (city) competent authority has kept the land idle for a certain consecutive period without good reasons, and the land is in a condition set forth in the criteria for identifying idle land prescribed by the central competent authority, the central competent authority may designate such land as idle, and notify the land owner and the interested parties that a building/buildings has/have to be constructed on the land for use in accordance with the laws in two years, unless the land is subject to any contract between the land owner and a competent authority or is to be disposed of in accordance with the applicable regulations. The competent authority may at any time provide counseling to such a landowner and the interested parties on how to construct buildings on the land for use within the given time limit.
+
+Where the competent authority orders the construction of buildings for use within the time limit pursuant to the preceding paragraph, the competent authority shall request the land registration agency to add a note to the registration of such buildings indicating such a requirement. The requirement shall be valid for two years. If title to the land is transferred to another within the two years, the requirement shall be assumed by the successor to the title. The two-year period shall be reduced by the number of the days in which the requirement is suspended for causes not attributable to the land owner, and may be extended if requested by the landowner for good reasons.
+
+Where a building has been constructed on a plot of land and used within the period under the preceding two paragraphs in accordance with the law, the competent authority shall request the land registration agency to cancel the note. Where no building is constructed on such a plot of land in the given time limit, the competent authority may fine the landowner with an amount of up to ten percent of the assessed then current value of the idle land and order the land owner to propose a correction plan within one month. Upon receipt of the correction plan, the competent authority may notify the land owner for consultation. The landowner shall complete the consultation within one month of receipt of the notice from the competent authority. To promote use of the land in industrial parks in line with the legislative purposes and development of national economy, and prevent land hoarding from harming public interests, if a landowner fails to propose an correction plan or complete consultation with the competent authority within the given time limit, the authority may decide in writing that the idle land shall be put up for open compulsory auction after a reasonable price is set on the basis of an appraised market price.
+
+The competent authority shall request branch offices of the Administrative Enforcement Agency of the Ministry of Justice to conduct the compulsory auction under the preceding paragraph. Unless otherwise specified in this article, the auction procedures under the Administrative Enforcement Act shall apply mutatis mutandis to the auction under this article.
+
+If all the bids for a plot of idle land subject to compulsory auction under the preceding two paragraphs are deemed invalid; the highest bid from the bidders is lower than the reasonable price set on the basis of the appraised market price; any other auction requirements are not met, the land shall not be auctioned off.
+
+In the event of a situation described in the preceding paragraph, the competent authority may request that another auction for the same or another reasonable price be held in accordance with the preceding three paragraphs.
+
+As soon as a plot of land is auctioned off, there shall be no preferential right to purchase the land under the Land Act or other laws or regulations, and the competent branch office of the Administrative Enforcement Agency of the Ministry of Justice shall ask the land registration agency to cancel or remove all the noted requirements for, encumbrances, restraints or leasehold on the land before the land is delivered to the winner of the auction. If the competent authority considers it unnecessary to continue the auction procedure, it may withdraw its request to the competent branch office of the Administrative Enforcement Agency of the Ministry of Justice for the auction, and request the land registration agency to cancel the noted requirement.
+
+The regulations governing the criteria for defining idle land and land having been used to construct buildings, public announcements, notices, reduction of the time limit for non-attributable causes, reasons supporting request for extension of the time limit, matters noted as requested by the competent authorities, the methods, procedures, and guidelines for deciding appraised market prices, qualifications for bidders for compulsory auction, and the terms for using land acquired under the preceding seven paragraphs shall be prescribed by the central competent authorities.
+
+### Article 47
+
+With respect to an industrial park developed by the central competent authority or a special municipality or county (city) competent authority, where the funds are all raised by the commissioned state-owned or private sector enterprise, the development cost, within the term of the development mandate agreement, shall be determined by such competent authority. In the event that the proceeds from the sale of land or buildings exceed the cost, the commissioned state-owned or private sector enterprise shall pay a certain percentage of the difference to the industrial park development and management fund established by such competent authority. The certain percentage shall not be lower than 50% of the difference.
+
+On the expiry of the development mandate agreement, the competent authority that develops the industrial park may dispose of any as yet unleased and unsold land or buildings located within the industrial park using one of the following methods:
+
+\1. Paying a reasonable price to the commissioned state-owned or private sector enterprise, provided that such reasonable price does not exceed the share of the actual development costs allocated to the land or buildings in question.
+
+\2. Notifying the special municipality or county (city) government within whose jurisdiction the industrial park is located to instruct the relevant registration authority to transfer the ownership to the commissioned state-owned or private sector enterprise. The commissioned state-owned or private sector enterprise shall continue to use and dispose of the same in accordance with the planning for the industrial park.
+
+The method for determining the development cost, the payment percentage of the difference, and the method for calculating the reasonable price as referred to in the preceding two paragraphs shall be expressly stipulated by the competent authority in the development mandate agreement.
+
+### Article 48
+
+With respect to an industrial park developed by the central competent authority or a special municipality or county (city) competent authority, with the exception of land for communities that is allocated for sale, when selling all other land and buildings, the purchaser shall pay the development and management fund in an amount equivalent to one percent of the purchase price to the industrial park development and management fund established by the competent authority.
+
+Prior to the registration of transfer of ownership in accordance with Subparagraph 2, Paragraph 2 of the preceding article, the commissioned state-owned or private sector enterprise shall pay the industrial park development and management fund in an amount equivalent to one percent of the reasonable price.
+
+### Article 49
+
+To meet the needs of industrial park development and ensure sound industrial park management, the central competent authority or a special municipality or county (city) competent authority may establish an industrial park development and management fund.
+
+In principle, an industrial park development and management fund shall be established in such a way as to be self-financing.
+
+The funding sources for an industrial park development and management fund shall be as follows:
+
+\1. Monetary contributions made in accordance with this Statute.
+
+\2. Interest on loans.
+
+\3. Payments received in accordance with the preceding article.
+
+\4. Industrial park maintenance fees, usage charges, administration fees, service fees, and royalties.
+
+\5. Remnant funds left over after the completion of the industrial park development.
+
+\6. Appropriations by the government in accordance with budgetary procedures.
+
+\7. Interest income of the fund.
+
+\8. Revenue from investment in relevant enterprises located in the industrial park.
+
+\9. Income in excess of the cost collected in accordance with Paragraph 1, Article 47 above.
+
+\10. Other relevant sources of income.
+
+The industrial park development and management fund may be used for the following purposes:
+
+\1. To provide financing for industrial park development.
+
+\2. To subsidize the increased interest on development cost where it proves impossible to sell or lease the land or buildings within the industrial park for an extended period, resulting in a situation where the rental or price of land or buildings within the industrial park is higher than the rental or price of land or buildings for equivalent use in the neighboring areas.
+
+\3. To pay for the construction, maintenance, or improvement of public facilities in the industrial park or the adjacent areas.
+
+\4. To meet the operating costs of the industrial park administration.
+
+\5. To ensure environmental protection in the industrial park or in the adjacent areas affected by the industrial park.
+
+\6. To fund research, planning, or promotional work relating to the industrial park.
+
+\7. To make investments in businesses related to the industrial park.
+
+\8. To pay out specified amounts for subsequent relief or compensation relating to major accidents within the industrial park that affect the general public.
+
+\9. Other relevant expenditures.
+
+### Article 50
+
+An industrial park shall establish an administration agency in accordance with the following provisions to handle the management and maintenance of and provide services and counseling relating to land for public facilities, public buildings, and public facilities within the industrial park:
+
+\1. In the case of an industrial park developed by the central competent authority or a special municipality or county (city) competent authority, the competent authority shall establish the administration agency. The competent authority may also commission another authority or a state-owned or private sector enterprise to establish or manage the administration agency.
+
+\2. In the case of an industrial park developed by a state-owned or private sector enterprise, when arranging the lease or sale of the land, such state-owned or private enterprise shall apply to the special municipality or county (city) competent authority with jurisdiction over the industrial park for the establishment of an administration agency with a juridical person status.
+
+\3. In the case of an industrial park jointly developed by two or more industrial entrepreneurs, the administration agency shall be established at the time of the public announcement of industrial park establishment by the local special municipality or county (city) competent authority.
+
+\4. In the case of an industrial park developed by a single industrial entrepreneur, or where the entirety of such industrial park is leased or sold to another single industrial entrepreneur for the dedicated use of such industrial entrepreneur, the requirement to establish an administration agency may be waived.
+
+With respect to the administration agency established by the central competent authority or a special municipality or county (city) competent authority in accordance with the preceding paragraph, the regulations governing the organization, personnel management, salaries standards, deposits for retirement/severance benefits, consolation payments, and other relevant matters shall be prescribed by the competent authority.
+
+Where the central competent authority or a special municipality or county (city) competent authority commissions another authority or enterprise to establish the administration agency on its behalf in accordance with Subparagraph 1, Paragraph 1, the regulations governing the operation, management, and other relevant matters shall be prescribed by the central competent authority.
+
+### Article 51
+
+With respect to an industrial park developed by the central competent authority or a special municipality or county (city) competent authority, the land for public facilities, public buildings, and public facilities in the park shall be managed by the industrial park administration agency and registered in accordance with the following provisions, unless otherwise provided for in this Statute:
+
+\1. In the case of an industrial park developed by the central competent authority, the state shall be registered as the owner, and the administrative agency shall be the Ministry of Economic Affairs. However, the local special municipality or county (city) shall be registered as the owner of the land for public facilities, public buildings, and public facilities within a community, and the administrative agency shall be the special municipality or county (city) competent authority.
+
+\2. In the case of an industrial park developed by a special municipality or county (city) competent authority, the municipality or county (city) shall be registered as the owner, and the administrative agency shall be the special municipality or county (city) competent authority.
+
+In the case of an industrial park developed by a state-owned or private enterprise, ownership of the land for public facilities, public buildings, and public facilities shall be transferred free of charge to the relevant administration agency. However, if the land for public facilities, public buildings, and public facilities are for the use by non-specific persons or are located in communities, the local special municipalities or counties (cities) shall be registered as the owner, and the administration agency shall be the special municipal or county (city) competent authority.
+
+Once ownership has been transferred by a state-owned or private enterprise to the management agency in accordance with the preceding paragraph, the lease, sale, creation of encumbrance on, or other disposal of the land for public facilities, public buildings, and public facilities shall not be valid unless it has been approved by the special municipality or county (city) competent authority.
+
+### Article 52
+
+An industrial district that developed before this Statute comes into force may establish an administration agency in accordance with Article 50.
+
+In the case of an industrial district developed by a special municipality or county (city) competent authority before this Statute comes into force, if it is being managed by the central competent authority, the central competent authority may transfer the responsibility for management of the industrial district to the special municipality or county (city) competent authority, and may conduct transfer registration with respect to the land for public facilities, public buildings, and public facilities within the industrial district without being subject to the restrictions set forth in Article 25 of the Land Act, the National Property Act, and the laws and regulations governing the management of public property promulgated by the relevant local government.
+
+The regulations governing the transfer of responsibility as referred to in the preceding paragraph, conditions of accepting responsibility, procedures, and other relevant matters shall be prescribed by the central competent authority.
+
+### Article 53
+
+An administration agency that has been established in accordance with Article 50 may require payment of the following fees from the users of the industrial park:
+
+\1. General maintenance fees for public facilities.
+
+\2. Usage fees for the waste water treatment system.
+
+\3. Usage fees or maintenance fees for other specific facilities.
+
+The charging rates for the above fees shall be formulated by the administration agency. In the case of an industrial park developed by the central competent authority, the charging rates shall be reported to the central competent authority for its approval. In the case of an industrial park developed by the competent authority at the special municipality or county (city) government level, or by a state-owned or private sector enterprise, the charging rates shall be reported to such special municipality or county (city) competent authority for its approval.
+
+If users of an industrial park developed by the central competent authority or a special municipality or county (city) competent authority fail to pay the fees prescribed in Paragraph 1 within the deadline specified, they shall pay a delinquent fee equivalent to one percent of the fees due for every two days of delay; the cumulative total delinquent fee shall be capped at 15% of the total fees payable by the delinquent users.
+
+### Article 54
+
+The central competent authority or a special municipality or county (city) competent authority may alter the land allocation plan for an industrial park if necessary for government policy or industrial development, provided that such alteration does not go against the land area percentages, land uses, and usage regulations provided in Paragraphs 2 through 5 of Article 39.
+
+The proviso in the preceding paragraph regarding land area percentages shall not apply to industrial land or industrial districts that were approved on or prior to December 31, 1999.
+
+A landowner may apply to the central competent authority or a special municipality or county (city) competent authority for land rezoning. In such cases, the central competent authority or the special municipality or county (city) competent authority shall charge the applicant a review fee for reviewing the rezoning application.
+
+Where a rezoning application submitted in accordance with the preceding paragraph is approved by the central competent authority or a special municipality or county (city) competent authority, the applicant shall make a monetary contribution based on the rezoning category and a certain percentage of the current announced land value as of the time of the approval.
+
+With respect to the land rezoning plans as referred to in Paragraphs 1 and 3, the regulations governing the eligibility criteria, the required documents, the application procedures, the approval criteria, the grounds for revocation or abolishment, the standards for setting the review fees and monetary contribution as referred to in the two preceding paragraphs, and other relevant matters shall be prescribed by the central competent authority.
+
+### Article 55
+
+If the entirety or a part of an industrial park no longer needs to exist due to changes in the overall environment, the central competent authority or the special municipality or county (city) competent authority that originally gave approval for its establishment may revoke the original approval. Such revocation of the original approval shall be publicly announced by the special municipality or county (city) competent authority within 30 days from the date of revocation. If the special municipality or county (city) competent authority does not announce such revocation within the time limit, the central competent authority may make the announcement on its behalf. Where the revocation of the original approval concerns rezoning of land, the approval of the authority in charge of urban planning or regional planning shall be obtained before the public announcement can be made.
+
+Where the original approval is revoked by a special municipality or county (city) competent authority in accordance with the preceding paragraph, the competent authority shall submit documents regarding the revocation to the central competent authority for recordation.
+
+The regulations governing the criteria for determining whether existence of an industrial park is no longer needed as referred to in Paragraph 1, the procedures for revocation of an establishment approval, and other relevant matters shall be prescribed by the central competent authority.
+
+## Chapter Ten - Establishment and Management of Dedicated Industrial Harbors and Wharfs
+
+### Article 56
+
+The central competent authority, based on policies or to meet the operational needs of the industrial entrepreneurs within the industrial park, may establish a dedicated industrial harbor or wharf within an industrial park the establishment of which it has approved, if, through evaluation, it has been determined that the needed service cannot be provided by neighboring commercial ports.
+
+The central competent authority shall first consult with the Ministry of Transportation and Communications, and then submit the proposal to establish a dedicated industrial harbor or wharf to the Executive Yuan for approval.
+
+For the delineation of the zone for a dedicated industrial harbor or wharf, the central competent authority shall consult with the Ministry of Transportation and Communications, the Ministry of the Interior, and other relevant agencies, and then submit the proposal to the Executive Yuan for approval.
+
+For the designation of a dedicated industrial harbor or wharf, the central competent authority and the Ministry of Transportation and Communications shall jointly seek the approval of the Executive Yuan, and make a public announcement upon the granting of an approval.
+
+### Article 57
+
+The land within a dedicated industrial harbor or a dedicated industrial wharf shall be registered as state-owned, and the Ministry of Economic Affairs shall be the administration agency.
+
+The permitted users of the dedicated industrial harbor or wharf shall be determined by the central competent authority in consultation with the Ministry of Transportation and Communications.
+
+A dedicated industrial harbor or wharf shall not be used for any purposes other than for the industrial park.
+
+### Article 58
+
+A dedicated industrial harbor or wharf may be constructed and operated directly by the central competent authority, or alternatively, the central competent authority may approve its investment, construction, and operation by a state-owned or private sector enterprise.
+
+Where the central competent authority has approved a state-owned or private sector enterprise to invest in the construction and operation of a dedicated industrial harbor or wharf, the central competent authority shall sign an investment and construction agreement with the state-owned or private sector enterprise, and shall collect royalties from the enterprise, to be paid to the industrial park development and management fund established by the central competent authority.
+
+Where a state-owned or private sector enterprise invests in the construction of facilities and buildings relating to the investment and construction of a dedicated industrial harbor or wharf as referred to in Paragraph 1, a clause may be included in the investment and construction agreement specifying that, during the period of construction and operation, the facilities and buildings shall be registered as owned by the state-owned or private sector enterprise, and that the enterprise shall be responsible for their management and maintenance.
+
+During the period of construction and operation as referred to in the preceding paragraph, the state-owned or private sector enterprise shall not transfer ownership of the facilities and buildings that it has invested in and constructed. Upon the expiry of the period of construction and operation, ownership of the facilities and buildings shall be transferred to the state, and the facilities and buildings shall be managed by the central competent authority.
+
+The regulations governing the execution of the planning and construction of a dedicated industrial harbor or wharf, harbor operation, wharf management, construction of dedicated wharf, management and maintenance, entry into and exit from the harbor by vessels, mooring, lay-up, harbor safety, regulations governing industries in the harbor area, and other relevant matters shall be prescribed by the central competent authority in consultation with the Ministry of Transportation and Communications.
+
+### Article 59
+
+The central competent authority may approve the lease of wharf land within a dedicated industrial harbor to industrial entrepreneurs located within the industrial park for use in the construction of relevant facilities and buildings for their own use. The constructed facilities and buildings may be registered as the property of the industrial entrepreneurs, who shall be responsible for their management and maintenance.
+
+### Article 60
+
+If necessary for national security or government policy, the central competent authority may reclaim land and relevant facilities and buildings located within a dedicated industrial harbor or wharf.
+
+Where the central competent authority reclaims land and relevant facilities or buildings in accordance with the preceding paragraph, it shall compensate the state-owned or private sector enterprise or industrial entrepreneur for the following:
+
+\1. Any operating loss sustained as a result of such reclaim.
+
+\2. With respect to the relevant facilities or buildings the construction of which had been approved, the compensation shall be based on the value determined by the central competent authority at the time of construction completion, less allowance for depreciation.
+
+Where a state-owned or private sector enterprise as referred to in Paragraph 1 of Article 58 breaches the investment and construction agreement, or where an industrial entrepreneur as referred to in the preceding article breaches the lease agreement, leading the central competent authority to terminate the investment and construction agreement or the lease agreement, the central competent authority may reclaim the land and relevant facilities and buildings within the dedicated industrial harbor or wharf; no compensation shall be paid for any relevant facilities or buildings that have been constructed by the state-owned or private sector enterprise or industrial entrepreneur.
+
+### Article 61
+
+If, during the period of construction, management or use of a dedicated industrial harbor or wharf, a state-owned or private sector enterprise as referred to in Paragraph 1 of Article 58 or an industrial entrepreneur as referred to in Article 59 falls seriously behind schedule in construction work, or there is a serious deficiency in the quality of construction, or there is inappropriate management, or the public welfare is threatened, or the normal operation of the relevant facilities of a dedicated industrial harbor or wharf is disrupted, or any other major problem occurs, the central competent authority may handle these matters in the following order of priority:
+
+\1. Order the correction of the situation within a specified time limit.
+
+\2. In case of a failure to correct the situation within the specified time limit, or if the corrective measures are ineffective, the central competent authority may order the stoppage of all or part of the construction, management, or usage within a specified time period.
+
+\3. In case of a failure to correct or if the corrective measures are ineffective, and the situation is serious, the central competent authority may revoke the approval for construction and operation, and May compulsorily take over the operation.
+
+The regulations governing the person taking over the operation compulsorily as referred to in the preceding paragraph, matters to be publicly announced prior to the take-over, matters that the party against which the take-over is effected is required to comply with, workers’ rights and benefits, expenses incurred for the take-over of operation, termination of the take-over of operation, and other relevant matters shall be prescribed by the central competent authority.
+
+### Article 62
+
+The central competent authority may collect administration fees from the users of a dedicated industrial harbor or wharf.
+
+The owner of the relevant facilities and buildings within a dedicated industrial harbor or wharf may collect usage fees from the users of such facilities or buildings.
+
+The operator of a dedicated industrial harbor or wharf may collect service fees from the users of such dedicated industrial harbor or wharf.
+
+With respect to the administration fees, usage fees, and service fees as referred to in the preceding three paragraphs, the regulations governing fee items, charging rates, and methods of calculation shall be prescribed by the central competent authority in consultation with the Ministry of Transportation and Communications.
+
+### Article 63
+
+To prevent imminent danger or to meet the special needs of emergency, the central competent authority or the authority in charge of navigation may demand use of the facilities of dedicated industrial harbors or wharfs free of charge.
+
+### Article 64
+
+Regarding the planning, construction, administration, operation, and security of dedicated industrial harbors or wharfs, in addition to the provisions of this Statute, Articles 5, 10, 16 to 21, 23 to 26 and 29, Paragraph 3 of Article 30, Articles 31 to 33, Articles 37 to 48 and Article 50 of the Commercial Harbor Act shall apply mutatis mutandis.
+
+The central competent authority may only authorize a commercial harbor administration agency to take charge of the administration of dedicated industrial harbors or wharfs in consultation with the Ministry of Transportation and Communications.
+
+## Chapter Eleven - Factory Expansion Counseling
+
+### Article 65
+
+Where an industrial entrepreneur needs to use adjacent non-urban land for the expansion of industrial activities or the establishment of pollution prevention facilities, the expansion plan and the size of the land needed shall be subject to approval by the special municipality or county (city) competent authority, and the competent authority will issue an industrial land certificate for the purposes of land rezoning.
+
+Industries needing expansion of industrial activities as referred to in the preceding paragraph shall be restricted to low-polluting industries, as defined by the relevant special municipality or county (city) competent authority.
+
+Where expansion of industrial activities is conducted in accordance with Paragraph 1, ten percent of the total rezoned area shall be set aside for use as green space. The relevant special municipality or county (city) competent authority shall conduct the rezoning of the green space land as national safety use land.
+
+An industrial entrepreneur who wishes to expand industrial activities or establish pollution prevention facilities shall make a monetary contribution prior to the rezoning of the relevant land. Paragraph 1, Article 34 shall apply mutatis mutandis to the calculation and payment of the monetary contribution.
+
+With respect to the state-owned land located in an expanded area as referred to in Paragraph 1, the agency responsible for selling the land shall conduct sale or lease of the land without being subject to the restrictions of Article 25 of the Land Act or the laws or regulations governing management of public property promulgated by the relevant local government. The sale price shall be set according to the price calculation standards for the disposal of ordinary public property.
+
+Where a special municipality or county (city) competent authority reviews an expansion plan, it shall collect a review fee from the applicant.
+
+The regulations governing the criteria for application for expansion plans as referred to in Paragraph 1, the documents needed, the application procedures, the restrictions on the size of land for which application may be made, the criteria for determining whether an industrial activity falls under the category of “low-polluting” industrial activities as referred to in Paragraph 2, the standards for collection of review fees as referred to in the preceding paragraph, and other relevant matters shall be prescribed by the central competent authority.
+
+### Article 66
+
+An industrial entrepreneur applying for the use of adjacent non-urban land shall complete the utilization of the land in accordance with the approved expansion plan within two years from the day following completion of the rezoning of the utilized land. Until such time as the utilization of the land has been completed, the industrial entrepreneur shall not re-sell, sub-let, create superficies on, or in any other fashion allow another party to use the land, in whole or in part.
+
+If, for reasons, an industrial entrepreneur is unable to complete utilization of the land within the time limit specified in the preceding paragraph, such industrial entrepreneur may apply to the relevant special municipality or county (city) competent authority for an extension of no more than two years.
+
+If, during the period specified in the preceding two paragraphs, an industrial entrepreneur uses the land in violation of the approved expansion plan, the relevant special municipality or county (city) competent authority shall order the industrial entrepreneur to correct the situation within a specified time limit. If the industrial entrepreneur fails to correct the situation within the time limit, the special municipality or county (city) competent authority shall revoke the original approval, and shall notify the relevant agencies that the land must be restored to its original zoning designation, and any construction permits or miscellaneous permits already issued for the land must be revoked.
+
+If an industrial entrepreneur fails to complete utilization of the land during the period specified in the preceding two paragraphs, the relevant special municipality or county (city) competent authority shall revoke the original approval, and shall notify the relevant agencies that the land must be restored to its original zoning designation, and any constructions permits or miscellaneous permits already issued for the land must be revoked.
+
+## Chapter Twelve - Penalties
+
+### Article 66-1
+
+Any person, who endanger the normal functioning of a dedicated industrial harbor or wharf’s facilities or equipment by means of theft, destruction, damage, or other illegal methods, shall be sentenced to imprisonment for a term of not less than one years but not more than seven years; in addition thereto, a fine of up to NT$ 10,000,000 may be imposed.
+
+Any person, who intends to endanger national security or social stability and commits the offense described in the preceding paragraph, shall be sentenced to imprisonment for a term of not less than three years but not more than ten years; in addition thereto, a fine of up to NT$ 50,000,000 may be imposed.
+
+If committing an offense under the preceding two paragraphs results in calamity, the above term of imprisonment will be increased up to one half. If death results from the commission of the offense, the offender shall be sentenced to life imprisonment or with imprisonment for not less than seven years, in addition thereto, a fine of up to NT$100,000,000 may be imposed. If aggravated injury results, the offender shall be sentenced to imprisonment for not less than five years but not more than twelve years, in addition thereto, a fine of up to NT$80,000,000 may be imposed.
+
+An attempt to commit an offense specified in Paragraphs 1 and 2 is punishable.
+
+### Article 66-2
+
+Any person, who endanger the normal functioning of the core information and communication system of the facilities or equipment specified in Paragraph 1 of the preceding article, using any of the following methods, shall be sentenced to imprisonment for a term of not less than one years but not more than seven years; in addition thereto, a fine of up to NT$ 10,000,000 may be imposed:
+
+\1. Gaining access into another person’s computer or related equipment by entering the password of another person's computer account, cracking the protective measures for using the computer or exploiting the loophole of the computer system without any reason.
+
+\2. Interfering, through the use of computer programs or other electromagnetic methods, with the computer or relating equipment of another person without any reason.
+
+\3. Obtaining, deleting or altering the electromagnetic record of another’s computer or relating equipment without any reason.
+
+Any person who makes computer programs specifically for himself or another to commit the offenses specified in the preceding paragraph, shall be subject to the same punishment.
+
+Any person, who intends to endanger national security or social stability and commits the offense described in the preceding two paragraphs, shall be sentenced to imprisonment for a term of not less than three years but not more than ten years; in addition thereto, a fine of up to NT$ 50,000,000 may be imposed.
+
+If committing an offense under the preceding three paragraphs results in calamity, the above term of imprisonment will be increased up to one half. If death results from the commission of the offense, the offender shall be sentenced to life imprisonment or with imprisonment for not less than seven years, in addition thereto, a fine of up to NT$100,000,000 may be imposed. If aggravated injury results, the offender shall be sentenced to imprisonment for not less than five years but not more than twelve years ,in addition thereto, a fine of up to NT$80,000,000 may be imposed.
+
+An attempt to commit an offense specified in paragraphs 1 to 3 is punishable.
+
+### Article 67
+
+If the use by an industrial entrepreneur or a state-owned or private sector enterprise violates Paragraphs 2 or 3 of Article 57, the central competent authority may impose an administrative fine ranging from NT$2 million to NT$10 million.
+
+If an industrial entrepreneur or a state-owned or private sector enterprise violates the provisions relating to the execution of planning and construction, entry into and exit from the harbor by vessels, mooring, lay-up, harbor safety, or regulation of industries in the harbor area contained in the regulations prescribed in accordance with Paragraph 5 of Article 58, the central competent authority may impose an administrative fine ranging from NT$300,000 to NT$1,500,000.
+
+### Article 67-1
+
+For application of Articles 12-1, 12-2 or 19-1, a company shall, in the year its shareholders transfer shares or deliver shares by book-entry transfer, or prior to January 31 of the year after the year of expiration of the tax deferral period, file information regarding the shares transferred, delivered by book-entry transfer, or shares not yet transferred with the competent taxation authority in the prescribed format; where there is any national holiday that lasts three or more days in January of such following year, the filing deadline shall be extended to February 5. If the company fails to file such information before the deadline or files untrue information, the taxation authority shall order it to file a supplemental report within a time limit and impose a fine ranging from NT$50,000 to NT$500,000.
+
+Where a company fails to file a supplemental report on the above information before the deadline as ordered by the taxation authority, it will be subject to a fine ranging from NT$100,000 to NT$1 million .
+
+### Article 67-2
+
+If an enterprise eligible for the tax benefit under Article 23-1 is in one of the following situations, the taxation authority shall impose penalties according to the relevant subparagraphs:
+
+\1. Where the enterprise fails to file an annual income tax return within the prescribed period set forth in Article 71 of the Income Tax Act, but subsequently files the annual income tax return in accordance with Paragraph 1, Article 79 of the Act, it shall pay a delinquent reporting surcharge equal to ten percent of the tax calculated at the profit-seeking enterprise income tax rate applicable in the current year on its annual income determined by the taxation authority through investigation. The amount of the delinquent reporting surcharge shall not exceed NT$30,000 but shall not be less than NT$1,500.
+
+\2. Where the enterprise further fails to file an annual income tax return within the time limit prescribed in Paragraph 1, Article 79 of the Income Tax Act, it shall pay a late filing fee equal to 20% of the tax calculated at the profit-seeking enterprise income tax rate applicable in the current year on its annual income determined by the taxation authority through investigation. The amount of the late filing fee shall not exceed NT$90,000 but shall not be less than NT$4,500.
+
+\3. Where the enterprise has filed an annual income tax return, or its final report on total business income or income earned from liquidation, but has under-declared or omitted to declare any income, it shall pay a fine of up to two times the tax calculated at the profit-seeking enterprise income tax rate applicable in the current year on the income it has under-declared or omitted to declare.
+
+\4. Where the enterprise fails to file an annual income tax return, or its final report on total business income or income earned from liquidation in accordance with the Income Tax Act, and the taxation authority finds through investigation that the enterprise has under-declared or omitted to declare its taxable income assessed in accordance with the Act, it shall pay a fine of up to three times the tax calculated at the profit-seeking enterprise income tax rate applicable in the current year on the income it has under-declared or omitted to declare.
+
+\5. Where the enterprise fails to calculate each partner’s income from seeking profits in proportion to the earnings distributed to the partner in accordance with Paragraph 2, Article 28 of the Limited Partnership Act, it shall pay a fine equal to five percent of the difference between the amount of income calculated by the enterprise and the amount of income calculated in accordance with the applicable proportion. The fine shall not exceed NT$300,000 but shall not be less than NT$15,000.
+
+\6. Where the enterprise fails to file the documents under Paragraph 6 of Article 23-1 before the given deadline or makes any false statements in such documents, it shall pay a fine of NT$7,500 and file the documents or correct the statements within a time limit set forth in a notice. If it still fails to file the documents or correct the statements within the time limit, it shall pay a fine equal to five percent of the income not duly declared in the documents. The fine shall not exceed NT$300,000 but shall not be less than NT$15,000.
+
+Under any of the following circumstances, a tax withholder under Paragraph 7, Article 23-1 shall be subject to the applicable punishment set forth below.
+
+\1. Where the tax withholder fails to withhold tax in accordance with Paragraph 7, Article 23-1, it shall be given a time limit for paying the tax not withheld or under-withheld and filing a supplemental tax-withholding certificates and shall also pay a fine of up to the amount of the tax that should have been withheld or was under-withheld. If the tax withholder fails to pay the tax amount it should have withheld or it under-withheld, or to submit correct tax-withholding certificates within the given time limit, it shall pay a fine of up to three times the tax amount which should have been withheld or was under-withheld.
+
+\2. A tax withholder who has withheld taxes in accordance with Paragraph 7, Article 23-1 but fails to file a truthful tax-withholding return or issue a truthful tax-withholding certificate within the time limit prescribed in the same paragraph shall be given a time limit for supplemental filing the return or issuing the certificate and shall pay a fine ranging from NT$1,500 to NT$20,000. If a tax withholder fails to file a truthful tax-withholding return or issue a truthful tax-withholding certificate within a time limit as demanded by the taxation authority, the tax withholder shall pay a fine ranging from NT$3,000 to NT$45,000.
+
+\3. A tax withholder who fails to pay the withheld tax within the time limit prescribed in Paragraph 7, Article 23-1 shall pay a surcharge for delinquent payment at one percent of the amount of the payment due for every three days of delay.
+
+### Article 67-3
+
+If a company or limited partnership violates Paragraph 1, Article 22 by making an investment without the approval, it shall be subject to a fine ranging from NT$50,000 to NT$1 million, and may be ordered to make corrections, or cease or withdraw the investment within the specified period of time. If the investor fails to make corrections, or cease or withdraw the investment by the deadline, it may be subject to a fine ranging from NT$500,000 to NT$10 million consecutively for each violation.
+
+If a company or limited partnership that has made an overseas investment fails to comply with the additional conditions stipulated by the central competent authority in accordance with Paragraph 3, Article 22, or if the central competent authority orders it to take corrective measures or withdraw the investment in accordance with Paragraph 4, Article 22, and the company or limited partnership fails to comply with, correct, or withdraw the investment by the deadline, it may be subject to a fine ranging from NT$500,000 to NT$10 million consecutively for each violation.
+
+## Chapter Thirteen - Supplementary Provisions
+
+### Article 68
+
+This Statute shall also apply to industrial land and industrial districts designated as such in accordance with the former Act for the Encouragement of Investment or the former Statute for Upgrading Industries before this Statute comes into force.
+
+### Article 69
+
+With regard to business entities that do not conform to the definition of “companies” and “enterprises” given in Article 2 of this Statute, if they are recognized by the central government authorities in charge of the industries concerned, Articles 9, 13, 14, 16 and 26 to 28 of this Statute regarding incentives, subsidies, or counseling may apply mutatis mutandis to them.
+
+### Article 70
+
+Anyone having received tax reductions, incentives, or subsidies under other laws or regulations shall not receive the tax reductions, incentives or subsidies provided by this Statute for the same matters.
+
+If a company or enterprise has committed a material violation of any law governing environmental protection, labor, or food safety and sanitation in the past three years, and such violation has been confirmed by the central government authority in charge of the industry concerned, the company or enterprise shall not apply for any of the incentives or subsidies under this Statute and shall return any and all the incentives or subsidies received in accordance with this Statute during the period of such violation.
+
+Where an incentive or grant has to be recovered in accordance with the preceding paragraph, the central government authority in charge of the industry concerned shall publish the name of the company or enterprise on its official website after the decision on the recovery becomes final. Where the tax benefits granted to a company or enterprise in accordance with this Statute have been terminated or recovered in accordance with Paragraph 2, Article 48 of the Tax Collection Act, the Ministry of Finance shall publish the name of the company or enterprise in the year after the ruling on termination and recovery becomes final, and such publication is not subject to the restrictions under Article 33 of the Tax Collection Act.
+
+### Article 71
+
+The enforcement rules of this Statute shall be prescribed by the central competent authority.
+
+### Article 72
+
+This Statute shall come into force on the date of the promulgation thereof. However, Article 10 shall be effective only from January 1, 2010 to December 31, 2019.
+
+Amended Article 10, 12-1 and 19-1 as promulgated on December 30, 2015, shall be effective only from January 1, 2016 to December 31, 2019.
+
+As promulgated on November 22, 2017, amended Articles 12-1, 12-2, and 19-1 shall be effective only from November 24, 2017 to December 31, 2019, while amended Article 10 shall be effective only from November 24, 2017 to December 31, 2029, and amended Article 23-2 shall be effective only from November 24, 2017 to December 31, 2024.
+
+Amended Article 19-1 as promulgated on June 20, 2018, shall be effectively only from June 22, 2018 to December 31, 2019.
+
+Amended Articles 12-1, 12-2, and 19-1 as promulgated on July 24, 2019, shall be effective only from January 1, 2020 to December 31, 2029, while Article 23-3 shall be effective only from the date of its promulgation to December 31, 2029.
+
+The articles amended and promulgated on January 19, 2023 shall be effective only from January 1, 2023 to December 31, 2029.
+
+Amended Article 23-2 as amended on April 18, 2025 shall be effective only from January 1, 2025 to December 31, 2029; the effective date of amended Articles 22 and 67-3 shall be determined by the Executive Yuan.
+
+## History
+
+\1. Full text (72 articles), enacted and promulgated per Presidential Decree No. Hua-Tzung-(I)-Yi-09900112301 dated May 12, 2010. Article 10 shall be effective from January 1, 2010 to December 31, 2019, while all the other articles shall come into force from the date of promulgation.
+
+\2. Amended Articles 10 and 70, promulgated per Presidential Decree No. Hua-Tzung-(I)-Yi-10300092641 dated June 18, 2014.
+
+\3. Amended Articles 10, 33 and 72, and added Articles 12-1, 19-1 and 67-1, promulgated per Presidential Decree No. Hua-Tzung-(I)-Yi-10400152831 dated December 30, 2015. Amended Article 10 and added Articles 12-1 and 19-1 shall be effective from January 1, 2016 to December 31, 2019, while the other amended or added articles shall come into force from the date of promulgation.
+
+\4. Amended Articles 2, 8, 9, 10, 12, 12-1, 13, 18, 19-1, 27, 67-1, 68, 70, and 72, added Articles 9-1, 12-2, 23-1, 23-2, 46-1, and 67-2, and deleted Articles 6, 11, and 24, promulgated per Presidential Decree No. Hua-Tzung-(I)-Yi-10600141601 dated November 22, 2017. Articles 10, 12-1, 12-2, 19-1, and 23-2 shall be effective from November 3, 2017 to December 31, 2019, and Article 23-1 shall be effective from January 1, 2017 to December 31, 2019, while all the other amended or added articles shall come into force from the date of promulgation.
+
+\5. Amended Articles 19-1 and 72, promulgated per Presidential Decree No. Hua-Tzung-(I)-Yi-10700065671 dated June 20, 2018.
+
+\6. Added Article 10-1, promulgated per Presidential Decree No. Hua-Tzung-(I)-Jing-10800068291 dated July 3, 2019. Added Article 10-1 shall be effective from January 1, 2019 to December 31, 2022.
+
+\7. Amended Articles 9-1, 12-1, 12-2, 19-1, 23-1, 39 and 72, added Article 23-3, and deleted Article 40, promulgated per Presidential Decree No. Hua-Tzung-(I)-Jing-10800073771, dated July 24, 2019. Articles 10 and 23-2 shall be effective from November 24, 2017 to December 31, 2029; Article 23-1 shall be effective from January 1, 2017 to December 31, 2029; Articles 12-1, 12-2 and 19-1 shall be effective from January 1, 2020 to December 31, 2029, and Article 23-3 shall be effective from the date of promulgation to December 31, 2029, while the other amended or added articles shall come into force from the date of promulgation.
+
+\8. Amended Article 10-1, promulgated per Presidential Decree No. Hua-Tzung-(I)-Jing-11100014961 dated February 18, 2022.
+
+\9. Amended Articles 10-2 and 72, promulgated per Presidential Decree No. Hua-Tzung-(I)-Jing-11200005101 dated January 19, 2023.
+
+\10. Amended Articles 66-1 and 66-2, promulgated per Presidential Decree No. Hua-Tzung-(I)-Jing-11200054001 dated June 28, 2023.
+
+\11. Amended Articles 10-1, 22, 23-1, 23-2, 67-1, 67-2, 70, 72, and added Article 67-3, promulgated per Presidential Decree No. Hua-Tzung-(I)-Jing-11400044621 dated May 7, 2025. Amended Article 23-2 shall be effective from January 1, 2025 to December 31, 2029; the effective date of Articles 22 and 67-3 shall be prescribed by the Executive Yuan, while all other amended or added articles shall come into force from the date of promulgation.

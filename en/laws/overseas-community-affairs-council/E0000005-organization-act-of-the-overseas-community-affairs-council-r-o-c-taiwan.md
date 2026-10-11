@@ -1,0 +1,89 @@
+---
+title: "Organization Act of the Overseas Community Affairs Council, R.O.C. (TAIWAN)"
+title_zh: "僑務委員會組織法"
+identifier: "E0000005"
+type: act
+law_level: "法律"
+category: "行政＞僑務委員會＞組織目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1931-12-07
+last_amended: 2011-11-14
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=E0000005"
+retrieved: 2026-10-12
+---
+
+# Organization Act of the Overseas Community Affairs Council, R.O.C. (TAIWAN)
+
+> Translation. The Chinese text ([zh/laws/overseas-community-affairs-council/E0000005-organization-act-of-the-overseas-community-affairs-council-r-o-c-taiwan.md](../../../zh/laws/overseas-community-affairs-council/E0000005-organization-act-of-the-overseas-community-affairs-council-r-o-c-taiwan.md)) is authoritative.
+
+## Article 1
+
+The Executive Yuan shall establish Overseas Community Affairs Council, R.O.C.(TAIWAN) (hereinafter referred to as the“OCAC”) to handle administration of overseas community affairs and to assist overseas compatriots’ enterprises.
+
+## Article 2
+
+OCAC shall be in charge of the following matters:
+
+1.Planning and implementing, assisting and providing liaison services for educational and economic affairs of overseas compatriots;
+
+2.Handling, implementing, assisting and providing liaison services for projects of overseas compatriot groups, youths and students;
+
+3.Protecting rights of overseas compatriots and providing certification services;
+
+4.Collecting information and distributing news related to overseas community;
+
+5.Handling of all the other matters related to overseas community affairs.
+
+## Article 3
+
+OCAC shall have one Minister, who is of political appointment, and two Vice Ministers, one of whom is politically appointed to the position equivalent to the senior 14th grade and the other is appointed to the position of senior 14th grade.
+
+## Article 4
+
+OCAC shall appoint 90 to 180 Council Members, who shall serve for a three-year term without pay.
+
+## Article 5
+
+OCAC shall have one Secretary-General, who is appointed to the position of senior 12th grade.
+
+## Article 6
+
+If necessary, OCAC may dispatch personnel to serve abroad based on the Organization Act of Diplomatic Missions upon approval from the Executive Yuan.
+
+## Article 7
+
+The ranks, grades and headcount of OCAC staff are regulated by a separate Personnel Establishment Table.
+
+## Article 8
+
+The date of implementation of this Act shall be determined by an order issued by the Executive Yuan.
+
+## History
+
+1.Enacted and promulgated by the National Government of the R.O.C. on December 7. 1931.
+
+2.First amended and promulgated by the National Government of the R.O.C. on August 13, 1932.
+
+3.Secondly amended and promulgated by the National Government of the R.O.C. on November 5, 1936.
+
+4.Thirdly amended and promulgated by the National Government of the R.O.C. On July 16, 1947.
+
+5.The full text of 18 articles was fourthly amended and promulgated on September 27, 1947.
+
+6.Amended and promulgated by Presidential Decree (61) Tai-Tong-(1)-Yi-Zi No. 891 on August 15, 1972.
+
+7.Amended and promulgated by Presidential Decree (70) Tai-Tong-(1)-Yi-Zi No. 8209 on December 21, 1981.
+
+8.Presidential Decree (87) Hua-Tong-(1)-Yi-Zi No. 8700012670 was issued on January 21, 1998, amending Articles 14, 15, 17 and 20, and introducing Articles 15-1 to 15-3.
+
+9.Presidential Decree Hua-Zong-Yi-Yi-Zi No. 09400193001 was issued on November 30, 2005, amending Articles 11, 14, 23; the effective date of the amended articles shall be determined by the Executive Yuan through an order.
+
+Administrative Order Yuan-Shou-Yan-Zong Zi No. 09500238686 was issued on December 1, 2006; the order came into effect on January 2, 2007.
+
+10.President Decree Hua-Zong-Yi-Yi-Zi No.10000252501 was issued on November 14, 2011, amending and promulgating the full text of 8 articles of the Act; the effective date of the amended articles shall be determined by the Executive Yuan through an order.
+
+Administrative Order Yuan-Shou-Yan-Zong-Zi No. 1012260099 was issued on February 21, 2012; the order came into effect on September 1, 2012.

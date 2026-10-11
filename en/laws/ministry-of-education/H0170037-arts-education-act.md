@@ -1,0 +1,215 @@
+---
+title: "Arts Education Act"
+title_zh: "藝術教育法"
+identifier: "H0170037"
+type: act
+law_level: "法律"
+category: "行政＞教育部＞終身教育目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1997-03-12
+last_amended: 2015-12-30
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=H0170037"
+retrieved: 2026-10-12
+---
+
+# Arts Education Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-education/H0170037-arts-education-act.md](../../../zh/laws/ministry-of-education/H0170037-arts-education-act.md)) is authoritative.
+
+## Chapter 1 General Principles
+
+### Article 1
+
+The purpose of Arts Education is to cultivate artistic talent, improve the artistic literacy of people, strengthen their sense of aesthetics and creativity, enrich their spiritual life, and raise the overall level of culture.
+
+### Article 2
+
+Arts education is implemented in order to improve the artistic literacy of people and enhance their sense of aesthetics. The Arts Education includes the following categories:
+
+1.Performance Arts Education.
+
+2.Visual Arts Education.
+
+3.Audio-visual Arts Education.
+
+4.Arts Administration Education.
+
+5.Other types of education related to art and aesthetics.
+
+### Article 3
+
+The Competent Education Authority for Arts Education shall be the Ministry of Education at the level of central government; the municipal government at the level of special municipalities; and the county（city）government at the level of counties（or county-level cities）.
+
+### Article 4
+
+Arts Education is implemented in the following three ways:
+
+1.School Professional Art Education.
+
+2.School General Art Education.
+
+3.Social Art Education to Public.
+
+The education of the preceding paragraph shall be implemented by schools, social education institutions, other cultural and educational institutions, or social associations in accordance with the nature of the education.
+
+### Article 5
+
+The Competent Education Authorities at each level shall grant awards to those organizations, associations, and individuals with outstanding achievements in the work of arts and aesthetic education; the relevant governing regulations shall be prescribed by the Competent Education Authorities at each level.
+
+Schools shall promote and enforce respect for patent rights, trademark rights, copyrights and other intellectual property rights of works derived from arts education activities.
+
+### Article 5-1
+
+The Competent Education Authority shall oversee all schools at the senior high school level or below within their jurisdiction regarding their curriculum arrangement and lectures in accordance with relevant curriculum standards. In case that the relevant regulations are not followed by such schools, it is required that the Competent Authorities set a deadline for improvement and provide follow-up guidance.
+
+## Chapter 2 Professional Arts Education Offered at Schools
+
+### Article 6
+
+The purpose of the School Professional Art Education is to teach art theory and technique, to carry out artistic research and creation, and to cultivate diverse Arts Professionals.
+
+### Article 7
+
+School Professional Art Education shall be provided by schools of the following types and at the following levels:
+
+1.The art departments or graduate institutes of universities, colleges, and junior colleges.
+
+2.Universities, colleges, junior colleges, and senior high schools for arts education and their affiliated junior high school or elementary school divisions.
+
+3.Art Gifted Classes at senior high schools, junior high schools, and elementary schools.
+
+As educational needs require, the universities, colleges, junior colleges, and senior high schools for arts education under subparagraph 2 of the preceding paragraph may implement a single-track educational system after receiving approval from the designated administrative authority for arts education.
+
+### Article 8
+
+After applying to and receiving approval from the designated administrative authorities for arts education, schools at the senior high school level or below may establish classes for artistically gifted students to guide them in appropriate development based on their abilities, inclinations, and interests.
+
+The standards for establishment of the Art Gifted Classes  under the preceding paragraph shall be prescribed by  the Ministry of Education.
+
+When necessary, schools may organize a professional qualification review team to evaluate part-time teachers and substitute teachers of the Art Gifted Classes, and supervise matters relevant to the hourly salary of such teachers.
+
+In case that the Art Gifted Classes   underperform, and there is still no improvement after the deadline set by the designated administrative authorities for arts education, it may be ordered to decrease the number of classes.
+
+### Article 9
+
+Extension education may be offered by schools for arts education at all levels, as well as universities, colleges, and junior colleges with art departments or graduate institutes,  and senior high schools, junior high schools, and elementary schools with Art Gifted Classes ; the relevant governing regulations shall be prescribed by the designated educational authorities at the corresponding levels.
+
+### Article 10
+
+As educational needs require, practice, performance, and research units or venues may be established at schools at all levels, as well as universities, colleges, and junior colleges with art departments or graduate institutes, and senior high schools, junior high schools, and elementary schools with Art Gifted Classes .
+
+The regulations governing establishment and management of the units and venues of the preceding paragraph shall be formulated by the respective schools and submitted to the Competent Education Authorities at the corresponding levels for ratification. Schools may apply to their respective designated educational authority for subsidies for the establishment of such units and venues.
+
+### Article 11
+
+The qualifications for student enrollment and the required years of study at schools for arts education at various levels, as well as at universities, colleges, and junior colleges with art departments or graduate institutes, and at schools with Art Gifted Classes shall be as provided in the laws and regulations governing the schools at each respective level.  For students with special artistic talent who pass specific screening tests, however, the age of admittance may be lowered, admission qualifications relaxed, or the required years of study reduced.
+
+The regulations governing the age of admittance, relaxation of admission qualifications, and  reduction of required years of study for students with special artistic talent, and the standards for their special screening tests, shall be prescribed by the Ministry of Education.
+
+### Article 12
+
+Assessments of students enrolling at the affiliated junior high school or elementary school divisions of senior high schools for arts education, or in Art Gifted Classes at junior high or elementary schools, shall be carried out by the designated education authorities; parental applications and registrations shall not be subject to restriction based on their individual school district.
+
+### Article 13
+
+If a student enrolled in an art school（or class）of senior high school level or below is unable to continue studies for some reason there or has failed to adapt successfully, as determined through meetings by school officials, the student may be transferred to ordinary classes through guidance by the original school of enrollment or apply for transfer to a different school.
+
+### Article 14
+
+Courses offered by schools at all levels that provide professional arts education or  Art Gifted Classes shall focus on professionalism. Matters regarding facilities, class organization, qualifications for appointment of teachers, staff organization, and curriculum design shall be determined through joint discussions between schools, experts and representatives of parents invited by the school, in coordination with the needs of each individual art subjects.
+
+### Article 14-1
+
+The Competent Education Authority at each level shall allocate funds specially designated for the promotion of professional arts education activities to be held by schools at all levels.
+
+## Chapter 3 General Arts Education at Schools
+
+### Article 15
+
+The purpose of School General Art Education is to increase the knowledge of art among students, enhance their ability to appreciate art, cultivate greater enjoyment of life, and develop their artistic potentials.
+
+### Article 15-1
+
+The Central Competent Education Authority shall assist special municipality / city / county governments to augment the number of professional teachers in the field of arts for schools in remote areas or for schools of a smaller size via jointly appoint, itinerant guidance or other approaches; when necessary, subsidies may be granted.
+
+### Article 16
+
+Schools at all levels shall implement effective education in art subjects, offering relevant arts courses and art appreciation courses, and enhancing the materials and teaching methods used.
+
+The art appreciation courses of the preceding paragraph shall be listed as required common courses for all schools at the senior high school level and below. The Ministry of Education shall prescribe unified curriculum standards to ensure consistency in the courses.
+
+### Article 16-1
+
+In line with the implementation of art-related courses, besides schools at all levels calling for artists to join the artists-in-residence projects, Artists or Professional Art Associations may submit application, along with relevant resumes, for such projects; the scope and procedures of implementation, content of work, subsidy items and criteria shall be prescribed by the competent  education authorities at each level.
+
+### Article 17
+
+Schools at all levels shall augment their arts education facilities, beautify their school campus environments, organize artistic activities related to daily life, and encourage the development of art societies within the school.
+
+Schools at all levels shall make good use of the artistic resources in their local area and strengthen their ties with arts organizations in order to enhance the quality of their general arts education.
+
+### Article 18
+
+The Competent Education Authorities at various levels shall allocate funds specially designated for the funding of general art education activities to be held by schools at all levels.
+
+## Chapter 4 Arts Education for the Public
+
+### Article 19
+
+The purpose of Social Art Education to Public is to promote educational activities relating to art among the general public, to further its understanding of the arts, and to inculcate an optimistic and progressive outlook on life, with the aim of achieving social harmony and well-being.
+
+### Article 20
+
+For the purpose of this Act, " Social Art Education to Public " refers to the provision of various educational activities relating to art among the general public in addition to the arts education provided in schools.
+
+### Article 21
+
+The Competent Authorities for education and culture at all levels shall consider the needs of the society when developing human resources for Social Art Education to Public Educator  and for traditional arts educatior.
+
+### Article 22
+
+For the purpose of providing Social Art Education to Public, public social and cultural organizations shall select and appoint specialists or skilled craftsmen in arts; the relevant governing regulations shall be jointly prescribed by the Ministry of Education and the Central  Competent Culture Authority.
+
+### Article 23
+
+For the purpose of promoting Social Art Education to Public, the Ministry of Education or the Central  Competent Culture Authority may provide guidance to private professional associations in carrying out artistic skill assessments and certifications; the relevant governing regulations shall be jointly prescribed by the Ministry of Education and the Central  Competent Culture Authority.
+
+### Article 24
+
+For the purpose of raising the artistic level of the society, the Competent Authorities for education and culture at all levels shall engage in comprehensive planning and promotion of art education activities for the public, and shall bring together or assist various public and private organizations, schools, and social associations in holding these activities.
+
+The Competent Authorities for education and culture at all levels and institutions for cultural activities and non-scholastic education may establish their own or affiliated performing groups.
+
+### Article 24-1
+
+Authorities and schools at the senior high school level or below shall encourage staffs and teachers to participate in arts and aesthetic courses or activities every year.
+
+Arts and aesthetic courses or activities of the preceding paragraph may include relevant speeches, discussions, web learning, experience activities, experiments, internships, field trips, visits to related units, video watching, practice, or other arts or aesthetic activities.
+
+### Article 25
+
+The Competent Authorities for education and culture at all levels shall allocate funds specially designated for the promotion of art education activities for the public.
+
+The Competent Authorities for education and culture at all levels shall grant awards for the establishment of private foundations that promote Social Art Education to Public; the relevant governing regulations shall be jointly prescribed by the Ministry of Education and the Central  Competent Culture Authority.
+
+## Chapter 5 Supplementary Provisions
+
+### Article 26
+
+The enforcement rules for this Act shall be prescribed by the Ministry of Education.
+
+### Article 27
+
+This Act shall enter into force from the date of promulgation.
+
+## History
+
+\1. Full text of 27 articles promulgated per 12 March 1997 Presidential Order No. (86)-Hua-Zong-(I)-Yi-Zi-8600060070
+
+\2. Article 3 amended and promulgated per 19 January 2000 Presidential Order No. (89) Hua-Zong-I-Yi-8900011870
+
+\3. Legislative History: Articles 1, 2, 5 and 8 amended and Articles 5-1, 14-1, 15- 16-1 and 24-1 newly added per the 30th of December 2015 Presidential Order No. (104) Hua-Zong-Yi-Yi-10400151431

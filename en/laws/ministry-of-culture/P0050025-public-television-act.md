@@ -1,0 +1,471 @@
+---
+title: "Public Television Act"
+title_zh: "公共電視法"
+identifier: "P0050025"
+type: act
+law_level: "法律"
+category: "行政＞文化部＞影視出版目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1997-06-18
+last_amended: 2026-02-04
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=P0050025"
+retrieved: 2026-10-12
+---
+
+# Public Television Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-culture/P0050025-public-television-act.md](../../../zh/laws/ministry-of-culture/P0050025-public-television-act.md)) is authoritative.
+
+## Chapter I General Provisions
+
+### Article 1
+
+This Law is enacted to promote the effective development of public television, ensure that broadcast content conforms to the needs of a multicultural society, best utilize digital technology, and safeguard the citizens' freedom of expression and right to know, provide news and information services, advance the development of broadcast industry and democratic society, and enhance social wellbeing through diversified planning.
+
+### Article 2
+
+In order to realize the objectives of this Law, the Public Television Service Foundation (referred to hereinafter as the "PTS Foundation") shall be established to operate the Public Television Service (referred to hereinafter as "PTS").
+
+In addition to the provisions of this Law, the provisions of the Foundations Act, the Civil Code, and regulations concerning communications and related matters are applicable to the establishment, organization, and operation of the PTS Foundation.
+
+A budget for the PTS Foundation shall be made by the government as a budgetary donation in accordance with this Act.
+
+In addition to the aforementioned donation, the government should discuss adjusting its budget every year in line with the PTS Foundation’s operational needs, annual work plans, and medium and long-term plans.
+
+### Article 3
+
+The competent authority for the PTS Foundation shall be the Ministry of Culture.
+
+### Article 4
+
+The establishment fund of the PTS Foundation shall be provided by the regulatory agency with a budgetary contribution of NT$100 million, and property purchased with the budgets allocated for PTS establishment preparations in the previous years shall also be contributed, where the restrictions in Paragraph 1 of Article 25 of the Budget Law notwithstanding.
+
+National property required for conducting the affairs of the PTS Preparatory Committee at the time of its establishment shall be provided gratis by the regulatory agency for use by the PTS Foundation, except when otherwise contributed under the preceding article. However, this provision shall not apply when there is a change in situation such that the operations of the PTS Foundation and its program productions and broadcasts no longer meet the objectives of its establishment.
+
+### Article 5
+
+The PTS Foundation shall be established in the same location as the central government, and branch offices may be established when necessary.
+
+### Article 6
+
+(Repealed)
+
+### Article 7
+
+The required electromagnetic wave frequencies for PTS shall be planned and designated by the Ministry of Culture in coordination with the competent authority for over-the-air frequencies.
+
+The aforesaid frequencies shall not be leased, loaned, or transferred.
+
+### Article 8
+
+(Repealed)
+
+### Article 9
+
+When it is necessary for PTS to obtain or utilize certain land to establish a branch station, transmitting station, repeater station, or relay station, the relevant government agencies shall provide assistance.
+
+### Article 10
+
+The PTS Foundation operations shall include the following:
+
+\1. Plan and operate television channels
+
+\2. Produce and distribute broadcast content
+
+\3. Provide broadcast services that meet the needs of varied groups and locales
+
+\4. Offer international broadcast services and conduct international exchanges
+
+\5. Produce, distribute, and promote audiovisual products and publications related to broadcast content
+
+\6. Train broadcast professionals
+
+\7. Research, innovate, and promote broadcast technology and content production
+
+\8. Other operations that contribute to the objectives in Article 1.
+
+The PTS Foundation shall establish dedicated channels via which to perform the operations listed in Subparagraph 3 and 4 and shall ensure that its budget and special funds are earmarked.
+
+The PTS Foundation shall establish dedicated channels to perform the operations listed in Subparagraph 3 of Paragraph 1 and ensure that their operation remains independent and safeguards the subjectivity of different groups.
+
+### Article 11
+
+Public television belongs to the entire body of citizens. It shall operate independently without interference, and shall observe the following principles:
+
+\1. Furnish complete information, fairly serve the public, and not serve profit-making objectives
+
+\2. Provide the public proper access to PTS, and especially protect the rights and interests of disadvantaged groups
+
+\3. Offer or sponsor the production and presentation of various folk arts, literature, and arts, in order to promote balanced cultural development
+
+\4. Introduce new information and concepts
+
+\5. Produce and broadcast programs that safeguard human dignity; meet the fundamental constitutional spirit of freedom, democracy, and rule of law; and maintain diversity, objectivity, fairness, and balance of different ethnic groups.
+
+### Article 12
+
+If techniques and budget permit, the PTS Foundation shall offer complete TV reception of the same quality to viewers nationwide.
+
+### Article 12-1
+
+Operators of cable television systems that provide multimedia content streaming services shall provide channel location free of charge and broadcast content from the PTS Foundation’s over-the-air channels, community-specific channels, and international broadcast channels. Operators may not change the format, content, or channel. Cable television system operators shall offer these as basic channels.
+
+No costs shall ascribe to cable television system operators offering multimedia streaming services that provide the broadcasting services mentioned in the preceding Paragraph and their provision of said services does not connote copyright infringement.
+
+## Chapter II Organization
+
+### Article 13
+
+The PTS Foundation shall set up a board of directors, consisting of 11 to 15 people. One director shall be an employee representative. The PTS Foundation shall also have a Board of Supervisors of between three and five people.
+
+Directors and supervisors shall be selected as follows:
+
+\1. The Legislative Yuan shall recommend 11 to 15 just and fair people from society to form the PTS Directors and Supervisors Review Committee.
+
+\2. Candidates for PTS directors and supervisors (not including the employee representative) shall be nominated by the Executive Yuan and then submitted to the premier for appointment with the consent of more than two-thirds of the members of the Review Committee.
+
+\3. A candidate for the director representing appointees shall be nominated by the PTS enterprise union and provided to the competent authority for submission to the premier for appointment.
+
+When the Executive Yuan nominates candidates for director or supervisor in line with Item 2, it shall ensure that each gender accounts for at least one-third of nominees for each position.
+
+The selection of PTS directors shall consider ethnic representation and a balanced representation from education, arts, literature, academics, communications, and other professional fields.
+
+Not more than a quarter of PTS directors shall be of the same political party affiliation; no more than one-third of supervisors may be members of the same political party. Directors and supervisors may not participate in political activities during their tenures.
+
+### Article 14
+
+The following persons shall not serve as PTS directors or supervisors:
+
+\1. Public officials, exclusive of educators and researchers at all levels of public schools and academic institutions
+
+\2. Political party workers
+
+\3. Responsible persons and executives of over-the-air and cable radio and television enterprises
+
+\4. Manufacturers, importers, and dealers of transmitting equipment and facilities
+
+\5. Persons whose total investments in the enterprises of the preceding two items exceed 5 percent of the capitalization of the enterprises
+
+\6. Members of the Review Committee
+
+\7. Non-ROC citizens
+
+\8. Those who have received a bankruptcy declaration or who are in the process of liquidation under the Consumer Debt Clearance Statute and have not resumed their rights
+
+\9. Those not yet released from guardianship or assistance where such has been announced.
+
+### Article 15
+
+The board of directors shall:
+
+\1. set the operational orientation of the PTS;
+
+\2. approve annual work plans;
+
+\3. review and approve PTS's fiscal budget and final accounts;
+
+\4. decide the orientation of PTS programming and development and supervise their implementation;
+
+\5. decide the establishment and dissolution of PTS branches;
+
+\6. amend the charter of the PTS Foundation;
+
+\7. formulate and revise important regulations on business management and implementation;
+
+\8. select and appoint the president and confirm the selection and appointment of the vice president and other first-level executives;
+
+\9. evaluate and approve the PTS personnel system;
+
+\10. establish various ad hoc advisory committees; and
+
+\11. perform other obligations of the board of directors as authorized by this Law or the charter.
+
+### Article 16
+
+A director shall serve a term of three years and is eligible for re-appointment when the term of service expires.
+
+In accordance with Article 13, the procedure for the appointment or reappointment of a director shall commence six months prior to the expiration of the incumbent director’s term of office.
+
+### Article 17
+
+There shall be one chairperson on the board of directors who shall be elected by the directors from among themselves.
+
+The chairperson shall be in charge of the general affairs of the board, preside at board meetings, and represent the PTS Foundation in dealing with third parties.
+
+In the event that the chairperson cannot exercise his powers for any cause whatsoever, he shall designate one of the directors to act on his behalf during his absence. If the chairperson fails to make such a designation, the directors shall elect from among themselves, a chairperson to act on his behalf.
+
+In the event that the chairperson cannot exercise his powers for more than three months for any cause whatsoever, he may be removed from office by a resolution of the board of directors.
+
+### Article 18
+
+The PTS Foundation shall request that the premier remove a director from office when any of the following situations are applicable to that particular director:
+
+\1. Any situation as stipulated in Subparagraph 1 through 7 of Article 14
+
+\2. Where a director has resigned
+
+\3. Where a director has been sentenced to imprisonment with possibility of parole (save where a sentence is suspended or in cases of negligence).
+
+\4. Where regulations or the organization’s charter have been violated during the execution of the director’s duty such that the public interest or the rights and interests of the PTS Foundation have suffered
+
+\5. Where the director representing employees has lost the standing of a member of the PTS enterprise union
+
+\6. The director's conduct is determined through a board resolution to have violated the duties of a director or acted in such a way that is improper for a director.
+
+Where the PTS Foundation fails to request a dismissal in accordance with the above, the competent authority shall require that it act within a prescribed time. Where the PTS Foundation fails to do so within the prescribed time, the competent authority shall request the premier to order a dismissal.
+
+Where the circumstances of Subparagraph 8 or 9 of Article 14 apply, this shall result in automatic dismissal.
+
+Where a director is dismissed or leaves office, pursuant to the preceding three paragraphs, the central competent authority shall inform the local district court to register the fact.
+
+### Article 19
+
+In the event that one-third of the directors or the seat for the director representing employees have vacated their offices, new directors shall immediately be selected pursuant to Article 13 to fill the vacancies. The new directors shall serve until the original term expires.
+
+When the chairperson has vacated office, one of the directors shall be elected by the directors to exercise the chairperson's powers until the original term expires.
+
+### Article 20
+
+The chairperson shall be a full-time paid position. Individuals serving as chair are not to be receiving other salary, monthly pension, monthly severance pay, or other like remuneration. Directors shall receive no compensation other than fees for attending board meetings.
+
+The board of directors shall meet at least once per month. Special meetings shall be called at such times as deemed necessary by the chairperson or upon request by at least one-third of the directors.
+
+Except as otherwise provided herein, the board shall adopt no resolution unless the meeting is attended by two-thirds of the directors and a majority of the votes are cast in favor of the resolution.
+
+### Article 21
+
+Supervisors shall elect from among themselves one individual to serve as standing supervisor at meetings.
+
+Supervisors shall have relevant knowledge and experience in mass media, law, or accounting. Related provisions regarding the directors in this Law shall apply to the hiring, dismissal, replacement, term extension, and automatic dismissal of the supervisors.
+
+The board of supervisors shall audit the use of funds by the PTS Foundation and determine whether there has been a violation of the PTS Foundation's Financial Auditing Procedures and other laws.
+
+The board of directors shall prescribe the PTS Foundation's Financial Auditing Procedures mentioned in the preceding paragraph.
+
+### Article 22
+
+The PTS Foundation shall have a president, who shall be nominated by the chairperson of the board and approved by two-thirds of the directors. There shall be one to three vice presidents, depending on the requirements of the business. The vice presidents shall be nominated by the president and approved by the board of directors.
+
+### Article 23
+
+The president shall be directed and supervised by the board of directors in conducting the business of the PTS Foundation. Within the scope of his powers, the president shall represent the PTS Foundation. The vice presidents shall assist the president with the business, and shall act on his behalf in his absence.
+
+Managers and other first-level executives shall be nominated by the president and approved by the board of directors.
+
+### Article 24
+
+The following conduct of the president shall be subject to the advance written approval of the board of directors:
+
+\1. Acquiring, transferring, leasing, lending, or mortgaging real estate
+
+\2. Transferring, leasing, lending, or mortgaging all or part of the transmitting facilities
+
+\3. Investing in other industries related to the operational objectives of public television
+
+\4. Other items requiring the approval of the board of directors as mandated by this Law or the charter.
+
+Companies subject to PTS Foundation investment in accordance with Subparagraph 3 of the preceding paragraph shall be restricted to limited companies or companies limited by shares.
+
+The board of directors shall report the actions under Subparagraph 1 and 2 of Paragraph 1 to the regulatory agency.
+
+### Article 25
+
+The president and the vice president may not concurrently serve as a public official or political party worker, conduct other businesses, engage in profit-making businesses, or invest in newspapers, news agencies, or radio, television, film, video tape, or other mass media businesses.
+
+### Article 26
+
+The president or vice president shall be dismissed by the board of directors, if he:
+
+\1. has violated any Subparagraph in Paragraph 1 of Article 24;
+
+\2. in receipt of a bankruptcy declaration or in the process of liquidation under the Consumer Debt Clearance Statute and rights have not been resumed;
+
+\3. not yet released from guardianship or assistance where such has been announced; or
+
+\4. has been determined by a board resolution to have violated his duties or acted in such a way that is improper for his position.
+
+### Article 27
+
+To ensure the professionalism and independence of news production, the staff of the news department shall elect from among themselves three to five representatives to formulate policy on news production and broadcasting with the president.
+
+## Chapter III Funds and Financial Affairs
+
+### Article 28
+
+The funds for the PTS Foundation shall come from:
+
+\1. The Cultural Development Fund;
+
+\2. donations and grants out of the government’s general budget;
+
+\3. interest from operating the PTS Foundation’s funds;
+
+\4. operating income;
+
+\5. income from investment in other businesses;
+
+\6. contributions from the public and private institutions, organizations, or individuals at home and abroad;
+
+\7. other sources of income.
+
+### Article 29
+
+The PTS Foundation shall effectively use its funds consistent with the establishment purposes of the foundation.
+
+### Article 30
+
+The business year of the PTS Foundation shall be identical with the fiscal year of the government.
+
+The annual business plan and the revenue and expenditure budget of the PTS Foundation shall be compiled by the president and then sent to the board of directors for review.
+
+To apply for government contributions as a part of its annual funds, the PTS Foundation shall submit the annual business plan and the revenue and expenditure budget to the board of directors for approval and then to the regulatory agency for the required budget procedure.
+
+### Article 31
+
+At the end of the business year, the residual budget of the PTS Foundation, with the exception of reserved items, shall be listed as part of the remainder of the Foundation's fund.
+
+### Article 32
+
+At the end of the business year, the PTS Foundation shall prepare an annual business report detailing its performance and final revenue and expenditure accounts for review and approval by the board of directors, individual review by each supervisors, whereupon it shall be sent to the regulatory agency for the required final accounting procedure.
+
+### Article 33
+
+In accordance with the provisions of Articles 30 and 32 of this Law, the Legislative Yuan shall review the budget and final accounts of the PTS Foundation and may invite the chairperson of the board of directors or the president of the PTS Foundation to attend the Legislative Yuan's meetings for interpellation or explanation.
+
+### Article 34
+
+The PTS Foundation shall have its business plans, fund management, use of funds, list of property, table of assets and liabilities, balance sheets, and other documents related to its operation and financial situation, certified by accountants and make them available to the public on its premises.
+
+### Article 35
+
+PTS shall make its documents on personnel affairs, salary framework, budget (excluding construction project tenders), research papers, annual reports, list of contributors, copyright, and other materials approved by the board of directors available to the public with overhead costs charged.
+
+## Chapter IV Program Production and Broadcast
+
+### Article 36
+
+Program production and broadcasting shall:
+
+\1. raise citizens' cultural standards and promote national educational and cultural development;
+
+\2. maintain diversity and a balance of different types of programs;
+
+\3. ensure objectivity and fairness, and offer opportunities for fair participation and expression of opinions to the public and different groups;
+
+\4. respect personal reputations and protect the right of privacy;
+
+\5. vigorously provide programs that are suitable for viewing by children, juveniles, women, and the elderly, and which are beneficial to their mental and physical development and health;
+
+\6. refrain from commenting on lawsuits that are under investigation or trial, or judicial personnel handling the cases or the parties involved; or reporting the debate of lawsuits that are prohibited from being open to the public;
+
+\7. make no political or religious publicity for any political party or religious group; and
+
+\8. refrain from violating the law, disrupting public order, or adversely affecting good social customs.
+
+### Article 37
+
+News programming shall:
+
+\1. be clearly distinguished from commentaries and include no personal views of the reporter;
+
+\2. be accurate, objective, and fair; not distort or conceal important facts, or influence the viewers' judgment through suggestive means; and
+
+\3. include information on important international, national, and local events.
+
+### Article 38
+
+Chinese subtitles shall be added to foreign-language programs broadcast in the original language.
+
+Educational, information, and recreational programming shall take into consideration the needs of different linguistic groups and those with hearing and/or visual impairments. Regional dialect educational programming shall be suitably provided.
+
+Local drama, cultural, and arts programming shall be produced and broadcast in the local dialect to express their special characteristics, and Chinese subtitles shall be added.
+
+PTS shall provide subtitle-decoding signals for selection by the audience.
+
+An appropriate amount of news programming shall be broadcast in the foreign language in order to meet the requirements of globalization.
+
+### Article 39
+
+The name of the program producer shall be listed at the end of each program transmission.
+
+### Article 40
+
+The PTS Foundation shall assign ratings to programming broadcast on its television channels in accordance with related laws and regulations, or it shall take other related measures.
+
+At least half an hour each of programming for children and juveniles shall be scheduled between 17:00 and 20:00 hours daily from Monday through Friday. At least one hour each of programming for children and juveniles shall be broadcast on weekends and holidays, in time slots determined by PTS according to the daily routine of the children and juveniles.
+
+### Article 41
+
+PTS may not broadcast commercial advertisements, but the name of the sponsor may be noted at the end of program planned and produced by the station.
+
+### Article 42
+
+PTS program tapes shall be preserved for at least one year for reference.
+
+PTS shall establish a library for long-term collection and preservation of outstanding videotaped programs that shall be made available for public viewing.
+
+The board of directors shall prescribe the regulations governing the organization of the library and management of the videotaped programs mentioned in the preceding paragraph.
+
+## Chapter V Administrative Relief
+
+### Article 43
+
+If an aggrieved party considers a report by PTS to be erroneous, the said party may request a correction within 15 days of its broadcast. Within ten days of receiving the request, PTS shall make the correction in the same program or another program in the same time slot or a program especially established for corrections. If PTS considers that there has been no error in the program, it shall state its reasons in a written response to the aggrieved party.
+
+If the rights and interests of an aggrieved party are impaired due to an erroneous report, the related personnel of the PTS Foundation, and PTS shall be held for civil or criminal liability in accordance with the law.
+
+### Article 44
+
+When a PTS commentary involves other individuals, organizations, or groups to the extent that their rights and interests are impaired, the aggrieved party may request a commensurate opportunity to respond.
+
+The provisions of the preceding article shall apply to the right of requesting a response and to the method of administrative relief.
+
+### Article 45
+
+During the election campaign period for public officials, if a PTS program or commentary involves specific candidates or political parties, and the said party requests a correction or an opportunity to respond in accordance with the provisions of the preceding two articles, PTS shall make an immediate correction or provide an appropriate opportunity to respond. The response may be made in writing when necessary.
+
+### Article 46
+
+If a viewer considers that a PTS program has violated the provisions of Article 36 to Article 41, he may send a written complaint with specific facts to PTS within 15 days of the broadcast of the program. PTS shall state its reasons and the methods for reconsideration in case the complainant does not accept its disposition, in a written response to the complainant within 30 days of receiving the complaint.
+
+If PTS does not fulfill the obligations of the preceding paragraph, or if a complainant does not accept PTS's disposition of the preceding paragraph, the complainant may send a written request for reconsideration to the board of directors within 30 days. After receiving the request, the board of directors shall make a decision within 30 days and shall state its reasons in a written response to the complainant, the program producer, and the president.
+
+If the program producer does not accept PTS's disposition of the case in Paragraph 1, he may apply for reconsideration in accordance with the provisions of the preceding paragraph.
+
+## Chapter VI Supplementary Provisions
+
+### Article 47
+
+The board of directors of the PTS Foundation shall formulate the charter within three months of the first day of the first meeting. The regulatory agency shall submit the charter to the Legislative Yuan for reference and shall apply for corporate registration with a court.
+
+### Article 48
+
+In the event that the PTS Foundation is unable to fulfill the objectives for its establishment due to changed circumstances, it may be dissolved by resolution of the Legislative Yuan. After dissolution, the remaining property shall belong to the national treasury.
+
+Article 37 to 43 of the Civil Code shall apply to the liquidation of the PTS Foundation.
+
+### Article 49
+
+This Law shall become effective on the day it is promulgated.
+
+The articles of this Law amended on December 11, 2009 shall take effect on November 23, 2009.
+
+## History
+
+1.Promulgated by Presidential Order Hua Tsung (1) I No. 8600139050 on June 18, 1997
+
+2.Revised Articles 2 and 24 promulgated by Presidential Order Hua Tsung (1) I No. 9000203930 on October 17,2001
+
+3.Revised Articles 4 promulgated by Presidential Order Hua Tsung (1) I No. 09300117601 on June 23,2004
+
+4.Revised Articles 13 promulgated by Presidential Order Hua Tsung (1) I No. 09800166551 on July 8,2009
+
+5.Revised Articles 18、26 and 49 promulgated by Presidential Order Hua Tsung (1) I No. 09800323241 on December 30,2009, and take effect on November 23, 2009
+
+6.In accordance with Presidential Proclamation No. Huazong Yi Yi 1200051201 on June 21,2023, Articles 1 to 3, 7, 10, 13, 14, 16, 18 to 21, 26, 28, 32, and 40 are hereby amended; Article 12-1 is added; Articles 6 and 8 are repealed.
+
+7.In accordance with Presidential Proclamation No. Huazong Yi Yi 11500011041 dated February 4, 2026, Article 16 is hereby amended.

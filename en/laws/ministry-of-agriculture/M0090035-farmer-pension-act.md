@@ -1,0 +1,277 @@
+---
+title: "Farmer Pension Act"
+title_zh: "農民退休儲金條例"
+identifier: "M0090035"
+type: act
+law_level: "法律"
+category: "行政＞農業部＞農民輔導目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2020-06-10
+last_amended: 2026-02-11
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0090035"
+retrieved: 2026-10-12
+---
+
+# Farmer Pension Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-agriculture/M0090035-farmer-pension-act.md](../../../zh/laws/ministry-of-agriculture/M0090035-farmer-pension-act.md)) is authoritative.
+
+## CHAPTER I General Provisions
+
+### Article 1
+
+The specific legislative intent of this Act is to encourage farmers to save money for their old age, enhance guarantees of the quality of life for retired farmers, stabilize rural society, and promote rural economic development.
+
+### Article 2
+
+The term “Competent Authority” as used in this Act shall mean the Ministry of Agriculture.
+
+### Article 3
+
+The term “farmers’ pension” as used in this Act shall be comprised of monthly payments from farmers and the Competent Authority.
+
+Farmers who are not yet 65 years old and have not collected payments for the elderly under relevant social insurance and who meet one of the following criteria shall be eligible to make payments into farmers’ pensions in accordance with this Act:
+
+\1. Persons covered by Farmers’ Health Insurance (hereafter FHI) who are actually engaged in agricultural work.
+
+\2. Persons who are insured under Labor Insurance or National Pension Insurance, are actually engaged in agricultural work, and do not have an employer to pay, in accordance with the law, into an occupational pension fund for them.
+
+Farmers mentioned in the previous Paragraph who are making payments into farmers’ pensions in accordance with this Act shall continue to be covered by FHI, Labor Insurance, or National Pension Insurance during the time they are paying into their farmers’ pensions.
+
+To qualify as “actually engaged in agricultural work” as mentioned in Subparagraph 2 of Paragraph 2, the regulations governing qualifying conditions, documents to be included for inspection, application and review processes, and other items that must be complied with, shall be determined by the Competent Authority.
+
+### Article 3-1
+
+Persons already collecting retirement payments from Military Insurance and who meet one of the following criteria can make payments into farmers’ pensions in accordance with the preceding Article without being subject to the restriction in Paragraph 2 of the preceding Article limiting farmers’ pensions to persons who have not collected payments for the elderly under relevant social insurance:
+
+\1. Persons who fall under the provisions of Subparagraph 1 of Paragraph 2 of the preceding Article and who participate in FHI under Article 5-1 of the Farmer Health Insurance Act.
+
+\2. Persons who fall under Subparagraph 2 of Paragraph 2 of the previous Article and also meet the following criteria:
+
+(1) Were 50 years of age or younger at the time of first applying to begin making payments into farmers’ pensions.
+
+(2) Have not collected pensions or retirement pay under Subparagraph 2 of Paragraph 1 of Article 23 of the Act of Military Service for Officers and Non-commissioned Officers of the Armed Forces. However, this does not apply to those who have qualified for such retirement payments but have not collected them.
+
+Persons who had previously made payments into farmers’ pensions in accordance with the provisions of the preceding Paragraph and who, within five years of the day after halting such payments, once again participate in and make payments into farmers’ pensions in accordance with the preceding Paragraph, are not subject to the restriction in Paragraph 2 of the preceding Article limiting farmers’ pensions to persons who have not collected payments for the elderly under relevant social insurance.
+
+Persons who make payments into farmers’ pensions in accordance with the provisions of Paragraph 2 above shall not have collected any other payments for the elderly under other social insurance than retirement payments under Military Insurance.
+
+### Article 4
+
+Supervision of matters related to revenues, expenditures, and management of farmers’ pensions as well as the use, operation, and management of the farmers’ pension fund shall be conducted by the Supervisory Board for the Farmers’ Pension System (hereafter “the Supervisory Board”), which shall be comprised of representatives of relevant government agencies, farmers’ representatives, and experts and scholars.
+
+The supervisory matters, processes, staff organization, terms in office, and hiring of the Supervisory Board mentioned in the preceding Paragraph shall be stipulated by the Competent Authority.
+
+### Article 5
+
+The Competent Authority shall commission the Bureau of Labor Insurance (hereafter BLI) of the Ministry of Labor to handle matters related to revenues, expenditures, and management of farmers’ pensions.
+
+The Competent Authority shall commission the Bureau of Labor Funds (hereafter BLF) of the Ministry of Labor to handle matters related to the use, operation, and management of the farmers’ pension fund.
+
+### Article 6
+
+Payments made into farmers’ pensions under this Act shall be deposited into individual farmers’ pension accounts set up by the BLI.
+
+## CHAPTER II Payments into and Collections from Individual Farmers’ Pension Accounts
+
+### Article 7
+
+The total amount of payments to be made by farmers and the Competent Authority per month under Paragraph 1 of Article 3 shall be calculated by doubling monthly minimum wage times the payment ratio. Farmers are responsible for 40% of the total amount, while the Competent Authority is responsible for 60% of the total amount.
+
+The payment ratio mentioned in the preceding Paragraph shall be determined by farmers within a range of 10%, and will be limited to whole numbers.
+
+Only after a farmer makes a payment into his/her farmers’ pension in accordance with the provisions of Paragraph 1 shall the Competent Authority make its payment into the same farmers’ pension.
+
+The amount to be paid into farmers pensions each month by participating farmers can be deducted from their taxable income from self-grown crops, fisheries, animal husbandry, forestry, or mining for the year of the payments.
+
+### Article 8
+
+When a farmer voluntarily starts or halts payments into a farmers’ pension, he/she shall fill out the appropriate application form and submit it to the base-level farmers’ association or fishermen’s association where the farmer’s household registration is located.
+
+When farmers’ or fishermen’s associations accepts applications submitted in accordance with the preceding Paragraph, they shall, on the same day as they review whether the farmers under their jurisdiction conform to the provisions of Article 3 or arrange a halt in payments, fill out the appropriate forms and notify the BLI to begin or halt payments into the relevant farmers’ pensions.
+
+### Article 9
+
+Payment made into a farmers’ pension shall continue from the day such payments begin until one day before the farmer reaches age 65, ceases payments, or withdraws from FHI.
+
+### Article 9-1
+
+For a person making payments into a farmers’ pension in accordance with the provisions of Subparagraph 2 of Paragraph 2 of Article 3, in cases in which, during the period he/she is making payments, an employer makes payments, in accordance with law, into an occupational retirement pension for this person for six consecutive months, the person shall be deemed to have voluntarily halted payments into their farmers’ pension from the day when the full six month period has been completed.
+
+Prior to halting of payments as described in the preceding Paragraph, when the BLI is calculating the Competent Authority’s payment for a given month, the number of working days in the preceding month for which an employer made a payment into an occupational retirement pension for the relevant farmer shall be excluded from the BLI’s calculation of the Competent Authority’s payment for that farmer’s pension.
+
+### Article 10
+
+Farmers may submit applications to their farmers’ or fishermen’s associations with jurisdiction in May or November of each year to adjust their payment ratio, and the farmers’ or fishermen’s associations shall in turn notify the BLI before the end of the same month. The adjusted ratio shall take effect from the first day of the month following notification.
+
+### Article 11
+
+Payments into farmers’ pensions shall be made monthly through automatic transfer from a financial institution designated by the BLI or using another designated method.
+
+If the BLI has unsuccessfully tried to collect the funds that a farmer shall pay into his/her farmers’ pension for six consecutive months, this will be seen as a voluntary ceasing of payments; in cases in which the farmer applies to begin payments anew, his/her application shall be handled under the provisions of Article 8.
+
+### Article 12
+
+When a farmers’ or fishermen’s association finds through reviews that farmers do not meet the criteria to make payments into farmers’ pensions, on the same day the association shall fill out the appropriate form and notify the BLI to halt payments into those farmers’ pensions.
+
+The BLI shall calculate the amounts already paid by a disqualified farmer into his/her farmers’ pension from the day it is determined that he/she does not meet the criteria to make such payments and return that amount to the farmer.
+
+### Article 13
+
+The BLI shall calculate the amounts already paid by the Competent Authority into the farmers’ pension of a farmer who has been disqualified (determined not to meet the criteria for making payments into a farmers’ pension) from the day he/she is disqualified and recover these payments from the account.
+
+For farmers described in the preceding Paragraph who have already started collecting their farmers’ pensions, the BLI shall deduct one-third of the amount that can be collected per month from their farmers’ pension accounts and arrange for recovery of this money until the entire amount is repaid. In cases in which funds cannot be recovered or are insufficient to repay the full amount owed, the BLI shall notify the relevant farmers, in writing, to make full restitution within a specified time period. When restitution has not been made by the deadline, the cases shall be referred for administrative implementation in accordance with law.
+
+For farmers who die prior to completing restitution as described in the preceding Paragraph, the BLI shall reclaim the amount owed from their farmers’ pension accounts in one payment. In cases in which such a single payment cannot be made or is insufficient to repay the full amount owed, the BLI shall notify the legal heirs in writing to make full restitution from inherited assets within a specified time period. When restitution has not been made by the deadline, the cases shall be referred for administrative implementation in accordance with law.
+
+### Article 14
+
+Farmers who make payments into farmers’ pensions under this Act shall be able to collect their pensions from the time they turn 65 years of age.
+
+### Article 15
+
+The calculating method for the amount that a farmer can collect from the farmers’ pension shall be based on the principal and accumulated income in the individual farmers’ pension account, with the amount calculated on the basis of average life expectancy based on the pension life table as well as the interest rate, and shall be paid out each month.
+
+The income from use of the farmers’ pensions as mentioned in the preceding Paragraph shall not be less than the income calculated based on the interest rate of a two-year certificate of deposit at local banks; in cases where the income does not reach this level, the national treasury shall make up the difference.
+
+The calculation of the pension life table, average life expectancy, interest rate, and amounts shall be separately determined by the BLI for the nation, for indigenous people, and for the disabled, and shall be reported to the Competent Authority for approval.
+
+### Article 16
+
+Farmers who have not yet reached 65 years of age may apply to collect their farmers’ pensions and halt payments into their accounts if they meet any of the following criteria:
+
+\1. Persons collecting disability benefits under the FHI Act and who have been determined by their insurer to be unable to continue to engage in agricultural work.
+
+2, Persons collecting disability pension benefits or the single payment for a disability of Grade 3 or above under the Labor Insurance Act.
+
+\3. Persons collecting the mental/physical disability pension payment or the mental/physical disability basic guaranteed pension payment under the National Pension Act.
+
+\4. Insured persons not covered by the preceding three Subparagraphs but who meet the criteria for being mentally or physical disabled as set out in the Acts mentioned in the previous three Subparagraphs.
+
+The number of years for which a farmers’ pension shall be collected in accordance with the provisions of the preceding Paragraph shall be determined by the farmer, and the payments shall be made monthly.
+
+For a farmer who applies to collect his/her farmers’ pension and halt payments in accordance with Paragraph 1, if before the age of 65 he/she can continue to engage in agricultural work, he/she can, in accordance with this Act, apply to begin making payments into a farmers’ pension again, with the actual period of payments recalculated.
+
+### Article 17
+
+In cases of a farmer who dies prior to collecting from his/her farmers’ pension, the farmers’ pension shall be collected by the farmer’s heirs or a designated beneficiary in a single payment.
+
+For a farmer who collected payments from his/her farmers’ pension but died before reaching average life expectancy as noted in Article 15, Paragraph 3 or before reaching the limit to the number of years the farmer can collect as noted in the preceding Article, Paragraph 2, the payments from the farmers’ pension shall cease. The remaining amount in the individual farmers’ pension account shall be collected by the heirs of the farmer or a designated beneficiary.
+
+### Article 18
+
+The order of priority of heirs for collection of farmers’ pensions as stipulated in the previous Article shall be as follows:
+
+\1. Spouses and children
+
+\2. Parents.
+
+\3. Grandparents.
+
+\4. Grandchildren.
+
+\5. Siblings.
+
+When there are multiple individuals in the same category of heirs as described in the preceding Paragraph, they shall collectively collect the pension, and in cases where there are unnamed heirs, the heirs who collect the pension shall be responsible for giving them a share. In cases where a potential heir is deceased, has given up the right to collect the pension, or has lost the right of inheritance for a legally defined reason, the remaining heirs shall collect the pension. However, in cases where the farmer, while still alive, named a designated collector in a will, the will shall be followed.
+
+After a farmer dies, the principal and accumulated income in the individual farmers’ pension account shall, in any of the following situations, be transferred to the farmers’ pension fund:
+
+\1. There are no heirs as described in Paragraph 1 nor is there any designated collector.
+
+\2. The right to apply to collect the farmers’ pension of the heirs as described in Paragraph 1 or of a designated collector has lapsed because of time limitations.
+
+### Article 19
+
+When a farmer, his/her heir, or a designated person applies to collect the relevant farmers’ pension, he/she shall fill out an application form and attach relevant documentation and turn these over to the farmers’ or fishermen’s association described in Paragraph 1 of Article 8 to apply to the BLI to collect the pension. The application form, required documentation, and application process shall be determined by the BLI.
+
+When the application process is completed, in cases in which a review indicates that the farmers’ pension should be paid out, the BLI shall start payments from the month following that in which the application was received.
+
+In cases in which the heir of a farmer or designated person are eligible to apply to collect the relevant farmers’ pension in accordance with Paragraph 1, if they have not done so within ten years starting from the day they are eligible to apply, the eligibility shall lapse.
+
+### Article 20
+
+Farmers’ pensions, and the right of farmers or their heirs or designated collectors to collect farmers’ pensions, shall not be the objects of transfer, mortgage, offset, or security.
+
+Farmers who collect farmers’ pensions under the stipulations of this Act, can show their identification document issued by the BLI to set up a special account in a financial institution specially for deposit of the farmers’ pension.
+
+The deposits into the special accounts mentioned in the preceding Paragraph shall not be used as objects of offset, mortgage, security, or compulsory execution.
+
+### Article 21
+
+In cases in which a farmers’ or fishermen’s association has not notified the BLI to make payments into farmers’ pensions, adjust the payment ratio, or halt payments into farmers’ pensions in accordance with Paragraph 2 of Article 8, Article 10, or Paragraph 1 of Article 12, and in which this failure to notify the BLI leads to losses for the farmers involved, the association shall be responsible for paying compensation.
+
+The right to appeal for the compensation described in the preceding Paragraph shall lapse if the affected farmers do not file an appeal within two years of the day they become aware of the losses; the same applies if the appeal is not filed within five years of the occurrence of the losses.
+
+## CHAPTER III The Farmers’ Pension Fund
+
+### Article 22
+
+The sources of the farmers’ pension fund are as follows:
+
+\1. Farmers’ pensions in individual farmers’ pension accounts.
+
+\2. Income from use of the fund.
+
+\3. Other income.
+
+### Article 23
+
+The BLF shall commission financial institutions to handle the use, operation, and management of the farmers’ pension fund; regulations for the commissioned use, operation, and management of the fund, and the scope and fees, shall be drafted by the BLF, which shall report these rules to the Competent Authority for approval.
+
+### Article 24
+
+Besides being used for paying farmers’ pensions and investment, the farmers’ pension fund shall not be used as the object of mortgage or security nor for any other purpose; regulations for the management, use, and distribution of profit or loss of the fund shall be drafted by the Competent Authority, which shall report these rules to the Executive Yuan for approval.
+
+### Article 25
+
+The BLI and BLF shall maintain separate accounts for the financial revenues and expenditures of farmers’ pensions and the farmers’ pension fund, and shall handle these separately from other business affairs handled by the BLI and BLF; relevant financial reports and the final accounting at the end of each fiscal year shall be done in accord with relevant laws and regulations, and these shall be collated by the BLF and reported to the Competent Authority for review.
+
+### Article 26
+
+The revenues and expenditures, use, accumulated amount of deposits, and financial reports for the farmers’ pension fund shall be reported by the BLF to the Competent Authority each month for review; the Competent Authority shall make them public each year.
+
+## CHAPTER IV Supervision and Fees
+
+### Article 27
+
+Whenever financial institutions commissioned to use, operate, and manage the farmers’ pension fund under Article 23 discover any intent to interfere with, manipulate, or direct its use, or any other situation detrimental to farmers’ rights and interests, they shall notify the BLF. In cases in which the BLF believes there is a need to take action, the BLF shall notify the Competent Authority to take the necessary measures.
+
+### Article 28
+
+Personnel belonging to the Competent Authority, the BLI, the BLF, commissioned financial institutions, or relevant organizations may not reveal secrets related to the handling of affairs to outsiders, nor may they seek illicit profits; they shall fulfill the obligations of an administrator of good will and seek the maximum benefit for the fund.
+
+### Article 29
+
+Funds needed for administration by the BLI and the BLF as required by this Act shall be budgeted.
+
+### Article 30
+
+All revenues and expenditures for accounting books, receipts, and business affairs of the BLI and BLF as required by this Act shall be tax-free.
+
+## CHAPTER V Additional Provisions
+
+### Article 31
+
+The Competent Authority or the BLI can request relevant institutions to provide any data needed for handling farmers’ pension affairs, and such institutions cannot refuse to supply the data without a legitimate reason.
+
+For all personal data acquired by the Competent Authority or BLI in accordance with the preceding Paragraph, its handling and/or use shall be conducted in accordance with the provisions of the Personal Data Protection Act.
+
+### Article 32
+
+The Enforcement Rules for this Act shall be stipulated by the Competent Authority.
+
+### Article 33
+
+The date on which this Act takes effect shall be determined by the Executive Yuan.
+
+## History
+
+1.Promulgated by Presidential Order No. 10900064261 on June 10,2020
+
+2.Articles 3-1 were amended and promulgated by Presidential Order No. 11000113961 on December 22, 2021
+
+3.Articles 2 to 3-1, 7, 8, 10, 12, 13, 16, 19, 21, and 31 were amended and promulgated, and Article 9-1 was newly added and promulgated by Presidential Order No. 11500012841 on February 011, 2026.

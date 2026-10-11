@@ -1,0 +1,115 @@
+---
+title: "Public Breastfeeding Act"
+title_zh: "公共場所母乳哺育條例"
+identifier: "L0070036"
+type: act
+law_level: "法律"
+category: "行政＞衛生福利部＞國民健康目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2010-11-24
+last_amended: 2019-04-24
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0070036"
+retrieved: 2026-10-12
+---
+
+# Public Breastfeeding Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-health-and-welfare/L0070036-public-breastfeeding-act.md](../../../zh/laws/ministry-of-health-and-welfare/L0070036-public-breastfeeding-act.md)) is authoritative.
+
+## Article 1
+
+This Act is enacted to safeguard the right of women to breastfeed in public places and provide those who are willing to do so with a carefree breastfeeding environment.
+
+## Article 2
+
+The competent authorities referred to in this Act are: Ministry of Health and Welfare at the central level; municipal government at the municipality level; county (city) government at the county (city) level.
+
+## Article 3
+
+The “breastfeeding” mentioned in this Act refers to the act of women feeding their children and collecting breast milk for their children.
+
+## Article 4
+
+No one can forbid, eject, or interfere a woman from breastfeeding her child in public.
+
+The woman’s right to choose where to breastfeed should not be restricted by the fact that the public place has set up a breastfeeding (collecting) room.
+
+## Article 5
+
+The following places should set up a breastfeeding (collecting) room for people to use and attach clear sign:
+
+1.Government agencies (institutes) for the general public to apply business or service with a total floor area over 500 square meters.
+
+2.Government-owned enterprise with business premises that have a total floor area over 500 square meters.
+
+3.Train stations, airports, MRT transfer stations, and MRT stations whose inbound and outbound (including transfer) passengers reach top 10% of the MRT line passenger volume with service places that have a total floor area over 1,000 square meters.
+
+4.Department stores, retail-style retail stores, international tourist hotels and general tourist hotels with business premises that have a total floor area over 5,000 square meters.
+
+5.Express trains and high speed rail trains, excluding commuter trains.
+
+\6.  Other places as announced by the central competent authority.
+
+If the public places mentioned in the previous paragraph have proper reasons, they are permitted not to set up breastfeeding (collecting) rooms subject to the ratification by the central competent authority.
+
+The basic facilities, safety, illumination, ventilation, management, maintenance, and other standards of usage for the breastfeeding (collecting) rooms mentioned in the first paragraph shall be prescribed by the central competent authority.
+
+## Article 5-1
+
+Temporary breastfeeding(collection) facilities shall be set up for large-scale outdoor activities; the number, conditions, categories and related standards of large-scale outdoor activities shall be determined by the competent authority.
+
+## Article 6
+
+The competent authorities in a municipality and county (city) shall implement an inspection or spot-checks on the rooms and their facilities that are set up in the public places.
+
+For the inspection or spot-check mentioned in the above paragraph, the owners and employees of the public places shall not avert, interfere, or refuse it and should provide any necessary assistance to examiners.
+
+## Article 7
+
+To promote the trend and concept of breastfeeding, all levels of competent authorities should actively promote breastfeeding and can organize promotional events with private organizations.
+
+## Article 7-1
+
+A breastfeeding (collecting) room shall be set up separate from other spaces.
+
+## Article 8
+
+Those who violate the first paragraph of Article 4 and forbid, eject, or interfere women from breastfeeding their children in public places shall be punished with a fine of no less than NT$ 6,000 but no more than NT$ 30,000.
+
+If the person mentioned above is a worker in a public place, then the owner of the place shall also be punished with a fine of no less than NT$ 6,000 but no more than NT$ 30,000. However, if the owner can prove that the worker acted against internal regulations in a public place or the owner has given sufficient supervision and instructions, they shall be excluded.
+
+## Article 9
+
+Those who violate the first paragraph of Article 5 and fail to set up breastfeeding (collecting) rooms or set up breastfeeding (collecting) rooms but without clear sign, the competent authorities of the municipality or county (city) shall give them warnings and demand improvement within a time limit. If they still fail to do so upon expiration of the time limit, they shall be punished with a fine of no less than NT$ 20,000 but no more than NT$ 100,000 and can be imposed with repetitious fines.
+
+Those who fail to set up breastfeeding (collecting) rooms that meet the standards prescribed in the third paragraph of Article 5, the competent authorities of the municipality or county (city) shall give them warnings and demand improvement within a time limit. If they still fail to do so upon expiration of the time limit, they shall be punished with a fine of no less than NT$ 20,000 but no more than NT$ 100,000 and can be imposed with repetitious fines.
+
+## Article 10
+
+Those who violate the second paragraph of Article 6 and avert from, interfere, or refuse inspection or spot-checks, or fail to provide necessary assistance to examiners shall be punished with a fine of no less than NT$ 4,000 but no more than NT$ 20,000.
+
+Those who violate Article 7-1 and fail to set up a breastfeeding (collecting) room separate from other spaces shall be punished with a fine of no less than NT$ 20,000 but no more than NT$ 100,000. If they still fail to do so upon expiration of the time limit, repeated fines can be imposed.
+
+## Article 11
+
+The fines prescribed in this Act shall be punished by the competent authorities of the municipality and county (city).
+
+## Article 12
+
+Public places meeting the conditions in the first paragraph of Article 5 requiring they set up breastfeeding (collecting) rooms shall set up these rooms within a year after this Act becomes effective. Those who fail to set up, attach clear sign, or meet the standards mentioned in the third paragraph of Article 5, shall be punished according to Article 9.
+
+## Article 13
+
+This Act shall take effect on the date of promulgation.
+
+## History
+
+1.Promulgated by President Order Hua-Tsung (1)-Yi-Tzu No.09900317131 on November 24, 2010
+
+2.Amended Article 2, and promulgated by Presidential Order Hua Tsung (1) Yi Tzu No. 10700143901 on January 2, 2019
+
+3.Amended and promulgated by Presidential Order Hua Tsung (1) Yi Tzu No. 10800039351 on April 24, 2019

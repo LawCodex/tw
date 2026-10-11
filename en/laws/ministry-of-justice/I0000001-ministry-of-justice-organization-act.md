@@ -1,0 +1,117 @@
+---
+title: "Ministry of Justice Organization Act"
+title_zh: "法務部組織法"
+identifier: "I0000001"
+type: act
+law_level: "法律"
+category: "行政＞法務部＞組織目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1928-11-19
+last_amended: 2018-05-23
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=I0000001"
+retrieved: 2026-10-12
+---
+
+# Ministry of Justice Organization Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-justice/I0000001-ministry-of-justice-organization-act.md](../../../zh/laws/ministry-of-justice/I0000001-ministry-of-justice-organization-act.md)) is authoritative.
+
+## Article 1
+
+The Executive Yuan established the Ministry of Justice (hereinafter “MOJ”) with the purpose of the management of  national prosecutorial administration;   prevention, rehabilitation, and correction of crimes; anti-corruption; administrative execution; legal consultation; the legal affairs of the Executive Yuan; and the education and training of judicial personnel.
+
+## Article 2
+
+The mandate of the MOJ is as follows:
+
+\1. Integrated deliberation, planning, supervision, and evaluation of the policy of the legal affairs.
+
+\2. Providing consulting services to the Executive Yuan and its subordinate agencies on the deliberation and application of the laws and regulations.
+
+\3. The promotion, coordination, and  arrangement of the affairs of human rights protection.
+
+\4. The research, drafting, inspection, and implementation of civil, criminal and administrative laws and regulations.
+
+\5. The policy planning; research;  drafting of laws and regulations; and instruction and supervision of the prosecutorial administrative matters related to criminal investigation, public prosecution, and criminal execution.
+
+\6. The management and supervision of the attorney and coroner.
+
+\7. The policy planning; research; drafting of laws and regulations; and instruction and supervision of judicial protection related to probation; rehabilitation;  protection of crime victims;  crime prevention; legal education; legal aid and services; and counseling for litigation.
+
+\8. The policy planning, research; drafting of laws and regulations; legal counseling; and the implementation of mutual legal assistance at the international and cross-strait levels.
+
+\9. Research and development of forensic examination, authentication, personnel education, and forensic technologies.
+
+\10. The instruction and supervision of the MOJ’s subordinate agencies (institutes) regarding crime investigation, administrative execution, anti-corruption, correction, criminal investigation, public prosecution, and criminal execution.
+
+\11. The implementation and evaluation of the judicial personnel’s training and education.
+
+\12. Other matters related to legal administration.
+
+## Article 3
+
+The MOJ has one specially appointed Minister, two Political Vice Ministers (grade 14), and one Administrative Vice Minister (grade 14 ).
+
+## Article 4
+
+The MOJ has one Secretary-General (grade 12).
+
+## Article 5
+
+The subsidiary agencies under the MOJ and their responsibilities include:
+
+\1. The Investigation Bureau: implementation of the protection of national security, institution’s counter-espionage, investigation and prevention against  corruption, vote-buying, major economic crimes, drug crimes, and money laundering.
+
+\2. Administrative Enforcement Agency: planning and execution of compulsory enforcement of obligatory payments under public law.
+
+\3. Agency Against Corruption: planning of anti-corruption policy, and execution of matters related to anti-corruption, corruption prevention, and corruption eradication.
+
+\4. Agency of Corrections: planning of correctional policy; instruction and supervision of subordinate correctional facilities in implementing matters related to guard and control, edification and education, counseling; health care; review of paroles; labor operations; and skill training of prisoners.
+
+\5. Supreme Prosecutors Office: filing of extraordinary appeals, instruction of investigation, and management of other matters in accordance with the laws and regulations.
+
+\6. Taiwan High Prosecutors Office: management, instruction, and supervision over its subordinate prosecutors offices at various levels in their investigation, public prosecution, criminal execution, and other responsibilities stipulated in pertinent laws and regulations.
+
+## Article 6
+
+The MOJ shall establish, in accordance with the Organization Act, an educational institute for judicial personnel that conducts research on crime and criminal policy.
+
+## Article 7
+
+The grades, titles, and numbers of the positions within the MOJ shall be prescribed in another chart.
+
+## Article 8
+
+The Executive Yuan shall prescribe by order the date of the entry into force of this Act.
+
+## History
+
+\1. Stipulated and announced on Nov. 19th, 1928.
+
+\2. Amended and announced respectively on Apr. 6th and Apr. 17th, 1929.
+
+\3. Amended and announced respectively on Oct. 2nd and Nov. 3rd, 1936.
+
+\4. Amended and announced respectively on Jul. 10th and Jul. 28th, 1942.
+
+\5. Amended and announced respectively on Jan. 30th and Feb. 13th, 1943.
+
+\6. Amended and announced respectively on Apr. 6th and on Apr. 19th, 1956.
+
+\7. Amended and announced respectively on Jun. 10th and Jun. 29th, 1980.
+
+\8. Amended and announced respectively on Apr. 8th and Apr. 23th, 1997.
+
+\9. Amended and announced respectively on May 6th and May 28th, 1997.
+
+\10. Amended and announced respectively on Aug. 19 and Sep. 1st, 2010. Effective on Jan. 1st, 2011.
+
+\11. Amended and announced respectively on Apr. 1st and Apr. 20th, 2011; Effective on Jul. 20st 2011.
+
+\12. Amended and announced respectively on Jun. 14th and Jun. 29th, 2011. Effective on Jan. 1st, 2012.
+
+\13. Amended and announced respectively on May 8th and May 23rd, 2018.

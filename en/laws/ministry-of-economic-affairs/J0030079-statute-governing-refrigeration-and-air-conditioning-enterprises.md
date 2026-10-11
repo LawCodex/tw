@@ -1,0 +1,259 @@
+---
+title: "Statute Governing Refrigeration and Air Conditioning Enterprises"
+title_zh: "冷凍空調業管理條例"
+identifier: "J0030079"
+type: act
+law_level: "法律"
+category: "行政＞經濟部＞產業目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2004-04-14
+last_amended: 2004-04-14
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0030079"
+retrieved: 2026-10-12
+---
+
+# Statute Governing Refrigeration and Air Conditioning Enterprises
+
+> Translation. The Chinese text ([zh/laws/ministry-of-economic-affairs/J0030079-statute-governing-refrigeration-and-air-conditioning-enterprises.md](../../../zh/laws/ministry-of-economic-affairs/J0030079-statute-governing-refrigeration-and-air-conditioning-enterprises.md)) is authoritative.
+
+## Chapter I - General Provisions
+
+### Article 1
+
+This Statute is enacted for the purpose of promoting the national energy policy, improving the efficiency of energy use, elevating the technology of the refrigeration and air conditioning enterprises, promoting the upgrading of the refrigeration and air conditioning industry, purifying indoor air quality and protecting the health of all citizens.
+
+### Article 2
+
+The competent authorities referred to in this Statute shall mean the Ministry of Economic Affairs in the case of the central government; the municipal government in the case of a municipality; and the county/city government in the case of a county/city.
+
+### Article 3
+
+The refrigeration and air conditioning enterprises under this Statute shall mean the enterprises engaging in manufacturing freezing equipment, refrigeration equipment, air conditioning equipment, environmental control equipment, clean rooms, chillers, energy storage equipment, and ventilation equipment as well as planning, designing, supervising the construction of, appraising, inspecting, constructing, installing, testing, servicing and maintaining related engineering work.
+
+The planning, designing and construction supervision of the engineering work under the preceding Paragraph shall be carried out in accordance with the Professional Engineers Act and the applicable laws and regulations.
+
+Where the equipment as referred to in the first Paragraph of this Article is not for public use, the simple designs, construction supervision, installations or maintenance thereof are not subject to this Statute.
+
+### Article 4
+
+When used in this Statute, the following terms shall be defined as follows:
+
+\1. Freezing equipment: Equipment capable of lowering the temperature to below 0℃.
+
+\2. Refrigeration equipment: Equipment capable of lowering the temperature to below 10℃ but above 0℃.
+
+\3. Air conditioning equipment: Equipment capable of controlling and adjusting the quality of indoor air temperature, humidity, etc.
+
+\4. Environmental control equipment: Equipment that provides indoor environmental control needed by industrial manufacturing processes.
+
+\5. Clean room: Special air treatment equipment that controls environmental factors, such as air particles, micro-organisms, temperature, humidity, air pressure, type of air pressure motion, and air movement.
+
+\6. Chiller: Refrigerating equipment that provides chilled water and brine needed by refrigeration and air conditioning systems and processes.
+
+\7. Energy storage equipment: Storage tanks and equipment needed for freezing, refrigeration or air conditioning.
+
+\8. Ventilation equipment: air conditioning equipment capable of intake of or output of air.
+
+\9. Full-time technician: A person having a refrigeration and air conditioning installation and repair technician license.
+
+\10. Full-time engineer: A person having a refrigeration and air conditioning engineer, electrical engineer or mechanical engineer license.
+
+### Article 5
+
+A refrigeration and air conditioning enterprise shall not operate unless it has received a permit from the competent authority in the municipality or county/city where the enterprise is located, has obtained a business registration certificate, and joins a refrigeration and air conditioning engineering association within one month.
+
+A trade association shall not unreasonably reject a membership application under the preceding Paragraph.
+
+### Article 6
+
+The central competent authority may entrust or commission the competent authority in a municipality or county/city to grant a permit to a refrigeration and air conditioning enterprise, approve its registration, withdraw or revoke the permit, withdraw or revoke the registration, order it to suspend its business or wind up its business, grant awards or impose punishments, issue registration certificates and perform other relevant tasks.
+
+### Article 7
+
+A refrigeration and air conditioning enterprise shall faithfully operate its business using its expert knowledge and shall not commit unjust acts in violation of its professional responsibilities when performing designated or entrusted duties.
+
+If a refrigeration and air conditioning enterprise causes damage to its principal or interested party due to negligence, the enterprise shall be liable for damages.
+
+## Chapter II - Governance by Class
+
+### Article 8
+
+The competent authority shall prepare a refrigeration and air conditioning enterprise directory containing the following particulars:
+
+\1. The name, gender, date of birth, National ID Card no., address, education and work experience of the responsible person of the refrigeration and air conditioning enterprise.
+
+\2. The refrigeration and air conditioning enterprise's registration certificate number.
+
+\3. The region where the enterprise operates its business.
+
+\4. The name, address and telephone number of the enterprise.
+
+\5. Other required information.
+
+### Article 9
+
+Refrigeration and air conditioning enterprises are categorized under Superfine Class or Class A, B or C for meeting the following requirements:
+
+\1. A superfine refrigeration and air conditioning enterprise:
+
+(1) Having a registered capital of NT$20,000,000 or more.
+
+(2) Having the experience or capability to manufacture or install an air conditioning system of 1,000 tons or more or refrigeration engineering work of 500 horsepower or more.
+
+(3) Employing at least one full-time engineer, one Class A technician, two Class B technicians, and three Class C technicians.
+
+\2. A Class A refrigeration and air conditioning enterprise:
+
+(1) Having a registered capital of NT$10,000,000 or more.
+
+(2) Having the experience or capability to manufacture or install an air conditioning system of 500 tons or more but less than 1,000 tons or refrigeration engineering work of 200 horsepower or more but less than 500 horsepower.
+
+(3) Employing at least one Class A technician, two Class B technicians, and three Class C technicians.
+
+\3. A Class B refrigeration and air conditioning enterprise:
+
+(1) Having a registered capital of NT$5,000,000 or more.
+
+(2) Having the experience or capability to manufacture or install an air conditioning system of 100 tons or more but less than 500 tons or refrigeration engineering work of 50 horsepower or more.
+
+(3) Employing at least one Class A technician, one Class B technician, and two Class C technicians.
+
+\4. A Class C refrigeration and air conditioning enterprise:
+
+(1) Having a registered capital of NT$2,000,000 or more.
+
+(2) Having the experience or capability to manufacture or install an air conditioning system of less than 100 tons or refrigeration engineering work of less than 50 horsepower.
+
+(3) Employing at least one Class B technician and one Class C technician.
+
+A full-time engineer may perform the work of a Class A technician, a Class A technician may perform the work of a Class B or Class C technician, and a Class B technician may perform the work of a Class C technician. The experience and capability and the qualifications of full-time technicians and engineers under the preceding Paragraph shall be recognized by the method prescribed by the central competent authority.
+
+A Class C refrigeration and air conditioning enterprise may apply for change of its registration certificate to a Class B refrigeration and air conditioning enterprise registration certificate only after having manufactured or installed air conditioning systems totaling 100 tons or more or refrigeration engineering work totaling 50 horsepower or more for at least one year. A Class B refrigeration and air conditioning enterprise may apply for change of its registration certificate to a Class A refrigeration and air conditioning enterprise registration certificate only after having manufactured or installed air conditioning systems totaling 500 tons or more or refrigeration engineering work totaling 200 horsepower or more for at least two years. A Class A refrigeration and air conditioning enterprise may apply for change of its registration certificate to a superfine refrigeration and air conditioning enterprise registration certificate only after having manufactured or installed air conditioning systems totaling 1,000 tons or more or refrigeration engineering work totaling 500 horsepower or more for at least three years.
+
+### Article 10
+
+After a refrigeration and air conditioning enterprise's permit application passes the review of the competent authority, the authority shall issue a registration certificate to the enterprise, publish its registration particulars, and give a notice thereof to a refrigeration and air conditioning engineering association.
+
+A refrigeration and air conditioning enterprise registration certificate shall be valid for a period of five years. Three months prior to the expiration of its registration certificate, a refrigeration and air conditioning enterprise shall apply to the competent authority for renewal of its registration as well as issuance of a new registration certificate. If no application for renewal is filed or the renewal application is not approved, the original registration certificate shall become invalid upon the expiration of the registration term.
+
+The items subject to review for renewal application under the preceding Paragraph are the matters set forth in the application documents as well as proof that taxes have been paid for the most recent period.
+
+### Article 11
+
+If a refrigeration and air conditioning enterprise suspends its business operation, its registration certificate shall be turned in to the competent authority for filing and recording and shall be returned to it upon its application for resuming its business operations.
+
+The period of suspension under the preceding Paragraph shall not exceed one year; otherwise, its registration certificate shall be revoked, provided that the suspension may be extended for one year after the central competent authority approves an application for extension.
+
+Upon the business suspension or dissolution, a refrigeration and air conditioning enterprise shall complete an application form and file it together with its registration certificate to the competent authority for a revocation registration.
+
+### Article 12
+
+If a refrigeration and air conditioning enterprise suspends or resumes its business operation or there is any alteration in its original registered particulars, it shall file a report with the original registration authority within 30 days of the occurrence of the facts.
+
+The provisions of Paragraph 1, Article 10 shall apply mutatis mutandis to the circumstances in the preceding Paragraph.
+
+### Article 13
+
+A refrigeration and air conditioning enterprise whose business registration is revoked or that suspends its business operation or voluntarily petitions for business suspension shall cease operating a refrigeration and air conditioning business from the day after the authority's decision or notice is served. Nevertheless, if the enterprise has started working on but has yet to complete an engineering project, the central competent authority may allow the enterprise to continue the work until the work is completed.
+
+### Article 14
+
+The central competent authority may, depending on the situation, conduct workshops or educational training courses for full-time technicians. Full-time technicians of refrigeration and air conditioning enterprises shall attend training courses or workshops on technical specifications within the time limits set forth in the central competent authority's notices. If a technician fails any training or workshop, the central competent authority may notify him/her to attend the training or workshop again.
+
+The regulations for enforcing the provisions of the preceding Paragraph shall be prescribed by the central competent authority.
+
+## Chapter III－Trade Association
+
+### Article 15
+
+A refrigeration and air conditioning engineering association shall be set up, be organized and operate in accordance with the applicable provisions of the Industrial Group Statute.
+
+### Article 16
+
+A refrigeration and air conditioning engineering association may be entrusted to carry out surveys, analyses, valuations, research and other related activities on refrigeration and air conditioning enterprises.
+
+### Article 17
+
+The central competent authority may require a refrigeration and air conditioning engineering associations to report on the operational conditions, employment trends, etc., of refrigeration and air conditioning enterprises.
+
+## Chapter IV - Award and Punishment
+
+### Article 18
+
+Awards given to refrigeration and air conditioning enterprises are as follows:
+
+\1. Public commendations.
+
+\2. Awarding of certificate of merit, medallions or professional medals.
+
+Acts of refrigeration and air conditioning enterprises deserving awards and the regulations thereof shall be prescribed by the central competent authority.
+
+### Article 19
+
+If an enterprise operates a refrigeration and air conditioning business or places advertisements to solicit refrigeration and air conditioning business without a registration certificate or when it is punished with suspension of refrigeration and air conditioning operations or after its registration certificate is revoked, the enterprise shall be ordered to cease such operations and be fined not less than NT$30,000 but not more than NT$150,000 and may be fined consecutively on a daily basis if it continues its operations and does not obey the order.
+
+### Article 20
+
+A refrigeration and air conditioning enterprise shall be fined not less than NT$20,000 but not more than NT$100,000 if it has any of the following situations:
+
+\1. It operates a refrigeration and air conditioning business without joining a refrigeration and air conditioning engineering association in accordance with Paragraph 1 of Article 5.
+
+\2. It operates a refrigeration and air conditioning business without employing full-time engineers or full-time technicians in accordance with Article 9.
+
+\3. It fails to apply for renewal under Paragraph 2 of Article 10 or refuses, impedes or evades such renewal.
+
+\4. It suspends its business operation, is punished with business suspension, resumes its business operations or closes down its business without observing the provisions of Article 11.
+
+An enterprise under the circumstances set forth in Item 1 or 2 of the preceding Paragraph may be ordered to suspend its business operation or be given a time limit to complete the required procedures; if the enterprise fails to complete the procedures within the time limit and continues operations, it may be fined consecutively. An enterprise under the circumstances set forth in Item 3 of the preceding Paragraph and that is given a time limit by the competent authority to complete the required procedures, may be fined consecutively if it fails to do so within the time limit.
+
+### Article 21
+
+A refrigeration and air conditioning enterprise in any of the following situations may be given a warning or be punished with suspension of business for not less than three months but not more than one year, depending on the circumstances:
+
+\1. It lends its refrigeration and air conditioning enterprise registration certificate to a third party for operating a refrigeration and air conditioning business.
+
+\2. It is convicted by a final and irrevocable court judgment for arbitrarily cutting back materials/labor or committing negligence, whereby a dangerous situation exists.
+
+\3. Its responsible person is convicted by a final and irrevocable court judgment for illegally bidding for any engineering project.
+
+\4. It prohibits its full-time technicians from attending training or workshops on technical specifications notified by the central competent authority of such training or workshop.
+
+\5. It violates any other provisions of this Statute.
+
+If a refrigeration and air conditioning enterprise has been given three warnings, it shall be punished with suspension of business for not less than three months but not more than one year; if an enterprise has been punished with suspension of business for an accumulated period of three years within a five-year period, its registration certificate shall be revoked.
+
+## Chapter V - Supplementary Provisions
+
+### Article 22
+
+A foreign refrigeration and air conditioning enterprise that has been incorporated and registered in accordance with the laws of its home country shall apply to the central competent authority for a permit to operate its business in Taiwan in accordance with this Statute.
+
+### Article 23
+
+An enterprise has obtained a refrigeration and air conditioning engineering enterprise registration license in accordance with the now-defunct Regulations Governing Refrigeration and Air Conditioning Engineering Enterprises before the enactment of this Statute shall apply for replacement of its original registration license with a refrigeration and air conditioning enterprise registration certificate in accordance with the requirements set forth in Article 9 within one year upon the enactment of this Statute.
+
+For an enterprise that violates the preceding Paragraph, its refrigeration and air conditioning engineering enterprise permit and registration license shall be revoked by public notices and the authorities in charge of company or business registration shall be notified to revoke its company or business registration or part of its registration particulars.
+
+### Article 24
+
+The competent authority shall collect review fees, license/certificate charges, or service charges for processing applications for reviewing or issuing, reissuing, replacing or changing certificates under this Statute. The fees shall be prescribed by the central competent authority.
+
+### Article 25
+
+The permit application procedures and the formats of certificates under this Statute shall be prescribed by the central competent authority.
+
+### Article 26
+
+The enforcement rules of this Statute shall be prescribed by the central competent authority.
+
+### Article 27
+
+This Statute shall be enacted from the date of promulgation.
+
+## History
+
+1.Date：April 14,2004 (Announced)

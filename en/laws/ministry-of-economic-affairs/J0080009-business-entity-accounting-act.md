@@ -1,0 +1,799 @@
+---
+title: "Business Entity Accounting Act"
+title_zh: "商業會計法"
+identifier: "J0080009"
+type: act
+law_level: "法律"
+category: "行政＞經濟部＞商業目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1948-01-07
+last_amended: 2014-06-18
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0080009"
+retrieved: 2026-10-12
+---
+
+# Business Entity Accounting Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-economic-affairs/J0080009-business-entity-accounting-act.md](../../../zh/laws/ministry-of-economic-affairs/J0080009-business-entity-accounting-act.md)) is authoritative.
+
+## Chapter 1 General Provisions
+
+### Article 1
+
+（Scope of Applicability）
+
+Accounting affairs for business entities must be handled according to the Business Entity Accounting Law (referred to as the "Law").
+
+Accounting affairs for public-owned businesses must be handled according to the Law unless otherwise stipulated by other laws.
+
+### Article 2
+
+（Scope of Business and Accounting Affairs）
+
+The term “business” as referred to in this Law refers to a profit-making entity with its scope defined by the Business Registration Act, the Company Act and other relevant laws.
+
+The term “accounting affairs of a business” as referred to in this Law refers to recognition, measurement, recording, classification, and summarization of accounting affairs undertaken by a business, as well as preparation of financial statements.
+
+### Article 3
+
+（The Competent Authority）
+
+The term "the Competent Authority" as referred to in this Law refers to the Ministry of Economics Affairs where the central government is concerned; the Government of the Special Municipality where the Special Municipality is concerned; or the Government of County (City) where the County (City) is concerned.
+
+The competent authorities’ responsibilities are allocated as follows:
+
+\1. The Central Competent Authority:
+
+(1) Formulation and promotion of laws and policies related to business accounting.
+
+(2) Management of business accounting affairs of businesses registered with it.
+
+\2. The Competent Authority of a Municipal Government: management of business accounting affairs of businesses registered under the delegation of the Central Competent Authority.
+
+\3. The Competent Authority of a County (City): management of business accounting affairs of businesses registered with it.
+
+### Article 4
+
+(The Responsible Persons of the Business)
+
+The scope of the responsible persons of the business stipulated in the Laws must be in accordance with Corporation Law, Business Registration Act and other law-related provisions.
+
+### Article 5
+
+（Accounting Personnel）
+
+A business shall designate accounting personnel to handle accounting affairs.
+
+For a business organized as a company, the appointment and discharge of the chief accounting personnel in a company limited by shares shall be determined by the board of directors, with the presence of a majority of the directors, and approval by a majority of the directors present at the meeting; in a limited company, the approval of a majority of all shareholders is required; in a unlimited company or unlimited company with limited liability shareholders, the approval of a majority of all unlimited liability shareholders is required.
+
+If the company's Articles of Incorporation establish higher requirements for the appointment or discharge of the chief accounting personnel than those specified in the preceding Paragraph, the provisions of the Articles of Incorporation shall prevail.
+
+Accounting personnel must abide to all laws when dealing with accounting affairs. In the event of release or change of post, the respective job transfer must take place within five (5) days.
+
+The handling of business accounting affairs may be delegated to a certified public accountant or a person with required qualifications to handle the accounting affairs on behalf of others in accordance with the law; for a business organized as a company, the procedures for delegating the handling of business accounting affairs shall follow the provisions set forth in Paragraphs 2 and Paragraphs 3 of this Article.
+
+### Article 6
+
+（Accounting Period）
+
+The accounting period for businesses must start on January 1st of each year and end on December 31st of the same year. However, this does not apply if laws stipulate otherwise or in the event of special needs resulting from operations.
+
+### Article 7
+
+（Bookkeeping Base）
+
+Businesses must use domestic currency as a bookkeeping base.
+
+If foreign currency is used for bookkeeping due to business needs, it is still required to convert the foreign currency into domestic currency in the closing report.
+
+### Article 8
+
+（Bookkeeping Language）
+
+Except for Arabic numerals used in numbering, all recording of business transactions must use the domestic language; If it is necessary to include remarks in or concurrently use any foreign language or local language, domestic language must be predominant.
+
+### Article 9
+
+（Payment Tool）
+
+Where the expenditure of a business reaches a specified amount, payment shall be made using a bill of exchange, promissory note, check, remittance, wire transfer, bank transfer, or any other payment method or instrument approved by the Competent Authority, with the payee clearly indicated.
+
+The specified amount referred to in the preceding Paragraph shall be announced by the Central Competent Authority.
+
+### Article 10
+
+（Accounting Basis）
+
+The accounting basis shall follow the accrual basis of accounting. For businesses that adopt the cash basis of accounting in their daily operations, adjustments shall be made in accordance with the accrual basis during the year-end closing process.
+
+Accrual basis means that entries into the accounting books shall be made when revenues are determined as receivable and expenses determined as payable. During the year-end closing process, adjusting journal entries shall be made for revenues and expenses in accordance with the year to which they relate.
+
+Cash basis means that entries into accounts shall be made when revenues are received or expenses are paid in cash.
+
+### Article 11
+
+（Accounting Events）
+
+Events that lead to changes in the assets, liabilities, equity, revenues, or expenses of a business are referred to as accounting events.
+
+Accounting events that involve rights and obligations with parties external to the business are classified as external accounting events. Conversely, accounting events that do not involve any parties other than the business are considered internal accounting events.
+
+Accounting events shall be recorded using the double-entry bookkeeping method.
+
+### Article 12
+
+（Accounting System）
+
+A business may establish its own accounting system based on the actual business operations, nature of accounting affairs, internal control, and management needs.
+
+### Article 13
+
+（Standard of Business Entity Accounting Processing）
+
+Accounting standards set out the name, format, and method of preparation of source documents, accounting items, journals, ledgers and financial statements shall be prescribed by the Central Competent Authority.
+
+## Chapter 2 Source Documents
+
+### Article 14
+
+（Obtaining or Offering of Accounting Documents）
+
+All accounting events must have sufficient documentation provided or given.
+
+### Article 15
+
+（Categories of Accounting Documents）
+
+Accounting documents of a business are divided into the following two categories:
+
+\1. Source documents: The documents which prove the course of accounting events, and serve as the basis for preparing accounting vouchers.
+
+\2. Accounting vouchers: The documents which prove the responsibilities of the accounting personnel handling accounting events and serve as the basis for account keeping.
+
+### Article 16
+
+（Source Documents）
+
+Categories of source documents are as follows:
+
+\1. External documents: The documents obtained from persons other than the business itself.
+
+\2. Outgoing documents: The documents issued to persons other than the business itself.
+
+\3. Internal documents: The documents prepared and kept by the business itself.
+
+### Article 17
+
+（Accounting Vouchers）
+
+Categories of accounting vouchers are as follows:
+
+\1. Receipt Voucher.
+
+\2. Payment Voucher.
+
+\3. Transfer Voucher.
+
+The term "transfer voucher" referred to in the preceding Paragraph may be classified into cash transfer voucher and journal transfer voucher. All the vouchers may be distinguished from one another by color or other means.
+
+### Article 18
+
+（Preparation of Accounting Voucher）
+
+A business shall prepare accounting vouchers based on source documents, and record them in the accounting books based on accounting vouchers. However, for the purpose of accounting settlement and the transfer of entries after settlement, source documents are not required to be attached.
+
+Where the accounting affairs of a business are simple or the source documents meet the requirements for account keeping, separate accounting vouchers need not be prepared and the source documents may be accepted in lieu of accounting voucher.
+
+### Article 19
+
+（Preparation of Source Documents）
+
+External accounting events must be supported by external or outgoing documents. Internal accounting events must be supported by internal documents.
+
+If a source document cannot be obtained due to restrictions or if such documents are damaged, destroyed, unavailable, or lost, in addition to handling according to the procedures under laws and regulations, a business must prepare a slip based on the fact and amount and have the responsible persons of the business or a designated person sign or seal for account keeping.
+
+For an accounting event for which the source documents cannot be obtained, the responsible persons of the business may instruct the personnel handling and in charge of such event to provide individual or joint proof of the event.
+
+## Chapter 3 Account Books
+
+### Article 20
+
+（Accounting Books）
+
+Accounting books consist of following two categories:
+
+\1. Journals: used to record accounting events chronologically.
+
+\2. Ledgers: used to accumulate accounting events according to the accounting items.
+
+### Article 21
+
+（Journal Books）
+
+Journal books are divided into the following two categories:
+
+\1. General Journal Book: The journal books recording all events on a chronological basis and/or concurrently recording the footing of special chronological accounting items on a chronological basis, such as daily events or journal entries, etc.
+
+\2. Special Journal Book: The journal books recording special events on a chronological basis, such as cash book, sales journal, purchase journal and so on.
+
+### Article 22
+
+（Ledger Books）
+
+Ledgers consist of following two categories:
+
+\1. General Ledger: The ledger used to record all controlling items.
+
+\2. Subsidiary Ledgers: The ledger used to record all subsidiary items of a controlling item.
+
+### Article 23
+
+（Required Books）
+
+Journals and general ledgers shall be used by all business entities. Manufacturers or entities with larger business scope may use cost accounting books or special journals and subsidiary ledgers. Business entities with sound accounting systems may replace journals with daily account lists.
+
+### Article 24
+
+（Numbering of Accounting Books）
+
+Each page of the accounting books maintained by a business shall be serially numbered. Pages that are removed or destroyed are not permitted.
+
+### Article 25
+
+（Establishment of a Directory of Accounting Books）
+
+A business shall establish a directory of accounting books that specifies the name, characteristics, and the first and last dates of use. Both the responsible persons of the business and its accounting personnel handling and in charge of the accounting events shall sign it.
+
+### Article 26
+
+（Recording of Name and Account on Accounting Books）
+
+For an account recorded with the name of a person in the book of a business entity, the real name of the person must be specified and the address of the person must be specified in the subsidiary account. For a joint account, the real name and address of the representative must be specified.
+
+For a property account recorded in the book of a business entity, the name, category, price, quantity and location of the property must be specified.
+
+## Chapter 4 Account Titles and Financial Statement
+
+### Article 27
+
+(Accounting Items)
+
+Accounting items shall be appropriately classified according to the elements of the financial statements. A business may adjust the classification by adding or reducing items based on actual needs.
+
+### Article 28
+
+(Contents of Financial Statements)
+
+A complete set of financial statements shall include the following:
+
+\1. A statement of financial position.
+
+\2. A statement of comprehensive income.
+
+\3. A statement of cash flows.
+
+\4. A statement of changes in equity.
+
+The financial statements shall be accompanied by the necessary notes which are an integral part of the complete set of financial statements.
+
+### Article 28-1
+
+The balance sheet represents the financial position of the business entity as at the end of the period. The elements directly related to the measurements of financial position in the balance sheet are:
+
+\1. Assets: the resource controlled by the business entity as a result of past events and from which future economic benefits are expected to flow to the business entity.
+
+\2. Liabilities: the present obligation of the business entity arising from past events, the settlement of which is expected to result in an outflow from the business entity of resources embodying economic benefits.
+
+\3. Equity: the residual interest in the assts of the business entity after deducting all its liabilities.
+
+### Article 28-2
+
+(The Statement of Comprehensive Income)
+
+The statement of comprehensive income represents the financial performance of the business for the reporting period and its elements are as follows:
+
+\1. Income: Refers to increases in economic benefits during the reporting period in the form of inflows or enhancements of assets or decreases of liabilities that result in increases in equity, other than those arising from contributions by equity participants.
+
+\2. Expenses: Refers to decreases in economic benefits during the reporting period in the form of outflows or depletions of assets or incurrences of liabilities that result in decreases in equity, other than those arising from distributions to equity participants.
+
+### Article 29
+
+（Notes to Financial Statements）
+
+The notes to the financial statements refer to the disclosure of the following items:
+
+\1. A statement that the financial statements have been prepared in accordance with this Law and the regulations issued under the authority of this Law.
+
+\2. The measurement basis used in the preparation of financial statements as well as other significant accounting policies used that are relevant to the understanding of the financial statements.
+
+\3. Changes in accounting policies, the reasons of such changes and their impact on the financial statements.
+
+\4. Creditors’ rights over specific assets.
+
+\5. The criteria for classifying assets and liabilities as current and non-current.
+
+\6. Significant contingent liabilities and unrecognized contractual commitments.
+
+\7. Restrictions on earnings distribution.
+
+\8. Significant matters relating to equity.
+
+\9. Significant subsequent events.
+
+\10. Other necessary explanations to avoid misinterpretation by readers or to aid in the fair presentation of the financial statements.
+
+A business may, based on its actual requirements, include a detailed schedule of significant accounting items in the notes to the financial statements.
+
+### Article 30
+
+（Periodical and Non-periodical Statement）
+
+Financial statements must be prepared based on fiscal years, provided that other periodical and non-periodical statements may be prepared. However, such limit does not apply to various additional periodical and non-periodical statements.
+
+### Article 31
+
+（Classification of Titles for Financial Statements）
+
+Accounting items in the financial statements may, depending on actual circumstances or in compliance with legal requirements, be appropriately classified and consolidated. The classification of accounting items shall maintain consistent between reporting periods. In the event that the classification of accounting items differs between the prior period and the current period, such items shall be reclassified and an explanation shall be provided in the notes.
+
+### Article 32
+
+（Format of Financial Statements）
+
+Except for newly established businesses, the format of the annual financial statements shall adopt a two-year comparative presentation, with the amounts for the current and prior year presented side by side.
+
+## Chapter 5 Handling Procedures of Accounting Affairs
+
+### Article 33
+
+（Document Preparation）
+
+Unless supported by actual events, no accounting documents shall be prepared and no entries shall be made in the accounting books and records.
+
+### Article 34
+
+（Timely Recording）
+
+Accounting events must be recorded in accordance with the sequence of occurrence on a daily basis no later than two months after such occurrence.
+
+### Article 35
+
+（Signature and Seal on Accounting Vouchers and Books）
+
+Accounting vouchers and accounting books shall be signed or sealed by the responsible persons of a business entity, its officers, chief accounting personnel, and the accounting personnel handling and in charge of the accounting events. However, when accounting vouchers are signed or sealed by the business's officers, its chief accounting personnel, or the accounting personnel handling and overseeing the events under the authorization of the responsible persons of the business, this requirement shall not apply.
+
+### Article 36
+
+（Binding of Documents）
+
+Accounting documents shall be bound into volumes on a daily or monthly basis. The source documents, if any, shall be attached to the corresponding accounting vouchers.
+
+Accounting documents that serve as proof of rights and obligations, or those that are required to be permanently preserved or are more conveniently bound separately, may be stored separately, provided that the date and number are cross-referenced.
+
+### Article 37
+
+（Copy or Stub）
+
+A business shall keep at least one copy or stub of outgoing documents prepared by it.
+
+The abstract of the event and the amount thereof stated in the copy or stub shall not be different from those in the original.
+
+The original or stub of the outgoing documents referred to in the preceding Paragraph shall be coded in sequence, and the copies or stubs need to be bound into volumes; in the event that there is any clerical error in the original or that the original is recovered for cancellation, such originals can be pasted to the copy or stub with the same number. If the original is not available or cannot be recovered, reasons thereof shall be indicated on the copy or stub.
+
+### Article 38
+
+（Preservation of Accounting Documents, Accounting Books and Financial Statements）
+
+All the accounting documents, except those which should be permanently kept or which are related to unsettled accounting events, shall be kept for at least five years after the completion of the year-end closing process.
+
+All the accounting books and financial statements shall be kept for at least ten years after the completion of the year-end closing process, provided that no unsettled accounting matters exist therein.
+
+### Article 39
+
+（Liability for Damaging, Destroying or Missing Accounting Documents）
+
+If the accounting document, which should be and could be obtained for an accounting event, is damaged, missing, destroyed due to the intentional or negligent acts of the personnel responsible for or supervising the matter, resulting in damage to the business, such personnel shall be liable for compensation.
+
+### Article 40
+
+（Processing Accounting Affairs Electronically）
+
+A business may process all or part of the accounting data electronically. The rules related to the internal control, the method of authorization and signature and seal of data entered, as well as the storage, safeguarding, modification of accounting data, and other related matters, shall be prescribed by the Central Competent Authority.
+
+A Business adopting electronic means to process accounting data may be exempt from the provisions set forth in Paragraph 1 of Article 36 and Paragraph 2 of Article 37.
+
+## Chapter 6 Recognition and Measurement
+
+### Article 41
+
+（Actual Cost of Asset）
+
+Initial recognition of assets and liabilities, as a matter of principle, shall be based on the cost.
+
+### Article 41-1
+
+An item that satisfies definition of an element of financial statements should be recognized in the balance sheet or statement of profit or loss and other comprehensive income if:
+
+\1. It is probable that any future economic benefit associated with the item will flow to or from the business entity; and
+
+\2. The item has a cost or value that can be measured with reliability.
+
+### Article 41-2
+
+Business entities shall select measurement bases for recognizing financial statement items in a manner appropriate to the requirements of circumstances. Common measurement bases include historical cost, fair value, realizable value, or other measurement bases.
+
+### Article 42
+
+(Assets)
+
+Assets acquired in exchange for non-monetary assets shall be measured at fair value as a general principle. However, if the fair value cannot be measured reliably, the asset’s cost is measured at the carrying amount of the exchanged asset.
+
+Donated assets shall be recorded at fair value and classified as additional paid-in capital, revenue or deferred revenue depending on their nature.
+
+### Article 43
+
+（Inventories）
+
+The cost of inventories may be calculated by using specific identification method, first-in, first-out method or average method.
+
+Inventories shall be measured at the lower of cost and net realizable value. If the cost of inventories is higher than net realizable value, inventories shall be written down below cost to net realizable value, and the amount of the write-down shall be recognized as cost of sales in the period the write-down occurs.
+
+### Article 44
+
+(Investments in Financial Instruments)
+
+Investments in financial instruments shall be measured at fair value, cost, or amortized cost method, depending on the nature thereof.
+
+Long-term equity investments that confer control or significant influence shall be accounted for using the equity method.
+
+### Article 45
+
+（Allowance for Uncollectible Receivable）
+
+Receivables shall be measured based on the remaining balance after deducting the estimated allowance for uncollectible accounts, and separate allowance items for uncollectible accounts shall be established. When a receivable is determined to be uncollectible, it shall be written off against the relevant receivable accounting items using the established allowance for uncollectible accounts.
+
+Accounts receivable and notes receivable resulting from operating activities shall be separately recorded from accounts receivable and notes receivable resulting from non-operating activities.
+
+### Article 46
+
+（Accumulated Depreciation）
+
+For remeasurement of depreciable assets, accumulated depreciation shall be established and presented as a deduction of the respective assets.
+
+Assets shall be depreciated on an annual basis.
+
+When depreciation of assets is computed, the salvage value shall be estimated. If the salvage value can be deducted according to the depreciation method, the balance after deduction of the salvage value shall be used as the basis for the computation.
+
+If an asset can continue to be used after expiration of its duration limit, it can continue to be depreciated using the salvage value thereof.
+
+### Article 47
+
+（Method of Depreciation）
+
+Assets must be depreciated by using straight-line method, fixed percentage on diminishing book value method, sum-of-years’-digits method, production method, working-hour method or other depreciation methods approved by the central competent authority. Where the assets belong to different categories, the depreciation may be computed separately based on different categories.
+
+### Article 48
+
+（Capital Expenditure and Revenue Expenditure）
+
+Expenditure that will benefit the subsequent periods is considered as an asset. Expenditure that benefits only the current period or has no benefit at all must be considered as an expense or loss.
+
+### Article 49
+
+（Depletable Asset）
+
+An accumulated depletion item must be established for depletion assets, and the depletion expense must be recorded for each period.
+
+### Article 50
+
+（Intangible Asset）
+
+For purchased goodwill, trademarks, patents, copyrights, franchises, and other intangible assets, the cost must be the acquisition cost.
+
+If the intangible assets referred to in the preceding Paragraph are self-developed, only the cost for registration or finished creative work can be recorded as acquisition cost. The research and development costs incurred must be recorded as current expenses. However, in the event of stipulations provided otherwise by the competent authority, this limit does not apply.
+
+### Article 51
+
+（Revaluation and Adjustment of Asset）
+
+Business may revalue assets according to laws and regulations.
+
+### Article 52
+
+（Processing of Revaluation）
+
+The surplus incurred due to revaluation or adjustment of assets processed in accordance with the preceding Article shall be recorded as unrealized revaluation surplus.
+
+The revalued assets shall be recorded at the revalued amount. From the year following the year of revaluation, the depreciation, depletion, or amortization of the revalued assets shall be calculated based on the revalued amount.
+
+### Article 53
+
+（Deferred Expenses）
+
+Prepaid expenses are those which will bring future economic benefit and be charged to future periods. Prepaid expenses must be measured on the basis of the portion of amount covering the unexpired period.
+
+### Article 54
+
+（Liabilities）
+
+Liabilities must be recorded based on the discounted value of the amount payable when due. However, liabilities incurred as a result of operation or trade or liabilities expected to be cleared within one year can be recorded using the amount to be paid back at maturity.
+
+The premium or discount of corporate bonds must be recorded as an addition or deduction of the par value of the bonds.
+
+### Article 55
+
+（Evaluation of Capital Paid by Properties）
+
+Capital paid by properties other than cash must be recorded on the basis of the fair value of such properties. If the fair value is not available, an estimate may be made.
+
+### Article 56
+
+（Accounting Consistent Principle）
+
+The recording basis and processing method of accounting events must be consistent; in the event of modifications required by justified causes, explanations with regard to the cause, modification and impact thereof must be made in the financial statements.
+
+### Article 57
+
+（Merger, Dissolution, Termination or Transfer）
+
+In case of mergers, spin-offs, acquisitions, dissolutions, terminations or transfers of business, as a matter of principle, assets shall be accounted for based on fair value, carrying amount, or transaction price.
+
+## Chapter 7 Calculation of Profit and Loss
+
+### Article 58
+
+(Total Comprehensive Income)
+
+All the income generated by a business in a fiscal year less all the costs, expenses, and losses in the same period shall be the total comprehensive income.
+
+### Article 59
+
+（Revenue）
+
+Operating revenue should be recognized upon the completion of a transaction. Installment sales shall be recorded based on gross profit rate method, depending on their specific characteristics. Service revenue may be recognized periodically if provided over multiple periods depending on its nature.
+
+The transaction completion referred to in the preceding Paragraph, for businesses adopting the cash basis, shall be the time of cash receipt or payment; for businesses adopting the accrual basis, it shall be the time when goods are delivered or services are completed.
+
+### Article 60
+
+(Recognition of Revenue and Expenses)
+
+Revenue and expenses related to the same transaction or event shall be recognized in accordance with relevant accounting standards.
+
+### Article 61
+
+（Employee Pension）
+
+A business that has an obligation to pay employee retirement benefits shall make provisions in accordance with applicable laws during the employee's service period and recognize such provisions as expenses in the current reporting period.
+
+### Article 62
+
+（Income Tax of Profit-Seeking Enterprise）
+
+All adjustments required by tax laws for income tax filing must not affect the records in the accounting books.
+
+### Article 63
+
+Deleted
+
+### Article 64
+
+（Earnings Distribution）
+
+The distribution of earnings shall not be recognized as an expense or loss, provided that dividends on preferred stock with a debt-like nature shall be recognized as an expense.
+
+## Chapter 8 Closing and Examination
+
+### Article 65
+
+(The Year-End Closing Process)
+
+The year-end closing process of a business shall be completed within two months after the end of the fiscal year; an extension of up to two and a half months may be granted when necessary.
+
+### Article 66
+
+(Preparation of the Year-End Closing reports)
+
+For the year-end closing process, a business shall prepare the following reports and statements:
+
+\1. The business report.
+
+\2. The financial statements.
+
+The content of the business report shall include operational policies, general status of implementation, results of the business plan execution, budget derived from operating revenues and expenditures, profitability analysis, research and development, etc..
+
+The year-end closing reports shall be signed or sealed by the responsible persons of the business, its officer and the chief accounting personnel.
+
+### Article 67
+
+(Consolidation of Accounts of Branches)
+
+At the end of the fiscal year, a business with branches shall consolidate the accounts of its branches for the year-end closing process.
+
+### Article 68
+
+(Approval of the Year-End Closing Reports)
+
+The responsible person of a business shall submit the year-end closing reports to its capital provider(s), partner(s), or shareholder(s) for approval within six months at the end of the fiscal year.
+
+The capital provider(s), partner(s), or shareholder(s) may commission a certified public accountant to conduct an examination of the matters mentioned in the preceding Paragraph, if deemed necessary.
+
+The responsible persons of a business and its chief accounting personnel shall be relieved of their accounting responsibilities for the fiscal year upon the approval of the year-end closing reports referred to in Paragraph 1, provided that this provision shall not apply in cases of unlawful or improper conduct involved.
+
+### Article 69
+
+（Request for In-spection）
+
+The responsible persons of a business shall keep all the year-end reports at its principal office.
+
+Were an interested party of the business requests, for legitimate reasons, to inspect the year-end closing reports mentioned in the preceding Paragraph, the responsible persons of the business shall allow such inspection, provided that such inspection does not adversely affect the interests of the business.
+
+### Article 70
+
+(Appointment of Inspector)
+
+An interested party of a business may petition the court, for legitimate reasons, to appoint an inspector to inspect the business’s accounting books, financial statements, and accounting documents.
+
+## Chapter 9 Penalties
+
+### Article 71
+
+（Penalty (1)）
+
+The responsible persons of a business, its chief accounting personnel, accounting personnel handling and in charge of the events, or a person authorized in accordance with the law for handling accounting events on behalf of others shall be subject to imprisonment for a term not exceeding five years, detention, or a fine not exceeding NT$ 600,000, or imposed concurrently, in the event of any of the following circumstances:
+
+\1. Knowingly preparing accounting vouchers or making entries in the accounting books with false information;
+
+\2. Intentionally causing the loss, destruction, or damage of accounting documents, accounting books, or financial statements that should be preserved;
+
+\3. Forging or altering the contents of accounting documents, accounting books, or financial statements, or destroying any page thereof;
+
+\4. Intentionally omitting to record accounting events, resulting in the financial statements being false;
+
+\5. Causing accounting events or financial statements being false by other improper means.
+
+### Article 72
+
+（Penalty (2)）
+
+Where accounting data is processed electronically by a business, any of the individuals mentioned in the preceding Article, or those involved in the electronic processing of such accounting data shall be subject to imprisonment for a term not exceeding five (5) years, detention, or a fine not exceeding NT$600,000, or imposed concurrently, in the event of any of the following circumstances:
+
+\1. Intentionally entering false information;
+
+\2. Intentionally damaging, destroying, or altering the accounting data, resulting in financial statements being false;
+
+\3. Intentionally omitting to record accounting events, resulting in the financial statements being false; or
+
+\4. Causing accounting events or financial statements being false by other improper means.
+
+### Article 73
+
+(Reduction or Remission of Penalty)
+
+If the chief accounting personnel, the accounting personnel handling and in charge of the events of the business, or any individuals involved in the electronic processing of accounting data, commits the offenses specified in the preceding two Articles, their penalties may be reduced or remitted if there is credible evidence that they had previously expressed refusal or proposed corrective opinions.
+
+### Article 74
+
+（Penalty (3)）
+
+Any person who, without the required qualifications to handle accounting affairs on behalf of others in accordance with the law, unlawfully handles the accounting affairs of a business, shall be subject to a fine not exceeding NT$100,000. If such person commits the offense again within three years of being discovered, they shall be subject to imprisonment for a term not exceeding one year, detention, or a fine not exceeding NT$150,000, or imposed concurrently.
+
+### Article 75
+
+（Penalty (4)）
+
+Any person who, without the required qualifications to handle accounting affairs on behalf of others in accordance with the law, unlawfully handles the accounting affairs of a business and engages in any of the conduct specified in Articles 71 and 72, shall be subject to penalties in accordance with the provisions of the respective Articles.
+
+### Article 76
+
+（Penalty (5)）
+
+The responsible persons of a business, its officers, the chief accounting personnel, or the accounting personnel handling and in charge of the accounting events shall be subject to a fine not less than NT$ 60,000 and not more than NT$300,0000 if any of the following circumstances occur:
+
+\1. Violation of Article 23 by failing to establish accounting books, except where exemption is granted by relevant laws and regulations;
+
+\2. Violation of Article 24 by damaging the pages of accounting books or destroying audit trails;
+
+\3. Failure to preserve accounting books, financial statements, or accounting documents within the period prescribed under Article 38;
+
+\4. Failure to complete the year-end closing process within the prescribed period under Article 65;
+
+\5. Violation of the provisions in Chapter 6 or Chapter 7 by preparing the year-end closing reports that are materially false.
+
+### Article 77
+
+（Penalty (6)）
+
+The responsible person of a business who violates the provisions of Paragraph 1, Paragraph 2, or Paragraph 5 of Article 5, shall be subject to a fine not less than NT$ $30,000 and not more than NT$150,0000.
+
+### Article 78
+
+（Penalty (7)）
+
+The responsible persons of a business, its officers, the chief accounting personnel, or the accounting personnel handling and in charge of the accounting events shall be subject to a fine not less than NT$ 30,000 and not more than NT$150,000, if any of the following circumstances occur:
+
+\1. Violation of Paragraph 1 of Article 9;
+
+\2. Failure to obtain source documents or issue them to others in accordance with the provisions of Article 14;
+
+\3. Failure to record accounts within the prescribed time in accordance with the provisions of Article 34;
+
+\4. Failure to bind or preserve accounting documents in accordance with the provisions of Article 36;
+
+\5. Failure to prepare the required statements in accordance with the provisions of Paragraph 1 of Article 66;
+
+\6. Violation of Article 69 by failing to maintain the year-end closing reports at the principal office of a business or by refusing the inspection by interested parties without legitimate reasons.
+
+### Article 79
+
+（Penalty (8)）
+
+The responsible persons of a business, its officers, the chief accounting personnel, or the accounting personnel handling and in charge of the accounting events shall be subject to a fine not less than NT$ 10,000 and not more than NT$50,000, if any of the following circumstances occur:
+
+\1. Failure to keep accounts in accordance with Article 7 or Article 8;
+
+\2. Failure to establish a directory of accounting books in accordance with provisions of Article 25;
+
+\3. Failure to sign or affix a seal in accordance with the provisions of Article 35;
+
+\4. Failure to sign or affix a seal in accordance with the provisions of Paragraph 3 of Article 66;
+
+\5. Failure to submit for approval within the specified period in accordance with the provisions of Paragraph 1 of Article 68;
+
+\6. Evasion, obstruction, or refusal to undergo the inspection in accordance with the provisions of Article 70.
+
+### Article 80
+
+（Penalty (9)）
+
+A certified public accountant or an individual qualified to handle accounting affairs on behalf of others in accordance with the law, who violates any provision of Article 76, Article 78, or Article 79 of this Law, shall be penalized in accordance with the respective Articles.
+
+### Article 81
+
+（Imposition of Fines）
+
+The fines prescribed under this Law shall be imposed by the Competent Authorities at each level, except for those specified in Item 6 of Article 79, which shall be imposed by the courts.
+
+## Chapter 10 Supplemental Provision
+
+### Article 82
+
+（Exceptions for small-scale businesses）
+
+A small-scale partnership or sole proprietorship business may be exempt from the provisions of this Law.
+
+The criteria for small-scale partnerships or sole proprietorships mentioned in the preceding Paragraph shall be determined by the Central Competent Authority, taking into the economic conditions of each municipality and country (city).
+
+### Article 83
+
+（Effective Date）
+
+This Law shall enter into force on the date of promulgation.
+
+The amendments to this Law, promulgated on May 30, 2014, and shall enter into force on January 1, 2016, provided that a business may voluntarily adopt the amended provisions from the fiscal year beginning on or after May 30, 2014.
+
+## History
+
+\1. The entire 57 articles were drafted and promulgated by the Nationalist Government on January 7, 1948
+
+On December 31, 1951 the president of Taiwan ordered enforcements of this law to commence through out the Taiwan Providence.
+
+\2. On July 30, 1964 the president of Taiwan amended and promulgated the entire 70 articles.
+
+\3. On January 8, 1968 the president of Taiwan amended and promulgated the fifth article.
+
+\4. On May 19, 1995 the president of Taiwan amended and promulgated the entire 80 articles in accordance to the Presidential Order (84) and Hua Tsung (1) Yi Tzu No. 3156.
+
+\5. On October 29, 1998, Article 5 and 74 were amended and promulgated including Article 74-1 and 74-2 which were appended by the president of Taiwan in accordance to the Presidential Order (87) HuaTsung (1) Yi Tzu 8700022390.
+
+\6. On April 26, 2000, Article 3 was amended and promulgated by the president of Taiwan in accordance to the Presidential Order (89) HuaTsung (1) Yi Tzu 8900104400.
+
+\7. On May 24, 2006 amendment was made in accordance to the presidential order to (95) HuaTsung (1) Yi Tzu 09500074911.
+
+\8. On June 3, 2009, Article 43 was amended and promulgated by the president of Taiwan in accordance to the Presidential Order HuaTsung (1) Yi Tzu 09800139041.
+
+\9. On June 18, 2014 amendment was made in accordance to the presidential order to (103) HuaTsung (1) Yi Tzu 10300093261.

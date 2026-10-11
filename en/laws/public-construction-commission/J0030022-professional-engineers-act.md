@@ -1,0 +1,535 @@
+---
+title: "Professional Engineers Act"
+title_zh: "技師法"
+identifier: "J0030022"
+type: act
+law_level: "法律"
+category: "行政＞行政院公共工程委員會＞通用目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1947-10-27
+last_amended: 2026-01-05
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0030022"
+retrieved: 2026-10-12
+---
+
+# Professional Engineers Act
+
+> Translation. The Chinese text ([zh/laws/public-construction-commission/J0030022-professional-engineers-act.md](../../../zh/laws/public-construction-commission/J0030022-professional-engineers-act.md)) is authoritative.
+
+## Chapter One General Provisions
+
+### Article 1
+
+This Act is enacted to safeguard public safety and public interests, establish a professional engineer system, improve quality of technical services, and promote sound functions of professional engineers.
+
+### Article 2
+
+The competent authorities in charge of professional engineers are the Public Construction Commission, Executive Yuan at the central government level, the municipal government at the municipal level, and county (city) government at the county (city) level.
+
+### Article 3
+
+A citizen of the Republic of China having passed the examinations for professional engineers in accordance with the Examination Act and having possessed the professional engineer certificate under this Act may be recognized to serve as a professional engineer.
+
+One who has lawfully possessed a professional engineer certificate prior to enactment of this Act may continually be recognized to serve as a professional engineer.
+
+One who does not possess the professional engineer certificate of a specified engineering branch shall not use such branch title.
+
+### Article 4
+
+The categorized engineering branches of professional engineers shall be prescribed by the Executive Yuan in conjunction with the Examination Yuan.
+
+### Article 5
+
+One who has possessed a certificate verifying successful pass in professional engineer examination may register with the central competent authority and apply for a professional engineer certificate.
+
+### Article 6
+
+One shall not be recognized as a professional engineer and the certificate of a professional engineer shall be revoked or abolished under any of the following circumstances:
+
+\1. Having the qualification of passing the professional engineer examination revoked or abolished under the Examination Act.
+
+\2. Being sentenced to imprisonment for not less than one year without probation as verified by an irrevocable court judgment due to a crime related to the professional practice.
+
+## Chapter Two Practice
+
+### Article 7
+
+A professional engineer shall practice the profession in any of the following manners:
+
+\1. Establishing a professional engineer engineering office organized as a sole proprietorship or partnership.
+
+\2. Establishing a professional engineering consulting firm or being hired by one.
+
+\3. Being hired by a profit-seeking enterprise or organization, other than those mentioned in the preceding Subparagraph, which is required by laws and regulations to hire a licensed professional engineer.
+
+A professional engineer shall practice the profession only in one single business entity. A professional engineer holding professional engineer certificates of different branches may engage in different branches of professional practices in one single business entity.
+
+### Article 8
+
+A professional engineer, though possessing the professional engineer certificate, shall not practice the profession until having gained at least two years of service and until obtaining the professional engineer license after applying to the central competent authority.
+
+The preceding Paragraph regarding years of service is not applicable to professional engineers who qualify through the professional engineer screening examination, a full or partial subjects examination exemption.
+
+The application of professional engineer license of the Paragraph 1 shall be reviewed and registered by the central competent authority before the issuance of the license. The central competent authority shall notify the association of professional engineers when issuing professional engineer licenses.
+
+The professional engineer license is valid for six years. The professional engineer as the holder of a professional engineer license shall apply, within three months prior to the date of expiration of the license, with verified documents of professional practice and training certificates approved by the central competent authority for renewal of the professional engineer license.
+
+The central competent authority may commission non-government organizations to conduct renewal matters of professional engineer licenses, and approval of verified documents of professional practice and training certificates.
+
+The regulations for the qualifications, terms and conditions, procedures of application, required documents and other matters to be complied with for renewal of the licenses as set forth in Paragraph 4 shall be prescribed by the central competent authority.
+
+Professional engineers of all engineering branches having possessed professional engineer licenses prior to enforcement of the articles of this Act amended on May 31, 2011 shall be subject to Paragraph 2 and Paragraph 4 from the date of enforcement.
+
+### Article 9
+
+The professional engineer license shall be registered the following particulars:
+
+\1. Name, gender, serial number of identification document.
+
+\2. Date of birth.
+
+\3. Way of professional practice.
+
+\4. Name and location of the business entity where the professional engineer practices.
+
+\5. Professional engineering branches, file number of professional engineer certificate and scope of professional practice.
+
+\6. Date of issuance and file number.
+
+When there is a change in the particulars prescribed in the preceding Paragraph, an application for renewal of the license shall be made within fifteen days from the occurrence of the fact.
+
+### Article 10
+
+The central competent authority shall establish professional engineer database to register the following particulars:
+
+\1. Name, gender, address, serial number of identification document.
+
+\2. Date of birth.
+
+\3. Way of professional practice
+
+\4. Name and location of the business entity where the professional engineer practices.
+
+\5. Professional engineering branches.
+
+\6. File number of professional engineer certificate
+
+\7. File number, date of issuance and expiration date of the professional engineer license.
+
+\8. Categories and facts of awards or punishment received.
+
+\9. Changes in the registered particulars.
+
+\10. Dates of commencement, suspension, and resumption of the professional practice.
+
+For the purpose of advancing the public interests, the central competent authority may publicly disclose the particulars set forth in the preceding Paragraph on the internet, except the address and serial number of identification document in Subparagraph 1 and the particulars in Subparagraph 2.
+
+### Article 11
+
+One shall not be qualified for a professional engineer license, and the issued license of a professional engineer shall be revoked or abolished under any of the following circumstances:
+
+1.Having the professional engineer certificate revoked or abolished pursuant to Article 6.
+
+2.Being under the order of the commencement of guardianship or assistantship and having not yet been revoked.
+
+3.Having been declared bankrupt or having had the liquidation process initiated by a court ruling under the Consumer Debt Clearance Statute, and having not yet resumed legal rights.
+
+4.Having objective facts recognized as inability to practice the profession, as determined by a team organized by the central competent authority comprising specialist  physicians, representatives of professional engineer associations, and scholars and experts.
+
+5.Being suspended from the professional practice of this Act as a penalty according to other laws.
+
+6.Disciplinary action through abolishment of the professional engineer certificate according to this Act.
+
+The organization and operation of the team referred to in Subparagraph 4 of the preceding Paragraph shall be prescribed by the central competent authority.
+
+Where the professional engineer license is not issued, revoked or abolished under Subparagraphs 2 through 5 of Paragraph 1, it may be still applied for in accordance with this Act after the causes for such actions are eliminated.
+
+### Article 12
+
+A professional engineer who voluntarily suspends professional practice shall, within thirty days from the date of suspension, submit the professional engineer license and apply to the central competent authority for the nullification of their professional license.
+
+## Chapter Three Professional Practice and Responsibilities
+
+### Article 13
+
+A professional engineer may be commissioned to conduct the professional practice within their engineering branch as planning, design, construction supervision, research, analysis, test, evaluation, appraisal, construction, manufacture, maintenance, inspection, project management and other related services.
+
+The scopes of professional practice of various engineering branches shall be prescribed by the central competent authority in conjunction with the central authorities in charge of the relevant industries.
+
+The system for professional engineer certification shall be enforced for certain specified engineering branches or technical service categories in an effort to upgrade the quality of technical services or safeguard public health and safety. The regulations for certification shall be prescribed by the central competent authority in conjunction with the central authorities in charge of the relevant industries.
+
+When a government agency, a government-owned enterprise, or a public juristic person independantly conducts the professional practice stipulated in Paragraph 1 requiring certification in accordance with other laws, they shall assign their subordinates who have lawfully obtained relevant professional engineer certificates to do so.
+
+### Article 14
+
+A professional engineer designated by government agencies to conduct the professional practice related to public safety, disaster prevention, or disaster rescue shall not refuse without justifiable reasons.
+
+When a government agency designates a professional engineer to conduct the professional practice prescribed in the preceding Paragraph, the necessary fees shall be paid.
+
+### Article 15
+
+A professional engineer, while in professional practice, shall maintain a profession registry book to record technical service and where the practice is conducted, the names or titles and addresses of clients, and circumstances and duration in detail.
+
+### Article 16
+
+All drawings and documents produced by professional engineers in the professional practice shall be signed by themselves and be further affixed with their practice seals. When involving the scopes of professional practice from different engineering branches, they shall be conducted by engineers with corresponding engineering branches, and they shall be indicated responsibility respectively.
+
+A professional engineer shall conduct certification only for the work carried out by themselves or under their supervision. When work involves site operations, the professional engineer shall conduct inspections at the work site in person.
+
+A professional engineer, when conducting certification, shall submit certification report and keep a record of the certification process. The report and record, along with all the relevant data and documents, shall be compiled into worksheets.
+
+### Article 17
+
+In the event that a client of a professional engineer or a business entity where a professional engineer practices changes the finalized project without permission and refuses warnings during the project or after it is carried out, thus resulting in a risk of danger, the professional engineer shall report to the local competent authority according to the facts.
+
+### Article 18
+
+A practicing professional engineer shall not concurrently serve as a civil servant.
+
+### Article 19
+
+A professional engineer shall not:
+
+\1. Allow anyone to borrow their name to practice the profession or solicit the professional practice.
+
+\2. Breach or neglect obliged duties on commissioned professional practice.
+
+\3. Breach laws and regulations related to the professional practice while practicing the profession.
+
+\4. Provide unprofessional or false reports or affidavits when conducting an appraisal.
+
+\5. Reveal secrets or confidential information obtained from the professional practice without a justifiable reason.
+
+\6. Receive unlawful interests or solicit the professional practice by unjustifiable means when practicing the profession.
+
+Provision under preceding Subparagraph 5 remains applicable after the professional practice is discontinued.
+
+### Article 20
+
+Unless otherwise provided by other laws, the professional practice conducted by a professional engineer shall not exceed the scope of the professional practice registered in their professional engineer license.
+
+### Article 21
+
+A professional engineer subject to a suspension penalty shall not practice the profession during the suspension period.
+
+### Article 22
+
+A professional engineer, while in professional practice, shall accept professional training programs as required by the competent authority.
+
+### Article 23
+
+The central competent authority and the central authorities in charge of the relevant industries, for supervision on professional engineer’s practice, are entitled to conduct a practice audit to inspect professional engineer’s practice or order them to report, and provide verified documents, account reports and other relevant data. The professional engineers shall not refuse or circumvent the audit.
+
+The practice audit stipulated in the preceding Paragraph may be commissioned to professional institutions or associations.
+
+A professional engineer practicing the profession under Article 7, Paragraph 1, Subparagraph 1 or 3, shall submit the annual practice report to the central competent authority for reference within six months from the day after the end of a fiscal year.
+
+The annual practice report stipulated in the preceding Paragraph may be processed electronically; its transmission format and computer database shall be specified by the central competent authority. If there is any error in the content of the transmitted information, the professional engineer shall correct it immediately.
+
+## Chapter Four Professional Engineer Association
+
+### Article 24
+
+Professional engineers shall not practice the profession unless they join the professional engineer association of the corresponding engineering branch. The professional engineer association shall not reject the application for entry.
+
+Professional engineers shall pay the membership fee according to the statutes of the professional engineer association.
+
+### Article 25
+
+Professional engineer associations shall be organized by and named after the respective engineering branches. Several engineering branches may be jointly organized into one professional engineering association if necessary.
+
+### Article 26
+
+The professional engineer association of each engineering branch or one that is jointly organized by several engineering branches shall be established in the provincial (municipal) or national association. However, the number of the association of the same engineering branch within the administrative area is limited to one, and the provincial (municipal) professional engineer association shall not be organized if there is a national professional engineer association.
+
+### Article 27
+
+The provincial (municipal) professional engineer association shall be duly organized by a minimum of seven professional engineers as promoters in the provincial (municipal) administrative region. The professional engineers may join the neighboring associations if there are less than seven in number in the province (municipality) or region.
+
+The national professional engineer association shall be organized by a minimum of twenty professional engineers who practice the profession as the promoters.
+
+### Article 28
+
+The provincial (municipal) professional engineer associations, which were organized before the enforcement of the amended provisions in this Act on May 31th, 2011, may be organized into the national association of each engineering branch or several engineering branches after the merger resolution of the general assembly and application to the central competent authority of civil associations for approval.
+
+An engineering branch of a national professional engineer association merged with the provincial (municipal) associations shall not be established another association for the same branch within the same administrative region unless the national association is dissolved by a resolution.
+
+The residual property of professional engineer associations of respective engineering branch merged into a national association in Paragraph 1, after the resolution of the general assembly and application to the central competent authority of civil associations for approval, may belong to the national association. The following provisions apply to the transfer of the property:
+
+\1. All written deed certificates are exempted from stamp tax.
+
+\2. The transferred securities are exempted from securities transaction tax.
+
+\3. The transferred goods or labor are not within the scope of business tax.
+
+\4. The transferred real estate is exempted from deed tax and land value increment tax. However, when the land is transferred again, the original prescribed land price before the merger or the present value of the previous transfer shall be used as the original land price. The price increase shall be calculated and the land increment tax shall be levied.
+
+### Article 29
+
+The national federation of professional engineer association of each engineering branch or jointly organized for several engineering branches shall be organized by a minimum of three provincial (municipal) professional engineer associations as the promoters.
+
+### Article 30
+
+The competent authority in charge of the professional engineer associations is the competent authority of civil associations. Their practice shall be, nevertheless, subject to instructions and supervision of the competent authorities in charge of professional engineers as stipulated in Article 2.
+
+### Article 31
+
+Each professional engineer association shall have directors and supervisors duly elected by the general assembly; their quotas are as follows:
+
+\1. Each provincial (municipal) professional engineer association shall have 3 to 15 directors and 1 to 5 supervisors.
+
+\2. Each national professional engineer association and national federation of professional engineer association shall have 9 to 33 directors and 3 to 11 supervisors.
+
+The directors and supervisors in the preceding Paragraph hold a term of three years, and they may be re-elected unless otherwise limited by the statutes of the association; the reappointment of the president shall be limited to one term.
+
+### Article 32
+
+The statutes of a professional engineer association shall stipulate the following particulars:
+
+\1. Title, region and location of the association.
+
+\2. The functions and duties of the association.
+
+\3. Admission and withdrawal of members.
+
+\4. Members’ rights and obligations.
+
+\5. The number of directors, supervisors, alternate directors, supervisors, their election methods, and their duties and powers.
+
+\6. Rules of the general assembly for members or member representatives, and of meetings for directors and supervisors.
+
+\7. Norms and ethical codes to be observed.
+
+\8. The rules for suspending members’ rights when they violate the statutes, norms, or ethical codes of the professional engineer association.
+
+\9. Funds and accounting.
+
+\10. Amendment of the association’s statutes.
+
+\11. Other required matters as relevant to the association affairs.
+
+### Article 33
+
+Each professional engineer association shall report the following particulars to the local competent authority of civil associations and the central competent authority of professional engineers:
+
+\1. Amendment of statutes.
+
+\2. Changes on roster of members.
+
+\3. The circumstances of the election of directors and supervisors, and names of the elected persons.
+
+\4. Dates, time, places and circumstances of general assembly for members or member representatives, as well as meetings of directors and supervisors.
+
+\5. Resolution matters.
+
+### Article 34
+
+Each professional engineer association shall hold the general assembly for members or member representatives on an annual basis and may hold an extraordinary general assembly whenever necessary.
+
+### Article 35
+
+When a professional engineer association holds the members’ or member representative’s general meeting, it shall report the local competent authorities of civil associations and professional engineers and invite them to sit in on the meeting.
+
+### Article 36
+
+Where a professional engineer association breaches laws, regulations, or its statutes, the local competent authority of civil associations may impose the following penalties:
+
+\1. Warning.
+
+\2. Revocation of resolution of the association.
+
+\3. Reorganization.
+
+Penalties set forth in the preceding Subparagraphs 1 and 2 may be imposed by the competent authority of professional engineers as well.
+
+### Article 37
+
+The provisions prescribed in Article 32 to the preceding Article are applicable mutatis mutandis to the national federation of professional engineer associations.
+
+## Chapter Five Award and Punishment
+
+### Article 38
+
+The central competent authority may award professional engineers with specific excellent performances in their professional fields; the rewards are as follows:
+
+\1. Awarding certificates of merits, medals, or professional decorations.
+
+\2. Commendation in public.
+
+### Article 39
+
+A professional engineer who has any of the following circumstances shall be subject to disciplinary action in addition to the punishments provided for in this Act:
+
+\1. Violating behavior stipulated in Articles 16 through 18, Article 19, Paragraph 1, Article 20, Article 21, or Article 23, Paragraph 1.
+
+\2. Being sentenced to imprisonment as verified by an irrevocable court judgment due to a crime related to the professional practice.
+
+\3. Violating the statutes or ethical codes of the professional engineer association, or Article 24, Paragraph 2 seriously.
+
+### Article 40
+
+Disciplinary action upon a professional engineer shall be imposed by the professional engineer discipline committee based on the severity of the circumstances in accordance with the following provisions:
+
+\1. Warning.
+
+\2. Reprimand.
+
+\3. Suspension of the professional practice between not less than two months and not more than two years.
+
+\4. Abolishment of the professional engineer license.
+
+\5. Abolishment of the professional engineer certificate.
+
+A professional engineer who has received three or more reprimands shall be punished additionally with suspension of the professional practice. If the total period of suspension from professional practice accumulates to five years, the professional engineer license shall be abolished.
+
+### Article 41
+
+A professional engineer who violates this Act shall be subject to disciplinary action according to the following:
+
+\1. Violation of the provisions of Article 16, Paragraph 1: shall be subject to warning or reprimand.
+
+\2. Violation of the provisions of Article 17, Article 20, or Article 23, Paragraph 1: shall be subject to a reprimand or suspension of the professional practice.
+
+\3. Violation of the provisions of Article 16, Paragraphs 2 and 3, Article 18, or Article 19, Paragraph 1, one of Subparagraphs 2 through 6: shall be subject to a reprimand, suspension of the professional practice, or abolishment of the professional engineer license.
+
+\4. Violation of the provisions of Article 21: shall be subject to abolishment of the professional engineer license.
+
+\5. Violation of the provisions of Article 19, Paragraph 1, Subparagraph 1: shall be subject to suspension of the professional practice, abolishment of the professional engineer license, or the professional engineer certificate.
+
+A professional engineer found in violation of the provisions stipulated in Article 39, Subparagraph 2 or 3, shall be subject to disciplinary action determined by the professional engineer discipline committee in accordance with the provisions of the preceding Article, taking into account the severity of the circumstances.
+
+### Article 42
+
+When a professional engineer is involved in circumstances stipulated in Article 39, the competent authorities, the competent authorities of the relevant industries, or the professional engineer associations may list facts, provide evidence, and report to the professional engineer discipline committee for handling.
+
+When stakeholders discover that a professional engineer is involved in circumstances stipulated in Article 39, they may list the facts, provide  relevant evidence, and report to the competent authorities of the relevant industries, the municipal or county (city) competent authorities, or the professional engineer association to which the professional engineer belongs, which shall review and forward the case to the professional engineer discipline committee for handling.
+
+### Article 43
+
+After receiving the entrusted disciplinary case, the professional engineer discipline committee shall notify the professional engineer subject to discipline, specifying a deadline for submitting a defense or appearing in the committee to present opinions on the specified date. Failure to comply with the specified time for defense or presenting opinions may result in the committee making a resolution directly.
+
+The meetings of the professional engineer discipline committee are not open to the public, and attendees shall be strictly confidential regarding the topics under discussion, the content of the meetings, and the resolutions made.
+
+### Article 44
+
+If the following period has elapsed from the date of the illegal act ended to the date of transfer to the professional engineer discipline committee, the professional engineer discipline committee shall resolve to exempt deliberations:
+
+\1. Under the circumstances of Article 41, Paragraph 1, Subparagraph 1: two years.
+
+\2. Under the circumstances of Article 39, Subparagraph 3, or Article 41, Paragraph 1, one of Subparagraph 2 or 3: three years.
+
+\3. Under the circumstances of Article 39, Subparagraph 2, or Article 41, Paragraph 1, one of Subparagraph 4 or 5: five years.
+
+If the consequences of the acts in the preceding Paragraph occur later, counting from the time the consequences occur.
+
+Under the circumstances of Article 39, Subparagraph 2, counting from the date of the final verdict.
+
+If the disciplinary resolution is revoked due to retrial, administrative litigation, or other remedial procedures and requires another resolution, the period stipulated in the Paragraph 1 shall be calculated from the date on which the original resolution is confirmed to be revoked.
+
+The provision to exempt deliberations in the Paragraph 1 shall also apply to those subject to disciplinary action before the amendment of this Act, which came into effect on July 4, 2007.
+
+A professional engineer who is exempted from deliberations in accordance with the provisions, if found to violate the provisions of this Act again within five years from the date of the exemption, shall be subject to severe disciplinary action by the professional engineer discipline committee in accordance with the provisions of Article 41.
+
+### Article 45
+
+A punished professional engineer who disagrees with the resolution of the professional engineer discipline committee may, within twenty days from the day following the service of the resolution, apply to the professional engineer discipline retrial committee for a review.
+
+### Article 46
+
+The professional engineer discipline retrial committee, in handling applications for a review, shall apply the provisions of Article 43 mutatis mutandis.
+
+### Article 47
+
+After the confirmation of the disciplinary action against a professional engineer, the central competent authority shall execute and publicly disclose the action on the internet, and notify the applicant referring the action, the punished professional engineer, and their association.
+
+### Article 48
+
+The central competent authority shall stipulate regulations related to the establishment, organization and reasons for recusal of members of the professional engineer discipline committee and the professional engineer discipline retrial committee, and related to the conduct, deliberations, resolutions, handling procedures and other matters to be complied with in disciplinary action and retrial.
+
+The members of the professional engineer discipline committee and the professional engineer discipline retrial committee referred to in the preceding Paragraph shall be appointed or hired part-time by the central competent authority for the following personnel. The proportion of the members with expertise in law shall not be less than one-third:
+
+\1. Representatives from the professional engineer association or one that is jointly organized by several engineering branches having the same branch with the punished professional engineer.
+
+\2. Scholars, experts, or impartial representatives in the society.
+
+\3. Personnel from the competent authorities and relevant government agencies.
+
+## Chapter Six Penalty
+
+### Article 49
+
+A professional engineer who violates the provisions of Article 18 shall have their professional engineer license revoked or abolished but may reapply for professional engineer license in accordance with the provisions of this Act after the elimination of the reasons.
+
+### Article 50
+
+If anyone who, without obtaining the professional engineer qualifications in accordance with the Act, practices the profession without authorization, the central competent authority shall order them to cease such practice and impose a fine between not less than NT$200,000 and not more than NT$1,000,000. If the unauthorized practice is not ceased, penalties may be imposed on each violation basis.
+
+### Article 51
+
+If a professional engineer continues to practice the profession during the period of the professional practice suspension or after abolishment of the professional engineer license, the central competent authority shall order them to cease such practice and impose a fine between not less than NT$50,000 and not more than NT$250,000. If the unauthorized practice is not ceased, penalties may be imposed on each violation basis.
+
+### Article 52
+
+If a professional engineer who holds only a professional engineer certificate but without a professional engineer license, suspends their professional practice voluntarily, or dose not join the professional engineer association practices the profession without authorization, the central competent authority shall order them to cease such practice and impose a fine between not less than NT$30,000 and not more than NT$150,000. If the unauthorized practice is not ceased, penalties may be imposed on each violation basis.
+
+### Article 53
+
+If a professional engineer who violates the provisions of Article 8, Paragraph 4 due to the expired professional engineer license without application for renewal practices the profession continually, they shall be subject to a fine between not less than NT$18,000 and not more than NT$90,000, the central competent authority shall order them to reapply for renewal by the specified date. If the professional engineer fails to comply by the specified date and continues to practice the profession, penalties may be imposed on each violation basis.
+
+If a professional engineer violates the provisions of Article 9, Paragraph 2, Article 12, Article 14, Paragraph 1, Article 15, Article22, or Article 23, Paragraph 3, the central competent authority shall order them to improve by a specified date. If the improvement is not made by the deadline or if there is a repeated violation, a fine between not less than NT$6,000 and not more than NT$30,000 shall be imposed. If the violation persists even after the fine, subsequent penalties may be imposed on each violation basis.
+
+### Article 54
+
+If anyone violates the provisions of Article 3, Paragraph 3 to use the title of a professional engineer, the central competent authority shall order them to cease such usage and impose a fine between not less than NT$3,000 and not more than NT$15,000. If they fail to cease the usage, penalties may be imposed on each violation basis.
+
+## Chapter Seven Supplementary Provisions
+
+### Article 55
+
+This Act and other relevant laws and regulations regarding professional engineers apply to a foreigner who passed the professional engineer examination in accordance with the laws of the Republic of China and then has applied for a professional engineer certificate pursuant to the provisions of Article 5.
+
+### Article 56
+
+The fees for the professional engineer certificate and professional engineer license shall be determined by the central competent authority.
+
+### Article 57
+
+The central competent authority may delegate the authorities to the competent authorities of municipalities and counties (cities) to issue, revoke, abolish, and nullify professional engineer licenses, to register the particulars in the profession registry book, and to award, impose disciplinary action on and punish professional engineers.
+
+### Article 58
+
+The enforcement rules of this Act shall be prescribed by the central competent authority.
+
+### Article 59
+
+This Act shall come into force upon the date of promulgation.
+
+The articles amended on December 22, 2009 shall come into force on November 23, 2009.
+
+## History
+
+\1. Full text of 34 articles was formulated and promulgated on October 27, 1947
+
+\2. Article 32 was amended and promulgated by Presidential Order on December 17, 1954
+
+\3. Full text of 47 articles was amended and promulgated by Presidential Order Tai-Tung (1)-Yi-Tzu No. 918 on December 15, 1972
+
+\4. Article 2, 4, 5, 7, 31, 34, 37 and 44 were amended and promulgated by Presidential Order Tai-Tung (1)-Yi-Tzu No. 1070 on April 12,1977
+
+\5. Full text of 50 articles was amended and promulgated by Presidential Order Hua-Tsung (1)-Yi-Tzu No. 6194 on December 11, 1985
+
+\6. Article 4, 7, 9, 11, 41, 42 and 43 were amended, and promulgated, whereas, article 14 and 47 were deleted and article 48-1 added by Presidential Order Tai-Tung (1)-Yi-Tzu No. 8900011990 on January 19, 2000
+
+\7. Articles 3, 7, 10, 38, 40, 41 and 48-1 were amended and promulgated by Presidential Order Hua-Tsung (1)-Yi-Tzu No. 09100128680 on June 26, 2002
+
+\8. Article 41, 42-1 and 45-1 were amended and promulgated by Presidential Order Hua-Tsung (1)-Yi-Tzu No. 09600085761 on July 4, 2007
+
+\9. Article 10 and 50 were amended and promulgated by Presidential Order Hua-Tsung (1)-Yi-Tzu No. 09900005571 on January 13, 2010; effective as of November 23, 2009
+
+\10. Full text of 59 articles was amended and promulgated by Presidential Order Hua-Tsung (1)-Yi-Tzu No. 10000126081 on June 22, 2011. This Act shall come into force upon the date of promulgation.
+
+\11. Articles 11 and 42 were amended and promulgated by Presidential Order Hua-Tsung (1)-Yi-Tzu No. 11400135111 on January 5, 2026

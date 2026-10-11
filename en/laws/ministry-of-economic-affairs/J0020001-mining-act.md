@@ -1,0 +1,937 @@
+---
+title: "Mining Act"
+title_zh: "礦業法"
+identifier: "J0020001"
+type: act
+law_level: "法律"
+category: "行政＞經濟部＞地礦目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1930-05-26
+last_amended: 2023-06-21
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0020001"
+retrieved: 2026-10-12
+---
+
+# Mining Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-economic-affairs/J0020001-mining-act.md](../../../zh/laws/ministry-of-economic-affairs/J0020001-mining-act.md)) is authoritative.
+
+## Chapter 1 General
+
+#### Article 1
+
+This Act is enacted to reasonably utilize national mineral resources while securing sustained economic, environmental and cultural development, safeguarding the rights of the people and boosting social welfare.
+
+#### Article 2
+
+All mineral ownerships within the territory, exclusive economic marine zone and continental shelf of the Republic of China are owned by state and shall not be exploited unless a mineral right thereof has been acquired pursuant to this Act.
+
+#### Article 3
+
+The minerals referred hereunder include the following:
+
+\1. Gold minerals
+
+\2. Silver minerals
+
+\3. Copper minerals
+
+\4. Iron minerals
+
+\5. Tin minerals
+
+\6. Lead minerals
+
+\7. Antimony minerals
+
+\8. Nickel minerals
+
+\9. Cobalt minerals
+
+\10. Zinc minerals
+
+\11. Aluminum minerals
+
+\12. Mercury minerals
+
+\13. Bismuth minerals
+
+\14. Molybdenum minerals
+
+\15. Platinum minerals
+
+\16. Iridium minerals
+
+\17. Chromium minerals
+
+\18. Uranium minerals
+
+\19. Radium minerals
+
+\20. Tungsten minerals
+
+\21. Manganese minerals
+
+\22. Vanadium minerals
+
+\23. Potassium minerals
+
+\24. Thorium minerals
+
+\25. Zirconium minerals
+
+\26. Titanium minerals
+
+\27. Strontium minerals
+
+\28. Sulfur and Pyrite
+
+\29. Phosphate minerals
+
+\30. Arsenic minerals
+
+\31. Quartz crystal
+
+\32. Asbestos
+
+\33. Mica
+
+\34. Gypsum
+
+\35. Salt
+
+\36. Aluminite
+
+\37. Diamond minerals
+
+\38. Natural Alkali
+
+\39. Baryte
+
+\40. Chile saltpeter
+
+\41. Glauber’s salt
+
+\42. Borax
+
+\43. Graphite
+
+\44. Beryl
+
+\45. Fluorspar
+
+\46. Fireclay
+
+\47. Talc
+
+\48. Feldspar
+
+\49. Kaolin
+
+\50. Marble & Calcite
+
+\51. Magnesium & Dolomite
+
+\52. Coal
+
+\53. Petroleum & Oil Shale
+
+\54. Natural Gas
+
+\55. Gem & Jade
+
+\56. Abrasives
+
+\57. Mineral Pigments
+
+\58. Limestone
+
+\59. Serpentine
+
+\60. Silica Sand
+
+\61. Other minerals designated by the Executive Yuan
+
+Criteria on establishing of mineral rights for the aforementioned minerals in the preceding Paragraph may be announced by the competent authority as required.
+
+#### Article 4
+
+Terminology used in the Act is defined as follows:
+
+\1. Mining industry- refers to business entities engaged in exploration, mining and the auxiliary mineral processing and smelting.
+
+\2. Exploration- refers to exploring for mineral resources and mineral reserves of a deposit and evaluating of its economic values.
+
+\3. Mining- refers to extracting a mineral for its economic and reasonable utilization.
+
+\4. Mineral right applicant: refers to the natural or juridical person applying for establishing a mineral right.
+
+\5. Exploration right applicant - refers to the natural or juridical person applying for establishing a right to explore for a mineral deposit.
+
+\6. Mining right applicant- refers to the natural or juridical person applying for establishing a right to mine a mineral deposit.
+
+.7. Mineral right – refers to the exploration right or mining right..
+
+\8. Mineral right holder- refers to the natural or juridical person holding a exploration right or mining right.
+
+\9. Mineral concession – refers to the recorded area where a mineral right has been granted pursuant to this Act. Boundary of a mineral concession is the surface border bounded by stakes and down vertically.
+
+\10. Mineral claimed area- refers to the staked area applied for exploring for or mining minerals.
+
+\11. Exploration claimed area- refers to the staked area where an exploring right is applied to establish.
+
+\12. Mining claimed area- refers to the staked area where a mining right is applied to establish.
+
+\13. Mining land- refers to the land approved for the use of actual mining operations
+
+#### Article 5
+
+The competent authority under the Act is Ministry of Economic Affairs (MOEA). In executing the affairs specified under the Act, MOEA may designate an agency specifically responsible for execution of the Act.
+
+#### Article 6
+
+With regard to reserves of major minerals, industry demand, employment types, mine environment, international demand and supply, and other matters which shall be evaluated in accordance with relevant laws and regulations, the competent authority shall periodically review every 5 years and submit and announce evaluation report of overall industry policy.
+
+#### Article 7
+
+Other than in the mineral reserved area provided under Paragraph 1 of Article 33, all minerals provided under Article 3 are available for mineral right application to juridical person of the Republic of China as permitted by the Act.
+
+The juridical person mentioned in the preceding Paragraph should be a company limited by shares incorporated in accordance with the Company Act.
+
+Central and local governments may secure the mineral right under Paragraph 1 as permitted by the Act.
+
+#### Article 8
+
+In indigenous peoples’ regions and the sea areas be promulgated by the central competent authority of indigenous peoples, indigenous persons may collecting minerals for traditional culture, ritual or self-consumption, as non-profit purposes, without applying for a mineral right.
+
+The competent authority shall conjunction with the central competent authority of indigenous peoples to prescribe the regulations for the location, acreage, quantity, mineral species and other related matters of collecting minerals under the preceding Paragraph.
+
+#### Article 9
+
+The horizontal surface area of a mineral concession shall be from a minimum of two hectares to a maximum of two hundred and fifty hectares; however, in the need for development, the maximum area of the mineral concession may be extended to three hundred hectares if it is deemed necessary after the competent authority invites local governments, experts and scholars to jointly investigate.
+
+The area of the petroleum and natural gas concession may not be subject to the restriction on the maximum area under the preceding Paragraph, with approval by the competent authority based on the geological structure of oil and gas reserves.
+
+## Chapter 2 Mineral Right
+
+### Section 1 Nature and Validity of Mineral Right
+
+#### Article 10
+
+Mineral right is deemed as a real right, to which, unless otherwise specified herein, provisions of real estate of Civil Code mutatis mutandis.
+
+#### Article 11
+
+Mineral right shall not be severed; however, conforming to mine interest, the right may be split as approved by the competent authority, but the area of its mineral area shall still be subject to the restriction under Article 9.
+
+#### Article 12
+
+The mineral right holder shall operate the mineral right on its own. Except for inheritance, assignment, mortgage, entrustment and compulsory enforcement, a mineral right shall not be subject to other rights or legal action.
+
+The mortgage of a mineral right shall be limited to the mining right.
+
+#### Article 13
+
+Contract in breach of the provision under the preceding Article shall be invalid. The same applies for the assignment and entrustment of a mineral right without approval of the competent authority.
+
+#### Article 14
+
+The duration of an exploration right may not exceed four years. An extension is  eligible for within one year to six months prior to the expiration of the right. The extension period may not exceed two years and may only eligible one time.
+
+If the exploration right holder applies for extension of exploration right in accordance with the preceding Paragraph, the exploration right shall be deemed to be in effect during the period between the expiry date of the exploration right and the competent authority approval or dismiss date of the said application.
+
+#### Article 15
+
+The duration of a mining right may not exceed twenty years. An extension is eligible for within two years to one year prior to the expiration of the right. The extension period may not exceed twenty years..
+
+If the mining right holder applies for extension of mining right in accordance by the Act, the mining right shall be deemed to be in effect during the period between the expiry date of the mining right and the competent authority approval or dismiss date of the said application.
+
+#### Article 16
+
+The establishment, extension, alteration,  voluntarily aborted, or transfer by assignment or entrustment of a mining right shall not take effect without the approval and registration of the competent authority.
+
+The following items shall not be valid unless registered with the competent authority:
+
+\1. Nullification of and the disposal imposed on a mineral right.
+
+\2. Transfer of the mineral right by inheritance or compulsory execution.
+
+\3. Establishment, alteration, transfer, nullification of and the disposal imposed on a mortgage.
+
+The competent authority shall issue or remark on a mining license upon approval of the application for paragraph 1 and the registration of transfer by inheritance or compulsory execution.
+
+The registration regulations of the qualification of applicants, application process, registration period, registration items, plans, drawings, and documents to be submitted, and other provisions to be followed for paragraphs 1 and 2 shall be established by the competent authority.
+
+### Section 2 Establishment and Renewal of Mineral Right
+
+#### Article 17
+
+When applying for establishment of an exploration right, an applicant shall submit an application form, application fee, mineral concession map, conceptualized exploration plans and drawings, and mine environment maintenance plan; while applying for establishment of a mining right, an applicant shall submit an application form, application fee, mineral concession map, ore deposit description plans and drawings, conceptualized mining plans and drawings, and mine environment maintenance plan.
+
+In the conceptualized exploration plans and drawings under the preceding Paragraph, soil and water conservation, mine safety measures, mining hazard prevention, and other matters required by the competent authority shall be described in details. In the conceptualized mining plans and drawings, except aforesaid matters to be described, applied mining production amount and evaluation of economic values shall be additionally described in details.
+
+#### Article 18
+
+The boundary and area of a mineral concession shall be measured in the manner as promulgated by the competent authority.
+
+#### Article 19
+
+In one of the following situations, the competent authority shall not accept the application for establishing a mineral right if:
+
+\1. A mineral right applicant fails to submit complete application plans, drawings and documents as required pursuant to Paragraph 1 of Article 17.
+
+\2. The attached mineral concession map gives no name of place or border of the mineral concession.
+
+3.The mineral claimed area is not within jurisdiction.
+
+\4. An applicant fails to conform to Article 7.
+
+\5. The minerals specified in the application form are not those listed under Article 3.
+
+\6. The mineral claimed area is located totally within the area where an application has been stopped under Paragraph 1 of Article 30, or the area where exploration and mining is prohibited under Paragraph 2 of Article 30.
+
+\7. The minerals specified in the application form have been designated as minerals prohibited to exploration and mining in mineral reservation areas.
+
+\8. An applicant fails to pay application fee for establishing the mineral right.
+
+#### Article 20
+
+In one of the following situations, the competent authority shall dismiss the application for establishing a mineral right if:
+
+1.A mineral right applicant, who submit plans, drawings, and documents under Paragraph 1 of Article 17 or Paragraph 2 of Article 31, fails to supplement or amend or fails to resubmit complete supplemented and amended plans, drawings, and documents within a given period of time required by the competent authority after the document has been reviewed.
+
+\2. A mineral right applicant keeps failing to guide to survey the area claimed by the applicant on the designated date after the second notice, or fails to denote the claimed area on survey, or the denoted area on survey is totally different from the claimed area on the mineral concession map.
+
+\3. A mineral right applicant fails to correct within a given period time the difference of the location and the shape of the claimed area from the mineral deposits, which can damage mining interest.
+
+\4. A mineral right applicant fails to pay review fee survey fee, current mineral right fee, license fee and registration fee within a given period of time after the application has been reviewed and the payment notice has been issued by the competent authority.
+
+\5. The competent authority reviews economic benefits and evaluates and determines that the development shall not be approved.
+
+\6. The establishment of the mineral right would be detrimental to the public interest.
+
+\7. Any matters under this Act or other laws and regulations which shall be dismissed or not be approved.
+
+The competent authority accepting application of a mineral right shall survey the claimed area of mine and shall decide to approve or dismiss such application within 6 months after accepting the application.
+
+#### Article 21
+
+The applicant of a mineral right may for the cause of mining interest apply for increase or decrease the acreage of the claimed area; however, the acreage of the claimed area shall remain subject to the provision of Article 9.
+
+#### Article 22
+
+When the exploration right claimed area is deem suitable for mining, the competent authority may notify the exploration right applicant to submit an application for mining right within a given period of time. If the applicant fails to do so, the competent authority may dismiss the original application for the exploration right.
+
+#### Article 23
+
+If a mineral claimed area is found to be overlapping in two or more application for the same kind of mineral, the competent authority shall give the priority review for the overlapping part to the one who first submitted the application.
+
+If the applications referred in the preceding Paragraph are received on same day, the competent authority shall notify the applicants to negotiate new applications within a given period of time. If the applicants fail to do so, the competent authority shall determine the priority by lots drawing. However, when an exploration claimed area overlaps with a mining claimed area, the competent authority shall give the priority review to the case of mining application.
+
+If the applicant mentioned in the preceding Paragraph owns more than 50% of the mineral claimed area, the competent authority shall give the priority review to such an application.
+
+#### Article 24
+
+If an exploration right applicant submits an application form for a mining right for the same type of mineral over the same claimed area which overlaps with another mining claimed area applied by other applicant, the arrival date of the  application form for the exploration right shall be deemed as the arrival date of the application form for the mining right.
+
+#### Article 25
+
+If a mineral claimed area is found to overlap with another applicant’s mining concession for the same kind of mineral, the overlapped part of the mineral claimed area shall not be approved.
+
+#### Article 26
+
+During the review period for the application for exploration claimed area, if the competent authority find the said area overlap with another application for mining for the same kind of mineral, the overlapped part area shall be in accordance with Article 22, mutatis mutandis.
+
+#### Article 27
+
+If a mineral claimed area is found to overlap with another applicant’s mineral claimed area or mining concession for the different kinds of mineral, the competent authority shall notify the one who first applies for the mineral claimed area or the holder of mineral right to apply for such different kind of mineral and give the priority review to the application filed within 90 days after notification.
+
+#### Article 28
+
+If the exploration right holder applies for the mining right within 30 days following the expiration of exploration right, the competent authority shall give the application priority review to the said holder.
+
+#### Article 29
+
+Application for a mineral right in the following areas shall not be approved:
+
+\1. Within the forbidden areas of fortress, military port, garrison area, and military facility and premises, where permissions of the related competent authorities have not secured.
+
+\2. Within the environmentally sensitive areas where permission, according to relevant laws and regulations about establishment, of the related competent authorities shall secure, but related competent authorities reject after consultation.
+
+3.Within designated scenic area, where permissions of the related competent authorities have not secured.
+
+\4. Within 150 meters from public buildings, railroads, national highways, provincial highways, power plants and famous relics, where permissions of the related competent authorities have not secured.
+
+\5. Within the areas where exploration or mining is prohibited without permission of the competent authority that is stipulated by other Acts, where permissions of the related competent authorities have not secured.
+
+\6. Within national park area and the areas where the exploration or mining is prohibited by other Acts.
+
+#### Article 30
+
+To explore for minerals and adjust the mineral concession, the competent authority may designate an area to stop acceptance of new applications.
+
+With the need for public interest, the competent authority may designate all or part of the mineral concessions affecting public interest as a mining-prohibited area under the application of other competent authorities; or the other competent authorities involved in public interest restrict the exploration or mining on a mining land approved for mining operation under their Acts, leading to an operational loss, the mineral right holder may claim compensation for the loss suffered within the valid period of the mineral right against the obligating agencies who have imposed such prohibition or restriction.
+
+The competent authority shall prescribe the scope and recognition standard of the loss under the preceding Paragraph.
+
+The disputes once arisen among the mineral right holders and the entity applying for designating an area to be prohibited or restricted for exploration or mining, or other entities obliged to such compensation under Paragraph 2, may be settled by the competent authority through forming a settlement committee by inviting experts and scholars.
+
+After designating a mining-prohibited area, the competent authority shall abort all or part of the mineral right.
+
+#### Article 31
+
+As the application for establishing a mineral right has no conditions provided in Article 19 and Article 29, the competent authority shall inform the mineral right applicant to post its plans, drawings, and documents on the designated website and publicly exhibit such plans, drawings, and documents on the announcement boards of the township (town, city, district) public offices, village (tsun/li) offices, and tribes in the mineral claimed area for 30 days. After citizens, groups and authorities express their opinions on the  designated website or inwriting during the period of posting or public exhibition, the mineral right applicant shall hold explanatory meetings, hear the opinions, and inform owners of land and buildings and those obtaining right to use such land and buildings to attend such meetings. However, the mineral right applicant for petroleum and natural gas may be exempted to inform owners of land and buildings and those obtaining right to use such land and buildings to attend such meetings.
+
+A mineral right applicant shall integrate and deliver the written opinions and records of explanatory meetings to the competent authority.
+
+The competent authority may invite experts and scholars to involve the review of conceptualized exploration plans and drawings and conceptualized mining plans and drawings.
+
+After approving or dismissing a mineral right, the competent authority shall actively announce the decision of approval or dismissal on the  designated website in accordance with relevant provisions of the Freedom of Government Information Law.
+
+As informing owners of land and buildings and those obtaining right to use such land and buildings under the provision of Paragraph 1, a mineral right applicant may apply with the competent authority for assisting to inquire personal data. For assisting to inquire personal data, the competent authority may contact relevant authorities to provide. The processing and use of personal data obtained by a mineral right applicant shall be handled in accordance with the Personal Data Protection Act.
+
+The regulations governing holding procedures of explanatory meetings, and plans, drawings and documents which shall be post and publicly exhibited, and other matters for compliance under Paragraph 1 shall be prescribed by the competent authority. If the mineral claimed area is located in the area of indigenous peoples, the competent authority shall consult with the central competent authority of indigenous peoples to prescribe the regulations.
+
+#### Article 32
+
+As approving a mining right, the competent authority shall describe the area of mineral concession, approved mining production amount on that occasion, and validity period of the mineral right in details.
+
+The competent authority may elastically adjust approved mining production amount at such approval to respond the domestic demand. The range of adjustment is 10% of approved mining production amount on that occasion in principle.
+
+The provision of Paragraph 1 regarding mining license shall describe approved mining production amount on that occasion shall not apply to petroleum & oil shale, natural gas or other minerals designated by the Executive Yuan.
+
+#### Article 33
+
+The competent authority, when necessary, may announce designated minerals and areas as mineral reservation areas and forbid to explore or mine minerals.
+
+As holding it is not necessary to reserve the mineral reservation areas designated under the preceding Paragraph, the competent authority may announce to change or cancel such designation.
+
+Before designating, changing or canceling the mineral reservation areas, the competent authority shall publicly exhibit relevant plans on the  designated website and municipality and county (city) governments and township (town, city, district) public offices where the mineral reservation areas are located for 30 days, and then hold explanatory meetings, hear the opinions, and inform owners of land and buildings and those obtaining right to use such land and buildings to attend such meetings.
+
+The decisions made by the competent authority to designate, change or cancel the mineral reservation areas shall be post on the  designated website.
+
+#### Article 34
+
+Except submitting relevant plans, drawings and documents by applying Article 17 mutatis mutandis, those applying the renewal of the mineral right, which if originally approved mining land exists in the mineral concession, shall attach the following documents:
+
+\1. The shutdown plan of mine.
+
+\2. The consent documents issued by owners of land and buildings and those obtaining right to use such land and buildings if the mining land is located in private land. If it is located in public land, the consent documents issued by the land management authorities and the holders of other rights.
+
+In one of the following situations, the competent authority shall reject to accept the application for the renewal of the mineral right:
+
+\1. Failing to submit the application within the period stipulated by Paragraph 1 of Article 14, Paragraph 1 of Article 15, or Article 84.
+
+\2. Failing to attach complete application plans, drawings and documents under the preceding Paragraph, or attached mineral concession map giving no name of place or border of the mineral concession, or failing to pay application fees.
+
+\3. The minerals specified in the application form is not in the list under Article 3 or have been designated as minerals prohibited to exploration and mining in mineral reservation areas.
+
+Renewal procedures and approval for a mineral right may apply Articles 31 and 32 mutatis mutandis.
+
+#### Article 35
+
+In one of the following situations, except mutatis mutandis with Article 20, the competent authority shall dismiss all or part of an application for renewal of a mineral right:
+
+\1. The applicant different from the mineral right holder.
+
+\2. Lack of production record of exploration or mining without a good reason.
+
+\3. Having one of the items provided under Article 29 after establishment of a mineral right.
+
+4.Failing to attach the shutdown plan of mine provided in the Subparagraph 1, Paragraph 1 of the preceding Article.
+
+5.Failing to attach the consent documents provided in the Subparagraph 2, Paragraph 1 of the preceding Article.
+
+\6. Having one of the items provided under Article 42.
+
+\7. Having one of the items provided under Article 65 and being un-improvable.
+
+Under the circumstances specified in Subparagraph 5 of the preceding Paragraph, if applicant submit certified documents of apply settlement or litigation on the land use right dispute, the competent authority may stop reviewing the application and notify the applicant to conduct the examination after the settlement or court decision is finalized, and the suspension period shall not be included in the period in accordance with the preceding paragraph applies mutatis mutandis with paragraph 2 of Article 20 .
+
+#### Article 36
+
+As to the area prospected by the competent authority as worth to mine but without establishing a mineral right, or the area registered by the competent authority as its mineral right was revoked in accordance with the provision of the Act, aborted in accordance with Subparagraph 1 or 3 of Article 42, or aborted in accordance with Paragraph 2 of Article 78 due to one of Subparagraphs 1 to 3 of Article 65, the competent authority may establish the qualification of applicant, capital amount, nature of the business operated, scale of development and other necessary conditions and make public for application within a certain period of time for establishing a mineral right. However, the original mineral right holder shall not be eligible for re-application. The original right holder shall not be allowed to apply for the mineral right to the area of any adjustment made if this is the case.
+
+If there are more than two persons submitting applications for the same area within the announced period under the preceding Paragraph and such applications comply with the provisions of the preceding Paragraph, the award of the mineral right shall be determined by lots drawing.
+
+#### Article 37
+
+In order to avoid overlapping in application of a mineral right, people may apply by submitting plans, drawings and documents with the competent authority for referring to mineral right registry.
+
+### Section 3 Change, Transfer and Extinction of Mineral Right
+
+#### Article 38
+
+When applying for decreasing, combining or severing of the approved mineral concession, the mineral right holder shall submit application form, new and old mineral concession plan and reason statement to the competent authority. The area of the mineral concessions shall be still subject to the restriction of Article 9.
+
+The processing of the application in the  preceding Paragraph shall be in accordance with Article 20, mutatis mutandis.
+
+#### Article 39
+
+When requiring excavation into adjacent mineral concession due to the location or shape of a mineral deposit, the mineral right holder may negotiate with the adjacent mineral right holder to obtain a consent letter and jointly apply with the adjacent mineral right holder to the competent authority for mineral concession adjustment with the consent letter and mineral deposit explanation plans and drawings and relevant plans and drawings. The area of mineral concession shall be still subject to the restriction of Article 9.
+
+When requiring drilling a well or excavating a shaft or tunnel through adjacent mineral concession due to the location or shape of a mineral deposit, the mineral right holder may negotiate with the adjacent mineral right holder to obtain a consent letter and apply to the competent authority for approval of construction with the consent letter and construction drawings and its explanation.
+
+#### Article 40
+
+The transfer of a mineral right shall be made in writing and apply to the competent authority in accordance with the following requirements:
+
+\1. Transfer due to inheritance shall be applied by the successor.
+
+\2. Transfer due to assignment shall be applied by the assignee and the mineral right holder jointly.
+
+\3. Transfer due to compulsory execution shall be applied by the creditor.
+
+\4. Transfer due to entrustment shall be applied jointly by the trustee and the mineral right holder.
+
+At transfer of a mineral right, the rights and obligations imposed on the mineral right holder related to the mineral right shall be transferred together.
+
+#### Article 41
+
+After the mineral right holders, the responsible persons of judicial persons, agents, employees or other relevant persons of the mineral right holders have been convicted of the crimes of Offenses of Forging Instruments or Seals Chapter, Article 339 or Article 339-4 of the Criminal Code in obtaining a mineral right through such illegal methods and have been thus sentenced to fixed-term imprisonment or heavier punishment without pronouncement of probation or commuted-fine by a final and binding judgment of the court, the competent authority shall, ex office or upon application filed by interested parties, revoke the mineral right.
+
+#### Article 42
+
+As a mineral right holder has one of the following situations, the competent authority shall abort its mineral right:
+
+1.Failing to commence work within 2 years after registration of mineral right or stop work intermediately for more than one year; however, with a good reason and an approval of the competent authority, the punishment shall be exempted.
+
+\2. The operation of mining is impeding public interest which is un-reparable.
+
+3.Failng to pay the mineral right fee or mineral royalty for more than 1 year.
+
+If the recognition of the good reason provided by the proviso of Subparagraph 1 in the preceding Paragraph involves the matters of indigenous peoples, the competent authority shall consult with local or central competent authorities of indigenous peoples for their opinions.
+
+#### Article 43
+
+As a mineral right has one of the following situations, except those situations provided under Paragraph 1 of Article 46, the competent authority shall make extinction registration if:
+
+\1. Mineral right is revoked or aborted by the competent authority in accordance with the provision of the Act.
+
+\2. Mineral right holder voluntarily applies to abort the mineral right and the competent authority approves such application within the validity period of the mineral right.
+
+\3. Mineral right holder fails to apply for renewal of the mineral right in accordance with the provision of this Act and the period of the mineral right also expires.
+
+\4. Renewal application made by the mineral right holder in accordance with the provisions of this Act is dismissed by the competent authority or is voluntarily withdrawn and the period of mineral right also expires.
+
+The registration of mortgage extinction shall be made concurrently along with the registration of mining right extinction.
+
+#### Article 44
+
+After a mineral right is revoked, aborted or voluntarily aborted, the original mineral right holder shall dispose the property and equipment by itself within 1 year from the date of extinction registration; however, additional one-year extension may be granted by the competent authority under special condition of no harm to the mineral interest.
+
+After extinction of a mineral right, the original right holder, for mineral interest protection or hazard prevention, shall not freely dispose the equipment without the approval of the competent authority, and shall still comply with Mine Safety Act and its regulations.
+
+### Section 4 Mortgage of Mining Right
+
+#### Article 45
+
+After creating mortgage, the mining right holder shall submit a letter of consent of mortgagee when applying with the competent authority for abatement, severance, combination, reduction, increase or adjustment of mineral concessions.
+
+#### Article 46
+
+The competent authority shall notify the mortgagees before processing extinction registration of mining rights that were mortgaged before the amendment of this Act that took effect on Dec. 31, 2003, due to revocation, cancellation, or voluntary application for abortion of the mining right approval. The mining right shall not be exercised after the mining right holder submits an application for abortion of the mining right, or after the revocation or cancellation decision is made by the competent authority, until the mining right is auctioned off.
+
+The mortgagees may still request court for auction of the mining right within 60 days after the receipt of notice according to the preceding Paragraph, even if the debt is not yet due; however, as abortion is made for approval of mining right due to impeding of public interest under Paragraph 2 of Article 42, no auction request shall be made.
+
+The competent authority shall make extinction registration of the mining right under Paragraph 1 at the transfer registration due to final auction.
+
+The mining right acquired from the auction under Paragraph 1 shall be acquired from the date of extinction of the original mining right. The validity shall be expired at the expiration of original mining right.
+
+## Chapter 3 Mining Land
+
+#### Article 47
+
+To use the land, the mineral right holder shall apply for review by attaching the mining and construction plans and drawings, the shutdown plan of mine, and the documents specified by the competent authority. The mining land would be approved based on the area where the mineral right holder must use, the total mined amount, and the final elevation. However, if the mining method has no stage elevation, the final elevation is exempted from approval.
+
+If the land mentioned in the preceding Paragraph is private land, it shall attach the consent letters of owners of the land and building and those obtaining right to use such land and buildings; if it is public land, it shall attach the consent documents of the land management authorities. If the public land has established other rights, the consent letters from other rights holders shall be attached.
+
+After the competent authority accepts the application, it shall notify the mineral right holder to conduct and follow the procedures under Paragraph 1 and 2 of Article 31. However, it does not apply to those required to conduct environmental impact assessment in accordance with the Environmental Impact Assessment Act.
+
+After the competent authority accepts the application, it shall survey the land applied for usage and consult for advices with authorities of environmental protection, soil and water conservation, land use and other relevant authorities.
+
+In one of the following situations, the  application for approval of mining land by the mineral right holder shall be dismissed：
+
+1.Failing to pay the application fee or survey fee, and after the competent authority has notified to pay within a given period of time, still failing to pay as such period expires.
+
+2.Failing to attach complete plans, drawings and documents required under this Act or other relevant laws and regulations or their content is incomplete, and after the competent authority has notified to supplement and amend within a given period of time, still failing to supplement and amend as such period expires or the supplement and amendment is incomplete.
+
+3.Failing to show the direction to conduct surveys on the date specified by the competent authority, or failing to specify the land applied for usage during the survey, or that the area specified during the survey is completely inconsistent with the mining and construction plans and drawings.
+
+4.Any matters under this Act or other laws and regulations which shall be dismissed or not be approved.
+
+After approving the mining land, if the mineral right holder conducts mining constructions and reaches the allowed total excavation production and final elevation approved under Paragraph 1, the mining constructions shall be stopped. If the mineral right holder wishes to continue to conduct mining constructions within the original approved mining land, the mineral right holder shall apply for approval of mining land again.
+
+The regulations governing the acceptance of applications for approval of mining land, the review process, and other matters for compliance under Paragraph 1, Paragraph 2, and Paragraph 4 shall be prescribed by the competent authority in consultation with relevant authorities.
+
+#### Article 48
+
+As the land applied for usage under the preceding Article is located in indigenous land, tribe or the public land at their adjoining certain area, the mineral right holder shall conduct in accordance with Article 21 of the Indigenous Peoples Basic Law before the approval of mining land. If the number of affirmative votes about matters to be consented is less than that of negative votes, the mining land shall not be approved.
+
+The guidelines governing how the mineral right holder conducts the consultation with and obtaining the consent of or participation of indigenous peoples or tribes under the preceding Paragraph, shall be announced by the competent authority in consultation with the central competent authority of indigenous peoples.
+
+#### Article 49
+
+After approval or dismissal of the mining land, the competent authority shall post such disposition on the designated website and inform relevant municipality and county (city) governments, publicly post such disposition on the announcement boards of the township (town, city, district) public offices, village (tsun/li) offices, and tribes where the mining land is located in a period not be less than 30 days.
+
+#### Article 50
+
+As the mining land which was approved before the implementation of the provisions of this Act amended on May 26, 2023 come into effect is located in indigenous land, tribe or the public land at their adjoining certain area, the mineral right holder having not conducted in accordance with Article 21 of the Indigenous Peoples Basic Law shall conduct in accordance with Article 21 of such laws within 1 year from the implementation date of the amended Act.
+
+The mineral right holder shall submit documents related to methods of performing the consultation for consent or participation of indigenous peoples or tribes under the preceding Paragraph to the competent authority and central competent authority of indigenous peoples for records.
+
+The mineral right holder may still continue to conduct the constructions of exploration or mining during the period when the mineral right holder conducts the requirements of Article 21 of the Indigenous Peoples Basic Laws under Paragraph 1.
+
+As the mineral right holder fails to conduct under Paragraph 1, the competent authority may order such mineral right holder to stop its constructions of exploration or mining and submit relevant compliance documents within a certain period. If failing to submit within such period, such mining land shall be aborted.
+
+If the mineral right holder conducts the consultation for consent of or participation of indigenous peoples or tribes under Paragraph 1, and the number of affirmative votes about matters to be consented is less than that of negative votes, or the competent authority in consultation with the central competent authorities of indigenous peoples finds that there is delay of procedures, the competent authority shall order the mineral right holder to stop the constructions of exploration or mining.
+
+The mineral right holder stopping constructions of exploration or mining under the preceding 2 paragraphs may apply to resume the constructions of exploration or mining only until it conducts again the consultation for consent of or participation of indigenous peoples or tribes and the number of affirmative votes about matters to be consented is more than that of negative votes, and such results are submitted to the competent authority and the central competent authority of indigenous peoples for records.
+
+As to the directions related to how the mineral right holder conducts again the consultation for consent of or participation of indigenous peoples or tribes under Paragraph 1, it may conduct and follow the guidelines announced under Paragraph 2 of Article 48.
+
+#### Article 51
+
+In one of the following situations, the competent authority shall abort all or part of the approval of mining land:
+
+\1. The mineral right holder applies for aborting the approval of original approved mining land.
+
+\2. Extinction registration of the mineral right is conducted under Article 43.
+
+\3. A court judgment holds that original approved mining land shall be returned and such judgment is final and binding.
+
+If the original approved mining land is aborted, the mineral right holder or original mineral right holder shall conduct by applying Article 56 mutatis mutandis.
+
+If The original approved mining land is aborted and its quantity of supply in the preceding year amounts to 10% of total domestic supply of such year, and such abortion jeopardizes domestic development, national defense, or stable supply of civil necessities, the competent authority may report to the Executive Yuan for approval of adopting emergency importation of relevant goods and materials, moderate adjustment of approved mining production amount of other mines or other necessary measures. The restrictions under Paragraph 2 of Article 32 shall be exempted.
+
+#### Article 52
+
+Under any one of the following, the mineral right holder may, when necessary, use the land owned by others:
+
+\1. Drilling a well, excavating a shaft and tunnel or exploring for and mining minerals.
+
+\2. Stockpiling mineral product, explosive, earth and rock, wood, charcoal, slag, ash and other material for mining.
+
+\3. Building a plant, warehouse or other houses required by the mining operation.
+
+\4. Constructing large or small railways, canal, road, water pipe, gas pipe, oil pipe, gas storage tank, water tank, oil pond, boosting station, distribution station, trench, shaft, tramway, electric cable or transformer room.
+
+\5. Installing other work or facilities necessary for the mining operation.
+
+#### Article 53
+
+Regarding the mining land approved under this Act, obtaining its right of land use shall be in the following manners:
+
+\1. Purchase: the mineral right holder obtains land ownership by paying considerable amount of money.
+
+\2. Rent: the mineral right holder pays rent in one time or by installment.
+
+\3. Obtaining in the manners specified in the other Act.
+
+#### Article 54
+
+The price of the public land purchased by a mineral right holder shall be calculated based on the standard for public property disposal.
+
+The annual rental of the public land leased to a mineral right holder shall be set at 8% or less of normal transaction price, and the determination of normal transaction price shall apply the preceding Paragraph.
+
+#### Article 55
+
+After approval of the land as mining land, the mineral right holder shall negotiate with the owners of land and buildings, those obtaining right to use such land and buildings, management authorities of public land, and other rights holders of public land to secure the right to use the land or as a dispute arises during the period of usage. If an agreement cannot be reached, either party may apply for the competent authority for settlement.
+
+If both parties reject to accept the settlement, except that the competent authority may, ex officio or upon application, permit the mineral right holder to pay a certain consideration and then to use a certain range of land in certain period for responding national emergency disaster or other circumstances that affect major public interests, the mineral right holder shall not use the land.
+
+As to the consideration of permission to use land mentioned in the preceding Paragraph, the competent authority shall entrust a real estate appraiser to determine.
+
+The competent authority shall form a review committee to conduct the review for approval of use under Paragraph 2. The regulations governing the composition of the review committee, the resolution method and other related matters shall be prescribed by the competent authority.
+
+As the land use period approved under Paragraph 2 expires, the mineral right holder shall conduct by applying mutatis mutandis with Article 56.
+
+#### Article 56
+
+After completing the use of mining land, the mineral right holder or original mineral right holder shall implement rehabilitation and disaster prevention measures as per the approved soil and water conservation plan, mine environment maintenance plan, the shutdown plan of mine, and other relevant laws and regulations.
+
+If damage remains on the leased or pass-through land after completing the measures stated in the preceding Paragraph, the mineral right holder shall compensate the owners of land and buildings and those obtaining right to use such land and buildings subject to the level of damage.
+
+#### Article 57
+
+If mining operation results in a material loss to the land beyond the mineral concession, the mineral right holder shall compensate the owners of land and buildings and those obtaining right to use such land and buildings subject to the level of damage.
+
+#### Article 58
+
+At the transfer of a mineral right, the relevant rights and obligation of the mining land shall be transferred at the same time.
+
+#### Article 59
+
+A prospector, mineral right applicant or mineral right holder may, as necessary, conduct survey or prospecting on the land of other; however, prior notice shall be given to the local administrative body and owners of land and buildings and those obtaining right to use such land and buildings, and owner’s consent shall be obtained when an obstacle needs to be removed.
+
+#### Article 60
+
+The prospector, mineral right applicant or mineral right holder shall make compensation at actual value to the owners of land and buildings and those obtaining right to use such land and buildings or owners of the obstacle as a loss occurs due to the situation as stated in the preceding Article.
+
+## Chapter 4 Mineral Right Fee and Mineral Royalty
+
+#### Article 61
+
+Mineral right holder shall pay mineral right fee based on the kind of minerals, the area of mineral concession and the fee rate of exploration right or mining right. However, the mineral right holder of offshore petroleum or natural gas may be exempted from mineral right fee under a special reason approved by the competent authority.
+
+The regulations governing rate of mineral right fee, collection procedures, adjustment standards and other related matters under the preceding Paragraph shall be prescribed by the competent authority.
+
+#### Article 62
+
+The mineral right holder shall pay mineral royalty of the mineral price at the rate of 15% to 50% for petroleum and natural gas. The mineral right holder shall pay mineral royalty of the mineral price at the rate of 10% to 30% for metallic minerals. The mineral right holder shall pay mineral royalty of the mineral price at the rate of 5% to 20% for other minerals. However, the payment percentage for offshore petroleum and natural gas shall be announced by the competent authority.
+
+The regulations governing mineral price and the rate, collection procedures, adjustment standards and other related matters as stated in the preceding Paragraph shall be prescribed by the competent authority.
+
+#### Article 63
+
+The competent authority shall allocate part of the mineral royalties collected in accordance with the preceding Article as funds required for necessary community give-back measures.
+
+The regulations governing the content, calculation method, targets of give-back, procedures and other related matters of community give-back measures mentioned in the preceding Paragraph shall be prescribed by the competent authority.
+
+#### Article 64
+
+A mineral right holder who delays the payment of a mineral right fee or mineral royalty shall be charged with demurrage of 1% of the un-payment for every two days; however, the demurrage shall be limited to a maximum of 15%. If the payment is delayed over 30 days, the interest accrued on daily basis at fixed annual rate following the postal saving deposit shall be paid together with the un-payment.
+
+If the amount calculated under the preceding Paragraph is below a certain amount or conforms to specific conditions, the competent authority may, depending on actual needs, exempt from collection or transfer to administrative enforcement.
+
+The certain amount and specific conditions provided in the preceding Paragraph shall be announced by the competent authority.
+
+## Chapter 5 Supervision and Promotion of Mining
+
+#### Article 65
+
+In one of the following situations, the competent authority shall notify the mineral right holder to improve within a specified time limit or temporarily suspend the exploration and mining project
+
+1.Failing to comply with the conceptualized exploration plans and drawings, conceptualized mining plans and drawings or mining construction plans and drawings to conduct constructions of exploration or mining.
+
+2.Failing to implement according to mine environment maintenance plan or annual mining construction plans and drawings.
+
+3.Mining work is damaging mineral resources or harmful to the safety of mining workers.
+
+4.Mining projects determined by the competent authority to be harmful to public interests.
+
+If the mining land has passed the review of the environmental impact statement or assessment report, the competent authority shall, in conjunction with the central competent authority of environmental protection, conduct the supervision and inspection of the mining constructions.
+
+#### Article 66
+
+After registration of mineral rights, the  Mineral right holder shall file with the competent authority for commencing of work by submitting a mine commencement application form, mine office photos, the annual construction plans and drawings, detail lists of mining equipments and facilities inside and outside the mine portal, as well as certificates of appointing a responsible person at the mine, selecting key technicians, and purchasing or leasing of the mining land. The  competent authority will then permit operation and issue a mine registration certificate after inspection and approval the documents.
+
+#### Article 67
+
+After obtaining the mine registration certificate under the preceding Article, the mineral right holder shall install the annual construction plans and drawings, the exploration and mining survey map and a mining logbook at the exploration or mining sites.
+
+The mineral right holder mentioned in the preceding Paragraph shall submit annual construction plans and drawings to the competent authority every January.
+
+The annual construction plans and drawings shall integrate the mining situation of the previous year, the construction survey map of the previous year, and describe the construction plan for such year and other matters stipulated by the competent authority.
+
+The mineral right holder mentioned in the Paragraph 1 shall submit a mining logbook to the competent authority before the tenth day of each month. However, if there is a good reason and the competent authority approves, the submission could be exempted.
+
+#### Article 68
+
+Minerals obtained during exploration operation shall not be sold without the permission of the competent authority. .
+
+#### Article 69
+
+The conceptualized exploration plans and drawings, the conceptualized mining plans and drawings, the mineral concession map, the exploration and mining survey map, the mining and construction plans and drawings and the annual construction plans and drawings, the  sampling plans and drawings, the new and old mineral concession map, the shutdown plan of mine, and the other documents announced by the competent authority shall be  certified by a professional mining engineering technicians  registered under the professional engineering Act. However, the documents attached to the open-pit mine may be certified by legally registered practicing mining engineering technicians or other relevant professional technicians.
+
+The mine environmental maintenance plan shall be certified by a legally registered practicing environmental engineering technician or other relevant professional technicians.
+
+If the mineral right holder is a government authority or a state-owned enterprise, the certification in the preceding 2 paragraphs may be certified by the employees who have legally technician certificate of the relevant discipline of such authority or enterprise.
+
+#### Article 70
+
+The competent authority may dispatch personnel to inspect mining-related mining logbook, records or equipment, and the mineral right holder shall not evade, obstruct or refuse such inspection.
+
+#### Article 71
+
+When a survey of adjacent mineral concession is needed due to an accident, the mineral right holder or stakeholders may request the competent authority for joining an in-situ survey with the mineral right holder.
+
+When the competent authority conducts a survey at the request from an applicant to the mineral claimed area or mineral concession, the applicant shall pay the expense incurred.
+
+#### Article 72
+
+To explore for a mineral deposit of an area, the competent authority may set up a exploration institute or commission other related parties to conduct the exploration.
+
+#### Article 73
+
+In order to assist in mining operation, the competent authority may provide assistance in land secure, funds raising, equipment procurement, human resources training and techniques development.
+
+#### Article 74
+
+Any machinery, equipment, or material used solely for offshore petroleum and natural gas exploration or drilling shall be exempted from import duty.
+
+The categories of such machinery, equipment, and materials under preceding Paragraph shall be jointly determined by the competent authority and the Ministry of Finance.
+
+#### Article 75
+
+Holders of offshore petroleum and natural gas mining rights shall establish a safety zone for the necessary equipment and installation used in the exploration and drilling activities in the maritime drilling area.
+
+The necessary equipment, installation and safety zone under preceding Paragraph shall not affect international navigation safety.
+
+The established equipment, installation and safety zone under Paragraph 1 shall be properly announced and marked with warning signs to indicate their existence.
+
+#### Article 76
+
+As to the mining land approved before October 20, 1995 without having conducted any environmental impact assessment and with an area larger than 2 hectares, the mineral right holder shall conduct according to the following provisions:
+
+\1. If its annual average production amount over the past 5 years is not less than 50,000 tons or it is located in protection forests or tap water’s water quality/water volume protection areas, the mineral right holder shall apply mutatis mutandis Article 5 and related provisions of the Environmental Impact Assessment Act to conduct environmental impact assessment within 3 years from the implementation date of the provisions of this Act amended on May 26, 2023.
+
+\2. If its annual average production amount over the past 5 years is less than 50,000 tons and it is not located in protection forests or tap water’s water quality/water volume protection areas, the mineral right holder shall apply mutatis mutandis Article 28 and related provisions of the Environmental Impact Assessment Act to conduct the survey and analysis of environmental impact and submit response strategies which it shall strictly implement after the approval of central competent authority of environmental protection within 5 years from the implementation date of the provisions of this Act amended on May 26, 2023.
+
+The mineral right holder who conducts environmental impact assessment under preceding Paragraph may continue to conduct the constructions of exploration or mining and shall conduct mine operation management, soil and water conservation treatment, environment maintenance and related safety measures in accordance with relevant laws and regulations during the period of submission and review of relevant information.
+
+If the mineral right holder fails to conduct within the period prescribed under Paragraph 1 and is penalized and ordered to conduct within a time limit specified by the competent authority under Subparagraph 7 of Article 81, and fails to do so within such specified time limit, the approval of such mining land shall be aborted.
+
+After the mineral right holder conducts the environmental impact assessment of original approved mining land under Subparagraph 1 of Paragraph 1 and the central competent authority of environmental protection reviews and decides that it shall continue to conduct a phase II environmental impact assessment, the mineral right holder shall prepare a draft environmental impact assessment report and submit it to the competent authority within 3 years from the day following the date of delivery of review conclusion. However, in special situation, such time limit may extend once before the expiration date and after the approval of competent authority. The extension period shall not be longer than 1 year. If failing to submit within the time limit, the constructions of exploration or mining shall be stopped from the expiration date.
+
+After the mineral right holder conducts the environmental impact assessment of original approved mining land under Subparagraph 1 of Paragraph 1 and the central competent authority of environmental protection notifies the competent authority that it decides that development shall not be allowed or its supplement and amendment does not comply relevant provisions, the mineral right holder shall stop the constructions of exploration or mining from the date of notification of competent authority and conduct pursuant to following provisions:
+
+1.In the situation that it is decided that the development shall not be allowed, the mineral right holder may submit alternative project for another review under Subparagraph 1 of Paragraph 1 within 1 year from the day following the date of delivery of review conclusion. If failing to submit within the time limit, or if the central competent authority of environmental protection notifies the competent authority that its supplement and amendment does not comply relevant provisions or it still decides that the development shall not be allowed after reviewing submitted alternative project, the approval of such mining land shall be aborted.
+
+\2. In the situation that the supplement and amendment does not comply relevant provisions, the mineral right holder may submit for another review under Subparagraph 1 of Paragraph 1 within 1 year from the day following the date of notification of competent authority. If failing to conduct within the time limit, or if the central competent authority of environmental protection notifies the competent authority that its supplement and amendment still does not comply relevant provisions or it decides not to pass after review, the approval of such mining land shall be aborted.
+
+If the mineral right holder conducts the survey and analysis of environmental impact and submit response strategies under Subparagraph 2 of Paragraph 1 and the central competent authority of environmental protection notifies the competent authority that its supplement and amendment  does not comply relevant provisions, the mineral right holder shall stop the constructions of exploration or mining since the date of notification of the competent authority and may resubmit the application under Subparagraph 2 of Paragraph 1 from the day following the date of notification of the competent authority.
+
+As the mineral right holder stops the constructions of exploration or mining under the preceding 3 paragraphs, only until the central competent authority of environmental protection reviews its environmental impact assessment and concludes that it is passed, or approves its survey, analysis and response strategies, the mineral right holder may apply to resume the constructions of exploration or mining.
+
+The mineral right holder shall conduct according to environmental impact assessment forms and documents and contents of review conclusion under Subparagraph 1 of Paragraph 1 or response strategies approved by the central competent authority of environmental protection under Subparagraph 2.
+
+## Chapter 6 Penalties
+
+#### Article 77
+
+Any person who mines without obtaining a mineral right under this Act shall be sentenced to imprisonment for not more than 5 years, short-term imprisonment; in lieu thereof, or in addition thereto, a fine not less than NT$2,000,000 and up to NT$10,000,000 may be imposed.
+
+A representative of a juridical person, or an agent, employee or other working personnel of a juridical person or natural person commits the offense in the preceding Paragraph due to the performance of his/her duties, he/she shall be punished as an actor, and the juridical person or natural person shall also be subject to the fine under the preceding Paragraph
+
+#### Article 78
+
+In one of the following situations, violator is subject to a fine of not less than NT$1,000,000 and up to NT$5,000,000 and the punishment is applicable to each violation:
+
+1.Violating Paragraph 1 of Article 56 or Paragraph 2 of Article 51, Paragraph 5 of Article 55 applying with the Paragraph 1 of Article 56  mutatis mutandis of failing to implement rehabilitation or disaster prevention measures.
+
+2.Failing to improve or suspend exploration or mining constructions within the time limit notified by the competent authority under Article 65.
+
+3.Violating Paragraph 8 of Article 76 of failing to conduct according to the environmental impact assessment documents or review conclusions stipulated in Subparagraph 1, Paragraph 1 of the same Article.
+
+In the circumstances specified in Subparagraph 2 of the preceding Paragraph and the violator has been punished for three times by the competent authority within 1 year, its mineral right shall be aborted.
+
+#### Article 79
+
+In one of the following situations, violator is subject to a fine of not less than NT$500,000 and up to NT$2,500,000 and the punishment is applicable to each violation
+
+1.The mineral right holder fails to mine within the approved mining land.
+
+2.Violating Article 68 of selling minerals obtained from exploration without the permission of the competent authority.
+
+As a violator is penalized under the preceding Paragraph, the explored and mined mineral product shall be confiscated. If all or part of the product cannot be or is unproper to be confiscated, the violator shall be charged with equivalent money.
+
+#### Article 80
+
+In one of the following situations, violator is subject to a fine of not less than NT$500,000 and up to NT$2,500,000 and the punishment is applicable to each violation:
+
+\1. Violating Article 12 of failing to operate a mineral right on its own or, without authorization, using a mineral right as being subject to other rights or legal action.
+
+\2. Violating Article 13 of assigning and trusting a mineral right without approval of the competent authority.
+
+#### Article 81
+
+In one of the following situations, violator is subject to a fine of not less than NT$100,000 and up to NT$500,000 and the punishment is applicable to each violation:
+
+1.Failing to stop the constructions of exploration or mining under Paragraph 4 and 5 of Article 50, Paragraph 4, 5 and 6 of Article 76, Paragraph 2 of Article 83.
+
+2.Violating the Article 66 of conducting exploration or mining without an approval to commence the constructions by the competent authority and lack of the mine registration certification issued by the competent authority.
+
+3.Failing to install plans, drawings and logbooks under Paragraph 1 of Article 67.
+
+4.Failing to submit under Paragraph 2 or 3 of Article 67.
+
+5.Failing to submit under Paragraph 4 of Article 67, or submitting false information.
+
+6.Violating the Article 70 of evading, obstructing or refusing the inspection of the competent authority.
+
+7.Failing to comply with the time limit specified in Paragraph 1of Article 76.
+
+8.Violating the Paragraph 8 of Article 76 of failing to conduct according to the response measures approved under the Subparagraph 1, Paragraph 2 of the same Article.
+
+## Chapter 7 Appendix
+
+#### Article 82
+
+For the state-owned mineral right established prior to implementation of the amendment of this Act on December 31, 2003, the original operator or lessee who have entered into contract with the Executive Yuan approval for off-shore petroleum exploration and extraction with a foreign company or a company of the Mainland China in accordance with Statutes for Offshore Petroleum Exploration and Extraction, the original contract shall remain valid without being subject to the restriction under the Act.
+
+#### Article 83
+
+As to the mining land approved before the implementation of the provisions of this Act amended on May 26, 2023, if its underground mine which has commenced the operation is not subject to any disposition of stopping mining under relevant laws and regulations and has the demand to excavate new tunnel and continue to mine after the implementation of the amended Act, the mineral right holder shall apply for approval of mining land on the land scope where the planned newly-excavated tunnel is located under Article 47 within 1 year from the implementation date of the amended Act. In the situations provided under Article 21 of the Indigenous Peoples Basic Laws or Article 5 of the Environmental Impact Assessment Act, the mineral right holder shall conduct the consultation for consent of or participation of indigenous peoples or tribes or environmental impact assessment under relevant provisions within 1 year from the date of notification of the competent authority.
+
+As applying for approval of mining land under the preceding Paragraph, the mineral right holder may continue the constructions of mining before submitting the application and during the period of review by competent authority. However, in one of the following situations, the competent authority shall order the mineral right holder to stop the constructions of mining on its planned newly-excavated tunnel and the mineral right holder shall not submit the application again under the preceding Paragraph:
+
+\1. Failing to obtain the consent documents issued by owners of private land or management authorities of public land within 1 year from the implementation date of the amended Act.
+
+\2. Before the approval of mining land, owners of private land or administration agencies of public land issue the documents which express no consent for usage.
+
+\3. In one of the situations under Paragraph 5 of Article 47.
+
+\4. Failing to conduct the consultation for consent of or participation of indigenous peoples or tribes within the time limit provided by the preceding Paragraph, or that the competent authority in consultation with the central competent authority of indigenous peoples decides that there is delay of procedures during the period of conducting, or that the number of affirmative votes about matters to be consented is less than that of negative votes.
+
+\5. Failing to submit environmental impact statement to the competent authority within the time limit provided by the preceding Paragraph, or that the competent authority decides that there is delay of procedures during the period of conducting, or that the central competent authority of environmental protection reviews and concludes that the development shall not be allowed.
+
+\6. If the central competent authority of environmental protection reviews and decides that it shall continue to conduct phase II environmental impact assessment, the mineral right holder fails to submit draft environmental impact statement to the competent authority within 3 years from the day following the date of delivery of review conclusion. However, in special situation, such time limit may extend once before the expiration date and after the approval of competent authority. The extension period shall not be longer than 1 year.
+
+#### Article 84
+
+Prior to the implementation of this Act amended on May 26, 2023, if the validity period of original mining right is between 6 months to 2 years, the mineral right holder may apply for renewal of the mineral right within 18 months from the implementation date of the amended Act, and shall subject to no restrictions on the time limit of application of the renewal provided under Paragraph 1 of Article 15.
+
+#### Article 85
+
+The competent authority shall charge an application fee, registration fee, copying fee, survey fee, review fee, or license fee for the application, registration, copying, survey, review, or license pursuant to the Act. The fee schedule shall be established by the competent authority.
+
+#### Article 86
+
+The Enforcement Rules for the Act shall be established by the competent authority.
+
+#### Article 87
+
+The Act shall be implemented from the date of its promulgation.
+
+## History
+
+\1. Instituted and promulgated on May 26,1930 by National Government with total of 121 Articles, and enforced on Dec. 1, 1930
+
+\2. Article 2, 93 and 116 were amended by the National Government on Jan. 23, 1932
+
+\3. Article 2, 5, 9, 10, 20, 41, 48, 50 , 61, 77, 108 were amended by the National Government on Oct.. 15, 1937
+
+\4. Article 5, 41 and 108 were amended and promulgated by the National Government on Jul. 22, 1938
+
+\5. Article 116 was amended by the National Government on Jun. 08, 1942
+
+\6. Article 92, 108, 109, 110, 112 through 115 were amended and promulgated by the National Government on Apr. 30, 1947
+
+\7. Article 92, 108, 109, 110, 112 through 115 were amended and promulgated under the Presidential Decree on Jan. 17, 1949
+
+\8. Article 92 was amended and promulgated under the Presidential Decree on Aug. 6, 1949
+
+\9. Article 92 was amended and promulgated under the Presidential Decree on Jun. 15, 1950
+
+\10. Total 106 Article were amended and promulgated under the Presidential Decree on Jul. 30, 1959
+
+\11. Article 78 was amended and promulgated under the Presidential Decree on Nov. 29, 1966
+
+\12. Article 2, 9, 19, 21, 36, 40, 49, 50, 55, 57, 60, 61, 65 through 67, 73, 78, 81, 82, 90, 96 through 98, 100 through 103 were amended and 102-1, 103-1 were added and promulgated, and 72 and 83 were deleted under the Presidential Decree on Apr. 14, 1978
+
+\13. Article 14 was amended and promulgated under the Presidential Decree on Sept. 25, 1996.
+
+\14. Article 7, 17 through 19, 21, 24, 25, 31, 33 through 35, 38, 40, 41, 45, 48, 64, 65, 79, 81, 84 through 90 were amended and promulgated under the Presidential Decree on Nov. 15, 2000
+
+\15. Article 6, 15, 16, 21, 39, 44, 77, 82 and 84 were amended, 18-1, 19-1, 19-2, 35-1, 35-3, 83-1, 105-1 were added and promulgated, 33 was deleted, and promulgated under the Presidential Decree on Jun. 12, 2002.
+
+\16. Total 81 Article were amended and promulgated under the Presidential Decree on DEC. 31, 2003
+
+\17. Article 69 was amended and promulgated under the Presidential Decree on Nov. 30, 2016.
+
+\18. Total 87 Article were amended and promulgated under the Presidential Decree Hua Zong Yi.jing.Zi. No.11200052361 issued JUN. 21, 2023, taking immediate effect.

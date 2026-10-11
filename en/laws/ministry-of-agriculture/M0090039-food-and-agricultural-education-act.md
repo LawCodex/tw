@@ -1,0 +1,225 @@
+---
+title: "Food and Agricultural Education Act"
+title_zh: "食農教育法"
+identifier: "M0090039"
+type: act
+law_level: "法律"
+category: "行政＞農業部＞農民輔導目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2022-05-04
+last_amended: 2022-05-04
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0090039"
+retrieved: 2026-10-12
+---
+
+# Food and Agricultural Education Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-agriculture/M0090039-food-and-agricultural-education-act.md](../../../zh/laws/ministry-of-agriculture/M0090039-food-and-agricultural-education-act.md)) is authoritative.
+
+## Article 1
+
+This Act is enacted to promote comprehensive food and agricultural education, as well as to strengthen linkages between diet, environment, and agriculture in order to enhance citizens’ health. It aims to preserve and promote food and agricultural culture, and facilitate the sustainable development of rural areas, agriculture, and the environment.; and to establish a robust national food and agricultural education system along with training of relevant personnel.
+
+## Article 2
+
+The term “competent authorities” as used in this Act refers to the Ministry of Agriculture of the Executive Yuan at the central government level, the municipal government at the municipality level, and the county (city) government at the county (city) level.
+
+## Article 3
+
+Terms used in this Act are defined as follows:
+
+\1. “Food and agricultural education” (FAE): Refers to the educational methods employed to cultivate the understanding of basic agricultural production; processing of agricultural products; eco-friendly farming; humane breeding, nurturing, and livestock management; animal welfare; food selection; cooking and food preparation skills ; and food waste management. FAE also aims to strengthen the connections between diet, the environment, and agriculture, encouraging citizens to focus on personal health and the sustainable development of agricultural and fishing communities, agriculture, and the environment, and to take appropriate actions.
+
+\2. “Local production, local consumption”: Refers to the preference for consuming agricultural products that are locally and seasonally produced.
+
+\3. “Dietary culture”: Refers to the techniques, habits, rituals, and ceremonial activities related to food across various regions and ethnic groups, including the selection, acquisition, preparation, processing, preservation, and consumption of ingredients..
+
+\4. “Food and agricultural literacy”: Refers to the knowledge and informational that enables citizens to make choices that meet their personal needs while contributing to the sustainable development of agriculture and food safety environments.
+
+\5. “FAE professional”: Refers to individuals engaged in teaching, promoting, servicing, or providing consultation related to food and agricultural education.
+
+\6. “The FAE system”: This refers to all systematic measures implemented to promote food and agricultural education to individuals, families, and society. This includes collaboration among schools, communities, organizations, and government agencies at all levels to advance food and agricultural education.
+
+## Article 4
+
+The guiding principles for promotion of FAE are as follows:
+
+\1. Supporting for and identification with local agriculture: Develop a FAE system, promote a nationwide FAE movement, and strengthen public recognition, trust, and support for Taiwan's agriculture and agricultural products.
+
+\2. Promoting a balanced diet concept: Develop citizens' food and agricultural literacy, foster balanced dietary habits, and promot a healthy lifestyle aligned with ecological sustainability, all to enhance public health.
+
+\3. Cherishing food and reducing waste:  Promote the consumption of local agricultural products, minimize food waste, reduce ingredient usage, and decreasing leftovers. Ensure food safety and food security, encourage the efficient and cyclical use of agricultural land, water resources, and other assets, and commit to providing stable food access for citizens.
+
+\4. Inheriting and innovating dietary culture: Encourage the transmission and innovation of local dietary culture, create an environment for interaction between producers and consumers, promote national understanding of local dietary culture, rural characteristics, and agricultural traditions, while maintaining the sustainable development of rural areas, and advocate for a healthy diet that aligns with ecological sustainability.
+
+\5. Deepening the connection between diet and agriculture: Encouraging citizens to participate in various FAE activities throughout the production and consumption process, , to understand agricultural production methods, agricultural technology and research, agricultural knowledge, the agricultural ecological environment, sustainable production practices, and basic knowledge of livestock production, as well as the differences between conventional and sustainable agricultural methods.
+
+\6. Sustainable agriculture with local production, local consumption: Integrate the production, processing, and trading of agricultural products and processed goods to support local production and consumption, stimulate overall economic development, and create jobs. Enhance the management of agricultural production safety, boost employment opportunities in rural areas, and promote sustainable agricultural development.
+
+The competent authorities shall formulate FAE promotion programs based on the aforementioned guidelines. The competent authorities at the municipals, counties, and cities shall submit the plan to the central competent authority for approval.
+
+## Article 5
+
+The central competent authority shall consider the direction of national development and the societal needs. Based on the guidelines outlined in Paragraph 1 of the preceding Article, it will establish specific implementation indicators. Additionally, the results of FAE implementation shall be reviewed every five years. The responsibilities of central competent authority include the following:
+
+\1. Formulation and supervision of FAE policies, laws, and regulations.
+
+\2. Research and promotion of FAE work.
+
+\3. Planning and supervision of national FAE.
+
+\4. Training and continuing training of FAE professionals.
+
+\5. Coordination, communication, and collaboration on international FAE matters.
+
+\6. Other matters related to national promotion and development of FAE.
+
+The qualifications required for FAE professionals as specified in Subparagraph 4 of the preceding Paragraph along with the procedures for their recognition, revocation, recruitment, training, continuing education, and other related matters for FAE professionals, shall be stipulated by the central competent authority.
+
+## Article 6
+
+The responsibilities of the authorities of municipalities and counties (cities) are as follows:
+
+\1. Planning, implementation, and supervision of local FAE.
+
+\2. Continuing education of FAE professionals under their jurisdiction.
+
+\3. Promotion and dissemination of local FAE.
+
+\4. Compilation and exchange of local FAE materials.
+
+\5. Other matters related to the promotion and development of local  FAE.
+
+## Article 7
+
+For matters stipulated in this Act that involve the responsibilities of various central competent authorities, the division of responsibilities and authority is as follows:
+
+\1. The competent authority for health and welfare: Planning, promotion, and supervision of nutrition, balanced diet, food safety, and sanitation.
+
+\2. The competent authority for education: Planning, promotion, and supervision of FAE in schools and preschool institutions.
+
+\3. The competent authority for environmental protection: Planning, promotion, and supervision of food waste recycling.
+
+\4. The competent authority for culture: Research and promotion of the dietary cultures of various ethnic groups and communities.
+
+\5. The competent authority for indigenous peoples: Promotion of nutrition, balanced diets, traditional agriculture, and dietary culture among indigenous peoples, as well as training programs for FAE professionals of indigenous descent.
+
+\6. The competent authority for science and technology research matters: Planning and promotion of agricultural support technology research and development, as well as technology transfer and application.
+
+\7. Other matters related to FAE should be handled by relevant central competent authorities according to their responsibilities.
+
+The central competent authority shall consult with the relevant central competent authorities to promote overall policies, programs, division of responsibilities, and budgets for FAE.
+
+## Article 8
+
+Article To promote FAE, the competent authorities should invite representatives of relevant agencies, experts, scholars, and group representatives to form “FAE promotion Committee.” Meetings shall be held at least twice a year, and additional meetings may be convened as necessary. Its tasks are as follows:
+
+\1. Supervision and reassessment of FAE policies and programs.
+
+\2. Provision of opinions related to the initiation and reform of FAE policies, laws and regulations, and programs.
+
+\3. Provision of opinions related to supervision and assessment of the promotion of FAE by relevant agencies and groups.
+
+\4. Research and formulation of the direction of implementation of FAE measures.
+
+\5. Research and formulation of concrete directions and measures for citizen participation.
+
+\6. Provision of opinions on matters including FAE curriculums, teaching materials, planning of activities, and R&D.
+
+\7. Other consultative matters related to promotion and development of FAE.
+
+The experts, scholars, and group representatives of the “FAE promotion Committee” mentioned in the previous Paragraph shall include individuals from the fields of food, nutrition, agriculture, education, environmental protection, animal welfare, culture, and tourism, and their number must be no less than half of the total membership. Furthermore, the number of commissioners of any one gender shall not be less than one-third of the total number of commissioners.
+
+## Article 9
+
+The competent authorities and competent authorities for designated purposes shall conform to the diversified needs of citizens in their dietary lifestyles and promote eco-friendly agriculture and food products industries, endeavoring to make it possible for all citizens to have access to food that has stable prices and is safe, nutritious, and sufficient.
+
+## Article 10
+
+The central competent authority and central competent authorities for designated purposes shall promote FAE based on the recommended food intake standards for the nutrition and diet of citizens set by the competent authority for health and welfare based on citizens’ age, religion, region, ethnicity, culture, and dietary habits.
+
+## Article 11
+
+Government agencies (institutions), state-run enterprises, administrative corporations , schools, preschool institutions, and government-endowed foundations shall prioritize use of locally produced agricultural products or foods with such products as the main ingredient(s).
+
+## Article 12
+
+The competent authorities and competent authorities for designated purposes shall guide relevant agencies (institutions), legal persons , groups, and natural persons in carrying out the following matters:
+
+\1. Research, develop, manufacture, and sell foods that primarily use locally produced agricultural products as raw materials.
+
+\2. Encourage the labeling of the place of origin to include the names of municipalities, counties (cities), or townships (towns, cities).
+
+\3. Practice the consumption of local agricultural products, reduce food waste, minimize ingredient usage, and decrease leftovers.
+
+The target recipients for the assistance mentioned in the Sub-paragraph 3 of the preceding Paragraph shall prioritize food industry and catering industry operators.
+
+## Article 13
+
+The competent authorities and the competent authorities for designated purposes shall implement the following matters, and shall encourage relevant agencies (institutions), legal persons, and groups to cooperate in their promotion:
+
+\1. Simultaneous promotion of FAE along with supply of local food ingredients for group meals.
+
+\2. Provision of learning opportunities related to nutritional information and healthy dietary behavior.
+
+\3. Provision of information about agricultural production and domestically produced agricultural products.
+
+\4. Holding of FAE courses and experiential activities based on the special features of agriculture in each locality.
+
+\5. Conducting of FAE training of personnel under their jurisdiction.
+
+\6. Production of FAE educational materials.
+
+\7. Other tasks to advance the promotion of FAE.
+
+## Article 14
+
+The competent authorities and competent authorities for designated purposes shall assist communities in promoting the following matters:
+
+\1. Establishment of promotional and sales locations for local agricultural products.
+
+\2. Holding of FAE courses and experiential activities based on the special features of agriculture, scenic resources, special features of agricultural and fishing community development, and ecological and cultural resources of the locality.
+
+\3. Other tasks to advance FAE such as through community revitalization.
+
+## Article 15
+
+The competent authorities and the competent authorities for designated purposes shall assist schools at all levels and preschool institutions in promoting the following matters:
+
+\1. Conducting of FAE training of personnel under their jurisdiction.
+
+\2. Encouragement of schools and preschool institutions to use courses, supply of meals, and relevant educational materials to undertake experiential learning and hands-on activities related to FAE, in order to put into practice healthy dietary lifestyles and to cultivate students’ diet-related competency, enhance their understanding of diet and agriculture, and strengthen their support of local agriculture.
+
+\3. Prioritization of participation in FAE courses and experiential activities held by agencies (institutions), judicial persons, and groups guided by the competent authorities and competent authorities for designated purposes.
+
+## Article 16
+
+The central competent authority shall establish an integrated FAE information platform to provide relevant information to the public, including information about consumer sales channels; promotion of local agricultural products and labels; FAE teaching materials and teaching plans; professional FAE personnel, teachers, and volunteers; and awareness-raising materials.
+
+## Article 17
+
+The central competent authority shall meet with central competent authorities for designated purposes to promote FAE-related research, in order to improve the FAE system.
+
+## Article 18
+
+The competent authorities and the competent authorities for designated purposes shall appropriate budgets to promote FAE-related matters.
+
+## Article 19
+
+The competent authorities shall provide appropriate rewards to agencies (institutions), legal persons, groups, or natural persons who make outstanding contributions to FAE tasks.
+
+The regulations governing the recipients, conditions, scope of application, review processes, review standards, reward methods and other matters related to rewards as mentioned in the preceding Paragraph shall be stipulated by the competent authorities.
+
+## Article 20
+
+This Act shall come into effect on the day of its promulgation.
+
+## History
+
+1.Promulgated by Presidential Order No. 11100037911 on May 4, 2022
+
+The announcement was made on May 4, 2022 by Presidential Order No. 11100037911. The relevant matters set out in Article 2, Paragraph 7 of Article 4, Article 5, Paragraph 7 of Article 7, Article 8, Article 9, Article 10, Article 11, Article 12, Article 13, Article 14, Article 15, Article 16, Article 17, Article 18, Article 19, pertaining to “ the Council of Agriculture of the Executive Yuan” shall be handled by “Ministry of Agriculture” as governing body, effective August 1, 2023.

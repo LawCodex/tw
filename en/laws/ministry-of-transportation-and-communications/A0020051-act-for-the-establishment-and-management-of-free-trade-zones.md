@@ -1,0 +1,457 @@
+---
+title: "Act for the Establishment and Management of Free trade zones"
+title_zh: "自由貿易港區設置管理條例"
+identifier: "A0020051"
+type: act
+law_level: "法律"
+category: "行政＞交通部＞航政目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2003-07-23
+last_amended: 2019-01-16
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=A0020051"
+retrieved: 2026-10-12
+---
+
+# Act for the Establishment and Management of Free trade zones
+
+> Translation. The Chinese text ([zh/laws/ministry-of-transportation-and-communications/A0020051-act-for-the-establishment-and-management-of-free-trade-zones.md](../../../zh/laws/ministry-of-transportation-and-communications/A0020051-act-for-the-establishment-and-management-of-free-trade-zones.md)) is authoritative.
+
+## Chapter I General Principles
+
+### Article 1
+
+This Act is enacted for the purpose of developing the mode of operation for a global logistics and management system, effecting active promotion of trade liberalization and internationalization, facilitating the smooth flow of personnel, goods, finance, and technology, upgrading the national competitive power, and promoting the national economic development.
+
+### Article 2
+
+The establishment and management of a free trade zone shall be governed by the provisions set forth in this Act; matters not provided for in this Act shall be governed by other relevant acts and regulations provided, however, that if the relevant provisions of other acts and regulations are more favorable than those set forth in this Act, the most favorable provisions shall prevail.
+
+However, the provision set forth in preceding paragraph is not applicable for Chapter 7 of this Act.
+
+### Article 3
+
+The terms as used in this Act shall be defined as follows:
+
+\1. Free trade zone(s): referred to an area which is situated within a controlled district of an international airport or an international seaport under the approval of the Executive Yuan, or of an adjacent area demarcated as a controlled area, and other areas approved by the Executive Yuan for the establishment of a controlled district for the purpose of conducting domestic and foreign business activities where the comprehensive goods tracking system can be connected with the controlled district of an international airport or seaport by means of technological facilities.
+
+\2. Free-trade-zone enterprise(s): referred to the enterprise(s) which has (have) been approved to engage in trading, warehousing, logistics, collecting, distributing (cargo of) containers, transiting, transshipment, forwarding, customs clearance, assembling, sorting, packaging, repairing, configuring, processing, manufacturing, examining, testing, displaying, or technological service within a free trade zone.
+
+\3. Non-free-trade-zone enterprise(s): referred to any financial, stevedoring, catering, hotel, business conference, transshipment, and other enterprises which are not a free-trade-zone enterprise as defined in the preceding Subparagraph 2, but has been approved to operate within a free trade zone.
+
+\4. Business personnel: referred to the persons who need to enter a free trade zone for the purpose of making business coordination or transacting business-related affairs.
+
+\5. Adjacent area(s): referred to any of the following circumstances:
+
+(1) A piece of land whose joining width with the land of a controlled district in an international airport or an international seaport is 30 meters or more;
+
+(2) A piece of land being separated from a controlled district in an international airport or an international seaport by a road or a water-way in between, but still suitable for the formation of a controlled area; or
+
+(3) A piece of land which may be connected with a controlled district in an international airport or an international seaport by a dedicated road having a length of less than one kilometer.
+
+\6. International seaports: referred to an international commercial port or an industrial specialized port approved for transportation of the Republic of China (hereinafter referred to as “ROC”) and foreign ships.
+
+### Article 4
+
+The competent authority of the Act is Ministry of Transportation and Communications.
+
+### Article 5
+
+In order to centralize the operation and management of a free trade zone and to provide various services as required within the free trade zones, the competent authority shall select and recommend an appropriate government agency to the Executive Yuan for its approval of appointing the said candidate agency to act as the management authority of such a free trade zone.
+
+In case the government agency selected by the competent authority concerned under the preceding paragraph is not a subordinate agency of that central government authority, consent shall be obtained from that government agency so selected and its superior agency.
+
+## Chapter II Demarcation, Establishment and Management of a Free trade zone
+
+### Article 6
+
+The management authority (agency) of an international airport or an international seaport may draw up the planning report of development feasibility of a free trade zone and the business plan in respect of a particular piece of land under its control and apply with the competent authority, which shall in turn, after having consulted with the local municipal/county/city government where such land is situated and the Ministry of Finance for their comments, having obtained their preliminary consent, having selected a candidate management authority for the proposed free trade zone , forward the same together with a management proposal to the Executive Yuan for its approval of designating a free trade zone.
+
+### Article 7
+
+The management authority, or the owner or user of the public or private land within or outside the controlled district of an international airport or an international seaport, may draw up the planning report of development feasibility of a free trade zone and the business plan, and submit the same to the management authority of a free trade zone of said international airport or international seaport for its preliminary review and consent. In addition, the competent authority shall consult with the local municipal/county/city government having the administrative jurisdiction where such land is situated and the Ministry of Finance for their comments and consent, and shall thereafter select a candidate management authority for that proposed free trade zone and forward the same together with a management proposal to the Executive Yuan for its approval of designating a free trade zone.
+
+In case an application for demarcating and designating the land set forth in the preceding paragraph for an appropriate purpose is required by act, such application shall be filed accordingly prior to the application for the designation of a free trade zone.
+
+When an application has been filed by the management authority, or the owner or user of the public or private land in the first paragraph in accordance with the procedure set forth in the preceding paragraph, then the respective management authority shall hold a public hearing prior to preliminary review of the said application to obtain public opinions. In case the application fails to satisfy the qualification requirements or conditions for the demarcation and designation of a free trade zone, or difficulties in the management thereof, then the said respective management authority shall not render its consent after its preliminary review. When applying for demarcation and designation as a free trade zone, the land user referred to in the first paragraph hereinabove shall obtain the written consent from the land owner(s).」
+
+### Article 8
+
+Regulations governing the qualification requirements and conditions for the application for establishing a free trade zone under the provisions set out in the preceding two Articles, the application procedures, the required documents and certificates, and other provisions to be complied with shall be prescribed by the competent authority.
+
+### Article 9
+
+The management authority of a free trade zone shall take charge of the following affairs within the free trade zone:
+
+\1. Planning and execution of the activities pertaining to management and operation of and security maintenance in the free trade zone;
+
+\2. Matters related to examining and approving the applications filed by free-trade-zone enterprises, non-free-trade-zone enterprises for operating in the free trade zone, and annulment thereof;
+
+\3. Approving the entry and exit of personnel and goods into and from the free trade zone, and supervising the gate access control and inspection;
+
+\4. Forwarding the entry permit applications filed by or for foreign business personnel
+
+\5. Forwarding the resident permit extension applications filed by or for foreign nationals serving in free-trade-zone enterprises;
+
+\6. Enforcing preventive measures against smuggling;
+
+\7. Examining and auditing business operations and financial conditions;
+
+\8. Providing operation-related assistance and services to free-trade-zone enterprises and non-free-trade-zone enterprises;
+
+\9. Planning, promoting, implementing, and managing environmental protection activities;
+
+\10. Supervising the development of information-related works;
+
+\11. Handling the matters as required by applicable acts and regulations, or as instructed by superior authorities;
+
+\12. Handling other administrative works.
+
+The management authority of a free trade zone shall be eligible for taking charge of the following affairs within the free trade zone only after having been mandated or commissioned by the authorities in charge of the relevant enterprise(s) concerned:
+
+\1. Labor administration, labor safety and health, and labor inspection;
+
+\2. Approval and issuance of industrial or commercial registration certificates and licenses;
+
+\3. Approval and issuance of certificate of industrial electric power requirement;
+
+\4. Approval and issuance of the employment certificate of foreign or overseas compatriots professional or technical personnel;
+
+\5. Approval and issuance of relevant certificates as required for applying tax exemption or deduction benefit;
+
+\6. Approval and issuance of commodity export/import endorsements, certificate of origin, and re-export certificate; and
+
+\7. Land use control and construction administration.
+
+### Article 10
+
+The number of domestic employees employed by a free-trade-zone enterprise shall not be lower than 60% of that of its total employees.
+
+### Article 11
+
+The wages of a foreign employee of a free-trade-zone enterprise shall be subject to the restriction of the basic wage as set forth in the “Labor Standards Act”.
+
+3% of the total employees employed by a free-trade-zone enterprise shall be indigenous people.
+
+A free-trade-zone enterprise that does not employ enough indigenous people in accordance with the preceding paragraph shall pay the employment contribution in the amount of multiplying the shortfall of the employees with the monthly basic wage to Employment Fund Specialized Account established by the central indigenous competent authority on a regular basis.
+
+A free-trade-zone enterprise with employment exceeding standard ratio specified in paragraph 2 shall be rewarded, while the central indigenous competent authority shall prescribe the reward regulations
+
+### Article 12
+
+The following activities within a free trade zone shall be transacted and handled by the branch offices set up or the full-time representatives appointed by the appropriate respective authorities in charge of the relevant enterprise(s) concerned in collaboration with the management authority of that free trade zone:
+
+\1. Tax Collection;
+
+\2. Customs activities;
+
+\3. Quarantine and Inspection activities;
+
+\4. Police activities;
+
+\5. Financial activities;
+
+\6. Electric power and water supply and other public-facility-related activities;
+
+\7. Post and telecommunication activities; and
+
+\8. Other official activities in connection with government agencies.
+
+### Article 13
+
+Any enterprise applying to establish and operate within a free trade zone shall apply to the management authority of the said free trade zone for operation permission by submitting the business plan, the written operation procedures in connection with good control, customs clearance, and accounting operations together with relevant required documents.
+
+Regulations governing the qualification requirements for the establishment and operation permission in a free trade zone, the type of operational organization, the application procedures, the required documents, various regulations pertaining to business operation and control, accounting transactions, revocation and/or abrogation of permission, and other relevant requirements to be complied with shall be prescribed by the competent authority.
+
+### Article 14
+
+A foreign national may apply with the management authority for the establishment of a holding company specializing in offshore investment and the “Statute for Investment by Foreign Nationals” shall not apply thereto.
+
+An offshore banking unit may handle the remittance and exchange and transactions of the foreign currency of the holding company in the preceding paragraph and such relevant regulations as Article 5 of the “Offshore Banking Act” shall apply thereto, provided however that each individual transaction shall not involve any domestic financial, economic, or commercial transaction nor New Taiwan Dollars.
+
+## Chapter III Free Circulation of Goods
+
+### Article 15
+
+Except for the following goods (products) of which the entry or storage shall require a prior approval from the respective authorities in charge of the relevant enterprise(s) concerned or submission of relevant documents as required, all other goods (products) to be entered and stored within a free trade zone by a free-trade-zone enterprise shall be free from the import restrictions set forth in other acts, regulations or orders:
+
+\1. Contrabands;
+
+\2. Toxicants, firearms and artillery, ammunition, and knives;
+
+\3. Toxic chemicals;
+
+\4. Industrial waste;
+
+\5. Radioactive substances;
+
+\6. Animals and plants or the products thereof disqualified by quarantine examination;
+
+\7. Protected wildlife and its products;
+
+\8. Products which may cause public hazards or environment pollution during storage;
+
+\9. Specific strategic high-tech commodities exporting to controlled areas; and
+
+\10. Other goods (products) as announced by the authorities in charge of the relevant enterprise(s) concerned.
+
+Each government authority in charge of the end-enterprises concerned shall provide carbon copies to Customs and competent authority of the Act when announce the goods (products) as set forth in preceding paragraph 10.
+
+### Article 16
+
+Except for the following goods (products) of which the export overseas shall require a prior approval from the respective authorities in charge of the relevant enterprise(s) concerned, all other goods (products) to be exported from a free trade zone by a free-trade-zone enterprise to other countries shall be free from the export restrictions set forth in other acts, regulations or orders:
+
+\1. Industrial waste
+
+\2. Strategic high-tech commodities
+
+\3. Rough diamond
+
+\4. Controlled drug
+
+\5. Species or products specified in annex of Washington Accord
+
+\6. Specific fish managed under international fishery organizations.
+
+\7. Laser video, video and audio disk, digital video and audio disk or other audio-visual writings recorded.
+
+\8. Toxic chemicals.
+
+\9. Semiconductor wafer manufacturing equipment
+
+\10. Protected wildlife and its products
+
+\11. Derivatives from fully halogenated Fluorine and Chlorine
+
+\12. Other goods (products) as announced by the authorities in charge of the relevant enterprise(s) concerned.
+
+Each authorities in charge of the relevant enterprise(s) concerned shall provide carbon copies to Customs and competent authority of the Act when announce the goods (products) as set forth in preceding paragraph 12.
+
+### Article 17
+
+For the foreign goods to be entered in and stored within a free trade zone, and the goods to be transported abroad or transshipped to another free-trade-zone, the free-trade-zone enterprise concerned shall report to Customs, and may transport or transship such goods only after having received a reply from Customs showing its registration of such report through on-line computer operation.
+
+When goods are imported from a free trade zone to a tax area or a bonded area, or when goods are exported from a tax area or a bonded area to a free trade zone, such activities shall be transacted in accordance with the Regulations Governing Import and Export of Commodities, and shall be declared to Customs for customs clearance.
+
+Where the free-trade-zone enterprise has reported to Customs before the delivery of goods, the goods may be made available for trading and free circulation within the free trade zone.
+
+The customs report or clearance as referred to in the preceding three paragraphs shall be effected by the free-trade-zone enterprises by means of on-line computer operation or electronic data transmission operation with Customs.
+
+The customs report or clearance of free-trade-zone enterprises may adopt monthly consolidated declaration upon approval of Customs.
+
+Regulations governing the storage, sorting, processing, manufacture and exhibition of goods; customs report and clearance, monthly consolidated declaration, autonomous management, audit, and inventory of the goods; application for supplemental payment of duty payable; circulation of goods; and other regulations to be complied with by free-trade-zone enterprises shall be prescribed by the Ministry of Finance through consultation with relevant government authorities.
+
+## Chapter IV Autonomous Management of Free-trade-zone enterprises
+
+### Article 18
+
+A free-trade-zone enterprise shall implement such autonomous management as goods control and management, on-line customs clearance, and bookkeeping activities.
+
+In handling the storage, collection, sorting, processing, manufacturing, or theft of goods, and/or damages by disasters, the free-trade-zone enterprise shall, in accordance with the nature of the operation involved, perform autonomous management on the booking, de-booking, destruction after verification, de-booking after payment of supplemental duty payable, assessment and exemption of tax, and other bookkeeping-related transactions. With respect to the control and management of the goods, the free-trade-zone enterprise, the relevant warehouses within the free trade zone, and the gate-guards of the free trade zone shall, in accordance with the nature of circulation of the goods concerned, perform autonomous management on electronic data transmission, data keeping, reporting on storage, collection and record change of goods, and other goods control related matters and activities.
+
+### Article 19
+
+Customs may establish a joint audit task force to conduct inspection of the autonomous management being performed by a free-trade-zone enterprise in respect of its goods control and management, on-line operation of customs clearance, and other bookkeeping-related operations, and may also conduct on-site inventory of the goods involved, to which the free-trade-zone enterprise shall not evade, hinder or refuse.
+
+### Article 20
+
+A free-trade-zone enterprise shall, conduct an annual stock-check of the inventory in each year, and shall, within one month after completion of the check, submit to Customs for record the inventory list and the settlement statement. The foregoing deadline may be extended for an additional month when necessary upon an extension application filed prior to the expiration of the deadline.
+
+If the result of the check of the inventory either in accordance with the provisions of the preceding paragraph by the free-trade-zone enterprise reveals that the quantity of the goods is more than the booked, the make up quantity shall be entered into the book, while an application shall be filed with Customs for payment of the supplemental duty payable is less than that booked.
+
+## Chapter V Taxation Measures
+
+### Article 21
+
+Goods to be transported overseas into a free trade zone by a free-trade-zone enterprise for its operations shall be exempted from customs duty, commodity tax, business tax, tobacco and alcohol tax, tobacco health and welfare surcharges, trade promotion service fees, and harbor service dues.
+
+Self-use machinery and equipment to be transported overseas into a free trade zone by a free-trade-zone enterprise for its own use shall be exempted from customs duty, commodity tax, business tax, trade promotion service fees, and harbor service dues provided, however, that if the same are transported to a tax area within five (5) years after their entry into the free trade zone, supplemental assessment of relevant taxes and dues shall be imposed in accordance with the acts and regulations applicable to import of goods.
+
+No tax exemption, bonding, tax crediting, or tax depositing procedure is required for those exempted from tax in accordance with the preceding two paragraphs.
+
+Those involved in the application to operate a free-trade-zone enterprise and obtain the operation permit shall apply to the rules in the preceding two paragraphs during the establishment period.
+
+### Article 22
+
+The goods delivered to other countries or bonded areas and the goods delivered from a tax or bonded area into a free trade zone by a free-trade-zone enterprise are free from trade promotion service charges in accordance with the Foreign Trade Act.
+
+### Article 23
+
+Goods to be transported from a free trade zone to a tax area by a free-trade-zone enterprise shall be subject to the assessment and levy of customs duty, commodity tax, business tax, tobacco and alcohol tax, tobacco health and welfare surcharges, trade promotion service fees, and harbor service dues in accordance with relevant acts and regulations applicable to import of goods; provided, however, that the customs value shall be evaluated on the products processed, manufactured, sorting, simple processed, examined, or tested within a free trade zone based on the price of configuration of such products at the time of exit from the free trade zone after the added value thereof accruing within the free trade zone is deducted.
+
+Services to be rendered or sold to a tax area by a free-trade-zone enterprise shall be subject to assessment or levy of business tax in accordance with the act.
+
+### Article 24
+
+Goods for operation and self-use machinery and equipment to be transported from a tax area to a free trade zone by a free-trade-zone enterprise shall be considered export that may apply for tax reduction, exemption or returning customs duty, commodity tax, tobacco and alcohol tax, and tobacco health and welfare surcharges in accordance with relevant acts and regulations.
+
+Duty-paid imported goods or non-bonded domestic goods to be transported from a tax area into a free trade zone by a free-trade-zone enterprise for its operations shall be exempted from customs duty if said goods are transported back to a tax area within five (5)years from the next day of entry.
+
+However, where there is tax free or bonded goods added to said goods, then the additional tax or bonded goods are subject to custom duty and relevant taxes.
+
+For goods and self-use machinery and equipment set forth in the preceding two paragraphs with tax reduction, exemption or return transported back to a tax area, the supplemental payment of the duty and taxes shall be paid in accordance with original tax reduced, exempted or returned. Those involved in the application to operate a free-trade-zone enterprise and obtain the operation permit shall follow rules in the first and preceding paragraphs for self-use machinery and equipment transported from a tax area during the establishment period.
+
+### Article 25
+
+Where any tax-free goods, machinery or equipment of a free-trade-zone enterprise needs to be transported to a tax area for repair, test, inspection, and/or commissioned processing, with prior approval of Customs, the tax bonding may be exempted from provided that if the same are returned to the free trade zone within six (6) months since the approval, the pending case may thereafter be closed accordingly. If the same is not returned upon expiration of the six-month deadline, it shall be declared to Customs for supplemental payment of the duty and taxes.
+
+Under a special circumstance as approved by Customs via application, the goods transported to a tax area as referred to in the preceding paragraph may be exported directly without having to be returned to the said free trade zone, and the pending case may thereafter be closed accordingly.
+
+In the case of the extension of the deadline to return to the free trade zone as referred to in the first paragraph, an application shall be filed with Customs elaborating the causes in writing along with supporting documents and certificates; provided, however, that the extension is subject to a limit of six (6) months.
+
+The goods to be transported from a free trade zone to a tax area for exhibition by a free-trade-zone enterprise shall apply to the regulations set forth in the preceding three paragraphs.
+
+### Article 26
+
+Where tax-free goods are transported out of a free trade zone to a processing contractor located in a tax area in accordance with the provisions of the preceding Article, such goods shall be limited to those which are not prohibited. Except for one of any following circumstances, the imported raw materials used in the processing operation performed by the processing contractor located in the tax area as set forth in the preceding paragraph may apply for duty drawback in accordance with the Regulations Governing the Offsetting or Refund of Duties and Taxes on Raw Materials for Export Products:
+
+\1. The item of duty refund has been cancelled by the Ministry of Finance by public notice.
+
+\2. The amount of the refundable duty for the raw materials, or percentage of it in the FOB price of the finished products is lower than the limit prescribed by the Ministry of Finance. Where any goods, machinery, or equipment of a free-trade-zone enterprise needs to be transported to a tax area for repair, test, inspection, and/or commissioned processing, due to commission of free-trade-zone enterprise or foreign enterprise, agency, group, or organization accepted by tax area enterprise are shipped back to free trade zone after completion of work, the business tax rate applicable for said labor income shall be zero.
+
+### Article 27
+
+Goods to be transported to a bonded area from a free trade zone by a free-trade-zone enterprise shall be exempted from relevant duties and taxes in accordance with the relevant acts and regulations applicable to bonded goods.
+
+### Article 28
+
+The business tax rate for following goods or labor shall be zero:
+
+\1. The goods and private use machinery or equipment sold by enterprise(s) in tax area or bonded area to free-trade-zone enterprises for operation.
+
+\2. The goods stored in free-trade-zone enterprise for export by sales from bonded area enterprise(s) to exporting company.
+
+\3. The goods stored in free-trade-zone enterprise for export by sales from tax area enterprise(s) to bonded area enterprise(s).
+
+\4. The labors for operation sold from enterprise(s) in tax area or bonded area to free-trade-zone enterprise(s).
+
+For the goods or services to be sold by a free-trade-zone enterprise or by a foreign enterprise, agency, entity or organization to another free-trade-zone enterprise in the same free trade zones, or to the free-trade-zone enterprise(s) in another free trade zone, or to foreign customers, or to the enterprises in another bonded area, or to an exporter for direct export or storage in a bonded warehouse or a logistics center for exporting, instead of shipping the same to any tax area, the business tax rate applicable thereto shall be zero.
+
+### Article 29
+
+Profit-seeking enterprises, which engage only in preliminary or auxiliary business activities in the ROC by the enterprises themselves or delegate free-trade-zone enterprises to purchase, import, store, or deliver products in free trade zones, and are reviewed and approved by the free-trade-zone management authority shall be exempted from profit-seeking enterprise income tax on the income from selling such products.
+
+When profit-seeking enterprises from foreign countries, the Mainland Area, Hong Kong, or Macao without a fixed place of business in the ROC purvey commodities certified by a recognized international metal futures exchange and ratified by the competent authority, or the commodities of the same tariff number as those described above, and when the commodities are stored in places of FTZ enterprises approved by the FTZ management authority, the income from sales to domestic and/or overseas customers shall be exempted from profit-seeking enterprise income tax without the need to apply for such tax exemption, and the enterprises are exempted from filing an income tax return for such income in accordance with the Income Tax Act.
+
+The regulations governing the scope of preliminary or auxiliary business activities, purchase, import, storage, or delivery of products, the approved application period as stipulated in paragraph 1; the application scope and specific conditions, authorized and approval authorities as stipulated in paragraph 2; as well as application procedures, approval, abolishment and other relevant requirements specified in both the preceding two paragraphs shall be prescribed by the competent authority in consultation with the Ministry of Finance. The profit-seeking enterprise income tax exemption stipulated in paragraph 1 and paragraph 2 shall remain in effect until 31st December 2042.
+
+Paragraph 1 to paragraph 3 promulgated on 28th December 2018 shall enter into force from the profit-seeking enterprise income tax return for the year 2019.
+
+For cases which have been approved in accordance with paragraph 1 prior to the promulgation of this Article on 28th December 2018, the approved application period shall end by 31st December 2021.
+
+For cases which have been applied but not been approved prior to the promulgation of this Article on 28th December 2018, the income tax exemption for the year 2018 and the previous years shall be applicable to paragraph 1 prior to the promulgation; the income tax exemption for the year 2019 and following years shall be applicable to paragraph 1 after the promulgation.
+
+### Article 30
+
+Where the goods shipped into a free trade zone by a free-trade-zone enterprise originally for its business operation are used for a non-operation purpose, it shall declare in advance to Customs or any appropriate authority for making supplemental payment of the customs duty, commodity tax, business tax, tobacco and alcohol tax, tobacco health and welfare surcharges, trade promotion service fees, and commercial port service fees.
+
+### Article 31
+
+For a free-trade-zone enterprise whose business is closed upon the approval of the management authority of the free trade zone, or whose operation permit has been annulled or revoked, in case of any shortfall of its machinery, equipment, and goods after stock check, the said free-trade-zone enterprise shall make supplemental payment of the customs duty, commodity tax, business tax, tobacco and alcohol tax, tobacco health and welfare surcharges, trade promotion service fees, and commercial port service fees leviable thereon.
+
+Those involved in the application to operate a free-trade-zone enterprise and obtain the operation permit shall make supplemental payment of the deducted customs duties, commodity tax, business tax, trade promotion service fees, and harbor service dues leviable thereon during the establishment period if operation permit has been annulled or revoked by the management authority of the free trade zone. The self-use machinery and equipment imported from foreign countries and re-exported are not subjected to the restrictions within six(6) month period starting from the next day as operation permit has been annulled or revoked.
+
+Those self-use machinery and equipment shall be supervised by the management authority of the free trade zone prior to making supplemental duties or re-exporting.
+
+### Article 32
+
+A bank may, in accordance with the Offshore Banking Act, apply by its head office with the authorities in charge of the relevant enterprise(s) concerned for permits of establishing an offshore banking unit with separate accounts within the free trade zone to conduct offshore banking business.
+
+### Article 33
+
+Financial institutions may, in accordance with the “Banking Act of the Republic of China,” Article 44 of the “Securities and Exchange Act,” “Foreign Exchange Regulation Act,” and the “Central Bank of the Republic of China (Taiwan) Act,” apply with the authorities in charge of the relevant enterprise(s) concerned for the establishment of a branch office within the free trade zone to conduct foreign exchange business upon the approval and designation of the Central Bank of the Republic of China (Taiwan).
+
+### Article 34
+
+An offshore banking unit may handle the business related to the letter of credit in foreign currency, advice, negotiation, import and export collection, foreign currency exchange and remittance, and foreign currency transactions of the free-trade-zone enterprises and shall be subject to such relevant rules as Article 5 of the “Offshore Banking Act,” provided however that each individual transaction shall not involve any domestic financial, economic, or commercial transaction nor New Taiwan Dollars.
+
+## Chapter VI Entry and Departure Permission and Free trade zone Access Permit
+
+### Article 35
+
+Any foreign business personnel who has been permitted after the application by a free-trade-zone enterprise on his behalf filed to and forwarded by the management authority of the free trade zone may apply for the entry visa upon his arrival in the ROC.
+
+Business personnel from the Mainland Area, Hong Kong or Macao may apply for entry into the free trade zone to conduct business activities in accordance with relevant acts and regulations concerning the cross-strait relationship. Regulations thereof shall be prescribed otherwise.
+
+### Article 36
+
+Except for the necessary administrative personnel, security guards, on-duty personnel of free-trade-zone enterprises in the same free trade zone, business personnel entered in the free trade zone, and other personnel who have good cause and have been approved by the management authority of the free trade zone, no other person may be allowed to reside therein.
+
+Each free-trade-zone enterprise in a free trade zone shall submit a roster of its employees and their photos for applying the long-term access permit or pass with the management authority of the free trade zone. Other personnel may apply for a temporary access permit or pass to the management authority of that free trade zone for entry.
+
+Personnel, vehicles, and goods entering and/or departing a free trade zone shall be permitted to enter and depart from the location designated by the management authority with the relevant access clearance papers. Necessary checks or inspections shall be conducted accordingly.
+
+Regulations governing the application of entry, departure and the qualification of permit application procedure, appended documents, annulment, revocation or other items to be obeyed by inhabitation of personnel, vehicle, and articles and relevant matters set forth in the preceding three paragraphs shall be prescribed by the competent authority.
+
+## Chapter VII Penal Provisions
+
+### Article 37
+
+Where a free-trade-zone enterprise transports and stores goods in violation of the provisions set forth in Paragraph 1 of Article 15 of this Act, Customs may impose a fine in an amount of no less than NTD 30,000 but no more than NTD 300,000, and in addition thereto, may order it to transport such goods out of the free trade zone within a period of 30 days, or confiscate such goods.
+
+Failure to transport the goods within the period of time set forth in the preceding paragraph shall be subject to punishment by Customs upon each successive violation. If the goods at issue are still not transported out after three successive punishments, Customs may suspend the free-trade-zone enterprise from entering in and storing any goods for a period of no more than six (6) months, or advise the management authority of that free trade zone to annul its operation permit.
+
+Where a free-trade-zone enterprise violates the provisions set forth in Paragraph 1, Article 16 of this Act, Customs may impose a fine in an amount of no less than NTD 30,000 but no more than NTD 300,000. In addition, Customs may suspend the free-trade-zone enterprise from transporting and storing any goods for a period of no more than six (6) months, or advise the management authority of that free trade zone to annul its operation permit in case of serious violation.
+
+### Article 38
+
+Where a free-trade-zone enterprise is found to have made false or incorrect statement(s) in any report filed with Customs in accordance with the provisions set forth in Paragraph 1 or Paragraph 3, Article 17 of this Act, Customs may, each time upon such finding, impose a fine in an amount of no less than NTD 30,000 but no more than NTD 300,000, and Customs may, in case of serious violation, suspend the said free-trade-zone enterprise from entering in or storing any goods for a period of no more than six (6)months, or advise the management authority of the free trade zone to annul its operation permit.
+
+Where a free-trade-zone enterprise is found to have made false or incorrect statement(s) while applying for customs clearance in accordance with the provisions set forth in Paragraph 2, Article 17 of this Act, Customs shall punish the said free-trade-zone enterprise in accordance with the relevant provisions set forth in the Customs Anti-smuggling Act.
+
+Where a free-trade-zone enterprise is found to have violated the provisions set forth in Paragraph1 or Paragraph 2, Article 17 of this Act and transport the goods to other free trade zone, tax area or bonded area without permission, Customs shall punish the said free-trade-zone enterprise in accordance with there levant provisions set forth in the Customs Anti-smuggling Act.
+
+### Article 39
+
+Where a free-trade-zone enterprise is found to have violated the provisions set forth in Paragraph 2 or Paragraph 3, Article 18 of this Act, Customs may give a warning or impose a fine in an amount of no less than NTD 30,000 but no more than NTD 300,000, and in addition thereto, may order it to make correction within a given time limit. In the absence of any correction upon expiration of the time limit, the punishment may be enforced successively; whereas, if no correction has been made after three successive punishments, Customs may suspend the violating free-trade-zone enterprise from
+
+entering in and storing any goods for a period of no more than six (6) months or manage monthly consolidated declaration, or may advise the management authority of that free trade zone to annul its operation permit.
+
+### Article 40
+
+Where a free-trade-zone enterprise has violated the provisions set forth in Article 19 of this Act, Customs may impose a fine in an amount of no less than NTD 30,000 but no more than NTD 300,000, and this punishment may be enforced; upon each violation; in the absence of any correction after three successive punishments, the management authority of that free trade zone may annul its operation permit.
+
+### Article 41
+
+Where a free-trade-zone enterprise has violated the provisions set forth in Paragraph 1 of Article 20 of this Act regarding the periodical stock-check or submission to Customs for reference, or violated the provisions set forth in Paragraph 2 regarding failure to make up the book or make supplemental payment of taxes, Customs may impose a fine in an amount of no less than NTD 30,000 but no more than NTD 300,000, and in addition thereto, an order to make correction within a given time limit may be issued. In the absence of any correction upon expiration of the time limit, Customs may suspend its entry or storage of the management authority of that free trade zone may nullify its operation permit.
+
+### Article 42
+
+In the case of any failure to comply with the provisions of Article 30 of this Act, or any shortfall without any cause whatsoever with respect to the stored goods of a free-trade-zone enterprise, in addition to the supplemental payment of the relevant duties and taxes livable on such goods accordingly, Customs may give a warning or impose a fine in an amount of no less than NTD 30,000 but no more than NTD 300,000, and in addition thereto, may order it to make correction within a given time limit. In the absence of any correction, the punishment may be enforced successively; whereas, if no correction has been made after three successive punishments, Customs may suspend the violating free-trade-zone enterprise from entering in and storing any goods for a period no more than six (6) months, or may advise the management authority of that free trade zone to annul its operation permit.
+
+Any other violation or tax evasion by a free-trade-zone enterprise shall be handled in accordance with the provisions set forth in the relevant acts.
+
+### Article 43
+
+The free-trade-zone enterprise which has filed the entry permission for foreign business personnel under the provision in paragraph 1 of Article 35 shall guarantee that the said foreign business personnel shall, during his stay in the free trade zone, engage only in the business activities consistent with the approved purpose of his entry. In the event that the foreign business personnel guaranteed by it is found to have conducted any act inconsistent with the approved purpose of his entry during his stay in the free trade zone, the immigration bureau may impose such free-trade-zone enterprise a fine in the amount of no less than NTD 6,000 but no more than NTD30,000 and the same business personnel shall be suspended from filing any application with the management authority of the free trade zone to be forwarded for approval of a visa upon arrival at the ROC through a free-trade-zone enterprise within one year.
+
+### Article 44
+
+Any personnel entering or departing a free trade zone who has violated the provisions set forth in paragraphs one through three, Article 36 of this Act, the management authority of the free trade zone may impose a fine in an amount of no less than NTD 6,000 but no more than NTD 30,000.
+
+## Chapter VIII Supplementary Provisions
+
+### Article 45
+
+In order to maintain the surrounding environment of a free trade zone and the security of its public facilities, and to perform its functional duties as specified in Paragraph 1, Article 9 of this Act, the management authority of the free trade zone may charge the free-trade-zone enterprises and the non-free-trade-zone enterprises for the management fees, processing fees, and service fees.
+
+The fee schedule set forth in the preceding paragraph shall be prescribed by the management authority of a free trade zone.
+
+In respect of the means of transportation and goods entering into and departing from a free trade zone, processing fees shall be charged in accordance with Article 101 of the Customs Act.
+
+### Article 46
+
+This Act shall come into force from the date of its promulgation.
+
+## History
+
+\1. This act consisting of 43 articles in its entirety was enacted and proclaimed by the President on July 23, 2003, as per Presidential Order No.Hwa-Tsong-1-Yi-Tse 09200134530
+
+\2. Amended on July 8, 2009
+
+\3. Amended on December 28, 2012
+
+\4. Amended on January 16, 2019

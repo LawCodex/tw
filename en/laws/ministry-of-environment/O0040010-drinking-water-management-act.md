@@ -1,0 +1,275 @@
+---
+title: "Drinking Water Management Act"
+title_zh: "飲用水管理條例"
+identifier: "O0040010"
+type: act
+law_level: "法律"
+category: "行政＞環境部＞水質保護目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1972-11-10
+last_amended: 2006-01-27
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0040010"
+retrieved: 2026-10-12
+---
+
+# Drinking Water Management Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-environment/O0040010-drinking-water-management-act.md](../../../zh/laws/ministry-of-environment/O0040010-drinking-water-management-act.md)) is authoritative.
+
+## Chapter 1 General Principles
+
+### Article 1
+
+The Act is formulated to ensure the quality of drinking water sources, improve public drinking water quality and ensure population health. The regulations of other laws shall apply to those matters not regulated by this Act.
+
+### Article 2
+
+In this Act, “competent authority” refers to the Environmental Protection Administration, Executive Yuan, at the central government level, the municipal government in special municipalities, and the county or city government in counties or cities.
+
+### Article 3
+
+In this Act, “drinking water” refers to water supply intended for human consumption. Types of drinking water include the following:
+
+\1. "Tap Water", which refers to health public water supply subject to the Water Supply Act that is channeled and supplied by water pipes and other facilities.
+
+\2. Water from community-installed public water supply equipment.
+
+\3. Water provided by sources treated by stationary continuous water supply equipment.
+
+\4. Other water designated by the central competent authority.
+
+Drinking water sources are as follows:
+
+\1. “Surface water body” refers to water, in part or in whole, existing in rivers, lakes, reservoirs, ponds and other systems.
+
+\2. “Groundwater body” refers to water in the groundwater aquifer.
+
+\3. Other water bodies designated by the central competent authority.
+
+### Article 4
+
+In this Act, “drinking water equipment” refers to equipment subject to the regulations of the Water Supply Act, community-installed public water supply equipment, stationary continuous water supply equipment provided by public or private premises to the public for drinking, and other equipment designated and announced by the central competent authority.
+
+## Chapter 2 Water Source Management
+
+### Article 5
+
+Activities that pollute water source quality are prohibited in areas within a certain distance of a drinking water source quality protection area or drinking water intake point.
+
+"Activities that pollute water source quality" in the foregoing paragraph refers to:
+
+\1. Illegal deforestation or land reclamation.
+
+\2. Development of industrial zones or establishment of polluting factories.
+
+\3. Development of nuclear energy and other forms of energy sources and the construction of radioactive nuclear waste storage or processing sites.
+
+\4. Dumping, release or discarding of garbage, ash, soil and rock, sludge, excrement and urine, waste oil, waste chemical products, animal carcasses or other materials could deteriorate water quality.
+
+\5. Raising livestock and poultry for profit.
+
+\6. Development of new communities. However, communities formed by aboriginal villages due to natural population increases shall not be subject to this restriction.
+
+\7. Construction, renovation or expansion of golf courses.
+
+\8. Excavation of soil and rock, mineral exploration or mineral mining.
+
+\9. Development of railways, mass rapid transit systems, harbors and airports, whose scale and scope require the implementation of environmental impact assessments.
+
+\10. River channel modification projects sufficient to impact the self-purification ability of a river and that fail to receive the authorization of the competent authority and industry competent authority
+
+\11. Roadway and athletic facility development projects that fail to receive the authorization of the competent authority and the industry competent authority
+
+\12. Other activities officially announced by the central competent authority as prohibited.
+
+Those activities in Subparagraphs 1 through 9 and Subparagraph 12 of the foregoing paragraph that are necessary for the daily living of residents and that receive approval from the competent authority shall not be subject to this restriction.
+
+The special municipality, county or city competent authority shall draft the scope of the drinking water source quality protection area and within certain distances from drinking water intake points in the foregoing paragraph, and shall issue official announcements after approval by the central competent authority. The central competent authority shall make decisions and issue official announcements for circumstances that involve two or more special municipalities, counties or cities.
+
+For existing buildings or land uses in areas within a certain distance of a drinking water source quality protection area or drinking water intake point that, after official announcement, the competent authority in consultation with the relevant agencies deems are polluting a water source, the owner or user may be notified to carry out removal, make improvements or change the use within a certain time period. The water supply enterprise or other relevant enterprise shall provide compensation for all losses incurred by the owner or user.
+
+### Article 6
+
+Only water bodies designated in each subparagraph of Article 3, Paragraph 2 that meet water quality standards for drinking water sources may serve as drinking water sources. However, drinking water sources or water treatment and improvement plans submitted to the central competent authority for approval shall not be subject to this restriction. The central competent authority shall determine regulations governing criteria for proposing improvement plans, content of the plans, documentation that shall be attached, procedures, monitoring, response measures, approval conditions, rejection, corrections, and other binding matters.
+
+The central competent authority shall determine the water quality standards for drinking water sources mentioned in the preceding paragraph.
+
+## Chapter 3 Equipment Management
+
+### Article 7
+
+Management of water supply equipment shall be subject to regulations under the Water Supply Act.
+
+### Article 8
+
+Public and private premises officially announced by the central competent authority that install stationary continuous water supply equipment for public drinking shall apply to and register with the special municipality, county or city competent authority before use of said equipment may begin. The central competent authority shall determine regulations for application and registration, changes in registration, validity period and extensions and other binding matters for said application.
+
+### Article 9
+
+Public or private premises that provide stationary continuous water supply equipment to the public for drinking shall performance maintenance in accordance with regulations and shall keep maintenance records. Records shall be posted and preserved for examination by the competent authority; the central competent authority shall determine regulations for maintenance methods, frequency, production of records, posting, validity period, and other binding matters for maintenance.
+
+### Article 10
+
+The drinking water equipment designated and announced by the central competent authority shall meet National Standards of the Republic of China (CNS); the central competent authority shall officially announce the standards for equipment for which no national standards have been set.
+
+## Chapter 4 Water Quality Management
+
+### Article 11
+
+The quality of drinking water shall meet drinking water quality standards.
+
+The central competent authority shall determine the drinking water quality standards according to the foregoing paragraphs.
+
+### Article 12
+
+Public or private premises that provide stationary continuous water supply equipment for public drinking shall perform sampling and testing of water quality conditions and keep maintenance records for future reference. The central competent authority shall determine regulations for water quality test items, frequency, maintenance records, posting, validity period, methods for sample testing of equipment and other binding matters.
+
+Sampling, inspection and analysis of water quality conditions mentioned in the preceding paragraph shall be conducted by an environmental analysis laboratory that has obtained a certification issued by the central competent authority.
+
+### Article 12-1
+
+Analysis laboratories shall obtain certification issued by the central competent authority before they may perform analysis in this Act.
+
+The central competent authority shall determine management regulations for the required condition; facilities; application, review, issuance, replacement, revocation, cancellation, suspension of business, resumption of business, checking and evaluation of permits ; and other binding matters for analysis laboratories in the foregoing paragraph.
+
+The central competent authority shall determine the testing methods and quality control matters for drinking water source quality, drinking water quality and drinking water treatment chemicals.
+
+### Article 13
+
+Chemicals used for drinking water quality treatment shall be limited to those officially announced by the central competent authority.
+
+Water supply entities may apply to the central competent authority to officially announce an unlisted Chemicals used for drinking water treatment. The central competent authority shall determine the regulations governing application qualifications, documentation that shall be attached, procedures, approval conditions, rejection, corrections, and other binding matters.
+
+### Article 14
+
+Competent authorities at all levels shall select locations, conduct regular sampling and testing, compile and analyze data, and take appropriate measures based on the testing results. A competent authority shall officially announce promptly a prohibition on the consumption of drinking water for which it has been proven there is a concern about the endangerment of human health.
+
+Special municipality, county and city competent authorities shall report the sampling locations, testing results and adopted measures in the foregoing paragraph to the central competent authority.
+
+### Article 14-1
+
+When a natural disaster or other force majeure causes drinking water source quality to deteriorate, affected water supply entities for tap water, simple tap water, or community-installed public water supplies shall adopt contingency measures and strengthen drinking water quality testing promptly after the incident occurs. Affected water supply entities shall also promptly notify the public regarding water quality conditions and response measures via newspaper, television, radio, billboards, posted official announcements or other methods.
+
+### Article 15
+
+Competent authorities at all levels may send personnel to enter public and private premises bearing documents verifying their duties or with other identification sufficiently indicating they are authorized to inspect drinking water source quality, drinking water quality, stationary continuous water supply equipment, drinking water treatment chemicals, or seek relevant samples or data. Evasion, obstruction, or refusal by owners, users, or managers of public or private premises is prohibited.
+
+### Article 15-1
+
+For circumstances in which the use of a water body as a drinking water source or for drinking water is prohibited pursuant to Article 21 or Article 24, once the water intake organization or water supplier addresses the reason for placing a prohibition on the water body, a non-subordinate environmental analysis laboratory that has received a permit from the central competent authority shall carry out sampling of the water body that originally failed to meet water quality standards. The water body may resume serving as a drinking water source or as drinking water after the sample has been sent for testing and an environmental analysis report showing adherence to standards has been submitted to and approved by the organization that handles the review of the matter.
+
+## Chapter 5 Penal Provisions
+
+### Article 16
+
+Those for whom one of the following circumstances applies shall be punished by a maximum of one year of imprisonment or detention, and may be fined a maximum of NT$60,000.
+
+\1. Circumstances in which Article 5, Paragraph 1 is violated by failure to comply with the prohibition of the activities at issue, after notification is given in accordance with Article 20.
+
+\2. Circumstances in which Article 6, Paragraph 1 is violated by failure to comply with the prohibition of the activities at issue, after notification is given in accordance with Article 21.
+
+\3. Circumstances in which Article 11, Paragraph 1 is violated by failure to comply with the prohibition of the activities at issue, after notification is given in accordance with Article 24.
+
+Those that commit violations mentioned in the foregoing paragraph thereby causing human death shall be punished with not more than seven years’ imprisonment and may be fined a maximum of NT$300,000. Those who cause severe damage shall be sentenced to up to five years imprisonment and may be fined not more than NT$150,000.
+
+### Article 17
+
+(Delete)
+
+### Article 18
+
+Those that violate Article 13 shall be sentenced up to one-year imprisonment or detention, and may be fined up to NT$60,000.
+
+### Article 19
+
+For circumstances in which a representative of a juridical person, or an agent, employee or other working personnel of a juridical person or natural person, violates, due to the performance of business activities, Article 16 or Article 18, in addition to the violator being punished pursuant to the regulations of each article violated, the said juridical person or natural person shall also be fined pursuant to the regulations of each article violated.
+
+### Article 20
+
+Those that violate Article 5, Paragraph 1 shall be fined NT$100,000 to NT$1 million and shall be notified of the prohibition of the activities at issue.
+
+### Article 21
+
+Those that violate Article 6, Paragraph 1 shall be fined NT$60,000 to NT$600,000 and shall be notified of the prohibition of use of the water body as a drinking water source.
+
+### Article 22
+
+Those that violate Article 8 shall be fined NT$10,000 to NT$100,000, and shall be notified to make corrections within a limited time period; those who have still failed to make corrections by the deadline shall be fined per violation.
+
+### Article 23
+
+When one of the following circumstances applies for public or private premises that provide stationary continuous water supply equipment to the public for drinking water, the said premises shall be issued a fine of NT$10,000 to NT$100,000 and shall be notified to make improvements within a limited time period. Those that have still failed to make improvements by the deadline shall be fined per violation.
+
+\1. Where there is failure to maintain stationary continuous water supply equipment, keep maintenance records, post, adhere to the validity period in accordance with Article 9; or where there is a violation of management regulations related to maintenance methods, maintenance frequency, record production, posting of records or determined validity periods, pursuant to said article.
+
+\2. Where there is failure to sample, test or post water quality conditions, or to keep and post records of water quality conditions in accordance with Article 12, Paragraph 1; or where there is a violation of management regulations related to water quality testing items, testing frequency, random testing methods for equipment, record production, posting of records or determined validity periods, pursuant to said article.
+
+### Article 24
+
+Public or private premises providing drinking water for public drinking that violate Article 11, Paragraph 1 shall be fined NT$600,000 and shall be notified to make improvements within a limited period; those that have still failed to complete improvements by the deadline shall be issued consecutive daily fines. In severe circumstances, the public or private premises shall be prohibited from providing drinking water.
+
+### Article 24-1
+
+Violators of regulations pursuant to Article 12-1, Paragraph 2 shall be fined NT$50,000 to NT$500,000 and shall be notified to make improvements within a limited time period; those that have still failed to complete improvements by the deadline shall be issued consecutive daily fines. In severe circumstances, orders may be issued for the suspension of business and, when necessary, certification may be cancelled.
+
+### Article 24-2
+
+Public or private premises that fail to submit verification documents demonstrating compliance with drinking water quality standards and other regulations to the competent authority for verification by the deadline given in the notifications to make improvements, or that fail to report or make adjustments ordered pursuant to Article 22, Article 23, Article 24 or Article 24-1, shall be considered to have failed to complete improvements.
+
+If the verification documents demonstrating compliance with drinking water quality standards mentioned in the foregoing paragraph are testing reports that have been provided by an environmental analysis laboratory that has been issued a certification by the central competent authority, the competent authority may forego water quality sampling and testing.
+
+### Article 24-3
+
+The central competent authority shall determine the starting date, temporary suspension dates, termination date, improvement completion verification checks and other binding matters for consecutive daily fines referred to in this Act.
+
+### Article 25
+
+Those that evade, obstruct or refuse to undergo verification pursuant to Article 15, or fail to provide samples or data, or provide false samples or data, shall be fined NT$30,000 to NT$300,000 and may be fined per violation and be subject to enforced compulsory verification.
+
+### Article 25-1
+
+Those that have been given notice to make improvements within a limited time period pursuant to this Act, but due to natural disaster or other force majeure are unable to complete improvements in a timely manner through their improvement measures and construction plans, shall resume making improvements after the cause of delay no longer exists, and shall within ten days thereafter apply to the original approving agency for approval of a revised improvement period, by submitting a written explanation of cause and relevant verification documents.
+
+### Article 26
+
+Unless other regulations in this Act apply, penalties determined in this Act shall be assessed by the Environmental Protection Administration, Executive Yuan, at the central government level, the municipal government in special municipalities and the county or city government in counties or cities.
+
+### Article 27
+
+(Delete)
+
+## Chapter 6 Supplementary Provisions
+
+### Article 28
+
+The water quality management of the water sources for packaged or containerized drinking water that is provided for sale shall be subject to the regulations of this Act. For packaged or containerized drinking water, the sanitation of containers, packaging and manufacturing processes, labeling, advertising, and checking of water quality shall be subject to the regulations of the Food Sanitation Management Act.
+
+### Article 29
+
+Public or private premises designated and officially announced pursuant to Article 8 that had installed stationary continuous water supply equipment before the designation and official announcement shall apply for registration pursuant to Article 8 within six months after the day of the designation and official announcement.
+
+### Article 30
+
+The central competent authority shall determine the enforcement rules of this Act.
+
+### Article 31
+
+These regulations shall take effect on the date of promulgation.
+
+## History
+
+1.Original 21 articles promulgated by presidential order on November 10, 1972
+
+2.Thirty-one articles revised and promulgated by presidential order on May 21, 1997
+
+3.Revisions to Articles 2, 5, 14 and 26 promulgated by presidential order on December 22, 1999
+
+4.Addition of Articles 12-1, 14-1, 24-1 through 24-3, and 25-1 promulgated by presidential order on January 8, 2003
+
+5.Amended of Articles 3, 6~9, 12, 13, 15, 16, 19, 23, 24, 29; Addition of Article 15-1; Deleted Articles 17, 27 on January 27, 2006
+
+Rights and responsibilities of the “Environmental Protection Administration of the Executive Yuan” listed in Articles 2, 3-1-4, 3-2-3, 4, 5, 5-2-10, 5-2-11, 5-2-12, 5-3, 5-4, 5-5, 6, 8, 9, 10, 11-2, 12, 12-1, 13, 14, 15, 15-1, 24-2, 24-3, 26, 30 will be under the jurisdiction of the “Ministry of Environment” starting from August 22, 2023.

@@ -1,0 +1,477 @@
+---
+title: "Securities Investor and Futures Trader Protection Act"
+title_zh: "證券投資人及期貨交易人保護法"
+identifier: "G0400038"
+type: act
+law_level: "法律"
+category: "行政＞金融監督管理委員會＞證券暨期貨管理目  "
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2002-07-17
+last_amended: 2025-07-16
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0400038"
+retrieved: 2026-10-12
+---
+
+# Securities Investor and Futures Trader Protection Act
+
+> Translation. The Chinese text ([zh/laws/financial-supervisory-commission/G0400038-securities-investor-and-futures-trader-protection-act.md](../../../zh/laws/financial-supervisory-commission/G0400038-securities-investor-and-futures-trader-protection-act.md)) is authoritative.
+
+## Article 1
+
+This Act is specially enacted to safeguard the rights and interests of securities investors and futures traders and promote the sound development of the securities and futures markets.
+
+## Article 2
+
+Protection of the rights and interests of securities investors and futures traders shall be carried out in accordance with this Act. The relevant provisions of the Securities and Exchange Act, the Futures Trading Act, the Securities Investment Trust and Consulting Act, and other applicable laws shall apply to any matters not provided for herein.
+
+## Article 3
+
+The term "competent authority" as used in this Act means the Financial Supervisory Commission.
+
+## Article 4
+
+The term "securities investor" as used in this Act shall be construed according to the Securities and Exchange Act.
+
+The term "futures trader" as used in this Act shall be construed according to the Futures Trading Act.
+
+## Article 5
+
+The term "protection institution" as used in this Act means the foundation established pursuant to this Act.
+
+## Article 6
+
+The term "protection fund" as used in this Act means any assets contributed, donated, or allocated in accordance with this Act for custody and utilization by the protection institution and any earnings derived therefrom.
+
+## Article 7
+
+The competent authority shall designate the following securities and futures market organizations to establish a protection institution:
+
+\1. Taiwan Stock Exchange Corporation.
+
+\2. Taiwan Futures Exchange Corporation.
+
+\3. Taipei Exchange.
+
+\4. Taiwan Depository and Clearing Corporation.
+
+\5. Taiwan Securities Association.
+
+\6. Securities Investment Trust and Consulting Association of the R.O.C.
+
+\7. National Futures Association.
+
+\8. All securities finance enterprises.
+
+\9. Other securities- or futures-related organizations or enterprises as designated by the competent authority.
+
+The securities- and futures-related organizations referred to in the preceding paragraph shall contribute a certain amount of assets, with the amount contributed to be determined through coordination by the competent authority.
+
+## Article 8
+
+Organization, establishment, management, and supervision of the protection institution shall be carried out pursuant to this Act. The Civil Code and other applicable laws shall apply to any matters not provided for herein.
+
+Regulations governing matters including the guidance, supervision, financial auditing, and amendment registration of the protection institution, the qualifications of its directors, supervisors, managerial officers, and employees, and other matters to be observed by the protection institution shall be prescribed by the competent authority.
+
+## Article 9
+
+The articles of incorporation of the protection institution shall set forth the following:
+
+\1. The name of the protection institution, the purpose of its endowment, and its office location.
+
+\2. The types and amounts of contributed assets and the manner of their custody and utilization.
+
+\3. Matters to be undertaken by the protection institution.
+
+\4. The organization and powers of the board of directors.
+
+\5. The qualifications, numbers, terms, and method of selection of directors and supervisors.
+
+\6. The organization of functional departments within the institution.
+
+\7. The vesting of residual assets after the protection institution's dissolution or voidance of its establishment permit.
+
+\8. Other matters prescribed in the regulations of the competent authority.
+
+## Article 10
+
+The protection institution shall provide for the following in its operating rules:
+
+\1. Procedures for handling civil disputes between securities investors or futures traders and issuers, securities firms, securities service enterprises, futures enterprises, the Stock Exchange, the Taipei Exchange, clearing-houses, or other interested parties arising out of securities offering, issuance, trading, or futures trading, and other related matters.
+
+\2. Custody and utilization of the protection fund.
+
+\3. Inquiries into the finances and business of issuers, securities firms, securities service enterprises, and futures enterprises.
+
+\4. Consultation services in relation to laws and regulations governing securities and futures trading.
+
+\5. Matters to be handled on behalf of the competent authority.
+
+\6. Other matters helpful to achieving the purposes of this Act.
+
+The operating rules referred to in the preceding paragraph, and any amendments thereto shall be reported to the competent authority for approval.
+
+## Article 10-1
+
+When the protection institution discovers on the part of a director or supervisor of an exchange-listed, OTC-listed, or emerging stock company any violation of Article 20, paragraph 1 or 2, Article 155, paragraph 1 or 2, or Article 157-1, paragraph 1 or 2 of the Securities and Exchange Act or Article 106 to Article 108, paragraph 1 of the Futures Trading Act, or any circumstances under Securities and Exchange Act Article 32, paragraph 1 and there is no grounds of exemption from liability under paragraph 2 of the same article, or any circumstances under Securities and Exchange Act Article 171, paragraph 1, subparagraph 2 or 3, or any conduct in the course of performing duties that is materially injurious to the company or is in violation of laws, regulations, or provisions of the company's articles of incorporation, it may handle the matter in accordance with the following provisions:
+
+\1. The protection institution may, in writing, request the supervisors of the company to institute an action against the director on behalf of the company, or request the board of directors of the company to institute an action against the supervisor on behalf of the company or request the company to institute an action against a former director or supervisor. If the supervisors, the board of directors, or the company fail to institute an action within 30 days after receiving the request made by the protection institution, then the protection institution may institute the action on behalf of the company without regard to the restrictions of Article 214, or of Article 214 as applied mutatis mutandis under Article 227, of the Company Act.
+
+\2. The protection institution may institute an action petitioning a court for a judgment or ruling discharging the given director or supervisor without regard to the restrictions of Article 200, or of Article 200 as applied mutatis mutandis under Article 227, of the Company Act, and the causes for such discharge shall not be limited to causes occurring during the term of office coinciding with the time the action is instituted.
+
+The right to institute an action petitioning a court for discharge of a director or supervisor under subparagraph 2 of the preceding paragraph shall be extinguished if not exercised within 2 years from the time the protection institution learns there is cause for discharge, or when 10 years have elapsed from the time of occurrence of the cause for discharge.
+
+The provisions of Articles 34 through 36 apply mutatis mutandis when the protection institution, pursuant to paragraph 1, institutes an action or an appeal or moves for an injunctive or executory proceeding.
+
+When the company's exchange listing,  OTC listing, or emerging stock registration is terminated for any reason, the protection institution may still apply the provisions of the preceding three paragraphs to any circumstance of paragraph 1 that occurred during the company's period of listing or emerging stock registration.
+
+When the protection institution institutes an action under paragraph 1, subparagraph 1, any person who should bear liability for compensation for the same basic facts and who has or had the authority to manage affairs of the company or to sign on behalf of the company may be joined or added to the action. The same shall apply even if the person's professional relationship with the company no longer exists.
+
+When a company supervisor, the board of directors, or the company institutes an action under paragraph 1, subparagraph 1, the protection institution, to defend the rights and interests of the company and the shareholders, may intervene in the action while it is pending, and the provisions of Article 56, paragraph 1 of the Code of Civil Procedure shall apply mutatis mutandis.
+
+When a director or supervisor is discharged by a final and binding court judgment or ruling under paragraph 1, subparagraph 2, the person may not, within 3 years from the date that the judgment or ruling becomes final and binding, serve as a director or supervisor of an exchange-listed, OTC-listed, or emerging stock company or as a designated natural person representing such a director or supervisor in the exercise of duties under Article 27, paragraph 1 of the Company Act. If already serving in such a capacity, he or she shall ipso facto be discharged.
+
+After a judgment or ruling for discharge under paragraph 1, subparagraph 2 has become final and unappealable, the competent authority shall issue an official letter requesting the competent authority in charge of company registration to carry out registration of the discharge.
+
+If the company has duly established an audit committee, the term "supervisor" as used in paragraph 1 and paragraph 6 shall be taken to mean the audit committee or its independent director members.
+
+## Article 10-2
+
+The provisions of the preceding article shall apply mutatis mutandis to foreign companies mentioned in Article 165-1 of the Securities and Exchange Act.
+
+## Article 11
+
+The protection institution shall have a board of directors comprised of no less than three persons.
+
+Directors shall be selected (or appointed) in the following manner:
+
+\1. Selection by the competent authority from among representatives recommended by the endower(s).
+
+\2. Appointment by the competent authority of academics, experts, and impartial members of the public who are not representatives of an endower and whose number shall comprise not less than two-thirds of the total number of directors.
+
+The term of a director shall be three years. Successive terms may be served pursuant to continued selection or appointment.
+
+## Article 12
+
+A chairman of the board of directors, who shall not be an endower's representative, shall be selected by a majority vote at a meeting of the board of directors attended by a quorum of no less than two-thirds of all directors. The selection of a chairman will become effective upon approval by the competent authority.
+
+## Article 13
+
+Meetings of the board of directors shall be convened by the chairman, provided that for the first meeting of any given period, the competent authority will designate one of the directors selected for that period to act as convener.
+
+The board of directors shall be convened once a month. When necessary, extraordinary meetings also may be convened.
+
+## Article 14
+
+The following matters shall be subject to resolutions of the board of directors:
+
+\1. Amendments to the protection institution's articles of incorporation.
+
+\2. Adoption and amendment of the operating rules of the protection institution.
+
+\3. Utilization of the protection fund.
+
+\4. Amendments regarding the manner of custody and utilization of the protection fund.
+
+\5. Borrowing and lending of funds.
+
+\6. Matters requiring resolutions of the board of directors pursuant to the articles of incorporation.
+
+\7. Other matters requiring resolutions of the board of directors pursuant to regulations of the competent authority.
+
+Resolutions of the board of directors shall be passed by a majority of directors at meetings where the required quorum shall be a majority of all directors. However, resolutions on matters set forth in subparagraphs 1 through 5 of the preceding paragraph shall be passed by a majority of directors at meetings with a quorum of not less than two-thirds of all directors.
+
+## Article 15
+
+The protection institution shall have from one to three supervisors.
+
+A supervisor may at any time investigate the operations or finances of the protection institution, inspect account books or documents, and may require the board of directors to produce a report.
+
+Supervisors may each exercise their supervisory powers independently. Upon discovering that the board of directors is acting in violation of a law or regulation or the articles of incorporation or operating rules of the protection institution, a supervisor shall immediately notify the board to cease the conduct.
+
+Paragraphs 2 and 3 of Article 11 shall apply mutatis mutandis to supervisors.
+
+## Article 16
+
+As necessary for the protection of securities investors and futures traders, the competent authority may order the protection institution to amend its articles of incorporation, operating rules, or resolutions or to produce financial or operating reports and materials and may inspect its operations, assets, account books, documents, and other relevant items.
+
+## Article 17
+
+The protection institution, for purposes of the handling of the following matters, may request issuers, securities firms, securities service industries, futures enterprises, or relevant bodies in securities and futures markets to assist or provide relevant documents or materials:
+
+\1. Mediations carried out in accordance with this Act.
+
+\2. Payment of unpaid claims of securities investors or futures traders pursuant to Article 21, paragraph 1.
+
+\3. Initiation of litigation or arbitration pursuant to Article 28.
+
+\4. Matters undertaken on behalf of the competent authority.
+
+\5. Other matters beneficial to the operation of the protection institution in its protective capacity.
+
+When the protection institution discovers any violation of a law or regulation through documents or materials obtained pursuant to the preceding paragraph or, when necessary, for the protection of the public interest, it shall report and request the handling of such matters by the competent authority. The same shall apply when any party fails to assist or provide documents or materials as requested of them pursuant to the preceding paragraph.
+
+## Article 18
+
+To further its operations, the protection institution shall establish a protection fund. In addition to assets contributed in accordance with Article 7, paragraph 2, sources of fund assets shall include the following:
+
+\1. Allocation by every securities firm of 0.00000285 (2.85 millionths) of the total monetary amount of the securities trades executed in its brokerage trading business during the previous month, to be made by the 10th of each month.
+
+\2. Allocation by every futures commission merchant of NT$1.88 for each contract traded in its futures brokerage trading business during the previous month, to be made by the 10th of each month.
+
+\3. Allocation of 5 percent of the transaction charges received during the previous month by the Taiwan Stock Exchange Corporation, the Taiwan Futures Exchange Corporation and the Taipei Exchange, to be made by the 10th of each month.
+
+\4. Interest on and earnings from utilization of the protection fund.
+
+\5. Assets donated by domestic or foreign companies, agencies (or institutions), groups, or individuals.
+
+The allocation ratios or amounts under subparagraphs 1 to 3 of the preceding paragraph may be adjusted by the competent authority in view of market conditions or the financial status or the effectiveness of risk management at any individual securities firm or futures commission merchant, provided that any increase shall be limited to no more than 50 percent.
+
+When the protection fund's net value exceeds NT$5 billion, the competent authority may order the temporary suspension of allocations under paragraph 1, subparagraphs 1 and 2 from securities firms and futures commission merchants that have already allocated funds for over ten years.
+
+When the protection fund is insufficient for the purposes given in Article 20, paragraph 1, the protection institution may borrow funds from financial institutions, subject to approval by the competent authority.
+
+If any entity fails to pay the amount to be allocated by it in accordance with paragraph 1, subparagraphs 1 to 3, the protection institution may report to the competent authority and request that it order payment within a specified period. If it has still failed to pay upon expiration of the specified period, the competent authority may duly seek compulsory execution under the law.
+
+## Article 19
+
+The protection fund shall be taken custody by means of government bond purchases or deposits with financial institutions. Subject to approval by the competent authority, amounts totaling no more than 30 percent of the net value of the protection fund may be utilized in the following manners:
+
+\1. Purchase of real property for use by the protection institution.
+
+\2. Investment in exchange-listed, OTC-listed, or emerging stock securities.
+
+\3. Other investments beneficial to maintaining the value of the fund.
+
+The total amount utilized pursuant to subparagraph 1 of the preceding paragraph may not exceed 5 percent of the net value of the fund.
+
+The amount of original investment in the stock of any exchange-listed, OTC-listed, or emerging stock company pursuant to paragraph 1, subparagraph 2 may not exceed 1,000 shares.
+
+## Article 20
+
+The use of the protection fund shall be limited to the following:
+
+\1. Payments to securities investors or futures traders in accordance with Article 21.
+
+\2. Expenditures by the protection institution for carrying out operations in accordance with this Act and other necessary expenses.
+
+\3. Payment of fees required for initiation of litigation or arbitration procedures in accordance with this Act.
+
+\4. Other uses as approved by the competent authority.
+
+A budget shall be drawn up for the expenditures under subparagraph 2 of the preceding paragraph, the appropriations for which shall be limited to the sum of the current fiscal year's interest on the protection fund plus the accumulated surplus from the protection fund[WP1]'s interest income after covering business expenses from past years[WP2][WP3]. However, the competent authority may make appropriate adjustments in view of financial and operating conditions.
+
+## Article 21
+
+Under any of the following circumstances with respect to a securities investor or a futures trader, the protection institution may use the protection fund for payment of what is due to the investor or futures trader:
+
+\1. When the securities firm engaged by an investor defaults because of insolvency from financial difficulties, and the investor, having traded securities on the securities market and having completed the settlement obligations or having engaged the securities firm to request the exercise of warrant rights with the issuer of call (put) warrants and having paid the price payable or delivered the securities deliverable, fails to obtain the securities or securities price to which the investor is entitled.
+
+\2. When the futures commission merchant engaged by a futures trader defaults because of insolvency from financial difficulties, and the futures trader, having engaged in futures trading on the futures market, fails to obtain the margin or premium to which the futures trader is entitled, or the gains after the completion of clearing procedures by the futures clearing house.
+
+Limits on payments to each securities investor or futures trader from the protection fund pursuant to the preceding paragraph and limits on the total amount of such payments to all securities investors or futures traders of any given securities firm or futures commission merchant, as well as the regulations and procedures governing such payments, shall be prescribed by the competent authority.
+
+After making a payment pursuant to paragraph 1, the protection institution assumes the rights of the securities investor or futures trader against the defaulting securities firm or futures commission merchant within the amount of the payment made.
+
+The provisions of Articles 34 through 36 apply mutatis mutandis when the protection institution assumes rights pursuant to the preceding paragraph and institutes an action or an appeal or moves for an injunctive or executory proceeding against the defaulting securities firm or futures commission.
+
+## Article 22
+
+When a civil dispute between a securities investor or a futures trader and an issuer, a securities firm, a securities service enterprise, a futures commission merchant, the Stock Exchange, the Taipei Exchange, a clearing house, or another interested party arises out of an offering, issuance, trading, futures transaction, or other securities-related matter, the securities investor or futures trader may apply to the protection institution for mediation.
+
+The protection institution shall establish a mediation committee comprising 7 to 15 committee members to perform mediation. Regulations governing the organization of the committee and mediation procedures shall be prescribed by the competent authority.
+
+## Article 23
+
+Under any of the following circumstances, an application for mediation will be refused:
+
+\1. The matter is not a civil dispute as referred to in paragraph 1 of the preceding article.
+
+\2. The application is not made by a securities investor or a futures trader.
+
+\3. No specific counterparty is named.
+
+\4. Oral arguments for the same matter have already been concluded in the court of the first instance.
+
+\1. The mediation subject matter falls within the effective scope of a final and binding court judgment.
+
+\2. An application for mediation of the same subject matter in accordance with this Act has already been made.
+
+Except under the circumstances set forth in the preceding paragraph or when supplementation or correction of the application is required, the mediation committee shall begin mediation procedures within 15 days of accepting an application.
+
+## Article 24
+
+The extinctive prescription for an applicant's right of claim for mediation of the application's subject matter shall be interrupted by an application for mediation. However, if the application for mediation is withdrawn or refused or the mediation is unsuccessful, the prescription will be deemed not to have been interrupted.
+
+## Article 25
+
+Mediation is successful when both parties to the mediation reach an agreement.
+
+If there is difficulty achieving agreement through mediation, the mediation committee may, considering all the circumstances and striving for a balance of both parties' interests, produce a mediation proposal upon the approval of a majority of the whole body of committee members and set a period of not more than 45 days during which it will advise both parties to agree to the proposal. When necessary, the period may be extended by 45 days.
+
+If the parties to the mediation express no dissent within the period set pursuant to the preceding paragraph, the mediation will be deemed successful with respect to both parties based on the mediation proposal.
+
+If, within the period set under paragraph 2, dissent is expressed by one or more persons belonging to a group with common interests comprising a party to the mediation, the mediation proposal will be void with respect to those dissenting, but mediation will be deemed successfully concluded based on the proposal with respect to all other parties. However, if the number of persons expressing dissent constitutes a majority of the members of the that party , the mediation will be deemed unsuccessful.
+
+When acting in an advisory capacity, as mentioned in paragraph 2, the mediation committee may make the mediation proposal public if it finds the case appropriate.
+
+## Article 25-1
+
+In a small-claim securities investment or futures trading dispute case, if the securities investor or futures trader applies to the protection institution for mediation and the counterparty, without due cause, fails to appear on the mediation date, the mediation committee members may, with consideration to the circumstances, put forward a mediation proposal upon the applicant's request or ex officio, and serve the proposal on the parties to the mediation.
+
+The mediation proposal of the preceding paragraph shall be passed by a majority of mediation committee members at a meeting of the mediation committee with a quorum of not less than three members. The proposal shall state the period prescribed in Article 25-2, paragraph 1, and the legal consequences of failing to express dissent within the statutory period.
+
+Provisions for the service of process through public announcement shall not apply to the service of the mediation proposal under paragraph 1.
+
+The amount limit of a "small-claim securities investment or futures trading dispute" referred to in paragraph 1 shall be proposed by the protection institution and reported to and approved by the competent authority.
+
+## Article 25-2
+
+A party may express dissent with respect to the mediation proposal of paragraph 1 of the preceding article within a peremptory period of ten days after receipt of delivery of the proposal. If no dissent is expressed within that period, the mediation will be deemed successfully concluded based on the proposal.
+
+If a party expresses dissent within the period stated in the preceding paragraph, the mediation committee members will schedule another mediation date and give notice to the parties. If the party fails to appear without due cause, the mediation will be deemed successfully concluded based on the proposal.
+
+## Article 26
+
+When mediation is successful, the protection institution shall produce a mediation agreement and, within 7 days from the day the mediation is successfully concluded, submit it, along with the mediation case file and evidence, for ratification by the jurisdictional district court of the place where the protection institution is located.
+
+If the court declines to ratify the mediation agreement because the content violates of law or regulation, public order, or good morals or because its compulsory enforcement is not possible for some other reason, the court shall notify the protection institution of the reasons.
+
+Unless there is a circumstance mentioned in the preceding paragraph, the court shall ratify the mediation agreement referred to in paragraph 1. After the court has ratified the mediation agreement, it shall return the ratified mediation agreement, together with the mediation case file and evidence, to the protection institution, and the protection institution shall serve the ratified mediation agreement on the parties involved. The service of the mediation documents shall be governed mutatis mutandis by the provisions of the Code of Civil Procedure.
+
+A mediation ratified by a court shall have the same force and effect as a final and binding civil judgment.
+
+If a cause exists for finding a mediation ratified by a court invalid or voidable, a party to the dispute may institute an action to declare the mediation invalid or void in the court that originally ratified the mediation. That action may be joined with an action on the original mediation matter, or a counterclaim may be instituted and the court requested to decide the matter jointly when issuing a declaration invalidating or voiding the mediation agreement. Such action or counterclaim will be deemed to have been instituted from the time of the application for mediation.
+
+An action to declare a mediation invalid or void shall not prejudice rights obtained in good faith by a third party.
+
+The circumstances under paragraph 5 shall be governed mutatis mutandis by Articles 500 to 502 of the Code of Civil Procedure and Article 18, paragraph 2 of the Compulsory Enforcement Act.
+
+## Article 27
+
+For a civil action pending in court, if mediation is successfully concluded prior to the issuance of a final and binding judgment and the mediation agreement is ratified by a court, the action will be deemed voluntarily dismissed from the time of the mediation's successful conclusion.
+
+## Article 28
+
+For the protection of the public interest, within the scope of this Act and its articles of incorporation, the protection institution may submit a matter to arbitration or institute an action in its name with respect to a securities or futures matter arising from a single cause that is injurious to multiple securities investors or futures traders, after having been so empowered by not less than 20 securities investors or futures traders. The securities investors or futures traders may, prior to the conclusion of oral arguments or examination of witnesses, withdraw the empowerment to submit a matter to arbitration or institute an action, and shall provide notice to the arbitral tribunal or court if they do so.
+
+After the protection institution has submitted a matter to arbitration or instituted an action in accordance with the preceding paragraph, it may accept empowerment from other securities investors or futures traders who have suffered injury due to a securities or futures matter arising from the same cause to submit the matter to arbitration or institute an action and, prior to the conclusion of oral arguments or examination of witnesses in the court of first instance, expand the claims asserted for arbitration or judgment.
+
+The empowerment to submit a matter to arbitration or to institute an action under the preceding two paragraphs includes compulsory execution, provisional attachment, provisional injunction, participation in reorganization or bankruptcy proceedings, and other powers necessary to the realization of rights in a securities or futures matter arising from a single cause.
+
+The empowerment to submit a matter to arbitration or institute an action under paragraphs 1 and 2 shall be effected through a written instrument.
+
+Article 4 of the Arbitration Act and Article 167 of the Securities and Exchange Act shall not apply when a protection institution institutes an action or expands the claims asserted for judgment pursuant to paragraphs 1 and 2.
+
+## Article 28-1
+
+A court may establish a special tribunal or designate a specialist to handle an action instituted by the protection institution pursuant to paragraph 1 of the preceding article.
+
+## Article 29
+
+In the event that securities investors or futures traders withdraw the empowerment to institute an action or to submit matters to arbitration pursuant to Article 28, paragraph 1, that portion of the action or arbitration proceedings shall ipso facto be interrupted, and the securities investors or futures traders shall thereupon declare their intention of assuming the action or arbitration. The court or arbitral tribunal may also order ex officio, those securities investors or futures traders to assume the proceedings.
+
+When the protection institution has instituted an action or submitted a matter to arbitration in accordance with Article 28 and a portion of the securities investors or futures traders withdraw their empowerment for the same, with the result that the remaining portion numbers fewer than 20, the protection institution may nevertheless continue the arbitration or action with regard to the remaining portion.
+
+## Article 30
+
+Extinctive prescription shall be calculated individually with respect to the rights of individual securities investors or futures traders to claim damages under Article 28, paragraphs 1 and 2.
+
+## Article 31
+
+The protection institution shall have the power to perform all procedural acts in relation to an action or arbitration it is empowered to institute by securities investors or futures traders, provided that those securities investors or futures traders may restrict its power to abandon claims, admit claims, voluntarily dismiss the case, or settle the case.
+
+The effect of a restriction set by one member of the group of securities investors or futures traders shall not extend to the other securities investors or futures traders.
+
+Any restriction as referred to in paragraph 1 shall be set out in the written instrument referred to in Article 28, paragraph 4, or in a memorandum submitted to the court or the arbitral tribunal.
+
+## Article 32
+
+In the event a securities investor or futures trader objects to the judgment in an action instituted pursuant to Article 28, then prior to the expiration of the period for appeal by the protection institution, the investor or trader may withdraw the empowerment to institute an action and duly appeal under the law.
+
+After receiving an authenticated copy of the judgment or decision, the protection institution shall immediately notify the securities investors or futures traders of the outcome and, within seven days, shall provide written notice of whether it intends to institute an appeal.
+
+## Article 33
+
+The protection institution shall disburse the compensation it receives in an action or arbitration to the securities investors or futures traders who empowered it to institute the action or arbitration after deducting the expenses required in either of those procedures. The protection institution is not entitled to seek remuneration for itself.
+
+## Article 34
+
+When the protection institution, pursuant to Article 28, institutes an action and moves for a provisional injunction or a provisional attachment, it shall make a preliminary showing of the claim and the ground for the provisional injunction or provisional attachment.
+
+A court may rule that a motion filed by the protection institution under the preceding paragraph be exempted from the requirement for the provision of security.
+
+## Article 35
+
+In the event the protection institution institutes an action or an appeal pursuant to Article 28, it shall be temporarily exempted from court costs on any portion of the amount or value of the claim that is in excess of NT$30 million. In the event an opposing party institutes an appeal and receives a final and binding judgment in its favor, its advance payment of court costs shall be returned after the deduction of the fees for which it is responsible.
+
+With respect to the temporary exemption from court costs of the preceding paragraph, after a judgment is concluded, the court of first instance shall make an ex officio ruling to collect the court costs from the party responsible for the litigation expenses. However, any portion of the amount or value of the claim that is in excess of NT$30 million and for which the protection institution is responsible shall be exempted from this requirement.
+
+When the protection institution, having instituted an action or moved for an injunctive proceeding in accordance with Article 28, obtains the title of execution and moves for compulsory execution, it may be temporarily exempted from payment of execution fees on any portion of the amount or value of the executed claim that is in excess of NT$30 million, and the execution fees for which it received temporary exemption shall be deducted from the proceeds from the execution.
+
+## Article 36
+
+If the protection institution institutes an action or an appeal pursuant to Article 28 and explains that, in the absence of execution before the judgment becomes final and binding, resulting damages would be excessive or not easily calculated, the court shall declare provisional execution exempt from the provision of security upon a motion by the protection institution.
+
+## Article 37
+
+A securities firm shall keep separate and independent from its assets the dedicated accounts it duly opens in accordance with laws and regulations for the deposit of customer monies and the assets it receives as a result of accepting customer orders in the course of business.
+
+A securities firm may not utilize the monies or assets referred to in the preceding paragraph except to make required payments or utilize assets on behalf of its customers.
+
+Creditors seeking payment of a securities firm's debt in respect of the securities firm's assets may not seek to attach or  exercise other rights against the dedicated customer accounts or assets the securities firm receives as a result of accepting customer orders in the course of business referred to in paragraph 1.
+
+## Article 38
+
+If a securities firm violates Article 37, paragraph 2, the person(s) responsible for the act shall be punished with imprisonment for not more than three years, or detention, or in lieu thereof or in addition thereto, a fine of not more than NT$100 million.
+
+## Article 39
+
+If the protection institution refuses to cooperate with an order of the competent authority given pursuant to Article 16, or if the management or utilization of the protection fund violates Articles 19 or 20, the competent authority may order the discharge of directors, supervisors, managers, or employees of the protection institution.
+
+If the protection institution's directors, supervisors, managerial officers, employees, or mediation committee members violate the management rules adopted pursuant to Article 8, paragraph 2, or the regulations adopted pursuant to Article 22, paragraph 2 regarding qualifications or prohibited conduct, the competent authority may order their discharge.
+
+## Article 40
+
+An administrative fine of not less than NT$120,000 and not more than NT$600,000 will be imposed for any of the following circumstances:
+
+\1. Failure to pay or allocate funds required under Article 18, paragraph 1, subparagraphs 1 and 2.
+
+\2. Violation of Article 37, paragraph 1.
+
+Under either circumstance in the preceding paragraph, the competent authority will impose an administrative fine and order compliance within a specified time period. Upon failure to comply by the end of that period, the competent authority may continue to order compliance within specified periods and impose fines of not less than NT$240,000 and not more than NT$1.2 million for each instance of failure until compliance is effected.
+
+## Article 40-1
+
+Any action that was instituted under Article 10-1, paragraph 1 prior to the enforcement of the articles of this Act amended and promulgated on 10 June 2020 and enforced on 1 August of the same year and that is still pending shall be subject to the application of the amended articles after their enforcement.
+
+Any action that was instituted under Article 10-1, paragraph 1 prior to the enforcement of the articles of this Act amended on 1 July 2025 and that is still pending shall be subject to the application of the amended articles after their enforcement.
+
+## Article 41
+
+The date of enforcement of this Act shall be set by the Executive Yuan.
+
+The articles of this Act amended on 1 July 2025 shall be enforced from the date of promulgation.
+
+## History
+
+\1. Full text of 41 articles enacted and promulgated per 17 July 2002 Presidential Order No. ROC-President-I-Yi-09100142260
+
+Issued per 31 October 2002 Executive Yuan Order No. Yuan-Taiwan-Finance-0910054773, for enforcement from 1 January 2003
+
+\2. Articles 2, 3, 21, 26, 28, 29, 31, 35, and 37 amended and promulgated and Articles 10-1, 25-1, 25-2, and 28-1 added per 20 May 2009 Presidential Order No. ROC-President-I-Yi-09800121971
+
+For enforcement from 1 August 2009 per 27 July 2009 Executive Yuan Order No. Yuan-Taiwan-Finance-0980044212
+
+\3. Article 3 amended and promulgated per 4 February 2015 Presidential Order No. ROC-President-I-Yi-10400012441
+
+For enforcement from 1 April 2015 per 19 March 2015 Executive Yuan Order No. Yuan-Taiwan-Finance-1040013918C
+
+\4. Articles 10-1, 19, and 26 amended and promulgated and Articles 10-2 and 40-1 added per 10 June 2020 Presidential Order No. ROC-President-I-Jing-10900064271
+
+For enforcement from 1 August 2020 per 7 July 2020 Executive Yuan Order No. Yuan-Taiwan-Finance-1090021932
+
+\5. Articles 10-1, 20, 40-1, and 41 amended and promulgated per 16 July 2025 Presidential Order No. ROC-President-I-Jing-11400070341; for enforcement from the date of promulgation

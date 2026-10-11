@@ -1,0 +1,95 @@
+---
+title: "Act for Managing Deposits and Remittance in Bank of Taiwan’s Overseas Branches during Japanese Colonial Era"
+title_zh: "日據時代株式會社台灣銀行海外分支機構存款及匯款處理條例"
+identifier: "G0380185"
+type: act
+law_level: "法律"
+category: "行政＞財政部＞國庫目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2000-07-19
+last_amended: 2001-06-13
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0380185"
+retrieved: 2026-10-12
+---
+
+# Act for Managing Deposits and Remittance in Bank of Taiwan’s Overseas Branches during Japanese Colonial Era
+
+> Translation. The Chinese text ([zh/laws/ministry-of-finance/G0380185-act-for-managing-deposits-and-remittance-in-bank-of-taiwans-overseas-branches.md](../../../zh/laws/ministry-of-finance/G0380185-act-for-managing-deposits-and-remittance-in-bank-of-taiwans-overseas-branches.md)) is authoritative.
+
+## Article 1
+
+This Act is enacted in order to handle and manage the matters related to the deposits and remittance in Bank of Taiwan’s overseas branches during Japanese Colonial Era and the advance payment by the government for reimbursements.
+
+## Article 2
+
+The competent authority of this Act is the Ministry of Finance.
+
+## Article 3
+
+The range and scope of the deposits and remittance repaid by the government in accordance with this Act is limited to the deposits and remittance in Bank of Taiwan’s overseas branches during Japanese occupation and for those who file reimbursement applications to the competent authority within the period specified by this Act. However, the total amount of advance payment by the government for reimbursements should not exceed 3 billion NT dollars.
+
+## Article 4
+
+Citizens of the Republic of China who hold the deposit and remittance passbook, certificate of deposit or money orders could file applications to the competent authority for reimbursement within three months from the registration date announced by the competent authority; any application pass the deadline will not be accepted. The applications for reimbursement, after examination and confirmation, will be repaid to the applicants at once by the government.
+
+A person who is eligible for filing an application indicated above died before filing the application for registration, his/her successors may apply for the registration and to be reimbursed, the order of successors in the filing application or claim for reimbursement is to follow the provisions of the Civil Code.
+
+## Article 5
+
+The examination and verification task indicated in the preceding article is to be conducted by the competent authorities with a special task force formed by inviting relevant agencies, academic experts and men of integrity from the society.
+
+## Article 6
+
+The deposits and remittance reimbursed by the government pursuant to this Act are to be calculated into NT dollars by multiplying sixtyfold from the original currency amount. However, each amount of advance payment by the government for reimbursement is limited to ten million NT dollars.
+
+If the original currency for the deposits and remittance indicated in the preceding paragraph is reserve notes, the amount in reserve notes is to be translated into one dollar with 6 dollars of reserve notes, and then the amount is to be calculated using the method indicated in the preceding paragraph into NT dollars for reimbursement.
+
+The regulations in the preceding two paragraphs should also be applicable to cases which already filed reimbursement registration according to the announcement of the competent authority before this amendment comes into effect.
+
+## Article 7
+
+Competent authority shall, after the enforcement of this Act, make announcement regarding to the application for reimbursement and related matters in electronic and print media.
+
+When making the above announcement, the competent authority shall clearly list the supporting documents needed for the application or forms for applying for the registration and reimbursement.
+
+## Article 8
+
+The amount needed to pay for the reimbursement in the Act is to be prepaid on behalf of the government by state-own financial institutions designated by the competent authority, the advances by those institutions on behalf of the government plus the interests can be deducted from the annual profit to be paid to the National Treasury for that institution.
+
+For the advances and prepayment paid by the government in the preceding paragraph, the government shall actively ask the Japanese government for restitution and reimbursement after the debt issues between Taiwan and Japan are processed and resolved.
+
+## Article 9
+
+If the passbook, certificate of deposit or documents for remittance submitted by the applicants are forgery or there is any alteration on those documents, the cases shall all be handled and punished according to relevant laws and regulations.
+
+## Article 10
+
+Holding of deposits in overseas branches of the banks setup by Japan during Japanese colonial era in Taiwan can also be handled with this Act and receive comparable treatment.
+
+The total amount of advance payment for reimbursements is to be included in the limit of three billion NT dollars indicated in Article 3.
+
+## Article 11
+
+If the total amount of deposit and remittance registered with the government in accordance with Article 3 and Article 10 of this Act exceed 3 billion NT dollars, then the payment is to be reimbursed in accordance with the following quotas:
+
+1.The upper limit for the amount to be reimbursed to the special term deposit and draft for remittance in Bank of Taiwan is 1.5 billion NT dollars.
+
+2.The upper limit for other deposits and remittance is 1.5 billion NT dollars.
+
+If any one of the reimbursement amount in Subparagraphs 1 or 2 of the preceding paragraph does not reach the upper limit, the remaining balance can be moved for the use in another subparagraph.
+
+## Article 12
+
+This Act shall be in force from the date of promulgation.
+
+## History
+
+1.Promulgated on July 19, 2000
+
+2.Amended on January 17, 2001
+
+3.Amended and promulgated the twelve articles on June 13, 2001 under President’s Order Hua-Zong-1-Yi-Zi No. 9000114450

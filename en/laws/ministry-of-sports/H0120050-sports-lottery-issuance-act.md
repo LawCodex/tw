@@ -1,0 +1,293 @@
+---
+title: "Sports Lottery Issuance Act"
+title_zh: "運動彩券發行條例"
+identifier: "H0120050"
+type: act
+law_level: "法律"
+category: "行政＞運動部＞產業及科技目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2009-07-01
+last_amended: 2025-07-02
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=H0120050"
+retrieved: 2026-10-12
+---
+
+# Sports Lottery Issuance Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-sports/H0120050-sports-lottery-issuance-act.md](../../../zh/laws/ministry-of-sports/H0120050-sports-lottery-issuance-act.md)) is authoritative.
+
+## Article 1
+
+The Act is entitled for the purpose of prompting sports, raising funds for training, discovering and taking care of sport talents, fostering international sports exchanges, facilitating issuance of and management and utilizing profits from the sports lottery, and promoting social welfare.
+
+## Article 2
+
+The competent authority referred to in this Act is the Ministry of Education.
+
+## Article 3
+
+Terminology used in this Act are defined as follows:
+
+\1. Sports lottery: Refers to any lottery in which the winners are determined based on the outcome of any professional or collegiate sporting event.
+
+\2. Issuer: Refers to any organization that is commissioned by the competent authority to handle the issuance, sales, marketing, games process, results announcement, awards, and management of sports lottery as well and other related affairs.
+
+\3. Commissioned organization: Refers to an organization that is commissioned by the issuer and approved by the competent authority to handle the issuance, sales, marketing, match process and results announcement, awards and management of the sports lottery.
+
+\4. Licensed agent: Refers to any person or organization licensed by the issuer or commissioned organization and approved by the competent authority to conduct sports lottery operations.
+
+\5. Prize winner: Refers to any person who has the right to claim prize money in accordance with the wagering rules of the issuer.
+
+\6. Profit: Refers to the remainder of the total revenue from the sale of the sports lottery after payable prize money and sports lottery issuer marketing and management fees are deducted.
+
+## Article 4
+
+The issuance of the sports lottery shall be handled by a professional issuing agency, established by the competent authority or selected through a public selection process.
+
+The organizational structure and operational procedures of the aforementioned issuing agency, or the selection criteria, shall be determined by the competent authority.
+
+During the commissioned period of lottery issuance, the selected issuer shall reach sales target, which is set by the competent authority, except for a proper reason approved by the competent authority. Difference of profits shall be made up when the sales target is not reached.
+
+## Article 5
+
+Measures governing the issuance, sales, promotion, games process and results announcement, awards and management of the sports lottery are determined by the competent authority.
+
+## Article 6
+
+The total prize money from the sale of the sports lottery shall not exceed 78% of the total sports lottery revenue. However, plans for operational or supporting measures proposed by the issuer and approved by the competent authority are not restricted by such stipulations.
+
+## Article 7
+
+Marketing and overhead fees for sale of the sports lottery in person, shall not exceed 12% of the gross revenue derived from the sports lottery sales. When the sports lottery sales is made via telephone, internet or other telecommunication equipment under Article 11 of this Act, the aforesaid marketing and overhead fees shall not exceed 10% of the gross revenue derived from sports lottery sales .
+
+The marketing and overhead fees in the previous paragraph include commissions for the sale of the sports lottery, issuer’s reward, losses arising from sales of the sports lottery and damages claim reserves and expenses for holding events of sports lottery issurance.
+
+The minimum ratio of sport lottery gross revenue for the losses and damages claim reserves, as well as the handling of unpaid money upon the expiration date of the issurance license in the previous paragraph shall be stipulated by the authority in charge.
+
+## Article 8
+
+All of the profits from the issuance of the sports lottery shall be handled by the competent authority solely for the development of sports and may not be used as a government budget for sports. The scope of use of those profits shall be determined by the competent authority and publicized in the government gazette.
+
+The aforementioned profits appropriated for the development of sports shall be handled in the form of a fund or ledger (credits/debits).
+
+Said affairs may be handled through the establishment of a sports development fund in accordance with the annual budget procedure. Prior to the establishment of said fund, the profits from sports lottery shall be deposited in an account at a public bank and budgeted in the form of credits/debits. After the establishment of the fund, all balance from the account shall be transferred into the fund immediately.
+
+## Article 9
+
+The issuer shall prepare an operational report based on the issuance of the sports lottery, together with a profit/loss chart, prize money summary, pro fit distribution chart and details of marketing and management expenses at the end of each month. The report shall be submitted to the competent authority before the 15th of next month.
+
+## Article 10
+
+The selection of sport lottery sales licensees by the issuer or commissioned institution shall be limited to those who with professional sports knowledge and evaluated by the issuer or former licensees during the sports lottery issue period. The criteria of professional sports knowledge shall be stipulated by the authority in charge. The issuer shall stipulates implementation guidelines governing the qualification and licensing criteria of a licensee which shall be sent to and ratified by the competent authority in charge before enforcement.
+
+Any licensee with more than four employees shall at least hire one employee with professional knowledge in sports, a person with disabilities and competence of work, a person of the indigenous people, or a low-income household resident.
+
+The issuer shall be responsible for the sale of the sports lottery and other educational training. The issuer shall draft the respective training program and send it to the authority in charge for ratification before enforcemen.
+
+The regulations in Paragraph 1 of this Article as revised on May 30, 2022 shall be applied at the beginning of the selection of the third sports lottery licensees.
+
+## Article 11
+
+Sports lottery may be sold by the issuer and commissioned institutions in person, over the telephone, via the Internet or other telecommunication equipment. Licensees can participate in the recruitment of members via the information system of the sports lottery issurance institution.
+
+The issuer shall draft pertinent management guidelines for the aforementioned sales methods management, which will be enforced after ratified by the competent authority. The aforementioned guidelines shall include the following materials:
+
+\1. Affairs pertaining to the protection of consumers.
+
+\2. The protection of wager’s personal data.
+
+\3. Responding to transaction disputes.
+
+\4. Preventing from money laundering.
+
+\5. Preventing from wagering addiction.
+
+\6. Operational procedures related to the sale of the sports lottery over the telephone, the Internet or other telecommunication equipment.
+
+The issuer or commissioned institution shall adopt appropriate methods to inform those who wager over the telephone, the Internet or other telecommunication equipment about the relevant risks, and mental/physical hazards of gambling addiction.
+
+Identity verification systems with regard to the sale of sports lottery over the telephone, the Internet and other telecommunication equipment shall be implemented by the issuer or commissioned institution, and a security transaction system shall be established and verified by professional institution to ensure that all transaction records are secured and free from unauthorized tampering.
+
+## Article 12
+
+The sport event to be wagered on in the sports lottery shall be specific into an issurance plan by the issuer and filed to the competent authority. The sport event would be the object of sport lottery wager after ratified by the competent authority.
+
+## Article 13
+
+The issuer, commissioned organization and licensed agent is prohibited from selling the sports lottery or paying out prize money to minors.
+
+Employees of the sports lottery issuer or commissioned organization cannot purchase, receive or redeem sports lottery tickets.
+
+Personnel of the game organizer and athletes of involved teams cannot purchase, receive or redeem the sports lottery tickets related to relevant games.
+
+All sales revenue and an amount equivalent to awarded prize money by any issuer, commissioned organization or licensed agent which violates Paragraph 1 of this Article shall be designated sports lottery profits.
+
+The issuer and commissioned organization shall establish internal control and auditing systems and implement them appropriately; measures governing relevant matters shall be determined by the competent authority.
+
+## Article 14
+
+Other personal information of sports lottery winners such as their names and addresses shall be kept strictly confidential unless required by other laws.
+
+Any violation of the aforementioned regulation that infringes on the rights of prize winner(s) by revealing their personal information to others entitles the winner(s) to seek damages from the issuer.
+
+In the aforementioned circumstances, the issuer is also entitled to seek compensation from the party responsible for leaking the information.
+
+## Article 15
+
+With the exception of those who purchase over the telephone, the Internet or other telecommunication equipment, who shall receive prize money payout directly from the issuer, all other winners of the sports lottery shall seek payment from the issuer, commissioned organization or licensed agent with proof of purchase and with personal identification or relevant documents within three months of the prize announcement; payment is voided when the payment period expires, and all unclaimed prize money will be considered sports lottery profits.
+
+Any issuer, commissioned organization or licensed agent who violates the aforementioned regulation by paying prize money to winners after the payment period has expired shall allocate an equivalent amount as sports lottery profits.
+
+Sports lottery prize money under a specific amount defined by the competent authority will not be bound by the aforementioned criterion pertaining to the proof of purchase and personal identification or documents.
+
+Loss or theft of a sports lottery ticket is not a valid reason for voiding payment; caveat 1 of Articles 720, 725 and 727 of the Civil Code are not applicable to such a circumstance.
+
+## Article 16
+
+Each sports lottery prize shall be paid out in one single payment.
+
+## Article 17
+
+Winning sports lottery tickets that cannot be identified due to being burnt, soaked in water, stained, dyed, damaged or other reasons may not be claimed.
+
+## Article 18
+
+A purchaser of a voided wager is entitled to seek refunds from the issuer, commissioned institution or licensed agent. The right to seek refunds will be nullified after two years period commencing from the day that the issuer announces the wager void.
+
+Purchasers of the aforesaid wager over the telephone, the Internet or other telecommunication equipment in the previous paragraph the refund shall be processed by the issuer.
+
+The circumstance of a voided wager stated in Paragraph 1 shall be drafted by the issuer and enforced after ratified by the competent authority.
+
+## Article 19
+
+Article 19 of the Consumer Protection Law shall not be applied to sports lottery wagers purchased over the telephone, the Internet or other telecommunication equipment.
+
+## Article 20
+
+The competent authority shall send agents or commissioned professional institutes to make inspections of the issuer, commissioned organization and licensed agent; or instruct the issuer to send agents to inspect the sales, financial and other pertinent matters of the commissioned organization and licensed agent; or require the issuer, commissioned organization and licensed agent to submit financial statements, transaction information or other related documents for a specified period of time.
+
+The issuer, commissioned organization and licensed agent may not evade, impede or reject the aforementioned inspections or instructions and shall comply by providing all pertinent documents.
+
+Should the issuer or commissioned organization find abnormalities in sales or finances or should employees be found to have violated Paragraphs 1, 2 or 3 of Article 21, they shall report to the competent authority within three days and give a report on how the situation was handled within one month.
+
+## Article 21
+
+Anyone who uses violence, coercion, fraud, enticement, or any other illegal method to interfere with the fairness of any sports competition on which bets are made shall be sentenced to imprisonment for at least one year and not more than seven years, and the offender may also be fined between NT$10 million and NT$30 million.
+
+Anyone who commits the offense referred to in the preceding paragraph with the intention of making a profit or in collaboration with two or more other persons shall be sentenced to imprisonment for not less than three years and not more than ten years, and the offender may also be fined between NT$20 million and NT$50 million.
+
+If the committing of the offense referred to in the first paragraph results in any person’s death, the offender shall be sentenced to life imprisonment or imprisonment for at least seven years. If it results in serious injury to any person, the offender shall be sentenced to imprisonment for at least three years and not more than ten years. In both cases, and the offender may also be fined between NT$20 million and NT$50 million.
+
+Any attempt to commit the offenses referred to in the first and second paragraphs is also punishable.
+
+## Article 21-1
+
+Any employee of any issuer or commissioned organization who, with the intention of unlawfully benefitting themselves or a third party, or of harming the interests of any issuer or commissioned organization, acts in violation of their duties and thereby causes damage to the property or other interests of that issuer or commissioned organization, shall be sentenced to imprisonment for at least one year and not more than seven years, and the offender may also be fined between NT$10 million and NT$30 million.
+
+If three or more persons jointly commit the offense referred to in the preceding paragraph, each of the offenders shall be sentenced to imprisonment for at least three years and not more than ten years, and they shall also each be fined between NT$20 million and NT$50 million.
+
+Any attempt to commit any of the offenses referred to in the preceding two paragraphs is also punishable.
+
+## Article 22
+
+The issuer and commissioned organization shall be subjected to a fine of no less than NTD$1.5 million no more than NTD$7.5 million for each of the following violations and can be penalized repeatedly, unless the violator makes improvements within a specified period:
+
+\1. Violation of the measures governing the issuance, sales, marketing, prize money redemption and management of the sports lottery as pursuant to Article 5.
+
+\2. Failure by the issuer or commissioned organization to establish an identity verification system or secure transaction technological system certified by professional organizations as pursuant to Paragraph 4 of Article 11.
+
+Should issuer or commissioned organization violate Paragraph 5 of Article 13 by failing to establish internal controls and an auditing system or properly implementing said controls or system, it shall be subjected to a fine of no less than NTD$2 million and no more than NTD$10 million.
+
+## Article 23
+
+The following violations carry a fine of no less than NTD$1 million and no more than NTD$5 million each and may be penalized repeatedly unless the violator makes improvements within a specified period:
+
+\1. Prize money payout rate exceeds the ratio stipulated in Article 6.
+
+\2. Marketing and management expenses violate the regulations stipulated in Article 7.
+
+## Article 23-1
+
+The following violations carry a fine of no less than NTD$300,000 and nor more than NTD$1.5 million each and may be penalized repeatedly unless the violator makes improvements within a specified period:
+
+\1. Violation of Paragraph 1 of Article 15 by failing to categorize expired prize money as sports lottery profits.
+
+\2. Violation of Paragraphs 2 and 3 of Article 20.
+
+## Article 23-2
+
+Those who learned information such as the name, address and other personal data of sports lottery winners due to their capacity or business transaction fail to keep secret in violation of Paragraph 1 of Article 14 of this Act shall be subject to a fine of NT$100,000 to 500,000 and to be ordered to rectify within a specified time. In case of failure to rectify in time, a fine can be imposed constantly.
+
+## Article 24
+
+One violates one of following provisions shall be imposed a fine of NTD$30,000 to NTD$150,000 each and can be imposed constantly provide the violator makes improvements within a specified time:
+
+\1. The issuer fails to submit the required documents and statements in violation of Article 9.
+
+\2. A licensee with more than four employees fails to hire at least one employee with professional sports knowledge, a person with disabilities and competencein work, a person of the indigenous population, or a low-income household resident in violation of Paragraph 2 of Article 10.
+
+\3. An issuer, commissioned institution or licensed agent sell the sports lottery or pay prize money to minors in violation of Paragraph 1 of Article 13.
+
+\4. An employees of the issuer or commissioned institution purchase, receive or redeem sports lottery tickets in violation of Paragraph 2 of Article 13.
+
+\5. A personnel or staff of the wagered sport event organizer or staff of the teams engaged, purchase, receive or redeem the sports lottery tickets of afore said sport event in violation of Paragraph 3 of Article 13.
+
+\6. An issuer, commissioned institutionor licensed agent pay prize money to winners after the the expiration date of in violation of Paragraph 1 of Article 15.
+
+\7. An issuer, commissioned institution or licensed agent evade, impede or decline the inspections or demands or fail to comply with providing all pertinent materials in violation of Paragraph 1, 2 of Article 20.
+
+Penalties impose on the violator under subparagraphs 4 of the previous Paragraph, coulde have also impose on the issuer and commissioned institution.
+
+## Article 25
+
+Any issuer or commissioned organization that has been penalized based on the penalties listed in Articles 22 and 23 may have its period of lottery issuance, sales numbers or number of authorized operators restricted by the competent authority in serious cases; if no improvement is made within a specified period, the competent authority may terminate the right to issue and sell the sports lottery.
+
+Any issuer which has its right to issue or sell the sports lottery revoked shall make up the difference of profits pursuant to Paragraph 3 of Article 4 up to the final date of issuance as set by the competent authority. However, if the original issuance period expires first, the period of issuance will end on that date.
+
+## Article 26
+
+Should any application documents, affidavits or other guarantees provided by the issuer during the selection process be found to be invalid, the competent authority may revoke the right to issue the sports lottery.
+
+Should the issuer undergo disposal due to guardianship, custodianship, or halting of business by the central financial competent authority once the sports lottery has been issued, the competent authority may terminate the right to issue the sports lottery.
+
+## Article 27
+
+Should any one of the following occur after the issuance of the sports lottery has commenced, issuance shall be immediately halted pending approval from the Executive Yuan:
+
+\1. Important matters pertaining to the disturbance of social peace or boni mores.
+
+\2. Changes in law.
+
+## Article 28
+
+( Deleted )
+
+## Article 29
+
+The date of enforcement of this Act shall be determined by the Executive Yuan.
+
+Amendments to this Act shall be effective as of the date of promulgation.
+
+## History
+
+1.Presidential Order Hua-Zong-Yi-Yi-Zi No. 09800160101 issued on July 1, 2009: the 29 articles of the Sports Lottery Issuance Act promulgated, with the date of effect to be determined by the Executive Yuan
+
+Executive Yuan Order Tai-Ti-Zi No. 0980075190 issued on November 27, 2009: the Act came into effect on January 1, 2010.
+
+2.Presidential Order Hua-Zong-Yi-Yi-Zi No. 10000016581 issued on January 26, 2012 with immediate effect: amendments to Articles 21 and 29
+
+Executive Yuan Order Tai-Gui-Kui-Zi No. 1010154558 issued on December 25, 2012: announcing the Ministry of Education as the “central competent authority” referred to in Article 2, with the authority and responsibilities taking effect on January 1, 2013
+
+3.Presidential Order Hua-Zong-Yi-Yi-Zi No. 10300093271 issued on June 18, 2014: amendments to Articles 4, 13, 20, 22, 23, 24, and 25, and the addition of Articles 21-1 and 23-1
+
+4.Presidential Order Hua-Zong-Yi-Yi-Zi No. 10500140161 issued on November 16, 2016: amendments to Article 1, Article 8, and Article 21, and the deletion of Article 28
+
+5.Presidential Order Hua-Zong-Yi-Yi-Zi No. 10900064811 issued on June 10, 2020: amendments to Article 7 and Article 10, with immediate effect, except for the amendment to the provisions of Paragraph 1 of Article 10 which take effect on January 1, 2024
+
+6.Presidential Order Hua-Zong-Yi-Yi-Zi No. 11100049741 issued on June 15, 2022: amendments to Articles 2, 7, 10, 11, 12, 18, 19, and 24 and the addition of Article 23-2, with immediate effect with the amendment to Article 10 except for the amendment to the provisions of Paragraph 1 of Article 10 which are applicable beginning from the third selection of sales licensees for sports lotteries
+
+7.Presidential Order Hua-Zong-Yi-Yi-Zi No. 11400066121 issued on July 2, 2025: amendments to Articles 21 and 21-1

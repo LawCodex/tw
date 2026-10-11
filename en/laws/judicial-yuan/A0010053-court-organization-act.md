@@ -1,0 +1,1334 @@
+---
+title: "Court Organization Act"
+title_zh: "法院組織法"
+identifier: "A0010053"
+type: act
+law_level: "法律"
+category: "司法＞院本部＞組織目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1932-10-28
+last_amended: 2024-11-29
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=A0010053"
+retrieved: 2026-10-12
+---
+
+# Court Organization Act
+
+> Translation. The Chinese text ([zh/laws/judicial-yuan/A0010053-court-organization-act.md](../../../zh/laws/judicial-yuan/A0010053-court-organization-act.md)) is authoritative.
+
+## Chapter 1 General Provisions
+
+### Article 1
+
+(The Court Hierarchy)
+
+Courts, as referred to in this Act, include the following three levels:
+
+\1. District court;
+
+\2. High court;
+
+\3. Supreme court.
+
+### Article 2
+
+(The Court Authority)
+
+Courts try civil, criminal and other litigation cases as provided by law, in addition to having jurisdiction over non-litigation cases.
+
+### Article 3
+
+Trials in a District Court are conducted by a single judge or by a collegial panel of three judges.
+
+Trials in a High Court are conducted by a collegial panel of three judges.
+
+Trials in the Supreme Court, unless otherwise prescribed by law, are conducted by a collegial panel of five judges.
+
+### Article 4
+
+(Presiding Judge)
+
+In a collegial trial, the division chief judge shall serve as the presiding judge; if there is not a division chief judge, or if the division chief judge is not available, a division judge with the most seniority by experience shall serve the position, and the judge with the most seniority by age shall serve the position if more than one judge has the same seniority by experience.
+
+In a single judge trial, the said judge shall assume the duty and authority of a presiding judge.
+
+### Article 5
+
+(The Effect of Case load Allocation Non-conformance to this Act)
+
+In a litigation trial, although the allocation of a judge's case load or the order of rotation may not be in conformance with the provisions as stipulated in this Act, the effect of the trial is still valid.
+
+The provisions of the preceding paragraph apply mutatis mutandis to non-litigation cases.
+
+### Article 6
+
+(Provisions for the Main Court Apply to Branch Courts)
+
+All provisions for the main court of high courts or district courts are applicable to the trials of litigation cases and the handling of non-litigation cases in their respective branch courts.
+
+### Article 7
+
+(The Divisions and Changes in Jurisdiction of Courts)
+
+The divisions and changes of jurisdiction of district courts and their branches, and of the high court and its branches shall be determined by the Judicial Yuan.
+
+### Article 7-1
+
+The provisions in this Chapter apply to the handling of disputes between the courts governed by this Act and the courts with other judicial power.
+
+### Article 7-2
+
+The court with judicial power at the time of prosecution shall not be affected by the facts and legal status change after pending legal actions.
+
+Once the case is pending at the court, the parties may not seek prosecution by a court with different judicial power for the same case.
+
+When a court determines that it has judicial power and its judgment has been established, other courts are bound by the judgment regarding the determination of judicial power.
+
+### Article 7-3
+
+When a court determines that it does not have judicial power, it is necessary to make a ruling according to its duty and authority and forward the litigation to the court of jurisdiction with judicial power. However, this does not include the circumstances where other laws are applicable.
+
+If there are multiple courts having judicial power as described in the preceding paragraph and the plaintiffs have specified one, the case should be forwarded to the specified court.
+
+The court should first make a ruling if the parties have a dispute on the court's judicial power.
+
+Before the ruling specified in paragraph 1 and the preceding paragraph, the court should first inquire the opinion from the parties.
+
+Appeals may be filed against the ruling specified in paragraph 1 and paragraph 3.
+
+### Article 7-4
+
+When the ruling finalized on case forwarding is initiated in accordance with paragraph 1 of the preceding Article but the court to which the case is forwarded to determines that it does not have the judicial power, it is necessary to determine the suspension of the litigation procedure by a ruling and request the court of final appeal to which the judicial power is subordinated to assign the court of jurisdiction with judicial power. However, this does not apply to either of the following circumstances:
+
+\1. The court of final appeal to which the judicial power of the original court is subordinated has determined the original court has no judicial power and has taken over the judgment.
+
+\2. The civil court accepts the litigation case forwarded by an administrative court and the parties consent that the judgment shall be made by the civil court.
+
+The court of final appeal mentioned in the preceding paragraph refers to the Supreme Court, the Supreme Administrative Court or the Disciplinary Court's panel of judges for the second trial.
+
+The consent mentioned in subparagraph 2 in the proviso of paragraph 1 should be written down or documented as proof.
+
+If deemed necessary by the court of final appeal mentioned in paragraph 1, experts and scholars may be selected regarding the professional and legal issues of judicial power according to its duty and authority or in response to the application by the parties, their agents, or defense attorneys, so as to state their legal opinions in writing or during oral arguments.
+
+The person who states opinions described in the preceding paragraph should disclose the following information:
+
+\1. Whether the preparation or the presentation of relevant professional opinions or data involves division of work or cooperation with the parties, interested parties, or their agents, or defense attorneys.
+
+\2. Whether the preparation or the presentation of relevant professional opinions or data is financially rewarded or sponsored by the parties, interested parties, or their agents, or defense attorneys and if so, the amount or the value of the financial reward or sponsorship.
+
+\3. The identity of any other providers of financial reward or sponsorship, as well as the amount or the value of the financial reward and the sponsorship.
+
+### Article 7-5
+
+If the court of final appeal mentioned in paragraph 1 of the preceding Article determines that the judicial power sits with the court that has forwarded the case, it should issue a ruling that the case should be returned. If the court that has forwarded the case is deemed not to have the judicial power, it is necessary to designate a court of jurisdiction with the judicial power.
+
+The designated court mentioned in the preceding paragraph is bound by the ruling of the judicial power.
+
+The superior court of a further trial may not revoke or reverse, on the ground of no judicial power, a judgment by the court to which the case has been forwarded to or the court designated by the court of final appeal to have the judicial power as described in paragraph 1 of the preceding Article.
+
+### Article 7-6
+
+The court to which the case has been forwarded may, according to a petition or based on its duty and authority, revoke the ruling that demands the suspension of the litigation procedure described in paragraph 1 of Article 7-4.
+
+Appeals may be filed against the ruling that demands the suspension of the litigation procedure described in paragraph 1 of Article 7-4 or against the aforesaid ruling that revokes the suspension.
+
+After the ruling rendered by the court to which the case has been forwarded described in paragraph 1, it is necessary to immediately notify the court of final appeal described in paragraph 1 of Article 7-4.
+
+The establishment of the ruling by the court to which the case has been forwarded described in paragraph 1 is deemed to withdraw the request for designation.
+
+### Article 7-7
+
+In case of emergency before the litigation case is forwarded, the court shall issue necessary sanctions according to the petition from a party related to the litigation or based on its duty and authority.
+
+The ruling finalized on the forwarded litigation deems the litigation as if it were from the beginning pending at the court to which the case has been forwarded.
+
+In the aforesaid circumstances, the court's clerk should immediately include the authenticated copies of the ruling into the case file and send it to the court to which the case is forwarded.
+
+### Article 7-8
+
+If the litigation is forwarded to another court, litigation fees shall be charged in accordance with the litigation laws applicable to the court to which the case is forwarded.
+
+The litigation fees incurred before the case forwarded are deemed part of the litigation fees charged by the forwarded court.
+
+If the original court did not charge litigation fees due, the amount is undercharged or overcharged, the forwarded court shall charge the shortfall or inform the original court to refund the amount overcharged.
+
+### Article 7-9
+
+The provisions in paragraph 2 of Article 7-3, paragraphs 2 and 3 of Article 7-7 and the preceding Article shall apply mutatis mutandis to the circumstances where the court of final appeal described in paragraph 1 of Article 7-4 designates a court for a ruling in accordance with paragraph 1 of Article 7-5.
+
+Unless otherwise stipulated by the Act, the Code of Civil Procedure, the Code of Criminal Procedure, the Administrative Litigation Act and other relevant laws also apply mutatis mutandis, within the scope without conflicting nature, to the circumstances where the court of final appeal described in paragraph 1 of Article 7-4 accepts the request for designation.
+
+### Article 7-10
+
+The provisions from Article 7-4 to Article 7-6 and in the preceding Article shall apply mutatis mutandis to the litigation reviewed by the court of final appeal described in paragraph 1 of Article 7-4 where no appeal is allowed.
+
+### Article 7-11
+
+The provisions from Article 7-2 to the preceding Article apply mutatis mutandis to cases of other proceedings.
+
+## Chapter II District Courts
+
+### Article 8
+
+(The Establishment of District Courts)
+
+A district court shall be established in each municipality or county (city). However, depending upon the geographical environment and case load, branch courts of a district court may be added; or a joint branch court may be established; or a portion of its jurisdictional area may be transferred to another district court or its branch, without the restrictions of administrative divisions.
+
+As required by case load, professional district courts may be established in specific areas; matters such as the structure and jurisdiction of such courts shall be determined by law.
+
+### Article 9
+
+(The Jurisdictional Instances of District Courts)
+
+The jurisdictional instances of district courts are as follows:
+
+\1. The first instance cases of civil or criminal trials. However, these provisions do not apply, if stipulated otherwise by law.
+
+\2. Other litigation cases as provided by law.
+
+\3. Non-litigation cases as provided by law.
+
+### Article 10
+
+(The Summary Court)
+
+A district court may have a Summary Court, the jurisdictions of which are determined by law.
+
+### Article 11
+
+(The Classifications and Staffing of District Courts)
+
+The provisions shown in the appendix govern the classifications and staffing of district courts and their branches.
+
+The applicable classifications of and changes to each district court and its branches shall be determined by the Judicial Yuan.
+
+### Article 12
+
+A district court shall have judges, judges-in-probation or judges-in-training.
+
+When necessary, a district court may set up a judicial assistant position, which shall be filled by various professionals employed or contracted in accordance with the relevant laws. A judicial assistant shall carry out matters such as case procedure review, legal issue analysis, and data collection under the orders of a judge.
+
+For those who possess the qualifications to practice as lawyers, the period during which they serve as a judicial assistant shall be counted towards their seniority of legal practice in accordance with the preceding paragraph.
+
+Matters concerning personnel selection and appointment, training, operations, managing and performance evaluation of a judicial assistant shall be as prescribed by the Judicial Yuan.
+
+### Article 13
+
+A district court shall have one president, which is to be served concurrently by a judge, to handle administrative affairs of the entire court.
+
+### Article 14
+
+A district court shall establish civil court divisions and criminal court divisions. The number of civil court divisions and criminal court divisions is determined by the case load. If necessary, a professional court division may be established.
+
+### Article 14-1
+
+A district court and a high court shall each establish a Criminal Compulsory Disposition Court Division to handle the review of mandatory disposition and temporary placement petitions during their investigation phases. However, the Judicial Yuan may, depending upon the staff and the case load of a court, order a certain court not to set up a Criminal Compulsory Disposition Court Division.
+
+The judge, who handles cases as described in the preceding paragraph, shall not handle the trial phase of the same case.
+
+### Article 15
+
+The positions of division chief judges of a civil court division, criminal court division, professional court division, and summary court, in addition to being served concurrently by the judge who also serves as the president, shall be served concurrently by other judges, to supervise various affairs of the court division.
+
+### Article 16
+
+A district court shall establish a civil execution department, where judges or judicial affairs officers shall administrate its affairs; if necessary, a division chief judge may be established, to supervise various affairs of the department.
+
+### Article 17
+
+A district court shall establish a Public Defenders' Office staffed by public defenders with position rankings of grades 7 to 9 of the recommendation rank, or grades 10 to 11 of the selection rank. If there are two or more public defenders in an office, then there may be one position of the Director of Public Defenders, who shall be staffed by a public defender with a position ranking of grade 9 of the recommendation rank, or grade 10 to 12 of the selection rank.
+
+A tenured public defender who has served with excellent performance for more than 15 years and whose qualifications are verified, may be promoted to grade12 of the selection rank.
+
+A public defender, who has served in a high court or its branch court, or in the Intellectual Property and Commercial Court, for more than four years, and who is transferred to a district court or its branch court with excellent performance and whose qualification is verified, may be promoted to grade 12 of the selection rank.
+
+The seniority of a public defender, whose seniority accrues from serving as a public defender in a high court or its branch court, and/or the Intellectual Property and Commercial Court, shall be combined for overall seniority calculation.
+
+The review processes pertinent to the provisions in paragraphs 2 and 3 shall be determined by the Judicial Yuan.
+
+For those who have the qualifications to practice law, the duration of time spent serving as a public defender shall accrue towards their seniority of legal practice.
+
+### Article 17-1
+
+A district court shall set up a Judicial Affairs Officers' Office, if there are two or more judicial affairs officers in an office, there may be one position of the Director of Judicial Affairs Officers.
+
+Judicial affairs officers should have position rankings of grades 7 to 9 of the recommendation rank; among the judicial affairs officers of the classification 1of district courts or their branches specified in the appendix of paragraph 1 of Article 11, two of them may be ranked in the 10 grade of the selection rank; the position of director of judicial affairs officers shall be staffed by an officer with a position ranking of grade 9 of the recommendation rank to grade 10 of the selection rank.
+
+For those who have the qualifications to practice law, the duration time spent serving as a judicial affairs officer shall accrue towards their seniority of legal practice.
+
+### Article 17-2
+
+(Affairs Handled by Judicial Affairs Officers)
+
+The following affairs are handled by Judicial Affairs Officers:
+
+\1. Matters concerning the return of bail bond, mediation proceedings, demand proceedings, security proceedings, the ruling on public summons proceedings, and the determination of litigation costs;
+
+\2. Matters concerning compulsory execution procedure, with the exceptions of arresting with a warrant, and detention;
+
+\3. Matters relating to non-litigation law and other non-litigation cases as provided by law;
+
+\4. Other matters as provided by law.
+
+A judicial affairs officer shall serve under the supervision of the judge, and consolidate key issues of a prosecution and defense, analyze document data, organize facts and legalissues, and produce reports.
+
+The scope of and time spent on matters, as described in every subparagraph of the first paragraph, by a judicial affairs officer shall be determined by the Judicial Yuan.
+
+### Article 18
+
+A district court shall establish an Investigation and Protection Office, staffed by investigation officers for juvenile affairs, protection officers for juvenile affairs, investigation officers for family affairs, psychological test specialists, psychological counselors, and assistants. If the total number of investigation officers for juvenile affairs, protection officers for juvenile affairs and investigation officers for family affairs is two or more, then there may be one position of the Chief Investigation and Protection Officer. If the total number is six or more, jobs may be divided into sections. The position of the section chief shall be served concurrently by an investigation officer for juvenile affairs, protection officer for juvenile affairs or investigation officer for family affairs. There will be no separate staffing for section chief.
+
+The position rankings of investigation officers for juvenile affairs, protection officers for juvenile affairs and investigation officers for family affairs are grades 7 to 9 of the recommendation rank; among the investigation officers for juvenile affairs, protection officers for juvenile affairs and investigation officers for family affairs of the classification 1 of district courts or their branches specified in the appendix of paragraph 1 of Article 11, two of them may be ranked in the 10 grade of the selection rank; the position ranking of the Chief Investigation and Protection Officer is grade 9 of the recommendation rank to grade 10 of the selection rank; the position rankings of psychological test specialists and psychological counselors are grades 6 to 8 of the recommendation rank; the position rankings of assistants are grades 4 to 5 of the elementary rank, and up to one half of the assistants may have the ranking of grade 6 of the recommendation rank.
+
+### Article 19
+
+(The Notary Public Office)
+
+A district court shall have a Notary Public Office, staffed by notaries public and assistants; if there are more than two notaries public in an office, then the position of Director of Notary Public Office shall be staffed. The position rankings for notaries public are grades 7 to 9 of the recommendation rank; the Director of Notary Public Office is grade 9 of the recommendation rank to grade 10 of the selection rank; assistants are grades 3 to 5 of the elementary rank.
+
+### Article 20
+
+(The Lodgment Office)
+
+A district court shall establish a Lodgment Office, staffed by a director and assistants. The position ranking of the director in a Lodgment Office is grade 9 of the recommendation rank, or grade 10 of the selection rank; assistants are grades 3 to 5 of the elementary rank, or grades 6 to 8 of the recommendation rank.
+
+The total number of assistants, as described in the preceding paragraph, shall not exceed one half of the total number of assistants of the same court.
+
+### Article 21
+
+(The Registration Office)
+
+A district court shall establish a Registration Office, staffed by a director and assistants. The position ranking of the director in a Registration Office is grade 9 of the recommendation rank, or grade 10 of the selection rank; assistants are grades 3 to 5 of the elementary rank, or grades 6 to 8 of the recommendation rank.
+
+The total number of assistants, as described in the preceding paragraph, shall not exceed one half of the total number of assistants of the same court.
+
+### Article 22
+
+(The Clerk's Office)
+
+A district court shall establish a Clerk's Office,staffed by a chief clerk with a position ranking of grade 9 of the recommendation rank to grade 10 of the selection rank to oversee administrative affairs under the supervision of the president, and staffed by 1st class clerks with position rankings of grades 8 to 9 of the recommendation rank; 2nd class clerks with position rankings of grades 6 to 7 of the recommendation rank; and 3rd class clerks with position rankings of grades 4 to 5 of the elementary rank. Each clerk manages records, documents, research assessments, general affairs, and provides information and litigation assistance. The Clerk's Office may be divided into sections and units. The position of a section chief shall be served concurrently by a 1st class clerk, and a unit chief shall be served concurrently by a 1st class clerk or a 2nd class clerk. There shall be no separate staffing for the positions of chief.
+
+The total number of the 1st class clerks, and the 2nd class clerks, as described in the preceding paragraph, shall not exceed one half of the total number of the 1st, 2nd and 3rd class clerks of the same court.
+
+### Article 23
+
+(The Staffing of Interpreters, Technical Specialists, Process Servers, and Bailiffs of District Courts, and their Position Rankings)
+
+A district court shall have 1st class interpreters with position rankings of grades 7 to 8 of the recommendation rank; 2nd class interpreters with position rankings of grades 6 to 7 of the recommendation rank; 3rd class interpreters with position rankings of grades 4 to 5 of the elementary rank; technical specialists with position rankings of grade 5 of the elementary rank or grades 6 to 7 of the recommendation rank; process servers with position rankings of grades 3 to 5 of the elementary rank; and clerk assistants and court attendants with position rankings of grades 1 to 3 of the elementary rank.
+
+The total number of the 1st class interpreters, and the 2nd class interpreters, as described in the preceding paragraph, shall not exceed one half of the total number of the 1st, 2nd and 3rd class interpreters of the same court.
+
+To manage court duties, enforce order, provide security, transfer prisoners and handle other judicial police affairs, a district court shall staff bailiff positions including: a chief bailiff with position ranking of grade 5 of the elementary rank, or grade 6 to 7 of the recommendation rank; a deputy bailiff with position ranking of grade 4 to 5 of the elementary rank, or grade 6 of the recommendation rank; and a bailiff with position rankings of grades 3 to 5 of the elementary rank. Its staff management requirements shall be determined by the Judicial Yuan and the Executive Yuan.
+
+As the requirement for interpretation arises, a district court shall contract interpreters of aboriginal languages, or other languages, with special arrangements made, depending upon the case; these contract details shall be determined by the Judicial Yuan.
+
+### Article 24
+
+(Staffing Structure)
+
+A district court shall have a Personnel Office, staffed by one director with position ranking of grade 8 to 9 of the recommendation rank, and one deputy director with position ranking of grade 7 to 9 of the recommendation rank; As required, assistants may be staffed pursuant to the law. The Personnel Office shall handle affairs relating to personnel management and audit, pursuant to the law.
+
+The Personnel Office of a municipal district court may be divided into units, with assistants serving concurrently in the required positions. There shall be no separate staffing for these positions. A district court with low case load may only staff personnel officers with position rankings of grade 5 of the elementary rank to grade 7 of the recommendation rank.
+
+### Article 25
+
+(Staffing Structure)
+
+A district court shall have an Accounting Office, and a Statistics Office, each staffed by a director with a position ranking of grade 8 to 9 of the recommendation rank; as required, assistants may be staffed in each office, pursuant to the law, to handle matters relating to annual budgets, accounting and statistics.
+
+The Accounting Office and the Statistics Office in a municipal district court may be divided into units with assistants serving concurrently in the required positions. There shall be no separate staffing for these positions. A district court with low case load may only staff accountants and statistics officers with position rankings of grade 5 of the elementary rank to grade 7 of the recommendation rank.
+
+### Article 26
+
+(Staffing Structure)
+
+A district court shall have an Information Management Office, staffed by one director with a position ranking of grade 7 to 9 of the recommendation rank, under the supervision of the president, to handle administrative affairs of the Information Management Office; and by information managers with position rankings of grades 6 to 7 of the recommendation rank; and by operators with position rankings of grades 3 to 5 of the elementary rank; As required, developers may be hired with position rankings of grades 6 to 8 of the recommendation rank, to handle matters relating to information processing.
+
+### Article 27
+
+A branch court of a district court shall have one president, to be served concurrently by a judge, to handle administrative affairs of the branch court.
+
+### Article 28
+
+(The President's Authority)
+
+The president of a district court may assign a judge from the main court to serve concurrently as a judge in a branch court.
+
+### Article 29
+
+(The Jurisdictions of Branch Courts)
+
+The jurisdictional instances of a branch court are identical to that of a district court.
+
+### Article 30
+
+(Applicable law of Branch Courts)
+
+The provisions of Articles 11through 26 shall apply mutatis mutandis to district courts' branch courts.
+
+## Chapter III High Courts
+
+### Article 31
+
+(The Establishment of High Courts)
+
+A province, municipality or special district shall establish a high court respectively. However, depending upon the geography of the environment and case load, branch courts of a high court may be added; or a joint branch court may be established; or a portion of its jurisdictional area may be transferred to another high court or its branch, not restricted by administrative divisions.
+
+### Article 32
+
+(The Jurisdictional Instances of High Courts)
+
+The jurisdictional instances of high courts are as follows:
+
+\1. The First Instance criminal cases relating to sedition, treason, or obstruction of the state's diplomacy;
+
+\2. Civil and criminal appeal cases filed against the first instance judgments delivered by the district court or its branch; However, if it is stipulated otherwise by law, such other provisions shall apply.
+
+\3. Appeal cases filed against the rulings delivered by the district court or its branch; however, if it is stipulated otherwise by law, such other provisions shall apply.
+
+\4. Other litigation cases as provided by law.
+
+### Article 33
+
+(The Classifications and Staffing of High Courts)
+
+The provisions shown in the appendix govern the classifications and staffing of high courts and their branches.
+
+The applicable classifications of and changes to high courts and their branches shall be determined by the Judicial Yuan.
+
+### Article 34
+
+A high court shall have judges and judges-in-probation.
+
+As required by the case load of a high court, the Judicial Yuan may transfer judges-in-training of a district court or its branches to serve in a high court, who shall to carry out matters such as case procedure review and substantive review, legal issue analysis, data collection, and judgment drafting under the orders of a judge.
+
+When necessary, a high court may set up a judicial assistant position, which shall be filled by various professionals employed or contracted in accordance with the relevant laws. A judicial assistant shall carry out matters such as case procedure review, legal issue analysis, and data collection under the orders of a judge.
+
+The period during which a judge-in-training is transferred to serve in a high court, shall be counted towards their seniority of a judge-in-training.
+
+For those who possess the qualifications to practice as lawyers, the period during which they serve as a judicial assistant shall be counted towards their seniority of legal practice in accordance with the third paragraph.
+
+The provisions of Article 12 Paragraph 4 shall apply mutatis mutandis to high courts.
+
+### Article 35
+
+A high court shall have one president, to be served concurrently by a judge, to handle the administrative affairs of the entire court.
+
+### Article 36
+
+A high court shall establish civil court divisions and criminal court divisions. The number of court divisions is determined by the case load. If necessary, a professional court division may be established. The position of division chief judge of each court division, in addition to being served concurrently by the judge who also serves as the president, shall be served concurrently by the other judges, to oversee various affairs of the court.
+
+### Article 37
+
+A high court shall establish a Public Defenders' Office staffed by public defenders with position rankings of grades 10 to 11 of the selection rank, or grade 9 of the recommendation rank. If there are two or more public defenders in an office, then the position of the Director of Public Defenders shall be staffed by a public defender with position ranking of grade 10 to 12 of the selection rank.
+
+A public defender, as mentioned in the preceding paragraph, who serves continuously with excellent performance for more than four years and whose qualifications are verified, may be promoted to grade 12 of the selection rank, and whose promotion qualifications are on file pursuant to the provisions of Article 17 Paragraphs 2 and 3 of this Act, and Article 11 Paragraphs 2 and 3 of the Juvenile and Family Court Organization Act, may be promoted to grade 12 of the selection rank.
+
+The seniority of a public defender, as mentioned in the preceding paragraph, whose seniority accrued from serving as a public defender in a branch court of a high court, and/or the Intellectual Property and Commercial Court, shall be combined for the overall seniority calculation.
+
+The review processes pertinent to the provisions of paragraph 2 shall be determined by the Judicial Yuan.
+
+### Article 38
+
+(The Clerk's Office)
+
+A high court shall establish a Clerk's Office, staffed by a chief clerk with a position ranking of grade 9 of the recommendation rank to grade 11 of the selection rank, to oversee administrative affairs under the supervision of the president, and staffed by 1st class clerks with position rankings of grades 8 to 9 of the recommendation rank; 2nd class clerks with position rankings of grades 6 to 7 of the recommendation rank; and 3rd class clerks with position rankings of grades 4 to 5 of the elementary rank. Each clerk manages records, documents, research assessments, general affairs, and provides information and litigation assistance. The Clerk's Office may be divided into sections and units. The position of a section chief shall be served concurrently by a 1st class clerk, and a unit chief shall be served concurrently by a 1st class clerk or a 2nd class clerk. There shall be no separate staffing to fill these positions.
+
+The total number of the 1st class clerks, and the 2nd class clerks, as described in the preceding paragraph, shall not exceed one half of the total number of the 1st, 2nd and 3rd class clerks of the same court.
+
+### Article 39
+
+(The Staffing of Interpreters, Technical Specialists, and Process Servers of High Courts, and their Position Rankings)
+
+A high court shall have 1st class interpreters with position rankings of grades 8 to 9 of the recommendation rank; 2nd class interpreters with position rankings of grades 6 to 7 of the recommendation rank; 3rd class interpreters with position rankings of grades 4 to 5 of the elementary rank; technical specialists with position rankings of grade 5 of the elementary rank or grades 6 to 7 of the recommendation rank; process servers with position rankings of grades 3 to 5 of the elementary rank; and clerk assistants and court attendants with position rankings of grades 1 to 3 of the elementary rank.
+
+The total number of the 1st class interpreters, and the 2nd class interpreters, as described in the preceding paragraph, shall not exceed one half of the total number of the 1st, 2nd and 3rd class interpreters of the same court.
+
+The provisions of Article 23 paragraphs 3 and 4 shall apply mutatis mutandis to high courts and their branch courts.
+
+### Article 40
+
+(The Personnel Office)
+
+A high court shall have a Personnel Office, staffed by one director with position ranking of grade 10 of the selection rank, one deputy director with position ranking of grade 9 of the recommendation rank or grade 10 of the selection rank; section clerks with position rankings of grade 4 to 5 of the elementary rank or grades 6 to 7 of the recommendation rank, of which the number of recommendation rank section clerks shall not exceed one third of the total number of section clerks of the same court. The Personnel Office shall handle affairs relating to personnel management and audit, pursuant to the law, and may be divided into sections. The position of section chief is grade 9 of the recommendation rank.
+
+### Article 41
+
+(The Accounting Office and the Statistics Office)
+
+A high court shall have an Accounting Office, and a Statistics Office, staffed by one director respectively with position ranking of grade 10 of the selection rank. As required, assistants may be staffed in each office, pursuant to the law, to handle matters relating to annual budgets, accounting and statistics, and the offices may be divided into sections. The position of section chief is grade 9 of the recommendation rank.
+
+### Article 42
+
+(The Information Management Office)
+
+A high court shall have an Information Management Office, staffed by one director with position ranking of grade 10 of the selection rank, under the supervision of the president, and handle administrative affairs of the Information Management Office; and by information managers with position rankings of grades 6 to 7 of the recommendation rank; and by operators with position ranking of grades 3 to 5 of the elementary rank. As required, section chiefs, and developers may be staffed, where the position ranking of section chief is grade 9 of the recommendation rank, and that of developers are grades 6 to 8 of the recommendation rank, to handle matters relating to information processing.
+
+### Article 43
+
+A branch court of a high court shall have one president, to be served concurrently by a judge, to handle administrative affairs of the branch court.
+
+### Article 44
+
+(The President's Authority)
+
+The president of a high court may assign judges from the main court to serve concurrently as a judge in a branch court.
+
+### Article 45
+
+(The Jurisdictions of Branch Courts)
+
+The jurisdictions of a branch court are identical to that of a high court.
+
+### Article 46
+
+(Applicable law of Branch Courts)
+
+The provisions of Articles 34 through 42 shall apply mutatis mutandis to high courts' branch courts.
+
+## Chapter IV The Supreme Court
+
+### Article 47
+
+(The Establishment of Supreme Court)
+
+The Supreme Court shall be established at the location of the central government.
+
+### Article 48
+
+(The Jurisdictional Instances of Supreme Court)
+
+The jurisdictional instances of Supreme Court are as follows:
+
+\1. Civil and criminal appeal cases filed against the first instance judgments delivered by the high court or its branch;
+
+\2. Civil and criminal appeal cases filed against the second instance judgments delivered by the district court or its branch;
+
+\3. Appeal cases filed against the rulings delivered by the high court or its branch;
+
+\4. Extraordinary Appeal cases;
+
+\5. Other litigation cases as provided by law.
+
+### Article 49
+
+(The Staffing of Supreme Court)
+
+The provisions shown in the appendix govern the staffing of the Supreme Court.
+
+### Article 50
+
+(The President)
+
+The Supreme Court shall have one president by special appointment to handle administrative affairs of the entire court and should serve concurrently as a judge.
+
+### Article 51
+
+The Supreme Court shall have judges. The Supreme Court shall establish civil court divisions and criminal court divisions. The number of civil court divisions and criminal court divisions is determined by the case load. Each court division shall have one division chief judge, the position of which, in addition to being served concurrently by the president, shall be served concurrently by the other judges, to oversee various affairs of the court division.
+
+The Judicial Yuan may transfer judges of high courts, their lower courts, and their branches to serve in the Supreme Court, to carry out matters such as case procedure review and substantive review, legal issue analysis, data collection, and judgment drafting under the orders of a judge.
+
+When necessary, the Supreme Court may set up a judicial assistant position, which shall be filled by various professionals employed or contracted in accordance with the relevant laws. A judicial assistant shall carry out matters such as case procedure review, legal issue analysis, and data collection under the orders of a judge.
+
+The period during which a judge is transferred to serve in the Supreme Court, shall be counted towards their seniority of a judge.
+
+For those who possess the qualifications to practice as lawyers, the period during which they serve as a judicial assistant shall be counted towards their seniority of legal practice in accordance with the third paragraph.
+
+The provision of paragraphs 4 of Article 12 shall apply mutatis mutandis to the Supreme Court.
+
+### Article 51-1
+
+The Supreme Court, which has multiple installations of civil court or criminal court, shall establish a Civil Grand Chamber or a Criminal Grand Chamber to adjudicate legal disputes.
+
+### Article 51-2
+
+When any of the supreme civil courts, or criminal courts reviews a trial case, if the judgment-based legal opinion is deemed, after a review, dissenting with the antecedent legal opinion for the judgment, reasons should be stated in a ruling, and the case should be processed as follows:
+
+\1. A civil court case should be submitted to a Civil Grand Chamber for adjudication;
+
+\2. A criminal court case should be submitted to a Criminal Grand Chamber for adjudication.
+
+Before making a ruling for a case mentioned in the preceding paragraph, each of the supreme civil courts, or criminal courts should confer with the opinions of other courts with a letter of consultation. The consulting court shall reply in writing within 30 days; if no reply is received within 30 days, it is deemed to maintain the antecedent legal opinion for the judgment. Only after one of the consulting courts asserts a stand to maintain the antecedent legal opinion, can the court then make a ruling for the case, as mentioned in the preceding paragraph.
+
+### Article 51-3
+
+When any of the supreme civil courts, or criminal courts, reviews a trial case, if the judgment-based legal opinion is deemed, after a review, significant in general principle, reasons should be stated in a ruling, and the case should be submitted to the Civil Grand Chamber, or Criminal Grand Chamber for adjudication.
+
+### Article 51-4
+
+During a trial in any of the supreme civil courts, or criminal courts, if there are legal opinions in which the parties consider significant enough to sway the judgment, are dissenting with the antecedent judgment opinions held by the civil court, or criminal court, or are significant in general principle, the parties may indicate the following information in a written statement, and then file a motion with the civil court, or the criminal court, that accepted the case, and in turn, to submit the case with a ruling to the Civil Grand Chamber, or the Criminal Grand Chamber, for judgment.
+
+\1. Legal provisions involved;
+
+\2. The judgment that derives from dissenting opinions, or the specific contents of the legal opinion that are significant in general principle;
+
+\3. The impact of the said dissenting opinions, or the opinions of general significance, on the outcome of the judgment;
+
+\4. The legal opinions held by the movant.
+
+The parties, other than the prosecutor, shall retain a lawyer as the agent or defense attorney for said motion, as mentioned in the preceding paragraph. However, this provision does not apply, if the movant of the civil action declares that the condition, as stipulated in Article 466-1 Paragraph 1 proviso, and Paragraph 2 of the Taiwan Code of Civil Procedure, exists.
+
+Any one court of the supreme civil courts, or criminal courts, that accepts the motion as described in the first paragraph, may rule to reject the motion, if it deems that the motion is not in compliance with legal procedures, or if it should not be legally permitted.
+
+### Article 51-5
+
+The court submitting the case may state reasons in a ruling and withdraw the submitted case prior to the conclusion of oral arguments in the Grand Chamber, if and when the status of the said legal dispute has rendered it unnecessary.
+
+Before the Grand Chamber announces its ruling, it is possible to state the reasons in a ruling and withdraw the submitted case, if and when there is no need to unify the opinions about the legal dispute concerned.
+
+### Article 51-6
+
+The judgment for legal disputes in the Civil Grand Chamber or the Criminal Grand Chamber shall be conducted by a collegial panel of eleven judges. The positions of presiding judges of the Civil Grand Chamber and the Criminal Chamber shall be assumed by the President of the Supreme Court and a division chief judge assigned by the President.
+
+The panel of judges of the Civil Grand Chamber or the Criminal Grand Chamber is composed of one judge as assigned by the court submitting the case and nine judges elected by ballot from civil court divisions or criminal court divisions.
+
+Each court division should have at least one judge as an elected judge of the Grand Chamber.
+
+### Article 51-7
+
+The term of office for the presiding judge of the Grand Chamber, assigned by the president, as mentioned in paragraph 1 of the preceding Article, and the elected judges of the Grand Chamber, as mentioned in paragraph 2 of the preceding Article, is two years. The candidates for elected judges and substitutes are selected by a secret ballot in a judge meeting, from the entire board of judges of civil court divisions or criminal court divisions, prioritized by the number of votes from high to low, and in compliance with the method as mentioned in the provisions of paragraph 3 of the preceding Article.
+
+If the president, or the presiding judge as assigned by the president, is absent or is not available to serve as the presiding judge for any reason, the vacancy shall be filled by a substitute judge, as mentioned in the preceding paragraph, and the most senior member of the division chief judges of the Grand Chamber shall serve as the presiding judge; if no division chief judge is available, the most senior court judge, prioritized by experience, shall fill the vacancy; if more than one judge has the same seniority by experience, the judge with the most seniority, prioritized by age, shall serve the position. If an elected judge of the Grand Chamber is absent or not available to serve as the judge for the Civil Grand Chamber or the Criminal Grand Chamber, the vacancy shall be filled by a substitute judge, as mentioned in the preceding paragraph.
+
+If the assigned judge of the court submitting the case, as mentioned in paragraph 2 of the preceding Article, is absent or is not available to serve as a judge of the Civil Grand Chamber or the Criminal Grand Chamber, the court submitting the case shall assign another judge to serve the position.
+
+When there is a change of judges due to a reelection in the Civil Grand Chamber or the Criminal Grand Chamber, legal disputes under review by the Civil Grand Chamber or the Criminal Grand Chamber, shall remain with the same Civil Grand Chamber or Criminal Grand Chamber, until the review has reached its conclusion. If a judge of the said Civil Grand Chamber or Criminal Grand Chamber, is absent or is not available to serve as the judge, the position shall be filled by a substitute judge, who was selected at the time the legal dispute was submitted to the Civil Grand Chamber or the Criminal Grand Chamber.
+
+If the recusal at the judgment of Grand Chamber by a judge of the Grand Chamber who was previously involved in the judgment of the case submitted by the court before the rehearing will render the court without any member from the Grand Chamber, the recusal will not be necessary.
+
+The request for recusal of a judge in the Grand Chamber shall be ruled by a collegial panel of the Grand Chamber.
+
+When the aforesaid ruling prohibits the judge whose recusal is requested from participating, the candidate for substitution shall be based on the provisions in paragraph 2 and paragraph 3 or the substitute will be appointed. The substation shall end on the judgment day of the case for which the recusal is requested.
+
+When the president, the presiding judge of the Grand Chamber appointed by the president or a judge of the Grand Chamber is absent, the substitute shall serve until the end of the original tenure.
+
+When the presiding judge or any judge of the Grand Chamber is unable to serve due to circumstances, the substitute or the appointed candidate shall serve the tenure for the Grand Chamber's duty until the conclusion of the circumstances. However, the substitute shall serve until the expiry of the original tenure if the remaining tenure is less than three months.
+
+### Article 51-8
+
+When adjudicating legal disputes, the Civil Grand Chamber or the Criminal Grand Chamber, should conduct the oral arguments.
+
+The parties, other than the prosecutor, shall retain a lawyer as the agent or defense attorney to perform oral arguments, as mentioned in the preceding paragraph. The provisions of paragraph 3 of Article 474 of the Code of Civil Procedure shall apply mutatis mutandis to the hiring of agents ad litem for civil cases. If the accused in a criminal case has not retained a defense attorney, the presiding judge shall appoint a public defender or attorney to perform oral arguments for the accused.
+
+On the date of oral arguments, as referred to in the first paragraph, if the appellee of a civil case has not retained an agent ad litem, or the agent ad litem of one of the parties is not present, adjudication shall be decided after the agent ad litem of the other party makes their statements. If the agents ad litem of both parties are not present, the oral arguments will not be conducted. This provision applies when the defense attorney of the accused, in a criminal case, is not present, or private prosecutor of one of the parties is, or both parties, are not present.
+
+When the Civil Grand Chamber or the Criminal Grand Chamber, deems it necessary, the court may ex officio, or on a motion by the parties, their agents, or defense attorneys, select experts or scholars of specific professional legal issues to present their legal opinions in writing, or make statements during oral arguments.
+
+The persons who present statements, as described in the preceding paragraph, shall disclose the following information:
+
+\1. Whether or not, during the preparation or submission of relevant professional opinions or information, they had a delegation or cooperation relationship with the parties, interested parties, or their agents, or defense attorneys.
+
+\2. Whether or not, during the preparation or submission of relevant professional opinions or information, they have received monetary remuneration, or assistance, or its equivalent price or value, from the parties, interested parties, or their agents, or defense attorneys.
+
+\3. The identities of other people who provided monetary remuneration or assistance, and its price or value.
+
+### Article 51-9
+
+When adjudicating a legal dispute, the Civil Grand Chamber, or Criminal Grand Chamber, should document the main text and reasons on the ruling, and the said ruling should be pronounced within 30 days of the conclusion of arguments.
+
+Judges’ minority opinions, which are different from the majority opinions formed during the review period, after being recorded in the review book and submitted as a written record of the different opinions (minority report) prior to the pronouncement of a ruling, should be promulgated along with the ruling.
+
+### Article 51-10
+
+The ruling of a Civil Grand Chamber, or Criminal Grand Chamber, is legally binding on cases submitted by the submitting courts.
+
+### Article 51-11
+
+Unless otherwise prescribed by this Act, the provisions of Taiwan Code of Civil Procedure, and/or Code of Criminal Procedure, and/or other relevant regulations, that are not contradictory to the normative nature of Grand Chambers, shall also apply.
+
+### Article 52
+
+(The Clerk's Office)
+
+The Supreme Court shall establish a Clerk's Office, staffed by a chief clerk with position ranking of grade 11 to 13 of the selection rank, to oversee administrative affairs under the supervision of the president, and staffed by 1st class clerks with position rankings of grades 8 to 9 of the recommendation rank; 2nd class clerks with position rankings of grades 6 to 7 of the recommendation rank; and 3rd class clerks with position rankings of grades 4 to 5 of the elementary rank. Each clerk manages records, documents, research assessments and general affairs, and provides information and litigation assistance. The Clerk's Office may be divided into sections and units. The position of a section chief shall be served concurrently by a 1st class clerk, and a unit chief shall be served concurrently by a 1st class clerk or a 2nd class clerk. There shall be no separate staffing for a chief.
+
+The total number of the 1st class clerks, and the 2nd class clerks, as described in the preceding paragraph, shall not exceed one half of the total number of the 1st, 2nd and 3rd class clerks.
+
+### Article 53
+
+(The Staffing of Interpreters, Technical Specialists, and Process Servers of the Supreme Court, and their Position Rankings)
+
+The Supreme Court shall have 1st class interpreters with position rankings of grades 8 to 9 of the recommendation rank; 2nd class interpreters with position rankings of grades 6 to 7 of the recommendation rank; 3rd class interpreters with position rankings of grades 4 to 5 of the elementary rank; technical specialists with position rankings of grade 5 of the elementary rank or grades 6 to 7 of the recommendation rank; process servers with position rankings of grades 3 to 5 of the elementary rank; and clerk assistants and court attendants with position rankings of grades 1 to 3 of the elementary rank.
+
+The total number of the 1st class interpreters, and the 2nd class interpreters, as described in the preceding paragraph, shall not exceed one half of the total number of the 1st, 2nd and 3rd class interpreters.
+
+The provisions of Article 23 paragraphs 3 and 4 shall apply mutatis mutandis to the Supreme Court.
+
+### Article 54
+
+(The Personnel Office)
+
+The Supreme Court shall have a Personnel Office, staffed by one director with position ranking of grade 10 of the selection rank, one deputy director with position ranking of grade 9 of the recommendation rank or grade 10 of the selection rank; section clerks with position rankings of grade 4 to 5 of the elementary rank or grades 6 to 7 of the recommendation rank, of which the number of recommendation rank section clerks shall not exceed one third of the total number of section clerks. The Personnel Office shall handle affairs relating to personnel management and audits, pursuant to the law, and may be divided into units. The position of unit chief is served concurrently by a section clerk. There shall be no separate staffing for a chief.
+
+### Article 55
+
+(The Accounting Office and the Statistics Office)
+
+The Supreme Court shall have an Accounting Office, and a Statistics Office, each staffed by one director respectively, with position ranking of grade 10 of the selection rank. As required, assistants may be staffed in each office, pursuant to the law, to handle matters relating to annual budgets, accounting and statistics, and the offices may be divided into units. The position of unit chief is served concurrently by an assistant. There shall be no separate staffing for a chief.
+
+### Article 56
+
+(The Information Management Office)
+
+The Supreme Court shall have an Information Management Office, staffed by one director with position ranking of grade 10 of the selection rank, who serves under the supervision of the president and handles administrative affairs of the Information Management Office; and by developers with position rankings of grades 6 to 8 of the recommendation rank; and by information managers with position rankings of grades 6 to 7 of the recommendation rank; and by operators with position rankings of grades 3 to 5, to handle matters relating to information processing.
+
+### Article 57
+
+(deleted)
+
+### Article 57-1
+
+The applicability of precedent cases compiled by the Supreme Court, pursuant to the law, prior to the enactment of the amendment of this Act, on December 7, 2018, should be suspended, if the full text of the judgment is not available for reference.
+
+The precedents, in which the applicability has not been suspended prior to the stipulation of the preceding paragraph, have the same effect as the Supreme Court judgments that have not been selected as precedents.
+
+Within three years after the implementation of the amended Act on December 7, 2018, if there is doubt, that the precedents, or resolutions, on which the final and binding judgment of the people's case is based, are contradictory to the Constitution, the people may file a motion for Constitutional interpretations pursuant to the provisions of Article 5 Paragraph 1 Subparagraph 2 of the Judicial Yuan Justices Reviewing Cases Act.
+
+## Chapter V The Prosecutorial Agencies
+
+### Article 58
+
+All levels of courts and their branches shall have a corresponding prosecutors office or a branch office.
+
+The prosecutors office referred to in the preceding paragraph is divided into the following three levels:
+
+\1. The District Prosecutors Office.
+
+\2. The High Prosecutors Office.
+
+\3. The Supreme Prosecutors Office.
+
+### Article 59
+
+The prosecutors office of all levels and their branches shall have prosecutors. The Supreme Prosecutors Office shall have one Prosecutor General, and the other prosecutors offices and their branches shall each have one chief prosecutor; who shall oversee the various administrative affairs of their respective office.
+
+If there are six or more prosecutors in one prosecutors office of any level or their branches, the office may be divided into divisions; each division shall have one head prosecutor to supervise various affairs of the division.
+
+### Article 59-1
+
+（Deleted）
+
+### Article 60
+
+(The Authority of Prosecutors)
+
+The authority of prosecutors is as follows:
+
+\1. Implementing investigations, initiating public prosecutions, implementing prosecutions, assisting in private prosecutions, assuming private prosecutions, and commanding the execution of criminal judgments;
+
+\2. Implementing other duties as provided by law.
+
+### Article 61
+
+(Prosecutors' Relationship with the Court)
+
+Prosecutors exercise their authority independently from the court.
+
+### Article 62
+
+(Area Where Prosecutors Perform Their Duties)
+
+Prosecutors perform their duties within the area of jurisdiction of the Prosecutors' Office, to which each prosecutor belongs. However, the provisions do not apply, in case of an emergency or as otherwise stipulated by law.
+
+### Article 63
+
+The Prosecutor General shall, pursuant to the provisions of this Act and other laws, command and supervise prosecutors of the Supreme Prosecutors Office as well as prosecutors in the High Prosecutors Offices, their lower Offices and branches.
+
+Chief prosecutors shall, pursuant to the provisions of this Act and other laws, command and supervise prosecutors within their assigned prosecutors office and of its subordinate offices.
+
+Prosecutors shall comply with the orders of supervising commander as described in the preceding two paragraphs.
+
+### Article 63-1
+
+To handle cases of major corruption, economic crimes, and severe crimes against social order, the High Prosecutors Offices, their lower offices and branches may, as required, temporarily transfer professional personnel of relevant agencies to assist in investigations.
+
+When performing duties, as described in the preceding paragraph, prosecutors of the High Prosecutors Offices, their lower offices and branches may exercise the authority of their individual hierarchies in accordance with the assignment of chief prosecutor of the Taiwan High Prosecutors Office, or the Prosecutor General, without the restrictions of such stipulations as provided in Article 62.
+
+The provisions of this Article, amended on November 18, 2016, shall be implemented on January 1, 2017.
+
+### Article 64
+
+(Transfer of Prosecutorial Affairs)
+
+The Prosecutor General or a chief prosecutor may personally handle matters being processed by prosecutors under his command and supervision, and may transfer such matters to other prosecutors under his command.
+
+### Article 65
+
+Chief prosecutors of the High Prosecutors Offices and the District Prosecutors Offices may assign prosecutors from their individual offices to perform concurrently the duties of the prosecutors of their branches.
+
+### Article 66
+
+The position of Prosecutor General of the Supreme Prosecutors Office is by special appointment.
+
+The Prosecutor General of the Supreme Prosecutors Office is nominated and appointed by the President with the approval of the Legislative Yuan. The position carries a term limit of four years, and the appointee cannot be re-appointed.
+
+The Prosecutor General of the Supreme Prosecutors Office is not required to appear for inquiries at the Legislative Yuan, except for annual budget or legal cases.
+
+If the post of Prosecutor General of the Supreme Prosecutors Office is vacant for any reason or if the Prosecutor General is unable to fulfill the required job functions, the President shall submit a new candidate within three months from the date of such an issue. The post shall be appointed after the approval of the Legislative Yuan. The four-year term is re-started, and the office holder cannot be re-appointed.
+
+If the Prosecutor General of the Supreme Prosecutors Office was a judge or a prosecutor at the time of his/her appointment, he/she may resume the position of a judge or a prosecutor after serving the post.
+
+A month before the term of the Prosecutor General of the Supreme Prosecutors Office expires, the President shall act pursuant to the provisions of paragraph 2.
+
+### Article 66-1
+
+The Ministry of Justice may transfer prosecutors, prosecutors-in-probation or prosecutors-in-training of High Prosecutors Offices, their lower Offices, and their branches to serve in the Supreme Prosecutors Office, under the supervision of prosecutors to handle matters relating to trial proceedings review, legal issue analysis, data collection, and document drafting.
+
+The Ministry of Justice may transfer prosecutors-in-probation or prosecutors-in-training of District Prosecutors Offices or their branches to serve in High Prosecutors Offices or their branches, under the supervision of prosecutors to handle matters relating to trial proceedings review, legal issue analysis, data collection, and document drafting.
+
+The Ministry of Justice may transfer prosecutors-in-training to serve in the District Prosecutors Offices or their branches, under the supervision of prosecutors to assist in handling matters relating to trial proceedings review, legal issue analysis, data collection, and document drafting.
+
+The duration, in which prosecutors, prosecutors-in-probation or prosecutors-in-training are transferred to serve in other offices, as described in the preceding three paragraphs, shall accrue towards the seniority of a prosecutor, prosecutor-in-probation or prosecutor-in-training, respectively.
+
+### Article 66-2
+
+The prosecutors offices of all levels and their branches shall each establish a Prosecuting Investigators Division, staffed by prosecuting investigators; if there are two or more prosecuting investigators in one Division, a head prosecuting investigator shall be staffed. The Division may, depending on the requirements of cases, be divided into sections, and each section shall have a section chief that is served concurrently by a prosecuting investigator, without separate staffing for the chief positions.
+
+The position rankings of prosecuting investigators are grades 7 to 9 of the recommendation rank. Two of the prosecuting investigators of the classification 1of District Prosecutors Offices and their branches, as listed in the appendix of paragraph 1 of Article 73, may have the position rankings of grade 10 of the selection rank. A head prosecuting investigator shall have the position ranking of grade 9 of the recommendation rank, or grade 10 of the selection rank.
+
+### Article 66-3
+
+(Affairs Handled by Prosecuting Investigators)
+
+The following affairs are handled by prosecuting investigators under the command of prosecutors:
+
+\1. Implement searches, seizures, inspections orexecutearrests with a warrant;
+
+\2. Question a plaintiff, informer, defendant, witness or an expert witness;
+
+\3. Assist prosecutors in exercising their authority, as stipulated in the provisions of Article 60.
+
+When implementing the affairs as described in the first two subparagraphs of the preceding paragraph, a prosecuting investigator is deemed to have the same authority as a judicial police officer, as provided in Article 230 Paragraph 1 of the Code of Criminal Procedure.
+
+### Article 66-4
+
+A prosecuting investigator should be hired from candidates who possess one of the following qualifications:
+
+\1. Who passed the Prosecuting Investigator Examination, which is equivalent to the Senior Level of Civil Service Examination, or the Special Examination for Judicial Personnel;
+
+\2. Who passed the bar exam, and have the hiring qualifications of a recommendation rank position;
+
+\3. Who have served for more than three years as police officers, or as investigating personnel at the Ministry of Justice Investigation Bureau with excellent performance, and have the hiring qualification of a recommendation rank position;
+
+\4. Who have graduated from a public or duly recognized private university or an independent college, have served as a clerk in a court or a prosecutors office, handling criminal records for more than three years with excellent performance, and have the hiring qualifications of a recommendation rank position;
+
+When handling cases relating to the Criminal Code of the Armed Forces, or cases that involve affairs of the military, national and societal security, the prosecutors offices of all levels and their branches may, as required, request the transfer of personnel from the Ministry of National Defense who have more than three years of seniority as military law officers to handle prosecuting investigators' affairs. In such cases, the provisions of paragraph 2 of the preceding Article shall apply. The period of secondment shall not exceed four years. Matters relating to the secondment method, seniority, treatment, remuneration, performance, reward and discipline shall be determined by the Ministry of Justice and the Ministry of National Defense.
+
+A head prosecuting investigator shall have the same hiring qualifications as that of a prosecuting investigator and the position ranking qualifications for the proposed post, as well as the required leadership ability.
+
+For those who have the qualifications to practice law, the duration time spent serving as a prosecuting investigator shall accrue towards their seniority of legal practice.
+
+### Article 66-5
+
+A district prosecutor's office may set up a prosecutorial assistant position, which may be filled by various professionals employed or contracted in accordance with the relevant laws. A prosecutorial assistant shall carry out matters such as case procedure review, legal issue analysis, and data collection under the orders of the prosecutor.
+
+For those who possess the qualifications to practice as lawyers, the period during which they serve as a prosecutorial assistant shall be counted towards their seniority of legal practice in accordance with the preceding paragraph.
+
+Matters concerning personnel selection and appointment, training, operations, managing and performance evaluation of a prosecutorial assistant shall be as prescribed by the Ministry of Justice.
+
+### Article 67
+
+The District Prosecutors Offices and their branches shall establish Probation Officers Offices, staffed by probation officers, clinical psychologists or counseling psychologists, and assistants. If there are two or more probation officers in one office, a chief probation officer position shall be staffed; if there are six or more probation officers, the office may be divided into sections. The position of the section chief shall be served concurrently by a probation officer with no separate staffing for a chief.
+
+The position rankings of probation officers are grades 7 to 9 of the recommendation rank. Two of the probation officers of the classification 1of District Prosecutors Offices and their branches, as listed in the appendix of paragraph 1 of Article 73, may have the position ranking of grade 10 of the selection rank. Chief probation officers shall have the position ranking of grade 9 of the recommendation rank, or grade 10 of the selection rank; clinical psychologists shall have the position ranking of grade (3) of medical practitioner; counseling psychologists shall have the position ranking of grade (3) of medical practitioner; and assistants shall have the position rankings of grades 4 to 5 of the elementary rank, and one half of which may have grade 6 of the recommendation rank.
+
+### Article 68
+
+The High Prosecutors Offices, their lower Offices and branches shall have forensic physicians. If there are two or more forensic physicians in one office, a chief forensic physician shall be staffed. The position rankings of forensic physicians are grades 7 to 9 of the recommendation rank, and the chief forensic physician is grade 9 of the recommendation rank or grade 10 of the selection rank. However, forensic physicians of the District Prosecutors Offices and their branches may have the position ranking of grade 5 of the elementary rank.
+
+The High Prosecutors Offices, their lower Offices and branches shall have Inspectors with position rankings of grades 3 to 5 of the elementary rank, or grades 6 to 8 of the recommendation rank.
+
+### Article 69
+
+The provisions of Article 22, Paragraph 3 of Article 23, Article 38, and Article 52 shall apply mutatis mutandis to the District Prosecutors Offices and their branches, the High Prosecutors Offices and their branches, and the Supreme Prosecutors Office respectively.
+
+The High Prosecutors Offices, their lower Offices and branches, may establish Enforcement Sections to handle criminal enforcement matters, and each section may be divided into units. Section chief shall be served concurrently by the 1st class clerk, and unit chief shall be served concurrently by the 1st or 2nd class clerk. Neither chief position shall have separate staffing.
+
+The High Prosecutors Offices or their branches, may establish Detention Affairs Sections to handle administrative affairs relating to supervising detention centers and juvenile detention centers, and the Sections may be divided into units. One section chief with position ranking of grade 9 of the recommendation rank, section clerks with position rankings of grade 5 of the elementary rank or grades 6 to 7 of the recommendation rank, and clerks with position rankings of grades 1 to 3 of the elementary rank shall be staffed for each Section. Unit chief shall be served by a section clerk concurrently with no separate staffing.
+
+### Article 70
+
+The Supreme Prosecutors Office, the High Prosecutors Offices and their branches shall have 1st class interpreters with position rankings of grades 8 to 9 of the recommendation rank, 2nd class interpreters with position rankings of grades 6 to 7 of the recommendation rank, 3rd class interpreters with position rankings of grades 4 to 5 of the elementary rank, and assistant technical specialists with position rankings of grade 5 of the elementary rank or grades 6 to 7 of the recommendation rank.
+
+The District Prosecutors Office and their branches shall have 1st class interpreters with position rankings of grades 7 to 8 of the recommendation rank, 2nd class interpreters with position rankings of grades 6 to 7 of the recommendation rank, 3rd class interpreters with position rankings of grades 4 to 5 of the elementary rank, and assistant technical specialists with position ranking of grade 5 of the elementary rank or grades 6 to 7 of the recommendation rank.
+
+The total number of the 1st class interpreters, and the 2nd class interpreters, as described in the preceding two paragraphs, shall not exceed one half of the total number of the 1st, 2nd and 3rd class interpreters of the same prosecutors office.
+
+### Article 71
+
+The prosecutors office of all levels and their branches shall staff clerk assistants with position rankings of grades 1 to 3 of the elementary rank.
+
+### Article 72
+
+The provisions of Articles 24 through 26, Articles 40 through 42, Articles 54 through 56 shall apply mutatis mutandis to the District Prosecutors Offices and their branches, the High Prosecutors Offices and their branches, and the Supreme Prosecutors Office respectively.
+
+### Article 73
+
+The provisions shown in the appendix govern the classifications and staffing of the District Prosecutors Offices and their branches.
+
+The applicable classifications of and changes to each District Prosecutors Offices and their branches shall be determined by the Executive Yuan.
+
+### Article 74
+
+The provisions shown in the appendix govern the classifications and staffing of the High Prosecutors Offices and their branches.
+
+The applicable classifications of and changes to each High Prosecutors Offices and their branches shall be determined by the Executive Yuan.
+
+### Article 75
+
+The provisions shown in the appendix govern the staffing of the Supreme Prosecutors Office.
+
+### Article 76
+
+(The Allocation of Judicial Police)
+
+Prosecutors may allocate judicial police; the same rule applies when judges handle criminal cases.
+
+The regulations that govern the allocation of judicial police shall be stipulated separately.
+
+## Chapter VI The Judicial Year and Allocation of Assignments
+
+### Article 77
+
+(The Judicial Year)
+
+Each judicial year runs from January 1 through December 31 of each year.
+
+### Article 78
+
+The regulations that govern administrative procedures of all levels of courts and their branches, and the prosecutors offices of all levels and their branches, shall be determined respectively by the Judicial Yuan and the Ministry of Justice.
+
+### Article 79
+
+Before the end of a judicial year, courts of all levels and their branches shall hold a meeting, attended by the president, division chief judges, and judges, to determine the allocation of judicial assignments and the order of rotations for the following judicial year, pursuant to the provisions of this Act, the administrative procedures, and other applicable laws.
+
+The allocation method of annual judicial assignments for judges, who handle civil litigation, criminal litigation and other profession-specific cases, shall be determined separately by the Judicial Yuan.
+
+In this meeting, as described in the first paragraph, attendees shall also determine the sitting sequence of judges in collegial trials for the following judicial year.
+
+### Article 80
+
+(The Chairperson of Assignment Allocation Meetings)
+
+The president of the court shall hold the meetingas a chairperson, as described in the preceding article, and resolutions shall be decided by a majority vote. When there is a tie, the chairperson shall cast the vote to break the tie.
+
+### Article 81
+
+(The Procedure to Alter Assignment Allocations)
+
+If alterations are required to change the pre-determined assignment allocations, rotation orders, and judges' sitting sequences in collegial trials, due to increase or decrease of case load, or the number of judges, or other events, the president may consult with relevant division chief judges and judges to determine such alterations.
+
+### Article 82
+
+(The Interim Judge)
+
+If judges of district courts or their branches cannot perform duties for any reason, the president of the district court shall order a judge-in-training to assume the interim duties.
+
+If judges of high courts or district courts cannot perform duties for any reason, the president of the high court or district court shall transfer a judge from one of their branch courts to assume the interim duties.
+
+If judges of high courts or their branches cannot perform duties for any reason, the president of the high court shall transfer a judge from district courts or their branches to assume the interim duties.
+
+If a judge of the Supreme Court cannot perform duties for any reason, the president of the Supreme Court shall transfer a judge from high courts or their branches to assume the interim duties.
+
+The period of performing interim duties, as described in the preceding two paragraphs, shall not exceed 6 months.
+
+### Article 83
+
+All levels of courts and their branches shall issue periodical gazettes or use other appropriate methods to publish judgments. However, if it is stipulated otherwise by law, such other provisions shall apply.
+
+The publication, as mentioned in the preceding paragraph, may exclude the natural person's identification card number or other information that may easily identify the individual, with the exception of the natural person's name.
+
+The High Prosecutors Office, their lower Offices and branches shall publish indictments after the first instance judgment is published, and the provisions of the preceding two paragraphs shall apply.
+
+## Chapter VII The Commencement and Conclusion of a Trial and Courtroom Order
+
+### Article 84
+
+(Courtroom Location, Seating Setup and Courtroom Order)
+
+Trial proceedings shall be held within the premise of a judicial court. However, this provision does not apply, if stipulated otherwise by law.
+
+When a trial is held in a courtroom, seating should be arranged for the civil servants who implement the trial proceedings, the persons who perform duties pursuant to the law, litigants, and parties related to the litigation. The seating arrangements should follow the principle of equality of litigant parties.
+
+Except for the judge(s) involved in a trial, or with the permission of the presiding judge, a person must stand up to make statements in court, and sit down after making the statements.
+
+When the presiding judge enters the courtroom and when the judgment is pronounced, everyone in the courtroom should stand up.
+
+The arrangement of courtroom seating and attendance regulations for the general public shall be determined by the Judicial Yuan.
+
+### Article 85
+
+(The Temporary Court)
+
+As required, high courts, their lower courts or branches may designate a location within their jurisdiction to hold a temporary hearing.
+
+In the case of the preceding paragraph, in addition to designating a judge from the main court, the presiding judge may also be filled by a branch court judge or a lower court judge.
+
+The regulations that govern the temporary court hearing shall be determined by the Judicial Yuan.
+
+### Article 86
+
+(Open Court)
+
+The argument of a suit and the pronouncement of a judgment shall be conducted in a public court session. However, when there are issues that may hinder national security, public order, or social values, a court may decide to deny public access.
+
+### Article 87
+
+(Declaration of Reasons for a Closed Court)
+
+When a closed court is required, the presiding judge shall declare the reasons for such a closure.
+
+In such a case, as mentioned in the preceding paragraph, the presiding judge may still allow the attendance of individuals who do not impede the case.
+
+### Article 88
+
+(The Presiding Judge's Command Authority in a Courtroom)
+
+The presiding judge has command authority over the commencement, conclusion and proceedings of a trial.
+
+### Article 89
+
+(The Presiding Judge's Authority to Maintain Order)
+
+During a court session, the presiding judge has the authority to maintain order.
+
+### Article 90
+
+(Prohibited Behavior during Court Sessions and Regulations Concerning Audio and Video Recordings)
+
+When the court is in session, silence should be maintained. Behaviors such as loud conversations, clapping, filming, smoking, eating or other similar actions are prohibited.
+
+When the court is in session, unless stipulated otherwise by law, the audio session should be recorded. If necessary, the video session may be recorded.
+
+Without the permission of the presiding judge, persons attending the court session may not make audio or video recordings. Concerning unauthorized audio or video recordings, the presiding judge may order the deletion of such recordings.
+
+The sanction, as described in the preceding paragraph, shall not be challenged.
+
+### Article 90-1
+
+(Motions for the Court to Deliver the Contents of Audio and Video Courtroom Recordings; the Court may Reject or Restrict the Delivery)
+
+The parties and persons, who are permitted by law to read case documents by motions, may, for the purpose of defending or maintaining their legal interests, pay the required fees, and motion for the court to deliver the contents of audio and video courtroom recordings from the day following a particular courtroom session until 6 months after the judgment is finalized. However, for cases that have a sentence judgment of death penalty, life imprisonment, or more than ten years of imprisonment, the motion for recordings may be filed up to two years after the final judgment is delivered.
+
+In the case of the preceding paragraph, if the reading, copying or filming of case documents should be denied or restricted, pursuant to the law, the court may deny the delivery of, or restrict particular contents of such audio and video courtroom recordings.
+
+In the case of the first paragraph, if the case involves national secrets, the court may deny or restrict the access to contents of such audio and video recordings; and if the case involves matters that should be kept confidential pursuant to other laws and regulations, the court may restrict the access to contents of such audio and video recordings.
+
+The rulings of the preceding three paragraphs, concerning the denial or restriction of accessed contents, are appealable.
+
+### Article 90-2
+
+Audio and video courtroom recordings should be kept for three years and six months after the judgment is finalized, after which such recordings can be deleted. However, in cases where a death penalty or life imprisonment judgment is finalized, the preservation duration of such recordings shall be governed by provisions of the Archives Act.
+
+### Article 90-3
+
+(Methods Pertaining to Audio and Video Courtroom Recording and the Preservation and Usage of Such Recordings Shall be Determined by the Judicial Yuan)
+
+Methods pertaining to audio and video courtroom recording, and the preservation and usage of such recordings, as described in the preceding three paragraphs, shall be determined by the Judicial Yuan.
+
+### Article 90-4
+
+(Persons who are in Possession of Audio and Video Courtroom Recordings are Prohibited from Distributing, Public Broadcasting, or Using Improperly; Penalties for Such Violations)
+
+Persons who are in possession of audio and video courtroom recordings shall not distribute, publicly broadcast, or use such contents for improper purposes.
+
+To persons who violate the provisions as described in the preceding paragraph, the jurisdictional district court of the location of the person's domicile, residence, business, or office shall issue an administrative fine between NT$30,000 and NT$300,000. However, if it is otherwise specifically stipulated by law, such other provisions shall apply.
+
+The procedures for implementing penalties and remedies, as stated in the preceding paragraph, shall be governed by the provisions of relevant laws and regulations.
+
+### Article 91
+
+(The Sanction and its Effect for Obstructing the Court)
+
+If a person obstructs courtroom order or exhibits other inappropriate behavior, the presiding judge may prohibit the person from entering, or order such a person to leave, the courtroom; if necessary, the person may be detained until the session is adjourned.
+
+The sanction, as described in the preceding paragraph, shall not be challenged.
+
+The provisions of the preceding two paragraphs apply mutatis mutandis when the presiding judge performs his duties outside the courtroom.
+
+### Article 92
+
+(The Sanction of Agents or Defense Attorneys for Obstructing the Court)
+
+If a lawyer behaves inappropriately in language or action during his/her representation of a lawsuit or in defending a case, the presiding judge may issue warnings, or prohibit his/her representation or defense of that day of the court session. The same provisions apply to cases not represented by a lawyer, but an agent ad litem or a defender.
+
+### Article 93
+
+(The Origin of the Events Leading to Sanctions Issued by the Presiding Judge should be Recorded in the Transcript)
+
+When a presiding judge issues sanctions pursuant to the provisions of Article 90 Paragraph 3, Article 91 and Article 92, the judge should order that the origin ofthe events be recorded in the transcript.
+
+### Article 94
+
+(Applicable Law for Commissioned Judges and Assigned Judges)
+
+The provisions of Article 84 through Article 93, that are pertinent to presiding judges, shall apply mutatis mutandis to commissioned judges and assigned judges when performing presiding judge duties.
+
+### Article 95
+
+(Penalties for Violating Judge's Orders to Maintain Courtroom Order)
+
+Anyone, who violates orders, issued by the presiding judge, commissioned judge, or assigned judge, to maintain courtroom order, which lead to obstructing courtroom proceedings, and refuses to comply after being warned, shall receive a maximum penalty of 3 months' imprisonment, detention or a maximum fine of NT$30,000.
+
+### Article 96
+
+(Court Uniform)
+
+When performing duties in court, judges and clerks should wear uniforms. The same applies to prosecutors, public defenders and lawyers when performing their duties in court.
+
+The uniforms of the personnel mentioned in the preceding paragraph shall be determined by the Judicial Yuan and the Executive Yuan.
+
+## Chapter VIII Court Language
+
+### Article 97
+
+(The Language Used in a Trial)
+
+Mandarin should be used in trial proceedings.
+
+### Article 98
+
+(Examination with Interpreter's Translation or Written Format)
+
+If litigants, witnesses, expert witnesses, and other people relevant to the case are not familiar with Mandarin, the communications shall be assisted by interpreters. If a person is hearing or speech impaired, the person may choose, or be ordered, to be examined with or give statements in writing, in addition to having interpreter-assisted translation.
+
+### Article 99
+
+(Written Language of Litigation Documents)
+
+All litigation documents shall be written in Chinese. However, as required for reference, notations of dialects or foreign languages used should be included.
+
+### Article 100
+
+(Applicable Law for Prosecutorial Affairs)
+
+When handling prosecutorial affairs, provisions in the preceding three Articles apply.
+
+## Chapter IX The Review Discussion of a Judgment
+
+### Article 101
+
+(The Number of People in a Review Discussion)
+
+In a collegial judgment case, the reviewed decision should be determined by the prescribed number of judges as stipulated in the provisions of this Act.
+
+### Article 102
+
+(Chairman)
+
+The presiding judge shall be the chairperson for reviewing the judgment.
+
+### Article 103
+
+(Review Discussions are not Made Public)
+
+The review discussions of a judgment shall not be made public before the judgment is finalized.
+
+### Article 104
+
+(The Sequential Order for Comment)
+
+At the time of a review discussion, all judges shall present their opinions. Its sequential order begins with the judge of the least seniority. In the case of equal seniority, the younger judge speaks first, and the succession ends with the presiding judge.
+
+### Article 105
+
+(The Conclusion of a Review Discussion)
+
+The review discussion is decided by the opinion of a majority vote.
+
+When the discussion involves a figure amount, and judges' opinions are divided into three ways or more, with none of the opinions prevailing, the votes for the opinion that has the highest figure are added into the votes for the opinion with the second highest figure, and so forth, until a majority vote is reached.
+
+When the discussion involves criminal affairs, and judges' opinions are divided into three ways or more with none of the opinions prevailing, the votes for the opinion that is the least favorable to the defendant are added into the votes for the opinion that is the second least favorable to the defendant, and so forth, until a majority vote is reached.
+
+### Article 106
+
+(The Record and Confidentiality of the Review Discussion)
+
+At the time of the review, judges' opinions shall be recorded in the review book and shall be kept in strict confidentiality until the judgment of the case is finalized.
+
+Parties of the case, agents ad litem, defense attorneys, or former assistants may file a motion to view the judges' review opinions after the judgment is finalized. However, these opinions may not be copied, filmed or photocopied.
+
+## Chapter X The Interaction of Judicial Personnel
+
+### Article 107
+
+(Mutual Assistance of Courts)
+
+In handling judicial affairs, there should be cooperative assistance between the courts.
+
+### Article 108
+
+(Mutual Assistance of Prosecutors)
+
+Prosecutors should assist each other in performing their duties.
+
+### Article 109
+
+(Mutual Assistance of Clerks, Probation Officers, Process Servers, and Judicial Police)
+
+Clerks should assist each other on matters within the scope of their job authority; the same ethic applies to Probation Officers, Process Servers, and Judicial Police.
+
+## Chapter XI The Supervision of Judicial Administration
+
+### Article 110
+
+(The Administrative Supervision of All Levels of Courts)
+
+The following provisions stipulate the administrative supervision of all levels of courts:
+
+\1. The President of the Judicial Yuan supervises courts of all levels and their branches;
+
+\2. The President of the Supreme Court supervises the Supreme Court;
+
+\3. The President of a high court supervises the high court and its branches, in addition to its affiliated district courts and branches;
+
+\4. The President of a high court branch supervises the branch court and its affiliated district courts and their branches;
+
+\5. President of a district court supervises the district court and its branches;
+
+\6. The President of a district court branch supervises the branch court.
+
+### Article 111
+
+Supervision of the administration of the Prosecutors Offices at all levels shall be based on the following provisions:
+
+\1. The Minister of Justice shall supervise the Prosecutors Offices and their branch offices at all levels.
+
+\2. The Prosecutor General of the Supreme Prosecutors Office shall supervise the Supreme Prosecutors Office.
+
+\3. The Chief Prosecutor of the High Prosecutors Office shall supervise the High Prosecutors Office and its affiliated District Prosecutors Offices and their branch offices.
+
+\4. The Chief Prosecutor of the High Prosecutors Branch Office shall supervise the said Prosecutors Office and the District Prosecutors Offices and their branch offices within their jurisdiction.
+
+\5. The Chief Prosecutor of a District Prosecutors Office shall supervise the said Prosecutors Office and its branch offices.
+
+\6. The Chief Prosecutor of a District Prosecutors Branch Office shall supervise the said Prosecutors Office.
+
+### Article 112
+
+(Orders and Warnings)
+
+Those who have supervisory powers pursuant to the provisions of the preceding two Articles may impose the following sanctions on their supervised personnel:
+
+\1. Issue orders to urge attention on matters concerning job duties;
+
+\2. Issue warnings to persons who have neglected duties, abused their authority, or otherwise misbehaved;
+
+### Article 113
+
+(Disciplines)
+
+If the behavior of a person being supervised is as described in subparagraph 2 of the preceding Article, and the severity of the action is significant, or if the person with such a behavior does not heed supervisory warnings, the person's supervisor may process the matter in accordance with the Civil Servant Discipline Act.
+
+### Article 114
+
+(The Limitations of Supervision)
+
+The provisions of this chapter shall not affect the exercise of judicial power.
+
+## Chapter XII Supplementary Provisions
+
+### Article 114-1
+
+Current process servers, judicial police, clerk assistants, court attendants and other employees in all levels of courts and Prosecutors Offices, who were originally employed in accordance with the Employee Management Regulations, but who are without civil servant employment qualifications, may continue in their original posts until their resignations.
+
+### Article 114-2
+
+The District Court Prosecutors Office, High Court Prosecutors Office, the Supreme Court Prosecutors Office, High Court Prosecutors Office and its branch offices, the Intellectual Property Branch of the High Court Prosecutors Office, the Prosecutors Office of High Court and its lower courts and branches, the Prosecutors Office of District Courts and their branch offices, and the Prosecutors Office of all levels of courts and their branch offices, as referred to in the provisions of other laws and regulations, shall be renamed respectively, as the District Prosecutors Office, the High Prosecutors Office, the Supreme Prosecutors Office, the High Prosecutors Office and its branches, the Intellectual Property Branch of the High Prosecutors Office, the High Prosecutors Office and its lower Offices and branches, the District Prosecutors Offices and their branches, the Prosecutors Offices of all levels and their branches, starting from the implementation date of the amended Articles, May 8, 2018.
+
+### Article 115
+
+This Act is in effect on the date of promulgation.
+
+The provisions amended on May 27, 2016, shall come into effect on January 1, 2017.
+
+The provisions amended on December 7, 2018, shall come into effect six months after promulgation.
+
+The provisions amended on November 23, 2021, shall come into effect on the date of promulgation, except for the addition of Article 7-1 to Article 7-11, which shall be effective on January 4, 2022.
+
+The provisions amended on May 31, 2022, except for Articles 17, 17-1, 18 and 37 shall come into effect on the date of promulgation, shall come into effect on a date to be prescribed by the Judicial Yuan.
+
+## Attachments
+
+- [The Appendix of Article 11 of the Court Organization Act：Staff Quota of District Courts or Their Branch Courts.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008623)
+- [The Appendix of Article 11 of the Court Organization Act：Staff Quota of District Courts or Their Branch Courts.doc](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008624)
+- [Staff Quota of High Courts or Their Branch Courts (The Appendix of Article 33 of the Court Organization Act).pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008625)
+- [Staff Quota of High Courts or Their Branch Courts (The Appendix of Article 33 of the Court Organization Act).doc](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008626)
+- [Staff Quota of the Supreme Court (The Appendix of Article 49 of the Court Organization Act).pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008627)
+- [Staff Quota of the Supreme Court (The Appendix of Article 49 of the Court Organization Act).doc](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008628)
+- [The Appendix of Article 73：Staff Quota of District Prosecutors Offices or Their Branch Offices (The Appendix of Article 73 of the Court Organization Act).pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009117)
+- [The Appendix of Article 73：Staff Quota of District Prosecutors Offices or Their Branch Offices (The Appendix of Article 73 of the Court Organization Act).doc](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009118)
+- [The Appendix of Article 74：Staff Quota of High Prosecutors Offices or Their Branch Offices (The Appendix of Article 74 of the Court Organization Act).pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008631)
+- [The Appendix of Article 74：Staff Quota of High Prosecutors Offices or Their Branch Offices (The Appendix of Article 74 of the Court Organization Act).doc](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008632)
+- [The Appendix of Article 75：Staff Quota of the Supreme Prosecutors Office (The Appendix of Article 75 of the Court Organization Act).pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008633)
+- [The Appendix of Article 75：Staff Quota of the Supreme Prosecutors Office (The Appendix of Article 75 of the Court Organization Act).doc](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008634)
+
+## History
+
+\1. Promulgated on October 28, 1932
+
+\2. Amended on July 22, 1935
+
+\3. Amended on September 21, 1938
+
+\4. Amended on April 17, 1945
+
+\5. Amended on January 17, 1946
+
+\6. Amended on December 22, 1968
+
+\7. Amended on April 10, 1969
+
+\8. Amended on June 29, 1980
+
+\9. Amended on December 22, 1989
+
+\10. Amended on February 3, 1989
+
+\11. Amended on January 17, 2001
+
+\12. Amended on May 23, 2001
+
+\13. Amended on June 15, 2005
+
+\14. Amended on February 3, 2006
+
+\15. Amended on December 27, 2006
+
+\16. Amended on July 11, 2007
+
+\17. Amended on June 11, 2008
+
+\18. Amended on November 24, 2010
+
+\19. Amended on November 23, 2011
+
+\20. Amended on January 29,2014
+
+\21. Amended on February 4, 2015
+
+\22. Amended on July 1,2015
+
+\23. Amended on June 22, 2016
+
+\24. Amended on December 7, 2016
+
+\25. Amended on June 14, 2017
+
+\26. Amended on May 23, 2018
+
+\27. Amended on June 13, 2018
+
+\28. By Presidential Order Hua-Tsung(1)-Yi-Tzu No 10800001291 on January 4, 2019, the provisions of Article 3 and Article 115 are amended and promulgated; Articles 51-1 to 51-11, and 57-1 are added; and the provision of Article 57 is deleted; these provisions are enacted six month after their promulgation.
+
+\29. Amended on December 8, 2021
+
+\30. Amended on February 18, 2022
+
+\31. Amended on June 22, 2022
+
+\32. Amended on November 29, 2024

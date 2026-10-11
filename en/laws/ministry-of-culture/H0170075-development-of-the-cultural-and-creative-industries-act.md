@@ -1,0 +1,337 @@
+---
+title: "Development of the Cultural and Creative Industries Act"
+title_zh: "文化創意產業發展法"
+identifier: "H0170075"
+type: act
+law_level: "法律"
+category: "行政＞文化部＞文創產業目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2010-02-03
+last_amended: 2023-05-31
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=H0170075"
+retrieved: 2026-10-12
+---
+
+# Development of the Cultural and Creative Industries Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-culture/H0170075-development-of-the-cultural-and-creative-industries-act.md](../../../zh/laws/ministry-of-culture/H0170075-development-of-the-cultural-and-creative-industries-act.md)) is authoritative.
+
+## Chapter 1 General Principle
+
+### Article 1
+
+This Act is enacted to foster the development of Cultural and Creative Industries, to establish a social environment with abundant culture and creativity, to utilize the technology and create researches and developments, to strengthen talent cultivation of the Cultural and Creative Industries, and to actively exploit the domestic and overseas market.
+
+The development of Cultural and Creative Industries shall proceed pursuant to the provisions in this Act. If there exists more favorable provisions than the content of this Act, the said provisions shall apply.
+
+### Article 2
+
+To promote the Cultural and Creative Industries, the Government shall strengthen artistic creation and cultural preservation, reinforce the combination of culture and technology, emphasize on a balance development between cities, counties and regions, value local characteristics, elevate the citizens ’ capacity for cultural appreciation, and enhance the popularity of cultural art so to comply with the international trends.
+
+### Article 3
+
+The “ Cultural and Creative Industries ” referred to in this Act means the following industries that originate from creativity or accumulation of culture which through the formation and application of intellectual properties, possess potential capacities to create wealth and job opportunities, enhance the citizens ’ capacity for arts, and elevate the citizens ’ living environment:
+
+\1. Visual art industry
+
+\2. Music and performance art industry
+
+\3. Cultural assets application and exhibition and performance facility industry
+
+\4. Handicrafts industry
+
+\5. Film industry
+
+\6. Radio and television broadcast industry
+
+\7. Publication industry
+
+\8. Advertisement industry
+
+\9. Product design industry
+
+\10. Visual communication design industry
+
+\11. Designer fashion industry
+
+\12. Architecture design industry
+
+\13. Digital content industry
+
+\14. Creativity living industry
+
+\15. Popular music and cultural content industry
+
+\16. Other industries as designated by the central Competent Authority.
+
+The content and scope of the industries in the preceding paragraph are to be stipulated by the central Competent Authority in consultation with the central relevant competent authorities.
+
+### Article 4
+
+The “ Cultural and Creative Enterprise ” referred to in this Act means a legal entity, partnership, sole proprietorship or individual engaging in Cultural and Creative Industries.
+
+### Article 5
+
+“Competent authority” as referred to this Act shall mean the Ministry of Culture at the central government level, the municipal government at the directly-controlled municipality level, and the county/city level in counties/cities.
+
+### Article 6
+
+The central Competent Authority shall formulate a development policy for Cultural and Creative Industries and review and revise the policy every four years for the Executive Yuan ’ s approval so as to be the policy basis to promote the development of Cultural and Creative Industries.
+
+The central Competent Authority shall, in conjunction with the central authority in charge of the end enterprise concerned, establish a statistical scheme on the Cultural and Creative Industries and publish annual report on Cultural and Creative Industries every year.
+
+### Article 7
+
+To increase the application and commercialization of cultural content, and to spur the development of the cultural and creative industry, the government shall establish a dedicated agency to handle related business.
+
+### Article 8
+
+The Government shall endeavor to develop Cultural and Creative Industries, and secure the relevant and necessary funds.
+
+### Article 9
+
+Certain portion of the National Development Fund shall be withdrawn to invest in Cultural and Creative Industries.
+
+The regulations governing the review and approval of the investment in the preceding paragraph, withdrawal scheme, achievement index and the relevant matters are to be stipulated by the central Competent Authority in conjunction with the authority in charge of the end enterprise concerned.
+
+### Article 10
+
+The Government shall promote the concept that cultural creativity is valuable fully exploit and utilize cultural and creative assets, and further implement the related policies.
+
+When the economic utility of the expenditures spent by the Government on tangible or intangible cultural and creative assets exceeds two years, the amount of that expenditure shall be earmarked as an expense budget of capital items.
+
+Each central authority in charge of the end enterprise concerned shall stipulate varieties of incentive or measures of assistance to support public and private companies along with Cultural and Creative Enterprises, and to convert creative works and cultural and creative assets to actual production or application.
+
+### Article 10-1
+
+The government shall do its utmost to ensure the people’s right to access to cultural and creative activities and shall ensure that ticket distribution to artistic and cultural performances is regular.
+
+Those selling tickets for more than their face value or set price shall be liable, depending on the number of tickets, for a fine by the Competent Authority  of between 10 and 50 times the face value or set price of the ticket.
+
+Where fraudulent information is provided via computer or other equipment or other irregularities occur when purchasing tickets or obtaining claim tickets to artistic or cultural events, the penalty shall be a maximum three years’ imprisonment with possibility of parole, a fine of no more than NT$3 million, or both.
+
+The Competent Authority  may request that police agencies dispatch personnel to conduct investigations or crack down on the activities described in the preceding two Paragraphs.
+
+When the Competent Authority is informed of infractions under the second and third Paragraphs of this Article, in addition to keeping the identifying information of the informant strictly confidential, it may, at its discretion, offer a reward. Confidentiality of the identifying information of the informant is also to be maintained during any related lawsuit.
+
+Regulations governing scope of authority, processing time, confidentiality, informant rewards and other compliance matters concerning the processing of informant reports are to be drafted and issued by the central Competent Authority.
+
+### Article 11
+
+To nurture cultural and creative enterprise talents, the Government shall fully exploit and exercise the human resource of cultural creativities, integrate varieties of teaching and research resource, and encourage Cultural and Creative Industries to proceed with cooperation on research and talent cultivation between industries, government and academia.
+
+The Government may assist local governments, colleges and Cultural and Creative Enterprises to enrich cultural and creative talents, encourage the establishment of relevant developmental facility in respect of Cultural and Creative Industries, establish related courses, or proceed with creative experiments, creations, exhibitions and performances.
+
+## Chapter 2 Assistance, Reward and Subsidy scheme
+
+### Article 12
+
+The Competent Authority  and the central relevant competent authorities shall provide assistance, rewards, or financial support for the following:
+
+\1. Registration for conversion into judicial persons and related tax status.
+
+\2. Creation of products and services or research and development.
+
+\3. Startup incubation.
+
+\4. Creating a comprehensive system of agents.
+
+\5. Circulation and application  of intangible assets.
+
+\6. Improvement of management skills.
+
+\7. Application of  information technology.
+
+\8. Training of professionals and recruitment of foreign professionals.
+
+\9. Promotion of investment attraction efforts.
+
+\10. Cross-industry cooperation.
+
+\11. Market expansion.
+
+\12. International cooperation and exchanges.
+
+\13. Participation in domestic and foreign competitions.
+
+\14. Industry clusters.
+
+\15. Use of public real property.
+
+\16. Collection of industry and market information.
+
+\17. Promotion and dissemination of high-quality products and services from the cultural and creative industries.
+
+\18. Protection and application of intellectual  property rights.
+
+\19. Assistance with enlivening products and services from cultural and creative businesses.
+
+\20. Assisting the promotion of the regular distribution of tickets to artistic and cultural performances and ensuring an orderly marketplace.
+
+\21. Other matters pertaining to the promotion of the development of the cultural and creative industries.
+
+The central relevant competent authorities  shall draft and issue guidelines pertaining to the recipients of assistance, rewards, and financial support, as well as conditions, scope of applicability, application procedure, review criteria, the revocation or cancellation of financial support, and other matters.
+
+### Article 13
+
+To elevate the citizens ’ capacity for art and cultivate the popularities of cultural and creative activities, the Government shall provide schools which are below the senior high school level with artistic and cultural creativity appreciation courses and arrange for relevant educational activities.
+
+### Article 14
+
+To promote the consumption habits relating to arts and invigorate the Cultural and Creative Industries, the central Competent Authority may earmark budgets to subsidize students viewing and appreciation of artistic and cultural exhibition and performance, and issue and distribute tickets to artistic and cultural experience events.
+
+The target of the aforementioned subsidy and ticket distribution and the implementation regulations thereof are to be stipulated by the central Competent Authority.
+
+### Article 15
+
+The Government shall encourage the Cultural and Creative Enterprises to provide original products or services at favorable prices so to develop domestic Cultural and Creative Industries, and the price difference between the original price and the favored one are to be subsidized by the central Competent Authority.
+
+The identification and subsidy regulations regarding the original products or services scope in the preceding paragraph are to be stipulated by the central Competent Authority.
+
+### Article 16
+
+The central authorities in charge of the end enterprises concerned may reward or subsidy the public to provide suitable space, set up each kind of creation, incubation and exhibition and performance facility for usage by the Cultural and Creative Enterprises.
+
+The reward or subsidy regulations in the preceding paragraph are to be stipulated by the central authorities in charge of the end enterprises concerned.
+
+### Article 17
+
+When the Government procures cultural and creative products or services via the method of public selection, the creativity and arts of the cultural and creative products or services may be included as part of the evaluation factors.
+
+### Article 18
+
+The competent authorities in charge of the stations or the relevant facilities of public transportation systems shall preserve certain percentage of advertisement space at the said stations or on the relevant facilities as priority space for cultural and creative products or services. The advertisement space shall be offered at a favorable price. The percentage and usage fee thereof are to be stipulated by the Competent Authority.
+
+### Article 19
+
+The central Competent Authority shall coordinate with the related governmental departments, financial institutions, and credit guarantee institutions to establish an investment, loan, and credit guarantee scheme for the Cultural and Creative Enterprises, and shall provide favorable measures to induce the infusion of private funds to support those Cultural and Creative Enterprises in various operational stages to acquire their needed funds.
+
+The Government shall encourage business enterprises to invest in Cultural and Creative Industries so to facilitate the cross-field communication in the areas of operation strategy and management experience.
+
+### Article 20
+
+To encourage Cultural and Creative Enterprises to establish their own brands and actively cultivate the international markets, the central relevant competent authorities in charge of end enterprises concerned may coordinate with each of their overseas offices to assist the Cultural and Creative Enterprises in establishing international brand image, attending reputable international exhibitions and performances, competitions, expositions, cultural arts festivals, etc., expanding the related international markets, and promoting sales.
+
+### Article 21
+
+To foster the development of Cultural and Creative Industries, the Government may provide public cultural and creative assets that are under the custody and management of the Government, and such assets may include books, historical documentations, preserved cultural and historical relics or video and radio information, by leasing, authorizing or through other measures so long as it does not violate the relevant regulations on intellectual property right.
+
+The management authority that provides the public cultural and creative assets in accordance with the preceding paragraph shall create an inventory list on assets that are being provided to the public, and shall publicize the said inventory information in a suitable manner.
+
+The management authority may preserve a portion of the benefits gained through its compliance with the first paragraph and spend it on management maintenance, technology research and development, and talent cultivation. Such expenditures are exempted from the restriction set forth in Article 7 of National Property Act and local government regulations on public property management.
+
+If public cultural and creative assets are utilized for non-profit purpose, the management authority may provide the user with favorable prices.
+
+The regulations or municipal rules regarding the lease, authorization, benefit preservation and other relevant matters of public cultural and creative assets are to be stipulated by the central authorities in charge of the end enterprises concerned, municipality or county (city) competent authorities.
+
+### Article 22
+
+To assist in securing locations for cultivating and supporting artistic creators and their exhibition and performance, and when the required real estate is publicly owned but not for public use, such real estate may be directly leased by the management authority in charge after the approval of the relevant competent authorities in charge of the end enterprises concerned. Such lease is to be exempted from the restriction stipulated in Article 42 of National Property Act and local government regulations on leasing methods of public property management.
+
+### Article 23
+
+For a pledge on copyright originated from the Cultural and Creative Industries, the establishment, transfer, alteration, extinguishment or disposition restriction on that pledge may be registered with the copyright competent authority. If the pledge is not registered, such pledge will not be a valid defense against any bona fide third party. The foregoing provision will not apply if the pledge is extinguished by reason of a merger, or is extinguished by the extinguishment of the copyright or the guaranteed credit right.
+
+Any person may apply to review the preceding content registered.
+
+The registration regulation in the preceding first paragraph and the review regulation in the preceding second paragraph are to be stipulated by the Competent Authority under the Copyright Act.
+
+The copyright competent authority may appoint private institutions or groups to deal with the matters stipulated in the preceding first and second paragraphs.
+
+### Article 24
+
+If a copyright user uses its best effort but fails to obtain a valid authorization from the copyright owner due to either the identity or the location of the copyright owner being unknown, the user shall clarify the reason for its failure to obtain such valid authorization to the copyright competent authority. After the completion of an investigation conducted by the copyright competent authority and if as a result of the investigation the user has obtained the permission and authorization from the copyright competent authority, the user may utilize the work within the permitted scope if it has withdrawn the amount needed for usage remuneration.
+
+The copyright competent authority shall pronounce the authorization permission in the preceding paragraph with suitable method and publish it on the government report.
+
+The usage remuneration amount in the first paragraph shall be commensurate with the freely negotiated amount of reasonable and payable usage remuneration for a general work.
+
+A replica of cultural and creative products which is made by obtaining the authorization and permission in accordance with the first paragraph shall indicate the permission date, number and the qualification and scope of the permissible usage issued by the copyright competent authority.
+
+The regulations regarding the application of permission and calculation method of usage remuneration in the first paragraph and other matters which shall be complied with are to be stipulated by the Competent Authority under the Copyright Act.
+
+After obtaining the permitted authorization based on the first paragraph, if any inaccuracy on the application is found, the copyright competent authority shall revoke the permission.
+
+After obtaining the permitted authorization based on the first paragraph, if the user fails to utilize the work in compliance with the methods permitted by the copyright competent authority, the copyright competent authority shall rescind the permission.
+
+### Article 25
+
+The Government shall support in the establishment of cultural and creative villages, and shall as a priority assist core creative and independent workers to situate in the said villages. The Government shall, through the clustering effect by involving different groups, further promote the development of Cultural and Creative Enterprises.
+
+## Chapter 3 Tax Incentives
+
+### Article 26
+
+If a profit-seeking enterprise contributes and donates for the reasons stipulated in the following and in an amount that is below NTD 10,000,000 or ten percent of the amount of its income, such contribution and donation may be considered as expenses or losses of the year of payment that are exempted from the restriction in Sub-paragraph 2 of Article 36 of Income Tax Act:
+
+\1. Purchasing products or services originated by domestic Cultural and Creative Enterprises, and donating to the students or minority groups through schools, departments or other groups.
+
+\2. Cultural and creative activities held in distant regions.
+
+\3. Donating Cultural and Creative Enterprises to establish an incubation center.
+
+\4. Other matters identified by the central Competent Authority
+
+The implementation regulations in the preceding paragraph will be stipulated by the central Competent Authority and the central authorities in charge of the end enterprises concerned.
+
+### Article 27
+
+To enhance the creativity of Cultural and Creative Industries, companies may deduct or exempt from the payable tax by reason of their investment expense in research and development of cultural creativity and talent cultivation in accordance with relevant tax acts or other regulations.
+
+### Article 27-1
+
+To promote the development, production, and distribution of intellectual property related to Taiwan’s locally produced cultural content, companies or limited partnerships making a cash investment for a period of at least two years in a cultural and creative company or limited partnership within a defined scope and having been designated by the Executive Yuan as being in a nationally strategic cultural and creative industry, in so doing becoming the registered shareholder or partner of said cultural and creative company or limited partnership, may, every year for a period of five years, deduct 20 percent of the invested amount or cost of the shares in the cultural and creative company or limited partnership from their business tax. The total amount deducted every year may not exceed 50 percent of the total business income tax of the company or limited partnership.
+
+For cases wherein a company or limited partnership makes a cash investment in the aforementioned cultural and creative industry enterprise of a defined scope and this is approved by the central Competent Authority, where an investor has not deducted the total amount of its original investment within two years of the date of investment, it may, each year for a period of five years, deduct 20 percent of the investment amount from the total business income tax. The total amount deducted each year may not exceed 50 percent of the total business income tax of the company or limited partnership.
+
+For cash investments mentioned in the preceding two Paragraphs that involve venture capital companies or limited partnerships, shareholders or partners may, in line with the stipulations of the preceding two Paragraphs, consider the deductible amount based on their shareholding or investment amount percentage to calculate their deduction for investment. Where a venture capital business becomes the registered shareholder or partner of a cultural and creative business or limited partnership, or invests in a nationally strategic cultural and creative industry, for five years starting from the third year, it may deduct the calculated amount from the annual business income tax. The total amount deducted each year may not exceed 50 percent of the total business income tax.
+
+Where companies or limited partnerships combine the investment deductions defined in the preceding three Paragraphs or other investment deductions stipulated in other laws in the same year, the total amount deducted for investment may not exceed 50 percent of the total business income tax for that year. This limitation shall not apply where other laws stipulate that a given year is the last year where a deduction may be taken and therefore that there are no limits on deductible amounts.
+
+For Paragraphs 1 and 2, companies  or limited partnerships, and for Paragraph 3, venture capital companies , guidelines addressing the scope of use as well as eligibility criteria, deduction rate (percentage), application period, application procedure, methods of calculation, and other related matters concerning the investment deduction criteria, defined scope, cultural and creative company or limited partnership, nationally strategic cultural and creative industry shall be drafted by the central Competent Authority  in conjunction with the Ministry of Finance.
+
+The stipulations of Paragraph 1 through Paragraph 3 shall be in force for 10 years.
+
+### Article 27-2
+
+Where an individual makes a cash investment in a nationally strategic cultural and creative industry-related domestic, high-risk innovation company, or limited partnership of a defined scope whose establishment has been approved of by the central Competent Authority, and set up within two years in operation, and where the individual has obtained newly issued shares in or made a capital contribution to said firm or enterprise and has not yet had such a status for a full two years, the investor may, prior to the end of the two-year period, deduct up to 50 percent of the investment amount from his/her total income tax.
+
+Cases of individuals making a cash investment in cultural and creative industries as in the preceding Paragraph of a defined scope and approved of by the central Competent Authority  where the National Development Fund under the Executive Yuan is a co-investor and where, for the same case, investment in a single year reaches NT$500,000 and continues for a second year, such individuals may deduct up to 50 percent of the investment amount from their personal income tax.
+
+Where, in a single year, an individual takes the investment deductions stipulated in the preceding two Paragraphs and special investment deductions defined in other laws, the total deduction taken in a given year may not exceed NT$3 million.
+
+For Paragraphs 1 and 2 concerning individuals’ investment deduction, guidelines addressing the scope of the terms high-risk innovation company, limited partnership, case involving a nationally strategic cultural and creative industry; as well as conditions, deduction rate (percentage), application period, application procedure, methods of calculation, and other related matters shall be drafted by the central Competent Authority  in conjunction with the Ministry of Finance.
+
+The stipulations of Paragraph 1 and Paragraph 2 shall be in force for 10 years.
+
+### Article 27-3
+
+Those who have already elected to use other tax incentives provided for in other laws may not also apply the tax incentives of this Act.
+
+### Article 28
+
+If the machinery and equipment imported from abroad by a cultural and creative enterprise for its own use are not currently manufactured by local manufacturers as specifically verified by the Ministry of Economic Affairs, they shall be exempted from import duties.
+
+## Chapter 4 Appended Provisions
+
+### Article 29
+
+The enforcement rules of this Act are to be stipulated by the central Competent Authority.
+
+### Article 30
+
+The effective date of  this Act  is to  be determined separately by the Executive Yuan.
+
+The articles of this Act amended on December 25, 2018, and May 12, 2023, shall take effect as of the day of their promulgation.
+
+## History
+
+1.Revisions to Articles 5, 7, and 30
+
+2.Promulgated on January 7, 2019 by Directive Ri Hua Zong Yi Yi Zi No. 10800002111
+
+3.Article 10-1, Article 27-1 through Article 27-3, and revisions to Article 12 and Article 30 of the Development of the Cultural and Creative Industries Act: Promulgated May 31, 2023

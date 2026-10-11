@@ -1,0 +1,363 @@
+---
+title: "Plant Protection and Quarantine Act"
+title_zh: "植物防疫檢疫法"
+identifier: "M0140001"
+type: act
+law_level: "法律"
+category: "行政＞農業部＞動植物防檢疫目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1996-01-10
+last_amended: 2018-06-20
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0140001"
+retrieved: 2026-10-12
+---
+
+# Plant Protection and Quarantine Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-agriculture/M0140001-plant-protection-and-quarantine-act.md](../../../zh/laws/ministry-of-agriculture/M0140001-plant-protection-and-quarantine-act.md)) is authoritative.
+
+## Chapter 1. GENERAL PROVISIONS
+
+### Article 1
+
+This Act is enacted to control plant diseases and pests and prevent their spread. Any matters not covered by this Act shall be governed by other applicable law.
+
+### Article 2
+
+Competent authorities as referred to in this Act: At the central government level: the Council of Agriculture, Executive Yuan (hereinafter referred to as the "central competent authority"); at the special municipal level: the government of the special municipality (hereinafter referred to as the "municipal competent authority"); and the county (city) government at the county (city) level: the government of the county (city) (hereinafter referred to as the "county (city) competent authority").
+
+### Article 3
+
+The terms as used in this Act are defined as follows:
+
+\1. "Plants" mean the seed plants, ferns, mosses, liverworts and useful fungi, and the portion thereof which may be propagated or cultivated.
+
+\2. "Plant products" mean the seeds or their embryos, bulbs, rhizomes, tubers, fresh fruits, nuts, dry fruits, vegetables, fresh flowers, dry flowers, grains, fresh medicinal herbs, lumbers or woods, organic media, and fertilizers originating from plants, whether processed or not, which are likely to spread plant diseases and pests.
+
+\3. "Pests" mean the fungi, slime molds, bacteria, viruses, viroids, phytoplasmas, parasitic plants, weeds, nematodes, insects, acarines, mollusks, other invertebrate animals, vertebrates animals, and any pathogenic agent that is directly or indirectly harmful to plants. It also denotes invasive plants that are likely to result in damages to the ecosystem.
+
+\4. "Plant disease and pest damages" mean the harm and losses caused by pests to plants.
+
+\5. "Susceptible plants" mean host plants which are easily infested with specific plant diseases and pests.
+
+\6. "Cultivation media" mean the soil, peat, and other natural or artificial media to which plants are attached or fixed to sustain plant growth and development.
+
+### Article 4
+
+The competent of authority of the special municipality or county (city) shall establish or designate plant protection authority with duly authorized officers.
+
+The central competent authority shall establish plant protection and quarantine authority with duly authorized officers and, if necessary, may establish a plant protection research institution.
+
+### Article 5
+
+When it is deemed necessary for plant protection, plant protection officers may have the authority to enter the cultivation places, warehouses and other relevant places or vehicles, vessels, or aircraft to inspect plants, plant products and their packages, containers, and relevant objects, to conduct pest surveying, monitoring, or control, and to examine relevant data or make enquiries of relevant parties. The owner or relevant party shall not evade, obstruct, or refuse.
+
+When it is deemed necessary for plant quarantine, plant quarantine officers may have the authority to inspect plants, plant products and their packages, containers, commodities, postal parcels, luggage, vehicles, vessels, aircraft, and warehouses thereof, and to examine relevant data or make enquiries of relevant parties.
+
+The owner or relevant party shall not evade, obstruct, or refuse.
+
+### Article 6
+
+Government authorities concerned shall render the necessary assistance and support to plant protection or quarantine officers in implementing control measures.
+
+### Article 6-1
+
+Informing of violations against plant protection and quarantine regulations shall be rewarded to facilitate the implementation of this Act; the regulations for relevant rewards shall be prescribed by the central competent authority.
+
+### Article 7
+
+In performing their duties in accordance with this Act, plant protection or quarantine officers shall neither exceed their authority nor infringe on the rights and interests of another person. The central competent authority shall prescribe the regulations for the enforcement of plant protection and quarantine.
+
+## Chapter 2. PLANT PROTECTION
+
+### Article 8
+
+The central competent authority may publicly notify the types and scope of specific plant diseases and pests, and therefore establish a monitoring or surveying program.
+
+The special municipal or county (city) competent authority shall coordinate with the preceding program and execute the monitoring and surveying thereof.
+
+The central competent authority may publicly notify the control scheme for plant diseases and pests pursuant to the preceding monitoring or surveying results and by referring to the domestic ecological environment, agricultural production, and other public interests.
+
+The special municipal or county (city) competent authority shall formulate a regional control plan pursuant to the preceding scheme and report it to the central competent authority for approval before the implementation, and the central competent authority shall inform the adjacent special municipal or county (city) competent authority.
+
+The costs necessary for the preceding regional control plan shall be jointly borne by the central competent authority and special municipal or county (city) competent authority.
+
+### Article 8-1
+
+When diseases and pests occur in plants or plant products, the owners and managers shall carry out diseases and pests control in accordance with the notification or announcement of the special municipal or county (city) competent authority.
+
+If diseases and pests occur in plants or plant products and the spread cannot be curtailed despite implemented control measures, owners and managers of plants or plant products shall immediately report to the special municipal or county (city) competent authority.
+
+Upon receiving the report mentioned in the preceding Paragraph, the special municipal or county (city) competent authority shall take necessary measures immediately and report to the central competent authority to notify the adjacent special municipal or county (city) competent authority as well as research and experiment station(s) to assist in implementing the necessary measures.
+
+### Article 9
+
+The central competent authority may designate the types of plants for propagation purposes that require specific plant disease and pest inspection.
+
+The inspection regulations and fee-charging standards shall be prescribed by the central competent authority and submitted to the Legislative Yuan for reference.
+
+The plants mentioned in the preceding Paragraph for propagation purposes shall not be sold or relocated unless the inspection passes and a certificate is issued.
+
+### Article 10
+
+The central competent authority may designate an area of infestation and restrict or prohibit the relocation of plants, plant products, and soils, as well as their packages, containers, and cultivation media thereof beyond the designated area, unless the prior approval of the central competent authority has been obtained.
+
+Regulations for granting the approval mentioned in the preceding Paragraph shall be prescribed by the central competent authority and submitted to the Legislative Yuan for reference.
+
+### Article 11
+
+When it is deemed necessary for plant protection, the central competent authority may take the following control measures:
+
+\1. To restrict or prohibit the cultivation of related susceptible plants; if necessary, ordering the removal or destruction of those already cultivated plants within a prescribed time limit.
+
+\2. To order to remove or destroy plants or plant products infested with or suspected of being infested with specific plant diseases and pests within a prescribed time limit.
+
+\3. To order to eliminate the relevant pests or prohibit the breeding thereof.
+
+\4. To designate the region to implement joint control measures.
+
+\5. To establish quarantine inspection stations at the essential transportation passages on the islands of Kinmen, Matsu, and Penghu for conducting inspections; plants or plant products that are not inspected or are inspected but found to not comply with relevant regulations are restricted from moving off the islands and may be disposed of in a way deemed necessary.
+
+The inspection procedures, ways of disposal, fee-charging standards, places for conducting inspection, and any other relevant regulations in relation to Subparagraph 5 of the preceding Paragraph shall be prescribed by the central competent authority.
+
+### Article 12
+
+With respect to the relevant susceptible plants, or plants or plant products suspected of being infested with specific plant disease(s) or pest(s), which are ordered to be removed or destroyed within a prescribed time limit pursuant to the Subparagraph 1 or 2 of Paragraph1 of Article 11, the special municipal or county (city) competent authority shall set up an evaluation committee to evaluate the prices of those plants or plant products and pay their owner or manager full compensation as evaluated unless the owner or manager violates this Act, in which case no compensation shall be paid.
+
+Members of the evaluation committee mentioned in the preceding Paragraph shall be determined by the special municipal or county (city) competent authority.
+
+### Article 13
+
+The compensation provided in the preceding Article shall be borne and paid by the special municipal or county (city) competent authority.
+
+The central competent authority may provide the monetary compensation in accordance with the regulations prescribed by the central competent authority.
+
+## Chapter 3. PLANT QUARANTINE
+
+### Article 13-1
+
+The central competent authority may designate plants, plant products, and any other articles which are likely to spread pests, and publicly notify that these articles are subject to import quarantine (hereinafter referred to as "regulated articles").
+
+The plant quarantine authority may carry out quarantine treatment, reshipment, destruction, or other necessary measures whenever plants, plant products, or other kinds of articles are found to have the risk of spreading pests but are not listed as regulated articles in the preceding Paragraph.
+
+### Article 14
+
+The central competent authority may, based on the epidemic status and risk of harm caused by the pests, publicly notify the quarantine regulations for the importation of regulated articles and take the following quarantine measures:
+
+\1. Prohibition.
+
+\2. Quarantine requirements for relevant management.
+
+\3. Post-entry quarantine.
+
+The contents of quarantine regulations mentioned in receding Paragraph include regulated articles, species of pests, specific countries or districts, quarantine regulations, quarantine measures, and other related matters.
+
+Governmental agencies (institutions), public enterprises, schools, juridical persons, or organizations registered under relevant laws may import and share regulated articles prohibited under Subparagraph 1 of Paragraph 1 for purposes of experiments, research, education, legal deposit, or exhibition by applying for approval from the central competent authority; the application process of importation and sharing, the way of declaration, safety control measures, treatment method, and the production and retaining of the usage record, report or monograph as well as the regulations of other relevant matters shall be prescribed by the central competent authority.
+
+For the regulated articles with capability of propagation, if there is no import record from their export country or district, the export country or importer(s) or their agent shall submit the relevant data of pest risk assessment to the plant quarantine authority. The regulated articles must be approved by the plant quarantine authority before they may be imported. During risk assessment, the plant quarantine authority may ask the export country or importer(s) or their agent for supplementary data from the plant quarantine authority of the export country or dispatch personnel to the export country for verification and confirmation.
+
+The cost for verification shall be borne by the export country or importer(s) according to the relevant laws and regulations. The application process, the required documents, and information and the methods and procedures of implementing risk assessment shall be prescribed by the central competent authority.
+
+The application process and procedure of post-entry quarantine, the requirements for the establishment of quarantine sites, and other relevant regulations in relation to Subparagraph 3 of Paragraph 1 shall be prescribed by the central competent authority.
+
+### Article 15
+
+For the following articles are prohibited from importation:
+
+\1. Pests.
+
+\2. Natural enemies, antagonists or competitors and other organisms used as biological control agent for controlling pest. However, those which are assessed and confirmed to be free of pest risk by the central competent authority, or microbial agents that are imported in compliance with the regulations of the Act on Agro-pesticides Management are not subject tothis restriction.
+
+\3. Soil.
+
+\4. Plants, plant products, or other articles attached to soil.
+
+\5. Packages or containers used for the articles mentioned in the preceding four Subparagraphs.
+
+Governmental agencies (institutions), public enterprises, schools, juridical persons, or organizations registered under relevant laws with one of the following situations may apply to the central competent authority for importing the objects mentioned in the preceding Paragraph:
+
+\1. For purposes of experiments, research, education, or exhibition.
+
+\2. Legal deposit of articles that are mentioned in Subparagraph 1 and 2 of the preceding Paragraph.
+
+\3. Articles mentioned in Subparagraphs 1 and 2 of the preceding Paragraph used for producing pest-risk-free products.
+
+\4. Insect pollinators mentioned in Subparagraph 1 of the preceding Paragraph, or biological control agents mentioned in Subparagraph 2 of the preceding Paragraph that are used for field pollination or biological control, which have been assessed and approved by the central competent authority.
+
+\5. In accordance with other specific purposes that are publicly notified by the central competent authority.
+
+For articles that are imported in accordance with Subparagraph 1 and 2 of the preceding Paragraph for the purposes of experiments, research, education, legal deposit, or exhibition, maybe shared for use upon the approval of the central competent authority.
+
+The application process, declaration, safety control measures, treatment methods and production and retaining of usage record, report or monograph, and regulations of other relevant matters regarding risk assessment for importation of those mentioned in Paragraph 2 and sharing mentioned in the preceding Paragraph, shall be prescribed by the central competent authority.
+
+### Article 16
+
+Importer(s) or their agent importing the regulated articles shall provide phytosanitary certificates issued by the plant quarantine authority of the exporting country. However, this requirement does not apply to those exempted from inspection as announced by the plant quarantine agency.
+
+If the importer(s) fail to submit phytosanitary certificates pursuant to the preceding Paragraph or the phytosanitary certificates submitted contain information inconsistent with the pertinent quarantine requirements, the plant quarantine authority shall take one of the following measures, and the cost shall be borne by the importer(s).
+
+\1. Submission of properly corrected phytosanitary certificates within a specified time limit.
+
+\2. Quarantine treatment.
+
+\3. Reshipment.
+
+\4. Destruction.
+
+The phytosanitary certificate issued by the plant quarantine authority of the exporting country, as mentioned in Paragraph 1, may be provided electronically with consent of the plant quarantine authority.
+
+### Article 16-1
+
+Plants or plant products that have been unloaded at or transshipped through the countries and districts declared by the central competent authority for prohibiting of entry or requiring taking related measures according to quarantine conditions in the Paragraph 1 of Article 14, shall be approved by the plant quarantine authority before importation; if not, the plant quarantine authority may take necessary actions.
+
+### Article 17
+
+The importer(s) or their agent shall apply to the plant quarantine authority for quarantine of the regulated articles to be imported or transited before their arrival at the ports of entry. The said importer or agent shall not unwrap or move the said plants or plant products before the completion of quarantine inspections.
+
+Passengers or personnel of the vehicles, vessels, or aircraft carrying the regulated articles shall apply for plant quarantine upon arrival at the port of entry.
+
+The regulated articles shall not be imported through postal mail; otherwise, the regulated articles shall be reshipped or destroyed.
+
+However, the following circumstances are examped from the restriction: 1.The regulated articles that are declared by the plant quarantine authority in accordance with the provisions in Paragraph of Article 16 for the exemption of the phytosanitary certificate.
+
+2.Recipients of the regulated articles have applied to the plant quarantine authority and received the approval of import in advance.
+
+The regulated articles that are imported through postal mail in accordance with the provisions of the preceding Paragraph shall be packaged with a legible label indicating the content. In addition, the postal authority shall cooperate with the plant quarantine authority to inform the recipient to apply for quarantine from the authority. The recipients who receive postal mails without quarantine certificates shall apply for quarantine from the plant quarantine authority immediately upon receiving them.
+
+For regulated articles that are not for importation purposes but have entered and are stored in Free Trade Zones, the procedure of applying for quarantine and the requirement of documents may be simplified, and the protocol of the said simplification are to be prescribed by the central competent authority.
+
+### Article 18
+
+Upon the completion of quarantine, the plant quarantine authority shall issue a certificate of non-compliance for those that are not compliant and shall forbid their import; the importer(s) or their agent who comply with the regulations may apply for the certificate of compliance.
+
+### Article 18-1
+
+Reapplication for quarantine of regulated articles or articles listed in Article 15 to be exported or imported, which are determined to not comply with pertinent rules or regulations, shall not be permitted.
+
+### Article 19
+
+If any pest is found in the imported regulated articles after quarantine inspection, the plant quarantine authority shall notify and request the importer(s) or their agent to disinfect, destroy, or reship such regulated articles together with the packages and containers thereof withina prescribed time limit. If no such action is taken within the said time limit or if taking emergency measures is necessary, the plant quarantine authority shall directly dispose of the regulated articles, and the cost for such actions shall be borne by the importer(s).
+
+The pest species mentioned in the preceding Paragraph are limited to those declared by the central competent authority in accordance with Paragraph 1 of Article 14, or those that have not been confirmed to be present in the Republic of China.
+
+### Article 19-1
+
+Plants or plant products in transit that are suspected of being infested by pests or possibly spreading pests may be subject to appropriate quarantine or other safety measures determined by the plant quarantine authority.
+
+### Article 20
+
+If an importing country requests a quarantine certificate for plants or plant products to be exported, the exporter(s) may apply to the plant quarantine authority for quarantine of the plants or plant products. The quarantine authority shall issue a phytosanitary certificate upon completion of the quarantine inspection.
+
+The quarantine inspection mentioned in the preceding Paragraph shall be performed on the premises of the plant quarantine authority; on-site inspection may be performed if deemed necessary by the authority.
+
+### Article 21
+
+Necessary costs may be charged for quarantine services performed.
+
+The rates and fee schedule shall be prescribed by the central competent authority.
+
+### Article 21-1
+
+The mode, procedure, and duration of application, quarantine operation procedure, standard, and method of quarantine treatment, treatment for pests, post-entry quarantine procedure, issuance of phytosanitary certificate, and other related matters of quarantine of export, import, transit, postal mail delivery, and plants or plant products carried by passengers and personnel of vehicles, vessels, or aircraft shall be prescribed by the central quarantine authority.
+
+## Chapter 4. PENAL PROVISIONS
+
+### Article 22
+
+Those who illegally import articles in violation of Subparagraph 1, Paragraph 1 of Article 14 or Paragraph 1 of Article 15, shall be sentenced to imprisonment for not more than three years, detention, and/or a fine not more than 150,000 New Taiwan Dollars.
+
+The regulated articles, other goods or things, and their packages, containers, and cultivation media thereof in violation of Subparagraph 1, Paragraph 1 of Article 14 or Paragraph 1 of Article 15, regardless the ownership, may be confiscated by the plant quarantine authority before the confiscation judgment determined by the court of the first instance.
+
+### Article 23
+
+If the representative of a juridical person, or the agent, employee, or other staff of a juridical person or natural person commits the offense under Paragraph 1 of the preceding Article in the course of the execution of business, in addition to the punishment of the perpetrator, a fine specified in Paragraph 1 of the preceding Article shall also be imposed on the juridical person or natural person. However, if the representative of a juridical person or the natural person has done the best to prevent the commission of the crime, the juridical person or the natural person shall be exempted from the punishment.
+
+### Article 24
+
+If any of the following situations occur, a fine of more than 30,000 New Taiwan Dollars but less than 150,000 New Taiwan Dollars shall be imposed:
+
+\1. Violating Paragraph 2 of Article 9 by selling or relocating the plants.
+
+\2. Violating the order of restriction or prohibition under Paragraph 1 of Article 10.
+
+\3. Violating any measures mentioned in Subparagraphs 1 to 3, Paragraph 1 of Article 11.
+
+\4. Violating Paragraph 3 of Article 14 or Paragraph 3 of Article 15 by sharing the regulated articles without the approval of the central competent authority, or violating the related regulations for the declaration, safety control measures, treatments and the production and retaining of usage records, reports or monographs stipulated in Paragraph 3 of Article 14 or Paragraph 4 of Article 15.
+
+\5. Violating the related regulations of the procedure of post-entry quarantine and the requirements for the establishment of quarantine sites stipulated in Paragraph 5 of Article 14.
+
+\6. Importer(s) or their agents of the related articles who violate Paragraph 1 of Article 17, by not applying for quarantine, or unwrapping or moving the regulated articles before the completion of quarantine inspection; the recipients of postal mails who violate the Paragraph 4 of Article 17 by not applying to plant quarantine authority for the quarantine.
+
+\7. Owners or managers of vehicles, vessels, or aircraft who violate Article 19-2 by bringing the residues of plants or plant products onto land.
+
+If penalty is carried out pursuant to Subparagraphs 1 to 3 of the preceding Paragraph, the plants, plant products, pests, soils, and the packages, containers, and cultivation media thereof shall be removed or destroyed within a prescribed time limit. If the said articles are not removed or destroyed within the time limit, the special municipal or county (city) competent authority shall act to remove or destroy the said articles, and the cost for such actions shall be borne by the owners or management personnel.
+
+If penalty is carried out pursuant to Subparagraphs 4 to 6 of Paragraph 1, the regulated articles and the packages, containers, cultivation media may be disinfected, destroyed, or treated directly by the plant quarantine authority or commissioned organizations as deemed necessary, and the cost for such actions shall be borne by the owners or management personnel.
+
+If penalty is carried out pursuant to Subparagraph 7 of Paragraph 1, the plants or plant products shall be destroyed by the plant quarantine authority or commissioned organization, and the cost for such actions shall be borne by the owners or management personnel.
+
+### Article 25
+
+If any of the following situations occur, a fine of more than 10,000 New Taiwan Dollars but less than 50,000 New Taiwan Dollars shall be imposed:
+
+\1. Evading, obstructing, or refusing the execution of duties performed by plant protection or quarantine officers pursuant to Article 5 without an appropriate reason.
+
+\2. Violating Paragraph 1 of Article 8-1 and failing to conduct control measures pursuant to the notice or announcement made by the special municipal or county (city) competent authority.
+
+\3. Failing to report the pest status as required under Paragraph 2 of Article 8-1 without appropriate reason.
+
+\4. Evading, obstructing, or refusing the inspection of specific plant diseases and pests by the central competent authority pursuant to Paragraph 1 of Article 9 without an appropriate reason.
+
+\5. Owners or managers of the plants or plant products failing to conduct joint control measures prescribed by the central competent authority pursuant to Subparagraph 4, Paragraph 1 of Article 11.
+
+\6. Violating the requirements under Subparagraph 5, Paragraph 1 of Article 11 by moving out the plants or plant products which are not inspected or inspected but found not to be in compliance with relevant regulations.
+
+If penalty is carried out pursuant to Subparagraph 2 of the preceding Paragraph, the special municipal or county (city) competent authority may order the violators to improve within a prescribed time limit as deemed necessary. Those who fail to improve within the time limit will be successively punished. For the owners or the management personnel of the plants or plant products who had been successively punished without improvement, the special municipal or county (city) competent authority may control the pest risk of the plants or plant products on behalf of the violators as deemed necessary, and the cost for such actions shall be borne by the owners or management personnel.
+
+### Article 25-1
+
+Passengers or personnel of vehicles, vessels or aircraft who fail to apply for a quarantine in accordance with Paragraph 2 of Article 17 shall be subject to a fine more than 3,000 New Taiwan Dollars but less than 15,000 New Taiwan Dollars.
+
+### Article 25-2
+
+The punishment for violators who fail to apply quarantine by not complying with Subparagraph 6, Paragraph 1 of Article 24 or the preceding Article may be reduced or exempted, if the circumstances are minor.
+
+The standards for determining the reduction or exemption of the Paragraph are to be prescribed by the central competent authority.
+
+### Article 26
+
+The fines stipulated in this Act shall be imposed by the special municipal or county (city) competent authority or the plant quarantine authority.
+
+## Chapter 5. SUPPLEMENTARY PROVISIONS
+
+### Article 27
+
+The Enforcement Rules of this Act shall be prescribed by the central competent authority.
+
+### Article 28
+
+This Act takes effect on the date of its promulgation. The provisions amended on May 29, 2018,including Paragraphs 3 and 4 of Article 17 and Paragraphs 1 and 3 of Article 24 concerning violations of the provisions of Paragraph 4 of Article 7, take effect one year after the promulgation.
+
+## History
+
+\1. Promulgated on January 10, 1996 and effective as of January 10, 1996.
+
+\2. Amendment to Articles 2, 4, 13, 17~21, 26 promulgated on May 17, 2000.
+
+\3. Amendment to Articles 11, 24 promulgated on January 17, 2001.
+
+\4. Amendment to Articles 17, 22, 25, addition of Articles 8-1, 18-1, 19-1, 21-1 promulgated on February 6, 2002.
+
+\5. Amendment to Article 24, addition of Articles 6-1, 16-1, 19-2 promulgated on June 12, 2002.
+
+\6. Amendment to Articles 5, 17, 21~22, 24, 26, addition to Article 25-1 promulgated on May 7, 2008.
+
+\7. Amendment to Articles 3, 8, 8-1, 11, 14~16, 17~18-1, 22, 24, 25, addition to Article 13-1 promulgated on June 18, 2014.
+
+\8. Amendment to Articles 14, 15, 16-1, 17, 19, 24, 25, 28, addition to Article 25-2 promulgated on June 20, 2018.The third and fourth paragraphs of Article 17 as well as the first and third paragraphs of Article 24 that are related to the regulations mentioned in the fourth paragraph of Article 17 of this Act shall come into force one year after the promulgation date.
+
+The announcement was made on July 27, 2023 by the Executive Yuan Order tai-gui-zi No. 1125014346. The relevant matters set out in Articles 2, Paragraph 2 of Article 4, Article 6-1, Article 7, Paragraphs 1,3,4,5 of Article 8, Paragraph 3 of Article 8-1, Paragraph 1 of Article 9, Article 10, Article 11, Article 13, Paragraph 1 of Article 13-1, Paragraphs 1,3,4,5 of Article 14, Subparagraph 2 of Paragraph 1, Paragraphs 2,3,4 of Article 15, Article 16-1, Paragraph 5 of Article 17, Paragraph 2 of Article 19, Article 21, Article 21-1, Subparagraph 4 of Paragraph 1 of Article 24, Subparagraphs 4,5 of Paragraph 1 of Article 25, Paragraph 2 of Article 25-2, Article 27 pertaining to“Council of Agriculture, Executive Yuan”shall be handled by“Ministry of Agriculture”as governing body, effective August 1, 2023; Paragraph 2 of Article 4 pertaining to“Plant Protection and Quarantine Authority”were previously under the purview of the “Bureau of Animal and Plant Health Inspection and Quarantine and its affiliated entities, Council of Agriculture, Executive Yuan”shall be handled by“Animal and Plant Health Inspection Agency and its affiliated entities, Ministry of Agriculture” as governing body, effective August 1, 2023; Paragraph 2 of Article 13-1, Paragraph 4 of Article 14, Article 16, Article 16-1, Paragraphs 1,3,4 of Article 17, Article 18, Paragraph 1 of Article 19, Article 19-1, Article 20, Paragraph 2 of Article 22, Subparagraph 6 of Paragraph 1, Paragraphs 3,4 of Article 24, Article 26 pertaining to“Plant Quarantine Authority”were previously under the purview of the“Bureau of Animal and Plant Health Inspection and Quarantine and its affiliated entities, Council of Agriculture, Executive Yuan”shall be handled by “Animal and Plant Health Inspection Agency and its affiliated entities, Ministry of Agriculture”as governing body, effective August 1, 2023.

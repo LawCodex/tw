@@ -1,0 +1,811 @@
+---
+title: "Fishermen Associations Act"
+title_zh: "漁會法"
+identifier: "M0050026"
+type: act
+law_level: "法律"
+category: "行政＞農業部＞漁業目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1929-11-11
+last_amended: 2021-02-03
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0050026"
+retrieved: 2026-10-12
+---
+
+# Fishermen Associations Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-agriculture/M0050026-fishermen-associations-act.md](../../../zh/laws/ministry-of-agriculture/M0050026-fishermen-associations-act.md)) is authoritative.
+
+## Chapter I General Principles
+
+### Article 1
+
+A fishermen association shall operate for such purposes as safeguarding fishermen’s rights and interests, enhancing fishermen’s knowledge and skills, increasing fishermen’s profits from production, improving fishermen’s livelihood, promoting the modernization of fisheries, and seeking development of fisheries.
+
+### Article 2
+
+A fishermen association is a legal person.
+
+### Article 3
+
+The competent authority of fishermen associations is the Council of Agriculture, Executive Yuan at the national level, a municipal government at the municipal level, and a county (city) government at county (city) level. However, the target businesses of fishermen associations shall be directed and supervised by the competent authorities of specific businesses.
+
+## Chapter II Tasks
+
+### Article 4
+
+Tasks of fishermen associations are as the follows:
+
+(1)To safeguard fishermen’s rights and interests, to disseminate fisheries laws and regulations, and to mediate fisheries related disputes.
+
+(2)To conduct fisheries improvement and promotion.
+
+(3)To cooperate in fishermen rescue in sea disasters and other incidents.
+
+(4)To accept commissions to report information on fishing seasons and fishery meteorology, and to establish communication among fishing vessels.
+
+(5)To assist with the establishment and management of fishing port facilities, or navigation safety facilities and fishery signs in the exclusive fishing zones.
+
+(6)To conduct import, export, processing, refrigeration, distribution, marketing, and whole sales at place of origin and consumption of aquatic products, and the operation of retail markets.
+
+(7)To conduct import, export, processing, manufacture, distribution and marketing of fisheries goods; maintenance and building of fishing vessels; and the supply and marketing of goods for members’ daily use.
+
+(8)To assist with the establishment and management of overseas fishing bases and related international fisheries cooperation.
+
+(9)To conduct financial business for members.
+
+(10)To conduct business on culture, health care, welfare, relief, and social service for fishing villages.
+
+(11)To promote sidelines in fishing villages, and to guide and assist fishermen to increase production and improve livelihood.
+
+(12)To promote fishing villages and fisheries cooperative businesses.
+
+(13)To assist with the development of fishing villages and to accept commission to help members with building residence.
+
+(14)To cooperate in fishermen group training and to assist with coastal defense and security.
+
+(15)To cooperate in aquatic resources conservation and to assist with prevention of water pollution in fishing ports and fishing areas.
+
+(16)To accept commissions to conduct business related to securing and to assist with fishermen insurance.
+
+(17)To accept commissions from governments or public/ private organizations.
+
+(18)To conduct tours and recreational fisheries within fishing villages and fishing ports.
+
+(19)Other business(es) specially approved by the competent authority.
+
+When conducting the businesses as referred to in the preceding paragraph, with respect to tax exemption, fishermen associations shall refer to relevant provisions stipulated in the Agricultural Development Act and the Cooperatives Act. The range of tax exemption is prescribed by the Executive Yuan.
+
+Fishermen associations shall include in annual plans when conducting the tasks as referred to in paragraph 1.
+
+### Article 5
+
+A fishermen association, while carrying out the task as referred to in Article 4, paragraph 1, sub-paragraph (9), shall comply with the provisions of the Agricultural Finance Act.
+
+A fishermen association, while accepting the commission to conduct and assist with fishermen insurance as referred to in Article 4, paragraph 1, sub-paragraph (16), may establish an insurance department.
+
+In the event that it is a major investment for a fishermen association at any level to conduct the business as referred to in Article 4, paragraph 1, two fishermen associations or above may, after the joint application is approved by the central competent authority, jointly invest in a company limited pursuant to the Company Act. Regulations governing the capital contribution and investment examination are prescribed by the central competent authority.
+
+## Chapter III Establishment and Merger
+
+### Article 6
+
+Fishermen associations are classified into two levels, namely regional fishermen associations and the National Fishermen Association. Fishermen associations at any level may establish branch office(s) in accordance with the actual needs, subject to the approval of the competent authority.
+
+The Taiwan Provincial Fishermen Association established prior to the amendment of this Act on 19 January 2012, shall be reorganized as the National Fishermen Association upon the effective date of the amendments.
+
+Regional fishermen associations are the fishermen associations at basic level, which are established at fishing districts with intense fisheries. The division of fishing districts shall be surveyed by the competent authorities of municipal or county (city) governments, and reported to the central competent authority for approval and announcement.
+
+The name of a regional fishermen association shall be prescribed by the competent authority of a municipal or county (city) government.
+
+### Article 6-1
+
+When the Taiwan Provincial Fishermen Association is reorganized as the National Fishermen Association, the term for the originally-elective personnel may continue until the expiry of that term.
+
+### Article 7
+
+There shall not be two fishermen associations at the same level within the same fishing district or the same village and township.
+
+### Article 8
+
+The central competent authority may order regional fishermen associations to merge due to their limited fishing districts or insufficient fisheries or economic condition.
+
+### Article 9
+
+Regional fishermen associations shall, by fisheries types or administrative districts of villages, establish fishermen task forces as the basic unit to carry out businesses of the fishermen associations.
+
+### Article 10
+
+A regional fishermen association, when its members fish outside its jurisdictional fishing district following the fishing season, may establish a temporary branch office at each of the concerned local fishing district to handle the business concerned. The branch office shall be disbanded after the fishing season, and the date of establishment and disbandment shall be reported to the concerned local fishermen association for forwarding to the competent authority for reference.
+
+### Article 11
+
+In the case that there are 100 fishermen or above with qualified membership in a fishing district, they may take the initiative to organize a regional fishermen association.
+
+A subordinate fishermen association shall join a superior fishermen association as a member and is subject to the guidance and assistance of a superior fishermen association. Such regulations shall be prescribed by the central competent authority.
+
+### Article 12
+
+For the establishment of a fishermen association, initiator(s) shall appoint members of the preparatory conference, which shall be reported to the local competent authority for reference before the conference is organized pursuant to the related law and regulations.
+
+The preparatory conference and the inaugural meeting of a fishermen association shall be reported to the competent authority for sending personnel to guide the preparatory work and supervise the election.
+
+### Article 13
+
+A fishermen association shall, within seven days after the inaugural meeting, submit its charter, list of members (representatives), and the curriculum vitae of directors and supervisors to the competent authority for reference, and issue registration certificates and a name seal.
+
+### Article 14
+
+A charter of a fishermen association shall clearly state the following items:
+
+(1)Name and purposes.
+
+(2)Ruling district and address.
+
+(3)Missions and organizations.
+
+(4)Affiliation, disaffiliation, and expulsion of membership.
+
+(5)Rights and obligations of members.
+
+(6)Allocated numbers, scope of authorities, terms, election, and dismissal of member representatives, directors, and supervisors.
+
+(7)Appointment, dismissal, and duties of a secretary general.
+
+(8)Meetings.
+
+(9)Businesses of common facilities.
+
+(10)Membership dues/fee, funds, property, and accounting.
+
+(11)Procedures for the amendment of the charter.
+
+### Article 14-1
+
+In the event that there are two regional fishermen associations or above in a municipal city or county (city), they may jointly apply to the competent authority of the municipal city or county (city), and merge as one regional fishermen association after the application is approved.
+
+A regional fishermen association, within six months from the date that the competent authority of municipal city or county (city) granting approval for merger, shall complete re-election of elective personnel and re-appointment of a secretary general, whose terms of office shall expire at the end of that term.
+
+### Article 14-2
+
+Before fishermen associations apply for merger pursuant to paragraph 1 of Article 14-1, they shall jointly organize the merger preparatory committee, and prepare a merger plan and contract pertaining to the relevant matters. After the plan and contract are reviewed and considered by the board of directors, they shall be attached with balance sheets, income statement and tables for income and expenditure, statement of appropriation of profit and make up for loss, cash flow statement, and property inventory, which have been audited and certified by a certified public accountant and checked by the board of supervisors. Such documents shall be reported to the General Members (Representatives) Meeting to make a resolution pursuant to the provisions of Article 39.
+
+The merger plan and contract as referred to in the preceding paragraph shall clearly state the following items:
+
+(1)The merger plan shall include the approach of merger, evaluation of economic benefit, general condition of fishing district(s) after merger, business development plan, financial projection for the upcoming three years, expected progress, and evaluation of feasibility.
+
+(2)The merger contract shall include:
+
+i.Names of each regional fishermen association before merger, name of the regional fishermen association after merger, and its fishing district(s).
+
+ii.Evaluation on the assets and liabilities of the regional fishermen association.
+
+iii.Matters related to the protection of members’ rights and interest, allocation of numbers for elective personnel, and rights and interests of employees of the regional fishermen association elective personnel.
+
+iv.The charter of the regional fishermen association after merger.
+
+If the resolution as referred to in paragraph 1 is adopted in the General Members (Representatives) Meeting, the regional fishermen associations shall, within ten days after the resolution, proclaim the contents of the resolution and the items to be clearly stated in the merger contract at the regional fishermen associations and each of their branch offices for at least seven consecutive days, and post on newspapers and the website(s) designated by the competent authority of the municipal city or county (city) for at least five consecutive days. The proclamation shall specify an objection period of not less than 30 days. Dissenting members shall make objections to the regional fishermen associations in writing within the specified period. When one-third or more members raise objections, the original resolution shall become void. If no objection is raised within the specified period, the resolution shall be deemed agreed.
+
+After the resolution as referred to in paragraph 1 is adopted, the regional fishermen associations shall, within ten days after the resolution, notify creditor(s) in writing of the contents of the resolution and the items to be clearly stated in the merger contract. The notification shall specify that the creditor(s) may raise any objection in writing within the specified period, which shall not be less than 30 days, to claim that the merger would damage its/their rights and interests.
+
+If the regional fishermen associations do not make the proclamation pursuant to the period and contents as stipulated in paragraph 3, or do not notify the creditor(s) pursuant to the period, approach, and contents as stipulated in the preceding paragraph, or fails to satisfy or provide an appropriate security for the claim(s) of the creditor(s) raising objection(s) within the specified period, the merger of the regional fishermen associations shall not be valid against such creditor(s).
+
+### Article 14-3
+
+When regional fishermen associations apply to the competent authority of municipal city or county (city) for merger pursuant to Article 14-1, paragraph 1, they shall submit the following documents:
+
+(1)A merger plan and contract.
+
+(2)Minutes of the General Members (Representatives) Meetings of the regional fishermen associations.
+
+(3)Evidence proving that contents of the resolution on merger and the items to be clearly stated in the merger contract have been proclaimed and notified  pursuant to Article 14-2, paragraph 3 and 4, and disposal on t objections.
+
+(4)List of members.
+
+(5)Balance sheets, income statement and tables for income and expenditure, statement of appropriation of profit and make up for loss, cash flow statement, and pro forma consolidated financial statement, which have been audited and certified by a certified public accountant.
+
+(6)Other documents as required by the competent authority of the municipal city or county (city).
+
+### Article 14-4
+
+The regional fishermen association after merger shall assume the rights and obligations of the regional fishermen association(s) before merger. Members of the regional fishermen association(s) before merger shall be the members of the regional fishermen association after merger.
+
+### Article 14-5
+
+The regional fishermen association after merger shall apply to the competent authority of the municipal city or county (city) for the registration of establishment or change. The competent authority of municipal city or county (city) shall simultaneously cancel the registration of the regional fishermen association(s) before merger.
+
+### Article 14-6
+
+When a regional fishermen association after merger applies for the registration of altering or transferring the real estate, movable properties that required registration, intellectual property rights, and all rights in rem with security owned by the regional fishermen association(s) before merger, it may directly process the registration with the merger approval document(s) issued by the competent authority, without paying the registration fees as well as the stamp tax and deed tax incurred by the merger; the following shall also apply:
+
+(1)The securities transaction tax of the transferred securities shall be exempted.
+
+(2)The transferred goods or services are not included in the scope for the levy of business tax.
+
+(3)If any land owned by the regional fishermen association(s) before merger is transferred, the registration of the transfer of the land ownership shall be conducted right after the present value of the land is decided upon examination pursuant to the Land Tax Act,, and the payable land value increment tax may be registered and paid by the regional fishermen association after merger when the land is transferred again. Upon bankruptcy or dissolution, the registered land value increment tax shall be paid on a priority basis.
+
+(4)Where any land assumed by the regional fishermen association(s) before merger pursuant to Article 33 of the Agriculture Finance Act, for which Article 76 of the Banking Act applies mutatis mutandis, is transferred to the regional fishermen association after merger, the land value increment tax shall be exempted.
+
+(5)The goodwill generated by the merger may be amortized within 15 years when declaring income tax.
+
+(6)The expense incurred by the merger may be recognized within ten years when declaring income tax.
+
+(7)Losses from selling non-performing loans as incurred by the merger may be recognized within 15 years when declaring income tax.
+
+For the reorganization of the Taiwan Provincial Fishermen Association as the National Fishermen Association, the registration fee and the related taxes shall be exempted pursuant to the preceding paragraph.
+
+## Chapter IV Members
+
+### Article 15
+
+Any national of the Republic of China attaining the age of majority whose household is registered in a district of a fishermen association may join the regional fishermen association in the district as a member of category A or B, after passing the qualification screening, if he/she meets one of the following requirements:
+
+(1)Members of category A:
+
+i.Distant water fishermen
+
+ii.Offshore fishermen
+
+iii.Coastal fishermen
+
+iv.Shallow sea aquaculture fishermen
+
+v.Fish farms aquaculture fishermen
+
+vi.Lake and river/marsh fishermen
+
+(2)Members of category B:
+
+i.Owners of fishing vessels or fish farms hiring others to engage in fisheries.
+
+ii.People who graduated from fishery vocational schools, published fisheries books, or had fishery-related invention(s), and now engage in the work of fisheries improvement and promotion.
+
+iii.Part-time fishermen that engage in the labor work of fisheries but are not qualified as members of category A.
+
+For a minor under the age of 15 and who actually engages in the labor work of fisheries of members of category A, he/she may join the regional fishermen association in the district as a member of category A, with the approval of his/her legal representative.
+
+A fisherman whose place of residence is without a regional fishermen association may join the adjacent regional fishermen association as a member.
+
+A distant water or offshore fisherman may join the regional fishermen association where his/her fishing vessel registers as a member.
+
+A fisherman shall not simultaneously be a member of two regional fishermen associations.
+
+Regulations on qualifications determination, required documents, reviewing procedures, and other requirements for the people as referred to in paragraph 1 to follow when applying for the membership of a fishermen association shall be prescribed by the central competent authority.
+
+A member of a fishermen association who joins the association less than six months or who is a minor does not have the right to elect or to be elected as prescribed in this Act.
+
+### Article 15-1
+
+A national of the Republic of China attaining the age of majority whose household is registered in a district of a fishermen association, but who does not engage in the fisheries related business as stipulated in Article 15, may join the fishermen association as an individual sponsor member.
+
+Any lawfully registered fisheries related enterprise may join the fishermen association in the district as a group sponsor member. An individual or group sponsor member does not have the right to elect or to be elected, with the exception that they may be elected as supervisors. Notwithstanding this provision, they enjoy other rights and obligations same as a member.
+
+### Article 16
+
+A superior fishermen association takes its subordinate fishermen association(s) as member(s). Representative(s) of a subordinate fishermen to join a superior fishermen association shall be elected in the General Members (Representatives) Meeting of the subordinate fishermen association, with the number of due representative(s) to be prescribed by the competent authority. The chair of the board of directors of a subordinate fishermen association is an ex officio member representative to the General Members (Representatives) Meeting of its superior fishermen association.
+
+Among member representatives of fishermen associations at any level, at least two-thirds shall be members of category A. A member representative shall be eligible for re-election and his/her term shall be four years.
+
+A member representative shall not serve concurrently as a chief or deputy chief of a fishermen task force or an employee of the fishermen association.
+
+Member representatives of fishermen associations at any level shall register his/her candidacy prior to any election, and shall not join any election campaign before such registration.
+
+### Article 16-1
+
+A fishermen association member, who attains membership for six months or more, may register as a candidate for a member representative. Nevertheless, in case of any of following situations, the member shall not be entitled to such registration; if registered, the registration shall be revoked or cancelled:
+
+(1)Where he/she has any debt to the fishermen association in relation to property, membership fees/dues, business capital, or fisheries promotion fund, or he/she has any debt on guaranty to the fishermen association, and any of such debts is overdue and unpaid.
+
+(2)Where he/she is under any of the situations as referred to in Article 19.
+
+(3)Where he/she has committed and been convicted sentence for any crime involving sedition or treason after the period of suppressing communist rebellion.
+
+(4)Where a person is sentenced to compulsory labor under rehabilitative measures or gangster disciplinary education, and such judgement is finalized but the punishment is yet to be enforced, or enforced but not completed, or completed within the last five years; or, where a person is subject to a final judgement of rehabilitative measures and the punishment is yet to be enforced, or enforced but not completed.
+
+(5)Where a person has committed a crime of corruption as stipulated in the Criminal Code or its special law, or committed a crime as stipulated in the Organized Crime Prevention Act, and the judgement is finalized.
+
+(6)Where a person has committed such crime as vote-buying, bribe-taking, interference with voting or election campaign, undertaking vote-buying, or has taken advantage of his/her opportunity or means as afforded by his/her official position to commit such crime as embezzlement, fraudulence, breach of trust, or forging instruments, and is sentenced to imprisonment or a more severe punishment. Despite that, a person that has been sentenced to probation or whose punishment has been commuted to a criminal fine and the fine has been paid, is excluded from this provision.
+
+(7)Where a person has committed a crime other than those as referred to in the preceding four sub-paragraphs and been sentenced to imprisonment or a more severe punishment, and such punishment is yet to be enforced, or enforced but not completed. Despite that, a person that has been sentenced to probation or imprisonment of not more than six months which may be commuted to a criminal fine, is excluded from this provision.
+
+(8)Where a person whose account is rejected with respect to negotiable instruments, and the term of such sanction has not expired yet.
+
+### Article 17
+
+A person under any of the following circumstances shall not be a member of a fishermen association:
+
+(1)He/she has been deprived of citizen’s rights, and such rights have not yet restituted.
+
+(2)He/she has been pronounced bankrupt and his/her rights have not yet restituted.
+
+(3)He/she has become a subject to the order of the commencement of guardianship, which has not been revoked.
+
+(4)He/she has been expulsed pursuant to this Act.
+
+### Article 18
+
+A member of fishermen association who violates this Act or does not comply with the charter or resolutions of the General Members (Representatives) Meeting, and such violation or noncompliance directly jeopardizes the concerned fishermen association in a significant manner, shall be expulsed from membership.
+
+### Article 19
+
+Any member of a fishermen association is under any of the following circumstances, except for those as stipulated in paragraph 2, shall be disaffiliated:
+
+(1)Death.
+
+(2)He/she is under any of the circumstances as referred to in sub-paragraph (1) to (3) of Article 17.
+
+(3)Loss of nationality of the Republic of China.
+
+(4)His/her household registration or vessel registration is changed to another district outside the district of the original fishermen association.
+
+(5)Expulsion.
+
+Any member of fishermen association who meets the following criteria which result in the change of household registration to another district outside the district of the original fishermen association as stipulated in sub-paragraph (4) of the preceding paragraph shall be deemed as not disaffiliated. Notwithstanding this provision, he/she whose household registration is changed again shall be disaffiliated in accordance with the preceding paragraph:
+
+(1)A major plan approved by the Executive Yuan; and
+
+(2)His/her original residence was demolished owing to expropriation and such case is recorded by the Government.
+
+The provisions as stipulated in the preceding paragraph shall become effective as of 22 September 2005.
+
+For a person who was affiliated as a member of category A in a fishermen association before 12 November 1998 and whose household registration was changed to another district outside the district of the original fishermen association but then moved back to the district of the original fishermen association before 12 November 1998, in case that he/she has continued engaging in the labor work of fisheries and has paid the annual membership dues annually, he/she shall be deemed as affiliated again from the date he/she moved back.,
+
+## Chapter V Staff
+
+### Article 20
+
+A fishermen association shall have directors and supervisors so as to form a board of directors and supervisors, respectively. Directors and supervisors shall be elected by members (representatives) with the following allocated numbers:
+
+(1)9 to 15 directors for each regional fishermen association.
+
+(2)15 to 21 directors for the National Fishermen Association.
+
+(3)The number of supervisors shall not exceed one-third of the number of directors in the same fishermen association.
+
+(4)A fishermen association shall have alternate directors and supervisors, whose number shall not exceed one-second of the numbers of directors and supervisors, respectively.
+
+At least two-thirds of a fishermen association’s respective directors and supervisors shall be members of category A.
+
+A chair of a board of directors and a standing supervisor shall be elected by and from the respective directors and supervisors of a fishermen association.
+
+A director or supervisor of a superior fishermen association shall not serve concurrently as a director or supervisor of a subordinate fishermen association.
+
+### Article 21
+
+Candidates of directors or supervisors of a fishermen association shall be members of that regional fishermen association. Candidates of directors or supervisors of a superior fishermen association are not limited to the representatives of subordinate fishermen associations that participate in meetings of the superior fishermen association.
+
+A fishermen association shall conduct candidacy registration before an election of directors and supervisors. Any unregistered person shall not join the election campaign.
+
+### Article 21-1
+
+Any member of a fishermen association meeting the following requirements may register candidacy for an election of directors or supervisors:
+
+(1)He/she has been affiliated for two years or more.
+
+(2)He/she graduated from a junior high school or an elementary school and served as a director, supervisor, member representative, secretary general, or chief or deputy chief of the fishermen task force for one term or more.
+
+(3)He/she has engaged in fisheries which meets the qualifications set forth by the central competent authority.
+
+For directors and supervisors candidates as referred to in subparagraph (3) of the preceding paragraph, regulations for determining the qualifications of having engaged in fisheries, screening procedures, and other requirements to be complied with, shall be prescribed by the central competent authority.
+
+### Article 21-2
+
+A member of a fishermen association under any of the following circumstances shall not register as a candidate for an election of directors or supervisors; if registered or elected, it shall be revoked or nullified:
+
+(1)Where he/she has any debt to the fishermen association in relation to property, membership fees/dues, business capital, or fisheries promotion fund; or (since 1 January 2001) he/she has any loan from a fishermen association or other financial institution(s) with a record of in-default repayment of the principal or interest for one year or more; or he/she has any debt on guaranty to the fishermen association, and fails to discharge after notification for more than one year.
+
+(2)Where he/she is under any of the circumstances as referred to in Article 16-1, sub-paragraph (2) to (8).
+
+(3)Where he/she has been discharged from his/her position due to conviction of a crime during the service as an elective personnel or an employee of a fishermen association within the last four years.
+
+(4)Where he/she was the responsible person of a legal person whose bankruptcy was declared within the last five years.
+
+### Article 22
+
+A director or supervisor of a fishermen association shall be a non-paid position and shall neither serve concurrently as an employee of a fishermen association, a chief or deputy chief of a fishermen task force, a consignee of a fish market, or in any position within a group or enterprise competing with the fishermen association, nor operate a profit-seeking enterprise competing with the fishermen association.
+
+### Article 23
+
+The term of a director or supervisor of a fishermen association is four years, and he/she is eligible for one re-election. Despite that, those who are re-elected shall not exceed one- second of the total number of directors and supervisors.
+
+After the completion of a re-election of directors and supervisors due to expiry of a term, the concerned fishermen association shall submit the curriculum vitae of directors and supervisors, and the updated list of members to the competent authority for reference.
+
+### Article 23-1
+
+The re-election of elective personnel of a fishermen association shall be held and completed at least 30 days prior to expiry of a term, or on the date designated by the competent authority.
+
+Any elective personnel of a fishermen association shall take office on the date as prescribed. Any elective personnel resulting from a re-held election or a by-election, and he/she who for some reasons fails to take office by the prescribed deadline, shall still have his/her term commencing from the prescribed date.
+
+Upon the amendment of this Act on 13 November 2012 becoming effective, the term for the 18th term of elective personnel of the Kinmen Fishermen’s Association, who were elected in October 2012, shall expire in March 2017, and the termfor the 10th term of elective personnel of the Kaohsiung Fishermen’s Association, who were elected in August 2012, shall expire in March 2017.
+
+### Article 24
+
+A fishermen task force shall have one chief and one deputy chief, to be elected by members, with a term for four years and are eligible for re-election. In the absence of a chief, a deputy chief shall succeed until the term of the original chief expires.
+
+A member of a fishermen association, who has been affiliated for six months or more, may register as a candidate for chief or deputy chief of a fishermen task force. Despite that, any person who is under the circumstances as referred to in Article 16-1, shall not register; if he/she is registered, the registration shall be revoked or nullified.
+
+The registration for an election of chief or deputy chief of a fishermen task force shall be convened prior to the election, and any person shall not join the election campaign without registration.
+
+### Article 24-1
+
+When a fishermen association holds simultaneously elections for two or more positions of elective personnel, any person who registers as a candidate shall only register his/her candidacy for one position, and the candidacy registrations for two or more positions simultaneously shall be null and void.
+
+Any registered candidate shall not withdraw his/her candidacy registration after the deadline for registration is due. Any person withdrawing his/her candidacy registration prior to the deadline for registration shall not re-apply for the same candidacy registration.
+
+### Article 25
+
+Any elective personnel of a fishermen association, who violates legislation or the charter, or commits any behavior that jeopardizes rights, interests, or reputation of the fishermen association, may be recalled by a resolution of the General Members (Representatives) Meeting.
+
+### Article 26
+
+A fishermen association shall have one secretary general, who shall be appointed by the board of directors from qualified candidates as selected by the central or municipal competent authority.
+
+The appointment of a secretary general shall be made within 60 days after the establishment of a new board of directors. In the event that a secretary general is not appointed by deadline, a superior fishermen association may appoint a qualified person to act on his/her behalf. Secretary generals of the National Fishermen Association or provincial (municipal) fishermen associations may be appointed from qualified persons by the central competent authority to act on his/her behalf, until a new secretary general is duly appointed.
+
+The appointment of a secretary general of a fishermen association shall be made by a resolution adopted by simple majority of the total directors, and the discharge shall be made by a resolution adopted by two-thirds majority of the total directors.
+
+### Article 26-1
+
+A national of the Republic of China meeting the following requirements may register as a candidate for a secretary general of a fishermen association:
+
+(1)The secretary general of the National Fishermen Association shall have one of the following qualifications:
+
+i.He/She graduated from a university or an institution of college grade or above, or is qualified by a Senior Examination, and has served within a fisheries or fisheries related agency, school, financial institution, or fishermen organization in a position equivalent to junior rank for three years or more.
+
+ii.He/She graduated from a junior college or above, and has served within a fisheries or fisheries related agency, school, financial institution, or fishermen organization in a position equivalent to junior rank for five years or more.
+
+iii.He/She graduated from a senior high or senior vocational school, or is qualified by a Junior Examination, and has served within a fisheries or fisheries related agency, school, financial institution, or fishermen organization in a position equivalent to juniro rank for seven years or more.
+
+(2)A secretary general of a regional fishermen association shall have one of the following qualifications:
+
+i.He/She graduated from a university or an institution of college grade or above, or is qualified by a Senior Examination, and has served within a fisheries or fisheries related agency, school, financial institution, or fishermen organization in a position equivalent to elementary rank for two years or more.
+
+ii.He/She graduated from a junior college or above, and has served within a fisheries or fisheries related agency, school, financial institution, or fishermen organization in a position equivalent to elementary rank for four years or more.
+
+iii.He/She graduated from a senior high or senior vocational school, or is qualified by a Junior Examination, and has served within a fisheries or fisheries related agency, school, financial institution, or fishermen organization in a position equivalent to elementary rank for six years or more.
+
+(3)Any new secretary general of a fishermen association at any level shall not be older than 55 years old at the time of appointment.
+
+An incumbent secretary general that does not meet the qualifications as stipualted in the preceding paragraph may be exempted from the requirements of the preceding paragraph. Despite that, any person who will have age-mandated retirement within one year of the next term shall not register as a candidate for a secretary general.
+
+For any candidate for a secretary general who is assessed as qualified by the central competent authority, in case that he/she is found not meeting any of the requirements as stipulated in paragraph 1 before the appointment, the central competent authority shall revoke his/her qualification, and so shall be the case for the appointment if he/she is appointed.
+
+### Article 26-2
+
+A person that is under any of the following circumstances shall not register as a candidate for a secretary general of a fishermen association; if registered or appointed, it shall be revoked or nullified.
+
+(1)Where he/she does not have the nationality of the Republic of China.
+
+(2)Where he/she has any debt to the fishermen association in relation to property, membership fees/dues, business capital, or fisheries promotion fund; or (since 1 January 2001) he/she has any loan from a fishermen association or other financial institution(s) with a record of in-default repayment of the principal or interest for one year or more; or he/she has any debt on guaranty to the fishermen association, and fails to discharge after notification for more than one year.
+
+(3)Where he/she is under any of the circumstances as referred to in Article 16-1, sub-paragraph (3) to (8).
+
+(4)Where he/she is under any of the circumstances as referred to in Article 17, sub-paragraph (1) to (3).
+
+(5)Where he/she has been discharged from his/her position due to conviction of a crime during the service as an elective personnel or an employee of a fishermen association.
+
+(6)Where he/she was the responsible person of a legal person whose bankruptcy was declared within the last five years.
+
+### Article 26-3
+
+A secretary general of a fishermen association shall, within ten days of his/her appointment, submit a letter of guaranty signed by at least two guarantors who possess real estate, or a fidelity bond insurance policy, to the fishermen association for guarantee.
+
+The amount of real estate or insurance as referred to in the preceding paragraph shall be prescribed by the central competent authority.
+
+### Article 27
+
+Employees other than a secretary general of a fishermen association shall be recruited by the secretary general from those qualified by the joint examination of fishermen associations, and shall be subject to the instruction and supervision by the secretary general.
+
+The employees as referred to in the preceding paragraph shall be examined and trained jointly by the National Fishermen Association under the supervision of the central competent authority.
+
+### Article 28
+
+(Deleted)
+
+### Article 29
+
+A secretary general and other employee of a fishermen association shall serve on a full-time basis, and shall not concurrently operate any other industrial or commercial business, or serve any other salaried position for a public or private organization, or serve as a legislator at any level. If a secretary general or other employee runs election campaign for public officials, once he/she is elected and accedes, he/she shall be considered as resigning from the concerned fishermen association, and the person concerned shall be dismissed.
+
+### Article 29-1
+
+Spouses, relatives by blood within two generations, or relatives by marriage within one generation shall not serve at the same time as a chair of a board of directors, standing supervisor, or secretary general in the same fishermen association.
+
+In the event of being elected or appointed while under the situation as referred to in the preceding paragraph, the election or appointment shall be null and void.
+
+## Chapter VI Division of Powers and Responsibilities
+
+### Article 30
+
+The General Members (Representatives) Meeting shall be the body of the supreme power of a fishermen association. During its recess, the board of directors shall design and plan the association’s business operations in accordance resolution(s) adopted by the General Members (Representatives) Meeting, and the board of supervisors shall oversee the association’sbusiness operations and finance.
+
+### Article 31
+
+Members (Representatives), directors, and supervisors of a fishermen association shall exercise their powers only during a meeting.
+
+### Article 32
+
+When members (representatives), directors, and supervisors of a fishermen association attend any meeting in accordance with laws, each person is entitled to one vote. If a resolution adopted in the meeting is found violating any law or the charter of the concerned fishermen association, thus resulting in any damage to the fishermen association, they shall bear the joint and several liability for indemnity. Despite that, he/she who makes an objection during the voting procedure and such situation is recorded in the minutes shall be exempted from such liability.
+
+Any voting on major issues in a meeting of a fishermen association shall be done with written and disclosed ballot.
+
+### Article 33
+
+A secretary general of a fishermen association shall perform task(s) in accordance with resolution(s) adopted by the board of directors, and shall report to the board of directors.
+
+### Article 34
+
+In the event that a secretary general of a fishermen association violates any law or the charter of the fishermen association when performing task(s), thus resulting in any damage to the fishermen association, he/she shall bear the liability to indemnity.
+
+In the event of any damage to any property received by or in the custody of a fishermen association due to any cause other than force majeure, the secretary general and other employee(s) concerned shall bear the joint and several liability for indemnity.
+
+## Chapter VII Meetings
+
+### Article 35
+
+The General Members (Representatives) Meetings of a fishermen association, which include regular meeting and extraordinary meeting, shall be convened by the chair of the board of directors.
+
+Regular meetings of fishermen associations at any level shall be held once per year. An extraordinary meeting shall be convened at the request made by one-third or more of members (representatives), or when considered necessary by the board of directors.
+
+In case that the chair of the board of directors fails to convene an extraordinary meeting within ten days following the request as referred to in the preceding paragraph, the original proponent may apply to the competent authority for an order to convene the meeting.
+
+A regional fishermen association, in consideration of difficulty in convening a general members meeting due to the huge number of members, may divide electorates where members elect representatives to convene a representative meeting to exercise the power of the general members meeting.
+
+### Article 36
+
+Meetings of the board of directors and supervisors of a fishermen association shall be convened by the chair of board of directors and the standing supervisor, respectively, who shall serve as the chair of the meetings. The number of meetings to be convened shall be provided in the charter of a fishermen association.
+
+### Article 37
+
+A fishermen task force shall hold its meeting at least once per year, which shall be convened and chaired by the chief of the task force.
+
+### Article 38
+
+The General Members (Representatives) Meeting and meetings of the board of directors or supervisors of a fishermen association shall, unless otherwise provided in this Act, have a quorum of one-second of the members, and any resolution shall be adopted with the endorsement of simple majority of the attendantsactually present.
+
+For the meetings as referred to in the preceding paragraph, except for the meeting for the appointment of a secretary general, a second meeting may be convened if a quorum of one- third of the members is reached. Despite that, this exception does not apply if the number of required attendants is three or less.
+
+### Article 39
+
+For the following issues, resolutions shall be adopted by a two- thirds majority of the attendants actually present in the General Members (Representatives) Meeting, with a quorum of two- thirds of the total members (representatives) of a fishermen association:
+
+(1)Adoption or revision of the charter
+
+(2)Penalty against members.
+
+(3)Recall of elective personnel.
+
+(4)Fund-raising.
+
+(5)Disposal of properties.
+
+(6)Other major issues related to the rights and obligations of members.
+
+## Chapter VIII Funds
+
+### Article 40
+
+Funds of a fishermen association shall include the followings:
+
+(1)Enrolment fees: To be paid by members in lump sum upon affiliation in accordance with the standard adopted by the General Members (Representatives) Meeting and approved by the competent authority.
+
+(2)Annual membership dues: To be paid by members annually in accordance with the standard adopted by the General Members (Representatives) Meeting and approved by the competent authority. 20 percent of the annual membership dues of a subordinate fishermen association shall be contributed to its superior fishermen association.
+
+(3)Business capital: Exclusively for the use of operating businesses, with the rules and regulations for fund-raising and application to be adopted by the General Members (Representatives) Meeting and reported to the competent authority for reference.
+
+(4)Fisheries improvement and promotion fund: Exclusive for the use of fisheries guidance and improvement, to be paid by fishing vessel owners and fish farm owners, by year or by fishing season. For any fishermen association with the exclusive fishing right, it may charge such fund from its members who have the right of exclusive fishing. Standards and rules for charge shall be adopted by the General Members (Representatives) Meeting and approved by the competent authority.
+
+(5)Allocation fund from agricultural financial institution(s): Any government-owned agricultural financial institution shall annually appropriate at least four percent of its net profit, as a fund for guidance and business promotion of fishermen associations at any level.
+
+(6)Allocation fund from the business earnings: Subject to the final income statement of a fishermen association.
+
+(7)Government subsidies: The central and local competent authorities shall draw up budget for the subsidies to the business operations of fishermen associations.
+
+(8)Other revenues.
+
+### Article 41
+
+Accounting of each business of a fishermen association shall be separate independently, and the annual budget and final statement shall be prepared and reported to the General Members (Representatives) Meeting as well as to the competent authority for reference.
+
+### Article 42
+
+Following the annual final statement, earnings of each business, after being deducted to make up accumulated deficits and appropriated to the reserve of each business, shall be appropriated as the overall earnings of a fishermen association. The overall earnings of a fishermen association shall be allocated pursuant to the following provisions:
+
+(1)15 percent as the legal reserve, which shall not be allocated.
+
+(2)Five percent as the public welfare fund, which may only be used with the approval of the competent authority.
+
+(3)The fund for fisheries improvement, promotion, training and culture, and welfare business shall not be less than62 percent.
+
+(4)Eight percent as the fund for joint training and mutual aid.
+
+(5)Remunerations for directors, supervisors, and staff of a fishermen association shall not exceed ten percent.
+
+Regulations governing the custody and application of the legal reserve as referred to in sub-paragraph (1), public welfare fund as referred to in sub-paragraph (2), and the fund as referred to in sub-paragraph (4) of the preceding paragraph shall be prescribed by the central competent authority.
+
+The ratio of the earnings from each business to be appropriated as reserves as referred to in paragraph 1 shall be prescribed by the central competent authority together with the central competent authority of the target business.
+
+### Article 43
+
+(Deleted)
+
+## Chapter IX Supervision
+
+### Article 44
+
+In the event that any fishermen association neglects its duties, offends public interests, or oversteps the scope of its duties, the competent authority may issue a warming to it.
+
+### Article 45
+
+In the event that any resolution adopted by a fishermen association violates any law or regulation, offends public interests, or oversteps its purpose or tasks, the competent authority may issue a warming again, or revoke the concerned resolution.
+
+### Article 46
+
+In the event that a fishermen association oversteps its purpose or tasks in a significant manner, the competent authority may dismiss the association or revoke its registration.
+
+A fishermen association shall be re-organized soon after being dismissed or its registration being revoked.
+
+### Article 47
+
+Any action taken by a subordinate competent authority pursuant Article 45 or 46 shall be approved by its superior competent authority.
+
+### Article 48
+
+In the case of a fishermen association neglecting its works or having any other major incident, if deemed necessary, the competent authority may, upon approval of its superior competent authority, suspend the powers of the member representatives, directors, and supervisors, and re-adjust the association. Once the re-adjustment is completed, the association shall conduct re-election immediately. Regulations governing the adjustment shall be prescribed by the central competent authority.
+
+### Article 49
+
+In the event that any director, supervisor, or secretary general of a fishermen association violates any law or regulation or the charter, thus jeopardizing the interests of a fishermen association in a significant manner, the competent authority may suspend his/her power or discharge his/her position with the approval of its superior competent authority, or the superior competent authority may also take such action directly.
+
+### Article 49-1
+
+Any elective personnel or employee of a fishermen association, who is detained or wanted for a criminal case, shall be suspended from his/her powers.
+
+Any elective personnel or employee of a fishermen association sentenced to a final judgement of imprisonment or a more sever punishment shall be discharged from his/her position. Despite that, he/she who is pronounced with probation, or convicted with imprisonment for six months or under that may be commuted to a fine, shall be exempted from this provision.
+
+Any elective personnel or employee of a fishermen association who, prior to the enforcement of this amended Article, has been suspended from his/her powers in accordance with the provisions before the amendment, shall be subject to the amended provisions.
+
+For anyone that has been suspended from the powers in accordance with the provisions of paragraph 1, in the event that the detention is suspended or the wanted order is withdrawn, he/she may apply for resumption of the powers if his/her term has not expired.
+
+Any elective personnel or employee of a fishermen association who loses his/her qualification to be elected or appointed during the service shall be discharged from the position by the competent authority or the superior competent authority.
+
+### Article 50
+
+When a fishermen association is dismissed, the competent authority shall assign a liquidator empowered to exercise liquidation on behalf of the fishermen association.
+
+When a fishermen association is declared bankrupt, depositors of the credit department shall be entitled to the priority of compensation for the assets of the credit department.
+
+### Article 50-1
+
+Any person committing any of the following violations in an election of a fishermen association shall be subject to imprisonment of three years or under; in addition thereto, a fine of 90 thousand New Taiwan Dollars or under may be imposed:
+
+(1)Any person having the right the right of suffrage demands, agrees to accept, or accepts property or other improper benefits for refraining from exercising his/her right of suffrage or to exercise such right in a particular manner.
+
+(2)Any person promises, offers, or gives property or other improper benefits to a person who has the right of suffrage for refraining from exercising the right of suffrage or for exercising such right in a particular manner.
+
+(3)Any person promises, offers, or gives property or other improper benefits to a candidate for abandoning the election campaign or for engaging in campaign in a particular manner.
+
+(4)Any candidate demands, agrees to accept, or accepts property or other improper benefits for abandoning the election campaign or for engaging in campaign in a particular manner.
+
+For any person committing the violations as referred to in the preceding paragraph, the property used in the commitment or in the preparation for the commitment, or derived from or acquired through the commitment shall be confiscated, regardless of the ownership.
+
+### Article 50-2
+
+For any fishermen association to appoint a secretary general, in the event that any person commits any of the following violations from the date of candidacy registration for an election of directors, he/she shall be subject to imprisonment of three years or under; in addition thereto, a fine of 90 thousand New Taiwan Dollars or under may be imposed:
+
+(1)Any director or director candidate demands, agrees to accept, or accepts property or other improper benefits for promising to appoint or not to appoint.
+
+(2)Any person promises, offers, or gives property or other improper benefits to a director or director candidate for promising to appoint or not to appoint.
+
+(3)Any person promises, offers, or gives property or other improper benefits to a qualified candidate for appointment as a secretary general for declining the appointment.
+
+(4)Any qualified candidate for appointment as a secretary general demands, agrees to accept, or accepts property or other improper benefits for promising to decline the appointment.
+
+Any person who prepares to commit any of the violations as referred to in the preceding paragraph shall be subject to imprisonment of one year or under.
+
+For any person committing any of the violations as referred to in the preceding two paragraphs, the property used in the commitment or in the preparation for the commitment, or derived from or acquired through the commitment shall be confiscated, regardless of the ownership.
+
+### Article 50-3
+
+Any person who by violence, coercion, or other illegal mean(s) interferes with another in an election campaign, causes another to abandon an election campaign, or interferes with another in the free exercises of his/her right of suffrage, shall be subject to imprisonment of five years or under; in addition thereto, a fine of 150 thousand New Taiwan Dollars or under may be imposed.
+
+Any person who by violence, coercion, or other illegal mean(s) interferes with the registration, selection, or appointment of a secretary general shall be subject to the same punishment.
+
+An attempt to commit any of the violations as referred to in the preceding two paragraphs shall be punishable.
+
+### Article 50-4
+
+For any candidate who commits any of the violations as referred to in Article 50-1, paragraph 1 or Article 50-3, paragraph 1, his/her candidacy shall be revoked; if elected, the election shall be null and void.
+
+For any qualified candidate for appointment as a secretary general who commits any of the violations as referred to in Article 50-2, paragraph 1 or Article 50-3, paragraph 2, his/her candidate qualification shall be abolished; if appointed, the appointment shall be null and void.
+
+Any person who has committed any of the violations as referred to in Article 50-1, paragraph 1; Article 50-2, paragraph 1; or Article 50-3 shall not be a candidate for any election of a fishermen association or for the appointment as secretary general.
+
+Any offender as referred to in the preceding three paragraphs that is under the circumstances as provided in the proviso of Article 49-1, paragraph 2 shall be exempted from the provisions of this Article.
+
+### Article 50-5
+
+(Deleted)
+
+## Chapter X Supplementary Provisions
+
+### Article 51
+
+(Deleted)
+
+### Article 51-1
+
+To the procedures of litigation resulting from an election or recall of a fishermen association and the procedures regarding the appointment and discharge of a fishermen association’ssecretary general, except those cases involving provisional injunction, the Code of Civil Procedure shall mutatis mutandis apply.
+
+### Article 51-2
+
+Regulations governing the management of personnel, the disposal of financial affairs, the appointment of secretary generals, elections and recall, and the performance evaluation for fishermen associations at any level shall be prescribed by the central competent authority with the following contents and scopes:
+
+(1)Regulations governing the management of personnel: Personnel appraisal, authorized number of staff, ranks and required qualifications for appointment or employment, salaries, inauguration, resignation, performance evaluation and rewards/penalty, lay-off, retirement, indemnity, services, and other matters to be followed.
+
+(2)Regulations governing the disposal of financial affairs: Accounting, budget and final statement preparation and review, property management, examination on financial affairs, mandates of accountants, and other matters to be followed.
+
+(3)Regulations governing the appointment of secretary generals: Candidacy registration, qualifications review, appointment procedures, review items, grading standards, and other matters to be followed.
+
+(4)Regulations governing elections and recall: Categories of elections and recall, candidacy registration, qualifications review procedures, voting and ballot counting, election results, elements for recall establishment, and other matters to be followed.
+
+(5)Regulations governing performance evaluation: evaluation items, grading standards, determinations, rewards/penalty, and other matters to be followed.
+
+### Article 52
+
+The enforcement rules of this Act shall be prescribed by the central competent authority.
+
+### Article 53
+
+This Act shall become effective on the date of promulgation.
+
+The articles of this Act amended on 5 May 2009 shall become effective on 23 November 2009.
+
+## History
+
+1.The full text of 29 Articles was enacted and promulgated by the Nationalist government on 11 November 1929 and came into effect on 1 July 1930.
+
+2.Article 4 and Article 7 were amended and promulgated by the Nationalist government on 5 August 1932.
+
+3.The full text of 40 Articles was amended and promulgated by Presidential Order on 30 December 1948.
+
+4.The full text of 53 Articles was amended and promulgated by Presidential Order (64) Tai-Tung (1) Yi-Tzu No.5497 on 13 December 1975.
+
+5.Article 4-6, 15, 16, 26, 42, 50 were amended, and Article 51 was deleted, and promulgated by Presidential Order(70) Tai-Tung (1) Yi-Tzu No. 4787 on 17 July 1981.
+
+6.Article 16, 24 were amended, and Article 15-1, 50-1, 50-2, 50-3, 50-4 were added, and promulgated by Presidential Order (74) Hua-Tsung (1) Yi-Tzu No.0379 on 23 January 1985.
+
+7.Article 4, 5, 11, 16, 22, 24, 27, 29, 37, 38, 40, 42, 45, 50-3 were amended, and Article 16-1, 21-1, 21-2, 23-1, 24-1, 26-1, 26-2, 49-1, 51-1, 51-2 were added, and Article 28, 43 were deleted, and promulgated by Presidential Order (77) Hua-Tsung (1) Yi-Tzu No.2531 on 24 June 1988.
+
+8.Article 29 was amended and promulgated by Presidential Order (80) Hua-Tsung (1) Yi-Tzu No.3913 on 2 August 1991.
+
+9.Article 49-1 was amended and promulgated by Presidential Order (88) Hua-Tsung (1) Yi-Tzu No.8800149810 on 30 June 1999.
+
+10.Articles 3, 6, 26, 27, 52 were amended and promulgated by Presidential Order (89) Hua-Tsung (1) Yi-Tzu No.8900177690 on 19 July 2000.
+
+11.Articles 26-3, 29-1, 50-5 were added and Articles 4, 5, 15, 15-1, 16-1, 21-2, 24, 26, 26-2, 42, 46, 49-1, 50-2, 50-4, 51-1, 51-2 were amended and promulgated by Presidential Order (90) Hua-Tsung (1) Yi-Tzu No.9000043400 on 9 March 2001.
+
+12.Article 21-1 was amended and promulgated by Presidential Order Hua-Tsung (1) Yi-Tzu No.09300118721 on 23 June 2004.
+
+13.Articles 26 and 49-1 were amended and promulgated by Presidential Order Hua-Tsung (1) Yi-Tzu No.09600078271 on 20 June 2007.
+
+14.Article 29 was amended and promulgated by Presidential Order Hua-Tsung (1) Yi-Tzu No.09800015951 on 23 January 2009.
+
+15.Articles 17 and 53 were amended and promulgated by Presidential Order Hua-Tsung (1) Yi-Tzu No.09800129171 on 27 May 2009 and came into effect on 23 November 2009.
+
+16.Article 19 was amended and promulgated by Presidential Order Hua-Tsung (1) Yi-Tzu No.09900140681 on 9 June 2010.
+
+17.Articles 6, 20 and title of Chapter 3 were amended, and Articles 6-1, 14-1~14-6 were added and promulgated by Presidential Order Hua-Tsung (1) Yi-Tzu No.10100021431 on 30 January 2012.
+
+18.Article 50-5 was deleted and Articles 5, 11, 15-1, 23-1, 26-1, 27, 35 were amended and promulgated by Presidential Order Hua-Tsung (1) Yi-Tzu No.10100264221 on 28 November 2012.
+
+19.Article 19 was amended and promulgated by President Order Hua-Tsung (1) Yi-Tzu No. 10400151531 on 30 December 2015.
+
+20.Article 50-1, 50-2, 50-3 were amended and promulgated by President Order Hua-Tsung (1) Yi-Tzu No. 10500147021 on 30 November 2016.
+
+21.Article 15, 15-1 were amended and promulgated by President Order Hua-Tsung (1) Yi-Tzu No. 11000008911 on 3 February 2021.
+
+The mandates that belong to the “Council of Agriculture, Executive Yuan” as stipulated in Article 3; Article 4, paragraph 1, subparagraph (19); Article 5, paragraph 3 ; Article 6, paragraph 1 and 3; Article 8; Article 11, paragraph 2; Article 12; Article 13; Article 14-6, paragraph 1; Article 15, paragraph 6; Article 16, paragraph 1; Article 21-1, paragraph 1, subparagraph (3); Article 21-1, paragraph 2; Article 23, paragraph 2; Article 23-1, paragraph 1; Article 26, paragraph 1 and 2; Article 26-1, paragraph 3; Article 26-3, paragraph 2; Article 27, paragraph 2; Article 35, paragraph 3; Article 40, subparagraph (1), (2), (3), (4); Article 41; Article 42, paragraph 1, subparagraph (2) ; Article 42,paragraph 2 and 3; Article 44; Article 45; Article 46, paragraph 1; Article 47; Article 48; Article 49; Article 49-1, paragraph 5; Article 50, paragraph 1; Article 51-2; Article 52 shall be under the mandates of the “Ministry of Agriculture” from 1 August 1 2023, as promulgated by the announcement Yuan-Tai-Guei-Tzu No. 1125014346 made by the Executive Yuan on 27 July 2023.

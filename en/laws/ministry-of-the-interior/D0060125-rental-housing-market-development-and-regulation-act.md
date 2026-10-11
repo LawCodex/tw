@@ -1,0 +1,533 @@
+---
+title: "Rental Housing Market Development and Regulation Act"
+title_zh: "租賃住宅市場發展及管理條例"
+identifier: "D0060125"
+type: act
+law_level: "法律"
+category: "行政＞內政部＞地政目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2017-12-27
+last_amended: 2023-02-08
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0060125"
+retrieved: 2026-10-12
+---
+
+# Rental Housing Market Development and Regulation Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-the-interior/D0060125-rental-housing-market-development-and-regulation-act.md](../../../zh/laws/ministry-of-the-interior/D0060125-rental-housing-market-development-and-regulation-act.md)) is authoritative.
+
+## Chapter 1. General Provisions
+
+#### Article 1
+
+This Act is enacted to protect people’s right to housing, create a robust rental housing market, protect the rights of the lease parties, and develop the rental housing service industry.
+
+#### Article 2
+
+The competent authority is the Ministry of the Interior in the central government, the municipal governments in municipalities, and the county (city) governments in counties (cities).
+
+#### Article 3
+
+The terms used in this Act shall be defined as follows:
+
+\1. Rental housing: A residential unit (an apartment, a house, etc.) that is rented for residential uses.
+
+\2. Rental housing contract (hereinafter referred to as the lease): A contract in which one party agrees to rent out a residential unit for the other party's use, and the latter agrees to pay rent in return.
+
+\3. Rental housing service business: Rental housing management business and rental housing subleasing business.
+
+\4. Rental housing management business (hereinafter referred to as RHMB): Corporations commissioned by the lessor to manage rental housing.
+
+\5. Rental housing subleasing business (hereinafter referred to as RHSB): Corporations rent rental housing and then sublease and manage it.
+
+\6. Rental housing management service: inspecting the space and fixtures of the rental housing to check for wear, tear and damage, collecting rent, managing security deposits, handling day-to-day maintenance, mediating disputes, and dealing with other matters related to rental housing management.
+
+\7. Business venue: stores, offices, and other places where RHSB and RHMB run their business.
+
+\8. Rental housing manager: a person employed by a rental housing service business to provide service.
+
+\9. Subleasing: renting rental housing and then leasing all or part of it to others for residential purposes and collecting rents.
+
+\10. Sub-lessor: a person who leases all or part of her leased rental housing to others.
+
+\11. Sub-lessee: a person who pays rent to rent rental housing for residential purposes from a lessee.
+
+\12. Parties of rental housing service: a commissioner of RHMB services and a lessee, or a lessor and a sub-lessee in RHSB services.
+
+\13. Security deposit: Money lessees pre-pay as collateral for compensation for damaged rental housing and duties arising from dealing with leftover things.
+
+#### Article 4
+
+This Act is not applicable to rental housing if any of the following conditions hold:
+
+\1. For recreational or tourism purposes.
+
+\2. Managed and operated by governments or legal entities established by governments.
+
+\3. Managed by cooperatives.
+
+\4. Lease period less than 30 days.
+
+## Chapter 2. Improving Rental Housing Relationship
+
+#### Article 5
+
+Consumer Protection Act applies to the lessor and lessee of the lease as they are considered to be in a consumer relationship.
+
+For the Rental Housing Subleasing Contract between RHSB and lessor, the competent authority in the central government may prescribe terms that leases shall and shall not include.
+
+Clauses that leases shall include, referred to in the previous Paragraph, may contain:
+
+\1. The major contractual rights or obligations.
+
+\2. The effects of contract breach.
+
+\3. The right to terminate and the legal effects.
+
+\4. Other major matters related to contract performance.
+
+Clauses that leases shall not include, referred to in the Paragraph 2, may contain:
+
+\1. Limitation or waiver of liabilities, or obligations of a leasing party.
+
+\2. Restriction or deprivation of rights that a leasing party otherwise may exercise, or imposition of extra duties or obligation on a leasing party.
+
+\3. Other obviously unfair stipulations.
+
+In the Rental Housing Subleasing Contract of Paragraph 2, terms are of no effect if violating the prescription by the competent authorities referred to in such Paragraph. Terms that such leases should include, but fail to include, still constitute part of the lease. This rule applies to oral agreements as well.
+
+If any clauses of the Rental Housing Subleasing Contract, or portions thereof, are found to be null, void, or not constitutive of the contract, the remainder of the contract shall remain valid, provided that such removal does not impact the contract's formation. However, if the removal of such clauses results in a significant unfairness to one party, the entire contract shall be deemed null and void.
+
+#### Article 6
+
+The rent of rental housing is mutually agreed upon by the lessor and the lessee, and Article 97 of the Land Act is not applicable.
+
+#### Article 7
+
+The amount of security deposits shall not surpass the equivalent of two months’ rent.
+
+When leases expire and the lessee return the rental housing and pay back debts arising from leases, the lessors shall return the security deposits after deducting any unpaid debt.
+
+#### Article 8
+
+The lessor shall be bound to deliver to the lessee the rental building leased in a condition fit for the stipulated residential use. The lessor shall also be liable to keep it up in such a condition as to be fit for such uses during the lease period.
+
+The lessor shall, before signing leases, explain to the lessee the extent to which the lessor is responsible for repairs and provide the lessor’s contact information for when repair is necessary.
+
+When the lessor has agreed to be responsible for repairing a certain part but fails to make such repairs within the appropriate period fixed by the lessee, the lessee can make the repairs and require the lessor to reimburse the expense or deduct the expense from the agreed rent.
+
+The lessee must not prevent the lessor from conducting necessary repairs to the leased housing.
+
+#### Article 9
+
+The lessee cannot sublease the rental housing in whole or in part, without the prior written consent by the lessor.
+
+The sub-lessor should provide the sub-lessee with the lessor’s written consent document  at the time of when signing the sublease. Additionally, the sublease must specify the terms agreed upon and stipulate in the sublease the agreement between the sub-lessor and the lessor, including regarding the lease object, period, and causes conditions for early of contract termination of the contract.
+
+The sub-lessor shall inform the lessor in writing within 30 days of after signing the subleases agreement.
+
+#### Article 10
+
+The lessor may terminate the lease before expiry if one of the following conditions holds during the lease period, and the lessee may not demand any compensation:
+
+\1. The lessee damages the rental housing or auxiliary facilities and fails to make repair or pay proper compensation.
+
+\2. After a reasonable period of notification, the total rental or fees in arrears amounts to two months’ rent.
+
+\3. The lessee subleases the rental housing to another person without the lessor’s prior written consent.
+
+\4. The lessor terminates the lease to reconstruct the building.
+
+\5. Other statutorily permitted causes for termination of leases before expiry.
+
+A lessor who terminates the lease before expiry according the previous Paragraph should inform the lessee in writing, along with related evidence, within the following prescription period:
+
+\1. Pursuant to the first to third or the fifth Sub-Paragraph of the previous Paragraph, at least 30 days before termination.
+
+\2. Pursuant to the fourth Sub-Paragraph of the previous Paragraph, at least 3 months before termination.
+
+#### Article 11
+
+During the lease period, if any of the following scenarios occurs, the lessee may terminate the lease before expiry, and the lessor may not claim any compensation:
+
+\1. The lessee requires long-term medical care due to illness or accident.
+
+\2. Rental housing is unsuitable for dwelling and requires repair, but the lessor fails to undertake repairs within a reasonable period specified by the lessee.
+
+3.If, in consequence of circumstances for which the lessee is not responsible, the rental housing is partially destroyed and the remaining part is uninhabitable.
+
+\4. Third parties exercise their rights on the rental housing, so that the lessee cannot use it pursuant to the lease.
+
+The successor of a deceased lessee may terminate the lease.
+
+The lessee (pursuant to Paragraph 1) or the successor of a lessee (pursuant to the previous Paragraph) should inform the lessor in writing, along with related evidence, at least 30 days before termination.
+
+#### Article 12
+
+When the lease expires, both parties shall jointly inspect the space and fixtures of the rental housing to check for wear, tear and damage. If one party abstains from this inspection despite a reasonable notice given by the other party, the inspection is deemed complete.
+
+Items left in the rental housing after inspection are presumed abandoned by the lessee, after the lessor has fixed a reasonable period and requested that the lessee take them back, unless otherwise stipulated in a contract between the two lease parties. The expense for removing the remaining items incurred by the lessor can be deducted from the security deposit. If the security deposit is insufficient for the reimbursement, the lessor can demand that the lessee pay.
+
+#### Article 13
+
+The advertisement of rental housing posted by the lessor should match the facts.
+
+Where “operation officers of media” that post rental housing advertisements know or should have known that the advertised area, building age, floor and legal uses do not match the facts, they shall be jointly and severally liable to lessees for their reliance damages. Such liabilities cannot be limited or waived by any agreement in advance.
+
+The information referred to in the previous Paragraph may be verified by sources such as public information provided by the government and (certified) copies of building registration certificates provided by the advertiser.
+
+The advertiser, as referred to in Paragraphs 1 and 2, being a rental housing service business, should clearly indicate its name in the advertisement.
+
+#### Article 14
+
+To improve rental housing relationships, the competent authorities may establish rental housing professional service mechanisms, develop rental housing service industries, encourage research in rental housing systems, and provide dispute resolution and consultation.
+
+The competent authorities may provide guidance and incentives to other agencies, institutions, and rental housing-related associations to undertake the aforementioned tasks. Detailed regulation regarding whom and how to assist and reward may be stipulated by the competent authority in the central government.
+
+For tasks described in the first Paragraph, associations that serve economically or socially disadvantaged individuals, as defined by the Housing Act, should be given priority in their implementation.
+
+#### Article 15
+
+The competent authorities, in order to protect the rights and interests of the lease parties, may assist in starting non-profit associations of which the lessors or lessees are members. Such non-profit associations should provide professional consultation, educational training or assistance in dispute resolution.
+
+Such non-profit associations referred to in the previous Paragraph should actively inquire whether lease parties need language translation and hire interpreters if need be.
+
+The competent authorities may provide incentives to these non-profit associations for carrying out the tasks referred to in the first Paragraph. The criteria and methods for these incentives will be stipulated by the competent authority in the central government.
+
+#### Article 16
+
+When a rental housing dispute occurs, the lessor and the lessee may apply to the municipal governments or the county (city) governments for mediation without paying a mediation fee.
+
+#### Article 17
+
+Individual owners of residential units who commission their residential units to the RHMB or lease their housing to the RHSB for subleasing, where the contract covenants residential uses for more than one year, may receive income tax benefits for the rents pursuant to the following conditions:
+
+\1. The amount of rental income which does not exceed six thousand NT dollars per residential unit each month is exempt from income tax.
+
+\2. In case the amount of rental income exceeds six thousand NT dollars per residential unit each month, if the owner of residential units cannot produce evidence of necessary loss and expenses for tax deduction, income tax on rental income shall be calculated based on the following formula:
+
+(A) 53% of the rental income per residential unit per month between six thousand NT dollars and twenty thousand NT dollars is subject to income tax.
+
+(B) If the rental income per residential unit per month exceeds twenty thousand NT dollars, the tax reduction for the rental income above the threshold should be calculated based on the standards prescribed in the Income Tax Act and related regulations.
+
+Income tax exemption in the preceding Paragraph shall be limited to five years. The Executive Yuan may extend the tax exemption period at most once based on the actual situation six months before the period expires.
+
+#### Article 18
+
+The municipal governments and the county (city) governments may reduce the land value tax and housing tax on rental housing which fulfills the requirements of the preceding Article.
+
+The self-governance ordinance on the period, scope, standard, and procedures for tax reduction in the preceding Paragraph shall be prescribed by the competent authorities in municipalities and counties (cities), and shall be reported to the Ministry of Finance for future reference.
+
+Tax reduction referred to in the first Paragraph shall be limited to five years. The Executive Yuan may extend the tax reduction period at most once based on the actual situation six months before the period expires.
+
+## Chapter 3. Rental Housing Service Business
+
+### Section 1. Registration
+
+#### Article 19
+
+Rental housing service businesses shall apply to the competent authorities in municipalities or counties (cities) for permits and complete corporation registration within three months of acquiring the permit; otherwise, the competent authority will revoke the permit.
+
+Rental housing service businesses cannot start operation before: depositing a guarantee bond of operation within six months of completing corporation registration, employing rental housing managers, joining the local trade association where the business has registered, filing relevant proof and documents to the competent authorities in municipalities or counties (cities) to register as rental housing service businesses, and receiving the registration certificate. The competent authorities in municipalities or counties (cities) shall revoke the permits if registration is not completed by the prescribed time, and notify the competent authorities of corporation registration to remove the business from the registry.
+
+In the case where a rental housing service business has set up a separate business branch, operation cannot begin before depositing a guarantee bond of operation, employing rental housing managers, filing relevant proof and documents to the competent authorities in municipalities or counties (cities) to register the branch, and receiving the registration certificate.
+
+The amount of guarantee bond of operation referred to in the first two Paragraphs shall be calculated based on the number of branches and the operation scale.
+
+If rental housing service businesses and their branches fail to commence business operation within six months of receiving permits or have discontinued their operation for over six months, the competent authorities in municipalities or counties (cities) shall remove them from the registry and revoke their registration certificates, unless the rental housing service businesses and their branches have filed for discontinuity registration pursuant to legal procedures.
+
+If rental housing service businesses and all of their branches have their registration certificates revoked and have been removed from the registry, the competent authorities in municipalities or counties (cities) shall revoke their permits and notify the competent authorities responsible for corporation registration to remove the business from the registry.
+
+RHMB and RHSB should jointly, but not separately, form trade associations.
+
+#### Article 20
+
+A person having any of the following situations may not serve as a person responsible for running a rental housing service business. If he has assumed such a post, the competent authorities in municipalities or counties (cities) shall order the rental housing service business to rectify matters within the specified period. If it fails to rectify matters by the deadline, the competent authorities in municipalities or counties (cities) shall remove it from the registry, revoke its permit, and notify the competent authorities of corporation registration to remove the business from the registry.
+
+\1. Having been adjudicated bankrupt, and having not been reinstated to his rights and privileges.
+
+\2. Having been dishonored for unlawful use of negotiable instruments, and the term of such sanction has not expired yet.
+
+\3. A court has initiated a debt clearance procedure pursuant to the Consumer Debt Clearance Act and has not reinstated the person in question.
+
+\4. Having no or limited legal capacity to make any juristic act, or being currently subject to guardianship or assistantship.
+
+\5. Having committed the following crimes: fraud, breach of trust, misappropriation, abrupt taking, robbery, extortion or kidnapping for ransom, Article 173, Article 174, Article 176, Article 178, Article 179, Article 226-1, Article 271 to 276, Article 332, Article 334, Article 348 of the Criminal Code of the Republic of China, Article 2 of the Sexual Assault Crime Prevention Act, Article 23 to Article 27 of the Child and Youth Sexual Exploitation Prevention Act, Article 32 to 37 of the Child and Youth Sexual Exploitation Prevention Act, Paragraph 1 of Article 3, Article 6, Article 9 of the Organized Crime Prevention Act, Article 7, Article 8 , Article 14, or Article 15 of the Controlling Guns, Ammunition and Knives Act; where such persons committing the crimes have been sentenced to one-year or longer imprisonment; and such persons have not fully served their time or it has been less than 3 years since such persons fully served their time or were pardoned. This Sub-Paragraph does not apply to those who are sentenced to probation.
+
+\6. Less than one year has passed since permits to run rental housing service businesses were revoked, unless the permit was revoked pursuant to Paragraph 6 of Article 19.
+
+#### Article 21
+
+Rental housing service businesses that make any change of matters that they should get permits for shall apply to the competent authorities in municipalities or counties (cities) for revised permits within thirty days of making the change. Relevant documents of proof must be submitted together with such application.
+
+When information contained in the registry is outdated, rental housing service businesses or their branches shall apply to the competent authorities in municipalities or counties (cities) for updating registration within thirty days of informational change. Relevant documents of proof must be submitted together. Changes to employed rental housing managers should be processed pursuant to Paragraph 3.
+
+Rental housing service businesses or their branches shall report changes in identities of employed rental housing managers to the competent authorities in municipalities or counties (cities) within thirty days of the changes. Relevant documents of proof must be submitted together.
+
+#### Article 22
+
+If the guarantee bond of operation that the rental housing service business should pay exceeds a certain amount of money, a letter of guarantee provided by a financial institution may guarantee this excess.
+
+The guarantee bond of operation referred to in Paragraphs 2 and 3 of Article 19 shall be deposited in a special guarantee bond account opened in a financial institution named by the National Joint Trade Association of Rental Housing Service Business of the R.O.C. (hereinafter referred to as the National Joint Association), and a management committee shall be in charge of the account; the interest generated by the bond shall be earmarked toward developing a sound rental housing service management system.
+
+Representatives from the rental housing service businesses in the management committee referred to in the previous Paragraph shall not fill more than two-fifths of the seats on the committee. The competent authority in the central government shall specify rules regarding the organization of the management committee and the management of the guarantee bond of operation.
+
+The guarantee bond of operation shall be spent under no circumstances but those referred to in Paragraph 4 of Article 31.
+
+If the guarantee bond a rental housing service business pays is below the amount specified by Paragraph 3 of Article 24, the National Joint Association shall demand that the rental housing service business make up the payment within a month. The National Joint Association shall inform the competent authorities in municipalities or counties (cities) of any non-compliance and the latter may impose civil fines pursuant to Sub-Paragraph 3 of Paragraph 1 of Article 37.
+
+#### Article 23
+
+The guarantee bond is a separate patrimony of rental housing service businesses and their employees. Except in circumstances referred to in Paragraph 4 of Article 31, the guarantee bond shall not be transferred, held in custody, set off, or used as collateral.
+
+Ownership of the guarantee bond shall be transferred when rental housing service businesses merge or change organizational form.
+
+#### Article 24
+
+If one of the following conditions holds, and no victims demand vicarious compensation pursuant to Paragraph 4 of Article 31, rental housing service businesses may request in writing that the National Joint Association return the deposited guarantee bond starting one year (but no later than three years) after the following condition materializes. Interests accrued on the guarantee bond are excluded from the return amount.
+
+\1. Corporate dissolution.
+
+\2. Exit from rental housing service business after amending the corporate registration.
+
+\3. Permits revoked by the competent authorities in municipalities or counties (cities).
+
+\4. Removal from corporation registry by the competent company registration authority.
+
+Rental housing service businesses that close branches or downsize, such that their deposited guarantee bond exceeds the prescribed amount, may demand return of the overpaid guarantee bond amount pursuant to the timeline and procedure prescribed in the previous Paragraph, if no victims demand vicarious compensation pursuant to Paragraph 4 of Article 31.
+
+The competent authority in the central government shall stipulate detailed regulations regarding the procedure for depositing the guarantee bond (referred to in Paragraphs 2 and 3 of Article 19), the amount of the guarantee bond (referred to in Paragraph 4 of Article 19), and ways to provide a letter of guarantee or return the guarantee bond referred to in the previous two Paragraphs.
+
+#### Article 25
+
+Rental housing service businesses shall employ qualified rental housing managers to run RHMB and RHSB tasks.
+
+Rental housing service businesses shall have at least one full-time rental housing manager. Each branch shall have at least one full-time rental housing manager.
+
+A full-time rental housing manager should not be employed by two or more rental housing service businesses at the same time.
+
+### Section 2. Rental housing managers
+
+#### Article 26
+
+A person may not be employed as a rental housing manager without attending training courses held by National Joint Association, passing its qualification examination, and registering at and acquiring a rental housing manager permit from the competent authority in the central government or agencies, organizations, associations, or schools designed by the competent authority in the central government within one year of receiving the permit.
+
+The permit referred to in the previous Paragraph is effective for four years. Rental housing managers shall, during the last six months before it expires, apply to the competent authority in the central government or the designated agency, association, or school for renewing permits and updating the registry. Rental housing managers shall provide documents showing that they attended and passed qualification examinations of the renewal training courses held by the National Joint Association in the past two years.
+
+The competent authority in the central government shall prescribe regulations regarding the training, examination qualification, training program, course hours, fee schedule for the training program, registration, issuance and renewal of permits, fee schedule for issuing and renewing permits, and other compliance matters referred to in the preceding two Paragraphs.
+
+#### Article 27
+
+A person having any of the following situations referred to in Sub-Paragraphs 4 and 5 of Paragraph 1 of Article 20 is not qualified as a rental housing manager. If the person has assumed such a post, the competent authority in the central government should revoke the permit with a public notice and remove the person from the registry.
+
+A rental housing manager employed by a rental housing service business cannot be in charge of RHMB and RHSB matters if she is not qualified as one for reasons referred to in the preceding paragraph.
+
+### Section 3. Business and Duty
+
+#### Article 28
+
+RHMB cannot commence its RHMB operation before signing a rental housing management commission contract with the commissioner.
+
+RHMB referred to in the previous Paragraph shall not commission other RHMB to operate its business.
+
+#### Article 29
+
+RHSB cannot commence its operation or post advertisements before signing leases with a lessor who is willing to sublease its rental housing.
+
+When RHSB and a sub-lessee sign a lease, the former should provide a check list of the status quo of the rental housing and documents that demonstrate the lessor’s consent referred to in the previous Paragraph. The lease should also include the boundary of the lease target, period, and conditions for early termination, as agreed between RHSB and the lessor.
+
+RHSB shall within 30 days of signing the lease referred to in the previous Paragraph inform the lessor in writing of the boundary of the lease target, period and the information regarding the sub-lessee.
+
+#### Article 30
+
+If the lessor terminates the lease before its expiry and after RHSB has sub-leased the rental housing, RHSB should inform the sub-lessee within five days of knowing of the termination and terminate the sub-lease. RHSB shall be the coordinator in returning the rental housing to the lessor and inspecting the space and fixtures, returning prepaid rent and all or part of the security deposit, and assisting the sub-lessee in finding other rental housing.
+
+When the lessor terminates the lease before its expiry as referred to in the preceding Paragraph, the lessor may inform the sub-lessee when the RHSB discontinues its operation, dissolves, or moves to an unknown place. The lessor or the sub-lessee can request assistance from the local trade association or the National Joint Association with lease renewal or the return of the rental housing. The local trade association or the National Joint Association are obliged to provide mediation and cannot refuse such requests.
+
+Article 31 applies if the early termination of leases referred to in the preceding two Paragraphs causes lessor or sub-lessee losses that are imputable to RHSB.
+
+#### Article 31
+
+A rental housing service business is liable for damages for losses caused to parties of rental housing services for lease default imputable to the rental housing service business.
+
+The rental housing service business is jointly and severally liable for damages for losses caused by intentional or negligent acts of its employees to parties of rental housing services.
+
+When the victim referred to in the previous two Paragraphs demands that the National Joint Association pay compensation vicariously, the guarantee bond management committee should step in to mediate immediately.
+
+When the victim obtains a writ of execution over a rental housing service business or its employees, or when the guarantee bond management committee decides to pay in a mediation resolution, the victim may demand that the National Joint Association, using the guarantee bond deposited by the rental housing service business in question and the credit guaranteed by a financial institution for this rental housing service business, compensate vicariously. Following the vicarious compensation, the National Joint Association shall, pursuant to Paragraph 5 of Article 22, demand that the rental housing service business make up the guarantee bond within the specified time.
+
+#### Article 32
+
+A full-time rental housing manager designated by the rental housing service business should sign the following documents:
+
+\1. A commission contract of rental housing management.
+
+\2. A lease.
+
+\3. A check list of the status quo of the rental housing.
+
+\4. Documents of proof regarding the wear, tear, and damage of the space and fixtures of the rental housing.
+
+\5. Receipts of rents, security deposits, and other fees.
+
+\6. Receipts of returned rents and security deposits.
+
+Sub-Paragraph 1 of the preceding Paragraph is not applicable to RHSB; Sub-Paragraphs 2 and 3 of the preceding Paragraph are not applicable to RHMB.
+
+The competent authority in the central government shall specify the terms that should and should not be included in the boilerplate for leases (referred to in Sub-Paragraph 1 of Paragraph 1) and subleases (referred to in Sub-Paragraph 2 of Paragraph 1).
+
+#### Article 33
+
+A rental housing service business shall display the following documents in an obvious place in its business venue and on its website.
+
+\1. The registration certificate.
+
+\2. The certificate of membership of a trade association
+
+\3. The rental housing manager permit
+
+\4. The schedule of management fees and the payment methods.
+
+The Sub-Paragraph 4 of the preceding Paragraph is not applicable to RHSB.
+
+#### Article 34
+
+Rental housing service businesses shall, within 30 days from the date of contracting, provide the competent authorities in municipalities and counties (cities) with information regarding commission, lease, and sublease.
+
+For subleasing rental housing of RHSB cases, the RHSB shall declare the current transaction information to the competent authorities in municipalities or counties (cities)after signing the rental contract within 30 days. (hereinafter referred to as the declared transaction information).
+
+The Government may utilize the declared transaction information of the preceding paragraph, and provide publicly for inquiry, without revealing personal data.
+
+Rules of the categories and contents of the declared transaction information of Paragraph 2, and the provision of information contents, methods, fees and other matters to follow in the preceding paragraph, shall apply mutatis mutandis to the provisions of the regulations stipulated pursuant to Paragraph 5 of Article 24-1 of the Real Estate Broking Management Act.
+
+The competent authorities in municipalities or counties (cities) may request the RHSB or sub-lessee to access, obtain relevant documents, or provide explanations, to confirm the declared transaction information. The inspected person shall not evade, hinder, or refuse the inspection.
+
+The inspection in the preceding paragraph shall not exceed the necessary scope for the purpose of ensuring the correctness of the declared transaction information.
+
+The competent authority in the central government should prescribe regulations regarding the information categories, contents, provision methods, and other matters to be complied with in the first paragraph.
+
+#### Article 35
+
+The competent authority may inspect the operation of a rental housing service business. A rental housing service business may not avoid, impede, or refuse to cooperate with such an inspection.
+
+## Chapter 4. Penalties Provisions
+
+#### Article 36
+
+The competent authorities in municipalities or counties (cities) shall ban those who without certification from operating RHMB or RHSB. Violating this regulation, the person in charge of a company, a business, and a limited partnership as well as agents shall be fined between forty thousand and two hundred thousand NT dollars and be ordered to rectify matters within the specified period. Failure to rectify matters by the deadline will result in further punishment for each violation. If the violation is serious, the competent authority may suspend operations.
+
+#### Article 37
+
+If a rental housing service business is found in one of the following situations, the municipal or county (city) competent authorities may impose a civil fine between ten thousand and fifty thousand NT dollars and order the offender to rectify matters within the specified period. Failure to rectify matters by the deadline will result in further punishment for each violation.
+
+\1. The contents of advertisements are inconsistent with the facts, or the name of the rental housing service business is not specified, thus in contravention of Paragraphs 1 and 4 of Article 13.
+
+\2. Separate business branches commence operating without acquiring registration certificates, thus in contravention of Paragraph 3 of Article 19.
+
+\3. Failing to make up the operation deposit within the period, thus in contravention of Paragraph 5 of Article 22.
+
+\4. Employing those who are not qualified rental housing managers, thus in contravention of Paragraph 1 of Article 25.
+
+\5. Performing before signing a commission contract of rental housing management, thus in contravention of Paragraph 1 of Article 28.
+
+\6. Advertising or performing without lessor’s consent of subleasing and signing a lease, thus in contravention of Paragraph 1 of Article 29.
+
+\7. Avoiding, impeding, or refusing to cooperate with the competent authority’s inspection, thus in contravention of Article 35.
+
+#### Article 38
+
+If a rental housing service business is found in one of the following situations, the competent authorities in a municipality, county or city may impose a civil fine between six thousand and thirty thousand NT dollars and order the offender to rectify matters within the specified period. Failure to rectify matters by the deadline will result in further punishment for each violation.
+
+\1. Commissioning other RHMB to carry out business, thus in contravention of Paragraph 2 of Article 28.
+
+\2. Failing to provide a check list of the status quo of the rental housing or documents that demonstrate the lessor’s consent, or failing to specify the boundary of the lease target, period, and cause for early termination (as agreed between RHSB and the lessor), when signing a lease with the sub-lessee, thus in contravention of Paragraph 2 of Article 29.
+
+\3.  Failing to inform the sub-lessee of the termination of the sub-lease within the specified period, failing to coordinate in returning the rental housing, failing to inspect without reasonable causes, or  failing to return prepaid rent and security deposit, thus in contravention of Paragraph 1 of Article 30.
+
+\4. Failing to designate a full-time rental housing manager to sign the documents, thus in contravention of Paragraph 1 of Article 32.
+
+\5. Failing to provide relevant information, or providing false information, to the competent authorities in municipalities and counties (cities), thus in contravention of Paragraph 1 of Article 34.
+
+#### Article 38-1
+
+If a party to a lease, as specified in Paragraph 2 of Article 5, contravenes the central competent authority's stipulated lease clause requirements and does not comply with corrective orders from the municipal or county (city) authorities within the designated period, they will incur a fine ranging from thirty thousand to three hundred thousand NT dollars. Continued non-compliance following a subsequent order will result in incremental fines of fifty thousand to five hundred thousand NT dollars for each instance of violation.
+
+#### Article 38-2
+
+That RHSB who violates Paragraph 2 of Article 34 without making rectifications within the time limit given by the competent authorities in a municipality, county or city, shall be fined between ten thousand and fifty thousand NT dollars.
+
+That RHSB who violates Paragraph 2 of Article 34 by declaring incorrect information excluding rental price or area information, and fails to make rectifications within the time limit given by the competent authorities in a municipality, county or city, shall be fined between six thousand and thirty thousand NT dollars.
+
+The RHSB or sub-lessee who violates Paragraph 5 of Article 34 by evading, hindering, or refusing the inspection should be fined by the competent authorities in a municipality, county or city between thirty thousand and one hundred fifty thousand NT dollars, and rectified within the time limit. Should rectification not be made by the deadline, a fine should be imposed for each subsequent violation.
+
+#### Article 39
+
+If a rental housing service business is found in one of the following situations, the competent authorities in a municipality, county or city may order the offender to rectify matters within a specified period. Failure to rectify matters by the deadline will result in a civil fine between six thousand and thirty thousand NT dollars.
+
+\1. Failing to apply for a revised permit before the deadline, thus in contravention of Paragraph 1 of Article 21.
+
+\2. Failing to apply for a revised permit before the deadline, thus in contravention of Paragraph 2 of Article 21.
+
+\3. Failing to report changes of rental housing managers before the deadline, thus in contravention of Paragraph 3 of Article 21.
+
+\4. Failing to employ full-time rental housing managers, thus in contravention of Paragraph 2 of Article 25.
+
+\5. Failing to ensure that its rental housing managers are not employed by two or more rental housing service businesses at the same time, thus in contravention of Paragraph 3 of Article 25.
+
+\6. After signing leases, failing to inform the lessor in writing about subleasing before the deadline, thus in contravention of Paragraph 3 of Article 29.
+
+\7. Failing to display the relevant documents in business venues and websites, thus in contravention of Paragraph 1 of Article 33.
+
+A rental housing service business which is fined pursuant to the preceding Paragraph and ordered to rectify matters within a specified period will be punished for each violation when it fails to rectify matters by the deadline.
+
+## Chapter 5. Supplementary Provisions
+
+#### Article 40
+
+Those who operated RHMB or RHSB before the announcement of this act may continue operation after the realization of this act for the next two years; those who do not acquire the registration certificate of rental housing service business pursuant to the Article 19 within two years shall not continue operation.
+
+Continuance of operation in contravention of the previous Paragraph will result in punishments referred to in Article 36.
+
+This Act does not apply to leases or rental housing management commission contracts signed before this Act became effective and which expire after this Act became effective, unless otherwise agreed by the parties.
+
+#### Article 41
+
+Those who served as employees of rental housing management of RHMB or RHSB before this Act becomes effective may continue the operation for the next two years since the day this Act becomes effective. Those who do not become qualified rental housing managers within two years shall not continue their operation of RHMB and RHSB.
+
+Rental housing service businesses will be punished pursuant to Sub-Paragraph 4 of Article 37 if employing rental housing managers who act in contravention of the previous Paragraph.
+
+#### Article 42
+
+Foreigners may take the qualification examination and the training of rental housing managers pursuant to the Article 26.
+
+Qualified foreigners who have registered and acquired a rental housing manager permit may be employed as rental housing managers.
+
+Foreigners employed as rental housing managers in the Republic of China are required to use the writing system of the Republic of China (standard Chinese characters) for all business-related documents and illustrations. Nonetheless, if their clients are not proficient in Chinese, translations in other languages that their clients understand may also be included.
+
+#### Article 43
+
+Before the National Joint Association is formed, affairs it is responsible to shall be performed by agencies, associations, or schools designated by the competent authority in the central government.
+
+#### Article 44
+
+Applicants of permits for starting rental housing service businesses and registration certificates shall be charged fees, the standard of which shall be stipulated by the competent authority in the central government.
+
+#### Article 45
+
+The competent authority in the central government shall stipulate the detailed regulations to implement this Act.
+
+#### Article 46
+
+This Act shall become effective six months after its promulgation.
+
+Amendments to this Act shall be effective from the date of its promulgation, with the exception of Article 34 and Article 38-2, which shall be effective on a date to be specified by the Executive Yuan.
+
+## History
+
+1.Promulgated on December 27, 2017 by Presidential Decree（46 Articles）
+
+2.Amended and Promulgated by letter Hua-Zong-1-Yi No.11200009171 of President on February 8, 2023; revising Article 5,10,11,34 and 46; adding Article 38-1 and 38-2

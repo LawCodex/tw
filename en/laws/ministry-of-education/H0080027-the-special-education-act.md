@@ -1,0 +1,547 @@
+---
+title: "The Special Education Act"
+title_zh: "特殊教育法"
+identifier: "H0080027"
+type: act
+law_level: "法律"
+category: "行政＞教育部＞學生事務及特殊教育目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1984-12-17
+last_amended: 2023-06-21
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=H0080027"
+retrieved: 2026-10-12
+---
+
+# The Special Education Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-education/H0080027-the-special-education-act.md](../../../zh/laws/ministry-of-education/H0080027-the-special-education-act.md)) is authoritative.
+
+## Chapter I General Principles
+
+#### Article 1
+
+The Act is enacted for the purpose of citizens with disabilities and giftedness/talents to receive adaptive and inclusive education, fully develop their potential, foster their personality, and empower them to serve society.
+
+#### Article 2
+
+The competent authorities are the Ministry of Education at the central level, the municipal governments in metropolitans, and county (city) governments in counties (cities).
+
+When needed, all the respective authorities are required to co-ordinate to the maximum extent on multiple levels.
+
+#### Article 3
+
+Disabilities refer to the following physiological or psychological disorders, evaluated and identified by professionals to be in need of special education and related services:
+
+A. Intellectual Disability.
+
+B. Visual Impairment.
+
+C. Hearing Impairment.
+
+D. Speech or Language Disorder.
+
+E. Orthopedic Impairment.
+
+F. Cerebral Palsy.
+
+G. Health Impairment.
+
+H. Emotional and Behavior Disorder.
+
+I. Learning Disability.
+
+J. Autism.
+
+K. Multiple Disabilities.
+
+L. Developmental Delay.
+
+M. Other Disabilities.
+
+#### Article 4
+
+Gifted/Talented refer to individuals with excellent potential or outstanding performance, evaluated and identified by professionals to be in need of special education and related services:
+
+A. Gifted in Intelligence.
+
+B. Gifted in Academic Aptitude.
+
+C. Talented in Arts.
+
+D. Talented in Creativity.
+
+E. Talented in Leadership.
+
+F. Gifted/Talented in Other Areas.
+
+#### Article 5
+
+In order to facilitate the development of special education, the corresponding competent authorities shall establish Special Education Consultation Committees (SECC) to participate in the consultation, planning, and promotion of matters relating to special education.
+
+The members of SECC shall be scholars and experts, educational administrators, school and preschool administrators, students with disabilities, gifted/talented students, representatives of equivalent-level teacher and preschool educator organizations, parent representatives of special education groups, parent representatives of students and preschoolers with disabilities, parent representatives of gifted/talented students and preschoolers, professionals of related special education (“the professionals”), and representatives of related institutions and groups.
+
+The total number in the previous paragraph of the representatives of educational administrators, school and preschool administrators, and related institutions and groups cannot constitute more than 50% of SECC members; the number of members of any given gender shall not be less than one-third of the total. SECC shall convene at least once every six months, and relevant information such as the list of members and meeting minutes shall be made public on the Internet.
+
+The regulations and autonomous enactments in paragraph one in this Article concerning the composition, operation, and other matters relating to SECC shall be determined by the corresponding competent authorities.
+
+#### Article 6
+
+The corresponding competent authorities shall establish Special Education Students Identification and Educational Placement Committee (IEPC) and recruit scholars and experts, educational administrators, school and preschool administrators, representatives of equivalent-level teacher and preschool educator organizations, parent representatives of special education groups, parent representatives of students and preschoolers with disabilities, parent representatives of gifted/talented students and preschoolers, professionals, representatives of the equivalent-level health regulatory authorities, representatives of related institutions and groups; IEPC shall provide identification, educational placement (“the placement”), guidance and supportive services; the regulations and autonomous enactments concerning the enforcement, procedures, timeline, allocation of relevant resources, operation and other relevant matters are determined by the corresponding competent authorities.
+
+The IEPC of the central competent authority provides identification, placement, guidance, and supportive services for students in schools above and including the senior high level, and is allowed not to recruit preschool administrators, the representatives of preschool educator organizations, parent representatives of preschoolers with disabilities, and parent representatives of gifted/talented students.
+
+The total number of the representatives of educational administrators, school and preschool administrators, and related institutions and groups cannot constitute more than 50% of IEPC members; the number of members of any given gender shall not be less than one-third of the total. The list of IEPC members shall be made public. IEPC shall convene at least once every six months.
+
+When the corresponding competent authorities hold meetings to conduct identification and placement for students or preschoolers with disabilities, they shall notify the students, students’ delegates, and actual caregivers to participate in the discussions on matters relating to the students or preschoolers. The delegates and the actual caregivers may also invite related professionals to attend the meetings.
+
+If the corresponding competent authorities and IEPC do not adopt the placement recommendations and evaluation report contents related to the required services proposed by schools or preschools, reasons for the non-adoption shall be provided.
+
+#### Article 7
+
+The corresponding competent authorities shall set up a specific unit to take charge of special education services.
+
+All the personnel and administrators responsible for special education services in schools and preschools shall employ professionals with related special education backgrounds.
+
+The special education backgrounds in the previous paragraph are defined as taking three or more credits of special education courses, or participating in special education professional workshops conducted by the corresponding competent authorities for more than 54 hours.
+
+#### Article 8
+
+The corresponding competent authorities shall conduct annual research on the status of special education students and preschoolers, regularly report demographic data on special education needs; announce an overview of special education, and publish the yearly statistics report and related data analysis; appropriately allocate available resources based on current status and needs, and develop special education services.
+
+#### Article 9
+
+The central and local governments shall plan a special education budget of no less than 4.5% of the yearly education budget in the central government and no less than 5% in local governments.
+
+When the local governments plan budgets, the education for students with disabilities shall come as the top priority.
+
+In order to maintain a balanced development of local education for students with disabilities, the central government shall subsidize personnel and practices; regulations of subsidies, accounting standards, application and review procedures, suspension of funding, deduction of current or future subsidies, performance assessment and other relevant matters are determined by the central competent authority after negotiation with municipal and county (city) governments.
+
+#### Article 10
+
+The personality and rights and interests of special education students and preschoolers shall be respected and protected; their rights and interests related to learning, both on-campus and off-campus practicums and learning activities, shall not be discriminated against.
+
+The provision of special education and related services, as well as the establishment of facilities, shall align with the goal of inclusion and incorporate the principles of adaptability, individualization, universal design, reasonable accommodations, localization, barrier-free environment, and accessibility.
+
+According to Article 24, special education students subjected to discrimination by their schools have the right to file complaints and re-complaints.
+
+The central competent authority shall develop relevant guidelines for reasonable accommodations and application procedures for each educational level; the process of developing these guidelines shall involve the participation of individuals with disabilities and their representative organizations.
+
+#### Article 11
+
+Students with disabilities have the right to freely express their views on all matters affecting them, and they must be provided with disability- and age-appropriate assistance in order to fulfill this right.
+
+## Chapter II Enforcement of Special Education
+
+### Section I General Provisions
+
+#### Article 12
+
+Special education is implemented on the following four levels:
+
+A. Preschool education level: provided in homebound settings, hospitals, preschools, social welfare facilities, the preschool division of special education schools, or other suitable locations.
+
+B. Compulsory education level: provided in elementary schools, junior high schools, special education schools, or other suitable locations.
+
+C. Senior high school education level: provided in senior high schools, special education schools, or other suitable locations.
+
+D. Higher education level and adult life-long learning: provided in colleges above and including the five-year junior college level, and other life-long learning organizations.
+
+Special education students and preschoolers at the preschool education level in the first subparagraph and the compulsory education level in the second subparagraph of the previous paragraph are placed in a school on the principle of proximity. The competent authorities on the metropolitan and county (city) levels shall consolidate information on school admission and provide it to students and preschoolers, and offer authorities the manpower and resource assistance they need. If schools within the school district cannot provide a suitable location to cater to the needs of special education students at the compulsory education level, the competent authorities may arrange placement in another suitable location.
+
+#### Article 13
+
+Preschools and schools up to and including the senior high level shall actively implement inclusive education, and strengthen interaction and collaboration between general education teachers and special education teachers.
+
+Preschools and schools up to and including the senior high level may establish special education classes, as follows:
+
+A. Resource rooms.
+
+B. Itinerant programs.
+
+C. Self-contained classes.
+
+Establishment of the special education classes in the previous paragraph shall be approved by the corresponding competent authorities, whereas its personnel and facilities are determined by the central competent authority.
+
+In the case students of preschools and schools up to and including the senior high level are not placed in the special education class based on the regulations in paragraph two in this Article, the schools involved may develop and apply for special education programs to the corresponding competent authorities; the regulations and autonomous enactments concerning the contents, procedures, and other matters relating to application are determined by the corresponding competent authorities.
+
+#### Article 14
+
+The enrollment age, grade placement, class location, instruction practice and duration of schooling of special education students shall be flexible to the extent to their special educational needs; procedures and details of practices including lowering or raising the enrollment age, shortening or extending duration of schooling, are all determined by the central competent authority. In case of any legal provisions, their regulations shall be followed.
+
+#### Article 15
+
+In order to promote special education and manage the learning of special education students, schools up to and including the senior high level shall set up special education implementation committees, including representatives of students with disabilities, gifted/talented students, parent representatives of students with disabilities, parent representatives of gifted/talented students; the regulations and autonomous enactments concerning the missions, composition, meeting procedures and other relevant matters shall be determined by the corresponding competent authorities.
+
+In order to promote special education and manage the learning of special education students, schools of higher education level shall set up special education implementation committees, including at least one student with disability. Parent representatives of students with disabilities may be recruited when necessary.
+
+When setting up a special education implementation committee based on the previous paragraphs, schools with no special education students are allowed not to recruit special education students or their parent representatives.
+
+#### Article 16
+
+Special education in all educational levels is implemented by the corresponding competent authorities in principle, with grants and assistance for the private sector, and shall take priority in providing necessary grants and assistance to support the private sector in providing education for students with disabilities.
+
+The regulations and autonomous enactments concerning the management of special education including eligibility, conditions, methods, handling of law offenses, and other relevant mandated matters are determined by the corresponding competent authorities.
+
+#### Article 17
+
+Schools up to and including the senior high level shall set up a specific unit in charge of special education, recruit and employ special education teachers, professionals, teaching assistants, and special education student assistants, in accordance with actual needs; the same applies to preschools with three or more self-contained classes.
+
+The regulations governing the establishment of the specific unit referred to in the previous paragraph, the recruitment and employment of their personnel, and other relevant matters shall be determined by the central competent authority.
+
+The standards and autonomous enactments concerning the number of basic periods taught each week, reduced teaching hours and other matters relating to full-time special education teachers, classroom teachers, people with administrative and other duties shall be determined by the corresponding competent authorities.
+
+#### Article 18
+
+In order to improve the quality of special education and related services, the corresponding competent authorities shall provide an in-service training for special education teachers and related professionals.
+
+In order to enhance the competence required to promote inclusive education, the corresponding competent authorities shall focus on providing an in-service training for general education teachers, special education service personnel, school and preschool administrators, and relevant personnel.
+
+The in-service training in the previous paragraph shall take into account the learning conditions of special education students and preschoolers in general classrooms, and employ lecturers with related professional or practical experience; individualized guidance may be provided when necessary.
+
+The corresponding competent authorities shall establish consultation services either independently or through schools, preschools, special education resource centers, or related professional organizations, in order to provide consultation services related to special education or inclusive instructional guidance.
+
+#### Article 19
+
+In order to implement special education, the corresponding competent authorities shall proceed with identification of special education students and preschoolers based on the identification criteria.
+
+The regulations of students and preschoolers in the previous paragraph on identification criteria, procedure, timeline, educational needs evaluation and re-evaluation, qualifications and rights of evaluators, training, and other relevant mandated matters are determined by central competent authority.
+
+#### Article 20
+
+Preschools and schools of all levels shall actively find or accept applications to identify preschoolers and students with special education needs, and must obtain consent from adult students, students’ delegates or actual caregiver of students or preschoolers; after asking for underage students’ opinion, a placement shall be given, and special education and related services will be provided in accordance with the provisions of the previous article.
+
+The corresponding competent authorities shall re-evaluate the appropriateness in the previous paragraph on the placement and special education related services each year.
+
+If an adult student, a student’s delegate or actual caregiver of a student or preschooler does not give their consent to the evaluation and placement procedure, preschools and schools up to and including the senior high level involved shall report to the corresponding competent authority.
+
+To ensure the learning rights and interests of students and preschoolers with disabilities, the competent authorities, when necessary, may require the adult student, a student’s delegate or actual caregiver of the student or preschooler to co-operate with identification, placement, and special education related services.
+
+#### Article 21
+
+The central competent authority shall establish the curriculum guidelines and relevant regulations for special education in schools up to and including the senior high level, which serve as the basis for schools in planning and implementing their curriculum; schools may incorporate community resources to enrich their instructional activities.
+
+The research and development as well as review of the curriculum guidelines for special education shall comply with the relevant provisions of the Senior High School Education Act.
+
+#### Article 22
+
+The curriculum, teaching materials, teaching methods, and assessment in special education shall be flexible to meet the characteristics and needs of students and preschoolers.
+
+The regulations and the preschool relevant guidelines of implementation, contents, teaching material development, teaching methods, assessments, and other matters relating to special education curriculum at schools up to and including the senior high level are determined by central competent authority.
+
+#### Article 23
+
+In order to fully develop the potential of special education students, schools of all levels shall co-ordinate resources and recruit instructors with expertise to assist instructions.
+
+The regulations of instructors in the previous paragraph on eligibility, methods, expenditures, and other relevant matters shall be determined by the central competent authority.
+
+#### Article 24
+
+In the event of controversy over identification, placement, guidance, and supportive services, students’ or preschoolers’ delegates or actual caregivers, or special education students at schools above and including the senior high level, are able to file a complaint to authorities, who shall offer complaint services.
+
+Special education students at schools up to and including the senior high level who believe that the penalties, other measures, or decisions of the school are illegal or inappropriate and harm their rights, may file a complaint with the school through their delegates or actual caregivers; if they do not agree with the decision made by the school regarding the complaint, they may file a re-complaint with the related competent authorities; if they file an appeal, the appeals agency shall transfer the case to the complaint review committee or the re-complaints review committee within ten days and notify the student and their delegates or actual caregivers.
+
+If the previous paragraph on penalties, measures, or decisions result in administrative sanctions, the decision made regarding the re-complaint shall be considered equivalent to an appeal decision; if one does not agree with the re-complaint decision, one may file an administrative lawsuit according to the law.
+
+Special education students at the higher education level who believe that the penalties, other measures, or decisions of the school are illegal or inappropriate and harm their rights may file a complaint with the school; if one does not agree with the decision made regarding the complaint by the school, one may file an appeal or an administrative lawsuit according to the law.
+
+The scope, time limits, composition of the committee, investigation methods, review methods, execution of the review results, and other matters relating to complaints and re-complaints in paragraphs one, two and four in this Article shall be determined by the central competent authority.
+
+### Section II Education for Students with Disabilities
+
+#### Article 25
+
+Preschools and schools of all levels, and examination agencies must not reject admission to schools or examination eligibility for the reason of disability itself.
+
+Schools of all levels and examination agencies shall offer appropriate examination services and accessibility measures, and shall consider the actual needs of students with disabilities and provide reasonable accommodation and announce it publicly; the regulations of eligibility, qualifications, application procedures, examination services, accommodations, accessibility measures and other matters relating to students with disabilities shall be determined by the central competent authority.
+
+#### Article 26
+
+The implementation of special education shall be based on the results of professional evaluation co-ordinated with health, social, or labor affair resources to provide rehabilitation, training, and other related supportive services for students and preschoolers with disabilities.
+
+In order for preschoolers with disabilities to receive early intervention, the implementation of special education shall start from the age of two.
+
+The regulations of contents, forms, methods of provision, effectiveness reviews, and other matters relating to supportive services for students and preschoolers with disabilities mentioned in paragraph one in this Article shall be determined by the central competent authority.
+
+#### Article 27
+
+The corresponding competent authorities shall provide guidance on assessment, teaching, and administrative supportive services to students and preschoolers with disabilities, and those students with disabilities at non-school-based experimental education facilities who have received approval.
+
+Preschools and schools up to and including the senior high level shall undertake the assessment, teaching, and guidance of students and preschoolers with disabilities on the basis of a disciplinary team approach, and if required may co-ordinate with professionals in the fields of health and medical intervention, education, social work, and vocational rehabilitation, to provide assistance in learning, living, counseling, rehabilitation, vocational guidance assessment, and transitions guidance and services.
+
+Higher education level schools shall provide guidance for students with disabilities in accordance with the provisions in the previous paragraph.
+
+The regulations governing the contents of supportive services, team composition, personnel qualifications, missions, operation methods and other matters relating to professional teams mentioned in paragraphs one and two in this Article shall be determined by the central competent authority.
+
+#### Article 28
+
+The corresponding competent authorities or private institutions providing education of students and preschoolers with disabilities at schools up to and including the senior high level may establish special education schools; the scale of such schools shall be kept small as a principle; the admission of students and preschoolers with severe and multiple disabilities shall be the top priority; and each school may have several campuses.
+
+Schools for students with hearing impairments shall mainly enroll students and preschoolers with hearing impairments; whereas schools for students with visual impairments shall mainly enroll students and preschoolers with visual impairments.
+
+Special education schools are established by governments on the national, municipal, county (city) level or privately, categorized as national, municipal, county (city), and private schools; their establishment, alteration, and termination are governed by the following regulations:
+
+A. National: certified by the central competent authority.
+
+B. Municipal: certified by the competent metropolitan authorities and reported to the central competent authority for reference.
+
+C. County (city): certified by the competent county (city) authorities and reported to the central competent authority for reference.
+
+D. Private: based on the relevant private school acts.
+
+Establishment of special education schools is required to meet the standards determined by the competent central authority, including campus grounds, buildings, equipment, faculty, alteration, termination or merging, certification procedures, organization and personnel.
+
+Special education schools shall collaborate with general schools, preschools, and communities to foster the social inclusion of students and preschoolers; regional special education resource centers shall be established to provide relevant resources and supportive services to the communities, schools, and preschools.
+
+The regional special education resource centers in the previous paragraph on organization, operation, and teacher qualifications, recruitment, temporary transfer, training, incentives, seniority calculations, and other relevant matters shall be determined by the competent central authority.
+
+In order to encourage special education schools to enrich the resources and supportive services of regional special education resource centers, the corresponding competent authorities shall allocate a budget for assistance.
+
+#### Article 29
+
+A special education school shall have one principal; their qualifications for appointment shall be in accordance with the provisions of the Act Governing the Appointment of Educators, and the principal shall have special education related professional knowledge; their recruitment, appointment procedures, and other relevant matters shall comply with regulations governing the highest-level division at the school of appointment.
+
+Special education schools may set up first- and or second-level units to handle academic affairs, student affairs, general affairs, practicum, research and development, and guidance, based on the scale of the school and its operational requirements.
+
+The first-level unit shall have a director and the second-level unit shall have a section chief in the previous paragraph.
+
+The directors of first-level units and section chiefs of second-level units shall be full-time teachers appointed by the principal, with the exception of the section chief of general affairs, who shall be a non-teaching staff member on a full-time basis, and the section chief of the guidance unit responsible for health, who may be appointed from full-time professionals.
+
+If a special education school reaches a particular scale designated by the central competent authority, a secretary shall be appointed by the principal from full-time teachers to assist the principal in dealing with school affairs.
+
+Candidates with competence in sign language shall be prioritized when applying for positions of principals and teachers at schools for students with hearing impairments.
+
+#### Article 30
+
+Preschools and schools up to and including the senior high level shall strengthen the collaboration between general teachers, guidance teachers, and special education teachers; they shall provide appropriate teaching and support for students with disabilities in general classrooms; the regulations and autonomous enactments concerning the eligibility, teaching principles, guidance methods, staff development, performance evaluation, reward methods, and other relevant matters shall be determined by the corresponding competent authorities.
+
+In order to ensure the educational rights of students with disabilities and enable general teachers to meet the educational needs of students with and without disabilities, school principals shall co-ordinate the provision of personnel resources and assistance from the relevant units within the school; the number of students in general classrooms that include students with disabilities can be adjusted through evaluation by IEPC; the regulations for providing personnel resources and assistance to teachers, adjusting the number of students in general classrooms that include students with disabilities, and other relevant matters shall be determined by the central competent authority.
+
+When preschools admit preschoolers with disabilities, the preschool principal shall co-ordinate the provision of personnel resources and assistance for education and care service personnel; the number of students in classes that include preschoolers with disabilities can be adjusted through evaluation by IEPC; the requirements and methods for adjusting the class size shall be determined by the relevant competent authorities of the metropolitans and counties (cities).
+
+#### Article 31
+
+Schools up to and including the senior high level shall create a team to develop individualized educational plans for each student with disability; when developing individualized educational plans, the students as well as their delegates or actual caregivers shall be involved; if necessary, the students’ delegates or actual caregivers may invite relevant personnel to participate. When the school determines that a student has needs following professional evaluation, they shall invite the professionals to participate in the discussion of the individualized educational plans, and provide collaborative consultation, assist teachers in comprehending the student’s characteristics, develop appropriate teaching strategies, and promote instructional effectiveness.
+
+Individualized educational plans for students with disabilities shall be developed before the beginning of school; the transferred students shall have their plans developed within one month after enrollment; and the first-year students shall have a preliminary individualized educational plan developed before the beginning of the school year, with subsequent review and revision within one month after the beginning of school.
+
+The individualized educational plans in the previous paragraph shall be reviewed at least once per semester.
+
+In order to ensure students with disabilities effectively participate in the development of individualized educational plans, the central competent authority shall establish relevant guidelines for schools; the process of developing these guidelines shall include individuals with disabilities and their representative organizations.
+
+Preschools shall refer to the four previous paragraphs to develop individualized educational plans for preschoolers with disabilities.
+
+#### Article 32
+
+In order to improve the special education competence of the teams in the previous Article, and to facilitate development of individualized educational plans according to the special education needs of students with disabilities in preschools and schools up to and including the senior high level, the corresponding competent authorities shall enhance the provision of in-service training for general education teachers, preschool educators, special education teachers, and relevant personnel, and shall provide assistance in related supportive services.
+
+#### Article 33
+
+Schools up to and including the senior high level shall take into consideration the strengths, aptitude, special education needs, and career development of students with disabilities and offer appropriate guidance in admission to advanced education.
+
+The regulations in the previous paragraph on guidance in admission quotas to advanced education, methods, qualifications and other matters relating to the rights and obligations of examinees with disabilities are determined by the central competent authority.
+
+#### Article 34
+
+The corresponding competent authorities shall actively promote life-long learning of adults with disabilities and develop related work plans to encourage them to participate in life-long learning activities, and review the effectiveness of implementation regularly; the regulations of implementing organizations, methods, contents, and other relevant matters shall be determined by the central competent authority.
+
+#### Article 35
+
+Schools of higher education level shall develop and implement special education programs for students with disabilities, set up specific units in charge of special education, resource classrooms, and specific personnel, and recruit as well as employ related specific personnel based on actual needs; the regulations of specific units and resource classroom duties, establishment and personnel staffing, recruitment, and other relevant matters shall be determined by the central competent authority.
+
+In order to improve the integration of internal and external resources in schools of higher education level and promote the efficiency of cross-unit co-ordination, when a certain number or ratio of students with disabilities in colleges and universities is reached, the central authority shall encourage colleges and universities to establish special education resource centers; the number or ratio shall be announced by the central competent authority.
+
+Individualized support plans to meet students’ needs shall be developed in colleges and universities; related teaching personnel, administrators, the student with disability, and student’s delegate or actual caregiver shall be invited to participate in the development of said plans.
+
+Individualized support plans for students with disabilities shall be developed no later than one month after the course selection and withdrawal deadline.
+
+The individualized support plans in the previous paragraph shall be reviewed at least once per semester.
+
+In order to enhance the special education competence of the related specific personnel in paragraph one in this Article to develop individualized support plans, the central authority shall provide in-service training and assistance with related supportive services for the related specific personnel in colleges and universities.
+
+#### Article 36
+
+In order to meet the continuous service needs of students and preschoolers with disabilities of all educational levels, preschools and schools of all levels shall provide continuous holistic transition guidance and services; the regulations of career transition plan contents, scheduling guidelines, development procedures, as well as transition meeting regulations, transition announcement methods, scheduling guidelines, and other relevant matters are determined by the central competent authority.
+
+#### Article 37
+
+The corresponding competent authorities shall exempt or waive the educational expenses of students with disabilities based on their family’s financial circumstances; and may provide educational subsidies for preschoolers with disabilities attending private preschools or social welfare facilities, and shall provide grants and assistance to the institutions.
+
+The regulations in the previous paragraph on exemptions or waivers, grant and assistance eligibility, conditions, expenses, quotas, frequency, and other relevant mandated matters shall be determined by the central competent authority.
+
+The corresponding competent authorities shall give awards to students with disabilities with excellent academic achievements or outstanding performance; the regulations and autonomous enactments concerning the conditions, amounts, quotas, frequency, and other relevant mandated matters shall be determined by corresponding competent authorities.
+
+#### Article 38
+
+Schools and preschools shall provide the following supportive services in order to meet the learning needs of students and preschoolers with disabilities:
+
+A. Education and sports aids services.
+
+B. Adaptive teaching materials services.
+
+C. Manpower assistance in learning and living.
+
+D. Rehabilitation services.
+
+E. Family support services.
+
+F. Adapted physical education services.
+
+G. Access to a barrier-free campus.
+
+H. Other supportive services.
+
+The subparagraphs A through F in the previous paragraph are applicable to students with disabilities approved for non-school-based experimental education facilities.
+
+The regulations in the two previous paragraphs concerning supportive services contents, forms, methods of provision, effectiveness review, and other relevant matters shall be determined by the central competent authority.
+
+The corresponding competent authorities shall provide accessible transportation vehicles for students with disabilities who have been evaluated as unable to get to school independently; or offer subsidies if transportation vehicles cannot be provided; the regulations and autonomous enactments concerning the eligibility, application methods, standards of subsidies, and other relevant matters are determined by the corresponding competent authorities.
+
+The corresponding competent authorities shall prioritize the allocation of a budget to promote the services in paragraphs one and four in this Article.
+
+#### Article 39
+
+On the basis of admission applications, the corresponding competent authorities may approve or authorize social welfare or medical institutions in providing education for students with disabilities.
+
+The corresponding competent authorities shall assist juvenile correction schools in providing education for students with disabilities.
+
+### Section III Education for Students with Giftedness/Talents
+
+#### Article 40
+
+Gifted/Talented education in preschools and schools up to and including the senior high level is implemented as follows:
+
+A. Preschool education level: adopting special education programs.
+
+B. Compulsory education level: adopting resource rooms, itinerant programs, or special education programs.
+
+C. Senior high school education level: on the basis of Article 13, paragraphs 2 and 4.
+
+#### Article 41
+
+The enrollment and admission to advanced education of gifted/talented students shall follow the procedures specified in the regulations of school enrollment and admission to advanced education; schools above and including the senior high level may utilize multiple admission paths, fully considering both school performance and potential strengths of gifted/talented students.
+
+#### Article 42
+
+Schools up to and including the senior high level shall create a team to develop individual guidance plans in consideration of the characteristics, aptitude, strengths, learning styles, and special needs of gifted/talented students, and shall invite gifted/talented students, and their delegates or actual caregivers to participate when developing said plans.
+
+#### Article 43
+
+The corresponding competent authorities of schools up to and including the senior high level shall subsidize schools in implementing the multiple gifted/talented education programs, and offer grants and assistance for excellent performance agents.
+
+The corresponding competent authorities shall provide awards to the gifted/talented students with outstanding performance.
+
+The regulations and autonomous enactments in the two previous paragraphs concerning the grants and assistance, the scope of implementation of the program, conditions, methods of provision, and other relevant matters are determined by the corresponding competent authorities.
+
+#### Article 44
+
+Gifted/talented students are allowed to take courses at the next grade level; if passed, the credits can be transferred after school enrollment.
+
+#### Article 45
+
+The corresponding competent authorities shall allocate a budget to actively promote gifted/talented education in schools up to and including the senior high level, and shall utilize academic, social, and private sector resources to establish a long-term follow-up guidance system.
+
+The central competent authority shall provide financial subsidies to assist metropolitan and county (city) authorities in promoting the aforementioned gifted/talented education services.
+
+#### Article 46
+
+Schools up to and including the senior high level shall improve identification and guidance services and if required may adjust assessment items, tools, and procedures to provide assistance for twice-exceptional students and students from outer islands, remote areas, or needs based on economic, cultural, or ethnic status.
+
+The previous paragraph on adjustment of identification standards, procedures, timeline, assessment items and tools, and other relevant matters are determined by the central competent authority.
+
+#### Article 47
+
+The implementation of gifted/talented education in higher education shall take into account the aptitude and strengths of gifted/talented students, and may adopt special education programs.
+
+## Chapter III Special Education Support Systems
+
+#### Article 48
+
+In order to promote the development of inclusive education and special education, the central competent authority may appoint groups, colleges and universities, academic institutions, or teacher organizations in the fields of inclusive education or special education to conduct holistic and systematic research related to inclusive education or special education.
+
+The corresponding competent authorities shall encourage teachers to conduct and publish research results, and apply these results to improve inclusive education and special education curricula, teaching materials and methods, and assessment methods.
+
+#### Article 49
+
+The central and metropolitan authorities shall encourage universities with teacher education, and colleges above and including the five-year junior college level with education of preschool educators approved by the central competent authority to offer pre-service special education-related courses, in order to promote inclusive education.
+
+The central competent authority shall incorporate special education-related courses into the curriculum standards for pre-service teacher education.
+
+#### Article 50
+
+In order to encourage colleges and universities with special education departments to establish special education centers to assist identification, instruction, and guidance services, the central competent authority shall allocate a subsidy budget.
+
+In order to conduct special education experimental research and provide internships, colleges and universities with special education departments may establish affiliated special education schools (classes).
+
+#### Article 51
+
+In order to promote special education, the corresponding competent authorities of preschools and schools up to and including the senior high level may temporarily transfer teachers of public schools or preschools to compose specific groups, independently operate special education resource centers and special education guidance groups.
+
+The regulations in the previous paragraph on organizations, missions, operations, teacher qualifications, recruitment, temporary transfer, training, rewards, seniority calculation, and other matters relating to specific groups shall be determined by the central competent authority.
+
+The corresponding competent authorities shall establish a special education administrative support network in order to effectively implement special education, integrate relevant resources, assist in the implementation of special education in preschools and schools of all levels, and provide consultation, guidance, and services; the regulations and autonomous enactments concerning the connecting and operation methods, and other matters relating to support networks shall be determined by the corresponding competent authorities.
+
+The corresponding competent authorities may designate additional special education teachers in public preschools or schools up to and including the senior high level, which shall be co-ordinated and deployed by the competent authorities, to assist in implementing the identification and evaluation prescribed in Article 19, paragraph 1, as well as the operation of special education resource centers and special education guidance groups in paragraph 1 in this Article, or the support network operations in the previous paragraph.
+
+#### Article 52
+
+Preschools and schools of all levels shall provide families of students and preschoolers with disabilities with supportive services of consultation, guidance, parenting education, and transfer services; the regulations of the contents, forms, methods of provision, and other relevant matters shall be determined by the central competent authority.
+
+The budget and resources of supportive services in the previous paragraph are allocated by the corresponding competent authorities.
+
+At least one parent of students with disabilities in schools up to and including the senior high level shall be a standing or regular member of the school parental committee, in order to participate in the implementation of special education.
+
+#### Article 53
+
+The implementation effectiveness of the special education provided by preschools and schools up to and including the senior high level shall be evaluated by the competent authority at least once every four years, and evaluation may be conducted in conjunction with school evaluations, preschool evaluations, or principal accountability evaluation as a principle.
+
+The special education accountability of the metropolitan competent authorities and the county (city) competent authorities shall be evaluated by the central competent authority at least once every four years.
+
+The items to be evaluated mentioned in paragraphs one and two in this Article shall be restricted to those specified by regulations; the simplification of evaluation methods and indicators and the reduction of administrative loading shall be executed in practice; the evaluation items and results shall be made public, rewards shall be given to those who achieve excellent evaluation results, guidance and assistance shall be provided to those who fail to meet the standards; the regulations of evaluation items, composition of the evaluation committee, evaluation procedures, and other relevant matters shall be determined by the central competent authority.
+
+The special education evaluations of colleges and universities shall be conducted by the central competent authority once every four years, and additional ad hoc evaluations may be carried out.
+
+## Chapter IV Supplementary Provisions
+
+#### Article 54
+
+All the income and expenses involving lending space, facilities and equipment, the delegation of operations, the encouragement of private sector participation, students retaking failed courses and taking make-up courses, school enrollment, student selection, internships, and extension education at public special education schools shall be documented in an independent account, the remaining balance has to be deposited for the purpose of improving school infrastructure and teaching equipment, unrestricted by the Budget Act, Article 13, National Property Act Article 7, and local public property management regulations.
+
+The regulations in the previous paragraph on income and expenses operations shall be determined by the central competent authority.
+
+#### Article 55
+
+The enactment of regulations and autonomous enactments authorized by the Act shall include representatives of equivalent-level teacher organizations, preschool educator organizations, special education parent groups, general education parent groups, and special education students to participate in the developing procedures by the corresponding competent authorities.
+
+#### Article 56
+
+The enforcement rules of the Act shall be determined by the central competent authority.
+
+#### Article 57
+
+The Act is implemented on the date of promulgation.
+
+## History
+
+1.Presidential Order No. (73) Hua-Zong (Yi) Yi-Zi 6692 enacted and promulgated December 17, 1984: complete text of 25 articles
+
+2.Presidential Order No. (86) Hua-Zong (Yi) Yi-Zi 860011282 promulgated May 14, 1997: amendment com prising complete text of 33 articles
+
+3.Presidential Order No. (90) Hua-Zong (Yi) Yi-Zi 9000254110 promulgated December 26, 2001: amendm ents to Articles 2~4, 8, 9, 14~17, 19, 20, 28, and 31
+
+4.Presidential Order No. Hua-Zong-Yi-Yi-Zi 09300117551 promulgated June 23, 2004: addition of Article 31-1
+
+5.Presidential Order No. Hua-Zong-Yi-Yi-Zi 09800289381 promulgated November 18, 2009: amendment comp rising complete text of 51 articles
+
+6.Presidential Order No. Hua-Zong-Yi-Yi-Zi 10200012441 promulgated January 23, 2013: amendments to A rticles 3, 14, 23, 24, 30, 33, and 45; addition of Article 30-1
+
+7.Presidential Order No. Hua-Zong-Yi-Yi-Zi 10300085151 promulgated June 4, 2014: amendment to Article 24
+
+8.Presidential Order No. Hua-Zong-Yi-Yi-Zi 10300093311 promulgated June 18, 2014: amendment to Articles 10, 17, and 32
+
+9.Presidential Decree Hua-Zong-Yi-Yi-Zi No. 10800039361 promulgated on April 24, 2019: amendments to Articles 14, 26, and 47; and the addition of Article 28-1.
+
+10.Presidential Order Hua-Zong-I-Yi No. 11200052780issued 21 June 2023. The Act is implemented on the date of promulgation.

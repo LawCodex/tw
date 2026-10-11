@@ -1,0 +1,625 @@
+---
+title: "The Forestry Act"
+title_zh: "森林法"
+identifier: "M0040001"
+type: act
+law_level: "法律"
+category: "行政＞農業部＞林業及自然保育目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1932-09-15
+last_amended: 2021-05-05
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0040001"
+retrieved: 2026-10-12
+---
+
+# The Forestry Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-agriculture/M0040001-the-forestry-act.md](../../../zh/laws/ministry-of-agriculture/M0040001-the-forestry-act.md)) is authoritative.
+
+## Chapter I General Provisions
+
+### Article 1
+
+This Act is established to preserve forest resources, promote the public welfare in relation to forests and their economic viability, and to protect trees that have conservation value and their habitats.
+
+### Article 2
+
+The term ‘government agency’ as used in this Act means the Council of Agriculture, an agency under the Executive Yuan of the central government; the special municipal governments at the special municipality level; the county (city) governments at the county (city) level.
+
+### Article 3
+
+The term ‘forest(s)’ means the land(s) and its trees and bamboo, collectively. According to the delineation of ownership, forest(s) shall be categorized
+
+as national forest(s), public forest(s), and private forest(s); in principal, forests belong to the nation.
+
+### Article 3-1
+
+For matters regarding the protection of trees outside of forests, the rules in Chapter V-I apply.
+
+### Article 4
+
+Anyone who owns bamboo or trees on the land of others, constituting a claim of superficies, lease rights or for other applications, or revenues, shall be deemed a forest owner where this Act applies.
+
+## Chapter II Forestry Administration
+
+### Article 5
+
+The administrative management of the forestry industry shall be predicated on the primary goal of preserving the long-term integrity of land conservation.
+
+### Article 6
+
+With regard to undeveloped mountains and lands suitable for forestry, the central government agency shall request that the central land administrative authority classify them as forestland, and promulgate the classification accordingly.
+
+Land designated as forestland cannot be changed to other designations. However, forestland can be redesignated if approval is obtained from the special municipal and county (city) governments, and this is then reported to the central government and central land management agency.
+
+Indigenous land is also necessary to obtain approval from the central Indigenous authority.
+
+Forestland designated as such by other acts cannot be redesignated, except as provided in the preceding paragraph.
+
+### Article 7
+
+Should any of the following criteria apply to a public or private forest, the central government agency may appropriate it to national ownership, and shall compensate the owner accordingly:
+
+1.It is required for reasons of land conservation or the administration of national forests.
+
+2.It includes a river, lake or other water source that provides important resources to the public.
+
+Any acts relevant to land expropriation may be applied when appropriating land for national ownership. The procedure for appropriating a public forest may follow the relevant rules of public property management.
+
+### Article 8
+
+Should any of the following criteria apply to a national or public forest, it may be leased, transferred or appropriated:
+
+\1. It is required for establishing a school, hospital, park or other public facilities;
+
+\2. It is required for national defense, transportation or water conservation
+
+\3. It is required for establishing public works;
+
+\4. It is required for establishing a duly approved national park, designated scenic area or forest recreation park.
+
+Should the applications stipulated above be violated, or should the land not be used for the said purposes during the assigned period, the leased, sublet or appropriated forestland shall be taken back.
+
+### Article 9
+
+To carry out any of the following actions in a forest, an application shall be submitted to the government agency, which shall, in collaboration with the relevant local agency, assess the specified area for the suitability for the proposed action. Once the application is approved, the action may be carried out within the designated boundaries.
+
+\1. To build or repair a reservoir, roadway, power transmission system or to develop a source of electricity;
+
+\2. To mine or quarry;
+
+\3. To build or repair other engineering works.
+
+These undertakings are limited to those not impairing geological stability, land conservation and forestry.
+
+For number 1 above, if there are concerns that the forest may be damaged, the government agency shall ensure that the party in question implements due soil and water conservation measures or other necessary measures, and the party shall not refuse.
+
+### Article 10
+
+Should any of the following criteria apply to a forest, the government agency shall restrict logging:
+
+\1. The land is so steep or the soil so shallow that re-forestation is difficult;
+
+\2. After logging, the soil is likely to be eroded or affect the public interest;
+
+\3. The land is located in a water reservoir collection area, at the headwaters of a river, on an eroded riverbank, or in a windward coastal area, or in a sand dune area;
+
+\4. The forest is in other areas where logging restrictions are essential.
+
+### Article 11
+
+The government agency may, based on where a forest is located, restrict or prohibit the harvest or excavation of grass cover, tree roots and grass roots to a specific location and time period.
+
+## Chapter III Forest Management and Utilization
+
+### Article 12
+
+Whereas national forests shall be classified and managed by the central government agency; public forests shall be managed by the authority that owns the relevant forest or consigned to some other legal entity; private forests shall be managed by private individuals.
+
+The central government agency may, according to the state of the forestry, regulate and implement the forest management plan.
+
+### Article 13
+
+To reinforce the water-retaining ability of the forest, forest management shall comply with the protection and management regulations for water collection areas; these regulations shall be established by the Executive Yuan.
+
+### Article 14
+
+National forest working circle management plans shall be formulated by the relevant administrative agency, and shall be submitted to the central government agency for approval.
+
+### Article 15
+
+The annual plan for the yields of national forest products shall be based on the management plan for working circle.
+
+Harvesting of national forest product shall be carried out according to the annual logging plan and national forest product management regulation.
+
+The categories and handling of, and criteria pertaining to, national forest product, and the harvest, transport, transfer, fee payment and other issues relevant to forest product shall be regulated by the central government agency.
+
+If the forest is located in the traditional territories of Indigenous peoples, the Indigenous peoples may take forest products for their traditional living needs. The harvesting area, variety, time, paid/unpaid, and other rules should be decided by the central government agency along with the central Indigenous authority.
+
+After a natural disaster, the local government has one month to finish the cleanup and tally up all bamboo or trees carried outside the boundary of the national forest area by natural forces. After one month, local people may freely collect the remaining displaced wood and bamboo.
+
+### Article 16
+
+Should a national park or scenic area be designated in a forest area, the responsible party shall meet with the government agency to conduct a field survey. The forest area within the demarcated boundaries shall be managed by the government agency in accordance with this Act in conjunction with the relevant national park or scenic area development plan.
+
+The regulations for the above shall be established by the Executive Yuan.
+
+### Article 17
+
+A forest region, subject to approval of an environmental impact assessment, may be designated as a forest recreation area; the establishment and regulation of this area shall be the responsibility of the central government agency.
+
+A forest recreation area may collect fees for environmental improvement, maintenance, and cleaning; amusement facilities may collect a usage fee; such fees shall be regulated by the central government agency.
+
+### Article 17-1
+
+To maintain forest ecology and preserve biodiversity, a forest reserve may be designated within a forest area. The number of people and the amount of traffic allowed into a forest reserve shall be regulated in accordance with the unique characteristics of the resources within the Reserve. The central government agency shall set the criteria for establishing and abolishing a forest reserve, its management plan, and relevant regulatory rules.
+
+### Article 18
+
+Public and private forests with a commercial forest area of more than five hundred (500) hectares shall have a licensed forestry technician.
+
+Forest planters and loggers shall be assisted by forestry technicians or forestry technical staff.
+
+### Article 19
+
+Should business collaboration among forestry practitioners become necessary, the said practitioners may organize a forestry cooperative association in accordance with the Cooperatives Act; the association shall be given guidance by the local government agency.
+
+### Article 20
+
+Should a forest owner need to use another’s land to transport forest equipment and products, or use, alter or remove implements in a water course without endangering the water supply or peoples’ lives, the owner shall negotiate with the landowner or other interest-holders. Where negotiations are unsuccessful or impossible, the parties shall file with the government agency and the relevant local government agency for mediation; where mediation fails, the government agency shall resolve the issue.
+
+### Article 21
+
+On the following types of forestlands, the government agency may order the forest owner or stakeholder to undertake and complete reforestation and necessary soil and water conservation measures within a specified period:
+
+\1. Eroded gorge, steep exposed land, collapsed land, landslide area, fragmented belt, severely eroded land and scattered sand dune;
+
+\2. Water source area, reservoir collection area, coastal area and riverbanks;
+
+\3. Burned forest area and flood eroded land;
+
+\4. Logged site;
+
+\5. Other areas where soil and water conservation is essential.
+
+## Chapter IV Protection Forest
+
+### Article 22
+
+Whereas forests held by the state, or a public or private entity which meet any of the following requirements shall be classified as protection forest by the central government agency:
+
+\1. Essential for preventing damage from floods, wind, tides, salt, and smoke;
+
+\2. Essential for the conservation of a water source or protection of a reservoir;
+
+\3. Essential for preventing damage from sand, soil erosion and blowing sand, falling rock, ice, or avalanches;
+
+\4. Essential to national defense;
+
+\5. Essential to public health;
+
+\6. Essential for navigation;
+
+\7. Essential for the fishing industry;
+
+\8. Essential to the preservation of landmarks, historic relics, and scenery;
+
+\9. Essential to nature conservation.
+
+### Article 23
+
+Hills or other lands conforming to any of the criteria in Article 22, Sections 1-5, shall be classified as protection forest by the central government agency, and the protection thereof shall be augmented.
+
+### Article 24
+
+Management of protection forests, regardless of ownership, shall be predicated on serving the public interest. All protection forests shall be reasonably managed, cultivated, renewed and logged according to their individual characteristics.
+
+Protection forest management standards shall be decreed by the central government agency in conjunction with the local government agency.
+
+### Article 25
+
+If the protection forest is no longer necessary, it may be partially or wholly declassified, subject to approval by the central government agency.
+
+The review standard for declassifying protection forest shall be established by the central government agency.
+
+### Article 26
+
+The classification or declassification of a protection forest may be effected by submitting an application to the governing municipality or county (city) government agency by a legal entity or organization located in the vicinity of the forest or other parties having direct interests. The application then must be presented to the central government agency for approval. If the forest falls under the jurisdiction of the central government agency, the application shall be sent directly to the central government agency.
+
+### Article 27
+
+In accepting the aforesaid application for classifying or declassifying a protection forest, the government agency shall notify the relevant forest owner, landowner and parties holding other land rights, and promulgate its decision accordingly.
+
+Starting from the day of the said promulgation until the day of promulgation stipulated in Article 29, Section 2, forests classified as protection forests may not be developed or logged, except with the approval of the government agency.
+
+### Article 28
+
+Should any party with direct interests object to the specific classification or declassification of protection forest, the party may present a statement of opinion to the local government agency within thirty (30) days of the day of promulgation stipulated in the first paragraph of the preceding article.
+
+### Article 29
+
+The relevant governing municipality or county (city) government agency shall submit all documents related to the classification or declassification of a protection forest to the central government agency for approval. If objections are filed in accordance with the preceding Article, the statement of opinion shall be included.
+
+The classification or declassification of a protection forest, once approved by the central government agency, shall be promulgated by the relevant special municipal or county (city) government agency, and the forest owner shall be duly notified.
+
+### Article 30
+
+No logging, damage to wood or bamboo, development or livestock grazing, harvesting or excavating of earth, rocks, grass cover or tree roots may be carried out in a protection forest, except with the approval or consent of the government agency.
+
+In addition to the limitation clause herein, the government agency may limit or prohibit the use of revenues therefrom by the protection forest owner, or dictate the method of operation and protection.
+
+The government agency may order reforestation or other essential restoration procedures if these limitations are violated.
+
+### Article 31
+
+Whereof protection forests are protected against logging, the landowner or crop owner may file for compensation limited to the extent of direct damage due to inability to log.
+
+For the owner of a protection forest who undertakes reforestation, as stipulated in paragraph 2 of the preceding Article, and thus incurs reforestation expenditures, the said expenditure shall be deemed damages, as defined above.
+
+For the damages specified herein, the landowner shall be compensated by the central government, which may order the legal entity, organization or private individual that benefits from the protection forest classification to bear part or all of the compensation.
+
+## Chapter V Forest Protection
+
+### Article 32
+
+To protect the forest, a forest police force may be established; where a forest police force is not established, the local police shall assume the duties of forest police.
+
+The administrations and district heads of villages (towns, cities) are responsible for assisting in forest protection.
+
+### Article 33
+
+The forest periphery may be designated a forest protection area. The area shall be delineated by the government agency, presented to the central government agency for approval, and promulgated by the local government agency.
+
+### Article 34
+
+Prescribed burns shall not be started in forest areas and forest protection areas. Parties that have a burning permit from a relevant fire prevention institution, and which report to the relevant government agency, are not bound by this limitation. The permitted party must notify the owner or manager of adjacent forests prior to conducting a sanctioned burn.
+
+In carrying out a sanctioned burn, the permitted party must have fire-extinguishing equipment on hand.
+
+### Article 35
+
+The government agency shall establish a forest fire squad based on forest conditions and organize a volunteer forest fire squad as needed.
+
+### Article 36
+
+Where a railway passes through a forest area or forest protection area, fire and smoke prevention equipment shall be put into place; the same is required of a factory situated near a forest protection area.
+
+Where electrical wires pass through a forest area or forest protection area, equipment that prevents electrical shorts shall be put into place.
+
+### Article 37
+
+Where there are biological hazards or disturbances in the forest, the forest owner shall be responsible for their elimination or prevention.
+
+Where hazards or disturbances are present, the forest owner, when necessary and subject to permission by the government agency, may enter another’s land to eliminate or prevent hazards to forest biology. In the event of damages, the forest owner shall be liable for compensation.
+
+### Article 38
+
+Should a forest be threatened or afflicted by biological organisms and their spread or protracted presence, the government agency may order the forest owner and other parties with interests in the forest to perform actions required for the elimination of said organisms or prevention of their spread.
+
+The cost of said elimination or prevention will be calculated based on the area and value of the land, and shall be borne by the forest owner. However, if a prior agreement has been made among those sharing such costs, the terms of the agreement shall preside.
+
+### Article 38-1
+
+The central government agency shall determine the methods used to protect and manage forests, prevent disasters and carry out rescues; the equipment used in forest protection; all aspects of forest propagation; and the rewards for forest fire prevention.
+
+For national forests located within the traditional territories of Indigenous peoples, the central government agency shall make it a priority to provide guidance to Indigenous community development associations, related legal entities or Indigenous individuals regarding reforestation and forest protection. Such guidance and management measures will be decided by the central government agency and the central Indigenous authority.
+
+## Chapter V-I Protection of Trees
+
+### Article 38-2
+
+The local government agency shall conduct general inspections of the trees located in its jurisdiction. Trees, bamboo groves, street trees and individual trees that are important with respect to ecology, biology, geography, landscape, culture, history, education, research, and community, as well as those with other important meanings, shall be recognized by the local government agency as being subject to protection measures and be recorded and announced accordingly.
+
+For the announced protected trees mentioned in the preceding Paragraph, the local government agency shall make it a priority to increase protection measures, maintain the natural growth of tree crowns and the trees’ quality, provide regular care and health assessments, and protect the growth habitat of the trees. The current status of the trees shall be regularly updated on the local government agency’s website.
+
+The measures of general inspection and standards of tree protection mentioned in Paragraph 1 shall be formulated by the central government agency.
+
+### Article 38-3
+
+As a principle, trees that are located within the scope of lands for development but are subject to protection shall remain in an “as-is” condition. The aforesaid trees may not be logged, transplanted, trimmed, or sabotaged by any other means unless permission is granted by the local government agency. Furthermore, the growth habitat of the trees shall be well maintained.
+
+To transplant the trees subject to protection, the developer mentioned in the preceding Paragraph shall submit a transplantation and restoration plan for review and approval by the local government agency before such transplantation may proceed.
+
+All measures for matters related to the plan mentioned in the preceding Paragraph, including its content, application, review procedures, calculations of tree-crown area, and implementation regulations for trimming and transplantation of trees, digging tree holes, administration of pests control agents, health examination and care, and habitat management, are formulated by the central government agency. The local government agency shall formulate the enforcement rules based on the local environment.
+
+### Article 38-4
+
+After receiving an application for transplantation of protected trees by the local government agency, the developer shall hold a public explanation meeting to gather opinions from the public. Relevant organizations, agencies, and local residents may, within 15 days of the public explanation meeting, submit an opinion in writing to the developer and a copy to the local government agency.
+
+The local government agency shall convene a public hearing after the developer's public explanation meeting and publish the date and venue of the said hearing in newspaper(s) and website(s) or publicize the information through another appropriate means. Any member of the public may submit an opinion to the local government agency for reference. In the case of a transplantation of protected trees approved by the local government agency, the local government agency shall docket the trees for future tracking and publish their status on its website on a regular basis.
+
+### Article 38-5
+
+For the transplantation of protected trees reviewed and approved by the local government agency, the local government agency shall require the developer to provide land and funds for the local government agency's replacement planting of trees as compensation to the ecological environment.
+
+With regard to the ecological compensation mentioned in the preceding Paragraph, relevant measures regarding the choice of location of land, species, and quality of replanted trees, evaluation of ecological functions, management of habitats, or compensating funds shall be formulated by the local government agency.
+
+### Article 38-6
+
+For the management and protection of trees that exceeds the scale designated by the central government agency, works of planning, designing, and supervision shall be completed by legally registered technicians who are professionals in the area of forestry, horticulture, and have relevant skills, or the technical consulting institutes which hire said technicians. In the case of work that is handled by government agencies of all levels, public corporations, or public institutions, the works may be completed by persons who are accredited as corresponding technicians in said agencies, corporations, and institutions.
+
+The central government agency shall establish a training, recruiting, and certification system for tree protection professionals. The relevant measures shall be formulated by the central government agency in consultation with the Examination Yuan and the Ministry of Labor.
+
+## Chapter VI Supervision and Incentives
+
+### Article 39
+
+To register with the government agency, a forest owner shall provide the geographic name, area, tree and bamboo species and volume, a map of where the forest is located, and the forest plan.
+
+The rules governing forest registration shall be decreed by the central government agency.
+
+### Article 40
+
+Should there be an incident of forest neglect, over-development for agriculture, or over-logging, the local government agency may assign specific management practices to the owner.
+
+Should there be a breach of the said practices or wanton logging, the government agency may order the termination of logging and order reforestation.
+
+### Article 41
+
+Should reforestation be ordered as stipulated above, but not undertaken accordingly, the government agency may execute the order.
+
+The cost of such reforestation shall be borne by the obligated party.
+
+### Article 42
+
+Whereas publicly and privately held undeveloped mountains and lands shall be classified as forestry lands, the government agency may order the owner to reforest within an assigned time period.
+
+If reforestation is not completed within the specified time period, the government agency may execute the order, but the cost of reforestation shall be borne by the obligated party.
+
+### Article 43
+
+In forest areas, unauthorized disposal of wastes or pollutants is prohibited.
+
+### Article 44
+
+A harvester of national or public forests shall keep an account book documenting the yield of each species, the volume, origins and distribution channels.
+
+The said harvester shall choose a mark or seal to identify their forest products. The mark or seal shall be filed with the local government agency, and it shall be used before the forest products are moved out of the forest.
+
+The harvester, as defined in paragraph 1 herein, may not use a mark or seal that is similar or identical to the previously filed mark or seal of other harvesters.
+
+### Article 45
+
+All forest products are subject to permitting and inspection by the government agency prior to transport for distribution. The terms of logging and harvesting permits, application procedures, and due compliance requirements and inspection regulations shall be decreed by the central government agency.
+
+The government agency shall set up checkpoints to inspect the harvest at crucial locations along the roadways used to transport forest products.
+
+The said government agency or public official invested with criminal investigation authority may, at their discretion, inspect the harvester’s permit, account book, equipment and materials.
+
+### Article 46
+
+By law, taxation of forestry land and forest products is discounted or they are exempted from taxation.
+
+### Article 47
+
+A forestry business that meets one of the following criteria may receive an award:
+
+\1. Special achievement in reforestation or forestry management;
+
+\2. A special forestry business whose forest products have significance to national defense or the nation’s economic development;
+
+\3. Large-scale cultivation of forests as a commodity to supply industry, national defense, shipbuilding, road engineering or other important applications;
+
+\4. Nurseries that propagate seedlings in large numbers for local reforestation;
+
+\5. A forestry-related entity that invents or improves tree species, or bamboo and wood applications and crafts;
+
+\6. Significant contributions to extinguishing forest fires, or mitigating the damage from pests or pathogens or from human-induced disasters;
+
+\7. Significant contributions to the improvement of forestry science research;
+
+\8. Significant contributions to the security of the nation’s territory or conservation of water sources.
+
+The award may be a cash prize, plaque, trophy or commendation certificate. The qualifications, procedures and complete incentive measures for such awards shall be decreed by the central government agency.
+
+### Article 47-1
+
+In the case of special achievements in protection or adoption of trees, provision of rewards in Paragraph 2 of the preceding Article shall apply mutatis mutandis.
+
+### Article 48
+
+To encourage reforestation by private individuals, Indigenous peoples and/or organizations, the government agency may, depending upon actual needs, provide free seedlings, rewards, long-term low interest loans, or other assistance and rewards. The details will be decided by the central government agency in conjunction with the central Indigenous authority.
+
+### Article 48-1
+
+To encourage long-term reforestation by private individuals and/or organizations, the Government shall establish a reforestation fund. The sources of funding shall be as follows:
+
+\1. Allocations from water rights fees;
+
+\2. A reciprocation fund provided by those undertaking hillside development;
+
+\3. Penalty fines for violations of this Act;
+
+\4. Allocations from the engineering budget for water resource development projects;
+
+\5. Allocations from government budgeting procedures;
+
+\6. Donations;
+
+\7. Other sources of income.
+
+The water-right fee in Section 1 and the proportion of the allocation from the engineering budget for water resource development projects in Section 4 herein shall be regulated by the central water conservation government agency in conjunction with the central government agency. At the time a permit is issued for hill development, the reciprocation fund fee in Section 2 shall be paid. The obligated party, calculation format, payment schedule, time period, procedures, and regulations shall be decreed by the central government agency and submitted to the Executive Yuan for approval.
+
+### Article 49
+
+Undeveloped mountains and lands owned by the state shall be classified for forestry. Lands not reserved for state forestry operations may be designated and classified by the central government agency for reforestation and leased to nationals of the Republic of China.
+
+## Chapter VII Penalty Provisions
+
+### Article 50
+
+Those who steal primary forest products or forest by-products shall be subject to at least six months but no more than five years of imprisonment; in addition thereto, a penalty fine of at least three hundred thousand New Taiwan Dollars (NT$300,000) but no more than six million New Taiwan Dollars (NT $6,000,000) shall be imposed.
+
+Those who receive, transport, hoard, buy or use the aforementioned stolen properties as an intermediary shall be subject to imprisonment of at least six months but no more than five years; in addition thereto, a penalty fine of at least three hundred thousand New Taiwan Dollars (NT$300,000) but no more than three million New Taiwan Dollars (NT$3,000,000) shall be imposed.
+
+If the offenses stipulated in the two previous Paragraphs are committed on primary forest products that are regarded as precious wood with high economic or ecological value as announced by the central competent authority, the penalty shall be increased by one half.
+
+Those who attempt to commit the offenses stipulated in Paragraph 1 and Paragraph 2 shall be punishable by this Act.
+
+### Article 51
+
+For unauthorized development or occupation of forest or forestland, the offender shall be subject to six months to five years of imprisonment; in addition thereto, a penalty fine of up to six hundred thousand New Taiwan Dollars (NT$600,000) may be imposed.
+
+When the offenses listed above lead to disaster, the punitive term shall be increased by one half. Those who commit offenses that result in death shall be subject to imprisonment for at least five years but not more than twelve years; in additional thereto, a penalty fine of up to one million New Taiwan Dollars (NT$1,000,000) may be imposed. Perpetrators of offenses that result in serious injuries shall be subject to at least three years but not more than ten years of imprisonment; in addition thereto, a penalty fine of up to eight hundred thousand New Taiwan Dollars (NT$800,000) may be imposed.
+
+For offenses of Paragraph 1 involving a protection forest, the penalty may be increased by one half.
+
+Should the offenses in Paragraph 1 result from negligence, and lead to disaster, the responsible party shall be subject to no more than one year of imprisonment; in addition thereto, a penalty fine of up to six hundred thousand New Taiwan Dollars (NT$600,000) may be imposed.
+
+Those who attempt to commit the offenses stipulated in Paragraph 1 shall be punishable by this Act.
+
+For offenses stipulated herein, articles used for the commitment of or preparation for the offense or articles derived from or acquired through the commitment of an offense shall be seized whether they belong to the offender or not.
+
+### Article 52
+
+Those who violate Paragraph 1 and Paragraph 2 of Article 50 and to whom any of the circumstances listed below shall be subject to imprisonment for at least one year but not more than seven years; in addition thereto, a penalty fine of from one million New Taiwan Dollars (NT$1,000,000) to twenty million New Taiwan Dollars (NT$20,000,000) shall be imposed:
+
+\1. Offenses committed in a protection forest.
+
+\2. Offenses committed by an individual obligated to protect the forest based on a consignment from an organization or another contract agreement.
+
+\3. Offenses committed while exercising the right to harvest forest products.
+
+\4. Offenses by more than two conspirators or the employment of other individuals therefor.
+
+\5. The use of stolen goods as raw materials for producing charcoal, turpentine or other products, or for cultivating mushrooms.
+
+\6. Those who use livestock, vessels, vehicles or other equipment for transporting stolen forest products.
+
+\7. Those who excavate, destroy, incinerate or hide roots to cover up traces of crime.
+
+\8. Those who use stolen forest yields as fuel, for mining of minerals, refining lime, or for manufacturing bricks, tiles and/or other articles.
+
+\9. The felling, sawing, or excavating of living trees or other actions that damage tree growth.
+
+Those who attempt any of the above shall be subjected to penalty.
+
+Those who violate Paragraph 1 shall be subject to a penalty that is 50% higher if the product is precious wood.
+
+The aforementioned precious wood refers to species of trees with high economic or ecological value as defined by the central competent authorities.
+
+For offenses stipulated herein, articles used for the commitment of or preparation for the offense or articles derived from or acquired through the commitment of an offense shall be seized whether they belong to the offender or not.
+
+Violators or suspected violators of offenses listed in Article 50 and this Article may, with the permission of the prosecutors, have their penalties reduced or may be exempted from penalties if during the investigation process, they provide confessions about matters closely connected to the offense or evidence against other principal offenders or accomplices that enable prosecutors to prosecute the other principal offenders or accomplices involved in the offense.
+
+### Article 53
+
+Anyone who sets fire to another’s forest shall be subject to from three years to ten years of imprisonment.
+
+Anyone who sets fire to his or her own forest shall be subject to up to two years of imprisonment or short-term imprisonment. This sentence may be commuted to a penalty fine of up to three hundred thousand New Taiwan Dollars (NT$300,000). Should the fire destroy another’s forest, the perpetrator shall be subject to from one year to five years of imprisonment.
+
+Anyone whose accidental fire destroys another’s forest shall be subject to up to two years of imprisonment or short-term imprisonment. This sentence may be commuted to a penalty fine of up to three hundred thousand New Taiwan Dollars (NT$300,000).
+
+Anyone whose accidental fire destroys his or her own forest and, as a consequence, destroys another’s forest, shall be subject to up to one year of imprisonment or short-term imprisonment. This sentence may be commuted to a penalty fine of up to one hundred and eighty thousand New Taiwan Dollars (NT$180,000).
+
+Anyone who attempts any of the above shall be subject to penalty.
+
+### Article 54
+
+In the event of destruction or damage to a protection forest sufficient to entail injury to the public or others, the offender shall be subject to up to three years of imprisonment or labor in confinement. This sentence may be commuted to a penalty fine up to three hundred thousand New Taiwan Dollars (NT$300,000),
+
+### Article 55
+
+Anyone who undertakes unauthorized land development or occupation of another’s forest or forestland shall be liable to compensate for damages sustained by the injured party.
+
+### Article 56
+
+Anyone who violates Articles 9, 34, 36, 38-3, or Paragraph 1 of Article 45 shall be liable to pay a fine of more than one hundred and twenty thousand New Taiwan Dollars (NT$120,000) but less than six hundred thousand New Taiwan Dollars (NT$600,000).
+
+### Article 56-1
+
+Anyone committing any of the following shall be subject to pay a penalty fine from sixty thousand New Taiwan Dollars (NT$60,000) to three hundred thousand New Taiwan Dollars (NT$300,000):
+
+\1. Violation of Article 6, paragraph 2; Article 18; Article 30, paragraph 1; Articles 40 and 43;
+
+\2. Failure of the forest owner or interested party to comply with the government agency’s order to complete reforestation and necessary conservation measures within the assigned period in accordance with Article 21;
+
+\3. Failure of the forest owner to take actions necessary for elimination or prevention as stipulated by Article 38;
+
+\4. Refusal of a forest product harvester to accept supervision during the harvest period by an adviser assigned by the administrative authority;
+
+\5. Moving, destroying or damaging signs placed in the forest by another party.
+
+### Article 56-2
+
+The following conduct in a forest recreation area or forest reserve, without permission from the government agency, is subject to a penalty fine of at least fifty thousand New Taiwan Dollars (NT$50,000) and no more than two hundred thousand New Taiwan Dollars (NT$200,000):
+
+\1. Putting up advertising, signs or other similar objects;
+
+\2. Collecting specimens;
+
+\3. The burning of vegetation;
+
+\4. Filling up, diverting or expanding a waterway or water surface;
+
+\5. Operating transportation services for passengers or goods.
+
+\6. Driving vehicles that adversely affect the forest environment.
+
+### Article 56-3
+
+For any of the following types of conduct, the offender shall be subject to a penalty fine from one thousand New Taiwan Dollars (NT$1,000) to sixty thousand New Taiwan Dollars (NT$60,000):
+
+\1. Failure to register as stipulated in paragraph 1, Article 39, and continued failure to do so after notification;
+
+\2. Having committed any of the following in a forest recreation area or forest reserve:
+
+(1) Picking flowers or snapping off tree branches, or engraving text or graphics on trees, rocks, signs, display plaques or other objects fixed on the land;
+
+(2) Unauthorized peddling;
+
+(3) Spitting, or disposing of fruit, paper or other wastes indiscriminately;
+
+(4) Polluting the ground surface, walls, pillars and beams, water body or air, or producing loud or disturbing sounds.
+
+\3. Harassing or destroying wildlife, nests or dens in a forest reserve.
+
+\4. Entering a forest reserve without permission.
+
+Owing to their traditional living needs and activities, Indigenous peoples are not bound by the above regulations.
+
+### Article 56-4
+
+The penalty fines stipulated by this Act shall be imposed by the government agency. Any and all fines imposed according to this Act that are not paid within the assigned period shall be filed in court for enforcement.
+
+## Chapter VIII Supplementary Provisions
+
+### Article 57
+
+The enforcement rules of this Act shall be decreed by the central government agency.
+
+### Article 58
+
+This Act shall take effect on the day it is promulgated.
+
+## History
+
+1.The Forestry Act is comprised of 77 articles and was first proposed and duly passed for implementation by the government of the Republic of China, effective 15 September 1932.
+
+2.On 13 February 1937, Articles 9 and 18 were amended and promulgated by the Government.
+
+3.On 6 February 1945, 57 provisions to the Act were amended and promulgated by the Government.
+
+4.On 27 May 1972, Article 49 was amended and promulgated by order of the President.
+
+5.On 13 December 1985, 58 provisions to the Act were amended and promulgated by order of the President per ROC President (I) Definition Order No. 6227.
+
+6.On 27 May 1998, 58 provisions to the Act were amended and promulgated by order of the President per ROC President (I) Definition Order No. 8700104490.
+
+7.On 15 November 2000, Articles 2, 12, 26, 29 and 48 were amended and promulgated by order of the President per ROC President 2000 (I) Definition Order No. 8900275050.
+
+8.On 20 January 2004, Articles 17-1 and 38-1 were added, and Articles 6, 7, 15, 25, 34, 48, 56-2 and 56-3 were amended and promulgated by order of the President per ROC President 2000 (I) Definition Order No. 8900275050.
+
+9.On 6 May 2015, Articles 50 and 52 were amended and promulgated by order of the President per ROC President (I) Definition Order No. 10400052231.
+
+10.On 1 July 2015, Articles 3-1, 38-2 to 38-6, 47-1 and the title of Chapter 5-1 were added, and Articles 1 and 56 were amended and promulgated by order of the President per ROC President I Definition Order No. 10400075351.
+
+11.On 30 November 2016, Articles 51 and 52 were added, and Articles 1 and 56 were amended and promulgated by order of the President per ROC President I Definition Order No. 10500147011.
+
+12.On 5 May 2021,Articles 50 and 52 were amended and promulgated by order of the President per ROC President I Definition Order No. 11000041431.
+
+The announcement was made on July 27, 2023 by the Executive Yuan Order tai-gui-zi No. 1125014346. The relevant matters set out in Article 2, Paragraphs 1 and 2 of Article 6, Paragraph 1 of Article 7, Paragraphs 1 and 3 of Article 9, Article 10, Article 11, Article 12, Article 14, Paragraphs 3 and 4 of Article 15, Paragraph 1 of Article 16, Article 17, Article 17-1, Article 19, Article 20, Paragraph 1 of Article 21, Paragraph 1 of Article 22, Paragraph 2 of Article 24, Article 25, Article 26, Article 27, Article 28, Article 29, Article 30, Paragraph 3 of Article 31, Article 33, Paragraph 1 of Article 34, Article 35, Paragraph 2 of Article 37, Paragraph 1 of Article 38, Article 38-1, Paragraph 3 of Article 38-2, Paragraph 3 of Article 38-3, Paragraph 1 of Article 38-4, Paragraph 1 of Article 38-5, Article 38-6, Article 39, Paragraph 1 of Article 40, Paragraph 1 of Article 41, Article 42, Paragraph 2 of Article 44, Article 45, Paragraph 2 of Article 47, Article 48, Paragraph 2 of Article 48-1, Article 49, Paragraph 3 of Article 50, Subparagraph 2 of Paragraph 1 and Paragraph 4 of Article 52, Subparagraphs 2 and 4 of Article 56-1, Paragraph 1 of Article 56-2, Article 56-4, and Article 57 pertaining to the “Council of Agriculture” shall be handled by the “Ministry of Agriculture” as governing body, effective August 1, 2023

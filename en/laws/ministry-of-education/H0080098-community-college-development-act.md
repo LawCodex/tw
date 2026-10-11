@@ -1,0 +1,129 @@
+---
+title: "Community College Development Act"
+title_zh: "社區大學發展條例"
+identifier: "H0080098"
+type: act
+law_level: "法律"
+category: "行政＞教育部＞終身教育目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2018-06-13
+last_amended: 2018-06-13
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=H0080098"
+retrieved: 2026-10-12
+---
+
+# Community College Development Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-education/H0080098-community-college-development-act.md](../../../zh/laws/ministry-of-education/H0080098-community-college-development-act.md)) is authoritative.
+
+## Article 1
+
+This Act is enacted for the purpose of promoting the steady development of community colleges, enhancing the people’s modern civic literacy and ability to participate in public affairs, as well as assisting in the sustainable development of civil society, localities, and communities, implementing local cultural governance and lifelong learning.
+
+## Article 2
+
+In this Act the term “competent authority” refers to: the Ministry of Education in the central government; the government of the special municipality in the special municipality; the county（city）government in the county（city）.
+
+## Article 3
+
+In this Act the term “community college” refers to any lifelong learning institution established or commissioned by the competent authority of the special municipality or county（city）, in accordance with this Act or the Lifelong Learning Act, outside of the formal education system, to enhance the people’s modern civic literacy and ability to participate in public affairs, to assist in the promotion of local public affairs, to enhance local identity and regional vitalization, to cultivate local talents, to develop local culture and knowledge, and to promote the sustainable development of the community.
+
+## Article 4
+
+The competent authority of each special municipality or county（city）shall take into account the cultural life sphere, balance the development of urban and rural areas, ensure the accessibility of learning resources and other factors, and appropriately demarcate regions to set up community colleges, so as to create an environment for high-quality local learning.
+
+A community college may set up a branch campus, off-campus classes, or teaching points depending on the learning needs of the people; the establishment of a branch campus shall be reported to the competent authority of the special municipality or county（city）for approval; the establishment of any off-campus classes or teaching points shall be reported to the competent authority of the special municipality or county（city）for inspection.
+
+## Article 5
+
+Community colleges shall not impose restrictions on academic qualifications or nationality in the admission of students.
+
+## Article 6
+
+The competent authority of the special municipality or county（city）may establish community colleges on their own, or entrust them to be run by public welfare corporations, consortiums, or schools that have been set up or filed in accordance with the law; for those who entrust them to be run by schools, the effectiveness of the operation of the college and its financial status shall be taken into consideration.
+
+A public welfare corporation, a financial corporation, or a school that is entrusted with the operation of a community college shall specify in its constitution or bylaws the purpose, objective, or mission of the operation of the community college.
+
+Non-community colleges shall not use the name “community college”.
+
+## Article 7
+
+The competent authority of the special municipality or county（city）shall take into account the actual needs and financial burdens of community colleges, designate and coordinate their schools and institutions to provide stable and suitable venues for community colleges to use for office work, teaching, and other activities, either on a free of charge basis or on a rental basis.
+
+The competent authority of the special municipality or county（city）may provide subsidies or incentives to schools and organizations that provide school premises.
+
+The competent authority of the special municipality or county（city）shall assist in the preparation of facilities and equipment necessary for the operation of community colleges, in accordance with the actual needs of the community colleges.
+
+## Article 8
+
+The competent authority of the special municipality or county（city）shall provide a generous budget for the operation of community colleges, and reward community colleges depending on the performance of their operation.
+
+## Article 9
+
+To encourage community colleges to organize teaching in remote areas, the competent authorities at all levels may, depending on the actual needs, provide incentives and subsidies for community colleges to create local learning environments and increase learning opportunities in remote areas; for non-remote areas, they should also take into account the characteristics and needs of the region and assist in the development of their learning environments.
+
+## Article 10
+
+In order to promote the sound development of community colleges, the competent authority of the special municipality or county（city）may conduct regular evaluations of community colleges.
+
+The evaluation of community colleges shall take into consideration the following points:
+
+1.The effectiveness of curriculum practice and teaching in enhancing people’s modern civic literacy and ability to participate in public affairs.
+
+2.The effectiveness of the program in promoting the sustainable development of local communities and nurturing local talents.
+
+3.The effectiveness of financial planning and implementation.
+
+4.The effectiveness of other community college development programs.
+
+## Article 11
+
+Community college students who meet certain conditions of study may be issued study certificates by community colleges in accordance with the regulations formulated by the competent authority of the special municipality or county（city）; those who have accumulated a certain level of academic achievement may be issued study certificates by the competent authority of the special municipality or county（city）.
+
+The criteria for issuing study certificates and other related matters shall be prescribed by the central competent authority.
+
+## Article 12
+
+In order to promote the sound development of community colleges, the competent authority of the special municipality or county（city）shall formulate autonomous laws and regulations on the establishment of community colleges, including the conditions for commissioning, the manner of commissioning, the duration and eligibility for renewal of contracts, the venues, the operation of the college, the organization, the training of the faculty and its curriculum, the enrollment of students, the collection and refund of fees and tuition, the granting of subsidies, the provision of awards, the evidence of learning, the issuance of learning certificates, the accreditation of community colleges, the termination of the commissioning of community colleges, the establishment of a deliberation committee, and other related matters.
+
+The self-governing regulations referred to in the preceding paragraph shall include criteria for recognizing the effectiveness of school operation and financial situation referred to in Article 6, Paragraph 1.
+
+## Article 13
+
+The competent authority of the special municipality and county（city）shall establish a community college deliberation committee（hereinafter abbreviated to “deliberation committee”）with a number of members comprising experts and scholars, persons with practical work experience in community colleges, and representatives of the authority, each of whom shall be appointed（assigned）to be on the committee. The number of members with practical work experience in community colleges, as well as the number of members of either gender, shall not be less than one-third of the full committee.
+
+The deliberation committee shall consider the following matters:
+
+1.Community college development policies.
+
+2.The establishment and closure of community colleges.
+
+3.Assessment of community colleges.
+
+4.Any dispute matter involving a community college.
+
+5.Other important matters related to the development of community colleges.
+
+## Article 14
+
+The central competent authority may grant subsidies to community colleges at its discretion, and shall reward community colleges for outstanding performance; the regulations concerning granting subsidies, awarding conditions and methods, the criteria for examination, and other related matters shall be prescribed by the central competent authority.
+
+## Article 15
+
+If the competent authority of the special municipality or county（city）has good performance in supporting community college operations, the central competent authority may provide an incentive award; the regulations concerning awarding conditions and methods, the criteria for examination, and other related matters shall be prescribed by the competent authority.
+
+## Article 16
+
+In order to promote the sound development of community colleges, the central competent authority shall regularly commission studies on the operation, effectiveness and development policies of community colleges.
+
+## Article 17
+
+This Act shall come into force on the date of promulgation.
+
+## History
+
+1.Presidential Decree Hua Zong Yi.Yi.Zi. No.10700062971 dated June 13, 2018: promulgation of complete text of 17 articles, taking immediate effect.

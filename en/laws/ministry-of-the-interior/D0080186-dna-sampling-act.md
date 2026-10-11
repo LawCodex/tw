@@ -1,0 +1,173 @@
+---
+title: "DNA Sampling Act"
+title_zh: "去氧核醣核酸採樣條例"
+identifier: "D0080186"
+type: act
+law_level: "法律"
+category: "行政＞內政部＞警政目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1999-02-03
+last_amended: 2012-01-04
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0080186"
+retrieved: 2026-10-12
+---
+
+# DNA Sampling Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-the-interior/D0080186-dna-sampling-act.md](../../../zh/laws/ministry-of-the-interior/D0080186-dna-sampling-act.md)) is authoritative.
+
+## Article 1
+
+This Act is enacted to ensure public safety, assist in forensic identification, help locate missing people, confirm the biological parent-child relationship, enhance the crime investigation efficiency, and prevent crimes effectively.
+
+Other relevant laws shall govern the matters with no applicable provisions in this Act.
+
+## Article 2
+
+The term “competent authority” hereinafter used in this Act is the Ministry of the Interior.
+
+## Article 3
+
+The terms used in this Act are defined as follows:
+
+\1. DNA: The chemical substance found in the cells of a human body, containing genetic information.
+
+\2. DNA Sample: Any biological sample containing DNA collected from the human body.
+
+\3. DNA Record: The data obtained from DNA samples through scientific analysis to identify each person's genetic features.
+
+\4. Appearance Frequency of DNA Types: The frequency that certain types of DNA are analyzed in the identification system, which is adopted by the competent authority, repeatedly appears in a specific population.
+
+\5. DNA Database: The data system established by the competent authority to store DNA records.
+
+\6. DNA Demographics Database: The data system of the appearance frequency of DNA types established by the competent authority.
+
+## Article 4
+
+The competent authority shall designate or set up a special unit to be responsible for the following:
+
+\1. The identification, analysis, and storage of DNA samples.
+
+\2. The collection, establishment, and maintenance of DNA records, type frequency, database, and demographics database.
+
+\3. Providing DNA records and related data or identifying DNA samples when requested by prosecutors, courts, military prosecutors, military courts, or law enforcement agencies.
+
+\4. The research and development of DNA identification technologies, procedures, and criteria.
+
+\5. Other DNA-related matters.
+
+## Article 5
+
+The accused or suspects committing any of the following offenses shall be subject to mandatory DNA sampling:
+
+\1. Offenses against public safety as provided in paragraphs 1 and 3 of Article 173, paragraphs 1, 2, and 4 of Article 174, and paragraph 1 of Article 175 of the Criminal Code of the Republic of China.
+
+\2. Sexual offenses as provided in Articles 221 to 227, 228, and 229 of the Criminal Code of the Republic of China.
+
+\3. Offenses of homicide as provided in Article 271 of the Criminal Code of the Republic of China.
+
+\4. Offenses of causing injury as provided in paragraph 2 of Article 277 and Article 278 of the Criminal Code of the Republic of China.
+
+\5. Offenses of abrupt taking, robbery, and piracy as provided in paragraph 2 of Article 325 and Articles 326 to 334 -1 of the Criminal Code of the Republic of China.
+
+\6. Offenses of extortion and kidnapping for ransom as provided in the Criminal Code of the Republic of China.
+
+The accused or suspects who are convicted of any of the following offenses and recommit any offenses provided in this paragraph shall be subject to mandatory DNA sampling:
+
+\1. Offenses against public safety as provided in paragraphs 1 and 4 of Article 183,  paragraphs 1, 2, and 5 of Article 184, Article 185-1, Article 186, paragraphs 1, 2, and 4 of Article 186-1, Article 187, 187-1, 188, paragraphs 1, 2, and 5 of Article 189, paragraphs 1, 2, and 4 of Article 190, Article 191-1, and any intentional offense against Article 176 of the Criminal Code of the Republic of China.
+
+\2. Offenses against freedom as provided in Articles 296, 296-1, and 302 of the Criminal Code of the Republic of China.
+
+\3. Offenses of larceny as provided in Article 321 of the Criminal Code of the Republic of China.
+
+\4. Offenses of abrupt taking, robbery, and piracy as provided in paragraph 1 of Article 325 of the Criminal Code of the Republic of China.
+
+\5. Offenses as provided in Articles 7, 8, 12, and 13 of the Firearms, Ammunition, and Knives Control Act.
+
+\6. Offenses as provided in Articles 4 to 8, 10, and 12 of the Narcotic Control Act.
+
+## Article 6
+
+When a court or a prosecutor determines it is necessary to conduct DNA testing, a summons shall be issued to the accused or the suspect prescribed in the preceding article to take DNA sampling.
+
+The summons prescribed in the preceding paragraph shall set forth reasons for DNA sampling.
+
+If the person summoned pursuant to paragraph 1 refuses to take the DNA sampling without justifiable grounds, the court or the prosecutor may arrest him/her and compel him/her to take the DNA sampling.
+
+An arrest warrant is required while executing the arrest, as provided in the preceding paragraph, and shall set forth reasons for mandatory DNA sampling.
+
+## Article 7
+
+Before the law enforcement agencies conduct DNA testing in accordance with Article 5, they shall notify the suspect or the accused in written notification. If the suspect or the accused, without justifiable grounds, fails to appear after a notice has been legally served, the public prosecutor may be sought to issue an arrest warrant.
+
+The written notification prescribed in the preceding paragraph shall specify the following items and shall be signed by the chief of the law enforcement agency:
+
+\1. Full name or fully identifiable features, sex/gender, age, domicile, or residence of the suspect or the accused.
+
+\2. Offense charged and the reasons for DNA sampling.
+
+\3. Date, time, and place for appearance.
+
+\4. If the subject fails to appear without justifiable grounds, the prosecutor may be requested to issue the arrest warrant.
+
+Requirements in Article 79 of The Code of Criminal Procedure shall apply mutatis mutandis to the written notification stipulated in the preceding paragraph.
+
+## Article 8
+
+After a DNA sample is collected, the law enforcement officers, prosecutors, or courts shall send the DNA sample to the responsible unit of the competent authority and issue a certificate to inform the suspect or the accused of the completion of his/her DNA sampling.
+
+In accordance with this Act, anyone obligated to take DNA sampling may present the aforementioned certificate in the preceding paragraph to refuse to undergo a second DNA sampling. But the following conditions shall be the exceptions :
+
+\1. The genetic information from the originally collected sample cannot be fully identified.
+
+\2. There are facts sufficient to support that the originally collected sample may not belong to the sampled person.
+
+\3. DNA records obtained from the originally collected sample are lost.
+
+## Article 9
+
+Those who try to find or confirm the blood relationship may request DNA testing at their own cost.
+
+A person with limited or without legal capacity shall apply for DNA sampling through the assistance from the statutory representatives, guardians, social administrative authorities, or police authorities.
+
+## Article 10
+
+The DNA sampling shall be conducted according to the medical approved procedures and methods; due care shall be taken of the body and reputation of those sampled.
+
+## Article 11
+
+DNA samples collected from the accused and the suspect referred by the law enforcement agencies in accordance with this Act shall be stored securely and established records and databases by the competent authority.
+
+The competent authority may not disclose or provide the samples, records, and database in the preceding paragraph to others unless it is prescribed by this Act or other laws. This requirement shall also apply to the authorities having DNA samples in custody or in possession.
+
+## Article 12
+
+For DNA samples and records collected and stored in accordance with this Act, the former shall be kept for at least ten years, while the latter shall be kept for at least ten years after the death of the person who is sampled.
+
+If any suspect or accused is sampled in accordance with Article 5 and has been acquitted or found not guilty by the court, his/her DNA samples and records shall be deleted by the competent authority. The suspect or the accused himself/herself may also apply for the deletion of DNA samples and records. But if the person is involved in another case and shall be subject to mandatory DNA sampling, their samples and records may not be deleted.
+
+The certificate stipulated in paragraph 1 of Article 8 shall set forth the rights of the suspect or the accused prescribed in the preceding paragraph.
+
+The regulations governing DNA sampling shall be enacted by the competent authority.
+
+The regulations governing the identification, storage, management, and destruction of DNA samples and the establishment, use, supply, deletion, supervision, and management of DNA records shall be enacted by the competent authority.
+
+## Article 13
+
+The Enforcement Rules of this Act shall be enacted by the competent authority.
+
+## Article 14
+
+This Act shall come into force one year after its promulgation.
+
+The amendment of the Act shall come into force six months after its promulgation.
+
+## History
+
+\1. Promulgated by Presidential Order of Hua Zong 1 Yi Zi No. 8800025780 on Feb. 3, 1999
+
+\2. Amended by Presidential Order of Hua Zong 1 Yi Zi No. 10000299671 on Jan. 4, 2012

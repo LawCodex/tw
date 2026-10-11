@@ -1,0 +1,949 @@
+---
+title: "Accounting Act"
+title_zh: "會計法"
+identifier: "T0030001"
+type: act
+law_level: "法律"
+category: "行政＞行政院主計總處＞會計目       "
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1935-08-14
+last_amended: 2022-06-15
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=T0030001"
+retrieved: 2026-10-12
+---
+
+# Accounting Act
+
+> Translation. The Chinese text ([zh/laws/directorate-general-of-budget-accounting-and-statistics/T0030001-accounting-act.md](../../../zh/laws/directorate-general-of-budget-accounting-and-statistics/T0030001-accounting-act.md)) is authoritative.
+
+## Chapter 1 General Provisions
+
+### Article 1
+
+This Act shall govern the accounting affairs of governments and their affiliated Agencies.
+
+### Article 2
+
+The accounting affairs of each inferior Budget, Accounting and Statistics Agency (“BAS Agency”) (in the absence of BAS Agency, then the Chief BAS Officer) shall be supervised and guided by its superior Budget, Accounting and Statistics Office directly in control.
+
+### Article 3
+
+Government and its affiliated Agencies shall implement accurate and detailed accounting of the following for each Agency and Fund:
+
+\1. Formation, distribution, and implementation of budget.
+
+\2. Annual revenue from tax or income.
+
+\3. Occurrence, dealing and settlement of credits and debts.
+
+\4. Cashiering, custody, and transfer of cash, notes and securities.
+
+\5. Increase and decrease, custody and transfer of real estate properties or other properties.
+
+\6. Calculation of administrative expenses, enterprise costs as well as annual surplus and deficit.
+
+\7. Calculation of operating costs, profits and losses and treatment of annual profits and losses.
+
+\8. Other accounting affairs which are required to be dealt with.
+
+### Article 4
+
+The accounting affairs of events mentioned in the preceding Article shall be classified into the following four categories according to their nature:
+
+\1. Ordinary Government Affairs: General accounting affairs of government Agencies.
+
+\2. Special Government Affairs: Accounting affairs of government Agencies, dealt with by special government Agencies, except for those mentioned in the preceding Subparagraph.
+
+\3. State-owned Enterprise Affairs: Accounting affairs of State-owned Enterprise Agencies.
+
+\4. Extraordinary Affairs: accounting affairs of events of extraordinary nature and other material events that do not follow the beginning and the end of a fiscal year, which is treated by Agencies in charge or provisional entities.
+
+### Article 5
+
+Ordinary Government Affairs shall be categorized into the following three types:
+
+\1. Accounting affairs of government annual revenues and expenses: The accounting affairs relevant to the budget implementation of the annual revenues or allocation, and the revenues and expenditures from the implementation, credits and debts accrued from receipt and appropriation of revenues and expenditures, calculation of administrative expenses and annual surplus or deficit.
+
+\2. Accounting affairs of government cashiering: The accounting affairs relevant to receipts and payments, custody, and transfer of cash, notes and securities.
+
+\3. Accounting affairs of government properties: The accounting affairs relevant to increase and decrease, custody and transfer of real estate properties and other properties.
+
+### Article 6
+
+Special Government Affairs shall be categorized into the following six types:
+
+\1. Accounting affairs of treasury cashiering activities: The accounting affairs relevant to the receipts and payments, custody, and transfer of cash, notes and securities by the treasury.
+
+\2. Accounting affairs of managed properties: The accounting affairs relevant to the increase and decrease, custody and transfer of real estate properties and other properties managed by the public properties management Agency.
+
+\3. Accounting affairs of taxation: The accounting affairs relevant to collection, checking of revenue from taxes and other procedures regarding the dealing with taxes pursuant to statutory provisions, relevant certificates or supporting documents, and treatment of taxable items by the tax Agency.
+
+\4. Accounting affairs of government bonds: The accounting affairs relevant to the issuance, management, and repayment of bonds by the competent Agency of bonds.
+
+\5. Accounting affairs of special properties: The accounting affairs relevant to the finances of special properties dealt with by the management Agency of special properties.
+
+\6. Accounting affairs of Special Funds: The accounting affairs relevant to the treatment of Funds by the management Agency of Special Funds.
+
+Special Funds mentioned in Subparagraph 6 of the preceding Paragraph mean all types of Funds which do not belong to General Funds, including all types of Trust Funds, Retained Capital Funds, Non-enterprise Recurring Funds, while except for Business Funds, Government Bonds Funds, and Enterprise Funds that belongs to enterprise accounting.
+
+### Article 7
+
+State -owned Enterprise Affairs shall be categorized into the following four types:
+
+\1. Accounting affairs of annual business budget: The accounting affairs relevant to the implementation of business budget, revenues, and expenditures from the implementation of budget, credits and debts accrued from treatment of revenues and expenditures, and calculation of annual surplus or deficit and operating profits or losses.
+
+\2. Accounting affairs of business costs: The accounting affairs relevant to the calculation of the unit costs for goods and services.
+
+\3. Accounting affairs of business cashiering activities: The accounting affairs relevant to the receipts and payments, custody, and transfer of cash, notes and securities.
+
+\4. Accounting affairs of business properties: The accounting affairs relevant to the increase and decrease, custody and transfer of properties used and applied in business.
+
+### Article 8
+
+Accounting affairs relevant to the preceding three Articles shall be categorized, compiled, and consolidated into the Controlling Account.
+
+### Article 9
+
+Government Accounting Entities comprise of following five entities:
+
+\1. General Accounting
+
+\2. Unit Accounting
+
+\3. Sub-Accounting
+
+\4. Subordinate Unit Accounting
+
+\5. Sub-Accounting of Subordinate Unit Accounting
+
+The accounting Entity of each Subparagraph in the preceding Paragraph shall apply a system of double-entry bookkeeping. However, accounting affairs of Sub-Accounting Entity mentioned in Subparagraph 3 and 5 that are deemed simple shall not be subject to this limitation.
+
+Accounts of each Subparagraph in the first Paragraph may be dealt with in whole or collectively depending on the actual circumstances upon obtaining approval of the Superior BAS Agency.
+
+### Article 10
+
+Accounting of the central government, special municipalities, county (cities), township (cities), mountain indigenous districts of special municipalities shall form one General Accounting respectively.
+
+### Article 11
+
+Accounting of the following Subparagraphs shall form Unit Accounting:
+
+\1. Accounting of Agencies Unit that hold legal budgets in the general budget.
+
+\2. Accounting of Special Funds that hold legal budgets in the general budget regardless of Agency division..
+
+### Article 12
+
+Accounting below the Unit Accounting, except for accounting of Subordinate Units, shall form a Sub-Accounting and be given the name of the Agency in question.
+
+### Article 13
+
+Accounting of following Subparagraphs shall form Subordinate Unit Accounting:
+
+\1. Accounting of government or its affiliated Agencies and its subordinate business, enterprise Agencies or operative entities.
+
+\2. Accounting of Subordinate Special Funds of each Agency with portions relating to annual revenues and expenditures which is incorporated into the general budget.
+
+### Article 14
+
+Accounting below Subordinate Unit Accounting shall be Sub-Accounting of Subordinate Unit Accounting and be given the name of the Agency in question.
+
+### Article 15
+
+The beginning and the end of a fiscal year shall be determined by the Budget Act.
+
+A quarter of a fiscal year shall be three months beginning from the date in which the fiscal year is commenced.
+
+Each month of a fiscal year shall be determined according to calendar month.
+
+Each month shall be divided into three periods, namely the period from the 1st to the 10th day, the period from the 11th to the 20th day, and the period from the 21st to the last day of each month.
+
+Each month shall be sub-divided into the period of five days each as a sub-period, the 1st to the 5th day of each month is the first sub-period, and the 26th to the last day of each month is the last sub-period.
+
+Periods that do not commence with the first day of a fiscal year or the first day of calendar month, or months that are not consecutive, shall be determined pursuant to Article 121 to 123 of the Civil Code.
+
+### Article 16
+
+Government Accounting shall use the national currency or currencies determined by the budget as the basic monetary unit for bookkeeping; those domestic or foreign currencies recorded in books that are inconsistent with the basic monetary unit shall be converted into the basic monetary unit and recorded into major books of accounts.
+
+During bookkeeping, except for the purpose of arithmetic multiplication and division, the unit of account shall be dollar and decimals shall be rounded up.
+
+Where there are special circumstances applicable, regulations may be drafted regarding the provision of preceding Paragraph and implemented once approved by each government BAS Agency.
+
+## Chapter 2 Accounting Systems
+
+### Article 17
+
+The design of the accounting system shall accord to the nature, actual business circumstances, and prospective development of accounting affairs. The financial reports required shall be determined in advance, which are used as references to determine the accounts, books, statements, and accounting documents that are required to be established.
+
+Agencies or Funds of the same or similar nature shall have consistent accounting systems. The basis of Government Accounting, except for cashiering affairs of the treasury, shall adopt the accrual basis.
+
+### Article 18
+
+The design and approval of the General Accounting systems of the central government shall be undertaken by Central BAS Agency.
+
+The General Accounting systems and the uniform accounting provision of local governments shall be designed by the local BAS Agency and approved and promulgated by the superior BAS Agency in control.
+
+The accounting systems of each Agency shall be designed by the accounting Department. After being reported to and signed by its Chief Officer, it shall be approved and promulgated by the BAS Agency of the local government.
+
+Design of accounting system in the preceding Paragraph shall be discussed among affiliated Agencies and the controlling Audit Agency before being approved; the same applies to amendments.
+
+Explanatory notes and precedents of the accounting systems and the uniform provisions dealing with accounting affairs shall be approved by the Agency in charge of promulgation.
+
+### Article 19
+
+Design of the accounting system in the preceding two Articles shall expressly provide the following items:
+
+\1. Scope of applied Agencies of the accounting system.
+
+\2. Types and written forms of financial reports.
+
+\3. Classification and codification of each account.
+
+\4. Types and forms of accounting books.
+
+\5. Types and forms of accounting documents.
+
+\6. Procedures of dealing with accounting affairs.
+
+\7. Internal review procedures.
+
+\8. Other matters that are required.
+
+### Article 20
+
+The accounting systems shall not in any way conflict with this Act, Budget Act, Financial Statement Act, Audit Act, Treasury Act and Statistic Act, etc. The accounting system of Unit Accounting and Sub-Accounting shall not in any way conflict with the accounting system of General Accounting; The accounting system of Subordinate Unit Accounting and its Sub-Accounting shall not in any way conflict with the accounting system of controlling Unit Accounting or its Sub-Accounting.
+
+### Article 21
+
+All financial reports shall be distinguished by fiscal years and,according to the following purposes, be compiled into periodic or non-periodic reports; statistical and mathematical measures may be adopted to generate appropriate analysis, explanations, or forecasts:
+
+\1. External reports shall be compiled in accordance with executive, control, legislative purposes and for the people to understand.
+
+\2. Internal reports shall be compiled in accordance with budget implementation circumstances and progress, management, control, and decision-making purposes.
+
+### Article 22
+
+Financial reports are categorized into the following two types:
+
+\1. Static financial reports: records financial position on a specific date.
+
+\2. Dynamic financial reports: records variation of financial position within a specific period.
+
+Where there is a need for comparison between static and dynamic financial reports in the preceding Paragraph, separate comparison tables may be compiled.
+
+### Article 23
+
+The static and dynamic financial reports of Unit Accounting and Subordinate Unit Accounting shall adhere to the principle of complete expression, and the accounting system of accounting affairs listed in Article 5 to Article 7.
+
+The static financial reports shall comprise of the following statements separately compiled according to facts:
+
+\1. Balance sheet
+
+\2. Cash balance statement
+
+\3. Notes balance statement
+
+\4. Securities balance statement
+
+\5. Certificates or other supporting documents balance statement,
+
+\6. Taxable items balance statement
+
+\7. Statement of government bonds
+
+\8. Catalogue of properties and special properties
+
+\9. Catalogue of fixed liabilities
+
+The dynamic financial reports shall comprise of the following statements separately compiled according to facts:
+
+\1. Statement of annual revenue or accumulated allocations
+
+\2. Statement of cash inflow and outflow
+
+\3. Statement of receipts and payment of notes
+
+\4. Statement of receipts and payment of securities
+
+\5. Statement of receipts and payment of certificates and other supporting documents
+
+\6. Statement of receipts and payment of taxable items
+
+\7. Statement of issuance of government bonds and principal and interests of government bonds
+
+\8. Statement of increase and decrease of properties or special properties
+
+\9. Statement of increase and decrease of fixed liabilities
+
+\10. Statement of operating costs
+
+\11. Income statement
+
+\12. Cash flow statement
+
+\13. Retained earnings statement
+
+### Article 24
+
+Statements for financial reports that are required to be compiled due to extraordinary events shall be compiled by the BAS Agency according to facts with reference to provision of the preceding Article.
+
+### Article 25
+
+Statements comprising financial reports that are required to be compiled by Unit Accounting shall be segregated according to different funds. For the purpose of simplification, statements may be presented in column form comprising each fund.
+
+### Article 26
+
+Static and dynamic financial reports which are required to be compiled by Sub-Accounting Entity shall be prescribed within the accounting system according to its need and the needs of the Unit Accounting Entity it controls or the Subordinate Unit Accounting Entity.
+
+### Article 27
+
+Financial reports and statements in Article 22 to Article 25 may be crossed-out or merged according to the factual needs after each government BAS Agency meet and discuss with the Chief Officer and the Chief accounting Officer of the Unit Accounting Agency or the Subordinate Unit Accounting Agency.
+
+### Article 28
+
+General Accounting of government shall comprise of consolidated reports mentioned in Article 21 to Article 23. Accounts that are dealt with in whole or collectively pursuant to Paragraph 3 of Article 9, however, may be put into financial report from financial records.
+
+### Article 29
+
+(deleted)
+
+### Article 30
+
+All financial reports shall be compiled based on financial records, and be expressed in a manner to facilitate review.
+
+### Article 31
+
+Where the figures in the reports of non-government Agencies engaging in government activities differ from the accounting Officer’s report, the accounting Officer shall additionally prepare an explanation of discrepancy statement.
+
+### Article 32
+
+Each Unit Accounting Agency and Subordinate Unit Accounting Agency shall compile and deliver financial reports within the following time limits:
+
+\1. Daily reports shall be delivered the next day.
+
+\2. Five-day reports shall be delivered within 2 days from the end of the five-day period.
+
+\3. Weekly and ten-day reports shall be delivered within 3 days from the end of the week or the ten-day period.
+
+\4. Monthly and quarterly reports shall be delivered within 15 days from the end of the month or the three-month period, unless otherwise stipulated by statutory provisions.
+
+\5. Half-yearly reports shall be delivered within 30 days from the end of the half-year period, annual reports shall be governed by provisions of Financial Statement Act.
+
+The time limits stipulated in Subparagraph 1 to Subparagraph 4 of the preceding Paragraph shall apply to Sub-Accounting and Sub-Accounting of Subordinate Unit Accounting.
+
+Financial reports as stipulated in Subparagraph 5 of Paragraph 1 shall be compiled by Unit Accounting Agency or Subordinate Unit Accounting Agency after revision; the time limits in which to prepare or deliver the reports may follow the time limits in which to deliver reports by each Sub-Accounting Agency plus the actual postal period required; the time period in which to prepare and deliver financial report produced by Agencies relying on machines to process financial information shall be determined by controlling BAS Agency.
+
+### Article 33
+
+For financial reports mentioned in Subparagraph 1 to Subparagraph 4 of the preceding Article relating to the Agency itself, the daily reports shall record accounting events which have been entered into the books at the end of the day; five-day, weekly, ten-day, monthly, and quarterly reports shall record accounting events which have been entered into the books on the last day of each respective period. In the case of the Agency compiling reports for its affiliated Agency, the daily reports shall record accounting events which have been recorded on the daily reports of the affiliated Agency received by the Agency at the end of the day; five-day, weekly, ten-day, monthly and quarterly reports shall record accounting events which have been recorded on the five-day, weekly, ten-day, monthly and quarterly reports of affiliated Agency received by the Agency on the last day of each respective period. However, monthly, or quarterly reports that close at the end of the month or the quarter shall not be within this limitation.
+
+### Article 34
+
+The accounts shall depend on the events which are required to be incorporated into different types of financial reports, and the title of the accounts shall reflect the nature of the event; if the nature of the account is the same as budget or financial statement accounts, its title shall be consistent with the title of accounts in budget or financial statement.
+
+### Article 35
+
+The accounts of summary statements and subsidiary statements of financial reports shall reflect the control-subsidiary relationship, wherein those of the summary statements shall be the controlling accounts, and those of the subsidiary statements shall be the subsidiary accounts.
+
+### Article 36
+
+To facilitate compilation and comparison, all Agencies of central government shall ensure the consistency of accounts holding the same event or similar nature and the compatibility between related accounts.
+
+Accounts of local government having the same event or similar nature as central government shall follow those determined by the central government. Related accounts of local government shall be generated consistent and compatible with accounts of central government.
+
+### Article 37
+
+The establishment of accounts shall adopt both events on cash basis and accrual basis as subjects of compilation.
+
+### Article 38
+
+Accounts shall be classified and numbered based on reports included and the nature thereof.
+
+### Article 39
+
+Account title, once prescribed, shall not be changed unless with the approval of the government BAS Agency or the BAS Officer in charge.
+
+Approval of change in the account title mentioned in the preceding Paragraph shall be notified to controlling Audit Agency.
+
+### Article 40
+
+Accounting books are categorized into the following two categories:
+
+\1. Books: Books of records containing evidence required for compilation of financial reports.
+
+\2. Reference Books: Books of records not for the purpose of compiling financial reports, but to facilitate the review of accounting events or handling of accounting affairs.
+
+For financial data processed by machines, the records within the storage of the machine are deemed the accounting book.
+
+The records within the storage of the machine mentioned in the preceding Paragraph, once processed, shall be given with a digital control number and labeled in written form, and later signed or stamped by the Chief accounting Officers after review.
+
+### Article 41
+
+Books are categorized into the following two categories:
+
+\1. Journal Books: The Books, which predominantly record sequence of accounting events as it occurs chronologically, each individually be named a Book.
+
+\2. Ledger Books: The Books, which predominantly record accounting events based on the classification of the events, each individually be named an account.
+
+### Article 42
+
+The Journal Books or Ledger Books may be set up in special columns as required depending on actual needs and for the purpose of facilitation.
+
+### Article 43
+
+The Journal Books are categorized into the following two types:
+
+\1. General Journal Books: The Books which are set up to record all events chronologically or to record the closing figures in Subparagraph 2 chronologically, such as the daily entry Books.
+
+\2. Special Journal Books: The Books which are set up to record special events chronologically, such as Annual Revenue, Payment and Receipts Book, Allocation Payment and Receipt Book, Cash Inflow and Outflow Book and other Books relating to recording of special events.
+
+### Article 44
+
+The Ledger Books are categorized into the two following types:
+
+\1. General Ledger Books: The Ledger Books which are set up to record all general events with the main purpose of compiling the general financial report.
+
+\2. Subsidiary Ledger Books: The Ledger Books which are set up to record all special events by subsidiary classes or that are recorded into separate accounts with the main purpose of compiling subsidiary financial report, such as Annual revenue Ledger, Allocations Ledger, Property Ledger, and other Ledgers relating to special events.
+
+General Ledger Books having Subsidiary Ledger Books shall set up control accounts to record the aggregate of subsidiary accounts. However, Property Ledgers shall set up separate controlled accounts apart from being entered into the balance sheet pursuant to Article 29.
+
+### Article 45
+
+For the purpose of simplification, government BAS Agencies may merge the Books of General Accounting, Unit Accounting, Subordinate Unit Accounting, as well as Special Journal Books and Subsidiary Ledger Books of Sub-Accounting during the compilation process depending on the circumstances.
+
+### Article 46
+
+Apart from setting up of General Journal Books and General Ledger Books in the Books of Unit Accounting or Subordinate Unit Accounting, Special Journal Books and Special Ledger Books shall be set up by each government BAS Agency, by discussing with Unit Accounting or Subordinate Unit Accounting Agency or controlling Chief Officer of funds and Chief accounting Officer in accordance with actual needs and circumstances.
+
+Reference Books of each Unit Accounting or Subordinate Unit Accounting Agencies, apart from those required by BAS Agencies to be set up, shall be set up by each Agency or controlling Chief Officer of funds and Chief accounting Officer in accordance with actual need and circumstances.
+
+### Article 47
+
+For accounting affairs of Sub-Accounting that are relatively complex, the types of Books shall be governed by accounting rules of Unit Accounting or Subordinate Unit Accounting. For accounting affairs that are relatively simple, only Journal Books and necessary Reference Books may be set up.
+
+### Article 48
+
+Each Sub-Accounting Agency shall regularly copy the contents of the Journal Book and submit the copies to the controlling Unit Accounting Agency or Subordinate Unit Accounting Agency for entry into the account; For accounting affairs that are relatively complex, the controlling Unit Accounting Agency or Subordinate Unit Accounting Agency may discuss with each government BAS Agency and controlling audit Agency to obtain approval to copy the total credits and total debits of each account for each period and the sum of each account, and submit them to the controlling Unit Accounting Agency or Subordinate Unit Accounting Agency for entry into the account.
+
+### Article 49
+
+Books of General Accounting shall be established depending on the information that is required to be included in the general financial report; its Reference Books shall be established depending on the needs in the process of handling affairs.
+
+### Article 50
+
+Special Property Management Agency shall prepare Reference Books, such as indexes, photographs, drawings, and other reference records to facilitate verification regarding valuable chattel properties; Reference Books of maps, drawings etc. shall be prepared regarding real estate properties. The form of Reference Books shall be decided by the BAS Agency of each government.
+
+### Article 51
+
+Accounting documents shall be categorized into the following two categories:
+
+\1. Source document: The document which proves the course of an event as basis for the recording document.
+
+\2. Recording document: The document which proves the responsibility of accounting Officers handling accounting events and which serve as the basis of account keeping.
+
+### Article 52
+
+The source documents are categorized into the following types:
+
+\1. Orders that grant approval to appropriation of budget reserve funds and budget statements and flow of allocations in between budgetary accounts pursuant to statutory provisions.
+
+\2. Documents in relation to payments, receipts and transfers of cash, notes, securities etc.
+
+\3. Statements, payment slips in relation to salary, wage, perk, allowance, travel expenses, compensation payment etc.
+
+\4. Invoices and receipts relating to purchase and restoration of properties, as well as postage, transport, printing, and consumables etc.
+
+\5. Statements, slips relating to application, supply, transfer, dealing and custody of properties.
+
+\6. Contracts and the related documents relating to sales, purchase, lending, borrowing and services.
+
+\7. Supporting documents relating to savings, exchanges, and investments etc.
+
+\8. Supporting documents and property catalogues relating to public properties, confiscated properties, gifts, or legacies.
+
+\9. Documents relating to determining taxes or handling pursuant to other statutory provisions, as well as documents relating to handling of taxes and receipt and delivery of vouchers.
+
+\10. Documents relating to evidence of fines and compensations.
+
+\11. Laws and regulations relating to the issuance of government bonds, as well as documents relating to payment of principal and interests and table displaying the calculation of premium and discounts.
+
+\12. Invoices, receipts relating to calculation of costs.
+
+\13. Documents in support of dealings of profits and losses.
+
+\14. Financial statements.
+
+\15. Invoices, receipts, or other supporting documents which prove the events do occur and circumstances stipulated in Article 3.
+
+All supporting documents affixed to the documents in the preceding Paragraph are viewed as a part thereof.
+
+### Article 53
+
+Recording document is categorized into following three types:
+
+\1. Receipt voucher
+
+\2. Payment voucher
+
+\3. Transfer voucher
+
+The vouchers in the preceding Paragraph shall be distinguished from one another by color or any other means.
+
+### Article 54
+
+The following items shall be recorded in the vouchers:
+
+\1. Day, month, year.
+
+\2. Account title.
+
+\3. Main affair.
+
+\4. Amount in basic monetary unit. The amount not in basic monetary unit shall bear currency type, amount, and exchange rate.
+
+\5. Types, numbers, serial numbers, and date of relevant source documents.
+
+\6. Serial number of the voucher.
+
+\7. Other items for reference.
+
+### Article 55
+
+Vouchers shall be invalid unless signed or stamped by the following Officers, however where any of the Officer is non-existent in practice, signature or stamp shall not be required:
+
+\1. Chief Officer of the Agency or Officer authorized to sign on behalf.
+
+\2. Senior Officer or Officer in charge of business.
+
+\3. Chief accounting Officer or Officer authorized to sign on behalf.
+
+\4. Cashiering Officer in charge of matters relating to receipts, payments, custody, and transfer of cash, note and securities.
+
+\5. Management Officer in charge of matters relating to the increase and decrease, custody and transfer of properties.
+
+\6. Voucher issuer.
+
+\7. Voucher registrar.
+
+Those Officers mentioned in Subparagraph 1, 2 and 5 in the preceding Paragraph that have expressed to be responsible from the source document may not be needed to sign or stamp on the voucher.
+
+### Article 56
+
+If the form of source documents meets the requirements of recording documents, source document may be used as the recording document in lieu without the need to prepare vouchers.
+
+### Article 57
+
+For Sub-Accounting Agency that conducts simple accounting affairs, its source document may be used as the recording document after it has been signed or stamped by the Chief Officer of Agency and Chief accounting Officer, without the need to prepare vouchers.
+
+## Chapter 3 Procedures of Handling Accounting Affairs
+
+### Article 58
+
+Accounting Officer must not prepare recording document unless there is lawful source document; unlawful recording documents must not be recorded into the accounts. However, events during preparation for settlement and transferred into accounts after settlement without the source document shall not be subject to this limitation.
+
+### Article 59
+
+Recording document shall be prepared at all times during which the increase and decrease, custody and transfer of bulk property occur; recording document for payments of sporadic supplies and materials, however, shall be prepared monthly according to each category.
+
+### Article 60
+
+Depreciation of permanent properties and inventory consumption of non-permanent properties of State-owned Enterprises shall be calculated with reference to costs; costs which cannot be tracked back in time shall be calculated with reference to initial quotation recorded in the account.
+
+### Article 61
+
+Cost accounting affairs relating to element of costs shall be recorded with details and calculated accurately. Subsidiary statements of said cost elements shall be prepared to compare and analyze causes giving rise to the increase and decrease of costs.
+
+### Article 62
+
+Except for transfer vouchers mentioned in the following Subparagraph 2 and 3 in this Article, vouchers when recorded into the Journal Book with a Subsidiary Ledger Book established shall contemporaneously be recorded into that Subsidiary Ledger Book.
+
+Where transactions in the Special Journal Books are required to be settled periodically and be entered in General Ledger Books, transfer vouchers shall be prepared according to the footing and be recorded in General Journal Books before the posting starts. However, Special Journal Books that only involve receipts and payments of cash transactions may be posted to General Ledger Books directly.
+
+Public properties and special properties shall be settled periodically according to Subsidiary Ledger Books, and transfer vouchers shall be prepared according to the footing and be posted to separately established Books of controlling accounts.
+
+### Article 63
+
+Special Journal Books shall be summarized in the following periods:
+
+\1. At the end of each month, where it is necessary at intervals of one month, one week, five days or one day with separate cumulative totals.
+
+\2. At the handover of the senior Officer or Officer in charge of accounting affairs.
+
+\3. At the closing or settlement of account by Agencies or Funds.
+
+General Journal Books shall also be summarized at the end of each month, when the Agencies are to settle their accounts or at the handover of Chief accounting Officer.
+
+### Article 64
+
+Agencies or Funds shall be settled or closed if any of the following circumstances occurs:
+
+\1. At the end of a fiscal year.
+
+\2. Where it is necessary to settle accounts once every month, quarterly or half-yearly, then every time during each settlement.
+
+\3. At the end of extraordinary events, excluding circumstances mentioned in Subparagraph 1 and 2.
+
+\4. the Agency has been abolished or the fund has ended.
+
+### Article 65
+
+All deferred revenues, deferred charges, matured debts payable, matured credits receivable in any accounts of Ledger Books, as well as other rights and liabilities which have accrued but have not yet been recorded into Books, shall be maintained and entered before the settlement of each account.
+
+Accounting affairs of State-owned Enterprises, excluding accounts maintained mentioned in the preceding Paragraph, relating to bad debts, depreciation, consumption, amortization, inventory-check of materials, supplies and products, and offset of internal profits and losses, or other activities which are required to be maintained shall be maintained and recorded.
+
+Each Unit Accounting Agency or Subordinate Unit Accounting with affiliated Sub-Accounting Agencies shall maintain and record accounts upon receiving closing statements from the Sub-Accounting Agencies. If the closing statements of Sub-Accounting Agencies are delayed due to extraordinary circumstances, each Unit Accounting Agency or Subordinate Unit Accounting Agency may proceed to conduct settlement in advance with an added remark, and then supplement records and perform summary upon receiving Sub-Accounting reports later.
+
+### Article 66
+
+Once the accounts have been prepared, the balance of credits and debits sides shall be dealt with pursuant to the following:
+
+\1. All balances of receipts and payments accounts of government accounting affairs shall be summarized into all accounts of annual budget revenues and various accounts of budget allocation for the purpose of calculating the surplus and deficit of annual revenue and budget allocation.
+
+\2. All balances of profits and losses accounts of State-owned Enterprises shall be summarized into all accounts of total profits and losses for the purpose of calculating profits and losses.
+
+\3. All balances of accounts of accounting affairs mentioned in the preceding two Subparagraphs relating to asset or liability nature shall be summarized into accounts for the next fiscal year or period.
+
+### Article 67
+
+Errors made in recording and writing financial reports, Books and important Reference Books or documents, which have been discovered in time shall be crossed out with lines and corrected immediately by the original processing registrar with signatures or stamp affixed to verify the correction spot, while no cut-and-paste, erasure or obliteration with correction fluid may be permitted.
+
+For errors mentioned in the preceding Paragraph that are discovered by an Officer afterwards which do not affect the footing, the said Officer shall advise the Chief accounting Officer to correct the errors pursuant to the preceding Paragraph. For errors that do affect the footing, vouchers shall be separately prepared in correction of the error.
+
+Correction of errors found in machine-processed or stored accounting data shall be prescribed by the Central BAS Agency.
+
+Where errors made, which cause the Treasury to suffer damages, the relevant accounting Officer shall be held jointly and severally liable for damages incurred.
+
+### Article 68
+
+For Books and important Reference Books where two pages have been overlapped which result in blank pages, that page shall be obliterated with lines; where one or two lines or one or two rows arise out of mistake, the mistaken lines or rows shall be obliterated with lines and signed or stamped by the registrar and Chief accounting Officer.
+
+### Article 69
+
+Vouchers that have been recorded into books shall be compiled and consolidated into volumes according to each type and date and order of serial number, with cover pages specifying the date, month, year of starting and ending dates, the number of pages and serial numbers, and be kept in custody by the accounting Officer for auditing purpose.
+
+### Article 70
+
+Source documents, except those sent to the Audit Agency for audit purpose, shall be individually marked with serial numbers of voucher with voucher attached and be dealt with according to the preceding Article. Those without vouchers attached, shall also be marked with voucher serial number, be pasted neatly in order, and compiled into volumes with cover pages specifying the date, month, year of starting and ending dates, the number of pages and serial numbers. The Chief accounting Officer shall affix stamps on the space between pages and edges of glued vouchers, and have them kept in custody by the accounting Officer for auditing purpose. Source documents that can be easily classified and compiled into volumes may not be required to be glued and pasted. Treatment and custody of source documents for accounting affairs centrally handled as prescribed in Article 9 shall be governed by regulations separately prescribed by the Central BAS Agency.
+
+### Article 71
+
+The source documents mentioned in the following shall not be governed by the preceding Article. Places of custody, file numbers and other relevant facts that can facilitate reference, however, shall still be specified in compiled volume:
+
+\1. Contracts of all kinds.
+
+\2. Documents required to be filed, and statements required to be compiled into separate volumes.
+
+\3. Documents stored for future usage or custody of cash, notes, securities, and properties.
+
+\4. Documents required to be transferred to other Agencies.
+
+\5. Other documents, which may not be or shall not be pasted and compiled into volumes.
+
+### Article 72
+
+Cover pages of each Book shall contain name of the Agencies, titles of Books, volume numbers, number of pages and starting date of usage, and be signed or stamped by the Chief Officer of the Agency and Chief accounting Officer.
+
+### Article 73
+
+Last page of each Book shall contain a list of accounting processing Officers such as names and positions of the Chief accounting Officer and relevant persons who are in charge of bookkeeping and reviewing, dated by date of processing, as well as signed and stamped by each Officer.
+
+### Article 74
+
+Pages of various Books shall be paginated in order and no page shall be destroyed or torn out. Each General Ledger Book and Subsidiary Ledger Book shall contain a table of contents in the front page of the Book.
+
+### Article 75
+
+Each new page of loose-leaf Books shall be stamped at the bottom by the Chief accounting Officer; cover page and last page of loose-leaf Books shall be governed by Article 72 and Article 73. Pagination shall not be required, however, but separate tables to specify accumulated pages and temporary table of contents shall be put on the first page. Cover pages shall be added to compiled volumes and the number of aggregated pages shall be specified on the cover page pursuant to Article 74. Loose-leaf pages which may not be bound into volumes shall be put in boxes and kept in custody by the processing Officer.
+
+Except for General Accounting, Journal Books and Ledger Books shall not contain loose-leaf pages contemporaneously.
+
+### Article 76
+
+Books shall not be replaced by a new Book prior to settlement of accounts, unless completely exhausted; the remainder that provides enough space for long-term recording, even after the settlement, may be used continuously.
+
+When replacing old accounting Books with new ones, blank pages of old Books shall be marked with the words "Blank and Invalid" to render them invalid.
+
+### Article 77
+
+Due to limitations of machine function, accounting data processed by machine shall not be governed by Articles 68, Article 72 up to Article 76.
+
+### Article 78
+
+Used financial reports, books, storage device of machine-processed accounting data and accounting documents compiled into volumes shall be numbered and kept by year, with table of content prepared for auditing purpose.
+
+### Article 79
+
+Each financial report shall be signed or stamped by the Chief Officer of the Agencies and Chief accounting Officer; Those affairs relevant to the senior Officer and Officer in charge shall be signed or stamped by that senior Officer or Officer in charge. However, financial report used internally shall not be required to be signed or stamped by the Chief Officer of the said Agency.
+
+Where financial report has been compiled into volumes as mentioned in the preceding Paragraph, only its cover page shall be signed or stamped by the Chief Officer of the Agencies and Chief accounting Officer.
+
+### Article 80
+
+Signature or stamps on financial reports, books and documents shall contain no erratum or alias.
+
+### Article 81
+
+Reports prescribed in Subparagraphs 1 to 4 of Paragraph 1 of Article 32 shall be arranged in order and numbered, while they shall be re-numbered each year. Supplementary reports in the period of preparation after the end of a fiscal year shall resume the numerical order of that fiscal year.
+
+### Article 82
+
+The promulgation of General Accounting annual report shall be governed by the Financial Statement Act.
+
+Monthly financial report of each Agency shall be promulgated to such Agency by the accounting Officer each month. Sections therein which are required to be keep confidential, however, shall not be promulgated.
+
+Officer of Agencies having doubts to the promulgation mentioned in the preceding Paragraph may enquire to the accounting Officer.
+
+### Article 83
+
+All accounting documents shall be preserved for at least two years commencing from the promulgation of general financial statement or its effective date; after the two-year period expires, those preserved may be destroyed with the consent of the controlling superior Agencies and controlling audit Agencies, except for those relating to credits and debts.
+
+Under special circumstances, the preservation period referred to in the preceding Paragraph may be extended or shortened according to aforementioned procedure.
+
+### Article 84
+
+Financial reports, Books, important Reference Books, storage of machine-processed data and its relevant manual shall be preserved for at least 20 years commencing from the promulgation of general financial statement or its effective date by the General Accounting Agency; those of Unit Accounting and Subordinate Unit Accounting shall be preserved for at least 10 years; those of the Sub-Accounting and Sub-Accounting of Subordinate Unit Accounting shall be preserved for at least 5 years. Upon expiration of preservation periods, documents of General Accounting from each year may be transferred to document archive Agencies or other equivalent Agencies for safekeeping with the consent of the administrative Chief Officer and audit Agencies; Those of Unit Accounting, Subordinate Unit Accounting and Sub-Accounting may be destroyed with the consent of the superior Agencies and controlling audit Agencies. However, the preservation period of daily, five-day, weekly, ten-day, and monthly reports may be shortened to 3 years.
+
+The preservation period referred to in the preceding Paragraph may be shortened in accordance with the foregoing procedure under special circumstances.
+
+### Article 85
+
+Financial reports of each Sub-Accounting Agency shall be compiled by the Chief accounting Officer in accordance with the stipulated dates, periods, and manners, and once reviewed by the Chief Officer of each Agency, they shall be submitted to the controlling superior Agency.
+
+### Article 86
+
+Reports mentioned in the preceding Article, once reviewed by the controlling superior Agency, shall be delivered to the Chief accounting Officer for review; those reports required to be consolidated or controlled shall be incorporated into separate controlled records and consolidated reports.
+
+### Article 87
+
+Financial reports of Sub-Accounting Agency shall be submitted to the Unit Accounting Agency or Subordinate Unit Accounting Agency, and once reviewed by the chief Officer of Unit Accounting Agency or subordinate Unit Accounting Agency, the reports shall be submitted to the Chief accounting Officer for review. Those reports required to be consolidated or controlled shall be incorporated into separate controlled records and consolidated reports and submitted to the controlling senior Agency.
+
+If the Unit Accounting Agencies mentioned in the preceding Paragraph are second-tier Unit Agencies, the reports shall be submitted to government Agencies of BAS, treasury, property management and Auditing Agencies as may be required.
+
+### Article 88
+
+Each Unit Accounting Agency shall submit reports directly to government BAS, treasury, property management and auditing-related Agencies. Where it is necessary, however, reports may be submitted to superior Unit accounting Agencies for further dispatch.
+
+### Article 89
+
+Once each government BAS Agency receives financial reports of each Unit Accounting Agency and Unit Accounting Funds, those reports that are required to be consolidated or controlled shall be incorporated into separate controlling records for compilation of general financial statement of each government.
+
+### Article 90
+
+Discrepancies between the general account reports of government BAS Agencies and reports of competent Agencies relating to government treasury, property management, taxation, government bonds, special properties, and Special Funds, shall be examined by the controlling audit Agencies and explained with tables.
+
+### Article 91
+
+Agencies preparing financial reports shall save copies of each report for references.
+
+### Article 92
+
+Financial reports or information produced from accounting data processed centrally by machines shall be dispatched by the centralized processing agency to the relevant agencies.
+
+### Article 93
+
+Government Agencies in charge of more than one type of special government affairs shall prepare account for more than one type of special government affairs; those who also handle State-owned Enterprises shall prepare account for affairs of State-owned Enterprises.
+
+Non-government affiliated Agencies acting as agent in handling government affairs shall prepare account for affairs handled according to provisions of this Act.
+
+### Article 94
+
+Distinction of accounting affairs and non-accounting affairs shall be approved by BAS Agencies and their affiliated Agencies, unless otherwise stipulated by law in which such law shall prevail.
+
+## Chapter 4 Internal Review
+
+### Article 95
+
+Internal review carried out by each Agency shall be executed by the accounting Officer. However, the affairs involving non-accounting professional provisions and substantive or technical matters shall be executed by the unit-in-charge of the said business.
+
+Internal review is categorized into the following two types:
+
+\1. Pre-review: The review of events prior to being entered into accounts, with emphasis on control of payments and receipts.
+
+\2. Post- review: The review of events after being entered into accounts with emphasis on the review of documents, Books, and efficacy of work performance.
+
+### Article 96
+
+The scope of internal review is as follows:
+
+\1. Financial review: Review of the implementation and control of plans and budgets.
+
+\2. Property review: Review of procedures dealing with cash and other properties.
+
+\3. Performance review: Review of workload or performance results and costs consumed by each unit.
+
+### Article 97
+
+Internal review shall be executed through reports and sampling field work check, and responsibility shall be divided into and assumed by different levels.
+
+### Article 98
+
+When the accounting Officer is exercising his or her power to undertake internal reviews and request each unit to present its books, vouchers, and other documents for review or to examine cash or properties, each responsible person shall not conceal any information or refuse to do as such. When enquired upon, each responsible person shall provide the answers in detail.
+
+When necessary, the accounting Officer may, while exercising its power mentioned in the preceding Paragraph and with the permission of the Chief Officer of the Agency, block all related Books, vouchers, or other documents, and take hold of parts of or whole books.
+
+### Article 99
+
+The Chief accounting Officer of each Agency shall see unlawful accounting procedures or accounting documents to be corrected; those procedures or documents not corrected shall be rejected, and the matter should be reported to the Chief Officer of the said Agency.
+
+The accounting Officer shall provide a statement of objection in written form if the unlawful conduct mentioned in the preceding Paragraph is resulted from the order of the Chief Officer; where the statement of objection is not accepted, the accounting Officer shall report to the Chief Officer of the superior Agencies and the Chief accounting Officer, or BAS Agencies.
+
+If the objection or reporting has not been carried out by the accounting Officer, the Chief accounting Officer in question shall be held jointly and severally liable regarding the said unlawful conduct.
+
+### Article 99-1
+
+The liability over the filing, handling, reimbursing, using of State Affairs Funds and Special Allowance Funds before 31 December 2006, as well as the financial responsibility of related personnel, shall all be deemed to be absolved. The administrative and civil liability of implicated personnel shall no longer be pursued, and if involving criminal liabilities, said personnel shall not be punished.
+
+### Article 100
+
+The accounting Officer of each Agency shall provide budget reserve for purchase orders of properties or prepayment of accounts that have been reviewed and proved to be consistent and in line with budget purposes and scheduled budget plans. Contracts relating to allocations, liabilities or income and sales, as well as purchase of bulk chattel, real estates shall be invalid unless reviewed, signed, or stamped by the accounting Officer in advance.
+
+### Article 101
+
+Accounting documents relating to payments and receipts of cash, notes, securities shall not be used for execution of cashiering activities unless signed or stamped by the Chief accounting Officer or its authorized person.
+
+External invoice statements or receipts shall not be valid unless signed or stamped by the Chief accounting Officer or its authorized person; where special circumstances exist, the case shall be reported and approved by the controlling BAS Agency to prescribe alternative regulations.
+
+### Article 102
+
+The accounting Officer of each Agency shall refuse to sign source documents upon discovery of the following circumstances:
+
+\1. Purposes or evidence of the source documents are not specified.
+
+\2. Source documents lack primary supporting documents or are not in the form in accordance with laws or as required by convention.
+
+\3. The commencement of events requires bidding (tender), price comparison or price negotiation, while it lacks the signature or stamp of the internal review Officer in charge of the execution.
+
+\4. The source document is required to be signed or stamped by the Chief Officer of the Agency or senior Officer or the Officer in charge of event, but it is not signed or stamped.
+
+\5. The source documents are required to be signed or stamped by the processing Officer, quality inspection Officer, quantity check Officer and the custodian, but it is not signed or stamped; or it is the one that requires the attachment of a quality or quantity acceptance certificate, but the attachment is missing.
+
+\6. The source document relating to transfer, custody, increase and decrease of properties are required to be signed by the Officer in charge of managing those activities, but it is not signed or stamped.
+
+\7. There are obliteration marks in the words or numerical figures in the document, but the obliteration marks are not verified by signature or stamps of the responsible Officer.
+
+\8. There is inconsistency between words and numerical figures in the expressing amount or volume in the document.
+
+\9. Events stipulated in Subparagraph 3 and Subparagraph 5 with the amount reaching the audit threshold are not dealt with pursuant to statutory audit process.
+
+\10. Other circumstances that are inconsistent with laws or regulations.
+
+For the Officer stipulated in Subparagraph 4 of the preceding Paragraph, each Agency may, according to the scale of its business and the amount involved, prescribe a hierarchical responsibility system for handling such matters.
+
+### Article 103
+
+The accounting Officer, while executing internal review shall act pursuant to relevant laws, unless there is a breach against duties or gross negligence, shall not be held jointly and severally liable for damages.
+
+## Chapter 5 Accounting Officer
+
+### Article 104
+
+The employment, transfer, training, and appraisal of government affiliated Chief accounting Officers and their Assistants shall be determined by BAS Agencies of each government in accordance with the laws.
+
+### Article 105
+
+The general fees incurred from accounting Officers delegated by a BAS Agency to handle accounting affairs in an Agency shall be included in the said Agency’s budget allocation. Fees arising from special business projects shall be included in the budget of the BAS Agency.
+
+### Article 106
+
+Accounting affairs of each government and affiliated Agency shall be handled jointly, monitored, and led by the Chief accounting Officer delegated by the controlling BAS Agency; the BAS Agency may at any time delegate Officers to inspect and review the implementation and progress of the accounting system and handling of affairs by the accounting Officer.
+
+### Article 107
+
+The Assistant Officer handling accounting affairs listed in Article 5 to Article 7 shall be delegated by the BAS Agency. Apart from been responsible directly toward accounting Officers mentioned in the preceding Article, Assistant Officers shall also be responsible according to the nature toward the Chief Officer or the Chief accounting Officer regarding all kinds of affairs, and to be commanded by them.
+
+### Article 108
+
+The Agency bearing with simple affairs may have its accounting affairs listed in Article 5 to Article 7 dealt with as a whole or entrusted to a third party. Officers assigned with accounting affairs, however, shall not engage in affairs relating to the management of property or cashiering affairs.
+
+### Article 109
+
+The Chief accounting Officer shall transfer accounting documents, financial reports and used accounting books and files to the file management Officer for safekeeping after the promulgation of the general financial statement or on the effective date. However, storage device used to save machine-processed accounting data shall be dealt with separately.
+
+In the case of accounting files are lost or destroyed, the matter shall be reported to the superior Chief accounting Officer or the BAS Agency in charge and the Chief Officer of Agency and the controlling audit Agency, then further be reported separately to the ultimate superior Agency in charge. If it is affirmed by the audit Agencies that there are no negligence that results in a breach of fiduciary duties, the liabilities and penalties of those held accountable shall be discharged; if otherwise, the case shall be delivered to the Disciplinary Court.
+
+Accounting Officers who fail to report the cases mentioned in the preceding Paragraph shall be imposed with heavy penalty.
+
+For circumstances mentioned in Paragraph 2 or Paragraph 3 which cause the treasury to suffer losses and damages, the accounting Officer shall be held liable for damages.
+
+### Article 110
+
+Disputes arising from accounting affairs between the Chief accounting Officer and the Chief Officer of the Agency where the accounting is performed shall be dealt with by the Chief Officer of the Superior Agency that supervises the said Agency and said Chief accounting Officer. Where the accounting Officer is in violation of law or breach of duties, the Chief Officer of the Agency shall deliver a letter of report to the chief Officer of BAS Agencies and deal with the matter in accordance with statutory provisions.
+
+### Article 111
+
+The Chief accounting Officers shall apply for leave or business leave to the Chief accounting Officer of the controlling superior Agency or the BAS Agency for delegation of an Officer to undertake duties; where the period of absence is less than 1 month, accounting Officers may elect a delegate on their own. A report on this matter, however, shall be submitted in advance, and both Officers shall be held jointly responsible for the delegated duties.
+
+### Article 112
+
+Unless otherwise provided by laws, accounting Officers shall not engage in the practice of accountants and attorneys, nor should they be employed as employee of other government Agency as well as public or private business institutions.
+
+### Article 113
+
+Accounting Officers whose duties have been altered or terminated shall handover the matters. Accounting Officers on leave or business leave on short-term basis, however, shall not be subject to this provision.
+
+### Article 114
+
+The Chief Officer, or his or her representative of an Agency, and the Chief accounting Officer or his or her representative of the Superior Agency, shall supervise the handover procedure of a Chief accounting Officer.
+
+When the officer in the preceding Paragraph conducts the handover, all official stamps, documents, and other public properties and processed accounting documents, accounting books, financial reports, storage device of machine-processed accounting data and machine-processed accounting manual shall be catalogued and handed over to successors. Those items already in catalogue shall be handed over according to the catalogue and no separate catalogue may be required to be compiled.
+
+### Article 115
+
+The Chief accounting Officer or his or her representative shall supervise the handover procedure of Assistant accounting Officers. All official stamps used in business, documents, books, other public properties shall be catalogued and handed over to successors along with unfinished affairs.
+
+### Article 116
+
+Officers handling the handover shall ensure that the former Officer stamps after the final transaction he or she handled in the Books and important Reference Books; prior to the successor shall stamp before the initial transaction he or she handles. The year, month, and day shall be inserted so as to evidence the beginning and the end of responsibilities.
+
+### Article 117
+
+The Chief accounting Officer shall complete the handover within five days from the date in which the successor shall resume duties, and the accounting Officer shall not be entitled to leave the position until he or she has obtained a certificate of handover. However, where the former accounting Officer resigns due to illness or passing away in the course of duty, the handover may be conducted by the most senior Assistant accounting Officer on behalf, while the former accounting Officer shall still assume responsibilities.
+
+After the successor accepts the handover, he or she shall, together with the supervising Officer, verify all the items one by one in accordance with the table of handover or catalogues within 2 days, and produce a Certificate of handover to the former accounting Officer, and then together report to the Chief Officer of the Agency and the controlling superior Agency. The former accounting Officer, however, shall still assume responsibility for contents of handed over books.
+
+### Article 118
+
+Assistant accounting Officers shall complete the handover within 2 days from the date in which the successor shall resume duties, unless the Assistant Officer resigns due to illness, in which they may entrust another person to undertake the handover on behalf. For Assistant accounting Officers who pass away in the course of duty, the controlling superior Officer shall undertake the handover.
+
+### Article 119
+
+Accounting Officers who do not complete the handover appropriately shall be punished pursuant to laws. If the inappropriate handover results in damages to the Treasury, the accounting Officer shall be held liable for compensatory damages. Those Officers associated with inappropriate handover shall be held joint and severally liable.
+
+### Article 120
+
+Where the handover is due to abolition of an Agency or suspension of a Fund, the Officer handling the handover shall be deemed the predecessor, while the Officer accepting the handover shall be deemed the successor; the handover shall be governed by provisions of this chapter.
+
+## Chapter 6 Supplementary Provisions
+
+### Article 121
+
+This Act shall govern the accounting system and procedures for compilation of financial reports of government-subsidized private groups and joint government-private enterprises; the scope of applicability shall be determined by the Central BAS Agency.
+
+### Article 122
+
+This Act shall become effective from the date of promulgation.
+
+## History
+
+1.This Act, comprising of One Hundred and Twenty-Seven Articles was enacted and promulgated on August 14, 1935 by Government Orders; and come into force on July 1, 1936.
+
+2.Article 21 was amended and promulgated on August 20, 1938 by Government Orders.
+
+3.Articles 16, 22, 37, 90, 119, 123, 124 and 125 were amended and promulgated on May 27, 1948 by President Order.
+
+4.Article 40 was amended and promulgated on June 10, 1950 by President Order.
+
+5.The entire 122 Articles were amended and promulgated on April 15, 1972 by President Order.
+
+6.Article 10 was amended and promulgated on May 15, 2002 by President Order.
+
+7.Addition of Article 99-1 & Promulgated on May 18, 2011 by President Order No.Hua-Zong-Yi-Yi-Tzu-10000097601
+
+8.Article 4, 7, 10, 16, 60, 65, 66, 93, 95, 121 were amended and promulgated on November 20, 2019 by President Order No. Hua-Zong-Yi-Yi-Tzu-10800126581;Article 29 was subsequently repealed/deleted.
+
+9.Addition of Article 99-1 & Promulgated on June 15, 2022 by President Order No.Hua-Zong-Yi-Yi-Tzu-11100048781

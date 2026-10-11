@@ -1,0 +1,307 @@
+---
+title: "Financial Technology Development and Innovative Experimentation Act"
+title_zh: "金融科技發展與創新實驗條例"
+identifier: "G0380254"
+type: act
+law_level: "法律"
+category: "行政＞金融監督管理委員會＞金融科技目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2018-01-31
+last_amended: 2018-01-31
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0380254"
+retrieved: 2026-10-12
+---
+
+# Financial Technology Development and Innovative Experimentation Act
+
+> Translation. The Chinese text ([zh/laws/financial-supervisory-commission/G0380254-financial-technology-development-and-innovative-experimentation-act.md](../../../zh/laws/financial-supervisory-commission/G0380254-financial-technology-development-and-innovative-experimentation-act.md)) is authoritative.
+
+## Chapter I General Provisions
+
+### Article 1
+
+This Act is enacted for the purpose of creating a safe environment for experimentation involving innovative financial technologies (referred to as “innovative experimentation” hereunder) to develop technology-based innovative financial products or services, facilitate the development of inclusive financial systems and financial technologies, and put into effect the protection of innovative experimentation participants (referred to as the “participants” hereunder) and financial consumers.
+
+### Article 2
+
+The term “competent authority” as used in this Act shall mean the Financial Supervisory Commission (“FSC”).
+
+To develop innovative financial technologies, assist in innovative experimentation applications, and review and evaluate the feasibility and effectiveness of innovative experimentation in a professional manner, the competent authority should have a dedicated unit to handle related matters.
+
+### Article 3
+
+The term “innovative experimentation” referred to in this Act means utilizing technological innovation or business model innovation to undertake experimentation of financial businesses that requires the permission, approval, or concession of the competent authority.
+
+## Chapter II Application for Approval of Innovative Experimentation and Review Process
+
+### Article 4
+
+An individual, sole proprietorship, partnership, or legal person (referred to as the “applicant” hereunder) may apply to the competent authority for approval to undertake innovative experimentation by submitting the following documents:
+
+\1. An application form.
+
+\2. Applicant’s data:
+
+(1) Individual: The applicant’s or his/her agent’s proof of domicile or residence in the Republic of China.
+
+(2) Sole proprietorship or partnership: Business certificate, list of responsible persons, and proof of domicile or residence in the Republic of China of the responsible persons or their agents.
+
+(3) Legal person: Legal person registration certificate, articles of association or limited partnership agreement, and list of responsible persons (directors, council members or general partners, supervisors or independent directors).
+
+\3. An innovation experimentation plan:
+
+(1) Description of the source of funds;
+
+(2) The financial businesses that the innovative experimentation will be involved;
+
+(3) Description of innovativeness, including technological innovation or business model innovation;
+
+(4) The scope, duration, and scale of the innovative experimentation;
+
+(5) Information on key managers carrying out the innovative experimentation;
+
+(6) Major clauses of the contract signed with participants;
+
+(7) Participant protection measures;
+
+(8) Potential risks during the experimentation period and risk management mechanism;
+
+(9) Description of money laundering and terrorist financing risk assessment and risk mitigation measures established using a risk-based approach;
+
+(10) Information systems used in the innovative experimentation and description of security control operation and risk response measures;
+
+(11) Expected benefits of the innovative experimentation and benchmarks for measuring the benefits achieved;
+
+(12) Exit mechanism when the innovative experimentation is terminated on own initiative, or cancelled or revoked by the competent authority or when the experimentation period ends;
+
+(13) Relevant information on financial technology patents involved, if any; and
+
+(14) Cooperation agreements and description of relevant parties regarding their respective rights and obligations if the innovative experimentation will be conducted in collaboration with other individuals, sole proprietorships, limited partnerships, or legal persons.
+
+\4. Other documents required by the competent authority.
+
+### Article 5
+
+Individuals and their agents mentioned in Item 1 and responsible persons and their agents mentioned in Item 2, and legal persons and their representatives mentioned in Item 3, Subparagraph 2 of the preceding article, and key managers mentioned in Item 5, Subparagraph 3 of the preceding article shall be free of any of the following circumstances:
+
+\1. Any circumstance under the subparagraphs of Article 30 of the Company Act.
+
+\2. Having received a final and un-appealable sentence as punishment for a violation of the Banking Act, the Financial Holding Company Act, the Trust Enterprise Act, the Act Governing Bills Finance Business, the Financial Asset Securitization Act, the Real Estate Securitization Act, the Insurance Act, the Securities and Exchange Act, the Futures Trading Act, the Securities Investment Trust and Consulting Act, the Foreign Exchange Regulation, the Credit Cooperative Act, the Agricultural Finance Act, the Farmers Association Act, the Fishermen’s Association Act, the Money Laundering Control Act, the Act Governing Issuance of Electronic Stored Value Cards, or the Act Governing Electronic Payment Institutions, and the sentence has not yet been completed, or five years have not yet passed since execution of the sentence was completed, probation expired, or pardon was granted, as the case may be.
+
+\3. Having been ordered by the competent authority to be replaced or discharged of duty due to a violation of the Banking Act, the Financial Holding Company Act, the Trust Enterprise Act, the Act Governing Bills Finance Business, the Financial Asset Securitization Act, the Real Estate Securitization Act, the Insurance Act, the Securities and Exchange Act, the Futures Trading Act, the Securities Investment Trust and Consulting Act, the Credit Cooperative Act, the Agricultural Finance Act, the Farmers Association Act, the Fishermen’s Association Act, the Act Governing Issuance of Electronic Stored Value Cards, or the Act Governing Electronic Payment Institutions, and five years have not yet passed since the replacement or discharge.
+
+Where an individual mentioned in Item 1, a responsible person mentioned in Item 2, or a legal person and its representative mentioned in Item 3, Subparagraph 2 of the preceding article has any of the circumstances under the subparagraphs of the preceding paragraph during the period from the date the innovative experimentation is approved by the competent authority to the date the experimentation period ends, the competent authority should revoke the approval of the innovative experimentation.
+
+Where an agent mentioned in Item 1 or Item 2, Subparagraph 2 of the preceding article, or a key manager mentioned in Item 5, Subparagraph 3 of the preceding article has any of the circumstances under the subparagraphs of Paragraph 1 hereof during the period from the date the innovative experimentation is approved by the competent authority to the date the experimentation period ends, the competent authority should order the applicant to replace the agent or the manager within a given time period and revoke the approval of the innovative experimentation should the applicant fail to do so within the given time period.
+
+### Article 6
+
+The competent authority should call review meetings to review innovative experimentation applications; the meeting members should include experts, scholars, and representatives of relevant government agencies (institutions).
+
+### Article 7
+
+To promote the innovation and development of financial technology and to uphold public interest, the competent authority should, when reviewing an innovative experimentation application, consider the following based on the scope, duration, and scale of the proposed innovative experimentation:
+
+\1. Whether the experimentation involves financial businesses that require the permission, approval or concession of the competent authority;
+
+\2. Whether the experimentation is innovative;
+
+\3. Whether the experimentation can effectively increase the efficiency of financial services, reduce operational and use costs or enhance the interests of financial consumers and enterprises;
+
+\4. Whether potential risks have been assessed and relevant response measures prepared;
+
+\5. Whether participant protection measures have been established and appropriate compensation prepared; and
+
+\6. Other matters that should be evaluated.
+
+### Article 8
+
+The competent authority shall complete the review of an innovative experimentation application and make the approval or rejection decision in sixty (60) days after receiving the application, and notify the applicant of the review decision in writing.
+
+If the applicant is notified by the competent authority to make up the missing application documents, the review period mentioned in the preceding paragraph will start from the day after all required documents have been received by the competent authority.
+
+When an application involves the jurisdiction of another government agency (institution), the competent authority should consult the opinion of such other agency (institution).
+
+When approving an innovative experimentation under Paragraph 1 hereof, the competent authority may take the following actions:
+
+\1. Adjusting or revising the content of the experimentation plan.
+
+\2. Making eligibility limits of participants.
+
+\3. Adding other requirements or obligations [to the applicant or the experimentation plan].
+
+\4. Exempting the experimentation from specific regulations, orders or administrative rules during the experimentation period.
+
+### Article 9
+
+The period of innovative experimentation approved by the competent authority shall be limited to one year. However, an applicant may, one month before the approved experimentation period ends, apply to the competent authority with reasons attached for approval of an extension; the extension shall be limited to once and no longer than six months. Notwithstanding the foregoing, when an innovative experimentation involves any law amendment, the extension of the experimentation period is not limited to once. However, the entire experimentation period shall not be longer than three (3) years.
+
+The competent authority shall make a decision on approving or rejecting the application under the preceding paragraph and notify the applicant of the decision in writing before the originally approved experimentation period ends.
+
+### Article 10
+
+No changes can be made to an innovative experimentation plan approved by the competent authority. However, if the change does not involve important elements of the experimental financial business and does not have a material impact on the interests of participants, the applicant may make changes after applying for the change and obtaining approval from the competent authority.
+
+The competent authority shall make a decision on approving or rejecting the application under the preceding paragraph and notify the applicant of the decision in writing within one month after receiving the application.
+
+The applicant shall submit the following documents when making an application in accordance with Paragraph 1 hereof:
+
+\1. An application stating the content of change and reasons therefor;
+
+\2. The innovative experimentation plan before and after the change and a comparison table;
+
+\3. An evaluation surmising that the change will not have material impact on the interests of participants; and
+
+\4. Other documents required by the competent authority.
+
+### Article 11
+
+The competent authority shall, after approving an innovative experimentation application, disclose on its website the name of the applicant, contents, duration, and scope of the innovative experimentation, regulations, orders, and administrative rules that the experimentation is exempted from, and other relevant information. The preceding provision also applies when the competent authority approves the applicant’s application to extend the experimentation period or change the experimentation plan in accordance with Paragraph 1 of Article 9 or Article 10 herein.
+
+## Chapter III Supervision and Administration of Innovative Experimentation
+
+### Article 12
+
+An applicant shall commence an approved innovative experimentation within three (3) months from the date of receiving the notice of approval decision made by the competent authority pursuant to Paragraph 1 of Article 8 herein.
+
+Should an applicant fail to commence the approved innovative experimentation within the prescribed period set out in the preceding paragraph, the approval granted by the competent authority shall no longer be valid, and the competent authority should notify the applicant of such decision in writing and disclose the date on which approval of the experimentation is invalidated and reasons therefor.
+
+An applicant shall notify the competent authority in writing the date on which the approved innovative experimentation commences within five (5) business days from the date of commencement.
+
+### Article 13
+
+Applicants should, during the innovative experimentation period, adopt appropriate and adequate information security measures commensurate with the business nature of the experimentation to ensure the security of information collection, processing, use, and transmission.
+
+### Article 14
+
+Applicants shall abide by the provisions of this Act and matters required by the competent authority when approving the innovative experimentation and provide a description of the experimentation status as instructed by the competent authority. If deemed necessary, the competent authority may visit the sites of experimentation, which the applicants may not evade, interfere with, or refuse.
+
+When an applicant fails to comply with the preceding paragraph, the competent authority may order the applicant to take remedial action within a given time period.
+
+### Article 15
+
+In case any of the following situations arise during the innovative experimentation period, the competent authority may revoke the approval for the innovative experimentation:
+
+\1. The innovative experimentation involves a situation that is materially adverse to the financial market or the interests of participants.
+
+\2. The innovative experimentation outsteps the scope approved by the competent authority or violates the additional requirements and obligations set by the competent authority.
+
+\3. The applicant fails to comply with Paragraph 1 of the preceding article and fails to take remedial action within the given time period as ordered by the competent authority.
+
+When the competent authority revokes the approval pursuant to the preceding paragraph, the competent authority shall disclose the date of the revocation and reasons therefor on its website.
+
+### Article 16
+
+Applicants shall, within one month from the date the innovative experimentation period as approved by the competent authority in accordance with Paragraph 1, Article 9 herein ends, submit a report on the experimentation results to the competent authority and describe and confirm the appropriateness of their operations with respect to the protection of participant interests, compliance with Article 14 herein, and information security control. The competent authority will then call an evaluation meeting inviting experts, scholars, and relevant government agencies (institutions) to attend.
+
+The competent authority should complete the evaluation and come up with recommendations within sixty (60) days after the applicant has submitted complete documentation on the results of the innovative experimentation described in the preceding paragraph, and notify the applicant of the evaluation results in writing, with a copy sent to the relevant government agencies (institutions).
+
+The competent authority should invite the applicant, and when necessary, relevant parties to be present at the evaluation meeting under Paragraph 1 hereof and the review meeting under Article 6 herein.
+
+The way by which the evaluation meeting under Paragraph 1 hereof and the reviewing meeting under Article 6 herein operate, meeting members, matters members should recuse themselves from, and other relevant matters will be prescribed by the competent authority.
+
+Members attending the evaluation meeting under Paragraph 1 hereof and the review meeting under Article 6 herein shall keep all innovative experimentation-related documents confidential, except for use in official business or unless otherwise provided by regulations.
+
+### Article 17
+
+Where an innovative experimentation is inventive, effectively increases the efficiency of financial services, reduces operational and use costs, or enhances the interests of financial consumers and enterprises, the competent authority should take the following actions in consideration of the implementation status of the innovative experimentation:
+
+1.Reviewing and revising relevant financial regulations.
+
+2.Providing assistance to the applicant in starting a business or entering into strategic cooperation [with relevant organization].
+
+3.Making referrals to relevant government agencies (institutions) or organizations or funds that offer business startup assistance.
+
+If it is decided by the competent authority that relevant financial laws should be amended, the competent authority should, no later than three (3) months after the end of the innovative experimentation, complete an amendment draft of the financial laws and submit the draft to the Executive Yuan for review.
+
+### Article 18
+
+The application procedure, review criteria, grounds for rejection, scale of experimentation, participant protection measures, supervision and administration, and other matters relating to innovative experimentation will be prescribed by the competent authority.
+
+The competent authority should establish and periodically review financial technology development policy, actively provide financial technology enterprises with necessary assistance, guidance, and counseling services, and regularly invite representatives of the financial technology industry and representatives of related government agencies to discuss and coordinate financial technology development-related matters. The guidance and assistance mechanism for financial technology development will be prescribed by the competent authority.
+
+The competent authority shall, within three (3) months after the end of each year, submit a written report to the Legislative Yuan on the promotion of financial technology development, the results of innovative experimentation and regulatory amendments made therefor for the year, and disclose the content of the report on its website.
+
+### Article 19
+
+No fees will be charged for application, review, and approval of innovative experimentation under this Act.
+
+## Chapter IV Protection of Innovative Experimentation Participants
+
+### Article 20
+
+The applicant’s liability to participants under this Act and as stated in the approval decision of the competent authority may not be limited or waived by prior agreement between the applicant and the participant.
+
+The part of the agreement mentioned in the preceding paragraph shall be deemed invalid if it violates the provisions of the preceding paragraph.
+
+### Article 21
+
+The financial product or service contract entered between the applicant and participants during the innovative experimentation period should conform to the principles of fairness, reasonableness, equality, reciprocity, and good faith.
+
+When any of the clauses in the contract mentioned in the preceding paragraph is clearly unfair, such a clause shall be deemed invalid. If there is any disagreement over the meaning of any contract clause, the clause shall be interpreted in a manner in favor of the participant.
+
+Applicants should exercise due care of a good administrator for the financial products or services they provide during the innovative experimentation period. Where the financial product or service provided has the nature of a trust or mandate arrangement, the applicants shall also bear such fiduciary duty as may be required by applicable legal provisions or contractual stipulations.
+
+### Article 22
+
+The advertisements published or broadcasted and promotional/solicitation activities carried out by applicants during the innovative experimentation period shall be free of falsehood, deception, concealment, or other situations sufficient to mislead others. The applicants shall also ensure the truthfulness of the content of their advertisements. The obligations applicants bear to participants shall not be less than those indicated in the aforementioned advertisements or in the materials or explanations provided to participants in the aforementioned promotional/solicitation activities.
+
+### Article 23
+
+Applicants should provide participants with proper protection measures and mechanisms for withdrawing from the experimentation and state clearly in the contract the scope of innovative experimentation, rights and obligations of the parties, and associated risks.
+
+Applicants should explicitly inform participants of the matters mentioned in the preceding paragraph and obtain their consent before the contract is entered into. Article 10 of the Financial Consumer Protection Act shall apply mutatis mutandis to the explanation obligation of applicants. In case of violation on the part of the applicant, a participant may require the applicant to bear liability for damages in accordance with Article 11 of the Financial Consumer Protection Act.
+
+Applicants shall comply with the Personal Information Protection Act in the collection, processing, and use of participants’ data.
+
+### Article 24
+
+In case of a civil dispute arising between an applicant and a participant over a financial product or service provided by the applicant, the participant may file a complaint with the applicant in accordance with Paragraph 2, Article 13 of the Financial Consumer Protection Act, and apply to the Financial Ombudsman Institution (“FOI”) for ombudsman service. Article 13-1, Paragraph 5 of Article 15, Paragraph 3 of Article 17, Paragraph 1 of Article 18, Articles 19 – 28, Paragraphs 1 and 2 of Article 29, Article 30, and Article 32-1 of the Financial Consumer Protection Act shall apply mutatis mutandis to the aforementioned complaint filing, application for ombudsman service, and dispute handling.
+
+The FOI may charge applicants dispute-handling service fees for services rendered in accordance with the preceding paragraph. The fee schedule and measures for related matters shall be prescribed by the competent authority.
+
+The "certain amount" mentioned in Paragraph 2, Article 29 of the Financial Consumer Protection Act, which applies mutatis mutandis to Paragraph 1 hereof, shall be set by the FOI and announced after obtaining approval from the competent authority.
+
+## Chapter V Exclusion of Applicable Regulations and Exemption of Legal Responsibilities
+
+### Article 25
+
+Where the scope of an innovative experimentation involves regulations, orders, or administrative rules set forth by the competent authority or other government agencies (institutions), the competent authority may, based on the needs for an innovative experimentation, proceed and, after consulting and obtaining the consent of such other government agencies (institutions), grant exemption from such regulations, orders, or administrative rules in part or in whole to the innovative experimentation during the experimentation period and release the applicant from relevant administrative responsibilities. Notwithstanding the foregoing, the provisions of the Money Laundering Control Act, Terrorism Financing Suppression Act, and related regulations, orders, or administrative rules will still apply.
+
+Matters relating to anti-money laundering and combating the financing of terrorism (AML/CFT) to be observed by applicants during the experimentation period will be prescribed by the competent authority in consultation with the AML/CFT competent authority.
+
+### Article 26
+
+When an applicant conducts innovative experimentation within the scope approved by the competent authority, its experimentation activities are not subject to the following penalty provisions during the experimentation period:
+
+\1. Article 125 of the Banking Act.
+
+\2. Article 44 or 46 of the Act Governing Electronic Payment Institutions.
+
+\3. The provisions of Paragraph 1, 3 and 4, Article 30 of the Act Governing Issuance of Electronic Stored Value Cards or Paragraph 2 of the same article regarding violation of Paragraph 1, Article 4 of the same Act.
+
+\4. Article 48 of the Trust Enterprise Act.
+
+\5. The provisions of Article 61 of the Act Governing Bills Finance Business regarding violation of Article 6 of the same Act.
+
+\6. The provisions of Paragraph 1, Article 175 of the Securities and Exchange Act regarding violation of Paragraph 1, Article 18 or Paragraph 1, Article 44 of the same Act or the provisions of Paragraph 1, Article 177 regarding violation of Paragraph 2, Article 45 of the same Act.
+
+\7. Subparagraphs 3~5, Paragraph 5, Article 112 of the Futures Trading Act.
+
+\8. Article 107 or 110 of the Securities Investment Trust and Consulting Act.
+
+\9. Article 167 or 167-1 of the Insurance Act.
+
+## Chapter VI Supplementary Provisions
+
+### Article 27
+
+The date of enforcement of this Act shall be decided by the Executive Yuan.
+
+## History
+
+1.Promulgated on January 31, 2018

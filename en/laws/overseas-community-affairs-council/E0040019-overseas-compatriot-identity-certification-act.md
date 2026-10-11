@@ -1,0 +1,151 @@
+---
+title: "Overseas Compatriot Identity Certification Act"
+title_zh: "華僑身分證明條例"
+identifier: "E0040019"
+type: act
+law_level: "法律"
+category: "行政＞僑務委員會＞僑民權益目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2002-12-18
+last_amended: 2021-01-20
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=E0040019"
+retrieved: 2026-10-12
+---
+
+# Overseas Compatriot Identity Certification Act
+
+> Translation. The Chinese text ([zh/laws/overseas-community-affairs-council/E0040019-overseas-compatriot-identity-certification-act.md](../../../zh/laws/overseas-community-affairs-council/E0040019-overseas-compatriot-identity-certification-act.md)) is authoritative.
+
+## Article 1
+
+This Act is promulgated for purposes of issuing Overseas Compatriot Identity Certificates and processing of Overseas Compatriot Identity Endorsements.
+
+## Article 2
+
+The competent authority of this Act is the Overseas Community Affairs Council, R.O.C. (TAIWAN).
+
+## Article 3
+
+This Act applies to the Republic of China, TAIWAN (hereinafter referred to as the “R.O.C. (TAIWAN)”) nationals who reside overseas. However, the Act does not apply to persons with residency status in Mainland China, Hong Kong or Macau; nor does this Act apply to persons holding passports issued by Mainland China.
+
+## Article 4
+
+The R.O.C. (TAIWAN) nationals residing overseas and who satisfy any of the following conditions may apply for the Overseas Compatriot Identity Certificate:
+
+1.A person who resides in a country or region with a permanent residency system, and satisfies the following requirements:
+
+(1) Obtaining permanent residency in the place of residence overseas;
+
+(2) Accumulating residence overseas for at least four years;
+
+(3) Continuously residing in the place of residence overseas for six months, or accumulating residence overseas for at least eight months of each year in the past two years at the place of residence overseas.
+
+2.A person who resides in a country or region where there is no permanent residency system, or where there is a system of permanent residency but it is difficult for foreigners to obtain such permanent residency, and satisfies the following requirements:
+
+(1) Obtaining legal residence status at the place of residence overseas for four consecutive years, and is eligible for further extension of residency;
+
+(2) Accumulating residence overseas for at least four years;
+
+(3) Continuously residing in the place of residence overseas for six months, or cumulative residence overseas for at least eight months of each year in the past two years at the place of residence overseas.
+
+3.A person who currently or previously has had household registration in the R.O.C. (TAIWAN), and legally resides in the place of residence overseas for ten consecutive years and has been legally employed in the place of residence overseas for at least four years since his or her departure from the R.O.C. (TAIWAN), and is eligible for further extension of residency.
+
+The “countries or regions that are difficult for foreigners to obtain permanent residency” as referred to in Subparagraph 2 above, as well as recognition of residency qualifications shall be publicly announced each year by the competent authority upon consultation with the Ministry of Foreign Affairs (hereinafter referred to as the “MOFA”) and published in the Executive Yuan Gazette.
+
+For males who currently or previously have had household registration in the R.O.C. (TAIWAN) and satisfy the requirements in Paragraph 1 above but have not fulfilled their compulsory military services and are close to or of conscription age, and who are applying for an Overseas Compatriot Identity Certificate for the purpose of conscription administration or recognition of identity upon arrival or departure processing, their applications shall only be granted as long as Article 10 of this Act and other laws and regulations do not restrict them from obtaining an Overseas Compatriot Identity Endorsement. The competent authority shall annotate on such Certificate that the said Certificate is issued for the purpose of conscription administration only.
+
+## Article 5
+
+A person applying for an Overseas Compatriot Identity Certificate shall lodge the application with the competent authority by submitting the following documentation:
+
+1.Application form;
+
+2.Personal identification document;
+
+3.Proof of residency at the place of residence overseas;
+
+4.Proof of period of foreign residence;
+
+5.Proof of the R.O.C. (TAIWAN) nationality, or proof of Chinese ethnicity authenticated or issued by the R.O.C. (TAIWAN) embassies and consulates, representative offices, offices, or other agencies authorized by the MOFA (hereinafter referred to as the “Embassies and Missions abroad”).
+
+6.Other relevant evidentiary documentation.
+
+The rules applying to authentication or issuance of the “Certificate of Chinese Ethnicity” referred in the Subparagraph 5 of the preceding paragraph shall be determined by the competent authority in consultation with other relevant authorities.
+
+## Article 6
+
+Where a person applies for an Overseas Compatriot Identity Certificate by submitting a Certificate of Chinese Ethnicity referred to in Subparagraph 5, Paragraph 1 of the preceding Article, the competent authority shall annotate the Overseas Compatriot Identity Certificate with the fact that the applicant is based on the Certificate of Chinese Ethnicity. The substantive validity of Overseas Compatriot Identity Certificate shall be determined by authority in charge of relevant industry.
+
+## Article 7
+
+The competent authority may, depending on the special needs of the place of residence overseas, authorized the Embassies and Missions abroad to accept applications for the Overseas Compatriot Identity Certificate. The procedures for accepting applications and other matters to be followed shall be prescribed by the competent authority.
+
+## Article 8
+
+The validity period of Overseas Compatriot Identity Certificate is one year from the date of issue.
+
+## Article 9
+
+Where an Overseas Compatriot Identity Certificate is destroyed, lost or damaged, a new application shall be lodged.
+
+## Article 10
+
+The R.O.C. (TAIWAN) national who resides overseas, holds an ordinary R.O.C. (TAIWAN) passport, and satisfies the requirements stipulated in Paragraph 1, Article 4 may apply for an Overseas Compatriot Identity Endorsement on his/her passport. Nevertheless, a male who has not fulfilled his compulsory military service and is close to or of conscription age can be restricted from obtaining the Overseas Compatriot Identity Endorsement.
+
+The scope, conditions, procedures, and other matters to be followed regarding the restrictions in the preceding paragraph shall be determined by the competent authority in consultation with the Ministry of the Interior (hereinafter referred to as the “MOI”) and MOFA.
+
+Where a person applies for the Overseas Compatriot Identity Endorsement on the passport shall be processed by the MOFA after being verified by the competent authority, if the application is lodged within the R.O.C. (TAIWAN). If the application is lodged overseas, it shall be directly processed by the Embassies and Missions abroad authorized by the competent authority, or be processed after the competent authority’s verification.
+
+The documents required for the verification of overseas compatriot identity shall comply with the provisions of Article 5, Paragraph 1.
+
+## Article 11
+
+Where an application for renewal or replacement of a passport with Overseas Compatriot Identity Endorsement is lodged, the said Endorsement may be transferred after verifying that proof of overseas residency in the place of residence overseas is still valid.
+
+## Article 12
+
+Where a person holds a valid passport with Overseas Compatriot Identity Endorsement, the valid effect of such Endorsement shall be the same as an Overseas Compatriot Identity Certificate during the validity period of the passport. This does not apply where other laws or regulations require submission of an Overseas Compatriot Identity Certificate.
+
+## Article 13
+
+Minors who are over 7 years old but under 18 require written consent from their statutory representatives when applying for an Overseas Compatriot Identity Certificate or Overseas Compatriot Identity Endorsement.
+
+Minors under 7 years old or adults under guardianship should have applications for Overseas Compatriot Identity Certificate or Overseas Compatriot Identity Endorsement carried out on their behalf by their statutory representatives.
+
+If there are more than two statutory representatives, the execution of the right of consent or representativeness can be carried out by one of the statutory representatives. If the statutory representative(s) cannot apply in person, they can appoint an agent to lodge the application.
+
+The regulations of this Act prior to the Amendment on December 29, 2020 remain to apply to those people aged under 18 who married before implementation of the Amendment until they reach 18 years of age.
+
+## Article 14
+
+A fee shall be charged by the competent authority in respect of processing of Overseas Compatriot Identity Certificate applications pursuant to this Act. The amount of such fee shall be as determined by the competent authority.
+
+## Article 15
+
+The format and required information to be recorded on Overseas Compatriot Identity Certificates shall be as determined by the competent authority.
+
+## Article 15-1
+
+For the issuance of Overseas Compatriot Identity Certificate or Overseas Compatriot Identity Endorsement, the competent authority may request the MOI or MOFA to provide related information by computer connection or other methods.
+
+## Article 16
+
+The Enforcement Rules in respect of this Act shall be determined by the competent authority.
+
+## Article 17
+
+This Act shall enter into force from the promulgation date.
+
+The Articles amended on December 29, 2020, shall be implemented from January 1, 2023.
+
+## History
+
+1.The enacted Act with all 17 Articles was promulgated by Presidential Decree Hua-Zong-Yi-Yi-Zi No.09100243550 on December 18, 2002
+
+2.The amended Articles 4, 5, 7, 10, 11, and 13 as well as Article 15-1 were promulgated by Presidential Decree Hua-Zong-Yi-Yi-Zi No.10400149631 on December 23, 2015
+
+3.The amended Articles 13 and 17 were promulgated by Presidential Decree Hua-Zong-Yi-Yi No. 11000003591 on January 20, 2021, and will be implemented from January 1, 2023.

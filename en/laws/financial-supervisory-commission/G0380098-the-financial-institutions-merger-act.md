@@ -1,0 +1,207 @@
+---
+title: "The Financial Institutions Merger Act"
+title_zh: "金融機構合併法"
+identifier: "G0380098"
+type: act
+law_level: "法律"
+category: "行政＞金融監督管理委員會＞銀行目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2000-12-13
+last_amended: 2015-12-09
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0380098"
+retrieved: 2026-10-12
+---
+
+# The Financial Institutions Merger Act
+
+> Translation. The Chinese text ([zh/laws/financial-supervisory-commission/G0380098-the-financial-institutions-merger-act.md](../../../zh/laws/financial-supervisory-commission/G0380098-the-financial-institutions-merger-act.md)) is authoritative.
+
+## Article 1
+
+This Act is enacted to regulate the merger of financial institutions, expand the economic scale and economic horizon, enhance the operational efficiency of financial institutions, and protect proper competition environments.
+
+## Article 2
+
+Mergers of financial institutions shall be governed by this Act.
+
+Mergers of non-corporation financial institutions shall be effected in accordance with this Act. In addition, the provisions regarding mergers of companies limited by shares under the Business Mergers And Acquisitions Act shall apply mutatis mutandis.
+
+Where a financial institution is merged by its receiver or liquidator in accordance with other laws, such other laws shall apply to the merging procedures on a priority basis.
+
+## Article 3
+
+The Competent Authority under this Act shall be the Financial Supervisory Commission.
+
+## Article 4
+
+The terms used herein shall have the following meanings:
+
+1."Financial Institution" means the following institutions covered by banking enterprises, securities and futures enterprises and insurance enterprises, trust enterprises, financial holding companies, and other institutions approved by the Competent Authority:
+
+(1) Banking Enterprises: including banks, credit cooperatives, bill finance companies, credit card institutions, and other institutions approved by the Competent Authority.
+
+(2) Securities and Futures Enterprises: including securities firms, securities investment trust enterprises, securities investment consulting enterprises, securities finance enterprises, futures commission merchants, leverage dealers, futures trust enterprises, futures management enterprises, and futures consulting enterprises.
+
+(3) Insurance Enterprises: including insurance companies, insurance cooperatives, and other institutions approved by the Competent Authority.
+
+2."Merger" means the merger of two or more Financial Institutions into one Financial Institution.
+
+3."Extinguished Institution" means the Financial Institution which becomes extinguished due to a merger.
+
+4."Surviving Institution" means the Financial Institution that survives the merger.
+
+5."Newly Incorporated Institution" means the New Financial Institution separately established due to a merger.
+
+## Article 5
+
+For the merger of Financial Institutions, the institutions to be merged shall jointly apply to the Competent Authority for approval, provided that no merger shall be allowed if the businesses cannot be concurrently operated according to act or regulation.
+
+Where a bank in the Banking Enterprise is merged with other Financial Institutions in the Banking Enterprise, the Surviving Institution or Newly Incorporated Institution shall be a bank.
+
+Where a securities firm in the Securities and Futures Enterprises is merged with other Financial Institutions in the Securities and Futures Enterprises, the Surviving Institution or Newly Incorporated Institution shall be a securities firm.
+
+Where a property insurance company is merged with an insurance cooperative, the Surviving Institution or Newly Incorporated Institution shall be a property insurance company.
+
+## Article 6
+
+When approving a merger, the Competent Authority shall take into account the following factors:
+
+1.influence on the expansion of the economic scale of the Financial Institutions and the enhancement of its operation efficiency and international competitiveness;
+
+2.influence on the competition factors on the financial market;
+
+3.financial status, management ability, and operational soundness of the Surviving Institution or Newly Incorporated Institution; and
+
+4.influence on the improvement of public interests, including promotion of financial stability, enhancement of financial service quality, provision of convenience, and handling of problematic Financial Institutions.
+
+## Article 7
+
+After the merger is approved by the Competent Authority, if the Financial Institution becomes non-compliant with laws and regulations due to the merger, the Competent Authority shall order it to make adjustments within a time limit.
+
+The maximum adjustment period related to the merger of Financial Institutions in the same category of business referred to in the preceding paragraph shall be two years. But for Financial Institutions that become non-compliant with other laws and regulations with respect to credit to related parties, or credit to the same person, the same related party, or the same affiliate due to a merger, the maximum adjustment period shall be five years. When necessary, an extension may be applied once, and the period shall be limited to two years.
+
+## Article 8
+
+For the merger of Financial Institutions, the board of directors shall prepare a merger agreement pertaining to the consolidation or merger, attached with financial statements and property inventory audited and certified by a CPA and checked by the supervisors or the audit committee, and submit the same to the shareholders meeting or general members(representatives) meeting for approval.
+
+The merger agreement referred to in the preceding paragraph shall state the following particulars:
+
+1.Names of Financial Institutions to be merged, name of Surviving Institution or Newly Incorporated Institution, address of its head office, its business areas, and total number, kinds, and amount of shares (shares of cooperative) to be issued by it;
+
+2.The total number, kinds, and amount of shares of the institution or other institutions, or cash or other properties to be distributed by the Surviving Institution or Newly Incorporated Institution to the shareholders (members) of the Extinguished Institution due to the merger, method, and percentage of distribution, and other related matters;
+
+3.Method of protection provided by the Surviving Institution or Newly Incorporated Institution to the creditors, fund beneficiaries, right holders of insurance contracts, securities investors, or futures traders; and
+
+4.Amendment of Articles of Incorporation of the Surviving Institution or Articles of Incorporation of the Newly Incorporated Institution.
+
+## Article 9
+
+When Financial Institutions are merged, except for a public company which should make public announcement and report within two (2) days from the occurrence of merger in accordance with Paragraph 3 of Article 36 of the Securities and Exchange Act, such institutions shall reach a resolution for merger pursuant to the preceding Article and make a public announcement of the content of the resolution and particulars to be stated in the merger agreement within ten (10) days, without being subject to the provision regarding separate notice under Paragraph 2 of Article 73 of the Company Act and other acts and regulations. The said public announcement shall specify a period of not less than 30 days within which the creditors, fund beneficiaries, right holders of insurance contracts, securities investors or futures traders may raise any objection in writing that the merger would damage their rights and interests.
+
+The public announcement referred to in the preceding paragraph shall be consecutively placed at all the business premises for at least seven (7) days and consecutively published in the newspapers, over the Internet, or in a manner designated by the Competent Authority for at least five (5) days.
+
+If the Financial Institution does not make the public announcement referred to in the preceding two paragraphs, or if such an institution fails to satisfy the claims of its creditors, fund beneficiaries, right holders of insurance contracts, securities investors, or futures traders who raise an objection within the time limit specified in Paragraph 1, the merger shall not be valid against such creditors, fund beneficiaries, right holders of insurance contracts, securities investors, or futu es traders. The preceding provision does not apply provided the Financial Institution has furnished appropriate security to its creditors, fund beneficiaries, right holders of insurance contracts, securities investors, or futures traders, established a trust for the purpose of paying off debt, or demonstrated that the exercise of rights by its creditors, fund beneficiaries, right holders of insurance contracts, securities investors, or futures traders will not be impeded.
+
+## Article 10
+
+For mergers of a credit cooperative or insurance cooperative, a resolution shall be adopted by two-thirds or more of the members or representatives of members present at a members or representatives of members meeting attended by all members or three-fourths or more of representatives of members.
+
+If the resolution referred to in the preceding paragraph is adopted in a general representatives of members meeting, the credit cooperative and insurance cooperative shall give a written notice containing the resolution and particulars to be recorded in the merger agreement to the non-representative members or make a public announcement in the manner provided in Paragraph 2 of the preceding Article, and specify an objection period of not less than 30 days. Dissenting members shall make objections in writing within the specified period. When one-third or more members raise an objection, the original resolution shall become void. Those who fail to make their objection within the said time limit shall be deemed to have agreed.
+
+## Article 11
+
+When a Financial Institution transfers its non-performing loans, the enforcement title that has already been obtained by such Financial Institution against the borrower or guarantor shall extend to the transferee of non-performing loan.
+
+When a Financial Institution or transferee of a financial institution's non-performing loan has obtained the enforcement title, it may foreclose a first-priority mortgage on a collateral that is real estate owned by the borrower or a third party by having an impartial third party approved by the Competent Authority to conduct public auction without being subject to Article 28 of the Enforcement Act of the Part of Obligations of the Civil Code. The remaining amount of proceeds from the said public auction, if any, after paying off the amount receivable, shall be returned to the borrower.
+
+Regulations governing the criteria for recognizing an impartial third party referred to in the preceding paragraph, its scope of business and qualifications of its responsible person, withdrawal of recognition, and the procedure for a public auction conducted by such third party shall be separately prescribed by the Competent Authority.
+
+An impartial third party under Paragraph 2 may accept a mandate and supervision from the court to handle compulsory enforcement matters from Financial Institutions or transferees of Financial Institutions' non-performing loans pursuant to the Compulsory Enforcement Act.
+
+## Article 12
+
+When a Financial Institution contemplating a merger applies to the Competent Authority for approval, it shall submit an application for merger, together with the following documents:
+
+1.Merger plan, stating the content of merger plan (including method of merger, evaluation of economic benefits, general condition of business area after merger, business items, business development plan, and financial projection for the coming 3 years, etc), expected progress, feasibility, necessity, reasonableness, legality, and the evaluation of the factors to be considered under Article 6, and other analysis;
+
+2.Merger agreement, including important matters such as disposal of the rights and interest of employees, in addition to particulars to be recorded;
+
+3.Minutes of the general shareholders meeting, general members (representatives) meeting of the Surviving Institution and Extinguished Institution;
+
+4.Supporting documents of public announcement (notice) of resolution on the merger of the Financial Institution and particulars to be stated in the relevant contracts;
+
+5.Information of shareholders requesting for buy-back of shares or members withdrawing capital contribution and a list of the capital contribution amount;
+
+6.Independent expert's written opinion on the reasonableness of the share exchange ratio or distribution of cash or other properties as a result of the merger;
+
+7.Detailed pro forma report of  capital adequacy for the merger at the end of the month prior to the merger application date
+
+8.Latest financial statements and pro forma consolidated financial statements audited or certified by a CPA;
+
+9.Legal opinions issued by a lawyer; and
+
+10.Other documents as required by the Competent Authority.
+
+Where a Newly Incorporated Institution will be formed due to a merger, in addition to following the provisions in the preceding paragraph, the promoters of such institution shall submit the following documents to the Competent Authority to apply for incorporation approval:
+
+1.Promoters' register;
+
+2.Minutes of promoters' meeting;
+
+3.Qualification certificates of general manager, vice general manager, and assistant manager;
+
+4.Articles of Incorporation of the Newly Incorporated Institution; and
+
+5.Other documents as required by the Competent Authority.
+
+## Article 13
+
+Where the merger of Financial Institutions is approved by the Competent Authority, the Surviving Institution or the Newly Incorporated Institution may, when applying for amendment registration of the real estate owned by the Extinguished Institution, its movable properties that require registration and all encumbrances, directly process the registration against the certificate issued by the Competent Authority, without paying registration fees, in the following manner:
+
+1.The stamp tax and deed tax incurred by the merger shall be exempted;
+
+2.Transferred securities are exempted from securities exchange tax;
+
+3.Any goods or labor services transferred are deemed as not falling within the scope of imposition of business tax;
+
+4.Where the land assumed by the Extinguished Institution in accordance with Article 76 of the Banking Act is transferred to the Surviving Institution or Newly Incorporated Institution due to merger, the land value increment tax shall be exempted;
+
+5.If land owned by the Extinguished Institution is transferred along with the merger, except for land mentioned in the preceding subparagraph for which land value increment tax is exempted, after the present value of the land is decided upon examination in accordance with the Land Tax Act, the registration for transfer of the title to the land shall be effected, and the payable land value increment tax may be deferred and paid by the Surviving Institution or Newly Incorporated Institution until the land is transferred again. Upon bankruptcy or dissolution, the deferred land value increment tax shall be paid on a priority basis;
+
+6.The goodwill generated due to the merger may be equally amortized within 15 years when the income tax return is filed;
+
+7.Expenses incurred due to the merger may be recognized over a period of 10 years when the income tax return is filed;
+
+8.The losses from the sale of non-performing loans due to the merger may be carried forward over 15 years when the income tax return is filed.
+
+The Financial Institutions subject to merger referred to in the preceding paragraph may, with complete accounting books and vouchers for the year of loss and the year of reporting deduction, use the blue return referred to in Article 77 of the Income Tax Act or, if such books and vouchers have been audited and certified by the CPA and a tax return has been processed and the income tax paid, the Surviving Institution or Newly Incorporated Institution after merger may, upon filing business income tax return, deduct the loss provided in Article 39 of the Income Tax Act before the merger of such Financial Institutions, which amount shall be calculated based on the proportion of shares in the Surviving Institution or Newly Incorporated Institution held by the shareholders (members) of such Financial Institutions due to merger, and such amount shall be deducted from the net profit of the current year within ten years from the year on which the loss is incurred.
+
+The Surviving Institution or Newly Incorporated Institution may continue to assume any tax incentives the acquired assets or business are entitled to according to applicable laws that are not yet expired or deducted to the extent originally applicable to the part of the Extinguished Institution acquired by the Surviving Institution or Newly Incorporated Institution following the merger, and if any assumed tax incentives are required to comply with the conditions and standards as specified in applicable laws and ordinances, the Surviving Institution or Newly Incorporated Institution shall meet the same incentive conditions and standards after the assumption of the tax incentives.
+
+## Article 14
+
+The provisions of this Act shall apply to the Financial Institution which generally assumes or assigns all assets as well as liabilities. This same rule applies to foreign Financial Institutions which merge with domestic Financial Institutions or generally assume or assign both assets and liabilities, provided that losses incurred by the foreign Financial Institutions outside of the ROC territory before the merger, general assumption, or assignment shall not be deducted in accordance with Paragraph 2 of the preceding Article.
+
+Where the receiver or liquidator of a Financial Institution, in accordance with other laws, is generally assumed or assigns assets and liabilities, assigns in installments or assigns the principal portion of the business and assets/liabilities by its receiver or liquidator, the provisions of this Act shall apply mutatis mutandis, except that the provisions of the respective laws shall prevail.
+
+Where a Financial Institution generally assumes or assigns both assets and liabilities, assigns in installments, or assigns, the principal portion of the business and assets/liabilities, the notice of assignment of the claim may be made by public announcement. When liabilities are assumed, the acknowledgment of creditors may be exempted, and the provisions of Article 297 and Article 301 of the Civil Code shall not apply.
+
+The regulations for the merger between a foreign Financial Institution and a domestic Financial Institution, general assumption or assignment by such foreign Financial Institution, required documentation for applying to the Competent Authority for approval, required process, scope of mutatis mutandis application of this Act, and other matters to be complied with shall be separately prescribed by the Competent Authority.
+
+## Article 15
+
+When a Financial Institution undergoes merger, reorganization, or assignment, the rights and interests enjoyed by its employees shall be handled in accordance with the Labor Standards Act.
+
+## Article 16
+
+This Act shall come into effect on the date of promulgation.
+
+## History
+
+1.This Act passed its third reading on Congress on November 24, 2000, plus was enacted and promulgated by the president（file no.:8900295690） on December 13, 2000.
+
+2.Amended on December 9, 2015

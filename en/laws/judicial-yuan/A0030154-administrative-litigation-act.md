@@ -1,0 +1,2879 @@
+---
+title: "Administrative Litigation Act"
+title_zh: "行政訴訟法"
+identifier: "A0030154"
+type: act
+law_level: "法律"
+category: "司法＞院本部＞行懲及智財目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1932-11-17
+last_amended: 2022-06-22
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=A0030154"
+retrieved: 2026-10-12
+---
+
+# Administrative Litigation Act
+
+> Translation. The Chinese text ([zh/laws/judicial-yuan/A0030154-administrative-litigation-act.md](../../../zh/laws/judicial-yuan/A0030154-administrative-litigation-act.md)) is authoritative.
+
+## PART I GENERAL PRINCIPLES
+
+### Chapter I Administrative Litigation Cases
+
+##### Article 1
+
+The purpose of administrative litigation is to protect the rights and interests of the people, to ensure that all administrative acts are carried out in pursuance of applicable laws and to enhance judicial functions.
+
+##### Article 2
+
+Unless otherwise provided in applicable laws, an administrative litigation may be initiated in accordance with this Act for any and all disputes under the public law.
+
+##### Article 3
+
+The administrative litigation mentioned in the preceding Article refers to a litigation of revocation, a litigation for a declaratory judgment, and a litigation demanding ordinary award or performance of certain obligations.
+
+##### Article 3-1
+
+The phrase "High Administrative Court" referred to in this Act means the "High Administrative Litigation Division of High Administrative Court"; the term "District Administrative Court" referred to in this Act means the "District Administrative Litigation Division of High Administrative Court."
+
+##### Article 4
+
+Anyone whose rights or legal interests were injured by a central or local government agency's unlawful administrative disposition is entitled to file a litigation of revocation with the administrative court, if the person has filed an administrative appeal in accordance with the Administrative Appeal Act and is not satisfied with the decision, or no decision has been made in response to the administrative appeal after a three-month period has elapsed, or after the period for rendering an administrative appeal decision has been extended for two months and such period has elapsed.
+
+Where the administrative agency exceeded or abused its power in rendering the administrative disposition, the disposition shall be regarded as unlawful.
+
+Anyone who has interests in the litigation other than the administrative appellant whose rights or legal interests were injured by a central or local government agency's administrative disposition as provided in Paragraph 1 is entitled to file a litigation of revocation with the administrative court.
+
+##### Article 5
+
+Anyone whose rights or legal interests were injured by a central or local government agency's inaction to his/her application filed in accordance with applicable laws, while such action is required to be made within certain legally prescribed period, after going through the administrative appeal procedure, is entitled to file an administrative litigation to demand that the subject administrative agency render an administrative disposition or an administrative disposition with certain content.
+
+Anyone whose rights or legal interests were unlawfully injured by a central or local government agency's dismissal of his/her application filed in accordance with applicable laws, after going through the administrative appeal procedure, is entitled to file an administrative litigation to demand that the subject administrative agency render an administrative disposition or an administrative disposition with certain content.
+
+##### Article 6
+
+A litigation for a declaratory judgment confirming the invalidity of an administrative disposition or confirming the existence or nonexistence of a legal relation under the public law may not be initiated unless the plaintiff has immediate legal interests in demanding such judgment. The same rule shall apply to a litigation for a declaratory judgment confirming the invalidity of a disposition which has been executed and there is no possibility for restoration, or confirming the illegality of a voided disposition.
+
+A litigation for a declaratory judgment confirming the invalidity of an administrative disposition may not be initiated unless an action to confirm the invalidity of the administrative disposition has been initiated with the original administrative agency which made the disposition but has not been granted or no response is given after a thirty-day period has elapsed after such action initiated.
+
+A litigation for a declaratory judgment may not be initiated where the plaintiff may or is able to initiate a litigation of revocation or a litigation demanding performance of certain obligations or ordinary payment, except for a litigation for a declaratory judgment confirming the invalidity of an administrative disposition.
+
+Where a litigation for a declaratory judgment confirming the invalidity of an administrative disposition was erroneously initiated while a litigation of revocation or a litigation demanding performance of certain obligations should have been initiated, if no administrative appeal procedure has been initiated, the administrative court shall transfer the case by a ruling to the agency with jurisdiction of administrative appeal; it shall be regarded that an administrative appeal has been filed at the time the complaints were filed with the administrative court.
+
+##### Article 7
+
+Where an administrative litigation is initiated, a claim for damage award or other pecuniary award may be jointly raised in the same procedure.
+
+##### Article 8
+
+A person is entitled to initiate a litigation demanding ordinary award or performance of certain obligations against the central or local government agency, either for pecuniary award arising from the grounds of public law, or for non-pecuniary award other than rendering an administrative disposition. The same rule applies to the award arising from a contract entered into under the public law.
+
+Where the decision of the litigation demanding ordinary award or performance of certain obligations as provided in the preceding Paragraph is premised upon the determination as to whether the administrative disposition shall be revoked or not, the litigation shall be initiated jointly when a litigation of revocation is initiated pursuant to Paragraphs 1 and 3 of Article 4. Where the plaintiff fails to raise the claim, the presiding judge shall inform the plaintiff that the claim can be raised.
+
+##### Article 9
+
+Where expressly stipulated in applicable laws, anyone is entitled to initiate an administrative litigation against an administrative agency's unlawful action for matters not related to his/her rights or legal interests.
+
+##### Article 10
+
+Unless otherwise provided in applicable laws, an administrative litigation may be initiated in accordance with this Act for disputes arising from election and recall.
+
+##### Article 11
+
+The provisions regulating litigation of revocation, litigation for a declaratory judgment, and litigation demanding ordinary award or performance of certain obligations shall apply mutatis mutandisto the litigations referred to in the preceding two Articles in accordance with their relevant characters.
+
+##### Article 12
+
+When the decision of a civil or criminal proceeding is premised upon the determination as to whether the administrative disposition is invalid or unlawful, the decision shall be determined in accordance with the administrative proceeding.
+
+Where the administrative proceeding as provided in the preceding Paragraph has commenced, the civil or criminal court shall stay its proceeding before the determination is made.
+
+##### Article 12-1
+
+(Repealed.)
+
+##### Article 12-2
+
+(Repealed.)
+
+##### Article 12-3
+
+(Repealed.)
+
+##### Article 12-4
+
+(Repealed.)
+
+##### Article 12-5
+
+(Repealed.)
+
+### Chapter II Administrative Court
+
+#### Section 1 Jurisdiction
+
+##### Article 13
+
+A public juridical person may be sued in the administrative court where its principal office is located. A central or local government agency may be sued in the administrative court for the jurisdiction where such office is located.
+
+A private juridical person or unincorporated association that has the capacity to be a party to a litigation may be sued in the administrative court for the location of its principal office or principal place of business.
+
+A foreign juridical person or unincorporated association may be sued in the administrative court for the location of its principal office or principal place of business in the R.O.C.
+
+##### Article 14
+
+For other litigations outside the scope of the preceding Article, a defendant may be sued in the administrative court for the place of the defendant's domicile or, when that court cannot exercise jurisdiction, in the administrative court for the place of defendant's residence.
+
+Where a defendant has no place of domicile in the R.O.C., or where the defendant's place of domicile is unknown, then the defendant's place of residence in the R.O.C. shall be deemed to be the defendant's place of domicile. Where the defendant has no place of residence in the R.O.C. or where the defendant's place of residence is unknown, then the defendant's last place of domicile in the R.O.C. shall be deemed to be the defendant's place of domicile; where a defendant has no last place of domicile, the place where the central government is located shall be deemed to be the last place of domicile of such citizen.
+
+A defendant may also be sued in the administrative court for the place of defendant's residence if facts of litigation take place within the defendant's residence.
+
+##### Article 15
+
+Any litigation relating to expropriation, requisition or appropriation of real property shall be exclusively governed by the Administrative Court at the location of the real property.
+
+In matters other than the preceding Paragraph relating to legal rights or relations under public law of the real property, a litigation may be initiated in the administrative court for the place where the real property is located.
+
+##### Article 15-1
+
+In matters relating to the functions of officials, a litigation may be initiated in the administrative court at the place where the official performs functions.
+
+##### Article 15-2
+
+In matters relating to the insurance cases under public law, a litigation may be initiated in the administrative court for the place of the plaintiff insured's or beneficiary's place of domicile or residence, or the place where the insured engages in vocational activities.
+
+In the litigation prescribed in the preceding Paragraph where the plaintiff is an insured unit, such litigation may be initiated in the administrative court for the place of its principal office or principal place of business.
+
+##### Article 15-3
+
+Except for cases in which both parties are indigenous peoples or tribes, the litigation that arises from public law rights or relationships with respect to indigenous peoples or their tribes may be adjudicated by the administrative court for the plaintiff's indigenous residence or where the government finds the plaintiff's tribe to be located.
+
+##### Article 16
+
+The immediate superior administrative court shall, on motion of the parties or the request of the administrative court in which the litigation is pending, designate a court to exercise jurisdiction in case of any of the following:
+
+\1. When the administrative court with jurisdiction cannot exercise jurisdiction due to legal or actual impediments;
+
+\2. When an administrative court with jurisdiction cannot be determined because the jurisdictional boundaries are unascertainable; or
+
+\3. When special circumstances suggest that by exercising jurisdiction such administrative court may affect the public order or the fairness of the proceeding.
+
+The motion provided in Paragraph 1 may be filed in the administrative court in which the litigation is pending or in its immediate superior administrative court.
+
+##### Article 17
+
+An administrative court's jurisdiction shall be determined according to the standards existing at the time of the initiation of the litigation.
+
+##### Article 18
+
+Articles 3, 6, 15, 17, Articles 20 to 22 inclusive, Paragraphs 1 and 3 of Article 28, and Article 29 to Article 31 inclusive of the Code of Civil Procedure shall apply mutatis mutandis to the circumstances prescribed in this Section.
+
+#### Section 2 Disqualification of Judges
+
+##### Article 19
+
+A judge shall recuse himself or herself in any of the following circumstances:
+
+\1. Where there is one of the circumstances provided for in Subparagraphs 1 to 6 of Article 32 of the Code of Civil Procedure;
+
+\2. Where the judge participated in the decision-making of the administrative act or the petition-and-appeal decision at an agency at the central government or local government regarding the same case in dispute;
+
+\3. Where the judge participated in the civil adjudication or criminal adjudication relating to the same dispute;
+
+\4. Where the judge participated in the deliberation or adjudication of the cases concerning disciplinary measures against officials, judges, or prosecutors relating to the same dispute;
+
+\5. Where the judge participated in the earlier instances of the adjudication of the same dispute; or
+
+\6. Where the judge participated in earlier instances prior to rehearing of the same dispute. However, the recusal in such circumstance is limited to only once.
+
+##### Article 20
+
+Articles 33 to 38 inclusive of the Code of Civil Procedure shall apply mutatis mutandis to the circumstances prescribed in this Section.
+
+##### Article 21
+
+The provisions of the preceding two Articles shall apply mutatis mutandis to all Judicial Affair Officers, court clerks and interpreters.
+
+### Chapter III Parties
+
+#### Section 1 Capacity to be Parties and Capacity to Litigate
+
+##### Article 22
+
+A natural person, a juridical person, a central or local government agency, and an unincorporated association has the capacity to be a party.
+
+##### Article 23
+
+Parties to litigation refer to the plaintiff, defendant and persons who intervene in the litigation pursuant to Articles 41 and 42.
+
+##### Article 24
+
+The defendant in an administrative litigation after an administrative appeal procedure refers to the following government agencies:
+
+\1. When the administrative appeal is dismissed, the original government agency that rendered the administrative disposition.
+
+\2. When the original administrative disposition is revoked or amended, the government agency that revoked or amended the administrative disposition.
+
+##### Article 25
+
+Where any person and legal entity or individual authorized to exercise power is sued due to the authorized affairs, such authorized legal entity or individual shall be the defendant.
+
+##### Article 26
+
+While the government agency that is sued as defendant has been revoked or reformed, the agency which took over the authority shall be the defendant; while there is no agency that takes over the authority, the immediate superior government agency shall be the defendant.
+
+##### Article 27
+
+Any person who has the capacity to undertake obligations through independent juridical acts has the capacity to litigate.
+
+A juridical person, a central or local government agency, and an unincorporated association shall be represented by a representative or an administrator to conduct acts of litigation.
+
+The preceding Paragraph shall apply mutatis mutandis to a representative who has the authority to conduct acts of litigation according to the applicable laws and regulations.
+
+##### Article 28
+
+Articles 46 to 49 inclusive and Article 51 of the Code of Civil Procedure shall apply mutatis mutandis to the circumstances prescribed in this Section.
+
+#### Section 2 Appointment of Representative Parties
+
+##### Article 29
+
+Multiple parties who have common interests may appoint one to five persons from themselves to sue or to be sued on behalf of all parties.
+
+Wherever a claim must be adjudicated jointly for multiple parties who have common interests but such parties fail to appoint in accordance with the provision of the preceding Paragraph, the administrative court may order the parties to make the appointment within a prescribed period; if no appointment is made within the prescribed period, the administrative court may designate the representative ex officio.
+
+After the appointment or designation has been made in a pending litigation in accordance with the provision of the preceding Paragraph, all parties who are not appointed or designated shall withdraw from the proceeding.
+
+##### Article 30
+
+The representative parties appointed by the multiple parties who have common interest or designated ex officio by the administrative court may be substituted, increased in number, or cancelled by all parties.
+
+The administrative court, whenever it considers necessary, may order to substitute, increase in number or cancel the representative parties who were designated by itex officio in accordance with the provision of Paragraph 2 of the preceding Article.
+
+In case of substitution, increase in number or cancellation prescribed in the two preceding Paragraphs, any of the representative parties who have been appointed or designated before shall lose their capacity to represent.
+
+##### Article 31
+
+When any of the representative parties who have been appointed or designated has lost its capacity to represent due to death or for any other reasons, the remaining appointed or designated representative parties may continue to conduct the litigation for the entire body.
+
+##### Article 32
+
+The opposing party shall be notified about the appointment, designation, substitution, increase in number or cancellation of representative parties as provided in Article 29 and Article 30.
+
+##### Article 33
+
+The appointed parties, without the consent of the entire body, cannot abandon claims, admit claims, voluntarily dismiss the case or settle the case. However, if the claim does not need to be adjudicated jointly for the multiple parties who have common interests, based on the consent of the appointing parties, the aforesaid restriction does not apply to the voluntary dismissal or settlement of the case in part.
+
+##### Article 34
+
+The appointment of representative parties, and the substitution, increase in number or cancellation thereof shall be evidenced in writing.
+
+##### Article 35
+
+An incorporated charitable association, if delegated by its multiple members with common interests to conduct litigation for specific legal relation, to the extent permitted by the purposes as prescribed in its bylaws, may sue for public interest.
+
+The provision in the preceding Paragraph shall apply mutatis mutandis to an unincorporated charitable association.
+
+The delegation of powers to conduct litigation as provided in the preceding two Paragraphs shall be evidenced in writing.
+
+The provision of Article 33 shall apply mutatis mutandis to an incorporated association as prescribed in Paragraph 1 and an unincorporated association as prescribed in Paragraph 2.
+
+##### Article 36
+
+Articles 48 and 49 of the Code of Civil Procedure shall apply mutatis mutandis to the circumstances prescribed in this Section.
+
+#### Section 3 Joinder of Parties
+
+##### Article 37
+
+Two or more persons may sue or be sued as co-parties under the following subparagraphs:
+
+\1. When the administrative disposition in relation to the claim was rendered jointly by two or more government agencies;
+
+\2. When the rights, obligations or legal interests of the claim are common to them;
+
+\3. When the rights, obligations or legal interests of the claim arise from the same or same types of factual or legal grounds;
+
+For the joint litigation arising from the same types of factual or legal grounds as prescribed in Subparagraph 3 of the preceding Paragraph, it is required that the defendant's place of domicile or residence, the office of official duty, the government agency, the principal office or principal place of business locates within the jurisdictional boundaries of the same administrative court.
+
+##### Article 38
+
+Unless otherwise provided, in a joint litigation, an act conducted by a co-party or by the opposing party against one of the co-parties, and all matters concerning such co-party, will have no effect on the other co-parties.
+
+##### Article 39
+
+Wherever a claim must be adjudicated jointly with regard to all co-parties, the following subparagraphs shall apply:
+
+\1. Any act conducted by one of the co-parties in the interest of all co-parties will be effective with regard to all of them; any act conducted by one of the co-parties against the interests of all co-parties will have no effect with regard to all of them.
+
+\2. Any act conducted by the opposing party against one of the co-parties will be effective with regard to all of them;
+
+\3. Any party of the co-parties, who has reason for a stay of proceeding, either by operation of law or by a court ruling, that arises with regard to one of the co-parties, will take effect with regard to all of them.
+
+##### Article 40
+
+Each co-party has the right to continue the litigation.
+
+Prior to designating a court session, the administrative court shall notify all co-parties to appear.
+
+#### Section 4 Intervention
+
+##### Article 41
+
+Wherever a claim must be adjudicated jointly with regard to a third party and one of the parties, the administrative court shall order, by a court ruling, the third party to intervene in the litigation.
+
+##### Article 42
+
+If the administrative court considers that a third party's rights or legal interests would be jeopardized as a result of the litigation of revocation, the court may ex officio order such third party to intervene in the litigation as an independent intervener, and may grant the motion for intervention by such third party.
+
+Paragraph 3 of Article 39 shall apply mutatis mutandis to intervention prescribed in the preceding Paragraph. The intervener may raise independent means of attack or defense.
+
+The preceding two Paragraphs shall apply mutatis mutandis to other types of litigations.
+
+If a litigation of revocation has been filed by the administrative appellant to the administrative court, and the person who has interests in the litigation initiates another litigation for the same case, such litigation shall be regarded as intervention as prescribed in Paragraph 1.
+
+##### Article 43
+
+If a third party files a motion for intervention in accordance with the preceding Article, intervention pleadings shall be submitted to the administrative court where the principal litigation is pending and shall include the following matters:
+
+\1. The principal litigation and its parties;
+
+\2. How the rights or legal interests of the intervener will be jeopardized as a result of the litigation of revocation; and
+
+\3. The statement of intervention.
+
+The administrative court may dismiss the motion by a ruling if the court regards that the initiation of the motion prescribed in the preceding Paragraph does not comply with the preceding Article.
+
+An appeal may be taken from the ruling provided in the preceding Paragraph.
+
+An intervener may conduct acts of litigation before the ruling dismissing the motion for intervention becomes binding.
+
+##### Article 44
+
+The administrative court may order other administrative agencies to intervene in a litigation if the court deems that it is necessary for the agencies to support one of the parties.
+
+The administrative agency prescribed in the preceding Paragraph or a third party who has interests in the litigation may also file a motion for intervention.
+
+##### Article 45
+
+The ruling ordering intervention shall indicate the status of the litigation and reasons for ordering intervention and shall be served on the parties to the litigation.
+
+The administrative court shall order the parties or a third party to present statements in writing or oral prior to rendering its ruling in accordance with the provision of the preceding Paragraph.
+
+An appeal may be taken from the ruling ordering intervention.
+
+##### Article 46
+
+Article 39 shall apply mutatis mutandis to intervention in litigation as provided in Article 41.
+
+##### Article 47
+
+The judgment will have binding effect upon the persons who were ordered or granted by the administrative court to intervene in the litigation in accordance with Article 41 and Article 42 but failed to intervene in the litigation.
+
+##### Article 48
+
+Articles 59 to 61 inclusive and Articles 63 to 67 inclusive of the Code of Civil Procedure shall apply mutatis mutandis to intervention in litigation as prescribed in Article 44.
+
+#### Section 5 Advocates and Assistants
+
+##### Article 49
+
+Any party may retain advocates to conduct acts of litigation. However, each party should not retain more than three advocates.
+
+Advocates in an administrative litigation shall be attorneys. A person who is not an attorney may act as an advocate in one of the following circumstances:
+
+\1. In a tax litigation, a person who is a certified public accountant;
+
+\2. In a patent litigation, a person who is a patent attorney or can act as a patent advocate in accordance with applicable laws;
+
+\3. If the party is a public juridical person, a central or local government agency or an unincorporated association under the public law, its associated full-time personnel who is in charge of legal affairs, legal matters, administrative appeal or other litigation-related matters; and
+
+\4. In traffic adjudication cases, if the plaintiff is a natural person, his/her spouse, a relative by blood within the third degree of relationship or a relative by marriage within the second degree of relationship; if the plaintiff if a juridical person or an unincorporated association, its associated full-time personnel who is in charge of litigation-related matters.
+
+A party shall obtain the presiding judge's permission in retaining a person who is not an attorney as prescribed in the preceding Paragraph.
+
+Whenever the presiding judge has permitted the person who is not an attorney to conduct acts of litigation for the principal case, it should be regarded that the permission as prescribed in the preceding Paragraph has been obtained.
+
+The presiding judge may by a ruling, at any time revoke the permission provided in the preceding two Paragraphs. The notification of such revocation shall be served upon the principal of the retention.
+
+If the advocate sub-delegates his/her power to other persons, the number of the sub-delegated person cannot exceed one person. The preceding four Paragraphs shall apply mutatis mutandis to the sub-delegated persons.
+
+##### Article 49-1
+
+For matters referred to in the following subparagraphs and for the matters arising from their proceedings, the parties to the litigation shall appoint lawyers as agents to the litigation:
+
+\1. Environmental protection matters and land controversy matters of which the first-instance ordinary proceedings occur in high administrative courts, and the matters regarding the review of urban plans.
+
+\2. Appeals of the ordinary proceedings that occur in high administrative courts.
+
+\3. Matters that are brought before the Supreme Administrative Court.
+
+\4. Rehearing matters to which ordinary proceedings shall apply, and the rehearing matters for the review of urban plans.
+
+\5. Applications for re-trial and rehearing to which ordinary proceedings shall apply, and the applications for re-trial and rehearing for the review of urban plans.
+
+The situations referred to in the preceding Paragraph are not affected by the narrowing of the scope of litigation, part withdrawal of the litigation, change of proceeding or mistaken application of the proceeding. The Judicial Yuan shall promulgate the scope of the matters referred to in Subparagraph 1 of the preceding Paragraph.
+
+In the situations referred to in Paragraph 1, if any of the following conditions are met, the party to the litigation may choose not to appoint a lawyer as an agent of litigation:
+
+\1. The party to the litigation, or its representative, manager, or agent designated by law possesses the qualification of judge, prosecutor, or lawyer, or is a professor or associate professor teaching public law at a university or an independent college approved by the Ministry of Education.
+
+\2. For tax matters, the party to the litigation, or its representative, manager, or agent designated by law possesses the qualification referred to in Paragraph 2, Subparagraph 1 of the preceding Article.
+
+\3. For patent matters, the party to the litigation, or its representative, manager, or agent designated by law possesses the qualification referred to in Paragraph 2, Subparagraph 2 of the preceding Article.
+
+In the situations referred to in Paragraph 1, the party to the litigation may choose to appoint a person other than a lawyer as an agent of litigation, if they meet any of the following conditions and the administrative court considers it appropriate:
+
+\1. A spouse, blood relation within three degrees, or marital relation within two degrees of the party to the litigation possesses the qualifications of a lawyer.
+
+\2. A person satisfies Subparagraph 1, Subparagraph 2, or Subparagraph 3 of Paragraph 2 of the preceding Article.
+
+The situations in the two preceding paragraphs should be explained to the court when the litigation is initiated, or when a person other than a lawyer is appointed as an agent of the litigation.
+
+Paragraph 1 of this Article does not apply in the following matters:
+
+\1. Application for legal aid and the appeals against the rulings on such matters.
+
+\2. Application to appoint a lawyer as an agent of litigation.
+
+\3. Application to determine the compensation for a lawyer.
+
+If the plaintiff, appellant, applicant or appellant against a ruling fails to be represented by an agent of litigation, or if they are represented under Paragraph 4 but the administrative court considers it inappropriate, the administrative court should first set a deadline for the plaintiff, appellant, applicant or appellant to solve the problem. If the problem is not solved by the deadline, and no application was made per Article 49-3, the administrative court should dismiss the suit or appeal by a ruling.
+
+If the defendant, appellee, or the party joined under Articles 41 and 42 fails to be represented by an agent of litigation according to the Paragraph 1 to Paragraph 4 of this Article, or if they are represented under Paragraph 4 but the administrative court considers it inappropriate, the presiding judge may set a deadline to solve the problem for the defendant, appellee, or the party joined.
+
+If the parties to the litigation solve the problems following the preceding two paragraphs, the decisions in litigation made by the parties take effect retrospectively at the time of making such decisions after the agents of litigation approve such decisions. If the problems are solved per the preceding two paragraphs after the deadline, the decisions in litigation made by the parties take effect at the time when the agents of litigation approve such decisions.
+
+##### Article 49-2
+
+For the matters referred to by Paragraph 1 of the preceding Article, the agents of the litigating parties may accompany the litigating parties to attend the trial. The litigating parties may speak at the trial if the presiding judge allows it.
+
+In the circumstances of the preceding Paragraph, the litigating parties may do the following without the help of their agents:
+
+\1. admitting the truth of a relevant matter;
+
+\2. reaching a settlement or agreement in mediation;
+
+\3. withdrawing a complaint or application; and
+
+\4. withdrawing appeals against judgments or rulings.
+
+##### Article 49-3
+
+For matters governed by Article 49-1, Paragraph 1 of this Act, when the parties do not have the resources to hire agents for the litigation, they may, according to the rules of legal aid, apply to the administrative court for appointing lawyers to act as the agents for the litigation.
+
+When the parties to litigation appeal a judgment or a ruling and apply to the administrative court under the preceding Paragraph, the administrative court making the judgment or the ruling should send the case file to the higher administrative court.
+
+The Judicial Yuan shall promulgate the rules for appointing lawyers to act as litigation agents after consulting with the Ministry of Justice and the Taiwan Bar Association.
+
+##### Article 50
+
+An advocate shall produce a Power of Attorney upon conducting the initial act of litigation, except where the advocate is retained by a party orally and such retention is recorded in the transcript by the administrative court clerk.
+
+##### Article 51
+
+An advocate has the authority to conduct all acts of litigation with regard to the case for which he/she is retained, except that he/she may not, without special authorization for him/her to do so: abandon the claim, admit the claim, voluntarily dismiss the case, settle the case, initiate counterclaims, take an appeal from a judgment, initiate a motion for rehearing, or appoint another advocate.
+
+The provision of the proviso of the preceding Paragraph shall apply mutatis mutandis to acts concerning compulsory execution or collection of a thing in dispute.
+
+Any restriction on the authority provided in Paragraph 1 shall be specified in the Power of Attorney or transcript provided in the preceding Article.
+
+##### Article 52
+
+In cases where there are two or more advocates, each advocate may represent the party independently.
+
+Retention in violation of the provision of the preceding Paragraph does not undermine the representation by the advocate independently.
+
+##### Article 53
+
+An advocate's authority shall not terminate by reason of the death, bankruptcy, or loss of the capacity to litigate of the party represented, nor shall it terminate by reason of a change of the statutory agent, or revocation or reformation of the government agency.
+
+##### Article 54
+
+The termination of an advocate's retention shall be made to the administrative court in writing and served upon the opposing party by the administrative court.
+
+In cases of termination of retention by an advocate, such advocate shall continue to conduct all acts necessary to protect the rights of the party represented for a period of fifteen days from the day of expression of the intention to terminate retention.
+
+##### Article 55
+
+A party or an advocate may, with the permission of the presiding judge, appear with an assistant during a court session. The number of assistants shall be no more than two persons.
+
+Whenever deemed necessary, the presiding judge may order a party or an advocate to appear with an assistant during a court session.
+
+Whenever the presiding judge deems that the assistant provided in the preceding two Paragraphs is not suitable, he/she may revoke its permission or prohibit such assistant to continue the acts of litigation.
+
+##### Article 56
+
+Article 75, Article 75 and Article 77 of the Code of Civil Procedure shall apply mutatis mutandis to the circumstances prescribed in this Section.
+
+### Chapter IV Litigation Proceedings
+
+#### Section 1 Pleadings
+
+##### Article 57
+
+Unless otherwise provided for, a pleading submitted by a party shall indicate the following matters:
+
+\1. The full name and domicile or residence of the parties; in the case of a juridical person, government agency, or other association, its name, location, office, or place of business;
+
+\2. If the party has a statutory agent, representative, or administrator, his or her full name and domicile or residence;
+
+\3. If the party has an agent to the litigation, his or her full name and domicile or residence;
+
+\4. Any statement required to be made in the pleading;
+
+\5. Factual and legal statement;
+
+\6. The evidence necessary to prove, or make a preliminary showing of, the fact;
+
+\7. The annexed documents and the number thereof;
+
+\8. The administrative court; and
+
+\9. The date.
+
+It is advisable that a pleading indicate the date of birth, occupation, number of the document that proves identity, number of profit-seeking enterprises, and telephone number, and the relationship between the statutory agent, representative or administrator, and the juridical person, government agency or association, and other information that suffices to identify the person submitting the pleading.
+
+The Judicial Yuan shall prescribe the rules concerning the format, manner of indication, and effects of a pleading. The administrative court may reject pleadings not made under such rules.
+
+The parties may submit the pleading to the administrative court through technological devices; the scope, procedure, effect and other implementation rules shall be prescribed by the Judicial Yuan.
+
+If the pleading submitted by the parties fails to comply with the rules prescribed in accordance with the preceding Paragraph, the submission of pleadings does not have a legal effect.
+
+Other relevant parties to the litigation may also transmit their litigation documents to the administrative court through technology equipment, and the preceding two paragraphs  apply to such a situation.
+
+##### Article 58
+
+The parties or their statutory agents, representatives, administrators or advocates shall sign their names or impress their seals on the pleadings. If fingerprints are impressed instead, another person shall write the full name for such that person, indicate the reason for impressing fingerprint, and sign his or her own name.
+
+If the pleadings as referred to by the preceding Paragraph are transmitted through technology equipment in accordance with the law, they shall be as effective as the pleadings with names signed or seals impressed. The same also applies to litigation documents transmitted by other relevant parties to the litigation transmitted through technology equipment.
+
+##### Article 59
+
+Articles 118 to 121 inclusive of the Code of Civil Procedure shall apply mutatis mutandis to the circumstances prescribed in this Section.
+
+##### Article 60
+
+Except for oral-argument sessions, any motion or statement concerning the litigation, except as required by this Act to be made in pleadings, may be made orally before the administrative court clerk.
+
+In the case provided in the preceding Paragraph, the administrative court clerk shall record it in the transcript and sign therein.
+
+The provisions of Article 57 of this Act and Article 118 to Article 120 inclusive of the Code of Civil Procedure shall apply mutatis mutandis to the transcript provided in the preceding Paragraph.
+
+#### Section 2 Service of Process
+
+##### Article 61
+
+Unless otherwise provided, service of process will be administered by the administrative court clerk ex officio.
+
+##### Article 62
+
+Service of process shall be effectuated by an execution officer or post office delegated by the administrative court clerk.
+
+In cases of service effectuated by a post office, the relevant postman shall be deemed the person who effects service; the implementation rules shall be promulgated by the Judicial Yuan in collaboration with the Executive Yuan.
+
+##### Article 63
+
+An administrative court may request the district court at the place where service is to be effectuated to effectuate the service.
+
+##### Article 64
+
+Service upon a person without the capacity to litigate shall be effectuated upon all of his/her statutory agents. However, where there are two or more statutory agents and the place where service shall be effectuated with regard to some of them is unknown, service may be effectuated upon the other statutory agents only.
+
+Service upon a juridical person, a central or local government agency or an unincorporated association shall be effectuated upon its representative or administrator.
+
+Where there are two or more representatives or administrators, service may be effectuated upon one of the representatives or administrators.
+
+Where a person without the capacity to litigate conducts act of litigation without identifying his/her statutory agent to the administrative court, service may be made by the administrative court upon such person without the capacity to litigate before the defect is rectified.
+
+##### Article 65
+
+Service upon a foreign juridical person or association which has set up an office or a place of business in the R.O.C. shall be effectuated upon its representative or administrator in the R.O.C.
+
+Where there are two or more representatives or administrators in the preceding Paragraph, service may be effectuated upon one of the representatives or administrators.
+
+##### Article 66
+
+Where there is no limitation on an advocate's authority to receive service, service shall be effectuated upon the advocate. However, where the presiding judge considers it necessary, he or she may order the service to be effectuated also upon the party represented.
+
+For matters governed by the first Paragraph of Article 49-1, the authority of an advocate to receive service is not subject to limitation.
+
+In the situations where the presiding judge considers it necessary to order the service to be effectuated also upon the party represented, as stipulated by the second part of the first Paragraph of this Article, the service takes effect when the service was effectuated upon the advocate.
+
+##### Article 67
+
+Where the party or his/her agent has appointed an agent of service and notice of such appointment has been given to the administrative court in which the litigation is pending, service shall be effectuated upon the agent of service. However, the presiding judge may order the service to be effectuated upon the party represented when he/she considers it necessary to do so.
+
+##### Article 68
+
+Except as otherwise notified by the party or the agent, where an agent of service has been appointed and such appointment has been notified to the court, such appointment shall take effect with regard to the administrative courts of all instances within the same geographic boundaries.
+
+##### Article 69
+
+Where the parties or agents have no domicile, residence, principal office or place of business in the R.O.C., they should appoint an agent of service and provide notice of such appointment to the administrative court in which the litigation is pending,
+
+##### Article 70
+
+Where the parties or agents fail to appoint an agent of service in accordance with the preceding Article, the administrative court may effectuate the service of process by delegating a post office to dispatch the paper to be served by a registered mail.
+
+##### Article 71
+
+Service shall be effectuated in the domicile or residence, office or place of business of the person to be served; but service may also be effectuated at the place where the person to be served is found.
+
+Service upon the representative or an administrator of a juridical person, a government agency or an unincorporated association shall be effectuated in their office, place of business or the government agency's office; but service may also be effectuated at the place where the person to be served is found or his/her domicile or residence.
+
+Where the person to be served has an employment place, service may be effectuated at such place.
+
+##### Article 72
+
+When the person to be served cannot be found in his/her domicile or residence, office, place of business or the government agency's office, service may be effectuated by leaving the paper with his/her cohabitant, employee of suitable age and discretion or the master of the house who lives together with the person to be served.
+
+The persons who are designated to receive mails at the place to be served as provided in the preceding Article shall be regarded as the cohabitant, or employee as provided in the preceding Paragraph.
+
+The provisions of the two preceding Paragraphs shall not apply to cases where the cohabitant, employee or the master of the house who lives together with the person to be served or the person designated to receive mails is the opposing party.
+
+##### Article 73
+
+Where service cannot be effectuated in accordance with the provisions of the two preceding Articles, it may be effectuated by depositing the paper with the autonomous agency or police department at the place where the service shall be effectuated. In such cases, two copies of notice of service shall be made with one copy posted on the front gate of the domicile or residence, office, or place of business of the person to be served and the other copy left with his/her neighbor for delivery or placed in the mailbox or any other appropriate location of the place of service.
+
+In cases of the preceding Paragraph, if the postman is the person who effects service, the service may be effectuated by depositing the paper at a neighboring post office.
+
+Service by deposit shall take effect ten days from the day of the deposit.
+
+The depository agency or institute shall keep the deposited paper for two months from the day of deposit.
+
+##### Article 74
+
+Where the person to be served refuses to receive service without legal grounds, service will be effectuated by leaving the paper at the place of service.
+
+When there exist circumstances under which service cannot be effectuated by leaving the paper in accordance with the provision of the preceding Paragraph, the provision of the preceding Article shall apply mutatis mutandis.
+
+##### Article 75
+
+Unless effectuated by a post office, no service will, without the permission of the presiding judge, the commissioned judge, the assigned judge, or a judge sitting in the district court at the place of service, be effectuated on Sunday or other holidays, neither before sunrise nor after sunset, except where the person to be served upon does not refuse to receive service.
+
+The court clerk shall indicate in the paper served the permission provided in the preceding Paragraph.
+
+##### Article 76
+
+Where the papers to be served are delivered to the person to be served in the court by the administrative court clerk, it should order the person to be served to issue an acknowledgment of receipt to be included in the dossier.
+
+##### Article 77
+
+Where service is to be made in a foreign country or overseas, it shall be effectuated by the competent authorities of such country, or the relevant R.O.C. embassy or consulate office, or other authorized institutes or organizations in that country requested to do so.
+
+Where service cannot be effectuated in accordance with the provision of the preceding Paragraph, it may be effectuated by dispatching the paper to be served by registered and receipt requested mail.
+
+##### Article 78
+
+Service upon an R.O.C. ambassador/minister envoy/consul, or any other staff stationed in a foreign country shall be effectuated by the Ministry of Foreign Affairs requested to do so.
+
+##### Article 79
+
+Service upon a soldier in the military or on a warship shall be effectuated by the competent military agency or officer requested to do so.
+
+##### Article 80
+
+Service upon a prisoner shall be effectuated by the chief officer in charge of the prison requested to do so.
+
+##### Article 81
+
+The administrative court may, on motion or on its own initiative, order service upon a party to be effectuated by constructive notice in the following circumstances:
+
+\1. If the place where service shall be made is unknown;
+
+\2. Where service effectuated in the domicile or residence or office of a person who enjoys immunity is ineffective;
+
+\3. Where service which should be effectuated in a foreign country cannot be effectuated in accordance with the provision of Article 77, or it is foreseeable to be futile even if it has been so effectuated.
+
+##### Article 82
+
+Service by constructive notice shall take effect twenty days from the date of posting the notice or summons on the administrative court's announcement site or the court's website, and in case of publication in an official gazette or newspaper, from the last day of such publication; where service is effectuated in accordance with Subparagraph 3 of the preceding Article, such service shall take effect sixty days thereafter.  Nevertheless, service effectuated by constructive notice upon the same party shall take effect the day after the date on which the notice is posted on the court's announcement site.
+
+##### Article 83
+
+Upon consent by the relevant litigation person, the litigation documents may be transmitted through technological devices and the transmission has the same effect of service or notice.
+
+The scope, procedure, effect and other implementation rules of the preceding paragraph shall be prescribed by the Judicial Yuan.
+
+Article 126, Article 131, Article 135, Article 141, Article 142, Article 144, Article 148, Article 151and Article 153 of the Code of Civil Procedure shall apply mutatis mutandis to the circumstances prescribed in this Section.
+
+#### Section 3 Date & Period
+
+##### Article 84
+
+Unless otherwise provided, the date for a court session shall be designated at the presiding judge's discretion.
+
+Except under compelling circumstances, a court session may not be designated on Sunday or any other holiday.
+
+##### Article 85
+
+After the presiding judge designates the date for a court session, the administrative court clerk shall issue and serve a summons upon the persons who have interests in the litigation. Notwithstanding, in cases where the presiding judge has informed such persons of the date in person and ordered them to appear accordingly, or where the persons who have interests in the litigation have notified the court in pleadings that they will appear accordingly, such act shall have the same effect as a service of summons.
+
+##### Article 86
+
+Any act which is to be conducted in a court session shall be conducted in an administrative courthouse, except for any acts which cannot or are not appropriate to be conducted in an administrative courthouse.
+
+##### Article 87
+
+A court session starts at the time when the case is called.
+
+The date for a court session may be altered or postponed for compelling reasons.
+
+Unless otherwise provided, the alteration or postponement of the date shall be decided by the presiding judge by a ruling.
+
+##### Article 88
+
+Except as fixed by applicable laws, the time period is to be designated at the discretion of the administrative court or the presiding judge.
+
+The time period which is designated by the administrative court or the presiding judge begins to run from the service of the paper bearing the designation of the period, or where no service is required, from the time when the decision designating the period is announced.
+
+The Civil Code shall govern the calculation of a period of time.
+
+##### Article 89
+
+Where a party does not reside within the jurisdictional boundaries of the administrative court, the time needed for transportation shall be deducted in calculating a period fixed by applicable laws, except where the party's advocate resides within the jurisdictional boundaries of the administrative court and has the authority to conduct the act of litigation which shall be conducted within such period.
+
+The Judicial Yuan shall prescribe the time needed for transportation which shall be deducted as provided in the preceding Paragraph.
+
+##### Article 90
+
+A time period may be extended or shortened for compelling reasons, except for a peremptory period.
+
+A ruling to extend or shorten a time period shall be made by the administrative court, except where the period was designated by the presiding judge, where upon such ruling shall be made by the presiding judge.
+
+##### Article 91
+
+Where a peremptory period is not obeyed due to a force majeure or any other reason not imputable to him/her, one may move for restoration to status quo ante within one month or the equivalent days of the peremptory period, if such period is less than one month, after the reason terminates.
+
+The period provided in the preceding Paragraph may not be extended or shortened.
+
+No motion for restoration to status quo ante may be filed after a period of one year has elapsed from the time of failure to observe the peremptory period; the same applies to failure to observe the period for initiating a litigation as provided in Article 106 after a period of three years has elapsed.
+
+The motion as provided in the first Paragraph shall be filed in pleadings indicating the reason for the failure to observe a period and the date when it extinguishes.
+
+##### Article 92
+
+A motion for restoration to status quo ante from a failure to observe the period for appeal from a judgment or ruling shall be filed to the administrative court rendering the decision; a motion for restoration tostatus quo ante from a failure to observe any other period shall be filed to the administrative court having jurisdiction over the act of litigation which shall be conducted within such period.
+
+The act of litigation which should have been conducted within the time period shall be conducted at the same time when the motion for restoration to status quo ante is filed.
+
+##### Article 93
+
+The motion for restoration to status quo anteand the act of litigation conducted shall be decided jointly by the administrative court in which the motion is filed; but where the original administrative court considers that the motion should be granted and forwards the appeal from the judgment or ruling to its superior administrative court, such motion and appeal shall be decided jointly by the superior administrative court.
+
+Article 282 shall apply mutatis mutandis to the circumstances where the decision is amended due to restoration to status quo ante.
+
+##### Article 94
+
+The commissioned judge or the assigned judge may designate a date or a time period for the acts which he/she conducts.
+
+Articles 84 to 87 inclusive, Paragraphs 1 and 2 of Article 88 and Article 90 shall apply mutatis mutandis to the date and time period designated by the commissioned judge or the assigned judge.
+
+#### Section 4 Court Dossiers
+
+##### Article 95
+
+Pleadings presented by the parties, transcripts, written decisions, and other documents concerning the litigation which shall be maintained by the administrative court shall be compiled by the administrative court clerk as a dossier.
+
+The relevant regulations handling the destruction or loss of civil or criminal litigation dossier shall apply mutatis mutandis to the destruction or loss of a dossier.
+
+##### Article 96
+
+A party may apply to the administrative court clerk for inspection of, transcribing, making a copy of or photographing the documents included in the dossier, or for a written copy, photocopy, or excerpted copy thereof with expenses advanced.
+
+Where a third party files an application as provided in the preceding Paragraph with the parties' consent or with a preliminary showing of his/her legal interests concerned, the administrative court must decide the application.
+
+The Judicial Yuan shall prescribe the rules governing the inspection of the dossier by parties, their advocates, interveners as provided in Article 44 and other third party with permission.
+
+##### Article 97
+
+Unless otherwise provided in applicable laws, the draft of a decision, or any document concerning its preparation or deliberation may not be inspected, transcribed, copied or photographed by the parties or a third party, nor may any written copy, photocopy or excerpted copy thereof be given; the same shall apply to a written decision that has not be announced, published or signed by the judge.
+
+#### Section 5 Litigation expenses
+
+##### Article 98
+
+Litigation expenses refer to the court costs and other necessary costs to conduct litigation and shall be borne by the losing party of the litigation; however, if a decision is rendered in accordance with the provision of Article 198, the litigation expenses shall be borne by the defendant.
+
+In initiating a litigation, court costs of NTD 4,000 shall be collected per case. In matters that shall be subject to the procedure of summary proceedings, court costs of NTD 2,000 shall be collected.
+
+##### Article 98-1
+
+Where multiple claims are asserted in one litigation, or the claim is amended or added or a counterclaim is initiated, no additional court costs will be collected.
+
+##### Article 98-2
+
+In matters of appeal from a judgment, an additional half of the court costs shall be collected in accordance with the provisions of Paragraph 2 of Article 98.
+
+No court costs will be collected on a repeated appeal from a judgment rendered after the case has been remanded or transferred by a superior court, or on an appeal from a judgment rendered by the transferee court after the case is transferred in accordance with the provision of Paragraph 2 of Article 257.
+
+##### Article 98-3
+
+In cases of a rehearing proceeding, court costs shall be collected in accordance with the provisions of Paragraph 2 of Article 98 and Paragraph 1 of the preceding Article, in accordance with the court instances before which such proceeding is initiated.
+
+To initiate motion for rehearing against a ruling with binding effect, court costs of NTD 1,000 shall be collected.
+
+##### Article 98-4
+
+Court costs of NTD 1,000 shall be collected on an appeal taken from a ruling.
+
+##### Article 98-5
+
+No costs will be collected on motions or statements, however, court costs of NT$ 1,000 shall be collected on motions prescribed in below:
+
+\1. A motion for intervention or for denying intervention;
+
+\2. A motion for restoration to status quo ante;
+
+\3. A motion to cease execution or a motion to revoke a ruling which grants to cease execution;
+
+\4. A motion to preserve evidence before initiating a litigation;
+
+\5. A motion for a retrial;
+
+\6. A motion for a provisional attachment or injunction, or a motion for revocation of a ruling for provisional attachment or injunction; and
+
+\7. A motion filed in accordance with Article 237-30.
+
+##### Article 98-6
+
+Unless otherwise provided in applicable laws, the collection of the following items and their standards shall be prescribed by the Judicial Yuan:
+
+\1. Fees for photocopies, video recording, transcripts, translation, transportation, posting on the administrative court's website and publication in official gazettes and newspapers;
+
+\2. Daily fees and travel expenses of witnesses and interpreters;
+
+\3. Daily fees, travel expenses, compensation of expert witnesses and necessary fees for expert testimony; and
+
+\4. Other necessary fees for conducting acts of litigation and compulsory execution.
+
+Fees for service effected by mail or telecommunication, and fees for meals, accommodation and transportation as incurred by personnel of administrative courts for conducting acts of litigation outside the courtroom shall not be collected additionally.
+
+##### Article 98-7
+
+The relevant provisions of Chapter 3 of Part II shall apply to traffic adjudication cases if specific provisions are provided therein.
+
+##### Article 98-8
+
+When an administrative court or a presiding judge appoints a lawyer as a special agent or agent to litigation in accordance with the law, the compensation of such a lawyer shall be set by the administrative court or the presiding judge.
+
+The lawyer's compensation referred to in preceding Paragraph and the lawyer's compensation for matters governed by the first Paragraph of Article 49-1 are part of the litigation expenses and are subject to a ceiling. The Judicial Yuan shall promulgate the standards by which such compensation is determined after consulting with the Ministry of Justice and the Taiwan Bar Association.
+
+The administrative court shall set the amount of the lawyer compensation referred to in the preceding Paragraph in its final judgment or ruling. If the litigation ends without a judgment or ruling, the administrative court may set it by an order upon application.
+
+Appeals can be made against the judgment or ruling that has set the amount of lawyers' compensations.
+
+##### Article 99
+
+In cases of meritless expenses incurred by the intervener for reasons imputable to him/her, the court may order such intervener to bear partial or all of the expenses.
+
+The expenses incurred as a result of intervention as provided in Article 44 shall be borne by the intervener. However, if the opposing party shall bear the litigation expenses pursuant to the provision of Paragraph 1 of Article 98 and the application of Article 79 to Article 84 inclusive of the Code of Civil Procedure mutatis mutandis, the expenses shall be borne by such party.
+
+##### Article 100
+
+Unless otherwise provided in applicable laws, the court costs shall be advanced by the parties. When the party fails to advance the costs, the court should order the party to advance the court costs within the prescribed period; if the party fails to advance the court costs within the prescribed period, the administrative court should dismiss its case, appeal from a judgement, appeal from a ruling, a motion for rehearing or other motions.
+
+The presiding judge may order the parties to advance the expenses necessary for conducting litigation proceeding; if the party fails to advance expenses within the prescribed period, the expenses shall be disbursed by the national treasury, and after the judgment has become binding, the court may order by a ruling on its own initiative to collect such expenses from the person who shall bear the litigation expenses.
+
+The court ruling provided in the preceding Paragraph may serve as a title for execution.
+
+##### Article 101
+
+Except in cases where there is manifestly no prospect for a party to prevail in the litigation, where a party lacks the financial means to pay the litigation expenses, the court shall, by ruling on a motion, grant litigation aid.
+
+##### Article 102
+
+A motion for litigation aid shall be filed with the administrative court in which the litigation is pending.
+
+A preliminary showing shall be made on the fact of lack of financial means to pay litigation expenses.
+
+In place of the preliminary showing provided in the preceding Paragraph, a promissory note may be provided by a person who owns assets within the jurisdictional boundaries of the administrative court.
+
+The promissory note provided in the preceding Paragraph must bear an expressed covenant that the issuer will disburse the litigation expenses when the movant is ordered to bear the litigation expenses.
+
+##### Article 103
+
+A party will be temporarily exempted from paying litigation expenses where a motion for litigation aid is granted.
+
+##### Article 104
+
+The following provisions of the Code of Civil Procedure shall apply mutatis mutandis to the circumstances prescribed in this Division: Article 77-26, from Article 79 to Article 85, from Article 87 to Article 94, Article 95, from Article 96 to Article 106, Article 108, Article 109-1, from Article 111 to Article 113, Paragraph 1 of Article 114, Article 114-1, and Article 115.
+
+## PART II PROCEDURE IN THE FIRST INSTANCE
+
+### Chapter I Ordinary Proceedings
+
+#### Section 1 Initiation of A Litigation
+
+##### Article 104-1
+
+The High Administrative Court shall be the court of first instance for cases for ordinary proceedings. However, the District Administrative Court shall be the court of first instance for the following types of cases:
+
+\1. tax cases when the assessed amount of tax is 1,500,000 New Taiwan Dollars or smaller.
+
+\2. cases that arise from an administrative penalty of 1,500,000 New Taiwan Dollars or a smaller amount, or other accompanying punitive or administrative regulatory acts.
+
+\3. other cases related to property relations in public law, and the value of the subject matter is 1,500,000 New Taiwan Dollars or less.
+
+\4. other cases that should be adjudicated by the District Administrative Court per statutory law or as designated by the Judicial Yuan.
+
+The amount of 1,500,000 New Taiwan Dollars in the preceding Paragraph may be raised by the Judicial Yuan, if needed, to 10,000,000 New Taiwan Dollars through an Order.
+
+##### Article 105
+
+To initiate a litigation, a complaint shall be submitted to the administrative court and indicate the following matters:
+
+\1. The parties;
+
+\2. Statement for initiating litigation; and
+
+\3. The claim and the occurrence giving rise to such claim.
+
+It is advisable to indicate in the complaint, matters related to the applicable procedures, evidence and other matters in preparation of oral argument; where there was an administrative appeal, the appeal decision shall be appended.
+
+##### Article 106
+
+Unless otherwise provided in this Act, the litigation provided in Article 4 and Article 5 shall be filed within a peremptory period of two months after the day which the administrative appeal decision is served. However, where the fact becomes known thereafter to the person who has interests in the litigation other than the administrative appellant, the period shall calculate since the date which he/she knows.
+
+It is not allowed to file a litigation as provided in Article 4 and Article 5 if it has been over three years after the date which the administrative appeal decision is served.
+
+If no administrative appeal procedure is required before filing a litigation as provided in Article 4 or Paragraph 2 of Article 5, the litigation shall be filed within a peremptory period of two months after the day which the administrative disposition is served or published.
+
+If no administrative appeal procedure is required before filing a litigation as provided in Paragraph 1 of Article 5, the litigation can only be filed after the expiration of the period to conduct the prescribed action; no litigation can be filed if such period has expired for three years.
+
+##### Article 107
+
+In any of the following circumstances, the administrative court shall dismiss the plaintiff's complaint by a ruling. However, if the defect is rectifiable, the presiding judge shall order the plaintiff to rectify the defect within a time period before dismissing the complaint:
+
+\1. The case, by its nature, shall not be adjudicated by an administrative court, and no transfer of the case may be made.
+
+\2. The administrative court in which the litigation is pending does not have jurisdiction over the litigation; neither can a court be designated to adjudicate the case, nor can a transfer of the case by ruling be made;
+
+\3. The plaintiff or defendant lacks the capacity to be a party to the litigation;
+
+\4. When acting in litigation, the plaintiff or defendant is not legally represented by his or her agent designated a statute, representative, or administrator.
+
+\5. The litigation was initiated by the agent of the party to the litigation, and the agent lacks the authority to do so.
+
+\6. The litigation was not initiated within the period required by the statutes;
+
+\7. The litigation was initiated while the same litigation was initiated earlier and is still pending at an administrative court or other courts.
+
+\8. The litigation was initiated again while the same claim was adjudicated, decided by a final judgment, and then withdrawn by the claimant.
+
+\9. The subject matter of the claim was adjudicated by a final judgment, settlement, or mediation.
+
+\10. The litigation was not initiated through the formality required by statutes, or it fails to satisfy other statutory requirements.
+
+\11. The litigation was initiated maliciously, improperly, or to abuse the procedure, or with serious negligence, and the factual or legal claims lack a reasonable basis.
+
+The preceding Paragraph shall apply mutatis mutandis to a litigation to revoke administrative acts or a litigation demanding the performance of certain obligations in which the defendant agency is misnamed in the plaintiff's complaint.
+
+If the plaintiff's claim satisfies one of the following conditions, the administrative court may dismiss the claim through a judgment without oral argument. However, if the defect may be rectified, the presiding judge shall designate a period for the plaintiff to rectify it before dismissing the plaintiff's claim:
+
+\1. Except the circumstances set out in Paragraph 2, the party to litigation cannot sue or be sued, or there are no public-law rights to be protected.
+
+\2. The facts alleged by the plaintiff are manifestly groundless in law.
+
+In the circumstances provided for in the preceding three paragraphs, the defects may not be rectified after the court dismissed the plaintiff's claim for failure to rectify within the deadline.
+
+The judgments and rulings as provided for in Paragraphs 1-3 may set out only the important parts. They may include motions filed by the plaintiff, the minutes of court proceedings, or other documents as an appendix.
+
+When an administrative court dismisses the plaintiff's claim under Subparagraph 11 of Paragraph 1, the court may impose on the plaintiff, his or her representative, administrator, or agent a penalty equal to or less than 120,000 New Taiwan Dollars.
+
+The penalty referred to in the preceding Paragraph shall be set out together with the ruling dismissing the plaintiff's claim. The ruling shall note that the persons punished may offer adequate security and stay the enforcement of the penalty.
+
+If the plaintiff appeals against the ruling dismissing the plaintiff's claim, the penalty set out in the same court ruling is also considered appealed.
+
+Paragraphs 1 and Paragraph 4 to Paragraph 8 apply mutatis mutandis to the matters regarding applications or motions.
+
+##### Article 108
+
+Except where the plaintiff's case is dismissed or transferred by the administrative court in accordance with the preceding Article, the court shall serve the complaint on the defendant and may order the defendant to provide opinion in its answer.
+
+The original administrative agency which rendered the administrative disposition, the defendant agency or the agency with jurisdiction of administrative appeal shall, upon receiving notification by the administrative court, submit the case files to the administrative court.
+
+##### Article 109
+
+Whenever the presiding judge deems that it is suitable to conduct oral argument, he/she shall promptly designate a date for the oral-argument session.
+
+Except in urgent cases, there shall be a preparation period scheduled for at least ten days between the day the complaint is served and the day scheduled for the oral-argument session as provided in the preceding Paragraph.
+
+##### Article 110
+
+No litigation will be affected by the fact that the legal relation as the subject matter of the claim has been transferred to a third party when such litigation is pending. However, subject to the consent of both parties, the third party may move for assuming the litigation for a party.
+
+In the case provided in preceding Paragraph, if only the opposing party disagrees, either the transferor party or the third party may move the administrative court for a ruling to permit the third party to assume the litigation.
+
+An appeal may be taken from the ruling provided in the preceding Paragraph.
+
+In cases where the administrative court is aware of the transfer of the subject matter of the claim, the court shall immediately notify the third party the fact that the litigation is pending in writing.
+
+In cases where the legal relation as the subject matter of the claim has been transferred to a third party after the administrative appeal decision has been made, the transferee may file a litigation of revocation.
+
+##### Article 111
+
+After the service of the complaint, the plaintiff may not amend his/her claim or raise additional claims, unless otherwise agreed by the defendant or determined appropriate by the administrative court.
+
+Where the defendant proceeds orally on the merits of the principal case without objecting to the amendment or addition of claims, he/she shall be deemed to have agreed to such amendment or addition.
+
+The amendment or addition of claims in case of any of the following circumstances shall be permitted:
+
+\1. Where the claim shall be adjudicated jointly with regard to several persons and one or several such persons who are not parties are joined as parties;
+
+\2. Where the claim is amended but the grounds of the pleadings remain the same;
+
+\3. Where the change of circumstances makes it necessary to replace the original claim with another claim;
+
+\4. Where a litigation of revocation was erroneously initiated while a litigation for a declaratory judgment shall be initiated;
+
+\5. Where the amendment or addition of claims should be permitted pursuant to Article 197 or other laws;
+
+The preceding three Paragraphs shall not apply to the amendment or addition of claims to revoke an administrative disposition without going through administrative appeal procedure.
+
+The administrative court's decision determining that there is no amendment or addition of claims or allowing the amendment or addition of claims is not reviewable. However, in litigation of revocation with ground that such disposition has not gone through administrative appeal procedure, the court's decision may be appealed along with the final judgment.
+
+##### Article 112
+
+The defendant may, prior to the conclusion of the oral argument session, raise a counterclaim with the administrative court where the principal litigation is pending. However, no counterclaim can be raised for a litigation of revocation and a litigation demanding performance of certain obligations.
+
+The plaintiff cannot raise another counterclaim in response to the defendant's counterclaim.
+
+No counterclaim may be raised if it is subject to the exclusive jurisdiction of another administrative court or if it is neither related to the plaintiff's claim in the principal litigation nor related to the defendant's means of defense.
+
+The administrative court may dismiss a counterclaim without prejudice where it is raised by the defendant for purposes of delaying litigation.
+
+##### Article 113
+
+The plaintiff may, before the judgment has become binding, voluntarily dismiss the case in whole or in part, but the plaintiff cannot dismiss the case if such dismissal would be detrimental to protecting the public interest.
+
+Where the defendant has proceeded orally on the merits of the principal case, such dismissal shall be subject to the defendant's consent.
+
+A voluntary dismissal shall be made by pleadings. Notwithstanding, it may be made orally in the court session.
+
+A voluntary dismissal made orally shall be indicated in the transcript and in the case where the opposing party was not present, such transcript shall be served on the opposing party.
+
+The defendant is deemed to have agreed to the voluntary dismissal if the defendant does not object to such dismissal within ten days from the day of the court session in the case where the defendant appeared and did not express whether the defendant agreed or disagreed, or from the day of service of the transcript provided in the preceding Paragraph or the dismissal pleading in case where the defendant failed to appear in the court session or where the dismissal is made by pleadings.
+
+##### Article 114
+
+Where the administrative court deems the voluntary dismissal of case as provided in the preceding Article is detrimental to the protection of the public interest. the court shall order, by a court ruling, to disallow such dismissal.
+
+No appeal may be taken from the ruling provided in the preceding Paragraph.
+
+##### Article 114-1
+
+If a district administrative court adjudicates a case through an ordinary proceeding because of a change in, or a partial withdrawal of, the plaintiff's claim, it becomes one of the categories that shall be adjudicated through small claims proceeding or traffic adjudication proceeding, the originally commissioned judge of the district administrative court shall adjudicate through small claims proceeding or traffic adjudication proceeding.
+
+If a case is adjudicated by a district administrative court through an ordinary proceeding because of an addition to, a change in, or a counterclaim, the case or a part of it becomes one in the category which a high administrative court shall adjudicate, the matter shall be transferred through a court ruling to the high administrative court with jurisdiction.
+
+If a case is adjudicated by a high administrative court through an ordinary proceeding, because of a change in, or a partial withdrawal of, the plaintiff's claim, the case becomes one in the category which a district administrative court shall adjudicate, the high administrative court shall transfer the case by a ruling to the district administrative court with jurisdiction.
+
+##### Article 115
+
+Article 245, Article 246, Article 248, Article 252, Article 253, Article 257, Article 261, Article 263 and Article 264　of the Code of Civil Procedure shall apply mutatis mutandis to the circumstances prescribed in this Section.
+
+#### Section 2 Stay of Execution
+
+##### Article 116
+
+The execution of the original disposition or decision shall not be stayed by initiating an administrative litigation unless otherwise provided in applicable laws.
+
+Where an administrative litigation is pending and the administrative court deems that the execution of the original disposition or decision will cause irrevocable harm and there is a pressing situation, the court may, on motion or on its own initiative, order to stay execution by a ruling. However, if the stay will substantially affect the public interest or the plaintiff's claim is manifestly without legal grounds, no stay shall be allowed.
+
+Prior to the initiation of an administrative litigation, if the execution of the original disposition or decision will cause irrevocable harm and there is a pressing situation, the court may also, on motion raised by the person subject to the administrative disposition or the administrative appellant, order to stay execution by a ruling. However, if the stay will substantially affect the public interest, no stay shall be allowed.
+
+The administrative court shall, prior to rendering rulings provided in the preceding two Paragraphs, request for opinion by the parties. If the original government agency which made the administrative disposition or decision has, on motion or on its own initiative, ordered to stay execution, the court shall order to dismiss the motion by a ruling.
+
+A ruling to stay the execution has the effect to stay the effect of the original disposition or decision, the execution or extension of proceeding of the disposition or decision in whole or in part.
+
+##### Article 117
+
+The preceding Article shall apply mutatis mutandis to litigations in declaring the invalidity of an administrative disposition.
+
+##### Article 118
+
+Where the grounds to stay the execution no longer exist or there are changes in circumstances, the administrative court may, on motion or on its own initiative, order to revoke the ruling that grants the stay of execution.
+
+##### Article 119
+
+An appeal may be taken from the ruling which orders to stay the execution or to revoke the ruling that grants the stay of execution.
+
+#### Section 3 Oral Argument
+
+##### Article 120
+
+The plaintiff shall submit to the court a preparatory pleading in preparation of the oral argument.
+
+It is advisable that the defendant submit its answer no later than a half of the preparation period in preparation of the oral argument.
+
+##### Article 121
+
+The administrative court may, prior to the oral argument session, take the following measures if it considers necessary to do so in order to expedite the closing of oral argument session:
+
+\1. To order the parties, their statutory agents, representatives or administrators to appear in person;
+
+\2. To order the parties to produce drawings/illustrations, schedules/lists, translations of documents written in a foreign language, or other documents and objects;
+
+\3. To conduct inspections, or order expert testimony, or request an agency or organization to conduct an investigation;
+
+\4. To notify witnesses or expert witnesses, and to order documents or objects, or order a third party to produce documents or objects; or
+
+\5. To require a commissioned judge or an assigned judge to take evidence.
+
+In order to elucidate or ascertain relations involved in the litigation, the administrative court may, during the oral argument session, take the measures as provided in Subparagraphs 1 to 3 inclusive of the preceding Paragraph, and may temporarily retain in the court the documents and objects produced by a party or a third party.
+
+##### Article 122
+
+Oral-argument sessions start with the parties' stating their respective claims.
+
+The parties shall make factual and legal statements regarding matters involved in the litigation.
+
+The parties shall not quote documents in lieu of oral statements, except where it is necessary to quote certain passages from the documents and then, the party may do so by reading the essential part.
+
+##### Article 122-1
+
+If the parties to the litigation, witnesses, expert witnesses, or other persons relevant to the litigation do not speak the language of the Republic of China, the administrative court should appoint an interpreter for the proceedings. The same also applies when the judge does not understand the dialects used by the persons relevant to the litigation.
+
+If the persons relevant to the litigation have a hearing impairment, articulation problems, or speech problems, the administrative court should appoint an interpreter, ask questions in written form, or make them respond in written form.
+
+The rules regarding expert witnesses shall apply mutatis mutandis to the interpreters as provided for in the preceding two paragraphs.
+
+When there are circumstances as provided for in Paragraph 2, the spouse, direct blood relative, or indirect blood relative within three degrees, head of the family, family members, medical doctor, psychologist, counselor, social worker, or any person trusted by the persons relevant to the litigation may accompany such persons in court proceedings if permitted by the presiding judge.
+
+##### Article 123
+
+Unless otherwise provided, the administrative court shall take evidence in the oral argument sessions.
+
+The parties shall state the evidence used in accordance with the provisions of Section 4 of Chapter I of Part II.
+
+##### Article 124
+
+The presiding judge shall start, direct and conclude the oral argument session and announce the administrative court's decision.
+
+The presiding judge may prohibit any person from speaking who disobeys his/her direction on oral argument.
+
+When the oral argument needs to be continued, the presiding judge shall promptly designate the date for continuation.
+
+##### Article 125
+
+An administrative court shall, on its initiative, investigate the factual relationships, and shall not be bound by the parties' factual claims and assertions about the evidence.
+
+The parties to the litigation shall cooperate with the investigation referred to in the preceding Paragraph.
+
+The presiding judge shall strive to allow the parties to examine and debate the facts and the law adequately and comprehensively.
+
+The presiding judge shall question or inform the parties, direct them to make factual representations, offer evidences, or make other necessary statements and representations. If the statements, representations, or types of litigation are ambiguous or incomplete, the presiding judge shall direct the presenting party to clarify or complete them.
+
+After informing the presiding judge, the associate judge may question or inform the parties.
+
+##### Article 125-1
+
+After seeking opinions from the parties to the litigation, the presiding judge may set a deadline and order the parties to the litigation to do the following:
+
+\1. make statements about facts or point out the methods of proof.
+
+\2. submit the documents or objects that the parties to the litigation have legal obligations to submit.
+
+If the parties to the litigation miss the deadline described in the preceding Paragraph to make statements about facts, point out the methods of proof, or submit the documents or objects, and if all the following conditions are met, the administrative court may, unless otherwise stipulated by law, make judgments or rulings regardless of such statements about facts or methods of proof:
+
+\1. missing the deadline hinders the conclusion of the litigation.
+
+\2. the parties to the litigation fail to demonstrate that missing the deadline was not attributable to them.
+
+\3. the presiding judge notified the parties to the litigation beforehand of the consequences of missing the deadline.
+
+##### Article 125-2
+
+To clarify the relationships involved in the litigation, an administrative court may, when necessary, order a judicial affairs officer, based on his or her professional knowledge, to explain the facts and the law.
+
+The particular professional knowledge provided by the judicial affairs officer to the administrative court may only be adopted as the basis of a judgment or ruling if the parties to the litigation are given opportunities to examine such special professional knowledge.
+
+##### Article 126
+
+The presiding judge shall appoint a judge who is to be commissioned to act in accordance with the provisions of this Act.
+
+Unless otherwise provided, any request to be made by the administrative court shall be made by the presiding judge.
+
+##### Article 127
+
+The administrative court may order arguments to be held jointly where multiple litigations were initiated separately but are based on the same or same types of factual or legal grounds.
+
+Arguments of several litigations that have been ordered to be held jointly may be decided jointly.
+
+##### Article 128
+
+The administrative court clerk shall prepare an oral argument transcript, indicating the following matters:
+
+\1. The place and date of the oral argument;
+
+\2. The full names of the judges, the court clerk, and the interpreter;
+
+\3. The subject matter of the litigation;
+
+\4. The names of the appearing parties, statutory agents, representatives, administrators, advocates, assistants, and other persons who were summoned to appear; and
+
+\5. A statement as to whether the argument was held in public, and, if not, the reason therefor.
+
+##### Article 129
+
+The oral argument transcript shall indicate the purport of the progress of the argument and the following matters with particularity:
+
+\1. Any abandonment, admission of claims, admission of facts and voluntary dismissal of case.
+
+\2. Any statement or withdrawal of evidence and any objection to the violation of provisions regulating litigation procedure;
+
+\3. Any other important statements or representations made by the parties and the circumstances where the parties were informed but chose not to make statements or representations;
+
+\4. Any other statements or representations which are required to be indicated in the transcript by this Act
+
+\5. Any testimony of a witness or an expert witness, and any inspection findings;
+
+\6. Matters that were ordered to be recorded pursuant to the presiding judge's instruction;
+
+\7. Decisions other than those which must be made in writing and included in the dossier; and
+
+\8. Announcement of the decision.
+
+##### Article 130
+
+The transcript, the documents referenced in the transcript that are either included in the dossier or appended to the transcript, indicating matters specified in Subparagraphs 1 to 6 inclusive of the preceding Article, shall, on motion, be read aloud to the person who has interests in the litigation in the court or such person may be permitted to inspect them, and a note to such effect shall be made in the transcript.
+
+Where the person who has interests in the litigation objects to the entries in the transcript, the administrative court clerk may rectify or supplement such entries. If the objection is considered meritless, the administrative court clerk shall make a note of the objection in the transcript.
+
+If machinery is used to record the oral argument session, the implementation regulations shall be prescribed by the Judicial Yuan.
+
+##### Article 130-1
+
+If there are available technological audio-visual transmission devices between the place of residence or location of the parties, their representative, administrator, advocate, assistant, witness, expert witness or other related persons, or the court located at that place and the administrative court, which can be used by the court to examine the case directly, and the administrative court considers it appropriate, it may, on motion or on its own initiative, use the devices to examine the case.
+
+In the circumstances provided in the preceding Paragraph, the location at which the parties shall appear that is indicated in the summons for the session shall be the location of such devices.
+
+The transcript and other documents to be signed by the person who makes the statement for the procedure conducted in accordance with Paragraph 1, shall be transmitted by the administrative court to the place where the person who makes the statement locates; and after such transcripts and documents have been confirmed and signed by the person who makes the statement, the transcript and documents shall then be transmitted back to the administrative court via telefax or other technological devices.
+
+The implementation regulations for the examination as provided in Paragraph 1 and the  transmission of documents as provided in the preceding Paragraph shall be prescribed by the Judicial Yuan.
+
+##### Article 131
+
+The following provisions concerning the court's or presiding judge's authority shall apply mutatis mutandis to the preparatory proceedings conducted by the commissioned judge:
+
+\1. The amended Administrative Litigation Act: Paragraphs 3 to 6 of Article 49, Paragraph 4 and Paragraph 8 of Article 49-1, Paragraph 1 of Article 49-2, Article 55, Paragraph 1 of Article 66, the proviso of Article 67, the first sentence of Paragraph 1 of Article 100, Paragraph 2 of Article 100, the proviso of Paragraph 1 of Article 107, Paragraph 2 of Article 107, the proviso of Paragraph 3 of Article 107, Paragraph 4 of Article 110, Subparagraphs 1 to 4 of Paragraph 1 of Article 121, Paragraph 2 of Article 121, Article 122-1, Article 124, Article 125, Article 125-1, Article 125-2, Article 130-1;
+
+\2. The Code of Civil Procedure: Article 49, Paragraph 1 of Article 75, Paragraph 1 of Article 120, Paragraphs 1 and 2 of Article 121, Article 200, Article 207, Article 208, Paragraph 2 of Article 213, Article 213-1, Article 214, Article 217, Article 268, Paragraphs 2 and 3 of Article 268-1, Paragraph 1 of Article 268-2, Paragraphs 1 and 2 of Article 371, and Article 372
+
+##### Article 132
+
+The following provisions of the Code of Civil Procedure shall apply mutatis mutandis to the circumstances prescribed in this Division: from Article 195 to Article 197, Article 200, Article 201, Article 204, Article 206, Article 208, Article 210, Article 211, Article 213, Paragraph 2, Article 214, Article 215, from Article 217 to Article 219, from Article 265 to Article 268-1, Article 268-2, Article 270, Paragraph 1, from Article 270-1 to Article 271-1, from Article 273 to Article 276.
+
+#### Section 4 Evidence
+
+##### Article 133
+
+The administrative court shall, on its own initiative, take evidence.
+
+##### Article 134
+
+Even if a party has admitted to the facts alleged by the opposing party, the administrative court shall consider other necessary evidence on its own initiative.
+
+##### Article 135
+
+Where a party intentionally destroys or hides a piece of evidence, or makes it difficult to use, for the purpose of obstructing the use of such evidence by the opposing party, the administrative court may, in its discretion, take as the truth the opposing party's allegation with regard to such evidence or the disputed fact to be proven by such evidence.
+
+In the case provided in the preceding Paragraph, the parties shall be accorded an opportunity to present their arguments before a decision is rendered.
+
+##### Article 136
+
+Unless otherwise provided in this Act, Article 77 of the Code of Civil Procedure shall apply mutatis mutandis to the circumstances prescribed in this Section.
+
+##### Article 137
+
+A party has the burden of proof with regard to custom and foreign laws which are unknown to the administrative court. Notwithstanding, the administrative court may investigate on its own initiative.
+
+##### Article 138
+
+The administrative court may request the civil court, other government agencies, a school or an organization to conduct necessary investigation of evidence.
+
+##### Article 139
+
+Where the administrative court considers it appropriate, it may designate a member of court to act as the commissioned judge or request another administrative court to designate a judge to conduct the evidence-taking.
+
+##### Article 140
+
+Where the administrative court in which the litigation is pending takes evidence prior to the oral-argument sessions, or the evidence is taken by the commissioned judge or the assigned judge, the court clerk shall make a transcript of such evidence-taking.
+
+Articles 128 to 130 inclusive shall apply mutatis mutandis to the transcript provided in the preceding Paragraph.
+
+The transcript of the evidence-taking conducted by the commissioned judge shall be forwarded to the administrative court in which the litigation is pending.
+
+##### Article 141
+
+The parties shall be directed to present argument on the outcome of evidence-taking.
+
+Where the evidence is taken outside the administrative court in which the litigation is pending, the parties shall state the outcome of such evidence-taking in the oral-argument sessions. Notwithstanding, the presiding judge may order the administrative court clerk to read aloud the evidence-taking transcript or other documents as substitute.
+
+##### Article 142
+
+Unless otherwise provided in applicable laws, every person is under a general duty to testify in an administrative litigation between others.
+
+##### Article 143
+
+Where a witness who has been legally summoned fails to appear without giving a justifiable reason, the administrative court may impose a fine not exceeding NTD 30,000 by a ruling.
+
+Where a witness who has been fined in accordance with the provision of the preceding Paragraph, and still fails to appear after he/she has been summoned again, he/she may again be fined for an amount not exceeding NTD 60,000 and may also be apprehended to appear.
+
+The provisions of the Code of Criminal Procedure pertaining to the apprehension of a defendant shall apply mutatis mutandis to the apprehension of a witness; where the witness is a soldier, the apprehension shall be executed by the superior officer concerned who is requested to do so by a warrant.
+
+An appeal may be taken from a ruling imposing a fine upon a witness; the execution of such ruling shall be stayed pending such appeal.
+
+##### Article 143-1
+
+If a witness cannot participate in a court proceeding, or there are other necessary circumstances, the administrative court may examine the witness where the witness is present.
+
+If the witness has to make statements based on documents or materials, or if the administrative court considers the nature of the matter or the situation of the witness to warrant the decision, the administrative court may order the parties to the litigation to make written statements together with witnesses in front of notaries public.
+
+Witnesses may also make written testimony outside of administrative court if the parties to the litigation consent to the admissibility of such written testimony.
+
+Even though written testimony is made per the preceding two paragraphs, if the administrative court considers that the written testimony of the witness requires explanation or one party to the litigation applies to question witnesses, the administrative court may require the witness to participate in the court proceedings.
+
+When witnesses make testimony in written form, the truth of the testimony shall be attested to by the witnesses and notarized by notaries public. If the witnesses are examined following Article 130-1, such witnesses shall attest to the truth of their testimony before or after the examination.
+
+##### Article 144
+
+Where a witness is or was a public officer or a national representative and is to be examined with regard to the matter which he/she is obliged to keep confidential by virtue of his/her duties, he/she shall be examined with the permission of his/her supervising officer or the representative organ.
+
+The permission provided in the preceding Paragraph may not be withheld except that such examination will encumber highly confidential national information.
+
+The preceding two Paragraphs shall apply mutatis mutandis to the circumstances where the witness is commissioned to perform public functions by a government agency.
+
+##### Article 145
+
+A witness may refuse to testify in case in which the testimony of the witness may sufficiently expose the witness or any person who has the following relationship with him/her to criminal prosecution or embarrassment:
+
+\1. The witness's spouse, former spouse, a relative by blood within the fourth degree of relationship, a relative by marriage within the third degree of relationship, a person who had the aforesaid relative relationship with the witness, or a person who was engaged to the witness; and
+
+\2. The witness's guardian or ward.
+
+##### Article 146
+
+A witness may refuse to testify in any of the following circumstances:
+
+\1. Where the witness is in one of the situations provided for in Article 144;
+
+\2. Where the witness is or was a doctor, a pharmacist, a pharmacy operator, a psychologist, a midwife, a religious teacher, an attorney-at-law, a certificated public accountant, or other persons who engage in similar affairs, or persons who assist the aforesaid persons, or persons who have ever assumed such duty, and the matters to be examined relate to other persons' confidential information which the witness obtained in the course of conducting business;
+
+\3. Where the sought testimony relates to the witness' technical or professional secrets.
+
+The preceding Paragraph does not apply to the circumstance in which a witness has been relieved of the confidentiality obligation.
+
+##### Article 147
+
+Where the witness may be permitted to refuse to testify in accordance with the preceding two Articles, the presiding judge shall so inform such witness before the examination or at the time when such case is known to the presiding judge.
+
+##### Article 148
+
+Where a witness refuses to testify without specifying the reason and the facts giving rise to his/her refusal, or continues to refuse to testify after the ruling denying his/her refusal has become binding, the administrative court may by a ruling impose upon him/her a fine not exceeding NTD 30,000.
+
+An appeal may be taken from the ruling provided in the preceding Paragraph; the execution of the ruling shall be stayed pending such appeal.
+
+##### Article 149
+
+The presiding judge shall order each witness to sign a written oath prior to examination. Notwithstanding, where it cannot be ascertained in advance that a witness will need to sign a written oath, the oath-signing shall be conducted after examination.
+
+Before the witness signs the written oath, the presiding judge shall inform the witness of his/her obligation to sign a written oath and of the penalty of perjury.
+
+The provisions of the two preceding Paragraphs do not apply to the case where a witness makes statements by pleadings.
+
+##### Article 150
+
+Where a witness is under the age of sixteen or is mentally retarded or with other intellectually disabilities and therefore cannot understand the meaning of a written oath and the effects thereof, the witness shall not be ordered to sign a written oath.
+
+##### Article 151
+
+The court may exempt a witness from signing a written oath if the witness is one of the following:
+
+\1. The witness is a party's spouse, former spouse, a relative by blood within the fourth degree of relationship or a relative by marriage within the third degree of relationship; or the witness had the aforesaid relationship with the party, or the witness has engaged to a party;
+
+\2. Where there is a circumstance as provided in Article 145 and the witness does not refuse to testify; and
+
+\3. A party's employee or cohabitant.
+
+##### Article 152
+
+A witness may refuse to sign a written oath on matters with direct interests with him/her or with the persons provided in Article 145.
+
+##### Article 153
+
+Article 148 shall apply mutatis mutandis to the circumstances where the witness refuses to sign a written oath.
+
+##### Article 154
+
+A party may move the presiding judge to conduct a necessary examination of a witness or, after informing the presiding judge, conduct such examination himself/herself on matters concerning the facts to be proven and the witness's credibility.
+
+In the examination provided in the preceding Paragraph, the presiding judge may, on motion or its own initiative, limit or prohibit questions which are irrelevant to the facts to be proven, repetitious, leading, insulting, or involving other inappropriate circumstances.
+
+The administrative court shall rule on an objection raised with regard to the limitation placed on or prohibition of the examination.
+
+##### Article 155
+
+The administrative court shall pay the witness daily fees and travel expenses; the witness may claim for the fees and expenses after the completion of the examination. However, no witness daily fees or travel expenses shall be paid if the witness is apprehended to appear or refuses to sign a written oath or to testify without giving a justifiable reason.
+
+An appeal may be taken from a ruling on daily fees and travel expenses as provided in the preceding Paragraph.
+
+A witness's necessary travel expenses may be paid in advance upon request.
+
+##### Article 156
+
+Unless otherwise provided, the provisions regarding examination of witnesses in this Act shall apply mutatis mutandis to expert testimony.
+
+##### Article 157
+
+Anyone who possesses the required academic or technical knowledge, is engaged in the trade or profession needed for expert testimony, or has been commissioned by a government agency to provide expert opinion, is obliged to be an expert witness in administrative litigation.
+
+An expert witness shall disclose the following information before the appointment. If the information is discovered after the appointment, he or she shall disclose the information to the presiding judge and the parties to the litigation immediately:
+
+\1. academic credentials and professional experiences, areas of specialty, and prior experiences of participation in litigation procedure, non-litigation procedure, or court mediation procedure because of his or her professional knowledge or experiences.
+
+\2. whether he or she has had any division of labor or cooperation with the parties to the litigation, assistive joined parties, assistive persons, or their agents concerning the professional knowledge and experiences and the preparation or submission of the relevant materials.
+
+\3. concerning the professional knowledge and experiences and the preparation or submission of the relevant materials, whether he or she has been compensated for or financially supported by the parties to the litigation, assistive joined parties, assistive persons, or their agents; if so, the amount of value of such compensation or financial support.
+
+\4. concerning the particular matter, anyone who provides compensation or financial support, and the amount or value of such compensation or support.
+
+\5. any other circumstance that is enough to find that the expert witness may not be able to carry out his or her duties impartially and independently.
+
+##### Article 158
+
+No expert witness may be apprehended.
+
+##### Article 159
+
+Where an expert witness refuses to give expert testimony for whatever reason other than those provided in this Act, the administrative court may relieve him/her from the duty to act as an expert witness if the administrative court considers the reason given to be justifiable.
+
+##### Article 160
+
+An expert witness may claim for reasonable compensation in addition to the legally prescribed daily fees and travel expenses.
+
+Upon the request of the expert witness, the expenses needed for giving expert testimony may be paid in advance.
+
+An appeal may be taken from the ruling on the requests provided in the preceding two Paragraphs.
+
+##### Article 161
+
+Article 160 of this Act and Articles 335 to 337 inclusive of the Code of the Civil Procedure shall apply mutatis mutandis to the circumstances where the administrative court requests a government agency, a school or an organization to give expert testimony or to review the expert testimony given in accordance with Article 138. Where an explanation is needed, such explanation shall be provided by the person appointed by such agency, school or organization.
+
+##### Article 162
+
+Whenever necessary, the administrative court may consult the persons who engage in the academic study regarding professional legal issues in the litigation, and to request such persons to provide their legal opinion in writing or to state their opinion in the court session.
+
+For the opinion provided in the preceding Paragraph, the court shall inform the parties of such opinion before rendering the decision for the parties to present their arguments.
+
+The provisions of expert witness shall apply mutatis mutandis to the persons who provide their opinion in accordance with Paragraph 1; however, such persons shall not be ordered to sign a written oath.
+
+##### Article 163
+
+A party has the duty to produce the following documents:
+
+\1. Documents to which such party has made reference in the course of the litigation proceeding;
+
+\2. Documents which the opposing party may require the delivery or an inspection thereof pursuant to the applicable laws;
+
+\3. Documents which are created in the interests of the opposing party;
+
+\4. Documents which are created for the matters relating to the legal relations in this litigation; and
+
+\5. Commercial accounting books.
+
+##### Article 164
+
+The administrative court may order a document which is in an official's possession or in a government agency's custody. If the government agency is party to the litigation, it has a duty to produce such document.
+
+In the circumstances provided in the preceding Paragraph, no refusal is acceptable unless the disclosure of document will encumber highly confidential national information.
+
+##### Article 165
+
+Where a party disobeys an order to produce documents without giving a justifiable reason, the administrative court may, in its discretion, take as the truth the opposing party's allegation with regard to such document or the fact to be proven by such document.
+
+In the case provided in the preceding Paragraph, the parties shall be accorded an opportunity to present their arguments before a decision is rendered.
+
+##### Article 166
+
+Where a document identified to be introduced as documentary evidence is in a third party's possession, a party shall move the administrative court either to order such third party to produce such document or to designate a period of time within which the party who intends to introduce it as evidence shall produce such document.
+
+Paragraphs 2 and 3 of Article 342 of the Code of Civil Procedure shall apply mutatis mutandis to the motion provided in the preceding Paragraph.
+
+A preliminary showing shall be made with regard to the fact that the document is in a third party's possession and the reason why the third party has the duty to produce such document.
+
+##### Article 167
+
+Where the administrative court considers that the fact to be proven is material and that the motion initiated by the party who intends to introduce it as evidence is just, it may order, by a ruling, the third party to produce the document or to designate a period of time within which the party who intends to introduce it as evidence shall produce such document.
+
+Before making the ruling provided in the preceding Paragraph, the administrative court shall accord the third party an opportunity to be heard.
+
+##### Article 168
+
+With regard to a third party's duty to produce documents, Articles 144 to 147 inclusive, and Subparagraphs 2 to 5 inclusive of Article 163 shall apply mutatis mutandis.
+
+##### Article 169
+
+Where a third party disobeys an order to produce documents without giving a justifiable reason, the administrative court may, by a ruling, impose a fine not exceeding NTD 30,000; where necessary, the administrative court may also, by a ruling, order for compulsory measures to be taken.
+
+Article 306 shall apply to the execution of compulsory measures as provided in the preceding Paragraph.
+
+An appeal may be taken from the ruling provided in Paragraph 1; the execution of such ruling shall be stayed pending such appeal.
+
+##### Article 170
+
+A third party may claim the expenses for producing documents.
+
+Article 155 shall apply mutatis mutandis to the circumstance provided in the preceding Paragraph.
+
+##### Article 171
+
+The authenticity of a document may be proven by comparing the handwriting or the impression of seals.
+
+The administrative court may order the parties or a third party to produce documents which may be used for making the comparison. The provisions regarding inspection shall apply to any comparison of handwriting or seal impressions.
+
+##### Article 172
+
+Where there is no suitable handwriting available for comparison, the administrative court may order the person in whose name the document is issued to write the words designated by the court for the purpose of comparison.
+
+Where the person in whose name a document is issued disobeys the order provided in the preceding Paragraph without giving a justifiable reason, Article 165 or Article 169 shall apply mutatis mutandis.
+
+The words written for the purpose of comparison shall be annexed to the transcript; the same applies to other documents which are produced for the purpose of comparison and need not be returned.
+
+##### Article 173
+
+The provisions of this Act concerning documents shall apply mutatis mutandis to non-documentary objects which have the same function as documents.
+
+Where the content of a document or an object provided in the preceding Paragraph is accessible only through technological devices or it is practically difficult to produce its original version, a writing representing its content along with a proof of the content represented as being true to the original version will be acceptable.
+
+##### Article 174
+
+Articles 164 to 170 inclusive shall apply mutatis mutandis to inspection.
+
+##### Article 175
+
+The motion for the preservation of evidence shall be made after litigation has been initiated in the administrative court where the litigation is pending. Where litigation has not been initiated, such a motion shall be made in the district administrative court where the person to be examined domiciles/resides or where the tangible evidence is located.
+
+In urgent cases, a motion for the preservation of evidence may be made, even when the litigation has been initiated in the district administrative court provided in the preceding Paragraph.
+
+##### Article 175-1
+
+When the administrative court conducts the preservation of evidence, it may order a court administrator to assist the evidence-taking.
+
+##### Article 176
+
+The following provisions of the Code of Civil Procedure shall apply mutatis mutandis to the circumstances provided in this Section: Article 215, from Article 217 to Article 219, Article 278, Article 281, Article 282, from Article 284 to Article 286, from Article 291 to Article 293, Article 295, Article 296, Article 296-1, from Article 298 to Article 301, Article 304, Article 309, Article 310, Article 313, Article 313-1, from Article 316 to Article 319, Article 321, Article 322, from Article 325 to Article 327, from Article 331 to Article 337, Article 339, from Article 341 to Article 343, from Article 352 to Article 358, Article 361, from Article 364 to Article 366, Article 368, from Article 370 to Article 376-2.
+
+#### Section 5 Stay of Litigation Proceedings
+
+##### Article 177
+
+When the decision on an administrative litigation is premised upon the existence or non-existence of civil legal relations to be determined in another litigation which is pending and not concluded, the administrative court shall by a ruling stay the proceeding.
+
+In addition to the circumstances provided in the preceding Paragraph, if there is another civil, criminal or other administrative litigation that is relevant to the decision of the administrative litigation, the administrative court shall by a ruling stay the proceeding until the civil, criminal or other administrative litigation is concluded.
+
+##### Article 178
+
+(Repealed.)
+
+##### Article 178-1
+
+An administrative court shall stay the proceeding by a ruling when it opines that the statutory law applicable to the litigation is unconstitutional and applies to the Constitutional Court for a judgment that declares the statutory law as unconstitutional.
+
+##### Article 179
+
+When a person who becomes party to a litigation on behalf of another person in his/her own name based on a certain qualification either loses such qualification or dies, the proceeding shall be stayed automatically until another person with the same qualification assumes the litigation.
+
+When all of the appointed or designated persons to be parties to litigation as provided in Article 29 lose their qualification, the proceeding shall be stayed automatically until all of the parties sharing the same interests, or a newly appointed or designated person to be party to litigation assume the action.
+
+##### Article 180
+
+Article 179 does not apply where the party concerned is represented by an advocate; in such cases, however, the administrative court may rule, in its discretion, to stay the proceeding.
+
+##### Article 181
+
+After the proceeding is stayed, a person assuming the litigation in accordance with the applicable laws shall submit statement for assumption of the litigation as soon as he/she is able to assume the litigation.
+
+The opposing party may also submit statement for assumption of the litigation.
+
+##### Article 182
+
+When the proceeding is stayed automatically or by a ruling, neither the administrative court nor the parties may conduct acts of litigation concerning the principal case. Notwithstanding, if the proceeding is stayed automatically after the conclusion of the oral-argument sessions, the decision based on such oral argument may be announced.
+
+When the proceeding is stayed automatically or by a ruling, all relevant periods of time shall cease to run, and then continue to run from the end of the stay.
+
+##### Article 183
+
+The parties may stay the proceeding by consent, except that the stay is detrimental to protecting the public interest.
+
+The consent provided in the preceding Paragraph shall be notified by both parties to the administrative court.
+
+If the administrative court determines that the consent provided in the first Paragraph is detrimental to protecting the public interest, the court shall order by a ruling within one month to continue the litigation.
+
+No appeal may be taken from the ruling provided in the preceding Paragraph.
+
+The running of a peremptory period shall not be affected by the stay by consent provided in Paragraph 1.
+
+##### Article 184
+
+In addition to the ruling provide in Paragraph 3 of the preceding Article, if the parties who consented to stay the proceeding fail to continue the proceeding within four months after notifying such consent to the court, the case shall be deemed dismissed voluntarily. The parties may stay the proceeding by consent again only for another time, after continuing the proceeding from a stay by consent. If the parties notify the court again to stay the proceeding by consent, the case shall be deemed dismissed voluntarily.
+
+##### Article 185
+
+The fact that both parties failed to appear in the oral-argument sessions without giving a justifiable reason will be deemed a consent to stay the proceeding, unless the stay is detrimental to protecting the public interest. If the parties fail to continue the proceeding within four months thereafter, the case will be deemed dismissed involuntarily. Nonetheless, the administrative court may, as it considers necessary, continue the proceeding on its own initiative.
+
+When the administrative court orders to continue the litigation in accordance with the proviso of the preceding Paragraph, if both parties still fail to appear without giving a justifiable reason, the case shall be deemed dismissed voluntarily.
+
+When the administrative court deems that the stay of proceeding as provided in the first Paragraph is detrimental to protecting the public interest, unless otherwise provided in applicable laws, the court shall order by a ruling to continue the action within one month after such date.
+
+No appeal may be taken from the ruling provided in the preceding Paragraph.
+
+##### Article 186
+
+Articles 168 to 171 inclusive, Article 173, Article 174, Articles 176 to 181 inclusive, Articles 185 to 187 inclusive, of the Code of Civil Procedure shall apply mutatis mutandis to the circumstances provided in this Section.
+
+#### Section 6 Decision
+
+##### Article 187
+
+Except for decisions to be rendered in the form of a judgment as provided by this Act, all decisions shall be made in the form of a ruling.
+
+##### Article 188
+
+Unless otherwise provided, a decision of an administrative litigation shall be based on the parties' oral arguments.
+
+For a judge who did not participate in the oral argument session on which a decision is based, he/she may not participate in making the decision.
+
+A ruling may be made without oral argument session.
+
+Unless otherwise provided, where a ruling is made without oral argument session, the court may order the persons who have interests in the litigation to present their statements in writing or oral.
+
+##### Article 189
+
+Unless otherwise provided, in making a decision, the administrative court shall take into consideration the entire purport of the oral argument and the result of evidence-taking and apply the rules of logic and experience in determining the facts.
+
+Where a party has proven injury but is unable to or is under great difficulty to prove the exact amount, the court shall, taking into consideration all circumstances, determine the amount by its evaluation.
+
+The judgment shall specify the reasons on which the evaluation is based.
+
+##### Article 190
+
+Where the administrative litigation is mature for decision, the administrative court shall render a final judgment.
+
+##### Article 191
+
+Where part of a claim or one of several claims raised in the litigation is mature for decision, the administrative court may enter a partial final judgment.
+
+The preceding Paragraph shall apply mutatis mutandis to cases where one of several litigations ordered to be argued jointly is mature for decision.
+
+##### Article 192
+
+Where one of the grounds of attack or defense presented separately is mature for decision, the administrative court may enter an interlocutory judgment; the same applies to cases where the ground and amount of a claim are both disputed and the administrative court finds the ground just.
+
+##### Article 193
+
+Where a procedural issue relating to the administrative litigation proceedings is mature for a decision, the administrative court may first enter a ruling on such issue.
+
+##### Article 194
+
+Where the administrative litigation is related to the protection of public interest and both parties fail to appear in the oral argument session without giving a justifiable reason, the administrative court may, on its own initiative, investigate the facts and enter a judgment without oral argument session.
+
+##### Article 194-1
+
+If a party refuses to make statements during oral arguments, such refusal shall be deemed an absence. The same applies to the circumstances where the agent of litigation for a party fails to participate in an oral argument governed by the first Paragraph of Article 49-1.
+
+##### Article 195
+
+Where the administrative court determines that the plaintiff's claim is meritorious, unless otherwise provided, the court shall render a judgment in favor of the plaintiff; where the claim is determined meritless, the court shall render a judgement to dismiss the case.
+
+In a litigation of revocation, if the judgment is to amend the original disposition or decision, the judgement cannot be made in a manner less favorable to the plaintiff than the original disposition or the decision.
+
+##### Article 196
+
+Where the administrative disposition has been executed and the administrative court enters a judgement to revoke the administrative disposition, the court may, on motion by the plaintiff and as it deems appropriate, rule in the judgment that the government agency shall take appropriate measures for restoration.
+
+In the course of a litigation of revocation, if the original disposition has been executed and there is no likelihood for restoration or the disposition has voided, in cases where the plaintiff has legal interests in the declaratory judgment, the administrative court may, on motion, rule to declare the administrative disposition illegal.
+
+##### Article 197
+
+In a litigation of revocation, if the subject matter of the administrative disposition concerns payment of cash or other replaceable things or confirmation thereof, the administrative court may order payment of a different confirmed amount or a different confirmation.
+
+##### Article 198
+
+Where the administrative court adjudicates a litigation of revocation and finds that although the original disposition or decision is illegal but the revocation or amendment of the disposition will be materially detrimental to the public interest, the court may dismiss the plaintiff's case if it deems that the revocation or amendment of the original disposition or decision is manifestly contrary to the public interest after considering the harm suffered by the plaintiff, the compensation degree, measures of prevention and all other circumstances.
+
+In the preceding Paragraph, it should be declared in the main text of the judgment that the original disposition or decision is illegal.
+
+##### Article 199
+
+Where the administrative court renders a judgment as prescribed in the preceding Article, the court shall order the defendant agency to provide compensation to the loss suffered as a result of the illegal disposition or decision in accordance with the plaintiff's statement.
+
+If the plaintiff fails to raise the statement as provided in the preceding Paragraph, it may claim for damage award with the administrative court within one year after the judgement provided in the preceding Article becomes binding.
+
+##### Article 200
+
+In a litigation initiated by a person pursuant to Article 5 demanding for an administrative disposition or an administrative disposition with certain content, the administrative court shall render a decision in the following manners:
+
+\1. Where the plaintiff's claim is not in conformity with the applicable laws, the court shall dismiss the case by a ruling.
+
+\2. Where the plaintiff's claim is meritless, the court shall dismiss the case by a judgment.
+
+\3. Where the plaintiff's claim is meritorious and the facts and evidence of the claim are clear, the court shall order the government agency to render the requested administrative disposition as the plaintiff has petitioned.
+
+\4. Where the plaintiff's claim is meritorious but the facts and evidence of the claim are still unclear and concerns the discretion of the administrative agency, the court shall order the administrative agency to render a decision in response to the plaintiff's claim in line with the legal opinion stated in the judgment.
+
+##### Article 201
+
+Where an administrative disposition was rendered by the administrative agency ex officio, the administrative court may revoke such disposition only when the acts or omission of acts exceed its powers or constitute an abuse of powers.
+
+##### Article 202
+
+Where a party has either abandoned or admitted the claim during oral argument session, the administrative court shall, based on such abandonment or admission, enter a judgment against such party provided that the party has the authority in disposing of the right of the claim and no public interest is involved.
+
+##### Article 203
+
+If there is change of circumstances which was not predictable then after the constitution of a contract under public law, and if the performance of the original obligation arising therefrom will become obviously unfair, the administrative court may, on motion by a party, render a judgement for increasing or reducing the payment, or altering or lifting the original obligation.
+
+If a party is an administrative agency, it may initiate the motion as provided in the preceding Paragraph for the purpose of preventing or avoiding causing manifest harm to the public interest.
+
+The preceding two Paragraphs shall apply mutatis mutandis to pecuniary award occurred as a result of other grounds in public law.
+
+##### Article 204
+
+Judgments shall be published; judgments for which oral arguments were conducted shall be announced except for cases where parties explicitly express his or her absence on or fail to appear on the announcement day.
+
+A judgment shall be announced on the day of the last oral-argument session or on a later date that is designated on the day of the last oral-argument session.
+
+The date designated for announcing the judgment provided in the preceding Paragraph shall be no later than three weeks from the day of the conclusion of the oral argument session, except where cases are complex or there exist special circumstances.
+
+The publication of a judgment shall be made by publishing the main text of the judgment on the administrative court's bulletin board or posting it on the administrative court's website. The administrative court clerk shall produce a report evidencing such fact noting the hour, date, month and year and attach such report in the dossier.
+
+##### Article 205
+
+A judgment announced will take effect irrespective of whether the parties appear in person to hear the announcement.
+
+After a judgment is announced or published, the parties may, without waiting for its service, conduct acts of litigation on the basis of such judgment.
+
+##### Article 206
+
+The administrative court rendering the judgment becomes self-bound after the judgment is announced; in cases where no announcement is made, it becomes self-bound after the judgment is published.
+
+##### Article 207
+
+A ruling made with oral argument shall be announced. Notwithstanding, in cases where the parties explicitly express his or her absence or fail to appear on the announcement day, the ruling may be instead published.
+
+A ruling which concludes a litigation shall be published.
+
+##### Article 208
+
+The administrative court, the presiding judge, commissioned judge or assigned judge who enters a ruling becomes self-bound after such ruling is announced; in cases where a ruling is not announced, it becomes self-bound after such ruling is published or served. Notwithstanding, the above provision does not apply to a ruling concerning the direction of proceedings or conditions otherwise provided.
+
+##### Article 209
+
+Judgment shall be made in a written form, indicating the following matters:
+
+\1. The full name and domicile or residence of the parties; in case of a juridical person, agency or association, its name and location, principal office or place of business;
+
+\2. The full name and domicile or residence of such party's statutory agent, representative or administrator;
+
+\3. The full name and domicile or residence of the advocate, if any;
+
+\4. In the case of a judgment based on oral argument, the date of the conclusion of the oral argument session;
+
+\5. The main text;
+
+\6. The facts;
+
+\7. The reasons;
+
+\8. The date, month and year; and
+
+\9. The administrative court.
+
+Under the heading "facts", the parties' statements and purport of the means of attack or defense presented at the oral-argument sessions shall be indicated; when necessary, pleadings, transcripts and other documents may be appended to the judgment.
+
+Under the heading "reasons", the court's opinion on the means of attack or defense and legal opinion shall be indicated.
+
+##### Article 210
+
+Authenticated copies of the judgment shall be served upon parties.  Upon consent by the party to be served, authenticated copy of the judgement can be a record in  electronic form, except that service of judgement upon a prisoner cannot be made by delivering electronic record.
+
+The service provided in the preceding Paragraph shall be effectuated no later than ten days from the day when the administrative court clerk received the original copy of the judgment.
+
+Where an appeal may be taken from a judgment, the period of time within which an appeal may be taken, and the administrative court to which the appeal pleading shall be submitted, shall be indicated in the authenticated copies of the judgment to be served upon the parties.
+
+Where the period of time notified in the preceding Paragraph is incorrect and is shorter than the period fixed in applicable laws, such legally prescribed period shall prevail. Where the period of time notified is longer than the period fixed in applicable laws, the administrative court clerk shall issue a notice to rectify the time period no later than twenty days after the authenticated copy of the judgment is served and the period fixed in applicable laws shall run from the date after the notice to rectify the time period is served.
+
+Where a party does not observe the period for taking an appeal from a judgment due to the failure by the administrative court to notify in accordance with Paragraph 3, or in case of error of notification, a notice to rectify was not issued in accordance with the preceding Paragraph, it should be regarded as a reason not imputable to such party and such party may move for restoration to status quo ante within one year after the judgement is served in accordance with Article 91.
+
+##### Article 211
+
+A judgment from which no appeal may be taken shall not be affected by reasons of an incorrect notice.
+
+##### Article 212
+
+A judgment becomes binding upon the expiration of the period of time for taking an appeal from a judgment. Notwithstanding, a timely appeal taken from a judgment in conformity with the law shall prevent that judgment from becoming binding.
+
+A judgment from which no appeal may be taken becomes binding upon its announcement, or, if it is not announced, upon its publication.
+
+##### Article 213
+
+Res judicata exists as to a claim adjudicated in a final judgment with binding effect.
+
+##### Article 214
+
+In addition to all parties, a judgment with binding effect is binding on a person who becomes a party's successor after the initiation of the litigation and on a person who possesses the claimed object for the parties or their successors.
+
+A judgment with binding effect in which a party has acted as the plaintiff or the defendant for another person is also binding on such other person.
+
+##### Article 215
+
+A judgement which revokes or amends the original administrative disposition or decision shall also be binding on a third party.
+
+##### Article 216
+
+A judgement which revokes or amends the original administrative disposition or decision shall also be binding on all relevant government agencies for the same matter.
+
+Where the original administrative disposition or decision is revoked by a judgment and the government agency is ordered to render a new administrative disposition or decision, it shall be made in line with the instruction of the judgment.
+
+Where the judgment provided in the preceding two Paragraphs points out that the legal opinion relied upon by the government agency is incorrect, the government agency shall be bound by the judgement and should not render a contrary or deviated decision or disposition.
+
+The preceding three Paragraphs shall apply mutatis mutandis to other types of litigations.
+
+##### Article 217
+
+Paragraphs 2 to 4 inclusive of Article 204, Article 205, Article 210 of this Act and Article 228 of the Code of Civil Procedure shall apply mutatis mutandis to a ruling.
+
+##### Article 218
+
+Article 244, Article 227, Article 228, Article 230, Article 232, Article 233, Article 236, Article 237, Article 240, Article 385, Article 386, Article 388, Paragraphs 1 and 2 of Article 396, and Article 399 of the Code of Civil Procedure shall apply mutatis mutandis to the circumstances as provided in this Section.
+
+#### Section 7 Settlement
+
+##### Article 219
+
+If a party to the litigation has the right to dispose of the subject matter and the settlement does not harm the public interest, the administrative court may attempt to mediate a settlement at any time, irrespective of the phase of the proceeding. If necessary, the settlement may include matters that are not the subject matter of the litigation.
+
+The commissioned or assigned judge of the administrative court may also attempt to mediate a settlement referred to in the preceding Paragraph.
+
+A third party may participate in the settlement with permission granted by the administrative court. If the administrative court considers it necessary, it may instruct a third party to participate in the settlement.
+
+##### Article 220
+
+For purposes of seeking settlement, the parties or their statutory agents, representatives or administrators may be ordered to appear in person.
+
+##### Article 221
+
+Where settlement is reached, a settlement transcript shall be made.
+
+Articles 128 to 130 inclusive of this Act and Articles 214, Article 215, Articles 217 to 219 inclusive of the Code of Civil Procedure shall apply mutatis mutandis to the transcript provided in the preceding Paragraph.
+
+Within ten days from the day when settlement is reached, an authenticated copy of the settlement transcript shall be served upon the parties and any third party who participates in the settlement.
+
+##### Article 222
+
+Where a settlement is reached, Article 213, Article 214 and Article 216 shall apply mutatis mutandis to its effect.
+
+##### Article 223
+
+Where grounds exist for nullifying or revoking the settlement, a party may move for continuing the litigation proceeding.
+
+##### Article 224
+
+A motion for continuing the litigation proceeding must be initiated within a peremptory period of thirty days.
+
+The period provided in the preceding Paragraph starts to run from the time when the settlement is reached, or from the time when the ground for nullifying or revoking the settlement became known at a later date.
+
+A motion for continuing the litigation proceeding may not be initiated after a period of three years has elapsed from the time when the settlement is reached, except where the parties have claimed that they were not legally represented.
+
+##### Article 225
+
+Where the motion for continuing the litigation proceeding is not in conformity with the applicable laws, the administrative court shall rule to dismiss the motion by a ruling.
+
+Where the motion for continuing the litigation proceeding is meritless, the court may rule to dismiss the motion by a judgement without conducting oral arguments.
+
+##### Article 226
+
+Where the terms of the settlement have been revised as a result of the motion for continuing the litigation proceeding, Article 282 shall apply mutatis mutandis.
+
+##### Article 227
+
+If a settlement between the parties and a third party is invalid, or grounds exist for revoking such a settlement, a litigation may be initiated in the original administrative court seeking a declaratory judgment that the settlement is invalid or to seek a judgment to revoke the settlement.
+
+For the situation referred to in the preceding Paragraph, a party to the litigation may move to consolidate the adjudication of the aforesaid litigation with that of the original litigation.
+
+##### Article 228
+
+Articles 224 to 226 shall apply mutatis mutandis to the circumstances prescribed in Paragraph 1 of the preceding Article.
+
+##### Article 228-1
+
+The following provisions of the Code of Civil Procedure shall apply mutatis mutandis to the circumstances provided in this Section: Article 377-1, Article 377-2, and Article 380, Paragraph 3.
+
+#### Section 8 Mediation
+
+##### Article 228-2
+
+When a party to the litigation has the right to dispose of the subject matter of the litigation, and the mediation of the litigation does not harm the public interest, the administrative court may, at the consent of both parties to the litigation, move the case to mediation when the case is pending.
+
+The commissioned or assigned judge of the administrative court may also attempt to mediate the case, as referred to in the preceding Paragraph.
+
+When necessary, mediation may include matters that are not the subject matter of the litigation.
+
+With permission granted by the administrative court, a third party may participate in the mediation. If the administrative court considers it necessary, it may instruct a third party to participate in mediation on its initiative or upon the application of a party.
+
+##### Article 228-3
+
+The original administrative court or the commissioned or assigned judge of the administrative court may appoint one to three mediators to mediate the case without judges. Mediators may request the presence of judges after mediation or in other circumstances. Judges may mediate a case directly whenever they consider it appropriate.
+
+When parties to the litigation object to the mediators appointed by judges per the preceding Paragraph, judges may appoint other mediators.
+
+##### Article 228-4
+
+The administrative court should prepare a roster of individuals who are fit to serve as mediators so that judges find it convenient to appoint them. The Judicial Yuan shall determine the qualifications, periods of service, appointment, firing, information that shall be disclosed, per diem, travel expenses, compensation, etc.
+
+When a judge finds it necessary in a matter of mediation, he or she may appoint as mediator a person not listed on the roster referred to in the preceding Paragraph.
+
+The per diem, travel expenses and compensation are borne by the State.
+
+##### Article 228-5
+
+The following provisions of this Act shall apply mutatis mutandis to the circumstances provided in this Section: Article 85, Article 87, Paragraph 2, Article 87, Paragraph 3, Article 130-1, Article 220, Article 221, Paragraph 2, Article 221, Paragraph 3, from Article 222 to Article 228-1.
+
+##### Article 228-6
+
+The following provisions of the Code of Civil Procedure shall apply mutatis mutandis to the circumstances provided in this Section: Article 84, Paragraph 1, Article 407, Paragraph 1, Article 407-1, Article 410, Article 413, Article 414, Article 420, Article 420-1, Paragraph 2, Article 420-1, Paragraph 1, Article 422, and Article 426.
+
+### Chapter II Small Claims Proceeding
+
+##### Article 229
+
+District administrative courts shall adjudicate the first instance of cases subject to small claims proceedings.
+
+The small claims proceeding, as provided for in this Chapter, shall apply to the following types of administrative litigation unless otherwise provided for in this Act:
+
+\1. Litigations concerning tax assessments where the amount of tax is not more than NT$500,000;
+
+\2. Litigations regarding objections to an administrative fine imposed by a government agency where the amount of the fine is not more than NT$ 400,000;
+
+\3. Other litigations concerning relationships in public law where the price of the property or the value of the claim is not more than NT$ 500,000.
+
+\4. Litigations concerning objections to disciplinary warnings, reprimands, the recording of points for violation, the recording of the times of the violation; reformatory courses, supplemental training classes, or similar minor disciplinary actions imposed by an administrative  agency;
+
+5.Litigations over administrative detention cases concerning the National Immigration Agency, the Ministry of the Interior (hereafter referred to as "the National Immigration Agency"), or a joint claim for a damage award or other pecuniary awards; and
+
+\6. Other circumstances in which the small claims proceeding shall apply pursuant to applicable laws.
+
+Where necessary, the Judicial Yuan may order a reduction in the amount provided in the preceding Paragraph to NT$ 250,000 or increase it to NT$ 750,000.
+
+The cases provided for in Subparagraph 5 of Paragraph 2 shall be adjudicated by district administrative courts where the person is currently or was detained, and Article 13 shall not apply. However, if the person has never been detained, the case shall be adjudicated by the district administrative court where the defendant agency is located.
+
+##### Article 230
+
+Where any of the litigations referred to in Paragraph 2 of the preceding Article, due to an amendment of the claim or partial withdrawal of the claim, becomes a matter that should be adjudicated by district administrative courts applying ordinary proceedings or as a matter of traffic adjudication, the matter should thereafter be adjudicated through ordinary proceedings or as a matter of traffic adjudication. The same applies when a new claim is added to the litigation, or a counterclaim is raised, and the oral argument and adjudication of such a new claim or counterclaim is combined with the original claim.
+
+In the situations referred to in the preceding Paragraph, if a high administrative court should adjudicate the whole or a part of the litigation, the district administrative court shall, through a court ruling, transfer the case to the high administrative court with jurisdiction.
+
+##### Article 231
+
+Initiation of the litigation and other statements or representations not presented at court sessions may be made orally.
+
+Where the litigation is initiated orally, the transcript shall be served upon the opposing party.
+
+##### Article 232
+
+Small claims proceedings are conducted by and before one judge.
+
+If the residence, place of work, office, principal place of work, or principal place of business of one party to the litigation is located too far from the court, at the discretion of the administrative court after consulting the party that has to travel a distance, small claims proceedings may be conducted through video-conferencing, circuit court, or other convenient manners. The standard by which to judge whether a region is too far away from the court, the manner of adjudication, and the court rules for circuit courts referred to in the preceding Paragraph shall be promulgated by the Judicial Yuan.
+
+##### Article 233
+
+The summons for the oral-argument session shall be served on the opposing party together with the pleadings or the transcript provided in Paragraph 2 of Article 231.
+
+In a summary proceeding for which oral arguments were conducted, a date for announcing the judgment shall be designated no later than two weeks from the day of the conclusion of the oral argument session, except where the cases are complex or there exist special circumstances.
+
+##### Article 234
+
+The judgment delivered by the court may state the facts and reasons under the same heading and may indicate only the relevant parts, leaving out the less relevant descriptions.
+
+District administrative courts may, when announcing the judgment, order the courtroom reporter to write down the minutes of the oral argument or judgment, the holding of the judgment, and the important facts and reasons, and do not enter a separate document for judgement.
+
+The minutes or their summary referred to in the preceding Paragraph should be noted separately, signed by the court reporter, and stamped with the court's seal.
+
+The service of the minutes or their summary referred to in Paragraph 2 has the same effect as the service of the judgment.
+
+##### Article 235
+
+(Repealed.)
+
+##### Article 235-1
+
+(Repealed.)
+
+##### Article 236
+
+Unless otherwise provided in this Chapter, the provisions of an ordinary proceeding shall apply to a summary proceeding.
+
+##### Article 236-1
+
+(Repealed.)
+
+##### Article 236-2
+
+(Repealed.)
+
+##### Article 237
+
+Article 430, Article 431 and Article 433 of the Code of Civil Procedure shall apply mutatis mutandis to the circumstances provided in this Chapter.
+
+### Chapter III Proceedings for Traffic Adjudication Cases
+
+##### Article 237-1
+
+Traffic adjudication cases regulated by this Act refer to the following matters:
+
+\1. A litigation of revocation or a litigation for declaratory judgment initiated against the decisions made pursuant to Article 8 and Paragraph 6 of Article 37 of the Road Traffic Management and Penalty Act;
+
+\2. A joint claim demanding for retrieval of the paid administrative fine, withheld driver license, taxi driver business registrations or vehicle license plates, that are related to the decision provided in the preceding Subparagraph.
+
+Where a litigation other than the litigations provided in the preceding Paragraph is initiated jointly, such litigation should be governed by the respective summary proceeding or ordinary proceeding.
+
+Article 237-2, Article 237-3, Paragraphs 1 and 2 of Article 237-4 shall apply mutatis mutandis to the circumstances provided in the preceding Paragraph.
+
+##### Article 237-2
+
+Traffic adjudication cases shall be adjudicated by the district administrative courts at the place of the plaintiff's residence, place of short stay, or place of current presence, or the place where the illegal acts were committed.
+
+##### Article 237-3
+
+Traffic adjudication cases shall be initiated, in the district administrative court with jurisdiction, against the administrative agency that made the administrative act.
+
+Litigation to revoke an administrative act in traffic adjudication cases shall be initiated within the thirty-day period of the service of the administrative act.
+
+In the litigation referred to in the preceding Paragraph, if the administrative agency that made the administrative act fails to notify the plaintiff or makes a wrong notification, causing the plaintiff to file a complaint with the administrative agency that made the administrative act within thirty days of the service of the administrative act, it shall not be considered a violation of the thirty-day requirement. The administrative agency receiving the complaint shall immediately transmit the complaint to the administrative court that has the jurisdiction.
+
+##### Article 237-4
+
+After receiving the complaint as provided for in the preceding Article, the district administrative court shall serve a duplicate copy of the complaint on the defendant.
+
+The defendant shall re-examine the lawfulness and appropriateness of the original decision within twenty days after receiving a duplicate copy of the complaint and take the following actions:
+
+\1. Where the plaintiff initiates litigation for revocation, if the defendant finds that the original decision is unlawful or inappropriate, the defendant shall revoke the original decision or amend the initial decision on its own but shall not render a decision that is more disadvantageous to the plaintiff;
+
+\2. Where the plaintiff initiates litigation for a declaratory judgment, if the defendant finds that the original decision is invalid or unlawful, the defendant shall so declare;
+
+\3. Where litigation demanding the performance of certain obligations is initiated by the plaintiff, if the defendant finds that the plaintiff's claim has merits, the defendant shall immediately perform the obligations; and
+
+\4. After re-examining the case, if the defendant determines not to take the measures as requested by the plaintiff, the defendant shall submit an answer together with the re-examination records and all other necessary relevant documents to the district administrative court that has jurisdiction.
+
+Where the defendant has taken measures per Subparagraphs 1 to 3 of the preceding Paragraph, the defendant shall promptly inform the district administrative court that has jurisdiction. Where the defendant has taken every measure requested by the plaintiff before the first-instance final decision takes effect, it shall be deemed that the plaintiff has voluntarily dismissed the case when the defendant informed the administrative litigation division of the district court with jurisdiction.
+
+##### Article 237-5
+
+Court costs will be collected for traffic adjudication cases in accordance with the following rules:
+
+\1. In initiating a litigation, court costs of NTD 300 shall be collected;
+
+\2. In initiating an appeal from judgment, court costs of NTD 750 shall be collected;
+
+\3. In initiating an appeal from ruling, court costs of NTD 300 shall be collected;
+
+\4. In initiating a rehearing, court costs shall be collected in accordance with Subparagraphs 1 and 2 based on the respective instance of the court with which the action is initiated; in initiating a rehearing against a ruling with binding effect, court costs of NTD 300 shall be collected; and
+
+\5. In initiating the motions in accordance with any of the Subparagraphs of Article 98-5 of this Act, court costs of NTD 300 shall be collected.
+
+For the cases of a voluntarily dismissal of case as provided in Paragraph 3 of the preceding Article, the court shall return on its own initiative the court costs that were paid.
+
+##### Article 237-6
+
+If a case, or part of it, falls outside the category of traffic adjudication cases due to an amendment or addition to the plaintiff's claim, the district administrative court shall adjudicate the case through small claims or ordinary proceedings. If the court has no jurisdiction to conduct an ordinary proceeding, the case shall be transferred through a court ruling to a high administrative court with jurisdiction.
+
+##### Article 237-7
+
+A decision of traffic adjudication cases may be rendered without conducting oral argument.
+
+##### Article 237-8
+
+When the administrative court renders a decision on litigation expenses, the amount of expenses shall be determined.
+
+In the circumstances provided in the preceding Paragraph, the administrative court may order the parties to submit the document calculating the expenses and the document explaining the expenses.
+
+##### Article 237-9
+
+The provisions concerning small claims proceedings shall apply mutatis mutandis to traffic adjudication cases unless otherwise provided in this Chapter.
+
+### Chapter IV Proceedings for Detention Sanction Cases
+
+##### Article 237-10
+
+Detention sanction cases regulated by this Act refer to the following matters:
+
+\1. An objection against the detention sanction, an application to continue the detention sanction or an application to extend the detention period initiated in accordance with the Immigration Act, the Act Governing Relations between the People of the Taiwan Area and the Mainland Area and the Laws and Regulations Regarding Hong Kong and Macao Affairs.
+
+\2. A petition to cease detention initiated in accordance with this Act.
+
+##### Article 237-11
+
+District administrative courts shall adjudicate the first instance of detention sanction cases.
+
+Despite Article 13 of this Act, the cases provided in the preceding Paragraph shall be adjudicated by the district administrative court where the detained person is located.
+
+##### Article 237-12
+
+When the administrative court reviews the cases concerning an objection against the detention sanction, a petition to continue the detention sanction or a petition to extend the detention period, the court shall examine the person detained; the National Immigration Agency shall also appear to present its statement.
+
+When the administrative court reviews the cases as provided in the preceding Paragraph, the court may seek opinion of the National Immigration Agency, Ministry of the Interior, to explore the possibility of other alternative measures in lieu of a detention sanction in order to consider the necessity of the detention sanction.
+
+##### Article 237-13
+
+After the administrative court determines to continue the detention or to extend the detention period, the person detained and the person who is eligible to raise an objection against the detention sanction may move the court to cease the detention sanction alleging that the grounds for detention have vanished, there is no necessity for detention or there are reasons that detention shall be prohibited.
+
+When the administrative court reviews the cases as provided in the preceding Paragraph and deems it necessary, the court may examine the person detained or to seek opinion of the National Immigration Agency; in such circumstances, Paragraph 2 of the preceding Article shall apply mutatis mutandis.
+
+##### Article 237-14
+
+Where the administrative court determines that the objection against the detention sanction and the petition to cease detention are meritless, the court shall rule to dismiss the case by a ruling. If the court determines that the petitions are meritorious, it shall render a ruling to release the person detained.
+
+Where the administrative court determines that the petition to continue the detention and the petition to extend the detention period are meritless, the court shall rule to dismiss the case by a ruling. If the court determines that the petitions are meritorious, the court shall render a ruling to continue the detention or to extend the detention period.
+
+##### Article 237-15
+
+Where the administrative court renders a ruling to continue the detention or to extend the detention period, the court shall announce the decision during the court hearing prior to the expiration of the detention period or serve the authenticated copy of the ruling on the person detained.  If the court fails to conduct the actions prior to the expiration of the detention period, it should be regarded that the ruling which orders to continue the detention or to extend the detention period is revoked.
+
+When the authenticated copy of the preceding paragraph is made in electronic files, the court shall request the chief officer at the detention place to print out a copy of the ruling and serve the same on the person detained to effectuate service.
+
+##### Article 237-16
+
+If a petitioner, the person against whom the ruling is rendered, or the National Immigration Agency intends to appeal against the ruling rendered by a district administrative court, the appeal shall be filed at the High Administrative Court with jurisdiction within five days of the service of the ruling. No appeal may be made against the ruling rendered by an appellate court.
+
+Unless otherwise provided for in the preceding Paragraph, Part Four shall apply mutatis mutandis to the appeal against rulings.
+
+If a ruling concerning a detention sanction case becomes final and there are circumstances provided for in Article 273, applications for rehearing may be initiated, to which Part Five shall apply mutatis mutandis.
+
+##### Article 237-17
+
+Provisions of Section 5 of Chapter 4 of Part I concerning litigation expenses shall not apply to the detention sanction cases under the review of the administrative court, except for fees collected under Subparagraph 1 of Paragraph 1 of Article 98-6.
+
+Unless otherwise provided in this Chapter, the provisions concerning summary proceeding shall apply mutatis mutandis to detention sanction cases.
+
+### Chapter V The Review Procedure of Urban Planning
+
+##### Article 237-18
+
+Any individual person, local self-governing body or other public juridical persons, whose rights or legal interests are jeopardized as a direct result of the Urban Plan, or as a result of the application of the Urban Plan, or is likely to be jeopardized within an expected period of time by the Urban Plan announced by the competent administrative agency in accordance with the Urban Planning Law, has the right to initiate a litigation in accordance with this Chapter against the agency which approved the Urban Plan in the High Administrative Court which has jurisdiction over the case and to claim for the declaration by court that the Urban Plan is invalid.
+
+The litigation cannot be consolidated with other litigations which are not subject to the procedure in accordance with this Chapter.
+
+##### Article 237-19
+
+Any litigation initiated in accordance with the preceding Article shall be exclusively governed by the High Administrative Court at the location of the Urban Plan.
+
+##### Article 237-20
+
+Any litigation initiated in accordance with this Chapter is subject to a preemptory period of one year after the Urban Plan is announced. If the unlawful grounds occur after the announcement of the Urban Plan, the preemptory period commences from the time of occurrence of the unlawful grounds.
+
+##### Article 237-21
+
+The High Administrative Court, after receiving the complaint, shall serve a duplicate copy of the complaint to the defendant.
+
+The defendant shall re-examine the lawfulness of the Urban Plan sought to be declared invalid by the plaintiff within two months after receiving a duplicate copy of the complaint, and shall act in accordance with the followings:
+
+\1. If the defendant finds that the Urban Plan has been made in violation of applicable procedure but such defective procedure can be corrected, it shall correct the defective procedure and inform the High Administrative Court;
+
+\2. If the defendant finds that the Urban Plan is unlawful, it shall report to the High Administrative Court regarding the unlawful grounds and adopt necessary measures;
+
+\3. If the defendant confirms that the Urban Plan is lawful, it shall provide explanation in its answer.
+
+The defendant shall provide an answer along with the original Urban Plan, its re-examination file and other necessary documents to the High Administrative Court which has jurisdiction over the litigation. The defendant shall also submit to the court all other materials which are inseparable from the Urban Plan sought to be declared invalid.
+
+##### Article 237-22
+
+The provisions stipulated in Section 4, Chapter 3 of the preceding Part in relation to intervention are not applicable to cases under the Review Procedure of Urban Planning that are adjudicated by the High Administrative Court.
+
+##### Article 237-23
+
+The High Administrative Court may, at its discretion, order a third party to intervene in the litigation or grant the motion for intervention by a third party, if it finds that such third party's rights or legal interests would be directly jeopardized if the Urban Plan is declared invalid or illegal.
+
+Paragraph 2 of Article 42, Article 43, Article 45 and Article 47 shall apply mutatis mutandis to the circumstances prescribed in the preceding Paragraph.
+
+The parties who intervene in a litigation in accordance with Paragraph 1 of this Article are parties to the litigation.
+
+##### Article 237-24
+
+For cases under the Review Procedure of Urban Planning, the High Administrative Court may, at its discretion, order a third party to intervene in the litigation if such third party has interests in the litigation and it is necessary for such third party to assist either party in the litigation. A third party who has interests in the litigation may also apply to intervene in the litigation.
+
+Articles 59 to 61 inclusive, and Articles 63 to 67 inclusive of the Code of Civil Procedure shall apply mutatis mutandis to the circumstances prescribed in the preceding Paragraph.
+
+##### Article 237-25
+
+In adjudicating the cases under the Review Procedure of Urban Planning, the High Administrative Court shall order ex officio the agency which proposed the Urban Plan and the agency which announced the Urban Plan to appear at the court session to give statement, and the Court may, at its discretion, notify the administrative agency whose authority is likely to be affected by the Urban Plan to appear at the court session to give statement. The administrative agency whose authority is likely to be affected by the Urban Plan may file a motion to appear at the court session to give statement.
+
+##### Article 237-26
+
+If, when a case reviewing an urban plan is pending at the Court and has not been concluded, if the same urban plan was declared unconstitutional by a judgment rendered by the Constitutional Court, the High Administrative Court may, at its discretion, stay the proceeding by a ruling pending the conclusion of the judicial interpretation.
+
+##### Article 237-27
+
+If the High Administrative Court determines that the Urban Plan is not unlawful, it shall dismiss the plaintiff's case by a judgement. The same shall apply when the Urban Plan is found violating procedural rules and such violation has been corrected in a lawful manner prior to the conclusion of the oral-argument session in the first instance.
+
+##### Article 237-28
+
+If the High Administrative Court determines that the Urban Plan sought to be declared invalid is unlawful, the Court shall declare the Urban Plan invalid. If the Court determines that matters in the same Urban Plan that are not sought to be declared invalid but are inseparable from the portion sought to be declared invalid, are unlawful, the Court shall simultaneously declare such matters invalid.
+
+In the circumstances prescribed in the preceding Paragraph, if the unlawful grounds occur after the Urban Plan has been announced, the Court shall declare that the Urban Plan is invalid starting from the date of occurrence of such unlawful grounds.
+
+If the Urban Plan is unlawful and the only legal consequence is to declare such Urban Plan unlawful pursuant to the applicable laws, the Court shall declare the Urban Plan unlawful.
+
+The judgment with binding effect rendered pursuant to the three preceding Paragraphs shall have legal effect upon third parties.
+
+In the circumstances prescribed in Paragraph 1 of this Article, if the Court determines that another Urban Plan that is inseparable from the portion sought to be declared invalid is also unlawful, the Court may indicate its determination in the reasons of the judgement.
+
+##### Article 237-29
+
+For the Urban Plan that has been declared invalid or illegal by a judgment with binding effect, the authenticated copy of the judgement shall be served to the administrative agency which announced the Urban Plan, and such agency shall publicize the main text of the judgment by using the method adopted in announcing the Urban Plan.
+
+If the preceding judgement would render a criminal decision with binding effect unlawful, an extraordinary appeal may be filed pursuant to the Code of Criminal Procedure.
+
+The legal effect of the decision with binding effect outside the scope of the preceding Paragraph shall remain. However, for the part of the decision that has not been executed or the execution has not been completed, starting from the date when the judgment declaring the Urban Plan invalid becomes binding, no execution action shall be taken in relation to the part that has been declared invalid.
+
+The preceding Paragraph shall apply mutatis mutandis to the binding administrative dispositions rendered pursuant to the Urban Plan that has been declared invalid in accordance with Paragraph 1 of this Article in terms of its legal effect and subsequent execution.
+
+If an Urban Plan is declared unlawful in a binding judgment in accordance with Paragraph 3 of the preceding Article, the relevant administrative agencies shall take appropriate measures in accordance with the judgment.
+
+##### Article 237-30
+
+If there is necessity to prevent material harm or imminent danger caused by a disputed Urban Plan, a motion may be filed to the Administrative Court which has jurisdiction over the case to temporarily withhold the application or execution of the Urban Plan or to adopt other appropriate measures.
+
+Articles 295 to 297 inclusive, Paragraph 3 and Paragraph 4 of Article 298, Article 301 and Article 303 shall apply mutatis mutandis to the circumstances prescribed in the preceding Paragraph.
+
+Paragraph 1 of the preceding Article shall apply mutatis mutandis in circumstances where the Administrative Court grants the motion filed in accordance with Paragraph 1 of this Article. The same shall apply when the court ruling is reversed, amended or revoked.
+
+##### Article 237-31
+
+Unless otherwise provided in this Chapter, Chapter 1 of this Part shall apply mutatis mutandis to the Review Procedure of Urban Planning.
+
+## PART III APPELLATE PROCEDURE
+
+### Chapter I Appellate Procedure at the Supreme Administrative Court
+
+##### Article 238
+
+Unless otherwise provided for by law, an appeal to the Supreme Administrative Court may be taken against the final judgment entered by the High Administrative Court.
+
+No amendment, addition of claims, or counterclaim is allowed in the appellate procedure.
+
+##### Article 239
+
+Decisions made prior to the entry of the judgment provided in the preceding Article and involving such judgment shall be subject to the review by the Supreme Administrative Court, except those decisions which are not reviewable or from which an appeal from ruling may not be taken in accordance with the provisions of this Act.
+
+##### Article 240
+
+A party may waive the right to appeal from a judgment entered by the High Administrative Court after such judgment has been announced, published, or served.
+
+Waiver of the right to appeal from the judgment made orally by the party upon the announcement of the judgment shall be indicated in the oral-argument transcript, and in case the opposing party is not present, such transcript shall be served on the opposing party.
+
+##### Article 241
+
+An appeal from a judgment entered by the High Administrative Court must be filed within the peremptory period of twenty days following the service of such judgment. Notwithstanding, an appeal is also effective when taken after the judgment has been announced or published but before it is served.
+
+##### Article 241-1
+
+(Repealed.)
+
+##### Article 242
+
+No appeal may be taken from the judgment entered by the High Administrative Court except on the ground that the original judgment is in contravention of the laws and regulations.
+
+##### Article 243
+
+A judgment is in contravention of the laws and regulations if the applicable laws are not applied or are erroneously applied.
+
+A judgment is obviously in contravention of the laws and regulations in the following situations:
+
+\1. Where the court is not organized in conformity with the laws;
+
+\2. Where a judge who should have recused himself or herself under law or a judgment or ruling has participated in the trial or deliberation;
+
+\3. Where the administrative court lacks the subject matter jurisdiction or acts in violation of another court's exclusive jurisdiction; however, if there are other rules, such other rules prevail;
+
+\4. Where no agent or representative legally represent the parties in the litigation;
+
+\5. Where the court violates the requirement that the oral argument be open to the public;
+
+\6. Where the judgment does not provide reasons or provides contradictory reasons.
+
+##### Article 244
+
+An appeal against a judgment shall be filed by submitting a notice of appeal to the High Administrative Court which rendered the judgment specifying the following matters:
+
+\1. the parties;
+
+\2. the judgment rendered by the High Administrative Court and a statement that the appeal is filed against such judgment;
+
+\3. the extent of the appeal against the High Administrative Court judgment and the statement on how such judgment should be rescinded or amended; and
+
+\4. the reasons for the appeal.
+
+The reasons for the appeal referred to in the preceding Paragraph shall clearly set out the information referred to in the following subparagraphs:
+
+\1. the laws and regulations violated by the appealed judgment, and the specific details of such violations; and
+
+\2. the specific facts of the judgment violating such laws and regulations that are demonstrated by the litigation materials.
+
+All necessary evidences in support of the reasons for the appeal shall be appended to the notice of appeal referred to in Paragraph 1.
+
+If a party is imprisoned in a prison or detained in a detention center and submitted a notice of appeal to an officer in charge of the prison or detention center within the period required for such appeals, such an appeal shall be deemed to be made within the period required for such appeals. The officer in charge of the prison or detention center shall note, on the notice of appeal, the year, month, date, and time of the receipt of such notice of appeal, and transmit the document to the original High Administrative Court.
+
+##### Article 245
+
+Where the appellant has failed to indicate the reasons for appeal in the notice of appeal taken from judgment, he/she shall supplement the reason for the appeal in writing to the High Administrative Court which entered the appealed judgment within twenty days after filing the appeal; where the appellant fails to do so, the High Administrative Court which entered the appealed judgment shall dismiss the appeal by a ruling without ordering rectification.
+
+Where an appeal taken from judgment is filed after the judgment has been announced or published but before it is served, the period provided in the preceding Paragraph shall start to run after the judgment is served.
+
+##### Article 246
+
+Where an appeal taken from judgment is not in conformity with the applicable laws and the defect is not rectifiable, the High Administrative Court which entered the appealed judgment shall dismiss the appeal by a ruling.
+
+Where an appeal taken from judgment is not in conformity with the applicable laws but the defect is rectifiable, the High Administrative Court which entered the appealed judgment shall order rectification within a prescribed period; where the appellant fails to rectify the defect within the prescribed period, the High Administrative Court which entered the appealed judgment shall dismiss the appeal by a ruling.
+
+##### Article 247
+
+If an appeal taken from judgment is not dismissed in accordance with the provision of the preceding Article, the High Administrative Court shall promptly serve the notice of appeal upon the appellee.
+
+Within fifteen days following the service of the notice of appeal or the pleadings as provided in Paragraph 1 of Article 245 containing reasons for appeal, the appellee may submit an answer to the High Administrative Court which entered the appealed judgment.
+
+After receiving the answer or after the period provided in the preceding Paragraph has expired, and after the period for appeal taken from judgment of each party has expired, the High Administrative Court shall forward the dossier to the Supreme Administrative Court.
+
+The High Administrative Court shall, where necessary, for its own use, prepare a written copy, photocopy, or extract copy of the dossier to be forwarded in accordance with the provision of the preceding Paragraph.
+
+##### Article 248
+
+The appellee may submit answers and additional pleadings to the Supreme Administrative Court before a judgment is entered by the Supreme Administrative Court. The appellant may also submit additional pleadings with regard to the reasons for appeal.
+
+The Supreme Administrative Court may serve the pleadings provided in the preceding Paragraph upon the opposing party if it considers necessary to do so.
+
+##### Article 249
+
+If an appeal against a judgment is not made in conformity with the law, the Supreme Administrative Court shall dismiss the appeal by a ruling. However, if the defect is rectifiable, the presiding judge shall order rectification within a designated period before dismissing the appeal.
+
+In cases where the High Administrative Court which rendered the appealed judgment ordered rectification within a period for an appeal not in conformity with the law, and the appellant failed to rectify the defect within the period, the procedure provided in the proviso of the preceding Paragraph may be skipped.
+
+If the Supreme Administrative Court considers that an appellant makes an appeal out of malicious, improper, or other purpose to abuse the litigation procedure, or with gross negligence, and the factual or legal assertions lack reasonable basis, it shall dismiss the appeal by a ruling. However, if the defect is rectifiable, the presiding judge shall order rectification within a designated period before dismissing the appeal.
+
+If the Supreme Administrative Court dismisses an appeal pursuant to the preceding Paragraph, it may impose a fine up to 120,000 New Taiwan Dollars on the appellants, its representatives or administrators, and agents.
+
+Paragraph 5 and the first half of Paragraph 7 of Article 107 apply mutatis mutandis to the situations referred to in the preceding two paragraphs.
+
+##### Article 250
+
+The demand made by an appeal taken from judgment may not be amended or expanded.
+
+##### Article 251
+
+The Supreme Administrative Court shall conduct an investigation within the scope of the demand made by the appeal taken from judgment.
+
+In investigating whether the judgement rendered by the High Administrative Court is in contravention of the said laws and regulations, the Supreme Administrative Court is not bound by the reasons for appeal taken from judgment.
+
+##### Article 252
+
+(Repealed.)
+
+##### Article 253
+
+In any of the following circumstances, the judgment of the Supreme Administrative Court shall be rendered only after oral argument:
+
+\1. It is necessary to debate and clarify orally complicated legal relationships or conflicting legal opinions;
+
+\2. It is necessary to elaborate and clarify orally professional knowledge or special experiences;
+
+\3. It is necessary to conduct oral argument as public interest is implicated or the parties' rights and obligations are significantly affected.
+
+The rules governing how oral argument proceeds shall be promulgated by the Supreme Administrative Court.
+
+##### Article 253-1
+
+Oral argument shall proceed within the scope set out in the notice of appeal.
+
+If the appellee, the joined parties under Articles 41 and 42 do not designate an agent to the litigation, or an agent of a party to the litigation, is absent without legitimate reasons on the day of oral argument, the court may render a judgment on the basis of the statements made by the agents to the litigation that are present on the day of oral argument. If the agents of both parties to the litigation are absent without legitimate reasons on the day of oral argument, the court may render a judgment directly without oral argument.
+
+##### Article 254
+
+Unless otherwise provided, the Supreme Administrative Court shall base its judgment on the facts found in the judgment rendered by the High Administrative Court.
+
+If an appeal is taken against the judgment by reason of a violation of provisions regulating litigation proceedings, the Supreme Administrative Court may take into consideration the facts alleged regarding such violation; in cases where an appeal is taken against the judgment by reason of the illegal finding of facts or the illegal omission thereof, the Supreme Administrative Court may take into consideration the facts alleged.
+
+The Supreme Administrative Court may also take into consideration other materials that clarify or supplement the litigation relationship during oral argument.
+
+##### Article 255
+
+The Supreme Administrative Court shall enter a judgment dismissing an appeal taken from judgment if it finds such appeal meritless.
+
+An appeal taken from judgment shall be considered meritless where the judgment from which the appeal has been taken is found erroneous according to the reason given in such judgment but is found just according to other reasons.
+
+##### Article 256
+
+Upon finding the appeal taken from judgment meritorious, the Supreme Administrative Court shall reverse the relevant portion of the original judgment.
+
+Where the original judgment is reversed by reason of a violation of provisions regulating litigation proceeding, the defect in the litigation proceeding shall be deemed reversed as well.
+
+##### Article 256-1
+
+If the first instance of a case should have been a district administrative court, but a high administrative court adjudicates it during ordinary proceeding and renders a judgment, the Supreme Administrative Court may not rescind the original judgment on the ground that the High Administrative Court lacks jurisdiction.
+
+In the circumstance provided for in the preceding Paragraph, the Supreme Administrative Court shall render its judgment per the rules of the appellate procedure that should have been applied for such cases.
+
+##### Article 257
+
+The Supreme Administrative Court must not reverse the original judgment by reason that the High Administrative Court lacked jurisdiction except in cases of intrusion of the exclusive jurisdiction of another court.
+
+Where the original judgment is reversed on the ground that the High Administrative Court lacked jurisdiction, the court shall transfer the case by a judgment to the administrative court with jurisdiction.
+
+##### Article 258
+
+Except in the circumstances provided in Subparagraphs 1 to 5 inclusive of Paragraph 2 of Article 243, the original judgment must not be reversed where the contravention of the laws and regulations made by the High Administrative Court would have no adverse effect on the result of the decision.
+
+##### Article 259
+
+In any of the following circumstances, the Supreme Administrative Court shall render its own judgment after rescinding the original judgment:
+
+\1. where the original judgment is rescinded by reason of a failure to apply the law that should have been applied, or an erroneous application of the law, to the facts already found by the lower court or the facts which may be taken into consideration under the law, and the case may be decided on the basis of such facts; or
+
+\2. where the original judgment was a judgment on the merits but the case should have been dismissed on procedural grounds.
+
+##### Article 259-1
+
+If the Supreme Administrative Court dismisses an appeal, or rescinds a judgment and enters a judgment or ruling itself, and a judge expresses a legal opinion different from the majority opinion during deliberation, notes it in the deliberation records, and offers a written opinion within three days of deliberation, such legal opinion may be appended to the judgment or ruling. Any legal opinion not expressed or proffered within the deadline shall not be appended to the judgment or ruling.
+
+The rules implementing the preceding Paragraph are to be promulgated by the Supreme Administrative Court.
+
+##### Article 260
+
+Unless otherwise provided, where original judgment is reversed, the Supreme Administrative Court shall remand the case to the High Administrative Court which entered the appealed judgment or transfer the case to other High Administrative Courts.
+
+Where a case is remanded or transferred by a judgment as provided in the preceding Paragraph, detailed instructions shall be given with respect to the matters to be investigated by the High Administrative Court.
+
+The High Administrative Court to which the case is remanded or transferred shall enter a judgment based on the legal conclusions made by the Supreme Administrative Court as the reason for reversing the original judgment.
+
+##### Article 261
+
+In entering a judgment to remand or transfer a case, the Supreme Administrative Court shall promptly include in the dossier the authenticated copy of the written judgment and forward such dossier to the High Administrative Court to which the case is remanded or transferred.
+
+##### Article 261-1
+
+If the facts and reasoning that shall be set out in the judgments made by the Supreme Administrative Court are the same as those set out in the judgments made by the High Administrative Court, the Supreme Administrative Court may indicate such a circumstance and not set out the same facts and reasoning in their judgments.
+
+##### Article 262
+
+The appellant may voluntarily dismiss the appeal taken from judgment before the final judgment is entered or published.
+
+An appellant who voluntarily dismissed his/her appeal taken from judgment shall lose the right to appeal.
+
+A voluntary dismissal of appeal taken from judgment shall be made by pleadings. However, if the dismissal is made during an oral argument session, the dismissal may be made orally.
+
+A voluntary dismissal of appeal taken from judgment made orally during an oral argument session shall be indicated in the oral argument transcript and in the case where the opposing party was not present, such transcript shall be served on the opposing party.
+
+##### Article 263
+
+Unless otherwise provided in this Part, the provisions of Chapter 1 and Chapter 5 of the preceding Part shall apply mutatis mutandis to the appellate procedure in the Supreme Administrative Court.
+
+### Chapter II Appellate Procedure in the High Administrative Courts
+
+##### Article 263-1
+
+Unless otherwise provided for by law, the final judgments rendered by district administrative courts may be appealed to the relevant high administrative courts.
+
+No appeals may be made against second-instance judgments rendered by high administrative courts.
+
+##### Article 263-2
+
+High administrative courts may not rescind judgments rendered by district administrative courts only because the district administrative courts should have adjudicated such matters through small claims or traffic adjudication proceedings but through ordinary proceedings.
+
+High administrative courts may not rescind judgments rendered by district administrative courts only because the district administrative courts should have adjudicated such matters through traffic adjudication proceedings but through small claims proceedings.
+
+For the situations covered by the preceding two paragraphs, high administrative courts should adjudicate the case following the appellate procedure that shall apply to such cases.
+
+##### Article 263-3
+
+If a district administrative court adjudicates an ordinary proceeding case through small claims proceeding or traffic adjudication proceeding, or if a district administrative court adjudicates a small claims case through a traffic adjudication proceeding, the high administrative court adjudicating the appeals shall rescind the original judgment and remand the case to the district administrative court with jurisdiction.
+
+If a case of first instance that should be adjudicated by a high administrative court was adjudicated by a district administrative court, the high administrative court shall rescind the original judgment and make the first-instance judgment through an ordinary proceeding.
+
+If the parties to a litigation misuse the procedure provided for in the first Paragraph, state "no objection" to the jurisdictional error provided for in the second Paragraph, or make a substantive claim or statement when knowing or should have known the jurisdictional error and not objecting to such error, the high administrative court shall adjudicate the case and make a judgment or ruling per the appellate trials of the original procedure, rather than applying the preceding two paragraphs.
+
+##### Article 263-4
+
+During appellate trials, if a high administrative court considers it necessary to unify the opinions expressed in judgments or rulings, it shall, through a court ruling, set out the reasons for transferring the case to the Supreme Administrative Court.
+
+During appellate trials at a high administrative court, if a party to the litigation sees a difference in the legal opinions set out in previous judgments or rulings, and such legal opinions may affect the outcome of the litigation, the party to the litigation may apply to the high administrative court to transfer through a court ruling the case to the Supreme Administrative Court for adjudication. The procedure shall be governed by Article 15-4 of the Organization Act of Administrative Courts mutatis mutandis.
+
+No appeals may be made against the rulings transferring the case and the rulings dismissing applications as provided for in the preceding two paragraphs.
+
+Except for the preceding Paragraph, a division of the Supreme Administrative Court shall consult the other divisions of the Supreme Administrative Court in writing, and Articles 15-1, 15-2, from 15-5 to 15-11 shall apply mutatis mutandis.
+
+##### Article 263-5
+
+Except otherwise provided for in Article 259-1 and this Chapter, Chapter 1 of this Part and Chapter 1 of the preceding Part apply mutatis mutandis to the appellate trial proceedings of high administrative courts. In addition, Article 237-8 applies to the appeals of traffic adjudication cases.
+
+## PART IV APPEALS FROM RULINGS
+
+##### Article 264
+
+An appeal may be taken from a ruling unless otherwise provided.
+
+##### Article 265
+
+No appeals may be taken from rulings made during the litigation proceedings unless otherwise provided.
+
+##### Article 266
+
+No appeals may be made against the rulings made by a commissioned judge or a designated judge. However, if the ruling is made by the administrative court where the litigation is pending and an appeal is allowed under the law, an objection may be made to the administrative court where the litigation is pending.
+
+The rules governing the appeals against the same type of rulings shall apply mutatis mutandis to the objection referred to in the preceding Paragraph.
+
+Appeals may be made against rulings made by the administrative court where the litigation is pending under the rules of this Part.
+
+Objections may be made against rulings made by a commissioned judge or a designated judge for appellate cases pending at the administrative courts. The same applies to rulings made by a commissioned or designated judge for the first-instance procedures in administrative courts when no appeals against judgments may be made.
+
+##### Article 267
+
+An appeal taken from a ruling shall be decided by the immediate superior court.
+
+No re-appeal may be taken from the ruling made by the immediate superior court
+
+##### Article 268
+
+An appeal taken from a ruling shall be filed within the peremptory period of ten days following the service of the ruling. Notwithstanding, an appeal taken from a ruling which is filed prior to the service of that ruling shall also take effect.
+
+##### Article 269
+
+An appeal taken from a ruling shall be made by filing a notice of appeal to the original Administrative Court or the administrative court to which the original presiding judge belongs.
+
+Appeals taken from rulings made on matters with regard to litigation aid, and appeals from rulings taken by a witness, expert witness or a third party holding tangible evidence may be made orally.
+
+##### Article 270
+
+The provisions regulating voluntary waiver of right to appeal or voluntary dismissal of appeal taken from judgment shall apply mutatis mutandis to appeal taken from ruling.
+
+##### Article 271
+
+In accordance with the provisions of this Part, where the review of a ruling which should be sought by filing an appeal is mistakenly sought by raising an objection, an appeal is deemed effectuated; where the review of a ruling which should be sought by raising an objection is mistakenly sought by filing an appeal, an objection is deemed effectuated.
+
+##### Article 272
+
+Except otherwise provided for in this Part, the following provisions apply mutatis mutandis to the appeals against rulings: from Paragraphs 3 to Paragraph 5 of Article 249, Article 256-1, Article 261-1, from Article 263-2 to Article 263-4.
+
+Article 259-1 applies mutatis mutandis to the appeals against rulings in the Supreme Administrative Court.
+
+The following provisions of the Code of Civil Procedure apply mutatis mutandis to this Part: from Article 490 to Article 492, and the first Chapter of Part III.
+
+## PART V REHEARING PROCEEDING
+
+##### Article 273
+
+Litigation for a rehearing may be initiated to challenge a final judgment in any of the following situations, except where the party's challenge has been asserted and dismissed in an appeal or the party has known the grounds for a challenge but decides not to assert it in an appeal:
+
+\1. Where the application of law is manifestly erroneous;
+
+\2. Where the reason for the judgment manifestly contradicts its holding;
+
+\3. Where the court which rendered the judgment is not legally organized;
+
+\4. Where a judge who should have recused himself or herself from the case, whether under law or in accordance with a judgment or ruling, has participated in adjudication;
+
+\5. Where no agent or a representative legally represents a party to the litigation. However, if the party knows the defect regarding legal representation but decides not to raise this issue by the end of the oral argument, this subparagraph shall not apply.
+
+\6. Where a party has misrepresented that he or she did not know where the opposing party shall be served with notice of the litigation when initiating the litigation. However, if the opposing party agrees to the legitimacy of the litigation procedure, this subparagraph shall not apply.
+
+\7. Where a judge participating in deciding the case committed a criminal offense as a result of breaching his or her duties, the criminal offense was proven, or the judge was disciplined for the breach of his or her duties, and such breach of his or her duties was so serious as to affect the original judgment.
+
+\8. Where a party's agent, representative, or administrator, or the opposing party, or the opposing party's agent, representative, or administrator engages in a criminally punishable act of any kind which affects the result of the original judgment;
+
+\9. Where the evidence based on which the judgment was rendered was fabricated or altered;
+
+\10. Where the witness, expert witness, interpreter, gave false statements in his or her testimony, expert testimony, or translation, based on which the judgment was rendered;
+
+\11. Where the referenced civil or criminal judgment or ruling, or any other decision or administrative act, based on which the judgment was rendered, was amended or changed by a subsequent final decision or administrative act;
+
+\12. Where a party discovers that the same claim has been disposed of by a prior final judgment, settlement, or mediation or that such judgment, settlement, or mediation may be available.
+
+\13. Where a party discovers a piece of evidence which has not been considered, or which becomes available, on condition that taking into consideration such piece of evidence will result in a decision more favorable to such party; or
+
+\14. Where the original judgement failed to take into consideration important evidence which will affect the judgment.
+
+Where the laws or regulations applied in a final judgment have been declared unconstitutional by the judgments rendered by the Constitutional Court, or where the opinions expressed when applying the law or regulations are inconsistent with the judgments or rulings rendered by the Constitutional Court that unify legal opinions, the applicant may initiate litigation for a rehearing.
+
+Litigation for a rehearing may be initiated in the circumstances provided for in Subparagraphs 7 to 10 of the preceding Paragraph only where the circumstance is proven by a final judgment or where the criminal or disciplinary proceedings cannot be initiated or continued due to reasons other than insufficient evidence.
+
+In the circumstance referred to in Subparagraph 13 of Paragraph 1, only when the fact that the party to the litigation cannot introduce tangible evidence is not caused intentionally or negligently by the party to the litigation may the party initiate the litigation for rehearing.
+
+##### Article 274
+
+Where a judgment was entered based on a decision which falls under the circumstances provided in the preceding Article, a motion for rehearing may be initiated against such judgment.
+
+##### Article 274-1
+
+Where the motion for rehearing has been dismissed on the merits by the administrative court, no motion for rehearing may be initiated on the same ground against either an original judgment with binding effect, or a judgment with binding effect dismissing the original motion for rehearing.
+
+##### Article 275
+
+The litigation for rehearing shall be adjudicated only by the original administrative court that rendered the judgment.
+
+If the litigation for rehearing is initiated against the judgments rendered by administrative courts of different levels regarding the same case, the litigation shall be adjudicated only by the administrative court at the higher level.
+
+If the litigation for rehearing is initiated against an administrative court at the appellate level per Subparagraphs 9 to 14 of Paragraph 1 of Article 273, the litigation shall be adjudicated only by the original first-instance administrative court, despite the preceding two paragraphs.
+
+##### Article 276
+
+A motion for rehearing must be initiated within a peremptory period of thirty days.
+
+The period provided in the preceding Paragraph starts to run from the time when the judgment becomes final, and, if such judgment has become final prior to its service, starts to run from the time when such judgment is served. The period provided in the preceding Paragraph starts to run from the time when the ground for rehearing became known, if such ground occurred or became known on a later date.
+
+Where litigation for a rehearing is initiated pursuant to Paragraph 2 of Article 273, the period of time as provided for in Paragraph 1 starts to run from the day after the judgment is served.
+
+No motion for rehearing may be initiated after a period of five years has elapsed from the time when the judgment became final. However, motions for rehearing may still be initiated, if they are made on the grounds provided for in Subparagraphs 5, 6 or 12 of Paragraph 1 of Article 273.
+
+Where a motion for rehearing is initiated to request a review of a final rehearing judgment, the period of time provided for in the preceding Paragraph starts to run from the date the original judgment becomes final. However, if the motion for rehearing is found to be with merit, the period of time starts to run from the date when the rehearing judgement becomes final.
+
+Where litigation for rehearing is initiated pursuant to Paragraph 2 of Article 273, the period of time as provided in Paragraph 4 shall not include the period between the day the application becomes pending and the day on which the judgment is served on the applicant.
+
+##### Article 277
+
+A motion for rehearing shall be initiated by submitting a complaint specifying the following matters:
+
+1.The parties;
+
+\2. The judgment of which a review is being sought, and a statement that a motion for rehearing is initiated against such judgment;
+
+\3. A statement of the extent to which the judgment should be rescinded and what judgment should be rendered on the case;
+
+\4. The ground for rehearing, the evidence which proves such ground, and the evidence proving that the motion was filed within the peremptory period.
+
+It is advisable that the complainant who initiates litigation for a rehearing set out in the complaint the information for oral argument on substantive issues and include an original copy or photocopy of the final judgment.
+
+##### Article 278
+
+The administrative court shall by a ruling dismiss a motion for rehearing which is not initiated in conformity with the law.
+
+A motion for rehearing which is manifestly groundless may be dismissed on the merits by a judgment without oral argument.
+
+##### Article 279
+
+Oral argument and decisions of the principal case shall be made with regard to and only to the portion for which a review is being sought.
+
+##### Article 280
+
+Where the original judgment is considered just, the administrative court shall dismiss the motion for rehearing irrespective of the existence of the grounds therefore by entering a judgment to such effect.
+
+##### Article 281
+
+Unless otherwise provided in this Part, the provisions with regard to the litigation proceedings at the relevant court instances shall apply mutatis mutandis to rehearing proceedings.
+
+##### Article 282
+
+The judgment entered at the conclusion of a rehearing proceeding does not affect a third party's rights obtained in good faith in reliance upon the final judgment with binding effect, except where the public interest will be materially jeopardized.
+
+##### Article 283
+
+In cases provided in Article 273, a motion for rehearing may be made against a ruling with binding effect in accordance with the provisions of this Part which shall apply mutatis mutandis.
+
+## PART VI RETRIAL PROCEEDINGS
+
+##### Article 284
+
+In cases where a third party whose rights are jeopardized by judgment which revoked or amended the original administrative disposition or decision was prevented from intervening in that litigation due to reasons not imputable to such third party, and thus was unable to present means of attack or defense which may have affected the result of the judgment, such third party may initiate a motion for retrial against that final judgment with binding effect.
+
+A motion for retrial must be initiated within a peremptory period of thirty days after the date when the judgment with binding effect became known by such third party. Notwithstanding, a motion for retrial cannot be initiated after a period of one year has elapsed after the date when the judgment became binding.
+
+##### Article 285
+
+Paragraphs 1 and 2 of Article 275 concerning jurisdiction shall apply mutatis mutandis to a motion for retrial.
+
+##### Article 286
+
+A motion for retrial shall be initiated by submitting a complaint to the administrative court with jurisdiction specifying the following matters:
+
+\1. The party initiating the motion for retrial and both parties of the original litigation;
+
+\2. The case of which retrial is being sought, and a statement that a motion for retrial is initiated against such case;
+
+\3. The demand with regard to the extent to which the principal case should be adjudicated;
+
+\4. The ground for retrial and the evidence which supports such ground and proves observance of the peremptory period.
+
+It is advisable that the pleading for a motion for retrial indicates the matters in preparation of oral argument of the principal case.
+
+##### Article 287
+
+The administrative court shall by a ruling dismiss a motion for retrial which is not initiated in conformity with the law.
+
+##### Article 288
+
+Where the administrative court determines that the motion initiated pursuant to Paragraph 1 of Article 284 is meritorious, it shall decide by a ruling to conduct a retrial proceeding; if the motion is determined as meritless, the court shall dismiss the motion by a ruling.
+
+##### Article 289
+
+The party initiating the motion for retrial may voluntarily dismiss the motion before the ruling as provided in the preceding two Articles becomes binding.
+
+The party initiating the motion for retrial who voluntarily dismissed his/her motion shall lose the right to file the motion.
+
+A voluntary dismissal of motion shall be made in writing or oral.
+
+##### Article 290
+
+Where the ruling which orders to conduct the retrial proceeding becomes binding, the original litigation proceeding shall be reinstated and be adjudicated in accordance with the applicable instances.
+
+The party initiating the motion for retrial shall automatically intervene in the litigation after the original litigation proceeding is reinstated.
+
+##### Article 291
+
+The motion for retrial has no effect to stay the execution of the original judgment with binding effect. Notwithstanding, where necessary, the administrative court may order to stay the execution of the original judgment.
+
+##### Article 292
+
+Article 282 shall apply mutatis mutandis to retrial proceedings.
+
+## PART VII PROVISIONAL REMEDIES PROCEEDING
+
+##### Article 293
+
+A motion for provisional attachment may be initiated to secure the compulsory execution of monetary claims based on public law.
+
+The motion provided in the preceding Paragraph may be made to claims that have not reached its due date.
+
+##### Article 294
+
+The application for provisional attachment shall be adjudicated by the administrative court having jurisdiction over the principal case, or the district administrative court at the place where the object of the provisional attachment is located.
+
+The administrative court having jurisdiction over the principal case shall be the court of first instance in which the litigation is pending or to be pending.
+
+Where the object of the provisional attachment is a creditor's right against a debtor, the place where the object of the provisional attachment is located shall be where the debtor domiciles or the object of security therefor is located.
+
+##### Article 295
+
+In cases where the provisional attachment ruling has been issued but the litigation demanding award has not been initiated, the litigation shall be initiated within ten days after the ruling is served; in the event that the litigation is not initiated within the period, the administrative court shall on motion, order to revoke the provisional attachment ruling.
+
+##### Article 296
+
+Where a provisional attachment ruling is revoked either by reason of being improper ab initio or by reason of the provisions of the preceding Article and Paragraph 3 of Article 530 of the Code of Civil Procedure, the creditor shall compensate the debtor for any losses incurred from the provisional attachment or the provision of a countersecurity.
+
+Where a litigation has been initiated with regard to the claim of the principal case secured by the provisional attachment, the administrative court shall, before the conclusion of the oral argument session, order the creditor to make the compensation in the judgment of the principal case based on the debtor's statement; the court shall inform the debtor of the availability of such statement if the debtor has not done so.
+
+##### Article 297
+
+Article 523, Articles 525 to 528 inclusive and Article 530 of the Code of Civil Procedure shall apply mutatis mutandis to the provisional attachment proceeding as provided in this Part.
+
+##### Article 298
+
+A motion for provisional injunction may be initiated to secure compulsory execution, if there is a showing of impossibility or extreme difficulty to satisfy the claim based on public law due to change of status quo.
+
+Where necessary for purposes of preventing material harm or imminent danger or other similar circumstances, a motion for an injunction may be initiated to maintain a temporary status quo with regard to the legal relation in dispute under public law.
+
+The injunction provided in the preceding Paragraph may order certain prestation to be performed in advance.
+
+The administrative court, prior to issuing a provisional injunction ruling, may examine the parties or the persons who have interests in the litigation or conduct other necessary investigation.
+
+##### Article 299
+
+Where a motion can be made to stay the execution of the original administrative disposition or decision in accordance with Article 116, no motion for provisional injunction may be initiated.
+
+##### Article 300
+
+The administrative court having jurisdiction over the principal case shall have jurisdiction over the motion for a provisional injunction. Nonetheless, the district administrative court at the place where the object concerning the provisional injunction is located, in urgent circumstances, shall have jurisdiction over the motion for the provisional injunction.
+
+##### Article 301
+
+The court shall not order the provision of security in lieu of a preliminary showing of the claim and the ground for the provisional attachment except for exceptional circumstances.
+
+##### Article 302
+
+Unless otherwise provided, the provisions pertaining to provisional attachment shall apply mutatis mutandis to provisional injunction.
+
+##### Article 303
+
+Articles 535 to 536 inclusive of the Code of Civil Procedure shall apply mutatis mutandis to the provisional injunction proceeding as provided in this Part.
+
+## PART VIII COMPULSORY EXECUTION
+
+##### Article 304
+
+Where a judgement of revocation has become binding, the relevant authorities shall take necessary measures to execute the content of the judgment.
+
+##### Article 305
+
+Whereas the decision of an administrative litigation has ordered the debtor to make a payment that the debtor failed to make after the decision has become binding, the creditor may file a petition with the administrative litigation division of the district court to carry out a compulsory execution on the grounds of said decision as a title for execution.
+
+The administrative litigation division of the district court shall notify the debtor to perform the obligation within a designated time; if the debtor still fails to fulfill the obligation within the designated period, a compulsory execution shall be carried out.
+
+Where the debtor is a central or local government agency or other public corporation, the court shall notify its superior agency to urge prompt performance.
+
+A settlement reached under this Act, other rulings rendered under this Act that are enforceable, or rulings that impose an administrative fine, can serve as titles for execution.
+
+##### Article 306
+
+The district administrative court may request the civil enforcement division of a district court or an administrative agency to carry out the task of compulsory enforcement of administrative litigation on its behalf.
+
+Unless otherwise provided for in this Act, whether the Compulsory Enforcement Act or the Administrative Enforcement Act shall apply mutatis mutandis to the enforcement procedure depends on whether the enforcement agency is a court or an administrative agency.
+
+If a debtor objects to an enforcement order during the enforcement procedure on request provided for in Paragraph 1, the objection shall be decided by the district administrative court by a ruling.
+
+##### Article 307
+
+During the enforcement procedure, a debtor may raise objections by initiating litigation. Such litigation shall be adjudicated as follows: If a first-instance administrative court makes the enforcement order, then the litigation initiated by a debtor shall be adjudicated by that first-instance administrative court, which may be a district administrative court or a high administrative court. District courts shall adjudicate other types of litigation initiated during the enforcement procedure.
+
+## PART IX SUPPLEMENTARY PROVISIONS
+
+##### Article 307-1
+
+The provisions of the Code of Civil Procedure, aside from those provisions that shall apply mutatis mutandis as prescribed in this Act, shall also apply mutatis mutandis provided that they are not contradictory to the nature of administrative litigations.
+
+##### Article 308
+
+This Act takes effect from the date of promulgation.
+
+The Amendments of this Act shall take effect from the date designated by the Judicial Yuan by a ruling.
+
+## History
+
+\1. Promulgated on November 17, 1932
+
+\2. Amended on January 8, 1937
+
+\3. Amended on July 27, 1942
+
+\4. Amended on November 5, 1969
+
+\5. Amended on December 12, 1975
+
+\6. Amended on October 28, 1998
+
+\7. Amended on July 4, 2007
+
+\8. Amended on January 13, 2010
+
+\9. Amended on May 25, 2011
+
+\10. Amended on November 23, 2011
+
+\11. Amended on January 9, 2013
+
+\12. Amended on June 18, 2014
+
+\13. Amended on June 13, 2018
+
+\14. Amended on November 28, 2018
+
+\15. Amended on January 15, 2020
+
+\16. June 16, 2021 amended
+
+No. Hwa-Chong-I-Yi-11000055331
+
+\17. Amended on December 8, 2021
+
+\18. Amended on June 22, 2022

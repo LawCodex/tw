@@ -1,0 +1,399 @@
+---
+title: "Customs Anti-smuggling Act"
+title_zh: "海關緝私條例"
+identifier: "G0350029"
+type: act
+law_level: "法律"
+category: "行政＞財政部＞關務目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1934-06-19
+last_amended: 2018-05-09
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0350029"
+retrieved: 2026-10-12
+---
+
+# Customs Anti-smuggling Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-finance/G0350029-customs-anti-smuggling-act.md](../../../zh/laws/ministry-of-finance/G0350029-customs-anti-smuggling-act.md)) is authoritative.
+
+## Chapter I General Provisions
+
+### Article 1
+
+The smuggling of import or export goods shall be subject to suppression under the regulation by Customs according to this Act.
+
+### Article 2
+
+"Commercial ports" referred to in this Act means the harbors, airports, or other commercial ports opened to foreign trade by the government with the establishment of a Customs office.
+
+### Article 3
+
+The term "the smuggling of import or export goods" referred to in this Act means the shipment of goods into or out of the Republic of China without making a declaration to Customs, and thus results in an avoidance of Customs inspections, evasion of Customs duties, or escape of Customs controls. However, this doesn't include wastes cleared out of vessels that have been examined and paid due duties after making declarations to Customs.
+
+### Article 4
+
+The term "a declaration of import or export goods" referred to in this Act means the importation or exportation of goods through a commercial port with a Customs declaration pursuant to the Customs Act and relevant laws and regulations.
+
+### Article 5
+
+Where a provision of this Act imposes an administrative fine on the basis of the value of goods, such value of goods is based on the Customs valuation for import goods, and based on the FOB value for export goods.
+
+## Chapter II The suppression of smuggling
+
+### Article 6
+
+The enforcement of suppressing smuggling shall be conducted at the commercial ports of the Republic of China, in the waters within 24 nautical miles from shore and in the areas or places designated in this Act or other laws.
+
+### Article 7
+
+Ⅰ.For the necessity of suppressing smuggling, Customs may be equipped with vessels, aircrafts, vehicles, arms, ammunition and necessary tools, and the Regulations governing their application shall be regulated by the Executive Yuan.
+
+Ⅱ.When enforcing the suppression of smuggling, Customs officers may carry arms and ammunition.
+
+### Article 8
+
+For the necessity of suppressing smuggling, Customs may order a vessel, aircraft, vehicle, or any other transportation means to stop, turn back or land at a designated place. If such vehicles defies the order, Customs may open fire upon it, but only for the purpose of preventing it from further moving.
+
+### Article 9
+
+For the necessity of suppressing smuggling, Customs may inspect the import goods, export goods, through goods, transit goods, bonded goods, parcels, baggage, transportation means, warehouses or other places of storage, and the persons concerned at the scene.
+
+### Article 10
+
+Ⅰ.Where Customs considers, with justifiable reasons, that a violation of this Act has taken place, it may survey and search the places in question. To perform the aforesaid survey and searching, however, Customs shall ask the occupant of the place, his/her cohabitant, employees, or neighbors, and local policeman to be present for witness. If the survey or searching is conducted on a vessel, aircraft, vehicle or other transportation means, Customs shall ask its manager to be present for witness.
+
+Ⅱ.Where a place referred to in the preceding paragraph belongs to a government agency or state-owned enterprise, the survey or searching shall be conducted jointly with the designated personnel of that agency or enterprise.
+
+### Article 11
+
+Where Customs considers, with justifiable reasons, that the carriage of an article by a person may well constitute a violation of this Act, it may order that person to hand in the article in question for examination; if that person refuses to do so, Customs may search his/her body. The aforesaid searching shall be accompanied by no less than two Customs officers or a third person other than Customs officer, and the search of female's body shall be conducted by female Customs officer.
+
+### Article 12
+
+Ⅰ.For the necessity of suppressing smuggling, Custom may interrogate the suspect, witness and other persons concerned.
+
+Ⅱ.A written record shall be taken from the interrogation referred to in the preceding paragraph; provisions of Article 39 through Article 41 of The Code of Criminal Procedure shall apply mutatis mutandis to the particulars to be covered in such written record.
+
+### Article 13
+
+A survey or search shall not be conducted after sunset and before sunrise, unless such action has been started before sunset and it is necessary to continue, or it is found that a violation of this Act is in action.
+
+### Article 14
+
+The process of a survey or search shall be recorded in writing and handed to the person interrogated or the witness at the scene and ask them to sign or seal after they have read over the record. If the person interrogated or the witness is unable or refuses to sign or seal on the written records, the recording Customs Officer shall take note accordingly.
+
+### Article 15
+
+When enforcing the duty of suppressing smuggling, Customs officers shall wear uniform, badge, or other certificates sufficient to identify themselves.
+
+### Article 16
+
+Ⅰ.Where necessary for the suppression smuggling, Customs may request military or police authorities, or other relevant agencies to provide assistance.
+
+Ⅱ.In places other than commercial ports, military or police authorities may take anti-smuggling actions on their own if they find a violation of this Act. However, the results of their actions, together with the goods seized, shall be transferred to Customs for disposal.
+
+### Article 16-1
+
+Where the suspected are found in the anti-smuggling actions conducted by Customs, or by military or police authorities as they assist Customs or on their own take anti-smuggling actions pursuant to the preceding article, the case shall be immediately transferred to the competent authority for disposal according to relevant laws.
+
+## Chapter III Seizure
+
+### Article 17
+
+Ⅰ.Customs shall detain the goods deemed as violating this Act.
+
+Ⅱ.Where the goods referred to in the preceding paragraph are seized within a transportation means and the violation is serious by nature, Customs may detain that transportation means for further survey and search, but only for a time period necessary for such survey and search.
+
+### Article 18
+
+Customs may detain the vessels, aircrafts, vehicles or other transportation means that are subject to confiscation or may be confiscated pursuant to provisions of this Act.
+
+### Article 19
+
+Where it is difficult to deliver or store the goods or transportation means detained, Customs may hand them to the owner, manager or holder after such person has made an undertaking, or to a local government agency for safekeeping. If the latter is the case, a notice shall be given to the owner, manager, or holder of the goods or transportation means detained.
+
+### Article 20
+
+Ⅰ.Where articles detained cannot be disposed pursuant to the preceding article, or are likely to perish or be damaged, Customs may either, before the case is terminated, sell those articles after making a public notice and keep the money, or just deliver them to the responsible government agency for disposal, and give a notice to their owner, manager or holder.
+
+Ⅱ.For the purpose of preserving evidence, Customs may take samples or pictures of the detained articles to be disposed pursuant to the preceding paragraph.
+
+Ⅲ.Detained articles that are likely to cause hazard may be destroyed and discarded.
+
+### Article 21
+
+The owner, manager or holder of the goods or transportation means detained may apply to cancel the detention with the provision of equivalent bonds or other guarantee to the Customs.
+
+### Article 22
+
+Ⅰ.The provisions of Articles 13 and 14 shall apply mutatis mutandis to the procedures of making detention. In addition, a detention receipt, containing description of the article, the place and time of detention, and the name and dwelling address of the owner, manager or holder, shall be issued and signed by the enforcement Customs officer.
+
+Ⅱ.Articles detained shall be marked and sealed, and stamped by the enforcement agency or Customs officer.
+
+## Chapter IV Penalties
+
+### Article 23
+
+Where a vessel, aircraft, vehicle or other transportation means violates the provision of Article 8 and disobeys Customs order, the manager shall be imposed with a fine of no less than NTD 60,000 and no more than NTD 120,000. Furthermore, the aforesaid transportation means shall be confiscated if Customs confirmed that it is mainly used for smuggling.
+
+### Article 24
+
+Where a vessel, aircraft, vehicle or other transportation means enters a place other than a commercial port without permission, it shall be confiscated, unless the manager in question reports in writing, explaining that such behavior was caused by force majeure or based on any other justifiable causes, to the local competent authority which has verified the reality of such events.
+
+### Article 25
+
+Where goods or documents pertaining to them on board a vessel are destroyed or thrown into water for evading Customs seizure, whether the vessel in question is within 24 nautical miles from shore or has been chased outward to a point outside that boundary, the manager and the offender shall be respectively imposed with a fine of no less than NTD 30,000 and no more than NTD 150,000, and the vessel may also be confiscated.
+
+### Article 26
+
+Anyone who sends off signals or transmits message to a transportation means smuggling import or export goods shall be imposed with a fine of no more than NTD 30,000.
+
+### Article 27
+
+Ⅰ.Where a vessel, aircraft, vehicle or any other transportation means is used to smuggle import, export, unload or convey goods, the manager in question shall be imposed with a fine of no less than NTD 50,000 and no more than NTD 500,000. Where it is confirmed that the carrier supports, instigates or adopts any other undue method to make the crew of the aforesaid transportation means to conduct smuggling, that carrier shall be penalized pursuant to this Act and other relevant laws, and the transportation means in question may be suspended from Customs clearance up to 30 days.
+
+Ⅱ.Where transportation means referred to in the preceding paragraph is mainly used for smuggling arms, ammunitions or drugs, it shall be confiscated.
+
+### Article 28
+
+Ⅰ.Where a vessel, aircraft, vehicle or any other transportation means fails to arrive at the specified unloading place in a commercial port, and unloads the goods or self-use goods without Customs permission, the manager shall be imposed with a fine no more than twice of the value of the goods in question, and such goods may also be confiscated.
+
+Ⅱ.Any persons who transits, places, receives, or provides assistance in loading and unloading the goods or articles referred to in the preceding paragraph shall be penalized pursuant to the provision of the preceding paragraph.
+
+### Article 29
+
+(Deleted)
+
+### Article 30
+
+(Deleted)
+
+### Article 31
+
+Where Customs has confirmed that a vessel, aircraft, vehicle or any other transportation means carries goods without shipping documents and the following circumstances, the transportation firm shall be penalized pursuant to Paragraph 1 and 3, Article 36. If the misconduct is caused by the owner of the goods, the owner shall be penalized. If the misconduct is jointly performed by a transportation firm and the owner of the goods, they shall be fined respectively:
+
+1.The goods are not listed in the manifest or list of consignments.
+
+2.The goods is combined with two or more packages, and it is not noted in the manifest or list of consignments.
+
+### Article 31-1
+
+Where Customs has confirmed that certain import goods or goods in transit to another domestic port carried by a vessel, aircraft, vehicle or any other transportation means are not listed in the manifest, list of consignments, or shipping documents, such goods shall be confiscated, unless it is proved the goods in question were loaded by mistake.
+
+### Article 32
+
+(Deleted)
+
+### Article 33
+
+(Deleted)
+
+### Article 34
+
+(Deleted)
+
+### Article 35
+
+Where import goods, export goods, through goods, transit goods, bonded goods, parcels, baggage, and container stored in a vessel, aircraft, vehicle, any other transportation means or other places of storage are under Customs custody, or have been sealed or locked by Customs, any person who repackages, moves, conveys such goods or alters their marks, or breaks the seals or opens the locks thereof, shall be imposed with a fine of no less than NTD 6,000 and no more than NTD 60,000. The fine may be doubled in case of the violation is severe by nature, and may be imposed continuously if that carrier or operator fails to follow Customs instruction to correct the misconduct within a given time limit.
+
+### Article 36
+
+Ⅰ.Any person who smuggles import or export goods, or handles smuggled goods shall be imposed with a fine no more than three times the value of the goods in question.
+
+Ⅱ.Any person who loads or unloads, delivers, receives, hides, buys, or sells the smuggled goods shall be imposed with a fine of no more than NTD 90,000; anyone who hires or induces others to do so shall also be imposed with the same amount of fine.
+
+Ⅲ.The smuggled goods referred to in the preceding paragraphs shall be confiscated.
+
+Ⅳ.A person who has loaded or unloaded, delivered, received, stored, bought or sold smuggled goods in ignorance shall be exempted from penalties provided such case is confirmed by Customs.
+
+### Article 37
+
+Ⅰ.In case a declaration of import goods is made, Customs may, according to the nature of the case, either imposes a fine no more than five times the duties evaded together with the confiscation of the goods in question, or only confiscates the goods in question, if there is:
+
+1.A false declaration of the descriptions, quantities or weights of the goods;
+
+2.A false declaration of the quality, value or specification;
+
+3.A submission of forged, altered, or false invoice or certificate; or
+
+4.Any other violation of this Act and relevant laws.
+
+Ⅱ.Where any of the offenses specified in the preceding paragraph occurs after a declaration of export goods is made, a fine no more than NTD 3,000,000 shall be imposed, and the goods in question may be confiscated.
+
+Ⅲ.Where any of the offenses specified in the preceding paragraphs is involved with an evasion from trade control, a penalty shall be imposed pursuant to Paragraphs 1 and 3 of the preceding article.
+
+Ⅳ.Where any of the offenses specified in Paragraph 1 occurs while declaring the exportation of processed goods eligible for duty drawback of the import material used, a fine no more than five times the duty over-rebated shall be imposed, and the export goods in question may be confiscated.
+
+### Article 38
+
+Where there are dutiable or controlled goods in a postal letter or parcel, and the envelope thereof is neither correctly marked with the quality, quantity, weight and value of the goods, nor attached with those information, Customs may confiscate the goods and notify its receiver or sender, if the involvement of smuggling or evading from control is verified.
+
+### Article 39
+
+Ⅰ.Where an inward or outward passenger carrying dutiable or controlled goods but not applies for inspection or intends to evade inspection, the goods in question shall be confiscated, and that passenger may be penalized pursuant to Paragraph 1, Article 36.
+
+Ⅱ.Where a passenger declaring the importation or exportation of the unaccompanied baggage violates this Act or relevant laws, or evades customs duty, a penalty shall be imposed pursuant to the provision of Article 37.
+
+### Article 39-1
+
+Where import or export goods, other than genuine goods parallel imported, that have been declared to Customs infringes the patent right, trademark right or copyright, the importer or exporter in question shall be, unless otherwise specified in other laws, imposed with a fine no more than three times the value of the goods, and the goods shall be confiscated.
+
+### Article 40
+
+Where a blank document, signed by a foreign consigner and thus can be used as the invoices for imports, has been delivered by mail, or carried into or held by someone in homeland, the holder shall be imposed with a fine of no more than NTD 30,000, and the document in question shall be confiscated.
+
+### Article 41
+
+(Deleted)
+
+### Article 41-1
+
+Ⅰ.Where a customs broker or shipper is aware of a false statement, but still lets a carrier or a warehouse operator to reproduce such information in the documents related to the turnover or warehousing of the import or export goods concerned, or makes the carrier or operator to endorse such information, the broker or shipper shall be imposed with a fine of no less than NTD 6,000 and no more than NTD 60,000.
+
+Ⅱ.Where a carrier or warehouse operator is aware of such false statement but still records it or endorse for it, that carrier or operator shall be penalized pursuant to the preceding paragraph.
+
+### Article 42
+
+Ⅰ.Where it is suspected that there is a violation of this Act in a declaration of import or export goods, Customs may notify the importer, exporter, shipper or consignee of the goods to submit the invoices, price memos, bills and other documents concerned for further review, and may check or copy information recorded in the accounting book, letters or invoice book related to the importation, exportation, transaction, cost, and payment regarding such goods.
+
+Ⅱ.Any person mentioned in the preceding paragraph fails to submit, refuses Customs request for checking or copying the aforesaid documents or records, or hides or destroys those documents or records with an attempt to eliminate evidence, shall be imposed with a fine of no more than NTD 60,000.
+
+### Article 43
+
+Where a person requests exemption, reduction or drawback of duties by any undue way, a fine no more than five times of the duties evaded or rebated shall be imposed, and the goods concerned may be confiscated.
+
+### Article 44
+
+Where there is a violation of this Act, Customs shall, in addition to impose penalties pursuant to the provisions of this Act, expropriate the duties evaded or rebated. However, the expropriation or penalty shall not be enforced if a period of five years has expired since the violation occurred.
+
+### Article 45
+
+Where a person, to whom the disposition of expropriation or penalty has been determined, violates the same provision set forth in this Act again within five years after such imposition, the fine to be imposed on that person may be increased by one half, and by one time for the third and subsequent violations.
+
+### Article 45-1
+
+Ⅰ.Where an offense subject to imposition of a fine pursuant to this Act, is minor by nature the fine may be reduced or remitted.
+
+Ⅱ.The term“minor by nature”shall be prescribed by the Ministry of Finance (hereinafter referred to as the MOF).
+
+### Article 45-2
+
+The goods which may be confiscated pursuant to this Act are not limited to those belonging to the person subject to the disposition.
+
+### Article 45-3
+
+Ⅰ.Where a duty-payer or exporter, before the Customs, national taxation authority or any other law enforcement agency received a tip-off or started an investigation, voluntarily files an application to Customs for correcting errors contained in a goods declaration, and the errors being made would constitute any of the misconducts defined in Article 37 and Paragraph 2, Article 39, he or she shall be exempt from penalties on condition that:
+
+\1. If the goods in question have not been released,
+
+(1) The goods are not selected for examination by Customs.
+
+(2) The goods, not falling within any of controlled categories, have been selected for examination, but the error-correction application is made before hard copies of the goods declaration and its supporting documents are supplemented, and received by Customs during office hours of the day following the day on which an on-line Customs notice of selection for goods examination has been sent to the person concerned.
+
+\2. Or the goods, if released, are not subject to post clearance audit.
+
+Ⅱ.A person committed an offence and thus was liable for a penalty pursuant to any provision other than the preceding paragraph set forth in this Act shall be exempted, if he or she, before the Customs, national taxation authority or any other law enforcement agency received a tip-off or started an investigation, voluntarily reports or provides evidential information to and, by doing so, help the agency concerned identify such an offence.
+
+Ⅲ.Notwithstanding the preceding two paragraphs, the exemption of a penalty shall not be applicable if the person who voluntarily filed an error-correction application or reported an offense has subsequently been found to be liable for unpaid duties and taxes, unless the amount owed is recovered. The amount to be recovered shall include interest for the period beginning on the following date of the original payment due date, or of the date on which a duty exemption or drawback treatment was confirmed by Customs, up to the date on which the unpaid duty and taxes is supplemented, calculated on a daily basis according to the interest rate of one year fixed deposit, effective on the date on which the outstanding duty and taxes is paid, as published by the Postal Saving Bureau.
+
+### Article 45-4
+
+Ⅰ.Where a specific way of disposal, as deemed necessary and proper, is required for the goods or articles confiscated pursuant to this Act, and the total cost of disposal is more than the set amount published by the MOF, Customs shall recover all costs from the person from whom the goods or articles were confiscated.
+
+Ⅱ.The procedures for the recovery of costs, and for administrative remedies, protective measures, and compulsory execution concerned shall apply mutatis mutandis to Article 46 through Article 48; Paragraph 1, Article 49-1; Article 50; Article 51 of this Act and Article 9 of the Customs Act.
+
+Ⅲ.The recovery of disposal costs prescribed in the first paragraph shall be made within five years from the date on which such costs were paid by Customs or, if the costs had been paid before that date, from the date on which the disposition of confiscation was finalized.
+
+## Chapter V Procedures for disposition
+
+### Article 46
+
+Where a disposition under this Act for suppressing smuggling has been made by Customs, a notice of such disposition shall be produced and delivered to the person subject to the disposition. However, where the owner of the goods or articles confiscated pursuant to this Act is unascertainable, the actual delivery notice may be replaced by a public notice or the publication in the government gazette or newspaper.
+
+### Article 47
+
+Ⅰ. Where the person subject to a disposition or a third party with interest at stake does not agree with the disposition referred to in the preceding article, he/she may, within 30 days from the day following the date of receipt of the disposition notice, file a written protest in given format against Customs for review.
+
+Ⅱ.Customs shall make a determination of the protest within two months from the day following the date of receipt of a protest, and notify the person subject to the disposition or the third party with interest at stake; where necessary, the term may be prolonged once for no more than two months.
+
+Ⅲ.The original of the determination of protest shall be delivered to the person subject to the disposition within 15 days from the date on which such determination is made.
+
+### Article 48
+
+Ⅰ. Where the person subject to the disposition does not agree with the determination of protest made by Customs, he or she may file an appeal and administrative litigation according to relevant laws.
+
+Ⅱ. In case any duty should be refunded as a result of an irrevocable determination given on a review, appeal, or in administrative litigation, Customs shall refund it within ten days following the date of final determination. The refund shall include the duty plus interest payable for the period beginning on the day following the date on which duty was paid by the duty-payer up to the date on which a refund notice or treasury check is issued, calculated on a daily basis according to the annual interest rate of one-year fixed savings in Postal Savings.
+
+### Article 49
+
+(Deleted)
+
+### Article 49-1
+
+Ⅰ.Where neither goods owned by a person subject to a disposition have been detained, nor proper security has been provide by that person, Customs may, for preventing the person from evading the execution through hiding or transferring properties, after the delivery of the disposition notice, ask the court to conduct a provisional attachment or injunction without providing guarantees. However, if the person subject to the disposition has provided sufficient guarantee, Customs shall apply for the cancellation or exemption from the provisional attachment or injunction.
+
+Ⅱ.The provisions of Articles 9 and 48 of the Customs Act shall apply mutatis mutandis to the fines imposed under this Act.
+
+## Chapter VI Enforcement
+
+### Article 50
+
+Ⅰ.Where a disposition pursuant to this Act is determined but the due duties and fines are not paid within 30 days after the day following the date of receipt of Customs notice, then the duties and fines may be levied from the bond or the sale of goods detained. Where the duties and fines have been liquidated, the residuals shall be refunded and the shortage shall be collected.
+
+Ⅱ.The sale referred to in the preceding paragraph shall be conducted by way of public auction, and the person subject to the disposition shall be notified five days before the auction.
+
+### Article 51
+
+Where duties and fines are not paid pursuant to the preceding article and there is no security or detained goods for deduction or for sale, or the value of security or goods is not enough for liquidating the duties and fines, the case shall be referred to relevant authorities for compulsory execution, and Customs may suspend the person subject to the disposition from declaring import or export at any commercial ports until those duties and fines are paid off.
+
+### Article 52
+
+(Deleted)
+
+### Article 53
+
+Ⅰ. After the disposition of confiscation is determined, the person subject to the disposition may pay the duties according to relevant laws and then apply for the redemption of the goods confiscated at the value determined by Customs, provided that:
+
+1.Such goods are permitted for import or export;
+
+2.Such goods are subject to trade control but valued no more than NTD 450,000. However, the aforesaid value may not apply if such goods are too huge, or perishable or easily damaged, or difficult to be auctioned or disposed.
+
+Ⅱ.The provision of the preceding paragraph shall not apply to the goods prohibited from importation or exportation.
+
+## Chapter VII Supplementary Provisions
+
+### Article 54
+
+This Act shall take effect from the date of its promulgation.
+
+NOTE
+
+In case of any discrepancy between the English version and the Chinese text of this Statute, the Chinese text shall govern.
+
+## History
+
+1.Promulgated on June 19, 1934
+
+2.Amended on August 27, 1973
+
+3.Amended on May 29, 1978
+
+4.Amended on December 28, 1983
+
+5.Amended on January 18, 1995
+
+6.Amended on January 10, 2001
+
+7.Amended on January 19, 2005
+
+8.Amended on March 21, 2007
+
+9.Amended on June 15, 2010
+
+10.Amended on June 19, 2013
+
+11.Amended on May 9,2018

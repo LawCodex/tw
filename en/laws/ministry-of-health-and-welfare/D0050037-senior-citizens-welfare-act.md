@@ -1,0 +1,661 @@
+---
+title: "Senior Citizens Welfare Act"
+title_zh: "老人福利法"
+identifier: "D0050037"
+type: act
+law_level: "法律"
+category: "行政＞衛生福利部＞社會及家庭目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1980-01-26
+last_amended: 2025-08-01
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0050037"
+retrieved: 2026-10-12
+---
+
+# Senior Citizens Welfare Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-health-and-welfare/D0050037-senior-citizens-welfare-act.md](../../../zh/laws/ministry-of-health-and-welfare/D0050037-senior-citizens-welfare-act.md)) is authoritative.
+
+## Chapter 1 General Regulations
+
+### Article 1
+
+The Act is formulated to uphold the dignity and health of the elderly, delay and mitigate the onset of disability, ensure the standard of living, protect their rights, and promote their welfares.
+
+### Article 2
+
+In this Act, the elderly refers to individuals aged 65 and above.
+
+### Article 3
+
+The competent authoritiesreferred to in this Act are the Ministry of Health and Welfare (MOHW) in the central government, the municipal government for special municipalities, and the county government for countries (cities).
+
+Items stated in this Act will be handled and processed by the industry competent authorities.
+
+The responsibilities of the competent authorities and the relevant industry competent authorities under the two preceding paragraphs are divided as follows:
+
+\1. Competent authorities: Responsible for planning, promoting, and supervising matters concerning the protection of the rights of the elderly.
+
+\2. Health competent authority: Responsible for planning, promoting, and supervising matters related to preventive care, mental health, medical treatment, rehabilitation, and continuous care for the elderly.
+
+\3. Education competent authority: Responsible for planning, promoting, and supervising education programs for the elderly, training for service providers, and public education on aging.
+
+\4. Labor competent authority: Responsible for planning, promoting, and supervising the promotion of employment opportunities free from discrimination, support programs for employees caring for elderly family members, and qualification assessments for caregivers.
+
+\5. Urban planning, construction, and public work competent authorities: Responsible for planning, promoting, and supervising elderly housing management, elderly service facilities, public infrastructure, and barrier-free environments.
+
+\6. Housing competent authority: Responsible for planning and promoting social housing and assistance with housing purchases and rentals for the elderly.
+
+\7. Transportation and communication competent authorities: Responsible for planning, promoting, and supervising transportation use and traffic safety for the elderly.
+
+\8. Finance competent authority: Responsible for planning, promoting, and supervising related financial measures, commercial insurance, and property trust mechanisms.
+
+\9. Police competent authority: Responsible for planning, promoting, and supervising issues such as locating missing elderly persons, fraud prevention, and traffic safety awareness.
+
+\10. Fire safety competent authority: Responsible for planning, promoting, and supervising fire safety management measures.
+
+\11. Other measures shall be planned and implemented by the respective competent industry authorities according to their mandates.
+
+### Article 4
+
+The central competent authority shall be responsible for the following matters:
+
+\1. Planning, formulation, and promotion of national elderly welfare policies, laws, and programs.
+
+\2. Supervision and coordination of the implementation of elderly welfare by municipal and county (city) governments.
+
+\3. Allocation and disbursement of central government funding for elderly welfare.
+
+\4. Planning for the development, incentives, and evaluation of elderly welfare services.
+
+\5. Planning of training programs for elderly welfare professionals.
+
+\6. Liaison, exchanges, and cooperation with international organizations on elderly welfare affairs.
+
+\7. Planning of elderly protection services.
+
+\8. Establishment, supervision, and guidance of central or national elderly welfare institutions.
+
+\9. Planning and supervision of other national elderly welfare-related matters.
+
+### Article 5
+
+Municipal and county (city) competent authorities shall be responsible for the following matters:
+
+\1. Planning, formulation, promotion, and implementation of elderly welfare policies, self-governing regulations, and programs of municipalities and counties (cities).
+
+\2. Implementation of elderly welfare policies, laws, and programs formulated by the central government.
+
+\3. Allocation and disbursement of elderly welfare-related budgets for municipalities and counties (cities).
+
+\4. Implementation of training programs for elderly welfare professionals.
+
+\5. Implementation of elderly protection services.
+
+\6. Assistance in the establishment, supervision, inspection, evaluation, and recognition of elderly welfare institutions within municipalities and counties (cities).
+
+\7. Planning and supervision of other elderly welfare-related matters within municipalities and counties (cities).
+
+### Article 6
+
+The sources of funding for elderly welfare at all levels of government are as follows:
+
+\1. Annual budget allocations for elderly welfare.
+
+\2. Social welfare funds.
+
+\3. Donation from individuals or organizations.
+
+\4. Other sources of income.
+
+### Article 7
+
+The competent authorities shall assign dedicated personnel to handle matters related to this Act; the number of personnel based on the volume of work.
+
+Professionals shall be appointed to handle matters related to elderly welfare.
+
+### Article 8
+
+The competent authorities and industry competent authorities shall, within the scope of their duties, provide services and care for the elderly. In providing services and care for indigenous elders, priority shall be given to hiring indigenous persons or individuals familiar with indigenous cultures.
+
+The services and care provided to the elderly under the preceding paragraph may be carried out in collaboration with private resources through subsidies, outsourcing, or other means. The methods for such subsidies or commissions, the service items, standards, and other compliance matters shall be prescribed by the competent authorities and industry competent authorities.
+
+### Article 9
+
+The competent authorities shall invite representatives of the elderly, scholars or experts in elderly welfare, relevant private organizations and groups, and representatives from industry competent authorities to participate in the integration, consultation, coordination, and promotion of matters related to the rights and welfare of the elderly. Among these, at least half shall be representatives of the elderly, scholars or experts in elderly welfare, and private organizations and groups with no fewer than one-fifth being elderly representatives, and at least one representative being either an indigenous elder or a scholar or expert familiar with indigenous cultures.
+
+The private organizations or group representatives mentioned in the preceding paragraph shall be jointly recommended by registered private organizations or groups within the respective jurisdiction and appointed by the competent authority.
+
+### Article 10
+
+The competent authorities shall conduct a survey on the living conditions of the elderly at least once every five years and publish a statistical report.
+
+## Chapter 2 Economic Security
+
+### Article 11
+
+To ensure the standard of living of elderly, living allowances, special care subsidies, and pension insurance shall be planned and implemented progressively.
+
+The implementation of the pension insurance in the preceding paragraph shall be conducted in accordance with relevant social insurance laws and regulations.
+
+### Article 12
+
+Elderly persons with middle-to-low income levels who are not under institutional care may apply for living allowances.
+
+For those receiving living allowances whose level of disability is assessed as severe or above, and who are cared for by family members, the caregiver may apply to the municipal or city/county competent authority for special care subsidies.
+
+The eligibility, conditions, procedures, amounts, and other related matters for the allowances in the preceding two paragraphs shall be prescribed by the central competent authority and shall not be restricted by length of domicile registration. The required documents and review procedures shall be prescribed by the municipal or city/county competent authority.
+
+Any person who receives allowances without meeting eligibility requirements shall return the amount received within 60 days from the date the facts arise, upon written notice from the municipal or city/county competent authority. Failure to return the funds within the deadline shall result in administrative enforcement.
+
+### Article 12-1
+
+The rights to receive cash payments or subsidies under this Act shall not be subject to seizure, transfer, or used as collateral.
+
+For the purpose of administering the cash payments or subsidies under this Act, the competent authority may request relevant agencies, organizations, legal persons, or individuals to provide necessary information. The requested parties shall have the obligation to cooperate.
+
+The competent authority shall exercise the duty of care of a prudent administrator when handling the information obtained under the preceding paragraph, and shall conduct through information security audits. The retention, processing, and use of the information shall comply with the provisions of the Personal Information Protection Act.
+
+### Article 13
+
+Where an elderly person requires a guardianship or assistance declaration, the municipal or city/county competent authority may assist in petitioning the court. If the grounds for guardianship or assistance cease to exist, the authority may assist in filing for revocation.
+
+If it is necessary to change the guardian or assistant, the municipal or city/county competent authority shall assist the elderly person in filing the relevant petition.
+
+Before a guardianship or assistance declaration becomes final, the competent authority may apply to the court for necessary interim measures to protect the elderly person’s body and property, and may also provide other related property protection services.
+
+### Article 14
+
+To protect the property of the elderly, the municipal or city/county competent authorities shall encourage the elder to place their assets in trust.
+
+Finance competent authorities shall encourage trust businesses and financial institutions to offer property trusts and commercial reverse mortgage services.
+
+Housing authority shall provide services related to housing rental.
+
+### Article 15
+
+For the elderly who are functionally impaired and require long-term care services, the municipal or city/county competent authorities shall provide subsidies based on the financial conditions of the elderly and their families, as well as the level of disability.
+
+The regulations regarding eligible recipients, subsidy standards, and other necessary matters shall be prescribed by the central competent authority.
+
+## Chapter 3 Services
+
+### Article 16
+
+Elderly care services shall be planned based on the principle of holistic care, aging in place, health promotion, delay of disability, social participation, and diversified and continuous services.
+
+Municipal and county (city) competent authorities shall provide home-based, community-based, or institution-based services according to the principles of the preceding paragraph and based on the needs of the elderly, and establish proper care management mechanisms.
+
+### Article 17
+
+To assist homebound disabled elderly persons in receiving the necessary continuous care, municipal and county (city) competent authorities shall independently or in cooperation with private resources provide the following home-based services:
+
+\1. Medical services.
+
+\2. Rehabilitation services.
+
+\3. Personal care.
+
+\4. Housekeeping services.
+
+\5. Friendly visiting services.
+
+\6. Telephone check-in services.
+
+\7. Meal services.
+
+\8. Emergency rescue services.
+
+\9. Home environment improvement services.
+
+\10. Other related home-based services.
+
+### Article 18
+
+To enhance the willingness and ability of families to care for the elderly and promote the independence of the elderly in community living, municipal and county (city) competent authorities shall independently or in collaboration with private resources provide the following community-based services:
+
+\1. Health care services.
+
+\2. Medical services.
+
+\3. Rehabilitation services.
+
+\4. Assistive device services.
+
+\5. Psychological counseling services.
+
+\6. Day care services.
+
+\7. Meal services.
+
+\8. Family respite care services.
+
+\9. Educational services.
+
+\10. Legal services.
+
+\11. Transportation services.
+
+\12. Retirement preparation services.
+
+\13. Recreational services.
+
+\14. Information and referral services.
+
+\15. Other related community-based services.
+
+### Article 19
+
+To meet the diverse needs of elderly residents in institutions, competent authorities shall assist welfare institutions in providing the following institution-based services based on the needs of the elderly:
+
+\1. Accommodation services.
+
+\2. Medical services.
+
+\3. Rehabilitation services.
+
+\4. Daily living care services.
+
+\5. Meal services.
+
+\6. Emergency medical transport services.
+
+\7. Social activity services.
+
+\8. Family education services.
+
+\9. Day care services.
+
+\10. Other related institution-based services.
+
+The services of the preceding paragraph shall integrate with family and community life as a principle and may support home-based or community-based services.
+
+### Article 20
+
+The qualifications and service standards for providers of the home-based, community-based, and institutional services as stipulated in the preceding three articles shall be prescribed by the central competent authority in consultation with the respective industry competent authorities.
+
+Certain items of the services of the preceding paragraph shall be provided by qualified professionals. The categories of such items, training, qualification requirements, and other relevant regulations shall be formulated by the central competent authority.
+
+### Article 21
+
+Municipal and city/county competent authorities shall regularly provide health checkups and healthcare services for the elderly, and shall offer follow-up services based on the results of such checkups and the willingness of the elderly.
+
+The guidelines for the healthcare services, follow-up services, and the items and methods of health checkups of the preceding paragraph shall be prescribed by the central competent authority.
+
+### Article 22
+
+If the elderly or their legal support obligor is unable to pay the National Health Insurance premiums, co-payment fees or other uncovered medical expenses, the municipal and city/county competent authorities shall provide subsidies.
+
+The regulations governing the eligible recipients, items, standards, and other related matters of such subsidies shall be prescribed by the central competent authority.
+
+### Article 23
+
+To support the elderly in maintaining their independence and improving their quality of life, municipal and county (city) competent authorities shall provide assistive device services either directly or in cooperation with private resources, including:
+
+\1. Assessment and consultation for assistive devices.
+
+\2. Provision of information regarding assistive devices, auxiliary daily necessities, and life-support facilities and equipment.
+
+\3. Assistance in obtaining assistive devices for daily living.
+
+The fire authority shall provide fire safety education and consultation services for the elderly at home as prescribed in the preceding paragraph.
+
+The central competent authority may, as necessary, provide incentives for the research and development of assistive devices, supplies, and facilities required for elderly living.
+
+### Article 24
+
+In the event of the death of an elderly person who has no legal support obligor or whose obligor is unable to provide support, the local competent authority or the institution where the elderly shall handle the funeral arrangements. The necessary expenses shall be covered by the deceased's estate, and if there is no estate, the local competent authority shall bear the cost.
+
+### Article 25
+
+Elderly persons shall be entitled to a 50% discount when using domestic public or private water, land, or air transportation, entering recreational venues, or visiting cultural and educational facilities.
+
+For cultural and educational facilities of the preceding paragraph which are operated by central government agencies (institutions) or administrative legal entities, free admission shall be granted on weekdays.
+
+### Article 26
+
+The competent authority shall coordinate with relevant industry competent authorities or encourage private entities to provide the following elderly education measures:
+
+\1. Production and broadcasting of radio and TV programs, and the compilation and publication of materials related to the elderly.
+
+\2. Development of educational materials suitable for elderly learning.
+
+\3. Provision of social education and learning activities.
+
+\4. Provision of retirement preparation education.
+
+### Article 27
+
+The competent authorities shall independently or in cooperation with private resources handle the following matters:
+
+\1. Encourage the elderly to form social groups and engage in recreational activities.
+
+\2. Organize leisure and sports activities for the elderly.
+
+\3. Establish facilities for recreational activities.
+
+### Article 28
+
+The competent authorities shall coordinate with the relevant industry competent authorities to encourage elderly participation for volunteer services.
+
+### Article 29
+
+The labor competent authority shall actively promote employment for the elderly and strive to eliminate employment discrimination against the elderly.
+
+The policies and measures to promote employment for the elderly in the preceding paragraph shall be prescribed by the central labor competent authority.
+
+### Article 30
+
+The legal support obligor to support the elderly shall fulfill their responsibilities. The competent authority may, independently or in cooperation with private entities, provide relevant information and assistance.
+
+### Article 31
+
+To support family caregivers of functionally impaired elderly individuals, municipal and county (city) competent authorities shall independently or in collaboration with private resources provide the following services:
+
+\1. Temporary or short-term respite care services.
+
+\2. Training and workshops for caregivers.
+
+\3. Individual counseling and support groups for caregivers.
+
+\4. Information provision and assistance in accessing services for caregivers.
+
+\5. Other services that help enhance caregivers’ abilities and improve their quality of life.
+
+### Article 32
+
+Municipal and county (city) competent authorities shall assist middle- and low-income elderly with house repairs or provide rental subsidies.
+
+Regulations regarding eligibility, items, content, and other relevant matters related to the assistance in the preceding paragraph shall be determined by the respective municipal and county (city) competent authorities. However, if otherwise specified by law, such provisions shall prevail.
+
+### Article 33
+
+Housing competent authorities shall promote social housing to remove rental barriers for the elderly.
+
+To eliminate such barriers, municipal and county (city) housing competent authorities may formulate incentive programs subsidizing landlords for house repairs and encouraging them to rent to elderly tenants.
+
+## Chapter 4 Welfare Institutions
+
+### Article 34
+
+Based on the needs of the elderly, competent authorities shall independently or in collaboration with private resources establish the following types of elderly welfare institutions:
+
+\1. Long-term care institutions.
+
+\2. Residential care institutions.
+
+\3. Other elderly welfare institutions.
+
+The standards regarding the scale, area, facilities, staffing, service scope, and other related matters of the elderly welfare institutions of the preceding paragraph shall be set by the central competent authority in consultation with relevant central industry competent authorities.
+
+Required medical or nursing services for the institutions of Paragraph 1 of this Article shall comply with the Medical Care Act, Nurses Act, and other applicable health professional laws.
+
+Institutions of Paragraph 1 of this Article may be established separately or in combination, and may charge fees for their facilities or services to support their operations. Fee schedules must be submitted to and approved by the local municipal or county (city) competent authority.
+
+### Article 35
+
+The name of a private elderly welfare institution shall indicate the nature of its services in accordance with Paragraph 1 of the preceding article and shall include the term “private.”
+
+For publicly owned but privately operated institutions, their names shall not include “public” or “private” but shall begin with the name of the administrative district where they are located.
+
+### Article 36
+
+Individuals or organizations intending to establish elderly welfare institutions shall apply for a permit from the municipal or county (city) competent authority.
+
+Once approved, the private elderly welfare institution shall register as a foundation within three months. However, small-scale institutions may be exempt if they meet the following requirements:
+
+\1. Do not solicit public donations;
+
+\2. Do not receive government subsidies; and
+
+\3. Do not enjoy tax exemptions.
+
+Subsidies under Subparagraph 2 of the preceding paragraph do not include those items and standards designated or announced by the central competent authority in accordance with the national long-term care policy.
+
+If registration as a foundation is not completed within the period specified in Paragraph 2 due to justifiable reasons, an application may be submitted to the local competent authority for a one-time extension not exceeding three months. The original approval shall become invalid if the registration is not completed within the extended period.
+
+Regulations governing the requirements, application procedures, review deadlines, evaluation criteria, issuance of permits, revocation or cancellation of permits, suspension or cessation of operations, resumption, expansion, downsizing, relocation, financial management, supervision, and other related matters as referred to in Paragraph 1 shall be regulated by the central competent authority.
+
+Standards for small-scale establishments referred to in the proviso of Paragraph 2, including their size, area, facilities, staffing, scope of services, and other relevant matters, shall be formulated by the central competent authority in consultation with the central industry competent authorities.
+
+For expansions or relocations under Paragraph 5 that fall under the circumstances specified in Paragraph 3 of Article 22 of the Long-Term Care Services Act, the procedures stipulated in Paragraph 1 of the same article shall apply.
+
+### Article 37
+
+Elderly welfare institutions shall not engage in profit-making activities or use their services for improper promotion.
+
+Competent authorities shall provide guidance, supervision, inspection, evaluation, and incentives to elderly welfare institutions.
+
+Institutions shall not evade, impede, or refuse the inspection mentioned in the previous paragraph, and shall provide necessary documents, information, or assistance.
+
+Personnel of the competent authority performing consultation, supervision, inspection, and evaluation referred to in Paragraph 2 shall present proof of authority or an official identification badge.
+
+Evaluation indicators shall be stipulated based on the scale and nature of the elderly welfare institutions. The subjects, items, and measures of evaluation, the recipients and forms of rewards, and other related matters shall be prescribed by the competent authorities.
+
+### Article 37-1
+
+For those providing care services without obtaining establishment approval in accordance with Paragraph 1 of Article 36, the competent authority shall dispatch personnel to inspect the premises. The inspected party shall not evade, obstruct, or refuse the inspection, and shall provide necessary documents, data, or other assistance.
+
+When conducting the inspection referred to in the preceding paragraph, the personnel of the competent authority shall present proof of authority or an official identification badge.
+
+### Article 38
+
+An elderly welfare institution shall enter into a written contract with the care recipient or their family, clearly stating the rights and obligations of both parties.
+
+The central competent authority shall prescribe a standardized contract template and specify mandatory and prohibited clauses for the format and content of the contract described in preceding sentence.
+
+Elderly welfare institutions shall make the standardized contract template prescribed by the central competent authority publicly available and provide it to care recipients along with a receipt or other documentation. Unless otherwise agreed, the provision of such contract shall be deemed as fulfillment of the requirement under Paragraph 1.
+
+### Article 39
+
+Elderly welfare institutions shall maintain public liability insurance and demonstrate financial capacity to fulfill operational responsibilities, in order to protect the rights and interests of service recipients.
+
+The scope and amount of insurance required under the preceding paragraph shall be determined by the central competent authority in consultation with the relevant central industry competent authority.
+
+The criteria for determining the financial capacity mentioned in Paragraph 1 shall be prescribed by the municipal and county (city) competent authorities.
+
+### Article 40
+
+The government and elderly welfare institutions shall properly manage and utilize donations from individuals or organizations. Cash donations shall be deposited into a dedicated account and used exclusively to promote elderly welfare. If the donor specifies a particular purpose, the funds shall be used accordingly.
+
+Donations received as mentioned in the preceding paragraph shall be publicly disclosed.
+
+### Article 40-1
+
+For elderly persons residing in welfare institutions who have no legal guardian or person with a duty of support, the municipal or county (city) competent authority may coordinate with civil society organizations to monitor the quality of services provided by the institution; the institutions shall not evade, impede or refuse the inspection.
+
+## Chapter 5 Protections
+
+### Article 41
+
+If an elderly person’s life, body, health, or freedom is endangered due to neglect, abuse, abandonment, or other harmful acts by a spouse, lineal descendant, or contractual caregiver, the municipal or county (city) competent authority may, upon application by the elderly or on its own initiative, provide appropriate protection and placement. If the elderly files a complaint or seeks compensation, the competent authority shall assist.
+
+The competent authority may waive protection and placement of the preceding paragraph, either on its own initiative or upon the elderly’s request.
+
+If the competent authority advances the expenses for protection and placement of Paragraph 1, it may issue a written administrative order requiring the elderly, their spouse, lineal descendants, or contractual caregivers to reimburse the cost within 60 days, attaching copies of receipts and a calculation sheet, as well as procedures for applying for reduction or exemption. Failure to return the funds within the deadline shall result in administrative enforcement.
+
+The competent authority may reduce or waive the preceding paragraph of the reimbursement under any of the following circumstances::
+
+\1. The elderly, their spouses, or lineal descendants face financial hardship and are unable to pay; or
+
+\2. The spouse or lineal descendants of the elderly cannot pay due to other special circumstances beyond the preceding subparagraph.
+
+To determine the circumstances under the preceding paragraph, the competent authority shall convene a review with scholars, experts, and representatives of civil organizations.
+
+### Article 42
+
+When an elderly person faces danger to life or health or experiences severe hardship due to lack of support, the municipal and county (city) competent authorities shall provide appropriate placement upon application or on its own initiative.
+
+When implementing the placement, the competent authority shall collaborate with local village (li) heads and officers to maintain regular contact and monitor the elderly’s condition.
+
+The necessary placement expenses shall be advanced by the competent authority. For elderly determined to have financial means after an asset investigation, the competent authority may notify them via administrative order to reimburse the expenses within 60 days with attached receipts and calculation sheets. If not returned by the deadline, enforcement measures may be initiated in accordance with the law.
+
+### Article 43
+
+When medical personnel, social workers, village (li) heads or staff, police officers, judicial personnel, or other individuals engaged in elderly welfare services become aware, during the course of their duties, of a suspected circumstance as described in Paragraph 1 of Article 41 or Article 42, they shall report it to the local competent authority.
+
+The identity of the informant shall be kept confidential.
+
+Upon receiving such reports, the competent authority shall act immediately and, if necessary, conduct a home visit and investigation. It may request assistance from the police, medical institutions, or other relevant agencies, and such agencies shall cooperate accordingly.
+
+Regulations for reporting and processing referred to in the preceding paragraph shall be prescribed by the central competent authorities.
+
+### Article 44
+
+To strengthen elderly protection functions, each municipality and county (city) shall establish an elderly protection system that integrates police, health, social, and civil affairs departments, along with community resources. Regular coordination meetings shall be held for elderly protection efforts.
+
+## Chapter 6 Penalty
+
+### Article 45
+
+Where an elderly welfare institution is established without applying for the establishment permit in accordance with Paragraph 1 of Article 36, or where the required registration as a foundation is not completed within the prescribed time limit as set forth in Paragraphs 2 and 4 of Article 36, the responsible person shall be fined not less than NT$60,000 and not more than NT$300,000, and their name shall be made public. A deadline shall also be set for corrective action.
+
+During the period for improvement stated in the preceding paragraph, no additional service recipients may be admitted. Violations shall be subject to an additional fine of not less than NT$60,000 and not more than NT$300,000 against the responsible person, and may be penalized on a per-instance basis.
+
+Where the institution fails to complete improvement within the deadline specified in Paragraph 1, the responsible person shall be subject to an additional fine of not less than NT$100,000 and not more than NT$500,000. The institution shall also be ordered to transfer or reassign its service recipients within one month. If it is unable to do so, the competent authority shall provide assistance, and the responsible person shall cooperate. Failure to cooperate shall result in compulsory enforcement and an additional fine of not less than NT$200,000 and not more than NT$1,000,000.
+
+Any person subject to inspection under Paragraph 1, Article 37-1 who evades, obstructs, or refuses inspection, or fails to provide necessary documents, data, or assistance, shall be fined not less than NT$60,000 and not more than NT$300,000, and may be penalized on a per-instance basis.
+
+### Article 46
+
+Where an elderly welfare institution has any of the following circumstances, the competent authority shall order improvement within one month. If the situation is not corrected within the period, a fine of not less than NT$30,000 and not more than NT$150,000 shall be imposed, and may be imposed on a per-instance basis:
+
+\1. Charging rules are not reported for approval in accordance with Paragraph 4 of Article 34, or fees are collected in violation of the approved standards.
+
+\2. Financial income and expenditure are not handled in accordance with the methods stipulated in Paragraph 5 of Article 36.
+
+\3. Violating Paragraph 1 of Article 38 by failing to enter into a written contract with the service recipient or their family, or failing to include mandatory terms or including prohibited terms in such contract.
+
+\4. Failing to purchase public liability insurance as required under Paragraph 1 of Article 39, or lacking the financial capacity to maintain operations.
+
+\5. Violating Paragraph 2 of Article 40 by failing to disclose donations publicly.
+
+### Article 47
+
+If any of the following circumstances apply to an elderly welfare institution, the competent authority shall order corrective action within a specified time limit. If the violation is serious, a fine between NT$30,000 and NT$150,000 may be imposed. If the institution fails to make corrections within the deadline, a fine between NT$50,000 and NT$250,000 shall be imposed, along with a new deadline for correction:
+
+\1. The operational policies are inconsistent with the institution’s original purpose or donation charter.
+
+\2. Violation of the standards specified in the original establishment permit.
+
+\3. The total assets can no longer support the institution's intended services, or there are false reports concerning its operations or finances.
+
+\4. Failing to follow the procedures specified in Paragraph 5 of Article 36 for expansion, relocation, suspension, closure, resumption of operation, or changes to the establishment permit details.
+
+If the institution fails to make corrections by the new deadline, the competent authority may order a suspension of operations for a period between one month and one year. The name of the institution, the name of its responsible person, and the unrectified issues shall be published on the authority’s website for public reference. If the issues are still not rectified by the end of the suspension, or the institution refuses to suspend its operations, the establishment permit shall be revoked. If the institution is a legal person, it may also be ordered to dissolve.
+
+If the establishment permit of an elderly welfare institution is revoked in accordance with the provisions of the preceding paragraph, the competent authority shall also set a deadline for the institution to return the establishment permit certificate. If it fails to return the certificate by the deadline, the certificate shall be cancelled.
+
+### Article 48
+
+Where an elderly welfare institution has any of the following circumstances, the competent authority shall impose a fine between NT$60,000 and NT$300,000, announce the name of the institution and its responsible person, and order corrective action within a specified time limit:
+
+\1. Abuse or harm to the physical or mental health of service recipients, or failure to report confirmed abuse cases to the municipal and county (city) competent authorities.
+
+\2. Provision of unsafe facilities or unsanitary meals, as confirmed by the competent authorities.
+
+\3. Violating Paragraph 3 of Article 37 by evading, obstructing, or refusing inspection, or by failing to provide necessary documents, data, and assistance.
+
+\4. Other major events, aside from the three preceding subparagraphs, that significantly affect the physical or mental health of service recipients.
+
+If violations of abuse or harm to the physical or mental health of service recipients under Subparagraph 1, or provision of unsafe facilities or unsanitary meals under Subparagraph 2 of the preceding paragraph, or other major incidents, result in the death of a service recipient, the fine shall be increased to between NT$200,000 and NT$1,000,000. The competent authority may also suspend operations for a period of one month to one year if necessary.
+
+If the institution fails to make corrections by the deadline set in Paragraph 1, the competent authority may order a suspension of operations for one month to one year and publish the institution’s name, responsible person’s name, and unrectified violations on its website for public access.
+
+If the institution fails to make improvements during the suspension period or refuses to suspend operations within the time limit prescribed in the preceding two paragraphs, the establishment permit shall be revoked. If the institution is a legal person, it may be ordered to dissolve.
+
+For elderly welfare institutions whose permits are revoked under the preceding paragraph, the competent authority shall set a deadline for returning the establishment permit certificate. Failure to return the certificate shall result in cancellation.
+
+If an institution established without approval under Paragraph 1 of Article 36 commits abuse or harm to the physical or mental health of service recipients under Subparagraph 1, or provision of unsafe facilities or unsanitary meals under Subparagraph 2 of the preceding paragraph, or other major incidents, result in the death of a service recipient, the responsible person shall be fined between NT$200,000 and NT$1,000,000. The institution’s and responsible person’s names shall be made public, and the institution shall be required to refer its residents for relocation within one month. If unable to do so, the competent authority shall assist with relocation, and the responsible person must cooperate. If they refuse to cooperate, compulsory enforcement shall be applied, along with an additional fine between NT$200,000 and NT$1,000,000.
+
+Elderly welfare institutions that are found to be non-compliant in evaluations conducted by the competent authority shall be ordered to make improvements within a specified period. Failure to make such improvements within the prescribed period shall be fined between NT$60,000 and NT$300,000 and may be fined on a per-instance basis. In cases of serious violations, the institution may be ordered to suspend operations for a period of not less than one month and not more than one year. If the issues are still not rectified by the end of the suspension, the establishment permit may be revoked. If the institution is a legal person, it may be ordered to dissolve.
+
+Elderly welfare institutions that had been rated as Grade C or D by the competent authority prior to the enforcement of the amendment to this Act on July 15, 2025, shall be governed by the provisions in effect prior to the amendment.
+
+### Article 49
+
+In any of the following circumstances apply, the competent authority shall impose a fine between NT$60,000 and NT$300,000 and order correction within a specified period. If corrections are not made, penalties may be imposed on a per-instance basis:
+
+\1. Increasing the number of service recipients before the competent authority confirms that previous corrections, as ordered under the preceding three articles, have been completed.
+
+\2. Increasing the number of service recipients during a period of suspended operations.
+
+### Article 50
+
+When a private elderly welfare institution ceases operations, suspends or terminates business, dissolves, or has its permit revoked or canceled, it shall immediately arrange proper placement for its residents. If it cannot do so, the competent authority shall assist with placement, and the institution must cooperate. If it refuses to cooperate, compulsory enforcement shall be carried out, and a fine between NT$60,000 and NT$300,000 shall be imposed. Where necessary, the institution may be taken over.
+
+The procedures, time limits, restrictions on operational and property management rights of the taken-over institution under the preceding paragraph, and other related matters shall be prescribed by the central competent authority.
+
+If a private elderly welfare institution suspended under Paragraph 1 intends to resume operation after the cause for suspension is resolved, it must apply for a permit to resume or close business. If it fails to apply as required or its application is denied, the competent authority shall revoke its establishment permit. If the institution is a legal person, it may be ordered to dissolve.
+
+If the establishment permit of an elderly welfare institution is revoked in accordance with the provisions of the preceding paragraph, the competent authority shall set a deadline for the institution to return the permit certificate. If the certificate is not returned by the deadline, it shall be cancelled.
+
+### Article 51
+
+Any person who has a statutory duty to support an elderly person or a contractual obligation to provide care, and who commits any of the following acts, shall be subject to a fine of not less than NT$30,000 and not more than NT$150,000, and the offender’s name shall be made public; where criminal liability is involved, the case shall be referred to the judicial authorities for investigation:
+
+\1. Abandonment.
+
+\2. Unlawful restriction of personal freedom.
+
+\3. Infliction of physical injury.
+
+\4. Physical and mental abuse.
+
+\5. Leaving the elderly incapable of self-care alone in an environment likely to cause danger or harm.
+
+\6. Leaving the elderly in an institution and ignoring their care, without proper justification, after the institution has issued a notice requiring resolution within a specified period.
+
+### Article 52
+
+Where the supporter or the other care provider specified in the preceding article has committed a serious violation, the competent authority shall impose between four and twenty hours of family education and counseling.
+
+If the person is unable to attend the required sessions as described in the preceding paragraph within the specified time due to legitimate reasons, they may apply for a deferral.
+
+Any person who refuses to receive or fails to complete the required hours of family education and counseling as described in Paragraph 1 shall be fined between NT$1,200 and NT$6,000; Continued refusal after being notified again shall result in penalties on a per-instance basis until compliance.
+
+## Chapter 7 Bylaws
+
+### Article 53
+
+Elderly welfare institutions that were duly registered and approved before the amendment and implementation of this Act, but whose establishment requirements are inconsistent with the provisions of this Act or its authorized regulations, shall make the necessary improvements within the designated period by the central competent authority. Failure to make such improvements within the prescribed period shall be handled in accordance with this Act.
+
+The competent authorities shall actively assist and guide residential institutions in transitioning into elderly long-term care institutions or community-based service facilities.
+
+### Article 54
+
+The enforcement rules of this Act shall be prescribed by the central competent authority.
+
+### Article 55
+
+This Act shall come into force on and from the date of promulgation.
+
+The amendment to this Act made on June 12, 2009 shall come into effect on November 23, 2009.
+
+## History
+
+1.Promulgated on January 16, 1980
+
+2.Amended on June 18, 1997
+
+3.Amended on May 03, 2000
+
+4.Amended on June 26, 2002
+
+5.Revised and promulgated by presidential order Hua-Tzon(1)Yi/Tze No. 09600012871 on January 31st, 2007.
+
+6.Revised and promulgated by presidential order Hua-Tzon(1)Yi/Tze No. 09800166511 on July 8, 2009
+
+7.Revised and promulgated by presidential order Hua-Tzon(1)Yi/Tze No. 10100177951 on August 8, 2012
+
+8.Revised and promulgated by presidential order Hua-Tzon(1)Yi/Tze No. 10300085341 on June 4, 2014
+
+9.Amended on December 9, 2015
+
+10.Amended on May 27, 2020
+
+11.Amended on August 1, 2025

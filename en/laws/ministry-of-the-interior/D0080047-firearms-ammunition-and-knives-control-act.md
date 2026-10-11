@@ -1,0 +1,357 @@
+---
+title: "Firearms, Ammunition, and Knives Control Act"
+title_zh: "槍砲彈藥刀械管制條例"
+identifier: "D0080047"
+type: act
+law_level: "法律"
+category: "行政＞內政部＞警政目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1983-06-27
+last_amended: 2024-01-03
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0080047"
+retrieved: 2026-10-12
+---
+
+# Firearms, Ammunition, and Knives Control Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-the-interior/D0080047-firearms-ammunition-and-knives-control-act.md](../../../zh/laws/ministry-of-the-interior/D0080047-firearms-ammunition-and-knives-control-act.md)) is authoritative.
+
+## Article 1
+
+This Act is specially formulated to control firearms, ammunition, and knives to maintain social order and safeguard the life and property safety of the people.
+
+## Article 2
+
+Firearms, ammunition, and knives, except those allocated in accordance with legal provisions, shall be governed by the provisions of this Act.
+
+## Article 3
+
+The authorities responsible for the control of firearms, ammunition, and knives: at the central level, it is the Ministry of the Interior; for municipalities directly under the central government, it is the municipal government; for counties (cities), it is the county (city) government.
+
+## Article 4
+
+\1. Firearms, ammunition, and knives referred to in this Act are as follows:
+
+a. Firearms: This refers to standard or non-standard artillery, shoulder-fired weapons, machine guns, submachine guns, carbine rifles, automatic rifles, regular rifles, carbines, handguns, pen guns, gas guns, anesthesia guns, shotguns, air guns, harpoon guns, and other types of firearms capable of firing metal bullets or pellets with lethal force.
+
+b. Ammunition: This refers to shells and bullets used by the firearms mentioned above and other types of bombs and explosive devices with lethal or destructive force.
+
+c. Knives: This refers to samurai swords, cane swords, interlocking twin knives, brass knuckles, steel (iron) whips, flat drills, daggers (as illustrated), and other types of knives announced and banned by the central competent authority, not for legitimate use, with lethal force.
+
+\2. The firearms and ammunition mentioned in the preceding paragraph, including their main components. However, parts that cannot be used to assemble firearms or ammunition are not included.
+
+\3. The central competent authority shall announce standards for determining the materials, types, and lethality of the main components of firearms and ammunition.
+
+## Article 5
+
+Firearms and ammunition listed in the preceding article shall not be manufactured, sold, transported, transferred, rented, lent, possessed, stored, or displayed without permission from the central competent authority.
+
+## Article 5-1
+
+Handguns, air guns, shotguns, and other firearms and ammunition exclusively for sports shooting shall not be manufactured, sold, transported, transferred, rented, lent, possessed, stored, or displayed without permission from the central competent authority.
+
+## Article 5-2
+
+\1. In cases where firearms, ammunition, and knives permitted under this Act meet one of the following conditions, their permission shall be revoked or abolished; the central competent authority shall purchase such firearms, ammunition, and knives. However, firearms, ammunition, and knives purchased for use by government agencies (institutions) or those who violate this Act shall not be purchased:
+
+a. The reason for permission no longer exists.
+
+b. No longer needed for use or damaged beyond use.
+
+c. The holder loses indigenous or fisherman status.
+
+d. The holder evades, obstructs, or refuses inspection.
+
+e. The holder's death.
+
+f. The holder has been sentenced to a fixed-term imprisonment or more, and the sentence has not been suspended or has been revoked.
+
+g. The holder is under guardianship or assistance, which has not been revoked.
+
+h. The group holding firearms, ammunition, and knives is disbanded.
+
+i. Other violations of compliance regulations.
+
+\2. In cases where the knife owner dies, or the group is disbanded and reapplies for permission, or in cases where the owner of a self-made hunting rifle dies, and his successor applies to continue holding, such items shall not be purchased after being permitted.
+
+\3. Successors for self-made hunting rifles in the preceding paragraph are limited to one person with legal inheritance rights. However, persons without capacity for civil conduct shall not apply for continued possession; the central competent authority shall set regulations regarding inheritance and use by minors for indigenous peoples.
+
+\4. The cost of purchasing the firearms, ammunition, and knives mentioned in Paragraph 1 shall be budgeted annually by the central competent authority. The central competent authority shall set the price standards and executed by the municipal and county (city) governments.
+
+\5. Firearms, ammunition, and knives purchased under Paragraph 1, and the confiscated licenses, shall be sent to the Police Administration of the Ministry of the Interior for destruction. However, items reserved for use shall not be destroyed.
+
+\6. The provisions of subparagraph 6 of Paragraph 1 apply only to indigenous people who have been permitted to hold self-made hunting rifles or harpoons, and who have committed the lightest crime of intentional offense punishable by a fixed-term imprisonment of three years or more, or one of the following crimes:
+
+a. Criminal Code Article 185-2 Paragraphs 1 and 4, Article 186, Article 186-1 Paragraphs 1 and 4, Article 187, Article 224, Article 231-1 Paragraph 2, Article 271 Paragraph 3, Article 272, Article 273, Article 274, Article 275, Article 277 Paragraph 1, Article 279, Article 281, Article 282, Article 296, Article 298, Article 302 Paragraphs 1 and 3, Article 303, Article 304, Article 305, Article 321, Article 325 Paragraphs 1 and 3, Article 326, Article 328 Paragraph 5, Article 346, or Article 347 Paragraph 4.
+
+b. Forest Law Article 51 Paragraph 2, Article 52, Article 53 Paragraph 2, or Article 54.
+
+c. Wildlife Conservation Act Article 40, Article 41, or Article 42. However, this does not apply to crimes under Article 41 of the Wildlife Conservation Act committed before the enforcement of the amended text of this Act on June 14, 2017, by indigenous people based on traditional culture, rituals, or non-profit personal use.
+
+d. This Act Article 9, Article 12 Paragraphs 1, 2, 4, and 5, Article 13 Paragraphs 2, 4, and 5, Article 13-1, Article 20-1 Paragraphs 3 to 5, Article 14, or Article 15.
+
+e. Smuggling Penalty Act Article 2, Article 3, or Article 7.
+
+f. Organized Crime Prevention Act Article 3 Paragraph 1 second half or Article 6.
+
+g. Narcotics Hazard Prevention Act Article 4 Paragraphs 5 and 6, Article 5 Paragraph 4, Article 7 Paragraphs 2 to 5, Article 8, Article 10, Article 11, Article 13, Article 14, or Article 15.
+
+## Article 5-3
+
+The central competent authority may appoint (delegate) representatives of relevant agencies (institutions) and expert scholars to form a Firearms and Ammunition Certification Dispute Advisory Group to resolve firearms and ammunition certification disputes. The group's organization and operation methods shall be determined by the central competent authority.
+
+## Article 6
+
+The various types of knives listed in subparagraph 3 of Paragraph 1 of Article 4 shall not be manufactured, sold, transported, transferred, rented, lent, or possessed without the permission of the competent authority.
+
+## Article 6-1
+
+\1. The central competent authority shall determine the management regulations for the application, conditions, abolition, inspection, and other compliance matters of firearms, ammunition, and knives as set forth in Article 5 and Article 6.
+
+\2. The management methods for the application, conditions, duration, abolition, inspection, and other compliance matters for firearms and ammunition as set forth in Article 5-1 shall be determined jointly by the central competent authority of the target industry and the central competent authority.
+
+\3. Violations of the management methods set forth in the preceding paragraph shall be subject to a fine of no more than NT$50,000. However, this does not apply to violations of Article 5-1 or the intentional use of permitted firearms and ammunition for oneself or others to commit crimes.
+
+## Article 7
+
+\1. Manufacturing, selling, or transporting standard or non-standard artillery, shoulder-fired weapons, machine guns, submachine guns, carbine rifles, automatic rifles, regular rifles, carbines, handguns, or any kind of shells, bombs, explosive devices without permission shall be punished with life imprisonment or imprisonment of not less than seven years and may, in addition, be fined not more than NT$30 million.
+
+\2. Transferring, renting, or lending the firearms and ammunition listed in the preceding paragraph without permission shall be punished with life imprisonment or imprisonment of not less than five years and may in addition be fined not more than NT$10 million.
+
+\3. Committing the crimes mentioned in the preceding two paragraphs with the intent to provide for oneself or others for criminal use shall be punished with the death penalty or life imprisonment; those sentenced to a term of imprisonment may, in addition, be fined not more than NT$50 million.
+
+\4. Possessing, storing, or intending to sell and display the firearms and ammunition listed in paragraph 1 without permission shall be punished with imprisonment of not less than five years and may, in addition, be fined not more than NT$10 million.
+
+\5. Persons intending to provide for themselves or others for criminal use and unlawfully possessing the firearms and ammunition listed in paragraph 1 held by persons carrying out official duties through robbery, snatching, theft, or other illegal methods may have their sentences increased by up to one-half.
+
+\6. Attempted offenses under paragraphs 1 to 3 shall be punished.
+
+## Article 8
+
+\1. Manufacturing, selling, or transporting standard or non-standard pen guns, gas guns, anesthesia guns, hunting rifles, air guns, or any other type of firearm capable of firing metal or bullets with lethal force as specified in subparagraph 1 of paragraph 1 of Article 4 without permission shall be punished with life imprisonment or imprisonment of not less than five years, and the offender shall be fined not more than NT$10 million.
+
+\2. Transferring, renting, or lending the firearms mentioned in the preceding paragraph without permission shall be punished with imprisonment of not less than five years and a fine of not more than NT$10 million.
+
+\3. Committing the crimes mentioned in the preceding two paragraphs with the intent to provide for oneself or others for criminal use shall be punished with life imprisonment or imprisonment of not less than seven years and a fine of not more than NT$10 million.
+
+\4. Possessing, storing, or intending to sell and display the firearms mentioned in paragraph 1 without permission shall be punished with imprisonment of three to ten years and a fine of not more than NT$7 million.
+
+\5. Attempted offenses under paragraphs 1 to 3 shall be punished.
+
+\6. If the circumstances are minor, the penalty for offenses related to air guns in paragraphs 1, 2, or 4 may be reduced.
+
+## Article 9
+
+\1. Manufacturing, selling, transferring, renting, or lending standard or non-standard harpoons without permission shall be punished with imprisonment of not more than one year, detention, or a fine of not more than NT$500,000.
+
+\2. Committing the crime mentioned in the preceding paragraph with the intent to provide for oneself or others for criminal use shall be punished with imprisonment of not more than two years, detention, or a fine of not more than NT$1 million.
+
+\3. Possessing, storing, or intending to sell and display standard or non-standard harpoons without permission shall be punished with imprisonment of not more than six months, detention, or a fine of not more than NT$500,000.
+
+\4. Attempted offenses under paragraphs 1 and 2 shall be punished.
+
+## Article 9-1
+
+\1. Firing a gun mentioned in paragraph 1 of Article 7 in public places or places accessible to the public or shooting towards such places shall be punished with imprisonment of not less than seven years and a fine of not more than NT$15 million.
+
+\2. Firing a gun mentioned in paragraph 1 of Article 8 or paragraph 1 of Article 9 in public places or places accessible to the public or shooting towards such places shall be punished with imprisonment of five to twelve years and a fine of not more than NT$10 million. However, this does not apply to indigenous people who hunt wild animals for traditional cultural rituals, ceremonies, or non-profit personal use.
+
+\3. If the circumstances of the crimes mentioned in the preceding two paragraphs are minor, the penalty may be reduced.
+
+## Article 10
+
+(Deleted)
+
+## Article 11
+
+(Deleted)
+
+## Article 12
+
+\1. Manufacturing, selling, or transporting bullets without permission shall be punished with imprisonment of one to seven years and a fine of not more than NT$5 million.
+
+\2. Transferring, renting, or lending bullets without permission shall be punished with imprisonment of six months to five years and a fine of not more than NT$3 million.
+
+\3. Committing the crimes mentioned in the preceding two paragraphs with the intent to provide for oneself or others for criminal use shall be punished with imprisonment of three to ten years, and a fine of not more than NT$7 million.
+
+\4. Possessing, storing, or intending to sell and display bullets without permission shall be punished with imprisonment of not more than five years and a fine of not more than NT$3 million.
+
+\5. Attempted offenses under paragraphs 1 to 3 shall be punished.
+
+## Article 13
+
+\1. Manufacturing, selling, or transporting the main components of firearms or any kind of shells, bombs, or explosive devices without permission shall be punished with imprisonment of three to ten years and a fine of not more than NT$7 million.
+
+\2. Transferring, renting, or lending the components mentioned in the preceding paragraph without permission shall be punished with imprisonment of one to seven years and a fine of  not more than NT$5 million.
+
+\3. Committing the crimes mentioned in the preceding two paragraphs with the intent to provide for oneself or others for criminal use shall be punished with imprisonment of not less than five years, and a fine of   not more than NT$10 million.
+
+\4. Possessing, storing, or intending to sell and display the components mentioned in paragraph 1 without permission shall be punished with imprisonment of six months to five years and a fine of  not more than NT$3 million.
+
+\5. Attempted offenses under paragraphs 1 to  3 shall be punished.
+
+## Article 13-1
+
+\1. Manufacturing, selling, or transporting the main components of bullets without permission shall be punished with imprisonment of six months to five years and a fine of   not more than NT$3 million.
+
+\2. Transferring, renting, or lending the components mentioned in the preceding paragraph without permission shall be punished with imprisonment of not more than three years and a fine of  not more than NT$2 million.
+
+\3. Committing the crimes mentioned in the preceding two paragraphs with the intent to provide for oneself or others for criminal use shall be punished with imprisonment of one to seven years, and a fine of   not more than NT$5 million.
+
+\4. Possessing, storing, or intending to sell and display the components mentioned in paragraph 1 without permission shall be punished with imprisonment of not more than one year and a fine of not more than NT$1 million. If the circumstances are minor, the punishment may be exempted.
+
+\5. Attempted offenses under paragraphs 1 to 3 shall be punished.
+
+## Article 14
+
+\1. Manufacturing, selling, or transporting bladed weapons without permission shall be punished with imprisonment of not more than three years and a fine of not more than NT$1 million.
+
+\2. Committing the crime mentioned in the preceding paragraph with the intent to provide for oneself or others for criminal use shall be punished with imprisonment of six months to five years, and a fine of not more than NT$3 million.
+
+\3. Possessing or intending to sell and display bladed weapons without permission shall be punished with imprisonment of not more than one year, detention, or a fine of not more than NT$500,000.
+
+\4. Attempted offenses under paragraphs 1 and 2 shall be punished.
+
+## Article 15
+
+Carrying bladed weapons without permission under one of the following circumstances shall be punished with imprisonment of not more than two years:
+
+\1. Committing the offense at night.
+
+\2. Committing the offense in a station, pier, airport, public place, or place accessible to the public.
+
+\3. Committing the offense as part of a group.
+
+## Article 16
+
+A public official or a person elected to a public position who knowingly shields a person guilty of an offense under Article 7, Article 8, or Article 12 shall have their sentence increased by one-half, according to the relevant article.
+
+## Article 17
+
+(Deleted)
+
+## Article 18
+
+\1. Offenders who surrender themselves and turn in all their firearms, ammunition, and bladed weapons they possess, and those who have transferred possession but truthfully report the source or whereabouts of all firearms, ammunition, and bladed weapons leading to their recovery may have their sentence reduced or be exempted.
+
+\2. In the situation described in the preceding paragraph, those who surrender themselves during the period specified in a public notice approved by the Executive Yuan and issued by the central competent authority are exempt from punishment.
+
+\3. In the situations described in the preceding two paragraphs, those who turn in false information shall still be prosecuted for the false part according to the punishments specified in this Act.
+
+\4. Offenders who confess during investigation or trial and truthfully report the source and whereabouts of all firearms, ammunition, and bladed weapons, leading to their recovery or preventing a major public security incident may have their sentence reduced or be exempted. Those who refuse to confess or provide false information may have their sentence increased by one-third.
+
+## Article 19
+
+(Deleted)
+
+## Article 20
+
+\1. Indigenous people who manufacture, transport, or possess self-made hunting rifles, their main components, or ammunition; or indigenous and fishing people who manufacture, transport, or possess self-made harpoons for use as living tools without permission shall be fined NT$2,000 to NT$20,000. The provisions concerning criminal penalties in this Act shall not apply.
+
+\2. Indigenous people who trade, transfer, rent, lend, or store self-made hunting rifles, their main components, ammunition, or self-made harpoons among themselves for use as living tools without permission shall be fined NT$2,000 to NT$20,000. The provisions concerning criminal penalties in this Act shall not apply.
+
+\3. Regulations on the structure of self-made hunting rifles and harpoons, self-made hunting rifle ammunition, and the application, conditions, term, revocation, inspection, and other compliance matters for the permissions mentioned in the preceding two paragraphs shall be determined by the central competent authority in conjunction with the central indigenous peoples' competent authority and the Ministry of National Defense.
+
+\4. Indigenous people who were sentenced to a fixed-term imprisonment or more for simply manufacturing, transporting, possessing, trading, transferring, renting, lending, or storing self-made hunting rifles and harpoons before the amendment and implementation of this Act on November 14, 2001, may still apply for permission to manufacture them.
+
+\5. The competent authority shall guide indigenous people and fishermen to legally apply for self-made hunting rifles and harpoons.
+
+\6. Those who voluntarily turn in items in situations mentioned in paragraphs 1 and 2 during a public announcement period approved by the Executive Yuan and issued by the central competent authority shall be exempted from penalties.
+
+## Article 20-1
+
+\1. Devices resembling real guns in appearance, structure, material, and gunpowder-based firing mechanisms and capable of being modified to inflict harm are considered imitation guns. Imitation guns and their main components shall be prohibited and announced by the central competent authority in conjunction with the central industry competent authority.
+
+\2. The aforementioned prohibited imitation guns and their main components shall not be manufactured, sold, transported, transferred, rented, lent, possessed, stored, or displayed. Exceptions are made for exclusive export, research, and development with police permission or film and television production with permission transferred by the central industry competent authority to the central competent authority and are listed for audit.
+
+\3. Manufacturing, selling, or transporting the prohibited imitation guns mentioned in paragraph 1 without permission shall be punished with imprisonment of one to seven years, and a fine of  not more than NT$7 million.
+
+\4. Transferring, renting, lending, possessing, storing, or intending to sell and display the prohibited imitation guns mentioned in paragraph 1 without permission shall be punished with imprisonment of not more than one year and a fine of  not more than NT$2 million.
+
+\5. Modifying the prohibited imitation guns mentioned in paragraph 1 to fire metal or bullets without lethal force shall be punished with imprisonment of not more than three years and a fine of  not more than NT$3 million.
+
+\6. Individuals or groups that already possess the imitation guns and their main components mentioned in paragraph 1 before the prohibition announcement must report to the police authorities within six months of the announcement. Those who complete the report within the deadline will not be penalized for possession.
+
+\7. Procedures for applying for permission for exclusive export and research and development mentioned in paragraph 2, required documents, conditions, duration, revocation, regular inspections, and other compliance matters shall be determined by the central competent authority in conjunction with the central industry competent authority.
+
+\8. Procedures for applying for permission for film and television production use mentioned in paragraph 2, required documents, conditions, duration, revocation, and other compliance matters shall be determined by the central industry competent authority in conjunction with the central competent authority.
+
+## Article 20-2
+
+\1. Manufacturing, selling, or transporting the main components of the prohibited imitation guns mentioned in the preceding article without permission shall result in a fine of NT$1 million to NT$10 million; in severe cases, the offender may also be ordered to suspend or cease business operations.
+
+\2. Anyone who transfers, rents, lends, possesses, stores, or intends to sell and display the main components of the prohibited imitation guns mentioned in the preceding article without permission shall be fined NT$200,000 to NT$5 million; in severe cases, the offender may also be ordered to suspend or cease business operations.
+
+\3. The main components of the prohibited imitation guns, regardless of ownership, shall be confiscated. However, exceptions are made for situations mentioned in paragraph 2 and paragraph 6 of the preceding article.
+
+## Article 20-3
+
+\1. Police authorities inspecting firearms, ammunition, the prohibited imitation guns and their main components of may enter manufacturing, storage, or sales premises, inspect components, finished products, semi-finished products, various records, and other necessary items, question relevant persons, and request necessary information.
+
+\2. The inspection mentioned in the preceding paragraph may be conducted jointly with the industry competent authority when necessary.
+
+\3. Inspectors must proactively present their identification when conducting inspections in paragraph 1 and must not hinder the normal operation of the premises.
+
+\4. Evading, obstructing, or refusing inspection, questioning, or providing information, as mentioned in paragraph 1, shall be fined NT$200,000 to NT$500,000 and may be penalized per violation and forced to comply with the inspection.
+
+\5. Regulations regarding the personnel, inspection sites, targets, scope of items to be inspected, implementation procedures, and other compliance matters for the inspection mentioned in paragraph 1 shall be determined by the central competent authority.
+
+## Article 21
+
+If other laws prescribe heavier punishments for crimes committed under this Act, those laws shall apply.
+
+## Article 22
+
+\1. Informants who lead to the uncovering of offenses against this Act shall be rewarded.
+
+\2. Regulations for awarding informants, as mentioned in the preceding paragraph, shall be determined by the Executive Yuan.
+
+## Article 23
+
+(Deleted)
+
+## Article 24
+
+(Deleted)
+
+## Article 25
+
+Except for the provisions amended and promulgated on May 27, 2009, which shall be implemented on November 23, 2009, and except for the implementation date of Article 20 Paragraph 3 amended on June 10, 2020, and Article 13-1 and Article 20-2 amended on December 18, 2028, to be determined by the Executive Yuan, this Act shall be implemented from the date of its promulgation.
+
+## History
+
+\1. Enacted and promulgated by President Order Tai-Tong (1)-Yi-Tzu No.3547 on June 27, 1983
+
+\2. Amended by Presidential Order of Hua Zong 1 Yi Zi No. 0241 on Jan. 18, 1985
+
+\3. Amended by Presidential Order of Hua Zong 1 Yi Zi No. 4049 on July 16, 1990
+
+\4. Amended by Presidential Order of Hua Zong 1 Yi Zi No. 8500231810 on Sep. 25, 1996
+
+\5. Amended by Presidential Order of Hua Zong 1 Yi Zi No. 860025990 on Nov. 24, 1997
+
+\6. Amended by Presidential Order of Hua Zong 1 Yi Zi No. 8900166160 on July 5, 2000
+
+\7. Amended by Presidential Order of Hua Zong 1 Yi Zi No. 9000223470 on Nov. 14, 2001
+
+\8. Amended by Presidential Order of Hua Zong 1 Yi Zi No. 09300106981 on June 2, 2004
+
+\9. Amended by Presidential Order of Hua Zong 1 Yi Zi No. 09400010101 on Jan. 26, 2005
+
+\10. Amended by Presidential Order of Hua Zong 1 Yi Zi No. 09700250551 on Nov. 26, 2008
+
+\11. Amended by Presidential Order of Hua Zong 1 Yi Zi No. 09800134261 on May 27, 2009
+
+\12. Amended by Presidential Order of Hua Zong 1 Yi Zi No. 09800134261 on Jan. 5, 2011
+
+\13. Amended by Presidential Order of Hua Zong 1 Yi Zi No. 10000259731 on Nov. 23, 2011
+
+\14. Amended by Presidential Order of Hua Zong 1 Yi Zi No. 10600073201 on Jun. 14, 2017
+
+\15. Amended by Presidential Order of Hua Zong 1 Yi Zi No. 10900064791 on Jun. 10, 2020
+
+\16. Amended by Presidential Order of Hua Zong 1 Yi Zi No. 11200115281 on Jan. 3, 2024

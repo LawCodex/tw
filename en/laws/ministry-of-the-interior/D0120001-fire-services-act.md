@@ -1,0 +1,837 @@
+---
+title: "Fire Services Act"
+title_zh: "消防法"
+identifier: "D0120001"
+type: act
+law_level: "法律"
+category: "行政＞內政部＞消防目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1985-11-29
+last_amended: 2024-11-29
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0120001"
+retrieved: 2026-10-12
+---
+
+# Fire Services Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-the-interior/D0120001-fire-services-act.md](../../../zh/laws/ministry-of-the-interior/D0120001-fire-services-act.md)) is authoritative.
+
+## Chapter One: General Provisions
+
+### Article 1
+
+This Act is enacted to prevent fires, rescue from disasters, and emergency medical services, in order to maintain public safety and ensure the protection of people's lives and property, and protect the safety and health of firefighters during their execution of duties.
+
+### Article 2
+
+(Definition of Administrator)
+
+For the purpose of the Act, an “administrator” whenever appears in the Act, is referred to any person who has the right to exercise domination and control of the place in question either as duly conferred by the law or by contract; the managing director shall be the administrator in case of an incorporated body.
+
+### Article 3
+
+The competent authorities referred to in this law are: the Ministry of Interior at the central government level, the city government for municipalities directly under the central government, and the county (city) government for counties (cities).
+
+### Article 4
+
+(Fire Engine, Equipment & Manpower Allocation Standards)
+
+Fire engine, equipment and manpower allocation standards for the municipality, county and city shall be determined by the central regulating authorities.
+
+## Chapter Two: Fire Prevention
+
+### Article 5
+
+(Education & Propaganda)
+
+Governments of each Municipality, county and city shall sponsor fire prevention education and propaganda programs co-sponsored every year by public agencies, schools, civil organizations and mass communication media.
+
+### Article 6
+
+(Installation of Fire Safety Equipment)
+
+The Act defining the Administrators who have the right to dominate and control a variety of places should provide and maintain the proper fire safety equipment.
+
+The central regulating authorities shall set forth standards for the classification of places and the installation of fire safety equipment.
+
+Fire departments may classify depending on the hazardous extent of the various places defined in previous paragraph herein for control,inspection and re-inspection.
+
+Para.1 defines a variety of places not complying with all or one item regulated in Para.1 owing to the difficulty of application with special purposes, constructions, or other fire techniques, methods and equipments as higher level effect should be attached with related certificates recognized by the central fire regulating authority.
+
+The administrators of the hotels, sites of senior citizens’ social welfare and the places announced by central regulating authority that not involved in paragraph 1 herein should provide and maintain residential fire alarms. The regulations regarding the installation, period of improvement, and other matters should be obeyed will be set forth by the central regulating authorities.
+
+Administrators of the place that not involved the ones require automatic fire alarms equipments under the standard in paragraph 1 herein should provide and maintain residential fire alarms. The regulations regarding the installation, period of improvement, and other matters should be obeyed will be set forth by the central regulating authorities.
+
+### Article 7
+
+Fire safety equipment installed according to the standards for various types of places should be designed and supervised by certified fire safety professionals. Testing and maintenance should be conducted by fire safety professionals or certified fire equipment technicians. The above tasks related to fire safety equipment may be temporarily performed by existing specialized professions and technical personnel or technicians, with a period until five years from the day the amendments to this law are implemented on May 30, 112th year of the Republic of China. Architectural and electrical engineers can design, supervise, or test and repair non-systematic fire safety equipment such as fire extinguishers, signs, and emergency lighting, without being restricted by the first paragraph. The qualification and management of fire safety professionals are determined by other laws. Before the enactment of the aforementioned law, the central competent authority may formulate the management measures for fire safety professionals and fire equipment technicians.
+
+### Article 8
+
+(Qualification of Fire Protection Equipment Engineer/Technician)
+
+Any citizen of the Republic of China having passed the fire protection equipment engineer examination is duly conferred a certificate of a fire protection equipment engineer under the Act may act as a fire protection equipment engineer.
+
+Any citizen of the Republic of China having passed the fire protection equipment technician examination is duly conferred a certificate of a fire protection equipment technician under the Act may act as a fire protection equipment technician.
+
+Any one applying for the issuance of a certificate of fire protection equipment engineer or technician shall submit a written application and qualification documents and file the application with the central regulating authorities.
+
+### Article 9
+
+The administrator of a variety of places specified in the first paragraph of Article 6 shall conduct regular inspection and maintenance of fire safety equipment in accordance with the following provisions; the inspection results shall be reported to the competent authority where the site is located for review within the prescribed time limit, and the competent authority may send personnel for re-inspection; The same shall apply to the case of business closure or suspension of business. However, if the entire building where the various sites are located is no longer in use, the administrator of the site may be exempted from regular inspections of fire safety equipment and declaration of inspection results after reporting to the local competent authority for review and approval until the building is restored to use:
+
+1.High-rise buildings, underground buildings, or places announced by the central competent authority: entrust a professional fire safety equipment inspection and maintenance institute permitted by the central competent authority to handle.
+
+2.Places above a certain scale other than those in the preceding paragraph: entrust a fire protection equipment engineer or a fire protection equipment technician.
+
+3.Places other than the preceding two paragraphs that are only equipped with non-systematic fire safety equipment such as fire extinguishers, sign equipment or emergency lighting: entrust a fire protection equipment engineer , a fire protection equipment technician or the administrator to manage it.
+
+Items, methods, standards, and frequency of regular inspection and maintenance of the safety equipment in various places (including out of business or closed places) in the preceding paragraph, periodic inspection or calibration of necessary equipment and appliances for maintenance, specifications, styles, additional methods and locations of maintenance completion signs, the reporting period for acceptance of inspection results, the inspection and handling methods when applying for review, the criteria for determining that the entire building is no longer in use, and the documents to be prepared for review and other matters to be complied with shall be prescribed by the central competent authority.
+
+Places above a certain scale in Subparagraph 2 of Paragraph 1 shall be announced by the central competent authority.
+
+The central competent authority shall prescribe qualifications, procedures, documents to be prepared, review methods, verification (renewal) issuance of licenses, valid period, modification, abolition, extension, regulations of business execution, the employment, changes, training of fire protection equipment engineer or technician, preparation and retention period of business- related documents, reporting of various forms and other matters to be obeyed by a professional fire safety equipment inspection and maintenance institute specified in Subparagraph 1 of Paragraph 1.
+
+### Article 10
+
+(Approval of Fire Safety Equipment Drawings)
+
+Drawings of fire safety equipment of any building for public use shall be completed with the examination and approval by the municipal, or county/city fire department before seeking the approval to commence the constructional work from the building regulating authorities.
+
+Any item applying for preliminary examination under Article 34.1 of Building Act involving fire safety equipment of building, it shall be jointly examined by the building regulating authorities and the fire department.
+
+In the event that a building not provided for public use is changing to one for public use, or a building provided for public use is changing to one for another type of public use, the building regulating authorities and the fire department shall jointly examine the drawings of fire safety equipment of the building in question.
+
+### Article 11
+
+For buildings with above-ground floors reaching eleven stories or more, underground buildings, and places designated by the central competent authority, the manager should use flame-retardant marked carpets, curtains, drapes, display advertising boards, and other specified flame-retardant items. Flame-retardant items or their materials without flame-retardant markings shall not be sold or displayed.
+
+### Article 11-1
+
+Those engaged in the manufacturing, import processing, or operation of flame-retardant items or their materials should apply for flame retardant performance certification from the professional organization registered by the central competent authority, and may only apply for flame-retardant marking from the professional organization after obtaining the certification. The central competent authority may carry out random sampling tests on flame-retardant items or their materials, and operators must not evade, obstruct, or refuse. Details regarding the application eligibility, procedure, necessary documents, review method, certification (re)issuance, validity period, changes, cancellation, extension, flame-retardant marking specifications, attachment method, application procedure, necessary documents, issuance, cancellation, suspension of issuance and other matters to be observed are to be stipulated by the central competent authority.
+
+### Article 12
+
+(Inspection of Fire Machine, Supplies and Equipment)
+
+Any fire control machine & tool, apparatus and equipment subject to approval as published by the central regulating authorities may not be offered for sale, display, installation and/or use unless they have survived the approval by the registered Institution of the central regulating authorities and bear an approval label.
+
+With the exception of those items with particular property listed by the central regulating authorities, the approval specified in the preceding paragraph shall include type approval and individual approval in sequence.
+
+Any fire control machine & tool, apparatus and equipment subject to approval as published by the central regulating authorities in the first paragraph, its application, procedure, documents, examination methods, effective approval period, repeal, abolishment, regulating approval label, way of attaching, cancellation, removal and other requirements shall be specified by the central regulating authorities.
+
+The applicant for the approval shall pay the approval fee to the registered institute specified in the first paragraph; the charged items and prices shall be submitted by the registered institute and ratified by the central regulating authorities.
+
+The structure, material, function, approval inspection content, batch recognition, inspection result assessment, primary inspection equipment and other standards of any fire control machine & tool, apparatus and equipment subject to approval shall be specified by the central regulating authorities.
+
+The application, procedure, documents, examination methods, the effective period, issuance (reissuance), repeal, abolishment, administration and other requirements of the registered institute specified in the preceding paragraph shall be specified by the central regulating authorities.
+
+### Article 13
+
+Buildings of a certain scale or larger should have a fire protection manager designated by the property manager, who is responsible for developing a fire protection plan. The definition of "a certain scale or larger" in the previous paragraph shall be announced by the central competent authority. If any construction, alteration, repair, change of use, or interior decoration construction affects the function of the original systematic fire safety equipment in the building, the property manager shall have the fire protection manager set up a fire protection plan during construction. The fire protection plans in the first and previous paragraphs should be submitted by the property manager for reference to the competent authority where the building is located, and the necessary tasks related to fire protection management should be carried out according to the plans.
+
+In cases where the management rights of the following buildings are divided, each management rights holder should agree to appoint a joint fire protection manager, who is responsible for developing a joint fire protection plan. This plan should then be submitted by each management rights holder for reference to the competent authority where the building is located, and the necessary tasks related to joint fire protection management and overall evacuation drills should be carried out according to the plan:
+
+1.Buildings of eleven stories or more above ground, not including collective residences.
+
+2.Underground buildings.
+
+3.Other buildings announced by the central competent authority.
+
+In the event that a place does not comply with the first paragraph in the buildings mentioned in the previous paragraph, each management rights holder can agree to assign personnel from that place to serve as the joint fire protection manager. The fire protection manager or joint fire protection manager should be management or supervisory personnel of the places specified in the first and fifth paragraphs. They should receive a certain number of hours of training from the competent authority or a professional organization registered by the central competent authority, and should hold a certificate of qualification. During their term of service, they should also regularly receive refresher training.
+
+The details regarding the training content, hours, trainer qualifications, testing methods, qualification standards, certificate issuance, data setup and preservation, and other matters to be observed for the fire protection manager or joint fire protection manager, as well as the professional organizations specified in paragraph seven, will be determined by the central competent authority.
+
+The property manager should report the appointment of the fire protection manager or joint fire protection manager to the competent authority where the building is located for reference within fifteen days from the day after the appointment. The same applies when there are changes.
+
+### Article 13-1
+
+The disaster prevention centers of high-rise buildings or the central management rooms of underground buildings should have on-duty personnel. These personnel should undergo a specific amount of training by competent authorities or professional organizations registered by the central competent authority. They should obtain a qualification certificate before they can serve. During their tenure, they should regularly receive refresher training.
+
+The method of providing training to on-duty personnel by the competent authority mentioned in the previous paragraph, including the items, a certain amount of time, qualifications of the lecturer, testing method, qualification criteria, issuing of qualification certificates, establishment and preservation of data, and other matters to be complied with, shall be determined by the central competent authority.
+
+The professional organizations specified in the first paragraph, the qualification for their application for registration, procedure, required documents, review method, issuing (replacement) of registration certificates, validity period, changes, revocation, extension, regulations of business operation, establishment, preservation and reporting of data, items of training for on-duty personnel, a certain amount of time, and other matters to be complied with shall be determined by the central competent authority.
+
+The authority holders should report the hiring of on-duty personnel to the competent authority of the building location for record within 15 days from the day after the appointment. The same applies when there are changes.
+
+### Article 14
+
+(Hazardous Acts)
+
+Ignition in the field, sky lantern flying and similar acts declaring by the authority concerned in public are not allowed to do without the permit。
+
+The authority concerned taking the public safety into consideration can enact regulation for the permit of the acts in preceding paragraph about qualification, procedure, documents, protecting measures, check, abolishment, zone and other necessary requirements.
+
+### Article 14-1
+
+The public buildings and the places declared by the authority concerned are not allowed to perform flame show without the permit except other laws are permitted.
+
+The authority concerned can enact regulation for the permit of the acts in preceding paragraph about qualification, procedure, documents, protecting measures, check, abolishment, zone and other necessary requirements.
+
+The firemen inspect the place getting permit should show the certificate or some signs for identification.
+
+Administrator or the people on the spot are not allowed to avoid, interfer with, or refuse and they should offer relative materials with the requirement of fireman.
+
+### Article 15
+
+Public hazardous substances and flammable pressurized gases shall be safely transported in accordance with their containers, loading, and transporting methods, as well as when the quantity for control is reached, shall be stored or processed in a safe manner at the manufacturing, storage, or processing site.
+
+Regarding the public hazardous substances and flammable pressurized gases described in the preceding paragraph, their scope and classification as well as the safety management measures for the location of manufacturing, storing, or processing them, and for the standards for setting, storing, processing, and transporting the construction and equipment shall be set forth by the central competent authority jointly with the central competent authority of the target business. However, wherever the central competent authority of the target business has separately set forth safety management measures for manufacturing, storing, processing, or transporting the public hazardous substances and flammable pressurized gases, those separate provisions shall prevail.
+
+Workers involved in the site specified in Paragraph 1, or retail businesses (hereinafter referred to as “Retailer”) of the domestic liquefied petroleum gas (LPG), users and related employees can state the facts or provide evidence materials to the competent authority of the municipal or county (city) government, whistleblowing the offenses violating the preceding two paragraphs.
+
+The competent authority of the municipal and county (city) government shall keep confidential the identity of the whistleblower referred to in the preceding paragraph.
+
+The supervisor or employer of the whistleblower referred to in Paragraph 3 shall not be dismissed, transferred, or otherwise disadvantaged because of his/her whistleblowing act.
+
+Any act by a unit supervisor or employer as specified in the preceding paragraph shall be invalid.
+
+Where the whistleblowing contents in the Paragraph 3 is verified to be true and a fine is imposed, a certain proportion of the total amount of fines actually collected shall be used as a reward to the whistleblower.
+
+The regulations governing the qualifications for rewarding the whistleblower, the proportion of reward out of the fines, the method for distributing the reward, and other related matters referred to in the preceding paragraph shall be set forth by the competent authority of the municipal and county (city) government.
+
+### Article 15-1
+
+The firm that installs gas-burning water heater and it’s piping shall apply , register and obtain the permission from governments of Municipality, county or city before business. It is forbidden to install gas-burning water heater without employing the mounters having licenses after February 1, 2006.
+
+The regulations regarding the application, modification, recision and abrogation, scope of business, employment of mounters and related matter of management for the firm’s registration described in the preceding paragraph herein will be set forth by the central regulating authority jointly with the regulating authorities of the public sectors.
+
+The standards of gas-burning water heater and it’s piping installation in the first paragraph herein shall be set forth by the central regulating authority.
+
+The gas-burning water heater in the first paragraph herein should install on the external wall of the building or the place where there are openings for air circulation. Otherwise, that water heater should equip with an exhaust pipe for discharging fume out from the building.
+
+### Article 15-2
+
+Retailers should have safety technicians to conduct gas inspections and prepare the following data to be regularly reported to the competent authority of the business location:
+
+1.Management data of container storage locations.
+
+2.Container management data.
+
+3.User data.
+
+4.LPG filling certification data of LPG filling station operators.
+
+5.Safety technician management data.
+
+6.User safety inspection data.
+
+7.Proof of public accident liability insurance.
+
+8.Other data announced by the central competent authority.
+
+The method of producing the data mentioned in the previous paragraph, content to be recorded, placement, preservation for years, reporting, and other matters to be complied with shall be determined by the central competent authority.
+
+The safety technicians mentioned in the first paragraph should undergo a certain amount of training by professional organizations registered by the central competent authority, obtain a qualification certificate before they can serve, and should regularly receive refresher training during their tenure.
+
+The professional organizations specified in the previous paragraph, the qualification for their application for registration, procedure, required documents, review method, issuing (replacement) of registration certificates, validity period, changes, revocation, extension, regulations of business operation, establishment, preservation and reporting of data, items of training for safety technicians, a certain amount of time, and other matters to be complied with shall be determined by the central competent authority.
+
+### Article 15-3
+
+(Approval of LPG containers)
+
+The manufacturer or importer of a liquefied petroleum gas container (hereinafter referred to as a container) shall apply to the central competent authority for type approval and issue a type approval certificate, and may apply for individual approval.
+
+The container shall be sold after it has been individually qualified according to the preceding paragraph and attached with a qualified mark.
+
+The central competent authority shall determine the qualifications, procedures,documents,issue the approval, validated,changed,revoked,abolished, extended, and qualified to stop the issuance and sale of the target data ,the methods for establishment, preservation and declaration of the container specified in the first paragraph and other matters to be complied with.
+
+The specifications, construction, materials, welding regulations, marks, coating, service life, approved test items, batch identification, sampling quantity, test result determination, specifications and additional methods of qualified marks, handling of nonconformities and other relevant standards of the containers specified in paragraph 1 shall be announced by the central competent authority.
+
+The approval, individual approval, type approval certificate as prescribed in paragraph 1, the issuance of qualification mark as prescribed in paragraph 2, the issuance (replacement) of qualification mark as prescribed in paragraph 3, the suspension, cancellation, annulment and extension of qualification mark may be entrusted to a professional institution registered with the central competent authority.
+
+The fees required for the approval, individual accreditation, issuance of qualified signs, issuance, alteration and extension of the certificate of accreditation of the professional institution signed in the preceding paragraph shall be borne by the applicant, and the amount of the fee items and fees shall be submitted by the institution to the central competent authority for approval.
+
+The qualifications, equipment and personnel, procedures, documents to be prepared, period of validity of the registration certificate, issuance (exchange), revocation, revocation, alteration, extension, construction of data, preservation and declaration, suspension of business and other matters to be complied with shall be determined by the central competent authority.
+
+### Article 15-4
+
+(Periodic inspection of LPG containers)
+
+The container shall be inspected regularly. Before the expiration of the inspection period, the retailer shall send the container to the container inspection institution registered by the central competent authority for inspection. After passing the inspection and attaching the qualification mark, the container can continue to be used. After the expiration of the service life, the container shall be replaced. The period, item, method, result judgment, items and additional methods of the qualification mark shall be included and inconsistent The standards for the destruction of containers, valves and other related matters shall be announced by the central competent authority.
+
+The cost of the container inspection agency as determined in the preceding paragraph shall be borne by the retailer, and the items and fees charged by the retailer shall be submitted by the institution for approval by the central competent authority.
+
+The central competent authority shall prescribe the measures for the qualification, instruments, equipment and personnel, procedures, documents to be prepared, validity period of registration certificate, issuance (replacement), cancellation, annulment, change, extension, data establishment, storage and application, stop issuance of qualification marks, business suspension, and other matters to be followed by the container inspection institution specified in the first paragraph.
+
+### Article 15-5
+
+The originator of a place for the manufacture, storage, or handling of public dangerous goods and flammable high-pressure gas as specified in Article 15, Paragraph 1, shall submit the location, construction, and equipment diagrams of the place to the competent authority of the location for review. Only after the review is complete may they report to the competent construction authority for commencement of work.
+
+When applying for a use permit for the place specified in the previous paragraph in accordance with the Building Act, the competent construction authority shall inspect its location, construction, and equipment in conjunction with the authority conducting the review in the previous paragraph. Only after they pass the inspection may a use permit be issued.
+
+Before the builder of a storage tank for storing liquid public dangerous goods applies for a use permit as stipulated in the previous paragraph, it should be inspected by a professional organization approved by the central competent authority and a certification document of conformity should be issued.
+
+The storage tank mentioned in the previous paragraph that reaches a certain scale announced by the central competent authority, the authority holder should commission the professional organization in the previous paragraph to conduct regular inspections, keep records, and keep them for at least five years. Storage tanks set up before the announcement takes effect should complete their first regular inspection within five years from the date the announcement takes effect. The competent authority may send personnel for inspection.
+
+The items, methods, qualification standards, frequency of regular inspection, and other matters to be complied with for the inspection of the storage tanks storing liquid public dangerous goods in the previous two paragraphs shall be determined by the central competent authority.
+
+The professional organizations specified in the third paragraph, their qualification for application for approval, procedure, required documents, review method, equipment and tools, issuing (replacement) of approval certificates, validity period, changes, revocation, extension, regulations of business operation, establishment, preservation and reporting of data, and other matters to be complied with shall be determined by the central competent authority.
+
+The storage tanks of liquid public dangerous goods of a certain scale that should be regularly inspected, if the central competent authority for the business in question has regulations for regular inspections, shall be handled according to its regulations.
+
+### Article 15-6
+
+The person in charge of a location where the combined manufacture, storage, and handling of public hazardous materials exceeds thirty times the regulated volume should employ a security supervisor and security inspector to carry out the following tasks:
+
+1.The security supervisor is responsible for formulating a fire prevention plan, which should be submitted to the local regulatory agency by the person in charge for record, and to perform the necessary tasks related to dangerous goods management according to the plan.
+
+2.The security inspector is responsible for the maintenance of structure and equipment, and conducting self-inspections, etc.
+
+The security supervisor should be from the management or supervision level of the aforementioned location. The supervisor and the security inspector should undergo a certain amount of training from a professional institution registered by the central competent authority and possess a qualification certificate before they can be appointed. During their tenure, they should regularly attend refresher training.
+
+The qualification, procedures, necessary documents, review methods, issuance/renewal of registration certificates, validity period, changes, cancellation, extension, rules for conducting business, data establishment, preservation and reporting, training subjects for security supervisors and inspectors, certain hours, and other matters to be complied with by the professional institution mentioned above, shall be determined by the central competent authority.
+
+The person in charge mentioned in the first paragraph shall report to the local competent authority for record within fifteen days from the day following the appointment of the security supervisor and security inspector; the same applies when changes occur.
+
+The fire manager appointed according to Article 13 who possesses the qualification of the security supervisor specified in the second paragraph may also serve as the security supervisor specified in the first paragraph.
+
+If the fire protection plan formulated in accordance with the first paragraph of Article 13 has been incorporated into the content of the fire prevention plan, the person in charge may be exempted from having the security supervisor formulate a fire prevention plan according to the first paragraph.
+
+## Chapter Three: Rescue Operation
+
+### Article 16
+
+(Setup of Rescue Command Headquarters)
+
+Each level of fire department shall set up a rescue command headquarters to be in charge of command, mobilization, control and communication for things and matters required for fire fighting and providing first aid.
+
+### Article 17
+
+(Establishment of Fire Hydrant)
+
+When required by fire control, the municipal, and county/city governments shall join the water supply company to select each proper location for the establishment of a fire hydrant at the cost to be reasonably subsidized by the municipal, county/city governments, and town office while the maintenance of the fire hydrant shall be provided by the water supply company.
+
+### Article 18
+
+Telecommunications businesses should set up reporting telephone facilities as required by firefighting needs.
+
+No one may call the authority's reporting telephone without reason, or falsely report fires, disasters, lifesaving, emergency aid situations.
+
+The competent authority can ask telecommunications businesses to provide communication records and relevant personal information of those waiting to be rescued in order to carry out fire, disaster relief, lifesaving, or emergency aid tasks. Telecommunication businesses may not refuse.
+
+The competent authority and telecommunications businesses' staff involved in the operation related to the aforementioned information shall keep the process and the content of the known information confidential and shall not disclose it without justified reasons.
+
+### Article 19
+
+Firefighters may enter, use, damage, or damage the people’s land, buildings, vehicles, and other objects without entering, using, damaging, or restricting such use, and cannot reach the purpose of emergency and rescue.
+
+Any civilian sustaining property loss of a particular sacrifice as a result of using or destroying, or restricting the use of any land, building, vehicle and/or any other things pursuant to the preceding paragraph, may claim for loss compensation. However, if such loss is attributed to the civilian, the loss compensation claimed will not be accepted.
+
+### Article 19-1
+
+When the following places experience a fire, explosion, leakage of public hazardous materials or combustible high-pressure gas, the person in charge should immediately report to the object, method, and content specified and announced by the central competent authority:
+
+1.Factory areas of petroleum refining, petroleum chemical raw material manufacturing, synthetic resin and plastic manufacturing, plastic product manufacturing.
+
+2.Factory areas where the total manufacture, storage, or handling of public dangerous goods exceeds three thousand times the controlled amount or other areas announced by the competent authority.
+
+When personnel, vehicles, and equipment of the competent authority enter the places mentioned above, the person in charge of the place and the personnel on the scene must not evade, obstruct, or refuse.
+
+### Article 20
+
+(Fire Line)
+
+The commander of firemen may specify a fire line to the peripheral of the fire site to limit entry of any person and vehicle; and may evacuate or have a mandatory evacuation of any and all persons and vehicles within the area defined by the fire line.
+
+### Article 20-1
+
+(Right to withdraw from dangerous relief rescue)
+
+Rescue teams on the site should take appropriate rescue after pondering over the rescue goal and risk under the consideration of disaster relief safety; If there is no danger of human life at the site, dangerous relief rescue may not be performed.
+
+### Article 21
+
+(Use of Water Supply Source)
+
+For the purpose of fire control, the commander of firemen may use any kind of water supply sources available nearby and notify the water supply company to concentrate on supplying water to the fire site.
+
+### Article 21-1
+
+(When the factory fires, the administrators of the factory shall provide necessary rescue information and assign specially assigned person to the site to assist the fire commander)
+
+When fire commanders respond to fires in factories, warehouses or storage sites storing chemicals, and laboratories or warehouses of or above a certain scale, the discretionary administrator shall handle the fires in accordance with the following provisions:
+
+1.Provide the floor plan of the site and necessary information for the rescue;
+
+2.Provide the type, quantity, and location of the chemicals on-site, as well as the associated floor plan and necessary information for the rescue;
+
+3.The necessary information in the preceding two subparagraphs shall be updated and uploaded to the designated online platform in accordance with the provisions of the respective central competent authorities.
+
+4.Immediately assign dedicated personnel to the scene to assist with disaster relief.
+
+Laboratories or warehouses above a certain scale as mentioned in the preceding paragraph shall be announced by the central competent authority in consultation with the competent authorities of the target business.
+
+### Article 21-2
+
+(Hazard risk signage installation)
+
+The management rights holders of factories, warehouses and storage sites for hazardous chemicals shall install hazard risk signs at conspicuous locations on the premises for hazardous chemicals and shall update them promptly when there are changes in the hazard risk.
+
+The scope, items, grade, content, color, size and location of the hazardous risk signboards of the hazardous chemicals in the preceding paragraph shall be announced by the central competent authority.
+
+### Article 22
+
+(Interruption of Power and Gas Sources)
+
+To prevent extension and expansion of fire and as deemed necessarily, the commander of firemen may respectively notify the power company and the gas company to immediately cut of their supplies to the fire site.
+
+### Article 23
+
+(Control Area)
+
+Upon finding or being notified of any public hazardous material, or pressurized gas that appears to present risks of fire and/or explosion may specify the control area to limit entry of person and vehicle, prescribe mandatory evacuation; and may limit or restrict use of any ignition source.
+
+### Article 24
+
+(Organization of Rescue Team)
+
+Municipal, county/city fire department shall as applicable establish a rescue team, supplied with vehicles and medical personnel to provide first aid service.
+
+Vehicles, equipment, and manpower allocation standards as well as first aid service procedure shall be set forth jointly by the central regulating authorities and the public sector regulating authorities.
+
+### Article 25
+
+(Coordination of Rescue Operation)
+
+In case of any Act or God, airplane crash, mining accident, forest fire, car accident and any other major hazard, the municipal, county/city fire departments shall promptly joint the rescue operation and provide first aid service.
+
+## Chapter Three-1: Safety and Health Protection for Fire Fighters
+
+### Article 25-1
+
+To prevent possible harms to the life, body, and health of firefighters due to the firefighters' identities and duty activities, the central competent authority shall form a firefighters' duty safety and health advisory board (hereinafter referred to as the “Advisory Board”) consisting of selected representatives of fire services institutions, representatives of civil servant associations, and scholars and experts.
+
+The proportion of either gender in the Advisory Board members shall not be less than one-third.
+
+The Advisory Board shall provide recommendations on matters such as occupational safety and health policies, safety and health management systems, safety and health protection equipment and measures, etc. for firefighters.
+
+The composition and tasks of the Advisory Board, the qualifications of the board members and methods for appointing the board members, and other related matters shall be set forth by the central competent authority.
+
+### Article 25-2
+
+Fire services institutions at all levels shall set up dedicated safety and health units with appointed dedicated personnel. However, where the budgeted number of staff is less than 200, dedicated safety and health personnel may be appointed without the dedicated units.
+
+Fire services institutions at all levels shall implement the following matters:
+
+1.Establish a firefighter safety and health management system.
+
+2.Provide firefighters with the necessary safety and health protection equipment and measures to perform their duties.
+
+Fire services institutions at all levels shall announce and make the matters in the preceding paragraph known to their firefighters.
+
+### Article 25-3
+
+Regarding members of the safety and health protection team formed by fire services institutions at all levels in accordance with the relevant provisions of Article 19 of the Civil Service Protection Act, the proportion of either gender shall not be less than one-third, and the proportion of grassroot-level firefighters shall not be less than one-fifth.
+
+### Article 25-4
+
+Fire services institutions at all levels shall handle the following matters and report to the central competent authority for filing:
+
+1.Periodically collect statistics and evaluate the effectiveness of the establishment of the firefighter safety and health management system.
+
+2.Promptly make reports and prepare investigation records of any incidents involving illness, injury, disability, or death of firefighters due to their workplace, work activities, or other occupational reasons.
+
+### Article 25-5
+
+The central competent authority or its commissioned groups, institutions (institutes), and schools may audit the establishment situation of the firefighter safety and health management system of fire services institutions at all levels, where the audit results shall be announced by the central competent authority.
+
+As for the audit results in the preceding paragraph, central competent authority may reward and publicly commend those with good performance; and may order improvements and make disciplinary recommendations for those with poor performance.
+
+### Article 25-6
+
+Fire services institutions at all levels may conduct periodic health checkups of specific items for their firefighters, and if necessary, may also conduct extemporaneous health checkups; where the items and methods of the checkups shall be determined by the central competent authority in consultation with the health, environmental protection, and other relevant agencies.
+
+Firefighters are obligated to undergo the health checkups specified in the preceding paragraph.
+
+The health checkups referred to in Paragraph 1 shall be conducted by regional hospitals or medical centers that have been evaluated as qualified by the central health authority; the health checkups records shall be kept by fire services institutions at all levels, and the health checkups expenses shall be borne by fire services institutions at all levels; when extemporaneous health checkups are conducted, fire services institutions at all levels shall provide hospitals with materials of the experience in disaster relief operations.
+
+Fire services institutions at all levels shall report the results of health checkups of their firefighters to the central competent authority for filing as a necessary step in preventing duty-related diseases.
+
+### Article 25-7
+
+Fire services institutions at all levels shall provide their firefighters with the necessary safety and health education and training for duty performance and disaster prevention; whereas firefighters are obligated to accept such education and training.
+
+The necessary safety and health education and training matters in the preceding paragraph, the qualifications and management of the training units, and other matters to be complied with by the training units, shall be set forth by the central competent authority.
+
+### Article 25-8
+
+Fire services institutions at all levels shall provide their firefighters with appropriate environment, and safety and health protection equipment and measures, in consideration of the special needs of firefighters based on factors such as gender, age, physical and mental disabilities, etc.
+
+For firefighters who are pregnant or within two years after giving birth, fire services institutions at all levels shall not only provide them with appropriate environment, and safety and health protection equipment and measures, but also take measures of duty adjustments or necessary health protection based on the physician's suitability assessment recommendations.
+
+### Article 25-9
+
+Governments at all levels shall give priority to allocating budgetary support to the funds required for the provision of safety and health protection equipment, measures, and health checkups for firefighters.
+
+## Chapter Four: Disaster & Fire Cause Determination
+
+### Article 26
+
+(Fire Investigation & Examination)
+
+To investigate and determine cause of fire, the municipal, county/city fire department may have their agents to enter into the site in question to survey, collect and preserve evidences; and make inquiries.
+
+Before the completion of the investigation and determination, the site of fire shall be kept integral and may be blocked out when required.
+
+### Article 26-1
+
+Fire victims or stakeholders can apply to the competent authority for fire certificates or fire investigation information.
+
+The procedures, scope, qualification restrictions, necessary documents, review methods, period, and other matters to be complied with when applying for the fire certificate or fire investigation information mentioned above shall be determined by the central competent authority.
+
+### Article 27
+
+Municipal, county/city governments may invite representatives from agencies concerned and experts to organize an investigation committee to examine and determine cause of fire; the incorporation procedure for such a committee shall be specified by the municipal, county/city governments.
+
+### Article 27-1
+
+(Composition of disaster accident investigation committee)
+
+To investigate the causes of the incidents involving firefighters and volunteer firefighters who died or were seriously injured or whose injuries met the disability benefit payment standards of civil servants insurance due to disaster rescue or other firefighting duties, the competent authorities at all levels shall form a disaster incident investigation committee (hereinafter referred to as “Investigation Committee”) consisting of selected representatives of relevant institutions (institutes) and groups, scholars and experts, and representatives of grassroot-level firefighting groups.
+
+The investigation committee shall prepare an investigation report on the cause of the incident, propose recommendations for disaster rescue improvements, and track the implementation of the improvement recommendations.
+
+The Investigation Committee may, for business execution, request relevant institutions (institutes) to access documents, or require legal persons, groups, or individuals to provide materials or documents. Where the materials or documents to be accessed have been previously accessed by judicial institutions or the Control Yuan, they should state the reasons and provide copies to the Investigation Committee. Where there are legitimate reasons why a copy cannot be produced, a proof of the document’s having been accessed by another institution should be produced.
+
+The composition of the Investigation Committee referred to in Paragraph 1, the qualifications of the committee members and methods for appointing and procedures for processing the committee members, and other measures for compliance shall be set forth by the central competent authority.
+
+## Chapter Five: Utilization of Civil Force
+
+### Article 28
+
+(Organization of Voluntary Fire Fighters)
+
+Municipal and county (city) governments may organize volunteer firefighting organizations to assist with firefighting and emergency medical services work; where regulations regarding their organization, training, exercises, duties, and other related matters shall be set forth by the central competent authority.
+
+The funds for the equipment and devices required by the volunteer firefighting organizations referred to in the preceding paragraph shall be subsidized by the central competent authority.
+
+The provisions of Paragraph 2 of Article 25-2, Article 25-4, and Paragraphs 1 and 3 of Article 25-6 shall apply mutatis mutandis to the safety and health protection of personnel of the volunteer firefighting organization referred to in Paragraph 1.
+
+### Article 29
+
+(Service Allowance)
+
+The voluntary fire fighter in the course of training, drill and service under the Act shall be provided with the accommodation, transportation means or money in lieu as applicable by the municipal, or the county/city government as the case may be. During the service, the voluntary fire fighter shall be paid the allowance by referring to that payable to a national guard called for service.
+
+A public leave shall be granted to any voluntary fire fighter called to receive training, participate in drill and service duties by the institute, agency, school, corporate, group, factory or plant where the voluntary fire fighter holds a job.
+
+### Article 30
+
+(Payments)
+
+Any voluntary fire fighter becomes ill, disable or dead in the course of training, drill or on duties shall be paid depending on the applicable regulations to his/her status at where he or she holds the regular job, the following requirements shall govern:
+
+\1. Ill or injury: a certificate for such ill or injury issued by the fire department shall be produced to a public hospital or a contracted hospital to receive medical care: Provided, however, that medical care may be sought from any hospital in case of emergency.
+
+\2. Disability: the disability payment shall be paid in a lump sum depending on the gravity of the injury as follows:
+
+(1) Extremely severe and severe degree: 36 cardinals payable;
+
+(2) Intermediate degree: 18 cardinals payable; or
+
+(3) Mild degree: 8 cardinals.
+
+\3. Death in the event: 90 cardinals payable.
+
+\4. Disability due to injuries, disabilities and later died: payment to be made up in a lump sum as provided in the preceding subparagraph.
+
+For the purpose of this Article, the amount of one cardinal shall not be less than that of a maximal monthly remuneration of an annual remuneration payable to a public service of the fifth job ranking of commission grade.
+
+The disability assessment service shall be determined pursuant to People with Disabilities Rights Protection Act.
+
+Payments to be made under the first paragraph shall be approval and released by the municipal, or county/city government in care of the fire department concerned.
+
+### Article 31
+
+(Requisition of Equipment and Personnel for Fire Control)
+
+Fire department when required for fire control and first aid may requisition and utilize fire control, rescue, medical personnel, vehicle, sea vessel, aircraft and equipment from public agencies, public sector and private sector.
+
+### Article 32
+
+(Reimbursement)
+
+Any entity in requisition under Article 31 may claim with the fire regulating authorities with jurisdiction for the following reimbursements:
+
+\1. For the vehicle, sea vessel and air craft requisitioned, the reimbursement will be made pursuant to the standard rates of communications and transportation authorized by the government; in the absence of such standard rates, the local standard rates then prevailing shall be referred for reimbursement by the fire regulating authorities.
+
+\2. The fire regulating authorities shall cause any vehicle, sea vessel and/or equipment damaged in requisition to be repaired; if such repair is prevented, a sum determined by the market price after deduction of appreciated value shall be refunded to its owner; and any loss of consumption shall be reimbursed according to the market price.
+
+\3. Any person requisitioned for fire control, rescue and providing first aid shall be paid according to the standard remuneration payable by his or her employer or entity where he or she holds the regular job; and any person becomes ill, injured, disabilities or dead, the payment shall be made as provided in Article 30.
+
+The same as provided in the preceding paragraph shall be applicable to any person requested by the fire department to engage in fire control, rescue when sustaining any loss of equipment, becoming ill, injured, disabilities, or dead.
+
+## Chapter Six: Penal Clauses
+
+### Article 33
+
+(Penal Clause)
+
+Any person having damaged or destroyed any fire look-out tower, alarm bell tower, radio tower, closed-circuit TV tower or any related facilities shall be subject to an imprisonment or hard labor for a term not longer than five years, or a penal sum not less than NT$10,000 and not greater than NT$50,000, or both.
+
+The same governs to any attempted offense as described in the preceding paragraph herein.
+
+### Article 34
+
+(Penal Clause)
+
+Any person having damaged or destroyed any water storage and/or supply equipment or fire control, rescue equipment shall be subject to an imprisonment or hard labor for a term not longer than three years, or a penal sum not less than NT$6,000 and not greater than NT$30,000, or both.
+
+The same governs to any attempted offense as described in the first paragraph herein.
+
+### Article 35
+
+(Penal Clause)
+
+In any one of the following circumstances which can be attributed to the discretionary administrator conducts, for a resulting death in a fire, the discretionary administrator shall be sentenced to fixed-term imprisonment of not less than one year but not more than seven years, and may be fined not less than NT$1 million but not more than NT$5 million; for a resulting serious injury in a fire, the discretionary administrator shall be sentenced to fixed-term imprisonment of not less than six months but not more than five years, and may be fined not less than NT$500,000 but not more than NT$2,500,000:
+
+\1. Where a site of business use that is required to be equipped with fire safety equipment in accordance with the standards set forth in Paragraph 1 of Article 6 fails to set up or maintain fire safety equipment in accordance with the provisions.
+
+\2. Where a site that is required to be equipped with residential fire alarms in accordance with Paragraph 4 of Article 6 fails to set up or maintain residential fire alarms in accordance with the provisions.
+
+\3. Where a building of or above a certain scale as stipulated in Paragraph 1 of Article 13 fails to develop a fire prevention plan or a construction fire prevention plan, or fails to implement the necessary operations related to evacuation guidance in accordance with such plans.
+
+\4. Where a manufacturing, storage, or processing site of the public hazardous substances reaching the quantity for control as stipulated in Paragraph 1 of Article 15 fails to comply with the provisions related to the location, structure, or equipment requirements for setting up or maintaining the site as stipulated in Paragraph 2 of Article 15.
+
+\5. Where a manufacturing, storage, or processing site of the public hazardous substances reaching 30 times of the quantity for control as stipulated in Paragraph 1 of Article 25-6 fails to develop a fire prevention plan or fails to implement the necessary operations related to evacuation guidance in accordance with such plan.
+
+### Article 35-1
+
+For violations of the first item of Article 19-1, failing to immediately complete the report according to the object, method, or content announced by the central competent authority, the person in charge shall be fined between one hundred thousand and five hundred thousand New Taiwan dollars.
+
+For violations of the second item of Article 19-1, those who evade, obstruct, or refuse the entry of personnel, vehicles, or equipment of the competent authority into the place, the person in charge or the perpetrator shall be fined between twenty thousand and one hundred thousand New Taiwan dollars.
+
+### Article 35-2
+
+Personnel of the competent authority or telecommunication business violating the fourth provision of Article 18, who without a valid reason leak the process of the operation they are handling or the content of the information they are privy to, shall be fined between twenty thousand and one hundred thousand New Taiwan dollars.
+
+### Article 36
+
+A fine of ten thousand to fifty thousand New Taiwan dollars shall be imposed in the event of any of the following situations:
+
+1.Violating the second provision of Article 18, without reason calling the emergency number of the competent authority or falsely reporting a fire, disaster, life-saving, emergency ambulance situation.
+
+2.Disobeying the disposal made by the competent authority according to the first item of Article 19, Article 20, or Article 23.
+
+3.Refusing the scheduling or usage made by the competent authority according to Article 31.
+
+4.Interfering with the use of equipment provided in the first item of Article 34.
+
+### Article 37
+
+Any violations of the provisions of Paragraph 1 of Article 6 on fire safety equipment, Paragraph 4 of Article 6 on the setup and maintenance of residential fire alarms, or Paragraph 1 of Article 11 on the use of flame-retardant items shall be punished in accordance with the following provisions:
+
+1.For a site of business use, the discretionary administrator of the site shall be fined not less than NT$20,000 but not more than NT$300,000 and shall be notified to make improvements within a time limit; and
+
+2.For a site of non-business use, where improvements are not made within the time limit as per the notice, the discretionary administrator of the site shall be fined not less than NT$20,000 but not more than NT$300,000 and shall be notified to make improvements within a time limit.
+
+Any party failing to make improvements within the time limit again as per a new notice after being fined as specified in the preceding paragraph may be fined for each violation and subject to a disposition of business suspension or forbidden use of the site for a period of not more than 30 days.
+
+Any party who evades, obstructs, or refuses the inspection or re-inspection stipulated in Paragraph 2 of Article 6 shall be fined not less than NT$6,000 but not more than NT$100,000, and shall be fined for each violation and subject to compulsory inspection or re-inspection.
+
+### Article 38
+
+Those who engage in the design, supervision, testing, or maintenance of fire safety equipment in violation of the first provision of Article 7 shall be fined between 30,000 and 150,000 New Taiwan dollars and may be fined repeatedly for each violation.
+
+For those who violate the first provision of Article 9, the property manager will be fined between 10,000 and 50,000 New Taiwan dollars and will be notified to rectify within a given time limit. If not rectified within the stipulated time, repeated fines may be imposed.
+
+Fire safety equipment inspection institutions, fire equipment engineers, or technicians authorized by the central competent authority who do not inspect fire safety equipment according to the periodic inspection items, methods, standards, and deadlines set in the second provision of Article 9, or who provide false inspection reports for fire safety equipment, shall be fined between 20,000 and 100,000 New Taiwan dollars. They may be fined repeatedly and, if necessary, may be suspended from operating their business for a period ranging from one month to one year or be ordered to cease business operations.
+
+Fire safety equipment inspection institutions authorized by the central competent authority that violate regulations related to business operations, the employment, transfer, training of fire equipment engineers/technicians, the preparation of relevant business documents, preservation years, and reporting of various forms as prescribed in the fourth provision of Article 9 will be fined between 30,000 and 150,000 New Taiwan dollars. They will be notified to rectify within a given time limit. If not rectified within the stipulated time, repeated fines may be imposed, and they may be suspended from operating for up to 30 days or have their authorization revoked.
+
+### Article 39
+
+Those who violate the second provision of Article 11, selling flame-retardant items or materials without flame-retardant labels, or who violate the first provision of Article 12, selling or installing unauthorized fire-fighting equipment, materials, or apparatus without approved labels, will be fined between 20,000 and 100,000 New Taiwan dollars and may be fined repeatedly for each violation. If they still do not improve their display after being advised, they will be fined between 10,000 and 50,000 New Taiwan dollars and may be fined repeatedly for each violation.
+
+### Article 40
+
+Where a building of or above a certain scale, being a site of business use, violates the provisions of Paragraph 1 of Article 13 by the discretionary administrator’s failing to appoint a fire prevention manager to develop a fire prevention plan, or violates the provisions of Paragraph 3 of Article 13 by failing to develop a construction fire prevention plan, the discretionary administrator shall be fined not less than NT$20,000 but not more than NT$300,000. Where there is a concern of serious damage due to the fire, the discretionary administrator may be ordered to suspend the construction, and the construction may not be resumed without the construction fire prevention plan being submitted for filing in accordance with the provisions of Paragraph 4 of Article 13.
+
+Where a fire occurs in a building of or above a certain scale, the discretionary administrator violating the provisions of Paragraph 4 of Article 13 and failing to perform necessary operations related to fire prevention management in accordance with the fire prevention plan shall be fined not less than NT$20,000 but not more than NT$300,000.
+
+In any one of the following circumstances, the discretionary administrator failing to make improvements within the time limit as per the notice shall be fined not less than NT$20,000 but not more than NT$100,000:
+
+1.Where for a building of or above a certain scale, being a site of non-business use, the provisions of Paragraph 1 of Article 13 are violated by the discretionary administrator’s failing to appoint a fire prevention manager to develop a fire prevention plan, or the provisions of Paragraph 3 of Article 13 are violated by the discretionary administrator’s failing to appoint a fire prevention manager to develop a construction fire prevention plan.
+
+2.Where the provisions of Paragraph 4 of Article 13 are violated by the discretionary administrator’s failing to submit the fire prevention plan referred to in Paragraphs 1 and 3 of Article 13 to the competent authority of the jurisdiction where the building is located for filing, or the discretionary administrator’s failing to perform necessary operations related to fire prevention management in accordance with such plan.
+
+3.Where the provisions of Paragraph 5 of Article 13 are violated by the discretionary administrators’ failing to appoint a joint fire prevention manager through agreement to develop a joint fire prevention plan, or the discretionary administrators’ failing to jointly submit the fire prevention plan to the competent authority of the jurisdiction where the building is located for filing, or the discretionary administrators’ failing to perform necessary operations related to joint fire prevention management in accordance with the joint fire prevention plan submitted for filing.
+
+4.Where the provisions of Paragraph 7 of Article 13 are violated by the fire prevention manager or joint fire prevention manager’s failing to be a member of the managerial or supervisory level of the site, or failing to receive periodic refresher training during his/her period of employment.
+
+5.Where the provisions of Paragraph 10 of Article 13 are violated by failing to report the appointed or replaced fire prevention manager or joint fire prevention manager within the time limit to the competent authority of the jurisdiction where the building is located for filing.
+
+6.Where the provisions of Paragraph 1 of Article 13-1 are violated by failing to employ a service person with qualification certificates in the disaster prevention center of a high-rise building or in the central management office of an underground building, or the service person’s failing to receive periodic refresher training during his/her period of employment.
+
+7.Where the provisions of Paragraph 4 of Article 13-1 are violated by failing to report the appointed or replaced service member within the time limit to the competent authority of the jurisdiction where the building is located as referred to in Paragraph 1 of Article 13 for filing.
+
+Any party failing to make improvements within the time limit again as per a new notice after being fined as specified in Paragraph 1 and the preceding paragraph may be fined for each violation and subject to a disposition of business suspension or forbidden use of the site for a period of not more than 30 days.
+
+### Article 41
+
+(Penal Clause)
+
+Any offense against Para.1 or 2, Article 14 about protecting measures, zone and other necessary requirements shall be subject to a penal sum greater than NT$3,000.
+
+### Article 41-1
+
+Any offense against Para.1 or 2, Article 14-1 about protecting measures, check, abolishment, zone and other necessary requirements shall be subject to a penal sum less than NT$30,000 and not greater than NT$150,000 and shall be continuously punished for each violation.
+
+Any Administrator or the people on the spot who is avoiding, interfering with, or refusing any inspection under Para.3, Article 14-1 shall be subject to a penal sum not less than NT$10,000 and not greater than NT$50,000 for the same offense and a mandatory inspection and command that offer relative materials.
+
+### Article 42
+
+Where a manufacturing, storage, or processing site of the substances and flammable pressurized gases reaching the quantity for control as stipulated in Paragraph 1 of Article 15 fails to comply with the relevant safety management provisions on the storage, processing, or transporting of the said materials as stipulated in Paragraph 2 of Article 15, the discretionary administrator or the person of violating conduct shall be fined not less than NT$20,000 but not more than NT$300,000.
+
+Where a manufacturing, storage, or processing site of the substances and flammable pressurized gases reaching the quantity for control as stipulated in Paragraph 1 of Article 15 fails to comply with the relevant standards provisions on the setup of the location, structure, or equipment as stipulated in Paragraph 2 of Article 15, the discretionary administrator shall be fined not less than NT$20,000 but not more than NT$1,500,000.
+
+Any party failing to make improvements within the time limit again as per a new notice after being fined as specified in the preceding two paragraph may be fined for each violation and subject to a disposition of business suspension or forbidden use of the site for a period of not more than 30 days.
+
+The discretionary administrator specified in Paragraph 1 of Article 15-6 failing to appoint a fire security supervisor to develop a fire prevention plan shall be fined not less than NT$20,000 but not more than NT$300,000 and shall make improvements within the time limit as per the notice. Any party failing to make improvements within the time limit shall be fined for each violation.
+
+Where a fire occurs at a manufacturing, storage, or processing site of the public hazardous substances reaching thirty (30) times of the quantity for control, the discretionary administrator shall be fined not less than NT$20,000 but not more than NT$300,000 for violating the provisions of Paragraph 1 of Article 15-6 by failing to perform necessary operations related to hazardous substance management in accordance with the fire prevention plan.
+
+### Article 42-1
+
+In any one of the following circumstances where Article 15-1 is violated, the responsible person and the person of violating conduct shall be fined not less than NT$10,000 but not more than NT$50,000, and may be ordered to make improvements within a time limit. Any party failing to make improvements within the time limit shall be fined for each violation or subject to a disposition of business suspension outright:
+
+1.Where a person with qualification certificates is not employed to install water heaters and pipes.
+
+2.Where a person engaged in installation work violates the standards for water heater and piping installation in accordance with the provisions of Paragraph 3 of Article 15-1.
+
+3.Where the business operator violates or exceeds the scope of the business items registered.
+
+### Article 42-2
+
+Retailers, professional institutions, container manufacturers, importers, or container inspection institutions with one of the following situations shall be fined between 20,000 and 100,000 New Taiwan dollars. They will be given notice to make improvements within a stipulated time frame. If they fail to make the necessary improvements by the deadline, they may be fined repeatedly for each instance:
+
+1.Container manufacturers or importers violate the second provision of Article 15-3 by selling containers that haven’t individually been approved and certified or don’t have the appropriate certification marking.
+
+2.Container manufacturers or importers violate the regulations in the third provision of Article 15-3 regarding the establishment, preservation, or reporting of sales data.
+
+3.Professional institutions breach the regulations in the seventh provision of Article 15-3 concerning the establishment, preservation, or reporting of equipment and personnel data.
+
+4.Retailers violate the first provision of Article 15-4 by continuing to use containers without sending them for regular inspection at an inspection institution before their inspection deadline, or if they continue using containers beyond their lifespan without replacement.
+
+5.Container inspection institutions breach the rules in the third provision of Article 15-4 regarding the establishment, preservation, or reporting of equipment, personnel, and data.
+
+If the violation pertains to the first scenario mentioned above, the containers in question may be confiscated and destroyed.
+
+### Article 42-3
+
+In any one of the following circumstances, a fine of not less than NT$20,000 but not more than NT$100,000 shall be imposed along with a notice for improvements within a time limit. Any party failing to make improvements within the time limit may be fined for each violation:
+
+1.Where a Retailer violates the provisions of Paragraph 1 of Article 15-2 by failing to employ a safety technician with qualification certificates.
+
+2.Where the discretionary administrator violates the provisions of Paragraph 4 of Article 15-5 by failing to commission a professional institution approved by the central competent authority to conduct periodic inspections of storage tanks, or failing to complete the initial periodic inspection within the time limit, or failing to keep the periodic inspection records of storage tanks for at least five years.
+
+3.Where the results of periodic inspections conducted by a professional institution on the storage tanks as specified in Paragraph 4 of Article 15-5 fail to comply with the provisions on qualification criteria as specified in Paragraph 5 of Article 15-5.
+
+4.Where the professional institution fails to conduct inspections in accordance with the provisions related to inspection items, inspection methods, qualification criteria, and frequency of periodic inspections as specified in the provisions of Paragraph 5 of Article 15-5, or makes false inspection records.
+
+5.Where the professional institution violates the provisions related to the norms of performing operations, and the establishment, retention, or reporting of the materials as specified in Paragraph 6 of Article 15-5.
+
+6.Where the discretionary administrator specified in Paragraph 1 of Article 15-6 fails to submit the fire prevention plan to the competent authority of the jurisdiction where the site is located for filing, or fails to perform necessary operations for the management of hazardous substances in accordance with the fire prevention plan, or fails to employe a fire security inspector to perform maintenance of structure and equipment or self-inspection.
+
+7.Where the discretionary administrator specified in Paragraph 1 of Article 15-6 fails to appoint a fire security supervisor or a fire security inspector who meets the qualifications specified in Paragraph 2 of Article 15-6.
+
+8.Where the discretionary administrator specified in Paragraph 1 of Article 15-6 violates the provisions of Paragraph 4 of Article 15-6 by failing to report the appointed or replaced fire security supervisor or fire security inspector within the time limit to the competent authority of the jurisdiction where the site is located for filing as specified in Paragraph 1 of Article 15-6.
+
+Where a storage tank specified in Paragraph 4 of Article 15-5 is found to be in violation of the provisions of Subparagraph 3 of the preceding paragraph, the discretionary administrator shall be punished and notified to make improvements within a time limit. Any party failing to make improvements within the time limit may be ordered to stop the use of the storage tank for storing liquid public hazardous substances.
+
+A professional institution, referred to in Subparagraph 4 of Paragraph 1, found to be in violation of the provisions of Paragraph 1 shall be fined in accordance with the provisions of Paragraph 1 and notified to make improvements within a time limit. Any party failing to make improvements within the time limit may be subject to a disposition of business suspension or license revocation for a period of not less than one month but not more than one year.
+
+A professional institution, referred to in Subparagraph 5 of Paragraph 1, found to be in violation of the provisions of Paragraph 1 shall be fined in accordance with the provisions of Paragraph 1 and notified to make improvements within a time limit. Any party failing to make improvements within the time limit, they may be subject to a disposition of business suspension or license revocation for a period of not more than 30 days.
+
+### Article 42-4
+
+Retailers that meet any of the following conditions shall be fined between 3,000 and 15,000 New Taiwan dollars. They will be notified to make corrections within a specified period. If corrections are not made by the deadline, fines may be imposed repeatedly:
+
+1.Violation of regulations set in the second provision of Article 15-2 regarding the content of data production, items that should be recorded, placement, data preservation duration, or reporting requirements.
+
+2.Contravening the third provision of Article 15-2, where safety technical personnel do not undergo periodic retraining during their tenure.
+
+### Article 43
+
+Those who refuse the inspection, inquiry, collection, preservation, or destruction of a fire scene as per Article 26 shall be fined between 6,000 and 100,000 New Taiwan dollars.
+
+### Article 43-1
+
+(Penal Clause)
+
+Where the discretionary administrator of a factory, a warehouse or storage site of chemicals, or a laboratory or warehouse of or above a certain scale violates the provisions of Subparagraph 1 of Paragraph 1 of Article 21-1 by failing to provide the floor plan of the site and necessary information for the rescue in the event of a fire, or providing false and untrue information, the discretionary administrator shall be fined not less than NT$50,000 but not more than NT$3,000,000.
+
+Where the discretionary administrator of the site referred to in the preceding paragraph violates the provisions of Subparagraph 2 of Paragraph 1 of Article 21-1 by failing to provide the type, quantity, and location of the chemicals on-site, as well as the associated floor plan and necessary information for the rescue in the event of a fire, or providing false and untrue information, the discretionary administrator shall be fined not less than NT$100,000 but not more than NT$5,000,000.
+
+Where the discretionary administrator of the site referred to in Paragraph 1 violates the provisions of Subparagraph 4 of Paragraph 1 of Article 21-1 by failing to immediately assign dedicated personnel to the scene to assist with disaster relief, the discretionary administrator shall be fined not less than NT$500,000 but not more than NT$10 million. However, for sites not involved in manufacturing, storing, or processing chemicals, a fine of not less than NT$50,000 but not more than NT$3,000,000 shall be imposed.
+
+Where the discretionary administrator of the site violates the provisions of Paragraph 1 of Article 21-2 by failing to install hazard risk signboards in obvious locations on-site for hazardous chemicals, or failing to promptly update the signboards upon changes in the hazard risk; or the signboards installed violate the provisions of Paragraph 2 of Article 21-2 on the announcement related to the grade, content, color, size, or setup location of the hazard risk signboards, the discretionary administrator shall be fined not less than NT$20,000 but not more than NT$1,500,000.
+
+### Article 43-2
+
+In any one of the following circumstances where fire services institutions at all levels failing to make improvements within the time limit as per the notice by the central competent authority or higher authorities shall be fined not less than NT$30,000 but not more than NT$300,000:
+
+1.Where a dedicated safety and health unit is not set up or dedicated personnel are not appointed in accordance with the provisions of Paragraph 1 of Article 25-2.
+
+2.Where firefighter safety and health management systems are not set up in accordance with the provisions of Subparagraph 1 of Paragraph 2 of Article 25-2, or their firefighters are not provided with the necessary safety and health protection equipment or measures for performing their duties in accordance with the provisions of Subparagraph 2 of Paragraph 2 of Article 25-2.
+
+### Article 44
+
+(Penal Clause)
+
+In addition to being punished by the Act for any offense subject to the Act, any alleged crime shall be transferred to the judicial institute for action.
+
+### Article 45
+
+(Deleted)
+
+## Chapter Seven: Bylaws
+
+### Article 46
+
+The implementation rules of this law will be determined by the central governing body.
+
+### Article 47
+
+(Effective Date)
+
+This Act shall come into force on the date of promulgation.
+
+The date on which the articles of this Act amended on November 12, 2024 shall come into force shall be determined by the Executive Yuan.
+
+## History
+
+1.32 Articles published under Presidential Order Hua-Tsung-(I)-Yi-Tzu No. 6014, Nov. 29, 1985
+
+2.47Articles, as amended, published under Presidential Order Hua-Tsung-(I)-Yi-Tzu No. 5956, Aug. 11, 1995
+
+3.Articles 3, 27 and 28 amended, published under Presidential Order Hua-Tsung-I-Yi-Tzu No. 89001661705956, July 5, 2000.
+
+4.Addition of Articles 15-1 and 42-1, published under Presidential Order Hua-Tsung-I-Yi-Tzu No. 09400014091, Feb 2, 2005.
+
+5.Article 9 amended, published under Presidential Order Hua-Tsung-I-Yi-Tzu No.09500186541, Jan 3, 2007.
+
+6.Articles 6, 35 and 37 amended, published under Presidential Order Hua-Tsung-I-Yi-Tzu No.09900123141, May 19, 2010.
+
+7.Addition of Articles 15-2, published under Presidential Order Hua-Tsung-I-Yi-Tzu No. 09900331451, DEC, 8, 2010.
+
+8.Addition of Articles 14-1 and 41-1, Articles 14 and 41 amended, published under Presidential Order Hua-Tsung-I-Yi-Tzu No.10000085311, May 4, 2011.
+
+9.Article 12 amended, published under Presidential Order Hua-Tsung-I-Yi-Tzu No.10000283821, Dec 21, 2012.
+
+10.Amended on January 18, 2017
+
+11.Article 5, 30, 32, 36 and 40 amended, published under Presidential Order Hua-Tsung-I-Yi-Tzu No. 10800002091, Jan 7, 2019.
+
+12.Addition of Articles 15-3, 15-4,20-1, 21-1, 27-1, 42-2, and 43-1 , Articles 15,19, 27 and Chapter Four amended, published under Presidential Order Hua-Tsung-I-Yi-Tzu No.10800123541, Nov.13, 2019.
+
+13.Article 9 amended, published under Presidential Order Hua-Tsung-I-Yi-Tzu No.11100039311, May 11, 2022.
+
+14.Amended and promulgated article 1,3,7,11,13,15-2,18,36～40,42,42-2,43,46 ;Addition of Articles 11-1,13-1,15-5,15-6,19-1,26-1,35-1,35-2,42-3,42-4 ; deleting Article 45 ;by Presidential Order Hua-Tsung-I-Yi-Tzu No. 11200052791 June.21, 2023.
+
+15.Amended and promulgated article 1, 15, 21-1, 27-1, 28, 35, 37, 40, 42, 42-1, 42-3, 43-1, and 47; to add Articles 21-2, 25-1 to 25-9, and 43-2 and the title of Chapter 3-1 ;by Presidential Order Hua-Tsung-I-Yi-Tzu No. 11300111371 Nov.29, 2024; the date of implementation shall be determined by the Executive Yuan

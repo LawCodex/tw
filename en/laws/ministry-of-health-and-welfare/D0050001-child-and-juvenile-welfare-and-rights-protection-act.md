@@ -1,0 +1,1327 @@
+---
+title: "Child and Juvenile Welfare and Rights Protection Act"
+title_zh: "兒童及少年福利與權益保障法"
+identifier: "D0050001"
+type: act
+law_level: "法律"
+category: "行政＞衛生福利部＞社會及家庭目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2003-05-28
+last_amended: 2021-01-20
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0050001"
+retrieved: 2026-10-12
+---
+
+# Child and Juvenile Welfare and Rights Protection Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-health-and-welfare/D0050001-child-and-juvenile-welfare-and-rights-protection-act.md](../../../zh/laws/ministry-of-health-and-welfare/D0050001-child-and-juvenile-welfare-and-rights-protection-act.md)) is authoritative.
+
+## Chapter 1: General Principles
+
+### Article 1
+
+This Act is enacted to promote the sound physical and mental development of children and juveniles, safeguard their rights and interests, and enhance their well-being.
+
+### Article 2
+
+For the purposes of this Act, "children and juveniles" refers to persons under the age of eighteen; "children" refers to persons under the age of twelve; and "juveniles" refers to persons aged twelve or above but under the age of eighteen.
+
+### Article 3
+
+Parents or guardians shall bear the responsibility for the protection and upbringing of children and juveniles. They shall cooperate with and assist in various measures taken by the competent authority, the competent authority for the relevant business, or child and juvenile welfare institutions and organizations in accordance with this Act.
+
+### Article 4
+
+Government agencies and public and private institutions and organizations shall assist parents, guardians, or other persons actually caring for children and juveniles in maintaining the health of children and juveniles, promoting their sound physical and mental development, and providing necessary services and measures for children and juveniles who require protection, assistance, counseling, treatment, early intervention, rehabilitation for physical and mental disabilities, and other special assistance.
+
+### Article 5
+
+When handling matters related to children and juveniles, government agencies and public and private institutions and organizations shall prioritize the best interests of children and juveniles and weigh their opinions according to their mental maturity; matters concerning their protection and assistance shall be handled with priority.
+
+When the rights and interests of children and juveniles are illegally infringed upon, the government shall provide appropriate assistance and protection.
+
+### Article 6
+
+For the purposes of this Act, the "competent authority" is the Ministry of Health and Welfare at the central level; the municipal government at the special municipality level; and the county (city) government at the county (city) level.
+
+### Article 7
+
+For matters stipulated in this Act, the competent authority and the competent authority for the relevant business shall, within their respective scopes of authority, actively plan necessary welfare services for children and juveniles, respecting diverse cultural differences, and shall fully cooperate on child and juvenile welfare matters involving relevant agencies.
+
+Both the competent authority and the competent authority for the relevant business shall implement measures for child and juvenile safety maintenance and accident injury prevention; their division of responsibilities is as follows:
+
+\1. Competent Authority: Responsible for the planning, promotion, and supervision of child and juvenile welfare policies, regulations, and related matters.
+
+\2. Health Competent Authority: Responsible for maternal and child health, reproductive health, reporting, tracking, visiting, and caring services for premature infants, early medical intervention for children with developmental delays, physical and mental health of children and juveniles, medical care, rehabilitation, and health insurance, and other related matters.
+
+\3. Education Competent Authority: Responsible for child and juvenile education and its funding subsidies, special education, pre-school education, safety education, family education, intermediary education, career education, leisure education, gender equality education, social education, safeguarding the right to education of children and juveniles, and after-school care services for children, and other related matters.
+
+\4. Labor Competent Authority: Responsible for maintaining labor conditions for persons under the age of fifteen and for vocational training, employment preparation, employment services, and labor condition maintenance for juveniles aged fifteen or above or who have graduated from junior high school, and other related matters.
+
+\5. Construction, Public Works, and Firefighting Competent Authorities: Responsible for building management, public facilities, public safety, building environment, fire safety management, amusement facilities, family restrooms, and other related matters concerning child and juvenile welfare and rights protection.
+
+\6. Police Competent Authority: Responsible for maintaining the personal safety of children and juveniles, preventing legal offenses, assisting in locating missing children and juveniles, and parents or guardians of unescorted children and juveniles, and other related matters.
+
+\7. Justice Competent Authority: Responsible for preventing legal offenses by children and juveniles, correctional services, and protection of crime victims, and other related matters.
+
+\8. Transportation Competent Authority: Responsible for child and juvenile traffic safety, inspection of vehicles exclusively for young children, public parking spaces, and other related matters.
+
+\9. Communications and Broadcasting Competent Authority: Responsible for maintaining the audio-visual rights and interests of children and juveniles in communications and broadcasting, and the planning and promotion of content classification, and other related matters.
+
+\10. Household Registration Competent Authority: Responsible for child and juvenile identity data and household registration, and other related matters.
+
+\11. Financial Competent Authority: Responsible for matters such as tax exemptions and reduction for children’s and juveniles’ welfare institutions.
+
+\12. Monetary Competent Authority: Responsible for planning, promoting, and supervising financial institutions' provision of property trust services for children and juveniles, and other related matters.
+
+\13. Economic Competent Authority: Responsible for establishing standards for child and juvenile related products and non-mechanical amusement facilities, and the classification of game software, and other related matters.
+
+\14. Sports Competent Authority: Responsible for child and juvenile sports activities, and other related matters.
+
+\15. Cultural Competent Authority: Responsible for child and juvenile art and cultural activities, maintaining audio-visual rights and interests, and the classification of publications and video programs, and other related matters.
+
+\16. Other child and juvenile welfare measures shall be handled by the relevant competent authority for the relevant business in accordance with its authority.
+
+### Article 8
+
+The following matters shall be administered by the central competent authority. However, if they involve the functions of a central competent authority for a specific business and are legally required to be administered by that authority, its regulations shall apply:
+
+\1. Planning, formulation, and promotion of national child and juvenile welfare policies, regulations, and programs.
+
+\2. Supervision and coordination of the execution of child and juvenile welfare by special municipalities and county (city) governments.
+
+\3. Allocation and subsidization of central child and juvenile welfare funds.
+
+\4. Planning of child and juvenile welfare projects, awards, and evaluations.
+
+\5. Planning of training for child and juvenile welfare professionals.
+
+\6. Liaison, exchange, and cooperation on international child and juvenile welfare matters.
+
+\7. Planning of child and juvenile protection matters.
+
+\8. Establishment, supervision, and guidance of central or national child and juvenile welfare institutions.
+
+\9. Other national child and juvenile welfare planning and supervision matters.
+
+### Article 9
+
+The following matters shall be administered by the special municipality or county (city) competent authority. However, if they involve the functions of a local competent authority for a specific business and are legally required to be administered by that authority, its regulations shall apply:
+
+\1. Planning, formulation, promotion, and execution of child and juvenile welfare policies, autonomous regulations, and programs for the special municipality or county (city).
+
+\2. Execution of central child and juvenile welfare policies, regulations, and programs.
+
+\3. Execution of training for child and juvenile welfare professionals.
+
+\4. Execution of child and juvenile protection matters.
+
+\5. Establishment, supervision, and guidance of child and juvenile welfare institutions in the special municipality or county (city).
+
+\6. Other child and juvenile welfare planning and supervision matters for the special municipality or county (city).
+
+### Article 10
+
+The competent authority shall designate its head as the convener and invite scholars or experts related to child and juvenile welfare, representatives from relevant private institutions and organizations, representatives from competent authorities for specific businesses, and representatives of children and juveniles to coordinate, research, deliberate, consult on, and promote child and juvenile welfare policies.
+
+The number of scholars, experts, representatives from relevant private institutions and organizations, and child and juvenile representatives mentioned in the preceding paragraph shall not be less than one-half, and the proportion of any single gender shall not be less than one-third.
+
+### Article 11
+
+Government agencies and public and private institutions and organizations shall cultivate child and juvenile welfare professionals and regularly organize pre-service training and in-service training.
+
+### Article 12
+
+The sources of child and juvenile welfare funds are as follows:
+
+\1. Annual budgets of governments at all levels and social welfare funds.
+
+\2. Donations from individuals or organizations.
+
+\3. Fines imposed in accordance with this Act.
+
+\4. Other related income.
+
+### Article 13
+
+The central health competent authority shall conduct retrospective analyses of the causes of death for children under six years of age and regularly publish the analysis results.
+
+The competent authority shall conduct surveys, statistics, and analyses of the physical and mental development, social participation, living conditions, and needs of children and juveniles every four years and publish the results.
+
+## Chapter 2: Identity Rights and Interests
+
+### Article 14
+
+Within seven days after a fetus is born, the person assisting with the delivery shall report relevant birth information to the health competent authority for record; the same applies to stillbirths.
+
+If the person assisting with the delivery is unable to obtain complete information to report the birth, they shall still make the report mentioned in the preceding paragraph.
+
+The health competent authority shall transfer the newborn data reported in Paragraph 1 to the household registration competent authority for processing in accordance with relevant regulations; if necessary, the household registration competent authority may request assistance from the competent authority, the police authority, and other competent authorities for specific businesses.
+
+The related forms for the report mentioned in Paragraph 1 shall be determined by the central health competent authority.
+
+### Article 15
+
+Engagement in adoption matching services shall be limited to foundations, public or private child and juvenile placement and care institutions (hereinafter collectively referred to as adoption matching service agency) approved by the competent authority.
+
+Adoption matching service agency shall assess and arrange for prospective adopters and the child or juvenile to live together or have gradual contact in advance.
+
+Adoption matching service agency may charge service fees from prospective adopters for adoption matching services.
+
+The qualifications, application procedures, issuance, revocation, and annulment of permits, service scope, business inspection and management, suspension, termination, resumption of business of adoption matching service agency mentioned in Paragraph 1, the services mentioned in Paragraph 2, the fee items and standards mentioned in the preceding paragraph, and other matters to be complied with shall be determined by the central competent authority.
+
+### Article 16
+
+When parents or guardians are unable to fulfill their parental obligations towards their child or juvenile due to certain reasons and intend to place them for adoption, they shall entrust an adoption matching service agency to find a suitable prospective adopter. However, the following adoption circumstances are not subject to this restriction:
+
+\1. Collateral relatives within the sixth degree of kinship and collateral relatives by marriage within the fifth degree of kinship, with appropriate generation.
+
+\2. One spouse adopting the child of the other spouse.
+
+After receiving the entrustment mentioned in the preceding paragraph, the adoption matching service agency shall first conduct a visit and investigation to assess the necessity of adoption and prepare an assessment report; if adoption is deemed necessary, they shall immediately proceed with the assessment of prospective adopters and provide appropriate counseling and assistance and other related adoption services; if adoption is deemed unsuitable, they shall immediately provide or refer relevant welfare services.
+
+The adoption mentioned in Paragraph 1 shall, in principle, prioritize adoption by domestic prospective adopters.
+
+### Article 17
+
+When applying to the court for approval of child and juvenile adoption, except for cases specified in the proviso of Paragraph 1 of the preceding article, the adoption assessment report mentioned in Paragraph 2 of the preceding article shall be submitted. If not submitted, the court shall set a period for rectification; if rectification is not made within the period, the application shall not be accepted.
+
+Before the court approves the adoption of a child or juvenile, it may take the following measures for reference in its decision:
+
+\1. Order the special municipality or county (city) competent authority, child and juvenile welfare institutions, other appropriate organizations, or professionals to conduct a visit and submit a visit report and recommendations.
+
+\2. Order the prospective adopter and the child or juvenile to live together for a period; during the period of cohabitation, the exercise or assumption of rights and obligations regarding the child or juvenile shall be by the prospective adopter.
+
+\3. Order the prospective adopter to undergo parent education courses, psychiatric evaluation, drug or alcohol addiction testing, or other necessary matters to safeguard the best interests of the child or juvenile; the costs shall be borne by the prospective adopter.
+
+\4. Order the special municipality or county (city) competent authority to investigate the identity information of abandoned children and juveniles. For visits conducted in accordance with Subparagraph 1 of the preceding paragraph, the necessity of adoption shall be evaluated, and necessary assistance shall be provided; if adoption is not necessary, the court shall be recommended not to approve the adoption. Prospective adopters or interested parties in the adoption case may also submit relevant information or evidence for the court's consideration.
+
+### Article 18
+
+If parents have differing opinions on the adoption of a child or juvenile, or if one parent's whereabouts are unknown, one parent may still apply to the court for approval. If the court investigates and finds that the adoption is in the best interests of the child or juvenile, it shall approve it.
+
+When the court approves or rejects an application for child and juvenile adoption, it shall notify the special municipality or county (city) competent authority in writing. The special municipality or county (city) competent authority shall conduct necessary visits or other dispositions and make a record.
+
+### Article 19
+
+When the adoption of a child or juvenile is approved by the court, the adoption relationship takes effect retroactively from the time the written adoption contract is formed; in the absence of a written contract, the adoption relationship is established when the application is filed with the court; in cases of trial adoption, the adoption relationship takes effect retroactively from the time cohabitation begins.
+
+If the child or juvenile dies before the court's ruling after the application for adoption approval is filed, the application procedure shall be terminated. If the prospective adopter dies, the court shall order the special municipality or county (city) competent authority, child and juvenile welfare institutions, other appropriate organizations, or professionals to conduct an assessment and submit a report and recommendations. If the court deems the adoption to be in the best interests of the child or juvenile, it may still rule to approve the adoption, and its effect shall be in accordance with the provisions of the preceding paragraph.
+
+### Article 20
+
+The adopted child, interested parties, or the competent authority may request the court to terminate the adoption if the adoptive parents engage in any of the following acts:
+
+\1. Committing any of the acts specified in the Subparagraphs of Article 49.
+
+\2. Gross violation of the provisions of Article 43, Paragraph 2 or Article 47, Paragraph 2.
+
+### Article 21
+
+The central competent authority shall maintain files of relevant information, such as identity and health, of the birth parents, adoptive parents, and adopted children and juveniles.
+
+Adoption matching service agencies and special municipality or county (city) competent authorities, child and juvenile welfare institutions, other appropriate organizations, or professionals ordered by the court to investigate shall regularly provide the adoption-related information mentioned in the preceding paragraph to the central competent authority for preservation.
+
+Personnel handling adoption matters, information preservation, or other related matters shall properly safeguard the privacy of the parties regarding the information mentioned in Paragraph 1 and keep it confidential unless otherwise provided by law.
+
+The scope, source, management, and use of the information mentioned in Paragraph 1 shall be determined by the central competent authority.
+
+### Article 21-1
+
+The competent authority shall provide search services for adopted children and juveniles, birth parents, adoptive parents, and other interested parties. If necessary, it may request assistance from household registration, police, or other relevant agencies or institutions, and the requested agencies or institutions shall cooperate.
+
+The competent authority may, at the request of adopted children and juveniles, birth parents, adoptive parents, or other interested parties, provide psychological, medical, legal, and other related consultation and referral services.
+
+### Article 22
+
+The competent authority shall, in conjunction with the household registration and immigration competent authorities, assist children and juveniles who have not registered their household, are stateless, or have not obtained residency or permanent residency permits to handle relevant household registration, naturalization, residency, or permanent residency matters in accordance with the law.
+
+Before the completion of household registration or before obtaining residency or permanent residency permits for the children and juveniles mentioned in the preceding paragraph, their social welfare services, medical care, and right to education shall be guaranteed in accordance with the law.
+
+## Chapter 3: Welfare Measures
+
+### Article 23
+
+Special municipalities and county (city) governments shall establish integrated service mechanisms and encourage, guide, entrust private organizations, or independently implement the following child and juvenile welfare measures:
+
+\1. Establish a premature infant reporting system and provide tracking, visiting, and caring services.
+
+\2. Establish an early reporting system for children with developmental delays and provide early intervention services.
+
+\3. Provide child care services.
+
+\4. Provide consultation services for children, juveniles, and their families.
+
+\5. Provide parent education for children, juveniles, and their parents.
+
+\6. Provide child care, family living assistance, or medical subsidies as needed for those unable to raise their children under twelve years of age or their wards.
+
+\7. Provide living assistance, educational assistance, or medical subsidies for juveniles who are unable to earn a living or are in school, and have no one with parental obligations or whose parental obligors are unable to support their lives, and assist them in developing self-reliance skills.
+
+\8. Subsidize medical expenses for premature infants, children with rare diseases, seriously ill children and juveniles, and children with developmental delays whose parental obligors are unable to pay.
+
+\9. Provide appropriate placement for children and juveniles unsuitable for family care or who have run away from home.
+
+\10. Provide appropriate placement for unescorted children and juveniles.
+
+\11. Provide appropriate placement, living assistance, medical subsidies, child care subsidies, and other necessary assistance for children, juveniles, and their children who face difficulties due to pregnancy or childbirth.
+
+\12. Provide after-school care services for children.
+
+\13. Provide self-reliance adaptation assistance for juveniles who are unable to return home after placement.
+
+\14. Provide services such as prevention, education, promotion, and training for child and juvenile safety and accident injuries.
+
+\15. Other welfare services for children, juveniles, and their families.
+
+The qualifications, conditions, procedures, amounts, and other relevant matters for child care, living assistance, and medical subsidies mentioned in Subparagraphs 6 to 8 and 11 of the preceding paragraph shall be determined by the central and special municipality competent authorities, respectively.
+
+The handling methods for reporting, searching, placement methods, requirements, and tracking of unescorted children and juveniles mentioned in Subparagraph 10 of Paragraph 1 shall be determined by the central competent authority.
+
+### Article 23-1
+
+The central health competent authority shall establish a shortage reporting and handling mechanism for applicable medicines and medical devices necessary to sustain the lives of premature infants, critically ill children, and other children with life-threatening medical needs.
+
+### Article 24
+
+The cultural, educational, and sports competent authorities shall encourage, guide private organizations, or independently organize appropriate leisure, entertainment, and cultural activities for children and juveniles, provide suitable activity spaces, and guarantee the equal right of children and juveniles to participate in activities.
+
+The competent authority for the relevant business shall commend and reward those who have achieved significant results in organizing the activities mentioned in the preceding paragraph.
+
+### Article 25
+
+Special municipalities and county (city) competent authorities shall handle matters related to the management, supervision, and guidance of family childcare services.
+
+The term "family childcare services" in the preceding paragraph refers to fee-based child care services provided in a home environment by persons other than relatives within the third degree of kinship of the child.
+
+Special municipalities and county (city) competent authorities shall designate their head as the convener and invite scholars or experts, representatives of family childcare services providers, representatives of child and juvenile welfare organizations, representatives of parent organizations, representatives of women's organizations, and representatives of labor organizations to coordinate, research, deliberate, and consult on matters related to home-based child care services, fees and refunds, personnel salaries, supervision, and assessment, and establish an operational management mechanism, which shall be handled independently or entrusted to relevant professional institutions or organizations.
+
+### Article 26
+
+Providers of family childcare services shall register with the special municipality or county (city) competent authority.
+
+Providers of family childcare services shall be adults and possess one of the following qualifications:
+
+\1. Hold a childcare worker technician certificate.
+
+\2. Graduated from a senior high school or above with a major in early childhood care, home economics, or nursing.
+
+\3. Completed professional training courses for childcare workers and obtained a certificate of completion.
+
+Special municipalities and county (city) competent authorities shall handle matters related to the registration, management, guidance, supervision, and inspection of family childcare service providers independently or entrust them to relevant professional institutions or organizations.
+
+Providers of family childcare services shall not evade, obstruct, or refuse the management, guidance, supervision, and inspection mentioned in the preceding paragraph and shall provide necessary assistance.
+
+The number of children to be cared for, registration, guidance, management, revocation and annulment of registration, fee and refund regulations, and other matters to be complied with for family childcare service providers mentioned in Paragraph 1 shall be determined by the central competent authority.
+
+### Article 26-1
+
+A person shall not serve as a family childcare service provider if they have any of the following circumstances:
+
+\1. Have been subject to a deferred prosecution or a guilty judgment for offenses under Article 2, Paragraph 1 of the Sexual Assault Crime Prevention Act, Article 25 of the Sexual Harassment Prevention Act, the Child and Youth Sexual Transaction Prevention Act, or the Child and Youth Sexual Exploitation Prevention Act. However, this does not apply to persons under eighteen years of age who have committed an offense under Article 227 of the Criminal Code.
+
+\2. Have been subject to a deferred prosecution or a guilty judgment for offenses under the Narcotics Hazard Prevention Act.
+
+\3. Have committed any of the acts specified in the Subparagraphs of Article 49, as verified by relevant authorities.
+
+\4. Have engaged in illegal or improper conduct, the circumstances of which significantly affect the rights and interests of the children being cared for, as verified by the competent authority.
+
+\5. There are objective facts indicating a risk of harming children, and the special municipality or county (city) competent authority determines that they cannot perform their duties.
+
+\6. Are under guardianship or assistant guardianship, and such declaration has not been revoked.
+
+\7. Have committed a domestic violence offense and are within five years from the date of deferred prosecution or guilty judgment.
+
+The determination under Subparagraph 5 of the preceding paragraph shall be made by a group formed by the special municipality or county (city) competent authority, inviting relevant specialist physicians, child and juvenile welfare experts, and other relevant scholars and experts.
+
+After the reason for Subparagraph 5 of Paragraph 1 disappears, one may still apply to serve as a family childcare service provider in accordance with this Act.
+
+If any of the circumstances in Paragraph 1 apply, the special municipality or county (city) competent authority shall order the person to cease providing services and forcibly refer the children being cared for. If registration has been completed, their registration shall be revoked.
+
+### Article 26-2
+
+If a person cohabiting with a family childcare service provider has any of the following circumstances, the family childcare service provider shall be limited to providing in-home child care:
+
+\1. Has any of the circumstances specified in Article 26-1, Paragraph 1, Subparagraph 1, 2, or 4.
+
+\2. There are objective facts indicating a risk of harming children, as determined by a group formed by the special municipality or county (city) competent authority, inviting relevant specialist physicians, child and juvenile welfare experts, and other relevant scholars and experts.
+
+If the special municipality or county (city) competent authority determines that the circumstances in Subparagraph 2 of the preceding paragraph have disappeared, the family childcare service provider may still provide family childcare services in accordance with this Act.
+
+### Article 27
+
+The government shall plan and implement medical care measures for children and juveniles; if necessary, it may subsidize their expenses based on their family's economic conditions.
+
+The regulations for the recipients, items, amounts, and procedures for the subsidies mentioned in the preceding paragraph shall be determined by the central competent authority.
+
+### Article 28
+
+The central competent authority and the competent authority for the relevant business shall regularly convene coordination meetings on child and juvenile accident injury prevention to coordinate, research, deliberate, consult on, supervise, assess, and handle the following matters:
+
+\1. Registration of child and juvenile accident injury data.
+
+\2. Establishment, review, and promotion of child and juvenile safety education materials.
+
+\3. Standards, inspection, and management of child and juvenile games and amusement facilities, toys, supplies, transportation vehicles, etc.
+
+\4. Establishment and promotion of other prevention mechanisms.
+
+The meeting mentioned in the preceding paragraph shall invite scholars, experts, representatives from private organizations, and representatives from relevant agencies to provide consultation. The number of scholars, experts, and representatives from private organizations shall not be less than one-half of the total.
+
+### Article 29
+
+The following transportation vehicles used by children and juveniles shall be guided and managed to ensure their traffic safety:
+
+\1. Vehicles exclusively for young children.
+
+\2. School buses of public and private schools.
+
+\3. Pick-up and drop-off vehicles of short-term cram schools or child after-school care classes and centers.
+
+For the transportation vehicles mentioned in the preceding paragraph carrying preschoolers before elementary school or elementary school students, their age shall not exceed ten years from the date of manufacture; for those carrying junior high school or senior high school students, their age shall not exceed fifteen years from the date of manufacture.
+
+The application procedures, guidance measures, management, supervision of accompanying personnel, and other matters to be complied with for the transportation vehicles mentioned in Paragraph 1 shall be determined by the central education competent authority in conjunction with the transportation competent authority.
+
+### Article 30
+
+Parents or guardians of children and juveniles suspected of developmental delays, with developmental delays, or with physical and mental disabilities may apply to the police competent authority to establish fingerprint data.
+
+The data mentioned in the preceding paragraph shall not be used for purposes other than assisting in locating missing persons. The regulations for the collection, deletion, and management of fingerprint data mentioned in Paragraph 1 shall be determined by the central police competent authority.
+
+### Article 31
+
+The government shall establish an assessment mechanism for the development of children under six years of age and provide special care, including early intervention, medical care, education, and family support, for children with developmental delays according to their needs.
+
+Parents, guardians, or other persons actually caring for children shall cooperate with the special care provided by the government for children with developmental delays as mentioned in the preceding paragraph.
+
+The central competent authority shall plan and implement the connection and coordination mechanisms for various services, such as screening, reporting, assessment, treatment, and education, required for early intervention mentioned in Paragraph 1, in conjunction with the health and education competent authorities.
+
+### Article 32
+
+Various social welfare, education, and medical institutions, upon discovering children suspected of developmental delays, shall report to the special municipality or county (city) competent authority. The special municipality or county (city) competent authority shall establish file management for the received data and provide or refer appropriate services as needed.
+
+The regulations for the reporting process, file management, and other related matters mentioned in the preceding paragraph shall be determined by the central competent authority.
+
+### Article 33
+
+Children and pregnant women shall receive priority care.
+
+Public and private transportation and medical enterprises shall provide priority care measures for children and pregnant women. Publicly owned, publicly managed and privately operated, and privately owned businesses such as domestic public transportation, cultural and educational facilities, scenic areas, and recreational venues shall provide preferential measures for children based on age and shall offer free preferential treatment for children under a certain age.
+
+The scope of application and the certain age for the children's preferential measures mentioned in the preceding paragraph shall be determined by the respective competent authorities for the relevant business.
+
+### Article 33-1
+
+Public parking lots attached to the following places shall reserve two percent of their car parking spaces for pregnant women and families with children under six years of age; public parking lots with fewer than fifty car parking spaces shall reserve at least one parking space for pregnant women and families with children under six years of age. However, public parking lots with fewer than twenty-five car parking spaces are not subject to this restriction:
+
+\1. Government agencies (institutions) and public enterprises that provide services or handle public affairs.
+
+\2. Railway stations, airports, and MRT transfer stations.
+
+\3. Department stores and retail hypermarkets with a total floor area of 10,000 square meters or more.
+
+\4. Regional hospitals or above with pediatric or obstetric wards.
+
+\5. Parks of tourism and amusement businesses.
+
+\6. Other places announced by competent transportation authorities at all levels.
+
+The location, spatial planning, users and methods of use, and other matters to be complied with for the parking spaces mentioned in the preceding paragraph shall be determined by the central transportation competent authority in consultation with the construction, public works, and firefighting competent authorities.
+
+### Article 33-2
+
+The following places shall plan and establish family restrooms suitable for common use by children under six years of age and their caregivers, and shall provide relevant facilities such as child protection chair and baby changing station:
+
+\1. Government agencies (institutions) with a total service floor area of 5,000 square meters or more that provide services or handle public affairs.
+
+\2. Public enterprises with a total business floor area of 5,000 square meters or more.
+
+\3. Railway stations, airports, and MRT transfer stations with a total service floor area of 5,000 square meters or more.
+
+\4. Department stores and retail hypermarkets with a total business floor area of 10,000 square meters or more.
+
+\5. Regional hospitals or above with pediatric wards.
+
+\6. Parks of tourism and amusement businesses.
+
+If the places mentioned in the preceding paragraph fail to establish family restrooms in accordance with the regulations set forth in the first part of Paragraph 3, the special municipality or county (city) competent authority for construction shall order their owners or responsible persons of the managing agencies to make improvements within a time limit; if establishment is indeed difficult, the owners or responsible persons of the managing agencies may submit an alternative improvement plan to the special municipality or county (city) competent authority for construction for approval and a deadline for improvement.
+
+The equipment items and specifications and other matters to be complied with for the family restrooms mentioned in Paragraph 1 shall be determined by the central competent authority for construction. The establishment of relevant product standards shall be determined by the central economic competent authority. This article shall come into force two years after the promulgation of the amendment to this Act on November 27, 2015.
+
+### Article 33-3
+
+Railway trains carrying passengers shall reserve certain seats for priority use by pregnant women and families traveling with children.
+
+### Article 34
+
+Juveniles aged fifteen or above or who have graduated from junior high school and have a desire for further education or employment shall be guided by the education and labor competent authorities to pursue further education, receive vocational training, or seek employment, based on their aptitudes and aspirations.
+
+The education competent authority shall, in accordance with the preceding paragraph, handle and supervise senior high schools and below in providing career education, labor rights, and occupational safety education.
+
+The labor competent authority shall, in accordance with Paragraph 1, provide vocational training, employment preparation, workplace experience, job matching, supported employment placement, and other employment services.
+
+### Article 35
+
+Employers shall guarantee educational opportunities for juvenile employees aged fifteen or above or who have graduated from junior high school; the labor competent authority shall commend those who perform well.
+
+### Article 36
+
+The labor competent authority shall integrate with the education and social welfare competent authorities to provide individualized employment services for juveniles who lack skills and education and have employment needs.
+
+### Article 37
+
+Senior high schools and below shall coordinate with cooperative education institutions and students and their legal guardians to sign written training contracts, clearly defining the rights and obligations.
+
+The format and content of the written training contracts mentioned in the preceding paragraph, including standard contract templates and required and prohibited clauses, shall be determined by the central education competent authority.
+
+### Article 38
+
+The government shall collaborate with private institutions and organizations to encourage children and juveniles to participate in public affairs such as school and community activities and provide opportunities to safeguard their right to participation.
+
+### Article 39
+
+The government shall collaborate with or encourage private institutions and organizations to promote the creation of domestic children's and juveniles' literature, audio-visual publications, and programs, and the introduction, translation, and publication of excellent international children's and juveniles' audio-visual publications.
+
+### Article 40
+
+The government shall collaborate with or encourage private institutions and organizations to reward excellent children's and juveniles' publications, video programs, radio broadcasts, game software, and television programs.
+
+### Article 41
+
+To ensure the right of children and juveniles to play and leisure and promote their physical and mental health, except as otherwise provided by law, the weekly learning hours for students in senior high schools and below shall comply with the curriculum guidelines set by the central education competent authority; their academic counseling courses shall comply with the regulations of the education competent authorities at various levels.
+
+The central education competent authority shall invite experts and scholars in the field of child and juvenile affairs, representatives of private organizations, and child and juvenile representatives to participate in the design and planning of the curriculum guidelines.
+
+### Article 42
+
+To ensure the right to education of children and juveniles, for those who are unable to attend school due to special circumstances, parents may apply to the special municipality or county (city) government for non-school experimental education in accordance with relevant provisions of the Primary and Junior High School Act.
+
+## Chapter 4: Protection Measures
+
+### Article 43
+
+Children and juveniles shall not engage in the following behaviors:
+
+\1. Smoking, drinking alcohol, or chewing betel nuts.
+
+\2. Using illegal drugs, illegally using controlled drugs, or other substances harmful to physical and mental health.
+
+\3. Viewing, reading, listening to, or using publications, pictures, video programs, films, optical discs, floppy disks, electronic signals, game software, internet content, or other items that are violent, bloody, pornographic, obscene, or gambling-related and harmful to their physical and mental health.
+
+\4. Racing or competing on roads or driving in dangerous ways such as swerving, or participating in such behaviors.
+
+\5. Continuously using electronic products for an unreasonable amount of time, resulting in harm to physical and mental health.
+
+Parents, guardians, or other persons actually caring for children and juveniles shall prohibit children and juveniles from engaging in the behaviors listed in the preceding paragraph.
+
+No one shall sell, deliver, or supply the substances or items listed in Subparagraphs 1 to 3 of Paragraph 1 to children and juveniles.
+
+No one shall disseminate or broadcast the content or items listed in Subparagraph 3 of Paragraph 1 to children and juveniles.
+
+### Article 44
+
+Publications other than newspapers, video programs, and game software shall be classified by the person obligated to manage classification; the same applies to other items that are factually determined to potentially affect the physical and mental health of children and juveniles and are designated for classification by the competent authority for the relevant business.
+
+No one shall display items classified as restricted in a manner that violates the regulations set forth in Paragraph 3, allowing children and juveniles to view or obtain them.
+
+The classification categories, content, labeling, display methods, management, persons obligated to manage classification, and other matters to be complied with for the items mentioned in Paragraph 1 shall be determined by the central competent authority for the relevant business.
+
+### Article 45
+
+Newspapers shall not publish content harmful to the physical and mental health of children and juveniles. However, this does not apply if documents released by judicial or administrative agencies are appropriately quoted:
+
+\1. Text or pictures that excessively describe (or depict) details of forced sexual intercourse, obscenity, suicide, or drug use.
+
+\2. Text or pictures that excessively describe (or depict) bloody or pornographic details.
+
+To determine the content mentioned in the preceding paragraph, the Newspaper Publishers Association shall establish self-regulatory norms and review mechanisms to prevent the publication of content harmful to the physical and mental health of children and juveniles in newspapers and report them to the central competent authority for record.
+
+If a newspaper publisher is reported for violating Paragraph 1, the Newspaper Publishers Association shall handle it within three months in accordance with the self-regulatory norms and review mechanisms mentioned in the preceding paragraph. If necessary, the period may be extended by one month.
+
+In any of the following circumstances, the competent authority shall invite representatives of the Newspaper Publishers Association, child and juvenile welfare organizations, and scholars and experts to jointly review and determine based on the self-regulatory norms recorded in Paragraph 2:
+
+\1. A newspaper publisher who is not a member of the Newspaper Publishers Association is reported for violating Paragraph 1.
+
+\2. The Newspaper Publishers Association fails to handle the case mentioned in the preceding paragraph within the deadline.
+
+\3. The person involved in the newspaper publication, the newspaper publisher subject to the disposition, or a child and juvenile welfare organization appeals against the disposition result of the Newspaper Publishers Association for the case mentioned in the preceding paragraph.
+
+### Article 46
+
+To prevent children and juveniles from accessing internet content harmful to their physical and mental development, the communications and broadcasting competent authority shall convene various competent authorities for specific businesses to entrust private organizations to establish content protection agencies and handle the following matters:
+
+\1. Observation of children's and juveniles' internet usage behavior.
+
+\2. Establishment and implementation of a complaint mechanism.
+
+\3. Promotion and review of a content classification system.
+
+\4. Establishment and promotion of filtering software.
+
+\5. Promotion of internet safety education for children and juveniles.
+
+\6. Promotion of self-regulatory mechanisms among internet platform providers.
+
+\7. Establishment and promotion of other protection mechanisms. Internet platform providers shall, in accordance with the protection mechanisms mentioned in the preceding paragraph, establish self-regulatory norms and adopt clear and feasible protection measures; those who do not establish self-regulatory norms shall adopt necessary measures in accordance with the self-regulatory norms established by relevant associations (organizations).
+
+If the competent authority for the relevant business informs an internet platform provider that internet content is harmful to the physical and mental health of children and juveniles or that the provider has failed to adopt clear and feasible protection measures in violation of the preceding paragraph, the provider shall take measures to restrict access or browse by children and juveniles, or remove the content beforehand.
+
+The term "internet platform providers" in the preceding three Paragraphs refers to those who provide various internet platform services after connecting to the internet, including providing storage space on the internet, or building websites using the internet to provide information, value-added services, and web linking services.
+
+### Article 46-1
+
+No one shall disseminate or transmit content harmful to the physical and mental health of children and juveniles on the internet without taking clear and feasible protection measures, or without cooperating with the protection mechanisms of internet platform providers, making it accessible or viewable by children and juveniles.
+
+### Article 47
+
+Children and juveniles shall not enter bars, special coffee/tea rooms, adult retail stores, restricted electronic game arcades, and other places involving gambling, pornography, or violence that are determined by the competent authority to be harmful to their physical and mental health.
+
+Parents, guardians, or other persons actually caring for children and juveniles shall prohibit children and juveniles from entering the places mentioned in the preceding paragraph.
+
+The responsible person and employees of the places mentioned in Paragraph 1 shall refuse entry to children and juveniles.
+
+The places mentioned in Paragraph 1 shall be located at a distance of at least 200 meters from preschools, elementary and junior high schools, and high schools and vocational schools, and may only operate after submitting supporting documents and registering with the business registration competent authority.
+
+### Article 48
+
+Parents, guardians, or other persons actually caring for children and juveniles shall prohibit children and juveniles from serving as attendants in the places mentioned in Paragraph 1 of the preceding article or engaging in dangerous, improper, or other work that could harm or affect their physical and mental development.
+
+No one shall exploit, employ, or coerce children and juveniles to engage in the work mentioned in the preceding paragraph.
+
+### Article 49
+
+No one shall commit any of the following acts against children and juveniles:
+
+\1. Abandonment.
+
+\2. Physical or mental abuse.
+
+\3. Exploiting children and juveniles to engage in activities harmful to health or other dangerous activities, or deceptive acts.
+
+\4. Exploiting children and juveniles with physical or mental disabilities or special physical appearances for public display.
+
+\5. Exploiting children and juveniles for begging.
+
+\6. Depriving or obstructing children and juveniles from receiving compulsory education.
+
+\7. Forcing children and juveniles into marriage.
+
+\8. Abducting, kidnapping, buying, selling, or pawning children and juveniles.
+
+\9. Forcing, inducing, harboring, or mediating obscene acts or sexual intercourse involving children and juveniles.
+
+\10. Supplying weapons, firearms, ammunition, or other dangerous articles to children and juveniles.
+
+\11. Exploiting children and juveniles to photograph or record violent, bloody, pornographic, obscene, or sexual intercourse-related publications, pictures, video programs, films, optical discs, floppy disks, electronic signals, game software, internet content, or other items harmful to the physical and mental health of children and juveniles.
+
+\12. Forcing or inducing children and juveniles into environments that pose an immediate risk or harm to their life or body.
+
+\13. Leading or inducing children and juveniles into places harmful to their physical and mental health.
+
+\14. Forcing, inducing, harboring, or mediating suicidal acts by children and juveniles.
+
+\15. Other acts of committing crimes against or exploiting children and juveniles, or improper acts.
+
+If the acts mentioned in the preceding paragraph are penalized by the special municipality or county (city) competent authority in accordance with Article 97, the central competent authority shall establish a record of the penalties for inquiry by government agencies (institutions) and other institutions, legal persons, or organizations approved by the central competent authority.
+
+### Article 50
+
+Pregnant women shall not smoke, drink excessively, chew betel nuts, use illegal drugs, illegally use controlled drugs, or engage in other acts harmful to fetal development.
+
+No one shall force, induce, or otherwise cause pregnant women to engage in acts harmful to fetal development.
+
+### Article 51
+
+Parents, guardians, or other persons actually caring for children and juveniles shall not leave children under six years of age or children and juveniles requiring special care unattended or cared for by unsuitable persons.
+
+### Article 52
+
+If children and juveniles have any of the following circumstances, the special municipality or county (city) competent authority may, upon application by or with the consent of their parents, guardians, or other persons actually caring for them, coordinate with appropriate institutions to provide assistance, counseling, or placement:
+
+\1. Violation of Article 43, Paragraph 1, Article 47, Paragraph 1, or engaging in work prohibited by Article 48, Paragraph 1, despite the best efforts of their parents, guardians, or other persons actually caring for them to prevent such behavior.
+
+\2. Having serious behavioral problems, despite the best efforts of their parents, guardians, or other persons actually caring for them to correct such behavior.
+
+Necessary living expenses, health care expenses, tuition and miscellaneous fees, agency fees, and other related expenses for the assistance, counseling, or placement provided by the institutions mentioned in the preceding paragraph shall be borne by the parental obligors; the fee regulations shall be determined by the special municipality or county (city) competent authority.
+
+### Article 53
+
+Medical personnel, social workers, educators, childcare workers, childcare service personnel, police officers, judicial personnel, immigration personnel, household registration personnel, village (neighborhood) cadres, and other personnel performing child and juvenile welfare duties, upon learning of any of the following circumstances involving children and juveniles during the performance of their duties, shall immediately report to the special municipality or county (city) competent authority, no later than twenty-four hours:
+
+\1. Using illegal drugs, illegally using controlled drugs, or other substances harmful to physical and mental health.
+
+\2. Serving as an attendant in places mentioned in Article 47, Paragraph 1.
+
+\3. Suffering any of the acts specified in the Subparagraphs of Article 49, Paragraph 1.
+
+\4. Having the circumstances mentioned in Article 51.
+
+\5. Having any of the circumstances mentioned in the Subparagraphs of Article 56, Paragraph 1.
+
+\6. Suffering other injuries.
+
+Anyone who knows of any of the circumstances in the preceding paragraph concerning children and juveniles may report to the special municipality or county (city) competent authority.
+
+Upon learning or receiving a report of cases mentioned in the preceding two Paragraphs, the special municipality or county (city) competent authority shall immediately proceed with the classification procedure within twenty-four hours.
+
+After accepting cases mentioned in Paragraph 1, the special municipality or county (city) competent authority shall submit an investigation report.
+
+The identity information of the reporters mentioned in Paragraphs 1 and 2 shall be kept confidential.
+
+Before submitting the investigation report mentioned in Paragraph 4, the special municipality or county (city) competent authority may visit the child or juvenile. If the visit is clearly difficult or the whereabouts of the child or juvenile are unknown, and police investigation yields no results and criminal suspicion is involved, the judicial police agency may report to the prosecutor's office for handling.
+
+The regulations for reporting, classification procedure, investigation, their operational deadlines, and other related matters mentioned in Paragraphs 1 to 4 shall be determined by the central competent authority.
+
+### Article 54
+
+Medical personnel, social workers, educators, childcare workers, childcare service personnel, police officers, judicial personnel, immigration personnel, household registration personnel, village (neighborhood) cadres, village (neighborhood) chiefs, apartment building management service personnel, and other personnel performing child and juvenile welfare duties, upon learning during the performance of their duties that a child under six years of age has not registered birth or received preventive vaccinations as required, or that a child or juvenile's family is experiencing economic, parenting, marital, medical, or other unfavorable circumstances, leading to a potential lack of proper care for the child or juvenile, shall report to the special municipality or county (city) competent authority.
+
+Upon receiving the report mentioned in the preceding paragraph, the special municipality or county (city) competent authority shall visit and evaluate the family mentioned in the preceding paragraph and, as needed, collaborate with police, education, household registration, health, finance, financial supervision, labor, immigration, or other relevant agencies to provide living, medical, educational, childcare, and other necessary assistance.
+
+The central competent authority may request relevant competent authorities for specific businesses to provide necessary data for the collection, processing, and utilization of data required for the duties mentioned in the preceding article and the Paragraph 1 of this article; the requested parties have the obligation to cooperate in providing the information.
+
+If the visit mentioned in Paragraph 2 is clearly difficult or the whereabouts of the child or juvenile are unknown, and police investigation yields no results and criminal suspicion is involved, the judicial police agency may report to the prosecutor's office for handling.
+
+The identity information of the reporters mentioned in Paragraph 1 shall be kept confidential.
+
+The regulations for reporting, assistance, information collection, processing, utilization, inquiry, and other related matters mentioned in Paragraphs 1 to 3 shall be determined by the central competent authority.
+
+### Article 54-1
+
+If a child's parent, guardian, or other person actually caring for the child violates the Narcotics Hazard Prevention Act, the judicial police officer, judicial police, prosecutor, or court shall investigate the child's living and care situation when the person is wanted, detained, observed, rehabilitated, compulsorily rehabilitated, or imprisoned.
+
+When judicial police officers, judicial police, prosecutors, or courts conduct investigations into the circumstances mentioned in the preceding paragraph and learn that the child has any of the circumstances mentioned in the Subparagraphs of Article 53, Paragraph 1, and Article 54, they shall report to the special municipality or county (city) competent authority in accordance with the provisions of those articles.
+
+### Article 55
+
+If a child or juvenile contracts a sexually transmitted disease or has alcohol or drug abuse issues, their parents, guardians, or other persons actually caring for them shall assist them in seeking medical treatment, or the special municipality or county (city) competent authority shall cooperate with the health competent authority to assist in seeking medical treatment; if necessary, assistance from the police competent authority may be requested.
+
+The expenses required for the treatment mentioned in the preceding paragraph shall be borne by the child's or juvenile's parents or guardians. However, this does not apply to expenses covered by national health insurance or subsidized by law.
+
+### Article 56
+
+If children and juveniles have any of the following circumstances, the special municipality or county (city) competent authority shall provide protection, placement, or other dispositions; if necessary, emergency placement may be conducted:
+
+\1. Children and juveniles not receiving appropriate upbringing or care.
+
+\2. Children and juveniles in immediate need of medical treatment but not seeking medical attention.
+
+\3. Children and juveniles suffering abandonment, physical or mental abuse, buying, selling, or pawning, or being forced or induced to engage in improper acts or work.
+
+\4. Children and juveniles suffering other persecutions, where immediate placement is necessary for effective protection.
+
+If the special municipality or county (city) competent authority suspects any of the circumstances in the preceding paragraph, it shall, based on the best interests of the child and juvenile and after diverse assessments, strengthen protection, placement, emergency placement, or other necessary dispositions.
+
+When the special municipality or county (city) competent authority provides protection, placement, emergency placement, or other necessary dispositions mentioned in the preceding two Paragraphs, it may request assistance from the prosecutor or the local police agency.
+
+If the special municipality or county (city) competent authority evaluates that the life, body, or freedom of the children and juveniles mentioned in Paragraph 1 is in immediate danger or at risk, it shall transfer the case to the local judicial police agency to report to the prosecutor's office for handling.
+
+For the placement of children and juveniles mentioned in Paragraph 1, the special municipality or county (city) competent authority may arrange foster family care or entrust them to appropriate relatives, third parties, child and juvenile welfare institutions, or other placement institutions for care.
+
+### Article 57
+
+When the special municipality or county (city) competent authority conducts emergency placement in accordance with the preceding article, it shall immediately notify the local district court and police agency and inform the parents or guardians of the child or juvenile. However, if there are no parents or guardians, or if notification is clearly difficult, notification may be omitted.
+
+Emergency placement shall not exceed seventy-two hours. If placement for more than seventy-two hours is necessary to protect the child or juvenile, a court order for continued placement may be requested. Continued placement is limited to three months; if necessary, an extension may be requested from the court, each extension being limited to three months.
+
+Applications for continued placement may be made by fax or other technological means.
+
+### Article 58
+
+The seventy-two hours stipulated in Article 57, Paragraph 2, shall be calculated immediately from the time of emergency placement of the child or juvenile in accordance with Article 57, Paragraph 1. However, the following times shall not be included:
+
+\1. Travel time for escort.
+
+\2. Traffic obstruction time.
+
+\3. Delay time due to other force majeure events.
+
+### Article 59
+
+If the special municipality or county (city) competent authority, parents, guardians, or placed children and juveniles are dissatisfied with the ruling under Article 57, Paragraph 2, they may file an appeal within ten days after the ruling is served. No further appeal may be filed against the ruling of the appellate court.
+
+During the application and appeal period, the original placement agency, institution, or foster family may continue the placement. If circumstances change during the placement period or if it is no longer necessary to continue placement according to the original ruling, the special municipality or county (city) competent authority, parents, original guardians, or placed children and juveniles may apply to the court for a change or revocation.
+
+The special municipality or county (city) competent authority shall continue to track and counsel children and juveniles whose placement period has expired or whose placement has been revoked in accordance with the preceding paragraph for at least one year.
+
+### Article 60
+
+During the placement period, the special municipality or county (city) competent authority or the institution or foster family entrusted with the placement shall exercise and bear the rights and obligations of parents towards minor children within the scope of protecting and placing children and juveniles.
+
+If the court rules that children and juveniles may continue to be placed, the special municipality or county (city) competent authority or the institution or foster family entrusted with the placement shall appoint one of its members to perform guardianship duties and bear the same duty of care as a parent with parental rights. The special municipality or county (city) competent authority shall report to the court the person performing guardianship matters and shall prepare reports for record as the case progresses.
+
+During the placement period, the parents, original guardians, relatives, friends, or teachers of the child or juvenile may visit the child or juvenile with the consent of the special municipality or county (city) competent authority at agreed times, places, and methods. If they fail to comply with the agreement or if there are circumstances detrimental to the child or juvenile, the special municipality or county (city) competent authority may prohibit visitation.
+
+Before giving consent in the preceding paragraph, the special municipality or county (city) competent authority shall respect the wishes of the child or juvenile.
+
+### Article 61
+
+During the placement period, children and juveniles shall not be subjected to interviews, interrogations, questioning, or physical examinations unless for the purpose of protecting the child or juvenile.
+
+When children and juveniles are subjected to interviews, interrogations, questioning, or physical examinations, social workers shall accompany them and protect their privacy.
+
+### Article 62
+
+If a child or juvenile cannot live normally in their family due to a major family change, their parents, guardians, interested parties, or child and juvenile welfare institutions may apply to the special municipality or county (city) competent authority for placement or assistance.
+
+For the placement mentioned in the preceding paragraph, the special municipality or county (city) competent authority may arrange foster family care or entrust them to appropriate child and juvenile welfare institutions or other placement institutions for care.
+
+The special municipality or county (city) competent authority, foster families, or institutions shall, in accordance with Paragraph 1, exercise and bear the rights and obligations of parents towards minor children within the scope of placing children and juveniles.
+
+If the family situation improves as mentioned in Paragraph 1, the placed child or juvenile may still return to their family, and the special municipality or county (city) competent authority shall continue to track and counsel them for at least one year.
+
+The conditions, procedures, qualifications of foster families, permits, supervision, assessment, and incentive regulations for foster family care mentioned in Paragraph 2 of this article and Paragraph 5 of Article 56 shall be determined by the special municipality or county (city) competent authority.
+
+### Article 63
+
+When the special municipality or county (city) competent authority places children and juveniles in accordance with Article 56, Paragraph 5 or Paragraph 2 of the preceding article, it may charge the parental obligors for the living expenses, health care expenses, tuition and miscellaneous fees, agency fees, and other placement-related expenses necessary for the foster family or placement institution to provide necessary services to the child or juvenile; the fee regulations shall be determined by the special municipality or county (city) competent authority.
+
+### Article 64
+
+If a child or juvenile has any of the circumstances in Article 49, Paragraph 1 or Article 56, Paragraph 1, or is a child or juvenile who has witnessed domestic violence and is designated as a protected case by the special municipality or county (city) competent authority, that competent authority shall propose a family treatment plan for the child and juvenile within three months; if necessary, it may entrust child and juvenile welfare institutions or organizations to implement it.
+
+The treatment plan mentioned in the preceding paragraph may include family function assessment, child and juvenile safety and placement assessment, parent education, psychological counseling, psychotherapy, addiction treatment, or other assistance and welfare service programs related to maintaining the normal functioning of children and juveniles or other families.
+
+The child or juvenile, parents, guardians, other persons actually caring for children and juveniles, or other relevant persons shall cooperate with the implementation of the treatment plan.
+
+For protected cases mentioned in Paragraph 1, their parents, guardians, or other persons actually caring for them shall inform the special municipality or county (city) competent authority of any changes in their residence or contact information.
+
+If the special municipality or county (city) competent authority finds that the whereabouts of a child or juvenile are unknown, and police investigation yields no results and criminal suspicion is involved, the judicial police agency may report to the prosecutor's office for handling.
+
+### Article 65
+
+Children and juveniles placed in accordance with this Act for two or more years, whose family function is deemed incomplete or unable to return home by the special municipality or county (city) competent authority, shall be included in a long-term care plan.
+
+The long-term care plan mentioned in the preceding paragraph may be entrusted to child and juvenile welfare institutions or organizations.
+
+### Article 66
+
+When providing protection, placement, visits, investigations, evaluations, counseling, or treatment for children and juveniles or their families in accordance with this Act, case data shall be established, and regular tracking and evaluation shall be conducted.
+
+Secrets or privacy known due to professional duties and documents produced or held shall be kept confidential and shall not be disclosed or made public without a legitimate reason.
+
+### Article 67
+
+The special municipality or county (city) competent authority shall continue to provide necessary welfare services for children and juveniles and their families who are handled as juvenile protection cases or juvenile criminal cases in accordance with the Juvenile Justice Act.
+
+The welfare services mentioned in the preceding paragraph may be entrusted to child and juvenile welfare institutions or organizations.
+
+### Article 68
+
+The special municipality or county (city) competent authority shall track and counsel children and juveniles and their families for at least one year after they have completed, suspended, or been exempted from protective placement or reformatory education, or have been referred for counseling, in accordance with the Juvenile Justice Act.
+
+The tracking and counseling mentioned in the preceding paragraph may be entrusted to child and juvenile welfare institutions or organizations.
+
+### Article 69
+
+Propaganda materials, publications, radio, television, internet, or other media shall not report or record the names of the following children and juveniles or other personally identifiable information:
+
+\1. Suffering any of the acts specified in Article 49 or Article 56, Paragraph 1.
+
+\2. Using illegal drugs, illegally using controlled drugs, or other substances harmful to physical and mental health.
+
+\3. Being a party or interested party in a lawsuit for disavowal of parentage, an adoption case, a case concerning the exercise or assumption of parental rights, or a case concerning the selection, determination, or change of guardianship.
+
+\4. Being a party or victim in a criminal case or a juvenile protection case.
+
+Documents produced by administrative and judicial agencies that must be made public shall also not disclose personally identifiable information of the children and juveniles mentioned in the preceding paragraph, except for the circumstances in Subparagraph 3 of the preceding paragraph or as specifically provided by other laws.
+
+No one other than those mentioned in the preceding two Paragraphs shall disclose the names of the children and juveniles and other personally identifiable information mentioned in paragraph 1 through media, information, or other public display methods.
+
+If Paragraphs 1 and 2 are for the purpose of promoting child and juvenile welfare or maintaining public interest, and after joint review by administrative agencies, relevant agencies, child and juvenile welfare organizations, and representatives of the Newspaper Publishers Association, it is deemed necessary to make public, this restriction shall not apply.
+
+### Article 70
+
+For matters stipulated in this Act, the special municipality or county (city) competent authority may, if necessary, independently or entrust child and juvenile welfare institutions, organizations, or other appropriate professionals to conduct visits, investigations, and treatments.
+
+When the special municipality or county (city) competent authority, or institutions, organizations, or professionals entrusted by it, conduct visits, investigations, and treatments, the parents, guardians, other persons actually caring for children and juveniles, teachers, employers, medical personnel, and other relevant persons shall cooperate and provide relevant information; the special municipality or county (city) competent authority may request assistance from police, household registration, finance, education, or other relevant agencies (institutions), and the requested agencies (institutions) shall cooperate.
+
+To handle necessary data for various child and juvenile protection, subsidy, and assistance duties, the competent authority may request relevant agencies (institutions), organizations, legal persons, or individuals to provide it; the requested parties have the obligation to cooperate in providing the information.
+
+The competent authority shall exercise the care of a good administrator in managing the data obtained in accordance with the preceding two Paragraphs, and shall properly implement information security auditing operations. Its retention, processing, and utilization shall comply with the Personal Data Protection Act.
+
+### Article 70-1
+
+If the special municipality or county (city) competent authority or institutions, organizations, or professionals entrusted by it are refused during a visit, investigation, or treatment mentioned in the preceding article, and there is a reasonable suspicion that the child or juvenile is in danger, at risk of danger, or there are objective facts indicating necessity, the special municipality or county (city) competent authority may request the police agency to immediately enter the residence, building, or other place by force or take other necessary measures.
+
+The police agency may dispatch personnel to execute immediate forceful entry upon the request mentioned in the preceding paragraph. When executing, they shall actively present their identification documents and may question relevant parties.
+
+### Article 71
+
+If parents or guardians seriously neglect the protection or care of children and juveniles, or commit any of the acts specified in Article 49 or Article 56, Paragraph 1, or fail to prohibit children and juveniles from using illegal drugs or illegally using controlled drugs, the child or juvenile, their closest ascendant relatives, the special municipality or county (city) competent authority, child and juvenile welfare institutions, or other interested parties may request the court to declare the termination of all or part of their parental rights or guardianship, or may separately apply for the selection or change of a guardian; for adoptive parents, they may also request the court to declare the termination of their adoption relationship. When the court selects or changes a guardian in accordance with the preceding paragraph, it may designate the special municipality or county (city) competent authority, the head of a child and juvenile welfare institution, or other appropriate person as the guardian of the child or juvenile, and may specify guardianship methods, order their parents, original guardians, or other parental obligors to deliver the child, pay a reasonable amount of support expenses and remuneration to the selected or changed guardian, order other necessary dispositions, or stipulate necessary matters.
+
+The ruling mentioned in the preceding paragraph may serve as an enforcement title.
+
+### Article 72
+
+If there are facts sufficient to determine that the property rights and interests of a child or juvenile are at risk of infringement, the special municipality or county (city) competent authority may request the court to designate or change the social welfare competent authority or other appropriate person as guardian or specify the guardianship method for the management, use, enjoyment, or disposition of the child's or juvenile's property, and may designate or change a trustee to manage all or part of the property, or order the guardian to establish a trust for management on behalf of the child or juvenile.
+
+Before the ruling mentioned in the preceding paragraph becomes final, the special municipality or county (city) competent authority may temporarily keep the child's or juvenile's property. The regulations for property management and trusts mentioned in the first Paragraph shall be determined by the special municipality or county (city) competent authority.
+
+### Article 73
+
+Senior high schools and below shall, in accordance with laws and regulations, cooperate with welfare and care institutions or reformatory education institutions to implement transition and re-enrollment education plans for children and juveniles placed for protective guidance or subjected to reformatory education under the Juvenile Justice Act, to safeguard their right to education.
+
+The regulations for the subjects, procedures, handling of violations, and other matters to be complied with for the transition and re-enrollment operations mentioned in the preceding paragraph shall be determined by the central education competent authority in conjunction with the justice competent authority.
+
+### Article 74
+
+The justice competent authority shall, for children and juveniles in the correctional stage, integrate with various competent authorities to provide educational counseling, vocational training, employment services, or other relevant services and measures based on their wishes, to assist them in returning to their families and communities.
+
+## Chapter 5: Welfare Institutions
+
+### Article 75
+
+Child and juvenile welfare institutions are classified as follows:
+
+\1. Infant care centers.
+
+\2. Early intervention institutions.
+
+\3. Placement and care institutions.
+
+\4. Psychological counseling or family counseling institutions.
+
+\5. Other child and juvenile welfare institutions.
+
+The standards for the scale, area, facilities, personnel allocation, and scope of business of the child and juvenile welfare institutions mentioned in the preceding paragraph shall be determined by the central competent authority.
+
+Competent authorities at all levels shall encourage, entrust private organizations, or independently establish the child and juvenile welfare institutions mentioned in Paragraph 1; if necessary, the business of their public child and juvenile welfare institutions may also be entrusted to private organizations. Special municipalities and county (city) competent authorities shall handle matters related to the guidance and management of infant care services independently or entrust them to relevant professional institutions or organizations.
+
+### Article 75-1
+
+When special municipalities and county (city) competent authorities entrust non-profit legal persons to operate infant care centers, early intervention institutions, and placement and care institutions that require national land or buildings for national policy purposes, the national property management agency may provide them for use by leasing; the rental standard shall be based on the current land value tax and house tax payable by law for the land and buildings.
+
+### Article 76
+
+The term "after-school care services for children" in Article 23, Paragraph 1, Subparagraph 12, refers to care services provided to elementary school students outside of school hours. The after-school care services for children mentioned in the preceding paragraph may be organized by designated elementary schools by the education competent authority, or by township (town, city, district) offices, private individuals, or organizations applying to establish and operate child after-school care service centers.
+
+The application, establishment, fee items, purposes and standards, management, facilities and equipment, reorganization, personnel qualifications and disqualification, reporting, information collection, inquiry, processing, utilization, and other matters to be complied with for the child after-school care classes and centers mentioned in the preceding paragraph shall be determined by the central education competent authority.
+
+Special municipalities and county (city) competent authorities shall convene a review committee for the purpose of operating child after-school care classes and centers, with the head of the agency or a designated representative as the convener, and members including agency representatives, education scholars and experts, representatives of parent organizations, representatives of women's organizations, representatives of public welfare childcare organizations, representatives of labor organizations, and representatives of child and juvenile welfare organizations.
+
+### Article 77
+
+Infant care centers shall arrange group insurance for the children they care for.
+
+The scope, amount, payment method, period, payment standards, rights and obligations, operation methods, and other relevant matters of the group insurance mentioned in the preceding paragraph shall be determined by the special municipality or county (city) competent authority.
+
+### Article 77-1
+
+Infant care centers shall install surveillance video equipment.
+
+The regulations for the installation, management, processing, utilization, viewing, preservation methods and duration of video and audio data from the surveillance video equipment mentioned in the preceding paragraph, and other related matters shall be determined by the central competent authority.
+
+### Article 78
+
+The operations of child and juvenile welfare institutions shall employ professional personnel; the categories, qualifications, training, and courses for such professional personnel shall be determined by the central competent authority.
+
+### Article 79
+
+No fees shall be charged for the issuance of establishment permits in accordance with this Act.
+
+### Article 80
+
+Special municipality and county (city) education competent authorities shall employ social workers or full-time counselors to perform relevant duties under this Act.
+
+The qualifications, establishment, and implementation regulations for the personnel mentioned in the preceding paragraph shall be determined by the central education competent authority.
+
+### Article 81
+
+A person shall not serve as the responsible person or staff member of a child and juvenile welfare institution if they have any of the following circumstances:
+
+\1. Have been subject to a deferred prosecution or a guilty judgment for offenses under Article 2, Paragraph 1 of the Sexual Assault Crime Prevention Act, Article 25 of the Sexual Harassment Prevention Act, the Child and Youth Sexual Transaction Prevention Act, or the Child and Youth Sexual Exploitation Prevention Act. However, this does not apply to persons under eighteen years of age who have committed an offense under Article 227 of the Criminal Code.
+
+\2. Have committed any of the acts specified in the Subparagraphs of Article 49, Paragraph 1, as verified by relevant authorities.
+
+\3. There are objective facts indicating a risk of harming children or juveniles, and the competent authority determines that they cannot perform their duties.
+
+\4. There are objective facts indicating sexual assault, sexual harassment, or sexual bullying, as verified by relevant agencies (institutions) or schools.
+
+The period during which a person with the acts mentioned in Subparagraph 2 or 4 of the preceding paragraph may not serve as a responsible person or staff member shall be determined by the competent authority considering the severity of the circumstances.
+
+The determination under Subparagraph 3 of Paragraph 1 shall be made by a group formed by the competent authority, inviting relevant specialist physicians, child and juvenile welfare experts, and other relevant scholars and experts.
+
+After the reason for Subparagraph 3 of Paragraph 1 disappears, one may still serve as the responsible person or staff member of a child and juvenile welfare institution in accordance with this Act.
+
+The competent authority shall proactively verify whether the responsible person of a child and juvenile welfare institution has any of the circumstances in Paragraph 1; before employing staff members, child and juvenile welfare institutions shall also proactively inquire, and the requested inquiry agency shall assist in responding.
+
+Before employing staff members, child and juvenile welfare institutions shall submit a roster, copies of qualification certificates, a statement of commitment, copies of health examination reports, a police criminal record certificate issued within the last three months, and other basic information to the competent authority for approval. The competent authority shall proactively verify and may dispatch personnel for inspection; the same applies to personnel changes.
+
+If a current staff member has any of the circumstances in Paragraph 1, the child and juvenile welfare institution shall immediately suspend their duties and may transfer, lay off, retire, or terminate their labor contract.
+
+The regulations for determining disqualification under the Subparagraphs of Paragraph 1 for child and juvenile welfare institutions, information collection, processing, utilization, inquiry, and other related matters shall be determined by the central competent authority.
+
+### Article 81-1
+
+A person shall not serve as the responsible person or staff member of a child after-school care class or center if they have any of the following circumstances:
+
+\1. Have been subject to a deferred prosecution or a guilty judgment for offenses under Article 2, Paragraph 1 of the Sexual Assault Crime Prevention Act, Article 25 of the Sexual Harassment Prevention Act, the Child and Youth Sexual Transaction Prevention Act, or the Child and Youth Sexual Exploitation Prevention Act. However, this does not apply to persons under eighteen years of age who have committed an offense under Article 227 of the Criminal Code.
+
+\2. Have committed sexual assault, or serious sexual harassment, sexual bullying, or any of the acts specified in the Subparagraphs of Article 49, Paragraph 1, as verified by the education competent authority.
+
+\3. Have committed non-serious sexual harassment, sexual bullying, or any of the acts specified in the Subparagraphs of Article 49, Paragraph 1, and the education competent authority determines that dismissal or termination of employment is necessary and, after considering the circumstances of the case, determines that they may not be employed for one to four years.
+
+\4. There are objective facts indicating a risk of harming children or juveniles, and the education competent authority determines that they cannot perform their duties.
+
+If the responsible person of a child after-school care service center has any of the circumstances in the preceding paragraph, the education competent authority shall revoke its establishment permit.
+
+The determination under Subparagraph 4 of Paragraph 1 shall be made by a group formed by the education competent authority, inviting relevant specialist physicians, child and juvenile welfare experts, and other relevant scholars and experts.
+
+After the reason for Subparagraph 4 of Paragraph 1 disappears, one may still serve as the responsible person or staff member of a child after-school care class or center in accordance with this Act.
+
+The education competent authority shall proactively verify whether the responsible person of a child after-school care class or center has any of the circumstances in Paragraph 1; before employing staff members, child after-school care classes and centers shall also proactively inquire, and the requested inquiry agency shall assist in responding.
+
+Before employing staff members, child after-school care classes and centers shall submit a roster, copies of qualification certificates, a statement of commitment, copies of health examination reports, a police criminal record certificate issued within the last three months, and other relevant documents to the education competent authority for approval; the education competent authority shall proactively verify and may dispatch personnel for inspection; the same applies to personnel changes. However, current teachers concurrently serving as staff members may be exempted from submitting relevant documents.
+
+If a current staff member has any of the circumstances in Paragraph 1, the child after-school care class or center shall immediately suspend their duties and may transfer, lay off, retire, or terminate their labor contract.
+
+The regulations for determining disqualification under the Subparagraphs of Paragraph 1 for child after-school care classes and centers, reporting, information collection, inquiry before and during employment, processing, utilization, and other related matters shall be determined by the central education competent authority.
+
+### Article 82
+
+Private individuals or organizations operating child and juvenile welfare institutions shall be limited to those who have applied for and obtained establishment permits from the local competent authority; those who engage in external fundraising or enjoy tax exemptions shall register as a foundation within six months from the date of establishment permit.
+
+If a foundation registration is not completed within the period mentioned in the preceding paragraph and there is a legitimate reason, an extension may be applied for once, not exceeding three months; if registration is not completed by the deadline, the original permit shall lose its effect.
+
+The requirements, procedures, review period, revocation and annulment of permits, supervision and management, suspension, termination, resumption of business, and other matters to be complied with for applications for establishment permits mentioned in Paragraph 1 shall be determined by the central competent authority.
+
+### Article 83
+
+Child and juvenile welfare institutions or child after-school care classes and centers shall not have any of the following circumstances:1. Abuse or harm the physical or mental health of children and juveniles.
+
+\2. Provide unhygienic meals or drinks, as verified by the health competent authority.
+
+\3. Provide unsafe facilities or equipment, as verified by the competent authority for the relevant business.
+
+\4. Fail to report child or juvenile abuse to the special municipality or county (city) competent authority.
+
+\5. Violate laws or regulations or their articles of donation.
+
+\6. Business operation policy inconsistent with the establishment purpose.
+
+\7. Failure to obtain legal receipts for financial income and expenditure, failure to publicly trust donations, or incomplete accounting records.
+
+\8. Evasion, obstruction, or refusal of guidance, inspection, or supervision by the competent authority or the competent authority for the relevant business.
+
+\9. False reporting of various work and business reports.
+
+\10. Failure to follow regulations for expansion, relocation, suspension, termination, or resumption of business.
+
+\11. Other circumstances sufficient to affect the physical and mental health of children and juveniles.
+
+### Article 84
+
+Child and juvenile welfare institutions shall not use their operations for any improper publicity; when accepting donations, they shall publicly verify them and shall not use donations for purposes other than their establishment purpose. The competent authority shall conduct guidance, supervision, inspection, incentives, and regular evaluations of child and juvenile welfare institutions and publish evaluation reports and results.
+
+The regulations for the evaluation subjects, items, methods, and incentive methods mentioned in the preceding paragraph shall be determined by the competent authority.
+
+### Article 85
+
+When a child and juvenile welfare institution ceases operations, suspends business, terminates business, dissolves, or has its permit revoked or annulled, it shall immediately arrange appropriate placement for the children and juveniles under its care; if it is unable to arrange appropriate placement, the permit-issuing competent authority shall assist in the placement, and the institution shall cooperate.
+
+## Chapter 6: Penalties
+
+### Article 86
+
+Any person assisting with delivery who violates Article 14, Paragraph 1, shall be fined NT$6,000 to NT$30,000 by the health competent authority.
+
+### Article 87
+
+Any person who violates Article 15, Paragraph 1, by engaging in adoption matching services without permission, shall be fined NT$60,000 to NT$300,000 by the competent authority and have their name or organization name publicly disclosed.
+
+### Article 88
+
+If an adoption matching service agency violates the regulations set forth in Article 15, Paragraph 4, concerning business inspection and management, suspension of business, termination of business, or resumption of business, the permit-issuing competent authority shall order them to make improvements within a time limit. If they fail to improve by the deadline, a fine of NT$30,000 to NT$150,000 shall be imposed, and continuous penalties may be imposed; in serious cases, they may be ordered to suspend operations for one month to one year, and their name or organization name may be publicly disclosed.
+
+If ordered to suspend operations in accordance with the preceding paragraph, and they refuse to comply or fail to improve after the suspension period expires, the permit-issuing competent authority shall revoke their permit.
+
+### Article 89
+
+Any person who violates Article 21, Paragraph 3, Article 53, Paragraph 5, Article 54, Paragraph 5, Article 66, Paragraph 2, or Article 69, Paragraph 3, without legitimate reason, shall be fined NT$20,000 to NT$100,000.
+
+### Article 90
+
+Any person who violates Article 26, Paragraph 1, by failing to register family childcare services, shall be fined NT$6,000 to NT$30,000 and ordered to make improvements within a time limit. If they fail to improve by the deadline, a fine of NT$6,000 to NT$30,000 shall be imposed, and they shall be ordered to refer the children under their care within one month. If they are unable to refer, the special municipality or county (city) competent authority shall assist in the referral.
+
+During the improvement period mentioned in the preceding paragraph, the special municipality or county (city) competent authority shall immediately notify parents, assist the family childcare service provider in referring children according to the parents' wishes, and strengthen visits and guidance.
+
+Any person who refuses to comply with the referral order mentioned in Paragraph 1 shall be fined NT$6,000 to NT$30,000, and the special municipality or county (city) competent authority shall forcibly refer the children under their care.
+
+During the improvement period mentioned in Paragraph 1, family childcare service providers shall not increase the number of children under their care. Violators shall be fined NT$6,000 to NT$30,000, and continuous penalties may be imposed; the special municipality or county (city) competent authority shall also forcibly refer the children under their care.
+
+Any person who violates Article 26, Paragraph 4, or the regulations on the number of children cared for, registration, or guidance results requiring improvement, as stipulated in the regulations under Paragraph 5, and fails to improve by the deadline, shall be fined NT$6,000 to NT$30,000, and continuous penalties may be imposed. If the circumstances are serious or if they fail to improve after three penalties, their registration may be revoked.
+
+Any person whose registration is revoked in accordance with the preceding paragraph shall not be eligible to register as a family childcare service provider for one year from the date of revocation.
+
+Any person who violates Article 26-1, Paragraph 4, by failing to cease services in accordance with the order of the special municipality or county (city) competent authority, shall be fined NT$60,000 to NT$300,000 and may have their name publicly disclosed.
+
+### Article 90-1
+
+Any person who violates the regulations set forth in Article 29, Paragraph 3, and has any of the following circumstances, the education competent authority shall fine the principal of a public or private school, or the responsible person of a short-term cram school or child after-school care service center, NT$6,000 to NT$30,000, and order them to make improvements within a time limit. If they fail to improve by the deadline, continuous penalties may be imposed:
+
+\1. Transporting students with vehicles not approved or reported for record.
+
+\2. Carrying more passengers than the number approved in the vehicle registration certificate.
+
+\3. Failing to transport students in accordance with school bus regulations.
+
+\4. Failing to assign qualified accompanying personnel to care for students on the vehicle.
+
+Any person who violates Article 33, Paragraphs 3 and 4, concerning the applicable scope and certain age, shall be fined NT$6,000 to NT$30,000 by the respective competent authority for the relevant business and ordered to make improvements within a time limit. If they fail to improve by the deadline, continuous penalties may be imposed.
+
+### Article 90-2
+
+Any person who violates Article 33-1 shall be ordered by the special municipality or county (city) transportation competent authority to make improvements within a time limit. If they fail to improve by the deadline, the owner or the responsible person of the managing agency shall be fined NT$10,000 to NT$50,000, and continuous penalties may be imposed until the improvements are completed.
+
+Any person who violates Article 33-2, Paragraph 2, by failing to improve, failing to submit an alternative improvement plan, or failing to complete improvements by the approved improvement deadline, shall be fined NT$10,000 to NT$50,000 by the special municipality or county (city) competent authority for construction, and ordered to make improvements within a time limit; if they fail to improve by the deadline, continuous penalties may be imposed until the improvements are completed.
+
+Paragraph 1 of this article shall come into force three years after the promulgation of the amendment to this Act on November 27, 2015; the preceding paragraph shall come into force five years after the promulgation of the amendment to this Act on November 27, 2015.
+
+### Article 91
+
+Parents, guardians, or other persons actually caring for children and juveniles who seriously violate Article 43, Paragraph 2, shall be fined NT$10,000 to NT$50,000.
+
+Any person who sells, delivers, or supplies alcohol or betel nuts to children and juveniles shall be fined NT$10,000 to NT$100,000.
+
+Any person who sells, delivers, or supplies illegal drugs, illegally supplied controlled drugs, or other substances harmful to physical and mental health to children and juveniles shall be fined NT$60,000 to NT$300,000.
+
+Any person who sells, delivers, or supplies publications, pictures, video programs, films, optical discs, electronic signals, game software, or other items related to violence, blood, pornography, or obscenity to children and juveniles shall be fined NT$20,000 to NT$100,000.
+
+Any person who violates Article 43, Paragraph 4, shall, except for newspapers which shall be handled in accordance with Articles 45 and 93, be fined NT$50,000 to NT$250,000, and have their name or organization name publicly disclosed, and be ordered to make improvements within a time limit; if they fail to improve by the deadline, continuous penalties may be imposed; in serious cases, the competent authority may refer the case to the competent authority for the relevant business to order suspension of business for one month to one year.
+
+### Article 92
+
+For publications other than newspapers, video programs, game software, or other items that the competent authority determines may affect the physical and mental health of children and juveniles and should be classified, if the person obligated to manage classification has any of the following circumstances, they shall be fined NT$50,000 to NT$250,000 and ordered to make improvements within a time limit. If they fail to improve by the deadline, continuous penalties may be imposed:
+
+\1. Violation of Article 44, Paragraph 1, by failing to classify.
+
+\2. Violation of the regulations on classification categories or content as stipulated in the regulations under Article 44, Paragraph 3.
+
+If the person obligated to manage classification mentioned in the preceding paragraph violates the regulations on labeling as stipulated in the regulations under Article 44, Paragraph 3, they shall be fined NT$30,000 to NT$150,000 and ordered to make improvements within a time limit. If they fail to improve by the deadline, continuous penalties may be imposed.
+
+Any person who violates Article 44, Paragraph 2, shall be fined NT$10,000 to NT$50,000, and have their name or organization name publicly disclosed, and be ordered to make improvements within a time limit; if they fail to improve by the deadline, continuous penalties may be imposed.
+
+### Article 93
+
+If a newspaper publisher fails to perform the disposition in accordance with Article 45, Paragraph 3, they shall be fined NT$30,000 to NT$150,000 and ordered to perform within a time limit; if they still fail to perform by the deadline, continuous penalties may be imposed until performance is completed. The same applies to cases determined by the competent authority in accordance with Article 45, Paragraph 4.
+
+### Article 94
+
+If an internet platform provider violates Article 46, Paragraph 3, by failing to take measures to restrict access or browse by children and juveniles or to remove content beforehand, the competent authority for the relevant business shall fine them NT$60,000 to NT$300,000 and order them to make improvements within a time limit. If they fail to improve by the deadline, continuous penalties may be imposed.
+
+Any person who violates Article 46-1 shall be fined NT$100,000 to NT$500,000, and have their name or organization name publicly disclosed, and be ordered to make improvements within a time limit; if they fail to improve by the deadline, continuous penalties may be imposed; in serious cases, they may be ordered to suspend business for one month to one year.
+
+### Article 95
+
+Parents, guardians, or other persons actually caring for children and juveniles who violate Article 47, Paragraph 2, shall be fined NT$10,000 to NT$50,000.
+
+The responsible person or employees of a place who violate Article 47, Paragraph 3, shall be fined NT$20,000 to NT$100,000, and the name of the responsible person of the place shall be publicly disclosed.
+
+### Article 96
+
+Parents, guardians, or other persons actually caring for children and juveniles who violate Article 48, Paragraph 1, shall be fined NT$20,000 to NT$100,000 and have their name publicly disclosed.
+
+Any person who violates Article 48, Paragraph 2, shall be fined NT$60,000 to NT$300,000, the names of the perpetrator and the responsible person of the place shall be publicly disclosed, and they shall be ordered to make improvements within a time limit; if they fail to improve by the deadline, unless the circumstances are serious and the competent authority refers the case to the competent authority for the relevant business to order termination of business, they shall be ordered to suspend business for one month to one year.
+
+### Article 97
+
+Any person who violates any of the Subparagraphs of Article 49, Paragraph 1, shall be fined NT$60,000 to NT$600,000 and may have their name or organization name publicly disclosed.
+
+### Article 98
+
+Any person who violates Article 50, Paragraph 2, shall be fined NT$10,000 to NT$50,000.
+
+### Article 99
+
+Parents, guardians, or other persons actually caring for children and juveniles who violate Article 51 shall be fined NT$3,000 to NT$15,000.
+
+### Article 100
+
+Medical personnel, social workers, educators, childcare workers, childcare service personnel, police officers, judicial personnel, immigration personnel, household registration personnel, village (neighborhood) cadres, or other personnel performing child and juvenile welfare duties, who violate Article 53, Paragraph 1, concerning reporting without legitimate reason, shall be fined NT$6,000 to NT$60,000.
+
+### Article 101
+
+(Deleted)
+
+### Article 102
+
+If parents, guardians, or persons actually caring for children and juveniles have any of the following circumstances, the competent authority shall order them to undergo parent education counseling for four to fifty hours:
+
+\1. Failure to prohibit children and juveniles from engaging in the behavior specified in Article 43, Paragraph 1, Subparagraph 2.
+
+\2. Violation of Article 47, Paragraph 2.
+
+\3. Violation of Article 48, Paragraph 1.
+
+\4. Violation of any of the Subparagraphs of Article 49.
+
+\5. Violation of Article 51.
+
+\6. Causing children and juveniles to have any of the circumstances in Article 56, Paragraph 1.
+
+If a person ordered to receive parent education counseling in accordance with the preceding paragraph is unable to attend on schedule for legitimate reasons, they may apply for an extension.
+
+Any person who refuses to accept parent education counseling or fails to complete the required hours shall be fined NT$3,000 to NT$30,000; if they still refuse to accept after being notified again, continuous penalties may be imposed until they attend.
+
+Any person who completes parent education counseling within the deadline shall be exempted from fines under Article 91, Paragraph 1, Article 95, Paragraph 1, Article 96, Paragraph 1, Article 97, and Article 99.
+
+### Article 103
+
+If a broadcasting or television business violates Article 69, Paragraph 1, the competent authority for the relevant business shall fine it NT$30,000 to NT$150,000 and order it to make corrections within a time limit; if it fails to correct by the deadline, continuous penalties may be imposed.
+
+If propaganda materials, publications, internet, or other media violate Article 69, Paragraph 1, the competent authority for the relevant business shall fine the responsible person NT$30,000 to NT$150,000, and may confiscate the items specified in Article 69, Paragraph 1, order removal of content, delisting, or other necessary dispositions within a time limit; if they fail to comply by the deadline, continuous penalties may be imposed until compliance is achieved.
+
+No penalty shall be imposed on the preceding two Paragraphs if, after review in accordance with Article 69, Paragraph 4, it is deemed necessary to make public.
+
+If propaganda materials, publications, internet, or other media have no responsible person or if the responsible person does not have a supervisory relationship over the perpetrator's actions, the fine specified in Paragraph 2 shall be imposed on the perpetrator.
+
+Before the amendment of this Act came into force on January 23, 2015, if the responsible person of propaganda materials, publications, radio, television, internet, or other media violated Article 69, Paragraph 1, that responsible person shall be punished according to the fine regulations of Paragraph 1 before the amendment. If there is no responsible person or if the responsible person does not have a supervisory relationship over the perpetrator's actions, the perpetrator shall be punished.
+
+### Article 104
+
+Parents, guardians, other persons actually caring for children and juveniles, teachers, employers, medical personnel, or other relevant persons who violate Article 70, Paragraph 2, without legitimate reason, shall be fined NT$6,000 to NT$30,000, and continuous penalties may be imposed until they cooperate or provide relevant information.
+
+### Article 105
+
+Any person who violates Article 76 or the first part of Article 82, Paragraph 1, by operating a child and juvenile welfare institution or child after-school care class or center without applying for establishment permit, shall be fined NT$60,000 to NT$300,000 by the local competent authority or education competent authority, have their name or organization name publicly disclosed, and be ordered to make improvements within a time limit.
+
+During the improvement period mentioned in the preceding paragraph, no additional children and juveniles shall be admitted for care or placement. Violators shall be fined NT$60,000 to NT$300,000, and continuous penalties may be imposed.
+
+If a person ordered to make improvements within a time limit in accordance with Paragraph 1 fails to improve by the deadline, the responsible person shall be fined an additional NT$100,000 to NT$500,000 and ordered to refer and place the children and juveniles under their care within one month; if they are unable to do so, the local competent authority shall assist, and the responsible person shall cooperate. Those who refuse to cooperate shall be subjected to compulsory implementation and fined NT$60,000 to NT$300,000.
+
+### Article 105-1
+
+If a child and juvenile welfare institution violates Article 81, Paragraph 5 or 7, the permit-issuing agency shall fine it NT$50,000 to NT$250,000 and order it to make improvements within a time limit. If it fails to improve by the deadline, continuous penalties may be imposed; if necessary, it may be ordered to suspend operations or have its establishment permit revoked.
+
+### Article 105-2
+
+If a child after-school care class or center violates Article 81-1, Paragraphs 5 to 7, the education competent authority shall fine the responsible person NT$50,000 to NT$250,000 and order them to make improvements within a time limit. If they fail to improve by the deadline, continuous penalties may be imposed; if necessary, they may be ordered to suspend operations or have their establishment permit revoked.
+
+### Article 106
+
+If a child and juvenile welfare institution violates the latter part of Article 82, Paragraph 1, and fails to comply with an order from the permit-issuing competent authority to immediately cease external fundraising activities, the permit-issuing competent authority shall fine it NT$60,000 to NT$300,000, and continuous penalties may be imposed, and its name may be publicly disclosed; in serious cases, it may be ordered to suspend operations for one month to one year.
+
+### Article 107
+
+If a child and juvenile welfare institution or child after-school care class or center has any of the circumstances in Article 83, Subparagraphs 1 to 4, the permit-issuing competent authority shall fine it NT$60,000 to NT$600,000 and order it to make improvements within a time limit. If it fails to improve by the deadline, continuous penalties may be imposed; in serious cases, it may be ordered to suspend operations for one month to one year, or suspend operations and have its name and the name of the responsible person publicly disclosed.
+
+If a person engages in child and juvenile welfare institution or child after-school care class or center business without a permit and is ordered by the local competent authority or education competent authority to make improvements within a time limit in accordance with Article 105, Paragraph 1, and has any of the circumstances in Article 83, Subparagraphs 1 to 4 during the improvement period, the local competent authority or education competent authority shall handle it in accordance with the preceding paragraph.
+
+### Article 108
+
+If a child and juvenile welfare institution or child after-school care class or center violates any of the provisions in Article 83, Subparagraphs 5 to 11, or is evaluated as C or D grade in accordance with the regulations set forth in Article 84, Paragraph 3, and is ordered by the permit-issuing competent authority to make improvements within a time limit but fails to improve by the deadline, a fine of NT$30,000 to NT$300,000 shall be imposed, and continuous penalties may be imposed; in serious cases, it may be ordered to suspend operations for one month to one year, and its name shall be publicly disclosed.
+
+If ordered to suspend operations in accordance with the preceding two articles and the preceding paragraph, and they refuse to comply or fail to improve after the suspension period expires, the permit-issuing competent authority shall revoke their establishment permit.
+
+### Article 109
+
+If a child and juvenile welfare institution violates Article 85 by failing to cooperate with the permit-issuing competent authority for placement, the permit-issuing competent authority shall fine it NT$60,000 to NT$300,000 and enforce it compulsorily.
+
+## Chapter 7: Supplementary Provisions
+
+### Article 110
+
+For persons aged eighteen or above but under twenty, the provisions of this Act shall apply mutatis mutandis to emergency placement and other protection measures.
+
+### Article 111
+
+Children and juveniles placed by the special municipality or county (city) competent authority in accordance with this Act who reach the age of eighteen and are evaluated as unable to return home or live independently may continue to be placed until they reach the age of twenty; those who have enrolled in a university or college may be placed until graduation.
+
+### Article 112
+
+If an adult instigates, assists, or exploits a child or juvenile to commit a crime, or jointly commits a crime with them, or intentionally commits a crime against them, the penalty shall be increased by up to one-half. However, if the respective crime has special penalty provisions for victims who are children or juveniles, those provisions shall apply.
+
+The competent authority may independently file a complaint for crimes against children and juveniles.
+
+### Article 112-1
+
+Adults who intentionally commit offenses against children and juveniles under the Child and Juvenile Youth Exploitation Prevention Act, and in the Sexual Offenses Chapter, the Homicide Chapter, and the Injury Chapter of the Criminal Code, and are granted a suspended sentence, shall be placed under protective supervision during the probation period.
+
+When the court issues the declaration mentioned in the preceding paragraph, it may entrust professional personnel, organizations, or institutions to conduct an assessment, and unless clearly unnecessary, shall order the defendant to comply with one or more of the following matters during the protective supervision period:
+
+\1. Prohibit specific illegal harmful acts against children and juveniles.
+
+\2. Complete an offender treatment plan.
+
+\3. Other matters for the protection of victims.
+
+The provisions of the preceding paragraph shall apply mutatis mutandis to offenders who are released on parole and placed under protective supervision after committing the crimes mentioned in Paragraph 1.
+
+The central health competent authority shall, in conjunction with the justice competent authority, establish norms for offender treatment plans, which shall include the following:
+
+\1. Cognitive educational counseling, psychological counseling, psychiatric treatment, addiction treatment, or other counseling or treatment provided to the offender.
+
+\2. Evaluation standards for treatment plans.
+
+\3. Liaison and evaluation system between judicial agencies and the agencies (institutions) implementing the offender treatment plan.
+
+\4. Qualifications of implementing agencies (institutions).
+
+If the offender is also a person under protective supervision, the probation officer of the prosecutor's office executing the protective supervision shall coordinate with the special municipality or county (city) health competent authority to implement the offender treatment plan and supervise the person under protective supervision to fulfill it.
+
+If the offender, after being supervised by the probation officer, still fails to fulfill the offender treatment plan or violates the content of the plan, and the circumstances are serious, the prosecutor may notify the warden of the original prison to report to the Ministry of Justice to revoke the parole, or apply to the court to revoke the suspended sentence.
+
+### Article 113
+
+Any person who obtains relevant subsidies or incentive fees under this Act by fraud or other improper means, the competent authority shall revoke the original disposition and order them to return the funds in writing within a time limit. If they fail to return by the deadline, the case shall be referred for compulsory execution; if criminal liability is involved, the case shall be referred to judicial agencies for handling.
+
+### Article 114
+
+If a parental obligor fails to pay relevant fees in accordance with this Act, and it is necessary for the protection of children and juveniles, the competent authority shall first pay from the child and juvenile welfare funds.
+
+### Article 115
+
+Child welfare institutions and juvenile welfare institutions that were permitted to be established before the implementation of the amendment to this Act, whose establishment requirements do not comply with this Act and its authorized regulations after the promulgation and implementation of the amendment, shall make improvements within the deadline designated by the central competent authority. If they fail to improve by the deadline, they shall be handled in accordance with this Act.
+
+### Article 116
+
+After-school care centers approved by the government before the implementation of this Act shall apply to the education competent authority for reorganization into child after-school care classes and centers within two years from the effective date of this Act. If they fail to apply by the deadline, their establishment permit shall be revoked, and the original permit certificate shall lose its effect.
+
+After-school care centers that have not completed reorganization as mentioned in the preceding paragraph shall be managed by the original approving competent authority in accordance with the laws and regulations before the amendment of this Act within two years from the effective date of this article.
+
+Child care institutions that have not reorganized into preschools in accordance with the Early Childhood Education and Care Act shall be managed by the original approving competent authority in accordance with the laws and regulations before the amendment of this Act.
+
+### Article 117
+
+The enforcement rules of this Act shall be determined by the central competent authority.
+
+### Article 118
+
+This Act shall take effect from the date of promulgation, except that Articles 15 to 17, 29, 76, 87, 88, and 116, as amended and promulgated on November 30, 2011, shall take effect six months after promulgation, and Articles 25, 26, and 90 shall take effect three years after promulgation.
+
+## History
+
+1.Promulgated by President order Hwa Tsung (1) Yi No. 09200096700 on May 28th , 2003
+
+2.Amended and promulgated by President Order Hwa Tsung (1) Yi No.09700053471 on May 7th ，2008, (the Amendment on Article 30, 58)
+
+3.Amended and promulgated by President Order Hwa Tsung (1) Yi No.09700147761 on Aug 6th ，2008, (the Amendment on Article 20)
+
+4.Promulgated by President Order Hwa Tsung (1) Yi No. 0990011732 on on May 12, 2010
+
+5.Promulgated by President order Hwa Tsung (1) Yi No. 10000267831 on November 30th, 2011
+
+6.Promulgated by President order Hwa Tsung (1) Yi No. 10100177940 on August 8th, 2012 (Article 54-1 was added)
+
+7.Promulgated by President order Hwa Tsung (1) Yi No. 10300008981 on January 22th, 2014 (the Amendment on Article 33, 76, and Article 90-1 was added)
+
+8.Amended on February 4, 2015
+
+9.Amended on December 2, 2015
+
+10.Amended on December 16, 2015
+
+11.Amended on November 21, 2018
+
+12.Amended on January 2, 2019
+
+13.Amended on April 24, 2019
+
+14.Amended on January 15, 2020
+
+15.Amended on January 20, 2021

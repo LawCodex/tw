@@ -1,0 +1,269 @@
+---
+title: "Foreign Exchange Control Act"
+title_zh: "管理外匯條例"
+identifier: "G0380026"
+type: act
+law_level: "法律"
+category: "行政＞金融監督管理委員會＞銀行目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1949-01-11
+last_amended: 2009-04-29
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0380026"
+retrieved: 2026-10-12
+---
+
+# Foreign Exchange Control Act
+
+> Translation. The Chinese text ([zh/laws/financial-supervisory-commission/G0380026-foreign-exchange-control-act.md](../../../zh/laws/financial-supervisory-commission/G0380026-foreign-exchange-control-act.md)) is authoritative.
+
+## Article 1
+
+The Act is prescribed for maintaining the equilibrium of the balance of payments, stabilizing the financial market, and instituting management of foreign exchange.
+
+## Article 2
+
+For the purpose of the Act, the term "foreign exchange" used herein shall refer to foreign currency, negotiable instruments, and securities.
+
+The types of foreign securities referred to in the preceding paragraph shall be approved by the authority in charge of the foreign exchange business.
+
+## Article 3
+
+The competent authority in charge of foreign exchange administration shall be the Ministry of Finance. The authority in charge of foreign exchange business shall be the Central Bank of the Republic of China.
+
+## Article 4
+
+The competent authority in charge of the foreign exchange administration shall undertake the following tasks:
+
+\1. To oversee and administer the foreign currency claims and debts of the government and government-owned enterprises in compliance with the treaty or agreement concluded with a foreign government or international organization, if any;
+
+\2. To oversee and audit the treasury's guarantee, management, and repayment of foreign debts;
+
+\3. To review and approve foreign exchange settlement for imports, outward remittances, and borrowings made by government military and administrative agencies and to issue certificates accordingly;
+
+\4. To communicate and coordinate with the Central Bank of the Republic of China or the competent authority in charge of foreign trade regarding foreign exchange-related matters;
+
+\5. To decide and execute disciplinary actions and fines pursuant to the Acts herein; and
+
+\6. Other foreign exchange-related administrations.
+
+## Article 5
+
+The authority in charge of foreign exchange business shall undertake the following tasks:
+
+\1. To draw up plans for foreign exchange reserve management and on foreign exchange receipts and disbursements;
+
+\2. To authorize and supervise banks engaging in foreign exchange operations;
+
+\3. To regulate the supply and demand of foreign exchange in order to maintain an orderly foreign exchange market;
+
+\4. To examine and approve private outward and inward remittances;
+
+\5. To supervise private enterprises' foreign borrowings guaranteed by authorized banks, with reference to their management and their repayment on schedule;
+
+\6. To purchase and sell foreign currencies, negotiable instruments and securities;
+
+\7. To compute, compile, analyze, and report the receipts and disbursements of foreign exchange; and
+
+8.Other operations relating to foreign exchange.
+
+## Article 6
+
+The competent authority in charge of foreign trade shall draw up import and export plans according to the foreign exchange management plan and the receipts and disbursements as set forth in Subparagraph 1 of the preceding Article.
+
+## Article 6-1
+
+Foreign exchange receipts, disbursements, or transactions involving NT$500,000 or more or its equivalent in foreign currency shall be declared as required. The declaration rules shall be stipulated by the Central Bank of the Republic of China.
+
+In the event there is a fact to support the concern that a particular declaration set forth in the preceding paragraph might be untruthful, the Central Bank of the Republic of China may make inquiries, and the inquired party shall be obliged to give explanations.
+
+## Article 7
+
+Inward and outward remittances specified below shall be sold to the Central Bank of the Republic of China or one of its authorized banks, or deposited into an authorized bank and sold in the foreign exchange market through the bank; the rules for exchange settlement shall be stipulated by the Ministry of Finance jointly with the Central Bank of the Republic of China:
+
+\1. Foreign exchange revenues from export, re-export, or other trading activities;
+
+\2. Foreign exchange revenues received by a shipping business, insurance business, and people of other trades as a result of trade or service provided;
+
+\3. Inward remittance;
+
+\4. Income of an ROC national with domicile and residence within the territory of the Republic of China from foreign investments that have had government approval;
+
+\5. The principal, interest, net profits, or technical remuneration received by a domestic enterprise from foreign investments, financing activities, or technical cooperation that have had government approval;
+
+\6. Foreign exchange of other sources that should be deposited or settled.
+
+Overseas compatriots or foreign individual who invest in high-tech businesses that can help elevate the industrial level and promote economic development and have had government approval under special case status may use their foreign exchange receipts from sources as set forth in the preceding paragraph to offset the foreign currency payments described in Subparagraphs 1, 2 and Subparagraphs 5 to 8, Article 13 herein. Notwithstanding the preceding provision, the balance of periodic settlement thereof shall still follow the provisions specified in the preceding paragraph; related measures will be stipulated by the Central Bank of the Republic of China.
+
+## Article 8
+
+Except for the foreign exchange that shall be deposited or sold as provided in Article 7 herein, citizens and foreign individuals within the territory of the Republic of China may hold foreign exchange and deposit it in the Central Bank of the Republic of China or one of its authorized banks; deposits of foreign currency may be withdrawn and held; the related deposit measure shall be stipulated by the Ministry of Finance jointly with the Central Bank of the Republic of China.
+
+## Article 9
+
+The total amount of foreign currency that may be carried by citizens or foreign individuals who depart the country shall be set by the Ministry of Finance in a regulation.
+
+## Article 10
+
+(deleted)
+
+## Article 11
+
+Passengers or service personnel of a transportation vehicle who carry foreign currency into and out of the country shall report to the customs; related measures will be set forth by the Ministry of Finance jointly with the Central Bank of the Republic of China.
+
+## Article 12
+
+Foreign negotiable instruments and securities may be carried into and out of the country; related measures shall be stipulated by the Ministry of Finance jointly with the Central Bank of the Republic of China.
+
+## Article 13
+
+Foreign exchange needed to pay for the following expenses or activities may be drawn by the payer from his/her foreign exchange deposit account as set forth in Article 7 or bought in the foreign exchange market through an authorized bank, or bought from the Central Bank of the Republic of China or one of its authorized banks; related measures shall be stipulated by the Ministry of Finance jointly with the Central Bank of the Republic of China.
+
+\1. Costs and expenses of merchandise approved for import;
+
+\2. Expenses and obligations to be paid by the shipping business, insurance business, or people of other trades as a result of trade or service received;
+
+\3. Expenses for attending school, taking a business tour, traveling, seeking medical treatment, visiting relatives, employment, or doing business abroad;
+
+\4. Monies remitted to support families abroad by citizens of the Republic of China or by foreign individuals employed by a government agency or enterprises of the People's Republic of China within the territory of the Republic of China;
+
+\5. Principal, interests, and net profits relating to investments of foreign individuals and overseas compatriots in the Republic of China;
+
+\6. Payment for principal, interests, and guarantee expenses of government-approved foreign loans;
+
+\7. Remuneration for foreign individuals and overseas compatriots for technical cooperation with domestic enterprises;
+
+\8. Government-approved foreign investment or loan extended to foreign borrowers; and
+
+\9. Other necessary payments and obligations.
+
+## Article 14
+
+Foreign exchange other than those specified in Paragraph 1 of Article 7 that should be deposited with or sold to the Central Bank of the Republic of China or one of its authorized banks is regarded as self-owned foreign exchange and may be used for the purposes described in Subparagraphs 1 to 4, Subparagraph 6 and Subparagraph 7 of the preceding Article if so applied by its holder.
+
+## Article 15
+
+In the case of the following imports, the application may be made to the Ministry of Finance for approval of exemption from foreign exchange settlement:
+
+\1. Relief goods and materials from abroad;
+
+\2. Goods bought by the government with foreign loans;
+
+\3. Foreign donations received by the school, educational, research, or training institutions, or agencies for teaching or research purposes;
+
+\4. Foreign donations received by a charity or organization for relief purposes;
+
+5.Carry-on or personal effects of passengers and service personnel of a transportation vehicle.
+
+## Article 16
+
+Gifts, samples, and not-for-sale goods imported from abroad with value under a certain limit may be imported under the approval of the customs; the aforesaid limit shall be set by the Ministry of Finance jointly with the competent authority in charge of foreign trade in regulations.
+
+## Article 17
+
+When the reason for the disbursement of foreign exchange has ceased to apply or changed so that the foreign exchange is not needed for making payment, in part or in whole, the balance thereof shall be deposited into or sold to the Central Bank of the Republic of China or one of its authorized banks within a time period prescribed by the Central Bank of the Republic of China.
+
+## Article 18
+
+The Central Bank of the Republic of China shall provide the Ministry of Finance with a report detailing foreign exchange purchases and sales, foreign exchange positions, and guaranteed foreign liabilities on a regular basis.
+
+## Article 19
+
+(deleted)
+
+## Article 19-1
+
+In case of any of the following situations, the Executive Yuan may decide and announce with a public notification to close the foreign exchange market, suspend or restrict all or some foreign exchange settlements, order the selling or deposit of all or some types of foreign exchange into an authorized bank, or take other necessary measures for a specific time period:
+
+\1. When the domestic or foreign economic disorder might endanger the stability of the domestic economy.
+
+\2. When the Republic of China’s balance of payments suffers a severe deficit.
+
+The items and targets of aforesaid action shall be specified in Regulations Governing Foreign Exchange Control stipulated by the Executive Yuan.
+
+The aforesaid decision shall be submitted to the Legislative Yuan for acceptance within ten days after it is announced and shall become invalid once the Legislative Yuan rejects it.
+
+The specified time period stipulated in Paragraph 1 shall not be longer than 20 days, provided the Legislative Yuan is not in session.
+
+## Article 19-2
+
+Intentional violation of the measures taken by the Executive Yuan pursuant to Article 19-1 herein shall be subject to a fine of not more than NT$3,000,000.
+
+Notwithstanding the preceding provision, the violator shall be exempt from the penalty provided the Legislative Yuan rejects the measures taken by the Executive Yuan subsequently.
+
+## Article 19-3
+
+In response to UN Resolutions and the needs for international cooperation, the Financial Supervisory Commission (FSC) may, in conjunction with the Central Bank, after submitting to the Executive Yuan for approval, issue orders to specified banks to block the withdrawal, transfer, payment, or disbursement in, or otherwise take necessary measures against, accounts held by individuals, entities or institutions of certain countries or regions that are suspected of directly or indirectly using the accounts, money transfers, currencies or other instruments of payment to finance terrorism or terrorist organizations, or engage in activities threatening international security.
+
+The FSC shall make public the above measures and deliver them to the Legislative Yuan for approval within ten days after being public. The measures shall become immediately invalid if the Legislative Yuan rejects them.
+
+The said measures shall be lifted when causes thereof cease to exist.
+
+## Article 20
+
+Violation of Article 6-1 herein involving intentional omission of declaration or making untruthful declaration shall be subjected to a fine of not less than NT$30,000 and not more than NT$600,000; the same provision applies to failure to provide an explanation within a specified time period or providing false explanation.
+
+Violation of Article 7 herein involving not selling or depositing foreign exchange to or with the Central Bank of the Republic of China or one of its authorized banks shall be subjected to a fine that amounts to not more than twice the amount not deposited or not sold converted into New Taiwan Dollar at the then prevailing exchange rate and the Central Bank of the Republic of China will pursue the return of foreign exchange.
+
+## Article 21
+
+The violation of Article 17 herein shall be subjected to a fine that amounts to the sum not deposited or not sold back converted into New Taiwan Dollar at the then prevailing exchange rate, and the Central Bank of the Republic of China will pursue the return of foreign exchange.
+
+## Article 22
+
+People who engage in foreign exchange transactions illegally as a regular profession shall be sentenced to imprisonment for not more than three years, short-term imprisonment, and/or a criminal fine that amounts to their total business turnover; the foreign exchange and the payment or proceeds thereof shall be confiscated as well.
+
+In case the representative of a juristic person, the agent of a juristic person or a natural person, or the employee or business associate of a juristic person in another capacity violates the provision stipulated in the preceding paragraph while conducting business, the juristic person or natural person shall be fined the same amount as imposed on the offender.
+
+## Article 23
+
+Where the foreign exchange that shall be returned pursuant to the Act herein is not returned in the form of foreign exchange, a fine of not more than the amount that should be returned will be imposed.
+
+## Article 24
+
+In case of buying or selling foreign exchange that violates Article 8 herein, the foreign exchange and payment or proceeds thereof will be confiscated.
+
+Where the amount of foreign currency carried while departing the country exceeds the limit prescribed in Article 9 herein, the excess portion shall be confiscated.
+
+Foreign currency carried into or out of the country shall be confiscated, provided it is not reported as required under Article 11 herein; in case of false reporting, the excess portion shall be confiscated.
+
+## Article 25
+
+In the event that an authorized bank violates any of the provisions herein, the Central Bank of the Republic of China may suspend its foreign exchange business operations, in whole or in part, for a certain period of time, depending on the severity of the offense.
+
+## Article 26
+
+Cases of resisting payment of the fines imposed pursuant to the Act shall be transferred to the court for compulsory execution.
+
+## Article 26-1
+
+The Executive Yuan may decide to discontinue the application, in whole or in part, of Articles 7, 13, and 17 herein when the ROC experiences sustained international trade surplus, a build-up of foreign exchange reserves, or material changes in the world economy.
+
+Within ten (10) days after the Executive Yuan has decided to resume the application, in whole or in part, of the provisions of the preceding paragraph, it shall be submitted to the Legislative Yuan for acceptance. If the decision is not approved by the Legislative Yuan, it shall become invalid.
+
+## Article 27
+
+The enforcement rules of the Act shall be drafted by the Ministry of Finance jointly with the Central Bank of the Republic of China and the competent authority in charge of foreign trade and sent to the Executive Yuan for approval.
+
+## Article 28
+
+This Act shall come into force on the date of promulgation.
+
+## History
+
+\1. Promulgated on Jan. 11, 1949
+
+\2. As amended on Dec. 24, 1970
+
+\3. As amended on Dec. 20, 1978
+
+\4. As amended on May 14, 1986
+
+\5. As amended on June 26 and July 9, 1987
+
+\6. As amended on August 2, 1995
+
+\7. As amended on April 29, 2009

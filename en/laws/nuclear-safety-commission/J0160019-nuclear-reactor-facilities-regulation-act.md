@@ -1,0 +1,333 @@
+---
+title: "Nuclear Reactor Facilities Regulation Act"
+title_zh: "核子反應器設施管制法"
+identifier: "J0160019"
+type: act
+law_level: "法律"
+category: "行政＞核能安全委員會＞原子能目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2003-01-15
+last_amended: 2025-05-23
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0160019"
+retrieved: 2026-10-12
+---
+
+# Nuclear Reactor Facilities Regulation Act
+
+> Translation. The Chinese text ([zh/laws/nuclear-safety-commission/J0160019-nuclear-reactor-facilities-regulation-act.md](../../../zh/laws/nuclear-safety-commission/J0160019-nuclear-reactor-facilities-regulation-act.md)) is authoritative.
+
+## Chapter I General Principles
+
+### Article 1
+
+This Act is enacted to regulate nuclear reactor facilities in order to protect the public safety; matters not provided for herein shall be applied to the provisions under other relevant laws and regulations.
+
+### Article 2
+
+The terms used in this Act are defined as follows:
+
+\1. “Nuclear reactor” shall denote the nuclear fuel-loaded apparatus which may cause the controllable self-sustaining chain reaction of nuclear fission.
+
+\2. “Nuclear reactor facilities” shall denote the nuclear reactor and the relevant buildings and equipment appendant thereto.
+
+\3. “Research nuclear reactor” shall denote the nuclear reactor which is designed or used primarily for education, research or experiment.
+
+\4. “Off-commissioning” shall denote the nuclear reactor facilities which have been planned to cease operation for more than one year.
+
+\5. “Decommissioning” shall denote that after the permanent cessation of operation of nuclear reactor facilities, the various measures that shall be implemented to enable that facilities and the site to be developed and utilized again.
+
+\6. “Licensee” shall denote an entity who or which has been approved by the competent authority to operate nuclear reactor facilities.
+
+\7. “Exclusion area” shall denote the area immediately surrounding the nuclear reactor facilities, where an individual located at any point on its boundary would not receive a radiation dose in excess of the limits prescribed by the competent authority within two hours after the onset of a nuclear accident.
+
+\8. “Low population zone” shall denote the area immediately surrounding the exclusion area where an individual located at any point on its boundary would not receive a radiation dose in excess of the limits prescribed by the competent authority after a nuclear accident.
+
+### Article 3
+
+The competent authority referred to in this Act shall be the Atomic Energy Council, Executive Yuan.
+
+## Chapter II Regulation of Construction and Operation
+
+### Article 4
+
+The licensee shall submit a plan, in accordance with the level of radiation dose received by the public after a nuclear accident, to the competent authority for consultation with the Ministry of the Interior, the government of special municipality, the county (city) government and the relevant authority about demarcating the exclusion area and the low population zone, which, after being approved by the Executive Yuan, shall be publicized and implemented by the government of special municipality, the county(city) government; and the aforesaid respective government, being accompanied with the licensee, shall then set up the landmarks within two months; and, the same rules shall be applicable to the procedures for amending it. The fees for setting up the landmark shall be borne by the licensee.
+
+With the exception of highway, railroad, and waterway, the licensee shall obtain the rights of use over the land within the exclusion area. Residence within the exclusion area which is unrelated to the operation, the maintenance or the security of nuclear reactor facilities, shall be prohibited. Any activity which may affect the safety of nuclear reactor facilities shall be prohibited there.
+
+As to the selection of site of nuclear reactor facilities, its location, in addition to that the radius of the low population zone shall be appropriate, shall be distant at least one and one third times of radius of the low population zone from the population center containing more than twenty-five thousand.
+
+Residence within the low population zone is generally permitted. However, to newly establish school, factory, jail, hospital, long-term care service institution, elderly care and nursing institution, a protective program shall be provided, referring first to the regional public protective response plan, and submitted to the competent authority for consultation with the government of special municipality, and the county (city) government and approving it, so that the same can be implemented in accordance with the relevant laws and regulations.
+
+The demarcation standards for the exclusion area and the low population zone shall be prescribed by the competent authority.
+
+### Article 5
+
+For the construction of nuclear reactor facilities, an application for construction permit shall be filed to the competent authority, and the construction shall not commence until the application has been reviewed and approved by the competent authority to meet with the following standards and requirements and the competent authority has issued a construction permit therefor:
+
+\1. The purpose of construction shall be consistent with that of peaceful use of atomic energy;
+
+\2. The equipment and the facilities shall be sufficient to protect the public health and safety;
+
+\3. The impact on the environmental protection and ecological conservation shall comply with the provisions under relevant laws and regulations;
+
+\4. The technical, the management ability and the financial basis, etc., of the applicant shall be competent to operate the facilities.
+
+The competent authority shall publicize for sixty days the application referred to in the preceding paragraph within thirty days after receiving it. During the period for publication, any individual, authority, schools or groups may submit to the competent authority comment in written document stating the name or appellation and the address thereof.
+
+The regulations for the qualification for an application for construction permit for nuclear reactor facilities, documents required, review and approval procedures and other matters to be complied therewith shall be prescribed by the competent authority.
+
+### Article 6
+
+Even after the completion of construction of nuclear reactor facilities, the facilities shall not be loaded with the nuclear fuel, unless the competent authority has reviewed and approved its final safety analysis report, and the corrective actions of inspection findings during the construction and the system functional tests thereof have been passed. Unless the competent authority has reviewed and approved the power test therefor and then issued an operating license therefor, no nuclear reactor facilities, having been loaded with the nuclear fuel, shall be formally operated.
+
+The valid period of the operating license referred to in the preceding paragraph shall be forty years at longest, and when there is need to continue operation after the license is expired, an application for renewing the license thereof may be filed by the licensee to the competent authority before the operating license is expired. The operation thereof shall not be continued without the renewal of license in accordance with the provision.
+
+When there is need to continue operation after the license is expired, an application for renewing the license thereof may be filed by the licensee to the competent authority. The operation thereof can be continued only if the competent authority confirms that there is no safety concern about the nuclear reactor facility and approves the renewal of the license.
+
+The various provisions of paragraph 1 of the preceding Article shall apply mutatis mutandis to the issuance and the renewal of an operating license；The valid period of renewed operating license shall be twenty years at longest, from the effective date of the operating license；The regulations for the documents requisite for the application in this context, review and approval procedures and other matters to be complied therewith shall be prescribed by the competent authority.
+
+### Article 7
+
+The design, construction and operation of nuclear reactor facilities shall be complied with the provisions of the safety design criteria of nuclear reactor facilities and the quality assurance criteria of nuclear reactor facilities prescribed by the competent authority.
+
+### Article 8
+
+The competent authority may prescribe the regulations to regulate the re-start of nuclear reactor facilities after that have been ceased operation due to re-loading of nuclear fuel, refueling outage, or reportable event.
+
+### Article 9
+
+After nuclear reactor facilities have been formally operated, one integrated safety assessment shall be implemented at least once every ten years and then be submitted to the competent authority for review and approval.
+
+### Article 10
+
+The licensee shall follow the provision of the competent authority to submit the report(s) related to operation, radiation safety, environmental radiation monitoring, reportable or emergency event, or prompt notification, the generation record on radioactive waste and any other report(s) designated by the competent authority; wherein, the regulations for the time limit, the modus, the contents and other matters to be complied therewith, pertinent to the reportable event report and the prompt notification shall be prescribed by the competent authority.
+
+### Article 11
+
+One who has not obtained the nuclear reactor operator license shall not operate the nuclear reactor, however, that the following personnel are exempted:
+
+\1. The school student or the operation trainee, who operates a research nuclear reactor for the training purpose under the on-site guidance and the responsibility of the licensed operator.
+
+\2. The trainee having attended the operator training and passed the test and examination of the competent authority, then operates a nuclear reactor for the purpose of apprenticeship for the duty under the on-site guidance and the responsibility of the licensed operator.
+
+The license referred to in the preceding paragraph shall be issued after the test, for which the licensee has applied to the competent authority, has been passed and the apprenticeship has been qualified.
+
+Where the nuclear reactor operator inadvertently neglects performing his or her duty, the competent authority may suspend his or her license for a period from three months to eighteen months, subject to the severity in the circumstances; and (/or) may revoke the license, if there is a severe violation of regulation.
+
+The regulations for issuance, renewal, reissuance, suspension, revocation of the license of nuclear reactor operator and other matters to be complied therewith shall be prescribed by the competent authority.
+
+### Article 12
+
+The licensee shall hold regularly the medical examination for nuclear reactor operators, and shall prohibit anyone whose physical and mental condition is inadequate to continuously take charge of operation; and if necessary, the competent authority may order the licensee to make such a prohibition.
+
+The prohibited operators referred in the preceding paragraph may continue to take charge of the operation once he or she has obtained a certificate of physician proving that his or her physical and mental condition has been resumed to enable him or her to take charge of operation adequately and has been re-trained for complying with the provision. For those prohibited personnel under the competent authority’ order to the licensee, an approval from the competent authority shall also be obtained.
+
+The regulations for the implementation of health examination referred to in Paragraph 1 and the issuance of and the obtaining certificate of physician referred to in the preceding paragraph shall be prescribed by the competent authority.
+
+### Article 13
+
+During the construction or the operation period of nuclear reactor facilities, the design change or equipment modification, if involved in the significant safety items, shall be submitted to and approved by the competent authority before its implementation.
+
+The scope of significant safety items referred to in the preceding paragraph shall be prescribed by the competent authority.
+
+### Article 14
+
+During the construction or the operation period of nuclear reactor facilities, the competent authority may dispatch the inspector to inspect the facilities at any time, and may require the licensee to submit relevant materials; wherein, the licensee shall not evade, obstructs, or refuse the same. If there is anything not conform to the provision or if the public health and safety or environmental ecology may be endangered, the competent authority shall order the licensee to improve the situation or take any other necessary measures within a prescribed time period. If the situation is severe, the licensee does not improve it nor take necessary measures within the prescribed period, the competent authority may order the licensee to cease on-site working, or operation thereof, or may revoke the license or to operate only under a limited power.
+
+When making the administrative disposition according to the preceding paragraph, the competent authority shall notify the licensee by a document detailing the rationale. When the situation is urgent, the administrative disposition may be made verbally at first and the written administrative disposition shall be served supplementally upon the licensee within seven days.
+
+For the inspection referred to in Paragraph 1, the competent authority may entrust relevant authorities (institutes), schools or groups to perform; the regulations for entrusting in this context shall be prescribed by the competent authority.
+
+### Article 15
+
+In order to assure that the design, installation, inspection and test of nuclear reactor facilities shall be actually complied with the requirements for the nuclear safety, the licensee shall retain the authorized inspection agencies to take charge of the inspection.
+
+The regulations for the scope of inspection and the recognition of authorized inspection agency referred to in the preceding paragraph shall be prescribed by the competent authority.
+
+### Article 16
+
+After being submitted to and approved by the competent authority, the nuclear grade items to be used in the safety-related structures, systems and components of nuclear reactor facilities may be adopted from the products approvingly dedicated by the agency recognized by the competent authority.
+
+The regulations for the condition and the technology as to the verification and the recognition of agency referred to in the preceding paragraph shall be prescribed by the competent authority.
+
+### Article 17
+
+The import, export, movement of nuclear reactor and other relevant matters designated by the competent authority shall be made only after an application therefor has been submitted to and approved by the competent authority.
+
+### Article 18
+
+If any of the registered items under the license issued according to this Act has been changed, the licensee shall apply for the amendment within the period prescribed by the competent authority.
+
+### Article 19
+
+Unless permitted by the competent authority, the nuclear reactor facilities, the license thereof and the rights vested in the license shall not be transferred, leased, lent, trusted, pledged or mortgaged.
+
+### Article 20
+
+Provisions under Article 4, Paragraph 2 of Article 5, Article 8, Article 9 and Article 15 shall not be applied to research nuclear reactor facilities with the thermal power below a specific limit.
+
+The specific limit referred to in the preceding paragraph shall be prescribed by the competent authority.
+
+## Chapter III Regulation of Off-Commissioning and Decommissioning
+
+### Article 21
+
+The decommissioning of nuclear reactor facilities shall adopt the method of dismantlement and shall be completed within the period prescribed by the competent authority.
+
+The dismantlement referred to in the preceding paragraph shall be within the scope of radioactively-contaminated equipment, structure, and materials.
+
+### Article 22
+
+As to the decommissioning of nuclear reactor facilities, the radiation dose in the site of dismantled facilities shall comply with the standards prescribed by the competent authority.
+
+### Article 23
+
+For the decommissioning of nuclear reactor facilities, an application, appending the decommissioning plan, shall be filed by the licensee to the competent authority, and the decommissioning thereof shall not commence until the application has been reviewed and approved by the competent authority to comply with the following provisions and a decommissioning permit has been granted:
+
+\1. The activities of decommissioning shall be sufficient to protect the public health and safety;
+
+\2. The impact on the environmental protection and ecological conservation shall comply with the provisions under relevant laws and regulations;
+
+\3. The activities of radiation protection and the administration of radioactive materials shall comply with the provisions under relevant laws and regulations;
+
+\4. The technical, the management ability and the financial basis, etc., of the applicant shall be competent to execute the decommissioning.
+
+The decommissioning plan referred to in the preceding paragraph shall be submitted by the licensee three years prior to the scheduled permanent cessation of operation of nuclear reactor facilities.
+
+If within the valid period of the operating license, nuclear reactor facilities have not been operated continually due to certain reasons, the licensee shall submit the decommissioning plan within three years after the permanent cessation of operation thereof.
+
+The regulations for the documents requisite for an application for the permit for decommissioning of nuclear reactor facilities, review and approval procedures, and other matters to be complied therewith shall be prescribed by the competent authority.
+
+### Article 24
+
+For the off-commissioning of nuclear reactor facilities, the licensee shall submit the off-commissioning plan to the competent authority for approval.
+
+The regulations for the documents requisite for an application for off-commissioning of nuclear reactor facilities, review and approval procedures, and the administrative regulations as to the off-commissioning shall be prescribed by the competent authority.
+
+Where nuclear reactor facilities have been ceased operation for more than one year consecutively but the licensee does not report it to the competent authority for approval, it shall be deemed as the permanent cessation of operation; and the decommissioning procedures shall follow the provision of Paragraph 3 of the preceding Article.
+
+### Article 25
+
+After the decommissioning permit issued by the competent authority has been obtained, the licensee shall execute the decommissioning plan approved by the competent authority.
+
+After the decommissioning plan has been approved by the competent authority, any amendment, if involved in the significant regulating items, shall be submitted to and approved by the competent authority before being made.
+
+The significant regulatory items referred to in the preceding paragraph shall be prescribed by the competent authority.
+
+### Article 26
+
+Article 14 shall apply mutatis mutandis to the regulation during the decommissioning period of nuclear reactor facilities.
+
+### Article 27
+
+After the issuance of decommissioning permit, the competent authority may, subject to the circumstances, consult the Ministry of the Interior, the government of special municipality, the county (city) government and relevant authority about the removal or the amendment of the exclusion area and the low population zone. After being approved by the Executive Yuan, those shall be publicized.
+
+### Article 28
+
+Within six months after the completion of the decommissioning plan of nuclear reactor facilities, the licensee shall submit to the competent authority for review the report on environmental radiation monitoring on the site.
+
+## Chapter IV Penal Provisions
+
+### Article 29
+
+One who commits any of the following acts shall be punished with an administrative fine of not less than three million New Taiwan Dollars but not more than fifteen million New Taiwan Dollars, and should be ordered to cease the on-site activities, or the operation, or to operate only under a limited power:
+
+\1. Violating Paragraph 1 or Paragraph 2 of Article 6 to load the nuclear fuel or operate.
+
+\2. Violating Paragraph 1 of Article 11 to employ any unlicensed personnel to operate a nuclear reactor, or to operate a nuclear reactor without the license.
+
+\3. Violating Paragraph 1 of Article 14 to possibly endanger the public health or safety or environmental ecology; whereas, the situation is severe but it has not been improved, or none of the necessary measures has been taken within the prescribed time period.
+
+One who fails to observe the competent authority’ regulations referred to in the preceding paragraph shall be sentenced to imprisonment for not more than three years, short-term imprisonment; in lieu thereof, or in addition thereto, a fine of not more than three million New Taiwan Dollars may be imposed.
+
+### Article 30
+
+One who violates Paragraph 1 of Article 5 to construct the facilities shall be punished with an administrative fine of not less than one million New Taiwan Dollars but not more than five million New Taiwan Dollars and shall be ordered to prohibit from construction and to supplement modus formalities; and when it is necessary, the person may be ordered to dismantle the facilities within a prescribed time period.
+
+If an order to prohibit from construction has been issued in accordance with the preceding paragraph but the construction is resumed without authorization, or the facilities have not been dismantled within the prescribed period, one shall be punished with an administrative fine of not less than two million New Taiwan Dollars but not more than ten million New Taiwan Dollars, and shall be compulsorily executed to dismantle the facilities.
+
+If after the facilities have been compulsorily dismantled according to the preceding paragraph, the construction is resumed without authorization and an order to prohibit therefrom is violated, one shall be sentenced to imprisonment for not more than three years, short-term imprisonment; in addition thereto, a fine of not more than three million New Taiwan Dollars may be imposed.
+
+### Article 31
+
+For those circumstances in which a statutory responsible person of a juridical person, or an agent, employee or other working personnel of a juridical person or natural person, due to the performance of work responsibilities, violates either Paragraph 2 of Article 29 or Paragraph 3 of the preceding Article, in addition to the perpetrator being punished, said juridical person or natural person shall also be fined pursuant to the regulations of each Article violated.
+
+### Article 32
+
+One who violates Paragraph 1 of Article 21, not to complete the decommissioning within the time limit prescribed by the competent authority shall be punished with an administrative fine of not less than one million New Taiwan Dollars but not more than five million New Taiwan Dollars, and the respective punishment may be imposed annually.
+
+### Article 33
+
+One who fails to submit respectively the decommissioning plan within the time limit prescribed under Paragraph 2 or Paragraph 3 of Article 23, shall be punished with an administrative fine of not less than five hundred thousand New Taiwan Dollars but not more than two million and five hundred thousand New Taiwan Dollars, and shall be ordered to submit the plan within a prescribed time period; one who fails to submit by the deadline shall be punished continually for each violation.
+
+### Article 34
+
+One who commits any of the following acts shall be punished with an administrative fine of not less than five hundred thousand New Taiwan Dollars but not more than two million and five hundred thousand New Taiwan Dollars and shall be ordered to improve the situation in a prescribed time period and if it is not improved within the prescribed period, a punishment shall be continually imposed for each violation:
+
+\1. Violating Paragraph 2 of Article 4, Paragraph 1 or Paragraph 2 of Article 12, Paragraph 1 of Article 15, Paragraph 1 of Article 16, Article 17, Article 19, Paragraph 1 of Article 25 or Article 28.
+
+\2. Violating the regulations prescribed by the competent authority in accordance with Article 8 or Paragraph 2 of Article 15.
+
+### Article 35
+
+One who commits any of the following acts shall be punished with an administrative fine of not less than two hundred thousand New Taiwan Dollars but not more than one million New Taiwan Dollars and shall be ordered to improve the situation within a prescribed time period; and if it is not improved within the prescribed period, the competent authority may order to cease the activities on the scene, or operating wholly or partly, or may revoke the license:
+
+\1. Violating the provision as to the safety design criteria of nuclear reactor facilities prescribed by the competent authority in accordance with Article 7.
+
+\2. Failing to perform the integrated safety assessment and submit it to the competent authority for review and approval in accordance with Article 9.
+
+\3. Violating Paragraph 1 of Article 13.
+
+\4. Violating Paragraph 2 of Article 25.
+
+### Article 36
+
+One who evades, obstructs, or refuses the inspection or requirements for submission of materials specified in Paragraph 1 of Article 14 shall be punished with an administrative fine of not less than two hundred thousand New Taiwan Dollars but not more than one million New Taiwan Dollars, and may be continually punished for each violation and be subject to compulsory inspection.
+
+### Article 37
+
+One who violates the provision as to the quality assurance criteria of nuclear reactor facilities prescribed by the competent authority in accordance with Article 7 shall be punished with an administrative fine of not less than one hundred thousand New Taiwan Dollars but not more than five hundred thousand New Taiwan Dollars, and the competent authority may order to cease the on-site activities, the operation, to operate only under a limited power, or revoke the license; provided, however, that an order to improve the situation within a prescribed time period shall be first given if it is lightly circumstanced.
+
+### Article 38
+
+One who commits any of the following acts shall be punished with an administrative fine of not less than one hundred thousand New Taiwan Dollars but not more than five hundred thousand New Taiwan Dollars and shall be ordered to improve the situation within a prescribed time period; and if it is not improved within the prescribed period, the punishment shall be continually imposed for each violation:
+
+\1. Violating Article 10, not to submit the report and the record according to the provisions of the competent authority, or to make a false entry therein.
+
+\2. Violating Article 18, not to apply for the amendment within the period prescribed by the competent authority.
+
+### Article 39
+
+One who fails to pay the administrative fine under this Act within the prescribed time limit after being served upon a notice demanding payment shall be referred to the Court for compulsory enforcement.
+
+### Article 40
+
+If a license is revoked according to this Act, the same kind of license shall not be applied for within one year commencing from the date of its revocation.
+
+## Chapter V Supplementary Provisions
+
+### Article 41
+
+The competent authority when implementing regulation, accepting application for approval and issuing license according to this Act, may charge inspection fees, review fees, and license fees; and the amount of fees shall be prescribed by the competent authority.
+
+### Article 42
+
+Those who made distinguished contributions to facilitate the technology and practice as to the safety of nuclear reactor facilities may be awarded; and the regulations therefor shall be prescribed by the competent authority.
+
+### Article 43
+
+Enforcement rules for this Act shall be prescribed by the competent authority.
+
+### Article 44
+
+This Act shall be put into practice from the date of promulgation.
+
+## History
+
+1.Promulgated on January 15, 2003 by Presidential Order No. Hua-Tsong-Yi-Yi-Tsu 09200005480.
+
+2.Article 6 was amended and promulgated on May 23, 2025 by Presidential Order No. Hua-Tsong-Yi-Yi-Tsu 11400050431.

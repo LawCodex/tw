@@ -1,0 +1,245 @@
+---
+title: "Act for Worker Protection of Mass Redundancy"
+title_zh: "大量解僱勞工保護法"
+identifier: "N0020012"
+type: act
+law_level: "法律"
+category: "行政＞勞動部＞勞動關係目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2003-02-07
+last_amended: 2015-07-01
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0020012"
+retrieved: 2026-10-12
+---
+
+# Act for Worker Protection of Mass Redundancy
+
+> Translation. The Chinese text ([zh/laws/ministry-of-labor/N0020012-act-for-worker-protection-of-mass-redundancy.md](../../../zh/laws/ministry-of-labor/N0020012-act-for-worker-protection-of-mass-redundancy.md)) is authoritative.
+
+## Article 1
+
+This Act is enacted to protect the inherent right of workers to secure employment, balance the management rights of employers with the rights and interests of workers, prevent adverse effects on workers' rights and interests, including those arising from mass redundancies by business entities, and ensure societal stability. Where matters are not expressly provided for in this Act, they shall be governed by applicable provisions of other relevant statutes.
+
+## Article 2
+
+For the purposes of this Act, "mass redundancy of workers" is defined as the condition under which a business entity must lay off workers due to any circumstances outlined in Article 11 of the Labor Standards Act, such as mergers and restructurings, and meets any of the following criteria:
+
+1.A site with fewer than 30 workers intends to lay off more than 10 workers within a 60-day period.
+
+2.For sites with 30 to 199 workers:
+
+．The layoff of more than one-third of the total workforce within a 60-day period, or
+
+．The layoff of more than 20 workers within a single day.
+
+3.For sites with 200 to 499 workers:
+
+．The layoff of more than one-fourth of the total workforce within a 60-day period, or
+
+．The layoff of more than 50 workers within a single day.
+
+4.For sites with 500 or more workers:
+
+．The layoff of more than one-fifth of the total workforce within a 60-day period, or
+
+．The layoff of more than 80 workers within a single day.
+
+5.The business entity intends to lay off more than 200 workers within a 60-day period or more than 100 workers within a single day.
+
+The counting of employed and laid-off workers mentioned in the preceding Paragraph shall not include the fixed-term workers prescribed in Article 46 of the Employment Service Act.
+
+## Article 3
+
+The term “competent authority” referred to in the Act shall be the Ministry of Labor at the central level, the municipal government at the municipal level, and the county (city) government at the county (city) level.
+
+In the event a mass redundancy of workers by a business entity involves the jurisdictions of a municipality and a county/city, the municipal or county (city) competent authority shall report the case to the Central Competent Authority for its processing of the case, or the Central Competent Authority may designate the municipal or county (city) competent authority to handle the case.
+
+## Article 4
+
+Prior to initiating mass redundancy, the business entity must notify the competent authority and relevant agencies at least 60 days before implementing mass redundancy, as outlined in Article 2, by submitting a written notice of the redundancy plan. The business entity must also publicly announce the redundancy plan through appropriate publication methods. The 60-day advance notification is not required if mass redundancy results from unforeseeable circumstances, such as an act of God, calamity, or accident.
+
+The notice for the relevant authorities and agencies mentioned    in the preceding Paragraph shall proceed in the following order:
+
+1.Notify the labor union representing the workers in the sections or departments subject to mass redundancy.
+
+2.Inform labor representatives from the labor-management conference.
+
+3.Advise the workers in the affected sections or departments, excluding those on fixed-term employment contracts as specified in Article 46 of the Employment Service Act.
+
+The redundancy plan must include to be submitted by the business entity in accordance to Paragraph 1 shall contain the following:
+
+1.The reason for the mass redundancy.
+
+2.The department(s) affected.
+
+3.The scheduled date for the redundancy to take effect.
+
+4.The total number of workers to be laid off.
+
+5.The criteria used to select workers for redundancy.
+
+6.Details on severance pay calculations and job transition assistance programs.
+
+## Article 5
+
+Within 10 days following the submission of the mass redundancy plan as required by the previous article, the employer and the employee(s) affected by the proposed mass redundancy must begin negotiations in good faith and with a commitment to self-regulation.
+
+If either party refuses to enter into negotiations or if negotiations fail within the prescribed period, the competent authority must be notified. Upon such notification, the competent authority will, within 10 days, convene a Negotiation Committee. This committee will include representatives from both the employer and employee(s) to facilitate further negotiations on the mass redundancy plan. The Negotiation Committee is tasked with negotiating the terms of the mass redundancy plan and, where appropriate, propose alternative solutions.
+
+## Article 6
+
+The Negotiation Committee shall have 5 to 11 members, including 1 representative designated by the competent authority and an even number of representatives designated by both the employee side and the employer. The representative designated by the competent authority shall act as the chairman of the Negotiation Committee. Representatives of the employer shall be designated by the employer side, and the representatives of the employees shall be designated by the labor union(s). If there is no labor union but a labor-management conference is formed, the representatives of the employee side shall be designated by the representatives of the labor-management conference. If there is no labor union or labor-management conference, the representations of the employee side shall be elected by the workers in the section or department that are involved in mass redundancy in the business entity referred to in Item 3, Paragraph 2 to Article 4 of the Act upon notification by the business entity.
+
+In the event that neither side can designate, select or elect their respective representatives before the ten-day deadline in accordance with the requirements referred to in the preceding     Paragraph, the competent authority may, ex officio, designate such representations for them within 5 days from the next day after the expiration of the deadline.
+
+The chairperson shall hold a meeting of the Negotiation Committee at least once every 2 weeks.
+
+## Article 7
+
+Agreements reached by the Negotiation Committee shall apply to all employees.
+
+Agreements concluded by the Negotiation Committee shall be published in written form and signed by all members of the Negotiation Committee or affixed with their seals.
+
+The competent authority shall, within 7 days from the date of conclusion of the agreement, submit the written agreement to the court having competent jurisdiction for its examination and approval.
+
+The court shall examine the aforesaid written agreement promptly and respond to the competent authority. In the case of disapproval, the reasons shall be provided.
+
+If the court approves an agreement that includes the payment of a specific sum of money, the provision of substitutes, or the transfer of valuable securities, such agreement shall constitute a legally binding obligation. Approved agreements of this nature may be enforced through compulsory execution, according to the established legal processes for enforcement of judgments.
+
+## Article 8
+
+Upon formation of the Negotiation Committee, the competent authority shall dispatch employment service personnel to assist both the employee and employer by providing them with appropriate consultation in connection with employment service and vocational training.
+
+The employer shall not reject the employment service personnel dispatched by the competent authority under the preceding Paragraph, and shall set a time for them to provide individual assistance to employees.
+
+## Article 9
+
+Business entities that have executed a mass redundancy plan and later seek to hire for positions similar to those eliminated must prioritize the reemployment of workers who were laid off as part of the mass redundancy, unless specific exceptions are provided in applicable laws and regulations.
+
+This priority for reemployment also extends to situations where a business entity resumes operations after a closure, or anew entity, formed by the major shareholders of the previously closed business, engages in similar business activities.
+
+The term "major shareholders" referred to in the preceding Paragraph shall mean the individuals or entities that held a majority stake in the original business and hold more than 50% of the shares in the newly established entity.
+
+The government shall implement measures to encourage employers to prioritize the reemployment of workers laid off due to mass redundancy, as outlined in Paragraphs 1 and 2 of this Article.
+
+## Article 10
+
+If a worker secures new employment during the negotiation period, the original employer is obligated to pay severance or retirement benefits in accordance with applicable laws and regulations. Should the terms negotiated under this Act provide more favorable conditions for the worker, those terms shall supersede previous stipulations regarding severance or retirement benefits.
+
+Throughout the negotiation period, employers are prohibited from arbitrarily transferring who are part of the proposed mass redundancy or discharging workers designated for layoff, except under conditions explicitly permitted by law.
+
+## Article 11
+
+An agency or the personnel concerned belonging to business entities employing more than 30 workers must report to the competent authority if:
+
+1.Wages have been delayed for 2 months for entities with fewer than 200 workers; wages have been delayed for 1 month for business entities with 200 or more workers.
+
+2.Delays in the payment of labor insurance premiums, contributions to the overdue wages repayment fund, national health insurance premiums, labor retirement fund payments for 2 months, and the total arrears exceed $200,000 for each category of delay.
+
+3.Complete cessation or significant shutdown of business operations.
+
+4.Adoption of a merger or acquisition resolution.
+
+5.Occurrence of a major labor dispute within the last 2 years.
+
+The term "an agency or the personnel concerned" referred to in the preceding Paragraph shall be as follows:
+
+1.The relevant labor union or the workers of the business entity in the case of Subparagraphs 1, 3, 4, and 5; or the business entity itself in the case of Subparagraph 4.
+
+2.The Bureau of Labor Insurance, the Ministry of Labor and National Health Insurance Administration, Ministry of Health and Welfare in the case of Subparagraph 2.
+
+Upon receipt of a report, the competent authority must conduct a fact-finding visit to the business entity within 7 days to assess the situation.
+
+The authority may require the business entity to provide explanations, financial statements, or other relevant information within a specified timeframe.
+
+Accountants, lawyers, or other professional experts shall accompany officials on fact-finding visits to offer necessary assistance.
+
+All financial statements and related information obtained by the competent authority or its assistants must be kept confidential.
+
+## Article 12
+
+If a business entity delays the payment of retirement pensions, severance pay, or wages to workers during the implementation of a mass redundancy plan and meets any of the following conditions, yet fails to fulfill these financial obligations within a timeframe mandated by the competent authority, enforcement actions may be initiated whereby the Authority issues an official notice to the agency responsible for border control, requesting the prohibition of international travel for the representatives or the individuals factually responsible for the business entity's operations.
+
+1.For business entities with more than 10 but fewer than 30 workers, the threshold for total delayed payments is N.T. $3,000,000.
+
+2.For business entities with more than 30 but fewer than 100 workers, the threshold for total delayed payments is N.T. $5,000,000.
+
+3.For business entities with more than 100 but fewer than 200 workers, the threshold for total delayed payments is N.T. $10,000,000.
+
+4.For business entities with more than 200 workers, the threshold for total delayed payments is N.T. $20,000,000.
+
+If a business entity suspends operations and workers terminate their employment contracts under the conditions specified in Items 5 or 6 of Paragraph 1 to Article 14 of the Labor Standards Ac and the number of hired and terminated workers, along with the total amount of unpaid labor retirement pensions, severance pay, or wages meet the criteria set forth in Article 2 and all conditions outlined in the preceding Paragraph, and furthermore fails to fulfill these obligations within a timeframe ordered by the competent authority, then the Central Competent Authority is authorized to issue a notice to the border control authority, requesting travel restrictions for the entity’s representatives or factually responsible individuals.
+
+## Article 13
+
+When implementing a mass redundancy plan, race, language, social station, ideology, religion, political affiliation, birthplace, gender, appearance, physical/mental disabilities, age, and position in a labor union shall not be taken as the cause of discharge.
+
+Termination of a labor contract shall be invalidated if such termination is in violation of the preceding Paragraph or Article 11 of the Labor Standards Act.
+
+In the event the competent authority determines a business entity has violated Paragraph 1 of this Article, the competent authority shall order the business entity to reinstate the discharged employee within a given time period. The competent authority shall assist the discharged employee in legal proceedings if the business entity fails to reinstate the worker within the given time period.
+
+## Article 14
+
+The Central Competent Authority shall set aside a specific budget for subsidizing litigation costs and basic living expenses of employees who suffer from unlawful mass redundancy. Regulations governing subsidized objects, standards of subsidization, subsidy application procedure, and other related obligations shall be prescribed by the Central Competent Authority.
+
+## Article 15
+
+In order to stay abreast of fast-changing labor market trends, the central authority shall form the Assessment Committee, which shall collect information pertaining to the causes of mass redundancy initiated by business entities in order to inform government policy-making concerning industrial development and employment.
+
+Regulations governing the organization and operation procedures of the Assessment Committee shall be prescribed by the Central Competent Authority.
+
+## Article 16
+
+If an individual currently prohibited from going abroad under Article 12 meets any of the following conditions, the Central Competent Authority shall notion the border control authority to lift the travel restriction:
+
+1.The individual involved has paid in full, the total amount of accumulated money in arrear for which he / she was prohibited from going abroad in accordance to Article 12 of the Act.
+
+2.The individual has furnished a bond sufficient to secure the full payment of the outstanding obligations that were overdue for which he/she was prohibited from going abroad by Article 12 , provided, however, within the limit of amount which the workers involved may appeal to the courts for compulsory enforcement.
+
+3.The business entity has been dissolved and the liquidation procedure has been completed in accordance with relevant acts and regulations, and there are no residual assets for distribution.
+
+4.All outstanding obligations have been settled through distribution in accordance with bankruptcy procedures.
+
+## Article 17
+
+For any business entity that violates Paragraph 1 of Article 4 of the Act by failing to submit and to make a published announcement of the mass redundancy plan to the competent authority and related government agency or officials, the said entity shall resubmit the plan or redo the public announcement, and pay a fine of no less than N.T. $100,000 but no more than N.T. $500,000.  If the business entity fails to comply, it shall be fined consecutively on a daily basis until it complies.
+
+## Article 18
+
+A business entity shall be fined an amount of not less than N.T. $100,000 but not more than N.T.$ 500,000 should any of the following circumstances occur:
+
+1.Violation of Article 5, Paragraph 2, for refusing to enter into negotiation.
+
+2.Violation of Article 6, Paragraph 1 for refusing to appoint its negotiating representatives or failing to notify employees to elect their negotiating representatives.
+
+3.Violation of Article 8, Paragraph 2 for denying the presence of employment service personnel.
+
+4.Violation of Article 10 for arbitrary reassignments or termination of employment.
+
+## Article 19
+
+The business entity shall be fined an amount of not less than N.T. $30,000 but not more than N.T. $150,000 if it violates Paragraph 3 of Article 11 by refusing to providing explanation or failing to submit financial statements and/or relevant     information. The business entity shall be fined consecutively on a daily basis until the submission is made if ordered to submit the documents within a given time period.
+
+## Article 20
+
+In the event that any fine imposed under this Act is not paid within the specified time limit, the matter shall be referred for compulsory enforcement.
+
+## Article 21
+
+This Act shall take effect three months after its promulgation.
+
+Any amendments to this Act shall take effect on the date of their promulgation.
+
+## History
+
+\1. Enacted on January 13, 2003 and promulgated on February 7, 2003
+
+\2. Amended Articles 2, 4, 10-12, 16-18 and 21 on May 3, 2008 and promulgated on May 23, 2008
+
+\3. Amended and promulgated Articles 2 on June 4, 2014
+
+\4. Amended on July 1, 2015

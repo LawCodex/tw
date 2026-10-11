@@ -1,0 +1,361 @@
+---
+title: "Act for the Establishment of the Taiwan Institute of Sports Science"
+title_zh: "國家運動科學中心設置條例"
+identifier: "H0000185"
+type: act
+law_level: "法律"
+category: "行政＞運動部＞組織目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2023-02-08
+last_amended: 2025-01-24
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=H0000185"
+retrieved: 2026-10-12
+---
+
+# Act for the Establishment of the Taiwan Institute of Sports Science
+
+> Translation. The Chinese text ([zh/laws/ministry-of-sports/H0000185-act-for-the-establishment-of-the-taiwan-institute-of-sports-science.md](../../../zh/laws/ministry-of-sports/H0000185-act-for-the-establishment-of-the-taiwan-institute-of-sports-science.md)) is authoritative.
+
+## Chapter 1 General Provisions
+
+### Article 1
+
+This Act is formulated in order to establish the Taiwan Institute of Sports Sciences (hereunder “the TISS”) to promote sports science research and its application, and enhance Taiwan’s competitiveness in international sports.
+
+### Article 2
+
+TISS is a non-departmental public body, and its supervisory authority is the Ministry of Sports (MOS).
+
+### Article 3
+
+The scope of the operations of the TISS is to:
+
+1.Provide outstanding national athletes with training, and sport science support services, health management, and sports medicine research required for participation in competitions.
+
+2.Collect, analyze and integrate information related to international sports events.
+
+3.Promote sports science research and international exchanges.
+
+4.Undertake sports technology-related research and development, technology transfer, and value-added applications to enhance the competitiveness of the sports industry.
+
+5.Promote cooperation and exchanges between domestic and foreign sports science research institutions.
+
+6.Assist with the planning for and training of sports science professionals.
+
+7.Use the findings of sports science research to promote sports for all.
+
+8.Engage in other operations related to sports science.
+
+### Article 4
+
+Funding for the TISS comes from the following sources:
+
+1.Profit received by the Sports Development Fund from sports lottery issued, and other government budget appropriations and donations (subsidies).
+
+2.Donations from domestic and foreign public and private organizations, groups and individuals.
+
+3.Revenue from commissioned research and services the TISS provides.
+
+4.Other revenue.
+
+The donations referred in Subparagraph 2 of the previous paragraph shall be regarded as donations made to the government.
+
+### Article 5
+
+The TISS shall formulate articles of association, and regulations governing personnel management, its accounting system, internal controls, auditing operations, and other matters. The articles of association and regulations shall be submitted to the supervisory authority for future reference after they have been approved by the board of directors.
+
+The TISS may formulate regulations pertaining to its undertaking of public affairs, as long as such regulations are not in conflict with any existing laws, regulations, or ordinances, and it shall submit the regulations to the supervisory authority for future reference after they have been approved by the board of directors.
+
+## Chapter II Organizational Structure
+
+### Article 6
+
+The TISS shall set up a board of directors and appoint between 11 and 15 board members. The supervisory authority shall select people in the categories listed below to be board members and submit their details to the Premier for appointment. The dismissal of board members shall be done in the same way:
+
+1.Representatives of relevant government agencies.
+
+2.Scholars and experts in fields related to sports science.
+
+3.Experts in the operation and management of private enterprises, and people who have made significant contributions to national sports.
+
+It is not permitted for board members of the category described in Subparagraph 1 of the previous paragraph to constitute more than one-third of the total number of board members; and it is not permitted for those of the category described in Subparagraph 2 to constitute less than one-half of the total number of board members.
+
+It is not permitted for board members of any one gender to constitute less than one-third of the total number of the board members referred to in Paragraph 1.
+
+### Article 7
+
+The TISS shall appoint three supervisors, who will be selected by the supervisory authority from individuals with relevant expertise in the sports science, law, or accounting. These candidates will then be recommended to the Premier for appointment. The same procedure applies to dismissal of these supervisors.
+
+Supervisors shall elect one among themselves to be the managing supervisor.
+
+It is not permitted for supervisors of any one gender to constitute less than one-third of the total number of the supervisors referred to in Paragraph 1.
+
+### Article 8
+
+The term of office for directors and supervisors shall be four years, and they may be reappointed upon the expiration of their term. However, the number of reappointments shall not exceed two-thirds of the total number of positions, nor be less than one-third. Directors representing government agencies shall be reappointed according to their position changes. If any director or supervisor appointed according to Article 6, Paragraph 1, Subparagraphs 2 and 3, or according to Paragraph 1of the previous article, vacates their position before the term ends, the supervisory authority shall select a replacement and recommend the appointment to the Premier. The replacement’s term will last until the original term expires.
+
+### Article 9
+
+A person to whom any of the circumstances listed below pertains is not permitted to be appointed as a board member or supervisor:
+
+1.Being subject to a declaration of custodianship or assistance status that has not yet been revoked.
+
+2.Being convicted of a criminal offence and sentenced to imprisonment or a harsher penalty, with no probation having been granted.
+
+3.Having been declared bankrupt, or having entered liquidation proceedings following a court ruling in accordance with the Consumer Debt Clearance Statute, and having not yet had their full rights restored.
+
+4.Being subject to deprivation of civil rights that have not yet been restored.
+
+Any board member or supervisor to whom any of the circumstances referred to in the previous paragraph pertains, or who has been absent from three consecutive board meetings without a valid reason, shall be dismissed.
+
+Any board member or supervisor to whom any of the circumstances listed in the following subparagraphs applies may be dismissed:
+
+1.There is substantial evidence that their disorderly or unrestrained behavior, or unacceptable, improper conduct, is affecting the image of the TISS.
+
+2.Inability to perform work or neglect responsibilities, and there are specific facts to prove it or the violation of the contract is serious.
+
+3.For two years in a row, the annual performance during term of office review of the TISS indicates that the person has not met the standards set by the supervisory authority.
+
+4.There is substantial evidence of their having violated the Public Servants’ Administrative Neutrality Act.
+
+5.There is substantial evidence that, in relation to matters that they are in charge of, they have been influenced by lobbying or requests for tenders, taken advantage of their position of power, or accepted hospitality, gifts and largesse, thereby damaging the public interest or the interests of the TISS.
+
+6.There is substantial evidence of their using the TISS assets beyond the scope of any requirements of their duties.
+
+7.There is substantial evidence of their violating the provisions of Article 14 or Article 15, Paragraph 1 regarding conflict of interest.
+
+8.Other improper conduct unbefitting of someone in the post of a board member or supervisor.
+
+The supervisory authority shall give a person involved in any of the circumstances described in the subparagraphs of the previous paragraph an opportunity to make a statement and to lodge an appeal prior to their dismissal.
+
+The regulations governing the manner of the selection and appointment, and dismissal of the TISS board members and supervisors, temporary appointments to fill vacated positions, and other related matters, shall be prescribed by the supervisory authority.
+
+### Article 10
+
+The TISS shall have one chairperson of its board of directors. The chairperson shall be selected from among the board members by the supervisory authority and appointed by the Premier; the dismissal of a chairperson shall be conducted in the same way.
+
+The regulations governing the manner of the appointment, dismissal, and replacement of the chairperson, and other associated matters shall be prescribed by the supervisory authority.
+
+The chairperson of the board of directors is in charge of all affairs of the TISS internally, and represents the TISS externally. If the chairperson of the board of directors cannot exercise his/her authority for any reason whatsoever, the director designated by the chairperson of the board of directors shall act on his/her behalf, but if the designation cannot be made, the person elected by the directors among themselves shall act on behalf of the chairperson of the board of directors.
+
+A person may not take the chairperson office for the first time if they are over 65 years of age. If the chairperson turns 70 years of age before the end of their term of office, the chairperson shall be immediately replaced. However, this age restriction does not apply if special circumstances have been taken into consideration and the Executive Yuan has given approval for the chairperson to continue in that post.
+
+### Article 11
+
+The board of directors has the following responsibilities:
+
+1.To deliberate on development objectives and plans.
+
+2.To deliberate on the annual business plan.
+
+3.To deliberate on the annual budget and the final accounts report.
+
+4.To deliberate on the TISS internal regulations.
+
+5.To deliberate on matters regarding the disposal of real estate owned by the TISS or the creation of any encumbrance involving its real estate.
+
+6.To deliberate on matters that this Act stipulates shall be decided by the board of directors.
+
+7.To approve the appointment and dismissal of the chief executive director.
+
+8.Fundraising.
+
+9.To deliberate on other major matters.
+
+### Article 12
+
+The board of directors shall convene meeting once every three months; when necessary, a special meeting may be convened by the chairperson, who will chair the meeting.
+
+Meetings of the board of directors shall be attended by more than half of the board members, and its resolutions shall be approved by more than half of the board members who are present at the meeting. However, resolutions regarding matters referred to in Subparagraphs 1 to 7 of the previous article shall be approved by more than half of all the board members.
+
+### Article 13
+
+Supervisors have the following responsibilities:
+
+1.To thoroughly review the annual accounts.
+
+2.To supervise business affairs and financial circumstances.
+
+3.To verify all financial records and documents, and asset information.
+
+4.To thoroughly review and check other important matters.
+
+Each supervisor exercises their responsibilities independently; the managing supervisor shall attend meetings of the board of directors in a non-voting capacity, representing all the supervisors.
+
+### Article 14
+
+Any current or former marriage relationship, or any relative within the third degree of kinship, by blood or marriage, between any board members and/or any supervisors is not permitted.
+
+### Article 15
+
+Conflict of interest matters involving board members, supervisors, the chief executive officer, and persons related to them shall be handled in accordance with the provisions of the Act on Recusal of Public Servants Due to Conflict of Interest.
+
+If a violation of the provisions of the previous paragraph causes the TISS to incur any loss or damage, the person or persons who violated the provisions shall be held liable for compensation for that loss or damage.
+
+If a person referred to in Paragraph 1 acts in violation of the provisions of the Act on Recusal of Public Servants Due to Conflict of Interest, apart from their being subject to some penalty in accordance with the provisions of that Act, the supervisory authority may also impose an appropriate penalty. The regulations governing such penalties shall be prescribed by the supervisory authority.
+
+### Article 16
+
+The board members and the managing supervisor shall personally attend all board meetings and are not permitted to delegate another person to attend as their proxy.
+
+### Article 17
+
+The TISS chairperson, board members, managing supervisor, and supervisors all serve without remuneration.
+
+### Article 18
+
+The TISS shall have a full-time chief executive officer. The chief executive officer shall be appointed by the chairperson after the board of directors has given approval for the appointment. Dismissal shall be conducted in the same way. The chief executive officer shall execute the operations of TISS and supervise its staff in accordance with TISS regulations, resolutions of the board of directors, and as authorized by the chairperson.
+
+The provisions of Article 9, Paragraph 1 to Paragraph 4; Article 10, Paragraph 4; Article 19, Paragraph 2 and Paragraph 3; and Article 21, Subparagraph 6 pertaining to board members and the chairperson apply, mutatis mutandis, to the chief executive officer.
+
+### Article 19
+
+The personnel employed by the TISS shall be managed in accordance with its personnel management regulations. Its personnel are not civil servants, and their rights and responsibilities shall be clearly set out in their employment contracts.
+
+The spouse and relatives within the third degree of kinship, by blood or marriage, of any board member, supervisor, or the chief executive officer is not permitted to hold any general administration, accounting, or personnel positions at the TISS.
+
+The chairperson and the chief executive officer are not permitted to employ their spouse or any relative within the third degree of kinship, by blood or marriage, to fill any position at the TISS.
+
+### Article 19-1
+
+To address business needs, TISS may, upon approval from the supervisory authority, appoint and deploy qualified professionals for overseas assignments in accordance with the mission's nature.
+
+## Chapter III: Operations and Supervision
+
+### Article 20
+
+The TISS shall draft development objectives and plans and, after they have been approved by the board of directors, submit them to the supervisory authority to be reviewed to obtain approval.
+
+The TISS shall formulate an annual business plan and an associated budget. After these have been approved by the board of directors, they shall be submitted to the supervisory authority for future reference.
+
+### Article 21
+
+The supervisory power of the supervisory authority over the TISS comprises the following:
+
+1.Reviewing and approving the development objectives and plans.
+
+2.Reviewing and approving, or filing for future reference, the TISS regulations, the annual business plan and budget, the results of its annual operations, and its final accounts report.
+
+3.Examination of its assets and financial status.
+
+4.Evaluation of operating performance.
+
+5.Recommendations regarding appointments and dismissal of board members and supervisors.
+
+6.If any board member or supervisor violates any laws while undertaking any TISS business, the supervisory authority may take necessary disciplinary action.
+
+7.Authority to impose revocation, modifications, cancellations, demand for improvements within a prescribed time, suspension or termination of operations, or other disciplinary actions at any time that the TISS acts in violation of the Constitution, laws, or ordinances.
+
+8.Review and approval of the disposal of real estate owned by the TISS or the creation of any encumbrance.
+
+9.Approval for the assignment of professional personnel by the TISS to overseas posts.
+
+10.Any other supervisory action required by law.
+
+### Article 22
+
+The supervisory authority shall invite representatives of related organizations, academics and experts, and impartial citizens to conduct performance reviews of the TISS. In the review committee, it is not permitted that the number of academics, experts, and impartial citizens constitutes less than one-half of the total number of reviewers.
+
+The number of persons of any one gender invited to conduct the performance review referred to in the previous paragraph is not permitted to be less than one-third of the total number of people conducting a review.
+
+Regulations governing the eligibility criteria to be a reviewer, the selection and appointment procedure, the manner of assessment, process, and other related matters pertaining to the performance review referred to in Paragraph 1 shall be prescribed by the supervisory authority.
+
+The content of the performance review is as follows:
+
+1.Assessment of the results of the TISS annual operations.
+
+2.Evaluation of the business performance of TISS and the rate at which it is achieving its objectives.
+
+3.The ratio of the TISS annual funding achieved by its own fundraising.
+
+4.The TISS proposals for budget appropriations.
+
+5.Other pertinent matters.
+
+## Chapter IV: Accounting and Finance
+
+### Article 23
+
+The accounting year of the TISS shall be the same as that of the central government.
+
+The TISS accounting system shall be formulated in accordance with the pertinent laws and regulations governing the setting up of accounting systems in non-departmental public bodies.
+
+The financial reports of the TISS shall be checked and certified by an accountant of CPA accreditation.
+
+### Article 24
+
+Within three months after the end of each accounting year, the TISS shall commission an accountant to check and certify the results of its annual operations and its final accounts report, then submit these to the board of directors for due consideration. After all three supervisors have approved these, they shall be submitted to the supervisory authority for future reference and copies sent to an auditing agency.
+
+The auditing agency may audit the final accounts report referred to in the previous paragraph; it may send the results of the audit to the supervisory authority or to another related authority for any necessary further action.
+
+### Article 25
+
+In the year in which it is established, the funding appropriated to the TISS by the government may be adjusted by the supervisory authority, in response to circumstances, within the limit of its original budget, without being subject to the provisions of Articles 62 and 63 of the Budget Act.
+
+### Article 26
+
+When the TISS requires the use of public property for its operations, it may purchase that public property, or the property may be donated, leased, or provided for use free of charge by a government agency. Such a donation is not subject to the provisions of Article 25 of the Land Act, Article 28 and Article 60 of the National Property Act, and other relevant ordinances governing local government management of public property.
+
+For land purchased in accordance with the previous paragraph, the assessed present land value shall be used as the standard purchase cost. The current valuation for that year provided by the tax collection authority shall be used as the standard for the cost to pay for constructional improvements on any land. If no such current valuation is available, an estimate of the value made by a public property management authority shall be used as the standard value.
+
+Any property purchased by the TISS for a designated use with an approved budget allocation from a government agency is categorized as public property.
+
+With the exception of public property leased or provided for use free of charge, as referred to in Paragraph 1, and the publicly owned property referred to in the previous paragraph, all property acquired by the TISS becomes its property.
+
+For the public property provided for use free of charge referred to in Paragraph 1 and the public property referred to in Paragraph 3, the TISS is registered as the manager of the property. Any profit generated is categorized as income of the TISS and is not subject to the restrictions set out in Article 7, Paragraph 1 of the National Property Act and in the relevant provisions of ordinances governing local government management of public property. Regulations governing matters related to the management, and use of such property, and any associated profit shall be prescribed by the supervisory authority.
+
+When a public property is no longer used, its management shall be handed over to the public property management agency at each level of government.
+
+When the TISS no longer needs to use publicly owned real estate that it acquired as a donation, it shall return it to the agency that made the donation, and the TISS is not permitted to dispose of such real estate at its own discretion.
+
+### Article 27
+
+All approved funding appropriated to the TISS by any government agency shall be handled in accordance with statutory budget procedures and be audited and supervised.
+
+In any year that such approved funding appropriated by a government agency exceeds 50% of the TISS annual budget revenue, the supervisory authority shall send the annual budget documents to the Legislative Yuan for it to deliberate on.
+
+The TISS shall formulate regulations governing management of income and expenditure for its own income sources and the use of that income, and it shall submit the regulations to the supervisory authority for future reference.
+
+### Article 28
+
+All debts incurred by the TISS are restricted to being self-liquidating in nature and shall be submitted to the supervisory authority beforehand to be reviewed to obtain approval. If the results of implementation of the budget raise concerns that self-liquidation is not possible, an examination of the situation shall immediately be undertaken and improvement measures be proposed, and submitted to the supervisory authority to be reviewed to obtain approval.
+
+### Article 29
+
+With the exception of circumstances stipulated in any treaty or agreement that the Republic of China has entered into, or in Article 4, Paragraph 1 of the Government Procurement Act, which shall be governed by the associated provisions, the TISS procurement operations shall be based on the principles of transparency and fairness, and they are not subject to the provisions of the Government Procurement Act. The TISS implementation regulations governing its procurement operations shall be submitted to the supervisory authority to be reviewed to obtain approval.
+
+If the procurements referred to in the previous paragraph which must be handled in accordance with the provisions of Article 4, Paragraph 1 of the Government Procurement Act are subject to the provisions of any other laws or regulations, the provisions of those other laws or regulations shall apply.
+
+### Article 30
+
+Any information about the TISS shall be made public in accordance with the pertinent regulations of the Freedom of Government Information Law; its annual financial reports, details of its business activities that year, and its annual performance review reports shall proactively be made public.
+
+The supervisory authority shall submit an analysis report of the annual performance review reports referred to in the previous paragraph to the Legislative Yuan for archiving. When necessary, the Legislative Yuan may require the head of the supervisory authority, together with the TISS chairperson, and its chief executive officer, or a chief administrator associated with the matter being examined, to personally go to the Legislative Yuan to provide a report on the state of operations and answer questions raised.
+
+## Chapter V: Supplementary Provisions
+
+### Article 31
+
+A person who objects to an administrative disposition given by the TISS may file an administrative appeal to the competent supervisory authority in accordance with the Administrative Appeal Act.
+
+### Article 32
+
+If changes in circumstances or poor performance make it impossible for the TISS to achieve the objectives it was set up for, it shall be dissolved by the supervisory authority after it submits a report to the Executive Yuan and receiving approval.
+
+Upon dissolution, the contracts of all personnel shall be terminated, and its remaining assets shall fall within the jurisdiction of the national treasury; and any associated rights and responsibilities shall be taken on by the supervisory authority.
+
+### Article 33
+
+The date of effect of this Act shall be set by the Executive Yuan.
+
+## History
+
+1.The full text of 33 articles promulgated by the President’s Hua Zong Yi Yi Zi Order No. 11200009151 on February 8, 2023; the date of implementation to be determined by the Executive Yuan.
+
+Executive Yuan Yuan Shou Ren Zu Zi Order No. 11220012491 on July 12, 2023 stipulated that the law would come into effect on August 1, 2023.
+
+2.The President’s Hua Zong Yi Yi Order No. 11400008941 on January 24, 2025 amended and promulgated Articles 2, 3, 6-8, 18, 19, and 21; and added Article 19-1; the date of implementation to be determined by the Executive Yuan.

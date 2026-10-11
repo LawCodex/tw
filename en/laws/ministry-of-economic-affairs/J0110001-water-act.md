@@ -1,0 +1,1393 @@
+---
+title: "Water Act"
+title_zh: "水利法"
+identifier: "J0110001"
+type: act
+law_level: "法律"
+category: "行政＞經濟部＞水利目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1942-07-07
+last_amended: 2023-11-29
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0110001"
+retrieved: 2026-10-12
+---
+
+# Water Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-economic-affairs/J0110001-water-act.md](../../../zh/laws/ministry-of-economic-affairs/J0110001-water-act.md)) is authoritative.
+
+## Chapter 1 General Provisions
+
+### Article 1
+
+The administration and development of water works shall be in compliance with this Act or follow the local customs, provided the local customs are not in contravention herein.
+
+### Article 2
+
+Water resources, being part of the natural resources, are owned by the state, and the state ownership is not prejudiced by the land ownership of any persons.
+
+### Article 3
+
+The term “water work” as referred to herein shall mean control or utilization of surface or ground waters by artificial means for the purposes of flood control, tidal wave control, irrigation, drainage, leaching of injurious salt, soil conservation, water reservation, silt dredge, water supply, pier construction, facilitating navigation, and hydro-power development.
+
+### Article 4
+
+The term “authority-in-charge” as referred to herein shall mean the Ministry of Economic Affairs at the central level, the municipal governments at special municipality level, and the county or city governments at the county or city level.
+
+## Chapter 2 Water Districts and Administrations
+
+### Article 5
+
+The central authority-in-charge shall demarcate water districts according to the country’s natural pattern of waterways and submit the water district map to the Executive Yuan for approval and publication.
+
+### Article 6
+
+Where a water district extends over two or more provinces (municipalities) or is of significant interest that may present hardship in administration by the local government, the central authority-in-charge may establish a water agency to administer over the water works in the district.
+
+### Article 7
+
+Where a water district extends over two or more counties (cities) or is of great interests that may present hardship in administration by the country (city) government, the central authority-in-charge may establish a water agency to administer over water works in the district.
+
+### Article 8
+
+Any water work undertaken by a municipal or county (city) government and having impacts on two or more municipalities or counties (cities) shall be approved by the central authority-in-charge.
+
+### Article 8-1
+
+The provisions in the foregoing article apply to situations where water from one water system is drawn into another system for a water work in said system.
+
+### Article 9
+
+Alteration of waterway or digging canals is subject to the approval of the central authority-in-charge.
+
+### Article 10
+
+(deleted)
+
+### Article 11
+
+For undertaking any hydraulic engineering project, the authority-in-charge at various levels may recruit workers from those who benefit from the project, provided that a recruitment plan has been approved by its superior authority and filed with the central authority-in-charge.
+
+### Article 12
+
+(deleted)
+
+### Article 13
+
+Beneficiaries of a government’s water work who directly pay for the work may apply to the authority-in-charge for approval to organize a water conservation promotion association.
+
+### Article 14
+
+The people who take the initiative to undertake water works may organize a water development company with the approval of the authority-in-charge.
+
+## Chapter 3 Water Right
+
+### Article 15
+
+The term “water right” as referred to herein shall mean the right acquired according to law to use or make profits from surface or ground waters.
+
+### Article 16
+
+Except for circumstances provided under Article 42 hereof, non-citizen of the Republic of China may not acquire water right for the use of water, unless with special approval from the Executive Yuan through the central authority-in-charge.
+
+### Article 17
+
+Any entity, corporation, or people may acquire water right for a specific purpose; however, the use of water shall be subject to restrictions based on needs.
+
+### Article 18
+
+The priorities of water usage are as follows:
+
+\1. supply for domestic use and public use;
+
+\2. agricultural use;
+
+\3. hydro-power;
+
+\4. industrial use;
+
+\5. navigation; and
+
+\6. others.
+
+Subject to the approval of the central authority-in-charge, the authority-in-charge may change the priority list above for a particular waterway or government-designated industrial zone in consideration of the actual circumstances.
+
+### Article 18-1
+
+The priority of water supply from a multiple-purpose reservoir shall be set according to the plan approved by the authority-in-charge, unless the right holders have agreed otherwise, provided that such an agreement has been submitted to and approved by the authority-in-charge.
+
+### Article 19
+
+Under the circumstances that public use is under supply and new water sources are unavailable, the authority-in-charge may suspend or revoke the water right granted except under subparagraph 1, paragraph 1 of the preceding article, or impose restrictions on usage.
+
+In the event that the suspension, revocation, or restriction of water right under preceding paragraph causes material damages to the users, the authority-in-charge will assess the damages and approve remedies for such damages and impose the liabilities upon the public water supplier.
+
+### Article 19-1
+
+Where water right holders exchange the use of approved water intake in part or in whole, the parties shall enter a water exchange contract which takes effect following the approval of authority-in-charge. However, if the duration of the agreed exchange exceeds three years, the parties shall carry out registration change according to law.
+
+### Article 20
+
+When dispute arises among registered water right holders due to under supply of water, the holder who has a higher priority of usage shall be given the preemption; among those who have the same priority, the holder who acquired the right first shall be given the preemption; among those who have the same priority and acquired their rights at the same time, water shall be used on a pro rata basis according to the quantity stipulated on their respective water right deeds or by rotation. The rules for preemptive use of water shall be promulgated by the central authority-in-charge.
+
+### Article 20-1
+
+When water is under supply, the water right holder who is given preemptive use on account of his priority according to subparagraphs 2 ~ 6, paragraph 1 of Article 18 herein shall properly compensate water right holders who have registered their water right before he did, provided his preemptive use causes material damages to those water right holders. The amount of compensation is subject to the agreement of parties concerned. If no agreement is reached, the authority-in-charge will assess the damages and approve the amount, and impose the liability upon the one who has the preemptive use.
+
+### Article 21
+
+If the authority-in-charge determines, based on hydrological testing, that a certain water source under its jurisdiction will have a surplus within a certain period after meeting the water usage needs of all purposes, it may authorize temporary right of use to others for the same period. If the water supply runs short all of a sudden, the authority-in-charge may suspend such temporary rights.
+
+### Article 22
+
+If the authority-in-charge determines that scientific and technological advances have made water conservation possible under its jurisdiction, it may order water right holders to improve their water conveying or usage technology or facilities. The water so saved may be redistributed for use, provided that those who acquire the right to use the surplus water shall bear the costs and expenses of such improvement.
+
+### Article 23
+
+When a waterway changes its course under natural force, the water right holders thereof may petition the authority-in-charge to designate a proper intake location and conveying route along the new waterway for a part or whole of the authorized yield as stated on the water right deeds.
+
+### Article 24
+
+A water right holder who fails to use the water for two years consecutively will lose his water right and have his water right deed revoked by the authority-in-charge after investigation and publication of the fact, unless the authority-in-charge agrees otherwise to allow the holder to retain his right.
+
+### Article 25
+
+The authority-in-charge may reassign water right according to the prevailing usage when joint owners of a water right have a dispute over water usage.
+
+### Article 26
+
+The authority-in-charge may change or revoke the water right already registered by private individuals in order to meet the demand of a public utility; provided appropriate compensation to the private right holders shall be paid by the public utility.
+
+## Chapter 4 Registration of Water Right
+
+### Article 27
+
+The acquisition, creation, transfer, alteration or extinguishments of water right shall be null and void unless duly registered pursuant to this Act.
+
+The provisions in the preceding paragraph do not apply to water rights associated with navigating the natural navigation waterway.
+
+### Article 28
+
+An application for water right registration shall be filed with the authorities-in-charge at the municipal or country (city) level. A registration in connection with a water source flowing through two or more counties (cities) shall be filed with the central authority-in-charge. A registration in connection with a water source flowing through two or more provinces (municipalities) shall be filed with the central authority-in-charge.
+
+For the purpose of water right registration, a water right registration book shall be in place.
+
+### Article 29
+
+When registering water right with the authority-in-charge, the following documents shall be submitted by the right holder and the obligator, or an agent thereof:
+
+\1. the application form;
+
+\2. supporting documents substantiating the rights or water right deeds;
+
+\3. other documents or drawings pursuant to the laws.
+
+When an agent files the application, a power of attorney shall be provided.
+
+In the event that the government undertakes water works, the applicant shall be the sponsoring department of the government.
+
+For ground water development, engineering plans and detailed descriptions shall be submitted along with the application for water right. Water right will be granted pursuant to the laws after the construction is completed and commences water supply.
+
+### Article 30
+
+The application form in the foregoing article shall provide the following information:
+
+\1. name, gender, place of birth, age, residence, and occupation of the applicant;
+
+\2. duration of water right requested;
+
+\3. source of water right;
+
+\4. reasons for registration;
+
+\5. water usage;
+
+\6. source of water;
+
+\7. scope of use;
+
+\8. the method of use;
+
+\9. location of water intake;
+
+\10. location of water outtake;
+
+\11. water yield;
+
+\12. height of waterhead (for hydro-power);
+
+\13. well depth (for ground water);
+
+\14. hours of water use;
+
+\15. date; and
+
+\16. other required information.
+
+### Article 31
+
+Joint owners of water right shall file for registration jointly or by their common agent.
+
+### Article 32
+
+When a third party has an interest in the water right under registration, a letter of undertaking provided by such third party or other supporting documents shall be submitted in addition to the application form.
+
+### Article 33
+
+Upon receipt of an application for registration of water right, the authority-in-charge shall promptly review the application and conduct a survey. If the application is not procedurally compliant or subject to pending litigation or to a dispute, the authority-in-charge shall notify the applicant to make remedy or suspend the review proceedings until the litigation or the dispute is settled.
+
+### Article 34
+
+If finding that the registration application is inappropriate following review and survey, the authority-in-charge shall reject the application by notice, stating the grounds of rejection, within ten (10) days of completing the review; if finding the application is appropriate, the authority-in-charge shall announce publicly according to the following and notify the applicant:
+
+\1. post the announcement at a conspicuous place of the registered water right area;
+
+\2. post the announcement on the bulletin board of the authority-in-charge.
+
+The public announcement made under the preceding paragraph shall last no less than fifteen (15) days.
+
+### Article 35
+
+The following information shall be stated in the public announcement made under the foregoing article:
+
+\1. applicant’s name;
+
+\2. reasons for registration;
+
+\3. duration of water right approved;
+
+\4. water usage;
+
+\5. source of water ;
+
+\6. scope of use;
+
+\7. the method of use;
+
+\8. location of water intake;
+
+\9. location of water outtake;
+
+\10. water yield;
+
+\11. height of waterhead (for hydro-power);
+
+\12. well depth (for ground water);
+
+\13. hours of water use;
+
+\14. registration date;
+
+\15. place and period to file opposition to the registration; and
+
+\16. other required information for public announcement.
+
+### Article 36
+
+Within fifteen (15) days following the announcement made pursuant to the foregoing two articles, an interested party may file an opposition with the authority-in-charge by submitting a statement of reasons and supporting evidence.
+
+The period above shall commence from the date of public announcement made by the authority-in-charge.
+
+### Article 37
+
+Once the water right have been registered and publicly announced, and if no opposition is filed or sustained, the authority-in-charge shall record the right in the water right registration book and issue a water right deed for such right. When the issuer is the authority-in-charge at the municipal or county (city) level, the issuer shall forward or submit the　water right deed to the central authority-in-charge for seal checking and filing.
+
+The certificate of water right deed under the preceding paragraph shall be designed by the central authority-in-charge.
+
+### Article 38
+
+A water right deed shall state the following information:
+
+\1. registration number and water right deed number;
+
+\2. application date and number;
+
+\3. name of water right holder;
+
+\4. duration of water right approved;
+
+\5. nature of water use;
+
+\6. source of water;
+
+\7. scope of water usage;
+
+\8. the method of use;
+
+\9. location of water intake;
+
+\10. location of water outtake;
+
+\11. water yield;
+
+\12. height of waterhead (for hydro-power);
+
+\13. well depth (for ground water);
+
+\14. authority-in-charge effecting the registration;
+
+\15. other required information.
+
+### Article 39
+
+Water right holder shall install a water meter at the location of water intake, and file an annual water consumption record based on monthly water usage and actual volume in use.
+
+The authority-in-charge may inspect the meter and water consumption under the preceding paragraph from time to time.
+
+### Article 40
+
+Water right extinguishes upon the expiration of the approved duration. If an extension becomes necessary, a right holder shall file for an extension within three (3) months prior to the stated expiration date.
+
+### Article 41
+
+Upon the extinguishments of water right, the water right holder or obligator shall hand in the water right deed and file for extinguishments recordation. When a water right holder fails to do so upon expiration, the authority-in-charge shall amend the book for the extinguishments and make a public announcement to the effect.
+
+### Article 42
+
+Surface or ground water usage for the following purposes are exempt from water right registration:
+
+\1. domestic use and livestock water consumption;
+
+\2. water consumption in accordance with Subparagraph 4, Paragraph 1, Article 19 of the Indigenous Peoples Basic Law;
+
+\3. hot spring water less than two cubic meters per household per day; and
+
+\4. water drawing by means of human power, animal power, or other simple means.
+
+The authority-in-charge may give recognition upon, or order a water right registration of, the use of water under the preceding paragraph if such use is suspected of interfering with public water works or water usage by others.
+
+Before the implementation of the amended Act on May 6, 2016, the authority-in-charge shall a water right registration of the well drilling on private land, provided that its water output is less than 100 liters per minute, in accordance with the plan, except water usage for the purposes stipulated in Paragraph 1 are exempt from water right registration.
+
+### Article 43
+
+When conducting registration of water right, the authority-in-charge shall reserve part of water at the watershed for domestic or public water supply. For the purpose of ground water right registration, the authority-in-charge shall set the distance between wells according to hydrologic data and yield of the well and make a public announcement thereof.
+
+### Article 44
+
+Where an application is made for temporary use of water pursuant to Article 21 of this Act, the authority-in-charge shall conduct a survey and process the application within the timeframe prescribed under Article 34 herein and make a registration and public announcement thereof after the approval, and issue a permit for temporary use.
+
+### Article 45
+
+To streamline the water right registration procedures, the central authority-in-charge may promulgate the procedures and rules of water right registration.
+
+## Chapter 5 Water Works
+
+### Article 46
+
+The construction, alteration, or removal of any of the following structures for a water work shall have the prior approval of the authority-in-charge:
+
+\1. flood control structure;
+
+\2. water conveying structure;
+
+\3. reservoir structure;
+
+\4. drainage structure;
+
+\5. ground water extraction structure;
+
+\6. navigation related structure;
+
+\7. hydro-power related structure; and
+
+\8. other hydraulic structures.
+
+For construction or alternation of any structures enumerated above, the proprietor shall submit detailed plans, drawings, and descriptions for the approval of authority-in-charge. Where it is necessary to amend or alter the approved plans or drawings due to special circumstances, the proprietor shall show cause and submit the modified plans or drawings for approval to effect the alteration. However, for the sake of hazard prevention or temporary relief, the proprietor may proceed with change of plan without prior approval and file with the authority-in-charge afterwards.
+
+The authority-in-charge may issue an order of alteration or demolition of any hydraulic structure built without its prior approval.
+
+### Article 47
+
+The authority-in-charge may revoke or restrict the approval granted to a water work in any of the following events; if necessary, the authority-in-charge may order an alteration or demolition:
+
+\1. construction not in compliance with the approved plan or exceeding the scope of approval;
+
+\2. poor working method that adversely affects public interests;
+
+\3. working procedures not in compliance with laws and regulations;
+
+\4. failure to commence or complete work within the permitted duration unless an extension is granted by the authority-in-charge under special circumstances.
+
+### Article 47-1
+
+To prevent the infringement on the sustainable use of groundwater, seawater intrusion, or subsidence due to over-extraction of ground water in a certain area, the central authority-in-charge may designate a district as ground water control area to restrict or ban the development of ground water. The central authority-in-charge shall promulgate the control measure for zoning procedures, well drilling, water registration and other related regulations therefore.
+
+For the purpose of agricultural water use in the ground water control area, the central authority-in-charge shall work with the central agricultural authority-in-charge to promulgate the control measure for zoning procedures, well drilling, water registration and other related regulations therefore.
+
+The authority-in-charge may restrict, alter, or revoke any water right already granted within a ground water control district stipulated in Paragraph 1.
+
+### Article 48
+
+Where applicable, the proprietor of a water work shall draw up a plan for water gate use standards, schedules, and method in connection with structures used in flood control, conveyance, storage, or drainage. Such a plan shall be approved and made public by the authority-in-charge. If deemed necessary, the authority-in-charge may demand changes to the plan within a prescribed period.
+
+### Article 49
+
+A water work proprietor shall maintain, repair, or rebuild on a regular basis the hydraulic structures and any appurtenances or accessories thereto built for flood control, conveyance, storage, or drainage, and carry out inspection and safety evaluation of the same on a periodic and as-needed basis.
+
+The central authority-in-charge, in consultation with relevant agencies, will prescribe the scope, items, and procedures of the aforementioned inspection and safety evaluation.
+
+### Article 50
+
+When a water work adversely affects the interests of a water right holder, the authority-in-charge may order its proprietor to construct proper structures or provide other remedies.
+
+### Article 51
+
+When the construction of a water work has an impact on flood control, the authority-in-charge may order the proprietor to construct proper flood control structures.
+
+### Article 52
+
+When it is necessary to construct dams or gates on navigable waterways for a water work, lock gate shall be built at suitable locations. The number, size, and schedule for opening and closing the lock gate shall be prescribed by the authority-in-charge according to actual needs.
+
+The proprietor shall bear the costs and expenses of building the lock gates under the preceding paragraph. If the depth of navigable waters increases due to the construction of a dam, the authority-in-charge may, after considering the nature of the navigable waters, subsidize the costs and expenses of the construction after approval by its superior authority.
+
+### Article 53
+
+When a water work has a potential to be developed for multiple purposes, its proprietor may negotiate with people or entities involved to participate in the development project and share costs and expenses based on economic appraisal. If necessary, the proprietor may request assistance and guidance from the authority-in-charge.
+
+Where the aforementioned multi-purpose water work or several water works are to be jointly used by different entities, the intended users should elect a general representative for water right registration to facilitate the unified management of water resources. Where the water work concerned is initiated by the authority-in-charge, the agency managing the water work shall be the general representative for the purpose of water right registration.
+
+### Article 54
+
+When the central authority-in-charge deems it necessary to upscale a water work or expand its benefits, it may, without consent of any involved agencies or entities, order its proprietor to reserve room for such upscale or add fundamental facilities, and raise and advance funds therefor.
+
+### Article 54-1
+
+To safeguard the safety and security of reservoir, the following conducts or activities are prohibited in the reservoir storage area:
+
+\1. damaging or altering reservoir structure or facility;
+
+\2. opening/closing, moving or damaging gate or its auxiliary facility;
+
+\3. dumping waste soil or other waste;
+
+\4. quarrying, except for dredging activities carried out by the authority-in-charge;
+
+\5. raising livestock, breeding aquatic products or planting vegetation;
+
+\6. discharging wastewater not complying with the discharge standards set forth by the competent authority; and
+
+\7. in violation of the boundaries of play/rest area, activities or conducts permitted and announced by the reservoir authority or management agency.
+
+Construction in the reservoir storage area shall have permit from the authority-in-charge.
+
+The authority-in-charge may entrust the reservoir management agency (entity) to handle the application and issue of permit under the preceding paragraph.
+
+### Article 54-2
+
+A reservoir storage area shall be managed by its proprietor or a management agency (entity) entrusted by the proprietor. The central authority-in-charge will prescribe the measure for the use and management of reservoir, boundaries of storage area, approval announcement procedure, and other provisions.
+
+### Article 54-3
+
+For the application for or alteration in development with the water usage reaching a certain scale or the increase in planned water usage, the developer shall submit the water usage plan or revised water usage plan to the authority-in-charge of relevant industry before the application or alteration. The authority-in-charge of relevant industry shall submit it to the central authority-in-charge for approval accordingly.
+
+After the water usage plan is approved, the developer shall carry out the development in accordance with the water usage plan and report to the central authority-in-charge on a regular basis. The central authority-in-charge may carry out the inspection if necessary.
+
+If the actual water usage and the planned water usage have a certain percentage or scale of difference, the developer shall submit the difference analysis report to the central authority-in-charge for review and adjust the water usage plan in accordance with the review result. If the actual water usage exceeds water usage specified in the final water usage plan, the same procedures stipulated in the first paragraph shall apply.
+
+If the development has not been carried out within three years upon approval of the water usage plan, the developer shall apply for the extension or cancelation with the central authority-in-charge two months prior to the expiration; the extension is limited up to three years and once. When the central authority-in-charge orders the developer failing to apply for the extension or cancelation to make an improvement or carry out the development within the deadline and the developer fails to do so, the central authority-in-charge may cancel the approved water usage plan.
+
+Before the approval of the water usage plan or revised water usage plan, the water supplier shall not supply water to the developer.
+
+Before the implementation of the amended Act on May 6, 2016, if the developer with the actual water usage, except for agricultural water use, in the development approved by the authority-in-charge of relevant industry reaching a certain scale fails to submit the water usage plan, the central authority-in-charge may order the developer or the user to submit the water usage plan in accordance with the procedures stipulated in Paragraph 1.
+
+The central authority-in-charge shall stipulate the content, submission, review, approval, extension, cancelation, and revocation of development, developer, user, certain scale, certain percentage, and difference analysis report, report and inspection of water usage, and other related regulations.
+
+### Article 55
+
+When a water work proprietor develops new water sources for waterway in connection with a hydraulic construction, said proprietor has the priority to apply for right of use and collecting income derived from the water source, provided the vested interests in water use of the downstream water right holders are not affected.
+
+The vested interests as referred to in the preceding paragraph shall mean the natural flow of water not exceeding the volume under the registered water right before the new water sources are developed.
+
+### Article 56
+
+When it is necessary to build a weir or a flood gate on a non-navigable waterway with traffic of bamboo or wooden rafts or fishing for a water work, the proprietor shall build routes for such rafts or fishing at proper locations; the measures therefor shall be promulgated by the authority-in-charge.
+
+The costs and expenses of construction under the preceding paragraph shall be borne by the proprietor.
+
+### Article 57
+
+When a water work proprietor’s use of land interferes with a land owner’s ingress and egress or blocks the gutters or waterways, the proprietor shall, with consent of such landowner, build bridge, culvert, aqueduct, or other structures, or provide comparable compensation.
+
+### Article 58
+
+When water is routed through private land in a water conveyance project and causes damages, the landowners may demand compensations from the water work proprietor or land be sold to the proprietor, unless the original condition can be restored immediately and no damages occur after the restoration.
+
+### Article 59
+
+The proprietor of a water work shall report business operations, water utilization, management and maintenance of structures to the authority-in-charge on an annual basis.
+
+### Article 60
+
+To regulate groundwater development, a groundwater well drilling service operator shall apply to the municipal or county (city) government at where it is located for a permit before it may apply for company or business registration.
+
+The central authority-in-charge will set forth regulations governing the well drilling industry that stipulate the approval, qualifications, requirements, classification, technical requirements, and matters relating to the works, operation, and management of a well drilling service operator, as well as the qualifications of its engineers and technicians, construction management and other requirements.
+
+### Article 60-1
+
+The authority-in-charge may order a well owner to make improvement within a given period if it finds that substandard well drilling work might affect water quality or quantity of the aquifers. If the owner fails to make improvement within the given period or is unable to improve, the authority-in-charge may force closure of the well and impose the costs thereof upon the owner.
+
+### Article 60-2
+
+Where a well is abandoned or not in use, the well owner shall seal or back fill the well to prevent loss or contamination of water in the aquifer.
+
+The authority-in-charge may hire contractors to do the well sealing or back filling under the preceding paragraph; however, the costs and expenses thereof shall be borne by the well owner.
+
+### Article 60-3
+
+To promote the economy of water resources, the authority-in-charge may order well owners to install recycling devices to recycle cooling water and recyclable water for industrial use.
+
+### Article 60-4
+
+A groundwater well drilling service operator in any of the conditions below shall receive a penalty of business suspension for no less than six months and no more than two years:
+
+\1. taking on work without meeting the classification qualifications for groundwater well drilling service operators;
+
+\2. having received warning three times or more in one year for non-compliance with the regulations governing the well drilling industry specified in the foregoing article;
+
+\3. failing to apply for approval of business change according to the prevailing regulations; or
+
+\4. hiring unqualified engineer or technician.
+
+### Article 60-5
+
+If a groundwater well drilling service operator has any of the conditions below, the municipal or county (city) should annul its permit, and notify the authority in charge of company or business registration to annul its company or business registration:
+
+\1. losing the ability to carry on business;
+
+\2. taking on well drilling work for a water work that is not duly approved by the authority-in-charge;
+
+\3. having closed down business for more than one year without applying for resumption of business within a prescribed period;
+
+\4. receiving the penalty of business suspension and not turning in its permit, work manual, or work permit of technicians to the authority-in-charge within a prescribed period after being notified so;
+
+\5. receiving the penalty of business suspension two or more times within one year;
+
+\6. selling or lending others the business permit, or using other’s business permit;
+
+\7. not undertaking any well drilling work for two years consecutively; or
+
+\8. engaging in bid rigging.
+
+A groundwater well drilling service operator who has its business permit annulled may not reapply in three years.
+
+### Article 60-6
+
+The technician of a groundwater well drilling service operator who has received warning three or more times for violating the governing regulations specified in Article 60 herein will have his work permit annulled and will not be reissued a permit within one year.
+
+### Article 61
+
+When a water work adversely affects the cleanness of a water source, the authority-in-charge may place restrictions on or ban such a project.
+
+### Article 62
+
+For navigable waterways of particular purposes, the authority-in-charge may limit the number of water ducts or use of pumps.
+
+### Article 63
+
+When a water work involves matters under the jurisdiction of other government agencies, the authorities-in-charge under this Act will carry out the coordination. When matters under the jurisdiction of other government agencies involve water works, the consent of the authorities-in-charge under this Act shall be obtained.
+
+### Article 63-1
+
+(deleted)
+
+### Article 63-2
+
+(deleted)
+
+### Article 63-3
+
+(deleted)
+
+### Article 63-4
+
+(deleted)
+
+### Article 63-5
+
+The following conducts or activities are prohibited in the sea embankment area:　
+
+\1. damaging or altering the sea embankment;
+
+\2. opening, closing, moving or damaging water gate or its auxiliary facilities;
+
+\3. dumping waste soil or other waste;
+
+\4. quarrying or stacking soil and stone;
+
+\5. raising livestock, or harvesting vegetation; or
+
+\6. engaging in activities that impedes the discharge or safety of embankment facilities.
+
+The activities of breeding aquatic products, planting vegetation, or constructing, rebuilding, repairing or demolishing structures or other facilities in sea embankment area are not allowed unless with the approval of authority-in-charge.
+
+### Article 63-6
+
+The central authority-in-charge will set forth regulations governing the zoning, approval, public announcement, use and management of sea embankment area, flood control, flooding emergency, inspection and maintenance of embankment safety, and other provisions.
+
+## Chapter 6 Storage and Drainage
+
+### Article 64
+
+Flood shall be drained into the main channel or its distributary, or other rivers, lakes, or oceans. Special attention must be paid to the protection and maintenance of related structures and other important facilities. With approval of the superior authority, flood may be drained into other or newly constructed waterways.
+
+### Article 65
+
+To mitigate flood damages, the authority-in-charge may restrict use of land in the vicinity reached by flood through zoning regulation.
+
+The authority-in charge shall formulate and implement the restriction and zoning regulation under preceding paragraph based on flood history records and forecasts after the approval and public announcement by the superior authority.
+
+### Article 65-1
+
+During a flood and before floodgates open, a reservoir administration agency shall notify all related agencies to take necessary protective measures.
+
+### Article 66
+
+Lower riparian landowners shall not obstruct stream flows from high land.
+
+### Article 67
+
+When draining flood water from high land to lower land by artificial means, a higher riparian landowner shall choose the locations and methods causing the least damages and compensate the lower riparian landowner.
+
+### Article 68
+
+Wastewater from factories and mines or urban sewerage shall be discharged into properly selected locations after adequate treatment.　If such wastewater or sewerage adversely affects water quality, human health, public interests, or interests of a third party, the authority-in-charge may place restrictions on or prohibit the discharge thereof, and those who suffer damages may claim compensations.
+
+### Article 69
+
+Where the storage or drainage of water causes damages to up or downstream riparian landowners, the person who causes the damages shall be liable unless the damages are caused by a force majeure event.
+
+### Article 69-1
+
+The proprietor of reservoir should conduct a detailed survey of land and improvements in the catchment area of reservoir that are likely to be flooded and propose a plan of acquisition, compensation, and relocation, which will be implemented after approval of the authority-in-charge.
+
+### Article 69-2
+
+(deleted)
+
+### Article 70
+
+When a stream is accidentally arrested at lower land, a riparian owner at higher land may at own costs restore the flow.
+
+### Article 71
+
+The authority-in-charge shall submit the standards, water level or time for opening and closing to its superior authority for approval and public announcement.
+
+### Article 72
+
+Any structure spanning over a waterway shall have passage in place for water to pass through. The cross sectional area of such passage shall be approved by the authority-in-charge.
+
+If a waterway referred to under the preceding paragraph is for navigation, a bridge shall be built over the waterway and the elevation of bridge bottom and the length of bridge span shall be regulated by the authority-in-charge.
+
+### Article 72-1
+
+When installing a structure over a waterway or crossing the foundation of a water work facility, the proprietor shall apply for the approval of the authority-in-charge and construct under its supervision.
+
+Digging and quarry activities are not allowed within a prescribed distance up and downstream the structure under the preceding paragraph, unless such activity is necessary for the safety and maintenance of water work. The safety distance shall be promulgated and publicly announced by the authority-in-charge.
+
+## Chapter 7 Waterway Protection
+
+### Article 73
+
+As to annual repair work on waterway structure, the authority-in-charge shall, after each flood control season, survey any damages thereon, and make repair work with permission from its superior authority and complete the repair work before the flood control season commences in a subsequent year. The repair work shall be inspected by the superior authority for acceptance.
+
+### Article 74
+
+The authority-in-charge shall, by taking into account water levels of past years, decide the water alert levels and dates.
+
+A flood control season shall commence from the alert date until the date the alert is called off.
+
+### Article 75
+
+The authority-in-charge may exercise police power within the scope of waterway protection.
+
+During a flood control season, the authority-in-charge, if deemed necessary, may seek assistance and manpower from the military forces or the police.
+
+### Article 76
+
+As an emergency measure for flood control, the authority-in-charge may requisition necessary materials, labor and land necessary for emergency rescue and security, and demolish any structures blocking the flow of water.
+
+For the materials, labor, and land requisitioned and any structures demolished under the preceding paragraph, the authority-in-charge shall make comparable compensations afterwards.
+
+### Article 77
+
+During a flood control season, the agency in charge of flood control may command the assistance of local authorities along a river. In case of emergency, local authorities should mobilize civilians to guard river banks immediately.
+
+### Article 78
+
+The following conducts or activities are prohibited in the river area:　
+
+\1. filling the river waterway;
+
+\2. damaging or altering river flood control structures, equipment or stone and other materials for flood control or use in flooding emergency;
+
+\3. opening, closing, moving or damaging water gate or its auxiliary facilities;
+
+\4. building factory or house;
+
+\5. dumping waste soil or other debris that will block flow of water;
+
+\6. driving on roads other than designated ones; or
+
+\7. engaging in other activities that impede river protection.
+
+### Article 78-1
+
+To engage in the following conducts or activities in river area shall obtain prior approval from the authority:
+
+\1. installing, rebuilding, repairing or demolishing structures;
+
+\2. discharging wastewater or drawing water;
+
+\3. quarrying or stacking soil and stone;
+
+\4. planting vegetation;
+
+\5. engaging in excavation, burying/filling or other activities that alter the existing patterns in the river area;
+
+\6. building fish pond, growing oyster or raising livestock; or
+
+\7. other river management related activities as announced by the authority-in-charge.
+
+### Article 78-2
+
+The central authority-in-charge will set forth regulations governing river management that stipulates the planning and facilities of watershed management, safety inspection and maintenance of river embankment, river flood control and flooding emergency, zoning, approval announcement of river area, river usage and management and other provisions.
+
+With regards to the river areas stipulated in the above paragraph, a public explanation session should be arranged locally based on the actual requirements. This shall not apply, however, if an explanation session has already been organized according to the river management plan and the river area has not gone beyond the scope of land line.
+
+### Article 78-3
+
+The following conducts or activities are prohibited within the range of drainage facilities:
+
+\1. filling the drainage channel;
+
+\2. damaging or altering drainage facilities;
+
+\3. opening, closing, moving or damaging water gate or its auxiliary facilities;
+
+\4. dumping waste soil or other waste;
+
+\5. raising livestock or engaging in other breeding activities; or
+
+\6. engaging in other activities that impedes drainage.
+
+To engage in the following conducts or activities within the range of drainage facilities shall obtain prior approval from the authority:
+
+\1. installing, rebuilding, repairing or demolishing structures;
+
+\2. discharging wastewater;
+
+\3. quarrying or stacking soil and stone;
+
+\4. planting vegetation; or
+
+\5. engaging in excavation, burying/filling or other activities that alter the existing patterns in the range of drainage facilities;
+
+### Article 78-4
+
+The central authority-in-charge will set forth regulations governing the zoning, approval and public announcement of drainage and catchment area, maintenance of drainage facilities, flood control and flooding emergency, safety inspection, usage management of drainage facilities, and other provisions. However the drainage systems of farmland, cities, and enterprises will be administered by authorities in charge of relevant industries according to the established regulations.
+
+### Article 79
+
+The authority-in-charge may, after obtaining approval from its superior authority, order a party to modify, relocate, or demolish any plants grown or structures built on the riparian land of waterways that in the judgment of the authority-in-charge have interfered with water flow, provided that appropriate compensation will be provided for.
+
+The riparian land referred to under the preceding paragraph shall mean the land along waterways without dike and stretching to the outer reach of normal flood water.
+
+### Article 80
+
+Reeds, aquatic grasses, willows or other vegetations growing in the area between a dike and river banks and having the utility of wind and wave control, regardless of being privately or publicly owned, shall not be mowed down without permission unless off the flood control season or with permission from the authority-in-charge.
+
+### Article 81
+
+No enclosing of a sandbank or beach of a waterway for cultivation is allowed unless the authority-in-charge deems such enclosure is not detrimental to water flow or flood control and approval from its superior authority has been obtained.
+
+### Article 82
+
+Land lying within the line of a waterway management plan or the scope of land line may be requisitioned by the government according to law after the authority-in-charge submits its plan to the superior authority for approval and public announcement. As to such land not requisitioned, the authority-in-charge may restrict its use for the purpose of flood control.
+
+The land lying within the line of a waterway management plan or the scope of land line, when promulgated, shall be subject to a regular and comprehensive review by the authority-in-charge. The authority-in-charge, however, may conduct timely revision or amendments in case there is a drastic change to the waterway caused by natural disaster.
+
+In case that private land or existing dike land becomes unusable because they have been announced by the authority-in-charge, based on paragraph 1 above, as falling within the line of a waterway management plan or the scope of land line for installing flood-control facilities or for other waterway management projects such as river cutoff or expansion of river cross sections, the authority-in-charge may requisition the land if necessary.
+
+Private land located in river areas which has become unusable due to reasons specified in the preceding paragraph may apply for transfer of plot ratio if the land is located within the scope of an urban plan already approved by the authority-in-charge but has not yet been requisitioned. In this case the transfer of plot ratio should be administered in accordance with the rules specified in Article 83-1, paragraph 2 of the Urban Planning Act, including the methods to determine the transferable plot ratio, the location of the receiving land base, the maximum plot ratio for the receiving land base, the method of transfer and administrative procedures, etc.
+
+The formula for the plot ratio transfer shall be established collaboratively by the Ministry of Interior Affairs and the Ministry of Economic Affairs.
+
+### Article 83
+
+For the purpose of flood control, the authority-in-charge may enforce restrictions on the use of land situated within areas under normal flood submerge level and prohibit the transfer of public lands into private lands. If the land is owned privately, the authority-in-charge may requisition the land where necessary. As to such land not requisitioned, the authority-in-charge may restrict its use for the purpose of flood control.
+
+The authority-in-charge shall submit the areas under normal flood submerge level under preceding paragraph for approval and public announcement by its superior authority.
+
+### Article 83-1
+
+If the authority-in-charge has partitioned or changed the designation of private land under the two foregoing articles as reserved land for water works, the landowner may apply to change the designation for appropriate use.
+
+Private land whose use has been restricted pursuant to the foregoing article may be acquired through eminent domain under zone or section expropriation or consolidation of reserved land for water works.
+
+The measure for consolidation of reserved land for water works shall be promulgated by the central authority-in-charge in consultation with the central land administration.
+
+## Chapter 7-1 Runoff Allocation and Outflow Control
+
+### Article 83-2
+
+To respond to climate change and ensure the effect of existing flood control facilities, the central authority-in-charge may make a public announcement of implementation scope of the specific river basins or catchment areas of regional drainage for runoff allocation depending on the flooding potential, the degree of urban development and major constructions. The authority-in-charge shall draw up a runoff allocation plan within the given deadline and report to the central authority-in-charge for approval and public announcement before implementation.
+
+If the specific river basins or catchment areas of regional drainage referred to in the preceding paragraph are adjacent, the authority-in-charge may integrate them into one runoff allocation plan. If the specific river basins or catchment areas of regional drainage are under the jurisdictions of different authorities-in-charge, the authority-in-charge of the runoff allocation plan shall be designated by the central authority-in-charge.
+
+The authority-in-charge of each level shall establish a runoff allocation review committee to formulate and review the runoff allocation plan referred to in Paragraph 1.
+
+Regulations governing the public announcement of the specific river basins or catchment areas of regional drainage, the deadline, principles, formulation, review, and approval and public announcement of the runoff allocation plan and the organization of the runoff allocation review committee as well as other related matters shall be stipulated by the central authority-in-charge.
+
+### Article 83-3
+
+The runoff allocation plan shall specific the following particulars:
+
+1.Scope of the plan.
+
+2.Overview of the plan.
+
+3.Objectives of the plan.
+
+4.Runoff allocation measures and the executive agency.
+
+5.Budget and schedule.
+
+6.Other related matters.
+
+Runoff allocation measures referred to in Subparagraph 4 of the preceding paragraph refer to construction or controls required to achieve the objectives of the runoff allocation plan.
+
+### Article 83-4
+
+To formulate the runoff allocation plan, the authority-in-charge shall invite the authorities-in-charge of farmland drainage, soil and water conservation, forests, sewers, urban planning, land administration or related business, the municipal or city (county) governments, scholars, experts or organizations to seek advice through holding seminars or in other appropriate ways as a reference.
+
+The runoff allocation plan covering indigenous people’s land or tribes and surrounding public land within a certain range shall be governed by Article 21 of the Indigenous Peoples Basic Law.
+
+After formulating the runoff allocation plan, the central authority-in-charge shall exhibit it in public for 30 days and organize a public hearing; the date and location of the public exhibition and public hearing shall be published in the government gazette or newspapers, online or in other appropriate ways. Individuals or organizations may give opinions in writing to the central authority-in-charge with their names and addresses specified during the public exhibition; when reporting the runoff allocation plan to the central authority-in-charge for review, the authority-in-charge shall state their responses to the aforementioned opinions for reference.
+
+### Article 83-5
+
+When developing the relevant industry, the executive agency shall apply the runoff allocation measures based on the runoff allocation plan prior to the land reserved for watercourses, drainage or public facilities or public land.
+
+When the land referred to in the preceding paragraph is unavailable, private land may be expropriated in accordance with the Land Expropriation Act.
+
+### Article 83-6
+
+If one of the following circumstances occurs after the runoff allocation plan is implemented, the authority-in-charge may review and modify it as required:
+
+1.Significant changes in hydrological conditions or topography or damage to public facilities due to natural disasters or other major events.
+
+2.A major public facility or utility plan developed by the government.
+
+3.The formulation or modification of the national spatial plan, regional plan or urban plan.
+
+The procedures for modifying the runoff allocation plan referred to in the preceding paragraph shall be governed by the procedures prescribed in Articles 83-2 and 83-4.
+
+### Article 83-7
+
+When runoff increases due to the land development and utilization at a certain scale or above, the obligator shall apply to the central authority-in-charge of relevant industry with the outflow control plan presented; then, the central authority-in-charge of relevant industry will forward the application to the municipal or city (county) authority-in-charge which the land is under the jurisdiction of for approval.
+
+The obligator referred to in the preceding paragraph refers to the developer, operator, user or owner of the land.
+
+If the land development and utilization referred to in Paragraph 1 is under the jurisdiction of a central agency, the outflow control plan shall be approved by the central authority-in-charge.
+
+Before the outflow control plan is approved, an authority-in-charge of relevant industry shall not issue the permit to develop and use the land referred to in Paragraph 1 without permission.
+
+After the outflow control plan is approved, the obligator shall construct, use, manage and maintain the land based on the approved plan; after completion, the obligator shall check regularly and keep records of the checks and submit the records to the municipal or city (county) authority-in-charge for review; the municipal or city (county) authority-in-charge may supervise and audit the construction, use, management and maintenance of the outflow control facilities.
+
+In case of a certain degree of differences between the actual construction, use, management and maintenance of outflow control facilities and the approved outflow control plan due to any changes in land development and utilization or natural factors, the obligator shall apply for the change in the outflow control plan according to the procedures prescribed in Paragraph 1.
+
+The outflow control plan shall include the following particulars:
+
+\1. Overview of land development and utilization.
+
+\2. Survey of the base status.
+
+\3. A peak discharge reduction scheme.
+
+\4. A construction plan and a use, management and maintenance plan.
+
+\5. Other related documents.
+
+If the particulars referred to in the preceding paragraph have been implemented according to the outflow control proposal approved in accordance with Article 83-8 without any changes, they may be exempt from review.
+
+Regulations governing a certain scale of land development and utilization, the submission, review, approval, records of checks and supervision and audit of the outflow control plan and a certain degree of differences between the outflow control facilities and the approved plan as well as the changes in the outflow control plan and other related matters shall be stipulated by the central authority-in-charge.
+
+### Article 83-8
+
+If the land development and utilization referred to Paragraph 1 of the preceding article involves the application for the change in non-urban-land-use zoning in accordance with the Regional Plan Act or the application for the change in the urban-land-use zoning or the land reserved for public facilities, the obligator shall, in addition to acting in accordance with the regulations of the preceding article, apply to the authority-in-charge of relevant industry in advance with the outflow control proposal presented to ensure sufficient space of land development and utilization for outflow control facilities; then, the authority-in-charge of relevant industry will forward the application to the municipal or city (county) authority-in-charge which the land is under the jurisdiction of for approval.
+
+If the land development and utilization referred to in the preceding paragraph is under the jurisdiction of a central agency, the outflow control plan shall be approved by the central authority-in-charge.
+
+Before the outflow control proposal is approved, the authority-in-charge of land change shall not change the land zoning or use referred to in Paragraph 1 without permission.
+
+The outflow control proposal shall include the following particulars:
+
+\1. Overview of land development and utilization.
+
+\2. Survey of the base status.
+
+\3. A peak discharge reduction scheme.
+
+\4. Other related documents.
+
+Regulations governing the submission, review and approval of the outflow control proposal and other related matters shall be stipulated by the central authority-in-charge.
+
+### Article 83-9
+
+The peak discharge reduction scheme referred to in the preceding two articles shall be able to reduce the peak discharge increasing due to the land development and utilization, making the peak discharge after the land development under the inspection standards lower than that before the land development.
+
+The Check Criteria referred to in the preceding paragraph and the calculation method for peak flow shall be announced by the central authority-in-charge.
+
+### Article 83-10
+
+When the land development and utilization is determined by the municipal or city (county) authority-in-charge which the land is under the jurisdiction of to meet one of the following conditions, the obligator shall be exempt from acting in accordance with the regulations prescribed in Articles 83-7 and 83-8:
+
+1.Where the entire scope is included in a soil and water conservation plan or the parts not included in the soil and water conservation plan do not reach a certain scale referred to in Paragraph 1 of Article 83-7;
+
+2.Flood control facilities, water reservation or tidal wave control construction developed by an authority-in-charge of relevant industry; or
+
+3.Public construction developed in response to disasters or major events.
+
+If the land development and utilization is under the jurisdiction of a central agency prescribed in Articles 83-7 and 83-8, the determination referred to in the preceding paragraph shall be made by the central authority-in-charge.
+
+Regulations governing the determination of the obligator’s exemption from acting in accordance with the regulations prescribed in Articles 83-7 and 83-8, as prescribed in Paragraph 1, shall be stipulated by the central authority-in-charge.
+
+### Article 83-11
+
+When an authority-in-charge reviews the outflow control plan or outflow control proposal and its change in accordance with the regulations prescribed in Articles 83-7 and 83-8, a review fee shall be charged according to the standards stipulated by the central authority-in-charge.
+
+### Article 83-12
+
+An authority-in-charge or a municipal or city (county) authority-in-charge may commission a professional institution or organization, such as hydraulic professional engineers, soil and water conservation professional engineers or civil professional engineers, to review the outflow control plan or outflow control proposal or supervise and audit the outflow control facilities, respectively.
+
+The outflow control plan or outflow control proposal shall be conducted certification by the professional engineers, such as hydraulic professional engineers, soil and water conservation professional engineers or civil professional engineers.
+
+### Article 83-13
+
+New or rebuilt buildings shall be equipped with permeable, water retaining or flood detention facilities. The scope and capacity of the aforementioned facilities shall be stipulated by the central authority-in-charge of buildings in accordance with the building laws and regulations.
+
+## Chapter 8 Water Conservancy Fund
+
+### Article 84
+
+For the purpose of protecting and maintaining water resources, the government may levy the following fees:
+
+\1. water right fees;
+
+\2. river construction fees;
+
+\3. flood control beneficiary fees.
+
+All the fees levied under the preceding paragraph shall be expended exclusively for water work constructions after deducting administration expenses. The fees shall be budgeted and allocated by the authority-in-charge.
+
+### Article 84-1
+
+To effectively and sustainable use water resources, the central authority-in-charge may impose the water conservation charge on the user with the water usage exceeding a certain scale. However, the user fulfilling the water-saving measures may be exempted from up to 60% of the water conservation charge.
+
+When the water price of water department is included in the cost of water conservation and drought preparation, the water conservation charge shall be reduced or exempted.
+
+The central authority-in-charge shall work with the central authority-in-charge of relevant industry shall stipulate the calculation and collection, object of collection, payment deadline, water-saving measures, scope and method of reduction of water conservation charge and other related regulations.
+
+The water conservation charge collected in accordance with regulations stipulated in Paragraph 1 shall be managed and used by Water Resources Operation Fund under the central authority-in-charge for the promotion of water resource management, water recycling, and water conservation.
+
+### Article 85
+
+The water right fees shall be levied as follows: for agricultural and industrial use, a cubic meter per minute of supply as a starting point; for hydro-power use, a cubic meter per second of supply as a starting point. Rates shall be promulgated by the central authority-in-charge and announced publicly.
+
+### Article 86
+
+The government may collect river construction fees from vessels which travel on the inland navigable waters and between harbors built and maintained by the government. The schedule of the rates and payments shall promulgated by the central authority-in-charge in consultation with the Ministry of Transportation and Communications.
+
+### Article 87
+
+The government may levy flood control beneficiary fees in light of the benefits received by beneficiaries from its flood control work.　
+
+The districts and standards for the purpose of collecting such fees by the authority-in-charge at municipal, or country (city) level shall be promulgated by the central authority-in-charge.
+
+### Article 88
+
+The flood control beneficiary fees shall be levied on owners of land situated in the districts that receive the benefits. If such land is attached with liens, the fees shall be levied on the lienholders.
+
+If any plants, mines, stores, or other building improvements are erected on such land under the preceding paragraph, the levy shall be in proportion to the benefits received according to the levy rules promulgated.
+
+### Article 89
+
+A water work proprietor may charge fees from users based on costs and reasonable profit and in keeping with the principles of public interest.
+
+The collection method and calculation base for the aforesaid fees shall be proposed by the water work proprietor for approval by the authority-in-charge; where the water work is undertaken by an government agency, the government agency will set the collection method and calculation base for the fees.
+
+### Article 89-1
+
+The central authority-in-charge may set up a Water Resources Operation Fund which shall be used for the following purposes:
+
+\1. Management and dredging of reservoirs, sea embankments, rivers or drainage facilities;
+
+\2. Emergency and rush repairs of reservoirs, sea embankments, rivers or drainage facilities in case of natural disasters;
+
+\3. Relevant personnel training; and
+
+\4. Feedback measures.
+
+The aforesaid Water Resources Operation Fund shall be derived from:
+
+\1. Allocation under the annual budget;
+
+\2. User fees collected by the central authority-in-charge from water work projects, and use of reservoir storage area, sea embankment area, river area or drainage facilities area;
+
+\3. Proceeds collected by the central authority-in-charge from the sale of sands and gravels obtained from the dredging of reservoirs, rivers or drainage facilities;
+
+\4. Interest income of the Fund; and
+
+\5. Other income.
+
+### Article 90
+
+When handling registration of water right, the authority-in-charge may levy a registration fee, a water right certificate fee, temporary use certificate fee, and a survey fee. The fee schedule shall be set by the central authority-in-charge.
+
+## Chapter 9 Penalties
+
+### Article 91
+
+Any person who steals, or damages, or by other means, endangers the normal functionalities of structures, devices, or other water work facilities specified under Articles 46 and 51 herein shall be punished with a sentence of imprisonment of no more than five years, detention, or a fine of no more than NT$1,000,000, or a combination thereof.
+
+If the damage or theft under the preceding paragraph causes disasters, the punishment of the offender shall be increased by a half. If the aforesaid act causes the death of others, the offender shall be punished with a sentence of imprisonment of more than five years and less than 12 years, or fined up to NT$10,000,000, or a combination thereof. If the act leads to severe injury of others, the offender shall be punished with a sentence of imprisonment of more than three years and less than 10 years, or fined up to NT$5,000,000, or a combination thereof.
+
+Any attempt of the offense under paragraph 1 shall be punished.
+
+### Article 91-2
+
+If a person who applies and is granted an approval according to the provisions in the second paragraph of Article 54-1, the second paragraph of Article 63-5, Article 78-1, or the second paragraph of Article 78-3 is in any of the following conditions, the authority-in-charge will annul the approval granted:
+
+1.Violating the first paragraph of Article 63-5, or Chapter 6 on matters prohibited or required, or provisions in Article 78, the first paragraph of Article 78-3, Article 80 or 81.
+
+2.Violating the measure set forth according to Article 54-2 regarding use and management in weir, dam and reservoir storage area or other provisions.
+
+3.Violating the regulations set forth according to Article 63-6 regarding the use and management, damp proofing, flooding emergency, inspection and maintenance of embankment safety in sea embankment area, and other provisions.
+
+4.Violating the regulations governing river management set forth according to the first paragraph of Article 78-2 regarding the planning and execution of river management, safety inspection and maintenance of river embankment, river flood control and flooding emergency, river usage and management and other provisions.
+
+5.Violating the regulations set forth according to Article 78-4 regarding the maintenance and management of drainage facilities, flood control and flooding emergency, safety inspection, usage management of drainage facilities, and other provisions.
+
+6.Failing to proceed with the work as approved in six months from the date the approval is granted without otherwise obtaining an approval from the authority-in-charge.
+
+7.Failing to pay user fee within a prescribed period after being notified so.
+
+8.Transferring the approval to others or failing to use it according to instructions or the scope granted.
+
+9.Intentional mismanagement or gross negligence in management that results in violation of the usage instructions or the granted scope of usage by others.
+
+10.Having lost the qualification to make application after the approval is granted.
+
+11.The revocation of approval is necessary due to remediation, management, public use of water conservancy facilities or other prevention or emergency actions.
+
+In the event that a user fails to use the approval according to instructions or the scope granted as delineated in subparagraph 8 of the preceding paragraph, and that revocation of the approval may cause major hazard to the public welfare, the authority-in-charge may opt to not annul the approval and require the user to make improvements within a prescribed period; and impose consecutive fines of no less than NT$150,000 and no more than NT$3,000,000 for each violation in compliance beyond the prescribed period if improvements are not completed.
+
+Where a permit is revoked according to law or annulled according to subparagraphs 1 to 9 of the first paragraph, the imputed approval user shall not reapply within one year.
+
+### Article 91-3
+
+Any person who steals, or damages, or by other means, endangers the normal functionalities of the main facilities or equipment of flood control, drainage, reservoir, and water conveying structures related to public safety herein shall be punished with a sentence of imprisonment of more than one year and less than seven years, or fined up to NT$10,000,000, or a combination thereof.
+
+Any person who commits the offense specified in the preceding paragraph with the intention of endangering national security or social stability shall be punished with a sentence of imprisonment of more than three years and less than 10 years, or fined up to NT$50,000,000, or a combination thereof.
+
+If the damage or theft under the preceding two paragraphs causes disasters, the punishment of the offender shall be increased by a half. If the aforesaid act causes the death of others, the offender shall be punished with a sentence of life imprisonment or imprisonment of more than seven years, or fined up to NT$100,000,000, or a combination thereof. If the act leads to severe injury of others, the offender shall be punished with a sentence of imprisonment of more than five years and less than 12 years, or fined up to NT$80,000,000, or a combination thereof.
+
+Any attempt of the offenses under paragraph 1 and paragraph 2 shall be punished.
+
+For the main facilities and equipment of flood control, drainage, reservoir, and water conveying structures related to public safety specified in paragraph 1, the central authority-in-charge shall discuss with the authority-in-charge of relevant industry to determine and announce the safety assessment undertaken based on the scale, flow rate and locations of the flood control, drainage, reservoir, and water conveying structures, and the impact that these structures have on people's life, health, and property safety, and the economy and industry. The same shall apply for amendments made.
+
+### Article 91-4
+
+Any person jeopardizes the normal functionalities of core information and communications systems of the facilities or equipment specified in paragraph 1 of the preceding article by any of the following means shall be punished with a sentence of imprisonment of more than one year and less than seven years, or fined up to NT$10,000,000, or a combination thereof:
+
+1.Entering the accounts and passwords, cracking the protection measures of computers, or exploiting loopholes in computer systems to hack into the computers or related equipment without justifiable reason.
+
+2.Interfering with the computers or relevant equipment via computer programs or other electromagnetic means without justifiable reason.
+
+3.Acquiring, deleting, or changing the electromagnetic records of the computers or relevant equipment without justifiable reason.
+
+The same shall apply to those who produce computer programs exclusively for themselves or others to commit the crimes in the preceding paragraph.
+
+Any person who commits the offenses specified in the preceding two paragraphs with the intention of endangering national security or social stability shall be punished with a sentence of imprisonment of more than three years and less than 10 years, or fined up to NT$50,000,000, or a combination thereof.
+
+If the damage under the preceding three paragraphs causes disasters, the punishment of the offender shall be increased by a half. If the aforesaid act causes the death of others, the offender shall be punished with a sentence of life imprisonment or imprisonment of more than seven years, or fined up to NT$100,000,000, or a combination thereof. If the act leads to severe injury of others, the offender shall be punished with a sentence of imprisonment of more than five years and less than 12 years, or fined up to NT$80,000,000, or a combination thereof.
+
+Any attempt of the offenses under paragraph 1 to paragraph 3 shall be punished.
+
+### Article 92
+
+Any person who opens or blocks waterways without due permission from the authority-in-charge shall be punished with a fine of no less than six thousand yuan but no more than thirty thousand yuan, in addition to restoring or discontinuing the act within a prescribed period. If such offense results in damages to others’ interests, a sentence of imprisonment of no more than three years, detention, or a fine from four thousand to twenty thousand yuan, or a combination thereof shall be imposed. If such offense causes public hazards, a sentence of imprisonment of no more than five years, a fine of six thousand to thirty thousand yuan, or a combination thereof shall be imposed.
+
+### Article 92-1
+
+(deleted)
+
+### Article 92-2
+
+Any of the following situations is subject to a fine of no less than NT$250,000 and no more than NT$5,000,000:
+
+1.Violating the provisions in subparagraph 1, first paragraph of Article 54-1, subparagraph 1, first paragraph of Article 63-5, subparagraph 2 of Article 78, or subparagraph 2, first paragraph of Article 78-3 by damaging or altering sea embankment, water storage structure or equipment, river flood control structure, equipment, or river flood control structures, equipment or stone and other materials or drainage facilities for flood control or use in flooding emergency.
+
+2.Violating the provisions in subparagraph 2, first paragraph of Article 54-1, subparagraph 2, first paragraph of Article 63-5, subparagraph 3 of Article 78, or subparagraph 3, first paragraph of Article 78-3 by opening/closing, moving or damaging floodgate or its auxiliary facility.
+
+3.Violating the provisions in first paragraph of Article 65 by using the land in the vicinity reached by flood.
+
+4.Violating the provisions in subparagraph 1 of Article 78, or subparagraph 1, first paragraph of Article 78-3 by filling river waterway or drainage channel.
+
+5.Violating the provisions in subparagraph 3, first paragraph of Article 54-1, subparagraph 3, first paragraph of Article 63-5, subparagraph 5 of Article 78, or subparagraph 4, first paragraph of Article 78-3 by dumping waste soil、waste or other debris that will block flow of water.
+
+6.Violating the provisions in subparagraph 4, first paragraph of Article 63-5 by engaging in quarrying or stacking soil and stone.
+
+7.Violating the provisions in subparagraph 3 of Article 78-1, or subparagraph 3, second paragraph of Article 78-3 by engaging in quarrying or stacking soil and stone without due permission.
+
+A juristic person, unincorporated body having a representative or manager, or other private law organizations other than juristic person who for the purpose of gain, violates the provisions under subparagraph 6 or 7 of the preceding Article by engaging in quarrying without approval, should have their fine increased to no less than NT$10,000,000.
+
+### Article 92-3
+
+Any of the following situations is subject to a fine of no less than NT$150,000 and no more than NT$3,000,000:
+
+1.Violating the provisions in subparagraph 4 of Article 78 by building factory or house.
+
+2.Violating the provisions in subparagraph 1 or 2 of Article 78-1, or subparagraph 1 or 2 of second paragraph of Article 78-3 by installing, rebuilding, repairing or demolishing structures, discharging wastewater or drawing water without due permission.
+
+### Article 92-4
+
+Violation of first paragraph of Article 49 by not conducting inspection and safety evaluation is subject to a fine of no less than NT$300,000 and no more than NT$1,500,000.
+
+### Article 92-5
+
+Any of the following situations is subject to a fine of no less than NT$125,000 and no more than NT$2,500,000:
+
+1.Violating the provisions in second paragraph of Article 54-1 by engaging in construction without due approval.
+
+2.Violating the provisions in second paragraph of Article 63-5 by breeding aquatic products, planting vegetation, or constructing, rebuilding, repairing or demolishing structures or other facilities without due approval.
+
+### Article 93
+
+Any person who takes, uses, or discharges waters without due permission, or obstructs the intake, use or discharge of waters in a manner in violation of this Act or any water administration related rules and regulations promulgated by the authority-in-charge according to law shall be fined no less than four thousand yuan but no more than twenty thousand yuan. If such violation results in damages to others’ interests, a sentence of imprisonment of no more than three years, detention, or a fine of four thousand to twenty thousand yuan or a combination thereof shall be imposed.
+
+The authority-in-charge may seize tools and machines used to perpetrate or obstruct the intake, use, discharge of water under the preceding paragraph.
+
+### Article 93-1
+
+Engaging in water well drilling business without applying for establishment permit according to Article 60 herein is subject to a fine of no less than NT$50,000 and no more than NT$250,000.
+
+### Article 93-2
+
+Any of the following situations is subject to a fine of no less than NT$25,000 and no more than NT$500,000:
+
+1.Violating the provisions in subparagraph 4, first paragraph of Article 54-1 by engaging in quarrying.
+
+2.Violating the provisions in subparagraph 6, first paragraph of Article 54-1 by discharging wastewater that does not meet the discharge standards set forth by the authority in charge of water pollution control.
+
+3.Violating the provisions in subparagraph 5, first paragraph of Article 54-1, subparagraph 5, first paragraph of Article 63-5, subparagraph 6 of Article 78-1, or subparagraph 5, first paragraph of Article 78-3 by planting or harvesting vegetation, raising livestock, breeding aquatic products, or building fish pond, growing oyster, or engaging in other breeding activities.
+
+4.Violating the provisions in subparagraph 7 of Article 78 by engaging in activities that impede river protection.
+
+5.Violating the provisions in subparagraph 4 of Article 78-1, or subparagraph 4, second paragraph of Article 78-3 by planting vegetation without due approval.
+
+6.Violating the provisions in subparagraph 5 of Article 78-1 or subparagraph 5, second paragraph of Article 78-3 by engaging in excavation, burying/filling, other activities that alter the existing patterns in the river area or in the range of drainage facilities.
+
+7.Violating the provisions in subparagraph 6, first paragraph of Article 78-3 by engaging in activities that impede drainage.
+
+### Article 93-3
+
+Any of the following situations is subject to a fine of no less than NT$2,500 and no more than NT$50,000:
+
+1.Violating the provisions in subparagraph 7, first paragraph of Article 54-1 by violating the boundaries of play/rest area, activities or conducts permitted and announced by the reservoir authority or management agency.
+
+2.Violating the provisions in subparagraph 6, first paragraph of Article 63-5 by engaging in activities that impede the drainage or safety of embankment.
+
+3.Violating the provisions in subparagraph 6 of Article 78 by driving on roads other than designated ones.
+
+4.Violating the provisions in subparagraph 7 of Article 78-1 by engaging in other river management related activities as announced by the authority-in-charge without approval.
+
+### Article 93-4
+
+The authority-in-charge may order the person violating, the first and second paragraphs of Article 46, Article 47, the first and second paragraphs of Article 54-1, Article 63-5, Article 78, Article 78-1, or Article 78-3 or the second paragraph of Article 65 pertaining to  restriction in land use, to restore the original condition or demolish, clean up, properly dispose the facility or structure concerned within a prescribed period, and impose consecutive fines of no less than NT$10,000 and no more than NT$200,000 for each violation in compliance beyond the prescribed period.
+
+If the offender of the preceding paragraph is unknown or unable to fulfill their obligations, the authority-in-charge should order the owner, manager, or user of the building or land where the preceding violation is located to restore the original condition or demolish, clean up, properly dispose the facility or structure concerned within a prescribed period, and impose consecutive fines of no less than NT$10,000 and no more than NT$200,000 for each violation in compliance beyond the prescribed period.
+
+If the offender or the owner, manager, or user of the building or land where the violation is located of the two preceding paragraphs does not comply with the order of the authority-in-charge by the end of the prescribed period, the authority-in-charge may perform the acts delineated in the order on behalf of the person and order them to pay the fees for the performance.
+
+### Article 93-5
+
+In case of violating the first and second paragraphs of Article 46, Article 47, the first and second paragraphs of Article 54-1, Article 63-5, Article 78, Article 78-1, or Article 78-3, and the second paragraph of Article 65 pertaining to restriction in land use, or the first paragraph of Article 93, the authority-in-charge may confiscate the facilities, machinery, apparatuses or tools used by the offender and put them to public auction.
+
+### Article 93-6
+
+To exercise applicable water rights and manage rivers, drainages, sea embankments, reservoirs, hydraulic structures, groundwater well drilling service operators or water usage plan, the competent authority or water works authority may send a representative to access the business operation site, the building, or land and perform inspections as long as the said businesses are believed to be violating the prohibition and restriction requirements of the Act or evading the water conservation charge and may have related parties to provide necessary explanations, adopt required measures, or provide related materials, which the party being inspected may not circumvent, obstruct, or reject. When there are substantial facts to prove violations during inspections and circumvention, obstruction, or rejection of inspections, the competent authority or water works authority may access such premises by force. When it is considered necessary, local police organizations may also be asked to provide assistance.
+
+A notice or announcement shall be given before the implementation of the inspection, except for those suspected of interfering with the inspection.
+
+Inspectors specified in Paragraph 1 shall spontaneously show their ID or symbols sufficient for identification while carrying out inspection assignments and may not interfere with the normal operations at the said business operation site.
+
+The inspecting authority and inspectors indicated in Paragraph 1 shall keep confidential the personal and business secrets of the party being inspected.
+
+Unjustified circumvention, obstruction, or rejection of the inspections indicated in Paragraph 1 or failure to offer explanations, adopt required measures, or provide related materials shall be punishable by a maximum fine of NT$20,000 to NT$100,000. The punishment and mandatory inspection is applicable per violation.
+
+### Article 93-7
+
+If one of the following occurs, a maximum fine of NT$300,000 to NT$1,500,000 will be imposed and the punishment is applicable per violation:
+
+\1. The developer uses water before the water usage plan or revised water usage plan is approved by the central authority-in-charge in accordance with Paragraph 1 and 3, Article 54-3.
+
+\2. The developer violates the water usage plan approved under Paragraph 2, Article 54-3.
+
+\3. The water supplier supplies water to the developer before the water usage plan or revised water usage plan is approved under Paragraph 5, Article 54-3.
+
+### Article 93-8
+
+If one of the following occurs and the improvement is not made within the deadline ordered by the central authority-in-charge, a maximum fine of NT$50,000 to NT$250,000 will be imposed and the punishment is applicable per violation:
+
+\1. The developer fails to submit the water usage plan or revised water usage plan in accordance with Paragraph 1 or 3, Article 54-3.
+
+\2. The developer fails to report the water usage in accordance with Paragraph 2, Article 54-3.
+
+\3. The developer fails to submit the difference analysis report in accordance with Paragraph 3, Article 54-3.
+
+\4. The developer fails to apply for the extension or cancelation in accordance with Paragraph 4, Article 54-3.
+
+\5. The developer or the user fails to submit the water usage plan in accordance with Paragraph 6, Article 54-3.
+
+### Article 93-9
+
+When a municipal or city (county) authority-in-charge supervises and audits the outflow control facilities in accordance with the regulations prescribed in Paragraph 5 of Article 83-7 and considers them in violation of the approved outflow control plan, the authority-in-charge may send a representative to access the business operation site, the building or land and audit the construction, use, management and maintenance of the outflow control facilities, and may have related parties give necessary explanations, adopt required measures or provide related materials, which the party being audited shall not circumvent, obstruct, or reject. When there are substantial facts to prove the violation of the approved outflow control plan and circumvention, obstruction or rejection of the audit, the municipal or city (county) authority-in-charge may access the business operation site, the building or land compulsorily; however, access to the land reserved for national defense facilities shall be subject to the approval of the authority-in-charge of the land reserved for national defense facilities.
+
+Auditors referred to in the preceding paragraph shall spontaneously show their ID or symbols sufficient for identification while accessing the public or private land or buildings to perform the investigation or survey, and shall inform the obligator 7 days prior to the implementation of the audit.
+
+Circumvention, obstruction or rejection of the audit referred to in Paragraph 1 or Circumvention, obstruction or rejection to give explanations, adopt required measures or provide related materials shall be subject to a fine of NT$10,000 to NT$50,000 imposed by the municipal or city (county) authority-in-charge, and the punishment is applicable per violation along with the compulsory audit.
+
+### Article 93-10
+
+Those developing and using the land before the approval of the outflow control plan in violation of the regulations prescribed in Paragraph 1of Article 83-7 will be fined by the municipal or city (county) authority-in-charge at the amount between NT$300,000 and NT$1,500,000 and ordered to terminate the land development and utilization; those not submitting the outflow control plan shall submit it within the given deadline in accordance with the regulations prescribed in Article 83-7.
+
+Those who are ordered by the municipal or city (county) authority-in-charge to terminate the land development and utilization but fail to do so may be fined at the amount between NT$50,000 and NT$100,000 per violation, and the facilities or machinery used by the obligator may be confiscated.
+
+### Article 93-11
+
+If the obligator fails to construct, use, manage or maintain the outflow control facilities according to the approved outflow control plan prescribed in Paragraph 5 of Article 83-7 and does not improve within the deadline ordered by the municipal or city (county) authority-in-charge, a fine of NT$100,000 to NT$500,000 will be imposed and the punishment is applicable per violation.
+
+### Article 94
+
+Any person who uses violence or assault to force a floodgate administration personnel to close a floodgate or a lock and as a result damages the interests of others shall be punished with a sentence of imprisonment of no more than five years, detention, or a fine of six thousand to thirty thousand yuan or a combination thereof.
+
+Any person commits an offense under the preceding paragraph during a flood control season and as a result causes public hazards shall be punished with a sentence of no more than seven years, or a fine of ten thousand to fifty thousand yuan, or a combination thereof.
+
+If the offenses under the preceding two paragraphs are committed by people acting in concert, the punishment of offenders shall be increased by a half.
+
+Any attempt of the offenses under paragraph 1 or 2 shall be punished.
+
+### Article 94-1
+
+In case an act as specified in Articles 92-2 ~ 92-5, 93-2 or 93-2 leads to public endangerment the offender shall be punished with a sentence of imprisonment of no more than five years, or a fine of no less than NT$500,000 and no more than NT$5,000,000, or a combination thereof.
+
+If the aforesaid act causes the death of others, the offender shall be punished with a life sentence or an imprisonment of no less than seven year; if the act leads to severe injury of others, the offender shall be punished with a sentence of imprisonment of no less than three years and no more than ten years.
+
+### Article 95
+
+Any person who violates this Act or decrees issued by the authority-in-charge according to this Act on the obligation to act or not to act, the authority-in-charge may force the person to perform his obligation or suspend the person’s rights accorded by law in part or in whole and impose a fine of at least six thousand but no more than thirty thousand yuan.
+
+### Article 95-1
+
+Fines for the following violations may be remitted if the violation is a first offense, considered to be petty, and the offender has restored the original condition or demolished, cleaned up, properly disposed of the facility or structure concerned within a prescribed period.
+
+1.Violating the provisions in subparagraph 5, first paragraph of Article 54-1, second paragraph of Article 63-5, subparagraph 4 of Article 78-1, or subparagraph 4, second paragraph of Article 78-3 by planting vegetation on privately-owned land in a reservoir storage area, sea embankment area, river area or drainage facilities area.
+
+2.Violating the provisions in subparagraphs 4 to 6, Article 78 and each subparagraph in Article 78-1 in the range of rivers belonging to embankment constructed for a management plan, existing embankment, or high-water revetment (excluding river flood control structures and flood barrier roads), but does not infringe upon the safety of said embankment or revetment.
+
+3.Violating the provisions in subparagraphs 4 to 5, first paragraph of Article 78-3 and second paragraph of Article 78-3 in range of drainage facility areas belonging to drainage facility constructed for a management plan and existing drainage facility (excluding the drainage facility and flood barrier roads), but does not infringe upon the safety of said drainage facility.
+
+4.Penalty for violations which is punishable by a fine of no more than NT$3,000 and considered appropriate not to punish by the competent authority.
+
+In the circumstance referred to in the preceding paragraph, the competent authority shall rectify the violation and enter it into a record, which shall be signed by the offender.
+
+### Article 95-2
+
+The following violations may be fined no less than NT$2,500 and no more than NT$50,000 if the violation is a first offense, has not caused death, serious injury, or disaster, and the offender has restored the original condition or demolished, cleaned up, properly disposed of the facility or structure concerned within a prescribed period.
+
+1.Violating the provisions in subparagraph 3, first paragraph of Article 54-1, subparagraph 3, first paragraph of Article 63-5, subparagraph 5 of Article 78, or subparagraph 4, first paragraph of Article 78-3 by dumping waste soil or other waste below a certain quantity in a reservoir storage area, sea embankment area, river area or drainage facilities area. The provision in the preceding paragraph is not applicable if the offender is operating in the business of waste storage, clearance, or disposal.
+
+2.Violating the provisions in subparagraph 4, first paragraph of Article 54-1, subparagraph 4, first paragraph of Article 63-5, subparagraph 3 of Article 78-1, or subparagraph 3, second paragraph of Article 78-3 by quarrying or stacking soil and stone below a certain quantity in a reservoir storage area, sea embankment area, river area or drainage facilities area. The provision in the preceding paragraph is not applicable if the offender is operating in the profit-seeking business of mining, earth and stone extracting, construction and engineering, cement or cement product manufacturing, stone product manufacturing, or other profit-seeking businesses.
+
+3.Violating the provisions in subparagraph 5, first paragraph of Article 54-1, second paragraph of Article 63-5, subparagraph 4 of Article 78-1, or subparagraph 4, second paragraph of Article 78-3 by planting vegetation in a reservoir storage area, sea embankment area, river area or drainage facilities area, but whose violation is below a certain area in size.
+
+4.Violating the provisions in subparagraph 4 of Article 78-4 by building, factory or house in the river area, of which the violating structure is below a certain area in size, the land registration transcript is not labeled as river area in usage zoning, and has been approved under the jurisdiction of other government agencies.
+
+5.Violating the provisions in subparagraph 5 of Article 78-1, or subparagraph 5, second paragraph of Article 78-3 by engaging in excavation, burying/filling or other activities that alter the existing patterns in the river area or in the range of drainage facilities without due permission, but whose violation is below a certain area in size and does not affect the safety of embankment facilities, revetment, and drainage facilities or does not block the flow of water.
+
+6.Other petty violations as announced by the competent authority.
+
+The definition of a certain quantity or a certain area in size indicated in the preceding paragraph will be announced by the competent authority.
+
+### Article 96
+
+(deleted)
+
+## Chapter 10 Supplementary Provisions
+
+### Article 97
+
+For any disputes between interested parties arising from or in connection with compensation or water right provided under this Act, the authority-in-charge may invite reviews of related agencies and entities.
+
+### Article 97-1
+
+Private land in reservoir storage area, sea embankment area, river area or range of drainage facilities whose use has been restricted is not subject to gift tax or inheritance tax when the land is gifted to a lineal relative by blood or inherited, provided the current status of land use does not violate this Act. Notwithstanding the foregoing, where the use of land by the recipient or heir violates this Act within five (5) years from the date of receiving or inheriting the land, the authority-in-charge will notify the tax authority in charge to demand tax payment due.
+
+The act of gifting in the preceding paragraph may apply for exemption of land value increment tax, provided the current status of land use does not violate this Act. However if the land is subsequently transferred to a third party, land value increment tax shall be levied by calculating the total increment value based on the originally assessed land value before the land was first gifted or the present value of the land in the previous transfer.
+
+In the application for exemption of inheritance tax, gift tax or land value increment tax according to the provisions of the preceding two paragraphs, the heir, donor or recipient shall submit to the tax authority in charge a supporting document issued by the authority-in-charge evidencing that the current status of land use does not violate this Act. No charge will be imposed on the issuance of certificates.
+
+The central authority-in-charge may designate a subordinate agency or reservoir authority management authority to issue the certificates stipulated in the preceding paragraph.
+
+### Article 98
+
+The enforcement rules of this Act shall be promulgated by the central authority-in-charge.
+
+### Article 99
+
+This Act shall become effective as of the date of its public announcement.
+
+Amendments to this Act made on June 20, 2018 and May 7, 2021 shall become effective on the date stipulated by the Executive Yuan.
+
+## History
+
+1.Full text (71 articles) promulgated on July 7, 1943 and implemented on April 1, 1943.
+
+2.Amendment to Articles 3 and 38 promulgated on January 19, 1955 by Presidential Decree.
+
+3.Full text (99 articles) promulgated on December 10, 1963 by Presidential Decree.
+
+4.Amendment to Articles 5, 10, 11, 18, 19, 20, 26, 34, 36, 37, 39 ~ 41, 46, 52, 60, 63, 65, 71, 73, 79, 81 ~ 83, 85, 87, 89 ~ 95, and addition of Articles 8-1, 19-1, 47-1, 60-1, 60-2, 60-3, 65-1, and 69-1 promulgated on February 2 by Presidential Decree.
+
+5.Amendment to Articles 19, 78, 79, 92, and 95, and addition of 18-1, 20-1, 54-1, 69-2, 72-1, and 92-1 promulgated on December 28, 1983 by Presidential Decree.
+
+6.Amendment to Articles 82 and 83, and addition of Article 83-1 promulgated on July 15, 1999 by Presidential Decree.
+
+7.Amendment to Articles 4, 7, 8, 10, 18, 20, 28, 37, 47-1, 85, 87, and 90 promulgated on November 15, 2000 by Presidential Decree.
+
+8.Addition of Articles 54-2, 60-4 ~ 60-6, 63-1 ~ 63-6, 78-1 ~ 78-4, 91-2, 92-2 ~ 92-5, 93-1 ~ 93-5, and 94-1, deletion of Articles 10, 69-2, and 92-1, and amendment to Articles 49, 53, 54-1, 60, and 78 promulgated on February 6, 2003 by Presidential Decree.
+
+9.Amendment to Articles 34 and 89 and addition of Article 89-1 on July 11, 2007 by Presidential Decree.
+
+10.Aaddition of Article 97-1 on May 7, 2008 by Presidential Decree.
+
+11.Amendment to Article 91 on June 1, 2011 by Presidential Decree No. Hua-Zhong-Yi-Yi-Zi-10000111011.
+
+12.Addition to Articles 93-6 on June 11, 2013 by Presidential Decree
+
+13.Amendment to Articles 78-2、82、83、91-2 on January 29, 2014 by Presidential Decree
+
+14.Amendment to Articles 42,47-1,93-6,97-1,98,and Addition of Articles 54-3,84-1,93-7,93-8 promulgated on May 25, 2016 by Presidential Decree
+
+15.Addition of Chapter 7-1 and Articles 83-2 through 83-13 and 93-9 through 93-11,and Amendment to Articles 99 promulgated on June 20, 2018 by Presidential Decree
+
+16.Amendment to Articles 92-2,92-3,92-5,93-2~93-4,99 and Addition of Articles 95-1,95-2 promulgated on May 26, 2021 by Presidential Decree
+
+17.Amendment to Article 91 and Addition to Article 91-3 and 91-4promulgated on June 28, 2023 by Presidential Decree No. 11200054061
+
+18.Amendment to Articles 91-2, 92-3, 92-5 and 93-2 to 93-5, and deletion of Articles 12, 63-1 - 63-4 and 96 promulgated on November 29, 2023 by Presidential Decree No. 11200103471.

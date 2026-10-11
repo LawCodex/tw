@@ -1,0 +1,395 @@
+---
+title: "Agricultural Production and Certification Act"
+title_zh: "農產品生產及驗證管理法"
+identifier: "M0060072"
+type: act
+law_level: "法律"
+category: "行政＞農業部＞農業科技目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2007-01-29
+last_amended: 2019-12-25
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0060072"
+retrieved: 2026-10-12
+---
+
+# Agricultural Production and Certification Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-agriculture/M0060072-agricultural-production-and-certification-act.md](../../../zh/laws/ministry-of-agriculture/M0060072-agricultural-production-and-certification-act.md)) is authoritative.
+
+## Chapter 1 General Principles
+
+### Article 1
+
+The purpose of this Act is to improve the quality and safety of agricultural products and protect the health of citizens and the rights of consumers.
+
+### Article 2
+
+The term “competent authority” used in this Act is the Council of Agriculture of the Executive Yuan at the central level; and the municipal/county/city governments at the local level.
+
+### Article 3
+
+The terms used in this Act is defined as follows:
+
+\1. Agricultural products: Any product which is produced or processed as food by utilizing natural resources, agricultural materials and technology, including cultivation, forestry, aquaculture, and animal husbandry or any product promulgated by the central competent authority.
+
+\2. Operator: Any individual or entity who engages in the production, processing, packaging, distribution or sale of agricultural products.
+
+\3. Certified agricultural products: Agricultural products certified in accordance with this Act.
+
+\4. Agricultural product certification mark: The mark used to indicate the agricultural product is certified in accordance with this Act.
+
+\5. Labeling: Words, graphics, symbols or additional instruction affixed to agricultural products, the containers or packaging thereof.
+
+\6. Accreditation body: An institution or legal entity which is reviewed and approved by the central competent authority to be qualified for conducting accreditation activities established by this Act.
+
+\7. Accreditation: The process which the accreditation body undertakes to evaluate the competence of an institution, school or legal entity to provide certification services established by this Act under a contract in private law.
+
+\8. Certification body: An institution, school or legal entity which is accredited by the accreditation body to provide certification services.
+
+\9. Certification: The process which the certification body undertakes to assure that the production, processing, packaging or distribution of a specific agricultural product complies with the requirements specified in this Act under a contract in private law with the respective operator.
+
+\10. QR code of agricultural products: Any agricultural product produced by using domestic materials, processed and packaged domestically, and its traceability information is recorded in the database or system owned by the central competent authority.
+
+\11. Advertisement: Words, symbols, sounds, graphics, images or other methods used to promote, propagandize or sell agricultural products.
+
+## Chapter 2 Management of Accreditation and Certification bodies
+
+### Article 4
+
+The central competent authority may promulgate and implement the certification system and related certification criteria for the item or category of certain domestic agricultural product for its production, processing, packaging and distribution and other related processes of production and marketing thereof.
+
+### Article 5
+
+Any institution or legal entity which intends to provide accreditation services shall apply to the central competent authority by submitting the required documents. It may carry out accreditation activities after an approval is granted by the central competent authority. The same requirements also apply when changes are to be made to the approved scope. The central competent authority may promulgate any of its affiliated agencies to be an accreditation body if necessary.
+
+The validity of the certificate of the aforementioned approval shall not exceed 5 years and the certificate holder may apply to the central competent authority for extending the validity period one year prior to the expiry date. The validity of renewed certificate shall not exceed 5 years.
+
+The accreditation activities conducted by accreditation bodies are the following:
+
+\1. Accepting and reviewing accreditation applications.
+
+\2. Signing accreditation contracts with accredited certification bodies.
+
+\3. Issuing accreditation certificates to accredited certification bodies for the accredited scope.
+
+\4. Assessing the accredited certification bodies by auditing their certification activities.
+
+\5. Other accreditation related activities promulgated by the central competent authority.
+
+The central competent authority shall establish regulations to stipulate the eligibility, criteria, procedures, and required documents for the application and changes to the approved scope as well as rescission of approval specified in paragraph 1; the required documents for renewal application specified in paragraph 2; the information that shall be stated in the certificates specified in subparagraph 3 of the preceding paragraph; and other relevant requirements.
+
+### Article 6
+
+Accreditation bodies shall be subject to regular supervision by the central competent authority and shall not evade from, impede, or refuse such supervision or provide false data. The accreditation bodies shall comply with the followings:
+
+\1. Adopting and submitting accreditation standards to the central competent authority for approval; and so do their revision or rescission.
+
+\2. Reviewing accreditation applications and assessing the certification bodies in accordance with the accreditation standards approved by the central competent authority.
+
+\3. Maintaining records of accreditation activities for at least 5 years, and submitting them to the central competent authority for records every year.
+
+\4. Assisting and cooperating with the central competent authority on auditing accredited certification bodies.
+
+\5. Coordinating with other accredited certification bodies to take over the certification services of an accredited certification body which is unable to provide certification.
+
+The central competent authority shall establish regulations on the procedures and methods for auditing the accreditation bodies, the elements of accreditation standards, the items related to the accreditation activities to be recorded, and submission of documents specified in the preceding paragraph, and other relevant requirements.
+
+### Article 7
+
+Any institution, school, or legal entity shall not engage in the certification activities until being accredited by an accreditation body and receiving the accreditation certificate in the accredited scope; and the same shall apply when changes are made to the certification scope.
+
+The certification activities of certification bodies mentioned in the preceding paragraph are the followings:
+
+\1. Signing contracts with operators to certify their agricultural products in accordance with the certification standards promulgated according to Article 4 of this Act.
+
+\2. Issuing certificates for certified agricultural products, and monitoring the use of the agricultural product certification mark by operators.
+
+\3. Inspecting certified agricultural products based on the contract and the production periods.
+
+\4. Other certification related activities promulgated by the central competent authority.
+
+The certification body may charge fees for its certification services under the contract. The central competent authority shall promulgate the maximum amount to be collected for certification fees.
+
+The certification body engaged in the certification activities mentioned in paragraph 2 shall retain the data and records according to the items, methods and periods promulgated by the central competent authority. The central competent authority may carry out random checks and the certification bodies shall not evade, impede or refuse such checks or provide false documents.
+
+### Article 8
+
+An operator may voluntarily sign a contract with a certification body for certifying agricultural products in accordance with the categories and items specified in Article 4 of this Act. The central competent authority may subsidize the certification fee if necessary. Rules on subsidization shall be promulgated by the central competent authority.
+
+When a certification body cannot continue providing certification services due to withdrawal of accreditation, termination of accreditation contract, dissolution, or any other causes, the contracted operator may sign a new contract with another certification body within the period specified by the central competent authority. The agricultural products provided by this operator remains certified during the above specified period under the condition that the certification does not expire.
+
+### Article 9
+
+The central competent authority may promulgate mandatory or prohibited items in the contracts between the accreditation bodies and certification bodies as well as those between the certification bodies and operators.
+
+Contracts violating the preceding paragraph shall be considered null and invalid. If the contract could exist excluding the void part, the other part remains valid. Nevertheless, the contract shall be considered null and invalid in whole if it is obviously unfair to one party to the contract.
+
+Provisions promulgated by the central competent authority but not specified in contracts shall still constitute a part of the contract.
+
+## Chapter 3 Management of Agricultural products
+
+### Article 10
+
+Any agricultural product shall not be labeled the agricultural product certification mark and cannot be sold, labelled, displayed or advertised as certified agricultural product unless it has been certified to be in compliance with this Act.
+
+The central competent authority, in consultation with relevant agencies, shall establish regulations on the specifications, diagram, drawing and use of the agricultural product certification mark and other related requirements mentioned in the preceding paragraph.
+
+### Article 11
+
+Agricultural products that have been certified under this Act and sold as certified agricultural products shall be notably labelled with the following items in Chinese and common symbols:
+
+\1. Product name.
+
+\2. Ingredients. Each ingredient shall be indicated in a descending order of proportion if there are more than one ingredients; in the case of a product containing single ingredient represented by the same product name, the product is exempted from ingredient indication.
+
+\3. Net weight, volume, quantity or measurement.
+
+\4. Name, telephone number and address of the operator; and in the case of products that are produced under a contract, the name, telephone number and address of the contractor are also required.
+
+\5. Country of origin. Those with the address of the production premise or certification site that can identify the country of origin are exempted.
+
+\6. Agricultural product certification mark, certified product number, certification number or traceability code, and name of the certification body.
+
+\7. Methods to access the certification information.
+
+\8. Other matters promulgated by the central competent authority.
+
+The methods to access certification information stated in subparagraph 7 of the preceding paragraph and the method of labeling shall be promulgated by the central competent authority.
+
+In case of apparently difficulties to label the items mentioned in paragraph 1 due to the product itself, surface area or material of its container or package, or other special reasons, the central competent authority may promulgate conditions for exemption from labeling certain items or alternative labeling methods.
+
+For any changes to the subject matters mentioned in paragraph 1, the label shall be updated within 3 months of the occurrence of the changes. Failure to do so within the specified period shall be deemed as false labeling.
+
+### Article 12
+
+The operator shall retain the data related to production, processing, packaging, distribution, storage and marketing of certified agricultural products according to the certification standards promulgated by the central competent authority in accordance with Article 4 of this Act.
+
+The competent authority may assign personnel to enter the premise of production, processing, packaging, storage, marketing and other business places operated by an operator, to conduct inspection, perform testing or request data related to matters mentioned in the preceding paragraph. Any subject shall not evade, impede or refuse such requests, or provide false data or records.
+
+When agricultural products inspected or tested are not in compliance with the Act, the competent authority may impose fines on operators in accordance with this Act, and may also prohibit them from transporting such products and order them to take corrective action, withdraw or recall such products from the market, destroy such products, or take other appropriate measures.
+
+### Article 13
+
+The officers who conduct inspection or perform testing in accordance with the preceding Article shall present their official identification documents or badges for performing the duty, and shall pay fees for products sampled form the market. The central competent authority shall establish regulations on the inspection, testing and other requirements.
+
+The competent authority may appoint its affiliated agencies (institutions), or entrust other agencies (institutions), schools, legal entities, groups or individuals to conduct inspection or perform testing mentioned in the preceding paragraph.
+
+### Article 14
+
+Testing methods of agricultural products shall be promulgated by the central competent authority in consultation with related regulatory authorities. In the absence of any promulgated methods, the following testing methods shall be adopted in order.
+
+\1. Testing methods established by the Act Governing Food Safety and Sanitation.
+
+\2. National standards.
+
+\3. Internationally recognized methods.
+
+### Article 15
+
+Where the operators disagree to the test results, they may apply for a retest to the original sampling authority and pay the retest fees within 15 days upon receiving the notice. The application for retest is limited to one time only.
+
+Upon accepting the retest application, the sampling authority shall notify the original testing body to conduct a retest of the original specimen within 7 days. The retest application shall be refused if the specimen has deteriorated or could not be preserved properly.
+
+### Article 16
+
+The operator may register the traceability information of agricultural products in the database or systems owned by the central competent authority before the distribution and marketing of such products, and label such information on the products itself or the packages or containers thereof.
+
+The central competent authority shall promulgate the items of traceability information and its labeling methods.
+
+The central competent authority may specify and promulgate, if necessary, that operators of certain category of agricultural products or of a certain scale shall register traceability information in accordance with paragraph 1 and label the products by the promulgated methods mentioned in the preceding paragraph.
+
+### Article 17
+
+The central competent authority may promulgate categories of agricultural products or the business scale of operators to implement self-management programs, which require the operators to set up monitoring plans on the safety of agricultural products, to ensure their safety and sanitation.
+
+The elements of the monitoring plan mentioned in the preceding paragraph shall be promulgated by the central competent authority.
+
+### Article 18
+
+Any farmer or any farmers’ organization under a certain business scale may register with municipal/county/city governments as primary agricultural products processing premises for agricultural products if domestic QR code of agricultural products, certified agricultural products, organic agricultural products, in-conversion agricultural products or other agricultural products promulgated by the central competent authority are used as raw materials for processing certain categories of products with legal agricultural product processing facilities.
+
+The central competent authority shall establish regulations on the promulgation of agricultural products, the scale of business, legal agricultural product processing facilities mentioned in the preceding paragraph, as well as the conditions, procedures and documents concerning the application, terms of validity, amendments and rescission of registration and other requirements.
+
+The categories of products specified in paragraph 1 and their processing methods shall be promulgated by the central competent authority.
+
+### Article 19
+
+To stabilize production, distribution and trading of agricultural products, and to increase categories and items of primary processed agricultural products, the competent authority may provide the following assistance.
+
+\1. Consultation for the development of primary processed agricultural products, including relevant procedures such as processing, packaging, distribution, and marketing.
+
+\2. Consultation on regulations related to primary processing of agricultural products.
+
+\3. Provision of knowledge and technical advices for primary processing of agricultural products.
+
+\4. Sample making and testing of agricultural product.
+
+\5. Other matters relevant to primary processing of agricultural products.
+
+The competent authority may entrust relevant agencies, legal entities or groups to provide the assistance mentioned in the preceding paragraph.
+
+### Article 20
+
+Agricultural products shall not be labeled or advertised in the name of or in connection with the central competent authority or any of its affiliated agencies (institutions) without authorization.
+
+Those who operate platforms or are entrusted to publish advertisements about certified agricultural products or QR code of agricultural products, or in the name of or in connection with the central competent authority or any of its affiliated agencies (institutions), shall retain information about the advertisers for 6 months from the date when the advertisements are published and shall not evade, impede or refuse to provide such information upon request by the competent authority or provide false information.
+
+The central competent authority shall establish regulations governing elements of the information mentioned in the preceding paragraph, its retention methods and other requirements.
+
+### Article 21
+
+The competent authority shall keep the identity of those who report violations against the provisions of this Act confidential and provide rewards for reporting such violations after they have been confirmed.
+
+The central competent authority shall establish regulations governing reporting violations and rewarding mentioned in the preceding paragraph.
+
+## Chapter 4 Penal Provisions
+
+### Article 22
+
+Under any of the following circumstances, a subject will be fined in an amount of not less than NTD600,000 and not more than NTD60,000,000:
+
+\1. Having violated paragraph 1 of Article 5 by engaging in the accreditation activities mentioned in paragraph 3 of Article 5 without approval from the central competent authority or by continuously engaging in accreditation activities without the renewal approval from the central competent authority in accordance with paragraph 2 of Article 5.
+
+\2. Having violated the penalty imposed by the central competent authority in accordance with paragraph 1 of Article 30 on an accreditation body, which accepts accreditation applications during the period when such right is suspended.
+
+### Article 23
+
+A subject who violates paragraph 1 of Article 7 by engaging in certification activities without being accredited by an accreditation body shall be fined in an amount not less than NTD300,000 and not more than NTD30,000,000.
+
+### Article 24
+
+Under any of the following circumstances, a fine in an amount of not less than NTD200,000 and not more than NTD2,000,000 shall be imposed for each individual violation:
+
+\1. Having violated paragraph 1 of Article 10 by affixing the agricultural product certification mark to uncertified products.
+
+\2. Having violated the penalty imposed by the central competent authority in accordance with paragraph 2 of Article 25 or paragraph 2 of Article 29 by using the agricultural product certification mark when the right to use the mark is suspended.
+
+If an actor mentioned in the preceding paragraph is determined by the court to be fined less than the minimum fine established in the preceding paragraph, the amount of the difference between the fine imposed by the court and that of the minimum fine established in the preceding paragraph may be imposed by the competent authority.
+
+### Article 25
+
+Under any of the following circumstances, a fine in an amount of not less than NTD100,000 and not more than NTD1,000,000 shall be imposed for each individual violation.
+
+\1. Having violated paragraph 4 of Article 7 by failing to retain relevant data and records in accordance with the items, methods, and time periods promulgated by the central competent authority, or by evading, impeding, or refusing checks by the central competent authority, or providing false data and records.
+
+\2. Having violated paragraph 2 of Article 12 by evading, impeding, or refusing inspection or testing by the competent authorities, or providing false data and records.
+
+\3. Having violated paragraph 3 of Article 12 by failing to comply with the orders made by the competent authorities regarding prohibition from transporting products, taking corrective action, withdrawing or recalling products from the market, destroying products, or take other appropriate measures.
+
+\4. Having violated paragraph 2 of Article 20 by evading, impeding or refusing the request for information or providing false information.
+
+\5. Having violated paragraph 3 of Article 20 by failing to retain relevant data and records in accordance with the items or methods established in the regulations.
+
+\6. Having violated Article 32 by failing to comply with the dispositions imposed by the competent authority.
+
+For violations mentioned in subparagraphs 2 and 3 of the preceding paragraph, the competent authority may suspend the right to use agricultural product certification mark for a period of 3 months or up to 1 year.
+
+### Article 26
+
+Under any of the following circumstances, a fine in an amount of not less than NTD60,000 and not more than NTD600,000 shall be imposed for each individual violation:
+
+\1. Having violated paragraph 3 of Article 7 by a certification body, which collects a fee more than the maximum amount promulgated by the central competent authority.
+
+\2. Having violated paragraph 1 of Article 10 by using words such as certified agricultural products or any other misleading presentation for marketing, labeling, displaying or advertising uncertified agricultural products.
+
+### Article 27
+
+Those who intend to disseminate rumors or false information concerning agricultural products, resulting in damages to the public or others, shall be subject to a fine in an amount of not less than NTD60,000 and not more than NTD300,000, and may be ordered to take corrective actions within a specified period of time. If correction is not made within the specified time limit, fines may be imposed for each time of violation.
+
+### Article 28
+
+Those who violate paragraph 1 of Article 9 regarding mandatory and prohibitory items to be included in the contracts as promulgated by the central competent authority and fail to take corrective actions within the specified time limit ordered by the competent authorities shall be subject to a fine in an amount of not less than NTD30,000 and not more than NTD300,000. Failing to take corrective actions within the specified time limit as ordered by the competent authorities for the second time or more times shall be subject to a fine in an amount of not less than NTD50,000 and not more than NTD500,000 for each time.
+
+### Article 29
+
+An operator shall be ordered to take corrective actions within a specified period of time under any of the following circumstances. If the operator fails to take corrective actions within the specified time limit, a fine in an amount of not less than NTD30,000 and not more than NTD300,000 may be imposed for each individual violation.
+
+\1. Violating paragraph 2 of Article 10 regarding the specifications, diagram, drawing or use of the mark.
+
+\2. Violating paragraph 1 of Article 11 by failing to label or label incompletely or falsely.
+
+\3. Violating paragraph 1 of Article 12 by failing to retain data related to production, processing, packaging, distribution, storage and marketing of certified agricultural products according to the certification criteria.
+
+\4. Violating paragraph 1 of Article 20 by labeling or advertising agricultural products in the name of or in connection with the central competent authority or any of its affiliated agencies (institutions) without authorization.
+
+Under any of the circumstances mentioned in the preceding paragraph, the competent authority may suspend the right of the operator to use agricultural product certification mark for a period from 3 months up to 1 year.
+
+### Article 30
+
+Under any of the following circumstances, the central competent authority may issue a warning to the accreditation bodies depending on the severity of the violation, or impose a fine in an amount of not less than NTD20,000 and not more than NTD100,000 for each individual violation, or suspend the accreditation bodies from accepting new accreditation applications for a period time from 2 months up to 2 years.
+
+\1. Violating paragraph 1 of Article 6 by evading, impeding, or refusing the supervision by the central competent authority, or providing false data and records.
+
+\2. Violating subparagraph 1 of paragraph 1 of Article 6 by failing to submit the adopted, revised or rescinded accreditation standards to the central competent authority for approval.
+
+\3. Violating subparagraph 2 of paragraph 1 of Article 6, by failing to review accreditation applications and assess the certification bodies based on the accreditation standards approved by the central competent authority.
+
+\4. Violating subparagraph 3 of paragraph 1 of Article 6 by failing to retain records of accreditation activities for at least five years, making false records, or failing to submit records to the central competent authority every year.
+
+\5. Violating subparagraph 4 of paragraph 1 of Article 6 by failing to assist or cooperate with the central competent authority on auditing the accredited certification bodies.
+
+\6. Violating subparagraph 5 of paragraph 1 of Article 6 by failing to coordinate with other certification bodies to take over the certification services of an accredited certification body which is unable to provide certification.
+
+\7. Violating paragraph 2 of Article 6 regarding the elements of accreditation standards, the items related to the accreditation activities to be recorded, and submission of documents established in the relevant regulations.
+
+If an accreditation body has been suspended from accepting new applications by the central competent authority in accordance with the preceding paragraph twice within 3 years, the central competent authority shall rescind its approval upon another violation of the preceding paragraph by the accreditation body. The central competent authority may also prohibit it from applying for approval in accordance with paragraph 1 of Article 5 for a period from 2 years up to 5 years.
+
+For the accreditation body of which the approval is rescinded in accordance with the preceding paragraph, the central competent authority shall assume the contracts signed by the accreditation body with certification bodies; those certification bodies shall enter into accreditation contracts with other accreditation bodies within the period promulgated by the central competent authority, and the accreditation contracts with the central competent authority shall thereby be terminated at the same time.
+
+### Article 31
+
+An operator shall be ordered to take corrective actions in a specific period of time if this operator does not register or label traceability information in a way established by the central competent authority, or does not register such information correctly or completely in accordance with Article 16； if such operator fails to take corrective actions within the specified time limit, a fine in an amount of not less than NTD6,000 and not more than NTD30,000 shall be imposed for each individual violation.
+
+### Article 32
+
+In the case of advertisements or labeling of agricultural products mentioned in paragraph 1 of Article 24, subparagraph 2 of Article 26, subparagraphs 1, 2 or 4 of paragraph 1of Article 29 or under any of the circumstances stated in the preceding Article, the competent authorities may adopt the following measures in addition to penalties imposed in accordance with the provisions of this Act:
+
+\1. Ordering the person that makes the labeling or published the advertisements to correct, withdraw labels or advertisements within a specified period of time.
+
+\2. Ordering the contractor of the advertisements to publish or broadcast corrective advertisements of the same length or timeslots in the media where the original advertisements were published or broadcasted within a specified period of time. The content of the corrective advertisements shall communicate the message of an apology and correction of false information.
+
+\3. Ordering those who operate platforms or disseminate advertisements under contracts to stop broadcasting or withdraw materials of the original advertisements.
+
+### Article 33
+
+For anyone that falls under any of the circumstances stated in Article 22 to Article 31, the competent authority may publish the name and address, names of the certificated agricultural products and information about violation of the person. In the case of a legal entity or any group with a manager or representative, the competent authority may publish the name of such entity or group, office or place of business, and the name of the manager or representative thereof.
+
+### Article 34
+
+The penalties established in this Act shall be imposed by the municipal/county/city governments. However, the penalties imposed on an accreditation body and a certification body shall be imposed by the central competent authority.
+
+When an operator violates this Act in producing, processing, packaging or distributing agricultural products based on the instructions of a client, the client shall be the subject of penalties.
+
+## Chapter 5 Supplementary Provisions
+
+### Article 35
+
+Certification bodies that had been accredited for the scope of Certified Agricultural Standards and Traceable Agricultural Products prior to December 3, 2019, the implementation date of the amendment to this Act, may engage in certification activities for Certified Agricultural Standards and Traceable Agricultural Products within 18 months from the date of implementation of the amendment. The validity period of the issued certificates shall not exceed the aforementioned deadline.
+
+Operators that had been certified for Certified Agricultural Standards and Traceable Agricultural Products prior to December 3, 2019, the implementation date of the amendment to this Act, may use the agricultural product certification mark after December 3, 2019 in accordance with requirements before the amendment until the expiry date of their certificates, under the condition that the expiry date is within 18 months from the date of implementation of the amendment.
+
+### Article 36
+
+In the absence of domestic (institutions) or legal entities serving as accreditation bodies, the central competent authority may promulgate itself or promulgate agencies (institutions) or legal entities as accreditation bodies for a specific period of time.
+
+In the absence of domestic institutions, schools or legal entities serving as certification bodies, the central competent authority may promulgate institutions, schools, or legal entities as certification bodies for a specific period of time.
+
+### Article 37
+
+Enforcement rules for this Act shall be established by the central competent authority.
+
+### Article 38
+
+This Act shall enter into force one year after its promulgation, except that Article 18 shall enter into force one year after “the date of” promulgation.
+
+## History
+
+1.Promulgated on January 29, 2007 per Presidential Order
+
+2.Full text including 38 articles amended and promulgated on December 25, 2019.
+
+The announcement was made on July 27, 2023 by the Executive Yuan Order tai-gui- zi No. 1125014346. The relevant matters set out in Article 2, Subparagraph 1, 6, 10 of Article 3, Article 4, Paragraph 1, 2, Subparagraph 5 of Paragraph 3, Paragraph 4 of Article 5, Preface of Paragraph 1, Subparagraph 1, 2, 3, 4 of Paragraph 1, Paragraph 2 of Article 6, Subparagraph 4 of Paragraph 2, Paragraph 3, 4 of Article 7, Article 8, Paragraph 1, 3 of Article 9, Paragraph 2 of Article 10, Subparagraph 8 of Paragraph 1, Paragraph 2, 3 of Article 11, Article 12, Article 13, Article 14, Article 15, Article 16, Article 17, Article 18, Article 19, Article 20, Article 21, Article 22, Sub-paragraph 2 of Paragraph 1 of Article 24, Subparagraph 1, 2, 3, 6 of Paragraph 1, Paragraph 2 of Article 25, Paragraph 1 of Article 26, Article 28, Subparagraph 4 of Paragraph 1, Paragraph 2 of Article 29, Subparagraph 1, 2, 3, 4, 5 of Paragraph 1, Paragraph 2, 3 of Article 30, Article 31, Ar-ticle 32, Article 33, Paragraph 1 of Article 34, Article 36, Article 37 pertaining to “ the Council of Agriculture of the Executive Yuan” shall be handled by “Ministry of Agriculture” as governing body, effective August 1, 2023.

@@ -1,0 +1,493 @@
+---
+title: "Foreign Trade Act"
+title_zh: "貿易法"
+identifier: "J0090004"
+type: act
+law_level: "法律"
+category: "行政＞經濟部＞國際貿易目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1993-02-05
+last_amended: 2019-12-25
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0090004"
+retrieved: 2026-10-12
+---
+
+# Foreign Trade Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-economic-affairs/J0090004-foreign-trade-act.md](../../../zh/laws/ministry-of-economic-affairs/J0090004-foreign-trade-act.md)) is authoritative.
+
+## Chapter 1 General Principles
+
+### Article 1
+
+This Act is enacted in the spirit of liberalization and internationalization, based on the principles of fairness and reciprocity, to facilitate the development of foreign trade and maintain a sound trade order to enhance the economic benefits of this country. For matters not herein included, other applicable laws shall govern.
+
+### Article 2
+
+The term “foreign trade” refers to the exporting and importing of goods, or both, as well as other activities related to them.
+
+The term “goods” in the preceding paragraph includes trademarks, patents, copyrights, and any other intellectual property rights that are attached thereto and protected by law.
+
+### Article 3
+
+The term “exporter/importer” refers to any firm registered under this Act that engages in the business of exporting, importing or both, or anyone that trades specific items for the purpose other than exporting or importing.
+
+### Article 4
+
+The Ministry of Economic Affairs (MOEA) is the competent authority referred to in this Act.
+
+Any matter provided herein involving the competence of other ministries, commissions or government authorities shall be handled by the competent authority in consultation with those authorities.
+
+### Article 5
+
+For the purpose of safeguarding national security, the competent authority may, in conjunction with the appropriate government authority or authorities, propose to the Executive Yuan, for an approval to the prohibition or control of trading activities with specific countries or territories. Such prohibition or control shall be submitted to the Legislative Yuan for ratification within one (1) month from the date of its publication.
+
+### Article 6
+
+The competent authority may suspend the export of goods to or import of goods from specific countries or territories or take other necessary measures in the following circumstances:
+
+\1. In the event of a natural disaster, incident, or war;
+
+\2. In the event that national security is endangered or public safety is hindered; or
+
+\3. In the event of a serious shortage of a specific material or a drastic fluctuation in the price thereof on the domestic or international market;
+
+\4. A serious imbalance in international payments or a threat thereof;
+
+\5. As required by international treaties, agreements, United Nations resolutions, or international cooperation; or
+
+\6. In the event that a foreign country uses measures violating international agreements or the principle of fairness and reciprocity to impede exports and imports to this country.
+
+Subparagraphs 1 to 4 or subparagraph 6 of the preceding paragraph shall only be applicable when there is an adverse impact or threat to such on the normal development of economy and trade of this country.
+
+Consultations or negotiations are required before the competent authority suspends exports or imports or takes other necessary measures pursuant to subparagraph 4 or subparagraph 6 of paragraph 1.
+
+The suspension of export/import or other necessary measures taken by the competent authority shall be lifted when causes of the suspension cease to exist.
+
+The ratification procedure specified in the preceding article shall apply to any suspension of export/import, or to any other measures as indicated in this article.
+
+### Article 7
+
+The competent authority or government agency designated by the Executive Yuan may negotiate and enter into agreements and/or protocols with foreign countries regarding external trade affairs. A matter involving the competence of another government agency shall be consulted and coordinated with those agencies before a negotiation can take place.
+
+A private institution or organization authorized by the competent authority may negotiate and enter into agreements with foreign countries on behalf of the government in respect of external trade affairs and shall report the matters contemplated in the agreements to the competent authority for approval.
+
+Agreements and protocols concluded as a result of foreign trade negotiations, unless within the scope of the administrative discretion power of the signing authority or organization, shall be submitted to the Executive Yuan for forwarding to the Legislative Yuan for discussion and decision.
+
+Agreements or protocols with contents involving amendment of any existing law or enactment of a new law shall become effective only after completion of legislative procedures.
+
+### Article 8
+
+Before negotiating and signing agreements or protocols with foreign countries on economic and trade matters, the competent authority or the agency designated by the Executive Yuan may, if necessary, and in conjunction with the Legislative Yuan and relevant ministries, commissions or agencies, hold public hearings or solicit opinions from scholars, experts and relevant enterprises.
+
+## Chapter 2 Regulation of Trade and Import Relief
+
+### Article 9
+
+A company or business registered with the Bureau of Foreign Trade (BOFT) as an exporter/importer may engage in export/import business.
+
+A company or business must submit a preliminary review of its English name to the BOFT before applying to register as an exporter/importer. During the period of six (6) months following approval, the English name will be retained.
+
+An exporter/importer, whose registration has been revoked or nullified by the BOFT, shall not reregister within two (2) years starting from the date of revocation or nullification.
+
+The BOFT, may cancel an exporter’s or importer’s registration if the exporter or importer ceases business, dissolves, or if the relevant competent authority revokes or nullifies the registration in according with relevant laws.
+
+Regulations shall be set forth by the competent authority regarding conditions, procedures, changes, revocations, nullifications, use of English names, and any other matters related to the registration application of exporters and importers.
+
+### Article 9-1
+
+An exporter/importer whose performance in the previous year reaches certain standards may receive commendation. Regulations of the commendation shall be prescribed by the competent authority.
+
+### Article 10
+
+Legal persons, organizations, or individuals not operating a regular export/import business, may export/import specific goods in accordance with the regulations stipulated by the BOFT.
+
+The legal person or organization referred to in the preceding paragraph, which needs to conduct exports and imports of goods to fulfill the purposes of its establishment, may apply for registration in accordance with Article 9 mutatis mutandis; the scope of applicability shall be determined by the regulations prescribed under paragraph 5 of Article 9.
+
+### Article 11
+
+Exports and imports of goods should be free of restrictions. The restriction of trade may, however, be imposed under international treaties, trade agreements, or on the basis of consideration of national defense, public security, culture, health, environmental and ecological protection, or policy.
+
+Commodities subject to export/import restriction referred in preceding paragraph and regulations governing export/import of such goods shall be announced by the competent authority after consulting with government agencies concerned.
+
+### Article 12
+
+Exports and imports of goods by military authorities are governed by regulations issued jointly by the Ministry of Economic Affairs and the Ministry of National Defense and are included in the official statistics on exports and imports.
+
+### Article 13
+
+In order to ensure national security, to implement international cooperation and agreements, to improve the management of exports and imports of strategic high-tech goods, and to facilitate the need of introducing of high-tech goods, the following requirements apply to the export and import of such goods:
+
+\1. No exportation is allowed unless otherwise authorized;
+
+\2. Where import permits are granted, no change of the importer or transfer to any third country or region is allowed unless otherwise authorized;
+
+\3. Intended use and end user shall be truthfully declared; no change is allowed unless otherwise authorized.
+
+Specific strategic high-tech goods transported to the restricted regions may not transit, transship or become stored in bonded warehouses, logistics centers and free trade zones via any commercial port of this country without authorization.
+
+Categories and regulated areas of the goods in the first two paragraphs shall be announced by the competent authority and published in the government gazette and on the website of the competent authority for free public access.
+
+The competent authority may detain specific strategic high-tech goods in breach of the provisions in paragraph 2 of this Article and impose the punishment in accordance with this Act or relevant laws. Unless confiscated, shipment shall be returned by the competent authority.
+
+For detainment of aforementioned goods, Customs officials are entrusted with enforcement by the competent authority.
+
+The application requirements and procedures, the regulations governing exportation/importation, transit, transshipment or storage in bonded warehouses, logistics centers and free trade zones, the declaration, changes and restriction of the export/import use and end user and the investigation of destinations and use of goods, and any other matters required for compliance, as referred to in Paragraphs 1 and 2 of this Article, shall be prescribed by the competent authority.
+
+### Article 13-1
+
+Exportation of endangered species of wild fauna and flora, and products thereof, is not allowed without authorization by the competent authority. No importation is allowed without submitting an export permit issued by the exporting country.
+
+Endangered species of wild fauna and flora, and products thereof, are governed by the Wildlife Conservation Law (including wildlife bred or raised in captivity that have been announced as governed by the Wildlife Conservation Law), and require authorized documentation issued by the national principal authority prior to exportation or importation.
+
+The competent authority shall post a public notification and publish in a government gazette and maintain a website for free public accessing those endangered species of wild fauna and flora, as referred to in paragraph 1 of this Article.
+
+Permit application requirements and procedures, revocation nullifications, regulations for import/export, and any other matters required for compliance, as referred to in Paragraph 1 of this Article, shall be prescribed by the competent authority.
+
+### Article 14
+
+The BOFT may entrust the following matters to financial institutions, business associations, or legal persons:
+
+\1. Issuance of export/import permits for goods;
+
+\2. Administration of export/import quotas for goods;
+
+\3. Other matters relating to examination and registration of export/import of goods.
+
+Any financial institution, business association, or legal persons administering the matters entrusted to it as set forth in the preceding paragraph shall subject itself to the supervision of the BOFT and, if necessary, shall be obliged to go to the Legislative Yuan to respond to interpellations. Performance of duties relating to the entrusted matters by its personnel shall be deemed as the discharge of official duties, and the personnel concerned shall take responsibility for their acts respectively.
+
+### Article 15
+
+Exporters/importers who have been issued export and import permits are required to comply with the contents of the license when exporting and importing goods.
+
+The competent authority shall prescribe regulations governing the issuance, amendments and valid periods of export/import permits, labels of origin, trademark declarations, source identification or source identification codes and all other matters required for compliance.
+
+### Article 15-1
+
+To proceed with export/import, the exporter/importer may apply or address export/import documents through the computer or electronic data transmission among Customs, the BOFT or institutions entrusted by the BOFT relating to visa issuing matters.
+
+Regarding the application for the computer or electronic data transmission as referred to preceding paragraph, the regulations governing the qualifications of exporters and importers, the scope of the applicable electronic visas, application forms, and other necessary requirements for compliance, shall be determined by the competent authority, either independently or in conjunction with other relevant agencies, based on the management needs of various goods.
+
+### Article 16
+
+For the purpose of trade negotiations or the implementation of pacts or agreements, the BOFT may adopt paid or free quotas or other measures affecting export and import quantities of goods.
+
+Export and import quotas provided in the preceding paragraph shall be governed by the rules of international economic and trade organization, pacts, agreements, trade negotiation commitments, or laws and regulations, whichever applicable otherwise, the quotas shall be for public auction.
+
+The paid quotas mentioned in the first paragraph refer to quotas that are announced by the BOFT after consultation with relevant agencies and are either awarded through public bidding or by charging an administrative fee.
+
+Exporters and importers shall not engage in the following acts when importing or exporting goods subject to quota restrictions:
+
+\1. Forging or altering quota-related documents, or using forged or altered documents;
+
+\2. Illegally transferring of exports/imports;
+
+\3. Evading inspection or failing to reserve production materials or documents in accordance with regulations;
+
+\4. Improperly using of the quotas thus, causing disruption of trade order, or breach of pacts/agreements with other countries;
+
+\5. Evading quota regulations;
+
+\6. Failing to comply with overseas processing as certified;
+
+\7. Falsely declaring for the utilization of quotas; or
+
+\8. Other improper acts obstructing quota regulations.
+
+Quotas for exports and imports shall not be pledged or compulsory executed. Free quotas may not be transferred to others unless otherwise provided under the laws and regulations governing specific goods.
+
+The regulations governing the allocation method, procedures, quantity restrictions, utilization period, data validity period, charging rates and payment period of paid quotas, the obligations of exporters and importers, as well as other matters related to quotas, are to be prescribed by the competent authority based on the management needs of different goods.
+
+### Article 17
+
+An exporter/importer shall not:
+
+\1. Infringe on any intellectual property rights protected by laws of this country or other countries.
+
+\2. Fail to or untruthfully label the source identification or the country of origin as required.
+
+\3. Fail to or untruthfully declare the source identification code or trademarks.
+
+\4. Apply for relevant trade licenses or certificates by fraudulent or false means, or to use such licenses or certificates in a fraudulent or false manner.
+
+\5. Fail to perform the business contract in good faith.
+
+\6. Disturb trade order through undue means.
+
+\7. Engage in any conduct that would damage the reputation of this country or create trade barriers.
+
+### Article 17-1
+
+By stating the facts or providing evidence, citizens may report false labeling of origin by exporters/importers to the competent authority.
+
+The competent authority may reward the informant referred to the preceding paragraph and the identification of the informants shall be kept confidential. The regulations of rewarding methods and other relevant matters shall be prescribed by the competent authority.
+
+### Article 18
+
+Where the increase in the import volume of goods causes or threatens to cause serious injury to the domestic industry which produces like or directly competitive products, the authority in charge of the said industry, its associations, labor unions or related organizations may apply to the competent authority for investigation of the injury and for import relief.
+
+For investigating injuries to domestic industries, the MOEA shall set up an International Trade Commission. The organization rules of this Commission shall be separately stipulated by the MOEA.
+
+Regulations governing the process of applications for import relief filed under paragraph 1 of this Article shall be drafted by the MOEA in conjunction with government agencies concerned.
+
+In cases where relief measures have been implemented, the competent authority shall not impose relief measures on the same products within two (2) years after the expiration of the original period of implementation. However, where the relief measures have been implemented on a period exceeding two (2) years, the competent authority may not impose such measures for the same products for an equivalent period.
+
+Under any of the following circumstances, the competent authority may apply again, if necessary, the import relief measure for the importation of the same product for a duration of 180 days or less, without being subject to the restrictions stipulated in the preceding paragraph of this Article:
+
+\1. The duration of the original relief measure is 180 days or less;
+
+\2. At least one (1) year has elapsed since the date of implementation of the original relief measure;
+
+\3. Such import relief measure has not been applied on the same product more than twice in the five-year period immediately preceding the date of implementation of the measure.
+
+The competent authority shall not accept any application for the same case again within one (1) year from the determination by the competent authority for the import relief cases relating to products, according to paragraph 3 or the preceding paragraph of this Article, if the injury to the industry is not established or no relief measure is to be applied, provided, however, those with justifiable reasons are not subject to this limitation.
+
+### Article 19
+
+In the event that a foreign country exports products to this country by way of subsidizing or dumping, thereby causing or threatening to cause material injury to domestically produced products competing with the said products or causing material retardation to the establishment of the domestic industry concerned, and where injury has been found after investigation by the MOEA, the Ministry of Finance may impose countervailing or anti-dumping duties by law.
+
+### Article 20
+
+For the purpose of expanding trade, the competent authority may subsidize a legal person, a corporation or a business firm to promote trade. Regulations governing the qualifications, application procedures, subsidy standards, methods of evaluation and other compliance requirements shall be prescribed by the competent authority.
+
+For the promotion of important products made in Taiwan, the competent authority should set up a Taiwan products pavilion (area) in the main trade exposition centers or halls of other countries when the participating exhibitors and products reach a certain scale, so as to assist in the expansion of trade.
+
+For the promotion of Taiwan's image as a producer of excellent products, the competent authority may set up pavilions (areas) for the display of excellent Taiwanese products in appropriate local halls and areas in order to assist firms in expanding trade.
+
+### Article 20-1
+
+Companies that are mandated by foreign governments to carry out pre-shipment inspection in the ROC shall have their inspection activities supervised by the competent authority.
+
+Decisions of the WTO Preshipment Inspection Agreement dispute settlement panel shall be binding on the pre-shipment inspection company and the exporter concerned.
+
+Regulations governing pre-shipment supervision shall be prescribed by the Ministry of Economic Affairs.
+
+### Article 20-2
+
+The BOFT may, in response to the need of exporters to export goods, issue certificates of origin or certificates of processing, and collect fees. If necessary, the BOFT may entrust other agencies, foundations, industrial organizations, business organizations, farmers’ associations, fishermen's associations, provincial level or higher agricultural cooperatives, as well as agricultural products and marketing associations, with the task of issuing certificates of origin or processing for exporting goods.
+
+Industrial organizations, business organizations, farmers’ associations, fishermen’s associations, provincial level or higher agricultural cooperatives, agricultural products and marketing associations may also issue certificates of origin or certificates of processing for the export of goods. However, for the purpose of fulfilling international treaties, agreements, and international organization regulations, or at the request of foreign governments, specific certificates of origin announced by the BOFT may not be issued without its approval.
+
+The following acts are not permitted while issuing certificates of origin or certificates of processing:
+
+\1. Failing to issue certificates of origin without conforming to the form, procedures or the prescribed fees.
+
+\2. Failing to issue specific certificates of origin as stipulated in paragraph 2 of this Article without authorization.
+
+\3. Failing to retain documents according to the regulations.
+
+\4. Divulging confidential information of an exporter.
+
+\5. Any other act that damages the reputation of this country or disrupts the international trade order.
+
+The competent authority shall set forth the formats of the certificate of origin and certificate of processing, the criteria for determining origin, the criteria for issuance of the certificate of processing, the conditions for the entrustment and termination of the entrustment under the first paragraph, the conditions for issuance and approval of the issuance under the second paragraph, the documents to be attached during application, the issuance procedure, the amount of fees, the period for retaining the documents, and regulations governing other matters to be followed.
+
+### Article 20-3
+
+Those who meet the qualifications set by the competent authority may, in accordance with international treaties, pacts, agreements, and regulations of international organizations, sign declarations of origin as needed for exporting and importing goods.
+
+The following acts are not permitted while signing declarations of origin:
+
+\1. Failing to comply with the criteria for origin determination or declaring an incorrect origin.
+
+\2. Not retaining documents pertaining to declarations of origin as required in accordance with the regulations.
+
+The BOFT may request an exporter/importer, producer or other competent person who signs the declaration of origin to provide documents or information relating to the production process or may notify them to provide explanations in person; if necessary, the BOFT may, together with relevant authorities and technical experts, conduct inspections on the origin of goods or, as needed, entrust other institutions or associations to conduct the inspections.
+
+No signatory of a declaration of origin, exporter/importer, or producer may circumvent, interfere with, or refuse such an inspection.
+
+The following notices shall be announced by the competent authority: the eligibility of a competent person to sign declarations of origin as described in paragraph 1 of this Article; the format and the items of the declaration of origin, and the retention period for relevant documents; the inspections of origin of goods; notifications of entry errors on declarations of origin; and other matters required for compliance with international treaties, pacts, agreements, and regulations of international organizations.
+
+## Chapter 3 Trade Promotion and Assistance
+
+### Article 21
+
+The competent authority may establish a trade promotion fund in order to expand foreign trade, cope with the trends of foreign trade, and support trade activities. To build up the fund, the customs authority will collect a trade promotion service fee not exceeding 0.0425% of the price of the goods exported/imported. Exemptions, however, may be granted in accordance with international treaties, agreements, customs, or for other specific reasons.
+
+The applied rates of the trade promotion service fee to be collected and the coverage of items to be exempt shall be proposed by the competent authority and submitted to the Executive Yuan for approval.
+
+For utilization of the fund set forth in paragraph 1 of this Article, a trade promotion fund management committee shall be established, and no less than one fourth (1/4) of the members of the said committee shall be representatives of exporters and importers.
+
+The regulations governing the revenue/expenditure, custody, and utilization of the trade promotion fund shall be prescribed by the Executive Yuan.
+
+### Article 21-1
+
+Trade promotion service fees prescribed under paragraph 1 of the preceding Article shall be collected in accordance with the following rules:
+
+\1. Fees for exported goods shall be based on the FOB prices thereof.
+
+\2. Fees for imported goods shall be based on the customs value thereof.
+
+\3. If the customs value is estimated based on the cost of repair, assembly, processing, rental, or usage of imported goods, then the assessed customs value shall prevail.
+
+### Article 21-2
+
+An application may be filed with Customs for refund of paid or overpaid trade promotion service fees in the following situations:
+
+\1. During customs clearance procedures, the export/import goods were rejected.
+
+\2. The fee was overpaid due to misprinting, miscalculation, or incorrect collection.
+
+\3. The exporter, having its goods released by Customs, is allowed to modify export prices in accordance with laws.
+
+If the refundable amount was less than NT$100, no refund shall be made.
+
+### Article 22
+
+The competent authority shall assist exporters/importers, through initiative consultations or negotiations with the foreign countries, in eliminating unfair trade barriers they may face in the foreign market.
+
+### Article 23
+
+The Executive Yuan may, in response to the needs of trade promotion, designate relevant agencies to implement special programs for export insurance, export/import financing, development of shipping business, and other facilitating measures.
+
+### Article 24
+
+For management purposes, the BOFT may request exporters/importers to provide documents or information related to their business operations and, if necessary, may conduct inspections thereof; no exporter/importer shall refuse such a request for inspection. However, when making any such inspection, the inspector shall produce the papers certifying his authority to perform official duties, otherwise the person to be inspected may refuse such inspection.
+
+### Article 25
+
+A person who, in the course of performing duties, is aware of or possesses information about other people's trade documents or information that is sufficient to prejudice the business interests of others shall keep it confidential, except for official use.
+
+### Article 26
+
+Exporters/importers shall take proactive measures to resolve trade disputes in good faith through arbitration, mediation, or conciliation.
+
+The competent authority shall actively promote the use of arbitration for international trade disputes.
+
+## Chapter 4 Penal Provisions
+
+### Article 27
+
+Exportation/importation of strategic high-tech goods under any of the following circumstances, shall be punishable with imprisonment for not more than five (5) years, detention, or, in lieu of or in addition to, a fine of not more than NT$3,000,000:
+
+\1. Where such goods are transported to restricted regions without authorization;
+
+\2. Where, after import permits are granted, such goods are transferred to restricted regions without authorization prior to being imported; or
+
+\3. Where, after being imported, the use or end user of such imported goods are changed without authorization from the original declaration to the production or development of military weapons, such as nuclear or biochemical weapons, or ballistic missiles.
+
+Where the representative of a legal person, the agent, employee or any other staff member of a legal person or natural person, commits any of the crimes provided for in the preceding paragraph in his/her course of business, not only the perpetrator shall be punished as prescribed, the legal person or natural person shall also be punished with the fine prescribed in the preceding paragraph.
+
+### Article 27-1
+
+In any of the circumstances described in each subparagraph 1 of the preceding article, the BOFT shall suspend the exporting/importing of goods for not less than one (1) month, but not more than one (1) year, or nullify the exporter’s/importer’s registration.
+
+### Article 27-2
+
+The BOFT may impose an administrative fine of not less than NT$60,000, but not more than NT$3,000,000; or suspend exporting/importing goods for not less than one (1) month, but not more than one (1) year; or nullify the exporter’s/importer’s registration for the exportation/importation of strategic high-tech commodities under any of the following circumstances:
+
+\1. Where such goods are transported to any region other than the restricted regions without authorization;
+
+\2. Where, after import permits are granted, the importers are changed without authorization, or the said goods are transferred to any third country or region other than the restricted regions without authorization; or
+
+\3. Where, after being imported, the use or end user of such imported goods is changed without authorization from the originally declared to the production or development of military weapons, such as nuclear or biochemical arms, or ballistic missiles..
+
+For specific strategic high-tech goods in breach of the provision of paragraph 2 of Article 13, the competent authority may confiscate such goods.
+
+### Article 28
+
+The BOFT may issue a warning, impose an administrative fine of not less than NT$60,000 and not more than NT$3,000,000, or stop the exporter/importer from exporting/importing goods for not less than one (1) month and not more than one (1) year, if any of the following circumstances exist:
+
+\1. Violating provisions of Article 5 by trading with a country or territory with which trade is prohibited or restricted;
+
+\2. Violating the temporary suspension of export/import goods or any other necessary measures as stipulated in paragraph 1 of Article 6;
+
+\3. Violating regulations governing goods subject to export/import restriction as stipulated in paragraph 2 of Article 11;
+
+\4. Violating provisions in paragraph 1 of Article 13-1 by exporting without authorization or importing without submitting an export permit issued by the exporting country;
+
+\5. Violating provisions in paragraph 1 of Article 15 for failure to proceed with exporting/importing as specified in the export/import permits;
+
+\6. Committing any of acts prohibited under Article 17;
+
+\7. Violating provisions of Article 24 by refusing to provide documents or information, or refusing to accept inspection;
+
+\8. Violating provisions of Article 25 by prejudicing the business interests of others.
+
+With regard to a violation referred to in subparagraphs 1 through 6 of the preceding paragraph, the BOFT may in a serious case nullify the export/import registration of the exporter/importer in addition to the punishment provided for in the preceding paragraph.
+
+If an industrial organization, business organization, farmers’ association, fishermen’s association, provincial level or higher agricultural cooperatives, or agricultural product and marketing association as referred to in paragraph 2 of Article 20-2 violates the regulation in paragraph 3 of the same Article, the BOFT may either issue a warning or impose an administrative fine of not less than NT$60,000 and not more than NT$3,000,000. In a serious case, the BOFT may suspend the violator from signing/issuing declarations of export/import or certificates of processing for a period of not less than one (1) month and not more than one (1) year.
+
+The BOFT may impose an administrative fine of not less than NT$500,000 and not more than NT$3,000,000 on a violator of the provisions of paragraphs 2 or 4 of Article 20-3; in a serious case it may impose an administrative fine three (3) times as much as the value of the goods concerned and suspend the violator’s qualification to sign declarations of origin for a period of not less than one (1) month and not more than one (1) year.
+
+### Article 29
+
+Should an exporter/importer commit any of the violations as prescribed in subparagraphs 1 through 5 of paragraph 4 of Article 16, the BOFT may, after taking into account the seriousness of the violation, impose an administrative fine of not less than NT$60,000, but not more than NT$300,000; reclaim the allocated quota; or suspend export, import or export/import of such goods for not less than three (3) months, but not more than six (6) months; and in addition, may cancel the record of performance, suspend the eligibility for quota application, or nullify the export/import registration of such exporter/importer for less than three (3) months and not more than six (6) months.
+
+Should an exporter/importer commit any of the violations as prescribed in subparagraphs 6 through 8 of paragraph 4 of Article 16, the BOFT may issue a warning or impose an administrative fine of not less than NT$30,000, but not more than NT$150,000; reclaim the allocated quota; or suspend export, import or export/import of such goods for not less than one (1) month, but not more than three (3) months; and in addition, may cancel the record of performance, suspend the eligibility for quota application of such export/import for not less than one (1) month, but not more than three (3) months.
+
+To prevent an exporter/importer suspected of violation from evading punishment, during the investigation of violation, the BOFT may provisionally suspend the assignment or freeze the utilization of allocated quota, either in whole or in part, of such exporter/importer.
+
+### Article 30
+
+Should an exporter/importer commit any of the following violations, the BOFT may suspend the exporter/importer concerned from exporting/importing goods, and shall lift the suspension when the cause thereof ceases to exist:
+
+\1. Supported by concrete evidence, the goods exported/imported are counterfeits or infringe upon the intellectual property rights protected by this country or any other country;
+
+\2. Non-payment of trade promotion service fees as required in paragraph 1 of Article 21;
+
+\3. Cessation of operations or move to unknown location.
+
+The period of suspension from exporting/importing goods due to the provisions prescribed in subparagraph 1 of the preceding paragraph may not exceed one (1) year.
+
+### Article 31
+
+An exporter/importer whose goods have been suspended from exporting/importing pursuant to the provisions of Article 27-1, paragraph 1 of Article 27-2 or Article 28 through 30 may still proceed with the export/import of goods of any transaction that was established prior to the suspension, provided that such transaction has been verified by the BOFT.
+
+### Article 32
+
+Those punished pursuant to Article 27-1, paragraph 1 of Article 27-2, or Articles 28 to 30 may file an objection with the BOFT and request re-examination. The BOFT shall make its decision within twenty (20) days from the day following the date of receipt of such written objection. The regulations and procedures governing the objection shall be prescribed by the MOEA.
+
+In case of disagreement with the results of re-examination in respect of any objection referred to in the preceding paragraph, the objector may file an administrative appeal and initiate an administrative litigation in accordance with the law.
+
+### Article 33
+
+Deleted
+
+## Chapter 5 Supplementary Provisions
+
+### Article 34
+
+Deleted
+
+### Article 35
+
+A trade association or a legal person that receives more than half of its annual operating expenses as a subsidy from the trade promotion fund shall be subject to the guidance and supervision of the MOEA and, when necessary, present at the Legislative Yuan to respond to interpellation.
+
+### Article 36
+
+The competent authority shall establish the rules for implementation of this Act.
+
+### Article 37
+
+This Act shall be implemented on the date of its promulgation. However, collection of the trade promotion service fee, as provided in Article 21, shall be implemented on July 1, 1993.
+
+The amended provisions of this Act shall come into force on the date of promulgation. However, the Executive Yuan shall determine the implementation dates of Articles 6, 18, and 20-1, which were amended and promulgated on May 7, 1997.
+
+## History
+
+\1. Promulgated on February 5, 1993
+
+\2. Amendment to Articles 6, 18 and 37, addition of Article 20-1 promulgated on May 7, 1997
+
+\3. Addition of Articles 27-1 and 27-2, Amendment to Articles 2, name of Chapter 2, Article 13, 15 through 17, 21, 23, and 27 through 32, and deletion of Article 34 promulgated on December 15, 1999
+
+\4. Addition of Articles 9-1, 15-1, 20-2, 21-1 and 21-2 , Amendment to Articles 9, 16, 18, 20 and 28 through 30 promulgated on June 12, 2002
+
+\5. Amendment to Articles 3, 6, 10 and 20-2 promulgated on January 10, 2007
+
+\6. Amendment to Articles 20-2 and 28 promulgated on July 11, 2007
+
+\7. Addition to Article 13-1, Amendment to Article 2, 9, 13, 15 through 18, 20, 20-2, 27, 27-1, 28 through 30, 36, 37, and deletion of Article 33 promulgated on January 13, 2010
+
+\8. Amendment to Article 18 promulgated on January 19, 2011
+
+\9. Addition of Article 20-3, and amendment to Article 28 promulgated on November 6, 2013
+
+\10. Amendment to Articles 13, 13-1 promulgated on December 11, 2013
+
+\11. Addition of Article 17-1, Amendment to Articles 15, 17, 27 through 28 promulgated on December 25, 2019

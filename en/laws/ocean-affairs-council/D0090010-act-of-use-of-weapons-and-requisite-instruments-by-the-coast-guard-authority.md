@@ -1,0 +1,167 @@
+---
+title: "Act of Use of Weapons and Requisite Instruments by the Coast Guard Authority"
+title_zh: "海岸巡防機關器械使用條例"
+identifier: "D0090010"
+type: act
+law_level: "法律"
+category: "行政＞海洋委員會＞海岸巡防目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2003-06-25
+last_amended: 2023-05-17
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0090010"
+retrieved: 2026-10-12
+---
+
+# Act of Use of Weapons and Requisite Instruments by the Coast Guard Authority
+
+> Translation. The Chinese text ([zh/laws/ocean-affairs-council/D0090010-act-of-use-of-weapons-and-requisite-instruments-by-the-coast-guard-authority.md](../../../zh/laws/ocean-affairs-council/D0090010-act-of-use-of-weapons-and-requisite-instruments-by-the-coast-guard-authority.md)) is authoritative.
+
+## Article 1
+
+This Act is enacted to regulate the types of weapons and requisite instruments, the timing and manner of use by the personnel of the Coast Guard Authority (hereinafter referred to as the Coast Guard) in the course of performing their duties so as to protect the rights and interests of the people and enhance the effectiveness of law enforcement.
+
+## Article 2
+
+The personnel of the Coast Guard in the course of performing their duties shall follow this Act in the use of any weapons and requisite instruments.
+
+In the use of weapons and requisite instruments as provided in this Act, any personnel of the Coast Guard authority shall be dressed in uniform as specified, or wearing or showing any mark or credence that is sufficient to identify their official function with the exception of urgent situation.
+
+## Article 3
+
+The weapons and requisite instruments referred herein includes clubs, daggers, firearms, guns, handcuffs, and any other necessary weapons and requisite instruments.
+
+The types of the weapons and requisite instruments under the preceding paragraph are specified by Ocean Affairs Council (OAC).
+
+## Article 4
+
+Any personnel of the Coast Guard in the course of performing duties may use a police club to control situations in any of the following events:
+
+(1) Traffic control;
+
+(2) Evacuate crowd; or
+
+(3) Stand on guard to prevent accident.
+
+## Article 5
+
+Any personnel of the Coast Guard in the course of performing duties may use a police club to exercise forced submission or restriction in any of the following events:
+
+(1) To investigate and seize smuggling, crack down illicit entry or exit and support investigation of any crime, or conduct any inspection, search, seizure, arrest, forcible summon, arrest, detainment or other forcible measures;
+
+(2) Being under threaten by violence in the course of performing lawful duties.
+
+## Article 6
+
+Any personnel of the Coast Guard in performing inspection, search, seizure, arrest, forcible summon, arrest, detainment or other forcible measures may use a handcuffs and rope in any of the following events:
+
+(1) The suspect is resisting;
+
+(2) The suspect is or attempts attacking or is damaging or attempts damaging any object carried by the personnel or any other person;
+
+(3) The suspect is or attempts escaping; or
+
+(4) The suspect is or attempts committing suicide or hurting him/herself.
+
+## Article 7
+
+Any personnel of the Coast Guard in the course of performing duties may use a gun in any of the following events:
+
+(1) His/her life, body, freedom and/or personal gear is endangered or threatened, or in the presence of any fact that is sufficient for him/her to believe that he/she is subject to such danger or threaten;
+
+(2) The life, body, freedom and/or property of any innocent people is endangered or threatened, or in the presence of any fact that is sufficient for the personnel of the Coast Guard to believe that any innocent people is subject to such danger or threaten;
+
+(3) Any land, or building, or object, vehicle, sea vessel, or aircraft used in the operation defended is endangered;
+
+(4) Any suspect holding deadly weapon refuses to submit after having been duly warned to submit the weapon;
+
+(5) Any suspect or transportation involved in smuggling, illicit entry or exit, or offending any other law refuses to comply with or is escaping from the scene in the course of performing duly chasing, boarding, inspection, search, seizure, arrest or expel by the personnel of the Coast Guard; the same is also applicable to any one is or attempting assistance in such refusal or escape;
+
+(6) In the interception of a vessel or any other maritime transportation sailing at the Waters that there is the fact sufficient to establish that any person boarding such sea vessel or any other maritime transportation sailing at the Waters navigating in the sea territory that would have committed the crime subject to death penalty, conviction of life imprisonment or imprisonment for a term not less than three (3) years arisen from that voyage and who refuses to comply with the command to stop or return;
+
+(7) In any event as described in Paragraphs (1) and (2) in Article 5 that without the use of any firearm or dagger, it becomes impossible for a forced submission or prevention.
+
+In any circumstance mentioned in Paragraphs 1 to 3 of Article 7, the personnel of the Coast Guard who fail to use weapons and requisite instruments effectively in the course of performing their duties may use other items that are sufficient to achieve the purpose, and such items shall be regarded as weapons and requisite instruments when in use.
+
+In the circumstance mentioned in Item 1 of this Article, any personnel of the Coast Guard in the course of performing his/her duties may use his/her firearm to shoot criminal suspects or perpetrators directly when he/she deems the criminal suspects or perpetrators as having one of the following behaviors that may endanger his/her life or body or that of others:
+
+(1) When the personnel of the Coast Guard or others are being attacked or harmed, held hostage or threatened with deadly weapons, dangerous objects or vehicles.
+
+(2) There is any fact that is sufficient for any personnel of the Coast Guard to believe that he/she or others is subject to the attack of a deadly weapon or a dangerous object.
+
+(3) When the suspects or perpetrators attempt to seize his/her firearm or other equipment that may cause harm or casualties.
+
+(4) Other acts that threaten the lives or bodies of the personnel of the Coast Guard or others in urgent situations.
+
+## Article 8
+
+If the use of dagger or firearm fails to stop the crime in any of the following events, any personnel of the Coast Guard in the course of performing duties may use guns as may be required in the opinion of the highest-ranking official of the Coast Guard authority that no other alternative is available:
+
+(1) Being endangered or threaten by force; or
+
+(2) Anyone boarding a sea vessel or any other maritime transportation sailing at the Waters navigating in the sea territory is suspected in the offense against major crime including but not limited to piracy, murder, or smuggling firearms and/or drugs in the territory of the Republic of China refuses to submit or attempts escaping after the chasing and arrest.
+
+In the circumstance mentioned in paragraph 1 of this Article, where the situation is urgent or effective communication is impossible, the use of firearms shall be subject to the decision of the highest-ranking official on the scene.
+
+## Article 9
+
+In the course of duly performance of operations including regulation, boarding and inspection, any personnel of the Coast Guard may order any specific person to halt, and/or hands in the air, or any other behavior to find out whether such person is carrying any deadly weapon; and may use any of the weapons and requisite instruments as permitted in this Act when such order is refused or possible attack from such person is suspected.
+
+## Article 10
+
+Any personnel of the Coast Guard shall use the weapons and requisite instruments in discreet and in justified ways as required in fact without challenging the extent of absolute necessity.
+
+## Article 11
+
+Unless the urgent situation prevents, deadly part on the body of the suspect shall be avoided in the use of weapons and requisite instruments by any personnel of the Coast Guard in the event as permitted in this Act.
+
+## Article 12
+
+Attention is required not to hurt any third party in the use of weapons and requisite instruments by any personnel of the Coast Guard in the event as permitted in this Act.
+
+## Article 13
+
+Upon the cause calling for the use of the weapons and requisite instruments no longer exist, such use shall be immediately terminated by any personnel of the Coast Guard in the event as permitted in this Act.
+
+## Article 14
+
+After the use of any weapons and requisite instruments, the personnel of the Coast Guard shall report it to the appropriate officer with the exception that the use of a police club for control purpose.
+
+## Article 15
+
+OAC shall form an investigation panel by appointing representatives from relevant authorities (institutions), experts and scholars to investigate controversial incidents, ex officio or at the request of the Coast Guard, over the timing, process, and relevant administrative liabilities resulting from the use of weapons and requisite instruments by its subordinates that caused casualties or severe injuries, and give opinions.
+
+The investigation panel mentioned in the preceding Paragraph shall consider the reasonable perception of the personnel of the Coast Guard at the time when judging the appropriateness of the use of the weapons and requisite instruments.
+
+The investigation panel mentioned in Paragraph 1 may provide law enforcement agencies with suggestions on education and training covering the use of weapons and requisite instruments, promotion of ethics, etc. The organization and operation of the investigation panel shall be determined by OAC.
+
+## Article 16
+
+When casualties are caused due to the use of weapons and requisite instruments by the personnel of the Coast Guard, the personnel of the Coast Guard shall immediately notify paramedics to the scene or transport the injured to the hospital and provide necessary protection or guard from harm.
+
+## Article 17
+
+Upon receipt of the report from the personnel of the Coast Guard prescribed in the preceding Article, the organization with which the personnel of the Coast Guard work shall conduct an investigation and provide him/her with litigation aid and counseling.
+
+## Article 18
+
+Personnel of the Coast Guard using weapons and requisite instruments in violation of the provisions of this Act in the course of performing their duties, which results in breach of people’s freedom or rights, shall be dealt with in accordance with the State Compensation Law.
+
+If the circumstances prescribed in the preceding Paragraphs are caused by the intentional conduct of the personnel of the Coast Guard, from whom the obligated organization may claim compensation.
+
+Where the use of the weapons and requisite instruments by any personnel of the Coast Guard in accordance with this Act in the course of performing his/her duties causes loss of life, body or property of a third party, the third party may claim compensation. However, if there are faults attributable to the third party, the compensation may be reduced or exempted.
+
+Regulations on compensatory items, standards, procedures and other related matters as specified in the preceding Paragraph shall be determined by OAC.
+
+## Article 19
+
+This Act shall come into force as of the date of promulgation.
+
+## History
+
+1.Promulgated on June 25, 2003 Hua/Tzung/I/Tze Order No. 09200116630
+
+2.Promulgated on May 17,2023 Hua/Tzung/I/Tze Order No.11200040971

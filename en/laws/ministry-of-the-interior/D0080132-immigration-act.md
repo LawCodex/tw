@@ -1,0 +1,1495 @@
+---
+title: "Immigration Act"
+title_zh: "入出國及移民法"
+identifier: "D0080132"
+type: act
+law_level: "法律"
+category: "行政＞內政部＞移民目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1999-05-21
+last_amended: 2023-06-28
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0080132"
+retrieved: 2026-10-12
+---
+
+# Immigration Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-the-interior/D0080132-immigration-act.md](../../../zh/laws/ministry-of-the-interior/D0080132-immigration-act.md)) is authoritative.
+
+## Chapter 1 General Provisions
+
+### Article 1
+
+This Act is hereby enacted to unify entry and exit control, safeguard national security, protect human rights, regulate immigration affairs, and implement immigration counseling.
+
+### Article 2
+
+The competent authority which enforces this Act is the Ministry of the Interior.
+
+### Article 3
+
+The terms used in this Act are defined as follows:
+
+\1. “Nationals” refers to people who have the nationality of the Republic of China (hereafter in this Act referred to as the “State”) and with/without the household registration in the Taiwan Area.
+
+\2. “Airports and seaports” refers tothe airports and seaports approved by the Executive Yuan as the designated ports of arrival and departure.
+
+\3. “Taiwan Area” refers to Taiwan, Penghu, Kinmen, Matsu and other territories under the control of the government.
+
+\4. “Nationals with household registration in the Taiwan Area” refers to:
+
+Nationals who have the nationality of the State, are residing in the Taiwan Areas currently or originally, and have not lost personal identification as people of the Taiwan Area in accordance with the Act Governing Relations between Peoples of the Taiwan Area and the Mainland Area.
+
+\5. “Nationals without household registration in the Taiwan Area” referes to nationals who are residing abroad have the nationality of the State and have no household registration in the Taiwan Area or nationals who have acquired or restored the nationality of the State but have not registered their permanent residence at any Household Registration Office in the Taiwan Area.
+
+\6. “Transit”means a brief stay made by a traveller in the State before entering other countries or regions through airports or seaports of the State.
+
+\7. “Visit” means a visit in the Taiwan Area for the period of less than six (6) months.
+
+\8. “Residence” means residing in the Taiwan Area for the period of six (6) months or up.
+
+\9. “Permanent residence”refers to aliens reside in the Taiwan Area indefinitely .
+
+\10. “Registered permanent residence” refers to people are entitled to register household in the Taiwan Area.
+
+\11. “Immigration service organizations” means companies or law firms that act as agents to conduct immigration matters in accordance with this Act.
+
+\12. “Transnational marriage agencies” refers to acts of canvassing for marriage opportunities among nationals with household registration in the Taiwan Area , aliens and nationals without household registration in the Taiwan Area, people of the Mainland Area, and residents of Hong Kong or Macau and of introducing people to the aforesaid people for marriage.
+
+### Article 4
+
+Any person who enters or exits the State shall be inspected by the National Immigration Agency, Ministry of the Interior (hereafter called the “National Immigration Agency”) and failure to be inspected shall not be permitted to enter and/or exit the State.
+
+When the National Immigration Agency inspects a person who enters or exits the State, it shall collect and utilize the person’s entry and exit record through a computer or other technological facilities.
+
+With respect to the inspections mentioned in the preceding two Paragraphs, the competent authority shall enact regulations governing required documents , inspection procedures, and collection and utilization of information of the person.
+
+## Chapter 2 Nationals’ Entry and Exit
+
+### Article 5
+
+Nationals who have household registration in the Taiwan Area may enter and/or exit the State without application for permission, save staff who involve in national security shall be approved by the staff’s service authorities before exiting the State.
+
+Nationals without household registration in the Taiwan Area shall apply to the National Immigration Agency for permission to enter the State. However, one with a valid passport of the State is exempted from applying for permission to enter the State or may do so when entering the State.
+
+National Security Bureau, Ministry of the Interior, Ministry of National Defense, Ministry of Justice and Ocean Affairs Council shall respectively enact regulations with respect to the scopes of the staff regulated in the exception of Paragraph 1, conditions for approval of the said staff, procedures and other matters which shall be complied with by the staff.
+
+The competent authority shall consult with related authorities to enact regulations with respect to the scopes of the subjects who are exempted from applying for permission to enter the State or may do so when entering the State regulated in the exception of Paragraph 2, conditions and other matters which must be complied with by the subjects.
+
+### Article 6
+
+A national shall be prohibited from exiting the State if he/she falls any of the following circumstances:
+
+\1. Has been sentenced to imprisonment or more serious penalty and have not served or completed the term of sentence.
+
+\2. Have been wanted.
+
+\3. Has been restricted from exiting the State by the judicial authorities or military authorities due to being under investigation.
+
+\4. Has been strongly suspected, on the basis of sufficient factual evidence, to endanger national security or social stability.
+
+\5. Has been strongly suspected to be involved in turmoil or foreign aggression.
+
+\6. Has been strongly suspected to be involved in major economic crimes or major criminal cases.
+
+\7. Has been waiting for conscription or have not completely fulfilled their military service obligation except if permitted to exit the State in accordance with laws and orders.
+
+\8. Has held a passport, flight crew I.D., seaman service book, or entry and exit permit that has been illegally acquired, counterfeited, or tampered, or that belongs to another person.
+
+\9. Has failed to have his/her passport, flight crew ID, seaman service book, or entry and exit permit inspected in accordance with Article 4.
+
+\10. Has been restricted or prohibited from exiting the State by other laws.
+
+The National Immigration Agency shall approve an individual under protective measures, who has been permitted to go abroad by the juvenile court judge or the prosecutor, to exit the State.
+
+When any person who is prohibited from exiting the State in accordance with Subparagraph 2, Paragraph 1 exits the State and such a matter is found out by the National Immigration Agency at the inspection of the person, the Agency shall notify judicial authorities and police authorities under their jurisdiction to conduct the matter. When any person who is prohibited from entering the State in accordance with the same provision enters the State, the same procedure shall also apply to him/her. Where any person who is prohibited to exit the State in accordance with Subparagraph 8, Paragraph 1 exits the State and such a matter is found out by the National Immigration Agency at the inspection of the person, the Agency shall arrest him/her immediately and transfer him/her to judicial authorities.
+
+Judicial authorities or military authorities shall notify the National Immigration Agency of the circumstances on exit of the State prohibited by Subparagraphs 1 to 3, Paragraph 1. Each functional authority shall notify the National Immigration Agency of the circumstance set forth in Subparagraph 10.
+
+Where judicial authorities or military authorities, Ministry of Justice Investigation Bureau or National Police Agency, Ministry of the Interior investigate cases under Subparagraphs 4 to 6, Paragraph 1, due to urgent occassions, may notify the National Immigration Agency to prohibit the subject from exiting. The period for the prohibition of exit shall not be more than twenty-four (24) hours from the time of the notice.
+
+Any person who is prohibited from exiting the State pursuant to Subparagraph 1 or restricted from exiting the State by military authorities due to his/her case pursuant to Subparagraph 3 shall be notified in writing of the reasons for such prohibition or restriction by the National Immigration Agency after the Agency is notified, save any person who is prohibited from exiting the State pursuant to Subparagraph 2 or Subparagraph 8, Paragraph 1. Any person who is restricted from exiting the State by judicial authorities due to his/her case pursuant to Subparagraph 3 or restricted or prohibited from exiting the State pursuant to Subparagraph 10 shall be notified in writing of the reasons for such restrictions or prohibitions by each functional authority. When any person who is restricted from exiting the State by judicial authorities due to his/her case pursuant to Subparagraph 3 or prohibited from exiting the State pursuant to Subparagraphs 7, 9 and 10, and the preceding Paragraph exits the State and such a matter is found out by the National Immigration Agency at the inspection of the person, the Agency shall provide reasons in writing to the person and inform him/her verbally of the same.
+
+### Article 7
+
+The National Immigration Agency shall deny or prohibit a national without household registration in the Taiwan Area from entering the State if he/she falls within any of the following circumstances:
+
+\1. Have joined a violent or terrorist organization or its activities.
+
+\2. Have been strongly suspected to be involved in turmoil or foreign aggression.
+
+\3. Have been suspected to be involved in major crimes or to be habitual criminals.
+
+\4. Have held a passport or entry permit that is illegally acquired, counterfeited, or tampered, or that belongs to another person.
+
+The National Immigration Agency may deny or prohibit from a national without household registration in the Taiwan Area who possesses foreign nationality simultaneously entering the State, if he/she falls any circumstances set forth in each Subparagraph of the preceding Paragraph or each Subparagraph of Paragraph 1, Article 18.
+
+The competent authority and the Ministry of justice shall jointly enact regulations with respect to standards for recognition establishing major crimes or habitual criminals provided by Subparagraph 3, Paragraph 1, and major economic crimes or major criminal cases provided by subparagraph 6, Paragraph 1 of the preceding Article respectively.
+
+### Article 7-1
+
+No one shall engage in any of the following conducts:
+
+\1. Facilitating, aiding or abetting any national who is prohibited from exiting the State to exit the State.
+
+\2. Facilitating, aiding or abetting any national without household registration in the Taiwan Area to enter the State without inspection.
+
+\3. Facilitating, aiding or abetting any national without household registration in the Taiwan Area to engage in activity that is against his/her approval purpose of visit or residence not authorized by the entry permit or immigration status.
+
+## Chapter 3 Visits, Residence, and Registered Permanent Residence of Nationals without Household Registration in the Taiwan Area
+
+### Article 8
+
+A national without household registration in the Taiwan Area who has applied to the National Immigration Agency for a visit in the Taiwan Area may be granted a three (3)-month visit. The visit can be extended once if necessary and the total period of the visit after the extension of the visit shall not exceed six (6) months, beginning from the next day after the day of arrival. The Agency may further extend the duration of stay and increase the frequency of extensions if the national falls within any of the following circumstances and proves that he/she does falls under such a circumstance:
+
+\1. Has been pregnant for more than seven (7) months, has given birth, or has had a miscarriage for less than two (2) months.
+
+\2. Has been hospitalized for diseases or pregnant, and may endanger his/her own life if going abroad.
+
+\3. Has a spouse, a lineal blood relative, a collateral blood relative within the third degree, or a relative by marriage within the second degree, hospitalized or deceased in the Taiwan Area who suffer from serious illnesses or critical injuries.
+
+\4. Has met force majeure or other inevitable incidents.
+
+\5. Has his/her personal freedom restricted by laws.
+
+Each extension of a visit pursuant to Subparagraph 1 or 2 of the preceding Paragraph shall not exceed two (2) months. The extension of a visit pursuant to Subparagraph 3 shall not exceed two (2) months from the date of the occurrence of the cause. The extension of a visit pursuant to Subparagraph 4 shall not exceed one (1) month. The extension of a visit pursuant to Subparagraph 5 shall be granted as required by circumstances.
+
+As the visits stated in the preceding two Paragraphs expire, an immediate exit is mandatory unless residence or registered permanent residence is granted in accordance with this Act.
+
+### Article 9
+
+A national without household registration in the Taiwan Area shall apply to the National Immigration Agency for residence in the Taiwan Area if he/she falls within any of the following circumstances:
+
+\1. Has a lineal blood relative, a spouse, a sibling, or a spouse's parent, who has household registration in the Taiwan Area. If the relationship is a result for adoption, the adoptee shall be a minor; he/she shall reside with the adopter in the Taiwan Area. The adoption is limited to two (2) people.
+
+\2. Serves as an overseas compatriot legislator.
+
+\3. Has been naturalized and has acquired the nationality of the State.
+
+\4. Was or is born overseas under a situation either where at the time of his/her birth, one parentwas a national with household registration in the Taiwan Area or where he/she was born after his/her parent who was a national with household registration in the Taiwan Areahad been deceased.
+
+\5. Holds a passport of the State to enter in the Taiwan Area in the legal visit status for consecutive five (5) years or over, and to reside for the period of one hundred and eighty-three (183) days or over each year.
+
+\6. Has made an investment in the Taiwan Area which is more than a certain amount of capital, and has been approved or filed for future reference by the central authorities for investment.
+
+\7. Was an overseas compatriot student residing in the Taiwan Area pursuant to the following twelfth subparagraph, who is approved to work in the Taiwan Area by the central authority for labor affairs or the competent authority of the industry concerned pursuant to Subparagraphs 1 to 7 or Subparagraph 11, Paragraph 1 of Article 46 of the Employment & Service Act, or who engages in work not required approval pursuant to Subparagraph 1 or 3, Paragraph 1 of Article 48 of the Employment & Service Act, or who engages in legal work not required approval under the Employment & Service Act in the Taiwan Area, or who has returned to his/her country of residence to work for two (2) years after graduation.
+
+\8. Has distinguished contributions to the State and the society, or is a senior professional as needed in the Taiwan Area.
+
+\9. Has specific skills and experiences and has been invited back to the State by the central authorities.
+
+\10. Has been appointed or employed by a government agency, a public or private university or a college besides the authorities stated in the preceding Subparagraph.
+
+\11. Has been approved to work in the Taiwan Area by the central authority for labor affairs or the competent authority of the industry concerned pursuant to Subparagraphs 1 to 7 or Subparagraph 11, Paragraph 1 of Article 46 of the Employment & Service Act, or engages in work not required approval pursuant to Subparagraph 1 or 3, Paragraph 1 of Article 48 of the Employment & Service Act, or engages in legal work not required approval under the Employment & Service Act but equivalent to those under Subparagraphs 1 to 7 or Subparagraph 11, Paragraph 1 of Article 46 or Subparagraph 1 or 3, Paragraph 1 of Article 48 of the Employment & Service Act in the Taiwan Area.
+
+\12. Is an overseas compatriot student approved to study in the State by each level of the competent educational administration authority, universities or the University Entrance Committee for Overseas Compatriot Students composed of the aforementioned authority and universities.
+
+\13. Is a trainee who has been approved to take vocational training by a central authority
+
+\14. Is a master graduate student or a doctorate student who has been approved to undertake research and serve as an intern by a central authority.
+
+\15. Has been approved to work in the Taiwan Area by the central authority for labor affairs in accordance with Subparagraph 8 to 10, Paragraph 1 of Article 46 of the Employment & Service Act or engages in legal work not required approval under the Employment & Service Act but equivalent to those under Subparagraphs 8 to 10, Paragraph 1 of Article 46 of the Employment & Service Act in the Taiwan Area.
+
+A person who falls within any one of the circumstances stated in Subparagraph 1, Subparagraph 2 or Subparagraphs 4 to 11 of the preceding Paragraph, his/her spouse and minor children may apply together with him/her , or may apply after the approval of his/her application for residence in the State and before the approval of his/her application for registered permanent residence in the State. When his/her approval of residence is revoked or terminated in accordance with Paragraph 2 of Article 11 of this Act, the approval of residence of his/her spouse and minor children is also revoked or terminated at the same time.
+
+The National Immigration Agency shall issue a residence certificate of Taiwan Area to any person who applies for a residence permit in accordance with Paragraph 1. The validity period of the certificate shall not be longer than three (3) years,from the next day of arrival date in the State.
+
+Before the expiration of the residence period of a national without household registration in the Taiwan Area, the national can apply to the National Immigration Agency for extension of residence if the reasons for residencestill remain unchanged.
+
+The validity period of the residence certificate of Taiwan Area of a person whose application for an extension of residence pursuant to the preceding Paragraph is approved shall be extended to the period of not more than three (3) years from the second of the date of the expiration of residence.
+
+The National Immigration Agency shall revoke the residence permit of a national without household registration in the Taiwan Area if the national’s reasons for residence no longer exist within the period of the residence, save the national who applies for residence pursuant to Subparagraph 1, Paragraph 1 and whose lineal blood relative, a spouse, a sibling, or a spouse's parent is deceased. Such a national can apply for an extension of residence for a period of not more than three (3) years once.
+
+In the event that a national without household registration in the Taiwan Area changes his/her resident adderss or his/her employee during the period of his/her residence, he/she shall apply to the National Immigration Agency for change of registration.
+
+After considering the interest of the State, the National Immigration Agency may draw up annual quota of residence for nationals without household registration in the Taiwan Area on the basis of different nations or regions , and send it to the Executive Yuan for approval and promulgation. However, people who have minor children with household registration in the Taiwan Area or have been married to nationals with household registration in the Taiwan Area for four (4) years shall be excluded from the limit of the quota.
+
+Where a national without household registration in the Taiwan Area overstays for less than ten (10) days after he/she is permitted to enter the State, and the residence application of the national is subject to an annual quota pursuant to the provision of the preceding Paragraph, the permission to allocate a quota to the national shall be granted after a period of one (1) year each time, save the national who falls within any of the circumstances set forth in each Subparagraph, Paragraph 1 of the preceding Article.
+
+### Article 10
+
+A national without household registration in the Taiwan Area may apply to the National Immigration Agency for permanent residence if he/she meets one of the following conditions:
+
+\1. A person’s spouse and minor children as stated in Subparagraphs 1 to 11 of Paragraph 1 of the preceding Article, must have accumulated at least three hundred and thirty-five (335) days of residence in the State within one (1) year, or have accumulated at least two hundred and seventy (270) days of residence in the State each year within two (2) consecutive years, or have accumulated at least one hundred and eighty-three (183) days of residence in the State each year within five (5) consecutive years, and their original qualifications for residence remain unchanged. Where they reside in the Taiwan Area pursuant to Subparagraph 2, Subparagraph 4 or Subparagraph 8 of Paragraph 1 of the preceding Article, they are exempted from the criterion of satisfying with the certain period and days of residence.
+
+\2. Was or is born overseas and as a minor, holds a foreign passport to enter the State, and at the time of his/her birth, his/her parent was a national with household registration in the Taiwan Area.
+
+\3. Was or is born overseas, holds the passport of the State to enter the State, and at the time of his/her birth, his/her parent was a national with household registration in the Taiwan Area.
+
+\4. Was or is born in the State without birth registration, and entered the State with the passport of the State or a foreign passport after exiting the State, and at the time of his/her birth, his/her parent was a national with household registration in the Taiwan Area.
+
+A person, who has applied for registered household registration in the Taiwan Area pursuant to Subparagraph 1 of the preceding paragraph, shall have been married for three (3) years and over if his/her qualification results from marriage. He/She may not be exempted from the preceding requirement unless his/her children have been born during the marriage.
+
+Where a national without household registration in the Taiwan Area exit the State during the period of residence mentioned in Subparagraph 1, Paragraph 1 because of the assignment or the approval of the government and is provided with approval documents with respect to the assignment or the approval, the period of his/her residence shall not be deemed to be interrupted. The period of staying abroad also shall be excluded from the period of residence in the Taiwan Area.
+
+Where a national without household registration in the Taiwan Area, whose sponsor with household registration in the Taiwan Area is deceased during the period of the national’s residence, or who is divorced from the person with household registration in the Taiwan Area, has resided for a certain period of time in the area and shall execute the rights and obligations for looking after his/her minor children with household registration in the Taiwan Area, he/she can still apply to the National Immigration Agency for registered permanent residence and shall not be restricted by the condition that his/her qualification for residence must remain unchanged, as provided under Subparagraph 1, Paragraph 1.
+
+An application for registered permanent residence in the Taiwan Area shall be made within two (2) years after a person had resided for a certain period of time, save the circumstances set forth in the exceptions under Subparagraph 1, Paragraph 1. The spouse and the minor children of the person shall apply for registered permanent residence in the Taiwan Area together with the him/her or after obtaining the permits for registered permanent residence. When his/her approval of registered permanent residence is revoked or terminated in accordance with Paragraph 3 of Article 11 of this Act, the approval of registered permanent residence of his/her spouse and minor children is also revoked or terminated simultaneously.
+
+Where a national without household registration in the Taiwan Area is permitted to register his/her permanent residence in the Taiwan Area, he/she shall complete household registration within thirty (30) days at a scheduled Household Registration Office. Without registration upon the expiration, the National Immigration Agency may terminate his/her permit of registered permanent residence.
+
+The competent authority shall enact regulations governing the application for entry by a national without household registration in the Taiwan Area, an application procedure for residence or registered permanent residence, required documents, types of certificates to be issued, validity period of certificates and other matters which must be complied with.
+
+### Article 11
+
+The National Immigration Agency may deny the application for residence or registered permanent residence submitted by a national without household registration in the Taiwan Area if he or she meets one of the following circumstances:
+
+\1. Has been strongly suspected, on the basis of sufficient factual evidence, to endanger national security or social stability.
+
+\2. Has been sentenced to imprisonment or more serious penalty.
+
+\3. Has entered the State without permission.
+
+\4. Has used another person's identity, or has applied with illegally acquired, counterfeited, or tampered documents.
+
+\5. Has assisted other people in illegally entering and/or exiting the State or has provided other people with identification documents for the same purpose.
+
+\6. Is believed, on the basis of sufficient factual evidence, to have conspired with another person to have a sham marriage.
+
+\7. Is relatively connected to the adopter and the adoptee does not reside with the adopter after entering the State.
+
+\8. Has failed to pass a medical check for items designated by the central competent health authority. This provision does not apply to a minor.
+
+\9. Has engaged in unpermitted activities or employment
+
+\10. Has overstayed a visit.
+
+\11. Refuses to attend an interview without justifiable reasons after he/she was notified legally.
+
+\12. Avoid, obstruct or refuse an investigation executed under Article 70 without justifiable reasons.
+
+\13. Other circumstances recognized and promulgated by the competent authorities.
+
+If a person has met any of Subparagraphs 1 to 8 of the preceding Paragraph after the permission for his/her residence, or after the permission for his/her residence, he/she is found out that the information provided by him/her at the time of application is false, the National Immigration Agency shall revoke the permission for his/her residence.
+
+If a person has met any of Subparagraph 4 or Subparagraph 6, Paragraph 1 after the permission for his/her registered permanent residence, or after the permission for his/her registered permanent residence, he/she is found out that the information provided by him/her at the time of application for residence is false, the permission for his/her registered permanent residence shall be revoked or terminated. If the person has completed his/her household registration at a Household Registration Office, the Household Registration Office shall also revoke or terminate his/her registration.
+
+With respect to any person whose residence permit or permanent residence permit is to be revoked or terminated pursuant to the provisions of the preceding two Paragraphs, the person’s residence permit or permanent residence permit shall be revoked or terminated within five (5) years starting from the time or when the National Immigration Agency decides to revoke or terminate his/her said permit; otherwise, his/her said permit shall be revoked or terminated within two (2) years starting from the time when he/she knows that the said permit is to be revoked or terminated. This provision shall not apply to the circumstances set forth in Subparagraph 4 or Subparagraph 6 of Paragraph 1.
+
+The period of the denial pursuant to Subparagraphs 9 and 10 of Paragraph 1 shall be at least one (1) year from the day after his last exit from the State and shall not exceed three (3) years.
+
+Subparagraph 12, Paragraph 1 shall apply mutatis mutandis to the circumstance that people of the Mainland Area, residents of Hong Kong or residents of Macau apply for residence or registered permanent residence in the Taiwan Area.
+
+### Article 12
+
+A national without household registration in the Taiwan Area who has entered the State with a foreign passport or stateless travel document shall exit the State with the foreign passport or the stateless travel document and may not apply for residence or registered permanent residence unless he/she meets the requirements of Subparagraph 3, Paragraph 1 of Article 9 or Subparagraph 2 or 4, Paragraph 1 of Article 10.
+
+### Article 13
+
+The National Immigration Agency shall revoke the permit of a national without household registration in the Taiwan Area, if during the national’s visits in the State, the national:
+
+\1. Has been considered, on the basis of sufficient factual evidence, to endanger national security or social stability
+
+\2. Has been sentenced to imprisonment and has completed his/her term of sentence, has been released on parole or pardoned, or have been on probation.
+
+### Article 14
+
+The National Immigration Agency shall order a national without household registration in the Taiwan Area to exit the State within a certain time, if permission for his/her visit, residence, or registered permanent residence has been revoked or terminated.
+
+A national without household registration in the Taiwan Area shall exit the State within ten (10) days after receiving the preceding order to exit the State.
+
+The National Immigration Agency shall convene a review committee meeting and provide to a national without household registration in the Taiwan Area whose permission for residence or permission for registered permanent residence is revoked or terminated an opportunity to submit claims, before it orders the national to exit the State.
+
+The competent authorities shall enact regulations with respect to the composition of the review committee meeting mentioned in the preceding Paragraph, requirements and procedures for review .
+
+### Article 15
+
+The National Immigration Agency shall deport a national without household registration in the Taiwan Area and restrict his/her reentry if he/she has entered the State without permission or has overstayed his/her visit or period of residence, or has overstepped the deadline of mandatory exit.
+
+When a national without household registration in the Taiwan Area has overstayed for less than thirty (30) days after the period of his/her residence expires but has a valid purpose of residence indicated in the original application, he/she can re-apply for residence at the National Immigration Agency, subject to penalties for violations pursuant to Paragraph 2 of Article 74-1. However, the accumulated period of residence in the Taiwan Area will be deducted by one (1) year when applying for registered permanent residence.
+
+An alien awaiting deportation stated in Paragraph 1 may be temporarily detained by the National Immigration Agency if a deportation order is difficult or unable to enforce. This period shall not exceed fifteen (15) days from the date of temporary detention. Upon exiting, the alien shall have his/her entry permit or other entry permit document terminated and revoked by the National Immigration Agency.
+
+The provisions of the three preceding Paragraphs shall also apply to individuals who have entered the State before this Act was enforced.
+
+The competent authority may enact regulations with respect to the handling methods, procedures, and management of deportation stated in Paragraph 1 and other matters which must be complied with.
+
+The provisions of Paragraphs 3 to 5, Article 36 and Article 38-6 are applicable to the deportation process mentioned in Paragraph 1. The provisions of Articles 38 and 39 are applicable to the temporary, continued, extended and re-extended detention mentioned in Paragraph 3.
+
+### Article 16
+
+The competent authority may consider the conditions of specific countries or regions to draw up regulations and approved by the Executive Yuan for a national without household registration in the Taiwan Area who has to reside or register permanent residence in the Taiwan Area because ofthe special circumstances of their overseas residing area may sumbit his/her application in accordance with the regulations the competent authority, without being subjected to the restrictions of the provisions of Articles 9 and 10.
+
+A stateless person or a national without household registration in the Taiwan Area from Thailand, Myanmar, or Indonesia who has entered the State before this Act was enforced and cannot be repatriated shall be permitted to reside in the Taiwan Area by the National Immigration Agency.
+
+A stateless person and a national without household registration in the Taiwan Area from Thailand or Myanmar who have been permitted to enter the State for the purposes of studying or receiving technical training by the Ministry of Education or the Overseas Community Affairs Commission between 21st May 1999 and 31st December 2008 and cannot be repatriated shall be permitted to reside in the Taiwan Area by the National Immigration Agency.
+
+A stateless person from India or Nepal who has entered the Taiwan Area before 29st June 2016 and cannot be repatriated shall be permitted to reside in the Taiwan Area by the National Immigration Agency if his/her status has been identified by the review committee meeting which convened by the central authorities for the Mongolian and Tibetan affairs.
+
+A stateless person who has obtained the nationality of the State or a national without household registration in the Taiwan Area who has been granted residency in the Taiwan Area as specified in the preceding three paragraphs may apply to the National Immigration Agency for registered permanent residence if he/she has continuously resided in the Taiwan Area for three years, or have resided in the Taiwan Area for five years during which the residency in the Taiwan Area shall be over 270 days each year, or have resided in the Taiwan Area for seven years during which the residency in the Taiwan Area shall exceed 183 days each year.
+
+A national without household registration in the Taiwan Area who has exit the State during the residency specified in the preceding paragraph shall not be deemed to have interrupted his/her residency but the period of their absence from the Taiwan Area shall not be calculated as part of his/her residency in the Taiwan Area if his/her overseas trips have been assigned or approved by the government and such assignment or approval can be proved with documents.
+
+### Article 17
+
+Where a national without household registration in the Taiwan Area is aged 14 or over and enters the Taiwan Area for a visit or residence, he/she shall always carry him/her passport, permit of visit in the Taiwan Area, the entry permit or other identification documents at any time.
+
+Where the National Immigration Agency or public servants under other laws and orders may request nationals in the Taiwan Area to produce the foresaid certificates while performing official duties. With respect to requirements and a procedure for requests to produce certificates, the provisions of Chapter 2 of the Police Duties Enforcement Act shall apply mutatis mutandis.
+
+## Chapter 4 Entry of Aliens and Exit of Aliens
+
+### Article 18
+
+The National Immigration Agency shall prohibit an alien from entering the State if he/she meets one of the following circumstances:
+
+\1. Does not carry his/her passport or refuses to submit it for inspection.
+
+\2. Has held an illegally acquired, counterfeited, or fraudulent passport or visa.
+
+\3. Has held another person's passport or a passport applied by using a false identity.
+
+\4. Has held an invalid passport , lacks a required visa, or a passport that bears an invalid visa.
+
+\5. Has made a false statement or hidden important facts about his/her purposes to apply for entry into the State.
+
+\6. Has carried contraband.
+
+\7. Has a criminal record in the State or foreign countries.
+
+\8. Has suffered from a contagious disease or other diseases that may jeopardize public health.
+
+\9. Is believed, on the basis of sufficient factual proof, to be incapable of making a living in the State, save the circumstance that he/she seeks shelters from his/her sponsor and has endorsement.
+
+\10. Has held a visitor visa but does not have an air ticket or a steamer ticket for a return trip or a trip to the next destination or has not secured an entry visa for the next destination.
+
+\11. Has been denied entry, ordered to exit within a certain time, or deported from the State.
+
+\12. Has overstayed his/her visit or the period of his/her residence or has worked illegally.
+
+\13. Is believed to endanger national interests, public security, public order, or the good customs of the State.
+
+\14. Hinders good social customs.
+
+\15. Is believed to engage in terrorist activities.
+
+\16. Seriously violates internationally recognized human rights.
+
+If a foreign government prohibits a national of the State from entry pursuant to reasons other than those reasons set forth in the each Subparagraph of the preceding Paragraph, the National Immigration Agency may apply the same reasons to prohibit that country's nationals from entering the State after consulting with the Ministry of Foreign Affairs of such prohibition.
+
+The period of entry as prohibited under Subparagraph 12, Paragraph 1 shall be one (1) year or over from the next day of the date of an alien’s exit of the State and shall not be more than seven (7) years.
+
+The provision of entry ban as set out in Subparagraph 16, Paragraph 1 shall apply mutatis mutandis to the people of the Mainland Area and the residents of Hong Kong or Macau.
+
+### Article 19
+
+An alien who is on board an aircraft, a vessel, or any other means of transport, may be granted a temporary entry, through the application of the concerned captain of the aircraft or vessel, transport service proprietor, or the application of the rescue department, or the application of the captain of an rescue aircraft or a vessel if he/she meets any of the following circumstances:
+
+\1. Is catching a connecting flight, a connecting vessel, or any other means of transport.
+
+\2. Has been suffering from a disease, seeking shelter or going through any other exceptional accidents.
+
+\3. Has made a forced landing, entered a harbor for an emergency, gone through an accident, or been caught in a disaster.
+
+\4. Has other justifiable reasons.
+
+The competent authority shall enact regulations to govern an application procedure for temporary entry, required documents, the issuance of a certificate, the period of a visit, the places for a visit, administration and other matters which shall be complied with.
+
+### Article 20
+
+With respect to passengers who are transported by an aircraft, a vessel, or any other means of transport and have to check into overnight lodging in the State because of being in transit, the concerned captain of the aircraft or of the vessel, or the transport service proprietor shall apply to the National Immigration Agency for permission.
+
+The passengers stated in the preceding Paragraph shall not leave the overnight lodging without permission. The competent authority shall enact regulations that govern an application procedure for overnight lodging, required documents , places of lodging, administration and other matters which shall be complied with.
+
+### Article 21
+
+The National Immigration Agency shall prohibit an alien from exiting the State if he or she meets one of the following circumstances:
+
+\1. Has been prohibited from exiting the State at the request of a judicial authority.
+
+\2. Has been prohibited from exiting the State at the request of a tax authority or each competent authority by law.
+
+When any person is prohibited from exiting the State pursuant to the preceding Paragraph and such a matter is found out by the National Immigration Agency at the inspection of the person, the Agency shall provide written documents to the person and inform him/her verbally of the reason .
+
+The provision of exit as prohibited in the preceding two Paragraphs shall apply to the people of the Mainland Area and the residents of Hong Kong or Macau.
+
+### Article 21-1
+
+No one shall engage in any of the following conducts:
+
+\1. Facilitating, aiding, or abetting any alien to enter the State illegally.
+
+\2. Facilitating, aiding, or abetting any alien who is subject to prohibition from exiting the State to exit the State.
+
+The provision described in Subparagraph 2 of the preceding Paragraph shall apply mutatis mutandis to the people of the Mainland Area and the residents of Hong Kong or Macau who are subject to prohibition from departure.
+
+## Chapter 5 Alien Visits, Residence, and Permanent Residence
+
+### Article 22
+
+An alien who possesses a valid passport with a valid visa, a valid passport without a visa, or a valid travel document, is permitted to enter the State to have a visit or reside in the State after having been inspected by the National Immigration Agency.
+
+An alien who acquires permission to reside in the State pursuant to the preceding Paragraph shall apply to the National Immigration Agency for an Alien Resident Certificate within thirty (30) days, from the next day of the arrival date in the State, save any person who applies for and obtains a valid 4-in-1 certificate consisting of a work permit, a resident visa, an Alien Resident Certificate and a reentry permit or any other certificate with an equivalent function of an Alien Resident Certificate.
+
+The validity period of an Alien Resident Certificate shall not be longer than three (3) years starting from the next day of the date of the alien’s acquisition of the permission to reside.
+
+### Article 23
+
+Where an alien who possess a valid visa for a visit for the period of sixty (60) days or up without any annotation of a restriction on extension of the visit or other restrictions by the visa issuing authority meets one of the following circumstances, he/she can apply to the National Immigration Agency for residence. After the Agency permits the application, an Alien Resident Certificate shall be issued to the alien:
+
+\1. A alien’s spouse is a national with household registration in the Taiwan Area or or permitted to reside in the area, or an alien permitted to reside or permanently reside in the area, or a resident of Hong Kong or Macau permitted to reside in the area. However, if the alien’s spouse is permitted to reside in the Taiwan area pursuant to Subparagraph 9 or 10 or permitted by the central competent authority for labor affairs to engage in work set forth in Subparagraphs 8 to 10, Paragraph 1 of Article 46 of the Employment & Service Act, the/she cannot apply for an Alien Resident Certificate.
+
+\2. An alien is under the age of eighteen (18) and any of his/her lineal ascendant is a national of the State with household registration in the Taiwan Area or permitted to reside in the area, or an alien permitted to reside or permanently reside in the area, or a resident of Hong Kong or Macau permitted to reside in the area. Where the family relationship results from adoption, the adoptee and the adopter shall reside together in the Taiwan Area. However, if his/her lineal ascendant is permitted to reside in the Taiwan area pursuant to Subparagraph 9 or 10 or permitted by the central competent authority for labor affairs to engage in work set forth in Subparagraphs 8 to 10, Paragraph 1 of Article 46 of the Employment & Service Act, the alien cannot apply for an Alien Resident Certificate.
+
+\3. A spouse, a minor child under the age of eighteen (18), or a child is aged eighteen (18) or over but unable to support himself/herself due to physical or mental disability of a person of the Mainland Area who currently engages in one of the following activities in the Taiwan Area: investment business management with investment being implemented, transnational enterprise’s internal rotation service, academic scientific and technological research, or long-term industrial scientific and technological research.
+
+\4. Has been approved to work in the Taiwan Area by the central authority for labor affairs or the competent authority of the industry concerned pursuant to Subparagraphs 1 to 7 or Subparagraph 11, Paragraph 1 of Article 46 of the Employment & Service Act, or engages in work not required approval pursuant to Subparagraph 1 or 3, Paragraph 1 of Article 48 of the Employment & Service Act, or engages in professional work pursuant to Item 4 or 5, Subparagraph 4 of Article 4, Article 8 or Article 10 of the Act for the Recruitment and Employment of Foreign Professionals or has obtained a work permit pursuant to Paragraph 1 of Article 15 of the same Act.
+
+\5. An investor or a representative of a foreign investor who has made an investment more than a certain amount of capital in the Taiwan Areahas been approved or filed for future reference by the central authorities for investment.
+
+\6. A responsible person of a foreign company recognized under the Company Act and is locatedin the State.
+
+\7. He/ She is granted residence or permanent residence pursuant to the three preceding Subparagraphs and whose child is aged of eighteen (18) or over but unable to support himself/herself due to physical or mental disability
+
+\8. An overseas compatriot student who is approved of studying in the State by the competent authority for overseas compatriots affairs and is distributed by each level of competent educational administration authority.
+
+\9. Where his/her spouse was a national with household registration in the Taiwan Area when deceased, he/she factually fostered, exercised rights and assumed obligations for, or met and communicated with minor children with household registration in the Taiwan Area; or
+
+\10. He/She was a spouse of a national with household registration in the Taiwan Area, had been legally resided in the State, and factually fostered, exercised rights and assumed obligations for, or met and communicated with minor children with household registration in the Taiwan Area.
+
+Where an alien enters the State with a visa-exempt or a visitor visa and meets Subparagraph 4 of the preceding Paragraph, he/she may apply to the National Immigration Agency for residence and obtain an Alien Resident Certificate upon approval.
+
+Where an alien is granted residence by the National Immigration Agency pursuant to the preceding Paragraph or by entering the State with a resident visa and meets Subparagraph 4, Paragraph 1, the alien’s spouse, any of the alien’s minor childrenunder the age of eighteen (18), or any of the alien’s childrenis age eighteen (18) or over but unable to support himself/herself due to physical or mental disability, he/she enters the State with a visa-exempt or a visitor visa, may apply to the National Immigration Agency for residence and obtain an Alien Resident Certificate upon approval.
+
+Where the reason in an alien’s application for residence is the same as the purpose of his/her visitor visa when entering the State and the alien meets any of the following circumstances, he/she may apply to the National Immigration Agency for residence and obtain an Alien Resident Certificate upon approval:
+
+\1. As an overseas compatriot student approved to study in the State by each level of the competent educational administration authority, universities or the University Entrance Committee for Overseas Compatriot Students which consists of the aforementioned authority and universities; or
+
+\2. As a student admitted to a school in the State permitted to recruit foreign students by each level of the competent educational administration authority.
+
+\3. As a student who has studied for four (4) months and has continued to be enrolled for three (3) months or up at a Chinese teaching institute affiliated with a university or college accredited by the Ministry of Education.
+
+### Article 23-1
+
+Where an alien possesses an Alien Resident Certificate and meets any of the following circumstances due to the change or termination of the resident purpose previously occurred, he/she may apply to the National Immigration Agency for modification of reasons for residence:
+
+\1. The alien meets any of the circumstances mentioned in the Subparagraphs of Paragraph 1 of the preceding Article. If the alien, however, falls under the exceptions provided under Subparagraph 1 or 2, Paragraph 1 of the preceding Article, he/she shall not apply.
+
+\2. The alien is aged eighteen (18) or over and was previously granted residence pursuant to Subparagraph 2 or 3, Paragraph 1 of the preceding Article as studying at a school permitted to recruit foreign students by each level of the competent educational administration authority or as an overseas compatriot student studying in the State.
+
+\3. An alien was previously granted residence pursuant to Subparagraph 3, Paragraph 4 of the preceding Article as a student admitted to study in the State by a school permitted to recruit foreign students by each level of the competent educational administration authority.
+
+The National Immigration Agency should, upon the approval of the application for status change pursuant to the preceding Paragraph, issue a new Alien Resident Certicificate bearing the length of residence.
+
+### Article 24
+
+The National Immigration Agency may deny an alien’s application for residence or the alien’s application for change of reasons for residence if the alien meets one of the following circumstances; if previously granted, the approval may be revoked or terminated with the callcellation of his/ her Alien Resident Certificate:
+
+\1. Is believed to endanger national interests, public safety or public order.
+
+\2. Is believed to engage in terrorist activities.
+
+\3. Has had a criminal record, or has been denied entry, ordered to leave within a certain time, or deported from the State.
+
+\4. Has ever been entering the State illegally.
+
+\5. Applied by a false identity or a document illegally acquired, counterfeited, or tampered, or with misrepresented content.
+
+\6. Has assisted other people to illegally enter and/or exit the State or has provided other people with identification documents for the same purpose.
+
+\7. Is believed, on the basis of sufficient factual evidence, to have conspired with another person to have asham marriage or a false adoption.
+
+\8. Is believed, on the basis of sufficient factual evidence, to not live with the dependent relative without justifiable reasons, or to not conform to the statements or evidence in connection with the authenticity of marriage.
+
+\9. Has failed to pass a medical check for items designated by the central competent health authority.
+
+\10. Holds an invalid passport or his/her identification is not recognized or accepted by the State.
+
+\11. Has overstayed a visit or the period of residence.
+
+\12. Has been involved in unpermitted activities or employment.
+
+\13. Endangers the good customs of the State.
+
+\14. Refuses to attend an interview without justifiable reasons after he/she was notified legally.
+
+\15. Avoid, obstruct or refuse an investigation executed under Article 70 without justifiable reasons.
+
+\16. Has registered his/her household registration in the Taiwan Area and not completed his/her move-out registration, or reaching the age or near the ageof conscription and and either the former or latter has not performed compulsory military services for a prescribed time interval during the period between January 1 in the second year of the yearaged fifteen (15) and December 31 in the year of aged thirty-six (36).
+
+\17. Other circumstances recognized and promulgated by the competent authorities.
+
+If a foreign government prohibits nationals of the State from entering pursuant to reasons other than those reasons set forth in the each Subparagraph of the preceding Paragraph, the National Immigration Agency can apply the same reasons to prohibit that country's nationals from entering the State after reporting the prohibition to the competent authority and consulting with the Ministry of Foreign Affairs of such prohibition.
+
+The period of entry ban under Subparagraph 11 and Subparagraph 12 of Paragraph 1 shall be one (1) year or up and shall not be more than seven (7) years from the days following the day of an alien’s departure from the State.
+
+### Article 25
+
+An alien, who has legally and continuously resided in the State for consecutive five (5) years and for one hundred and eighty-three (183) days or up each year, or the alien spouse and/or children of a national with household registration in the Taiwan Area who have legally resided in the State for ten (10) years, during which period they have actually resided in the State for one hundred and eighty-three (183) days or up each year for five (5) years, may apply to the National Immigration Agency for permanent residence if they meet the following requirements. The foresaid periods shall not include the period of staying (residing) in the State by any of those aliens whose residence in the Taiwan Area is permitted due to studies, residence permitted pursuant to Subparagraph 3, Paragraph 1 of Article 23, Subparagraph 1 or 2 of Article 26 or Subparagraphs 5 to 8, Paragraph 4 of Article 31, or employment in the Taiwan Area as approved by the central authority for labor affairs or the competent authority of the industry concerned pursuant to Subparagraphs 8 to 10, Paragraph 1 of Article 46 of the Employment & Service Act, and their dependent relatives who are granted residence.
+
+\1. Is aged eighteen (18) or over.
+
+\2. Has good conduct and no criminal record as presented in the Police Criminal Record Certificate.
+
+\3. Has considerable property, skills or talents to support the cost of living The rule does not apply to him/her whose spouse is a national with household registration in the Taiwan Area.
+
+\4. Has met the national interests of the State.
+
+An alien who had been legally in the status of residence in the State for twenty (20) years or up before May 31, 2002 during which period he/she had resided in the State for one hundred and eighty-three (183) days or up each year for ten (10) years, and has met the requirements as specified in Subparagraphs 1 to 4 of the preceding Paragraph can apply to the National Immigration Agency for permanent residence.
+
+An alien who has not satisfied the requirements as specified in the first Paragraph but has met one of the following conditions can also apply to the National Immigration Agency for permanent residence:
+
+\1. Having made distinguished contributions to the State.
+
+\2. Is a senior professional as needed by the State.
+
+\3. Has participated in races, contests and assessments in the fields of culture, art, technology, sports and industry, which are acknowledged internationally and has won the first prizes.
+
+An alien shall apply to the National Immigration Agency for investment immigration in the State. After the Agency reviews and permits their applications and the aliendo invest(implement the investment), it shall consent to their permanent residence.
+
+For an applicant in the two preceding Paragraphs, his/her spouse, any of his/her minor children under the age of eighteen (18), or any of his/her children is aged eighteen (18) or over but unable to support himself/herself due to physical or mental disability may apply together with the applicant, or may apply after the approval of the applicant’s application for permanent residence, not subject to the restrictions set forth in Subparagraphs 1 and 3 of Paragraph 1. When the applicant’s approval of permanent residence is revoked or terminated in accordance with Subparagraphs 1 to 3 or Subparagraph 8 of Article 33, the approval of permanent residence of the persons applied together with the applicant is also revoked or terminated at the same time.
+
+An alien who has the nationality of the State simultantously is ineligible to apply for permanent residence.
+
+Where an alien applies for alien permanent residence in accordance with Paragraph 1 or Paragraph 2 and refuses to attend an interview without justifiable reasons after they were legally notified to attend, the National Immigration Agency may deny the applications.
+
+The National Immigration Agency shall issue an Alien Permanent ResidentCertificates to an alien upon granting the status of a permanent resident.
+
+The competent authority may draw up annual quota of residence or permanent resident applied by aliens on the basis of different nations or regionss after considering national interests and is approved by the Executive Yuan. However, an alien who invests, is employed, studies in the Taiwan Area, or is a spouse or a minor child under the age of eighteen (18) of a national with household registration in the Taiwan Area who is granted residence as a dependent relative, shall be exempted from the limit of the quota.
+
+An application for permanent residence pursuant to Paragraph 1 or Paragraph 2 shall be made within two (2) years after the period of stay and residence expires.
+
+Where aliens meet the circumstance set forth in Subparagraph 9, Paragraph 1 of Article 23, they may, during the period of legal residence in the State, apply to Nation Immigration Agency for permanent residence, not subject to the requirements with respect to the period of legal residence in the State stated in Paragraph 1.
+
+The competent authority shall enact standards with respect to the determination and procedures of good conduct stated in Subparagraph 2, Paragraph 1 and other relevant matters.
+
+### Article 26
+
+A person shall apply to the National Immigration Agency for residence within thirty (30) days starting from the next day after the date of the occurrence of one of the following circumstances. The Agency shall issue an Alien Resident Certificate to the person upon the approval of the application.
+
+\1. Has lost the nationality of the State and has not yet acquired a foreign nationality.
+
+\2. Has lost his/her original nationality while having not yet acquired the nationality of the State.
+
+\3. Is born as an alien in the State. At his/her birth, his/her father or mother hold or held an Alien Resident Certificate, or an Alien Permanent Resident Certificate.
+
+\4. Has been granted by the Ministsry of Foreign Affairs on ad hoc basis to switch to a resident visa on diplomatic concerns
+
+### Article 27
+
+The following aliens are exempted from applying for Alien Resident Certificates for their residence in the State:
+
+\1. Diplomats who are posted in the State, their dependents and entourages.
+
+\2. Officials who perform the official duties of a foreign or international organization set up in the State, their dependents and entourages.
+
+\3. Aliens who have been granted a Courtesy Visa on an ad hoc basis by the Ministry of Foreign Affairs.
+
+The Ministry of Foreign Affairs may provide the National Immigration Agency with a list of the names of the aliens stated in the preceding Paragraph.
+
+### Article 28
+
+An alien, who is aged of fourteen (14) or over, and has entered the State for a visit, residence or permanent residence, shall always carry his/her passport, Alien Resident Certificate, or Alien Permanent Resident Certificate.
+
+The National Immigration Agency or public servants under other laws and orders can reuqest aliens to produce the documents stated in the preceding Paragraph while performing official duties. With respect to the requirements and procedures of perform the above-mentioned duties, the provisions of Chapter 2 of the Police Duties Enforcement Act shall apply mutatis mutandis.
+
+### Article 29
+
+An alien who visits or resides in the State shall not engage in unpermitted activities. The acts of filing petitions or imitating lawful assembly and procession by an alien who resides legally shall not be subject to the foresaid restriction.
+
+No one shall facilitate, aiding or abetting any aliens engage in the activities stated in the main texts of the preceding Paragraph.
+
+### Article 30
+
+When there are exceptional circumstances in the State, the National Immigration Agency may restrict aliens' residence locations, activities, or inform them of the rules they have to comply with in order to maintain public order or vital interests.
+
+### Article 31
+
+An alien shall apply to the National Immigration Agency for an extension before his/her visit or residence expires if he/she has to continue his/her visits or residence in the State.
+
+The validity period of the Alien Resident Certificate of the above-mentioned extension of residence in the preceding Paragraph shall be extended from the next day of the expiry date of the original residenceand shall not be longer than three (3) years.
+
+Where an alien has overstayed for less than thirty (30) days after the period of his/her residence expires and the purpose of residence remain unchanged, he/she can re-apply to the National Immigration Agency for residence after paying a fine pursuant to Paragraph 2 of Article 74-1. Where the alien applies for permanent residence, one (1) year shall be deducted from the period of residence in the Taiwan Area.
+
+The National Immigration Agency shall revoke the residence permit of an alien and terminate the Alien Resident Certificate if his/her resident reasons for residence is no longer exist within the period of the residence. Where an alien meets one of the following circumstances, however, he/she may be permitted to reside continually:
+
+\1. His/Her sponsor is deceased.
+
+\2. Is a spouse of a national with household registration in the Taiwan Area and is divorced due to domestic violence and has not remarried.
+
+\3. Factually fosters, exercises rights and assumes obligations for, or meets and communicates with minor children with household registration in the Taiwan Area after his/her divorce.
+
+\4. Is deported from the State due to the revocation of his/her residence permit and is believed to have caused severe and irrecoverable hardship to his/herminor children with household registration in the Taiwan Area.
+
+\5. Has a labor dispute with the domestic employer and the lawsuit procedure is in the process.
+
+\6. Suffers from occupational injury and is still under treatment.
+
+\7. Is a victim or a witness involved in a criminal case and necessary to render assistance in the investigations or the trial if attending at the court or being deposed as determined by the prosecutor or the judge.
+
+\8. Is prohibited from exiting the State pursuant to Paragraph 1 of Article 21.
+
+\9. Obtains the residence permit through his/her spouse, who is a national of the State, as a sponoser and remarries the original sponoser within thirty (30) days after his/her divorce.
+
+One who is permitted to reside continually pursuant to Subparagraph 3 or 4 of the preceding Paragraph may be permitted to reside continually after his/her minor children become adults.
+
+In the event that an alien changes his/her resident address or his/her place of employment during the period of his/her residence, he/she shall apply to the National Immigration Agency for registering the change within thirty (30) days, calculating from the next day of the occurrence of the event.
+
+### Article 32
+
+The National Immigration Agency shall revoke or terminate a person’s residence permit and cancel his/her Alien Resident Certificate if he/she meets one of the following circumstances:
+
+\1. Has submitted false information for his/her application.
+
+\2. Has held illegally acquired, counterfeited, or fraudulent documents .
+
+\3. Has been sentenced to imprisonment for one (1) year or more by a judicial authority. The rule does not apply to the person who committed the crime due to his/her negligence or who is on probation order.
+
+\4. Has restored the nationality of the State.
+
+\5. Has acquired the nationality of the State.
+
+\6. Has had the nationality of the State and has entered, exited, stayed or resided permanently as a national of the State.
+
+\7. Has acquired an Alien Permanent Resident Certificate.
+
+\8. Has been deported from the State.
+
+### Article 33
+
+The National Immigration Agency shall revoke or terminate a person’s permanent residence permit and cancel his/her Alien Permanent Resident Certificate if he/she meets one of the following circumstances:
+
+\1. Has submitted false or untruthful information for his/her application.
+
+\2. Has held illegally acquired, counterfeited, or fraudulent documents.
+
+\3. Has been sentenced to imprisonment for one (1) year or more by a judicial authority. The rule does not apply to the person who committed the crime negligently or is on probation order.
+
+\4. Has not resided for one hundred and eighty-three (183) days for each year on an average basis in the past five (5) years during his/her permanent residence in the State. The person shall be exempted if he/she has the approval of the National Immigration Agency to study abroad, seek medical treatment, or for other exceptional reasons.
+
+\5. Has restored the nationality of the State.
+
+\6. Has acquired the nationality of the State.
+
+\7. Has had the nationality of the Statesimultaneously.
+
+\8. Has been deported from the State.
+
+### Article 34
+
+An alien shall apply for a reentry permit from the National Immigration Agency in advance if they have to exit prior to reentering the State during their residence. The alien who has acquired permanent residence permits shall re-enter the State by his/her Alien Permanent Residence Certificate and shall be exempted from the foresaid requirement.
+
+### Article 35
+
+The competent authority shall enact regulations that govern a procedure for applying for alien visits, residence, and permanent residence in the State, required documents , qualifications, types of certificates to be issued, validity periods of certificates, investment products, management and operations of funds and other matters which must be complied with.
+
+## Chapter 6 Deportation and Detention
+
+### Article 36
+
+The National Immigration Agency shall deport an alien if he/she commits any of the following offenses:
+
+\1. Violation of the provisions stated in Paragraph 1 of Article 4 by entering the State without inspection
+
+\2. Violation of the provisions stated in Paragraph 1 of Article 19 by temporarily entering the State without permission
+
+The National Immigration Agency may deport or order an alien to exit the State within ten (10) days after he/she receives the deportation order, based on any of the following circumstances; The National Immigration Agency may deport an alien who has failed to exit the State within a given period of time of the order.
+
+\1. Has entered the State and been found in violation of any of the provisions indicated in Paragraphs 1, 2 of Article 18 which prohibits entry into the State
+
+\2. Has failed to comply with requirements such as documents, certificates, and periods/place of visits, stipulated under Paragraph 2 of Article 19
+
+\3. Has violated the provisions stated in Paragraph 2 of Article 20 by leaving the designated overnight lodging facility without permission
+
+\4. Has violated the provisions stated in Paragraph 1 of Article 29 by engaging in activities that are inconsistent with the purpose of visit or residence
+
+\5. Has failed to comply with regulations concerning restrictions on his/her residence and activities as set by the National Immigration Agency in accordance with Article 30
+
+\6. Has violated the provisions stated in Paragraph 1 of Article 31 by failing to apply for extension of stay or residence prior to the expiration date of the visitor or residence permit; however, exceptions can be made depending on the condition stated in Paragraph 3 of Article 31
+
+\7. Has met the provision indicated in Paragraph 4 of Article 31 and the reason for residence no longer exists, resulting in the cancellation of the alien’s residence permit and revocation of the Alien Resident Certificate
+
+\8. Has violated the provisions stated in Paragraphs 1 to 3 of Article 32, resulting in the cancellation of the alien’s residence permit and revocation of the Alien Resident Certificate
+
+\9. Has violated the provisions stated in Subparagraphs 1 to 3 of Article 33, resulting in the cancellation of the alien’s permanent residence permit and revocation of the Alien Permanent Resident Certificate
+
+Upon learning that a criminal act has been committed by an alien (based on the preceding two Paragraphs subject to judicial process), the National Immigration Agency shall notify the relevant authorities ten (10) days prior to the execution of deportation. Unless the alien is detained, arrested, taken into custody or prohibited from exiting the State under the law, the National Immigration Agency may deport or order an alien to exit the State.
+
+The National Immigration Agency shall provide the alien an opportunity to submit claims before deportation is enforced in accordance with the provisions; and shall convene a review committee meeting before deporting the alien, who has already acquired a residence permit or permanent residence permit. However, the alien shall be deported without undergoing a review process if he/she falls under any of the following circumstances:
+
+\1. Having presented a written statement renouncing his/her rights to file a claim or having chosen to exit the State voluntarily
+
+\2. Having been sentenced to deportation as a result of a final court decision
+
+\3. Having been ordered to exit the State pursuant to other laws
+
+\4. Having been found guilty of endangering national interest, public safety, and public order or engaging in terrorist activities, an enforcement action shall be immediately undertaken given the urgency of the matter
+
+The party in the preceding Paragraph may engage attorneys and interpreters to attend on site when the claim submission procedure or the review committee meeting is proceeded. The National Immigration Agency may, however, restrict or prohibit if it is possible that such attending may damage national security or if their conduct is inappropriate and sufficient to impact the on-site order or the proceedings.
+
+Competent authorities shall enact regulations on the deportation enforcement process mentioned in Paragraphs 1 and 2 and the preceding Paragraph, along with the respective deportation methods, procedures, management, on-site permission for the attorneys and interpreters, the restrictions or prohibitions thereof, and other guidelines.
+
+The review committee meeting referred in Paragraph 4 shall be selected and appointed by competent authorities from representatives of relevant agencies, independent community representatives, scholars and experts. The number of single gender committee members should be no less than one third, while scholars and experts should make up one half or more of the total number of committee members.
+
+### Article 37
+
+The National Immigration Agency can request concerned departments or organizations for assistance or necessary information that would help investigate nationals without household registration in the Taiwan Area and are involved in any of the cases mentioned in Paragraphs 1 and 2 of Article 15, as well as aliens who are involved in any of the cases indicated in Paragraph 1 of the preceding Article. The requested departments or organizations must not reject the request except for justifiable reasons.
+
+When nationals without household registration in the Taiwan Area or aliens have served out their sentences or will be released for a reason, the prison facility, vocational training facility, drug rehabilitation center, reform school, or correctional school should notify the National Immigration Agency.
+
+### Article 38
+
+An alien who is sentenced to deportation and falls under any of the following circumstances may be temporarily detained by the National Immigration Agency if it is difficult or unable to execute the deportation. The duration of temporary detention may not exceed fifteen (15) days. The alien shall be allowed to submit claims before the temporary detention order is implemented:
+
+\1. Without relevant travel documents to execute the deportation order.
+
+\2. With whereabouts unknown or intention to escape or unwillingness to leavethe State.
+
+\3. Wanted by a foreign government.
+
+After allowing an alien to submit claims in accordance with the provisions of the preceding Paragraph and circumstances stated in the preceding Paragraph that deem temporary detention unnecessary, the National Immigration Agency may permit him/her to find a national with household registration in the Taiwan Area or a representative of a charitable organization, non-governmental organization or embassy, consulate, or authorized organization in the State who can provide bail or pay a specific amount of bail bond, in compliance with part or all of the following conditions of detention alternative sanction, and to facilitate the execution of deportation:
+
+\1. Report periodically on one’s activities of daily living at designated Specialized Operation Corps of the National Immigration Agency.
+
+\2. Restrict his/her place of residency in designated locations.
+
+\3.  Receive a visit periodically at designated places.
+
+\4. Provide contact information and telephone number, and respond promptly when being contacted by any personnel of the National Immigration Agency.
+
+\5. Apply for a travel document for return to his/her home country as requested.
+
+\6. Not engage in unpermitted activities or employment.
+
+In case an alien who is temporarily released from detention violates the aforementioned conditions, the National Immigration Agency may confiscate the bail bond as stipulated in the preceding Paragraph.
+
+### Article 38-1
+
+An alien who falls under any of the following circumstances may be suspended his/her temporary detention:
+
+\1. Is mentally impaired or physically sick, and the detention could affect treatment or endanger his/her life
+
+\2. Has been pregnant for five (5) months or longer, or has given birth or had a miscarriage for less than two (2) months
+
+\3. Children under twelve (12) years old;
+
+\4. Has contracted an infectious disease indicated in Article 3 of the Communicable Disease Control Act
+
+\5. Is unable to take care of himself/herself due to senility or physical or mental disability
+
+\6. Has been prohibited from exiting the State at the request of judicial authorities
+
+After the National Immigration Agency suspends temporary detention pursuant to the preceding Paragraph or terminates temporary detention order or ceases detention pursuant to Paragraph 1 or 2 of Article 38-7, it may impose alternative sanctions to detention order pursuant to Paragraph 2 of the preceding Article as well as notify registered social welfare institutions to provide social welfare, medical resources and shelter.
+
+### Article 38-2
+
+Any detainee or his/her spouse, blood relative, legal representative, or sibling may verbally or file in writing a notice of motion or objection against the temporary detention order under Paragraph 1 of Article 38 during temporary detention and after receipt of the “Notice of Mandatory Temporary Detention,” with grounds to the National Immigration Agency; the National Immigration Agency shall make a written record if the notice is given orally.
+
+After receiving the notice of motion or objection, the National Immigration Agency shall conduct a review based on itsauthority. If the objection has sufficient grounds,, the original temporary detention order may be revoked or terminated. If it hasn’t sufficient grounds, the detainee shall be presented in court within twenty-four (24) hours along with the objection letter, objection records, the National Immigration Agency’s opinions and case files. However, if the court decides to conduct remote proceedings in accordance with related provisions of the Administrative Litigation Law, it would be assumed that the National Immigration Agency has presented the detainee in court with the corresponding case file and documentation.
+
+In Paragraph 1 wherein a person files a notice of motion in court or against other authorities, the court or other authorities should immediately forward the objection to the National Immigration Agency. The date the National Immigration Agency receives the notice, shall serve as the starting point for the objection proceedings against the detention order.
+
+The remedy procedures of filing an objection against the temporary detention should be followed. The aforementioned remedy procedures are not be applied to the remedies of revocation or confirmation of an appeal.
+
+The temporary detention order shall become invalid since the court ruling against such detention objection has been determined and this allows the release of the detainee.
+
+### Article 38-3
+
+The time spent on one of the following circumstances shall be excluded in the twenty-four hour restriction indicated in Paragraph 2 of the preceding Article, unless there is no unnecessary delay:
+
+\1. The time spent on the delay caused by traffic obstruction or force majeure;
+
+\2. The time spent during the transfer of an detainee;
+
+\3. The interview cannot be conducted due to a detainee’s sudden health prbolems;
+
+\4. The person filing the objection according to Paragraph 1 of the preceding Article disagree to make written recordsin the evening;
+
+\5. The records can’t be prepared without the presence of an authorized representative to represent the detainee. The time spent on waiting for an authorized representative shall not exceed four hours. The same rule applies to waiting for persons named in Paragraph 1 of the preceding Article in case a detainee with intellectual and development of disability fails to provide a clear and complete statement;
+
+\6. The records cannot be prepared without the presence of an interpreter that the detainee may require. The waiting time for an interpreter shall not exceed six hours;
+
+\7. The time spent while judicial authorities review a criminal case;
+
+Based on the proceeding Paragraphs, the National Immigration Agency shall specify the reason in the written report to the court.
+
+Where the National Immigration Agency fails to bring a detainee to court within twenty-four hours, the detention order shall be terminate and the detainee be released.
+
+### Article 38-4
+
+Prior to the deadline of the temporary detention and when it is necessary to continue the detention order, the National Immigration Agency shall apply for continued detention with reasonable grounds to the court for a ruling no later than five (5) days before the deadline.
+
+In case the detainee’s passport or travel document is lost or expired without replacement, reissuance or extension prior to the deadline of the continued detention or the detainee cannot be deported from the State due to natural disasters, epidemic or other force majeure, if it is necessary to continue the detention order, the National Immigration Agency shall apply for extended detention with reasonable grounds to the court for a ruling no later than five (5) days before the deadline.
+
+The period of continued detention shall not exceed forty-five (45) days from the deadline of temporary detention; the period of extended detention shall not exceed forty (40) days from the deadline of continued detention.
+
+In case the detainee cannot be deported from the State due to natural disasters, epidemics or other force majeure prior to the deadline of the extended detention in the preceding Paragraph and meets any of the following circumstances, and when it is necessary to continue the detention order, the National Immigration Agency, after respectively consulting with the Coast Guard Administration, Ocean Affairs Council, the National Security Bureau, and other related authorities, shall apply for re-extended detention with reasonable grounds to the court for a ruling no later than five (5) days before the deadline:
+
+\1. Enter the State without permission.
+
+\2. Ever committed a crime under the National Security Act or the Anti-infiltration Act and was convicted of a criminal offence.
+
+The period of re-extended detention in the preceding Paragraph shall not exceed forty (40) days each time from the deadline of the last extended detention.
+
+The procedural regulations with respect to the petition for extended detention under Chapter IV, Part II of the Administrative Litigation Act apply to the petition for re-extended detention in Paragraph 4.
+
+### Article 38-5
+
+Upon learning that a criminal act has been committed by an alien detainee subject to judicial proceedings, the National Immigration Agency shall notify the relevant judicial authorities ten (10) days prior to the execution of deportation. Unless the alien detainee is detained or prohibited from exiting the State under the law, the National Immigration Agency may deport or order the detainee to exit the State.
+
+Before this amended Act was enforced on January 23, 2015, an alien who falls under any of the circumstances in Paragraph 1 of Article 38 is suspected of involvement in a criminal act and is detained at a location designated by judicial authorities. Once convicted, the alien is detained for one (1) day at a detention location pursuant to Article 39, which is considered a one (1) day sentence, furthermore, the accumulated days of detention may also offset the fine determined based on the provisions prior to the amendment of this Act.
+
+For aliens convicted of involvement in criminal activities who have not completed their sentences before December 9, 2011, their time served in detention places referred to in Article 39 before the enactment would be included in the sentences based on the previous offset provisions.
+
+Before this amended Act was enforced on January 23, 2015, an alien who is detained by the National Immigration Agency for no more than fifteen (15) days may file for a notice of motion or objection against the detention order in accordance with Paragraph 1 of Article 38-2. This can be done before the period of fifteen (15) days provided that it is necessary to continue the detention. Thus, a continuation of the detention period may be applied for with sufficient grounds submitted to the court.
+
+If an alien stated in the preceding Paragraph, is detained for fifteen (15) to sixty (60) days or over sixty (60) days when the amendment was enforced, the National Immigration Agency shall necessarily apply for a continuation or extension of the detention period and submit sufficient grounds to the court.
+
+Based on the preceding two Paragraphs, the time period of detention before and after the amended Act was enforced on January 23, 2015 shall not exceed one hundred (100) days.
+
+### Article 38-6
+
+The subject shall be notified in writing of the temporary detention order, alternative sanction to detention and deportation. Using the subject’s familiar language, the National Immigration Agency must also provide the reasons for the decision, the methods or ways to remedy, the duration of detention, relevant authorities, and other related regulations. The embassy or consulate in the State of the subject’s country of origin, shall also be notified of the detention decision no later than twenty-four (24) hours.
+
+### Article 38-7
+
+After the National Immigration Agency executes temporary detention or the court rules in favor of continued detention, extended detention or re-extended detention, if the detention is groundless, unnecessary, or refutable, the National Immigration Agency may, based on its authority, terminate temporary detention order or cease detention and then release the detainee.
+
+Where the court dismisses the petition for continued detention, extended detention or re-extended detention by a ruling, the National Immigration Agency shall cease detention and release the detainee. The same rule applies to the situation where the period of temporary detention, continued detention, extended detention or re-extended detention expires and no petition for continued detention, extended detention or re-extended detention is submitted to the court.
+
+In case an alien who is suspended temporary detention in accordance with Paragraph 1 of Article 38-1 or a detainee whose temporary detention order or cease of detention is terminated in accordance with the preceding two Paragraphs violates the alternative sanctions detention order under Paragraph 2 of Article 38-1, the National Immigration Agency may confiscate the bail bond.
+
+After the court permits continued detention, extended detention or re-extended detention by a ruling, if the detainee is deported from the State or receives order pursuant to Paragraph 1, the National Immigration Agency shall timely notify the court of the original ruling.
+
+### Article 38-8
+
+If an alien, who is suspended temporary detention in accordance with Paragraph 2 of Article 38 or Paragraph 1 of Article 38-1 or whose temporary detention order or cease of detention is terminated in accordance with Paragraph 1 or 2 of the preceding Article, falls under any of the following circumstances and is obviously difficult to be deported from the State without detention, the National Immigration Agency may impose repeated temporary detention on him/her and apply to the court for continued detention, extended detention and re-extended detention by a ruling before the deadline:
+
+\1. The alien violates the alternative sanctions detention under Paragraph 2 of Article 38 or Paragraph 2 of Article 38-1.
+
+\2. The reason for terminating the temporary detention order or the ceasing of the detention no longer exists.
+
+The period for repeated detention of an alien mentioned in Subparagraph 1 of the preceding Paragraph shall be recalculated.
+
+The time period for repeated detention of an alien mentioned in Subparagraph 2 of Paragraph 1 shall be calculated in combination with other time periods of detention for the same case. Except for the re-extended detention under Paragraph 4 of Article 38-4, the period shall not exceed one hundred (100) days.
+
+Before the amended Articles of this Act as of May 30, 2023 are enforced, if an alien receives repeated temporary detention, continued detention or extended detention pursuant to Paragraph 1 before amendment, the provisions before amendment shall apply to the period for his/her repeated detention.
+
+### Article 38-9
+
+The court may conduct remote proceedings for cases involving objections against detention, continued detention, extended detention and re-extended detention.
+
+The methods, procedures and other regulations concerning operating processes that require the National Immigration Agency to send a detainee to court or remotely participate in a court proceeding as stated in the preceding Paragraph shall be enacted by Executive Yuan together with the Judicial Yuan.
+
+### Article 39
+
+The National Immigration Agency shall set up or designate appropriate places for the detention of aliens; the competent authority shall enact regulations that govern the procedure of detention, means of administration and other matters which must be complied with.
+
+## Chapter 7 (Deleted)
+
+### Article 40
+
+(Deleted)
+
+### Article 41
+
+(Deleted)
+
+### Article 42
+
+(Deleted)
+
+### Article 43
+
+(Deleted)
+
+### Article 44
+
+(Deleted)
+
+### Article 45
+
+(Deleted)
+
+### Article 46
+
+(Deleted)
+
+## Chapter 8 Responsibilities of the Captain of an Aircraft, Responsibilities of the Captain of a Vessel, and Responsibilities of Transport Service Proprietor
+
+### Article 47
+
+The captain of an aircraft or a vessel, or the proprietor of other means of transport service shall assist staff of the National Immigration Agency when they are performing their official duties in accordance with this Act and other laws and decrees concerned.
+
+The captain of an aircraft or vessel, or transport service proprietor stated in the preceding Paragraph shall not operate his aircraft, vessel, or other means of transport to carry passengers without entry permits to enter the State. However, this provision does not apply to a passenger qualified to apply for a temporary visit permit, visa or visa-exempt entry upon arrival, or who is permitted to enter the State by the competent authorities before boarding the aircraft or vessel.
+
+### Article 48
+
+Before an aircraft, a vessel, or any other means of transport arrives at or departs from an airport or a seaport, its captain, or transport service proprietor shall notify the National Immigration Agency (in advance of scheduled arrival and departure) of the following information, which shall be divided into entry, exit and transit respectively.
+
+\1. The flight/vessel number, the date, time and location of departure and arrival, and other information related to the flight/vessel.
+
+\2. A list of the names, birth dates, nationalities, genders, numbers of the travel documents or entry permits, and other information related to the identification documents of the flight/vessel crew and passengers.
+
+\3. The booking information and other information related to the booking retained in the system of the transport service proprietor or its agents.
+
+The competent authority shall enact regulations with respect to the content, methods, management, utilization, and retention period of the information to be notified, as stated in the preceding Paragraph and other matters which must be complied with.
+
+### Article 49
+
+The captain of an aircraft or a vessel, or the transport service proprietor stated in Paragraph 1 of the preceding Article shall report flight crew, sailors, or passengers to the National Immigration Agency if they have no passports, flight crew identification documents, seaman service books or have been involved in various illegal matters, such as being deported or denied entry by other countries or illegal entry.
+
+When an aircraft, a vessel, or any other means of transport departs from the State, its captain, or transport service proprietor shall send the National Immigration Agency a list of names of the flight crew or sailors, and passengers, who have entered the State to make a temporary stay.
+
+### Article 50
+
+The captain of an aircraft or a vessel, or the transport service proprietor shall be responsible for arranging transport on the day or of the earliest shift to deport passengers, sailors, or flight crew on board his aircraft, his vessel, or other means of transport, if they meet one of the following circumstances:
+
+\1. Have been prohibited from entering the State pursuant to Article 7 or Paragraph 1, Article 18.
+
+\2. Have made a temporary entry into the State pursuant to Paragraph 1 of Article 19.
+
+\3. Have stayed for overnight lodging pursuant to Paragraph 1 of Article 20.
+
+\4. Have no entry permits to enter the State pursuant to Paragraph 2 of Article 47.
+
+During the time in which the people enumerated in the Subparagraphs of the preceding Paragraph are waiting for deportation, the National Immigration Agency shall designate shelters and/or be responsible for looking after them.
+
+Except for the circumstance set forth in Subparagraph 1, the concerned transport service proprietor shall pay for the related expenses.
+
+## Chapter 9 Immigration Guidance and Administration of Immigration
+
+### Article 51
+
+The government shall provide protection, care, assistance, planning, and guidance to immigrants.
+
+The competent authority shall coordinate with other government bodies (institutions) or private organizations to provide immigrants with services such as consultation, lectures, language and skills training.
+
+### Article 52
+
+The government may dissuade nationals from planning to immigrate to countries or regions where wars or epidemics are ongoing or where nationals are rejected.
+
+### Article 53
+
+Mass immigration shall be operated by private organizations or by the competent authority which carries it out through evaluating, coordinating, and guiding international economic cooperative investment, rewarded overseas investment, agricultural technology cooperation, or other measures.
+
+### Article 54
+
+The competent authority may coordinate with the departments concerned to help establish overseas compatriot schools or encourage local banks to establish overseas branches according to the actual needs of immigrants and in accordance with local laws and regulations.
+
+### Article 55
+
+The operation of immigration services is exclusively reserved for corporate organizations, which shall apply for an operation permit from the National Immigration Agency, register themselves as corporations in accordance with laws, and receive a license from the Agency before they can conduct immigration services. Those who conduct immigration services pursuant to Paragraph 2 of Article 21 or Article 120 of the Lawyer Act, however, shall apply to the Agency for a license.
+
+Branches established by foreign immigration service organizations in the State shall apply for an operation permit from the National Immigration Agency, register themselves in accordance with the Company Act, and receive a license from the Agency before they can conduct immigration services.
+
+The immigration service agent corporations stated in the preceding two Paragraphs shall apply to the National Immigration Agency for permission of their changes in their registered items or filing of and future reference of the changes within fifteen (15) days from the next day of the date of the occurrence of the fact; they shall apply to the Agency for a change of their licenses within one (1) month from the next day of the date of the completion of registering changes of corporate information. Those who conduct immigration services pursuant to the exception of Paragraph 1 shall, however, apply to the Agency for a change of their licenses within one (1) month from the next day of the occurrence of the fact that their registered items change.
+
+Where the central authority in charge of labor affairs permit private employment service institutions to engage in transnational human resources agent businesses, the institutions shall apply for residence applications for the aliens that they have brokered.
+
+### Article 56
+
+An immigration service organization may render each of the following various immigration services:
+
+\1. Acting as an agent to handle matters concerning applications for residence, registered permanent residence, permanent residence, or naturalization.
+
+\2. Acting as an agent to handle matters concerning applications for non-tourist visitor visas.
+
+\3. Conducting immigration funds related to investment, which are exclusively needed for the protection of immigrants' rights.
+
+\4. Providing counseling on other matters concerning immigration.
+
+Where an immigration service organization handles overseas immigration funds as provided by Subparagraph 3 of the preceding Paragraph, it shall apply to the National Immigration Agency for permission on case-by-case basis.
+
+Immigration service organizations which render the services stated in Subparagraph 3 of Paragraph 1 shall not receive the amounts of money related to immigration investment funds.
+
+Beforethe immigration service organizations which advertise the various services stated in each of the subparagraphs of Paragraph 1 can disseminate, broadcast or publish these advertisements, immigration organizations designated by the National Immigration Agency shall review and approve the content of these advertisements, andapproval number, which signify the immigration organizations’ reviews and approval of the content of the advertisements, to the immigration service organization. However, the advertisements produced by overseas immigration funds must be transferred for immigration associations’ reviews and approval on case-by-case basis. The advertisements shall be re-transferred for the approval of the National Immigration Agency before they can be disseminated, broadcasted or published.
+
+Advertising enterprises, publication enterprises, broadcast corporations, television corporations, electronic signaling corporations, internet enterprises or other media enterprises shall not disseminate, broadcast or publish an immigration service organization’s advertisements which are not endowed or issued with approval number signifying the immigration organizations’ reviews and approval of the content of the advertisements.
+
+An immigration service organization shall submit its statistics of immigration service cases annually and store related information for five (5) years. They shall not avoid, obstruct or refuse an inspection conducted by the National Immigration Agency.
+
+When an immigration service organization is commissioned to handle businesses set forth in each subparagraph of Paragraph 1, it shall sign a written agreement with the principal.
+
+### Article 57
+
+An immigration service organization shall fulfill the following requirements before applying for and during operating the immigration services:
+
+\1. Has more than a certain amount of net capital.
+
+\2. Employs full-time qualified specialists and meet the quatas.
+
+\3. Has deposited a certain amount of money as security at a financial organization.
+
+\4. Has met other mandatory requirements designated by the competent authority.
+
+The restrictions set forth in Subparagraphs 1 to 3 of the preceding Paragraph do not apply to those who conduct immigration services pursuant to the exception of Paragraph 1, Article 55.
+
+The competent authority shall enact regulations that govern procedures of application for operating immigration services; required documents; net capital; qualifications of the person in charge of the organization; qualifications of a specialist; quota; training; tests; guidance and administration; amount of margin; revocation of permits; issuance, reissuance, cancellation and collection of a registration license; required documents for applications for permission of handling immigration funds; review and approval of advertisements on immigration businesses; and other matters which shall be complied with.
+
+### Article 58
+
+Transnational marriage match shall not be an item of business operation.
+
+Transnational marriage agencies shall not demand remunerations or contractual remunerations.
+
+No person shall disseminate, broadcast or publish advertisements of transnational marriage agencies through advertising, publication, broadcast, television, electronic signaling, internet or other means that can make the advertisements publicly known.
+
+### Article 59
+
+The operation of profit making transnational marriage agencies and of non-profit transnational marriage agencies shall be permitted by the National Immigration Agency and they shall submit their business operation reports to the Agency periodically.
+
+The agencies mentioned in the preceding Paragraph shall store the information on their businesses for five (5) years respectively. They shall not avoid, obstruct or refuse inspections conducted by the National Immigration Agency.
+
+The competent authority shall enact regulations that govern requirements for an application for permission mentioned in Paragraph 1, an application procedure, the period of review, revocation and termination of permits, business inspection, supervision and administration, and other matters which shall be complied with.
+
+### Article 60
+
+A transnational marriage agency shall be obliged to accomplish inspecting and proving the content of the personal information provided by both parties who are to be matched and to keep confidential of the personal information. After both parties reach a written agreement, they are to provide personal information to each other integrally and reciprocally.
+
+The written agreement mentioned in the preceding Paragraph shall be made in the official language of the country where a party resides.
+
+### Article 61
+
+The companies or films which were legally established before September 26, 2006 and that marriage matching businesses were operating items shall not engage in transnational marriage match from the first day of the expiration of the implementation period – one (1)-year period – of the amended texts dated November 30, 2007.
+
+### Article 62
+
+Any person shall not discriminate against people residing in the Taiwan Area on the basis of nationality, race, color, class and place of birth.
+
+Any person whose rights are trespassed due to the discrimination mentioned in the preceding Paragraph can file a complaint to the competent authorities on the basis of the situations of the trespass, unless the matter is regulated by other laws otherwise.
+
+The competent authorities shall enact regulations that govern items, requirements for filing a complaint mentioned in the preceding Paragraph, complaint procedures and the composition of a review committee.
+
+## Chapter 10 Interview and Investigation
+
+### Article 63
+
+For the purposes of implementing inspections of entry and exit, investigating cases of applications, illegal entry and exit overstaying a visit, overstaying the period of residence, engagement in unpermitted activities , or deportation, the staff of the National Immigration Agency shall carry out the functions pursuant to this chapter.
+
+The staff shall perform the functions mentioned in the preceding Paragraph on people of the Mainland Area, residents of Hong Kong or Macau.
+
+### Article 64
+
+When the staff of the National Immigration Agency inspects entry and exit and there are sufficient facts for the staff to believe that the person being inspected meets one of the following circumstances, the staff shall detain him/her in the service unit temporarily and conduct an investigation:
+
+\1. The passport, other entry documents or exit documents held by the person are obviously invalid, illegally acquired, counterfeited, or tampered, or that belong to another person or are applied for by using a false identity.
+
+\2. The person refuses to receive an inspection or severely obstruct the inspection procedure.
+
+\3. The person is believed to conduct an act set forth in Articles 73 or 74.
+
+\4. The person meets one of the circumstances on the prohibition of entry or exit pursant to this Act.
+
+\5. The person is detained temporarily upon the notification from a judicial authority or a military authority due to his/her involvement in a case.
+
+\6. Other circumstances which temporary detention is deemed necessary pursuant to laws.
+
+With respect to the temporary detention imposed on the person pursuant to the provisions of the preceding Paragraph, the staff shall cease the detention immediately when the purposes of imposing such detention have been reached or are no longer required. For nationals of the State, the duration of temporary detention shall not exceed two (2) hours; as for aliens, people of the Mainland Area, residents of Hong Kong or Macau, the duration shall not exceed six (6) hours.
+
+The competent authority shall enact regulations that govern the enforcement procedure on temporary detention provided under Paragraph 1, and other matters that must be complied with.
+
+### Article 65
+
+When the National Immigration Agency receives cases concerning the applications as follows, it shall interview applicants at the time of receiving their applications or on a chosen dayt. The Agency shall commission related authorities (institutions) to implement interviews if necessary.
+
+\1. Aliens apply for visits, residence or permanent residence in the Taiwan Area.
+
+\2. Nationals without household registration in the Taiwan Area, people of the Mainland Area, residents of Hong Kong or Macau apply for visits, residence or permanent residence in the Taiwan Area.
+
+Where the applicant who accepts the interview mentioned in the preceding Paragraph are under the age of fourteen (14), his/her legal representative shall be interviewed together with the applicant.
+
+Where the interview provided under Paragraph 1 is proceeded after an applicant is inspected and permitted to enter the State, the applicant may engage attorneys to attend on site. At its discretion, the National Immigration Agency may, however, made restricions or prohibitions when there is reason to believe that such attending may damage national security or if their conduct is inappropriate and sufficient to disrupt the on-site order or the proceedings.
+
+The competent authority shall enact regulations that govern the means of carrying out the interview provided under Paragraph 1 and the preceding Paragraph, procedures, required documents , on-site permission for the attorneys, the restrictions or prohibitions thereof and other matters which must be complied with.
+
+### Article 66
+
+For the purpose of investigating the facts and evidence about a person’s violation of laws, the National Immigration Agency shall notify in writing related people to attend an inquiry at the designated place.
+
+The notification shall record the purposes of conducting an inquiry, the time and place of the inquiry, the name of the officer in charge of the inquiry, and the legal effects of commissioning others to appear at the inquiry and theresult of absence.
+
+A person who is notified pursuant to the preceding Paragraph shall not refuse to appear at the inquiry without justifiable reasons.
+
+The provisions of the regulations stipulated pursuant to Paragraph 3 of the preceding Article shall apply mutatis mutandis to the inquiry provided under Paragraph 1.
+
+### Article 67
+
+When the staff of the National Immigration Agency carry out investigations, they may enter related business places, transportation vehicles or public places, and inspect and prove the identities of persons listed in each subparagraph as follows:
+
+\1. There are sufficient facts for the staff to believe that a person overstays a visit, the period of residence or shall be deported from the State.
+
+\2. There are considerable and sufficient reasons for the staff to believe that a person have conducted an act or is likely to conduct an act provided under Articles 73 or 74.
+
+\3. There are sufficient facts for the staff to believe that a person has been involved in unpermitted activities.
+
+\4. There are considerable and sufficient reasons for the staff to believe that a person has entered the State or exited the state illegally.
+
+\5. There are considerable and sufficient reasons for the staff to believe that a person makes other people to enter the State or exit the state illegally.
+
+The staff who are authorized to enter the business places to investigate and seek evidence pursuant to the preceding Paragraph can only enter the places during the business hours.
+
+The person in charge or the administrant of the business place mentioned in Paragraph 1 shall not avoid, obstruct or refuse the inspection conducted pursuant to Paragraph 1 without justifiable reasons.
+
+The competent authority shall enact regulations that govern the scope of business places provided under Paragraph 1 and publishes it in the Government Gazette.
+
+### Article 68
+
+The staff of the National Immigration Agency shall adopt the following mandatory measures to check the identity of a person:
+
+\1. Stop people, cars, boats or other transportation vehicles.
+
+\2. Enquire about a person’s name, date of birth, nationality, information on entry and exit, domicile, period of a visit or residence in the Taiwan Area, and related identification numbers.
+
+\3. Produce identification documents.
+
+\4. Use electronic equipment to recognize individual biometric characteristics data.
+
+\5. There are sufficient facts for the staff to believe that a person who is checked by the staff carries with him/her things that are sufficient to endanger the life and injure the body of the staff or of the person under the check and the staff shall check the person’s body and the things carried by the person. The staff shall seize such things if necessary.
+
+### Article 69
+
+The check conducted by the staff of the National Immigration Agency pursuant to Article 67 shall be proceeded on-site. Upon the consent of the person under the check or if one of the following circumstances occurs on-site, the staff shall take the person to the service place:
+
+\1. There is no way to ascertain the identity of the person,
+
+\2. Proceeding the check will cause disadvantageous effects on the person under the check.
+
+\3. Transpiration is obstructed or peace is disturbed.
+
+\4. The passport, other entry or exit documents held by the person under check are obviously invalid, counterfeited or tampered.
+
+\5. The person refuses to undergo a check.
+
+\6. The person has conducted an act provided under Articles 73 or 74.
+
+\7. A situation which falls in the circumstances provided under this Act.
+
+\8. Upon the notification from a judicial authority or a military authority, the person is to be detained due to his/her involvement in a case.
+
+When the staff takes the person under the check to the service place pursuant to the preceding Paragraph, he/she shall not use force against the person who does not resist against the check. In addition, the duration of the check shall not exceed three (3) hours, starting from the time of stopping the person for the check. The staff shall immediately notify a family member, relative, friend or attorney designated by the person.
+
+### Article 70
+
+Where the National Immigration Agency receives cases on applications for visits, residence, permanent residence or registered permanent residence in the Taiwan Area from applicants, may send its staff to investigate the domicile (place of residence) of the applicant in the Taiwan area if deemed necessary.
+
+The person under an investigation shall be notified of the investigation provided under the preceding Paragraph before the investigation is carried out.
+
+The investigation provided under the preceding Paragraph shall not be carried out in the evening. This provision shall not apply if one of the following circumstances occurs:
+
+\1. The person under the investigation, residents of the domicile or people who can be representatives of the foresaid people agree to the execution of the investigation in the evening.
+
+\2. The investigation starts during the day; after the consent of the person under the investigation, the investigation can be continued to the evening.
+
+### Article 71
+
+The National Immigration Agency shall proceed investigations and the registration of nationals without household registration in the Taiwan Area, aliens, people of the Mainland Area, residents of Hong Kong, and resident of Macau, who have stayed in the State for more than three (3) months, resided or permanently resided.
+
+Nationals without household registration in the Taiwan Area, aliens, people of the Mainland Area, residents of Hong Kong, and resident of Macau shall not avoid, obstruct or refuse the investigations and theinspection provided under the preceding Paragraph.
+
+The competent authority shall enact regulations that govern the procedure for proceeding an investigation pursuant to Paragraph 1 and Paragraph 1 of the preceding Article, items for inspection, means of implementing or other matters that must be complied with.
+
+### Article 72
+
+The staff of the National Immigration Agency who investigate cases on overstayed visits, overstayed period of residence, illegal entry, illegal exit, detention or deportation shall carry precautionary appliances or weapons with them.
+
+The staff mentioned in the preceding Paragraph shall use precautionary appliances if any of the following circumstances occurs:
+
+\1. A person shows an act of resistance,
+
+\2. A person attacks the staff or other people, damages articles of the staff or other people, or is believed to attack or damage.
+
+\3. A person escapes or is believed to escape.
+
+\4. A person commits suicide or injures himself or herself, or is believed to commit suicide or injure himself or herself.
+
+The staff mentioned in Paragraph 1 shall use weapons if any of the following circumstances occurs:
+
+\1. The staff’s lives, bodies, freedom or equipment is endangered or threatened, or there are sufficient facts to believe that the foresaid parts are endangered.
+
+\2. People’s lives, bodies, freedom or property are endangered or threatened, or there are sufficient facts to believe that the foresaid parts are endangered.
+
+\3. Lands, architecture, work pieces, cars and boats which are guarded are endangered.
+
+\4. A person possesses with lethal weapons and is believed to causethreat. After he/she is warned to throw the weapons away, he/she still does notsurrender.
+
+\5. Search, seize or arrest persons who overstay visits, or the period of residence, enter or exit the State illegally, or violate other laws; or search or seize the transportation vehicles of the foresaid persons, but these people resist and do not conform to the foresaid orders executed by the staff of the National Immigration Agency, or they escape. A person who assists another person in committing the foresaid offenses shall be subject to the same treatment.
+
+\6. The staff must use weapons to force or stop the occurrence of circumstances set forth in Subparagraphs 1 to 3 of the preceding Paragraph.
+
+Where the staff mentioned in Paragraph 1 use precautionary appliances or weapons and result in injuries, the death or loss in property, the National Immigration Agency shall provide compensation and indemnification and Article 11 of the Police Weapon Use Statute shall apply mutatis mutandis. Where the injuries, the death or loss of property has resulted from an intentional act of the Agency’sstaff, the staff shall compensate the Agency.
+
+The competent authority shall enact regulations pursuant to Paragraph 1 that govern types and specifications of precautionary appliances, types and specifications of weapons, attentions and other matters that must be complied with.
+
+Precautionary appliances and weapons provided under Paragraph 1 shall not be manufactured, sold or possessed without the permission of police authorities. Article 14 of the Police Weapon Use Statute shall apply mutatis mutandis to people who infringe this provision.
+
+## Chapter 11 Penalties
+
+### Article 72-1
+
+A person who violates Subparagraph 1 or 2 of Article 7-1, Paragraph 1 of Article 21-1, or Subparagraph 2, Paragraph 1 of Article 21-1 as applied mutatis mutandis by Paragraph 2 thereof shall be sentenced to imprisonment for not less than one (1) year and not more than seven (7) years or, in addition thereto, a fine of not more than NT$1 million.
+
+A person who commits the crime in the preceding Paragraph with intent to profit therefrom shall be sentenced to imprisonment for not less than three (3) years and not more than ten (10) years or, in addition thereto, a fine of not more than NT$5 million.
+
+A ringleader in the preceding two Paragraphs shall be sentenced to imprisonment for not less than five (5) years or, in addition thereto, a fine of not more than NT$10 million.
+
+A person who attempts to commit offence defined in the preceding three Paragraphs shall be sentenced.
+
+### Article 73
+
+A person who exchanges, hands over travel documents, or uses other illegal means at airports or seaports, in order to use an aircraft, a vessel, or any other means of transport to carry people not to be transported to the State or any countries according to any contracts shall be sentenced to imprisonment for not more than five (5) years or, in addition thereto, a fine of not more than NT$2 million.
+
+A person who attempts to commit offence defined in the preceding Paragraph shall be sentenced.
+
+### Article 74
+
+A person who enters the State without permission or exits the State during period which a departure prohibition order remain in force shall be sentenced to imprisonment for not more than five (5) years or short-term imprisonment, or by a fine of not more than NT$500,000, or both. The same rule applies to a person who violates Paragraph 1, Article 10 of the Act Governing Relations between the People of the Taiwan Area and the Mainland Area or Paragraph 1, Article 11 of the Laws and Regulations Regarding Hong Kong & Macau Affairs, and enters the Taiwan Area without permission.
+
+A person who is subject to prohibition from exiting the State and meets any of the following circumstances shall be sentenced to imprisonment for not more than three (3) years or short-term imprisonment , or by a fine of not more than NT$90,000, or both:
+
+\1. Has used a counterfeited or tampered passport/travel document, which is not of the State, to undergo inspection thereof upon exiting the State.
+
+\2. Has used another person’s passport/travel document or a passport/travel document applied by using a false identity, which is not of the State, to undergo inspection thereof upon exiting the State.
+
+A person who has used another person’s passport/travel document or a passport/travel document applied by using a false identity, which is not of the State, to undergo inspection thereof upon exiting the State shall be sentenced to imprisonment for not more than one (1) year or short-term imprisonment , or fined of not more than NT$9,000, or both.
+
+### Article 74-1
+
+A person who violates Subparagraph 3 of Article 7-1 or Paragraph 2 of Article 29 shall be fined not less than NT$200,000 and not more than NT$1 million. The penalty shall be imposed on the person every time when violating this provision.
+
+A national without household registration in the Taiwan Area or an alien who overstays a visit or a period of residence shall be fined not less than NT$10,000 and not more than NT$ 50,000.
+
+A person who, with intent to faciliate a national without household registration in the Taiwan Area or an alien who overstays a visit or a period of residence to engage in illegal activities, habour or causes the concealment of the national or the alien shall be fined not less than NT$ 60,000 and not more than NT$300,000. The penalty shall be imposed on the person every time when violating this provision.
+
+For special reasons, the competent authorities may, upon approval, deduct or waive the penalty imposed on the conduct that shall be fined in the preceding three Paragraphs.
+
+The competent authorities shall enact regulations that govern the recognition and reduction standards of special reasons in the preceding Paragraph.
+
+### Article 75
+
+An immigration service organization shall be fined not less than NT$200,000 and not more than NT$1 million if it does not acquire a license pursuant to Article 55, or if it conducts immigration services pursuant to each subparagraph of Paragraph 1, Article 56 after cancellation of the license. The penalty shall be imposed on the organization every time the organization violates this provision.
+
+### Article 76
+
+If any of the following circumstances occurs, the violator of this provision shall be fined not less than NT$200,000 and not more than NT$1 million. The penalty shall be imposed on the person every time the person violates this provision.
+
+\1. A company or a firm engages in transnational marriage match.
+
+\2. A person engages in transnational marriage match and request remunerations or contractual remunerations.
+
+### Article 77
+
+If any of the following circumstances occurs, the violator of this provision shall be fined not less than NT$100,000 and not more than NT$500,000:
+
+\1. Violation of Paragraph 1 of Article 4, and entering or exiting the State without being inspected.
+
+\2. Violation of the exception of Paragraph 1 of Article 5, and exits the State without approval.
+
+### Article 78
+
+If any of the following circumstances occurs, the violator of this provision shall be fined not less than NT$100,000 and not more than NT$500,000. The penalty shall be imposed on the person every time the person violates this provision.
+
+\1. A person violates Paragraph 3 of Article 58 by commissioning others to or being commissioned to disseminate, broadcast or publish advertisements on transnational marriage match; or by disseminating, broadcasting or publishing advertisements on transnational marriage match on his/her accord.
+
+\2. A person violates Paragraph 1 of Article 59 by engaging in transnational marriage match without permission; or engages in transnational marriage match after the permission is revoked or terminated.
+
+### Article 79
+
+If an immigration service agent corporation meets one of the following circumstances, it shall be fined not less than NT$30,000 and not more than NT$150,000 and ordered to improvewithin the specified period in the order. If it is still not improved after the lapse of such period, it shall be ordered to have its business closed.
+
+\1. Fails to renew registration license to the National Immigration Agency pursuant to Paragraph 3 of Article 55.
+
+\2. Violates Paragraph 2 of Article 56 by failing to have its overseas immigration funds permitted by the National Immigration Agencycase by case.
+
+\3. Violates Paragraph 3 of Article 56 by collecting the amount of money related to immigration investment funds.
+
+\4. Violates Paragraph 4 of Article 56 by disseminating, broadcasting or publishing advertisements on immigration businesses, which have not been reviewed, affirmed or approved.
+
+\5. Violates Paragraph 6 of Article 56 by failing to submit its annual statistics of immigration service cases; having submitted untrue annual business operation reports; storing related information without complying with the provisions; or avoiding, obstructing or refusing an inspection.
+
+\6. Violates Paragraph 7 of Article 56 by failing to sign a written agreement with the principal.
+
+If one who conducts immigration services pursuant to the exception of Paragraph 1 of Article 55 meets one of the circumstances in the preceding Paragraph, he/she shall be fined not less than NT$30,000 and not more than NT$150,000 and ordered to improve within the specified period in the order. If he/she makes improvements after the lapse of such period, he/she shall be ordered to have his/her license cancelled and have the punishment published.
+
+Advertising enterprises, publication enterprises, broadcast corporations, television corporations, electronic signaling corporations, internet enterprises or other media enterprises, which violate Paragraph 5 of Article 56, shall be fined not less than NT$30,000 and not more than NT$150,000. They shall be ordered, in addition, to cease dissemination, broadcast or publication. The enterprises which have not ceased to disseminate, broadcast or publish advertisements mentioned in the said provision, shall be fined not less than NT$60,000 and not more than NT$300,000. Additionally, the penalty shall be imposed on the enterprise every time the enterprise violates this provision.
+
+### Article 80
+
+If a person meets one of the following circumstances, he/she/its shall be fined not less than NT$ 30,000 and not more than NT$150,000. Additionally, the penalty shall be imposed on the person every time the person violates this provision.
+
+\1. Fails to submit the business condition report pursuant to Paragraph 1 of Article 59.
+
+\2. Fails to store the information on match business pursuant to Paragraph 2 of Article 59 or avoided, obstructed or refused the inspection
+
+\3. Violates the fore part of Paragraph 1 of Article 60 by failing to accomplish inspecting and proving the content of the information provided by parties who are to be matched and to keep confidential of the information.
+
+\4. Violates the second part of Paragraph 1 of Article 60 by providing personal information to others or intentionally concealing the personal information which are required to be provided to others without the written consent of the party who is to be matched.
+
+### Article 81
+
+When the competent authority receives a complaint set forth in Article 62 and believes that the matters violate such a provision, it shall notify the person who violates the law to improve within the specified period in the order. If after the lapse of such period, the person still does not improve, he/she shall be fined not less than NT$5,000 and not more than NT$30,000.
+
+### Article 82
+
+A person who violates Paragraph 2 of Article 47 by using an aircraft, a vessel, or any other means of transport to carry passengers without travel documents to enter the State shall be fined not less than NT$20,000 and not more than NT$100,000 for each passenger carried.
+
+A person who assists another person in committing the offence set forth in the preceding Paragraph shall be subject to the same punishments.
+
+### Article 83
+
+The captain of an aircraft or a vessel, or the transport service proprietor, who violates Paragraph 1 of Article 47, Paragraph 1 of Article 48, Article 49 or Article 50 without justifiable reasons, shall be fined not less than NT$20,000 and not more than NT$100,000 for eachbreach.
+
+### Article 84
+
+(Deleted)
+
+### Article 85
+
+If a person meets one of the following circumstances, he shall be fined not less than NT$2,000 and not more than NT$10,000:
+
+\1. Refuses to produce his/her passport, Visit Permit in the Taiwan Area, Alien Resident Certificate, Alien Permanent Residence Certificate, Entry Permit or other identification documents.
+
+\2. Applies for an Alien Residence Certificate without conforming to the prescribed period provided under Paragraph 2 of Article 22 or Article 26.
+
+\3. Applies a change of registration without conforming to Paragraph 7 of Article 9 or Paragraph 5 of Article 31.
+
+\4. Violates Paragraph 2 of Article 66 by refusing to take an interview on-site.
+
+\5. Violates Paragraph 3 of Article 67 by avoiding, obstructing or refusing an inspection.
+
+\6. Violates Paragraph 2 of Article 71 by voiding, obstructing or refusing an inspection.
+
+### Article 86
+
+Where an immigration service agent corporation disseminates, broadcasts or publishes advertisements of immigration businesses, which have been reviewed and approved but having no approval number of the registration license, and advertisements on immigration, the National Immigration Agency shall give the organization a warning and order it to make improvements within the specified period in the order. If it still does not improved after the lapse of such period, the Agency shall order it to close its business.
+
+If one who conducts immigration services pursuant to the exception of Paragraph 1 of Article 55 violates the preceding Paragraph, the National Immigration Agency shall give him/her a warning and order him/her to make improvements within the appointed in the order. If after the lapse of such period, he/she still does not make improvements, the Agency shall cancel his/her license and publish the punishment.
+
+### Article 87
+
+If an immigration service agent corporation meets one of the following circumstances, its permit shall be terminated, the registration license shall be cancelled and the announcement with respect to the foresaid matters shall be made. The competent authority in charge of registration of companies shall be informed to terminate the company’s registration or parts of registered items:
+
+\1. Is convicted of a crime by the judicial authority due to assist client in making immigration application on false information and submitting false documents.
+
+\2. Is commissioned to conduct immigration matters and is convicted of defrauding a client by a judicial authority.
+
+\3. Lends the registration license to others for business uses.
+
+\4. Is ordered to close its business.
+
+\5. Does not comply with the requirements stipulated under Paragraph 1 of Article 57 for the operation permit due to changes of circumstances. The organization is notified to improve within the specified period in the order, but after the lapse of such period, it is still not improved.
+
+If one who conducts immigration services pursuant to the exception of Paragraph 1 of Article 55 meets any of the following circumstances, his/her license shall be cancelled and the punishment shall be published:
+
+\1. Violates any of Subparagraphs 1 to 3 of the preceding Paragraph.
+
+\2. Fail to comply with the requirement stipulated under Subparagraph 4, Paragraph 1 of Article 57 for operating immigration services due to changes of circumstances. He/She is notified to make improvemtns within appointed period in the order. However, after the lapse of such period, he/she still does not make improvements.
+
+For those who conduct immigration services pursuant to the provison of Paragraph 1 of Article 55, the subjects of disposition under Article 75, Paragraph 2 of Article 79, Paragraph 2 of Article 86, or the preceding Paragraph are the juridical persons if being incorporated attorneys or law firms, and the managing attorneys or attorneys responsible for management of operations if being sole-proprietorship, co-location or partnership attorneys or law firms.
+
+## Chapter 12 Supplementary Provisions
+
+### Article 88
+
+With respect to the circumstances which fall under Subparagraph 8, Paragraph 1 of Article 9, Subparagraph 1, Paragraph 1 of Article 11, Subparagraphs 13, 15 and 16, Paragraph 1 and Paragraph 4 of Article 18, Subparagraphs 1 and 2, Paragraph 1 of Article 24 and Paragraph 3 of Article 25, the competent authority shall appoint independent community representatives and invite related authorities to review the circumstances jointly. Any subject who is approval through the review shall be consented or permitted to enter or exit the State, reside, change reasons for residence, reside permanently, or registered permanent residence in the State. However, if a national without household registration in the Taiwan Area under Subparagraph 8, Paragraph 1 of Article 9 meets Subparagraph 1 or 2, Paragraph 4 of Article 9 of the Nationality Act, he/she is exempted from being reviewed jointly.
+
+### Article 89
+
+The officers with a junior rank or its equivalent or a higher rank who work for the departments that are in charge of entry, exit, and immigration control under the National Immigration Agency are regarded as senior judicial police officers pursuant to Articles 229 and 230 of the Code of Criminal Procedure.
+
+The officers with a elementary rank or its equivalent are regarded as junior judicial police officers pursuant to Article 231 of the Code of Criminal Procedure.
+
+### Article 90
+
+The staff of the National Immigration Agency shall dress in uniforms or produce work identification card to present their identities while performing their functions. The competent authority shall enact regulations that govern the uniforms and other matters that must be complied with.
+
+### Article 91
+
+When aliens, nationals without household registration in the Taiwan Area, people from Mainland China, as well as residents of Hong Kong and Macau undergo inspection of their travel documents upon entry/exit of the State or apply for residence or permanent residence, the National Immigration Agency shall obtain and keep a record of every individual’s biometric information.
+
+The preceding paragraph does not apply to any of the following circumstances:
+
+\1. Under the age of fourteen (14)
+
+\2. Exempted from applying for an Alien Resident Certificate pursuant to Paragraph 1, Article 27
+
+\3. Other cases approved by the National Immigration Agency
+
+The National Immigration Agency may deny the application of any person who hasn’t provided his/her biometrics pursuant to Paragraph 1, for entering and residing temporarily or permanently in the State.
+
+The relevant authority shall enact regulations on the collection of individual biometrics, content of information, measures, management and application of biometrics, as well as compliance with other requirements.
+
+### Article 92
+
+A person who reports factual information on violations of the provisions of this Act may be rewarded if the information proves to be true after investigation; the competent authority shall enact regulations that govern a reward procedure; scopes, amounts and distributions of rewards, and other matters that must be complied with.
+
+### Article 93
+
+The provisions of this Act that concern aliens shall apply mutatis mutandis to nationals who have acquired a foreign nationality and have entered the State with a foreign passport, and stateless persons.
+
+### Article 94
+
+The National Immigration Agency, coast guard authorities, police authorities, investigation authorities and other related authorities shall coordinate and keep track closely to establish a coordination and liaison mechanism.
+
+### Article 95
+
+Fees shall be collected by the National Immigration Agency for any certificate issued in accordance with this Act and any 4-in-1 certificate consisting of a work permit, a resident visa, an Alien Resident Certificate and a reentry permit or any other certificate with an equivalent function of an Alien Resident Certificate 4-in-1, save the following certificates:
+
+\1. An Entry Permit, which is issued to a national without household registration in the Taiwan Area, and is stuck to a passport of the State.
+
+\2. A Temporary Visit Permit.
+
+\3. A Single Entry Permit which is applied by a Council Member, Senior Advisor, Advisor and Associate Advisor of Overseas Community Affairs Council
+
+\4. A Single Entry Permit which is applied by a national without household registration in the Taiwan Area during the period from September 1 to October 10 each year for the participation of Double Tenth festivities.
+
+\5. A Residence Certificate of Taiwan Area or a Registered Permanent Residence Certificate applied by a national without household registration in the Taiwan Area who has made distinguished contributions to the State and the society.
+
+\6. A Re-entry Permit granted to an alien.
+
+\7. An Alien Permanent Residence Certificate permitted pursuant to Paragraph 3 of Article 25.
+
+\8. An Alien Resident Certificate or an Alien Permanent Resident Certificate applied by people of designated countries which hold the principle of reciprocity acknowledged by the Ministry of Foreign Affairs or based on treaties or agreements.
+
+### Article 96
+
+The competent authority shall enact the enforcement regulations of this Act.
+
+### Article 97
+
+The effective date of this Act shall be decided by the Executive Yuan.
+
+## History
+
+1.The enacted Act with all 70 articles was promulgated by the Presidential Decree hua-zong-yi-yi-zi No. 8800119740 on May 21, 1999.
+
+The Act was set to be effective since May 21, 1999 by the Executive Yuan Order tai-nei-zi No. 20932 on May 28, 1999.
+
+2.The amended Article 23 was promulgated by the Presidential Decree hua-zong-yi-yi-zi No. 09100108290 on May 29, 2002.
+
+The amendment was set to be effective since May 31, 2002 by the Executive Yuan Order tai-nei-zi No. 0910034826 on July 5, 2002.
+
+3.The amended Articles 10, 23, 70 were promulgated by the Presidential Decree hua-zong-yi-yi-zi No. 09100138640 on July 10, 2002, and went into effect on the date of promulgation.
+
+4.The amended Article 6 was promulgated by the Presidential Decree hua-zong-yi-yi-zi No. 9200017690 on February 6, 2003.
+
+5.The amended Act with all 97 articles was promulgated by the Presidential Decree hua-zong-yi-yi-zi No. 09600174091 on December 26, 2007; the date of its effect was to be set by the Executive Yuan.
+
+The amended Act was set to go into effect since August 1, 2008 by the Executive Yuan Order yuan-tai-zhi-zi No. 0970029826 on July 22, 2008.
+
+6.The amended Article 16 was promulgated by the Presidential Decree hua-zong-yi-yi-zi No. 09800015981 on January 23, 2009; the date of its effect was to be set by the Executive Yuan.
+
+Article 16 amended and promulgated on 23 January, 2009 was issued by the Executive Yuan Order yaun-tai-zhi-zi No. 0980005093 on February 10, 2009, and went into effect on the date of the issuance.
+
+7.The announcement was made on December 26, 2014 by the Executive Yuan Order tai-gui-zi No. 1030158355. The relevant matters set out in Paragraphs 1, 2 of Article 4, Paragraph 2 of Article 5, Paragraphs 1, 2, 3, 4, 5, 6 of Article 6, Paragraphs 1, 2 of Article 7, Paragraph 1 of Article 8, Paragraphs 1, 3, 4, 6, 7 of Article 9, Paragraphs 1, 5, 7 of Article 10, Paragraphs 1, 2 of Article 11, Article 13, Paragraphs 1, 3 of Article 14, Paragraphs 1, 2, 3 of Article 15, Paragraphs 2, 3, 4, 5 of Article 16, Paragraph 2 of Article 17, Paragraphs 1, 2 of Article 18, Paragraph 1 of Article 19, Paragraph 1 of Article 20, Paragraphs 1, 2, 3 of Article 21, Paragraphs 1, 2 of Article 22, Paragraphs 1, 2, 3 of Article 23, Paragraphs 1, 2 of Article 24, Paragraphs 1, 2, 3, 4, 6, 7 of Article 25, Article 26, Paragraph 2 of Article 27, Paragraph 2 of Article 28, Article 30, Paragraphs 1, 3, 4, 5 of Article 31, Article 32 , Article 33, Article 34, Paragraphs 1, 2, 3 of Article 36, Paragraphs 1, 2 of Article 37, Paragraphs 1, 2, 3, 4, 5 of Article 38, Article 39, Paragraph 1 of Article 47, Article 48, Paragraphs 1, 2 of Article 49, Paragraph 2 of Article 50, Paragraphs 1, 2, 3 of Article 55, Paragraphs 2, 4, 6, 7 of Article 56, Paragraphs 1, 2 of Article 59, Paragraph 1 of Article 63, Paragraph 1 of Article 64 ,Paragraph 1 of Article 65 ,Paragraph 1 of Article 66 ,Paragraph 1 of Article 67 , Article 68 ,Paragraph 1 of Article 69 ,Paragraph 1 of Article 70 ,Paragraph 1 of Article 71 ,Paragraphs 1, 4 of Article 72 , Subparagraphs 1, 2 of Paragraph 1 of Article 79 , Article 86, Article 88, Article 89, Article 90, Paragraph 1, Subparagraph 3 of Paragraph 2, Paragraph 3 of Article 91, Article 92, Article 94 pertaining to “The Border Control and Immigration Agency” shall be handled by “The Immigration Agency” as governing body, effective January 2, 2015.
+
+8.The amended Articles 15, 36-38 and 91 as well as Articles 38-1～38-9 are stipulated in the Presidential Decree hua-zong-yi-yi-zi No. 10400013351, promulgated on February 4, 2015; the effective date shall be set by the Executive Yuan.
+
+9.The amended Article 16 was promulgated by the Presidential Decree hua-zong-yi-yi-zi No. 10500140101 on November 16, 2016; the effective date shall be set by the Executive Yuan.
+
+The amendment was set to be effective since December 1, 2016 by the Executive Yuan Order tai-nei-zi No. 1050047080 on December 1, 2016.
+
+10.The amended Article 9, Article 10, Article 11, Article 13, Article 23, and Article 25, was promulgated by the Presidential Decree hua-zong-yi-yi-zi No. 11000006101 on January 27, 2021; the effective date shall be set by the Executive Yuan.
+
+The amendment was set to be effective since January 28, 2022 by the Executive Yuan Order tai-fa-zi No. 1110002552 on January 28, 2022.
+
+11.The amended Articles 4-8, 13-15, 17-22, 24, 26-28, 30-34, 36-39, 47-50, 55, 56, 59, 63-72, 79, 86, 88-92 and 94 were promulgated by the Presidential Decree hua-zong-yi-yi-zi No. 11100001051 on January 12, 2022; the effective date shall be set by the Executive Yuan.
+
+The amendment was set to be effective since January 28, 2022 by the Executive Yuan Order tai-fa-zi No. 1110002552 on January 28, 2022.
+
+12.Articles 3,5,6,8~10,12,15,18,21,22,23,24~26,29,31~33,36,38,38-1,38-4,38-7~38-9,47~49,52,55~57,64,65,68,70,74,75~80,83,85~87,88 and 95 were amended, Article 7-1,21-1,23-1,72-1 and 74-1 were added, Article 40~46 and 84 were deleted and promulgated by the Presidential Decree hua-zong-yi-yi-zi No. 11200054171 on June 28, 2023; the effective date shall be set by the Executive Yuan.
+
+The Articles 23-1 is corrected by the Official Letter of the Secretary-General, Legislative Yuan tai-li-yuan-yi-zi No.1120702779 on August 21, 2023.

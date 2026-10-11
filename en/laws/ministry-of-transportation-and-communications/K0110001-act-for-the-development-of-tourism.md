@@ -1,0 +1,679 @@
+---
+title: "Act for the Development of Tourism"
+title_zh: "發展觀光條例"
+identifier: "K0110001"
+type: act
+law_level: "法律"
+category: "行政＞交通部＞觀光目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1969-07-30
+last_amended: 2025-11-28
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0110001"
+retrieved: 2026-10-12
+---
+
+# Act for the Development of Tourism
+
+> Translation. The Chinese text ([zh/laws/ministry-of-transportation-and-communications/K0110001-act-for-the-development-of-tourism.md](../../../zh/laws/ministry-of-transportation-and-communications/K0110001-act-for-the-development-of-tourism.md)) is authoritative.
+
+## Chapter I. General Principles
+
+### Article 1
+
+It is the purpose of this statute to facilitate the development of the tourism industry, promote traditional culture, promote the awareness of ecological conservation, achieve sustainable management of ecological and cultural characteristics unique to Taiwan, build international friendship, enhance the physical and mental health of citizens, and accelerate domestic economic growth.
+
+### Article 2
+
+The definitions of the terms used in this statute are as follows:
+
+\1. Tourism industry: the development, construction, and maintenance of tourism resources; the construction and renovation of tourism facilities; the provision of services and facilitation for tourist transportation, room and board; or the provision of services for the organization of international conferences and exhibitions of various kinds.
+
+\2. Tourists: persons engaged in traveling and sight-seeing.
+
+\3. Tourism location: a location other than a designated scenic area which tourists visit. Such a location shall be officially designated by the central administrative authority, having consulted with the competent authorities for the related matter. Such locations shall include scenic spots, tourist attractions, historical sites, museums, exposition venues, and other locations suitable for sight-seeing.
+
+\4. Designated scenic areas: scenic spots or tourist attractions designated as such in accordance with the applicable procedures.
+
+\5. Natural and cultural ecology scenic areas: a unique natural monument that cannot be artificially reconstructed, an ecological environment of fauna or flora that requires strict protection, or a special ecological or cultural reserve demonstrated by important prehistoric relics. Such reserves shall include: reserves for aboriginal peoples, restricted mountainous zones, wildlife preservation areas, resources preservation areas for aquatic products, natural reserves, designated scenic areas as well as historical sites, special monuments, and ecological preservation areas in national parks.
+
+\6. Tourism and amusement facilities: facilities provided in designated scenic areas or tourism locations with which tourists may engage in leisure or amusement activities.
+
+\7. Tourist hotel enterprise: a profit-seeking enterprise that operates international tourist hotels or regular tourist hotels to provide tourists with lodging and related services.
+
+\8. Hotel enterprise: a profit-seeking enterprise other than the tourist hotel enterprise that provides tourists with daily, weekly, or hourly lodging and other services in exchange for money.
+
+\9. Homestay facility: a lodging facility that is part of a family’s home, and provides tourists with an in-depth travel experience that incorporates local culture, natural landscape, ecological environment, environmental resources, as well as agricultural, forestry, fishery or livestock farming activities. The goal is to allow tourists to experience local lifestyles and get to know local people, including the homestay’s owners.
+
+\10. Travel agency: a profit-seeking enterprise licensed by the central administrative authority to provide tourists with arranged travel schedule, board and lodging, tour guide, and to purchase transportation tickets and apply for travel documents and visas on tourists’ behalf, as well as to provide related services for remuneration.
+
+\11. Tourist amusement enterprise: a profit-seeking enterprise approved by the administrative authority to operate tourist amusement facilities.
+
+\12. Tour guide: service personnel who execute the receiving or guiding of tourists on their journey in the R.O.C. for remuneration.
+
+\13. Tour managers: service persons who execute the guiding of tourist groups visiting foreign destinations for remuneration.
+
+\14. Professional guides: professional persons stationed by the competent authorities for the related matters at natural and cultural ecology scenic areas to preserve, maintain and explain domestically unique natural, ecological and cultural resources.
+
+\15. Foreign language tour guide: for the purpose of promoting the service quality of the international tourism industry. professional persons who are proficient in a foreign language and are stationed by the competent authorities for the related matters at natural and cultural ecology scenic areas to explain domestically unique natural, ecological, and cultural resources with a foreign language.
+
+### Article 3
+
+For the purpose of this statute, the administrative authority refers to Ministry of Transportation and Communication (MOTC) on the central government level, the municipal governments on the level of self-government of municipalities under the direct jurisdiction of the Executive Yuan, or the County or Township governments on the county self-government level.
+
+### Article 4
+
+The Tourism Administration shall be established by the central administrative authority for the purpose of overseeing national tourism affairs. The organization of the Administration shall be regulated in a separate law.
+
+When practically necessary, municipal governments and county or township governments, for the purpose of overseeing tourism affairs under their respective jurisdiction, may establish tourism agencies.
+
+### Article 5
+
+The central administrative authority on tourism is responsible for the international advertising and promotion of the tourism industry. Should seek internationalization, localization and regional equalization.
+
+It may establish overseas administrative offices at appropriate locations or cooperate with private organizations to this end when the demand in foreign markets warrants them. The central administrative authority may commission juristic persons to collect market information and conduct international promotion of the tourism industry and marketing campaigns. The central administrative authority shall promulgate regulations concerning operating conditions, qualifications, supervision and management, and other related matters required of the commissioned juristic persons.
+
+International advertising or promotion campaigns for the tourism industry launched by private organizations or profit-seeking enterprises shall comply with related laws and be supervised by the central administrative authority in accordance with the regulations promulgated by the central administrative authority.
+
+In order to enhance international promotion and to make it more convenient for international tourists, the central administrative authority, or its authorized tourism agency, may sign tourism cooperation agreements with foreign tourism agencies to strengthen regional international tourism cooperation. The former authority or agency may also engage in the exchange of business operational know-how with countries or areas within the respective regions.
+
+### Article 6
+
+For the purpose of effectively and proactively developing the tourism industry, the central administrative authority shall conduct annual surveys on the tourism market and collect market information and promptly disclose, to be used as reference for developing national policies on the tourism industry.
+
+To maintain the environmental quality and natural and cultural landscapes of tourist areas, designated scenic areas, natural and cultural ecology scenic areas, it is permissible as needed to incorporate management mechanisms to regulate the proper number of tourists, allowable recreation behavior, and the vigor of development, and include them in the management plan.
+
+## Chapter II. Planning and Construction
+
+### Article 7
+
+The central administrative authority shall develop and submit integrated development plans of the tourism industry to the Executive Yuan for approval and subsequent implementation.
+
+The related government agencies shall assist and cooperate with the competent authorities on various levels, when the latter take necessary measures to implement the plans as referred to in the above paragraph.
+
+### Article 8
+
+To assist the development of the tourism industry, the central administrative authority shall coordinate with related authorities to plan out transportation networks for domestic tourism locations, develop international transportation routes, and establish an interconnected system of land, sea, and air transportation. When necessary, the central administrative authority may establish tourist service agencies at international airports and commercial harbors. The central administrative authority may assist municipal, county, or township governments to establish tourist service agencies at important traffic transfer locations.
+
+When necessary, traffic and transportation facilities shall be constructed in important domestic tourism locations. Transportation vehicles and craft, road paving work, and terminal facilities shall be constructed to meet the needs of traveling tourists.
+
+### Article 9
+
+The competent authorities should improve the facilities used by domestic and international tourists on their journey to meet their demands and provide them with convenience and comfort in traveling and lodging.
+
+### Article 10
+
+When the need arises, competent authorities may seek the collaboration of other related authorities in marking important tourism sites as designated scenic areas and determining the borders of these areas. Dedicated organizations should be established to manage these sites depending on their nature.
+
+In the case that a scenic area or tourist amusement location is marked by the competent authorities for other related matters or designated according to other laws, the organization established to manage the site is still under the jurisdiction of the competent authorities.
+
+### Article 11
+
+The plans for designated scenic areas shall be comprehensively developed in accordance with the results of the evaluation conducted by the central administrative authority in cooperation with related authorities regarding the regional peculiarities and functions.
+
+The composition, reviewing, and approval of the aforementioned plans shall comply with the provisions of the City Planning Act, in addition to the prior consultation with the administrative authority.
+
+According to their regional peculiarities and functions, designated scenic areas shall be classified as national, municipal (in municipalities under direct central jurisdiction) or county (township) ones.
+
+In national scenic areas, ground-mounted or floating photovoltaic power generation systems may not be installed. However, this is not applicable if an environmental impact assessment review has been approved and implemented and the cumulative area involved is one hectare or less.
+
+The photovoltaic power generation systems noted in the preceding paragraph do not include rooftop photovoltaic systems or self-use photovoltaic systems that have an installation area of 100 square meters or less.
+
+### Article 12
+
+In order to maintain the beauty of tourism locations and designated scenic areas, restrictive regulations may be imposed on the styles, structures, and colors of buildings in those areas, as well as the positioning of advertising fixtures and vendor stalls. The central administrative authority, together with the related authorities, shall promulgate such regulations.
+
+### Article 13
+
+After the completion of the development plan for the designated scenic area, the administrative authority in charge of the location shall execute the development and construction in the order defined in the plan.
+
+### Article 14
+
+The competent authorities may, according to the law, apply for the requisition of private land or the use of public land to be utilized as the ground on which public facilities are to be constructed so as to meet the construction demand for developing the tourism industry.
+
+### Article 15
+
+The central administrative authority may apply for the requisition of private land within designated scenic areas. If such land is publicly owned, the central administrative authority may apply for the transfer of use according to the law, or the development and utilization of such land in cooperation with the authority managing the land.
+
+### Article 16
+
+For the purpose of precisely marking the perimeters of designated scenic areas, the competent authorities may dispatch personnel to public or private land for survey and measurement. Written notice must be served to the owners or users of the land prior to taking such actions.
+
+In the event that the survey or measurement mentioned in the preceding paragraph causes damage to crops, wood or bamboo, or other objects on the ground belonging to the owner or user of the land, compensation shall be made.
+
+### Article 17
+
+For preserving the integrity of natural and cultural resources in designated scenic areas, no facility construction plan may be made without prior approval of the administrative authority governing the location.
+
+### Article 18
+
+Locations with picturesque natural landscape, ecosystem, culture, and humanism tourism values shall be designated and developed as a tourism location. Those competent authorities for the related matters shall strictly preserve and ban the destruction of the famous landmarks, historical sites, or special ecological constitution situated in such locations.
+
+### Article 19
+
+The competent authorities for the related matters shall employ professional guides in natural and cultural ecology scenic areas to preserve, maintain, and explain about the ecological resources unique to this country. Before entering such regions, tourists shall apply for accompanied visits with professional guides, who can give them detailed explanations, prevent acts of vandalism, and protect the sustainable development of the natural resources.
+
+If the natural and cultural ecology scenic areas are located in indigenous land or tribes, the competent authorities shall give priority to employing local indigenous people as professional guides.
+
+The competent authorities shall collaborate with the competent authorities for the related matters in defining the boundaries of natural and cultural ecology scenic areas.
+
+The central administrative authority, having consulted with the competent authority for the related matters, shall promulgate regulations for the qualification and supervision of professional guides and foreign language tour guides.
+
+### Article 20
+
+The competent authorities shall collaborate with the competent authority for the related matters in investigating and registering the landmarks and historical sites in designated scenic areas and preserving the integrity thereof.
+
+When the aforementioned historical sites sustain any damage, the competent authorities shall notify the managing agency or the owners thereof to submit restoration plans. Restoration work shall take place immediately after the approval of the restoration plan by the competent authorities for the related matters and the competent authorities.
+
+## Chapter III. Operation and Management
+
+### Article 21
+
+Those intending to operate tourist hotel enterprises, before operation, shall complete an application to the central administrative authority for approval, complete corporate registration according to the law, and receive a license to operate the tourist hotel enterprises.
+
+### Article 22
+
+The scope of business for the tourist hotel enterprise is as follows:
+
+\1. Accommodation for lease.
+
+\2. Operation of restaurants, conference centers, venues for leisure activities and shops.
+
+\3. Other business related to tourist hotels approved by the central administrative authority.
+
+The competent authorities, having consulted with the related competent authorities, may promulgate related regulations to maintain the peaceful environment for lodgers in tourist hotels.
+
+### Article 23
+
+Tourist hotels are graded according to their buildings, quality of facilities, management, administration, and service methods.
+
+The central administrative authority shall collaborate with the Ministry of the Interior to promulgate the regulations concerning standards for the building and facilities of tourist hotels.
+
+### Article 24
+
+Those intending to operate hotel enterprises, before operation, shall complete the corporate or commercial registration according to applicable laws, apply to local administrative authority for registration, obtain registration certificates, and be issued the exclusive trade logo.
+
+The administrative authority, having consulted with the related competent authorities, may promulgate relevant regulations to maintain the peaceful environment for lodgers in hotels.
+
+### Article 25
+
+The competent authorities shall provide guidance and supervision for the establishment of homestay facilities based on local culture, history, natural landscape, ecology, environmental resources, and production activities in agriculture, forestry, fishery and farming, as well as crafts manufacturing and art creation, etc.
+
+Those intending to operate the homestay facility, before operation, shall complete the application for registration with local competent authorities, obtain registration certificates, and be issued the exclusive trade logo.
+
+The central administrative authority, having consulted with the related competent authorities, shall promulgate regulations regarding the following matters: locations for operating host families, scale of operation, construction codes, fire hazard, basic requirement for facilities, basic requirement for registration application, qualification of managers, management and supervision, and other matters requiring regulations.
+
+### Article 26
+
+Those intending to operate the travel agency, before operation, shall complete the application to the central administrative authority for approval, obtain the approval, complete the corporate registration, and receive the license of travel agency.
+
+### Article 27
+
+The scope of business for the travel agency is as follows:
+
+\1. Sale of land, sea, or air transportation tickets under commission, or ticket purchase on customer’s behalf.
+
+\2. Application of visa for departure and entrance or travel papers under customer’s commission.
+
+\3. Reception of tourists and arrangement of their travel itinerary, board and lodging, food, accommodation, and transportation.
+
+\4. Designing travel packages and arranging tour guides or tour managers.
+
+\5. Travel consulting services.
+
+\6. Other services related to domestic and international tourists that have been approved by the central administrative authority, having considered the nature of the business scope.
+
+Regarding the aforementioned scope of business, the central administrative authority may identify a travel agency as belonging in the general category, category A, or category B, according to the nature of its operations.
+
+Businesses other than travel agencies may not undertake the operations of travel agencies. However, for the purposes of daily needs, the resale of domestic tickets involving land, sea, or air transportation is not subject to the restriction.
+
+### Article 28
+
+A foreign travel agency intending to establish subsidiaries in the Republic of China, before operation, shall complete the application to the central administrative authority for approval, obtain recognition and approval in accordance with the Company Act, and receive a license for travel agency.
+
+Foreign travel agencies intending to dispatch representatives in the Republic of China shall complete the application to the central administrative authority, and notify the Ministry of Economic Affairs in accordance with the Company Act. Such representatives may not engage in external business operation.
+
+### Article 29
+
+When a travel agency undertakes travel services for tourist groups or individual tourists, the two parties shall sign contracts and use the electronic documents stipulated by the Electronic Signatures Act.
+
+The format, required contents, and prohibited contents of the aforementioned contract shall be prescribed by the central administrative authority.
+
+If a travel agency publicly discloses the contract format prescribed by the central administrative authority and prints it on the receipt voucher issued to the tourist, it shall be deemed to have entered into a contract with the tourist in accordance with the provisions of the preceding paragraph, unless otherwise agreed upon.
+
+### Article 30
+
+Operators of travel agencies shall deposit guarantee money in accordance with applicable regulations; the amount of the guarantee shall be stipulated by the central administrative authority. Any adjustment for the amount of guarantee shall apply to travel agencies previously approved.
+
+When the travel agency owes the client tourist debts originated from disputes in its tour operations, the client tourist shall have priority claim to the aforementioned guarantee money.
+
+If a travel agency fails to pay the full amount of the guarantee as required and refuses to pay after the deadline given by the administrative authority, its travel agency operating license shall be revoked.
+
+### Article 31
+
+Operators of any tourist hotel enterprise, hotel enterprise, travel agency, tourist amusement enterprise, or homestay facility shall purchase liability insurance before their business starts operation.
+
+When a travel agency undertakes overseas or domestic travel services for tourists, it shall purchase contract performance insurance in accordance with applicable regulations.
+
+The central administrative authority, having consulted with related competent authorities, shall promulgate regulations to define the coverage and amount of premium of the bond required of the enterprise stated in the above two paragraphs.
+
+During the travel itinerary, if death or injury occurs to passengers or tour attendants due to accidents and the following persons, regardless of whether they are at fault or not, may claim, within the insurance coverage and amount specified in the preceding paragraph, insurance benefits from the insurer of the liability insurance in Paragraph 1 in accordance with the provisions of this statute:
+
+\1. For accidental injury of a tourist or a person accompanying a tour group to provide service, it shall be the injured party.
+
+\2. For accidental death of a tourist or person accompanying a tour group to provide service, it shall be, in the order specified, the following persons:
+
+(1) Parents, children, and spouse
+
+(2) Grandparents
+
+(3) Grandchild
+
+(4) Siblings
+
+The insurance benefits provided by the liability insurer in the first paragraph in accordance with the provisions of this Act shall be regarded as a part of the insured's damage compensation amount, and may be deducted when the insured receives a claim for compensation.
+
+### Article 32
+
+Tour guides and tour managers shall have passed the central administrative authority and completed the training held by the administrative authority or its commissioned organization to obtain a professional license.
+
+After being issued an operation license by the central administrative authority, the persons mentioned in the first paragraph may commence business operation when employed by a travel agency or temporarily employed by government agencies or organizations.
+
+In the event that tour guides or tour managers have not conducted their respective business for three consecutive years after obtaining training certificates or operation licenses, they may only operate their business after completing re-training and having their operation licenses reissued or renewed. In the event of natural disasters, epidemics, or other reasons, the central administrative authority may announce an extension of the period as necessary.
+
+Those who have obtained a practicing certificate before the amendments in the first paragraph come into force may not be subject to the requirements of the assessment or training in said paragraph.
+
+The Executive Yuan shall collaborate with the Examination Yuan to jointly promulgate the date for the first paragraph to become effective.
+
+### Article 33
+
+In the event that one of the following arises, a person shall cease to be eligible to act as founder, director, supervisor, manager, business executive, or stockholder representing the company for a tourist hotel enterprise, hotel enterprise, travel agency, or tourist amusement enterprise.
+
+\1. One of the items listed in Article 30 of the Company Act.
+
+\2. The operation license of the person to run a tourist hotel enterprise, hotel enterprise, travel agency or tourist amusement enterprise has been withdrawn or revoked for less than five years.
+
+Those already acting as directors, supervisors, managers, business executives, or stockholders representing the company shall, when one of the items listed in the sub-paragraphs of the first paragraph arises, be dismissed ipso facto from the service. The central administrative authority shall withdraw or revoke their registration and notify the competent authority with which the company is registered.
+
+Managers of a travel agency shall obtain the pertinent certificate upon successful completion of a training course organized by the central administrative authority or by an authorized organization or group under the commission of the central administrative authority.
+
+A certified travel agency manager who has ceased working in any travel agency for three consecutive years shall be re-trained and re-certified before becoming eligible for employment as a manager again.
+
+The manager of a travel agency, during his service period, may not assume the position as manager of another travel agency. Nor may he operate any travel agency on his own or other’s behalf.
+
+### Article 34
+
+Competent authorities shall, in collaboration with other related competent authorities, survey and provide statistics of special local products or handicraft, and provide counseling on improving the production process and the techniques to enhance product quality. These products shall be clearly priced. The competent authorities shall assist the producers to sell their goods through souvenir stores in tourism locations.
+
+The souvenir stores in tourism locations shall not sell counterfeits while selling the special local products or handicraft; otherwise, violators will be handled in accordance with relevant laws and regulations.
+
+### Article 35
+
+Those intending to operate a tourist amusement enterprise, before operation, shall complete an application to the central administrative authority for approval, have completed the corporate registration in accordance with applicable laws, and have received the license for a tourist amusement enterprise.
+
+In order to accelerate the development of tourist amusement enterprises, the central administrative authority shall establish a one-stop service counter for important investment projects, where all related central authorities are represented.
+
+The central administrative authority shall, in consultation with related authorities, promulgate the conditions for defining the important investment project stated in the preceding paragraph.
+
+### Article 36
+
+For the safety of tourists, the competent authorities of aquatic leisure activities may impose restrictions on the types, range, time, and behaviors in aquatic leisure activities. The competent authorities may also announce the areas in which aquatic leisure activities are forbidden. The competent authorities shall, in consultation with other related authorities, promulgate the related management for regulation.
+
+Anyone who takes customers to engage in water recreation activities if in a profit-seeking manner shall obtain liability insurance and shall obtain personal injury insurance for tourists. The same applies to anyone who provides sites or equipment for tourists to engage in water recreation activities if in a profit-seeking manner.
+
+The benefits and minimum insured amounts of the liability insurance under the preceding paragraph, shall be determined by the competent authority in the management measures of the first paragraph.
+
+If there is death or injury of a tourist due to an accident, the insured in the second paragraph of liability insurance the following persons, regardless of the fault of the insured, may claim part of the insurance amount as the insurance benefits from the liability insurer in accordance with the provisions of this statute:
+
+1.Accidental injury of tourists, it shall be the injured party.
+
+2.Accidental death of tourists, it shall be, in the order specified, the following:
+
+(1) Parents, children, and spouse
+
+(2) Grandparents
+
+(3) Grandchild
+
+(4) Siblings
+
+The insurance benefits provided by the liability insurer in the second paragraph in accordance with the provisions of this Act shall be regarded as a part of the insured's damage compensation amount, and may be deducted when the insured receives a claim for compensation.
+
+### Article 37
+
+The administrative authority may conduct periodical or irregular inspection on the operation, management, and facilities of the operators for tourist hotels, hotels, travel and tourist amusement enterprises, or homestay facilities.
+
+The operators of tourist hotels, hotels, travel and tourist amusement enterprises, or host families may not evade, obstruct, or refuse the inspection mentioned in the preceding paragraph, and shall provide necessary assistance.
+
+### Article 37-1
+
+In order to investigate the facts that those who operate businesses of tourist hotels, travel, tourist amusement enterprises, hotels, or homestay facilities without first obtaining operation licenses or registration certificates in accordance with this statute, the competent authority can request related competent authorities, juristic persons, groups, or individuals for necessary documents, vouchers, and other relevant information. If necessary, such inspection may be conducted by the competent authority together with police authorities. The competent authority may announce the results of the inspection.
+
+### Article 38
+
+For the enhancement of services and facilities at airports and the development of the tourism industry, airport service fees may be charged on tourists departing through airports. The central administrative authority shall submit the charging standards, payment methods, who can use airports free of service charges, and regulations of related operations to the Executive Yuan for approval.
+
+For tourist attraction areas, designated scenic areas, natural and cultural ecology scenic areas, the administrative authorities may charge a tourism conservation fee. The central administrative authority shall promulgate and determine the forms of payment, announce the fee range, to whom fee exemption applies, fare options and any related operations. The Central Authority of Aboriginal Affairs will submit the charging standards and regulations of related operations of any aboriginal reservation areas to the Executive Yuan for approval.
+
+### Article 39
+
+To meet the demands of the tourism industry and enhance the quality of the tourism industry workers, the central administrative authority may organize training courses for tourism industry professionals. The training costs may be covered by the trainees’ companies or organizations, or by the trainees themselves.
+
+### Article 40
+
+The tourism industry may organize trade unions or establish other juristic persons in accordance with applicable laws. The operation of these organizations shall be subject to the supervision of the competent authorities for the related matters.
+
+### Article 41
+
+Operators of tourist hotels, hotel and tourist amusement enterprises and homestay facilities operators shall display the tourism exclusive trade logos issued by the competent authorities. The central administrative authority shall promulgate the design of the logos and regulations for their use.
+
+The manufacturing and issuance of the trade logos mentioned in the preceding paragraph may be entrusted to respective trade groups under the commission of the administrative authority.
+
+The tourist hotels, hotels, tourist amusement enterprises or host families that are ordered to shut down or have their operation licenses or registration certificates revoked shall return their tourism exclusive trade logos.
+
+### Article 42
+
+Corporate tourist hotel enterprises, hotel enterprises, travel agencies, tourist amusement enterprises, or homestay facilities intending to suspend operations or business for more than one month, shall file the report of the minutes of shareholders’ meeting or shareholders’ approval within fifteen days to the competent authorities. Non-corporate operators shall submit applications detailing the reasons to the said authority.
+
+An application as indicated in the preceding paragraph may not be made for a suspension of operations in excess of one year. The operators may however apply, with reasonable justifications, for an extension of suspension for up to one year. The application for extension should be filed within the final fifteen days of the original period of suspension.
+
+After the suspension period expires, the operator shall file for business resumption with the administrative authority in fifteen days.
+
+In the event that the operator fails to file the report according to the first paragraph or to apply for business resumption according to the third paragraph for more than six months, the authority may revoke the operation license or registration certificate of the business.
+
+### Article 43
+
+For the protection of tourists' consumer rights, the central administrative authority may make public announcement about the travel agency meeting any of the following conditions:
+
+\1. Those whose guarantee money has been attached or executed by a court.
+
+\2. Those whose operation has been suspended or whose travel agency operation license have been revoked.
+
+\3. Those whose operation has been suspended voluntarily.
+
+\4. Those whose organization has been resolved.
+
+\5. Those who have been announced as rejected accounts by the clearinghouse.
+
+\6. Those who have failed to purchase contract performance insurance and liability insurance in accordance with article 31.
+
+## Chapter IV. Awards and Penalty
+
+### Article 44
+
+The central administrative authority shall, in consultation with related authorities, promulgate the items of and criteria for granting award for good practices in the construction of tourist hotels, hotels and tourism and amusement facilities and the management and administration of the tourism industries.
+
+### Article 45
+
+In the event that a private project for developing and operating tourism and amusement facilities or tourist hotels is submitted by the central administrative authority to the Executive Yuan, and approved by the latter, the government-owned land required by the project may be made available for development, construction, and business operations through sale, lease, creating superficies, joint development, consigned development, collaborated management, trust, payment for right to land use, or rent financing by public property management authorities. The restrictions under Article 25 of the Land Act, Article 28 of the National Property Act, and laws and regulations on local government public property management shall not be applicable.
+
+In the event that the government-owned land sold in accordance with the preceding paragraph is a property for public use, such land shall still be transformed into property not for public use and be sold by the managing authority for property not for public use.
+
+### Article 46
+
+In the event that a private project for developing and operating tourism and amusement facilities or tourist hotels is submitted by the central administrative authority to the Executive Yuan and approved by the latter, the central administrative authority may, in collaboration with the competent road administrative authority, local governments, and competent authorities for other related matters, build access roads to the location of the development project.
+
+### Article 47
+
+In the event that a private project for developing and operating tourism and amusement facilities or tourist hotels is approved by the central administrative authority and the land required by the project involves changing urban planning or changing the use of non-urban land, an application shall be filed along with related letters, maps, and documents. The changes shall be made according to Article 27 of the City Plan Act or Article 15 of the Regional Plan Act. The restriction of overall review shall be inapplicable.
+
+### Article 48
+
+In the event that private organizations seek loans for operating tourist amusement enterprise, tourist hotel or hotel enterprises, and the application submitted by the central administrative authority to the Executive Yuan is approved by the latter, the central administrative authority may negotiate with related authorities or financial institutions for favorable loan contracts to address the needs of tourism development policies.
+
+### Article 49
+
+The land value tax and the housing tax levy on the real estate for direct use by the tourist amusement enterprise, tourist hotel enterprise, and hotel enterprise which have supported government tourism policy for raising the quality that have been approved by the central administrative authority during the operation period may be reduced or completely exempted at the discretion of the authorities.
+
+The real estate in the preceding paragraph, which is created superficies or leased by the tourist amusement enterprise, tourist hotel enterprise, and hotel enterprise, is conditioned on that the owners of the real estate give the all of the land value tax and the housing tax reductions to the superficiary or the lessee and pending verification by the central administrative authority.
+
+The self-governance ordinance on the period, scope, criteria, and procedures for tax exemption in paragraph 1 shall be prescribed by the municipal, county (city) competent authority, and shall be reported to the Ministry of Finance for future reference.
+
+The standards for the recognition of tourist amusement enterprise, tourist hotel enterprise and hotel enterprise which have supported government tourism policy for raising the quality in paragraph 1 shall be drawn up by the Ministry of Transportation and Communications and reported to the Executive Yuan for approval.
+
+Tax preference in paragraph 1 shall be limited to five years. The Executive Yuan may, before the period expires, extend the tax preference period once for up to five years.
+
+### Article 50
+
+For the purpose of reinforcing international promotion and marketing of the tourism industry, corporate tourism enterprises may receive deduction in income tax for profit-seeking enterprises for expenses under the following categories. The amount of such tax deduction may only be between 10% and 20% of the total such expenses of the same year. Should the expenses be insufficient for deduction, unused deductions may be carried forward for four years.
+
+\1. Expenses for sponsoring government-initiated international promotion campaigns.
+
+\2. Expenses for sponsoring the government in attending international tourism organizations fairs and travel fairs.
+
+\3. Expenses for sponsoring government efforts to promote business and conference tourism.
+
+The total annual amount of the deduction stipulated in the preceding paragraph may not exceed 50% of the income tax that the profit-seeking enterprise should have paid for that year. Such limitation, however, shall not apply to the amount of deductions for the last year.
+
+The Executive Yuan shall promulgate regulations to determine the scope of application for such deductions, the authorities responsible for review and approval, the time and procedures for filing application, the time for the enforcement of this regulation, the rates for deduction, and other related matters.
+
+### Article 50-1
+
+Foreign tourists who purchase goods eligible for VAT refund from authorized TRS-labeled stores, that exceed a specified amount of money, and exit the Republic of China territory in a certain period of time may apply in a certain period of time for the return of business taxes they paid on such goods. The Ministry of Transportation and Communications shall join the Ministry of Finance in formulating the regulations.
+
+### Article 51
+
+The tourism enterprises that are well managed and operated, as well as employees of the tourism enterprises with outstanding performance in service, shall be given awards or special recognition by the competent authorities. The central administrative authority, in collaboration with related authorities, shall promulgate the related regulations.
+
+The central administrative authority shall promulgate regulations to determine the time and procedures for filing applications, the contents of awards, the applicable targets, the qualifications, the conditions, the selection procedure, and other related matters about the tourism enterprises that are given awards or special recognition by the competent authorities.
+
+### Article 52
+
+To reinforce the promotion of tourism and to further the development of the tourism industry, distinguished tourism-related literature and artwork shall be encouraged and given awards. The central administrative authority, in collaboration with related authorities, shall promulgate the related regulations.
+
+The central administrative authority may award people who have made significant contributions to the promotion of the tourism industry with monetary prizes, medals of honor, or certificates of excellence.
+
+### Article 53
+
+The operators of tourist hotels, hotels, travel, tourist amusement enterprises, or homestay facilities who tarnish national dignity, damage national interest, violate good morals, or defraud tourists shall be fined between NT$30,000 and NT$150,000. In cases of serious offenses, they shall be fined between NT$150,000 and NT$500,000, and the offender’s business operation shall be partially or completely closed for a fixed period, or have their operation licenses or registration certificates revoked.
+
+Those who continue operation after being ordered for partial or complete closure shall be fined over NT$500,000 and have their operation licenses or registration certificates revoked. The fine may be imposed each time the offense occurs.
+
+Employees of tourist hotels, hotels, travel or tourist amusement enterprises who commit the acts described in the first paragraph shall be fined between NT$10,000 and NT$50,000. In cases of serious offenses, the offenders shall be subject to fines between NT$50,000 and NT$300,000.
+
+### Article 54
+
+Operators of tourist hotels, hotels, travel agencies, tourist amusement enterprises, or homestay facilities found in violation of applicable regulations during inspections conducted in accordance with Article 37, Paragraph 1, shall be ordered to make improvements within a specified period, in accordance with relevant laws and regulations. Failure to do so shall result in fines ranging from NT$30,000 to 300,000. In serious cases, the business may be partially or fully suspended. Operators who continue business after being ordered to suspend operations shall have their licenses or registration certificates revoked.
+
+If the inspection results reveal irregularities or threats to tourist safety, the administrative authority may suspend the use of relevant equipment, facilities, or services—partially or entirely—until full improvements are made.
+
+Operators of tourist hotels, hotels, travel agencies, tourist amusement enterprises, or homestay facilities who evade, obstruct, or refuse inspections conducted in accordance with Article 37, Paragraph 1 shall be fined between NT$30,000 and 150,000, and may be subject to repeated penalties.
+
+### Article 55
+
+Fines between NT$30,000 and 150,000 shall be imposed for any of the following violations. In serious cases, the operation license may be revoked:
+
+\1. Tourist hotel enterprises operating without approval or registration in violation of Article 22;
+
+\2. Travel agencies operating without approval or registration in violation of Article 27.
+
+Fines between NT$10,000 and 50,000 shall be imposed for one of the following acts:
+
+\1. Travel agencies failing to enter into written contracts with customers, in violation of Article 29, Paragraph 1;
+
+\2. Operators of tourist hotels, hotels, travel or tourist amusement enterprises, or homestay facilities who fail to report business suspension or fail to apply for resumption of operations after suspension, in violation of Article 42.
+
+Operators of tourist hotels, hotels, travel agencies, tourist amusement enterprises, or homestay facilities who fail to comply with the orders issued under this statute shall be ordered to take necessary corrective actions within the time prescribed in the order or be fined between NT$10,000 and 50,000 by the administrative authority.
+
+Those who operate the businesses of tourist hotels, hotels, travel, or tourist amusement enterprises without first obtaining operation licenses or registration certificates in compliance with this statute shall be fined between NT$100,000 and 2,000,000. Operations shall be terminated.
+
+Those who operate the homestay facility without obtaining a registration certificate in accordance with this statute shall be fined between NT$100,000 and 1,000,000. Operations shall be terminated.
+
+Operators of tourist hotels, hotels, or homestay facilities who expand their guestroom areas without approval shall be penalized in accordance with this statute. Operators of tourist hotels and hotels shall be fined between NT$50,000 and 250,000; operators of homestay facilities shall be fined between NT$30,000 and 150,000. Substantially expanded business operations shall be ordered to terminate.
+
+If the operators defy suspension orders issued under the preceding three paragraphs, repeated penalties may be imposed. Water and electricity may be cut off, and forced demolition or land restoration may be executed. All costs shall be borne by the operators.
+
+In the event of serious violations under the preceding five paragraphs, the administrative authority may publicly disclose the names, addresses, responsible persons, and a description of the offenses.
+
+### Article 55-1
+
+Anyone who disseminates, broadcasts, or publishes advertisements for tourist hotels, hotels, travel agencies, tourist amusement enterprises, or homestay facilities—through print, broadcast, television, electronic media, internet, or other means—without first obtaining the required licenses or registration certificates under this statute shall be fined NT$100,000 to $1,500,000 and ordered to take corrective action by a specified deadline. Repeat fines may be imposed for continued non-compliance.
+
+### Article 55-2
+
+For acts that violate this Act, the public may address detailed facts or submit proof to inform the competent authority.
+
+For the informing action in the foregoing paragraph, if the competent authority verifies that it is true and impose fines; as the fines reach specific amounts, may allot specific percentage of the actual collected fines as reward for the informants.
+
+The informing action and rewarding regulations in the foregoing paragraph shall be determined by the special municipality, county or city competent authority.
+
+When the competent authority or enforcement authority conducts verification of the foregoing case, identification of the informants shall be kept confidential.
+
+### Article 56
+
+In the event that foreign travel agencies establish representatives in the Republic of China without obtaining approval, the representatives shall be fined between NT$10,000 and 50,000, and ordered to stop their operations.
+
+### Article 57
+
+Travel agencies that fail to purchase contract performance or liability insurance in accordance with Article 31 shall be fined NT$30,000 to 500,000. The central administrative authority may immediately suspend their overseas and domestic travel services and require that the insurance be purchased within three months. Failure to do so may result in license revocation.
+
+The central administrative authority may revoke travel agency licenses for the aforementioned violations.
+
+Operators of tourist hotels, hotels, travel agencies, tourist amusement enterprises, or homestay facilities who fail to purchase liability insurance in accordance with Article 31 may be fined NT$30,000 to NT$500,000. They shall be ordered to obtain the required insurance within a designated period, and failure to comply may result in license or registration revocation.
+
+### Article 58
+
+Fines between NT$3,000 and 15,000 shall be imposed in one of the following situations. Serious offenders may be ordered to suspend their operation for a fixed period or their operation licenses may be revoked.
+
+\1. A manager of a travel agency violates paragraph 5 of Article 33 by simultaneously assuming a position as manager at another travel agency, running his own travel agency, or operating a travel agency on behalf of another person.
+
+\2. Tour guides, tour managers or persons employed by a tourism industry operator violate the orders issued in accordance with this act.
+
+The operation licenses of those who continue operations, after being ordered to suspend business operation, shall be revoked.
+
+### Article 59
+
+Those who operate the businesses as tour guides or tour managers without first obtaining operation licenses in accordance with Article 32 shall be fined between NT$10,000 and 50,000 and be prohibited from operating the businesses.
+
+### Article 60
+
+Those who engage in aquatic leisure activities in areas where such activities have been publicly prohibited or those who defy the restrictive orders issued by the competent management authority of the aquatic leisure activities regarding the types, range, time, and conduct of permissible activities in the aquatic area shall be fined between NT$10,000 and NT$50,000 and have their activities banned.
+
+In the event that the aforementioned acts are for profit, the offenders shall be fined between NT$50,000 and NT$200,000 and have their activities banned.
+
+Those conducting activities for profit who fail to purchase liability insurance in accordance with the insured amounts prescribed by the competent authority, shall be fined between NT$30,000 and NT$150,000 and have their activities banned.
+
+### Article 61
+
+Those who fail to return the tourism exclusive trade logos in accordance with paragraph 3 of Article 41, or who display the tourism exclusive trade logos without first being approved by the competent authorities, shall be fined between NT$30,000 and 150,000 and ordered to stop using the logos and to remove them.
+
+### Article 62
+
+Those who damage famous landmarks, natural resources or tourist facilities in tourism locations or designated scenic areas shall be fined by the competent authorities for the related matters up to NT$500,000. The competent authorities may order the offender to recover the damaged objects to the original state or compensate for the restoration costs. Should the damage be irreparable, the competent authority for the related matters may impose an additional fine up to NT$5 million.
+
+In the event that tourists enter natural and cultural ecology scenic areas without first applying for accompanying professional guides under applicable regulations, the competent authority for the related matters may impose upon the offenders a fine up to NT$30,000.
+
+### Article 63
+
+Fines between NT$10,000 and 50,000 shall be imposed if one of the following acts takes place in scenic areas or tourism locations designated by the competent authorities for the related matters:
+
+\1. Unauthorized operation of roadside vendors or pushcart vendors.
+
+\2. Unapproved posting of instruction signs or advertising props.
+
+\3. Unsolicited and forced photo shooting of tourists for fees.
+
+\4. Unsolicited and forced sales to tourists.
+
+\5. Other acts that harass tourists or threaten their safety.
+
+In the event that the facts described in sub-paragraphs 1 and 2 in the preceding paragraph arise, the stalls, pushcarts, instruction signs or advertising props shall be demolished and confiscated. The costs of demolition shall be borne solely by the offenders.
+
+### Article 64
+
+Fines between NT$5,000 and 100,000 shall be imposed by the competent authorities for the related matters if one of the following acts takes place in designated scenic areas or tourism locations:
+
+\1. Irresponsible disposal or burning of garbage or waste.
+
+\2. Unauthorized car driving into forbidden areas, or parking in no-parking areas.
+
+\3. Trespassing to enter the area prohibited by the managing authority.
+
+Other conducts destroying the ecology, polluting the environment, or endangering people’s safety that have been openly prohibited by managing authorities, shall be fined between NT$ 5,000 and 1,000,000 by the competent authorities for the related matters.
+
+### Article 65
+
+Those who fail to pay fines imposed in accordance with this statute by the deadline, after being notified about the date, shall be referred to compulsory execution in accordance with the act.
+
+## Chapter V. Additional Provisions
+
+### Article 66
+
+The central administrative authority shall promulgate regulations for the evaluation, planning and development, operation and management, funding, rewarding excellence, and other issues relating to designated scenic areas.
+
+The central administrative authority shall promulgate the regulations for the establishment, issuance of licenses, operation facilities and equipment, operation and management, employee management, prizes awarding, and training of managers for tourist hotels and hotel enterprises.
+
+The central administrative authority shall promulgate the managing regulations for the establishment, issuance of licenses, operation and management, managing and rewarding employees, and manager training for travel agencies.
+
+The central administrative authority shall promulgate the managing regulations for the establishment, issuance of licenses, operation and management, and examinations for tourist amusement enterprises.
+
+The central administrative authority shall promulgate the managing regulations for the training, issuance of operation licenses, and management for tour guides and tour managers.
+
+### Article 67
+
+The standards for imposing punishment in accordance with this statute shall be promulgated by the central administrative authority.
+
+### Article 68
+
+License fees may be charged for the licenses issued in accordance with this statute. The amount of the fees shall be fixed by the central administrative authority.
+
+### Article 69
+
+The operators of hotels, private lodges or tourist amusement enterprises that have been approved for operation in accordance with applicable laws before this Statute, as amended, takes effect shall apply to the competent administrative authority for hotel enterprise registration certificates or tourist amusement enterprise operating licenses within one year stating from the date when this Statute, as amended, takes effect.
+
+Operators of tourist amusement facilities that had been approved in accordance with applicable laws for business operation in areas that are only marked as designated scenic areas or tourism locations after this Statute, as amended, becomes effective, in order to continue operating, shall apply to the competent administrative authority for tourist amusement enterprise operating license, either after the establishment of the dedicated managing institution for the designated scenic areas or within one year starting from the day this Statute, as amended, takes effect.
+
+Operators of travel consulting services established in accordance with applicable laws before this Statute, as amended, takes effect, in order to continue operation, shall apply for travel agency operating licenses to the central administrative authority within one year starting from the day this Statute, as amended, takes effect.
+
+### Article 70
+
+Non-corporate organizations which had been approved before 24 November, 1980, to conduct tourist hotel business, in order to continue operation, shall apply to the competent administrative authority for tourist hotel enterprise operation licenses within one year starting from the day when this Statute, as amended, takes effect.
+
+The provision of Article 21 regarding corporate registration and paragraph 2 of Article 23 shall not be applicable to the application cases as stipulated in the preceding paragraph of this article.
+
+### Article 70-1
+
+Non-corporate organizations which had been approved to conduct tourist amusement enterprises before this Statute, as amended, took effect, on 14 November, 2001, in order to continue operation, shall apply to the competent administrative authority for a tourist amusement enterprise operating license by 21 March, 2011.
+
+The provision of Article 35 regarding corporate registration shall not be applicable to application cases as stipulated in the preceding paragraph of this article.
+
+### Article 70-2
+
+Before the amended statute takes effect on 22, January 2015, non-profit accommodations that served specific guest groups but in practice operated for profit must apply for registration with the local competent authority, obtain registration certificates, and be issued exclusive trade logos. The original ten-year grace period is extended for five more years, until January 21, 2030, starting from the effective date of the amended statute.
+
+### Article 71
+
+This Statute shall become effective on the day of its publication, unless otherwise promulgated.
+
+## History
+
+\1. Original statute consisting of 26 articles promulgated on July 30, 1969
+
+\2. Amendment to Articles 49 promulgated on November 24, 1980
+
+\3. Amendment to Articles 71 promulgated on November 14, 2001
+
+\4. Amendment to Articles 50-1 promulgated on June 11, 2003
+
+\5. Amendment to Articles 70-1 promulgated on March 21, 2007
+
+\6. Amendment to Articles 70-1 promulgated on November 18, 2009
+
+\7. Amendment to Articles 27 promulgated on April 13, 2011
+
+\8. Amendment to Articles 2,5,6,24,36,38,55,60,64 and addition of Articles 70-2 promulgated on Feb 4, 2015
+
+\9. Amendment to Articles 55 promulgated on November 9,2016
+
+\10. Amendment to Articles 2,19,34,38,49,51 and addition of Articles 37-1,55-1,55-2 promulgated on January 11,2017
+
+\11. Amendment to Articles 2,25,57 promulgated on June 19,2019
+
+\12. Amendment to Articles 29,31,32,36,53,60 promulgated on May 18,2022
+
+\13. Amendment to Articles 4,54,55,55-1,57,70-2 promulgated on April 2, 2025
+
+\14. Amendment to Articles 11 promulgated on November 28, 2025

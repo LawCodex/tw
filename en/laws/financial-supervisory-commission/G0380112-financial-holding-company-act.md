@@ -1,0 +1,915 @@
+---
+title: "Financial Holding Company Act"
+title_zh: "金融控股公司法"
+identifier: "G0380112"
+type: act
+law_level: "法律"
+category: "行政＞金融監督管理委員會＞銀行目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2001-07-09
+last_amended: 2019-01-16
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0380112"
+retrieved: 2026-10-12
+---
+
+# Financial Holding Company Act
+
+> Translation. The Chinese text ([zh/laws/financial-supervisory-commission/G0380112-financial-holding-company-act.md](../../../zh/laws/financial-supervisory-commission/G0380112-financial-holding-company-act.md)) is authoritative.
+
+## Chapter 1 General Principles
+
+### Article 1
+
+This Act is enacted in order to increase the synergy of Financial Institutions (as defined below), consolidate the supervision of cross-financial industry, promote the sound development of financial markets and  protect the public interest.
+
+### Article 2
+
+The establishment, administration and supervision of Financial Holding Companies [as defined below] shall be governed by this Act; those matters not provided for in this Act shall be governed by the [relevant] provisions of other laws.
+
+Where a  Bank [as defined below] that is not organized as a company seeks to carry out a [share] conversion or division under this Act, the relevant provisions of a company limited by shares of the Company Act shall apply mutatis mutandis.
+
+### Article 3
+
+The term "Competent Authority" as used in this Act shall mean the Financial Supervisory Commission.
+
+### Article 4
+
+The terms as used in this Act shall have the following meanings:
+
+\1. "Controlling interest" shall mean holding twenty-five percent (25%) or more of the outstanding voting shares or capital stock of a bank, insurance company or securities firm, or otherwise having the direct or indirect power to elect or designate the majority of the directors of a bank, insurance company or securities firm.
+
+\2. "Financial holding company" shall mean a company established in accordance with this Act and having a controlling interest in a bank, insurance company and/or securities firm.
+
+\3. "Financial institution" shall mean any of the following banks, insurance companies or securities firms:
+
+(1) "Bank" shall mean banks as defined in the Banking Act of the Republic of China, bills finance companies and other entities designated by the Competent Authority;
+
+(2) "Insurance company" shall mean insurance enterprises established in accordance with the Insurance Law and organized as companies limited by shares; and
+
+(3) "Securities firm" shall mean securities firms engaging in businesses of securities underwriting, securities dealing and securities brokerage, or securities finance companies engaging in the securities finance business.
+
+\4. "Subsidiaries" shall mean any of the following entities:
+
+(1) "Bank subsidiary" shall mean a bank in which the financial holding company has a controlling interest;
+
+(2) "Insurance subsidiary" shall mean an insurance company in which the financial holding company has a controlling interest;
+
+(3) "Securities subsidiary" shall mean a securities firm in which the financial holding company has a controlling interest; and
+
+(4) Any other entity in which the financial holding company holds more than fifty percent (50%) of its outstanding voting shares or capital stock, or otherwise has the direct or indirect power to elect or designate the majority of its directors.
+
+\5. "Converted" shall mean the transfer of business operation or share exchange.
+
+\6. "Foreign financial holding company" shall mean a company established under foreign law that has a controlling interest in a bank, insurance company, and/or securities firm.
+
+\7. "Same person" shall mean the same natural or juridical person.
+
+\8. "Same related party" shall mean related party of the same natural person or the same judicial person.
+
+\9. "Affiliate" shall mean an enterprise to which Articles 369-1 through 369-3, Article 369-9 and Article 369-11 of the Company Act apply.
+
+\10. "Major shareholder" shall mean a natural or juridical person holding five percent (5%) or more of the outstanding voting shares or capital stock of a financial holding company or any of its subsidiaries; if the major shareholder is a natural person, the number of shares held by his/her spouse and minor children shall be aggregated into the principal's shareholding.
+
+Related parties of the same natural person referred to in Subparagraph 8 of the preceding paragraph include:
+
+(1) The principal, his/her spouse and relatives by blood within the second degree of kinship.
+
+(2) An enterprise in which the persons referred to in the preceding subparagraph hold more than one third (1/3) of its outstanding voting shares or more than one third of its capital stock.
+
+(3) An enterprise or a foundation in which the persons referred to in Subparagraph (1) hereof act as its chairman, president or directors representing the majority of directors.
+
+Related parties of the same juridical person referred to in Subparagraph 8 of the preceding paragraph include:
+
+(1) The same juridical person and its chairman and president as well as the spouse and relatives by blood within the second degree of kinship of the chairman and president.
+
+(2) Enterprises in which the same juridical person and natural persons referred to in the preceding subparagraph hold more than one third (1/3) of their outstanding voting shares or capital stock, or enterprises or foundations in which the same juridical person and natural persons referred to in the preceding subparagraph act as their chairman, president or directors representing the majority of directors.
+
+(3) The affiliates of the same juridical person.
+
+### Article 5
+
+In determining the number of shares or the amount of capital of a financial holding company, bank, insurance company or securities firm held by the same person or same related party, the following shares or capital shall be excluded
+
+\1. Shares acquired by a securities firm during the underwriting period of the securities and disposed of during the period prescribed by the competent authority.
+
+\2. Shares acquired by a financial institution under a collateral pledge or security agreement and four years have not elapsed since the date of acquisition.
+
+\3. Shares acquired by inheritance or bequest and two years have not elapsed since the date of inheritance or bequest.
+
+### Article 6
+
+The same person or the same related party who has a controlling interest in a bank, insurance company and/or securities firm shall apply to the competent authority for approval to establish a financial holding company. Such requirement shall not apply to shares owned by governments and for purposes of managing a troubled financial institution with the approval of the competent authority.
+
+If the same person or same concerned party referred to in the preceding paragraph does not concurrently hold shares or capital from any two of the banking, insurance and securities industry, or, the aggregate amount of assets of the bank, insurance company or securities firm in which such same person or same related party has a controlling interest does not exceed a certain amount, such same person or same related party need not establish a financial holding company.
+
+The term "Certain Amount" as used in the preceding paragraph shall be as prescribed by the competent authority.
+
+### Article 7
+
+Where the same related party applies to the competent authority for approval to establish a financial holding company as referred to in the preceding Article, the person who makes the largest total investment in each financial institution shall be the representative applicant for the other [related parties] to jointly establish a financial holding company.
+
+If each of the parties, who are not the same related party, holds more than twenty-five percent (25%) outstanding voting-right-shares or capital of a bank, insurance company or securities firm, the who makes the largest total investment shall be the applicant to apply to establish a financial holding company.
+
+If, two (2) or more persons make a total investment referred to in the preceding paragraph of the same amount, such persons shall report to the competent authority and the competent authority shall designate one (1) of these persons as the applicant to establish a financial holding company.
+
+### Article 8
+
+To establish a financial holding company, [the person or company] shall submit an application which includes the following items to the competent authority for approval:
+
+1.name of the financial holding company;
+
+2.articles of incorporation;
+
+3.capital amount;
+
+4.address where the financial holding company and its subsidiaries will be located;
+
+5.business type, name and percentage of the share-holding of each subsidiary;
+
+6.operation, finance and investment plans;
+
+7.proof of the qualifications of the designated president; senior executive vice president and executive vice president.
+
+8.documents and business proposals for handling the relevant transfer of business operation or share exchange. The proposals should include important matters with regard to the protection of customer and creditor rights and the handling of the rights and interests of the employees;
+
+9.proof of the qualifications of the promoters if the financial holding company is newly established; and
+
+10.other documents as prescribed by the competent authority.
+
+Subparagraph 9 of the preceding paragraph shall not apply when a financial institution converts into a financial holding company or a subsidiary of a financial holding company.
+
+### Article 9
+
+The competent authority shall consider the following conditions when [deciding whether or not to] approve an application for establishing a financial holding company pursuant to the preceding Article:
+
+1.The soundness of the financial and operational status and management capacity;
+
+2.Capital adequacy; and
+
+3.The impact on the competition in the financial market and the promotion of public interests.
+
+If the establishment of a financial holding company constitutes a merger under Article 10 of the Fair Trade Act, the competent authority’s approval shall be subject to the approval of the Fair Trade Commission ("FTC"). The examination criteria shall be prescribed by the FTC in conjunction with the competent authority.
+
+### Article 10
+
+A financial holding company shall only be established in the form of a company limited by shares. Unless otherwise approved by the competent authority, the shares of a financial holding company shall be publicly offered.
+
+### Article 11
+
+The words "financial holding company" must be included in the name of a financial holding company.
+
+The term "financial holding company" shall not be used [in the company name] of any entity other than by a financial holding company, nor other names [/words] shall be used that could mislead others into believing that such entity is a financial holding company.
+
+### Article 12
+
+The FSC shall prescribe the minimum paid-in capital of a Financial holding company.
+
+### Article 13
+
+A Financial holding company that has received establishment approval from the FSC shall, after completing its company registration, apply to the FSC to issue a business license. For a Financial Institution that is converting into a Financial holding company, the calculation of the license fee for the issuance of a business license shall be based on the net increase in capital after such conversion.
+
+### Article 14
+
+If, after establishment, a Financial holding company seeks to amend any of the items listed in Article 8, Paragraph 1, Subparagraphs (1) through (4) of this Act, such Financial holding company shall report same to the FSC for approval, amend its company registration and apply for the issuance of a new business license.
+
+### Article 15
+
+A financial holding company may hold all the outstanding shares or paid-in capital of its subsidiary(ies), and the provisions of Article 2, Paragraph 1, Subparagraph (4), and Article 128, Paragraph 1, of the Company Act with respect to the number of shareholders and promoters of a company limited by shares shall not apply. The rights and functions of the shareholders' meeting(s) of such Subsidiary(ies) shall be exercised by the board of directors [of the subsidiary], and the provisions of the Company Act with respect to shareholder meetings shall not apply.
+
+The directors and supervisors of the subsidiary referred to in the preceding paragraph shall be appointed by the financial holding company. Directors and supervisors of the financial holding company may concurrently hold a [director/supervisor] position in the subsidiary(ies) as referred to in Paragraph 1.
+
+### Article 16
+
+When a financial institution is converted into a financial holding company, a same person or same related party who singly, jointly or collectively holds more than ten percent (10%) of the financial holding company's outstanding voting shares shall report such fact to the competent authority.
+
+After a financial holding company has been established, a same person or same related party who singly, jointly or collectively holds more than five percent (5%) of the financial holding company's outstanding voting shares shall report such fact to the competent authority within ten (10) days from the day of holding; the preceding provision applies to each cumulative increase or decrease in the shares of the same person or same related party by more than one percent (1%) thereafter.
+
+After a financial holding company has been established, a same person or same related party who intends to singly, jointly or collectively acquire more than ten percent (10%), twenty-five percent (25%) or fifty percent (50%) of the financial holding company's outstanding voting shares shall apply for prior approval of the competent authority.
+
+A third party who holds shares of a financial holding company on behalf of the same person or same related party in trust, by mandate or through other types of contract, agreement or authorization shall fall within the purview of the same related party.
+
+The regulations governing the qualifications and requirements for the same person or same related party who applies for approval pursuant to Paragraph 3 hereof, required documentation, number of shares to be acquired, purpose of acquisition, sources of funding, state of pledging of shares held, existing shareholding, and the reporting and announcement of changes in other important events, and other matters to be complied with shall be prescribed by the competent authority.
+
+The same person or same related party who holds more than ten percent (10%) of the outstanding voting shares of a financial holding company shall not pledge his or her shares to a subsidiary of the financial holding company. The preceding provision does not apply to shares of a financial holding company already pledged to a financial institution before the financial institution was converted into the financial holding company’s subsidiary, provided the original pledge continues to be in effect.
+
+If a same person or same related party referred to in Paragraph 1 hereof does not meet the qualifications or requirements stipulated in the regulations as referred to in Paragraph 5 hereof, the same person or related party may continue to hold shares of such company, but may not increase his or her shareholding.
+
+The application referred to in Paragraph 3 hereof shall be deemed approved if the competent authority does not object thereto within fifteen (15) business days from the next day following the receipt of such application.
+
+The same person or same related party who singly, jointly or collectively holds more than five percent (5%) but no more than ten percent (10%) of a financial holding company's outstanding voting shares prior to the enforcement of the amendment to the Act on December 30, 2008 shall report such fact to the competent authority within six (6) months from the enforcement date of the said amendment.
+
+Where the same person or same related party who holds outstanding voting shares issued by a financial holding company fails to report to the competent authority in accordance with the provisions of paragraph 2 and the preceding paragraph or fails to obtain approval in accordance with paragraph 3, the same person or same related party shall have no voting rights for the unreported or unapproved excess shares and the competent authority shall order the person to dispose the excess shares within a prescribed period.
+
+### Article 17
+
+The guidelines with respect to the qualifications of the promoters and responsible persons of a financial holding company, the restrictions on concurrent posts held by the responsible persons and other matters to be complied with shall be prescribed by the Competent Authority.
+
+A person not meeting the qualifications set forth in the guidelines referred to in the preceding paragraph shall not act as the responsible person of a financial holding company; any such person who currently acts as the responsible person of a financial holding company shall be ipso facto discharged.
+
+The responsible person of a financial holding company who concurrently holds a position in a subsidiary of the financial holding company owing to an investment relationship, or the responsible person of a subsidiary of a financial holding company who meets the qualifications set forth by the Competent Authority to concurrently hold a position in another subsidiary of the financial holding company is not subject to the restrictions set out in the front section of Paragraph 3, Article 11 of Act Governing Bill Finance Business.
+
+The responsible person or any employee of a financial holding company shall not accept, under any pretense, commissions, rebates and other unwarranted benefits from a transaction counterparty or a customer of the financial holding company or its subsidiaries.
+
+### Article 18
+
+With competent authority approval, a financial holding company may merge with the following companies, transfer its entire assets and liabilities to the following companies, or assume the entire assets and liabilities of the following companies (and Article 6, Article 8, Article 9 and Articles 12 to 14 of the Financial Institutions Merger Act shall apply mutatis mutandis):
+
+1.Financial holding companies;
+
+2.Existing companies that have a controlling interest as defined in Article 4, Paragraph 1, Subparagraph 1 of this Act, and meet the requirements of Article 9, Paragraph 1, of this Act.
+
+If the business scope of the existing company, as referred to in Subparagraph 2 of the preceding paragraph, exceeds the scope of Articles 36 and 37 of this Act, the competent authority shall, at the time of approval, require such company to make an adjustment within a prescribed period of time.
+
+### Article 19
+
+IF a financial holding company has one of the following circumstances, and the financial holding company or its banking subsidiaries, insurance subsidiaries or securities subsidiaries experience a significant deterioration in financial or business conditions and are unable to pay their debts or has a negative net worth after adjustments, and where the competent authority determines that immediate measures are necessary and that such measures will not have material adverse effect on competition in the financial market, the circumstances are exempted from applying for approval from the FTC under Article 11, Paragraph 1 of the Fair Trade Act:
+
+1.Merge with any company referred to in Paragraph 1, Subparagraph 1 or Subparagraph 2 of the proceeding Article, or transfer all of its rights and obligations to any said company or assume all the rights and obligations of any said company;
+
+2.A same person or same related party to hold shares representing one-third (1/3) or more of its outstanding voting shares; and
+
+\3. Be established as a result of a conversion from a financial institution.
+
+### Article 20
+
+A financial holding company, upon the resolution to dissolve by its shareholders' meeting, shall file an application to the competent authority for approval, stating therein the reasons and enclosing therein the minutes of said shareholders' meeting, a plan for debt repayment, the plan and the deadline by which its subsidiaries or invested enterprise(s) will be disposed of and conduct liquidation in accordance with the Company Act upon the competent authority’s approval.
+
+If a financial holding company conducts special liquidation, to supervise the company’s special liquidation, the court shall consult the competent authority’s opinion. When necessary, the court may request the competent authority to recommend a liquidator or to designate a person to assist the liquidator in carrying out their duties.
+
+After a financial holding company has commenced liquidation, no capital or dividends may be distributed under any circumstance until all of the financial holding company's debts have been paid off.
+
+### Article 21
+
+If, after it has received the FSC establishment approval, a Financial holding company ceases having a Controlling Interest, as defined in Article 4, Paragraph 1, of this Act, in a Bank Subsidiary, Insurance Subsidiary, or Securities Subsidiary, the FSC shall request such Financial holding company to take corrective measures within a prescribed period of time. If the Financial holding company fails to remedy the matter, its establishment approval shall be revoked.
+
+### Article 22
+
+If the FSC approves the dissolution of a Financial holding company, or revokes the establishment approval of a Financial holding company, such Financial holding company shall surrender its business license within a prescribed period of time for cancellation.Such Financial holding company shall not use "Financial holding company" in its name anymore, and shall amend its company registration accordingly.
+
+If a Financial holding company referred to in the preceding paragraph fails to surrender its business license within the prescribed period of time, the FSC shall cancel the business license by public announcement.
+
+### Article 23
+
+If a foreign financial holding company meets the following requirements and obtains the competent authority’s approval, it may be exempted from establishing a new financial holding company in the Republic of China ("R.O.C."):
+
+1.[If the foreign financial holding company] has fulfilled the requirements under Article 9, Paragraph 1, for the establishment of a financial holding company;
+
+2.[If the foreign financial holding company] has sufficient experience in operating and managing a financial holding company and has excellent credit;
+
+3.The competent financial regulatory authority in such foreign financial holding company's home country has approved such foreign financial holding company investment in the R.O.C. by possessing Subsidiaries and agreed to cooperate with the R.O.C. government in sharing the responsibility to supervise such Foreign financial holding companies' activities on a consolidated basis;
+
+4.The competent financial regulatory authority in such foreign financial holding company's home country and such foreign financial holding company's head office have the capacity to supervise the relevant subsidiaries in the R.O.C. on a consolidated basis; and
+
+5.The head office of such foreign financial holding company has appointed an agent for litigious and non-litigious matters in the R.O.C.
+
+The preceding paragraph also applies to foreign financial institutions which are "universal banks" in their home countries.
+
+## Chapter 2 Transformation And Spin-offs
+
+### Article 24
+
+With the approval of the competent authority, a financial institution may convert itself into a financial holding company by means of a "Transfer of Business Operation."
+
+The term "Transfer of Business Operation " as used in the preceding paragraph, shall mean, upon the resolution of a shareholders' meeting, the sale by a financial institution of an entire business and its major assets and debts to another company, with the price being paid in acquiring newly issued shares of the company equal to the net book value of such assets and liabilities of the financial institution followed by a conversion of the financial institution into a financial holding company at the time such shares are acquired and simultaneous conversion of the company into a subsidiary [of the financial holding company]. The following shall apply to such conversion:
+
+1.Articles 185 through 188 of the Company Act shall apply mutates mutandis to the procedures by which a resolution of a shareholders' meeting is adopted, to the rights of minority shareholders to require the company to buy back all of such shareholders' shares, the price paid for such buy-back and [circumstances in which] such rights are lost;
+
+\2. Article 156, Paragraphs 2 and 6, Article 163, Paragraph 2, Article 267, Paragraphs 1 to 3, and Article 272, of the Company Act, and Article 22-1, Paragraph 1, of the Securities and Exchange Act, shall not apply; and
+
+3.The notification of transfer of claims may be done through a public announcement; the other company when assuming liabilities, need not obtain the consent of the financial holding company’s creditors; and Articles 297 and 301 of the Civil Code shall not apply.
+
+If the other company is a newly established company, the shareholders' meeting of the financial institution shall be deemed the required promoters' meeting of such company; directors and supervisors of such other company may be elected at such shareholders' meeting; and articles 128 to 139, and Articles 141 to 155, of the Company Act shall not apply. The preceding paragraph shall also apply to shareholders' meetings held by a financial institution before the date of enforcement of this Act.
+
+At the time the other company is converted into a subsidiary of a financial holding company, each competent authority in charge of the particular enterprise may directly issue the Subsidiary's business license and the provisions of the Banking Act, the Insurance Act, and the Securities and Exchange Act with respect to the establishment of a bank, insurance company and securities firm shall not apply.
+
+If the shares bought back by a financial institution in accordance with Paragraph 2, Subparagraph 1, of this Article are not sold within six (6) months, the financial institution may, by a majority vote at a meeting of the board of directors attended by two-thirds or more of the directors, amend its articles of incorporation and cancel the registration of such shares. In such case, the restrictions of Article 277 of the Company Act shall not apply.
+
+### Article 25
+
+In conducting a transfer of business pursuant to the proceeding Article, if the referenced other company is an existing company, the financial institution shall enter into a transfer contract approved by the board of directors of such other company; if the referenced other company is a newly established company, the board of directors of the financial institution shall adopt a resolution for the transfer. Such contract or resolution shall be presented at a shareholders' meeting [of such financial institution].
+
+The transfer contract or resolution for transfer referred to in the preceding paragraph shall include the following items and be sent to all shareholders together with the notice of the relevant shareholders' meeting and Article 172, the proviso to Paragraph 4, of the Company Act shall apply, mutatis mutandis:
+
+1.The required amendment to the articles of incorporation of the existing company or the articles of incorporation of the newly established company;
+
+2.The total number of shares, types of shares and number of shares to be newly issued by the existing company or issued by the newly established company;
+
+3.The business and the type and quantity of major assets and liabilities to be transferred by the financial institution to the existing company or newly established company;
+
+4.The relevant rules for cash payment to shareholders of financial institutions who will be allocated less than one share;
+
+5.The scheduled date of the shareholders' meeting;
+
+6.The date fixed for the transfer of the business;
+
+7.The limit on the amount of dividend distributions prior to the date fixed for the transfer of the business by the financial institution;
+
+8.In the case of a transfer contract, matters related to the continuing performance of duties of the incumbent directors and supervisors of the financial institution until the expiration of the term of the said directors and supervisors (where such terms expire after the transfer date) and, in the case of a resolution for transfer, the names of the directors and supervisors of the newly established company; and
+
+9.If the financial institution and other financial institutions jointly transfer their businesses to establish a financial holding company, a resolution for transfer shall specify the matters related to such joint transfer.
+
+### Article 26
+
+After obtaining the competent authority’s approval, a financial institution may be converted into a subsidiary of a financial holding company by share exchange.
+
+The term "share exchange" referred to in the preceding paragraph shall mean the transfer, upon the resolution of a shareholders' meeting, of all outstanding shares of the financial institution to a financial holding company to be established, as the financial institution shareholders’ payment for subscribing the newly issued shares of the financial holding company or  establishing the financial holding company as a promotor. The following shall apply:
+
+1.The adoption of the resolution at a shareholders' meeting shall require the concurrence of shareholders representing more than one half of all shares held by such financial institution's shareholders present at a meeting attended by shareholders representing at least two-thirds of all outstanding shares. The above shall also apply if the financial holding company to be established is an existing company;
+
+2.Article 317, the latter part of Paragraph 1 and Paragraph 2 of the Company Act shall apply, mutatis mutandis, to the shareholder appraisal right; and
+
+3.Article 156, Paragraph 1, Paragraph 2 and Paragraph 6, Article 163, Paragraph 2, Article 197, Paragraph 1, Article 227, Article 267, Paragraph 1 through 3 and Article 272 of the Company Act and Article 22-1, Paragraph 1, Article 22-2 and Article 26 of the Securities Exchange Law shall not apply.
+
+If the relevant other company is a newly established company, the shareholders' meeting of the financial institution shall be deemed the promoters' meeting of the financial holding company to be established. Directors and supervisors of such financial holding company may also be elected at such shareholders' meeting and articles 128 through 139, Articles 141 through 155 and Article 163, Paragraph 2, of the Company Act shall not apply.
+
+The preceding paragraph shall also apply to a shareholders' meeting which has been convened by a financial institution prior to the date of enforcement of this Act.
+
+If the shareholders' meeting is a shareholders meeting of a public company and the shareholders attending such shareholders' meeting represent less than the minimum number of shares prescribed in Paragraph 2, Subparagraph 1 of this Article, the resolution may be adopted by the concurrence of shareholders representing at least two-thirds of all shares present at the meeting attended by shareholders representing more than one half of the total outstanding shares.  However, where stricter criteria are specified in the articles of incorporation of such company, the stricter criteria shall apply.
+
+If, after a financial holding company has been established with the competent authority’s approval, the aggregate number of shares held by its directors or supervisor(s) at the time of election is less than the percentage required to be held by the directors or supervisors as prescribed by the Securities and Futures Commission in accordance with Article 26, Paragraph 2, of the Securities and Exchange Act, the directors or supervisor(s) shall collectively make up the deficiency within one (1) month after taking office.
+
+If a financial institution does not re-sell the shares it buys back in accordance with Paragraph 2, Subparagraph 2 of this Article, within six (6) months after the date of buy-back, it may, with the concurrence of more than one half of directors present at a meeting attended by at least two-thirds of all directors, amend its articles of incorporation and cancel the registration of the [unsold] shares and article 277 of the Company Act shall not apply.
+
+### Article 27
+
+（Exchange contracts and resolutions）
+
+In conducting an exchange of shares with another company pursuant to the preceding Article, if such other company to be converted into a financial holding company is an existing company, the financial institution shall enter into a transfer contract approved by the board of directors of such existing other company; if a financial holding company is to be newly established, the board of directors of such financial institution shall adopt a resolution authorizing the transfer. Such transfer contract or resolution shall be presented at the shareholders' meeting.
+
+The transfer contract or resolution for transfer referred to in the preceding paragraph shall include the following items, and be sent to all shareholders together with the notice of the relevant shareholders' meeting and Article 172, the proviso to Paragraph 4, of the Company Act shall apply, mutatis mutandis:
+
+1.The required amendment to the articles of incorporation of the existing company or the articles of incorporation of the newly established company;
+
+2.The total number of shares, type of shares and number of shares to be newly issued by the existing company or issued by the newly established company;
+
+3.The total number of shares, type of shares and quantity of shares to be transferred by the shareholders of the financial institution to the existing company or the newly established company;
+
+4.The relevant rules for cash payment to shareholders of financial institutions who will be allocated less than one share;
+
+5.The scheduled date of the shareholders' meeting;
+
+6.The date fixed for the transfer of shares;
+
+7.The limit on the amount of dividend distributions prior to the date fixed for the transfer of shares by the financial institution;
+
+8.In the case of a transfer contract, matters related to the continuing performance of duties of the incumbent directors and supervisors of the financial institution until the expiration of the term of the said directors and supervisors (where such terms expires after the transfer date) and, in the case of a resolution for transfer, the names of the directors and supervisors of the newly established company; and
+
+9.If the shareholders of a financial institution and other financial institutions jointly transfer their shares to establish a financial holding company, a resolution for transfer shall specify the matters related to such joint transfer.
+
+### Article 28
+
+After being approved by the competent authority to convert into a financial holding company or a subsidiary of a financial holding company, a financial institution shall comply with the following provisions:
+
+1.Amendments of the registration of real estate, other properties requiring registration, mortgages, pledges, liens and intellectual property rights are allowed and no registration fee shall be required so long as a certificate from the competent authority is provided. The establishment registration fee for company registration shall be calculated based on the net increase in capital after conversion;
+
+2.When land directly used by the financial institution is to be transferred, the registration of transfer of ownership of such land shall be done after the current value of such land has been determined in accordance with the Land Tax Act. The land value increment tax payable on such transfer may be accrued and deferred until the next transfer of such land by the transferee company.
+
+If the transferee company becomes bankrupt or is dissolved, the accrued and value increment tax shall have priority [over general creditors];
+
+3.The stamp tax, deed tax, income tax and securities transfer tax arising from the transfer of business shall not be levied; and
+
+4.The income tax and securities transaction tax arising from the share exchange shall not be levied.
+
+### Article 29
+
+When a financial institution converts into a financial holding company, all shares shall be transferred.
+
+If a financial institution that converts into a financial holding company, as referred to in the preceding paragraph, is a company whose shares are listed on the Taiwan Stock Exchange or Taipei Exchange, its shares shall be de-listed on the date fixed for transfer of shares and the shares of the financial holding company shall be listed thereon instead.
+
+After a financial institution converts into a financial holding company, in addition to the requirement that directors and supervisors must comply with Article 26, Paragraph 6, of this Act, the financial holding company shall also comply with the relevant provisions of the Securities and Exchange Act and the Company Act.
+
+After completing the transfer in accordance with this Act, the bank subsidiary, insurance subsidiary or securities subsidiary of the financial holding company which is originally a public company shall, unless otherwise provided in this Act, comply with the provisions related to public issuing under the Securities and Exchange Act mutatis mutandis.
+
+### Article 30
+
+Where a financial holding company issues new shares for the business of its subsidiary, the employees of such subsidiary may subscribe the shares of the financial holding company, in which case Paragraphs 1, 2, 4, 5 and 6 of Article 267 of the Company Act shall apply mutatis mutandis.
+
+Where a financial holding company holds all outstanding shares or capital stock of a subsidiary, such subsidiary is not subject to the restrictions set out in Paragraph 1, Article 267 of the Company Act when it issues new shares.
+
+### Article 31
+
+Articles 24 through 28 of this Act shall apply, mutatis mutandis, to the adjustment of the organization or shareholding structure of an investee enterprise when a financial institution converts into a financial holding company and such investee enterprise becomes an investee enterprise of the financial holding company.
+
+Persons holding the shares of a financial holding company as a result of a conversion done in accordance with the preceding paragraph (i) may transfer their shares within three (3) years to the employees of the financial holding company or the financial holding company's subsidiary(ies), (ii) may transfer the shares in accordance with the rights granted by Article 28-2, Paragraph 1, Subparagraph 2 of the Securities and Exchange Act, or (iii) may sell such shares on a stock exchange or over-the-counter market in exemption from the restrictions under Article 38 of the Act. Shares that are not timely transferred or sold within three (3) years shall be treated as unissued shares of the financial holding company and shall apply for an alteration of registration in respect of such shares accordingly.
+
+During the share transfer process of a financial institution, if the financial holding company to be established is an existing company, then the two preceding paragraphs shall apply mutatis mutandis to the investee enterprises of the existing company.
+
+With the exceptions of surplus earning distribution, legal reserve, or capital reserves being set aside as equity capital, the shares of a financial holding company held by financial institutions by means of the preceding three paragraphs shall not be entitled to other shareholders’ rights.
+
+### Article 32
+
+Where the subsidiary of a financial holding company acquires or merges with a company in which such subsidiary holds more than ninety percent (90%) of the outstanding shares and such subsidiary is the surviving entity, a merger agreement shall be drafted and then approved by a majority vote at a meeting of the board of directors attended by two-thirds or more of the directors of each company, respectively and Article 316 of the Company Act requiring resolutions of a shareholders meeting shall not apply.
+
+Following adoption [by the boards of directors] of the resolution described in the preceding paragraph, each board of directors shall, within ten (10) days of such resolution, make a public announcement of the contents of the resolution and the items to be specified in the merger agreement, and designate a period of at least thirty (30) days during which shareholders may raise their objections.
+
+Dissenting shareholders may, upon request made in writing within twenty (20) days from the expiry of the above objection period, stating therein the type and number of shares, request the respective companies to buy back their shares at the prevailing fair [market] value.
+
+Article 187, Paragraph 2 and 3 and Article 188 of the Company Act shall apply, mutatis mutandis, to the determination of the share price by such dissenting shareholders and the relevant company and to the expiration of the appraisal righ.
+
+### Article 33
+
+Upon the resolution of a shareholders' meeting, a subsidiary of a financial holding company may sell part of its business and assets to an existing company or a newly established company with the price being paid in newly issued shares of such existing company or newly established company, as applicable, to which the subsidiary or its shareholders subscribe (a "divided company"), and the following shall apply to such a transaction:
+
+1.Where the divided company subscribes with the price being paid in the newly issued shares by using the specific part of its businesses or assets, Article 272 of the Company Act shall not apply; and
+
+2.Following the adoption of the resolution of such division, the divided company shall, within ten (10) days of such resolution, make a public announcement of the contents of the resolution, and designate a period of at least thirty (30) days in which dissenting creditors may raise their objection thereto. If the divided company fails to make such announcement or fails to provide security to dissenting creditors within the designated period of time, the divided company may not use the division as a defense against such creditors.
+
+If the other company is a newly established company, the shareholders' meeting of the divided company shall be deemed the promoters' meeting of such newly established Company.
+
+Articles 185 through 188 of the Company Act shall apply, mutates mutandis, to the transfer of the essential part of the business or properties under the division described in Paragraph 1 [of this Article].
+
+### Article 34
+
+When the divided company and another subsidiary undergo company division in accordance with the provisions of the preceding article, if such other subsidiary is an existing company, the boards of directors of the divided company and its subsidiary shall enter into a division agreement; if such other subsidiary is a newly established company, the board of directors of the divided company shall adopt a resolution for division. Such agreement and resolution, as applicable, shall be presented at the shareholders' meetings.
+
+The division agreement and resolution approving such division referred to in the preceding paragraph shall include the following items and be sent to all shareholders together with notice of the relevant shareholders' meeting:
+
+1.The required amendments to the articles of incorporation of the existing company that is taking over the business, or the articles of incorporation of the newly established company that is taking over the business;
+
+2.The total number of shares, types of shares and number of shares to be newly issued by the existing company that is taking over the business or issued by the newly established company that is taking over the business;
+
+3.The total number, type and quantity of the shares acquired by the divided company or its shareholders;
+
+4.The relevant rules for cash payment to the divided company or its shareholders who will be allocated less than one share;
+
+5.Matters with regard to the assumption of rights and liabilities of the divided company;
+
+6.Matters with regard to the protection of creditors and customers of the divided company and the handling of the rights and interests of the employees of the divided company;
+
+7.Matters with regard to the reduction in capital if the divided company's capital will be reduced;
+
+8.Matters with regard to the cancellation or consolidation of shares if there is a cancellation or consolidation of the shares of the divided company;
+
+9.The date fixed for the division;
+
+10.The limit on the amount of dividend distributions prior to the date fixed for the division by the divided company;
+
+11.The names of the directors and supervisors of the newly established company that is taking over the business; and
+
+12.If more than two subsidiaries jointly engage in a division to establish a new company, a resolution for such division describing matters with regard to such a joint division.
+
+### Article 35
+
+Except that the obligations arising from the activities of the divided business can be separate from the obligations of the company before the division, the company that is taking over the business after the division shall be jointly and severally liable for the obligations of the company before the division up to the value of the property of the business it takes over; provided, that, any claim of joint and several liability [under this section] shall lapse if it is not exercised within two (2) years after the date fixed of division.
+
+## Chapter 3 Business And Finance
+
+### Article 36
+
+A financial holding company shall ensure the sound management of the business activities of its subsidiaries. The business of a financial holding company shall be limited to investment in, and management of, its invested enterprises.
+
+A financial holding company may apply to the Competent Authority for approval to invest in the following enterprises:
+
+\1. Financial holding companies;
+
+\2. Banking enterprises;
+
+\3. Bills finance enterprises;
+
+\4. Credit card businesses;
+
+\5. Trust enterprises;
+
+\6. Insurance enterprises;
+
+\7. Securities enterprises;
+
+\8. Futures enterprises;
+
+\9. Venture capital enterprises;
+
+\10. Foreign financial institutions which have been approved for investment by the competent authority; and
+
+\11. Other enterprises for which the competent authority determines to be financial related.
+
+The term "banking enterprise" as used in Subparagraph 2 of the preceding paragraph shall include commercial banks, banks for a special business purpose and investment and trust companies; the term "insurance enterprise" as used in Subparagraph 6 of the preceding paragraph shall include an insurance enterprise in the "non-life insurance" category, an insurance enterprise in the "insurance of the person" category, reinsurer, insurance agents and brokers; the term "securities enterprises" as used in Subparagraph 7 of the preceding paragraph shall include securities firms, securities investment trust enterprises, and securities investment consulting enterprises; the term "futures enterprises", as used in Subparagraph 8 of the preceding paragraph shall include futures commission merchants, leverage transaction merchants, futures trust enterprises, managed futures enterprise and futures advisory enterprises.
+
+In the event that a financial holding company applies to invest in any of the enterprises listed in Subparagraphs 1 through 9, or Subparagraphs 10 and 11 of Paragraph 2 hereof, the application shall be deemed approved if the competent authority does not object thereto within fifteen (15) business days or thirty (30) business days, respectively, from the next day following the receipt of such application. Except in the case where a financial enterprise makes investment in accordance with the laws and regulations governing the industry the financial enterprise belongs to, a financial holding company and its directly or indirectly controlled affiliates shall not engage in any investment activity they apply for before it is approved by the competent authority. Violators of the preceding provision shall be subject to fines pursuant to Article 62 herein, and the shares acquired by the violator thereof either before or after the amendment of the Act, shall not carry voting rights and shall not be counted in the total shares issued. In addition, the competent authority shall order the violating financial holding company to dispose the unlawful investment within a prescribed period of time.
+
+If the business or investment of the subsidiary of a financial holding company exceeds that which is permitted by laws and regulations upon establishment of the financial holding company, or the business or investment of a financial institution exceeds that which is permitted by laws and regulations upon its conversion into a subsidiary of a financial holding company, the competent authority shall require such company to make adjustment within a prescribed period of time.
+
+The prescribed period of time mentioned in the preceding paragraph shall not be more than three (3) years. If necessary, the company may apply for an extension of such prescribed period twice, provided, that each extension shall not be more than two (2) years.
+
+The responsible persons or employees of a financial holding company shall not act as the managerial personnel of an enterprises in which the venture capital subsidiary of the financial holding company invests.
+
+The subsidiaries of a financial holding company must apply to the competent authority for prior approval before they undergo a reduction of capital. The regulations governing the required documentation for the application, application procedure, review criteria, and other matters to be complied with shall be prescribed by the competent authority.
+
+### Article 37
+
+A financial holding company may apply to the competent authority for approval to invest in enterprises other than those prescribed in Paragraph 2 of the preceding Article, provided that the financial holding company and its representative do not act as the director or supervisor of such enterprise, or designate a person to be the managerial personnel of such enterprise, unless it is otherwise approved by the competent authority.
+
+In applying for approval to invest in the aforesaid enterprises, the application shall be deemed approved if the competent authority does not object thereto within thirty (30) business days from the next day following the receipt of such application, provided, that the financial holding company shall not proceed with the relevant investment until such period has elapsed.
+
+The total amount of investment in all of the other enterprises mentioned in Paragraph 1 hereof by the financial holding company shall not exceed fifteen percent (15%) of the financial holding company's net worth.
+
+The shares of any of the other enterprises mentioned in Paragraph 1 hereof held by the financial holding company shall not exceed five percent (5%) of the total issued and outstanding voting shares of such enterprise.
+
+The combined total of shares of any of the other enterprises mentioned in Paragraph 1 hereof held by the financial holding company and its subsidiaries shall not exceed fifteen percent (15%) of the total issued and outstanding voting shares of such enterprise, with exceptions to the following:
+
+\1. Higher shareholding by the subsidiary of the financial holding company is allowed pursuant to the laws and regulations governing the industry the subsidiary belongs to; or
+
+\2. Such other enterprise is not listed on the Taiwan Stock Exchange or Taipei Exchange, and among the financial holding company and its subsidiaries, only the venture capital subsidiary invests in the enterprise, and the investment does not exceed a specific amount.
+
+The specific amount mentioned in Subparagraph 2 of the preceding paragraph and investment-related matters to be complied with shall be prescribed by the competent authority.
+
+Where the shares of any of the other enterprises mentioned in Paragraph 1 hereof held by a financial holding company and its subsidiaries do not comply with the provisions in Paragraph 5 hereof prior to the enforcement of the amendment to the Act on December 30, 2008, the competent authority shall require such financial holding company to make adjustment within a prescribed period of time after the date of enforcement of the amendment.
+
+The prescribed period of time mentioned in the preceding paragraph shall not be more than two (2) years. If necessary, the financial holding company may apply for an extension of such prescribed period once, provided, that each extension shall not be more than one (1) year.
+
+With respect to the application of a financial holding company to the competent authority for approval to invest in an enterprise mentioned in Paragraph 1 hereof or Paragraph 2 of the preceding Article, the regulations governing the required documentation for the application, application procedure, review criteria, and other matters to be complied with shall be prescribed by the competent authority.
+
+### Article 38
+
+A Subsidiary of a Financial holding company or an enterprise in which the Subsidiary holds more than twenty percent (20%) of the total issued shares with voting rights or holds Controlling Interest shall not hold shares of the Financial holding company.
+
+### Article 39
+
+The use of short-term funds by a Financial holding company shall be limited to:
+
+1.Savings or trust funds;
+
+2.The purchase of government bonds or financial bonds;
+
+3.The purchase of treasury bills or negotiable certificates of deposit;
+
+4.The purchase of bank guarantees or acceptances that are rated at or above a credit rating set by the competent authority, or, the purchase of commercial bills that are rated at or above a credit rating set by the competent authority; or
+
+5.The purchase of financial products as may be approved by the competent authority which are related to the products in the above four subparagraphs.
+
+Investments by a Financial holding company in real estate must be approved by the competent authority and such real estate may only be for purposes of the financial holding company's own use.
+
+Article 249, Paragraph 2, and Article 250, Paragraph, 2, of the Company Law shall not apply to the issuance of corporate bonds by a Financial holding company; the competent authority may establish other conditions, terms, and requirements [with respect to the issuance of corporate bonds by a financial holding company].
+
+### Article 40
+
+Guidelines for a Financial holding company's capital adequacy ratio and the evaluation and calculation thereof shall be as prescribed by the FSC.
+
+If the actual capital adequacy ratio is lower than that required by the guidelines referred to in the preceding paragraph, the FSC may request the Financial holding company to increase the amount of its capital, restrict its distribution of surplus, suspend or limit its investments, set limits on the remuneration of its directors and supervisors or impose other necessary requirements or restrictions. Such guidelines therefore shall be as prescribed by the FSC.
+
+### Article 41
+
+To assure a sound financial structure of a Financial holding company, the FSC may, if necessary, set maximum or minimum financial ratio requirements for a Financial holding company.
+
+If the actual financial ratio of a Financial holding company does not comply with such maximum or minimum limit prescribed by the FSC in accordance with the preceding paragraph, the FSC may request the Financial holding company to increase the amount of its capital, restrict its distribution of surplus, suspend or limits its investments, set limits on the remuneration of its directors and supervisors or impose other necessary requirements or restrictions.
+
+The guidelines therefore shall be as prescribed by the FSC.
+
+### Article 42
+
+Unless otherwise provided by law or regulations of the FSC, a Financial holding company and its Subsidiary(ies) shall keep its customer's personal data, transaction information and other relevant information confidential.
+
+The FSC may ask a Financial holding company and its Subsidiary(ies) to establish relevant confidentiality measures in writing for the protection of the information referred to in the preceding paragraph, and to give public notice of such confidentiality measures through the Internet or by other methods designated by the FSC.
+
+### Article 43
+
+A financial holding company shall apply to the competent authority for prior approval before its subsidiaries may engage in cross-selling activities among themselves and shall ensure that such activities will not harm the interests of customers.
+
+When the subsidiaries of a financial holding company engage in cross-selling activities, their respective business, service personnel and services shall be made easily identifiable by the customers. Except for customers' names and addresses, the subsidiaries of the financial holding company shall comply with provisions of the "Personal Data Protection Act" with regard to jointly collecting, processing, and using the personal basic data and dealing or transaction records of customers.
+
+The regulations governing the requirements for the application for approval mentioned in Paragraph 1 hereof, required documentation, application procedure, scope of businesses allowed, sharing of information, sharing of facilities, premises, or personnel management and other matters to be complied with shall be prescribed by the Competent Authority.
+
+When the subsidiary of a financial holding company signs a product or service contract with a customer, the subsidiary shall explicitly disclose the important clauses of the contract and associated transaction risk, and note on the contract, by the nature of the product or service, whether the transaction is protected by deposit insurance, Insurance Guaranty Fund, or other protection mechanisms in place. The aforesaid contract shall be submitted to the competent authority or an institution designated by the competent authority for reference and posted on the websites of the financial institutions unless it is otherwise stipulated by other laws.
+
+### Article 44
+
+The bank subsidiary or insurance subsidiary of a financial holding company shall not extend unsecured credit to the following persons; Article 33 of the Banking Act shall apply, mutates mutandis to secured credit extension [to such person].
+
+1.A responsible person or major shareholder of the financial holding company;
+
+2.An enterprise solely invested in by or a partnership invested in by a responsible person or major shareholder of the financial holding company or an organization in which such responsible person or major shareholders concurrently acts as the responsible person or representative;
+
+3.A company of which more than half of the directors concurrently act as the directors of the financial holding company or its subsidiary(ies); or
+
+4.The financial holding company's subsidiary and the responsible persons and major shareholders of such subsidiaries.
+
+### Article 45
+
+When a financial holding company or its subsidiary(ies) engages in transactions other than credit extension with the following persons, the terms of such transactions shall not be more favorable than those offered to similarly situated customers, and such transactions require the resolution adopted by the attendance of two-thirds or more of all directors of the company and the concurrence of three-quarters or more of the directors present:
+
+1.A responsible person and major shareholder of the financial holding company;
+
+2.An enterprise solely invested in by or a partnership invested in by a responsible person or major shareholder of the financial holding company or an organization in which such responsible person or major shareholders concurrently acts as the responsible person or representative;
+
+3.An affiliate and its responsible person and major shareholder of the financial holding company; or
+
+4.The financial holding company's bank subsidiary, insurance subsidiary, securities subsidiary, and any such subsidiary's responsible persons.
+
+Transactions other than credit extension mentioned in the preceding paragraph shall consist of the following:
+
+1.Investment in or purchase of securities issued by any of the persons mentioned in the preceding paragraph;
+
+2.Purchase of real estate or other assets from any of the persons mentioned in the preceding paragraph;
+
+3.Sale of securities, real estate or other assets to any of the persons mentioned in the preceding paragraph;
+
+4.Entering into agreements regarding payment of money or provision of services with any of the persons mentioned in the preceding paragraph;
+
+5.[Arrangements involving] any of the persons mentioned in the preceding paragraph acting as an agent or broker of a financial holding company or its Subsidiary(ies) or providing other services which charge commission or fees; and
+
+6.Engaging in transactions with third parties having a interest with any of the persons mentioned in the preceding paragraph or engaging in transactions with third parties in which transaction, persons mentioned in the preceding paragraph are involved.
+
+The securities mentioned in Subparagraphs 1 and 3 of the preceding paragraph shall not include negotiable certificates of deposits issued by a bank subsidiary. When a financial holding company's bank subsidiary engages in the transactions described in Paragraph 2 with any of the persons mentioned in Paragraph 1, the amount of such transactions with any single related party shall not exceed ten percent (10%) of the net worth of the bank subsidiary, and the aggregate amount of transactions with all related parties shall not exceed twenty percent (20%) of the net worth of the bank subsidiary.
+
+### Article 46
+
+Where the aggregate transactions taking place between all subsidiaries of a financial holding company and any of the following counterparties reach a certain amount or a certain percentage, the financial holding company shall, within thirty (30) days after the end of each quarter in each fiscal year, report to the competent authority, and disclose the same via public announcement, the internet, or other means designated by the competent authority:
+
+\1. Same natural person or same juridical person.
+
+\2. Same natural person and his/her spouse and relatives by blood within the second degree of kinship, as well as enterprises in which the principal or his/her spouse is the responsible person.
+
+\3. Same affiliate.
+
+The transactions mentioned in the preceding paragraph include:
+
+\1. Credit extension;
+
+\2. Guarantee or endorsement of short-term notes or bills;
+
+\3. Transaction of notes, bills, or bonds with reverse repurchase agreement;
+
+\4. Investment in or purchasing securities issued by any party mentioned in the preceding paragraph;
+
+\5. Transactions of financial derivatives; and
+
+\6. Other transactions as prescribed by the competent authority.
+
+The certain amount, certain percentage, content and format of reporting and disclosure referred to in Paragraph 1 hereof, and other matters to be complied with shall be prescribed by the competent authority.
+
+### Article 47
+
+At the end of each year, a financial holding company shall prepare consolidated financial statements, an annual report and a business report, and submit such documents, along with the resolutions for the surplus earnings distribution or loss make-up, and other particulars as designated by the competent authority to the competent authority within fifteen (15) days after the ratification of the same by a shareholders' meeting. The competent authority shall prescribe other particulars to be included in the annual report.
+
+A financial holding company shall publicly disclose its balance sheets, income statements, statements of changes in shareholders' equity, and statements of cash flows, and other particulars designated by the competent authority to be included in the financial statements described in the preceding paragraph in a local daily newspaper published in such financial holding company's place of business or by other means as designated by the competent authority. However, a financial holding company that has complied with Article 36 of the Securities and Exchange Act is exempt from the above disclosure requirement.
+
+The balance sheets, income statement, statements of changes in shareholders' equity and statements of cash flows included in the financial statement prescribed in Paragraph 1 shall be audited and certified by a certified public accountant.
+
+Where a financial institution converts into a financial holding company, its undistributed surplus earnings will be listed as the capital reserve of the financial holding company after the conversion, but its distribution will not be restricted by Article 241, Paragraph 1 of the Company Act.
+
+Where a financial institution has issued preferred  shares, upon the conversion of such a financial institution into a financial holding company, the financial holding company shall assume the rights and obligations of such special shares, and, in the year that such financial institution converts into a financial holding company, the financial holding company shall distribute dividends in accordance with the statements and books prepared by its board of directors and audited by its supervisors for that year and Articles 228 through 231 of the Company Act shall not apply thereto. Article 2, Paragraph 1, Subparagraph 1, of the Employee Welfare Fund Act shall not apply to a financial holding company that has converted from a financial institution.
+
+### Article 48
+
+(deleted).
+
+### Article 49
+
+Where a financial holding company holds more than ninety percent (90%) of the outstanding issued shares of a domestic subsidiary, such financial holding company may, for the tax year in which its such shareholding in the subsidiary has existed for the entire twelve (12) months of the tax year, elect to be the taxpayer itself, and jointly declare and report profit-seeking enterprise income tax and the ten percent (10%) tax surcharge on surplus retained earnings of a profit-seeking enterprise in accordance with the relevant provisions of the Income Tax Act. Other tax matters should be handled separately by a financial holding company and its domestic subsidiary.
+
+### Article 50
+
+With regard to transactions between a financial holding company and its Subsidiary, or, between a financial holding company or the subsidiary of a financial holding company, and domestic or overseas individuals, profit-seeking enterprises, or educational, cultural, social welfare, charitable or [other] groups, where the amortization of income, cost, expenses, profits and losses are based on a non-arm’s-length arrangement for purposes of avoiding or reducing the obligations of a taxpayer, the financial holding company or subsidiary has improperly, for itself or others, sought to avoid or reduce tax obligations by means of the acquisition of shares, asset transfer, or other fraudulent arrangements, an auditing agency may, upon report to and approval of the competent authority, adjust such income and tax payable based on normal business practices or [other relevant] information for purposes of the accurate calculation of the income and taxes payable by the relevant taxpayer. However, the above shall not apply to transactions between a financial holding company and a domestic subsidiary in which the financial holding company holds over ninety percent (90%) of the outstanding issued shares.
+
+The consolidated tax reporting provisions of the preceding Article shall not be applied to a financial holding company or its Subsidiary for the year in which an auditing agency, in accordance with the provisions of the preceding paragraph, has adjusted the income and tax payable for such financial holding company or subsidiary.
+
+## Chapter 4 Supervision
+
+### Article 51
+
+A financial holding company shall establish an internal control and audit system. The FSC shall issue guidelines with respect thereto.
+
+### Article 52
+
+To ensure the sound operation of financial holding companies and/or their subsidiary(ies), the FSC may order a financial holding company and its subsidiary(ies) to provide relevant financial statements, transaction data and other relevant information within a prescribed period of time, and may at any time appoint an official or authorize an appropriate institution to investigate the business, finances, and other relevant affairs of such financial holding company and/or its subsidiary(ies).
+
+Where necessary, the FSC may appoint professionals and technical experts to conduct the investigation described in the preceding paragraph, and such persons shall, based on the relevant facts, report accordingly to the FSC. Unless otherwise provided by law, the financial holding company shall pay the fees arising there from.
+
+### Article 53
+
+If any of a financial holding company's bank subsidiary, insurance subsidiary or securities subsidiary is ordered to increase its capital, such financial holding company shall raise funds for such subsidiary in proportion to the financial holding company's shareholding in such subsidiary.
+
+If the accumulated losses of a financial holding company exceed one-third (1/3) of such financial holding company's paid-in capital, such financial holding shall immediately convene a meeting of its board of directors, notify its supervisors [that they are required] to attend such meeting, and thereafter report the resolutions approved at such meeting, the financial holding company's financial statements, the reasons for such losses, and a plan to improve [the business operations] to the competent authority.
+
+Where the circumstances described in the preceding paragraph exist, the competent authority shall order the financial holding company to replenish its capital within a prescribed period of time.
+
+In order to replenish its capital as described in the preceding paragraph, a financial holding company may, with the competent authority’s approval, during a fiscal year, reduce its capital and cancel outstanding shares to the extent of its losses, including losses incurred in the current fiscal year, and raise new capital in an amount equal to the reduced capital in order to replace the canceled shares.
+
+### Article 54
+
+Where a financial holding company has violated laws, regulations, or its articles of incorporation, or has possibly disturbed the sound operation, the competent authority may, correct the financial holding company, order it to improve [its operations] within a prescribed period of time, and order, depending on the severity of the situation, the following dispositions:
+
+1.The revocation of a resolution passed at a [board/shareholder] meeting;
+
+2.The suspension of all or part of the business of a subsidiary(ies) of the financial holding company;
+
+3.The dismissal of managerial personnel from their duties;
+
+4.The dismissal of directors and supervisors from their positions or the suspension of such directors and supervisors from their duties for a specified period of time;
+
+5.The disposal of the financial holding company's shareholdings in the relevant subsidiary(ies);
+
+6.Revocation of the approval [for the establishment of a financial holding company]; and/or
+
+7.Other necessary measures.
+
+In the event that a financial holding company's directors or supervisors are dismissed pursuant to Subparagraph 4 of the preceding paragraph, the competent authority shall notify the Ministry of Economic Affairs for purposes of cancellation of the registration of such persons as directors or supervisors. In the event that the approval [to establish a financial holding company] is revoked pursuant to Subparagraph 6 of Paragraph 1, the competent authority shall order such financial holding company to dispose of the shares with voting rights, or capital stock, that such financial holding company holds in banks, insurance companies or securities firms, and the dismissal of directors directly or indirectly elected or designated by such financial holding company to the extent that [the financial holding company's shareholding] does not meet the provisions of Article 4, Subparagraph 1, of this Act, and prohibit such financial holding company from using the term "financial holding company" in its name and order such financial holding company to amend its company registration. In the event that a financial holding company does not complete the measures ordered [pursuant to this paragraph] within the time period prescribed by the competent authority, the competent authority may order such financial holding company to commence its dissolution and liquidation.
+
+### Article 55
+
+Where it is clear that a financial holding company's investment in an investee enterprise jeopardizes the sound operation of such financial holding company's bank, insurance, or securities subsidiary, the competent authority may order the financial holding company, within a prescribed period of time, to dispose of the shares it holds in the investee enterprise, or to reduce the ratio of the shares with voting rights, or capital stock, of the relevant bank, insurance or securities subsidiary held by such financial holding company and the dismissal of directors directly or indirectly elected or designated by such financial holding company to the extent that [ the financial holding company's shareholding] does not meet the provisions of Article 4, Subparagraph 1 of this Act. Paragraph 3 of the preceding Article shall apply thereto mutatis mutandis.
+
+The competent authority may, in accordance with Article 27 of the Administrative Execution Act, authorize a third party to dispose of such shares that fail to be disposed within a prescribed time period or appoint a third party to manage them until the financial holding company completes such disposal; the financial holding company shall pay the fees arising therefrom.
+
+### Article 56
+
+If the capital adequacy ratio of a financial holding company's bank, insurance or securities subsidiary fails to satisfy the minimum amount as prescribed by the competent authority, or, owing to adverse changes in its finances or business, a financial holding company's bank, insurance or securities subsidiary fails to pay its obligation when due or circumstances exist which may threaten the interests of depositors, such financial holding company shall assist its subsidiary to return to normal operations.
+
+Where the bank, insurance, or securities subsidiary of a financial holding company encounters the circumstances prescribed in the preceding paragraph, the competent authority may, in order to safeguard the public interest or to stabilize the financial market, order such financial holding company to perform the obligations required by the preceding paragraph or dispose of all or part of the shares, business or assets that such financial holding company holds in other investee enterprises within a prescribed period of time, and to utilize the proceeds thereof to improve the financial circumstances of the relevant bank, insurance, or securities subsidiary.
+
+## Chapter 5 Penal Provisions
+
+### Article 57
+
+A responsible person or staff member of a financial holding company who violates his/her duty with the intent to gain illegal benefit for himself/herself or a third party and damages the financial holding company's assets or other interests shall be punished by imprisonment for not less than three (3) years and not more than ten (10) years, and may be fined a criminal fine of not less than ten million New Taiwan Dollars (NT$10,000,000) and not more than two hundred million New Taiwan Dollars (NT$200,000,000). Those who thereby obtain any property or property interests from such crimes of one hundred million New Taiwan Dollars (NT$100,000,000) or more shall be punished by imprisonment for not less than seven (7) years, and may also be fined a criminal fine of not less than twenty-five million New Taiwan Dollars (NT$25,000,000) and not more than five hundred million New Taiwan Dollars (NT$500,000,000).
+
+When two or more responsible persons or staff members of a financial holding company jointly commit the offenses prescribed in the preceding paragraph, their punishment may be increased by up to one-half of the specified punishment.
+
+Attempts to commit the acts described in the Paragraph 1 here of shall be punishable.
+
+### Article 57-1
+
+When persons, with the intent to unlawfully own others’ property for themselves or a third person,  use fraudulent methods to cause the financial holding company to make payment using the assets of the financial holding company or a third party, or use illicit methods to enter fictitious data or illicit commands into the financial holding company computer or relevant equipment and thereby create the records of acquisition, loss or alteration of property ownership and take the property of another, those who thereby obtain any property or property interests from such crimes of one hundred million New Taiwan Dollars (NT$100,000,000) or more shall be punished by imprisonment for not less than three (3) years and not more than ten (10) years, and may also be fined a criminal fine of not less than ten million New Taiwan Dollars (NT$10,000,000) and not more than two hundred million New Taiwan Dollars (NT$200,000,000).
+
+Those who use methods described in the foregoing paragraph to obtain the illegal benefit of assets or cause a third party to do so shall likewise be subject to the specified punishments.
+
+Attempts to commit the acts described in the preceding two paragraphs shall be punishable.
+
+### Article 57-2
+
+For those who have turned themselves in after committing crimes stipulated in Article 57 or Article 57-1 and delivered all criminal gains, if any, out of their free will, their sentences shall be reduced or remitted. If their acts have led to the capture of other principal offenders or joint offenders, their sentences shall be remitted.
+
+For those who have committed crimes stipulated in Article 57 or Article 57-1 and confessed during investigation, they have delivered all criminal gains, if any, out at their free will, their sentences shall be reduced. If their acts of confession have led to the capture of other principal offenders or joint offenders, their sentences shall be reduced by one-half.
+
+For those who have committed crimes stipulated in Article 57 or Article 57-1, if any property or property interests obtained from such crimes has exceeded the highest level of fines, more fines can be added within the range of their illegal gains. Should their criminal acts have jeopardized the stability of the financial market, their sentences shall be increased by one-half.
+
+### Article 57-3
+
+Where a gratuitous act done by a responsible person or staff member of a financial holding company under Article 57, Paragraph 1, or by a committer of a violation under Article 57-1, Paragraph 1, is prejudicial to the rights of a financial holding company, the financial holding company may file a motion with a court to revoke the act.
+
+Where a non-gratuitous act done by a responsible person or staff member of a financial holding company or a committer of a violation as referred to in the preceding paragraph is done with the knowledge, at the time of commission, that it would be prejudicial to the rights of a financial holding company, and the beneficiary of the act also knows such circumstances at the time the benefit is received, the financial holding company may file a motion with a court to revoke the act.
+
+When filing a motion with a court for revocations under either of the preceding two paragraphs, a party may also file a motion with the court to order the beneficiary or any party to whom the benefit has been transferred to restore the status quo ante; provided, this shall not apply where the party to whom the benefit has been transferred was not aware at the time of transfer that there was cause for revocation.
+
+Any disposition of property between a responsible person or staff member of a financial holding company or a committer of a violation as referred to in Paragraph 1 and such a person's spouse, lineal relative, cohabiting relative, head of household, or family member shall be deemed to be a gratuitous act.
+
+Any disposition of property between a responsible person or staff member of a financial holding company or a committer of a violation as referred to in Paragraph 1 and any person other than those set forth in the preceding paragraph shall be presumed to be a gratuitous act.
+
+The claim for revocation under Paragraphs 1 and 2 shall be extinguished one year after the time the financial holding company knows there is cause for revocation if the financial holding company fails to exercise the right, or ten years after the time of the act.
+
+### Article 57-4
+
+The crimes set forth in Article 57, Paragraph 1, and Article 57-1, Paragraph 1, are serious crimes as defined in Article 3, Paragraph 1, of the Money Laundering Control Act, and are subject to the application of relevant provisions of the Money Laundering Control Act.
+
+### Article 58
+
+In the event that the bank subsidiary or insurance subsidiary of a financial holding company extends unsecured credit to the persons listed in Article 44, above, or extends secured credit without full security or the terms of such extended credit are more favorable than these terms offered to other same category customers, the person responsible for the violation shall be punished by imprisonment for not more than three (3) years, detention, and/or a criminal fine of not less than five million New Taiwan Dollars (NT$5,000,000) and not more than twenty-five million New Taiwan Dollars (NT$25,000,000).
+
+In the event that the amount of a secured credit extended to the persons listed in Article 44 by the bank subsidiary or insurance subsidiary of a financial holding company exceeds the amount prescribed by the competent authority without obtaining approval with the attendance of two-thirds or more of all directors of the company and the concurrence of three-quarters or more of the directors present, or violates the credit limit or total balance of loans prescribed by the competent authority, the person(s) responsible for the violation shall be punished by an administrative fine of not less than two million New Taiwan Dollars (NT$2,000,000) and not more than fifty million New Taiwan Dollars (NT$50,000,000).
+
+### Article 59
+
+The responsible person or employee of a financial holding company who violates Paragraph 4 of Article 17 herein by accepting commissions, rebates or other unwarranted benefits shall be punishable by imprisonment for not more than three (3) years, detention, and/or a fine of not more than Five Million New Taiwan Dollars (NT$5,000,000).
+
+### Article 60
+
+Commission of any of the following acts shall be punishable by a fine of not less than two million New Taiwan Dollars (NT$2,000,000) and not more than fifty million New Taiwan Dollars (NT$50,000,000):
+
+\1. Violation of Paragraph 1 of Article 6 herein by failing to apply for the establishment of a financial holding company;
+
+\2. Violation of Paragraph 3 of Article 16 herein by holding shares without the approval of the competent authority;
+
+\3. Violation of Paragraph 1 or Paragraph 2 of Article 16 herein by failing to report to the competent authority, or violation of the proviso in Paragraph 7 of the same Article by increasing shareholding;
+
+\4. Violation of Paragraph 10 of Article 16 by failing to dispose within the time period prescribed by the competent authority;
+
+\5. Violation of regulations governing reporting or announcement prescribed by the competent authority in accordance with Paragraph 5 of Article 16 herein;
+
+\6. Violation of Paragraph 6 of Article 16 herein by creating a pledge;
+
+\7. Violation of Paragraph 1 of Article 18 herein by undergoing a merger, general transfer or general assumption (of assets and/or debt obligations) without approval;
+
+\8. Violation of Article 38 herein by holding shares of a financial holding company;
+
+\9. Violation of Paragraph 1 of Article 39 herein on the restricted use of short-term funds; or violation of Paragraph 2 of the same Article by investing in real estate or investing in real estate not for own use without approval;
+
+\10. Violation of regulations governing issuance terms or conditions prescribed by the competent authority in accordance with Paragraph 3 of Article 39 herein;
+
+\11. Violation of the ratios, requirements or restrictions prescribed by the competent authority in accordance with Article 40 or Article 41 herein;
+
+\12. Violation of Paragraph 1 of Article 42 herein by failing to keep data confidential;
+
+\13. Violation of Paragraph 1, Paragraph 2 or Paragraph 4 of Article 43 herein; or violation of the regulations governing the scope of businesses allowed, sharing of information, sharing of facilities, premises or personnel management prescribed by the competent authority in accordance with Paragraph 3 of Article 43 herein;
+
+\14. Violation of the restriction on trading terms or the manner in which the board of directors adopts resolution as stipulated in Paragraph 1 of Article 45 herein; or violation of the provision on the percentage of the amount stipulated in Paragraph 4 of the same Article;
+
+\15. Violation of Paragraph 1 of Article 46 herein by failing to report to the Competent Authority or make disclosure;
+
+\16. Violation of Article 51 herein by failing to establish an internal control or audit system or failing to duly implement such system;
+
+\17. Violation of Paragraph 1 or Paragraph 2 of Article 53 herein; or failure to replenish its capital within the period of time prescribed by the competent authority in accordance with Paragraph 3 of the same Article;
+
+\18. Violation of orders issued by the competent authority in accordance with Paragraph 1 of Article 55 herein;
+
+\19. Violation of Paragraph 1 of Article 56 herein by failing to perform the obligation of assistance; or violation of orders issued by the competent authority in accordance with Paragraph 2 of the same Article.
+
+### Article 61
+
+The responsible person or a staff member of a financial holding company who commits any of the following acts in connection with the FSC having ordered production of relevant financial statements, transaction data or other relevant information within a prescribed period of time, or having appointed an official or authorized an appropriate institution or appointed a specifically professional and technical expert to investigate the business, finances, and other relevant affairs of such financial holding company and/or its subsidiary(ies) in accordance with Article 52 of this Act shall be punished by an administrative fine of not less than Two Million New Taiwan Dollars (NT$2,000,000) and not more than Fifty Million New Taiwan Dollars (NT$50,000,000):
+
+1.Refusing to be investigated or refusing to open the vault or other storage facilities;
+
+2.Concealing or damaging books and documents related to business or financial conditions;
+
+3.Refusing to reply or providing misleading responses to inquiries of the investigator without justifiable reasons; and/or
+
+4.Failure to timely, honestly or completely provide financial reports, transaction data or other related data designated by the FSC, or to pay investigation fees within t he specified period(s) of time.
+
+### Article 62
+
+Commission of any of the following acts shall be punishable by a fine of not less than one million New Taiwan Dollars (NT$1,000,000) and not more than twenty million New Taiwan Dollars (NT$20,000,000):
+
+\1. Violation of the proviso in Paragraph 4 of Article 36 herein or Paragraph 2 of Article 37 herein by making an investment without approval;
+
+\2. Violation of Paragraph 5 of Article 36 or Paragraph 7 of Article 37 herein by failing to make adjustment within the period of time prescribed by the competent authority; or violation of Paragraph 7 of Article 36 herein where the responsible person or employee [concurrently] acting as managerial personnel of enterprises in which the venture capital subsidiary invests;
+
+\3. Violation of Paragraph 8 of Article 36 herein by undertaking capital decrease without the approval of the competent authority;
+
+\4. Violation of Paragraph 1 of Article 37 herein by making an investment without the approval of the competent authority, or having itself or its representative acting as the director or supervisor of the invested enterprise, or designating a person to be the managerial personnel of such enterprise;
+
+\5. Violation of Paragraphs 3, 4, or 5 of Article 37 herein by exceeding the investment limit or the restriction on shareholding; and
+
+\6. Violation of Paragraphs 1, 2, or 4 of Article 68 herein by failing to report, apply for permission, adjust the shareholding, or apply for approval.
+
+### Article 63
+
+Unless otherwise prescribed by this Act, administrative fines imposed for violation of this Act or regulations authorized hereunder or for failure to perform obligations to be performed shall be not less than Five Hundred Thousand New Taiwan Dollars (NT$500,000) and not more than Two Million Five Hundred Thousand New Taiwan Dollars (NT$2,500,000).
+
+### Article 64
+
+After having paid an administrative fine, the relevant financial holding company or its subsidiary(ies) shall claim compensation from the person(s) responsible for the violation.
+
+### Article 65
+
+If the responsible person(s), agent(s), employee(s) or staff member(s) of a legal entity commits any punishable act under this Act, in addition to the punishment being imposed on the person(s) responsible for the violation in accordance with this Chapter, the legal entity shall also be punished by the administrative fine or criminal fine described in the relevant Article.
+
+### Article 66
+
+If an administrative fine prescribed for in this Act is not paid within the period of time set by the FSC, a surcharge for late payment shall be levied, and calculated at the rate of one percent (1%) of the amount of the fine in arrears for each day of delay, starting from the day following the expiry of the set period of time. If the payment of the fine still has not been made thirty (30) days therefrom, the case shall be referred to the court for compulsory execution.
+
+### Article 67
+
+If a financial holding company or the punished person has been penalized in accordance with this Chapter and fails to take corrective measures within the period of time prescribed by the FSC, the FSC may punish such financial holding company or such punished person for each violation. Where the violations are of a serious nature, the FSC may require the discharge of the responsible person or revoke the approval.
+
+### Article 67-1
+
+Proceeds of the crime that belong to the offender in violation of this Act, or obtained by any other natural persons, legal persons, or unincorporated bodies pursuant to paragraph 2, Article 38-1 of the Criminal Code shall be confiscated, with the exception of compensations due to those victims or parties eligible for claims against damages.
+
+### Article 67-2
+
+Those who violate this Act and are fined a criminal fine of Fifty Million New Taiwan Dollars (NT$50,000,000) or more, but are unable to pay their fine in full, shall perform labor service for a period of not more than two (2) years; the length of such labor service shall be calculated by the ratio of the total amount of the fine to the number of days in two (2) years. Those who are fined One Hundred Million New Taiwan Dollars (NT$100,000,000) or more, but are unable to pay their fine in full, shall perform labor service for a period of not more than three (3) years; the length of such labor service shall be calculated by the ratio of the total amount of the fine to the number of days in three (3) years.
+
+## Chapter 6 Supplementary Provisions
+
+### Article 68
+
+The same person or same related party who falls within the circumstances described in Article 4, Subparagraph 1, of this Act prior to the date of enforcement of this Act shall report to the competent authority within six (6) months after the date of enforcement of this Act.
+
+The same person or same related party prescribed in the preceding Paragraph who does not fall within the circumstances prescribed in Article 6, Paragraph 2 of this Act shall, within one (1) year after the enforcement date of this Act, apply to the competent authority for approval to establish a financial holding company in accordance with Article 8. Those who do not obtain the competent authority’s approval shall, within five (5) years after the enforcement date of this Act, decrease their voting shares or capital in banks, insurance companies or securities firms and the number of the directors directly or indirectly elected or designated to the extent that their shareholding does not meet the provisions of Article 4, Subparagraph 1 of this Act. For good cause shown, the period of five (5) years prescribed in the preceding Paragraph may be extended twice with the competent authority’s approval. Each extension shall not exceed two (2) years.
+
+If banks hold shares with voting rights or capital stock in insurance companies or securities firms falling within the circumstances described in Article 4, Subparagraph 1, of this Act through investment in accordance with Article 74 of the Banking Act or directly or indirectly elect or designate the majority of directors of a bank, insurance company or securities firm before the promulgation of this Act, the provisions of this Act may not apply to those who apply to the competent authority for approval within six (6) months after the date of the enforcement of this Act.
+
+### Article 68-1
+
+For purposes of trying a criminal case of violation of this Act, a court may set up a special court or appoint a specialist to hear the case.
+
+### Article 69
+
+This Act shall be enforced on November 1, 2001. Amended articles in this Act, except for those amended on May 5, 2006 that have been enforced since July 1, 2006, shall be enforced from the date of promulgation.
+
+## History
+
+\1. Full text promulgulated per Presidential Decree Hua-Zhong-Yi-Yi-Zi No. (90)  9000134920; for enforcement from November 1, 2001.
+
+\2. Article 57 amended per 4 February, 2004 Order No. Presidential Decree Hua-Zong-Yi-Yi-Zi 09300016581; and the additions of Articles 57-1、57-2、67-1、67-2.
+
+\3. The Presidential Decree Hua-Zhong-Yi-Yi-Zi 09300119821 on June 30, 2004 publicized the amendments to Article 31.
+
+\4. Articles 13, 66, and 69 amended and promulgated and articles 57-3, 57-4, and 68-1 added per Presidential Order No. Hua-Zong-I-Yi-09400072711 of 18 May 2005; for enforcement from the date of promulgation
+
+\5. Modified on May 30, 2006
+
+\6. Article 48 of Financial Holding Company Act deleted and Articles 3 ~ 5, 16, 17, 30, 36, 37, 43, 46, 59, 60, 62, and 69 of the same Act amended per Presidential Decree Hua-Zong-Yi-Yi-Zi No. 09800010881 dated January 21, 2009.
+
+\7. Article 43 amended per 4 June, 2014 Order No. Presidential Decree Hua-Zong-Yi-Yi-Zi 10300085831.
+
+\8. Article 3 amended per 4 February, 2015 Order No. Presidential Decree Hua-Zong-Yi-Yi-Zi 10400012541.
+
+\9. Article 53 amended per 30 September, 2015 Order No. Presidential Decree Hua-Zong-Yi-Yi-Zi 104000114361.
+
+\10. Article 57 ~ 57-2, 67-1 amended per 31 January, 2018 Order No. Presidential Decree Hua-Zong-Yi-Yi-Zi 10700009811
+
+\11. Article 18, 58, 60~62, and 67 amended per 16 January, 2019 Order No. Presidential Decree Hua-Zong-Yi-Jing-Zi 10800002761

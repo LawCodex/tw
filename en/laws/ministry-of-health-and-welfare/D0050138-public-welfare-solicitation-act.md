@@ -1,0 +1,251 @@
+---
+title: "Public Welfare Solicitation Act"
+title_zh: "公益勸募條例"
+identifier: "D0050138"
+type: act
+law_level: "法律"
+category: "行政＞衛生福利部＞社會救助及社工目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2006-05-17
+last_amended: 2020-01-15
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0050138"
+retrieved: 2026-10-12
+---
+
+# Public Welfare Solicitation Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-health-and-welfare/D0050138-public-welfare-solicitation-act.md](../../../zh/laws/ministry-of-health-and-welfare/D0050138-public-welfare-solicitation-act.md)) is authoritative.
+
+## Article 1
+
+This Act is established to effectively manage donation solicitation and properly utilize social resources, promote public welfare, and ensure donors’ interests.
+
+## Article 2
+
+The terms used in this Act are defined as follows:
+
+1.“Public welfare” refers to the interest of unidentified multiple persons.
+
+2.“Non-profit organization” refers to a private organization registered in accordance with the law for non-profit purposes and engaging in public welfare activities under Article 8.
+
+## Article 3
+
+Unless otherwise provided under other laws, the solicitation of property and acceptance of donations for public welfare purposes are governed by this Act, with the exception of the activities below:
+
+1.Solicitation of property or acceptance of donations by an organization or individual for the purpose of raising funds for political activities.
+
+2.Solicitation of property or acceptance of donations by a religious group, temple, church, or individual for the purpose of raising funds for religious activities.
+
+## Article 4
+
+“Competent authority” referred to in this Act is the Ministry of Health and Welfare at the central level, the municipal government at the municipal level, and the county (city) government at the county (city) level.
+
+## Article 5
+
+A “soliciting organization” referred to in this Act is as follows:
+
+1.Public school.
+
+2.Incorporated administrative agency.
+
+3.Public-interest association.
+
+4.Incorporated foundation.
+
+Government authority (institution) at each level may accept voluntary donations from its personnel or external members for public welfare purposes. However, it shall not solicit donations except in the case of a major disaster or international rescue.
+
+## Article 6
+
+In the solicitation under the second paragraph of the previous article, the government authority (institution) of each level shall:
+
+1.Issue receipts.
+
+2.Carry out public disclosures on a regular basis.
+
+3.Use the funds for designated purposes.
+
+If the government authority (institution) of the previous paragraph has a superior authority, a letter status report shall be filed with the superior authority for records within 2 months from the end of the year.
+
+When an organization solicits property or accepts voluntary donations from its members or personnel for a public welfare purpose or accepts voluntary donations from external members, it shall follow the first paragraph. An implementation status and income/expense closing report shall also be filed with the authority that granted the approval for its incorporation or registration of such organization or the authority that supervises such organization within 2 months from the end of the year in the event of a public school, or within 5 months from the end of the year in the event of other organizations.
+
+## Article 7
+
+In soliciting property for public welfare purposes (hereinafter a “Solicitation Campaign”), the soliciting organization shall file an application and relevant documents to seek approval from the municipal or county (city) competent authority in the place where the Solicitation Campaign takes place. However, if the Solicitation Campaign takes place in multiple municipalities or counties (cities), the application for a permit shall be filed with the central competent authority.
+
+The regulations about the procedure and deadline for the application for a permit under the previous paragraph (including regularization of omitted applications), the documents required, matters subject to permit, and other compliance matters shall be further established by the central competent authority.
+
+## Article 8
+
+Properties received by soliciting organizations from Solicitation Campaigns shall only be used for the following purposes:
+
+1.Social welfare business.
+
+2.Educational and cultural business.
+
+3.Social charity business.
+
+4.Foreign aid or international humanitarian rescue.
+
+5.Other businesses determined by the competent authority.
+
+## Article 9
+
+The competent authority shall not permit solicitation by any soliciting organization with any of the following events within the past 3 years:
+
+1.In violation of Articles 13, 14, 19, 21, or 22.
+
+2.An event under Subparagraph 1, Article 10, for which the competent authority has revoked the solicitation permit, except if the legal or authorized representative has received a final non-guilty judgment.
+
+3.An event under Subparagraph 2 or 3 of Article 10 or Article 11 for which the competent authority has revoked or canceled the solicitation permit.
+
+## Article 10
+
+The competent authority may revoke the solicitation permit if the soliciting organization has any of the following events:
+
+1.The legal or authorized representative of the soliciting organization is subject to public prosecution due to a suspected criminal offense due to solicitation.
+
+2.False statement in the receipt issued in accordance with Article 16.
+
+3.Material violation of laws related to the organization’s affairs, business, or finance.
+
+## Article 11
+
+In case of falsity in any document submitted by the soliciting organization seeking approval for the Solicitation Campaign, the competent authority may revoke its solicitation approval.
+
+## Article 12
+
+The maximum period of a Solicitation Campaign organized by a soliciting organization is one year.
+
+## Article 13
+
+A soliciting organization shall open a donation account with the post office or a financial institution, which shall be filed with the competent authority for records within 7 days from the start of the Solicitation Campaign. In contrast, donation accounts opened by public schools must be financial institutions that process treasury accounts.
+
+## Article 14
+
+No solicitation shall be done through forceful allocation or other forceful manners, nor shall any person with an obligation to follow orders or any person under supervision due to job function or business relationship be forced to make any donations.
+
+## Article 15
+
+In carrying out any Solicitation Campaign, personnel affiliated with the soliciting organization shall take the initiative to show the permit documents issued by the competent authority and the working badge issued by the relevant soliciting organization, whereas if the campaign is publicized through media, the specification or statement of the solicitation permit number shall suffice.
+
+## Article 16
+
+Upon acceptance of the donated property, the soliciting organization shall issue a receipt specifying the solicitation permit number, donor, donated amount or item, and the date of donation.
+
+## Article 17
+
+Necessary expenses incurred by the soliciting organization in carrying out the Solicitation Campaign may be paid out of the proceeds from the Solicitation Campaign to the following extent:
+
+1.15% if the proceeds from the Solicitation Campaign are below NT$10,000,000.
+
+2.NT$1,500,000 plus 8% of the portion in excess of NT$10,000,000 if the proceeds from the Solicitation Campaign are over NT$10,000,000 and below NT$100,000,000.
+
+3.NT$8,700,000 plus 1% of the portion in excess of NT$100,000,000 if the proceeds from the Solicitation Campaign are over NT$100,000,000.
+
+The value of non-monetary proceeds received from solicitation under the previous paragraph shall be converted based on the market value at the time of donation.
+
+## Article 18
+
+Within 30 days from the day following the end of a Solicitation Campaign, the soliciting organization shall publicly publish and disclose the donation details of the donors, proceeds from the Solicitation Campaign, as well as income/expense reports and file with the competent authority for records.
+
+Any expense payment in excess of NT$10,000 paid out of the proceeds from the Solicitation Campaign under the previous paragraph shall be made by check or wired through the post office or a financial institution and shall not be paid in cash.
+
+## Article 19
+
+Property received by the soliciting organization through the Solicitation Campaign shall be used in accordance with the Solicitation Campaign property utilization plan permitted by the competent authority. It shall not be used for any other purpose.
+
+If there is remaining property, if any, the soliciting organization may apply for use within 3 months from the completion of the plan in accordance with another plan prepared for the same type of purpose as the original Solicitation Campaign after approval by the competent authority.
+
+The use of the remaining property under the previous paragraph shall not exceed 3 years.
+
+## Article 20
+
+Within 30 days from the completion of the Solicitation Campaign property utilization plan, the soliciting organization shall publicly publish and disclose the implementation status that has been submitted to and approved by its board of management directors or board of directors, as well as the results report, expense details, and relevant supporting documents; and file with the competent authority for records; an extension up to 30 days may be granted with due justification.
+
+The soliciting organization shall publish the filing materials under the previous paragraph on the competent authority's website. The competent authority shall also conduct annual audits regularly.
+
+## Article 21
+
+The competent authority may verify the status of the Solicitation Campaign at any time. Neither the soliciting organization nor any of its affiliated personnel shall evade, interfere with, or reject such verification.
+
+## Article 22
+
+In case of any of the following events, the property received from solicitation shall be returned to the donors:
+
+1.Solicitation by any solicitating entity other than those listed under Article 5.
+
+2.Unpermitted solicitation activity.
+
+3.Solicitation Campaign with permit withdrawn or revoked by the competent authority, except property already used in accordance with the permitted purpose before the withdrawal or revocation, as confirmed through verification.
+
+4.Solicitation Campaign was carried out beyond the permitted period of the Solicitation Campaign.
+
+5.Violation of Article 14.
+
+Any property under the previous paragraph that is difficult to return shall be submitted to the competent authority after filing with the competent authority for determination. If handled in accordance with the original plan of the Solicitation Campaign or the relevant purpose, a relevant organization may be mandated to handle such property.
+
+If the soliciting organization is dissolved or if the soliciting organization fails to proceed in accordance with Article 19, property remaining from its proceeds of the Solicitation Campaign shall be handled in accordance with the previous two paragraphs.
+
+## Article 23
+
+The competent authority shall publish online information such as the Solicitation Campaigns it has ratified, the proceeds therefrom, and the status of use.
+
+## Article 24
+
+In case of any of the following events, if the breach continues following a warning, a fine between NT$40,000 and NT$200,000 shall be imposed, and the individual’s or entity’s name, the event of a breach, and the sanction shall be published. If the breach continues following the sanction, cumulative fines may be imposed.
+
+1.Solicitation by any soliciting organization other than those listed under Article 5.
+
+2.Unpermitted solicitation activity.
+
+3.Solicitation Campaign that continued after the permit was withdrawn or revoked by the competent authority.
+
+4.Solicitation Campaign that continued beyond its approved period.
+
+When a fine is imposed on a soliciting organization or other legal person or entity under the previous paragraph, the responsible person or representative of such organization, legal person, or entity shall also be fined, and their names shall be published.
+
+## Article 25
+
+In case of a breach of Article 14 that continues following a warning, a fine between NT$40,000 and NT$200,000 shall be imposed. If the breach continues following the sanction, cumulative fines may be imposed. In serious cases, the solicitation approval may be canceled.
+
+## Article 26
+
+In case of breach of Article 13, Articles 15 to 20, or Article 22, a warning may be imposed with a deadline for rectification. If rectification is not made, a fine between NT$20,000 and NT$100,000 may be imposed. Repeated breaches may be subject to cumulative fines.
+
+## Article 27
+
+For evasion, interference with, or refusal of verification by the competent authority in accordance with Article 21, a fine between NT$10,000 and NT$50,000 and compulsory verification may be imposed. In serious cases, the solicitation permit may be revoked.
+
+## Article 28
+
+In case of breach of Article 6, a warning and deadline for rectification shall be given by the superior authority or the authority that approved the organization’s incorporation, registration, or supervising authority. If rectification is not made in time, a fine between NT$3,000 and NT$1,500 may be imposed. Repeated breaches may be subject to cumulative fines.
+
+## Article 29
+
+In case of breach of this Act, in addition to sanctions stipulated herein, cases with suspected criminal offenses shall be forwarded to the judicial authority for further handling.
+
+## Article 30
+
+Other than Article 28, the fines stipulated in this Act shall be imposed by the competent authority.
+
+## Article 31
+
+The enforcement rules of this Act shall be established by the central competent authority.
+
+## Article 32
+
+This Act is implemented from the date of publication.
+
+## History
+
+1.Ref.: Hwa-Tung-1-Yee No. 09500069731;
+
+Dated May 17th, 2006 [The Republic Of China 95th year];
+
+These regulations are considered enforced & implemented, from the official public announcement date.
+
+2.Amended on Jan 15,2020

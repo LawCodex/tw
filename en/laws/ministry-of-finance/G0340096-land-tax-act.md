@@ -1,0 +1,687 @@
+---
+title: "Land Tax Act"
+title_zh: "土地稅法"
+identifier: "G0340096"
+type: act
+law_level: "法律"
+category: "行政＞財政部＞賦稅目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1977-07-14
+last_amended: 2025-01-24
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0340096"
+retrieved: 2026-10-12
+---
+
+# Land Tax Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-finance/G0340096-land-tax-act.md](../../../zh/laws/ministry-of-finance/G0340096-land-tax-act.md)) is authoritative.
+
+## Chapter 1 General Principles
+
+### Section 1 General Provisions
+
+#### Article 1
+
+Land taxes are categorized into land value tax, agricultural land tax, and land value increment tax.
+
+#### Article 2
+
+The competent authorities under this Act are: the Ministry of Finance (hereinafter referred to as the MOF) at the central government level; the municipality governments at the municipality level; and the county (city) governments at the county (city) level.
+
+The authorities responsible for the collection of agricultural land tax in kind are the grain administration authorities of the municipality and county (city) governments.
+
+#### Article 3
+
+The taxpayers of land value tax or agricultural land tax are as follows:
+
+\1. The land owner.
+
+\2. For land set with Dien rights, the Dien rights holder.
+
+\3. For bestowed land, the bestowee.
+
+\4. For land assigned for cultivating, the person with cultivating rights.
+
+For land described in Subparagraph 1 of the preceding paragraph, if the land ownership falls under public or collective ownership, the managing authority or manager shall be the taxpayer. If the land is under joint ownership, for land value tax, each co-owner shall be the taxpayer according to their respective share; for agricultural land tax, the representative elected by the co-owners shall be the taxpayer. If no representative is elected, each co-owner shall be the taxpayer according to their respective share.
+
+#### Article 3-1
+
+If the land is trust property, the trustee shall be the taxpayer responsible for the land value tax or agricultural land tax during the existence of the trust relationship.
+
+The land mentioned in the preceding paragraph should be combined with the land owned by the settlor within the same municipality or county (city) jurisdiction to calculate the total land value. The land value tax shall be levied at the tax rate prescribed in Article 16, based on the proportion of each land's value to the total land value. However, if the beneficiary of the trust benefits is not the settlor and meets the following conditions, the land mentioned in the preceding paragraph shall be combined with the land owned by the beneficiary within the same municipality or county (city) jurisdiction to calculate the total land value:
+
+\1. The beneficiary has been definitively determined and enjoys the entire benefit of the trust.
+
+\2. The settlor has not retained the right to change the beneficiary.
+
+#### Article 4
+
+When any of the following circumstances applies to the land, the competent tax authority may designate the land user to be responsible for paying the land value tax or agricultural land tax for the portion they use:
+
+\1. The taxpayer's whereabouts are unknown.
+
+\2. The ownership is unclear.
+
+\3. The land is unmanaged.
+
+\4. The landowner applies for the occupant to pay on their behalf.
+
+If the landowner has two or more parcels of land within the same municipality or county (city), used by different users, and the land value tax for the landowner is calculated at a progressive tax rate, each land user shall be responsible for paying the land value tax proportionate to the value of the land they use.
+
+The land value tax or agricultural land tax paid on behalf of the taxpayer by the designated payer, as stipulated in Subparagraphs 1 to 3 of the first paragraph, may be deducted from the rent payable for the period of use or claimed for reimbursement from the taxpayer.
+
+#### Article 5
+
+The taxpayers for the land value increment tax are as follows:
+
+\1. For compensated transfers of land, the taxpayer is the original owner.
+
+\2. For uncompensated transfers of land, the taxpayer is the person acquiring ownership.
+
+\3. For the land set with Dien rights, the taxpayer is the grantor of the Dien rights.
+
+The term “compensated transfers” in the preceding paragraph refers to transfers through sale, exchange, government acquisition at assessed value, expropriation, and similar methods. The term “uncompensated transfers” refers to transfers through bequest and donation, and similar methods.
+
+#### Article 5-1
+
+When the ownership of land is transferred and the taxpayer fails to pay the land value increment tax within the prescribed period, the person acquiring the ownership may pay the tax on their behalf. Pursuant to Article 47 of the Equalization of Land Rights Act, when the land transfer present value is declared independently by the right holder, the land value increment tax payable shall be paid on behalf of the right holder.
+
+#### Article 5-2
+
+For the entrusted land, during the existence of the trust relationship, if the trustee transfers ownership for compensation, establishes Dien rights, or converts the land to their own land according to Paragraph 1, Article 35 of the Trust Law, the trustee shall be the taxpayer and the land value increment tax shall be levied on them.
+
+When land is held as trust property and the trustee transfers the land to a person or entity other than the settlor in accordance with the purpose of the trust, the transferee shall be the taxpayer for land value increment tax.
+
+#### Article 6
+
+In order to develop economy, promote land utilization, or enhance social welfare, appropriate tax reductions or exemptions may be granted for land used for national defense, government agencies, public facilities, arcades and corridors, research institutions, education, transportation, water conservancy, water supply, salt production, religion, medical care, sanitation, public and private cemeteries, charitable or public welfare enterprises, and reasonable self-use residences, as well as for land subject to rezoning, reclamation, or improvement. The standards and procedures for such reductions or exemptions shall be prescribed by the Executive Yuan.
+
+### Section 2 Definitions
+
+#### Article 7
+
+The term "public land" as used in this Act refers to land owned by the state, municipalities, counties (cities), and hsiang, towns (cities).
+
+#### Article 8
+
+The term "urban land" as used in this Act refers to the land within the scope of urban planning promulgated in accordance with the law. The so-called non-urban land refers to land other than urban land.
+
+#### Article 9
+
+The term "self-use residential land" as mentioned in this Act refers to the residential land where the landowner or his spouse or lineal relatives by blood have completed household registration on the land and where the land is not rented out or used for business.
+
+#### Article 10
+
+The term “agricultural land” as used in this Act refers to non-urban land or land within the scope of urban agricultural zones and conservation zones, which is provided for the following uses in accordance with the law:
+
+\1. Land used for farming, forestry, aquaculture, animal husbandry and conservation.
+
+\2. Land used for farmhouses, barns, storage and warehousing facilities, solar yards, collecting sites, farm road, irrigation, drainage systems and other agricultural use that are seen as an integral part of farming managements.
+
+\3. Warehouses, freezing/chilling facilities, agricultural machinery centers, sites of manufacture of silk/breeding silkworms, collecting sites and inspection stations that are directly provided for agricultural use/purposes, and the properties of which are owned by farmers’ organizations or cooperative farms.
+
+The term "industrial land" as used in this Act refers to the land in industrial zones approved by law and the land approved by the government for industrial or factory use; the term "mining land" refers to the surface land actually used for mining.
+
+#### Article 11
+
+The term "vacant lot" as used in this Act refers to the land for construction purposes, private and public owned but not for public use, where roads, drainage and electricity facilities and tap water systems have been completed, and in areas with running water available, but have not yet been used for construction in accordance with the law; or although used for construction, the value of the construction improvements is less than 10% of the declared land value of the occupied base, and has been designated by the municipal or county (city) government that require additional construction, renovation, or reconstruction.
+
+#### Article 12
+
+The term "assessed present value" as used in this Act refers to the present value of land announced by municipality and county (city) governments in accordance with the Equalization of Land Rights Act.
+
+#### Article 13
+
+The definitions of terms used in levying agricultural land tax in this Act are as follows:
+
+\1. Land Category: Refers to the category of land use as recorded in the cadastre of each municipality or county (city).
+
+\2. Grade: The grade assigned to different categories of land according to the annual yield or value per unit area of land.
+
+\3. Tax Unit: Refers to the unit for determining the annual tax amount per unit area based on the tax grade of various land categories.
+
+\4. Tax Amount: Refers to the product obtained by multiplying the annual tax amount per unit area determined based on the tax grade of each land category by the area of each land category.
+
+\5. In-kind: Refers to rice, wheat, or other agricultural products collected in various regions.
+
+\6. Cash Equivalent: Refers to cash collected in lieu of the in-kind tax.
+
+\7. Impurities: Refers to impurities such as sand, mud, soil, stones, and weeds contained in the in-kind.
+
+## Chapter 2 Land Value Tax
+
+#### Article 14
+
+Land for which the land value has been assigned shall be subject to land value tax, except for cases where agricultural land tax is levied in accordance with Article 22.
+
+#### Article 15
+
+The land value tax is levied based on the total land value of each landowner within each municipality or county (city) jurisdiction.
+
+The term ”total land value” as mentioned in the preceding paragraph refers to the total land value for each landowner as determined according to statutory procedures for assigning or re-assigning land value, and as recorded in the household land valuation register.
+
+#### Article 16
+
+The basic rate of land value tax is 1%. If the total land value of the landowner does not exceed the starting cumulative value (SCV) of the municipality or county (city) where the land is located, the land value tax will be levied at the basic rate; if the total land value exceeds the SCV, it will be levied progressively according to the following provisions:
+
+\1. For the portion exceeding the SCV but not exceeding five times that amount, a rate of 1.5% is applied to the excess.
+
+\2. For the portion exceeding five times but not exceeding ten times the SCV, a rate of 2.5% is applied to the excess.
+
+\3. For the portion exceeding ten times but not exceeding fifteen times the SCV, a rate of 3.5% is applied to the excess.
+
+\4. For the portion exceeding fifteen times but not exceeding twenty times the SCV, a rate of 4.5% is applied to the excess.
+
+\5. For the portion exceeding twenty times the SCV, a rate of 5.5% is applied to the excess.
+
+The SCV referred to in the preceding paragraph shall be based on the average land value of seven acres of land in each municipality and county (city). But it does not include industrial land, mining land, agricultural land and tax-exempt land.
+
+#### Article 17
+
+For self-use residential land that meets the following requirements, the land value tax is levied at a rate of 0.2%:
+
+\1. The portion of urban land area not exceeding three acres.
+
+\2. The portion of non-urban land area not exceeding seven acres.
+
+For public housing and worker dormitories built by private and public enterprises, the land value tax on the land shall be levied at the rate specified in the preceding paragraph from the date of construction or the acquisition of land ownership.
+
+For landowners, their spouses, and minor dependents who are eligible for the tax rate of self-use residential land described in the first paragraph, only one property can apply.
+
+#### Article 18
+
+Land directly used for the following purposes is subject to a land value tax rate of 1%. However, this does not apply if the land is not used according to the plan approved by the competent authority of the purpose enterprise:
+
+\1. Industrial land, mining land.
+
+\2. Land used for private parks, zoos, and sports facilities.
+
+\3. Land used for temples, churches, and government-designated scenic spots and historic sites.
+
+\4. Land for gas stations established with approval from the competent authority and land for parking lots set up for public use according to the Urban Planning Act.
+
+\5. Other land approved by the Executive Yuan.
+
+Before the industrial zone or industrial land designated by law is announced, if a factory has been established in a non-industrial zone or the land not designated for industrial use, with the cases approved by government, the provisions of the preceding paragraph shall apply to the land directly used by the factory.
+
+The land value tax for the land specified in each subparagraph of the first paragraph is subject to the reduction or exemption provisions of Article 6 if it meets the requirements for reduction or exemption.
+
+#### Article 19
+
+For the land reserved for public facilities under urban planning that is used for construction during the reserved period, except for self-use residential land in accordance with the provisions of Article 17, land value tax will be levied at a rate of 0.6%. If such land remains unused and is isolated from the land being used, it shall be exempt from the land value tax.
+
+#### Article 20
+
+Public land is subject to land value tax at the basic tax rate. However, public land provided for public use is exempt from land value tax.
+
+#### Article 21
+
+For any land approved by the municipality or county (city) government to be subject to vacant lot tax, a vacant lot tax of two to five times the basic land value tax payable for the land will be levied.
+
+## Chapter 3 Agricultural Land Tax
+
+#### Article 22
+
+Non-urban land designated as agricultural land according to law or land for which the land value has not been assigned shall be subject to agricultural land tax. However, the same applies to urban land meeting the following criteria:
+
+\1. Designated as agricultural zones and conservation zones according to urban planning, limited to agricultural use.
+
+\2. Still used for agricultural purposes before the completion of public facilities.
+
+\3. Still used for agricultural purposes with legal restrictions on construction.
+
+\4. Still used for agricultural purposes with legal prohibition from construction.
+
+\5. Designated as land reserved for public facilities according to urban planning, still used for agricultural purposes.
+
+The second and third subparagraphs of the preceding paragraph are limited to farmland cultivated by farmers themselves and farmland leased under the 37.5% Arable Rent Reduction Act.
+
+Land used directly for agricultural purposes by farmers' groups and cooperative farms, such as warehouses, cold storage facilities, agricultural machinery centers, silk breeding facilities, collection sites, inspection sites, rice seedling nurseries, water storage tanks, agricultural greenhouses, and wholesale markets for agricultural products, shall still be subject to agricultural land tax.
+
+Public land provided for public use and land reserved for public facilities under urban planning that remain unused during the reservation period and are isolated from the land being used shall be exempt from agricultural land tax.
+
+#### Article 22-1
+
+If agricultural land remains idle and unused and has been reported by the municipal or county (city) government to the Ministry of the Interior for approval, upon approval, a notice will be issued by the government to set a deadline for the land to be used or entrusted for operation. If the land is still not used or entrusted for operation by the deadline, an uncultivated land tax, which is one to three times the amount of the agricultural land tax, shall be imposed. If the uncultivated land tax has been imposed for three years and the land remains unused, the government may purchase the land at its assessed present value. However, the following circumstances are exempt from this provision:
+
+\1. The land is left fallow due to agricultural production needs or policy requirements.
+
+\2. The land is left fallow due to unprofitable regional production.
+
+\3. The land cannot be cultivated due to pollution.
+
+\4. T The land cannot be cultivated due to damage to irrigation or drainage facilities.
+
+\5. The land cannot be cultivated due to force majeure.
+
+The implementation regulations for the aforementioned provisions shall be handled in accordance with the relevant provisions of the Equalization of Land Rights Act.
+
+#### Article 23
+
+Agricultural land tax shall be collected in kind, specifically from the rice or wheat produced in each locality. For land that does not produce rice or wheat and in special circumstances, the tax may be collected in kind from other local grain products or converted into a monetary equivalent.
+
+All calculations of goods shall use the metric system, with kilograms as the unit of measurement, rounded to the nearest hectogram. The monetary equivalent shall be calculated in units of yuan.
+
+#### Article 24
+
+The agricultural land tax shall be collected in kind according to the following standards:
+
+\1. For land in areas where rice is collected, twenty-seven kilograms of rice shall be collected per tax unit.
+
+\2. For land in areas where wheat is collected, twenty-five kilograms of wheat shall be collected per tax unit.
+
+The aforementioned standards may be adjusted downward by the Executive Yuan based on the tax burden on the land in various regions.
+
+#### Article 25
+
+Acceptance of payment in kind shall be limited to new grains of the same type, unchanged in quality and color, and free from pest damage. The standards for impurities such as sand, stones, mud, dirt, and weeds, as well as moisture content, are as follows:
+
+\1. Rice: Impurities must not exceed 0.5%, moisture content must not exceed 13%, and the weight per hectoliter must be at least 53.2 kilograms.
+
+\2. Wheat: Impurities must not exceed 0.4%, moisture content must not exceed 13%, and the weight per hectoliter must be at least 74 kilograms.
+
+In cases of disaster, seasonal issues, or special circumstances making it difficult to meet the above acceptance standards, the municipal or county (city) government may, based on actual conditions, adjust the standards downward.
+
+#### Article 26
+
+In areas where in-kind payment is collected, local government may purchase the grain with tax according to local grain production conditions. The standards for such purchase shall be approved by the Executive Yuan.
+
+#### Article 27
+
+When the revenue of land subject to agricultural land tax changes due to alterations in transportation, water conservancy, soil, or soil and water conservation factors, or due to natural changes, an adjustment of land category and/or grade shall be conducted. The regulations for such adjustments shall be determined by the central land administration authority.
+
+#### Article 27-1
+
+To regulate agricultural production conditions or respond to the needs of agricultural development, the Executive Yuan may decide to suspend the collection of all or part of the agricultural land tax.
+
+## Chapter 4 Land Value Increment tax
+
+#### Article 28
+
+For land with an assigned land value, when the land ownership is transferred, land value increment tax shall be levied based on the total amount of land value increment. However, land transferred due to inheritance, public land sold or donated by governments at all levels in accordance with the law, and private land donated to any level of governments are exempt from land value increment tax.
+
+#### Article 28-1
+
+Land privately donated for the establishment of social welfare enterprises or for the use of legally established private schools shall be exempt from land value increment tax, provided that the following conditions are met:
+
+\1. The donee must be a foundation.
+
+\2. The articles of incorporation of the foundation must stipulate that, upon its dissolution, any remaining assets shall belong to the local government.
+
+\3. The donor must not receive any benefit from the donated land in any manner.
+
+#### Article 28-2
+
+Land transferred between spouses by gift may apply for non–taxable status of land value increment tax. However, when the land is subsequently transferred and subject to land value increment tax according to the law, the original land value for calculating the total amount of increment shall be either the assigned land value prior to the first non-taxable status of land value increment tax or the last declared transfer present value assessed for land value increment tax purposes, whichever is applicable.
+
+For the land mentioned in the preceding paragraph, when calculating the land value increment tax for its subsequent transfer, if the donor or the donee incurred improvement expenses on the land as stipulated in Subparagraph 2 of Paragraph 1 of Article 31, or paid additional land value tax as stipulated in Paragraph 3 of the same article during the period of their land ownership, the provisions for deductions or offsets under that article shall apply. If the land has undergone rezoning, the reduction provisions of Paragraph 1, Article 39-1 shall apply mutatis mutandis. For the subsequent transfer of such land, when applying the tax rate under Article 34 for land value increment tax assessment, any period within one year prior to the sale during which the land was not used for business or rental purposes shall be combined in the calculation.
+
+#### Article 28-3
+
+When land is held as trust property, the transfer of ownership between the following trust-related parties is not subject to land value increment tax:
+
+\1. Between the settlor and the trustee, due to the establishment of the trust.
+
+\2. Between the original trustee and a new trustee, during the continuance of the trust, upon a change of trustee.
+
+\3. Between the trustee and the beneficiary, upon the termination of the trust relationship, provided the trust contract specifies that the settlor is the beneficiary of the trust property.
+
+\4. Between the trustee and the beneficiary, upon the termination of a trust established by a will.
+
+\5. Between the settlor and the trustee, due to the non-establishment, invalidation, rescission, or revocation of the trust.
+
+#### Article 29
+
+For land with an assigned land value, the grantor of Dian rights shall prepay the land value increment tax in accordance with the provisions of this Act at the time the rights are established. However, when the grantor redeems the land, the prepaid land value increment tax shall be refunded without interest.
+
+#### Article 30
+
+When land ownership is transferred or Dien rights are established, the review standards for the declared present value of the transfer shall be in accordance with the following provisions:
+
+\1. If the declarant files the declaration within thirty days from the contract date, the declared transfer value shall be based on the assessed present value of the land at the contract date.
+
+\2. If the declarant files the declaration more than thirty days after the contract date, the declared transfer value shall be based on the assessed present value of the land at the date the receiving agency accepts the declaration.
+
+\3. For bequested land, the declared transfer value shall be based on the assessed present value of the land at the date of the decedent's death.
+
+\4. For land transferred by court judgment, the declared transfer value shall be based on the assessed present value of the land at the date the declarant filed the lawsuit.
+
+\5. For land auctioned by a court or local branch of the Administrative Enforcement Agency, Ministry of Justice (hereinafter referred to as the branch of the Administrative Enforcement Agency), the declared transfer value shall be based on the assessed present value of the land at the auction date. However, if the auction price is lower than the assessed present value, the auction price shall be used; if the auction price has already deducted the amount of secured debts and other liabilities, such deductions shall be added back for the calculation of the transfer value.
+
+\6. For land acquired by government with purchase price approved by government or with agreed price, the declared transfer value shall be based on the assessed present value of the land at the government purchase date. However, if the government's compensation for the land is lower than the assessed present value at the purchase date, the government's compensation shall be used.
+
+If the declared transfer value, as per Subparagraphs 1 to 4 of the preceding paragraph, is found to be lower than the assessed present value, the competent authority may purchase the land at the declared transfer value or levy the land value increment tax based on the assessed present value. If the declared transfer value, as per Subparagraphs 1 to 3, is found to exceed the assessed present value, the land value increment tax shall be levied based on the declared transfer value.
+
+For cases of land transfer by court judgment, court auction, or government purchase with approved price or agreed price occurring between January 17, 1997, and October 30, 1997, where the tax has not been levied or tax amount has not been finalized in the end of the period, the review standards for the declared transfer value shall apply in accordance with Subparagraphs 4 to 6 of the first paragraph and the preceding paragraph.
+
+#### Article 30-1
+
+For land exempt from land value increment tax by law, the competent tax authority shall approve the transfer present value and issue a tax exemption certificate based on the following regulations, which shall be used to process the transfer registration of land ownership:
+
+\1. For public land exempt from land value increment tax according to the proviso in Article 28, the actual sale price shall be used; for land given or received as a gift by various levels of government, the transfer value shall be based on the assessed present value at the date the gift contract was signed.
+
+\2. For private land exempt from land value increment tax according to Article 28-1, the transfer value shall be based on the assessed present value at the date the gift contract was signed.
+
+\3. For land in lieu of compensation exempt from land value increment tax according to Paragraph 3, Article 39-1, the transfer value shall be based on the land value at the time the land in lieu of compensation was actually received during the zone expropriation.
+
+#### Article 31
+
+The calculation of the total amount of land value increment shall be the difference between the declared transfer value, approved at the time of land ownership transfer or the establishment of Dien rights, and the following deductions:
+
+\1. For land that has not been transferred after the land value was first assigned, the original assigned land value; for land that has been transferred after the assignment of land value, the previous transfer value.
+
+\2. All expenses paid by the landowner for land improvements, including paid construction benefit charge, land rezoning fee, and if the land owner donates a certain proportion of the land for free as public facility land due to changes in land use, the assessed present value of the proportion at the time of donation
+
+The term "original assigned land value" in Subparagraph 1 of the preceding paragraph refers to the value assigned under the Equalization of Land Rights Act; the term "previous transfer value" used for the calculation of land value increment tax, refers to the assessed present value at the time of inheritance for land acquired by inheritance. However, if the land was received as the land in lieu of compensation under Subparagraph 3, Article 30-1, and its value at the time of zone expropriation was higher than the assessed present value at the time of inheritance, the higher value shall be used.
+
+When the landowner processes the land transfer and pays the land value increment tax, the supplemental land value tax paid due to the reassessment of land value during the period of land ownership can be offset against the land value increment tax payable on the transferred land. However, the total amount allowed for offsetting shall not exceed five percent of the total land value increment tax payable.
+
+The method for offsetting the supplemental land value tax shall be prescribed by the Executive Yuan.
+
+#### Article 31-1
+
+For land that is not subject to the land value increment tax according to the provisions of Article 28-3, when ownership is transferred, Dien rights are established, or the land is converted into trustee's own land according to Paragraph 1 of Article 35 of the Trust Law, the original land value for calculating the total amount of the increment and imposing the l and value increment tax shall be based on either the assigned land value prior to the first non-taxable status of land value increment tax or the last declared transfer present value assessed for land value increment tax purposes. However, for the cases meet the provisos of Paragraph 2 or Paragraph 3 of Article 39, the determination of the original land value shall be determined accordingly.
+
+If a trust established by a will uses land as the trust property at the time of its establishment, and the land is subject to land value increment tax as described in the preceding paragraph, its original land value shall refer to the assessed present value on the date of the testator's death.
+
+When land owned by the settlor is transferred into a trust, and the trust contract explicitly specifies that the beneficiary is the settlor who enjoys all the benefits of the trust, if the beneficiary dies during the trust relationship, and if the land is subject to land value increment tax in accordance with the first paragraph, the original land value shall refer to the assessed present value at the date of the beneficiary's death. However, this does not apply if the settlor uses the trust contract improperly to evade or reduce tax obligations for themselves or others.
+
+For land mentioned in the first paragraph, when calculating the land value increment tax, if the settlor or trustee has paid improvement costs for the land as specified in Subparagraph 2 of Paragraph 1 of Article 31, or additional land value tax as specified in Paragraph 3 of the same article before or during the trust relationship, the deductions or offsets as provided in that article shall apply. For the land mentioned in the second and third paragraphs, if the trustee pays the aforementioned costs and land value tax after the death of the testator or beneficiary, the same deductions or offsets shall apply.
+
+The provisions of the preceding two paragraphs apply to cases that the land value increment tax has not been levied or tax amount not finalized at the effective date of the amendment of this Act on July 1, 2015.
+
+#### Article 32
+
+When there is a change in general prices, the original assigned land value and previous transfer value for determination of the land value increment tax as stipulated in Article 31 shall be adjusted according to the consumer price index released by the government, and the total amount of land value increment shall be recalculated.
+
+#### Article 33
+
+The land value increment tax rates are determined as follows:
+
+\1. If the total amount of land value increment exceeds the original assigned land value or the previous transfer value for determination of the land value increment tax by less than 100%, a 20% land value increment tax shall be levied on the total amount of increment.
+
+\2. If the total amount of land value increment exceeds the original assigned land value or the previous transfer value for determination of the land value increment tax by more than 100% but less than 200%, in addition to the tax levied according to the preceding subparagraph, a 30% increment tax shall be levied on the portion exceeding 100%.
+
+\3. If the total amount of land value increment exceeds the original assigned land value or the previous transfer value for determination of the land value increment tax by more than 200%, in addition to the taxes levied according to the preceding two subparagraphs, a 40% increment tax shall be levied on the portion exceeding 200%.
+
+Any substantial loss in revenue to municipal and county (city) governments caused by the adjustment of the aforementioned tax rates shall be compensated by the central government until the implementation of the amendments to the Act Governing the Allocation of Government Revenues and Expenditures, which expands the scale of centrally allocated tax funds. This compensation shall not be subject to the restriction in Article 23 of the Budget Act, which prohibits the use of public debt revenue for regular expenditures.
+
+The calculation of the aforementioned substantial loss shall be decided by the central competent authority together with the municipal and county (city) governments through consultation.
+
+The assessed present value should be adjusted to reflect normal market transaction prices.
+
+When the national average of assessed present value reaches 90% or more of normal market transaction prices, the tax rates specified in the first paragraph shall be reviewed and revised.
+
+For land held for over twenty years, a 20% reduction in the portion of the land value increment tax that exceeds the minimum tax rate specified in the first paragraph shall be granted.
+
+For land held for over thirty years, a 30% reduction in the portion of the land value increment tax that exceeds the minimum tax rate specified in the first paragraph shall be granted.
+
+For land held for over forty years, a 40% reduction in the portion of the land value increment tax that exceeds the minimum tax rate specified in the first paragraph shall be granted.
+
+#### Article 34
+
+When the landowner sells their self-use residential land, the land value increment tax on the portion of urban land not exceeding 3 acres or non-urban land not exceeding 7 acres shall be levied at a rate of 10% of the total land value increment for that portion. For the portion exceeding 3 acres of urban land or 7 acres of non-urban land, the tax shall be levied according to the tax rates specified in the preceding article.
+
+The provisions of the preceding paragraph do not apply if the land was used for business purposes or rented out within one year before the sale.
+
+The provisions of the first paragraph do not apply if the assessed value of the self-use residence is less than 10% of the assessed present value of the land it occupies. However, this does not apply if the construction of the self-use residence was completed for one year or more.
+
+The landowner who pays the land value increment tax according to the rate specified in the first paragraph may do so only once in the lifetime
+
+After applying the provisions of the preceding paragraph, if the landowner sells their self-use residential land again and meets the following conditions, the once in the lifetime restriction does not apply:
+
+\1. The area of urban land sold does not exceed 1.5 acres, or the area of non-urban land sold does not exceed 3.5 acres.
+
+\2. At the time of sale, neither the landowner, their spouse, nor their minor children own any other houses besides the self-use residence in question.
+
+\3. The land has been held for six years or more before the sale.
+
+\4. The landowner, their spouse, or minor children have had household registration in the location of the self-use residence and have held the residential house continuously for six years or more before the sale.
+
+\5. The land has not been used for business purposes or rented out within five years before the sale.
+
+Should the aforementioned provisions result in a substantial loss of tax revenue for the municipal and county (city) governments, the central government shall compensate for the loss until the amendment to the Act Governing the Allocation of Government Revenues and Expenditures expands the scale of centrally allocated tax funds. This compensation is not subject to the restriction of Article 23 of the Budget Act concerning the prohibition of using public debt revenue for regular expenditures.
+
+The calculation of the aforementioned substantial loss shall be decided by the central competent authority together with the municipal and county (city) governments through consultation.
+
+#### Article 34-1
+
+When a landowner applies for the land value increment tax to be levied at the rate applicable to self-use residential land, they must indicate the designation of "self-use residential" on the land present value declaration form and submit the certificate of building improvements. If the designation is not indicated, the landowner may supplement the application to the local tax authority before the payment deadline; late applications for the self-use residential land tax rate will not be accepted.
+
+For land ownership transfers where the right holder is required to independently declare the land transfer present value or in cases where such declaration is not required, the tax authority shall proactively notify the landowner. If the land meets the criteria for self-use residential land, the landowner must apply within 30 days from the day following receipt of the notification. Late applications will not qualify for the self-use residential land tax rate on the land value increment tax.
+
+#### Article 35
+
+If a landowner, within two years from the date of completing the transfer registration after selling land, repurchases land meeting one of the following conditions, and the value of the newly purchased land exceeds the value of the originally sold land after deducting the paid land value increment tax, they may apply to the competent tax authority for a refund of the land value increment tax paid, up to the difference between the newly purchased land value and the sold land value after deducting the tax paid:
+
+\1. After selling self-use residential land, the landowner repurchases urban land not exceeding 3 acres or non-urban land not exceeding 7 acres for use as self-use residential land.
+
+\2. After selling land used for self-operated factories, the landowner purchases land in another urban planning industrial zone or on government-designated industrial land for factory establishment.
+
+\3. After selling self-cultivated agricultural land, the landowner repurchases land for continued self-cultivation.
+
+The provisions of the preceding paragraph shall apply if the landowner purchases new land first and then sells the original land within two years from the date of completing the transfer registration of the new land.
+
+The provisions of Subparagraph 1, Paragraph 1 and Paragraph 2 do not apply if the land was used for business purposes or rented out within one year before the sale.
+
+#### Article 36
+
+The term "the value of the originally sold land" as referred to in the first paragraph of the preceding article shall be based on the land value assessed for the purpose of levying the land value increment tax at the time of the transfer. The term "the value of the newly purchased land" shall be based on the land value assessed for the purpose of levying the land value increment tax at the time of the transfer; for land subject to deed tax at the time of transfer, the value shall be based on the land value assessed for the purpose of levying the deed tax at the time of the transfer.
+
+#### Article 37
+
+If a landowner receives a refund of the land value increment tax due to repurchasing land, and the repurchased land is transferred again within five years from the date of completing the transfer registration, the land value increment tax shall be levied on the total amount of the value increment for that transfer, and the originally refunded tax amount shall also be recovered. The same applies if the repurchased land is used for purposes other than those originally specified.
+
+#### Article 38
+
+(Deleted).
+
+#### Article 39
+
+Expropriated land is exempt from land value increment tax; the same applies to private land that can be legally expropriated and is voluntarily sold by the landowner to the person who needs to use the land.
+
+For transfers of land reserved for public facilities under urban planning before expropriation, the first paragraph's provisions apply, exempting the land from land value increment tax. However, if the land is re-designated from reserved for public facilities and then transferred, the original land value prior to the first exemption or the most recent declared transfer value assessed for land value increment tax shall be used to calculate the total amount of value increment for the land value increment tax.
+
+For non-urban land having been developed or designated for public facilities use and legally zoned for the purpose by the person who need to use the land, the transfer of the land before expropriation may apply the first paragraph's provisions, exempting the land from land value increment tax upon proof provided by the person. However, if the land is re-designated for non-public facilities use and then transferred, the original land value prior to the first exemption or the most recent declared transfer value assessed for land value increment tax shall be used to calculate the total amount of value increment for the land value increment tax.
+
+The procedures for issuing the proof and other necessary matters shall be determined by the MOF in conjunction with relevant authorities.
+
+The provisions of the third paragraph shall apply to cases where the tax has not been levied or the assessment of tax has not been finalized at the time of the implementation of the amendments to this Act on May 21, 2021.
+
+#### Article 39-1
+
+For land that has been rezoned, a 40% reduction in land value increment tax shall apply at the time of the first transfer following the rezoning.
+
+For land acquired through zone or section expropriation and compensated in cash for its land value, the provisions of the first paragraph of the preceding article shall apply, exempting the land from land value increment tax. Those receiving cash compensation due to the land in lieu of compensation insufficient for the smallest building unit as per Paragraph 3, Article 54 of the Equalization of Land Rights Act shall also be exempt from land value increment tax.
+
+For land acquired through zone or section expropriation and compensated with the land in lieu of compensation according to Paragraphs 1 and 2, Article 54 of the Equalization of Land Rights Act, the land value increment tax shall be exempt. However, at the time of the first transfer after receiving the land in lieu of compensation, the original land value shall be based on the actual value of the land in lieu of compensation received by the original landowner, and the total amount of value increment shall be calculated for levying the land value increment tax, applying mutatis mutandis the provisions of the first paragraph.
+
+#### Article 39-2
+
+Agricultural land used for agricultural purposes, when transferred to a natural person, may apply for non-taxable status of land value increment tax.
+
+If the transferee of the land apply for non-taxable status of land value increment tax under the preceding paragraph is found by the relevant authorities to have not used the land for agricultural purposes during their period of ownership, and fails to resume agricultural use within the period specified by the relevant authorities, or if the land resumes agricultural use within the specified period but is later found not to be used for agricultural purposes again, land value increment tax shall be levied at the time of the subsequent transfer.
+
+If the transferee of the land as specified in the preceding paragraph is found not to be using the land for agricultural purposes, any mutual gift of the land between spouses shall be included in the calculation of the land value increment tax.
+
+For agricultural land used for agricultural purposes, at the first transfer after the amendment to this Act on January 6, 2000, or after acquiring land not subject to land value increment tax under the provisions of the first paragraph and subsequently transferring it again after January 6, 2000, if the land value increment tax is to be levied according to law, the assessed land value as of the effective date of the amendment shall be taken as the original land value to calculate the total amount of value increment for levying the land value increment tax.
+
+For agricultural land that has been subjected to land value increment tax after the amendment to this Act on January 6, 2000, if it is transferred again, the most recent declared transfer value assessed for land value increment tax shall be used as the original land value to calculate the total amount of value increment for levying the land value increment tax. The provisions of the preceding paragraph shall not apply.
+
+#### Article 39-3
+
+To apply for non-taxable status of land value increment tax in accordance with Paragraph 1 of the preceding article, the right holder and obligor must indicate "agricultural land" on the Land Value Declaration Form at the time of declaring the present value of the land transfer. If this indication is not made, a supplementary application may be made before the expiration of the land value increment tax payment period. Applications submitted after this period will not be considered. However, if the present value of the land transfer can be declared solely by the right holder as per the regulations, the right holder may independently submit the application.
+
+For the transfer of agricultural land, where the declaration of the present value of the land transfer is not required, the competent tax authority shall notify both the right holder and the obligor. If the present value of the land transfer is to be declared solely by the right holder, the obligor shall be notified. If the conditions for exemption from the land value increment tax under Paragraph 1 of the preceding article are met, the right holder or obligor must submit the application within thirty days from the day following receipt of the notification. Applications submitted after this period will not be considered for exemption from the land value increment tax.
+
+## Chapter 5 Tax Collection Procedure
+
+#### Article 40
+
+The land value tax is based on August 31 of each year as the base date for tax liability. The municipal or county (city) competent tax authority shall determine the land value tax based on the land value household registration book and cadastral change notification information compiled and submitted by the land administration agency. The land value tax for the current year shall be collected in a single installment within the period from November 1 to November 30.
+
+#### Article 41
+
+In accordance with the provisions of Articles 17 and 18, for land eligible for a special tax rate, the landowner must submit an application at least forty days before the commencement of the Land Value Tax collection period each year. Applications submitted after this deadline will have the special rate applicable starting the following year. For previously approved land whose use has not changed, no application is required for subsequent years.
+
+When the reason or fact justifying the application of the special tax rate ceases to exist, the landowner must promptly report this to the competent tax authority.
+
+#### Article 42
+
+The competent tax authority shall, at least sixty days before the commencement of the annual land value tax collection, publicly announce the relevant provisions and application procedures for the imposition of the land value tax at a special tax rates pursuant to Articles 17 and 18.
+
+#### Article 43
+
+After determining the annual land value tax amount payable by the taxpayer, the competent tax authority shall issue Land Value Tax bills and distribute them to the taxpayers or their designated agents. The authority shall also publicly announce the payment deadlines, penalties, payment methods, and tax calculation methods.
+
+#### Article 44
+
+(Deleted).
+
+#### Article 45
+
+The Agricultural Land Tax shall be assessed by the competent tax authority of the municipality or county (city) based on the tax amount determined for each landowner’s land holdings within each section. As a general principle, the tax is collected in two installments annually, commencing within one month after the harvest of crops. The amount to be collected in each installment may be apportioned based on the actual harvest yield for each period, with the tax amount divided accordingly.
+
+#### Article 46
+
+The competent tax authority shall publicly announce the commencement date, payment locations, and payment instructions for each installment of the agricultural land tax at least ten days prior to the collection period. The authority shall also issue payment notices and distribute them to the taxpayers or their designated agents, who shall present these notices for payment.
+
+#### Article 47
+
+Upon receiving the agricultural land tax payment notice, taxpayers or their designated agents shall, if the tax is to be paid in kind, submit the payment at the designated location within thirty days. If the tax is to be paid in cash, the payment shall be made to the public treasury within thirty days.
+
+#### Article 48
+
+For land subject to the collection of agricultural land tax in kind, where the use of the land has changed due to environmental or natural limitations, taxpayers applying to convert the tax to a cash equivalent must report to the hsiang (town, city, or district) office within thirty days after the general sowing of the local crops subject to the in-kind tax.
+
+Upon receiving such reports for tax conversion to cash, the hsiang (town, city, or district) office shall dispatch personnel to conduct an on-site investigation. If the report is verified, the office shall compile a list and submit it to the competent tax authority. The tax authority, in conjunction with local grain agencies, shall send personnel to conduct a survey and determine the tax amount.
+
+#### Article 49
+
+When transferring land ownership or establishing Dien rights, both the right holder and the obligor shall, within thirty days from the date of contract conclusion, submit a copy of the contract and relevant documents to the competent tax authority jointly to file the declaration of the present value of the land transfer. However, if permitted by regulations, the right holder may independently apply for registration. In such cases, the right holder may independently file the report of the transfer value.
+
+The competent tax authority shall, within seven days from the date of receiving the report on the present value of the land transfer, assess the amount of land value increment tax payable and issue a tax bill, which shall be delivered to the taxpayer. However, in cases applying the tax rate for self-use residential land, this period may be extended to twenty days.
+
+After paying the land value increment tax, both the right holder and the obligor shall jointly apply to the competent land administration authority for registration of land ownership transfer or establishment of Dien rights. When registering, if errors are found in the assessed present value, original land value, or previous transfer value, the competent land administration authority shall immediately refer the matter to the competent tax authority for correction and re-assessment of the land value increment tax.
+
+#### Article 50
+
+The taxpayer of land value increment tax shall pay the tax at a designated public treasury in thirty days after the receipt of the tax payment notice.
+
+#### Article 51
+
+Land with unpaid land tax may not undergo transfer registration or establishment of Dien rights until the tax arrears are fully settled.
+
+For land auctioned by a court or the branch of the Administrative Enforcement Agency, if the auction price is insufficient to pay for its land value increment tax assessed based on the transfer value determined according to the proviso in the exception clause of Subparagraph 5 of Paragraph 1 of Article 30, the court or the branch of the Administrative Enforcement Agency shall not issue the transfer certificate until the auctioneer has paid off the shortfalls on behalf of the taxpayer.
+
+Regarding the unpaid taxes mentioned in the first paragraph, the acquirer of the land may apply for payment on behalf or deduct them from the purchase price or consideration; in the case of payment on behalf, the acquirer may seek reimbursement from the taxpayer.
+
+#### Article 52
+
+For land acquired by government through expropriation or purchase, the competent land administration authority of the municipality, county (city), or the acquiring agency shall compile a land list and compensation list to notify the competent tax authority. The tax authority shall calculate the land value increment tax, unpaid land value tax or agricultural land tax. Within fifteen days of receiving the notification, the tax authority shall prepare a notice of tax withholding and provide it to the expropriation or acquiring agency, which shall withhold the tax when disbursing the purchase price or compensation.
+
+## Chapter 6 Penal Provisions
+
+#### Article 53
+
+If the taxpayer or payment agent fails to pay the tax due within the payment deadline specified in the tax bill, a belated surcharge shall be imposed. If taxes are paid with checks or promissory notes upon approval, the date when the checks or notes are cashed shall be the date of payment.
+
+The unpaid cash equivalent of the in-kind agricultural land tax and the amount to be collected or refunded for the purchase of agricultural products with the collection of agricultural land tax shall be calculated according to the standards approved by the government at the time of payment or requisition.
+
+#### Article 54
+
+Taxpayers who, through changing or concealing land category or grade, or when the reasons or facts for applying special tax rates, reducing or exempting land value tax or agricultural land tax cease to exist, and fail to report to the competent tax authority, shall be dealt with according to the following provisions:
+
+\1. Those who evade taxes or reduce taxes will be fined an amount less than or equal to three times the amount of tax evaded, in addition to making up the shortfall in the amount due.
+
+\2. Those who evade payment in kind will be fined an amount equal to the amount of the agricultural land tax payable in kind, in addition to making up the shortfall in the amount due.
+
+For those who purchase land and did not complete the transfer-of-rights registration before selling said land, a fine of no more than two percent of the present value of transfer upon the sale shall be imposed.
+
+The tax amounts or in-kind levies to be made up, and fines under the first paragraph shall be paid within one month from the date of notification; failure to pay by the deadline shall result in compulsory execution.
+
+#### Article 55
+
+When making up for the agricultural land tax payable in accordance with the provisions of the preceding article, the in-kind levies owed shall be recovered in kind; the cash equivalence and penalties shall be paid according to the conversion standards at the time of payment; The amount to be paid for the purchase of agricultural products with the collection of agricultural land tax shall be determined by the approved standards prevailing at the time of purchase.
+
+#### Article 55-1
+
+If a foundation defined by the Foundations Act that receives land as a gift in accordance with Article 28-1 falls under any of the following circumstances, in addition to making up for the land value increment tax payable, it will also be fined up to twice the amount of the land value increment tax payable:
+
+\1. Failure to use the land according to the purpose of donation.
+
+\2. Violation of the established objectives of the foundation.
+
+\3. Failure to allocate all land revenues to the foundation.
+
+\4. Discovery by the tax authorities or verified reports that the donor has obtained benefits from the donated land in any manner.
+
+#### Article 55-2
+
+(Deleted).
+
+#### Article 56
+
+(Deleted).
+
+## Chapter 7 Supplemental Provisions
+
+#### Article 57
+
+The enforcement area of this Act shall be determined by order of the Executive Yuan.
+
+#### Article 58
+
+The enforcement rules of this Act shall be prescribed by the MOF.
+
+#### Article 59
+
+This Act shall come into effect from the date of promulgation.
+
+The effective date of the articles of this Act amended on May 29, 2001 shall be determined by the Executive Yuan.
+
+## History
+
+1.Full text（59 articles）promulgated on 14 July 1977 by Presidential Decree No.223.
+
+2.Amendment to Article 34 promulgated on 25 July 1979 by Presidential Decree No.3729.
+
+3.Amendment promulgated on 30 October 1989 by Presidential Decree No.5912.
+
+4.Deletion of Article 56 promulgated on 30 July 1993 by Presidential Decree No.3702.
+
+5.Amendments to Articles 39 and 39-1 promulgated on 7 January 1994 by Presidential Decree No.0095.
+
+6.Amendments to Articles 31 and 55-2 promulgated on 18 January 1995 by Presidential Decree No.0247.
+
+7.Amendment to Article 30 promulgated on 15 January 1997 by Presidential Decree No.8600011430.
+
+8.Amendment to Article 39 and addition to Article 28-2 promulgated on 21 May 1997 by Presidential Decree No.8600115490.
+
+9.Amendment to Article 30 promulgated on 29 October 1997 by Presidential Decree No.8600229650.
+
+10.Amendments to Articles 10 and 39-2, addition to Article 39-3 and deletion of Article 55-2 promulgated on 26 January 2000 by Presidential Decree No.8900017400.
+
+11.Amendments to Articles 2, 7, 13, 25 and 59, addition to Articles 3-1, 5-2, 28-3 and 31-1 promulgated on 13 June 2001 by Presidential Decree No.9000116090（Promulgated on 1 July 2001 with the approval of Executive Yuan).
+
+12.Amendment to Article 33 promulgated on 30 January 2002 by Presidential Decree No.09100018250.
+
+13.Amendments to Articles 28-2 and 33 promulgated on 14 January 2004 by Presidential Decree No.09300007291.
+
+14.Amendment to Article 33 promulgated on 30 January 2005 by Presidential Decree No.09400016321.
+
+15.Amendment to Article 54 promulgated on 11 July 2007 by Presidential Decree No.09600087981.
+
+16.Amendment to Article 31 and 34 promulgated on 30 December 2009 by Presidential Decree No.09800323211.
+
+17.Amendment to Article 54 promulgated on 24 November 2010 by Presidential Decree No. 09900317111.
+
+18.Amendments to Articles 31-1, 35, and 53 promulgated on 1 July 2015 by Presidential Decree No. 10400077091.
+
+19.Article 44 deleted, Articles 28-2, 30, 30-1, 31-1, 32, 34-1, 39, 39-1, 40 to 43, 51, 53, 55-1, 58 amended and promulgated on June 23, 2021 by Presidential Decree No. 11000056481.
+
+20.Article 54 amended and promulgated on January 24, 2025 by Presidential Decree Hua-Zong-I-Jing No. 11400008851.

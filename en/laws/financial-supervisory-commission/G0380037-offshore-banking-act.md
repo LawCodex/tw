@@ -1,0 +1,437 @@
+---
+title: "Offshore Banking Act"
+title_zh: "國際金融業務條例"
+identifier: "G0380037"
+type: act
+law_level: "法律"
+category: "行政＞金融監督管理委員會＞銀行目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1983-12-12
+last_amended: 2025-07-16
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0380037"
+retrieved: 2026-10-12
+---
+
+# Offshore Banking Act
+
+> Translation. The Chinese text ([zh/laws/financial-supervisory-commission/G0380037-offshore-banking-act.md](../../../zh/laws/financial-supervisory-commission/G0380037-offshore-banking-act.md)) is authoritative.
+
+## Chapter 1 General Principles
+
+### Article 1
+
+To promote international financial activities and establish a regional financial center, this Act is enacted to permit banks, securities firms and insurance enterprises respectively to set up offshore banking branches, offshore securities branches and offshore insurance branches within the territory of the Republic of China (ROC).
+
+### Article 2
+
+Financial Supervisory Commission (FSC) shall be the competent administrative authority and the Central Bank of the Republic of China (Taiwan) (CBC) shall be the competent operational authority for offshore banking, securities and insurance businesses.
+
+## Chapter 2 Banks
+
+### Article 3
+
+The following types of banks may, through their head offices, apply to the competent authorities for a license to establish an offshore banking branch within the ROC with independent accounting to conduct offshore banking businesses:
+
+\1. Foreign banks authorized by the CBC to engage in foreign  exchange businesses within the ROC
+
+\2. Foreign banks authorized to have a representative office in the ROC
+
+\3. Reputable foreign banks approved by the competent authorities.
+
+\4. Domestic banks authorized by the CBC to engage in foreign exchange businesses.
+
+The regulations governing the requirements for the application for approval mentioned in the preceding paragraph hereof, application procedure, required documentation and other matters to be complied with shall be prescribed by the FSC and the CBC.
+
+### Article 4
+
+An offshore banking branch may only conduct the following types of business:
+
+1.Accepting foreign currency deposits from natural persons, juristic persons, government agencies outside the territory of the R.O.C, or financial institutions within or outside the territory of the ROC;
+
+2.Extending credit in foreign currency to natural persons, juridical persons, government agencies, or financial institutions within or outside the territory of the ROC;
+
+3.Selling foreign currency financial debentures or other certificates of debt issued by the head office to natural persons, juristic persons, government agencies, or financial institutions within or outside the territory of the ROC;
+
+4.Conducting commission agency, brokerage, and agency activities of foreign currency denominated securities, or other foreign currency denominated financial products approved by the competent authorities, for natural persons, juristic persons, government agencies, or financial institutions within or outside the territory of the ROC;
+
+5.Conducting the issuance, advising and negotiation of letters of credit in foreign currency, and import/export collection for natural persons, juristic persons, government agencies, or financial institutions outside the territory of the ROC;
+
+6.Conducting foreign currency remittances and exchanges, foreign currency transactions, borrowing or lending of funds, and buying or selling of foreign currency denominated securities or other foreign currency denominated financial products approved by the competent authorities, between the said offshore banking branch and other financial institutions, and between the said offshore banking branch and natural persons, juristic persons, government agencies, or financial institutions outside the territory of the ROC;
+
+7.Underwriting securities issued outside the territory of the ROC;
+
+8.Bookkeeping and managing for foreign currency loans extended outside the territory of the ROC;
+
+9.Conducting custody, agency and consultation businesses related to the businesses stipulated above for natural persons, juristic persons, government agencies, or financial institutions within or outside the territory of the ROC;
+
+10.Conducting consulting relating to asset allocation or financial planning, and sales services in connection with foreign currency denominated securities or other foreign currency denominated financial products approved by the competent authorities, for natural persons, juristic persons, government agencies or financial institutions within or outside the territory of the ROC;
+
+11.Other foreign currency businesses approved by the competent authorities.
+
+The term, "financial institutions within the territory of the ROC" as used in any subparagraph of the preceding paragraph shall mean any financial institution approved by the CBC to engage in foreign exchange businesses or any offshore securities branch established in accordance with this Act.
+
+Foreign exchange deposits of natural persons, juristic persons, and government agencies within the territory of the R.O.C made with an offshore banking branch prior to January 6, 2006 may be terminated and remitted after termination by request made to such offshore banking branch and, in such circumstances, the restrictions prescribed in paragraph 1, subparagraph 6, shall not apply.
+
+### Article 4-1
+
+An offshore banking branch may authorize a bank which has been designated by the CBC to engage in foreign exchange businesses (a "Designated Bank") to handle the business activities set out in paragraph 1 of the preceding article. Such businesses handled by a Designated Bank shall be booked in its offshore banking branch.
+
+The businesses which may be authorized to be handled by the Designated Bank include cross- straits financial activities approved by the competent authorities in accordance with the Act Governing Relations between the People of the Taiwan Area and the Mainland Area. The control and supervision of such activities shall be handled in accordance with the regulations related to cross straits financial activities. The offshore banking branch shall coordinate and be responsible for such control and supervision.
+
+If the Designated Bank charges the offshore banking branch reasonable fees for handling any of the offshore banking's activities in order to pay for operating costs, such fees shall be booked as the Designated Bank's income and be duly subject to taxation; if the Designated Bank does not charge the offshore banking branch any such fees, the costs for handling the offshore banking branch's businesses may not be booked as expenses.
+
+### Article 5
+
+Unless otherwise provided in the Act, the conduction of the businesses specified in Article 4, paragraph 1, shall not be subject to the limitations of relevant Articles of the Foreign Exchange Regulation Act, the Banking Act of the Republic of China and the Central Bank of the Republic of China (Taiwan) Act.
+
+The FSC, after consulting with the CBC, shall set regulations for offshore banking branches concerning: credit extension to individual customer and related party and other transactions restrictions, examinations by the competent authorities or other appropriate institutions mandated thereby, the contents of the reports and means for submitting the reports regarding financial and business conditions, the qualifications of managerial officers, utilization of funds and risk management.
+
+An offshore banking branch established pursuant to Article 3, subparagraphs 2 and 3 of this Act shall allocate working capital for its operations in the ROC The minimum amount of the said working capital shall be set by the FSC.
+
+### Article 5-1
+
+Articles 32 to 33-2, 33-4 and 33-5 of the Banking Act of the Republic of China shall apply mutatis mutandis to the restrictions on credits extended to related parties by an offshore banking branch.
+
+In the event of any violation of Articles 32, 33, 33-2 or 33-4 of the Banking Act of the Republic of China, the person responsible for such violation shall be punishable by imprisonment of no more than three years or detention and/or a fine of not less than NT$5,000,000 and not more than NT$25,000,000.
+
+### Article 5-2
+
+In response to UN Resolutions and the needs of international cooperation, the FSC may, in conjunction with the CBC, after submitting to the Executive Yuan for approval, issue orders to require offshore banking branches to block the withdrawal, transfer, payment, or disbursement in, or otherwise take necessary measures against, accounts held by individuals, entities or institutions of certain countries or regions that are suspected of directly or indirectly using the accounts, money transfers, currencies or other instruments of payment to finance terrorism or terrorist organizations, or engage in activities threatening international security.
+
+The FSC shall make public the above measures and deliver the same to the Legislative Yuan for ratification within ten days after being public. The measures shall become immediately void if the Legislative Yuan votes Against them.
+
+The said measures shall be lifted when causes thereof cease to exist.
+
+### Article 6
+
+Natural persons, juristic persons, government agencies or financial institutions within the territory of the ROC financed by an offshore banking branch shall be governed by applicable laws and regulations governing finance transactions with foreign banks.
+
+### Article 7
+
+An offshore banking branch accepting foreign currency deposits shall not:
+
+\1. accept foreign currency in cash ; and
+
+\2. allow the withdrawal of foreign currency deposits in New Taiwan Dollars.
+
+### Article 8
+
+Unless approved by the CBC, an offshore banking branch shall not conduct exchanges or other transactions between foreign currencies and New Taiwan Dollars.
+
+### Article 9
+
+An offshore banking branch shall not engage in direct investment and investment in real estate.
+
+### Article 10
+
+The offshore banking branch of a domestic bank may operate in the same business premises as its head office, and the offshore banking branch of a foreign bank may operate in the same business premises as its branch appointed to engage in foreign exchange businesses.
+
+### Article 11
+
+Deposits received by an offshore banking branch shall be exempt from deposit reserve requirements.
+
+### Article 12
+
+Interest rates on deposits or loans of offshore banking branches may be determined between the offshore banking branch and its customers.
+
+### Article 13
+
+Income of offshore banking branches shall be exempt from business income tax; however, income of offshore banking branches derived from credit extension to natural persons, juristic persons, government agencies and financial institutions within the territory of the ROC shall be subject to taxation or exemptions as stipulated in the Income Tax Act.
+
+### Article 14
+
+Sales revenue of offshore banking branches shall be exempt from business tax; however, the sales revenue of offshore banking branches derived from the sales to natural persons, juristic persons, government agencies and financial institutions within the territory of the ROC shall be subject to taxation or exemptions as stipulated in the Value-added and Non-value-added Business Tax Act.
+
+### Article 15
+
+All types of certificates used by offshore banking branches shall be exempt from stamp tax; however, certificates issued in connection with transactions with natural persons, juristic persons, government agencies or financial institutions within the territory of the R.O.C or with respect to business activities other than those specified in Article 4, paragraph 1, shall be subject to taxation or exemptions as stipulated in the Stamp Tax Act.
+
+### Article 16
+
+Interests paid by offshore banking branches to financial institutions, natural persons, juristic persons and government agencies outside the territory of the ROC and income derived from the transaction of structured products shall be exempt from income tax withholding.
+
+The provision in the preceding paragraph on exemption of income tax withholding for income derived from the transaction of structured products shall become effective on January 1, 2010.
+
+### Article 17
+
+Offshore banking branches shall be exempt from loan loss reserve requirements, unless otherwise required by the laws of the country where the said offshore banking branch's head office is located or required by the said country's banking authority.
+
+### Article 18
+
+Unless otherwise required by court order or law, offshore banking branches are under no obligation to disclose any information to third parties.
+
+### Article 19
+
+Telecommunications equipment and information systems to be used by an offshore banking branch in connection with its head office and other international financial institutions may be imported upon case-by-case applications.
+
+### Article 20
+
+After the end of each fiscal year, an offshore banking branch shall submit its operation report, balance sheet and income statement to the competent authorities for recordation. The competent authorities may at any time request the offshore banking branch to provide, within a given period of time, information concerning its business or financial conditions or other reports. However, offshore banking branches shall be exempt from the requirements to make public their balance sheets.
+
+### Article 21
+
+(Deleted)
+
+### Article 21-1
+
+If an offshore banking branch wishes to do any of the following, it shall report same to the FSC for approval and notify the CBC:
+
+1.Change of the institution's name;
+
+2.Change of the institution's location;
+
+3.Change of the responsible persons;
+
+4.Change of the working capital;
+
+5.Acquisition of all or a major part of the business or property of any other offshore banking branch, or transfer to any other offshore banking branch all or a major part of its business or property; or
+
+6.Suspension, resumption or termination of the business.
+
+### Article 22
+
+If an offshore banking branch commits any of the following acts, its responsible person shall be imposed with a fine of not less than NT$1,000,000  and  not  more  than NT$5,000,000:
+
+1.Conducting any businesses not provided for in Article 4, paragraph 1 of this Act,
+
+2.Violating Articles 7, 8 or 9 of this Act,
+
+3.Failing to submit the reports required under Article 20 of this Act, or failing to provide the information concerning the business or financial conditions or other reports pursuant to the same Article,
+
+4.Failing to pay the license fee of offshore banking branch.
+
+If any violations remain uncured after an offshore banking branch has been punished according to the preceding paragraph, a fine of two to five times the original amount shall be imposed each time consecutively, and the following punishments may be imposed in severe situations:
+
+1.Suspension of the said offshore banking branch's business operations for a specified period of time; or
+
+2.Revocation of the license of the said offshore banking branch.
+
+### Article 22-1
+
+In the event of any of the following violations of the regulations stipulated pursuant to Article 5, paragraph 2 by an offshore banking branch, a fine of not less than NT$1,000,000 and not more than NT$5,000,000 shall be imposed:
+
+1.Any violation of restrictions on single customer credit extensions related party lending or other transaction restrictions;
+
+2.Any concealment or destruction or hindrance or refusal of inspection of related documents or upon reasonable lack of response to questions from regulatory auditors or the competent authorities.
+
+3.Any violation of any limitation set by the competent authorities on the type and amount of foreign currency securities invested by offshore banking branches.
+
+If any defects remain uncured after an offshore banking branch has been punished according to the preceding paragraph, a fine of two to five times the original amount imposed shall be imposed each time consecutively, and the following punishments may be imposed in severe situations:
+
+1.suspension of the said offshore banking branch's business operations for a specified period of time; or
+
+2.Revocation of the license of the said offshore banking branch.
+
+After the offshore banking branch has been punished in accordance with the preceding Article or the preceding two paragraphs, it may claim reimbursement from the person(s) responsible for the violations.
+
+### Article 22-2
+
+In the event of any violation of Article 21-1, by an offshore banking branch a fine of not less than NT$500,000 and not more than NT$2,500,000 shall be imposed and shall be corrected within the prescribed period of time. If it has not been corrected before the expiration of the said period, the competent authorities may impose an additional fine of two to five times the original imposed amount each time.
+
+## Chapter 3 Securities Firms
+
+### Article 22-3
+
+A securities firm that is simultaneously a securities underwriter, securities dealer, and securities broker under Article 16 of the Securities and Exchange Act may, through its head office, apply to the competent authorities for a license to establish within the ROC an offshore securities branch with independent accounting to conduct offshore securities businesses.
+
+An offshore securities branch established pursuant to the preceding paragraph shall allocate working capital for its operation. The minimum amount of the working capital shall be set by the FSC.
+
+The regulations governing the requirements for the application for approval mentioned in paragraph 1 hereof, application procedure, required documentation and other matters to be complied with shall be prescribed by the FSC and the CBC.
+
+### Article 22-4
+
+An offshore securities branch may only conduct the following types of business:
+
+1.Selling foreign currency financial debentures or other certificates of debt issued by its head office, to natural persons, juristic persons, government agencies, or financial institutions within or outside the territory of the ROC;
+
+2.Conducting commission agency, brokerage, and agency businesses of foreign currency denominated securities, or other foreign currency denominated financial products approved by the competent authorities, for natural persons, juristic persons, government agencies, or financial institutions within or outside the territory of the ROC;
+
+3.Conducting borrowing or lending of funds in connection with securities businesses, and buying and selling of foreign currency denominated securities or other foreign currency denominated financial products approved by the competent authorities, between the offshore securities branch and other financial institutions, and between the offshore securities branch and natural persons, juristic persons, government agencies, or financial institutions outside the territory of the ROC;
+
+4.Underwriting securities issued outside the territory of the ROC;
+
+5.Conducting account custody, agency, and consulting businesses related to the businesses specified in the subparagraphs above, for natural persons, juristic persons, government agencies, or financial institutions within or outside the territory of the ROC;
+
+6.Conducting consulting relating to asset allocation or financial planning, and sales services in connection with foreign currency denominated securities or other foreign currency denominated financial products approved by the competent authorities, for natural persons, juristic persons, government agencies, or financial institutions within or outside the territory of the ROC;
+
+7.Other foreign currency businesses related to securities approved by the competent authorities.
+
+The term, "financial institutions within the territory of the ROC" as used in any subparagraph of the preceding paragraph shall mean any financial institution approved by the CBC to engage in foreign exchange businesses or any offshore securities branch established in accordance with this Act.
+
+### Article 22-5
+
+An offshore securities branch may designate another branch of the same securities firm that has been authorized by the CBC to conduct foreign exchange businesses (the "designated branch") to handle the business activities set out in paragraph 1 of the preceding Article. The businesses handled by the designated branch shall be booked on the account books of the offshore securities branch.
+
+The scope of business that the designated branch may handle includes cross-strait securities businesses approved by the competent authorities in accordance with the Act Governing Relations between the People of the Taiwan Area and the Mainland Area. The control and supervision of such activities shall be handled in accordance with the regulations related to cross-strait securities businesses. The offshore securities branch shall coordinate and be responsible for such control and supervision.
+
+If the designated branch charges the offshore securities branch reasonable fees for handling any of the offshore securities branch's activities in order to pay for operating expenses, such revenue shall be booked as the designated branch's income and be duly subject to taxation. If the designated branch does not charge the offshore securities branch any such fees, the expenses for handling the offshore securities branch's businesses may not be booked as expenses.
+
+### Article 22-6
+
+Unless otherwise provided in this Act, the conducting by an offshore securities branch of the businesses specified in the subparagraphs of Article 22-4, paragraph 1, shall not be subject to the restrictions in relevant articles of the Foreign Exchange Regulation Act, the Securities and Exchange Act, the Trust Enterprise Act, the Securities Investment Trust and Consulting Act, and the Futures Trading Act.
+
+The FSC, in consultation with the CBC, shall adopt regulations for offshore securities branches concerning finances, businesses, utilization of funds, risk management, time limit on and total balance of interbank call loans or financing obtained from other financial institutions, the handling of trading across foreign currencies with designated foreign exchange banks, offshore banking branches, or offshore financial institutions, and other matters requiring compliance.
+
+### Article 22-7
+
+Income from offshore securities businesses operated by offshore securities branches shall be exempt from business income tax. However, income from conducting businesses in the subparagraphs of Article 22-4, paragraph 1 with natural persons, juristic persons, government agencies, or financial institutions within the territory of the ROC shall be subject to taxation or exemption as specified in the Income Tax Act.
+
+Sales revenue from offshore securities businesses operated by offshore securities branches shall be exempt from business tax. However, sales revenue from sales to natural persons, juristic persons, government agencies, or financial institutions within the territory of the ROC shall be subject to taxation or exemption as specified in the Value-Added and Non-Value-Added Business Tax Act.
+
+All types of certificates used in offshore securities businesses operated by offshore securities branches shall be exempt from stamp tax. However, certificates issued in connection with transactions with natural persons, juristic persons, government agencies, or financial institutions within the territory of the R.O.C or with respect to business activities other than those specified in the subparagraphs of Article 22-4, paragraph 1, shall be subject to taxation or exemption as specified in the Stamp Tax Act.
+
+Interest paid in offshore securities businesses operated by offshore securities branches, to financial institutions, natural persons, juristic persons, and government agencies outside the territory of the ROC and income derived from structured product transactions, shall be exempt from income tax withholding.
+
+The exemptions from business income tax, business tax, and stamp tax, and exemption from income tax withholding, under the preceding four paragraphs, shall be in force for a period of 15 years from the effective date of this Article.
+
+### Article 22-8
+
+Articles 8 to 10, 18 to 20, and 21-1 shall apply mutatis mutandis to offshore securities businesses operated by offshore securities branches.
+
+### Article 22-9
+
+If an offshore securities branch commits any of the following acts, the competent authorities may, depending on severity of the offense, impose a warning, order the securities firm to remove its directors, supervisors, or managerial officers from their positions, suspend all or a part of the businesses operated by the head office or branch office for not longer than 6 months, or void or revoke the business license of the head office or branch office:
+
+1.Conducting any businesses other than that specified in Article 22-4, paragraph 1.
+
+2.Violating Article 8 or 9 applied mutatis mutandis under Article 22-8.
+
+3.Violating provisions of the regulations adopted under Article 22-6, paragraph 2, concerning finances, businesses, utilization of funds, risk management, time limit on and total balance of interbank call loans or financing obtained from other financial institutions, or the handling of trading across foreign currencies with designated foreign exchange banks, offshore banking branches, or offshore financial institutions.
+
+If any director, supervisor, or employee of a securities firm is found to have committed any act which violates this Act or another related act or regulation, and if such violation may affect the normal operation of offshore securities businesses, the competent authority, in addition to ordering the said securities firm to suspend business operation of such person for not more than 1 year or remove such person from his position at any time, may also impose sanctions set out in the preceding paragraph depending on the severity of the violation.
+
+### Article 22-10
+
+Anyone who counterfeits, alters, destroys, conceals, or obscures working papers or relevant records or documents with intent to impede inspection of the offshore securities branch by the competent authorities or investigation of the offshore securities branch by a judicial agency shall be punished with imprisonment for not less than 1 year and not more than 7 years and in addition thereto a criminal fine of not more than NT$20,000,000 may be imposed.
+
+### Article 22-11
+
+An offshore securities branch that fails to file with the competent authority for recordation, or to provide information concerning the business or financial condition or other reports, or to report to the FSC for approval and notify the CBC, under Articles 20 or 21-1 as applied mutatis mutandis under Article 22-8, shall be imposed an administrative fine of not less than NT$240,000 and not more than NT$2,400,000.
+
+In addition to imposing an administrative fine under the preceding paragraph, the competent authorities also shall order the person to comply within a specified time period; if the person fails to comply within the specified period, the competent authorities may order a new period for compliance and impose additional administrative fines of not less than NT$480,000 and not more than NT$4,800,000 for each successive failure to comply until corrective action has been taken.
+
+For violations under the preceding two paragraphs, the individual person responsible for the act will be imposed with the above fines.
+
+## Chapter 3-1 Insurance Enterprises
+
+### Article 22-12
+
+The following insurance enterprises may, through their head offices, apply to the competent authorities for a license to establish an offshore insurance branch within the ROC with independent accounting to conduct offshore insurance businesses:
+
+1.Insurance enterprises approved by the FSC to engage in insurance businesses within the ROC.
+
+2.Foreign insurance enterprises approved by the FSC to engage in insurance businesses within the ROC.
+
+The term “insurance enterprises” referred to in the preceding paragraph shall mean non-life insurance enterprises, insurance of the person enterprises and professional reinsurance enterprises.
+
+An offshore insurance branch established pursuant to paragraph 1 hereof shall allocate working capital for its operations. The minimum amount of the working capital shall be set by the FSC.
+
+### Article 22-13
+
+An offshore insurance branch may only conduct the following types of business:
+
+1.The following types of foreign currency denominated insurance businesses:
+
+(1)Insurance of the person businesses where the proposer is a natural person, a juristic person, a government agency, or a financial institution outside the territory of the ROC and the insured is a natural person outside the territory of the ROC.
+
+(2)Non-life insurance businesses where the proposer is a natural person, a juristic person, a government agency, or a financial institution outside the territory of the ROC and the subject matter insured is not a real property situated within the territory of the ROC.
+
+2.Foreign currency denominated reinsurance businesses with insurance enterprises outside the territory of the ROC.
+
+3.Other foreign currency denominated insurance-related businesses serving natural persons, juristic persons, government agencies, or financial institutions outside the territory of the ROC and approved by the competent authorities.
+
+When an offshore insurance branch conducts the businesses mentioned in the preceding paragraph, it may not conduct concurrently non-life insurance and of the person businesses, except where its head office is a non-life insurance enterprise that has been approved by the FSC to engage in personal injury insurance and health insurance.
+
+### Article 22-14
+
+An offshore insurance branch may designate the head office of the same insurance enterprise or a branch of the same foreign insurance enterprise established inside the territory of the ROC that has been authorized by the CBC to conduct insurance-related foreign exchange businesses (the "designated branch") to handle the business activities set out in paragraph 1 of the preceding Article. The business handled by the designated branch shall be booked on the account books of the offshore insurance branch.
+
+The scope of businesses that the designated branch may handle includes cross-strait insurance businesses approved by the competent authorities in accordance with the Act Governing Relations between the People of the Taiwan Area and the Mainland Area. The control and supervision of such activities shall be handled in accordance with the regulations related to cross-strait insurance businesses. The offshore insurance branch shall coordinate and be responsible for such control and supervision.
+
+If the designated branch charges the offshore insurance branch reasonable fees for handling any of the offshore insurance branch's activities to pay for its operating expenses, such revenue shall be booked as the designated branch's income and be duly subject to taxation. If the designated branch does not charge the offshore insurance branch any such fees, the expenses for handling the offshore insurance branch's businesses shall not be booked as expenses.
+
+### Article 22-15
+
+Unless otherwise provided in this Act, the conducting of businesses specified under the subparagraphs of paragraph 1, Article 22-13 herein by an offshore insurance branch is not subject to the restrictions in relevant articles of the Foreign Exchange Regulation Act and the Insurance Act.
+
+The FSC, in consultation with the CBC, shall adopt regulations for the businesses of offshore insurance branches concerning finances, businesses, utilization of funds, risk management, inspections by the competent authorities or other appropriate institutions or experienced professionals mandated thereby, and other matters requiring compliance.
+
+### Article 22-16
+
+Income from offshore insurance businesses operated by offshore insurance branches shall be exempt from business income tax. However, income derived from utilization of funds within the territory of the ROC shall be subject to taxation or exemptions as specified in the Income Tax Act.
+
+Sales revenue from offshore insurance businesses operated by offshore insurance branches shall be exempt from business tax. However, sales revenue generated from utilization of funds within the territory of the ROC shall be subject to taxation or exemption as specified in the Value-Added and Non-Value-Added Business Tax Act.
+
+All types of certificates used in offshore insurance businesses operated by offshore insurance branches shall be exempt from stamp tax. However, certificates issued in connection with utilization of funds within the territory of the R.O.C shall be subject to taxation or exemption as specified in the Stamp Tax Act.
+
+Insurance benefits, interest generated on investment objects linked to investment-type insurance contracts or income derived from structured product transactions paid by offshore insurance branches to natural persons, juristic persons, government agencies or financial institutions outside the territory of the ROC in connection with their offshore insurance businesses shall be exempt from income tax withholding.
+
+The exemptions from business income tax, business tax, stamp tax, and income tax withholding under the preceding four paragraphs shall be in force from February 6, 2015 to December 31, 2035. However for insurance contracts entered during the aforementioned period, the exemption period shall not exceed 30 years from the time the contract is entered to the time the effective period of the contract expires.
+
+The scope of fund utilization within the territory of the ROC mentioned in the proviso of paragraphs 1 to 3 hereof shall be set by the FSC in consultation with the Ministry of Finance.
+
+### Article 22-17
+
+Articles 8, 10, 18 to 20, and 21-1 shall apply mutatis mutandis to offshore insurance businesses operated by offshore insurance branches.
+
+### Article 22-18
+
+If an offshore insurance branch commits any of the following acts, the competent authorities shall order the branch to take corrective action within a specified time period, or in addition thereto, impose a fine not less than NT$900,000 but not more than NT$4,500,000; where the offense is deemed severe, or the branch fails to take corrective action during the time period set out by the competent authorities, the competent authorities may restrict the scope of its business or fund utilization, order the suspension of sale of insurance products or restrict the offering of new insurance products, or order it to remove its manager or employee from their positions, or void or revoke its business license:
+
+1.Conducting any businesses other than that specified in Article 22-13.
+
+2.Violating provisions of the regulations adopted under Article 22-15, paragraph 2 concerning finances, businesses, utilization of funds, and risk management.
+
+3.Violating Article 8 applied mutatis mutandis under the preceding Article.
+
+### Article 22-19
+
+An offshore insurance branch that fails to file with the competent authorities for recordation, or to provide its business or financial information or other reports, or to report to the FSC for approval and notify the CBC under Article 20 or 21-1 as applied mutatis mutandis under Article 22-17, shall be subject to a fine of not less than NT$600,000 but not more than NT$3,000,000.
+
+In addition to imposing an administrative fine under the preceding paragraph, the competent authorities shall also order the branch to become compliant within a specified time period; where the branch fails to become compliant within the specified time period, the competent authorities may order a new period for compliance and impose additional fines of not less than NT$1,200,000 but not more than NT$6,000,000 for each successive failure to comply until corrective action has been taken.
+
+### Article 22-20
+
+When the competent authority dispatches officers or mandates appropriate institutions or experienced professionals to inspect the business and financial conditions of an offshore insurance branch, or order an offshore insurance branch to report its business conditions within a specified time limit, a fine of not less than NT$1,800,000 but not more than NT$9,000,000 will be imposed if an responsible person or employee of the insurance branch has any of the following situations:
+
+1.Refusing to allow inspection or to open the vault or other storage rooms.
+
+2.Concealing or destroying account books or documents related to the business or financial conditions of the insurance branch.
+
+3.Refusing to respond to, or making false representation in response to the queries of inspector without cause.
+
+4.Missing the deadline for submission of financial reports, property list, or other related information and reports, or making false or incomplete representations, or missing the deadline for payment of inspection fees.
+
+## Chapter 4 Supplementary Provisions
+
+### Article 23
+
+The enforcement rules of this Act shall be prescribed by the competent authorities.
+
+### Article 24
+
+Unless otherwise provided, this Act shall come into force from the date of promulgation.
+
+## History
+
+\1. Date: 1983.12.12 (Announced)
+
+\2. Date: 1997.10.08 (Amended)
+
+\3. Date: 2006.01.27 (Amended)
+
+\4. Date: 2009.04.29 (Amended)
+
+\5. Date: 2010.06.09 (Amended)
+
+\6. Amended Date: 2013.06.19
+
+7.Amendment to Article 1, 2, 22-6, addition of Article 22-12~22-20 and Chapter 3-1, promulgated per Presidential Order No. Hua –Zong-yi-yi-10400014281 dated February 4, 2015.
+
+8.Amendment to Article 3, 22-2, 22-3, promulgated per Presidential Order No. Hua –Zong-yi-yi-10500161491 dated December 28, 2016.
+
+\9. Amendment to Article 22-16 promulgated per Presidential Order No. Hua-Zong-Yi-Jing-Zi-11400070331 dated July 16, 2025

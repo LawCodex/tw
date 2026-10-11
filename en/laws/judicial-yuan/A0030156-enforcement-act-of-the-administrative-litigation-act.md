@@ -1,0 +1,223 @@
+---
+title: "Enforcement Act of the Administrative Litigation Act"
+title_zh: "行政訴訟法施行法"
+identifier: "A0030156"
+type: act
+law_level: "法律"
+category: "司法＞院本部＞行懲及智財目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2000-06-07
+last_amended: 2022-06-22
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=A0030156"
+retrieved: 2026-10-12
+---
+
+# Enforcement Act of the Administrative Litigation Act
+
+> Translation. The Chinese text ([zh/laws/judicial-yuan/A0030156-enforcement-act-of-the-administrative-litigation-act.md](../../../zh/laws/judicial-yuan/A0030156-enforcement-act-of-the-administrative-litigation-act.md)) is authoritative.
+
+## Article 1
+
+The phrase "amended Administrative Litigation Act" refers to the Administrative Litigation Act taking effect on the same day as this Act. The term "previous Act" shall refer to the Administrative Litigation Act in effect before the amended Administrative Litigation Act.
+
+## Article 2
+
+Unless otherwise provided in this Act, the amended Administrative Litigation Act shall also apply to matters that occurred before it took effect. However, the effects of the previous Act shall not be affected.
+
+## Article 3
+
+For rehearing of the final judgments and rulings made before the amended Administrative Litigation Act that took effect on July 1, 2000, the period for filing for rehearing shall be governed by the provisions of the Administrative Litigation Act amended, announced, and taking effect on December 12, 1975. The grounds for filing for rehearing shall be governed by the provisions of the Administrative Litigation Act amended and taking effect on July 1, 2000.
+
+## Article 4
+
+Where the period for an action to be taken, as prescribed in Paragraph 4 of Article 106 of the Administrative Litigation Act amended and announced on January 13, 2000 and taking effect on May 1, 2000, has expired before May 1, 2000, the three-year period for initiating litigation shall start to run from May 1, 2000.
+
+## Article 5
+
+In cases subject to the small claims proceeding and concluded by a settlement before the amended Administrative Litigation Act took effect on September 6, 2012, if a party to the litigation applies to continue the trial, the application shall be handled under the following provisions:
+
+\1. When the original settlement was reached at a high administrative court, the district administrative court shall continue the trial; and
+
+\2. Where the original settlement was reached at the Supreme Administrative Court, the Supreme Administrative Court shall continue the trial.
+
+In the circumstances as provided for in subparagraph 1 of the preceding Paragraph, the High Administrative Court shall, by a ruling, transfer the pending case to the district administrative court with jurisdiction.
+
+## Article 6
+
+For cases in which the small claims proceeding was applicable became final under the old Administrative Litigation Act before its amendment taking effect on September 6, 2012, if a party initiates a litigation for a rehearing, the litigation shall be handled in accordance with  the following provisions:
+
+\1. Where the litigation for rehearing is initiated against a final judgment rendered by a High Administrative Court, or the litigation for rehearing is initiated against a final judgment rendered by the Supreme Administrative Court on the grounds stipulated in Subparagraphs 9 to 14 of Paragraph 1 of Article 273 of the Administrative Litigation Act, the case shall be adjudicated by a district administrative court according to the amended Administrative Litigation Act; and
+
+\2. Where the litigation for a rehearing is initiated against a first-instance or second-instance judgment rendered by the High Administrative Court and the Supreme Administrative Court, or the litigation for a rehearing is initiated against a judgment rendered by the Supreme Administrative Court but not on the grounds of Subparagraphs 9 to 14 of Paragraph 1 of Article 273, the case shall be adjudicated by the Supreme Administrative Court in accordance with the Administrative Litigation Act as it was before the amendment took on September 6, 2012. If necessary, the court may transfer the case to the district administrative court with jurisdiction, and the case shall be adjudicated there in accordance with the amended Administrative Litigation Act.
+
+In the circumstances provided for in subparagraph 1 of the preceding Paragraph, the High Administrative Court shall, by a ruling, transfer the pending small claims rehearing case to the district administrative court with jurisdiction.
+
+The preceding two paragraphs shall apply mutatis mutandis to the applications for rehearing against rulings.
+
+## Article 7
+
+In a case that became final following the small claims proceeding of the Administrative Litigation Act as it was before the amendment took effect on September 6, 2012, if a third party applies for a retrial, and the small claims proceeding cases that have been ordered a retrial by a court ruling, shall be handled in accordance with the following provisions:
+
+\1. Where an application for a retrial is made against a final judgment rendered by a High Administrative Court through the small claims proceeding and the first instance of the small claims proceeding for which a court ruling has ordered a retrial, the case shall be adjudicated by the district administrative court in accordance with the amended Administrative Litigation Act.
+
+\2. In the cases where an application for retrial is made against a final judgment rendered by the Supreme Administrative Court through the small claims proceeding, and the second instance of the small claims proceedings cases of which the retrial has been ordered by a court ruling, the cases shall be adjudicated by the Supreme Administrative Court in accordance with the Administrative Litigation Act as it was before the amendment that took effect on September 6, 2012. If necessary, the cases may be transferred to the district administrative courts with jurisdiction and shall be adjudicated there in accordance with the amended Administrative Litigation Act.
+
+In the circumstances provided for in Subparagraph 1 of the preceding paragraph, the High Administrative Court shall, by a ruling, transfer the case pending before it to the district administrative court with jurisdiction.
+
+## Article 8
+
+Where a case in which a violation of the Road Traffic Management and Penalty Act is objected to and pending in the district court before the amendment of the Administrative Litigation Act took effect on September 6, 2012, and, after the amended Administrative Litigation Act takes effect, the case shall be adjudicated by the original judge in accordance with the provisions of the Road Traffic Management and Penalty Act before its amendment on November 4, 2011.
+
+Where an appeal against the ruling as provided for in the preceding paragraph is made, and where an appeal is made against the final judgment rendered by a district court in accordance with the Road Traffic Management and Penalty Act before the amendment of the Administrative Litigation Act took effect on September 6, 2012, such appeals shall be adjudicated by the High Court in accordance with the provisions of the Road Traffic Management and Penalty Act before its amendment on November 4, 2011.
+
+Where a pleading of objection was submitted to the original administrative agency that made the administrative act before the amended Administrative Litigation Act took effect on September 6, 2012, and that administrative agency transfers the case to a district court with jurisdiction within two months of the amended Administrative Litigation Act taking effect, the case shall be considered pending at the relevant court prior to the amended Administrative Litigation Act.
+
+## Article 9
+
+Where an appeal against the rulings on objections to the violations of the Road Traffic Management and Penalty Act was pending at a High Court before the amended Administrative Litigation Act took effect on September 6, 2012, and has not been concluded after the amended Administrative Litigation Act has taken effect, the case shall be adjudicated by the High Court in accordance with the provisions of the Road Traffic Management and Penalty Act before its amendment on November 4, 2011.
+
+## Article 10
+
+Where the High Administrative Court dealt with a case involving compulsory enforcement before the amended Administrative Litigation Act took effect on September 6, 2012, and the enforcement procedure has not begun or has not ended, the case shall be transferred to a district administrative court after the amended Administrative Litigation Act takes effect.
+
+## Article 11
+
+The administrative litigation cases referred to in Subparagraph 5 of Paragraph 2 of Article 229 of the Administrative Litigation Act that were pending at the High Administrative Court before the amended Administrative Litigation Act took effect on February 5, 2015, shall be handled in accordance with the following provisions after the amended Administrative Litigation Act takes effect:
+
+\1. Cases that have not been concluded shall be transferred by the High Administrative Court through a ruling to the district administrative court with jurisdiction where the amended Administrative Litigation Act governs its adjudication. The amended Administrative Litigation Act shall govern the appeal against such judgment or ruling.
+
+\2. The appeals against the judgment or ruling in cases that have been concluded shall be governed by the Administrative Litigation Act as it was before its amendment took effect on February 5, 2015.
+
+The cases referred to in the preceding Paragraph that were pending at the Supreme Administrative Court before the amended Administrative Litigation Act took effect on February 5, 2015 but have not been concluded after the amended Administrative Litigation Act took effect, shall be adjudicated by the Supreme Administrative Court in accordance with the Administrative Litigation Act as it was before its amendment that took effect on February 5, 2015. If necessary, the cases shall be transferred to the district administrative court with jurisdiction and shall be adjudicated there in accordance with the amended Administrative Litigation Act.
+
+## Article 12
+
+Where the cases referred to in Paragraph 1 of the preceding Article became final in accordance with the Administrative Litigation Act as it was before the amendment took effect on February 5, 2015, if a party to the litigation initiates a litigation for rehearing, the litigation shall be handled in accordance with the following provisions:
+
+\1. Where the litigation for rehearing is initiated against a final judgment rendered by a High Administrative Court, or the litigation is initiated against a judgment rendered by the Supreme Administrative Court on the grounds stipulated in Paragraph 1, Subparagraphs 9 to 14, of Article 273 of the Administrative Litigation Act, the case shall be adjudicated by a district administrative court in accordance with the amended Administrative Litigation Act.
+
+\2. Where the litigation for a rehearing is initiated against a first-instance or second-instance judgement rendered by a High Administrative Court and the Supreme Administrative Court, or where the litigation for a rehearing is initiated against a Supreme Administrative Court Judgment on grounds other than those set out in Subparagraphs 9 to 14 of Paragraph 1 of Article 273, the case shall be adjudicated by the Supreme Administrative Court in accordance with the Administrative Litigation Act as it was before its amendment taking effect on February 5, 2015. If necessary, the case may be transferred to a district administrative court with jurisdiction and be adjudicated in accordance with the amended Administrative Litigation Act.
+
+In the circumstances provided for in Subparagraph 1 of the preceding Paragraph, the High Administrative Court shall, by a ruling, transfer a rehearing case provided for in Paragraph 1 of preceding article and pending at it to a district administrative court with jurisdiction.
+
+The preceding two paragraphs shall apply mutatis mutandis to applications for rehearing against rulings.
+
+## Article 13
+
+If a third party applies for retrial concerning the cases as provided for in Paragraph 1 of Article 9-1 having become final under the Administrative Litigation Act before its amendment taking effect on February 5, 2015, and concerning the cases as provided for in Paragraph 1 of Article 9 for which a retrial have been ordered by a court ruling, the case shall be handled in accordance with the following provisions:
+
+\1. The cases where an application for retrial is initiated against a final judgment rendered by a High Administrative Court as provided for in Paragraph 1 of Article 9, and the first instance of the cases as provided for in Paragraph 1 of Article 9 for which a court ruling has ordered a retrial, shall be adjudicated by a district administrative court under the amended Administrative Litigation Act.
+
+\2. The cases where an application for retrial is initiated against a final judgment rendered by the Supreme Administrative Court as provided for in Paragraph 1 of Article 9, and the second instance of the cases as provided for in Paragraph 1 of Article 9 for which a retrial has been ordered by a court ruling, shall be adjudicated by the Supreme Administrative Court under the Administrative Litigation Act as it was before its amendment taking effect on February 5, 2015. If necessary, the cases may be transferred to a district administrative court with jurisdiction and shall be  adjudicated there under the amended Administrative Litigation Act.
+
+In the circumstances provided for in Subparagraph 1 of the preceding Paragraph, the case pending at a High Administrative Court shall, by a ruling, be transferred to the district administrative court with jurisdiction.
+
+## Article 14
+
+Administrative litigation cases concerning temporary or extended detention pending in the administrative courts before the amended Administrative Litigation Act took effect on February 5, 2015, shall be handled in accordance with the following provisions after the Act takes effect:
+
+\1. If the cases have not been concluded, the original judge shall adjudicate them in accordance with the Administrative Litigation Act before the amendment took effect on February 5, 2015. Appeals made against judgments or rulings shall be governed by the Administrative Litigation Act as it was before the amendment took effect on February 5, 2015.
+
+\2. If the cases have been concluded, the appeals made against judgments or rulings shall be governed by the Administrative Litigation Act as it was before the amendment took effect on February 5, 2015.
+
+Regarding the cases referred to in the preceding Paragraph deemed final in accordance with the Administrative Litigation Act as it was before the amendment took effect on February 5, 2015, if a party to the litigation applies for rehearing or retrial, or a third party applies for retrial and the court has ordered retrial proceedings, the case shall be adjudicated by the High Administrative Court and the Supreme Administrative Court under the Administrative Litigation Act as it was before the amendment took effect on February 5, 2015.
+
+## Article 15
+
+The Review Procedure of Urban Planning, as provided for in Part II, Chapter 5 of the amended Administrative Litigation Act, does not apply to the urban plans promulgated before July 1, 2020, when the amended Administrative Litigation Act took effect.
+
+If the urban plans promulgated before the amended Administrative Litigation Act took effect on July 1, 2020 have the characteristics of an administrative act, such urban plans shall be subject to the litigation procedure provided for in the Administrative Litigation Act regarding unlawful administrative acts.
+
+## Article 16
+
+Where other statutes refer to the administrative litigation tribunal of district courts, the rules governing district administrative courts provided for in the amended Administrative Litigation Act shall apply after the amended Administrative Litigation Act takes effect.
+
+Matters already pending in the administrative litigation tribunals of district courts before the amended Administrative Litigation Act takes effect shall be transferred by district courts to district administrative courts with a public notice of the parties to the litigation and the known relevant persons involved.
+
+After the transfer referred to in the preceding Paragraph, such matters are considered pending in district administrative courts before the amended Administrative Litigation Act takes effect.
+
+If appeals, applications for rehearing, applications for continued trial, or applications for re-trial are presented for the matters already concluded by the administrative litigation tribunals of district courts before the amended Administrative Litigation Act takes effect, such appeals, applications for rehearing, applications for continued trial, or applications for re-trial are considered presented before the district administrative courts with jurisdiction from the outset.
+
+In the circumstances provided for in Paragraph 2 and the preceding Paragraph, district courts should deal with the case files as follows:
+
+\1. In pending matters, the case files should be transferred to the district administrative courts with jurisdiction. The same applies to the matters concluded but appealed or subject to an application for rehearing, continued trial, or retrial.
+
+\2. If matters are concluded and no circumstances described in the preceding subparagraph apply, the case files should be sent to the depositary.
+
+## Article 17
+
+The rules deterring frivolous suits provided for in Articles 107 and 249 of the amended Administrative Litigation Act and Paragraph 4 of Article 273 of the same Act do not apply to matters already pending in administrative courts and before the litigation is concluded.
+
+## Article 18
+
+The ordinary proceeding cases or matters of the review procedure of urban planning after the amended Administrative Litigation Act takes effect shall be adjudicated in accordance with  the following rules:
+
+\1. For cases that are not yet concluded: High administrative courts shall adjudicate the cases under the old Act. The amended Administrative Litigation Act governs appeals against such judgments and rulings at the Supreme Court.
+
+\2. For cases that are concluded:
+
+(1) If there are appeals against such judgments or rulings at the Supreme Administrative Court, the old Act shall govern.
+
+(2) If the Supreme Administrative Court remands the case, the question of which court should judge the case shall be governed by Article 104-1 or Article 229 of the amended Administrative Litigation Act. The high administrative or district administrative courts shall adjudicate such cases under the amended Administrative Litigation Act.
+
+## Article 19
+
+Matters pending with the Supreme Administrative Court before the amended Administrative Litigation Act takes effect and are yet to be concluded after the amended Administrative Litigation Act takes effect shall be adjudicated in accordance with  the old Act by the Supreme Administrative Court.
+
+If the Supreme Administrative Court remands the case by a judgment or ruling, the question of which court will hear the case shall be determined per Article 104-1 or Article 229 of the amended Administrative Litigation Act. The high administrative or district administrative courts shall adjudicate such cases in accordance with the amended Administrative Litigation Act.
+
+## Article 20
+
+When the Judicial Yuan increases by an order the amount set in Subparagraphs 1-3 of the proviso of Paragraph 1 of Article 104-1 per the second paragraph of Article 104-1 of the amended Administrative Litigation Act, the ordinary proceeding cases pending at district administrative courts or high administrative courts before the order was issued, the court where the matter shall be adjudicated shall be determined by the amount set out in the Judicial Yuan's order, and shall be transferred to and adjudicated by the administrative court with jurisdiction.
+
+In cases concluded before the Judicial Yuan's order is issued, and cases where the appeals against judgments or rulings are made before the Judicial Yuan's order is issued, the courts that shall adjudicate the appeals shall be determined following the standard as it was before the Judicial Yuan's order is issued. When the cases are remanded, the first-instance court shall be determined per the standard set out in the Judicial Yuan's order.
+
+## Article 21
+
+For ordinary proceedings concluded before the amended Administrative Litigation Act took effect because of a settlement, if the parties to the litigation request a continued trial, it shall be adjudicated by the court where the settlement was reached.
+
+## Article 22
+
+Concerning the small claims cases pending at the administrative litigation tribunals of district courts before the amended Administrative Litigation Court takes effect, if the appeals to rulings are made after the amended Administrative Litigation Act takes effect, the amended Administrative Litigation Act shall govern.
+
+Concerning the cases referred to in the preceding Paragraph, if the appeals are pending in high administrative courts and yet to be concluded when the amended Administrative Litigation Act takes effect, the old Act and Article 263-4 of the amended Administrative Litigation Act shall govern. If necessary, these cases shall be adjudicated by the district administrative courts with jurisdiction.
+
+The preceding two paragraphs shall apply mutatis mutandis to the appeals for traffic adjudication matters and the appeals for custody application matters.
+
+## Article 23
+
+When the Judicial Yuan has ordered a reduction or increase in the amount for matters pending before the district administrative court or the High Administrative Court that were not concluded before the Judicial Yuan rendered its order, whether the ordinary or summary proceeding shall be applicable and which court to adjudicate such matters shall be decided using the amount of decrease or increase in the Judicial Yuan's order, as provided in Paragraph 2 of Article 229 of the amended Administrative Litigation Act pursuant to Paragraph 3 of the same Article.
+
+If there is a need, the court shall transfer the case to a court with jurisdiction by a ruling.
+
+Where a case has been concluded or an appeal has been taken from a judgment or a ruling before the reduction or increase of amount, it shall continue to be adjudicated in the same proceeding. If a judgment or ruling was rescinded and the case remanded to the court of first instance, whether ordinary or summary proceedings shall be applicable and which court to adjudicate such matters shall be decided in accordance with the amount decreased or increased by the Judicial Yuan's order.
+
+## Article 24
+
+Where a motion for a provisional attachment, a provisional injunction, or the preservation of evidence or the enforcement thereof was pending at the administrative court before the amended Administrative Litigation Act took effect, the following rules shall apply:
+
+\1. If the case is not yet concluded, it shall be adjudicated by the same court under the Administrative Litigation Act without the amendment. The appeal of such a ruling shall be governed by the amended Administrative Litigation Act.
+
+\2. If the case is concluded, the appeal of such a ruling shall be governed by the Administrative Litigation Act without the amendment, with the exception of Article 235, Paragraph 2. The same applies to appeals filed before the amended Administrative Litigation Act took effect.
+
+A motion seeking to revoke a ruling imposing a provisional attachment or a provisional injunction awarded before the amended Administrative Litigation Act takes effect shall be filed with the court that rendered the ruling.
+
+## Article 25
+
+The date this Act takes effect shall be set out by an order issued by the Judicial Yuan.
+
+## History
+
+\1. Promulgated on June 7, 2000
+
+\2. Amended on November 23, 2011
+
+\3. Amended on June 18, 2014
+
+\4. Amended on January 15, 2020
+
+\5. Amended on June 22, 2022

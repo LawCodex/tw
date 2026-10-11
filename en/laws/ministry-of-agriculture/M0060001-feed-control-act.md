@@ -1,0 +1,395 @@
+---
+title: "Feed control act"
+title_zh: "飼料管理法"
+identifier: "M0060001"
+type: act
+law_level: "法律"
+category: "行政＞農業部＞畜牧目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1973-01-12
+last_amended: 2015-02-04
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0060001"
+retrieved: 2026-10-12
+---
+
+# Feed control act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-agriculture/M0060001-feed-control-act.md](../../../zh/laws/ministry-of-agriculture/M0060001-feed-control-act.md)) is authoritative.
+
+## Chapter I. GENERAL PROVISIONS
+
+### Article 1
+
+To maintain the quality of feeds; to promote the development of the livestock and aquaculture industries; and to thereby maintain the public health, this Act is hereby established. Matters not regulated herein shall be governed by other applicable laws.
+
+### Article 2
+
+The term “competent authority” in this Act shall mean the Ministry of Agriculture at the central government level; the municipal government at the directly-controlled municipality level; and the county/city level in counties/cities.
+
+### Article 3
+
+The term “feed” in this Act refers to foodstuffs, as announced by the central competent authority, as being able to provide nutrition to, or promote healthy growth of,  livestock, poultry, and animals used in aquaculture. Feed is classified as follows:
+
+\1. Plant-based feed: Plants, plant products, and the processed results thereof.
+
+\2. Animal-based feed: Animals, animal products, and the processed results thereof.
+
+\3. Feed supplement: Minerals, vitamins, amino acids, and the processed results thereof.
+
+\4. Formulated feed: Formulated mixtures and compounds of two or more of the above.
+
+Regarding the specific list of feeds/supplements in the previous paragraph for which safety or quality levels may vary as a result of manufacturing, processing, packaging, or importing, and for which testing is therefore mandatory, the central competent authority shall announce such list.
+
+### Article 3-1
+
+The term “feed additive” in this Act refers to non-medicinal, non-nutrient substances, as announced by the central competent authority, that may be added to feed to improve feed efficacy, maintain feed quality, facilitate growth of livestock/poultry/ animals used in aquaculture, keep such animals healthy, or for other purposes.
+
+Regarding the specific list of feed additives in the previous paragraph for which safety or quality levels may vary as a result of manufacturing, processing, packaging, or importing, and for which testing is therefore mandatory, the central competent authority shall announce such list.
+
+Animals with which feed additives may be used, amounts, purposes, and other principles that shall be complied with shall be established by the central competent authority.
+
+### Article 4
+
+The term “components” in this Act refers to:
+
+1.Feed components: The content of crude protein, crude fat, crude ash, crude fiber, phosphorus, calcium, and other active ingredients, restricted ingredients, and hazardous substances in the feed.
+
+2.Feed additive components: The amount of active ingredients, restricted ingredients, and hazardous substances in the feed additive.
+
+The standards for the components of feed and feed additives shall be in accordance with the provisions National Standards of the Republic of China (CNS) regulations. In the absence of a National Standard, one shall be established by the central competent authority in collaboration with other relevant agencies at the time of new item license.
+
+### Article 5
+
+The term “feed manufacturer” in this Act refers to an entity engaged in manufacturing, processing, or packaging of feed or feed additives.
+
+Feed and feed additives shall not be used in manufacturing or processing food for human consumption, nor stored nor sold along with food for human consumption. Feed manufacturers shall not manufacture, process, package or store food for human consumption in the same factory as feed or feed additives.
+
+### Article 6
+
+The term “feed vendor” in this Act refers to a business concern that deals in feeds or feed additives as a wholesaler, retailer, importer, or exporter. However, feed manufacturers who sells their products by wholesale shall be exempt from the registration as feed venders.
+
+### Article 7
+
+The term “labelling” in this Act refers to any legend, logo or symbol appearing on containers or packages of feeds or feed additives.
+
+### Article 8
+
+The central competent authority shall, in concert with relevant competent authorities, make plans regarding production, anufacture, transportation, marketing, exportation, and importing of feeds, so as to avoid an imbalance in supply and demand for feeds and to avoid abnormal prices.
+
+### Article 8-1
+
+The central competent authority shall compile the following information: feed/feed additive Manufacturing licenses; feed/feed additive Import licenses; genetically modified feed/feed additive certifications of having passed inspection; genetically modified feed/feed additive sales licenses; and the results of genetically modified feed/feed additive inspections. The central competent authority shall also establish a tracing/tracking system and database for the origins and flows of feeds/feed additives, and shall make such system and database public. The central competent authority shall also announce the staged deadlines by which feed manufacturers and vendors shall use electronic uniform invoices.
+
+Feed manufacturers and vendors shall keep records of supply sources and outflows for feed/feed additives, and shall retain certification or proof thereof for five years. Where feed/feed additives that are manufactured, imported, or sold meet quantities and categories announced by the central competent authority, the feed manufacturer/vendor shall upload the supply sources and flows to the database in the previous paragraph and make such information public.
+
+The central competent authority shall prescribe, from paragraph 1, details about the establishment of the tracing/tracking system and database; information disclosure for such; and the deadlines by which electronic uniform invoices shall be used. The central competent authority shall also prescribe, from paragraph 2, the rules regarding records and uploading for information about supply sources and outflows; information disclosure for such; methods of retaining certification or proof; and other matters for compliance.
+
+## Chapter II. MANUFACTURING, IMPORTING, AND EXPORTING
+
+### Article 9
+
+The establishment of a feed or feed additive factory shall comply with the feed or feed additive factory establishment standards; in addition, factory registration shall be obtained in accordance with the law.
+
+The factory establishment standards shall be prescribed by the central competent authority, in concert with the central competent authority for industry and the central competent authority for health.
+
+Permits for establishing a feed or feed additive factory shall be issued by the competent authority for industry in concert with the central competent authority for agriculture.
+
+### Article 10
+
+For manufacturing, processing, or packaging any feed/feed additive announced by the central competent authority as requiring a permit to do so, the entity engaging in such activity shall apply to the central competent authority for such a permit. Only after the feed/feed additive passes inspection, and only after the Manufacturing license is issued, may the manufacturing, processing, or packaging occur.
+
+The central competent authority shall prescribe, from the previous paragraph, the application criteria, procedures, documents to be attached, proof of origin, testing protocols, permit criteria, Manufacturing license issuance/renewal/replacement, and other matters for compliance.
+
+The following entities are exempt from needing to apply for and obtain a Manufacturing license as described in paragraph 1:
+
+1.A self-manufactured, own-use feed user who has applied to a competent authority at the directly-controlled municipal government or county/city-levels, for a permit; who has been issued a self-manufactured, own-use license; and who manufactures such feed for use with the entity’s own livestock, poultry or aquatic animals.
+
+2.A research institution that manufactures or processes feed/feed additives specifically for testing purposes.
+
+In terms of components and quantities, self-manufactured, own-use feed in subsection 1 of the previous paragraph shall comply with the quantity limits set by the central competent authority. Where feed additives are used, the sources and uses of feed additives shall be recorded.
+
+The central competent authority shall prescribe, from paragraph 3, subsection 1, the application criteria, procedures, documents to be attached, permit criteria, and license issuance/renewal/replacement. The central competent authority shall also prescribe, from the previous paragraph, recording for sources and uses of feed additives, other matters for compliance, and quantity limits.
+
+The central competent authority may delegate matters in paragraph 1 regarding handling applications, inspections, issuance of Manufacturing licenses, etc. to competent authorities at the directly-controlled municipal government or county/city-levels.
+
+### Article 11
+
+Importers shall apply for licenses to import feed/feed additives announced as requiring such by the central competent authority. Only after the feed/feed additive passes inspection, and only after an Import license is issued, may the importing occur. However, if an entity is permitted to manufacture feed supplements or formulated feed and obtains a Manufacturing license for such, and then imports feed only for its own factory in manufacturing said food supplements or formulated feed, this restriction shall not apply.
+
+Entities granted Import licenses described in the previous paragraph may authorize other feed vendors to handle importing tasks on their behalf.
+
+The central competent authority shall prescribe, from the previous two paragraphs, the application criteria, procedures, documents to be attached, testing protocols, permit criteria, Import license issuance/renewal/replacement, authorized importing, and other matters for compliance.
+
+The central competent authority may delegate the tasks of accepting applications, conducting lab tests, and issuance of Import licenses described in paragraph 1 to its own subordinate agencies/organizations, to competent authorities at the directly-controlled municipal government or county/city-levels, or to other organizations.
+
+### Article 11-1
+
+Genetically modified feed/feed additives of foreign origin may not be imported, offered for sale, or used until after such feed/feed additives pass inspections (including biosafety check), and until after the developer applies for and obtains a permit issued by the central competent authority.
+
+Genetically modified organisms (GMO; animals, plants or microbes) of domestic origin that have completed legally-required field tests and reviews may only be exported, made into feed/feed additives, or used as feed/feed additives after the developer applies with the central competent authority for a GMO certificate for feed usage; after such a certificate is issued; and after inspections (including biosafety check) are passed.
+
+The GMO certificate described in the previous two paragraphs shall be valid for no more than five years. The developer may apply for renewal with the central competent authority during the 60-day-period starting on the day on which three months of validity remain. Validity of each renewed certificate shall be no more than five years. If a developer fails to renew a certificate, the developer shall be required to apply for a new certificate.
+
+The central competent authority shall prescribe, from the previous three paragraphs, the certificate application procedure, documents to be attached, biosafety evaluation, testing protocols, inspection protocols, review periods, permit criteria, certificate issuance/renewal/replacement, and other matters for compliance.
+
+The central competent authority may delegate the inspection protocols in paragraphs 1 and 2 to its own subordinate agencies/organizations, or commission other agencies/organizations/groups to do such inspection.
+
+Before the January 23, 2015 amendment to this Act becomes effective, those GMO feed/feed additives for which GMO certificates have not been obtained in accordance with paragraph 1 shall obtain such certificates within two years from the date this amendment takes effect.
+
+### Article 12
+
+A feed/feed additive Manufacturing license or Import license shall be valid for four years. Where manufacturing or importing is to continue after said certificates expire, the manufacturer/importer shall first apply to the competent authority in advance for an extension. Such an extension shall not exceed four years each time.
+
+If a feed/feed additive Manufacturing license or Import license is lost or damaged, the person concerned shall state the reasons clearly, pay a registration fee, and apply to the original issuing authority for replacement or renewal. Where the original certificate is lost, the person concerned shall apply to have the original canceled; where the original certificate is damaged, the person concerned shall submit the original for it to be canceled.
+
+### Article 13
+
+Material facts of a license, such as category, item, components, and animals with which a feed/feed additive is to be used, shall not be changed. For other matters to be changed, approval must be applied for and permission obtained from the competent authority before the changes may be made.
+
+### Article 14
+
+For feed/feed additives, before they can be sold, Chinese language or universal symbols shall be placed on the package or container to indicate:
+
+1.Name and address of the manufacturer or vendor;
+
+2.Category, description and commercial name;
+
+3.components;
+
+4.GMO ingredients used;
+
+5.Primary ingredients and their suppliers;
+
+6.Intended use, usage method, and precautions for use;
+
+7.Net weight;
+
+8.Manufacturing license number/Import license number;
+
+9.Year, month, and day on which the product was manufactured, processed, or packaged; and
+
+10.Other matters specified in central competent authority announcements.
+
+### Article 15
+
+For feed/feed additives that are to be exported to meet the requirements of a foreign buyer, and which comply with the regulations of the importing country, if the central competent authority or the competent authority at the directly-controlled municipal government where the enterprise is located grants the enterprise Manufacturing license, such exporting shall not be subject to the component standards specified in Article 4, paragraph 2.
+
+## Chapter III. SALES
+
+### Article 16
+
+Enterprises operating as feed vendors shall apply to the competent authorities at the directly-controlled municipal government or county/city-levels for registration. Sales may only begin after the sales license is issued.
+
+The license procedures in the previous paragraph shall be are prescribed by the central competent authority.
+
+Competent authorities at the directly-controlled municipal government or county/city-levels that issue sales licenses may charge applicants license registration fees; the fee rates shall be set by the central competent authority.
+
+### Article 17
+
+Within 15 days of suspending business, a change in name, change in address, or a change in the name or address of its legal representative, a feed vendor shall report on such suspension or change with the competent authority at the directly-controlled municipal government or county/city-level in which the vendor is located.
+
+### Article 18
+
+Any enterprise concurrently doing business as a feed vendor shall cause any and all feeds/feed additives being offered for sale to be displayed and stored separately from any goods hazardous to health.
+
+### Article 19
+
+Samples and complimentary gifts of feeds/feed additives approved for import; self-manufactured, own-use feeds/feed additives; and feeds/feed additives that are commissioned for manufacturing, processing, or packaging for experimental purposes shall not be offered for sale.
+
+## Chapter IV. MONITORING AND INSPECTION
+
+### Article 20
+
+Unless for manufacturing or processing feed/feed additives specifically for testing purposes as described in Article 10, paragraph 3, subsection 2, feed/feed additives to which any of the following situations apply shall not be used for manufacturing, processing, packaging, sales, exporting, importing, self-use, or use by others:
+
+1.Hazardous substance content exceeds the standard, indirectly endangers human health, or contains substances otherwise prohibited for use in feed/feed additives in law or as announced by the central competent authority;
+
+2.Requires a license in accordance with Article 10, paragraph 1 Article 11, paragraph 1, or Article 11-1, paragraphs 1 or 2, but has not obtained such a license.
+
+3.Switched or adulterated with products legitimately manufactured, processed, packaged, or imported by others.
+
+4.Contains expired, spoiled, or decomposed non-feed or non-additive substances, or substances likely to impact the health of livestock, poultry or aquatic animals.
+
+5.Feed additives used do not comply with Article 3-1, paragraph 3.
+
+6.Components do not comply with the allowed components listed in the license. However, with self-manufactured, own-use feed made by a self-manufactured, own-use user, this restriction shall not apply.
+
+7.Labeling does not comply that specified in Article 14, or is unclear or incomplete. However, with self-manufactured, own-use feed made by a self-manufactured, own-use user, this restriction shall not apply.
+
+### Article 21
+
+No feed manufacturer or vendor shall place any false promotional advertisement containing facts other than those contained in the license registration regarding the feeds/feed additives manufactured or offered for sale.
+
+### Article 22
+
+The competent authority may, in concert with related competent authorities, inspect manufacturers’ and vendors’ feeds/feed additives, as well as their equipment, storage facilities, and relevant information, and may take samples for inspection. When necessary, said authorities may also take for inspection and analysis purposes samples of feeds/feed additives at any end-user thereof.
+
+Quantities of samples taken for the inspection and analysis referred to in the preceding paragraph shall limited to that which is sufficient to serve the inspection and analysis purposes.
+
+When performing their duties, inspectors shall display their identification documents.
+
+Regarding inspection and samples mentioned in paragraph 1, no feed manufacturer, vendor, or feed/feed additive end-user shall refuse inspection/sampling.
+
+### Article 22-1
+
+When a person blows the whistle on and leads to the discovery of feed/feed additives that violate this Act, the competent authority may offer a reward to such person, and shall keep said person’s identity strictly confidential.
+
+The award rules mentioned in the previous paragraph shall be prescribed by the central competent authority.
+
+### Article 22-2
+
+Importing of feed/feed additives announced by the central competent authority shall only be released from customs after they have passed inspection by the central competent authority.
+
+Regarding feed/feed additives that fail inspection described the previous paragraph, the central competent authority may demand that part or all of the feed/feed additives be returned, destroyed, or confiscated. Returned goods shall not be included in future applications for importing.
+
+Regarding the feed/feed additives described in the previous two paragraphs, the central competent authority shall prescribe the customs declaration, inspection protocols (procedures, check items, methods, and quantities), return/destruction of goods, documents to be presented, and other matters for compliance.
+
+The central competent authority may delegate the inspection protocols in paragraph 1 to its own subordinate agencies/organizations, or commission other agencies/organizations/groups to do such inspection.
+
+### Article 23
+
+Where taking samples of any feed or feed additive is required to determine whether any of the situations under Article 20, paragraph 1, any subsection exists as alleged, the feed/feed additive shall be sealed and then held in trust by the specific manufacturer, vendor, or end-user issue in accordance with an undertaking issued by the latter.
+
+Samples taken in accordance with the preceding paragraph shall be delivered for analysis and appraisal as soon as possible. The period for the competent authority to take official action with respect to such feeds/feed additives shall not exceed 15 days from the date the analysis and assessment are completed.
+
+### Article 24
+
+For feed/feed additives to which the following circumstances apply, the competent agency shall deal with them in the following manner:
+
+1.For non-compliance with Article 5, paragraph 2, or any of the circumstances in Article 20, paragraph 1, subsections 1 to 6: Order that the product in question be returned, recycled, re-processed, destroyed, discarded, scrapped, or confiscated before a designated deadline.
+
+2.For non-compliance with Article 20, paragraph 7: Order that corrective action be taken before a deadline.
+
+### Article 25
+
+Any feed/feed additive violation discovered to be in violation of Article 5, paragraph 2, or Article 20, paragraph 1, any subsection, shall in addition to being handled in accordance with this Act, be subject to the following penalties:
+
+1.or a party violating Article 5, paragraph 2, or manufacturing, processing, packaging, or importing feed/feed additives to which Article 20, paragraph 1, subsections 1 to 5 apply, such party’s related licenses shall be revoked.
+
+2.For a party manufacturing, processing, packaging, or importing feed/feed additives to which Article 20, paragraph 1, subsections 6 or 7 apply, where punishment has been rendered two or more times and the circumstances are severe, such party’s related licenses shall be revoked.
+
+3.For a party selling, exporting, intending to sell, and displaying or storing feed/feed additives to which Article 20, paragraph 1, any subsection applies, where punishment has been rendered two or more times or a guilty verdict has been affirmed, such party’s related licenses shall be revoked.
+
+4.The competent authority may disclose such an offending party’s name, company or commercial name, sales venue, full name of the person in charge, names of the defective products, and details of the offense.
+
+With feed/feed additives for which licenses have been revoked in accordance with the previous paragraph, any subsection, no further application may be made for a Manufacturing license, Import license, or sales license.
+
+## Chapter V. PENAL PROVISIONS
+
+### Article 26
+
+For any person manufacturing, processing, packaging, or importing feed/feed additives listed in Article 20, paragraph 1, subsections 1 to 3, a jail term or penal servitude of no more than five years, in conjunction with a fine of no more than NT $20,000,000, shall be imposed.
+
+For a violation in the previous paragraph where the crime was non-intentional, penal servitude and a fine of no more than NT $100,000 shall be imposed.
+
+An attempt to commit any act mentioned in paragraph 1 shall also be punishable.
+
+### Article 27
+
+For a party selling, exporting, intending to sell, and displaying or storing feed/feed additives to which Article 20, paragraph 1, subsections 1 to 3 apply, a jail term of no more than two years and a fine of no more than NT$10,000,000 shall be imposed.
+
+For a violation in the previous paragraph where the crime was non-intentional, a fine of no more than NT$60,000 shall be imposed.
+
+### Article 28
+
+(Deleted)
+
+### Article 29
+
+Where any of the following circumstances apply, a fine of no less than NT$30,000 and no more than NT$3,000,000 shall be imposed:
+
+1.Violation of Article 5, paragraph 2, namely, using feed/feed additives in manufacturing or processing food for human consumption, or storing or selling such along with food for human consumption, or manufacturing, processing, packaging, or storing food for human consumption in the same factory as feed/feed additives.
+
+2.Using feed/feed additives described in Article 20, paragraph 1, subsections 1, 2, 4, or 5.
+
+3.Manufacturing, processing , packaging, or importing feed/feed additives described Article 20, paragraph 1, subsections 4 to 7.
+
+4.Importing of feed/feed additives not inspected by or which have failed inspection by the central competent authority, or applying for importing of feed/feed additives previously ordered to be returned by the central competent authority.
+
+### Article 30
+
+For a party selling, exporting, intending to sell, and displaying or storing feed/feed additives to which Article 20, paragraph 1, subsections 4 to 7 apply, a fine of no less than NT $30,000 and no more than NT$500,000 shall be imposed.
+
+### Article 31
+
+A fine of no less than NT$30,00 and no more than NT$300,000 shall be imposed for any of the following:
+
+1.Failure to comply with Article 8-1, paragraphs 2 and 3, namely, failure to keep records of supply sources and outflows for feed/feed additives, and retain certification or proof thereof for five years; failure to use electronic uniform invoices; or falsely keeping, uploading, or disclosing such records.
+
+2.Violation of Article 9, namely, failure to establish a factory in accordance with this Act.
+
+3.With self-manufactured, own-use feed made by a self-manufactured, own-use user, there is a failure to comply with the quantity limits set by the central competent authority; or a failure to apply for a self-manufactured, own-use license in accordance with Article 10, paragraph 3, subsection 1; or a failure to keep records of feed additives’ sources or uses, in accordance with Article 10, paragraphs 4 and 5, or the records are flawed.
+
+4.Violation of Article 13, namely, changing matters that require prior approval without obtaining such prior approval.
+
+5.Violation of Article 16, namely, engaging in business operation without a sales license.
+
+6.Violation of Article 19, Article 21, or Article 22, paragraph 4.
+
+7.Violation of Article 24, paragraphs 1 or 2, namely, failure to recall, re-process, correct, destroy, or discard within a specified time limit.
+
+Where the circumstances in the previous paragraph, subsection 3 apply, the competent authority at the directly-controlled municipal government or county/city-level may, in addition to imposing a fine stipulated in the previous paragraph, order the self-manufactured, own-use feed user to truthfully keep records; re-process, discard, or destroy the feed/feed additives via such user’s own means; or order that use of such feed/feed additives be discontinued. The competent authority may also revoke the self-manufactured, own-use license.
+
+### Article 32
+
+A written warning shall be issued for violation of Article 17 or Article 18. A repeated offense shall result in a fine of no less than NT$15,000 and no more than NT$100,000.
+
+### Article 32-1
+
+For violation of Articles 29 to 32, if the illegal gain exceeds the highest prescribed amount of fine, the penalty imposed may be up to ten times the total sales revenue during the period of violation.
+
+### Article 33
+
+If the representative of a legal entity, or the agent, employee or any other professional of any legal entity or natural person is guilty of the offenses under Article 26 or 27 hereof in performing their duties, not only shall the wrongdoer be punishable in accordance with such Article, but fines shall also be imposed on the legal entity or natural person under any of the applicable Articles.
+
+### Article 34
+
+(Deleted)
+
+### Article 35
+
+A case in which a fine imposed in accordance with this Act is not paid within the prescribed time limit shall be referred to the court for compulsory enforcement.
+
+### Article 36
+
+(Deleted)
+
+### Article 37
+
+The competent authority at the specific level shall be the authority with powers to impose sanctions and fine in accordance with this Act.
+
+## Chapter VI. SUPPLEMENTARY PROVISIONS
+
+### Article 38
+
+Any and all feed manufacturers that were established prior to the amendment of this Act and which do not satisfy the requirements of Article 5 of this Act shall, within one year of this amended Act taking effect, apply to be registered as feed vendors in accordance with this Act.
+
+### Article 39
+
+The enforcement rules of this Act shall be established by the central competent authority.
+
+### Article 39-1
+
+Feeds/feed additives manufactured, processed, packaged, imported, exported, sold, displayed, stored, or used before January 23, 2015 (the date on which the amendment to this Act takes effect), and without the issues listed in the pre-amended Article 20, paragraph 1, any subsection, shall be deemed as feeds/feed additives designated by the central competent authority in accordance with Article 3, paragraph 1 or Article 3-1, paragraph 1.
+
+### Article 40
+
+This Act shall take effect upon the date on which it is promulgated.
+
+## History
+
+1.Thirty-nine articles were enacted and promulgated by the president on January 12, 1973per presidential order referenced 1973-Tai-Tung (I) Yi-Tze 182
+
+2.All forty articles after amendment were promulgated by the president on December 5, 1986 per presidential order referenced 1986-Hua-Tsong (I) Yi-Tze 6106
+
+3.Articles 2, 10, 11, 15 were amended and promulgated by the president on May 17, 2000 per presidential order referenced 2000-Hua-Tsong (I) Yi-Tze 8900118430
+
+4.Articles 10~12, 15, 16 and 25 were amended and promulgated by the president on January 30, 2002 per presidential order referenced 2002-Hua-Tsong (I) Yi-Tze 09100017010
+
+5.Articles 3~5, 10, 11, 14, 20, 24~27, 29~32 and the title of chapter four were amended; Articles 8-1, 11-1, 22-1, 22-2, 32-1 and 39-1 were added; Article 36 was deleted. The entire revision was promulgated by the president on February 4, 2015 per presidential order referenced 2015-Hua-Tsong (I) Yi-Tze 10400014919
+
+The announcement was made on July 27, 2023 by the Executive Yuan Order tai-gui-zi No. 1125014346. The relevant matters set out in Article 2, Article 3, Article 3-1, Paragraph 2 of Article 4, Article 8, Article 8-1, Paragraph 2,3 of Article 9, Paragraph 1,2,4,5,6 of Article 10, Paragraph 1,3,4 of Article 11, Paragraph 1,2,3,4,5 of Article 11-1, Article 12, Article 13, Subparagraph 10 of Paragraph 1 of Article 14, Article 15, Paragraph 2,3 of Article 16, Subparagraph 1 of Paragraph 1 of Article 20, Paragraph 1 of Article 22, Article 22-1, Article 22-2, Paragraph 2 of Article 23, Article 24, Subparagraph 4 of Paragraph 1 of Article 25, Subparagraph 4 of Paragraph 1 of Article 29, Subparagraph 3 of Paragraph 1 of Article 31, Article 37, Article 39, Article 39-1 pertaining to “ the Council of Agriculture of the Executive Yuan” shall be handled by “Ministry of Agriculture” as governing body, effective August 1, 2023.

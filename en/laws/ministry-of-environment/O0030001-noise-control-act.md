@@ -1,0 +1,351 @@
+---
+title: "Noise Control Act"
+title_zh: "噪音管制法"
+identifier: "O0030001"
+type: act
+law_level: "法律"
+category: "行政＞環境部＞大氣環境目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1983-05-13
+last_amended: 2025-12-26
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0030001"
+retrieved: 2026-10-12
+---
+
+# Noise Control Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-environment/O0030001-noise-control-act.md](../../../zh/laws/ministry-of-environment/O0030001-noise-control-act.md)) is authoritative.
+
+## Chapter 1 General Principles
+
+### Article 1
+
+This Act is formulated to maintain public health and a quiet environment and to enhance the living quality of the public.
+
+### Article 2
+
+The competent authority referred to in this Act means the Ministry of Environment, at the central government level, the municipal government in special municipalities and the county or city government in counties or cities.
+
+### Article 3
+
+Noise as referred to in this Act means sounds that exceed control standards.
+
+### Article 4
+
+The matters designated as the responsibility of the central competent authority:
+
+I. Planning, determination and implementation of national noise control policies, programs and plans
+
+II. Formulation, deliberation and interpretation of national noise control laws and regulations
+
+III. Determination of national noise monitoring matters and research and development of control technologies
+
+IV. Determination of noise control standards
+
+V. Supervision, guidance and approval of noise control work
+
+VI. Coordination and implementation of noise control work that involves two or more special municipalities, counties or cities
+
+VII. Delineation of noise control zones that involve two or more special municipalities, counties or cities
+
+VIII. Coordination for major noise disputes
+
+IX. Training of professional noise control personnel
+
+X. Management of noise analysis organizations
+
+XI. Noise testing of motor vehicles
+
+XII. Public awareness work for noise control
+
+XIII. International cooperation related to noise control
+
+XIV. Inspection and appraisal of noise sources
+
+XV. Other national noise control matters
+
+### Article 5
+
+The responsibilities of special municipality, county and city competent authorities are as follows:
+
+I. Planning and implementation of special municipality, county or city noise control programs
+
+II. Research and development for special municipality, county or city noise control
+
+III. Coordination for special municipality, county or city noise disputes
+
+IV. Delineation of noise control zones within the jurisdiction areas of special municipalities, counties or cities
+
+V. Special municipality, county or city noise monitoring
+
+VI. Public awareness work for special municipality, county or city noise control
+
+VII. Inspection and appraisal of noise sources
+
+VIII. Other special municipality, county or city noise control matters
+
+### Article 6
+
+Police authorities shall, pursuant to the relevant laws and regulations, handle those that produce sounds that are intermittent or difficult to measure, but sufficient to jeopardize the quietness of the lives of others.
+
+## Chapter 2 Control
+
+### Article 7
+
+Special municipality, county and city competent authorities may delineate and officially announce each class of noise control zone based on noise conditions within their areas of jurisdiction, and shall perform evaluations at regular intervals and delineate and officially announce new noise control zone classes. The central competent authority shall determine principles for the delineation of control zones, delineation procedures, and regulations governing other binding matters.
+
+The central competent authority shall determine delineations and issue official announcements for those control zones in the foregoing paragraph for which there are special needs.
+
+### Article 8
+
+Engaging in the following activities that impair the tranquility of the lives of others within noise control zones is prohibited at times and in places or premises officially announced by the special municipality, county or city competent authority:
+
+I. The ignition of fireworks
+
+II. The holding of such folk activities as god alter worship, temple festivals, weddings and funerals
+
+III. The conducting of such activities as food and beverage preparation, laundering and dyeing, printing, or other commercial activities that use power machinery
+
+IV. Other activities officially announced by the competent authority
+
+### Article 9
+
+Sounds emitted by the following premises, construction projects or facilities within noise control zones may not exceed noise control standards.
+
+I. Factory plants or sites
+
+II. Entertainment premises
+
+III. Business premises
+
+IV. Construction projects
+
+V. Public address facilities
+
+VI. Other premises, construction projects or facilities officially announced by the competent authority
+
+The central competent authority shall determine noise control sound levels and testing standards in each subparagraph of the foregoing paragraph.
+
+### Article 10
+
+Within designated control zones, for construction projects and other uses of public or private premises that have been officially announced and designated by the central competent authority as facilities prone to generate noise, the direct contractor of the construction project, or facility owner or operator of other public or private premises shall apply to the special municipality, county or city competent authority for a permit before installation or operation may begin, and shall engage in installation or operation in accordance with permit content.
+
+The central competent authority shall determine the types and scopes of the construction projects and other public or private premises, the types of permit that must be applied for, and types of facilities prone to generate noise in the foregoing paragraph.
+
+The central competent authority shall determine regulations governing permit application and review procedures in Paragraph 1, items to be recorded on application forms and permits, permit issuance (replacement and re-issue), change, cancellation, revocation, and other binding matters.
+
+### Article 11
+
+Sounds generated by motor vehicles and civil aircraft may not exceed motor vehicle and civil aircraft noise control standards. The central competent authority in conjunction with the Ministry of Transportation and Communications shall determine relevant standards.
+
+Motor vehicles for domestic use shall meet the noise control standards in the foregoing paragraph before they may be imported, manufactured or used.
+
+The central competent authority in conjunction with the Ministry of Transportation and Communications shall determine regulations governing noise control items, procedures, and restrictions for in-use motor vehicles and civil aircraft, the qualifications of testing personnel, and other binding matters.
+
+### Article 12
+
+Domestically manufactured and sold motor vehicles shall obtain vehicle model noise inspection compliance certificates issued by the central competent authority before they may apply for license plates. Passenger vehicles with gross weight in excess of 3,500 kg and imported motor vehicles shall obtain vehicle model exhaust testing compliance certificates issued by the central competent authority, and receive the central competent authority's certification and authorization, before applications may be submitted for license plates.
+
+The central competent authority may perform random noise testing after motor vehicles have passed vehicle model noise inspection in the foregoing paragraph.
+
+The central competent authority in conjunction with the Ministry of Transportation and Communications shall determine regulations governing vehicle model noise inspection compliance certificate issuance and revocation, random noise testing, and the handling of inspection in the foregoing two paragraphs.
+
+The central competent authority shall determine regulations governing noise certification and authorization qualifications and conditions for passenger vehicles with gross weight in excess of 3,500 kg and imported motor vehicles in Paragraph 1, materials to be attached, and other binding matters.
+
+### Article 13
+
+Citizens may report noise impairing public tranquility from in-use motor vehicles to the competent authority; those vehicles which have been reported and notified by the competent authority shall undergo testing at a designated location by a designated deadline. The central competent authority shall determine reporting regulations.
+
+### Article 14
+
+With regard to the sound emitted by the motion of vehicles in land transportation systems including expressways, freeways, railways, and mass rapid transit systems, after the special municipality, county or city competent authority has measured the sound level in the section in question and found that it exceeds the land transportation system noise control standard, the operating or management agency (organization) shall determine a noise improvement plan for that section within 180 days of notification by the special municipality, county or city competent authority, and may determine a subsidy plan when improvement cannot be made. The plan shall be submitted to approval to the special municipality, county or city competent authority, and shall guide implementation. Only one time subsidy plan to improve noise control facilities may be implemented.
+
+The central competent authority in conjunction with the Ministry of Transportation and Communications shall determine land transportation system noise control sound levels and testing standards in the foregoing paragraph.
+
+### Article 15
+
+With regard to aircraft noise and other transportation from civil/military airports under the jurisdiction of civil airports and civil control towers, after the special municipality, county or city competent authority has performed monitoring and found that noise exceeds environmental sound level standards, the operating or management agency (organization) shall determine a noise improvement plan for that area or road section within 180 days of notification by the special municipality, county or city competent authority, and may determine an subsidy plan when improvement cannot be made. The plan shall be submitted to approval to the special municipality, county or city competent authority, and shall guide implementation. The subsidy plan to improve noise control facilities may be implemented in phases and stages if necessary.
+
+With regard to aircraft noise from civil/military airports under the jurisdiction of military control towers, the military aviation competent authority in consultation with the civil aviation operating or management agency (organization) and special municipality, county or city competent authority shall determine aircraft noise improvement plans based on the level of impact of the aircraft noise on each class of aircraft noise control zone. The military aviation competent authority and civil aviation operating or management agency (organization) shall adopt appropriate control or compensation measures.
+
+The central competent authority in conjunction with the Ministry of Transportation and Communications shall determine the environmental sound level values and testing standards in Paragraph 1.
+
+### Article 16
+
+Airfields controlled by the central competent authority shall install automatic monitoring equipment for the continuous monitoring of aviation noise conditions in the environs of that airport.
+
+Records of monitoring results for the foregoing paragraph shall be maintained and reported to the local competent authority in accordance with regulations.
+
+The central competent authority shall determine aircraft noise control measures for airport environs, control zone delineation principles, aircraft noise day-night sound level measurement conditions, data reporting, procedures, and other binding matters in Paragraph 1.
+
+### Article 17
+
+The military aviation competent authority in consultation with the special municipality, county or city competent authority shall develop aircraft noise improvement plans and adopt appropriate control or compensation measures based on the level of impact on each class of aircraft noise control zone of aircraft noise from airfields used exclusively for the take-off and landing of military aircraft.
+
+The Ministry of National Defense shall determine the regulations governing control, allocation of compensation, use, recompense pattern object and other binding matters of the control and compensation measures that the military aviation competent authority adopts pursuant to Article 15 paragraph 2 and the foregoing paragraph.
+
+### Article 18
+
+Special municipality, county and city governments shall, in accordance with the following principles, carry out review and planning of existing land use and development plans within each class of aircraft noise control zone:
+
+I. Class 1 aircraft noise control zones: existing land use and development plans shall be evaluated.
+
+II. Class 2 aircraft noise control zones: new schools, libraries and medical institutions may not be constructed.
+
+III. Class 3 aircraft noise control zones: new schools, libraries and medical institutions may not be constructed; and Class 3 zones may not be delineated as residential zones.
+
+Those schools, libraries and medical institutions in the foregoing paragraph for which soundproof building materials, after the completion of construction, are capable of making the indoor aircraft noise day-night average sound level lower than fifty-five decibels and that receive the permission the local competent authority shall not be subject to the restrictions of the regulations prohibiting new construction in the foregoing paragraph and may not apply to industry competent authorities for subsidies.
+
+### Article 19
+
+Competent authorities at all levels may dispatch personnel presenting verification documents verifying their implementation of duties or other distinguishing markings to enter public or private premises from which noise has been emitted or for which there is evidence sufficient to determine there is concern of noise being emitted to inspect and appraise noise conditions.
+
+No one may, for any reason, evade, obstruct or refuse the inspections and appraisals in the foregoing paragraph.
+
+The regulations in the two foregoing paragraphs shall apply, where appropriate, when the competent authority inspects motor vehicle or civil aircraft noise conditions.
+
+### Article 20
+
+Environmental analysis and testing organizations shall obtain permits issued by the central competent authority before they may perform inspection and testing prescribed in this Act.
+
+The central competent authority shall determine regulations governing the required conditions and facilities, the qualifications of testing personnel, permit application, review, issuance, replacement, revocation, and cancellation procedures, suspension and resumption of business, checking and evaluation procedures for permits, and other binding matters for the environmental analysis and testing organizations in the foregoing paragraph.
+
+The central competent authority shall officially announce noise inspection and testing methods and quality control matters.
+
+### Article 21
+
+The police authorities shall promptly notify the special municipality, county or city competent authority to handle the situation when they obtain knowledge of any violations of Article 9, Paragraph 1 during the course of investigations conducted as prescribed in Article 6.
+
+### Article 22
+
+The industry competent authority shall bear responsibility for providing assistance during the improvement of all types of noise sources.
+
+## Chapter 3 Penal Provisions
+
+### Article 23
+
+Those that violate Article 8 shall be fined NT$3,000 to NT$30,000 and shall be ordered to promptly make improvements; those that fail to comply shall be fined per violation.
+
+### Article 24
+
+Those that violate Article 9, Paragraph 1 and are notified to make improvements within a limited time period, and that have still failed to comply with noise control standards, shall, in accordance with the following regulations, be subject to daily fines or consecutive fines per occurrence, or ordered to suspend work, suspend business, or suspend use until the time when they are in compliance with noise control standards. When necessary, the permit of a facility required to obtain a permit pursuant to Article 10, Paragraph 1 may be cancelled:
+
+I. Factory plants or sites shall be fined NT$6,000 to NT$60,000.
+
+II. Entertainment and business premises shall be fined NT$3,000 to NT$30,000.
+
+III. Construction projects shall be fined NT$18,000 to NT$180,000.
+
+IV. Public address facilities shall be fined NT$3,000 to NT$30,000.
+
+V. Other officially announced premises, construction projects, and facilities shall be fined NT$3,000 to NT$30,000.
+
+Deadlines for the making of improvements within a limited time period in the foregoing paragraph are as follows:
+
+I. Deadlines for factory plants and sites may not exceed 90 days.
+
+II. Deadlines for entertainment and business premises may not exceed 30 days.
+
+III. Deadlines for construction projects may not exceed 4 days.
+
+IV. Deadlines for public address facilities may not exceed 10 minutes.
+
+V. Deadlines for other premises, construction projects, and facilities officially announced pursuant to Article 9, Paragraph 1, Subparagraph 6 of this Act shall be officially announced by the competent authority, and may not be longer than 90 days.
+
+For those circumstances in which a premises, construction project, or facility of a juridical person or non-juridical person is in violation of one of the subparagraphs of the first paragraph, in addition to punishment of the natural person actually responsible, said juridical person or the statutory responsible person of said non-juridical person shall also be fined pursuant to each subparagraph violated.
+
+### Article 25
+
+Those that fail to obtain a permit pursuant to Article 10 Paragraph 1 shall be punished in accordance with the following regulations and required to obtain a permit within a prescribed period of time, and be ordered to immediately suspend work, suspend business, or suspend use. Those that fail to engage in installation or operation in accordance with permit content shall, in accordance with the following regulations, be punished in accordance with the following regulations and notified to make improvements within a limited time period; those that have still failed to complete improvements by the deadline may be fined per violation, or ordered to suspend work, suspend business, or suspend use; when necessary, their permits may be cancelled:
+
+I. The direct contractors of construction projects shall be fined NT$18,000 to NT$180,000.
+
+II. The owners or operators of public or private premises facilities shall be fined NT$4,500 to NT$45,000.
+
+### Article 26
+
+For those circumstances in which standards determined pursuant to Article 11, Paragraph 1 are violated, with the exception of civilian aircraft being punished pursuant to the relevant regulations of the Civil Aviation Act, the owner or user of the motor vehicle shall be fined NT$3,600 to NT$36,000, and notified to make improvements within a prescribed period of time; those that have still failed to complete improvements by the deadline shall be fined per violation. In addition to penalties for each violation, in serious cases, the matter may be referred to the highway supervision authority for suspension of the vehicle license until the improvements are made and the vehicle license is returned.
+
+In the situations described above, in the case of a repeat offense committed within a year, the competent authorities may request the cooperation of the highway supervisory authority to suspend the vehicle license for 6 months.
+
+### Article 27
+
+Those that violate management regulations prescribed in Article 12, Paragraph 3 governing the issuance and renewal of vehicle model noise inspection compliance certificates and random noise testing shall be fined NT$10,000 to NT$100,000 and notified to make corrections or improvements within a prescribed period of time; those that have still failed to make corrections or complete improvements by the deadline shall be fined per violation and, when necessary, their compliance certificates may be cancelled.
+
+### Article 28
+
+When testing is not obtained pursuant to Article 13, or when testing results fail to comply with control standards, the owner or user of the motor vehicle shall be fined NT$3,600 to NT$36,000, and notified to make improvements within a prescribed period of time; those that have still failed to complete improvements by the deadline shall be fined per violation.
+
+### Article 29
+
+Those that violate Article 14, Paragraph 1 or Article 15, Paragraph 1 by failing to submit a noise improvement or subsidy plan, or by failing to implement their noise improvement or subsidy plan, shall be notified to submit a plan or perform improvement or subsidy work within a prescribed period of time; in the case of those that have still failed to submit or implement their improvement or subsidy plans by the deadline, the special municipality, county or city competent authority shall notify the central competent authority to fine the operating or management agency (organization) NT$100,000 to NT$500,000.
+
+### Article 30
+
+For those circumstances in which Article 16, Paragraph 1 is violated by failing to install automatic monitoring equipment, the airfield shall be fined NT$150,000 to NT$300,000, and notified to install said equipment within a prescribed period of time; those that have still failed to complete installation by the deadline shall be fined per violation.
+
+Those that violate Article 16, Paragraph 2, or the regulations of Paragraph 3 of the same article concerning aircraft noise control in the environs of an airport, aircraft noise testing, or report management are violated, shall be fined NT$20,000 to NT$100,000, and shall be notified to report or take corrective action within a prescribed period of time; those that have still failed to comply by the deadline shall be fined per violation.
+
+### Article 31
+
+For those circumstances in which there is a violation of Article 19, Paragraph 2 or Paragraph 3 due to the evasion, obstruction or refusal of inspections or appraisals, the person that evades, obstructs or refuses shall be fined NT$3,000 to NT$30,000 and be subject to the compulsory enforcement of inspection or appraisal.
+
+### Article 32
+
+Those environmental analysis organizations that violate Article 20, Paragraph 1 shall be fined NT$20,000 to NT$200,000, and notified to make improvement or take corrective action within a prescribed period of time; those that have still failed to complete improvements or corrective action by the deadline shall be fined per violation.
+
+Those environmental analysis organizations that have obtained permits and that violate management regulations governing analysis and testing organization permits, testing personnel qualifications and restrictions, or implementation of inspection and testing shall be fined NT$20,000 to NT$200,000, and notified to make improvement or take corrective action within a prescribed period of time; those that have still failed to complete improvements or corrective action by the deadline shall be issued consecutive daily fines; in severe circumstances, an order may be issued for the suspension of business and, when necessary, the organization's permit may be cancelled.
+
+## Chapter 4 Supplementary Provisions
+
+### Article 33
+
+The central competent authority in conjunction with the Ministry of National Defense shall determine noise control regulations for the premises, construction projects and facilities, and such equipment as motor vehicles and aircraft, of military authorities and their subordinate units.
+
+### Article 34
+
+The central competent authority shall determine the standards of fees collected by competent authorities at all levels pursuant to this Act.
+
+### Article 35
+
+Those that fail to submit additional information and verifying documents complying with noise control standards or other regulations of this Act to the competent authority for inspection prior to the deadline for improvement or corrective measures specified pursuant to this Act shall be considered to have failed to complete improvements or make corrective measures.
+
+The central competent authority shall the determine starting dates, temporary suspension dates, termination dates, improvement completion verification checking methods, legal enforcement methods, and other binding matters for the consecutive daily fines of those that fail to complete improvement or corrective measures by the deadlines of the regulations of this Act.
+
+### Article 36
+
+The central competent authority shall determine the enforcement rules of this Act.
+
+### Article 37
+
+This Act shall take effect on the date of promulgation.
+
+## History
+
+1.Announced Date:1983.05.13
+
+Full text in 14 articles promulgated by Presidential Order on May 13, 1983.
+
+2.The full text of 26 articles amended and promulgated by Presidential Order Hua-Tsung-Yi-Yi-Tzu No. 637 on February 01,1992.
+
+3.The transactions described in Article 3, Article 5, Article 21 amended and promulgated by Presidential Order Hua-Tsung-Yi-Yi-Tzu No. 8800303450 on December 22,1999.
+
+4.The transactions described in Paragraph 1 of Article 9, Paragraph 1 of Article 11, Paragraph 2 of Article 11, Paragraph 1 of Article 19, Paragraph 1 of Article 20 amended and promulgated by Presidential Order Hua-Tsung-Yi-Yi-Tzu No. 09100255740 on January 08,2003.
+
+5.Announced Date:2008.12.03
+
+The full text of 37 articles amended and promulgated by Presidential Order Hua-Tsung-Yi-Yi-Tzu No. 09700253151 on December 03,2008.
+
+6.Announced Date:2021.01.20
+
+Amended and promulgated article 15 and 17 by Presidential Order No.11000004221 on January 20, 2021.
+
+（The transactions described in of Article 2, the preamble of Article 4, Article 7, Subparagraphs 6 of Article 9（1）and Article 9（2）,Article 10, Paragraphs 1,3 of Article 11, Article 12, Article 13, Paragraph 2 of Article 14, Paragraph 3 of Article 15, Paragraph 1,3 of Article 16, Paragraph 1,3 of Article 19, Article 20, Subparagraphs 5 of Article 24（2）, Article 29, Article 33, Article 34, Article 35 and Article 36 were conducted by the Environmental Protection Administration of the Executive Yuan, and transferred to the Ministry of Environment from August 22, 2023 in accordance with the Order No. Yuan-Tai[1]Gui-Kui-Zi No. 1121028221 issued by the Executive Yuan on August 18,2023.）
+
+7.Announced Date:2025.12.26
+
+Amended and promulgated article 2,26 and 28 by Presidential Order Hua-Tsung-Yi-Yi-Tzu No.11400132291 on December 26, 2025.

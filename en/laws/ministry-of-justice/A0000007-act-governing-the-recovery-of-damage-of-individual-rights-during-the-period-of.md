@@ -1,0 +1,91 @@
+---
+title: "Act Governing the Recovery of Damage of Individual Rights during the Period of Martial Law"
+title_zh: "戒嚴時期人民受損權利回復條例"
+identifier: "A0000007"
+type: act
+law_level: "法律"
+category: "行政＞法務部＞法制目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1995-01-28
+last_amended: 2000-02-02
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=A0000007"
+retrieved: 2026-10-12
+---
+
+# Act Governing the Recovery of Damage of Individual Rights during the Period of Martial Law
+
+> Translation. The Chinese text ([zh/laws/ministry-of-justice/A0000007-act-governing-the-recovery-of-damage-of-individual-rights-during-the-period-of.md](../../../zh/laws/ministry-of-justice/A0000007-act-governing-the-recovery-of-damage-of-individual-rights-during-the-period-of.md)) is authoritative.
+
+## Article 1
+
+This Act is enacted for the recovery of damages to individual rights during the period of Martial Law.
+
+## Article 2
+
+The term “ period of Martial Law” under this Act refers to the Taiwan district that was under Martial Law during the period between May 20, 1949, and July 14, 1987；and the Kinmen, Matsu, Dongsha (Pratas Island), and Nansha (Spratly Islands) districts were under Martial Law during the period between December 10, 1948, and November 6, 1992.
+
+## Article 3
+
+Any individual who has been convicted of the offenses of sedition or treason, sent to a reformatory, sued in public prosecution, or was subject to warrants of arrest for a case that remained pending during the period of Martial Law, and has thus lost or been revoked of the following qualifications, which may be restituted retrospectively in accordance with the law upon application to the relevant authorities by the parties concerned:
+
+\1. successful completion of the public servants, professionals, or technologists examination, or
+
+\2. employment qualification for public servants, education personnel or elected public officials, or
+
+\3. professionals and technologists' practicing permits, or
+
+\4. Qualifying beneficiaries of compensation, retirement pension, or insurance annuity.
+
+Applicant, under the circumstances provided in subparagraphs 1 and 3 in the preceding paragraph, shall file an application for the re-issuance of a new certificate of passing the examination or practicing permit.
+
+The application under subparagraphs 1 to 3 in paragraph 1 shall be filed from the date of the coming into force of this Act within 2 years.
+
+Any individual who has lost or been revoked of employment qualification for public servants or education personnel provided in subparagraph 2 in paragraph 1, can be reemployed for public servants or education personnel in accordance with existing laws concerning the appointment of public servants or education personnel.
+
+Any public servant or education personnel who has been retired and should have received monthly pension payments but lost their qualifications of receiving retirement pension, or any of their successor(s) lost qualifications of receiving beneficiaries of compensation provided in subparagraph 4 in paragraph 1, may file an application of the recovery of receiving qualifications to the authority (agency) where they served. The  authority (agency) where they served shall investigate, confirm, and transfer the application to the competent authorities (agencies) according to any existing laws concerning retirement pension or beneficiaries of compensation.
+
+The right to apply mentioned in the preceding paragraph shall be extinguished if not exercised within five years from the date of the coming into force of this Act. However, if such a right is not exercised due to force majeure, the prescription shall start from the moment when they may exercise the right to apply.
+
+## Article 4
+
+Any individual whose properties have been seized during the period of Martial Law due to violations of the offenses of sedition or treason may file an application for the return of their properties after having been affirmatively found innocent；if it is impossible to return the properties, they are entitled to monetary compensation.
+
+## Article 5
+
+During the period of Martial Law, any individual who has been convicted of the offenses of sedition or treason and received a guilty judgment, their confession as an accused shall not be extracted by violence, threat, inducement, fraud, unlawful detention, or other improper means; in addition, if the confession is not investigated anew, it shall not be used as the sole basis of conviction of another crime or information against another party.
+
+## Article 6
+
+Under one of the following circumstances, during the period of Martial Law, any individual who has been convicted of the offenses of sedition or treason, or the crimes under the Statute for the Punishment of Treason or Statute for the Eradication of Communist Espionage may petition the district court having proper jurisdiction for national tort claims, and the relevant provisions of the Law of Compensation for Wrongful Detentions and Executions are applicable, mutatis mutandis, in this regard:
+
+\1. those who have been arrested and restricted in personal freedom but released by the police department on its own initiative for lack of evidence, or
+
+\2. those who have been detained or not been released in accordance with the law before or after the non-prosecution ruling, or
+
+\3. those who have been detained or received execution of sentences but have been affirmatively found innocent, or those who have not been released in accordance with the law after having been affirmatively found innocent, or
+
+\4. those who have completed their guilty judgment, reformatory education or disciplinary education for the conviction but have not been released in accordance with the law,
+
+The claim, as specified in the preceding paragraph, is extinguished by prescription if it is not exercised within  five years from the date of the amendment promulgation of this Act.
+
+## Article 6-1
+
+Any individual who submits a claim to the court for the recovery of damage to  rights or monetary compensation according to this Act shall present information for investigation and certification; and the presentation of an administrative written decision, written judgment, or relevant document, not limited to the authentic copy.
+
+## Article 7
+
+The Enforcement Rules of this Act shall be enacted by the Executive Yuan after consulting with the Judicial Yuan and the Examination Yuan.
+
+## Article 8
+
+This Act shall enter into force on the date of promulgation.
+
+## History
+
+1.Promulgated on January 28, 1995
+
+2.Amended on February 02, 2000

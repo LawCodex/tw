@@ -1,0 +1,61 @@
+---
+title: "The Organizational Act of the National Dr. Sun Yat-sen Memorial Hall"
+title_zh: "國立國父紀念館組織法"
+identifier: "H0000112"
+type: act
+law_level: "法律"
+category: "行政＞文化部＞組織目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2011-06-29
+last_amended: 2011-06-29
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=H0000112"
+retrieved: 2026-10-12
+---
+
+# The Organizational Act of the National Dr. Sun Yat-sen Memorial Hall
+
+> Translation. The Chinese text ([zh/laws/ministry-of-culture/H0000112-the-organizational-act-of-the-national-dr-sun-yat-sen-memorial-hall.md](../../../zh/laws/ministry-of-culture/H0000112-the-organizational-act-of-the-national-dr-sun-yat-sen-memorial-hall.md)) is authoritative.
+
+## Article 1
+
+The Ministry of Culture established the National Dr. Sun Yat-sen Memorial Hall (hereinafter referred to as “the Hall”) to administer the collection, research, reservation, exhibition of Dr. Sun Yat-sen’s memorial relics and records, and cultural art activities promotion.
+
+## Article 2
+
+The Hall shall be in charge of the following matters:
+
+\1. The collection, research, exhibition, reservation, maintenance, and management of Dr. Sun Yat-sen’s memorial relics and records.
+
+\2. The promotion and the cooperation of communication of Dr. Sun Yat-sen’s achievements and ideologies.
+
+\3. The research, communication, exhibition and publication of arts and culture.
+
+\4. The promotion and service of arts and culture education, and lifelong learning activities etc.
+
+\5. The development, application, and promotion service of cultural and creative merchandise.
+
+\6. Matters regarding the planning and the management of theatrical activities.
+
+\7. The planning, maintenance, and management of the public facilities of the Hall’s building and the electrical machinery etc.
+
+\8. Other matters related to the commemoration of Dr. Sun Yat-sen and the promotion of arts and culture.
+
+## Article 3
+
+The Hall shall have one director-general who has a rank of senior grade 12 and as necessary, may be appointed in accordance with the qualifications equivalent to or higher than that of the president of a junior college; and one deputy director-general who has a rank of senior grade 11 and as necessary, may be appointed in accordance with the qualifications equivalent to an associate professor.
+
+## Article 4
+
+The official titles, grade levels and numbers of staff at the Hall shall be set out by an organization chart.
+
+## Article 5
+
+The effective date of this Act is subject to the Executive Yuan’s order.
+
+## History
+
+1.Promulgated by Presidential Decree Hua Zong (1)Yi No. 10000135141 on June 29, 2011

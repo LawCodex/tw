@@ -1,0 +1,401 @@
+---
+title: "University Act"
+title_zh: "大學法"
+identifier: "H0030001"
+type: act
+law_level: "法律"
+category: "行政＞教育部＞高等教育目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1948-01-12
+last_amended: 2019-12-11
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=H0030001"
+retrieved: 2026-10-12
+---
+
+# University Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-education/H0030001-university-act.md](../../../zh/laws/ministry-of-education/H0030001-university-act.md)) is authoritative.
+
+## Chapter 1 General Principles
+
+### Article 1
+
+Universities shall take as their mission conducting academic research, cultivating talent, advancing culture, serving society, and boosting national development.
+
+Universities shall be guaranteed academic freedom and shall enjoy autonomy within the scope of laws and regulations.
+
+### Article 2
+
+In this Act the term “university” refers to a tertiary level educational institution that has been established in accordance with this Act and that confers bachelor’s degrees and higher-level degrees.
+
+### Article 3
+
+The competent authority referred to in this Act is the Ministry of Education.
+
+## Chapter 2 Establishment and Categories of Universities
+
+### Article 4
+
+Universities are categorized into national universities, universities established by special municipalities, universities established by counties or cities, (all of which are hereunder collectively referred to as “public universities”), and private universities.
+
+The establishment of, alterations to, or cessation of operations of any national university or any private university shall be approved or adjusted by the Ministry of Education, in light of education policies and after carefully examining the actual circumstances in different localities. The establishment of, alterations to, or cessation of operations of a university established by a special municipality, county, or city shall be reported by each level of government and then, Sequentially, to the Ministry of Education for approval or adjustments. A private university shall also act in accordance with the provisions of the Private School Law when handling any such matters.
+
+To provide equal access to junior college education across different regions, the Ministry of Education may give approval for a university to establish a junior college division in a county or city that does not have a junior college division of any university.
+
+Universities may establish branch campuses and divisions.
+
+The regulations governing the prerequisites, approval procedure, and other matters to be observed pertaining to establishment standards for, alterations to, or cessation of operations of a university or its branch campus, division, or affiliated junior college division shall be prescribed by the Ministry of Education.
+
+### Article 5
+
+Universities shall regularly carry out self-evaluation of their teaching, research, services, academic advice and guidance, administrative affairs, and student participation; regulations governing the evaluation shall be formulated by each university.
+
+To promote the development of every university, the Ministry of Education shall organize an evaluation committee or commission academic organizations or professional accreditation bodies to carry out regular evaluations of the universities, and it shall make the results public. The evaluation results shall be referred to for making changes to and developing universities. The evaluation shall be undertaken in accord with the principles of incorporating diversity and professionalism, and the associated regulations governing evaluation shall be formulated by the Ministry of Education.
+
+### Article 6
+
+Universities may form university systems or set up inter-university research centers in conjunction with other universities.
+
+The regulations governing matters pertaining to the organization and operations of the university systems referred to in the preceding paragraph shall be prescribed by the Ministry of Education.
+
+The regulations governing matters pertaining to the organization and operations of the inter-university research centers shall be jointly formulated by the universities involved and submitted to the Ministry of Education for reference.
+
+### Article 7
+
+Universities may draw up a amalgamation plan. Before being submitted to the Ministry of Education for approval after which the amalgamation may proceed, the plan for an amalgamation of national universities must be approved by the respective university councils; the amalgamation plan for an amalgamation of universities established by special municipalities, counties, or cities must be approved by the respective local governments that have jurisdiction over them; and the amalgamation plan for an amalgamation of private universities must be approved by their respective boards of directors.
+
+The Ministry of Education may draw up a plan for the amalgamation of national universities and facilitate it with subsidies for expenses and administrative assistance after carefully considering the overall development of higher education, the distribution of educational resources, and the geographical location of the national universities potentially involved, which shall then proceed to implement the plan after its submission to and with the approval of  the Executive Yuan.
+
+The regulations governing the preconditions, procedures, forms of subsidies for expenses and administrative assistance, the content of amalgamation plans, the rights and obligations of national universities involved in amalgamations, and other related matters, for the amalgamation referred to in the preceding paragraph, shall be prescribed by the Ministry of Education.
+
+## Chapter 3 Organization and University Council
+
+### Article 8
+
+A university shall appoint a president who will be responsible for the overall management of the university and its development and represent the university externally. The president of a university may appoint vice presidents to assist the president with the implementation of university affairs. Each university shall stipulate the number of vice presidents that may be appointed, their term of office, and necessary qualifications in its charter and by-laws.
+
+The qualifications for the president of a university shall be in accordance with the provisions of related laws and this post may be filled by a foreign person, without being subject to the restrictions set out in the provisions of the Nationality Act, the Private School Law, and the Employment Service Act pertaining to nationality and employment.
+
+### Article 9
+
+For the appointment of a new president to a public university, the university shall organize a presidential search committee ten months prior to the expiry of the term of office of the incumbent president, or within two months after the post becomes vacant through some other cause. After being selected through an open selection procedure, the new president shall be officially appointed by the Ministry of Education or by the local government that has jurisdiction over that university.
+
+The presidential search committee referred to in the preceding paragraph shall have proportionate numbers of members meeting the following criteria who are selected as follows:
+
+1.Representatives of the university, nominated at a university council meeting, shall comprise two fifths of the full committee.
+
+2.Representatives of the university’s alumni who have been recommended by the university and impartial, upright members of society shall jointly comprise two fifths of the full committee.
+
+3.The rest of the committee members shall be selected as representatives by the Ministry of Education, or by the local government of the place where the university is located.
+
+The regulations governing the organization and operations of the presidential search committee for appointing the president of a public university, and other matters to be observed, shall be prescribed by the Ministry of Education for national universities, but by the local government for a university established by a special municipality, county, or city where the university is located.
+
+The president of a private university shall be selected by a presidential search committee organized for that purpose by the board of directors of the university, and the selected candidate may be appointed after being reported to and approved by the Ministry of Education.
+
+Persons of any one gender must comprise at least one-third of the presidential search committee referred to in the preceding paragraph.
+
+The term of office for the president of a public university shall be four years, and the president may be reappointed upon the expiry of their term of office; the procedure for a president’s reappointment, the number of times a president may be reappointed, and different ways in which a president might leave office before the end of their term of office shall be stipulated in the charter and by-laws of each university; the term of office of the president of a private university and details regarding a president’s reappointment shall be stipulated in the charter and by-laws of each private university.
+
+The Ministry of Education and local governments that have jurisdiction over universities shall carry out an evaluation of the presidents of the respective universities one year prior to the expiry of their term of office, and the results of the evaluation shall serve as a reference for universities’ decisions on whether to reappoint those presidents for a further term.
+
+During the performance evaluation conducted by the Ministry of Education or the relevant local government as referred to in the preceding paragraph, the president of a public university either expresses their intention to not be reappointed, or fails to pass the reappointment selection, shall be ineligible to participate in the selection process for the next president at their current university.
+
+### Article 10
+
+The president of a newly established national university shall be directly selected and appointed by a selection panel organized by the Ministry of Education. The president of any newly established public university that is not a national university shall be selected and appointed by a selection panel organized by the Ministry of Education that includes two or three persons nominated by the local government with jurisdiction over the university. The president of a newly established private university shall be selected by the university’s board of directors after being reported to and approved by the Ministry of Education.
+
+Persons of any one gender must comprise at least one-third of each of the selection panels referred to in the preceding paragraph.
+
+### Article 11
+
+Universities may establish subsidiary colleges and/or independent graduate institutes; a college may establish subsidiary departments and/or graduate institutes.
+
+Universities may set up credit programs or degree programs that are jointly offered by different departments, graduate institutes, or colleges.
+
+### Article 12
+
+The scale of the number of students at a university shall match the scale of the university’s overall resources; the associated standards shall be prescribed by the Ministry of Education, and universities may refer to these standards when considering plans to add or adjust colleges, departments, graduate institutes, programs, and student admission quotas.
+
+### Article 13
+
+Each college of a university shall appoint a Dean to be responsible for the overall management of that college. Each department shall appoint a Chairperson to be responsible for the affairs of the department, and each independent graduate institute shall appoint a Director to be responsible for the affairs of the graduate institute. The university may also appoint a degree programs Director to be responsible for dealing with matters related to their respective programs.
+
+The supervisory academic posts of Dean, Chairperson, graduate institute director, and degree programs Director shall be for a fixed term and filled as set out below:
+
+1.The Dean of a college shall be selected from among the professors in that college following the procedure set out in the charter and by-laws of the university and shall be appointed by the president to serve concurrently.
+
+2.Department Chairperson, graduate institute Directors, and degree programs Directors shall be selected from among the teachers at the rank of or above associate professorship, following the procedure set out in the charter and by-laws of the university and shall be appointed by the president to serve concurrently. If a department, graduate institute, or degree program provides art-related or technology-related education, then the university may appoint professional technicians of or above associate professorship to serve in the posts of department Chairperson, graduate institute Directors, and degree programs Directors in a concurrent capacity.
+
+To assist a university to meet its further development requirements, when a college, department, graduate institute, or program reaches a certain scale thereby creating an onerous burden of academic responsibilities, the university may create a deputy supervisory position to assist the academic supervisor of that college, department, graduate institute, or program undertake and promote those academic affairs.
+
+The terms of office, and procedures for the reappointment, and dismissal of Deans, department Chairperson, graduate institute Directors, and degree programs Directors, and for their deputies, and other matters to be observed shall be stipulated in the charter and by-laws of the university.
+
+The academic supervisor posts referred to in Paragraph 2 may be filled by foreign teachers in a concurrent capacity.
+
+### Article 14
+
+In order to achieve the objectives set out in Article 1, a university may establish various administrative units and subcommittees. The names of the administrative units, the purpose, areas of responsibility, and duties of each subcommittee, the qualifications that administrative supervisors must have, and other matters to be observed shall be stipulated in the charter and by-laws of the university.
+
+National universities may select and appoint teaching or research personnel to fill administrative supervisory posts at all levels, in a concurrent capacity, or select non-teaching staff to fill these posts, and each national university shall set out related details in its charter and by-laws.
+
+To assist a university to meet its further development requirements, when a university unit reaches a certain scale, thereby creating an onerous burden of responsibilities, the university may create a deputy supervisor position and appoint a teaching or research staff member to fill that position in a concurrent capacity, or select non-teaching staff to fill such posts, to assist the unit supervisor undertake and promote university business. The qualifications a deputy supervisor must have and other matters to be observed shall be stipulated in the charter and by-laws of the university.
+
+The provisions of the legislation pertaining to civil servants and educators shall apply to the appointment of non-teaching staff by national universities; the appointment of personnel staff and accounting staff shall also be undertaken in accordance with the provisions of relevant laws and regulations pertaining to personnel and accounting.
+
+Non-teaching staff working in non-supervisory positions in a national university may be employed on a contract basis and their employment is not subject to the provisions of the preceding paragraph. The rights and obligations of each such staff member shall be clearly specified in their contract.
+
+### Article 15
+
+Each university shall set up a university council to deliberate and make decisions regarding significant university matters. The university council shall comprise the university president, vice president(s), teacher representatives, heads of academic affairs units and administrative units, representatives of research personnel, representatives of non-teaching staff, student representatives, and representatives of other personnel.
+
+The numbers of personnel referred to in the preceding paragraph, apart from the president and vice president(s), and the criteria for council membership are as follows:
+
+1.The teacher representatives shall be elected and shall comprise at least one half of the university council; in principle, not be less two thirds of the teacher representatives shall be of or above associate professorship.
+
+2.The student representatives shall be elected and shall not be less than one  tenth of the total number of council.
+
+3.The method of selecting the other voting and non-voting members of the university council, and the proportion of the council that each other category of members must comprise shall be stipulated in the charter and by-laws of the university.
+
+On calculating the actual numbers of people in accordance with the proportions stipulated in Subparagraph 1 and Subparagraph 2 of the preceding paragraph, any number that includes a fraction shall be unconditionally rounded up to the next integer.
+
+University council meetings shall be convened by the president, at least once each semester. If an extraordinary university council meeting is requested by a minimum of one-fifth of the number of those council members who are required to attend meetings, the president shall convene the extraordinary meeting within fifteen days.
+
+When the university council considers it necessary, it may establish various committees or special task groups to deal with matters that the university council assigns to them; whenever such a committee or special task group is established, its name, duties, and the method of selecting its members shall be specified in the charter and by-laws of the university.
+
+### Article 16
+
+The university council shall discuss and deliberate on the following matters:
+
+1.Plans and associated budgets for development of the university.
+
+2.The charter and by-laws and material rules and regulations.
+
+3.The establishment of, alterations to, and cessation of operations of colleges, departments, graduate institutes, and affiliated organizations.
+
+4.Academic affairs, student affairs, general affairs, research, and other internal matters deemed material.
+
+5.Study and discussion of regulations governing teaching evaluation.
+
+6.Resolutions of committees and special task groups set up by the university council.
+
+7.Proposals put forward at council meetings and proposals put forward by the president.
+
+## Chapter 4 Ranking & Appointment of Teacher
+
+### Article 17
+
+Teachers in universities are ranked at the levels of professor, associate professor, assistant professor, and lecturer, and they engage in teaching, research, and providing academic advice and guidance.
+
+Universities may establish professorial chairs which shall be held by professors.
+
+Universities may establish teaching assistant positions to assist teaching and research work.
+
+Universities may engage research personnel to undertake research and professional technicians to undertake teaching; the regulations governing their ranking, qualifications, appointment, dismissal, suspension, non-renewal of appointment, appeals, remuneration, welfare, further study, retirement, bereavement payment, severance with pay, annual salary increments, and other rights and interests shall be prescribed by the Ministry of Education.
+
+### Article 18
+
+The appointments of university teachers are divided into three categories: initial appointments, appointment renewals, and long-term appointments. The appointment of all teachers shall be handled in accordance with the principles of fairness, impartiality, and openness. Universities on inviting applications for any initial appointment of a teacher shall announce vacancy details through the mass media or in academic journals. The qualifications that teachers must have and the procedures for their appointment shall be in accordance with the provisions of related laws.
+
+### Article 19
+
+In addition to complying with the provisions of the Teachers’ Act, a university may add provisions on the rights and obligations of its teachers to the rules and regulations of the university, and based on its academic research developments requirements, a university may prescribe separate provisions governing the suspension or non-renewal of teachers’ appointments. These provisions shall be deliberated over and approved by the university council before being implemented, and they thereby shall be incorporated into teachers’ appointment contracts.
+
+### Article 20
+
+The appointment, promotion, suspension, dismissal, and non-renewal of appointment of university teachers, and determination of reasons for a university teacher’s being laid off with severance pay shall be deliberated on by a teacher evaluation committee
+
+The regulations governing the administrative ranking, formation, and operations of teacher review committees shall be implemented after being deliberated on and approved by the university council.
+
+### Article 21
+
+Universities shall set up a teacher performance evaluation system to evaluate teachers’ teaching, research, academic advice and guidance, and other services they are providing, and such evaluations shall serve as references that matter to teachers’ promotion, renewal of appointment, long-term appointment, suspension, non-renewal of appointment, and incentive awards.
+
+Regulations governing the methods, procedures, and specific measures for undertaking the performance evaluations referred to in the preceding paragraph shall be implemented after being deliberated on and approved by the university council.
+
+### Article 22
+
+Universities shall set up a teachers appeal review committee to review appeals filed by teachers regarding dismissal, suspension, and other decisions which they do not accept. The regulations governing how the committee is formed and its operations shall be implemented after being deliberated on and approved by the university council.
+
+A decision handed down by the teachers’ appeal review committee does not affect the rights of any of the parties involved to initiate legal proceedings.
+
+## Chapter 5 Student Affairs
+
+### Article 23
+
+A student who has graduated from a public senior high school, a registered private high school, or an equivalent level school, or who has possessed equivalent educational levels, may enroll in a bachelor’s degree program.
+
+A person who has obtained a bachelor’s degree or possessed equivalent academic qualifications may enroll in a master’s degree program.
+
+A person who has obtained a master’s degree or possessed equivalent academic qualifications may enroll in a doctoral degree program. However, a student who is currently in their final year of a bachelor’s degree program and has outstanding academic results, or a student who is currently undertaking a master’s degree program and has outstanding academic results may apply to enroll directly in a doctoral degree program.
+
+The standards for recognition of the equivalent academic qualifications referred to in the preceding three paragraphs, and the regulations governing the direct enrollments in a doctoral degree program by students currently in their final year of a bachelor’s degree program or undertaking a master’s degree program referred to in the preceding paragraph, shall be prescribed by the Ministry of Education.
+
+### Article 24
+
+Each university shall handle student recruitment in accordance with the principles of fairness, impartiality, and openness, independently or jointly with one or more other universities. Universities shall draw up regulations governing the admission methods (including examinations), admission quotas, verification of the identity of each entrance examinee, avoidance of conflicts of interest, review of entrance examination results, procedures for handling appeals lodged by entrance examinee, and other matters to be observed, and implement the regulations after their being submitted to and approved by the Ministry of Education.
+
+A university may organize a university recruitment committee to handle student recruitment and admission or it may participate with one or more other universities to organize a joint university admission committee to handle student recruitment and admissions. A joint university admission committee shall engage in joint discussions of the matters referred to in the preceding paragraph and jointly draft the regulations referred to there. The jointly drafted regulations shall be submitted to the Ministry of Education for approval before their implementation. Internal university recruitment committee and joint university admission committees may commission academic or professional organizations or foundation to handle matters associated with admission examinations.
+
+The university recruitment committee or the joint university admission committee shall formulate the regulations governing the organization and tasks of the internal university recruitment committee and joint university admission committees referred to in the preceding paragraph, the eligibility criteria for academic or professional organizations or foundation to be commissioned, the scope of business and responsibilities of such commissioned bodies, and other related matters, and shall submit a copy of the regulations to the Ministry of Education for reference.
+
+In universities where art-related departments and/or institutes are established, the eligibility criteria and methods of admission (including examinations) to enroll in such a department or institute shall be handled in accordance with the Arts Education Act and related regulations, as well as the university’s admission regulations.
+
+For all entrance examinations that a university conducts, it shall formulate rules governing examination venues and regulations governing how any contraventions of those rules will be dealt with and set these rules and regulations out clearly in its student admission information material.
+
+Any examinee in contravention of the examination venue procedures or in any way that compromises the fairness of the examination shall be dealt with in accordance with relevant legislation, the examination venue rules and the regulations governing dealing with contraventions of those rules referred to in the preceding paragraph, and the provisions of the academic regulations of the university.
+
+### Article 25
+
+Persons in any of the following categories who are entering a university to study for a degree is not subject to the published admission quotas or methods referred to in the preceding article: students from any area that has suffered a major disaster, children of parents who have been assigned to work overseas by the government, students who have participated in an international academic or skills-based competition and received excellent results, students who have been awarded for their excellent sports achievements, veterans, students from Mongolia or Tibet, persons who applied for naturalization in accordance with Subparagraphs 1 to 3, Paragraph 1, Article 4 of the Nationality Act and had their application approved, overseas compatriot students, students from the Mainland Area, and foreign students.
+
+The students from the Mainland Area referred to in the preceding paragraph are not permitted to be admitted to colleges, departments, graduate institutes, or degree programs that the Ministry of Education, after its consultation with relevant government agencies, has identified and publicly designated as involving national security and state secrets.
+
+Except for those pertaining to students from the Mainland Area which shall be approved by the Executive Yuan after being drafted by the Ministry of Education, the regulations governing the quotas, admission methods, eligibility criteria, the procedure schedule, formation of the student recruitment committee, selection principles, and other matters regarding the rights and responsibilities of examinees, pertaining to the students referred to in Paragraph 1 and enrolled in a university to study for a degree, shall be prescribed by the Ministry of Education.
+
+### Article 26
+
+The period in which a student should complete a bachelor’s degree program is, in principle, four years. However, this period may be extended by one or two years to accommodate the nature of particular departments, graduate institutes, colleges, and programs, which may add a further internship period of between a half year and two years, to meet actual requirements. The duration of study for a master's degree is one to four years, and the duration of study for a doctoral degree is two to seven years.
+
+The durations of study referred to in the preceding paragraph may be shortened or extended. The eligibility criteria and application procedures for such adjustments shall be formulated by the university and reported to the Ministry of Education for reference.
+
+Students with physical or mental disabilities studying for a bachelor's degree may extend their duration of study by up to four years, to accommodate their physical or mental condition and meet their learning needs, and regulations pertaining to mandatory withdrawal because of academic results are not applicable to these students.
+
+A student may extend their duration of study on account of pregnancy, childbirth, or looking after one or more children aged three or younger.
+
+The number of course credits to be completed to be eligible to graduate from the bachelor’s degree program referred to in Paragraph 1 and the method for calculating course credits shall be prescribed by the Ministry of Education. The requirements for the number of course credits to be completed for graduation and the various examinations and assessments that must be passed to obtain a master's or doctoral degree shall be set by the university and reported to the Ministry of Education for reference.
+
+### Article 27
+
+If a student completes the prescribed credits for a credit program, the university shall issue the program certificate of credit completion to the student; if a student completes the credits required for a particular degree program and has passed the associated examinations and assessment with satisfactory results, the university shall award that degree to the student, in accordance with the law.
+
+### Article 28
+
+Each university shall incorporate rules governing university students sub-majors at that university or another university, studying a double major, studying an elective at another university, the retaining of admission eligibility, transfer to another educational institution, transfer to another department (section) or graduate institute, transfer to another degree program, student suspension of their studies, withdrawal from studies, cancellation of student status, assessment and review of grades and results, credit transfer and waiver and summer programs, assessment and recognition of foreign academic records and credentials, handling of student status for students who do military service or are overseas, students being simultaneously enrolled in two different educational institutions, and other matters related to student status, into its academic regulations, and the university shall submit a copy of the regulations to the Ministry of Education for future reference.
+
+The principles for the recognition of foreign academic credentials and the procedures for their certification referred to in the preceding paragraph and other related matters to be observed shall be prescribed by the Ministry of Education.
+
+### Article 29
+
+With prior approval, an enrolled university student may study for a degree in a domestic university and a foreign university at the same time. Each of the universities shall incorporate related matters into its academic rules in accordance with relevant laws and regulations and submit them to the Ministry of Education for reference.
+
+### Article 30
+
+Students studying for a degree at any level in accordance with the provisions of this Act may earn some of the course credits in remote education mode. The regulations governing the proportion of credits that may be earned in distance learning mode, the prerequisites, and other related matters shall be prescribed by the Ministry of Education.
+
+### Article 31
+
+Universities may offer continuing education based on the principle of studying subjects or earning credits. However, any student who has earned the course credits stipulated by a department or graduate institute, passed examination and assessment with satisfactory results, and had passed the entrance examination may be awarded a degree in accordance with the provisions of the preceding paragraph.
+
+The implementation regulations governing the continuing education referred to in the preceding paragraph shall be prescribed by the Ministry of Education.
+
+### Article 32
+
+To ensure sound and effective student learning and establish codes of conduct for students, universities shall formulate academic regulations and regulations governing awards and penalties, and submit them to the Ministry of Education for reference.
+
+### Article 33
+
+To enhance educational achievement, each university shall invite the elected student representatives to attend all meetings on matters related to students’ academic activities and programs, and life, and the formulation of regulations governing awards and penalties.
+
+Each university shall advise and assist its students to form a student association by holding elections in which all the students of the university have a vote, and to set up other associated self-governing organizations, in order to enhance the effectiveness of students’ on-campus learning and their ability to act autonomously.
+
+Students are ipso facto members of the student association referred to in the preceding paragraph. The student association may collect membership fees from its members; the university shall collect such membership fees from the students on behalf of the student association on its request.
+
+Universities shall establish a student appeal system to handle cases of appeals made by any student, or by the student association, or by any other student self-governing organization against some university disciplinary action, administrative act, or some other university measure or decision, to ensure that the rights and interests of students are protected.
+
+The regulations governing the handling of the matters referred to in the four preceding paragraphs shall be set out in the charter and by-laws of each university.
+
+### Article 33-1
+
+When handling cases of the appeals referred to in Paragraph 4 of the preceding article, universities shall act in accord with the principles of objectivity, fairness, and professionalism and provide the appellant sufficient opportunity to make a statement and put forward their case.
+
+The university shall inform the appellant, in writing or through some other appropriate means, of the decision made after a review of their appeal, and of the remedy procedures available if the appellant is not satisfied with the decision.
+
+Details of the student appeal system shall be incorporated into the Student Handbook and be widely publicized.
+
+### Article 33-2
+
+If the appellant referred to in the preceding article who has lodged an appeal against an administrative act taken by the university is not satisfied with the decision that ensues, the person may initiate any administrative appeal available to them under the law.
+
+If the appellant who has lodged an appeal against the university regarding disciplinary action, or some other university measure or decision, which is not included in the administrative act category is not satisfied with the university’s decision that ensues, depending on the nature of the appeal, the person may initiate proceedings available to them under the law to seek a remedy.
+
+### Article 34
+
+Each university shall arrange group insurance for its students. The regulations governing the scope of the cover, insurance benefit amounts, premium payment method, insurance period, insurance benefit payment standards, rights and obligations, and other related matters shall be set by each university. When a student files an insurance claim, the university shall actively provide the student with assistance.
+
+### Article 35
+
+The particular fees collected by a university from its students, the uses to which the fees collected are put, and the fee amounts are not permitted to go beyond the related stipulations made by the Ministry of Education.
+
+The government shall organize student loans to assist students in attending university; loans may be provided to cover the expenses of tuition and miscellaneous fees, internships, books, accommodation, living costs, student group insurance premiums, and overseas study or research; the regulations governing loan eligibility criteria, loan amounts, rights and obligations, and other related matters to be observed shall be prescribed by the Ministry of Education.
+
+## Chapter 6 Supplementary Provisions
+
+### Article 36
+
+Each university shall draft the charter and by-laws in accordance with the provisions of this Act and shall implement them after submission to and approval by the Ministry of Education.
+
+### Article 37
+
+Any parts of the provisions of Article 25, Article 26, and Article 37 of the Act of Governing the Appointment of Educators that are in conflict with this Act shall no longer be applicable.
+
+### Article 38
+
+To optimize their provision of education, training, research, and services, universities may engage in industry-academia collaboration with government agencies, enterprises or institutions, private sector organizations, and academic research institutions; the associated implementation regulations shall be prescribed by the Ministry of Education.
+
+### Article 39
+
+With the exception of information and material classified confidential in accordance with law that shall not be permitted to be released, universities shall, in principle, proactively make the information about university affairs available and may provide it upon application from the public.
+
+### Article 40
+
+The provisions of this Act shall apply to the establishment, organization, and educational facilities of universities that offer teacher education programs and private universities, except when specific provisions of the Teacher Education Act or the Private School Law address these matters.
+
+The central government and the government of any special municipality may establish an open university. The organization and educational facilities of such universities shall be prescribed in separate legislation.
+
+### Article 41
+
+The enforcement rules of this Act shall be prescribed by the Ministry of Education..
+
+### Article 42
+
+This Act shall come into effect on the date of promulgation.
+
+The date of effect of the amendment to Article 25 of this Act promulgated on August 19, 2010 shall be prescribed by the Executive Yuan.
+
+## History
+
+\1. Promulgated on January 12, 1948.
+
+\2. Amendment to Articles 1 ~ 40 of University Act , promulgated on August 24, 1972.
+
+\3. Amendment to Articles 34 of University Act , promulgated on April 16, 1982.
+
+\4. Amendment to Articles 1 ~ 39 of University Act , promulgated on July 30, 1982.
+
+\5. Amendment to Articles 1 ~ 32 of University Act per Presidential Decree No. Hua-Zong-Yi-Yi-Zi-0030 dated January 5, 1994.
+
+\6. Amendment to Article 3 and 28 of University Act per Presidential Decree No. Hua-Zong-Yi-Yi-Zi-09100095590 dated May 15, 2002.
+
+\7. Addition of Articles 12-1, 22-1, 25-1, 26-1 and 27-1, amendment to Article 12, 18, 23 and 25 of University Act per Presidential Decree No. Hua-Zong- Yi-Yi-Zi- 09200017730 dated February 6, 2003.
+
+\8. Amendment to Articles 1 ~ 42 of University Act per Presidential Decree No. Hua-Zong-Yi-Yi-Zi-09400212621 dated December 28, 2005.
+
+\9. Amendment to Article 26 of University Act per Presidential Decree No. Hua-Zong-Yi-Yi-Zi-09500186511 dated January 3, 2007.
+
+\10. Amendment to Article 26 of University Act per Presidential Decree No. Hua-Zong-Yi-Yi-Zi-09800284791 dated November 18, 2009.
+
+\11. Amendment to Article 35 of University Act per Presidential Decree No. Hua-Zong-Yi-Yi-Zi- 09900140671 dated June 9, 2010.
+
+\12. Amendment to Article 25 and 42 of University Act per Presidential Decree No. Hua-Zong-Yi-Yi-Zi-09900223411 dated September 1, 2010.
+
+The Act was set to be effective since September 3, 2010 by the Executive Yuan Order yuan-tai-jiao No. 0990103085A on September 3, 2010
+
+\13. Amendment to Article 7, 9 and 10 of University Act per Presidential Decree No. Hua-Zong-Yi-Yi-Zi- 10000015611 dated January 26, 2011.
+
+\14. Addition of Articles 33-1 and 33-2, amendment to Article 5, 9, 15 and 33 of University Act per Presidential Decree No. Hua-Zong- Yi-Yi-Zi- 10400153631 dated December 30, 2015.
+
+\15. Amendment to Article 25 of University Act per Presidential Decree No. Hua-Zong- Yi-Yi-Zi- 10800134471 dated December 11, 2019.

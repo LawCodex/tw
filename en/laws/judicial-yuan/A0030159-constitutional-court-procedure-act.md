@@ -1,0 +1,1077 @@
+---
+title: "Constitutional Court Procedure Act"
+title_zh: "憲法訴訟法"
+identifier: "A0030159"
+type: act
+law_level: "法律"
+category: "司法＞院本部＞釋憲目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1948-09-16
+last_amended: 2025-01-23
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=A0030159"
+retrieved: 2026-10-12
+---
+
+# Constitutional Court Procedure Act
+
+> Translation. The Chinese text ([zh/laws/judicial-yuan/A0030159-constitutional-court-procedure-act.md](../../../zh/laws/judicial-yuan/A0030159-constitutional-court-procedure-act.md)) is authoritative.
+
+## Chapter I. General Principles
+
+#### Article 1
+
+(The Constitutional Court and Its Jurisdiction)
+
+The Justices of the Judicial Yuan constitute the Constitutional Court, which, in accordance with this Act, has jurisdiction in respect of the cases below:
+
+(1) constitutionality of laws and constitutional complaints;
+
+(2) disputes between constitutional organs;
+
+(3) impeachment of the President or the Vice President;
+
+(4) dissolution of unconstitutional political parties;
+
+(5) local self-government; and
+
+(6) uniform interpretation of statutes and regulations.
+
+Where other legislation provides for petitions to the Judicial Yuan for interpretation, such petitions shall comply with the comparable provisions of this Act.
+
+#### Article 2
+
+(The Presiding Justice of the Constitutional Court)
+
+The Chief Justice, who serves as the President of the Judicial Yuan, shall be the presiding Justice of the proceedings. If the Chief Justice is unable to preside over the proceedings due to any cause, the Justice, who serves as the Vice President of the Judicial Yuan, shall act as the presiding Justice instead. If neither of the two Justices is able to preside, the most senior Justice sitting in the proceedings shall act as the presiding Justice; the eldest Justice shall otherwise preside over the proceedings in the case of equal seniority.
+
+#### Article 3
+
+(The Setting Up of Chambers and Their Composition and Presiding Justice)
+
+The Constitutional Court may set up several Chambers. Each Chamber shall consist of three Justices and exercise powers in accordance with this Act.
+
+The President and the Vice-President of the Judicial Yuan shall sit in and preside over one Chamber, respectively. Each of the other Chambers shall be presided over by the most senior Justice, or in the case of equal seniority, the eldest Justice, thereof.
+
+Chamber membership shall be altered every two years.
+
+#### Article 4
+
+The Judicial Yuan shall make the Rules of the Constitutional Court.
+
+The Rules referred to in the preceding Paragraph shall be adopted by all Justices.
+
+Where the number of incumbent Justices falls short of the number prescribed in Article 5, Paragraph 1 of the Additional Articles of the Constitution due to expiration of term, resignation, removal from office, or death, the President shall submit nominees for all vacancies within two months.
+
+#### Article 5
+
+(Application Mutatis Mutandis of the Court Organization Act)
+
+Except otherwise provided in this Act or the Rules of the Constitutional Court, the provisions of the Court Organization Act shall apply mutatis mutandis to the following matters in respect of the proceedings of the Constitutional Court: the judicial year, case management, courtroom decorum, the use of languages, and the publication of judicial decisions.
+
+## Chapter II. General Procedural Provisions
+
+### Section 1 Parties and Advocates
+
+#### Article 6
+
+(Parties)
+
+Reference to parties in this Act refers to petitioners and respondents in cases governed by:
+
+(1) Chapter III (constitutionality of laws and constitutional complaints): the highest state organ, the Legislators, the court, and the person lodging a petition;
+
+(2) Chapter IV (disputes between constitutional organs): the petitioning highest state organ and the respondent organ;
+
+(3) Chapter V (impeachment of the President or the Vice President): the petitioning impeaching authority and the impeached;
+
+(4) Chapter VI (dissolution of unconstitutional political parties): the petitioning authority and the respondent political party;
+
+(5) Chapter VII (local self-government): the petitioning local self-government body or the petitioning legislative or executive authorities thereof; or
+
+(6) Chapter VIII (uniform interpretation of statutes and regulations): the person lodging a petition.
+
+The competent authorities in charge of the impugned laws or the authorities otherwise designated by the Constitutional Court shall be regarded as the respondent under the preceding Paragraph.
+
+#### Article 7
+
+(Appointed and Designated Petitioners)
+
+Multiple petitioners may appoint no more than three persons among themselves as the appointed petitioners to lodge the petition on behalf of all the petitioners; provided that the withdrawal of the petition requires the consent of all the petitioners.
+
+In a petition where there are more than ten petitioners and none is appointed to act on their behalf according to the preceding Paragraph, the Chamber may order the petitioners to make the pertinent appointment within a specified period of time. If the petitioners fail to do so within the specified period, the Chamber may make the appointment sua sponte.
+
+When any of the appointed or designated petitioners has lost her or his capacity to represent due to death or for any other reason, the remaining appointed or designated petitioners may conduct acts of litigation on behalf of all the petitioners. When there exists no other appointed or designated petitioner, the provisions of the preceding Paragraph shall apply mutatis mutandis.
+
+After appointed or designated petitioners are in place in a petition pending before the Constitutional Court, the rest of the petitioners shall be withdrawn from the proceeding.
+
+#### Article 8
+
+(Advocates)
+
+Parties may appoint attorneys as their advocates. For oral argument sessions, the parties must appoint attorneys as their advocates except in cases where
+
+(1) the parties, their representatives, or their statutory agents have the qualifications of judges, attorneys, or advocates as provided for by Paragraph 3, Subparagraph 1;
+
+(2) the respondents are those referred to in Article 6, Paragraph 2; or
+
+(3) the impeached has appointed defense counsels.
+
+Each party shall appoint not more than three advocates.
+
+A person who is not an attorney may act as an advocate if she or he holds one of the positions below:
+
+(1) professor, associate professor or assistant professor of law; or
+
+(2) the legal officer of a party which is a legal person under public law, an authority, or an unincorporated association under public law.
+
+Appointment of persons who are not attorneys as set out in the preceding Paragraph as advocates requires the permission of the presiding Justice of the Constitutional Court.
+
+In cases set out in Paragraph 1, Subparagraph 1, qualification certificates must be produced; in cases where attorneys are appointed as the advocates, the powers of attorney and the appointees' qualification certificates must be produced.
+
+An advocate may not appoint a sub-agent.
+
+### Section 2 Disqualification of Justices
+
+#### Article 9
+
+(Grounds for Disqualification Sua Sponte)
+
+A Justice must recuse herself or himself sua sponte from the conduct of the proceedings, where
+
+(1) she or he, her or his spouse, former spouse, or fiance is a party to the case;
+
+(2) she or he is or was a party's statutory agent, representative; she or he is the head or a member of the party's household, or the party's relative within the third degree of consanguinity or within the second degree of affinity;
+
+(3) she or he has previously given evidence or acted as an expert witness in the case;
+
+(4) she or he has previously taken part in the making of the relevant court decision or arbitration award that underlies the case;
+
+(5) she or he has previously taken part in the petition stage of the case in her or his official capacity of the time;
+
+(6) she or he has previously served as the advocate or the defense counsel in the case; or
+
+(7) in the case that the relevant Justice was a practicing attorney, other colleagues of her or his law firm then served as the advocate or the defense counsel in the case.
+
+#### Article 10
+
+(Grounds for Disqualification by Motion)
+
+A party may file a motion to disqualify a Justice with the Constitutional Court, where
+
+(1) the relevant Justice fails to recuse herself or himself sua sponte when any of the conditions set out in the preceding Article is satisfied; or
+
+(2) there are reasonable grounds for believing that the relevant Justice may otherwise perform her or his duties with bias.
+
+After a party has made a motion or statement in respect of the case, she or he may not request the relevant Justice to be disqualified under Subparagraph 2 of the preceding Paragraph except where the ground for disqualification does not arise or become known to her or him until after such a motion or statement has been made.
+
+The motion under Paragraph 1 must set out the reasons in writing.
+
+The challenged Justice may not take part in the Constitutional Court's ruling on the motion to request her or his disqualification.
+
+#### Article 11
+
+(Disqualification by Consent)
+
+In circumstances other than those set out in the preceding two Articles, a Justice may recuse herself or himself by the consent of a majority of all the other Justices.
+
+#### Article 12
+
+(The Total Number of the Justices in the Case of Disqualification)
+
+A Justice who is disqualified in accordance with this Act will not count towards the total number of the incumbent Justices.
+
+#### Article 13
+
+(Disqualification of Clerks and Interpreters)
+
+The provisions governing the disqualification of Justices shall apply mutatis mutandis to clerks and interpreters.
+
+### Section 3 Pleadings and Petitions
+
+#### Article 14
+
+(Contents of Pleadings)
+
+Except otherwise provided in this Act, every pleading filed by a party shall include the particulars below:
+
+(1) the name, the identification document number, and the domicile or the residence of the filing party; in the case that the filing party is a legal person, the name and the address of its office or place of business; in the case that the filing party is an authority or an unincorporated association, its name and location;
+
+(2) the name and the domicile or the residence of the statutory agent, the representative or the administrator, where applicable, and their relationship with the filing party who is a legal person, an authority, or an unincorporated association;
+
+(3) the name, the occupation, and the domicile or the residence of the advocate or the defense counsel, where applicable;
+
+(4) claims;
+
+(5) statements of fact and law;
+
+(6) evidence necessary to prove the fact or to make a substantial preliminary showing;
+
+(7) the titles of the annexes and the number thereof;
+
+(8) the Constitutional Court; and
+
+(9) the date of the pleadings being filed.
+
+Every pleading shall be signed by the filing party, the statutory agent, the representative, and the administrator, or the advocate, where applicable, or be affixed with the seal thereof.
+
+The Judicial Yuan shall make the rules governing the format of pleadings and the particulars therein.
+
+The presiding Justice of the proceedings shall order a pleading not filed in the prescribed form or lacking any required particulars to be rectified within a specified period of time.
+
+A party may file a pleading with the Constitutional Court by electronic means. The Judicial Yuan shall make the rules governing the scope, procedure, and effect of electronic filing and other relevant matters as it sees fit.
+
+In the case that a party files a pleading electronically without compliance with the rules referred to in the preceding Paragraph, the filing is invalid.
+
+#### Article 15
+
+(Filing and Screening of Petition Briefs)
+
+The petition brief must be filed with the Constitutional Court in writing and include the particulars as required by this Act together with relevant evidence and supporting documents.
+
+Where any of the circumstances below arises, the Chamber may dismiss the petition under the preceding Paragraph by a unanimous order, provided that when the pleading's defect is corrigible, the presiding Justice of the relevant Chamber shall require the petitioner to rectify it within a specified period of time:
+
+(1) the petitioner lacks the capacity to be a party;
+
+(2) the petitioner is not legally represented by her or his statutory agent, representative, or administrator to conduct acts of litigation;
+
+(3) the petition is lodged by an advocate who lacks the authority;
+
+(4) the petition is lodged after the expiry of procedural time limits;
+
+(5) the petition is lodged for matters that are explicitly excluded from petition or re-petition by this Act;
+
+(6) the petition challenges the decisions of the Constitutional Court or the Chambers thereof; or
+
+(7) the petition is not lodged in the prescribed form, or not in conformity with other requirements.
+
+In the case that the petition brief does not state the grounds for adjudication, the Chamber may dismiss the petition by a unanimous order without first requiring it to be rectified.
+
+#### Article 16
+
+(Travel Time)
+
+If a party resides outside the location of the Constitutional Court, her or his travel time will not count towards the calculation of procedural time limits unless her or his advocate resides in the location of the Constitutional Court and is able to conduct required acts of litigation within the relevant procedural time limits.
+
+The Judicial Yuan shall make rules governing the calculation of travel time under the preceding Paragraph.
+
+#### Article 17
+
+(Reply Briefs)
+
+Except in the case of dismissing a petition by an order, the Constitutional Court shall serve the petition brief on the respondent and may require her or him to submit a reply brief within a specified period of time.
+
+#### Article 18
+
+(Publication of Petition Briefs and Reply Briefs)
+
+After the Constitutional Court finds a petition admissible, the petition brief and the reply brief shall be published on the Constitutional Court's website.
+
+The petition brief and the reply brief containing matters that should be kept confidential may be published after required redaction.
+
+The Judicial Yuan shall make the rules governing the methods of publication of the petition brief and the reply brief and the matters that shall be kept confidential.
+
+#### Article 19
+
+(Summons of Parties, Interested Persons, and Experts)
+
+As is required by the case, the Constitutional Court may, on its own motion or the party's motion, summon the parties and the interested persons to appear in court to give their opinions. The Court may also solicit expert opinion or information on relevant issues from appointed experts, scholars, authorities or associations.
+
+The Constitutional Court shall serve the persons referred to in the preceding Paragraph with the summons and the notice of designation.
+
+The persons or associations other than the parties and interested persons who are solicited to submit expert opinion or information under Paragraph 1 shall reveal the information below:
+
+(1) whether they have collaborated with the parties, interested persons, or their agents on the preparation or submission of the solicited expert opinion or information;
+
+(2) whether they have received remuneration or other forms of financial assistance from the parties, interested persons, or their agents in the preparation or submission of the solicited expert opinion and information; if so, the value or amounts thereof received; and
+
+(3) the personal details of those who have offered them remuneration or other forms of financial support and the value or amounts thereof received.
+
+#### Article 20
+
+(Amici Curiae)
+
+Any person, authority, or association, other than the parties, who considers herself or himself having an interest in a case pending before the Constitutional Court, may make a motion to the Court, subject to its permission by an order, for the submission of expert opinion or information to be considered within the period of time prescribed by the Constitutional Court.
+
+The motion under the preceding Paragraph must set out the interests concerned in writing.
+
+Paragraph 3 of the preceding Article shall apply mutatis mutandis when a third-party person or association submit expert opinion or information as permitted by a court order.
+
+A third-party person, authority, or association who is permitted by a court order to submit expert opinion or information must appoint an agent. The provisions of Article 8 shall govern the qualifications and number of such agents.
+
+As is required by the case to summon those permitted third-party persons, authorities, or associations to appear in court, the Constitutional Court shall serve them with the summons.
+
+In the case that the expert opinion or information submitted by the person, authority or association under in Paragraph 1 is cited by a party, it shall be regarded as the citing party's own statement.
+
+#### Article 21
+
+(Time and Conditions for Petition Withdrawal)
+
+A petitioner may, prior to the announcement or publication of the decision, withdraw the petition in whole or in part; provided that such a withdrawal is subject to the permission of the Constitutional Court where the petition concerns principles of constitutional significance.
+
+If the oral argument session has been held in a case where a respondent exists, the withdrawal referred in the preceding Paragraph requires the consent of the respondent.
+
+The withdrawal of a petition must be made in writing. Notwithstanding, it may be made orally at the oral argument session and recorded in the transcript.
+
+In the case that the withdrawal is made orally in accordance with the preceding Paragraph, the transcript shall be served on the respondent if she or he fails to appear at the oral argument session.
+
+The respondent is deemed to have agreed to the withdrawal if she or he does not enter a demurrer within ten days, from the date of the oral argument session where the respondent appeared but failed to express their agreement or disagreement, or, from the date of the service of the transcripts where the respondent fails to appear at the oral argument session, or, from the date of the withdrawal pleadings where the withdrawal is made in writing.
+
+The petitioner may not re-lodge a petition which has been withdrawn.
+
+#### Article 22
+
+(Fees)
+
+Proceedings before the Constitutional Court are free of charge.
+
+#### Article 23
+
+(Access to the Court Documents)
+
+Parties, advocates, and defense counsels may apply for reading, transcribing, photocopying, or photographing the documents included in the dossier, or request a duplicate copy thereof with fees paid in advance.
+
+A third party may lodge the application referred to in the preceding Paragraph either with the parties' consent, or by a substantial preliminary showing of her or him being an legal interested person.
+
+The applications set out in the preceding two Paragraphs shall be approved by an order of the respective Chamber.
+
+The Judicial Yuan shall make the rules governing the access to the Court documents and its fee schedule.
+
+### Section 4 Oral Argument
+
+#### Article 24
+
+(Consolidation and Division of Proceedings)
+
+The Constitutional Court may consolidate multiple petitions into a joint case and render a single decision for all the consolidated petitions. Notwithstanding, the Constitutional Court must consolidate all the cases having been ruled as admissible into a joint case if the underlying petitions concern the same impugned laws or disputes.
+
+The Constitutional Court may divide multiple claims brought forward in a petition and hear or decide each claim separately.
+
+#### Article 25
+
+(Types of Cases Requiring Oral Argument)
+
+The cases referred to in Chapters 5 and 6 shall be decided after oral argument.
+
+Judgments may be rendered without oral argument in cases other than those referred to in the preceding Paragraph.
+
+#### Article 26
+
+(Principle of Immediacy)
+
+In an oral argument session there must be at least two-thirds of the total number of the incumbent Justices present. Justices not present in the oral argument session may not participate in the deliberation on and the making of a decision.
+
+The Constitutional Court must pronounce its decision within three months after the closing of oral argument. The time limit for pronouncement may be extended by two months when necessary.
+
+#### Article 27
+
+(Open Court)
+
+Oral arguments shall be held in open court sessions and be broadcast by appropriate methods. In cases where an oral argument in open court may have negative effect on national security, public order or good morals, or may cause serious damage to an individual's life, body, privacy or trade secret, it may be held in private and the requirement for broadcasting may be waived.
+
+The Judicial Yuan shall make the rules governing public attendance in oral argument sessions of the Constitutional Court, the audio and video recordings of oral arguments, and their use and storage.
+
+#### Article 28
+
+(Oral Argument Summons and the Result of Failure to Appear in Court)
+
+The Constitutional Court shall summon the parties, their advocates and interested persons, where applicable, to appear in oral argument sessions.
+
+Except otherwise provided in this Act, the Constitutional Court may render a judgment, regardless, if the advocate or the unrepresented party as permitted by Article 8 fails to appear in court without a good reason.
+
+#### Article 29
+
+(Transcripts of Oral Arguments)
+
+The Constitutional Court shall produce oral argument transcripts.
+
+### Section 5 Decisions
+
+#### Article 30
+
+Except otherwise provided in this Act, a judgment shall be rendered by a majority of the total number of the incumbent Justices of the Constitutional Court with a quorum of two-thirds of the total number of the incumbent Justices thereof taking part in the proceedings.
+
+The number of Justices taking part in the proceedings under the preceding paragraph shall not be fewer than ten. Where a declaration of unconstitutionality is rendered, the number of Justices in the majority shall not be fewer than nine.
+
+Where the proceedings cannot be commenced due to a lack of quorum as prescribed in the preceding paragraph, the Constitutional Court may issue an order dismissing the petition by a majority of the total number of the incumbent Justices.
+
+Where the Constitutional Court renders a preliminary injunction order pursuant to Article 43, a judgment upholding the impeachment pursuant to Article 75, or a judgment dissolving an unconstitutional political party pursuant to Article 80, the quorum and the decision threshold as prescribed in the preceding two paragraphs shall apply.
+
+Where the number of Justices recused pursuant to Article 12 of this Act exceeds seven, all of the Justices who are not recused shall participate in the proceedings, and a judgment or an order shall be rendered only by three-quarters of the non-recused Justices; the requirements set forth in Paragraph 2 shall not apply.
+
+Where the number of the non-recused Justices referred to in the preceding paragraph falls short of seven, no case shall be adjudicated.
+
+#### Article 31
+
+(General Rules on Vote Threshold for Orders)
+
+Except otherwise provided in this Act, an order shall be rendered by a majority of the Justices who have taken part in the proceedings with a quorum of a majority of the total number of the incumbent Justices of the Constitutional Court taking part in the proceedings.
+
+Except otherwise provided in this Act, an order rendered by a Chamber requires the consent of a majority of the members thereof.
+
+#### Article 32
+
+(General Rules on Vote Threshold for Admissibility)
+
+Any inadmissible or manifestly unfounded petition shall be dismissed by an order of the Constitutional Court.
+
+Except otherwise provided in this Act, an order that grants admission to a petition requires the consent of a majority of the Justices who have taken part in the proceedings with a quorum of two-thirds of the total number of the incumbent Justices of the Constitutional Court taking part in the proceedings. Failing the required majority, the petition shall be dismissed by an order.
+
+A dismissal order must give reasons and indicate the names of Justices taking part in the rendering of the order and their concurring or dissenting opinions where applicable.
+
+#### Article 33
+
+(Contents of Judgments)
+
+A judgment shall be in writing and include the particulars below:
+
+(1) the names and the domiciles or the residences of all the parties; in the case that the parties include a legal person, the name and the address of its office or place of business; in the case that the parties include an authority or an unincorporated association, its name and location;
+
+(2) the name and the domicile or the residence of the statutory agent, the representative and the administrator, where applicable, and the their relationship with a legal person, an authority, or an unincorporated association;
+
+(3) the name and the domicile or the residence of the advocate or the defense counsel, where applicable;
+
+(4) the subject matter;
+
+(5) the holding;
+
+(6) the reasoning;
+
+(7) the date of the judgment being rendered; and
+
+(8) the Constitutional Court.
+
+A judgment shall indicate the names of the Justices taking part in its rendering, include their concurring and dissenting opinions, and identify the Justice who authors the opinion of the court.
+
+In the holding of a judgment, the Constitutional Court may designate the relevant authority to implement the judgment and specify the types and methods of implementation.
+
+Under the reasoning part are to be included the gist of the parties' statements, the grounds of admissibility and the legal reasoning underlying the holding.
+
+#### Article 34
+
+(Application Mutatis Mutandis of Judgments to Orders)
+
+Paragraphs 1 and 3 of the preceding Article shall apply mutatis mutandis to an order.
+
+Except otherwise provided in this Act, an order may be rendered without giving reasons.
+
+#### Article 35
+
+(Types of Opinions)
+
+A Justice who agrees with the holding of a decision but is not fully satisfied with its reasoning may issue a concurring opinion.
+
+A Justice who, in deliberations on the case, has expressed disagreement with the holding of a decision in part or in whole, may issue an opinion dissenting in part or in whole.
+
+#### Article 36
+
+(Pronouncement, Publication, and Service of Decisions)
+
+A judgment rendered with oral argument must be pronounced in public. A judgment rendered without oral argument must be published.
+
+An order rendered with oral argument shall be pronounced in public. An order which concludes the proceedings shall be published.
+
+Original copies of a decision shall be served on the parties and the designated implementation authority; provided that a dismissal order shall be served on the petitioner only.
+
+The Constitutional Court shall publish and serve the concurring and dissenting opinions together with the decision.
+
+#### Article 37
+
+(Effective Date of Decisions)
+
+A decision shall take effect on the date of pronouncement or publication.
+
+An order which is not pronounced or published shall take effect on the date of service.
+
+#### Article 38
+
+(Erga Omnes Effect of Decisions)
+
+A judgment shall be binding on all the authorities and the people. Every authority has an obligation to implement the judgment.
+
+The preceding Paragraph shall apply mutatis mutandis to an order on the merits by the Constitutional Court.
+
+#### Article 39
+
+(Finality of Decisions)
+
+Decisions of the Constitutional Court and the Chambers thereof are non-appealable.
+
+#### Article 40
+
+(Res Judicata)
+
+A party shall not re-petition the same case in respect of which the Constitutional Court has rendered a judgment or an order on the merits.
+
+#### Article 41
+
+(Binding Effect of Judgments on Unconsolidated Relevant Cases)
+
+The Constitutional Court shall declare by an order that the judgments of the cases under Chapters 3, 4, 7 and 8 shall have effect in respect of other petitions challenging the same impugned laws or arising from the same disputes but not being heard together in a joint oral argument session, provided that those other petitions have been lodged with the Constitutional Court prior to the pronouncement or publication of the judgments and satisfied the admissibility requirements.
+
+The procedural provisions governing constitutional interpretation and those governing uniform interpretation of statutes and regulations specified in Articles 32 and 87, respectively, shall apply mutatis mutandis to the rendering of the order referred to in the preceding Paragraph; such an order must be given reasons.
+
+The provisions of the preceding two Paragraphs do not apply to the cases governed by Articles 59 and 83.
+
+#### Article 42
+
+(Petition for Rehearing)
+
+For cases concerning constitutionality of laws or disputes between constitutional organs, except as provided in Paragraphs 2 or 3 of this Article, no one shall lodge a petition in respect of the same impugned laws or disputes that have been previously declared short of unconstitutionality or otherwise decided pursuant to the Constitution in a Judicial Yuan Interpretation or a judgment of the Constitutional Court.
+
+All courts, persons, or the legislative or executive authorities of the local self-government bodies may, in accordance with the procedural provisions of Chapters 3 or 7, lodge a petition to request the Constitutional Court to alter a Judicial Yuan Interpretation or a judgment of the Constitutional Court by which a legal provision has been previously declared not unconstitutional, if they consider that the amendment of the Constitution or relevant laws or material changes in social circumstances necessitates the reconsideration of such interpretations or judgments.
+
+Under the conditions specified in the preceding Paragraph, the highest organs of the state may lodge a petition to request the Constitutional Court to alter such Judicial Yuan Interpretations or judgments of the Constitutional Court concerning disputes between constitutional organs in accordance with the procedural provisions of Chapter 4.
+
+#### Article 43
+
+(Preliminary Injunction)
+
+As is required to prevent the basic rights protected under the Constitution and public interest from being irreparably and materially impaired, a preliminary injunction order, as the last resort, may be rendered by the Constitutional Court, on its own motion or the party's, in respect of the underlying disputes, the application of the impugned legal provision, or the enforcement of the impugned court decision that underlies the petition, inter alia, while the petition is pending before the Constitutional Court.
+
+Prior to rendering the order referred to in the preceding Paragraph, the Constitutional Court may give the parties or the interested persons the opportunity to state opinions or conduct the necessary investigations on its own.
+
+A preliminary injunction order shall be rendered by a majority of the total number of the incumbent Justices of the Constitutional Court with a quorum of two-thirds of the total number of the incumbent Justices thereof taking part in the proceedings and shall give reasons.
+
+A preliminary injunction will cease to have effect, where
+
+(1) the final decision of the case has been rendered;
+
+(2) over six months have elapsed since its issue; or
+
+(3) the Constitutional Court has revoked the preliminary injunction order due to changes in circumstances or other special reasons in accordance with the procedural provision of the preceding Paragraph.
+
+#### Article 44
+
+(Confidentiality)
+
+The deliberation of the Constitutional Court must remain confidential.
+
+### Section 6 Provisions Applicable Mutatis Mutandis
+
+#### Article 45
+
+(Application mutatis mutandis of the Code of Criminal Procedure and the Statute for Directing the Judicial Police)
+
+In respect of the cases under Chapters 5 and 6, the Constitutional Court may issue orders of search or seizure when necessary, and may request the relevant district court or direct the judicial police to enforce such orders.
+
+The relevant provisions of the Code of Criminal Procedure and the Statute for Directing the Judicial Police shall apply mutatis mutandis to the procedures set out in the preceding Paragraph.
+
+#### Article 46
+
+(Application mutatis mutandis of the Administrative Litigation Act)
+
+Except otherwise provided in this Act or the Rules of the Constitutional Court, the provisions of the Administrative Litigation Act, to the extent that they are not incompatible with this Act, shall apply mutatis mutandis.
+
+## Chapter III. Petitions Concerning Constitutionality of Laws and Constitutional Complaints
+
+### Section 1 Petitions Concerning Constitutionality of Laws Lodged by State Organs and Legislators
+
+#### Article 47
+
+(Requirements for Petitions Lodged by Highest State Organs)
+
+A highest state organ which, in the exercise of its powers or on account of its subordinate agency's exercise of powers, considers that the applicable law is in contravention of the Constitution may lodge a petition with the Constitutional Court for a judgment declaring the impugned law unconstitutional.
+
+A subordinate agency which, in the exercise of its powers, considers that the applicable law is in contravention of the Constitution may request its superior agency to lodge the petition referred to in the preceding Paragraph.
+
+Paragraph 1 applies mutatis mutandis to the independent agencies which are equivalent to second-level agencies as provided for by the Basic Code Governing the Central Administrative Agencies Organizations to the extent that they independently exercise powers within their competences.
+
+#### Article 48
+
+(Principle of Constitutional Petition as the Last Resort)
+
+No petitions under the preceding Article are permissible if the relevant highest state organ can resolve the applicable law's suspected contravention of the Constitution within its competence.
+
+#### Article 49
+
+(Petitions Lodged by Legislators)
+
+A quarter or more of the incumbent Legislators who, in the exercise of their powers, believe that the relevant statutory law is in contravention of the Constitution may lodge a petition with the Constitutional Court for a judgment declaring the impugned statutory law unconstitutional.
+
+#### Article 50
+
+(Contents of Pleadings Submitted by State Organs and Legislators)
+
+Petitions under this Section shall be submitted in writing and include particulars below:
+
+(1) in cases where the filing party is a highest state organ, the name of the petitioning organ, its representative and location; in cases where the filing parties are Legislators, the names and the domiciles or the residences thereof, and the correspondent address to which service shall be made;
+
+(2) the name, the occupation, and the domicile or the residence of the advocate, where applicable;
+
+(3) claims;
+
+(4) the extent to which the impugned law contravenes the Constitution and the relevant constitutional provisions or basic rights protected under the Constitution;
+
+(5) the grounds for the petition and the petitioner's submission; and
+
+(6) the titles of the annexes and the number thereof.
+
+#### Article 51
+
+(Declaring a Law Unconstitutional in the Holding of a Judgment)
+
+If the Constitutional Court holds that the impugned law contravenes the Constitution, it shall declare the impugned law unconstitutional in the holding of the judgment.
+
+#### Article 52
+
+(Time Limits for Voidance of Unconstitutional Laws)
+
+The impugned law which is declared unconstitutional and is voided in a judgment shall cease to have effect from the date the judgment coming into force, unless the Constitutional Court, in the holding, declares that the impugned law is void retroactively or after a certain period of time.
+
+In a judgment which sets a time period for the laws to lapse, the time period set for statutory laws may not exceed two years; the time period set for secondary laws may not exceed one year.
+
+#### Article 53
+
+(Effect of Voidance on Pending Cases before Other Courts)
+
+Where the applicable laws are declared void immediately or retroactively, all the cases pending in any court are to be adjudicated in accordance with the ratio decidendi of the judgment of the Constitutional Court.
+
+The legal effect of final court decisions, except otherwise statutorily provided, will not be affected by the judgment of the Constitutional Court that declared the applicable law void immediately.
+
+The final court decisions where the applicable laws are thereby voided retroactively may be redressed pursuant to legal procedures or the ratio decidendi of the judgment of the Constitutional Court. Where such final court decisions are criminal, the Attorney General shall file an extraordinary appeal.
+
+#### Article 54
+
+(Effect of Voidance with Time Limits on Pending Cases before Other Courts)
+
+In a judgment where a time period is set for the impugned statutory law to lapse, all courts shall, before the set time period expires, continue to apply the impugned statutory law to adjudicate cases, except otherwise declared in the holding of the said judgment. Notwithstanding, after balancing the protection of human rights and public interest, and out of necessity, the court may, on its own motion or the party's, suspend the proceedings by an order, and, upon the amendment of the impugned statutory law, resume the proceedings and adjudicate such cases in accordance with the amended law.
+
+An order denying the motion under the preceding Paragraph is subject to interlocutory appeals.
+
+### Section 2 Petitions Concerning Constitutionality of Laws Lodged by Courts
+
+#### Article 55
+
+(Petitions Lodged by Courts)
+
+A court which strongly believes, on reasonable grounds, that an applicable statutory law on whose validity depends the court's decision of a pending case is in contravention of the Constitution may lodge a petition with the Constitutional Court for a judgment declaring the impugned applicable law unconstitutional.
+
+#### Article 56
+
+(Contents of Pleadings Submitted by Courts)
+
+Petitions under this Section shall be submitted in writing and include the particulars below:
+
+(1) the petitioning court and the name of the petitioning judge thereof;
+
+(2) claims;
+
+(3) the extent to which the impugned statutory law contravenes the Constitution and the relevant constitutional provisions or basic rights protected under the Constitution;
+
+(4) the grounds for the petition, the showing that the impugned statutory law is necessary for the decision on the pending case, and the petitioning court's submission indicating its strong belief that the impugned statutory law is unconstitutional on the basis of objective reasons; and
+
+(5) the titles of the annexes and the number thereof.
+
+#### Article 57
+
+(Suspension of Proceedings of Underlying Cases)
+
+When the petitioning court suspends the proceedings of the underlying case by an order on the grounds that it lodges a petition with the Constitutional Court under this Section, it shall include its pleading submitted in accordance with the preceding Article in the suspension order. In case of emergency, the petitioning court may take necessary measures.
+
+#### Article 58
+
+(Application mutatis mutandis of Articles 51 to 54)
+
+Articles 51 to 54 shall apply mutatis mutandis to the cases under this Section.
+
+### Section 3 Constitutional Complaints
+
+#### Article 59
+
+(Petitions for Constitutional Complaints)
+
+After exhaustion of all ordinary judicial remedies, any person who believes that a final court decision that ruled against her or him, or the applicable law therein, unlawfully infringes upon her or his constitutional rights and contravenes the Constitution, may lodge a petition with the Constitutional Court for a judgment declaring either the said decision, or both the said decision and the applicable law therein unconstitutional.
+
+Petitions under the preceding Paragraph must be lodged within the peremptory period of six months starting on the next day of the date when the final court decisions were served.
+
+#### Article 60
+
+(Contents of Pleadings of Constitutional Complaints)
+
+Petitions under this Section shall be submitted in writing and include particulars below:
+
+(1) the name, the identification document number, and the domicile or the residence of the petitioner, and the correspondent address to which service shall be made; in the case that the petitioner is a legal person or an unincorporated association, its name and location;
+
+(2) the name, the identification document number, and the domicile or the residence of the statutory agent, the representative or the administrator, where applicable;
+
+(3) the name, the occupation, and the domicile or the residence of the advocate, where applicable;
+
+(4) claims;
+
+(5) the extent to which the legal provision applied in a final court decision or the decision itself contravenes the Constitution and the relevant constitutional provisions or basic rights protected under the Constitution;
+
+(6) the grounds for the petition and the petitioner's submission; and
+
+(7) the relevant final court decision and the evidence which proves the observance of the peremptory period; and
+
+(8) the titles of the annexes and the number thereof.
+
+#### Article 61
+
+(Admissibility of Constitutional Complaints)
+
+Petitions under this Section are admissible insofar as they concern principles of constitutional significance or it is necessary to satisfy the petitioners' basic rights protected under the Constitution.
+
+The Chamber may dismiss a petition by a unanimous order for which reasons must be given; otherwise, the admissibility of the petition shall be decided by the Constitutional Court.
+
+If three or more Justices, within 15 days after the preceding unanimous dismissal order has been made, consider that the petition is admissible, the Constitutional Court shall decide on its admissibility. The dismissal order shall otherwise be published and served on the petitioner promptly.
+
+#### Article 62
+
+(Declaring a Final Court Decision or a Law Unconstitutional in the Holding of a Judgment)
+
+If the Constitutional Court finds that the petition is well grounded, it shall declare in the holding of the judgment that the impugned final court decision is unconstitutional and thus vacated, and the matter is remanded to the competent court. If the Constitutional Court finds that the legal provision applied in such a final court decision contravenes the Constitution, it shall further declare the impugned legal provision unconstitutional.
+
+Articles 51 and 52 shall apply mutatis mutandis to the judgments under the preceding Paragraph.
+
+#### Article 63
+
+(Application mutatis mutandis of Voidance Provision)
+
+Except otherwise provided in this Act, Articles 53 shall apply mutatis mutandis to cases where laws are voided immediately or retroactively by the Constitutional Court in the judgments under this Section.
+
+#### Article 64
+
+(Application mutatis mutandis of Voidance with Time Limits Provision)
+
+In a judgment where a time period is set for the impugned legal provision to lapse, the competent court to which the underlying case of the relevant final court decision is remanded shall decide in accordance with the ratio decidendi of the judgment of the Constitutional Court by which the impugned legal provision is declared unconstitutional, notwithstanding the time period set for the lapse of the legal provision declared unconstitutional, unless the holding of the judgment otherwise decides.
+
+Where a legal provision is set to lapse within a time period under the preceding Paragraph, Article 54 shall apply mutatis mutandis to cases other than the relevant underlying case that are pending before each court.
+
+## Chapter IV. Disputes between Constitutional Organs
+
+#### Article 65
+
+(Petitions Concerning Disputes between Constitutional Organs)
+
+When a highest state organ, in the exercise of its powers, has a dispute with other highest state organs in respect of their respective constitutional competences, it may lodge a petition with the Constitutional Court to settle such a dispute after the organs concerned fail to resolve through negotiations.
+
+Petitions under the preceding Paragraph must be lodged within the six-month peremptory period starting from the date of the disputing organs having failed to resolve the dispute through negotiations.
+
+The petitioning organ shall make a preliminary showing of the facts concerning the failure to resolve the dispute through negotiations.
+
+#### Article 66
+
+(Contents of Pleadings Concerning Disputes between Constitutional Organs)
+
+Petitions under this Section shall be submitted in writing and include the particulars below:
+
+(1) the name of the petitioning organ, the location thereof and its representative;
+
+(2) the name of the respondent organ, the location thereof and its representative;
+
+(3) the name, the occupation, and the domicile or the residence of the advocate, where applicable;
+
+(4) claims;
+
+(5) the nature of the dispute, the negotiations between the disputing organs, and the relevant constitutional provisions or the competence vested in the petitioning organ by the Constitution;
+
+(6) the grounds for the petition and the petitioning organ's submission;
+
+(7) the evidence which proves the observance of the peremptory period; and
+
+(8) the titles of the annexes and the number thereof.
+
+#### Article 67
+
+(Contents of the Holding of a Judgment Concerning Disputes between Constitutional Organs)
+
+For cases arising under this Chapter, the Constitutional Court shall delineate the competences between the disputing organs in the holding of the judgment. Considering the circumstances of the case, the Constitutional Court may make further pronouncements as appropriate in the holding of the judgment.
+
+## Chapter V. Impeachment of the President or the Vice President
+
+#### Article 68
+
+(Contents of Pleadings Concerning Impeachment)
+
+The Legislative Yuan may lodge a petition with the Constitutional Court for a judgment upholding the impeachment against the President or the Vice President pursuant to Article 4, Paragraph 7 of the Additional Articles of the Constitution.
+
+Petitions under the preceding paragraph shall be submitted in writing and include the particulars below:
+
+(1) the name of the petitioning authority, the location thereof and its representative;
+
+(2) the name, the occupation, and the domicile or the residence of the advocate, where applicable;
+
+(3) the name, and the domicile or the residence of the impeached;
+
+(4) the proceedings leading to the adoption of the impeachment resolution;
+
+(5) the underlying facts and evidence supporting the impeachment and the reasons to remove the impeached from office; and
+
+(6) the titles of the annexes and the number thereof.
+
+#### Article 69
+
+(Dismissing a Petition for Impeachment)
+
+The proceedings of the cases under this Chapter shall not be affected by the expiration of the term of office of the impeached, by the dissolution of the Legislative Yuan, or by the ending of the term of the Legislative Yuan. Notwithstanding, if the impeached resigns from office, no longer holds the post, or dies prior to the pronouncement of the judgment, the Constitutional Court shall dismiss the petition by an order.
+
+#### Article 70
+
+(Conditions for Impeachment Withdrawal)
+
+Until the pronouncement of the judgment, the petition may be withdrawn on the basis of a resolution adopted by at least a two-thirds majority of the total number of members of the Legislative Yuan.
+
+The withdrawal of the petition must be made in writing and include the official copy of the resolution as provided for by the preceding Paragraph.
+
+The petitioning authority may not re-petition the case that has been withdrawn based on the same underlying facts.
+
+#### Article 71
+
+(Oral Argument Date Designation and Preparation Period)
+
+The presiding Justice of the Constitutional Court shall promptly set a date for oral argument when she or he considers that oral argument is ripe to be held.
+
+There shall be a preparation period of at least twenty days between the date of service and the date scheduled for oral argument.
+
+#### Article 72
+
+(Defense Counsel)
+
+The impeached may appoint defense counsels.
+
+Defense counsels shall be attorneys. Notwithstanding, a person who is not an attorney may be appointed with the presiding Justice's permission.
+
+Where there are multiple defense counsels, the service of documents shall be made to each counsel.
+
+The provisions of this Act concerning advocates shall apply mutatis mutandis to defense counsels.
+
+#### Article 73
+
+(Non-Attendance of Party)
+
+If either party fails to appear in court on the date for oral argument, a new date shall be scheduled.
+
+The Constitutional Court may render a judgment, regardless, if the petitioning authority or the impeached fails to appear in court on the rescheduled date.
+
+#### Article 74
+
+(Impeachment Proceedings at Oral Argument Sessions)
+
+At oral argument, the petitioning authority shall state the facts of and the reasons for the impeachment, followed by the reply of the impeached.
+
+Following the reply of the impeached, the presiding Justice shall examine evidence and hear oral arguments on points of fact and law from the listed below in order:
+
+(1) the petitioning authority;
+
+(2) the impeached; and
+
+(3) the defense counsel.
+
+Points of fact and law having been debated may be subject to further debate; the presiding Justice may also require points of fact and law having been debated to be further debated.
+
+Before the conclusion of the argument, the presiding Justice shall provide the impeached with an opportunity to state opinions.
+
+#### Article 75
+
+(Vote Threshold for Impeachment and the Holding of a Judgment)
+
+The judgment upholding the impeachment shall be rendered by a two-thirds majority of the total number of the incumbent Justices of the Constitutional Court. The holding shall also declare the impeached to be removed from office.
+
+Failing the required majority as provided for by the preceding Paragraph, the Constitutional Court shall render a judgment declaring the impeachment unsustained.
+
+#### Article 76
+
+(Time Limit for Impeachment Adjudication)
+
+The Constitutional Court shall pronounce the decision within six months after it receives the petition for impeachment.
+
+## Chapter VI. Dissolution of Unconstitutional Political Parties
+
+#### Article 77
+
+(Petitions for Dissolution of Unconstitutional Political Parties)
+
+When any objective or activity of a political party endangers the existence of the Republic of China or the free democratic constitutional order, the competent authority may lodge a petition with the Constitutional Court for a judgment dissolving the political party.
+
+#### Article 78
+
+(Contents of Pleadings Concerning Dissolution of Unconstitutional Political Parties)
+
+Petitions under the preceding Article shall be submitted in writing and include the particulars below:
+
+(1) the name of the petitioning authority, the location thereof and its representative;
+
+(2) the name and address of the political party to be dissolved and the name and the domicile or the residence of its representative;
+
+(3) the grounds for the dissolution of the political party;
+
+(4) the underlying facts and the evidence supporting the dissolution of the political party; and
+
+(5) the titles of the annexes and the number thereof.
+
+#### Article 79
+
+(Petitioning Authority's Burden of Proof)
+
+The petitioning authority shall provide evidence to prove the underlying facts supporting the dissolution of the political party.
+
+Prior to the oral argument sessions, the Constitutional Court shall direct the petitioning authority to provide additional pieces of evidence within a specified period of time when it finds the submitted evidence apparently insufficient; if the petitioning authority fails to do so, the Constitutional Court may dismiss the petition by an order.
+
+The petitioning authority may not re-petition the case that has been dismissed in accordance with the preceding Paragraph based on the same underlying facts.
+
+#### Article 80
+
+(Vote Threshold for Dissolution of Unconstitutional Political Parties and the Holding of a Judgment)
+
+The judgment on the dissolution of an unconstitutional political party shall be rendered by a two-thirds majority of the total number of the incumbent Justices of the Constitutional Court.
+
+Failing the required majority as provided for by the preceding Paragraph, the Constitutional Court shall rule against dissolution in a judgment.
+
+#### Article 81
+
+(Application Mutatis Mutandis of Oral Argument Procedures)
+
+Articles 71 and 74 shall apply mutatis mutandis to cases arising under this Section.
+
+## Chapter VII. Local Self-Government
+
+#### Article 82
+
+(Petitions Concerning Constitutionality of Central Government Laws)
+
+In cases where the legislative or executive authorities of a local self-government body, in the exercise of their powers, consider that the national law to be applied may infringe upon the powers of local self-government laid down in the Constitution and contravene the Constitution, the said authorities may lodge a petition with the Constitutional Court for a judgment declaring the impugned law unconstitutional.
+
+Articles 50 to 54 shall apply mutatis mutandis to petitions under the preceding Paragraph.
+
+#### Article 83
+
+(Constitutional Complaints Lodged by Local Self-Government Bodies)
+
+After exhaustion of all ordinary judicial remedies, any local self-government body which considers that a final court decision against it infringes upon its powers of local self-government laid down in the Constitution, in a dispute arising from any of the circumstances set out in the subparagraphs below, may lodge a petition with the Constitutional Court for a judgment declaring the relevant final court decision unconstitutional, if:
+
+(1) the self-government ordinances and regulations are nullified or not approved by the central supervisory authority as is notified in writing;
+
+(2) the self-government matters decided by the local legislative authorities are nullified by the central supervisory authority as is notified in writing; or
+
+(3) the self-government matters administered by the local executive authorities are rescinded, amended, revoked, or discontinued by the central supervisory authority.
+
+Petitions under the preceding Paragraph must be lodged within the peremptory period of six months after the service of the relevant final decision.
+
+The provisions of Articles 60, 61 and Article 62, Paragraph 1, First Sentence shall apply mutatis mutandis to petitions under Paragraph 1.
+
+## Chapter VIII. Uniform Interpretation of Statutes and Regulations
+
+#### Article 84
+
+(Petitions Concerning Uniform Interpretation)
+
+After exhaustion of all ordinary judicial remedies, any person who believes that, in respect of the same legal provision in a statute or a regulation, a conflict exists between the interpretation rendered by a final court decision that finds against her or him and a prior one rendered by another court of last resort in a different adjudication system may lodge a petition with the Constitutional Court for a judgment of uniform interpretation on the relevant legal provision.
+
+The person may not lodge a petition under the preceding Paragraph if the final court decision that renders the conflicting interpretation in finding against him is still subject to challenge through proceedings as provided for by the law or the relevant prior court decision has been overturned.
+
+Petitions under the First Paragraph must be lodged within the peremptory period of three months after the service of the relevant final decision.
+
+#### Article 85
+
+(Contents of Pleadings Concerning Uniform Interpretation)
+
+Petitions under the preceding Paragraph shall be submitted in writing and include the particulars below:
+
+(1) the name, the identification document number, and the domicile or the residence of the petitioner, and the correspondent address to which service shall be made; in the case that the petitioner is a legal person or an unincorporated association, its name and location;
+
+(2) the name, the identification document number, and the domicile or the residence of the statutory agent, the representative or the administrator, where applicable;
+
+(3) the name, the occupation, and the domicile or the residence of the advocate, where applicable;
+
+(4) claims;
+
+(5) interpretations in conflict and the relevant legal provision;
+
+(6) the grounds for the petition and the petitioner's submission;
+
+(7) the evidence which proves the observance of the peremptory period; and
+
+(8) the titles of the annexes and the number thereof.
+
+#### Article 86
+
+(Explanatory Notes from Relevant Courts of Last Resort)
+
+When deciding cases arising under this Section, the Constitutional Court may request the relevant courts of last resort in different adjudication systems to submit explanatory notes as to their conflicting interpretations concerned.
+
+#### Article 87
+
+(Vote Threshold for Admissibility in Uniform Interpretation)
+
+The admissibility of petitions under this Section shall be decided by a majority of the Justices who have taken part in the proceedings with a quorum of a majority of the total number of the incumbent Justices of the Constitutional Court taking part in the proceedings. Failing the required majority, the petition shall be dismissed by an order.
+
+#### Article 88
+
+(Remedies)
+
+If the Constitutional Court renders a judgment that differs from the underlying final court decision in the interpretation of the relevant legal provision, the petitioner may seek judicial remedies through proceedings as provided for by the law or in accordance with the ratio decidendi of the judgment of the Constitutional Court. Where the underlying final court decision is on a criminal case, the Attorney General shall, on her or his own motion, file an extraordinary appeal in respect of such decisions.
+
+#### Article 89
+
+(Effect of Uniform Interpretation Judgments)
+
+The ratio decidendi of a judgment of the Constitutional Court on the uniform interpretation of statutes and regulations has res judicata effect on all courts which apply the same statutes and regulations.
+
+The judgment as provided for by the preceding Paragraph shall not affect the legal effect of court decisions that have become final.
+
+## Chapter IX. Miscellaneous Provisions
+
+#### Article 90
+
+(Transitional Rules on Proceedings of Pre-Commencement Pending Cases)
+
+Except otherwise provided in this Act, this Act applies to all the pending petitions before the Constitutional Court lodged before the coming into force of this Act. Notwithstanding, the admissibility of such petitions shall be decided in accordance with the Constitutional Interpretation Procedure Act, which this Act is to replace through wholesale revision.
+
+The provisions of Chapter 3, Section 1 and Chapter 8 shall apply mutatis mutandis to the petitions pending before the Constitutional Court under Article 5, Paragraph 1, Subparagraph 1, First Sentence and Subparagraph 3, First Sentence thereof, and Article 7, Paragraph 1, Subparagraph 1 of the Constitutional Interpretation Procedure Act filed before the coming into force of this Act.
+
+#### Article 91
+
+(Transitional Rules on Proceedings of Pre-Commencement Pending Constitutional Complaints)
+
+The provisions of the vacating of a final court decision being declared unconstitutional and its remand to a competent court under Article 62, Paragraph 1, First Sentence shall not apply to the pending petitions in respect of the constitutionality of laws which were lodged with the Constitutional Court prior to the coming into force of this Act.
+
+For a petition under the preceding Paragraph, where the legal provisions applied to the underlying final court decision are declared unconstitutional and voided by a judgment of the Constitutional Court, the petitioner may seek judicial remedies for the underlying case through proceedings as provided for by the law or in accordance with the ratio decidendi of the relevant judgment of the Constitutional Court. If the underlying final court decision is on a criminal case, the Attorney General shall, on her or his own motion, file an extraordinary appeal in respect of such decisions.
+
+For a petition under Paragraph 1, the period from the date on which it was lodged with the Constitutional Court to the date on which the judgment of the petition is served on the petitioner will not count towards the calculation of the peremptory period of time for the retrial proceedings.
+
+#### Article 92
+
+(Transitional Rules on the Peremptory Period of the Pre-Commencement Pending Cases)
+
+No petition concerning the constitutionality of final court decisions as provided for by Article 59, Paragraph 1 is permissible if the service of the relevant court decision is made prior to the coming into force of this Act. Notwithstanding, where the relevant final court decision adopts opinions of any Grand Chamber of the Supreme Court or the Supreme Administrative Court, a petition may be lodged within six months after the coming into force of this Act.
+
+For petitions under Article 59, Paragraph 1 concerning the constitutionality of laws and those under Article 83, Paragraph 1, the peremptory period of six months will run from the effective date of this Act if the service of the relevant final court decision is made prior to the coming into force of this Act. The proviso to Article 90, Paragraph 1 and Article 91 shall apply mutatis mutandis to the adjudication of such petitions.
+
+Except for final criminal decisions, no petition under the preceding Paragraph is permissible if five years or more have passed since the service of the final court decision.
+
+For petitions lodged in accordance with Article 65, Paragraph 1, the peremptory period of six months will run on the effective date of this Act if the dispute occurs prior to the coming into force of this Act.
+
+#### Article 93
+
+(Court Dress and Seating Arrangement)
+
+Justices, attorneys, and clerks shall wear gowns for all proceedings of the Constitutional Court.
+
+The court dress and the seating arrangement in the courtroom shall be decided by the Judicial Yuan.
+
+#### Article 94
+
+(Management, Archiving, and Storage of the Petition and Case Files)
+
+The Judicial Yuan shall make rules governing the management, archiving, and storage of the files of the Constitutional Court.
+
+In cases where such files are destroyed or lost, the Law Governing Destroyed or Lost Civil and Criminal Case Files shall apply mutatis mutandis.
+
+#### Article 95
+
+The provisions amended by the Legislative Yuan on December 20, 2024 shall come into force on the date of promulgation.
+
+## History
+
+\3. Amended on January 4, 2019
+
+\4. Amended on June 21, 2023
+
+\5. Amended on January 23, 2025
+
+In TCC Judgment 114-Hsien-Pan-1 (December 19, 2025), the Constitutional Court invalidated the amended Article 4, Paragraph 3, Article 30, Paragraphs 2 to 6, and Article 95 of the Constitutional Court Procedure Act as promulgated on January 23, 2025. The Court held that these amendments violated not only the constitutionally required due process of legislation with manifest and gross flaws in the legislative process, but also the constitutional principle of separation of powers. Accordingly, the aforementioned provisions shall be invalid from the date of promulgation of this Judgment. Article 95 of the Constitutional Court Procedure Act, as it stood prior to the amendment promulgated on January 23, 2025, shall remain in force following the promulgation of the said amendment.

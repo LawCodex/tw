@@ -1,0 +1,505 @@
+---
+title: "National Sports Act"
+title_zh: "國民體育法"
+identifier: "H0120001"
+type: act
+law_level: "法律"
+category: "行政＞運動部＞綜合規劃目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1929-04-16
+last_amended: 2026-07-15
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=H0120001"
+retrieved: 2026-10-12
+---
+
+# National Sports Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-sports/H0120001-national-sports-act.md](../../../zh/laws/ministry-of-sports/H0120001-national-sports-act.md)) is authoritative.
+
+## Chapter 1 General Provisions
+
+### Article 1
+
+To encourage and protect the nationals’ participation in sports activities, to improve the national sports environment and to promote the national sports policies and the development of sports, this Act is hereby promulgated.
+
+### Article 2
+
+The competent authorities under this Act are: Central level: the Ministry of Sports; Special municipality level: the special municipality government; County (city) level: the county (city) government.
+
+### Article 3
+
+The terms used in this Act are defined as follows:
+
+\1. Sports Association: A sports association established for the purpose of promoting sports, registered with the competent authority under the Civil Associations Act, and under the supervision of the Ministry of Sports or the special municipality or county (city) government as its competent authority for the relevant purpose.
+
+\2. Specified sports association: A nationwide sports association that holds official membership in an international sports association.
+
+\3. Sports professional: A person who has received professional education or training in sports, has passed the test held by the central competent authority, has been issued a certificate, and engages in specified sports-related work by applying professional knowledge or technical expertise.
+
+\4. Sports coach: A person who has received professional sports training, is familiar with sports education and training as well as competition rules, has been certified by a sports association, and engages in sports instruction and training.
+
+\5. Sports referee: A person who has received professional sports training, is familiar with the rules of sports competitions, has been certified by a sports association, and officiates at sporting events.
+
+### Article 4
+
+Each municipal, county（city）government should establish dedicated department for sports; township（town, city, district）offices should position dedicated sports personnel in charge of the planning, counseling and promoting national sports events.
+
+### Article 5
+
+Governments at all levels should ensure that all people have equal rights to access sports facilities and participate in sports activities.
+
+All organizations, institutions, schools, legal entities, and associations should adhere to national sports policies in accordance with relevant laws and regulations to effectively promote sports activities and advance gender equality in sports participation.
+
+### Article 6
+
+To encourage the nationals to participate in sports activities, September 9th of each year is the
+
+National Sports Day.
+
+The Government of all levels should enhance on promoting sports for whole people.
+
+The public sports facilities of the government of all levels should be open to the public free of charge on the National Sports Day; and the government should encourage other sports facilities to be open to the public free of charge on the National Sports Day.
+
+### Article 7
+
+In order to implement the sports activities, the central competent authority should promulgate national sports development policy and review such policy on annual basis; the competent authorities of municipals and counties（cities）should set out the local sports development plans according to the national sports development policy
+
+### Article 8
+
+The government of all levels should encourage each organization, school, juridical person and association to hold sports matches.
+
+Each national sports match should be planned in accordance with the national sports development policy and in concert with the international official sports competitions.
+
+The regulation of each national sport complex is to be promulgated by the central competent authority.
+
+### Article 9
+
+The expenses to implement the sports for the whole people, governmental organizations of all levels and schools should budget respectively.
+
+Each Sport Association  should raise on its own any expense it requires, competent authority of all levels may subsidize as it deems appropriate; the qualifications to apply for and the conditions, procedures, manners, standards, withdrawals and revocations of subsidies and other regulations or ordinances are to be decided by competent authorities of all levels.
+
+### Article 10
+
+The central competent authority should establish a system for training and test of Sports Professionals.
+
+The scope of the Sports Professionals in the preceding paragraph is to be decided by the central competent authority; the test for qualifications, issuance, corrections, renewals of certificates, the fees of test and certificate, the withdrawals and revocations of certificate and other regulations that ought to be followed are to be decided by the central competent authority.
+
+### Article 11
+
+To improve the physical constitution of school students of all levels and the physical fitness of nationals and to cultivate athletes to compete in international matches, the competent authority of all levels may collect, process and use the following personal data and build up a database.
+
+\1. The physical fitness data of school students of all levels.
+
+\2. The data of registration, enrollment, score record, game and sports injury of each and all level and category of the country and the representative athletes.
+
+\3. The data of status and scores of college students in sports-related departments, students of sports senior high school and students of sports class in schools below senior high level.
+
+Each competent authority should designate a specialist to maintain the management and security of the data of the preceding paragraph.
+
+When an athlete of representative team of schools of all levels enter into the next level of school education or transfer to another school, the original school and the present school the athlete goes to should use the database in paragraph 1 to make transition or transfer of the personal data.
+
+### Article 12
+
+Each organization, institution, school, juridical person and association  shall protect the right and interests of persons with disabilities to participate in sport activities and plan appropriate sport facilities, activities and lectures.
+
+### Article 13
+
+To encourage international cooperation on sports and to facilitate the rise of the status in sports area of Republic of China（Taiwan）, each competent authority of all levels should promote international sports activities; the manners and subsidies of expenses of such activities and the regulations or ordinances that ought to be followed in the activities are to be decided by each competent authority of all levels.
+
+## Chapter 2 Sports Education in Schools
+
+### Article 14
+
+The school below senior high level and the junior college of five-year program should for the first three should, beside the physical education lectures, arrange its students to participate in daily sports activities, which should be at least 150 minutes per week and provide accommodated physical education for students with disabilities to ensure they participate in sports activities and lectures on equal basis.
+
+The purpose, content and hour of lecture, physical fitness test for students, cultivation and counseling of athletes, review and regulations of other relevant matters of school of all levels in preceding paragraph are to be decided by the central competent authority.
+
+### Article 15
+
+To cultivate the talents, schools below senior high level may propose to the competent authority and set up a sport class with such authority’s permit. The standard to set up the sport class, the size, enrollment tests, composition of classes, content of lecture, restriction on matches the students may go, the evaluation visit, suspension of the class and regulations of other relevant matters are to be decided by the central competent authority.
+
+The content of the lecture of the preceding paragraph must include career development, functional exploration, sport safety and protection and other programs.
+
+Schools that set up sport class according to paragraph 1 should at least have 1 regular Sport Coach at each school. As for school that set up 2 or more sport classes in every grade should at least have 2 regular Sports Coaches.
+
+Schools that have no sport class may appoint regular Sport Coaches to execute sport training and to instruct matches.
+
+Each competent authority of municipals and counties（cities）may, according to the sports categories and programs designated by the central authority, have the schools of their competency to add a regular Sport Coach for every 6 classes to circuit the schools to give sports training or to instruct matches. The expenses would be subsidized in full by the central competent authority should the proposal to add such Coach is granted by the central competent authority and the number of such additional Coaches are 5 or less.
+
+### Article 16
+
+The appointment of the regular Sport Coach should be made according to Act of Governing the Appointment of Educators. The qualification, remuneration, duty, responsibility, dismissal, termination, non-reappointment, complaint, welfare, vocational training, assessment, reward and punishment, promotion and other matters related to the rights and interests of appointment are to be decided by the central competent authority. The retirement, pension, leave, dispatch and other matters should be made in accordance with the relevant regulations of educator.
+
+Any regular Sport Coach who has been appointed for over three years and fails the evaluation test made by the performance evaluation committee should not be reappointed. The composition and relevant rules of performance evaluation are to be decided by the competent central authority.
+
+The years of seniority and retirement of any regular Sport Coach who has been selected, trained and appointed by the central or local competent educational authority before this Act enters into force on July 11th, 2007, should be aggregated.
+
+### Article 17
+
+Schools of all levels should
+
+The sports facilities of the preceding paragraph should be, without influencing the education and management of the school, open to the community for doing sports and may charge for such use.
+
+The installation, subsidies, safety management and procedure, periodical review and record, scope and time of availability, user, term of use, charges and other regulations or ordinances of the sports facilities at school of all levels are to be decided by each competent authority. These matters of any sports facilities set at colleges and universities are to be decided by the college or university concerned unless such sports facilities are set by subsidy.
+
+## Chapter 3 Sports Activities for the Whole People
+
+### Article 18
+
+Competent authority at all levels should encourage the nationals to participate in sports activities and promote each organization, institution, school, juridical person and association  to implement physical fitness test.
+
+The regulations of the items, equipment, method and other matters of the fitness test in the preceding paragraph are to be decided by the central competent authority.
+
+### Article 19
+
+Each organization, institution, school, juridical person and association should enhance on promoting recreational sports activities for its employees. Those who has more than 500 employees should hire Sports Professionals to execute the design and instruction of the activities.
+
+Competent authority of each level may award organization, institution, school, juridical person and association who has good performances in carrying out activities prescribed in the preceding paragraph. The object, condition, procedure, manner and other regulations of the reward are to be decided by the central competent authority.
+
+### Article 20
+
+To enhance the safety management and to protect the rights and interests of the participants, each organization, institution, school, juridical person and association should acquire permit to operate high-risk sports activities from the competent authority where such activities take place or the competent municipal or county（city）authority. The category, scale, permit of operation, dismissal and abolishment, safety facility or measure, appointment of Sports Professionals and Sports Coaches, medical hygiene, insurance, management and other regulations are to be decided by the central competent authority.
+
+The competent authority of municipals and counties（cities）may promulgate self-governing ordinances according to the regulations of the preceding paragraph.
+
+### Article 20-1
+
+To ensure the health and safety of students and sports coaches representing schools in multisport competitions and leagues, and alleviate the financial burden on families, schools are required to provide group injury insurance for students and coaches.
+
+The group injury insurance benefits mentioned in the preceding paragraph shall include coverage for death, medical expenses, hospitalization, outpatient injury treatment, and disability.
+
+## Chapter 4 Competing Sports
+
+### Article 21
+
+Competent authority of all levels should establish a system to cultivate athlete, the manners, planning, budgeting, rights and interests of athletes and other regulations are to be decided by the central competent authority.
+
+The regulations concerning audition, training and registration of Sports Coaches and athletes for national representative team of international games and regulations dealing with the over-registration are to be decided by the central competent authority.
+
+The audition, training and registration of Sports Coaches and athletes for national representative team of the preceding paragraph should be fair, just, open and professional. Specified Sports Associations may not discriminate Coaches and athletes without justification or make disadvantages in audition, training and registration of Sports Coaches and athletes for national representative team.
+
+As Specified Sports Associations dispatch team on behalf of the country to participate in international sports tournament, the sponsor contracts between the Association and the manufacturers should be based on international practice and consideration of the needs and interests of the contestants. In cases of athletes who has the individual sponsors, the Specified Sports Association, the players and the sponsors of both parties should consult before the competition and respect the special demand of the athlete, and shall not make an unfair agreement.
+
+The central competent authority should establish the allowance system for the training and athletes of national representative team according to the level of each international games. Specified Sports Association should, when holding and participating in the professional profitable games, pay the registration fee.
+
+### Article 22
+
+Competent authority at all levels should reward athletes, athletes with disabilities and their coaches with excellent performance in domestic or international athletic competitions, and individuals or groups with special contributions to physical education and sports. The objects, conditions, procedures, methods, revocation, abolition and rules and self-governing regulations for other matters shall be decided by the competent authorities at all levels.
+
+The central authorities shall give counsel in employment to the athletes and disabled athletes who participate in international sports competitions and achieve excellent results. The qualifications, measures, duration, application and examination procedures, counseling methods and other related matters shall be set by the central authorities.
+
+Athletes who have represented the national team who are civil servants can provide commercial endorsement with the approval of the agency（organization）they are employed by and shall not be subject to the regulations on business operation and part-time work of the Civil Servant Work Act; the rules on scope, restriction, procedure and other related matters of commercial endorsement shall be decided by the said agency（organization）.
+
+### Article 23
+
+Specific sports groups that organize national teams should, during the training and competition period, obtain necessary insurance for the players and team staff who have been submitted to the central competent authority for reference; the insurance coverage scope, items, content, funding subsidies and related matters shall be determined by the central competent authority.
+
+If national team training players and team staff suffer from short-term disability, physical or mental disability, or death due to training or competition, the central competent authority shall issue solatium  and provide follow-up medical care and related employment counseling services to athletes with short-term disability or physical or mental disabilities; regulations governing the solatium issue subject, conditions, criteria, recipient, order of receipt, loss of the right to receive, application procedures, deadlines and other related matters shall be stipulated by the central competent authority.
+
+The central competent authority will subsidize the difference in the player's contract salary and the insurance compensation limit for athlete short-term disability claims according to the regulations.
+
+### Article 24
+
+Competent authorities and sports organizations at all levels should maintain the health of athletes and promote sports competition. To strengthen the control of doping; its doping control education, advocacy, counseling, prevention, testing, treatment of violation, relief and other regulations are to be decided by the central competent authority.
+
+### Article 25
+
+The organizations, institutions, schools, juridical persons and or associations shall prevent the occurrence of sports injuries in the event of exercise training, competition and all kinds of sports competitions. If necessary, they shall apply a physiotherapist or sports guard and consider medical needs. Hire a medical officer.
+
+### Article 26
+
+The central competent authority should encourage the scientific research in sports for all ages and the cultivation of researchers in development and scientific in sports. It should instruct each organization, institution, school, juridical person and association to apply the science of sports in training. The condition, manners, dismissal, abolishment and other regulations of the encouragement are to be decided by the central competent authority.
+
+## Chapter 5 The Chinese Taipei Olympic Committee
+
+### Article 27
+
+The Chinese Taipei Olympic Committee（hereinafter the CTOC）is a juridical person who has been recognized by the International Olympic Committee（hereinafter the IOC）as the representative for the Republic of China（Taiwan）.
+
+The organization, mission and the purpose of CTOC shall be consistent with the Olympic Charter and the laws of the Republic of China（Taiwan）.
+
+Within 3 months of entry into force of the amendments this Act on the date of August 31th 2017, the CTOC should provide the central competent authority with its Charter, list of committee members and the record of annual conference to register. The central competent should grant juridical person certificate after granting permit of registration. The dismissal of the CTOC should be granted by the central competent authority.
+
+The Charter of the Committee should include the following information:
+
+\1. Name
+
+\2. Address.
+
+\3. Mission.
+
+\4. Exclusive rights and obligations.
+
+\5. Organization.
+
+\6. Staff member.
+
+\7. Funding.
+
+\8. Complaint.
+
+\9. Allocation of the property after dismissal.
+
+As there are any amendments made to the Charter or the committee member of the preceding 2 paragraphs, the central competent authority should be noted with the amended Charter and the list of committee member provided.
+
+### Article 28
+
+The CTOC should, consistent with the exclusive rights and obligations imposed by the Olympic Charter, cooperate with the central competent authority to execute the following business:
+
+\1. To develop and maintain the Olympic activities.
+
+\2. To participate in Olympic Games, Asian Games and other complex matches recognized by the IOC and the relevant matters.
+
+\3. To implement and execute the regulations against doping in sport of international matches.
+
+\4. To select the city that apply for hosting Olympic Games, Asian Games and other complex matches recognized by the IOC.
+
+\5. To recognize or approve any single Sport Association that apply for joining international sports associations.
+
+\6. Other matters in relation to the international cooperation in sports.
+
+\7. The principles, manners and the dispute settlement procedures for differences arising from the CTOC in executing business prescribed from subparagraph 2 to 5 in the preceding paragraph are to be drafted by the CTOC and approved by the central competent authority.
+
+### Article 29
+
+With regard to the subsidy from the government and the funding of execution of governmental activities, the CTOC should, before November 30th of each year, provide the annual work plan and the budget for the next year to the central competent authority for approval. And the CTOC should, before January 31st of each year, provide the work report of executed plan that used governmental funding of the previous year to the central competent authority for approval.
+
+The annual budget and the financial statements of the CTOC should be attested and signed by auditors and announced.
+
+## Chapter 6 Specified Sports Associations
+
+### Article 30
+
+Specified Sports Associations should enhance on promoting the following business in whole or in part, and establish plans and the standard operational procedures:
+
+\1. To establish a system for categorized registration and record management of athletes.
+
+\2. To establish a system for review of qualification, issuance of certificate and management for Sports coaches and referees.
+
+\3. To carry out the vocational training for the Sports Coaches, referees and staffs.
+
+\4. To establish the selection and training system for Sport Coaches and athletes actively.
+
+\5. To establish a sports human resource database and to maintain the security thereof.
+
+\6. To establish records and rules of games, collect domestic and foreign sports information, publish journals or to provide the members and the public with the proper information.
+
+\7. To assist in executing the scientific research and development in sports.
+
+\8. To establish the seasonal system for annual competitions and hold the competitions and promotions.
+
+\9. To promote the international exchange programs in sports.
+
+\10. To promote the recreational sports activities for the whole people.
+
+\11. To establish the financial audit and management system and to seek sources from the society actively.
+
+\12. To promote the anti-doping in sports policy.
+
+Specified Sports Association should make medium and long term development plan to operate the business prescribed in each subparagraph of the preceding paragraph and enlist such business in annual work plan and execute accordingly.
+
+In order to formulate a national sports development policy and a plan for local sports development so as to enhance the physical fitness of the nationals and as a training and excavation of athletes and related academic and sports industry applications, Specified Sports Associations shall provide the central authority with information prescribed in each subparagraph of the paragraph 1 periodically.
+
+The audition and cultivation plan of the paragraph1（4）and the records and rules and other relevant matters of the paragraph 1（6）should be carried out and announced in timely manner.
+
+### Article 31
+
+The qualification test, issue of certificate, management and other regulations of Sports Coach and referee are to be decided by the central competent authority.
+
+### Article 32
+
+The membership of Specified Sports Association should be open to the public in principle.
+
+The charter and amendments made thereto of Specified Sports Associations should be approved by the central competent authority.
+
+### Article 33
+
+The central competent authority should give group counselling, visit and assess Specified Sports Associations on annual basis.
+
+The item of assessment in the preceding paragraph should include the audition system of representative team, the operation of the organization, the audit and finance condition, the promotion performance and the planning of public participation. The assessment should be decided and executed with academic professionals and just non-governmental.
+
+The result of the visit and assessment of the paragraph 1 should be announced within 3 months after completion and such result may be considered for central competent authority to provide subsidy.  And the central competent authority should give professional advice and assistance on missing items.
+
+The object, the use of assessment results, subsidies and other relevant matters of the visits, implementation of assessment in the preceding 3 paragraphs shall be determined by the central competent authority.
+
+Specific sports groups should cooperate and provide relevant information to the counseling, visits or assessment as prescribed in paragraph 1. It shall not be circumvent, obstruct or reject.
+
+### Article 34
+
+Specified Sports Association shall not have any hasty or false information on their financial and accounting matters and shall handle the following matters
+
+\1. Implementation of internal financial monitoring system
+
+\2. Announcement of the annual budget, final accounts and government agencies to subsidize the funds.
+
+### Article 35
+
+The budget and final accounts of a Specified Sports Association shall be reported to the central competent authority for reference.
+
+A Specified Sports Association shall, within three months after the end of each year, after examined and approved by accountants recognized by the central competent authority, submit its accounts and financial statements to the central competent authority for reference and announcement. The central competent authority may appoint other accountants to review if needed.
+
+The central competent authority shall, at any time, dispatch or appoint an accountant to inspect the financial statements and financial statements to check the report, internal control and other matters together with the sports professional fair concerned, and the Specified Sports Association shall cooperate in giving relevant information and may not circumvent, obstruct or reject.
+
+Specified Sports Associations who accept the subsidy of the competent authorities should publish such information of subsidy in their financial area of official websites.
+
+### Article 36
+
+Specified Sports Associations should not appoint the spouse or relatives within three degrees of current chairman（director）and the secretary general as the regular staff. The limit applies to the ones appointed before such chairman（director）and the secretary general takes the position.
+
+Directors, supervisors, executive directors, executive supervisors and the chairman（director）may not serve as staff.
+
+### Article 37
+
+The athlete, coach or local sport association who disagree with the decision made by the Specified Sports Associations of the matters listed below, may make complaints to such Association. With no satisfaction of the decision of the complaint, it may plead for an arbitration within a fix period of time to the arbitral institution for sports disputes recognized by the central competent authority to which the concerned Association may not refuse.
+
+\1. Violation of rules of games by athletes and coaches.
+
+\2. Rights and interests of athletes or coaches concerning audition, training, qualification, nomination and other rights and obligations as prescribed in Article 21（2）.
+
+\3. The Rights and obligations between athlete and any third person or Specified Sports Association and any third person arising from sponsor contracts.
+
+\4. The group membership or the rights and obligations of local sports associations.
+
+The parties to the disputes respecting of the contract signed in subparagraph 2 and 3 of the preceding paragraph between the Specified Sports Associations, or the dispute between the athletes and the Specified Sports Associations may apply for arbitration in accordance with the provisions of this Article.
+
+Parties that have applied for arbitration in accordance with the provisions of the preceding 2 paragraphs may not file legal proceeding for the same dispute. The court shall dismiss such suit. If the case is filed before the arbitration is applied, the court shall, upon the request made by the other party, stop the proceedings and order the plaintiff, in a certain period of time, to apply for arbitration in accordance with the provisions of the preceding two paragraphs. If the plaintiff fails to apply for arbitration within the period of time, the court shall dismiss the suit. Should the arbitration award be determined the after the court has stopped proceeding, the suit shall be deemed as withdrawn.
+
+The terms, procedure, dismissal of the recognition of arbitration institution of the paragraph 1 and the qualifications, methods of selecting of the institutional members and the arbitrating  procedure, the period of application for arbitration, the provisions to be applied, the arbitration fees and other regulations shall be determined by the central competent authority.
+
+If the party concerned refuses to accept the award made by the arbitral institution, it shall, within thirty days from the date of delivery or service of the award, file or renew a proceeding to the court. The arbitral award and the final decision made by the courts shall, to the parties concerned, have the same effect.
+
+The arbitration award made by the arbitral institution shall have the same effect as the judgment of the court should the parties to the disputes agree to  use the arbitration set forth in this Act.
+
+Where the parties to the dispute reach an agreement in the course of the arbitration proceedings, the result of the agreement shall be reported to the arbitration institution and the central competent authority for reference and the arbitration procedure shall be terminated.
+
+### Article 38
+
+The Specified Sports Associations that have been established before the implementation of the amendments to this Act on August 31, 2017 shall amend their charters in accordance with the provisions of the preceding paragraph within six months from the date of the amendment of this Act. According to the charter, the Associations shall have the individual sports committee（association）of municipalities and counties（cities）and all levels of school as a group member, adjust the number of representatives of the group members, and commence the meeting of remembers（representatives）to reselect the director and supervisors.
+
+### Article 39
+
+A person shall not serve as the president (chairperson) or secretary-general of a specified sports association under any of the following circumstances:
+
+\1. Been sentenced to imprisonment or a more severe penalty, where the judgment has become final and the sentence has not yet been executed or has not been fully executed. This restriction does not apply to a person whose sentence is suspended.
+
+\2. Been subject to a final judgment imposing a Rehabilitative Measure, where the measure has not yet been executed or has not been fully executed.
+
+\3. Been declared bankrupt and rights and privileges have not been reinstated.
+
+\4. Being under a declaration of guardianship or assistance that has not been revoked.
+
+Persons who are spouses, relatives by blood within the third degree of kinship, or relatives by marriage within the first degree may serve on the board of directors or board of supervisors of the same specified sports association, provided that they do not:
+
+\1. Serve concurrently as a director and a supervisor.
+
+\2. Serve concurrently as director.
+
+\3. Serve concurrently as supervisor.
+
+The term of office of the president (chairperson) of a specified sports association shall not exceed four years. The president (chairperson)  may be re-elected for one additional term only.
+
+A specified sports association shall appoint directors in accordance with the following requirements:
+
+\1. Directors who are current or former national team athletes shall constitute no less than one-fifth of the total number of directors.
+
+\2. Individual member directors and group members shall each constitute no more than one-half of the total number of directors.
+
+Any change in the president (chairperson), directors, or supervisors of a specified sports association shall be reported to the central competent authority for approval within 30 days, after which it shall be filed with the competent authority under the Civil Associations Act for recordation.
+
+The  president (chairperson), directors, supervisors, and secretary-general of a specified sports association shall observe the principle of conflict-of-interest avoidance and shall not exploit their official authority, opportunities, or means arising from their positions to seek benefits for themselves or related persons.
+
+Incumbent political appointees of central government officials and the central legislators may not serve as directors or supervisors of the specified sports associations referred to in the preceding paragraph.
+
+In the composition of the board of directors and the board of supervisors of a specified sports association, each gender shall account for no less than one-third of the total number of directors and supervisors, respectively. This requirement may be waived under special circumstances upon approval by the central competent authority.
+
+The central competent authority shall prescribe regulations governing the special circumstances referred to in the preceding paragraph, the deadline and procedures for rectifying noncompliance with the required ratio, and other matters to be observed.
+
+### Article 40
+
+Specified Sports Associations should, so required by the operation, invite the experts, scholars and just non-governmental to found each committee.
+
+The committee of the preceding paragraph should include audition and training, coaches, referees and the discipline the committee of the athlete. The organizational rules and the list of committee member should be reported to the central competent authority.
+
+### Article 41
+
+Specified Sports Associations should appoint regular staff to execute the operation of the association.
+
+Specified Sports Associations that have the position of secretary general and vice secretary general should appoint persons with sports profession or experience in operation. At least one of them should have expertise in sports.
+
+Specified Sports Connotation should select their employees by the director（chairman）according to the qualification and condition set in the preceding 2 paragraphs, and the selection should be reported to the central competent authority once the board of director has approved such selection.
+
+### Article 42
+
+The organization, proceedings, rights and obligations of and between the association and its member, complaint, guidance by the competent authority and other regulations are to be decided by the central competent authority. For any affairs other than prescribed hereinto, the Civil Associations Act shall apply.
+
+Specified Sports Association that is bound by international laws and regulations shall operate in accordance with the charter of the association and relevant regulations.
+
+Each competent authority of municipal and county（city）may, according to this Act and other laws and regulations, promulgate ordinances of management for Sports Associations in their jurisdiction,
+
+### Article 43
+
+Each competent authority may deliver warning note to, withdraw its resolutions or suspend its business in part or in whole any Specified Sports Associations that violate laws, regulations and charters or impair public interests and require such Association to improve the condition within specific period. When there is no improvement made as the period is expired or as the violations are serious, the competent authority may:
+
+\1. Suspend the reward and subsidy in whole or in part.
+
+\2. Dismiss its staff.
+
+\3. Have it rearranged in the fix period of time.
+
+\4. Transfer it to the competent authority of the Civil Associations Act to abolish its permit.
+
+\5. Transfer it to the competent authority of the Civil Associations Act to order the disincorporation for the such Association.
+
+## Chapter 7 Sports Facilities
+
+### Article 44
+
+To promote national sports, governments at all levels shall establish diverse, inclusive, and accessible public sports facilities and provide equipment suitable for users of different ages and abilities. These facilities shall be subject to the guidance and evaluation of the respective competent authorities.
+
+The central competent authority shall determine regulations governing the establishment requirements for the public sports facilities in the preceding paragraph, and their facility standards, safety measures, personnel requirements, emergency response procedures, equipment inspection and maintenance, insurance, evaluation, incentives, and other matters.
+
+## Chapter 8 Supplementary Provisions
+
+### Article 45
+
+The enforcement rules of this Act shall be determined by the central competent authority. However, with respect to matters involving Indigenous traditional sports, the central competent authority shall consult with the central competent authority responsible for Indigenous affairs before establishing such rules.
+
+### Article 46
+
+This Act comes into force as of the date of announcement.
+
+## History
+
+\1. All 13 articles were formulated and announced through issue 143 of the Nationalist Government Gazette on 16th April 1929.
+
+\2. All 11 articles were amended through issue 395 of the Nationalist Government Gazette Chongqing Edition on 9th September 1941.
+
+\3. All 15 articles were amended in accordance with Presidential Taiwan 1st Yi Order No. 6835 through the Office of the President Gazette on 19th January 1982.
+
+\4. Articles 4~10, 12~14 were amended in accordance with Presidential 1st Yi Order No. 8700215640 on 21st October 1998.
+
+\5. Article 4 was amended in accordance with Presidential 1st Yi Order No. 8900011930 on 19th January 2000.
+
+\6. All 22 articles were amended in accordance with Presidential 1st Yi Order No. 8900301070 on 20th December 2000.
+
+\7. Article 13 was amended in accordance with Presidential 1st Yi Order No. 09200019220 on 6th February 2003.
+
+\8. Article 13 was amended in accordance with Presidential 1st Yi Order No. 09600088621 on 11th July 2007.
+
+\9. Article 13 was amended in accordance with Presidential 1st Yi Order No. 10000246161 on 9th November 2011; date of coming into force stipulated in item 5 of the amended article will be determined by the central competent authority.
+
+\10. Articles 3 and 6 were amended in accordance with Presidential 1st Yi Order No. 10200225251 on 11th December 2013.
+
+\11. Articles 4、8 and 18 were amended in accordance with Presidential 1st Yi Order No. 10500040041 on 11th May 2016.
+
+\12. All 46 Articles of the Act were amended and promulgated on September 20th, 2017 by the Presidential Order Hua (I) Yi No 10600115131.
+
+\13. Amendment to Article 22 promulgated on January 19, 2022 by Presidential Decree No. Hua-Zong-1-Yi-Zi-11100002611.
+
+\14. Amendment to Articles 5 and 23, and addition of Article 20-1 promulgated on August 7, 2024, by Presidential Decree No. Hua-Zong-1-Yi-Zi-11300069591.
+
+\15. Amendments to Articles 2, 3, 39, 44, and 45 promulgated on July 15, 2026, by Presidential Decree No. Hua-Zong-1-Yi-Zi-11500063931.

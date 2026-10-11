@@ -1,0 +1,387 @@
+---
+title: "Act for the Establishment of Taiwan Institute of Ocean Technology"
+title_zh: "國家海洋科技營運中心設置條例"
+identifier: "D0000283"
+type: act
+law_level: "法律"
+category: "行政＞海洋委員會＞組織目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2025-07-02
+last_amended: 2025-07-02
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0000283"
+retrieved: 2026-10-12
+---
+
+# Act for the Establishment of Taiwan Institute of Ocean Technology
+
+> Translation. The Chinese text ([zh/laws/ocean-affairs-council/D0000283-act-for-the-establishment-of-taiwan-institute-of-ocean-technology.md](../../../zh/laws/ocean-affairs-council/D0000283-act-for-the-establishment-of-taiwan-institute-of-ocean-technology.md)) is authoritative.
+
+## Chapter 1 General Provisions
+
+### Article 1
+
+For the purpose of enhancing the R.O.C.’s ocean technology capabilities and strengthen its research capacity in marine science and technology, the Taiwan Institute of Ocean Technology (hereinafter referred to as “the Institute”) is hereby established, and this Act is enacted accordingly.
+
+### Article 2
+
+The Institute is a non-departmental public body, and its supervisory authority is the Ocean Affairs Council.
+
+The Ocean Affairs Council may designate a specific agency or institution to oversee the operations of the Institute.
+
+### Article 3
+
+The Institute’s scope of the business shall include:
+
+\1. Research and development of marine survey and experimental technologies.
+
+\2. Operation and management of national oceanographic research vessels, the multifunctional basin of the Taiwan Ship Model Testing Laboratory, and other marine technology facilities.
+
+\3. Assistance in the cultivation of professional talents in marine technology.
+
+\4. Promotion of international cooperation and exchange in marine technology.
+
+\5. Assistance in the investigation of underwater cultural heritage.
+
+\6. Undertaking commissioned work related to marine research, surveys, and ship technology.
+
+\7. Conducting marine research and surveys as instructed by the supervisory authority.
+
+\8. Other affairs related to ocean technology.
+
+### Article 4
+
+The sources of funding for the Institute are as follows:
+
+\1. Allocations and grants (or subsidies) from the government.
+
+\2. Donations from domestic and international public and private institutions, organizations, and individuals.
+
+\3. Incomes from commissioned research and services provided.
+
+\4. Revenues from operations and research and development.
+
+\5. Other sources of Incomes.
+
+Government subsidies mentioned in Subparagraph 1 of the preceding paragraph include expenses for personnel, major maintenance and procurement of buildings and fixed facilities, and other special maintenance projects.
+
+Donations described in Subparagraph 2 of Paragraph 1 shall be deemed as donations to the government.
+
+### Article 5
+
+The Institute shall establish its organizational charter, personnel management regulations, accounting system, internal control, auditing procedures, and other relevant rules. These shall be submitted to the board of directors for approval and then reported to the supervisory authority for record.
+
+Regarding public affairs under its execution, the Institute may, within the scope not conflicting with relevant laws or regulatory orders, establish additional rules, which shall also be submitted to the board of directors for approval and then reported to the supervisory authority for record.
+
+## Chapter 2 Organization
+
+### Article 6
+
+The Institute shall establish a board of directors consisting of eleven to fifteen members. These directors shall be selected by the supervisory authority from among the following individuals and submitted to the Premier of the Executive Yuan for appointment; the same procedure shall apply for dismissal:
+
+\1. Representatives from relevant government agencies or institutions.
+
+\2. Scholars and experts in marine and ship research, law, or finance.
+
+The number of directors under Subparagraph 1 of the preceding paragraph shall not be less than one-half of the total number of directors.
+
+Members of either gender shall not be fewer than one-third of the total number of directors specified in Paragraph 1.
+
+### Article 7
+
+The Institute shall have three to five supervisors. These supervisors shall be selected by the supervisory authority from among the following individuals and submitted to the Premier of the Executive Yuan for appointment; the same procedure shall apply for dismissal:
+
+\1. Representatives from relevant government agencies or institutions.
+
+\2. Scholars and experts in marine and ship research, law, accounting, or finance.
+
+The supervisors shall elect one among themselves to serve as the standing supervisor.
+
+Members of either gender shall not be fewer than one-third of the total number of supervisors specified in Paragraph 1.
+
+### Article 8
+
+The term of office for directors and supervisors shall be three years, and they may be reappointed once. The number of reappointed members shall not be less than one-third and shall not exceed two-thirds of the total number of directors or supervisors.
+
+Directors and supervisors appointed as representatives of government agencies or institutions pursuant to Article 6, Paragraph 1, Subparagraph 1, and the preceding article, Paragraph 1, Subparagraph 1, shall be reappointed upon change of their official positions and shall not be subject to the limitation on the number of reappointments stated in the preceding paragraph. If a vacancy arises before the expiration of the term for any director or supervisor appointed pursuant to Article 6, Paragraph 1, Subparagraph 2, and the preceding article, Paragraph 1, Subparagraph 2, the supervisory authority shall select a replacement and submit the appointment to the Premier of the Executive Yuan. The term of the successor shall be the remainder of the original term.
+
+### Article 9
+
+A person shall not be appointed as a director or supervisor under any of the following circumstances:
+
+\1. Has subject to the order of the commencement of guardianship or under assistance and the order has not been revoked.
+
+\2. Has been convicted of a crime with a sentence of imprisonment or a more severe punishment, without a declaration of probation.
+
+\3. Has been declared bankrupt or has had a liquidation procedure initiated by court ruling under the Consumer Debt Clearance Statute and without resumption of rights.
+
+\4. Has been deprived of citizen’s rights and not yet reinstated.
+
+\5. Has failed the security check specified in Article 20 or has refused to undergo the check.
+
+A director or supervisor who falls under any of the above circumstances or who, without just cause, fails to attend or participate in three consecutive board meetings shall be dismissed.
+
+A director or supervisor may be dismissed under any of the following circumstances:
+
+\1. Misconduct or improper behavior that damages the Institute’s image, with concrete evidence.
+
+\2. Poor performance or negligence of duties, with specific facts or serious violations of the terms of appointment.
+
+\3. Failure to meet the performance evaluation standards set by the supervisory authority for two consecutive years.
+
+\4. Violation of the Administrative Neutrality Act for Civil Servants, with concrete evidence.
+
+\5. Involvement in lobbying or influence in matters under their jurisdiction, or acceptance of entertainment or gifts due to their official position, resulting in harm to public interest or the Institute’s interests, with concrete evidence.
+
+\6. Use of the Institute’s property without official need, with concrete evidence.
+
+\7. Violation of the conflict-of-interest provisions under Paragraph 1 of Article 16 or Article 17, with concrete evidence.
+
+\8. Any other conduct deemed inappropriate for holding the position of director or supervisor.
+
+For any of the above circumstances, the supervisory authority shall provide the person concerned with an opportunity to present statements and defend themselves before dismissal.
+
+The regulations governing the selection, dismissal, replacement, and other related matters of directors and supervisors of the Institute shall be prescribed by the supervisory authority.
+
+### Article 10
+
+The Institute shall have one chairperson, who shall be appointed by the Premier of the Executive Yuan upon the nomination of the supervisory authority from among the directors; the same procedure shall apply for dismissal.
+
+The appointment of the chairperson shall be conducted in accordance with selection procedures formulated by the supervisory authority.
+
+The chairperson shall oversee all internal affairs of the Institute and represent the Institute externally. If the chairperson is unable to perform their duties for any reason, a director designated by the chairperson shall act on their behalf. If no designation is made, the directors shall elect one among themselves to act on the chairperson’s behalf.
+
+The chairperson shall not be initially appointed if over the age of sixty-five. The chairperson shall be replaced, if reaching the age of seventy before the end of their term. However, exceptions may be made with special consideration and approval by the Executive Yuan.
+
+### Article 11
+
+The chairperson, directors, standing supervisor, and supervisors of the Institute shall all not receive remuneration.
+
+### Article 12
+
+The powers and responsibilities of the board of directors are as follows:
+
+\1. Reviewing development goals and plans.
+
+\2. Reviewing the annual operation plan.
+
+\3. Fundraising and allocation of budgets.
+
+\4. Reviewing the annual budget and final accounts.
+
+\5. Reviewing regulations and rules.
+
+\6. Reviewing the disposal or encumbrance of owned real estate.
+
+\7. Appointing and dismissing the chief executive officer.
+
+\8. Reviewing matters that, under this Act, require a resolution of the board of directors.
+
+\9. Reviewing other major matters.
+
+### Article 13
+
+The board of directors shall convene once every three months; extraordinary meetings may be called when necessary by the chairperson, who shall also preside over the meetings.
+
+Meetings of the board shall require the attendance of more than half of all directors. Resolutions shall be adopted with the consent of a majority of the attending directors. However, for resolutions concerning Subparagraph 1 through 8 of the preceding articles, the consent of more than half of the total number of directors is required.
+
+### Article 14
+
+The powers and responsibilities of the supervisors are as follows:
+
+\1. Auditing the annual operational final accounts.
+
+\2. Supervising operations and financial status.
+
+\3. Inspecting financial books, documents, and property records.
+
+\4. Auditing or inspecting other major matters.
+
+Supervisors shall exercise their powers individually. The standing supervisor shall attend meetings of the board of directors on behalf of all supervisors.
+
+### Article 15
+
+Directors and the standing supervisor shall attend or participate in meetings of the board of directors in person and may not appoint others to attend on their behalf.
+
+### Article 16
+
+Matters concerning conflict of interest involving directors, supervisors, the chief executive officer, or individuals holding equivalent positions, as well as their related parties, shall be handled in accordance with the Act on Recusal of Public Servants Due to Conflicts of Interest.
+
+If a violation of the preceding paragraph causes damage to the Institute, the responsible party shall be liable for compensation.
+
+Personnel mentioned in Paragraph 1 who violate the Act on Recusal of Public Servants Due to Conflicts of Interest shall be subject to penalties under that Act, and the supervisory authority may also impose appropriate penalty. The regulations governing such measures shall be prescribed by the supervisory authority.
+
+### Article 17
+
+No director or supervisor shall be related to another as a spouse or as a relative by blood or marriage within the third degree of kinship.
+
+### Article 18
+
+The Institute shall have one chief executive officer who shall serve full-time and be appointed upon the nomination of the chairperson and approval by the board of directors; the same procedure shall apply for dismissal.
+
+The chief executive officer, shall carry out the operations of the Institute in accordance with the Institute’s regulations, resolutions of the board of directors, and the authorization of the chairperson, and shall supervise the personnel under their charge.
+
+The provisions applicable to directors and the chairperson under Paragraphs 1 to 4 of Article 9, Paragraph 4 of Article 10, Article 17, Paragraphs 2 and 3 of Article 19, and Subparagraph 6 of Article 23 shall apply mutatis mutandis to the chief executive officer.
+
+### Article 19
+
+Personnel employed by the Institute shall be governed by the Institute’s personnel management regulations and shall not hold civil servant status. Their rights and obligations shall be clearly specified in their contracts.
+
+Spouses, blood relatives, or relatives by marriage within the third degree of kinship of any director or supervisor shall not hold positions in general affairs, accounting, or personnel within the Institute.
+
+The chairperson shall not employ their spouse or relatives by blood or marriage within the third degree of kinship to any position within the Institute.
+
+Directors, supervisors, and personnel of the Institute shall not use their positions to commit acts of bribery in violation of the law, or to damage the reputation of the Institute.
+
+Those who violate the preceding paragraph that results in damage to the Institute shall be liable for compensation.
+
+### Article 20
+
+Personnel of the Institute shall be subject to general or special security checks based on the level of information confidentiality involved in their duties.
+
+General security checks shall be conducted by the supervisory authority in accordance with applicable regulations. Special security checks involving national security or significant national interests shall be jointly conducted by the supervisory authority and relevant agencies.
+
+For personnel being considered for employment, security checks shall be conducted in advance. Those who refuse to undergo the check or fail the check shall not be employed.
+
+Personnel of relevant agencies who are legally required to conduct security checks but negligently fail to do so, and whose actions involve serious circumstances, shall be referred to the Control Yuan for action in accordance with the law.
+
+Regulations governing the applicable subjects, procedures, content, and remedies related to security checks shall be prescribed by the supervisory authority in consultation with relevant agencies.
+
+### Article 21
+
+Personnel of the Institute, whether currently employed or within three years of resignation, shall obtain approval from the supervisory authority before traveling abroad (or exiting the territory). Where other laws or regulations provide otherwise, such provisions shall prevail.
+
+The regulations governing the scope of personnel specified in the preceding paragraph, the criteria for information confidentiality, application procedures, approval conditions, revocation, and other related matters shall be prescribed by the supervisory authority.
+
+## Chapter 3 Operations and Supervision
+
+### Article 22
+
+The Institute shall formulate its development goals and plans, which shall be submitted to the board of directors for approval and then submitted to the supervisory authority for ratification.
+
+The Institute shall also prepare an annual operation plan and its corresponding budget, which shall be submitted to the board of directors for approval and then reported to the supervisory authority for record.
+
+### Article 23
+
+The supervisory authority shall have the following powers of supervision over the Institute:
+
+\1. Ratification of development goals and plans.
+
+\2. Ratification or recordation of regulations, annual operation plans and budgets, annual performance results, and final accounts reports.
+
+\3. Inspection of property and financial status.
+
+\4. Evaluation of operational performance.
+
+\5. Recommendations for the appointment or dismissal of directors and supervisors.
+
+\6. Taking necessary actions when directors or supervisors violate laws or regulations in the execution of their duties.
+
+\7. Issuing orders for revocation, modification, annulment, correction within a specified time, suspension of execution, or other actions when the Institute violates the Constitution, laws, or administrative regulations.
+
+\8. Approval of the disposal or encumbrance of owned real estate.
+
+\9. Other supervisory actions in accordance with the law.
+
+### Article 24
+
+The supervisory authority shall convene representatives from relevant agencies, scholars and experts, and impartial members of society to conduct performance evaluations of the Institute. Among these, the number of scholars, experts, and impartial members of society shall not be less than two-thirds of the evaluation committee.
+
+No single gender shall constitute less than one-third of the total number of evaluation committee members mentioned in the preceding paragraph.
+
+The contents of the performance evaluation referred to in Paragraph 1 shall include the following:
+
+\1. Assessment of the Institute’s annual performance results.
+
+\2. Evaluation of the Institute’s operational performance and goal achievement rate.
+
+\3. Assessment of the Institute’s achievement rate for self-generated funding.
+
+\4. Recommendations on the allocation of the Institute’s budget.
+
+\5. Other relevant matters.
+
+The methods, procedures, and other related matters for the performance evaluation mentioned in Paragraph 1 shall be prescribed by the supervisory authority.
+
+## Chapter 4 Accounting and Finance
+
+### Article 25
+
+The fiscal year of the Institute shall coincide with the government’s fiscal year.
+
+The Institute’s accounting system shall be established in accordance with the relevant regulations governing the accounting systems of administrative legal persons.
+
+The Institute’s financial statements shall be audited and certified by a certified public accountant.
+
+### Article 26
+
+Within three months after the end of each fiscal year, the Institute shall have its annual performance results and final accounts report audited and certified by a certified public accountant. The documents shall then be reviewed by the board of directors and approved by all supervisors before being submitted to the supervisory authority for record and forwarded to the auditing authority.
+
+The auditing authority may audit the final accounts report mentioned in the preceding paragraph. The audit results may be submitted to the supervisory authority or other relevant agencies for necessary action.
+
+### Article 27
+
+The government funding allocated for the Institute in its year of establishment may be adjusted by the supervisory authority within the scope of the original budget, and shall not be subject to the restrictions set forth in Articles 62 and 63 of the Budget Act.
+
+### Article 28
+
+Funds allocated to the Institute by government agencies or institutions shall be processed in accordance with statutory budget procedures and be subject to audit supervision.
+
+If the funds mentioned in the preceding paragraph exceed 50 percent of the Institute’s total budgeted revenue for the fiscal year, the supervisory authority shall submit the Institute’s annual budget to the Legislative Yuan for deliberation.
+
+The Institute shall establish revenue and expenditure management regulations for its self-generated financial resources and their utilization, which shall be submitted to the supervisory authority for approval.
+
+### Article 29
+
+For operational needs, the Institute may acquire public property through purchase or by donation, lease, or gratuitous use provided by government agencies or institutions. In the case of donations, the relevant restrictions set forth in Article 25 of the Land Act, Articles 28 and 60 of the National Property Act, and related local government public property regulations shall not apply.
+
+The purchase price of public land under the preceding paragraph shall be based on the current publicly announced land value. The price of above-ground improvements shall be based on the assessed current value provided by the tax authority for the relevant year; if no such value exists, the valuation by the public property management agency shall apply.
+
+Property acquired by the Institute using funds allocated by government agencies or institutions for designated purposes shall be deemed public property.
+
+Property obtained through lease or gratuitous use as described in Paragraph 1, and property acquired by the Institute apart from the public property mentioned in the preceding paragraph, shall be considered the Institute’s own property.
+
+For public property provided on a gratuitous basis under Paragraph 1 and public property described in Paragraph 3, the Institute shall be registered as the managing agency. Income derived from such property shall be listed as the Institute’s revenue and shall not be subject to Article 7, Paragraph 1 of the National Property Act or related local government public property regulations. Regulations governing the management, use, and income of such property shall be prescribed by the supervisory authority.
+
+When public property is no longer needed for its intended use, it shall be handed over to the relevant government property management agency.
+
+If the Institute receives donations of public real estate and no longer requires its use, such property shall be returned to the original donating agency or institution and may not be disposed of at will.
+
+### Article 30
+
+The Institute may incur debt only for purposes that are self-liquidating in nature, and such borrowing must first be approved by the supervisory authority. If, during budget execution, there is a risk that the debt may not be self-liquidating, the Institute shall promptly review the situation, propose improvement measures, and submit them to the supervisory authority for approval.
+
+### Article 31
+
+The Institute’s procurement operations shall be conducted in accordance with the principles of openness and fairness. Except for procurements that fall under treaties, agreements concluded by the R.O.C., or the circumstances specified in Article 4, Paragraph 1 of the Government Procurement Act, which shall be handled in accordance with the respective provisions, the Government Procurement Act shall not apply. The implementation regulations for procurement operations shall be submitted to the supervisory authority for approval.
+
+For procurements mentioned in the preceding paragraph that must be handled in accordance with Article 4, Paragraph 1 of the Government Procurement Act, if other laws provide otherwise, such provisions shall prevail.
+
+### Article 32
+
+The Institute shall disclose relevant information in accordance with the provisions of the Freedom of Government Information Law. Its annual financial statements, annual operational information, and annual performance evaluation reports shall be proactively disclosed.
+
+The annual performance evaluation report mentioned in the preceding paragraph shall be accompanied by an analysis report prepared by the supervisory authority and submitted to the Legislative Yuan for record. When necessary, the Legislative Yuan may require the head of the supervisory authority, together with the chairperson, chief executive officer, or relevant personnel of the Institute, to report on operational matters and respond to inquiries.
+
+## Chapter 5 Supplementary Provisions
+
+### Article 33
+
+Any person who disagrees with an administrative disposition made by the Institute may file an administrative appeal with the supervisory authority in accordance with the provisions of the Administrative Appeal Act.
+
+### Article 34
+
+If, due to changes in circumstances or poor performance, the Institute is no longer able to fulfill the purpose of its establishment, it shall be dissolved upon the approval of the Executive Yuan as proposed by the supervisory authority.
+
+Upon dissolution, the Institute shall terminate the contracts of its personnel; any remaining assets shall revert to the National Treasury; and any outstanding debts shall be assumed in full by the supervisory authority.
+
+### Article 35
+
+The date of enforcement of this Act shall be determined by the Executive Yuan.
+
+## History
+
+1.The Presidential Order Hua-Zong-Y1-Yi-Zi No. 11400066101 on July 2, 2025，amended and promulgated the full text of 35 articles; the date of implementation to be determined by the Executive Yuan.

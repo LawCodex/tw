@@ -1,0 +1,113 @@
+---
+title: "Taiwan Police College Organization Act"
+title_zh: "臺灣警察專科學校組織條例"
+identifier: "D0000034"
+type: act
+law_level: "法律"
+category: "行政＞內政部＞組織目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1988-04-29
+last_amended: 1988-04-29
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0000034"
+retrieved: 2026-10-12
+---
+
+# Taiwan Police College Organization Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-the-interior/D0000034-taiwan-police-college-organization-act.md](../../../zh/laws/ministry-of-the-interior/D0000034-taiwan-police-college-organization-act.md)) is authoritative.
+
+## Article 1
+
+This Act is enacted pursuant to Paragraph 2 of Article 2 of the Police Education Act.
+
+## Article 2
+
+Taiwan Police College (hereafter referred to as “the College”) was established in the Taiwan region, which is subordinate to the National Police Agency of the Ministry of the Interior to conduct police education in accordance with relevant provisions of the Police Education Act and subject to guidance from the Ministry of Education in accordance with the Junior College Act.
+
+## Article 3
+
+The College shall establish the following offices and facilities:
+
+\1. Academic Affairs Office: responsible for academic affairs.
+
+\2. Guidance Office: responsible for discipline and graduate (personnel) counseling.
+
+\3. General Affairs Office: responsible for general administration.
+
+\4. Secretariat: responsible for matters related to meetings, legal affairs, research, documents, official seals, and archives.
+
+\5. Forensics Laboratory: responsible for all types of scientific experimentation, research, and appraisal related to police matters.
+
+\6. Library: responsible for library management.
+
+The above-mentioned  units may be organized into sections to handle specific tasks.
+
+## Article 4
+
+The College may establish relevant departments and classes if needed, and may establish branches with the approval of the Ministry of the Interior in conjunction with the Ministry of Education.
+
+## Article 5
+
+The College shall appoint a president, with the selected rank, to oversee the affairs of the College, and a vice president, with the selected rank or recommended rank rank, to assist the president in administering the affairs of the College.
+
+## Article 6
+
+The College faculty shall consist of 20 to 46 professors, associate professors, lecturers, and teaching assistants, all appointed in accordance with the regulations of the Act Governing the Appointment of Educators; 40 to 94 instructors, among whom one should hold the recommended rank or selected rank, 9 to 22 who may hold the recommended rank, and 13 to 31 who may hold  the  delegated rank or recommended rank, with the remainder holding the delegated rank.
+
+Each department, class, and branch of the College shall appoint a director, with each position filled on a part-time basis by a professor, associate professor, or instructor who holds the recommended rank or above.
+
+## Article 7
+
+The College administration shall have a Chief Secretary with the recommended rank or selected rank; five directors with the recommended rank, three of whom may be of the junior rank (grade 8 to 9); one secretary with the recommended rank; two editors and two technical personnel of the junior rank (grade 7 to 8); 6 to 12 section chiefs with the delegated rank or recommended rank; 21 to 35 staff members with the delegated rank or above, of whom five may hold the recommended rank with two of them of the junior rank (grade 6 to 7), and four to eight of them with the elementary rank (grade 4 to 5); three to five technical personnel with the elementary rank (grade 4 to 5), of whom one may hold a position ranging from the junior rank (grade 6 to 7); three to five assistant technicians with positions ranging from the elementary rank (grade 3 to 5); 12 to 16 senior clerks with positions ranging from the elementary rank (grade 3 to 4); and 16 to 20 employees to be hired.
+
+## Article 8
+
+The College shall establish a Medical Office responsible for health care and medical matters. It shall appoint two or three physicians with positions ranging from the junior rank (grade 5) to junior rank (grade 6 to 8), or in necessary cases in accordance with  the regulations of the Employment Act, with one physician concurrently serving as the director; one or two pharmacist or pharmacy assistants, and three or four nurses; the pharmacy assistants and nurses shall hold positions ranging from the elementary rank (grade 3 to 5),  and pharmacists shall hold positions ranging from the elementary rank (grade 5) to junior rank (grade 6 to 7).
+
+## Article 9
+
+The College shall establish a Personnel Office, with one director holding the position of intermediate grade 8 to 9, to handle personnel management in accordance with the law.
+
+Employed staff required by the Personnel Offices shall be appointed from within the personnel quotas specified in this Act.
+
+## Article 10
+
+The College shall establish an Accounting and Statistics Office, appointing a director holding the position  of junior rank (grade 8 to 9), to handle budgetary and accounting affairs in accordance with the law, as well as to handle statistical matters.
+
+Employed staff required by the Accounting and Statistics Offices shall be appointed from within the personnel quota specified in this Act.
+
+## Article 11
+
+The College shall establish a Student Corps responsible for student military training and life management matters. It shall have one corps commander with the recommended rank; one deputy corps commander and two battalion commanders, all with the recommended rank or delegated rank; two deputy battalion commanders, 8 to 20 captains, and 8 to 20 deputy captains, all with the delegated rank or recommended rank; 24 to 60 lieutenants and 8 to 20 sergeants, all with the delegated rank; and 8 to 20 clerks with appointments ranging from elementary rank(grade 3 to 4).
+
+## Article 12
+
+The College shall establish a Security Brigade, appointing one leader, one assistant leader, 10 to 12 team members, all with the delegated rank.
+
+## Article 13
+
+The College shall establish a Police Band, appointing one leader, one assistant leader, and two captains, all employed in accordance with the provisions of the Employment Act; and 28 to 42 members as hired employees.
+
+## Article 14
+
+With the exception of police officers, personnel holding official ranks and grades as stipulated in Articles 7 to 11 shall obtain the employment qualification in accordance with the Civil Service Employment Act, and the applicable professional systems for their positions shall be determined in accordance with Article 8 of the Civil Service Employment Act.
+
+## Article 15
+
+To meet actual needs, the College may establish various police academic research committees; the necessary staff shall be reassigned from within the quotas specified in this Act.
+
+## Article 16
+
+The operational regulations of the College shall be formulated by the College itself and submitted to the National Police Agency of the Ministry of the Interior for approval.
+
+## Article 17
+
+This Act Shall take effect on the date of promulgation.
+
+## History
+
+\1. Enacted and Promulgated by President Order Hua-Tsung (1)-Yi-Tzu No.1580 on Apr 29, 1988

@@ -1,0 +1,93 @@
+---
+title: "Organization Act of the National Development Council"
+title_zh: "國家發展委員會組織法"
+identifier: "A0010106"
+type: act
+law_level: "法律"
+category: "行政＞國家發展委員會＞組織目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2013-08-21
+last_amended: 2022-01-19
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=A0010106"
+retrieved: 2026-10-12
+---
+
+# Organization Act of the National Development Council
+
+> Translation. The Chinese text ([zh/laws/national-development-council/A0010106-organization-act-of-the-national-development-council.md](../../../zh/laws/national-development-council/A0010106-organization-act-of-the-national-development-council.md)) is authoritative.
+
+## Article 1
+
+The Executive Yuan shall establish the National Development Council
+
+( hereinafter referred to as the NDC) to administer  planning, coordination, review and resource allocation for national development.
+
+## Article 2
+
+The NDC shall be in charge of the following matters:
+
+\1. Overall planning, coordination, review and resource allocation  for national development policy.
+
+\2. Overall planning, coordination, review and resource allocation  for national development plans and coordination of gender equality impact assessments for mid-term and long-term projects.
+
+\3. Overall planning, coordination, review and resource allocation  for economic development policy.
+
+\4. Overall planning, coordination, review and resource allocation for social development policy, and guidance and assistance to local governments for the implementation of main policy and mid-term and long-term projects.
+
+\5. Overall planning, coordination, review and resource allocation  for industrial development policy.
+
+\6. Overall planning, coordination, review and resource allocation for human resources development policy.
+
+\7. Overall planning, coordination, review and resource allocation for national land, regional and offshore island development and sustainable development policy.
+
+\8. Overall planning, coordination, review and resource allocation for cultural and ethnic development policy.
+
+\9. Overall planning, coordination, review and resource allocation for supervision and evaluation policy.
+
+\10. Overall planning, coordination, review and resource allocation for administrative and regulatory reform policy, and coordination of regulatory impact assessments.
+
+\11. Overall planning, coordination, review and resource allocation for other national development policy.
+
+## Article 3
+
+The NDC shall have one chairman, who shall concurrently be a Minister without Portfolio of the Executive Yuan; and three vice chairmen, of whom two shall be equivalent to grade 14 and the other at grade 14.
+
+The NDC shall consist of no fewer than 17 and no more than 27 Council Members, designated by the Executive Yuan Premier from among the Executive Yuan Ministers without Portfolio, Secretary-General, Minister of Finance, Minister of  Economic Affairs, Minister of  Transportation and Communications, Minister of Labor, Minister of Agriculture, Minister of Health and Welfare, Minister of  Environment, Minister of Culture, Minister of Science and Technology, Chairperson of the Financial Supervisory Commission, Chairperson of the Council of Indigenous Peoples, Chairperson of the Hakka Affairs Council, Director-General of the Directorate-General of Budget, Accounting and Statistics, Governor of the Central Bank, and the heads of other relevant ministries and commissions, and serving concurrently thereas.
+
+## Article 4
+
+The NDC shall have one Secretary-General at grade 12.
+
+## Article 5
+
+The NDC shall establish the National Archives Administration, to deal with the management and use of government agency records.
+
+## Article 6
+
+The official ranks, grades and number of positions of the NDC staff shall be set forth by a separate personnel establishment table.
+
+## Article 7
+
+Prior to the enforcement of this Act, the personnel without civil service qualification who have been approved for registration in accordance with the Temporarily Assigned Personnel Assignment Act may retain the  civil service ranks and occupational grades of their original job titles until the end of employment.
+
+## Article 8
+
+The date of enforcement of this Act shall be prescribed by the Executive Yuan.
+
+## History
+
+1.Presidential Order No. Hua-Zong-I-Yi-10200156121 21 August 2013
+
+The Organic Act of the National Development Council is hereby promulgated.
+
+Ma Ying-jeou, President
+
+Jiang Yi-huah, Premier
+
+Organic Act of the National Development Council Promulgated on 21 August 2013
+
+2.Article 2 amended by order Presidential Order No. Hua-Zong-I-Yi 11100003401 of January 19, 2022. The date of enactment shall be prescribed by the Executive Yuan.

@@ -1,0 +1,293 @@
+---
+title: "Assembly and Parade Act"
+title_zh: "集會遊行法"
+identifier: "D0080058"
+type: act
+law_level: "法律"
+category: "行政＞內政部＞警政目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1988-01-20
+last_amended: 2021-01-27
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0080058"
+retrieved: 2026-10-12
+---
+
+# Assembly and Parade Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-the-interior/D0080058-assembly-and-parade-act.md](../../../zh/laws/ministry-of-the-interior/D0080058-assembly-and-parade-act.md)) is authoritative.
+
+## Article 1
+
+This Act is enacted to protect people’s right to the freedom of assembly and parade, and to maintain social order.
+
+In cases where this law is not applicable, the provisions of other laws shall apply.
+
+## Article 2
+
+The term “Assembly” hereinafter used in this Act refers to the meetings, speeches, or other mass activities held in public places or  locations accessible to the public.
+
+The term “Parade” hereinafter used in this Act refers to an organized public procession on the streets, roads, alleys, or in other public places or  locations accessible to the public.
+
+## Article 3
+
+The term “Competent authority” hereinafter used in this Act refers to the police precinct that has jurisdiction over the place where the assembly or parade takes place.
+
+If the location of the assembly or parade spans the jurisdictions of two or more police precincts, the competent authority shall be the municipal or county (city) police department.
+
+## Article 4
+
+Assemblies and parades must not advocate communism or territorial separation.
+
+## Article 5
+
+For legally held assemblies and parades, they must not be obstructed through violence, intimidation, or other unlawful means.
+
+## Article 6
+
+Unless approved by the competent authority, any assembly or parade shall not be held in the following areas or their surroundings:
+
+\1. Presidential Office, Executive Yuan, Judicial Yuan, Examination Yuan,  all levels of courts, as well as the official residences of the President and Vice President.
+
+\2. International airports and seaports.
+
+\3. Areas around important military installations.
+
+\4. Foreign embassies, consulates, representative agencies, international organizations and the official residences of their chief directors in the Republic of China (Taiwan).
+
+The areas surrounding the locations mentioned in the preceding paragraphs, as specified in the first and second paragraphs, shall be designated and announced by the Ministry of the Interior, but shall not exceed 300 meters. The areas surrounding the locations mentioned in the third paragraph shall be designated and announced by the Ministry of National Defense, but shall not exceed 300 meters. The areas surrounding the locations mentioned in the fourth paragraph shall be designated and announced by the Ministry of Foreign Affairs, but shall not exceed 50 meters.
+
+## Article 7
+
+There shall be a responsible person for each assembly or parade.
+
+The responsible person for the assembly or parade held by a legally established organization shall be the representative of the organization or another person designated by him/her.
+
+## Article 8
+
+For outdoor assemblies and parades, a permit shall be applied for with the competent authority except in the following conditions:
+
+\1. Assemblies or parades held in compliance with laws and regulations.
+
+\2. Academic, arts and literature, tourism, sports competitions or other similar activities.
+
+\3. Religious and  traditional activities, weddings, funerals, celebrations, or festivities.
+
+A permit is not required for indoor assemblies.  However, if the use of amplifiers or other audiovisual equipment is sufficient to create an outdoor gathering atmosphere, it will be considered as an outdoor gathering.
+
+## Article 9
+
+For outdoor assemblies and parades, the person in charge should fill out an application form, specifying the following details, and submit it to the competent authority at least six days in advance. However, in the event of unforeseeable major emergencies that cannot be immediately convened and cannot achieve their intended purpose, they are not subject to the six-day advance application requirement.
+
+\1. Name, gender, occupation, date of birth, national ID number, residential address, and telephone number of the person in charge of their representative, as well as the names and contact information of any stewards.
+
+\2. The purpose, manner, and start/end times of the assembly or parade.
+
+\3. The location of the assembly or the route of the parade, as well as the assembly and dispersal points.
+
+\4. The estimated number of participants.
+
+\5. The names and quantities of vehicles and items involved.
+
+In the case of the representative mentioned in the preceding paragraph, a proxy consent form should be provided. For the assembly  location mentioned in the third paragraph, consent documents from the owner or manager of the location should be provided. For parades, a detailed route map should be submitted.
+
+## Article 10
+
+The following individuals may not serve as the person in charge, their representatives, or stewards for outdoor assemblies or parades that require permission:
+
+\1. Minors.
+
+\2. Those without Republic of China (Taiwan) nationality.
+
+\3. Individuals who have been sentenced to imprisonment for a term and the sentence has not been executed or has not been completed. However, those granted probation are not subject to this restriction.
+
+\4. Individuals subject to security measures as determined by a final court decision, which have not been executed or have not been completed.
+
+\5. Individuals under guardianship or assistance as declared, and the declaration has not been revoked.
+
+## Article 11
+
+Applications for outdoor assemblies or parades shall be  granted permission unless one of the following circumstances applies:
+
+\1. Violation of the provisions of Article 6 or Article 10.
+
+\2. There is clear evidence indicating a threat to national security, social order, or public interests.
+
+\3. There is clear evidence indicating a threat to life, physical integrity, freedom, or significant property damage.
+
+\4. At the same time, in the same location, or on the same route, another person has applied and obtained permission.
+
+\5. The application is made under the name of an organization that has not been legally established or has had its permission revoked, annulled, or ordered to disband.
+
+\6. Application not in compliance with the provisions provided in Article 9.
+
+## Article 12
+
+The competent authority shall, within three days from the date of receiving the application, notify the person in charge in writing whether permission for the outdoor assembly or parade has been granted or denied.
+
+For applications made in accordance with the provisions of Article 9, paragraph 1, the competent authority shall, within twenty-four hours from the time of receiving the application, notify the person in charge in writing.
+
+If the competent authority fails to notify the person in charge within the time limits specified in the preceding two paragraphs, it shall be considered as permission granted.
+
+## Article 13
+
+The Notification Letter  for permission for an outdoor assembly or a parade shall specify the following information:
+
+\1. Name, date of birth, and residential address of the person in charge; if there is a representative, their name, date of birth, and residential address.
+
+\2. The purpose and the starting & ending time.
+
+\3. The venue of the  assembly or the route of the parade, as well as the gathering and dispersal points.
+
+\4. The number of participants.
+
+\5. Names and number of vehicles and articles.
+
+\6. Number and name(s) of picket staff .
+
+\7. Restrictions.
+
+\8. Name of approval authority and date of approval.
+
+The Notification Letter for denial of permission for an outdoor assembly or parade shall include the reasons for denial and the procedures for appeal if the applicant disagrees.
+
+## Article 14
+
+When approving an outdoor assembly or parade, the competent authority shall put necessary restrictions with regard to on the following matters:
+
+\1. Maintenance of the safety at important areas, facilities or buildings.
+
+\2. Prevention of interference with the duties of government agencies.
+
+\3. Maintenance of traffic order and public health.
+
+\4. Maintenance of tranquility at public areas such as institutions and schools.
+
+\5. The number of participants, time, place, and route of the assembly or parade.
+
+\6. Any disguising that might make personal identification difficult.
+
+## Article 15
+
+In case of natural disasters or serious accidents after an outdoor assembly or a parade is approved; the competent authority shall revoke the permit or change the originally approved time, place, route, or restrictions for the urgent necessity to maintain social order and public interests. In any of the conditions as prescribed in subparagraphs 1 to 6 of Article 11, the permit shall be revoked or canceled.
+
+The revocation, cancelation, or change prescribed in the preceding paragraph, shall be specified in writing and notified to the responsible person prior to the assembly or parade being held. The same shall apply if an assembly or parade is in progress.
+
+## Article 16
+
+The person in charge of an outdoor assembly or parade, upon receiving notification from the competent authority regarding denial of permission, restrictions on permission, revocation of permission, or changes to permission, may, if they disagree, submit a written appeal along with reasons to the higher-level police authority within two days from the date of receiving the notification. However, in cases described in Article 12, paragraph 2, the appeal should be submitted within twenty-four hours from the time of receiving the notification.
+
+When the appeal is believed to have merit, the original competent authority shall revoke or change the original notification. When the appeal is believed to lack merit, the original competent authority shall submit the Appeal Letter along with  the case file within 2 days to its  higher-level police  authority. For conditions in Article 12, Paragraph 2, however, the submission shall be completed within 12 hours upon receipt of the Appeal Letter.
+
+The higher-level police authority shall make a decision within 2 days upon receipt of the case file and notify the responsible person in writing. However, on the conditions prescribed in paragraph 2 of Article 12, the decision shall be made within 12 hours upon receipt of  the case file by which the responsible person shall be notified.
+
+## Article 17
+
+The appeal filed in accordance with the preceding article does not affect the validity of the original notification.
+
+## Article 18
+
+The person in charge of the assembly or parade shall personally be present at the scene to oversee and maintain order during the assembly or parade. If the assembly location or parade route results in litter or pollution after use, they shall also be responsible for cleaning it up.
+
+## Article 19
+
+When the responsible person of an assembly or parade is unable to preside over the assembly or parade or maintain the order on the scene in person, His proxy may act on his or her behalf.
+
+The authority and responsibilities of the proxy shall be the same as those of the responsible person.
+
+## Article 20
+
+The responsible person of an assembly or parade may designate stewards to help maintain order.
+
+The stewards designated in the preceding paragraph shall wear armbands marked with the word “steward” while helping to maintain order on the scene.
+
+## Article 21
+
+Participants in an assembly or parade shall follow instructions given by the responsible person or the  stewards in maintaining order.
+
+Any persons interfering with the assembly or parade shall be excluded by the responsible person or stewards and shall leave the scene immediately.
+
+## Article 22
+
+As soon as the responsible person of an assembly or parade announces discontinuation or completion of the assembly or parade, the participants shall disband immediately.
+
+Any actions taken after the announcement of suspension or conclusion shall be the responsibility of the individuals involved. However, if the participants do not disperse, the person in charge should be responsible for advising and persuading them to leave.
+
+## Article 23
+
+The responsible person of an assembly or parade, his or her proxy, the  stewards and the participants  are prohibited from carrying objects that might endanger lives,  physical integrity, freedom, or property safety of others.
+
+## Article 24
+
+When an assembly or parade is in progress, the police may be present on the scene to maintain order.
+
+At the request of the responsible person of the assembly or parade, the competent authority shall have officers be present on the scene to regulate traffic and maintain order.
+
+## Article 25
+
+The competent authority in charge may issue warnings, stop, or order to dismiss under one of the following circumstances:
+
+\1. When an assembly or parade that requires approval is held without a permit, or its permit has been revoked or canceled but the assembly or parade is still held.
+
+\2. When an assembly or parade conducted with permission violates the terms of the permission or any restrictions imposed.
+
+\3. When an assembly or parade mentioned in Article 8, paragraph 1, violates the law.
+
+\4. When there are other violations of the law.
+
+In the case of warnings, corrective actions, or orders for dissolution mentioned in the preceding paragraph, the competent authority in charge may enforce them forcibly.
+
+## Article 26
+
+The denial of permission, restrictions, or orders for the dissolution of assemblies and parades should be carried out in a fair and reasonable manner, taking into account the balanced protection of the people’s right to assemble and parade against other legal interests. These actions should be implemented through appropriate means and should not exceed the necessary limits to achieve their intended purposes.
+
+## Article 27
+
+If the person in charge or their representative of an assembly or parade that has been granted permission violates the provisions of Article 18, they may be subject to a fine of up to thirty thousand New Taiwan Dollars (NTD).
+
+## Article 28
+
+When an assembly or parade is not dismissed after the competent authority has given a dismissal order, the responsible person of the assembly or parade or his or her proxy or the host shall be fined  not less than  thirty thousand New Taiwan Dollars (NTD) but not exceeding one hundred and fifty thousand NTD.
+
+If the responsible person of the assembly or parade fails to perform the responsibility prescribed in the proviso of paragraph 2 of Article 22, resulting in the continuation of the assembly or parade, he or she shall be fined up to  thirty thousand NTD.
+
+## Article 29
+
+If an assembly or parade is not dismissed after the competent authority has given a dismissal order, but is still in progress and does not obey the order after being stopped, the instigator shall be sentenced to imprisonment of up to two years or criminal detention.
+
+## Article 30
+
+During an assemble or parade, if someone insults or defames government agencies, public servants performing their duties in accordance with the law or another person through texts, images, speeches, or any other means, they may be subject to imprisonment for up to two years, detention, or a fine of up to sixty thousand New Taiwan Dollars (NTD), or a combination of these penalties.
+
+## Article 31
+
+Any persons who violate the provisions of Article 5 shall be sentenced to imprisonment of up to two years, criminal detention, and/or a fine of up to thirty thousand New Taiwan Dollars (NTD).
+
+## Article 32
+
+During an assembly or parade, if stewards unlawfully infringe upon the rights of others, the person in charge and the individual responsible for the actions shall bear joint and several liability for damages. However, if the individual responsible for the actions caused the damage though their own intentional conduct, they shall be solely responsible.
+
+## Article 33
+
+The articles prescribed in Article 23, regardless of ownership, shall all be held into custody and handled in compliance with the law.
+
+## Article 34
+
+The fines prescribed in this Act shall be referred to court for compulsory enforcement in the event that no payment has been made by the notified deadline.
+
+## Article 35
+
+This Act shall come into force from the date of promulgation.
+
+## History
+
+\1. Promulgated by Presidential Order of Hua Zong 1 Yi Zi No. 0171 on Jan. 20, 1988
+
+\2. Amended by Presidential Order of Hua Zong 1 Yi Zi No. 3640 on July 27, 1992
+
+\3. Amended by Presidential Order of Hua Zong 1 Yi Zi No. 09100128080 on June 26, 2002
+
+\4. Amended by Presidential Order of Hua Zong 1 Yi Zi No. 11000006111 on Jan 27, 2021

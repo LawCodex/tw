@@ -1,0 +1,459 @@
+---
+title: "Human Trafficking Prevention Act"
+title_zh: "人口販運防制法"
+identifier: "D0080177"
+type: act
+law_level: "法律"
+category: "行政＞內政部＞移民目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2009-01-23
+last_amended: 2023-06-14
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0080177"
+retrieved: 2026-10-12
+---
+
+# Human Trafficking Prevention Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-the-interior/D0080177-human-trafficking-prevention-act.md](../../../zh/laws/ministry-of-the-interior/D0080177-human-trafficking-prevention-act.md)) is authoritative.
+
+## Chapter One: General Provisions
+
+### Article 1
+
+This Act is enacted to prevent human trafficking and to safeguard the rights of victims.
+
+### Article 2
+
+The terms used in this Act are defined as follows:
+
+\1. Human trafficking: means offense committed willfully and deliberately, for the purpose of exploitation, and in any manner of:
+
+(1) Illegal means: the use of violence, threats, intimidation, confinement, monitoring, drugs, hypnosis, fraud, purposeful concealment of important information, illegal debt bondage, withholding important documents, making use of the victim’s inability, ignorance or helplessness, or other similar means. However, if a victim is under the age of 18, regardless of whether the above means are used, it constitutes human trafficking.
+
+(2) Illegal acts:
+
+a. Engaging in the recruitment, trading, pledging, transportation, delivery, receipt, harboring, hiding, brokering, or accommodating a national or foreign person.
+
+b. Causing others to engage in any sexual intercourse or lewd acts in exchange for any monetary or other considerations.
+
+c. Subjecting others to slavery or practices similar to slavery, forced labor or service, labor to which pay is obviously not commensurate with the work, or committing acts that are criminally punishable under the laws of the Republic of China.
+
+d. Organ harvesting.
+
+\2. Offenses of human trafficking: means acts of human trafficking conducted in violation of this Act, the Criminal Code, Labor Standard Law, or Child and Youth Sexual Exploitation Prevention Act, Human Organ Transplant Act, or other related laws.
+
+\3. Improper debt bondage: means the use of unclear contracts or unreasonable payments of a debt to place people under bondage, in order to fulfill or guarantee the payment of their debts.
+
+\4. Labor to which pay is not commensurate with the work duty: The labor income actually earned by the victim is apparently unreasonable in consideration of the work hours, nature of work, workplace, work environment, and other labor conditions, which are compared with the general labor conditions of similar jobs.
+
+### Article 3
+
+The competent authorities referred to in this Act: the Ministry of the Interior at the central government level; municipal governments at the municipal level; county (city) governments at the county (city) level.
+
+The central competent authority shall be in charge of the following functions:
+
+\1. The research, planning, enactment, promotion, and enforcement of the policies, rules and programs of human trafficking prevention and control.
+
+\2. The coordination and supervision of the municipal and county (city) governments in the execution of human trafficking prevention and control.
+
+\3. The planning, promotion, supervision and execution of the investigation of human trafficking cases and the transfer of criminal cases, the rescue and identification of human trafficking victims, and protection of the personal safety of human trafficking victims.
+
+\4. The safeguard of the human rights, protection and sheltering, resource integration and allocation, promotion, supervision, and execution concerning human trafficking victims without a valid visitor or resident visa that grants permission to work in Taiwan (hereinafter referred to a work permit).
+
+\5. The planning, promotion, supervision and execution of human trafficking prevention publicity and related professional training.
+
+\6. The counseling and assistance to the affairs of human trafficking prevention and control promoted by the local governments and various authorities.
+
+\7. The compilation and publication of human trafficking information.
+
+\8. The international liaison, exchange and cooperation in human trafficking prevention and control.
+
+\9. The planning, supervision, and execution of other national human trafficking prevention and control.
+
+### Article 4
+
+The governments of municipalities and counties (cities) shall regularly hold liaison and coordination conferences on human trafficking prevention and control; designate authorities or departments specifically to integrate the authorities, departments, and manpower related to police affairs, public health affairs, social affairs, labor affairs, and human trafficking prevention and control; and coordinate the specialized operations brigades or service centers of the National Immigration Agency of the Ministry of the Interior to fulfill the following functions (they may request assistance from judicial authorities if necessary):
+
+\1. The execution of the human trafficking prevention and control policies, regulations and programs adopted by the central government and the integration of related resources.
+
+\2. The execution of the investigation of human trafficking cases and the transfer of criminal cases, the rescue and identification of human trafficking victims, and protection of the personal safety.
+
+\3. The screening for designated infectious diseases; medical treatment; evaluation of injury and collection of evidence; psychological counseling; and psychological therapy of human trafficking victims.
+
+\4. The safeguard of the rights, protection and sheltering of human trafficking victims who are nationals with household registration in the Taiwan Area, and the supervision and counseling of organizations that administer sheltering.
+
+\5. The planning and execution of the employment, employment promotion and protection, labor rights, workplace safety, and other related rights of human trafficking victims.
+
+\6. The compilation of statistical information on human trafficking cases.
+
+\7. The execution of other functions related to human trafficking prevention and control.
+
+### Article 5
+
+The provisions of this Act that involve the related central competent authorities’ functions and powers shall be dealt with by the authorities thereof; their powers and responsibilities are divided as follows:
+
+\1. Judicial competent authority: the planning, promotion and supervision of the investigation and prosecution of human trafficking.
+
+\2. Health and welfare competent authority: the planning, promotion and supervision of the screening for designated infectious diseases, medical treatment, injury evaluation and evidence collection, the psychological counseling and psychological therapy of human trafficking victims, protection and sheltering for a human trafficking victim who is a national with household registration in the Taiwan Area.
+
+\3. Labor affairs competent authority: the planning and revision of the policies, regulations, and programs for the employment counseling; employment promotion and protection; labor rights safeguard; and workplace health and safety of the human trafficking victims. The planning, promotion, supervision and execution of the protection and sheltering, and issuance of work permits for human trafficking victims with a valid resident visa.
+
+\4. Coast guard competent authority: the planning, promotion, supervision and execution of the investigation of human trafficking cases, transfer of criminal cases, the rescue and identification and protection of the personal safety of human trafficking victims.
+
+\5. Mainland affairs competent authority: The coordination, liaison and supervision of the human trafficking cases that involve the Mainland Area, Hong Kong or Macau, and other relevant affairs.
+
+\6. Foreign affairs competent authority: the planning, promotion, and supervision of the coordination, liaison, international information sharing, bilateral and non-governmental cooperation concerning human trafficking cases and human trafficking prevention and control.
+
+\7. Agriculture competent authority: labor rights and other necessary assistance for victims of human trafficking who are non-R.O.C. (Taiwan) crew members employed overseas by R.O.C. (Taiwan) fishing vessel operators.
+
+\8. Transportation competent authority: the planning of transportation protection measures for human trafficking and other necessary assistance.
+
+\9. Education competent authorities: education on human trafficking prevention policies, knowledge promotion and other necessary assistance in educational Institutions at all levels.
+
+\10. Other human trafficking prevention and control measures planned and implemented by the related competent authorities in accordance with their respective functions and powers.
+
+## Chapter Two: Prevention and Identification
+
+### Article 6
+
+The central competent authority shall organize the related competent authorities, local governments, and non-governmental organizations to actively conduct activities related to such human trafficking prevention and control as promotion, investigation, rescue, placement protection, and repatriation, and to cooperate with international governmental bodies or non-governmental organizations to eradicate human trafficking.
+
+### Article 7
+
+Personnel conducting human-trafficking-related arrest, investigation, trial, identification of victims, rescue, and placement protection shall have undergone relevant professional training.
+
+### Article 8
+
+Judicial police departments shall dispatch officers to protect any human trafficking victim, social worker or other relevant professional who is assisting in the investigation of human trafficking cases and believed to be in danger during the course of an investigation and trial.
+
+### Article 9
+
+The police personnel, immigration officers, labor affairs personnel, social affairs personnel, medical personnel, civil affairs personnel, household registration personnel, educational personnel, employees of the tourist entities, immigration service entities, as well as employees of private employment service entities, or other personnel engaging in human trafficking prevention and control, upon  discovery of a suspected case of human trafficking during the normal course of their duty, shall immediately notify the local judicial police authority. The judicial police authority, upon being notified, shall promptly take action to implement relevant protection measures.
+
+Anyone not stated in the preceding paragraph, upon the knowledge of a suspected case of human trafficking, may notify the local judicial police authority.
+
+The name, residence address and other identifiable personal information of the people in the preceding two paragraphs shall be kept confidential unless otherwise stated in the laws.
+
+### Article 10
+
+The judicial police authority and labor affairs competent authority shall set up 24-hour special channels, online platforms or telephone hotlines for the reporting of human trafficking.
+
+### Article 11
+
+The judicial police authority (unit), upon discovering or receiving a report on a suspected human trafficking case, shall immediately undertake the identification of human trafficking victims.
+
+The prosecutors, upon the discovery of a suspected case of human trafficking during the course of an investigation, shall immediately refer the case to the judicial police authority (unit) for the identification of human trafficking victims. The court, upon knowledge of a suspected case of human trafficking during the course of a trial, shall immediately refer to the prosecutors for referral to the judicial police authority (unit) for identification.
+
+The judicial police shall request assistance as necessary from social workers or relevant experts while identifying human trafficking victims.
+
+The personnel responsible for identifying victims shall inform the suspected victim of the follow-up procedures and related protection measures before commencing the identification.
+
+The results of identification of the human trafficking victim shall be documented in an identification notice and delivered to the identified person. If the identified person disagrees with the identification results, he/she may, within twenty days from the day following the delivery of the identification notice, submit a written objection with reasons to the superior authority (unit) through the original identification agency (unit).
+
+If the original identification agency (unit) finds that the submitted objection of the preceding paragraph justified, it shall correct it immediately; if it finds such objection unjustified, it shall submit the reasons in writing to the superior authority (unit) within ten days for further resolution. After the superior authority (unit) accepts the objection, shall make a decision within ten days. If the superior authority (unit) believes the reasons of the objection are justifiable, it shall correct it immediately; if it finds such reasons to be unjustifiable, it shall be maintained.
+
+The results of the objection to the identification shall be notified the identified person in writing. The identified person shall no longer express objection to the resolution of the preceding paragraph.
+
+Suspected human trafficking victim shall not be forcibly deported from the State (territory) before the identification or the objection to identification results are decided.
+
+## Chapter Three: Protection of Victims
+
+### Article 12
+
+When any suspected human trafficking victim is in need of medical treatment, the judicial police shall immediately inform the local health department and escort the victim to the local medical facility to receive treatment and to be screened for designated infectious diseases.
+
+When any human trafficking victim is found to be free from infectious diseases after being screened, the judicial police shall provide him/her with placement protection pursuant to this Act or other applicable laws.
+
+### Article 13
+
+Any human trafficking victim who is a national with household registration in the Taiwan Area and in need of protection and sheltering as assessed by the competent authority of municipality or county (city), shall be provided with placement and relevant assistance in accordance with Article 15 by the competent authority thereof.
+
+### Article 14
+
+For those identified as victims of human trafficking, the central competent authority shall, upon application, issue a residence permit valid for one year, and may extend the residence permit to meet the need of the investigation or trial of the case, and each extension shall not exceed one year.
+
+If the regulation governing the right of the victim of human trafficking to residence under other applicable law is more favorable than the regulation provided under paragraph 1 of this article, the other law shall prevail.
+
+The human trafficking victim who have been issued with residence permits in the preceding 2 paragraphs may apply for a work permit at the central labor affairs competent authority without being subjected to the restrictions set forth in the Employment Service Act and the Act Governing Relations between the People of the Taiwan Area and the Mainland Area, and the period in which he/she can work shall not exceed the period of his/her residence permit.
+
+The application procedures of residence permit in the paragraph 1, required documents in application, the cancellation, administration of the residence permit and other binding regulations shall be developed by the central competent authority.
+
+The application procedures of work permit in the paragraph 3, required documents in application, the cancellation, administration of the work permit and other binding regulations shall be determined by the central labor affairs competent authority.
+
+In the case of victim of human trafficking has been granted residence pursuant to paragraph 1, no such period of residence is applicable to the calculation of residence for the purpose of applying for long term residence, permanent residence, registered permanent residence, or naturalization required by other applicable laws.
+
+### Article 15
+
+The competent authorities and labor affairs competent authorities at all levels shall, either by themselves or by commissioning non-governmental organizations, provide human trafficking victims or suspected ones with the following assistance:
+
+\1. Protection of personal safety;
+
+\2. Necessary medical assistance;
+
+\3. Interpretation assistance;
+
+\4. Legal assistance;
+
+\5. Psychological advice and counseling;
+
+\6. Being accompanied when questioned (interrogated) throughout the investigation or trial;
+
+\7. Rental subsidies and others necessary financial assistance.
+
+\8. Consulting and referral of social welfare service resources
+
+\9. Employability skills and education training
+
+\10. Placement services
+
+\11. Other necessary assistance.
+
+The competent authorities and labor affairs competent authorities of all levels shall establish or designate suitable places to provide placement services to human trafficking victims or suspected ones; the procedures, administration and other regulations that have to be followed for the placement services thereof shall be developed by the central competent authority in consultation with the central labor affairs competent authority.
+
+Conditions and methods of providing assistance, reasons for terminating assistance under the paragraph 1 by the competent authorities and labor affairs competent authorities of all levels and other regulations that have to be followed for the assistance thereof shall be developed by the central competent authority in consultation with the central related competent authority.
+
+### Article 16
+
+The costs to provide necessary assistance and to repatriate victims back to their country (area) of origin as stated in paragraph 1 of the preceding Article shall be imposed upon the victimizer; multiple victimizers shall bear the joint liability.
+
+The competent authorities or labor affairs competent authorities of all levels by which the costs are originated shall order the victimizer to pay within a specific period the costs as stated in the preceding paragraph; any overdue payment shall be referred for compulsory enforcement in accordance with the laws.
+
+### Article 17
+
+Any suspected human trafficking victim who is a national without household registration in the Taiwan Area, foreigner, stateless person, People of the Mainland Area, Hong Kong or Macau Area resident after being issued a residence permit by the central competent authority, the competent authority or labor affairs competent authority may cancel his/her residence permit, if he/she leaves the shelter without permission, is missing or violates laws or regulations and the violation is deemed to be sufficiently serious.
+
+After canceling the residence permit under the preceding paragraph, the central competent authority shall notify the judicial authorities.
+
+### Article 18
+
+Any suspected victim of human trafficking or child or youth known as victims of human trafficking, shall be provided with placement in accordance with the Child and Youth Sexual Exploitation Prevention Act; in the case of provision concerned is absent, the applicable law shall be presumed to be the Act; if he/she:
+
+\1. being suspected of committing sexual or lewd acts in exchange for money; or.
+
+\2. was determined suspected of committing sexual or lewd acts in exchange for money by the court in accordance with the Child and Youth Sexual Exploitation Prevention Act, in the case of as provided in the subparagraph 1.
+
+### Article 19
+
+No person should, unless otherwise provided by law, disclose the human trafficking victim’s name, date of birth, residence, photo, audio/video and other personal identifiable information acquired by him or her in the course of his or her official duties or employment.
+
+The government authorities shall not disclose the personal identifiable information of any human trafficking victim as stated in the preceding paragraph when making public any document related to human trafficking cases.
+
+### Article 20
+
+No promotional material, publication, radio broadcast, television, electronic message, the Internet or other media may report or note information on the name, dates of birth, domicile or place of residence, picture, audio/video, or any other personal identifiable information of the human trafficking victims, unless:
+
+\1. Having the permission of the victim with legal capacity;
+
+\2. Being deemed necessary by the crime investigation authority or the court pursuant to the law.
+
+\3. In case of the death of human trafficking victim, the competent authority or a competent regulatory authority deems that reporting or disclosure is required in consideration of social public interest.
+
+The proviso in the preceding paragraph is not applicable to any human trafficking victim who is a minor.
+
+Any person other than those referred to in the preceding Paragraph1 shall not, through the media or by any other means, reveal to the public or disclose any information of a victim in the preceding Paragraph 1.
+
+### Article 21
+
+Any human trafficking victim testifying as a witness before a prosecutor in an investigation or before a court in a trial, giving an account on what he/she has learned of or seen about the crime or evidence, and being questioned and cross-examined in accordance with the law, may be protected by the related provisions of this Act and the protection stated in Articles 4 to 14, Articles 20 and 21 of the Witness Protection Act, may apply mutatis mutandis if he/she is not eligible for the protection of this Act thereof.
+
+For any informant, reporter, complainant or victim of a human trafficking case deemed by the prosecutor or judge to be in need of protection, apply mutatis mutandis Articles 4 to 14, paragraph 2 of Article 15, Articles 20 and 21 of the Witness Protection Act.
+
+### Article 22
+
+Any human trafficking victim’s legal agent, spouse, lineal relative by blood or collateral relative by blood within 3rd degree of kinship, parent, family member, doctor, psychiatrist, counselor, or social worker, or other person the victim trusts, with the consent of the victim, may accompany him/her and may make statements when he/she is questioned or cross-examined during an investigation or trial. The same rule apply to the procedure when the victim is under investigation by the judicial police.
+
+The provisions in the preceding paragraph regarding the person accompanying the victim are not applicable to a human trafficking suspect or defendant, or in the opinion of a public prosecutor, a public prosecutor investigator, a judicial police officer, or a judicial policeman, the presence of the person specified will pose hindrance to the prosecutorial investigation.
+
+### Article 23
+
+The questioning, cross-examination or confrontation of a human trafficking victim during an investigation or trial may be conducted outside the court upon request or virtute officii or may be undertaken by using audiovisual telecommunications equipment or other appropriate methods to separate the victim from the defendant.
+
+Any human trafficking victim located outside the country may be questioned, cross-examined through audiovisual telecommunications equipment in an R.O.C. (Taiwan) embassy or representative office.
+
+### Article 24
+
+The judicial police, prosecutor and court, during the course of an inquiry, investigation and trial, shall pay attention to the personal safety of human trafficking victims and, if necessary, shall separate the human trafficking victims from other criminal suspects or defendants.
+
+### Article 25
+
+The statement made by any human trafficking victim during an investigation by the prosecutor investigators, judicial police officers, or judicial police may be accepted as evidence during a trial if it is proven to be credible under special circumstances, to be necessary to prove the body of the crime, and if the victim fits one of the following conditions:
+
+\1) The victim is unable to make a statement due to a physical and psychological trauma;
+
+\2) Due to physical and psychological pressure at the trial, the victim is unable to make a complete statement or refuses to make a statement when questioned or cross-examined; or
+
+\3) The victim cannot be summoned or fails to appear after being summoned because he/she is not in the Taiwan Area or his/her whereabouts is unknown.
+
+### Article 26
+
+If the human trafficking victim is a national without household registration in the Taiwan Area, foreigner, stateless person, People of the Mainland Area, Hong Kong or Macau resident, and his/her personal safety may be threatened after his/her repatriation back to his/her country (area) of origin, the central competent authority may grant him/her permanent residence in R.O.C. (Taiwan) under ad hoc permission.
+
+The application procedures of the ad hoc permission for permanent residence in the preceding paragraph, required documents in application, qualifications, the cancellation of the residence permit and other binding regulations shall be developed by the central competent authority.
+
+Those who are granted the ad hoc permission for permanent residence are allowed to work during his/her permanent residence in R.O.C. (Taiwan).
+
+In the case of victim of human trafficking has been granted permanent residence pursuant to paragraph 1, no such period of residence is applicable to the calculation of residence for the purpose of applying for long term residence, permanent residence, registered permanent residence, or naturalization required by other applicable laws.
+
+### Article 27
+
+Any human trafficking victim who has violated other provisions of the criminal code or administrative regulations as a result of being trafficked may be eligible for a reduction in penalty or absolution from his/her liability.
+
+### Article 28
+
+Any human trafficking victim who is a national without household registration in the Taiwan Area, foreigner, stateless person, People of the Mainland Area, Hong Kong or Macau resident with the willingness to return to their country (region) of origin, the central competent authorities shall assist in repatriating back to his/her country (area) of origin, and may coordinate with relevant authorities or civil organizations to contact the government departments of the victim’s country (area) of origin, or their embassy, authorized organization, or non-governmental organization in Taiwan, or his/her family.
+
+If the human trafficking victim in the preceding paragraph intends to return to their country (region) of origin, the judicial police departments or non-governmental organizations for providing protection shall notify the judicial authorities, and the judicial authorities shall conduct investigation and trial as soon as possible.
+
+## Chapter Four: Penalties
+
+### Article 29
+
+Anyone using such means as debt bondage or another person’s inability, ignorance, or helplessness to make a person to engage in any sexual intercourse or lewd acts in exchange for any monetary or other considerations, shall be sentenced to imprisonment of not less than six(6) months but not more than five(5) years , and, in addition thereto, a fine of not more than three(3) million New Taiwan dollars (NT$3,000,000) may be imposed.
+
+A person who commits the offense prescribed in the preceding paragraph for purpose of gain shall be sentenced to imprisonment for not less than one(1) year but not more than seven(7) years; and, in addition thereto, a fine of not more than five(5) million New Taiwan dollars (NT$5,000,000) may be imposed.
+
+Any attempt to commit any of the crimes stated in the preceding two paragraphs is punishable.
+
+### Article 30
+
+Anyone using such means as force, threat, intimidation, confinement, monitoring, drugs, fraud, hypnosis, or other similar means to make a person provide labor service, shall be sentenced to imprisonment for not more than five(5) years; and, in addition thereto, a fine of not more than three(3) million New Taiwan dollars (NT$3,000,000) may be imposed.
+
+A person who commits the offense prescribed in the preceding paragraph for purpose of gain shall be sentenced to imprisonment for not less than one(1) year but not more than seven(7) years; and, in addition thereto, a fine of not more than five(5) million New Taiwan dollars (NT$5,000,000) may be imposed.
+
+Any attempt to commit any of the crimes stated in the preceding two paragraphs is punishable.
+
+### Article 31
+
+Anyone using such means as force, threat, intimidation, confinement, monitoring, drugs, fraud, hypnosis, or other similar means to subject another person to labor to which the pay is not commensurate with the work duty or committing acts that are criminally punishable under the laws of the Republic of China shall be sentenced to imprisonment for not less than one(1) year but not more than seven(7) years; and, in addition thereto, a fine of not more than five(5) million New Taiwan dollars (NT$5,000,000) may be imposed.
+
+Anyone using such means as debt bondage, the abuse of another person’s inability, ignorance, helplessness or withholding important identity documents to subject him/her to labor to which the pay is not commensurate with the work duty or committing acts that are criminally punishable under the laws of the Republic of China, shall be sentenced to imprisonment for not more than three(3) years; and, in addition thereto, a fine of not more than one(1) million New Taiwan dollars (NT$1,000,000) may be imposed.
+
+Anyone using a person under the age of eighteen (18) to subject him/her to labor to which the pay is not commensurate with the work duty or committing acts that are criminally punishable under the laws of the Republic of China, shall be sentenced to imprisonment for not less than one(1) year but not more than seven(7) years; and, in addition thereto, a fine of not more than five(5) million New Taiwan dollars (NT$5,000,000) may be imposed.
+
+A person who commits the offense prescribed in the preceding 3 paragraphs for purpose of gain shall be punished in the following regulations:
+
+1, Any person who commits the offense specified in paragraph 1 or the preceding paragraph, shall be sentenced to imprisonment for not less than three(3) year but not more than ten(10) years; and, in addition thereto, a fine of not more than seven(7) million New Taiwan dollars (NT$7,000,000) may be imposed.
+
+\2. Any person who commits the offense specified in paragraph 2, shall be sentenced to imprisonment for not less than one(1) year but not more than seven(7) years; and, in addition thereto, a fine of not more than five(5) million New Taiwan dollars (NT$5,000,000) may be imposed.
+
+Any attempt to commit any of the crimes stated in the preceding four paragraphs is punishable.
+
+### Article 32
+
+Anyone using such means as force, threat, intimidation, confinement, monitoring, drugs, fraud, hypnosis, or other similar means to harvest an organ from others, shall be sentenced to imprisonment for not less than seven(7) years; and, in addition thereto, a fine of not more than ten(10) million New Taiwan dollars (NT$10,000,000) may be imposed.
+
+Anyone using such means as debt bondage or abusing another person’s inability, ignorance, or helplessness to subject him/her to organ harvesting, shall be sentenced to imprisonment ranging from five(5) to twelve(12) years, and may also be fined up to eight(8) million New Taiwan dollars (NT$8,000,000).
+
+Anyone who harvests organs from a person under the age of 18, shall be sentenced to imprisonment for not less than seven(7) years; and, in addition thereto, a fine of not more than ten(10) million New Taiwan dollars (NT$10,000,000) may be imposed.
+
+A person who commits the offense prescribed in the preceding 3 paragraphs for purpose of gain shall be punished in the following regulations:
+
+1, Any person who commits the offense specified in paragraph 1 or the preceding paragraph, shall be sentenced to imprisonment for not less than ten(10) years; and, in addition thereto, a fine of not more than twelve(12) million New Taiwan dollars (NT$12,000,000) may be imposed.
+
+\2. Any person who commits the offense specified in paragraph 2, shall be sentenced to imprisonment for not less than seven(7) years; and, in addition thereto, a fine of not more than ten(10) million New Taiwan dollars (NT$10,000,000) may be imposed.
+
+Any attempt to commit any of the crimes stated in the preceding four paragraphs is punishable.
+
+### Article 33
+
+Anyone using such means as force, threat, intimidation, confinement, monitoring, drugs, hypnosis, fraud, debt bondage, the abuse of another person’s inability, ignorance, helplessness or other similar means to engage in the recruitment, trading, pledging, transportation, delivery, receipt, harboring, hiding, brokering, or accommodating others for the purpose of exploitation, shall be sentenced to imprisonment for not more than five(5) years; and, in addition thereto, a fine of not more than three(3) million New Taiwan dollars (NT$3,000,000) may be imposed.
+
+Anyone engage in the recruitment, trading, pledging, transportation, delivery, receipt, harboring, hiding, brokering, or accommodating persons under the age of 18 for the purpose of exploitation, shall be sentenced to imprisonment for not more than seven(7) years; and, in addition thereto, a fine of not more than five(5) million New Taiwan dollars (NT$5,000,000) may be imposed.
+
+Any attempt to commit any of the crimes stated in the preceding two paragraphs is punishable.
+
+### Article 34
+
+Any person who commits the offense specified in Paragraph 1 of Article 29, Paragraph 1 of Article 30, Paragraph 2 of Article 31, or Paragraph 1 of Article 33 and consequently results in the death of the victim, shall be sentenced to life imprisonment or imprisonment for not less than seven(7) years and, in addition thereto, a fine of not more than ten(10) million New Taiwan dollars (NT$10,000,000) may be imposed; in the event that the offense results in serious injury to the victim, the offender shall be sentenced to imprisonment of not less than three(3) years but not more than ten(10) years, and, in addition thereto, a fine of not more than seven(7) million New Taiwan dollars (NT$7,000,000) may be imposed.
+
+Any person who commits the offense specified in Paragraph 2 of Article 29, Paragraph 2 of Article 30, Paragraph 1, 3 or 4 of Article 31, or Paragraph 2 of Article 33 and consequently results in the death of the victim, shall be sentenced to life imprisonment or imprisonment for not less than ten(10) years, and, in addition thereto, a fine of not more than twelve(12) million New Taiwan dollars (NT$12,000,000) may be imposed; in the event that the offense results in serious injury to the victim, the offender shall be sentenced to imprisonment of not less than five(5) years but not more than twelve(12) years, and, in addition thereto, a fine of not more than eight(8) million New Taiwan dollars (NT$8,000,000) may be imposed.
+
+Any person who commits the offense specified in Paragraph 1-4 of Article 32 and consequently results in the death of the victim, shall be sentenced to life imprisonment or imprisonment for not less than twelve(12) years and, in addition thereto, a fine of not more than fifteen(15) million New Taiwan dollars (NT$15,000,000) may be imposed; in the event that the offense results in serious injury to the victim, the offender shall be sentenced to imprisonment for not less than ten(10) years, and, in addition thereto, a fine of not more than twelve(12) million New Taiwan dollars (NT$12,000,000) may be imposed.
+
+### Article 35
+
+Any civil servant, who covers up human trafficking crime, shall be sentenced in accordance with related provisions with respective penalties increased by half.
+
+### Article 36
+
+Any offender of a human trafficking crime who voluntarily surrenders himself/herself, or confesses, during an investigation, and furthermore provides information leading to the discovery and arrest of another principal offender or accomplice, shall receive a reduction in penalties or be absolved of the offense.
+
+### Article 37
+
+The Ministry of Justice shall transfer the proceeds confiscated from the convicted human traffickers in accordance with the laws and the collected value thereof as compensation to the central competent authorities for the subsidy of human trafficking victims.
+
+The kinds of subsidies in the preceding paragraph, claiming criteria, payment amount and other binding regulations shall be developed by the central competent authority in consultation with the central related competent authority.
+
+Those who meet the subsidies conditions under other regulations with similar nature shall not receive subsidies from both legal provisions.
+
+### Article 38
+
+If the victim of human trafficking or his/her family member raises civil action or supplementary civil action along with the criminal procedure to request compensation from the human trafficker, may apply to the court for provisional attachment or provisional injunction to secure compulsory enforcement.
+
+The application in the preceding paragraph may submit an identification notice as a statement to replace for provisional attachment or provisional injunction and be not required to furnish security. However, this does not apply to those cases that have no hope of winning the lawsuit.
+
+### Article 39
+
+In the event that any broadcasting and television businesses violates the provisions of Article 20, Paragraph 1, the authority in charge of the industry shall impose a fine of not more than NT$600,000 but not less than NT$60,000 on the violating station and order it to make corrections within a specified period of time. Fines may be imposed for each violation in case the violating station fails to make corrections when the specified period expires.
+
+Except for those specified in the preceding paragraph, in the event of violation of the provisions of Article 20, Paragraph 1, by promotional materials, publications, electronic signals, the Internet, or other media operators, the related competent authority, municipal or county/city competent authorities shall impose a fine of not more than NT$600,000 but not less than NT$60,000 on the person in charge, and may confiscate the items specified in the preceding paragraph or order them to remove the offending content, withdraw the items, or undertake other necessary measures within a specified period of time. Fines may be imposed for each violation in case of failure to comply with the orders when the specified period expires.
+
+In the event of violation of the provisions of Article 20, Paragraph 3, without justifiable reasons, the central competent authority shall impose a fine of not more than NT$100,000 but not less than NT$20,000 on the person in charge, and may confiscate the items specified in the preceding paragraph or order them to remove the offending content, withdraw the items, or undertake other necessary measures within a specified period of time. Fines may be imposed for each violation in case of failure to comply with the orders within the prescribed period.
+
+If there is no person in charge of promotional materials, publications, electronic signals, the Internet, or other media operators, or if the person in charge (of the said promotional material, the said publication, the said electronic signals source, the said Internet source, or the said other media operators) is not in a position to supervise the conduct of the responsible perpetrator, the fine prescribed in Paragraph 2 of this Article shall be imposed on the responsible perpetrator.
+
+Anyone in violation of the confidentiality requirement prescribed in Paragraph 1 of Article 19 of this Act shall be subject to a fine from NT$30,000 to NT$300,000.
+
+### Article 40
+
+Where any representative of a legal person, any manager or representative of an unincorporated association or any agent, employee, or staff member of a legal person, unincorporated association or natural person violates human trafficking crime in the course of conducting normal business operation, the legal person, unincorporated association or natural person shall be imposed with a fine in accordance with the respective provisions of each human trafficking crime. However, if the natural person, the representative of a legal person or the manager or representative of an unincorporated association has tried his/her best to prevent crimes from happening, he or she shall be exempted.
+
+### Article 41
+
+Any natural person is convicted of human trafficking, or any legal person, unincorporated association or natural person is fined in accordance with the provisions of the preceding Article, within five years of the date of final and unappealable judgement entered, shall not be eligible for participating in tendering, being awarded or sub-contracting, or assisting tenderers in government procurement. This provision shall also apply to who commits human trafficking crime and has been convicted under final and unappealable judgment by a foreign court.
+
+When a natural person, legal person or unincorporated association stated in the preceding paragraph participates in government procurement, the tender of such tenderer shall not be opened when such circumstance in the preceding Paragraph is found before tender opening, nor shall award the contract to such tenderer when such circumstance is found after tender opening. When any of the circumstances referred to in the fore part occurs to the winning tenderer before the award of contract but is found after award or signing of the contract, the provisions of Article 50 Paragraph 2 of the Government Procurement Act shall apply mutatis mutandis.
+
+The names, offenses and other necessary information of those convicted in the paragraph 1 shall be published in the Government Procurement Gazette by the central competent authority.
+
+### Article 42
+
+Any R.O.C. (Taiwan) vessel, aircraft or other means of transportation whose owner, operator, captain, pilot or driver has been engaged in the transportation of persons trafficked, may be subjected to a specific period of suspension, or revocation of its related licenses by the related competent authorities, and its captain, pilot, or driver may be subjected to the revocation of his/her professional licenses or qualifications.
+
+### Article 43
+
+Anyone violating the provisions of paragraph 1 of Article 9 by failing to fulfill his/her duty to report without a justifiable reason shall be fined from NT$6,000 to NT$30,000.
+
+### Article 44
+
+In case where the offense referred to in Articles 29 to 34 is committed outside the R.O.C. (Taiwan), this Act is applicable.
+
+## Chapter Five: Supplementary Provisions
+
+### Article 45
+
+For military court is trying or military prosecutor handling a human trafficking case, this Act shall apply mutatis mutandis.
+
+### Article 46
+
+The enforcement rules of this Act shall be enacted by the central competent authority.
+
+### Article 47
+
+The effective date of this Act shall be determined by the Executive Yuan.
+
+## History
+
+1.The enacted Act with all 45 articles was promulgated by the Presidential Decree hua-zong-yi-yi-zi No. 09800019281 on 23rd of January, 2009.
+
+The Act was set to be effective since June 1, 2009 by the Executive Yuan Order tai-nei-zi No. 0980029315C on May 26, 2009.
+
+2.The amended Article 2,4 and 20 was promulgated by the Presidential Decree hua-zong-yi-yi-zi No.10500045981 on May 25, 2016; the effective date is to be determined by the Executive Yuan..
+
+The amendment Article 4 was set to be effective since May 27, 2016 by the Executive Yuan Order tai-nei-zi No. 1050027091C on June 29, 2016.
+
+3.The amended Act with all 47 articles was promulgated by the Presidential Decree hua-zong-yi-yi-zi No. 11200050511 on 14th of June, 2023.

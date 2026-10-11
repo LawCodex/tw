@@ -1,0 +1,247 @@
+---
+title: "Stalking and Harassment Prevention Act"
+title_zh: "跟蹤騷擾防制法"
+identifier: "D0080211"
+type: act
+law_level: "法律"
+category: "行政＞內政部＞警政目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2021-12-01
+last_amended: 2021-12-01
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0080211"
+retrieved: 2026-10-12
+---
+
+# Stalking and Harassment Prevention Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-the-interior/D0080211-stalking-and-harassment-prevention-act.md](../../../zh/laws/ministry-of-the-interior/D0080211-stalking-and-harassment-prevention-act.md)) is authoritative.
+
+## Article 1
+
+This Act is hereby enacted to protect personal physical and mental safety, freedom of movement, personal privacy and information privacy, avoid being stalked and harassed, and maintain personal dignity.
+
+## Article 2
+
+The competent authorities referred to in this Act shall be the Ministry of the Interior for the central government, special municipality governments for the special municipalities, the county (city) governments for the county (city).
+
+For matters specified in this Act, the competent authorities and the regulating departments of each objective shall, within the scope of their powers and responsibilities and based on the needs of prevention of stalking and harassment, actively plan all and any of the necessary protection, prevention and promotion measures, and shall also respond to the prevention and control operations of relevant agencies with full cooperation. Their powers and responsibilities are as follows:
+
+\1. Competent authorities: Research, planning, formulation and interpretation of prevention policies, regulations and plans; case statistics and announcements; on-the-job education and training of relevant staff; coordination work and supervision to prevent stalking and harassment, and other related matters.
+
+\2. Agencies that regulate social affairs: Protection and assistance for victims of stalking and harassment, and cooperation in the promotion of stalking and harassment prevention measures and advocacy and other related matters.
+
+\3. Agencies that regulate public health: Physical and mental treatment and counseling for victims of stalking and harassment, and provision of related materials such as treatment plans for the defendant by the orders of the courts.
+
+\4. Agencies that regulate education: The promotion of education for prevention of stalking and harassment at schools of all levels, maintenance of relevant rights and interests of education and the support of school counseling for the victims of stalking and harassment, and the improvement of the handling of cases of stalking and harassment on campus.
+
+\5. Agencies that regulate labor: Occupational safety of the victims, education of prevention of stalking and harassment at workplaces, and provision or referral of physical and mental treatment and counseling.
+
+\6. Judicial agencies: Investigation, corrections, and recidivism prevention for the crimes of stalking and harassment.
+
+\7. Other measures to prevent and control stalking and harassment shall be handled by the regulatory agencies of the relevant industries per such agencies respective authority
+
+The central government competent authority shall establish an advisory group to prevent stalking and harassment promotion and to promote the foregoing matters. For the composition of such advisory group, the number of scholars, experts, members of non-governmental organizations and representatives of relevant agencies selected (designated) shall not be less than one-half of the total group members, and the number of members of any gender shall not be less than one-third of the total members.
+
+## Article 3
+
+The stalking and harassing behaviors specified in this Act refer to any of the following behaviors through the use of persons, vehicles, tools, equipment, electronic communications measures, the Internet, or any other methods to repeatedly or continue to exert anything sexual or gender-related towards a specific person against his/her will, which intimidates such specific person and sufficiently affects his/her daily life or social activities:
+
+\1. Monitoring, observing, tracking or learning the whereabouts of the specific person.
+
+\2. Approaching the specific person’s residence, place of residence, school, workplace, frequently-visited places by stalking, keeping watch, tailing or any other similar methods.
+
+\3. Warning, threatening, mocking, insulting, discriminating, hateful, disparaging or using other similar words or actions against the specific person.
+
+\4. Interfering with the specific person by telephone, fax, electronic communication measures, the Internet, or other equipment.
+
+\5. Asking for date, to maintain contact, or to pursue the specific person.
+
+\6. Sending, retaining, displaying, or broadcasting texts, pictures, audios, images, or any other items of the specific person.
+
+\7. Notifying or presenting information to the specific person or items that may be harmful to the specific person’s reputation.
+
+\8. Misuse of the specific personal data or ordering goods or services for the specific person without his/her consent.
+
+This Act is also applicable to the stalking and harassing behaviors through the use of any of the methods specified in the preceding paragraph to exert anything sexual or gender-related on any specific person’s spouse, immediate relatives, cohabiting relatives, or anyone having a close social relationship with such specific person against their will, which intimidates them and sufficiently affects their daily life or social activities.
+
+## Article 4
+
+Upon accepting reporting of cases of stalking and harassment, the police shall immediately commence investigations, prepare written records, and inform the victims of the rights and services that are available to them.
+
+If during the investigation of the cases stated in the preceding paragraph a suspected stalking and harassing criminal has been identified, the police shall in accordance with their authority issue a written warning to such perpetrator or upon the victim’s request; and if necessary, other appropriate measures shall be taken to protect the victim.
+
+If the perpetrator or victim is dissatisfied with the issuance or non-issuance of the written warning of the police, he/she may, within ten days after receiving the notice of the written warning or non-issuance of a written warning, submit the objection to the supervising agency of such police.
+
+If the police believe that the submitted objection of the preceding paragraph is justifiable, it shall correct the issuance or non-issuance immediately; if it finds such objection to be unjustifiable, it shall submit the reasons in writing to the supervising agency within five days for further resolution. If the supervising agency believes the reasons of the police are justifiable, it shall immediately make any relevant correction; if it finds such reasons to be unjustifiable, it shall maintain its original resolution.
+
+The perpetrator or victim may not submit an objection to the supervising agency’s decision described in the preceding paragraph.
+
+## Article 5
+
+If within two years after the perpetrator has been warned in writing by the police in accordance with second paragraph in the preceding Article and continues the stalking and harassment, the victim may apply to the court for a protection order; if the victim is a minor, a physically or mentally challenged person, or someone who has difficulty in appointing an agent for any reason, his/her spouse, legal representative, or relatives by blood or marriage within the third degree may apply to the court for the protection order on his/her behalf.
+
+The prosecutor or police in accordance with their respective authority may apply to the court for a protection order.
+
+The petition, revocation, modification, extension of, and objection to a protection order are all exempt from court cost, and the provisions of Article 77-23 Paragraph 4 of the Code of Civil Procedure shall apply mutatis mutandis.
+
+A civil protection order petition to prevent stalking and harassment behaviors among family members and between a current or former partner in an intimate relationship who does not live with the victim as defined by the Domestic Violence Prevention Act shall be handled in accordance with the provisions of the Domestic Violence Prevention Act. The provisions of this Act regarding a protection petition shall not apply.
+
+## Article 6
+
+A protection order petition shall be made in the official written format. It shall be submitted to the district court in the jurisdiction where the victim’s or the accused's residence is located, or of the location where the stalking and harassing behaviors or the aftermath of same occurred.
+
+In order to determine whether it has the jurisdiction, the court may investigate where is the residence of the victim or the accused. If the petitioner or the victim requests that the victim’s residence remain confidential, the inquiry by court shall be kept confidential, the transcript and related materials shall be sealed, and public attendance prohibited.
+
+## Article 7
+
+The written petition stated in the preceding Article shall specify the following items:
+
+\1. Names and domiciles or residences of the petitioner and the victim; if the petitioner is an institution, its name and office address.
+
+\2. The accused’s name, domicile or residence and national identification number.
+
+\3. If any, the name, domicile or residence of the legal representative or the agent and its relationship with the petitioner and/or accused.
+
+\4. The reasons and the facts for the petition, which shall include the description of specific measures required by the petition.
+
+\5. Evidence necessary to prove the fact or to make a preliminary showing.
+
+\6. Attached documents and a numbered list thereof.
+
+\7. The court name; and
+
+\8. The year, month and the day of month.
+
+The petition stated in the preceding Paragraph may omit the petitioner or victim’s domicile or residence, and may only show the place to where it shall be sent.
+
+The petitioner or his/her agent shall sign the petition; if he/she is unable to sign, he/she may have the other party sign his/her name and have the petition stamped or fingerprinted by the petitioner or the agent.
+
+## Article 8
+
+If there is any deficiencies in the procedures or documents seeking a protection order, the court shall issue a ruling that rejects the petition. However, by court order, curable deficiencies may be cured within a cure period.
+
+## Article 9
+
+After the court accepts the petition, in addition to ordering the petitioner to make a statement in the official written format or specific matters no later than a specified date, the court shall promptly serve a copy of the petition to the accused, and order the accused to submit his/her response no later than a specified date.
+
+## Article 10
+
+Court proceedings for a protection order shall be closed to the public.
+
+The court may within its authority or upon request investigate the facts and necessary evidence, and may separately conduct interrogations; when necessary, on the basis of its authority or upon request it may perform such relevant processes outside the courtroom, or utilize technological tools or other appropriate measures that isolate the parties and allow for mutual transmission of audio and video.
+
+In order to investigate the facts, the court may order the parties or legal representatives to attend a hearing in person.
+
+If the court considers either of the parties’ representation or statement to be unclear or incomplete, it may inform such party to provide clarification or supplementary information.
+
+After the court agrees to hear a protection order petition, it shall commence the hearing process immediately. The victim, petitioner, or accused’s involvement in other investigations or litigation shall not be grounds to delay issuance of a protection order.
+
+Anyone who in the course of a work or business relationship knows or possesses a victim’s name, date of birth, domicile, and other information sufficient to identify a victim shall keep such information confidential except as otherwise provided by law or regulation. When necessary, the police shall take sufficient measures to safeguard the confidentiality of a victim.
+
+Any and all documents prepared by administrative or judicial agencies that require public disclosure shall redact the victim’s name, date of birth, residence, and other information sufficient to identify such victim.
+
+## Article 11
+
+If a petitioner other than the victim is unable to continue the procedure due to death, disqualification or any other matters, within ten days of the occurrence of such event, other petitioners may seek to act on the petitioner’s behalf; the court may also per its authority make such notification to a person undertaking such role.
+
+Notwithstanding the absence of a petitioner for the petition procedure, the court shall continue the procedure if it deems it necessary to do so.
+
+If the victim or accused dies prior to the ruling, the petition procedure shall be deemed to have terminated.
+
+## Article 12
+
+After the conclusion of the hearings, if the court recognizes that stalking and harassment is factually established and intervention is required, it shall issue a protection order including one or more of the following items upon request or per its authority:
+
+\1. Prohibit the accused from conducting any of the behaviors stated in each subparagraph of Article 3, Paragraph 1, and may order the defendant to stay away from any specific place or maintain a specified physical distance.
+
+\2. Prohibit the accused from accessing the victim’s household registration information.
+
+\3. Order the accused to fully participate in a course of treatment.
+
+\4. Clearly specify other necessary measures to prevent the accused from stalking and harassing.
+
+The parameters of a course of treatment for the accused shall be stipulated by the central government competent health authorities.
+
+The petitioner's domicile, residence, and other contact information shall not be indicated on the protection order.
+
+## Article 13
+
+The protection order shall be valid for a maximum of two years, and it shall become effective upon its issuance.
+
+Prior to the expiration of the protection order, the court may per its authority revoke, change or extend it, or do so upon the petition submitted by the victim or the petitioner per the second sentence of Article 5, Paragraph 2; each extension of a protection order shall not exceed two years.
+
+The prosecutor or police may apply to a court for the extension of the protection order as stated in the preceding paragraph.
+
+If the victim or the petitioner per the second sentence of Article 5, Paragraph 2 applies to modify or extend the protection order, the original order shall remain valid until the court issues its decision. This requirement also applies should, based on the provisions of the preceding paragraph, the prosecutor or police apply to extend a protection order.
+
+After the court agrees to hear a petition for an extension of a protection order, it shall immediately notify the victim, the petitioner, the accused, the prosecutor and the police.
+
+## Article 14
+
+The court shall issue the protection order to the victim, the petitioner, the accused, any person designated in the court ruling, and the relevant enforcement agency within 24 hours after the court’s issues said order.
+
+The Code of Civil Procedure provisions shall apply mutatis mutandis to the serving, expiry date, length, and evidence thereof for a protection order.
+
+The protection order shall be enforced by the special municipality, county (city) competent authorities; the method of enforcement, procedures to be observed, and other related matters shall be determined by the central government competent authority.
+
+## Article 15
+
+Other than as provided in this act, the relevant provisions of the Non-Litigious Matters Act shall apply mutatis mutandis to protection order procedures.
+
+A protection order ruling, in the absence of an applicable rule, may be appealed; provided, that during the appellate process, enforcement of the protection order does not cease.
+
+The ruling of appellate court may not be further appealed.
+
+## Article 16
+
+The victim, the petitioner, or the accused may, prior to the conclusion of the enforcement procedure, submit objections to the enforcement agency regarding the method of enforcement of the protection order, the procedures to be followed, or other matters that infringe their rights and interests.
+
+If the enforcement agency believes that the objection submitted per the preceding paragraph is justified, it shall immediately suspend, revoke or modify enforcement; if it finds such objection unjustified, within ten days it shall submit its reasons in writing to the court that issued the protection for the court to issue a ruling.
+
+The court ruling in the preceding paragraph may not be appealed.
+
+## Article 17
+
+Any foreign court's protection order against stalking and harassment may be enforced after approval by a court in the Republic of China.
+
+The court shall reject the petition of the victim or the petitioner for recognition of any protection order against stalking and harassment issued by a foreign court if any circumstances stated in Article 402, Paragraph 1, Subparagraphs 1 to 3 in the Code of Civil Procedure apply.
+
+A court may reject a petition to recognize a foreign court protection order against stalking and harassment whose jurisdiction does not recognize protection orders issued by the courts of the Republic of China.
+
+## Article 18
+
+Anyone who conducts stalking and harassment may be sentenced to imprisonment of not more than one year or detention; in lieu thereof, or in addition thereto, a fine of not more than one hundred thousand New Taiwan Dollars may be imposed.
+
+Anyone who commits the crimes stated in the preceding paragraph with lethal weapons or other dangerous objects shall be sentenced to the imprisonment of not more than five years, or detention; in lieu thereof, or in addition thereto, a fine of not more than five hundred thousand New Taiwan Dollars may be imposed.
+
+Prosecution for an offense specified in the preceding paragraph may be instituted only upon complaint.
+
+The provisions concerning the offense punishable by a term imprisonment of more than three years as specified in Article 11-1, Paragraph 1 of the Communication Security and Surveillance Act does not apply if it is deemed to be necessary to obtain the communication records and information of the communications when the prosecutor investigates and police collect evidence for the crimes stated in paragraph one of this Article.
+
+## Article 19
+
+Violators of a protection order issued by a court in accordance with Article 12, Paragraph 1, Subparagraphs 1 to 3 shall be sentenced to imprisonment of not more than three years, or detention; in lieu thereof, or in addition thereto, a fine of not more than three hundred thousand New Taiwan Dollars may be imposed.
+
+## Article 20
+
+Court hearings with regard to the offenses that violate the proceeding two articles shall be closed to the public.
+
+## Article 21
+
+If after interrogation, the court believes that the accused is, beyond a reasonable doubt, suspected to have committed the crimes stated in Article 18, Paragraph 2 or Article 19, and the facts are sufficient to believe that there is a risk of criminal recidivism and detention is necessary, the accused may be detained.
+
+## Article 22
+
+The enforcement rules of this Act shall be enacted by the central government competent authority.
+
+## Article 23
+
+This Act shall come into effect six months after promulgation.
+
+## History
+
+1.Enacted and promulgated a total twenty-three articles of the Act by the Presidential Order Hua-Zong-(1)-Yi-Zi No.11000108131 on December 1, 2021; this Act shall come into effect six months after promulgation.

@@ -1,0 +1,201 @@
+---
+title: "Degree Conferral Act"
+title_zh: "學位授予法"
+identifier: "H0030010"
+type: act
+law_level: "法律"
+category: "行政＞教育部＞高等教育目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1935-04-22
+last_amended: 2018-11-28
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=H0030010"
+retrieved: 2026-10-12
+---
+
+# Degree Conferral Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-education/H0030010-degree-conferral-act.md](../../../zh/laws/ministry-of-education/H0030010-degree-conferral-act.md)) is authoritative.
+
+## Article 1
+
+Degrees shall be conferred in accordance with the provisions of this Act.
+
+## Article 2
+
+The competent authority in this Act is the Ministry of Education.
+
+## Article 3
+
+Degrees are divided into four different levels: associate bachelor’s degrees, bach-elor’s degrees, master’s degrees, and doc-toral degrees. Associate bachelor’s de-grees are conferred by junior colleges and may also be conferred by universities. Bachelor’s degrees, master’s degrees, and doctoral degrees are conferred by univer-sities.
+
+The name of the degrees at each level re-ferred to in the preceding paragraph will be determined by the conferring junior college or university according to the ac-ademic field, the program undertaken, and the requirements. The regulations governing the name of the degree, the criteria for conferral, and the awarding and registration of the associated degree diploma shall be implemented after being approved by each junior college or uni-versity through its pertinent academic af-fairs meeting at the institutional level, and reported to the competent authority for reference.
+
+The regulations governing the procedures for determining the name of each of the degrees in different categories at each level, the criteria for their conferral re-ferred to in the preceding paragraph, and other related matters shall be prescribed by the competent authority.
+
+## Article 4
+
+Associate bachelor’s degrees shall be con-ferred on the students undertaking an as-sociate bachelor’s degree at a junior col-lege or university, upon completion of the legally prescribed period of study and upon obtainment of the required course credits, as well as any required internship within the prescribed number of years, and having met all the graduation re-quirements with satisfactory assessment results.
+
+## Article 5
+
+A university student undertaking bachelor’s degrees, upon completion of the legally prescribed period of study and upon obtainment of required course credits, as well as any required internship within the prescribed number of years, and having met all the graduation requirements with satisfactory assessment results shall be conferred bachelor’s degrees.
+
+If a student undertaking courses in a similar academic field or those in an interdisciplinary degree program has met the requirements set out in the preceding paragraph, an institution may confer the student bachelor’s degrees on the basis of the student’s academic field(s), courses taken, and requirements met, without being bound by the regulations of the college, department, or degree program to which the student was originally admitted. This does not, however, apply to specialist fields which are subject to supervisory mechanisms formulated by relevant government agencies that stipulate the total number of personnel to be trained.
+
+The criteria for determining the similar academic fields referred to in the preceding paragraph shall be determined at a college academic affairs meeting or by a degree program affairs committee of the college conferring the degree.
+
+A student enrolled in a four-year industry-academia collaboration bachelor's degrees program approved by the competent authority, who has completed two years of study and earned eighty course credits with satisfactory assessment results, and who has applied for and been granted retention of their student status by the enrolling institution before taking employment, shall be conferred associate bachelor’s degrees.
+
+Bachelor’s degrees shall be conferred on the applicant of student status retention as referred to in the preceding paragraph, who resumes studies at the institution within the prescribed time limit while con-forming to Paragraph 1.
+
+## Article 6
+
+An Open University student undertaking associate bachelor's degrees, bachelor's degrees, or master’s degrees program, in accordance with the provisions of the Open University Establishment Act, who has completed the required course credits, met the graduation requirements with sat-isfactory assessment results, and satisfied the criteria for conferral of a degree set out in this Act, shall be conferred the cor-responding associate bachelor's degree, bachelor's degrees, or master’s degrees, as appropriate.
+
+## Article 7
+
+A student undertaking a master's degrees program who has completed the legally prescribed period of study, earned the required course credits, met the graduation requirements, and submitted a thesis shall be conferred a master’s degrees upon passing the examination by the master’s degrees examination committee.
+
+Students undertaking master's degrees program in a fine arts, applied science or technology, or sports field may submit a work, proof of achievement accompanied by a written report, or a technical report instead of  master's degrees thesis. The criteria for recognizing and determining fields to which this applies shall be implemented by each university after being approved by the relevant university-level academic affairs meeting.
+
+Students undertaking a professional practice master’s degrees program may submit a professional practice report instead of a thesis. The criteria for recognizing and determining professional practice areas to which this applies shall be implemented by each university after being approved at a university-level academic affairs meeting.
+
+The regulations governing the scope of said recognition and determination, the form of materials, content items, and other related matters pertaining to each field referred to in the preceding two paragraphs for which a work, proof of achievement accompanied by a written report, a technical report, or professional practice report may be submitted instead of a thesis shall be prescribed by the competent authority.
+
+## Article 8
+
+Master's degrees examination committee shall have three to five members, selected and appointed by the university president.
+
+The committee members referred to in the preceding paragraph shall each have done specialized study in the research field of the student concerned undertaking the master’s degrees program and possessed one of the following qualifications:
+
+1.Currently serving or having served as a professor, associate professor, or assistant professor;
+
+2.Being an academician at Academia Sinica, or currently working or having worked at Academia Sinica as a research fellow, associate research fellow, or assistant research fellow;
+
+3.Having doctoral degrees with significant academic accomplishments;
+
+4.Having expertise in an unusual or highly specialized academic research field or professional practice field with significant academic or professional accomplishments.
+
+The criteria for determining the qualifications referred to in Subparagraph 3 and Subparagraph 4 of the preceding paragraph shall be set at an academic affairs meeting of the department, graduate institute, or college affairs handling the conferral of the degree or at a degree program affairs committee meeting.
+
+## Article 9
+
+Students enrolled in a doctoral program who meet the following requirements may become a doctoral candidate:
+
+1.They have earned the required course credits.
+
+2.They have passed the qualifying ex-amination for doctoral candidacy.
+
+Doctoral candidates who have completed their programs within the legally pre-scribed period, met the graduation re-quirements submitted a dissertation, and passed an examination conducted by a doctoral degree examination committee shall be awarded a doctoral degree.
+
+Students undertaking a doctoral program in a fine arts, applied science or technolo-gy, or sports field may submit a work or proof of achievement accompanied by a written report, or a technical report in-stead of a doctoral dissertation. The crite-ria for recognizing and determining whether this is applicable to a particular field shall be implemented by each uni-versity after being approved at a universi-ty level academic affairs meeting.
+
+For each suitable field referred to in the preceding paragraph for which a work or proof of achievement accompanied by a written report, or technical report may be submitted instead of a doctoral disserta-tion, the regulations governing the scope of said recognition and determination, the form of materials, content items, and oth-er related matters shall be prescribed by the competent authority.
+
+## Article 10
+
+Doctoral degrees examination committee shall have five to nine members, selected and appointed by the university presi-dent.
+
+The committee members referred to in the preceding paragraph shall each have done specialized research in the same research field as that of the doctoral candidate and possessed one of the following quali-fications:
+
+1.Currently serving or having served as a professor, associate professor, or assistant professor;
+
+2.Being an academician at Academia Sinica, or currently working or hav-ing worked at Academia Sinica as a research fellow or associate research fellow;
+
+3.Having doctoral degrees with signif-icant academic accomplishments;
+
+4.Having expertise in an unusual or highly specialized academic area with significant academic or profes-sional accomplishments.
+
+The criteria for determining the qualifica-tions referred to in Subparagraph 3 and Subparagraph 4 of the preceding para-graph shall be set at an academic affairs meeting of the department, graduate in-stitute, or college affairs handling the conferral of the degree or at a degree program affairs committee meeting.
+
+## Article 11
+
+Master's degrees may be awarded to stu-dents without master’s degrees who ap-plied and were given approval to directly enroll in a doctoral program and who passed the qualifying examination for doctoral candidacy in accordance with the provisions of Paragraph 1 of Article 9 but subsequently failed the doctoral de-grees examination, if the doctoral degrees examination committee decides that the students’ work in their dissertation, work(s), proof of achievement accompa-nied by a written report, or technical re-port meets the standard for master's de-grees.
+
+## Article 12
+
+A thesis or dissertation, work, proof of achievement, written report, technical re-port, or professional practice report that has already been submitted to obtain a degree in Taiwan or abroad may not be submitted as the thesis or dissertation, work, proof of achievement, written re-port, technical report, or professional practice report referred to in Article 7 and in Paragraph 2 and Paragraph 3 of Article 9. This restriction does not apply, howev-er, to the case where a university in Tai-wan has engaged in institutional collabo-ration with a university abroad, the two universities have jointly supervised the thesis or dissertation, and the two univer-sities have each separately conferred a corresponding degree.
+
+## Article 13
+
+A student undertaking an associate de-gree, a bachelor's degree, master's degree, or doctoral degree at a military or police academy, in accordance with the provi-sions of this Act and the related educa-tion laws and regulations for the military or police academy, upon obtainment of the required course credits within the le-gally prescribed period, having met the graduation requirements with satisfactory assessment results, and having satisfied the criteria for conferral of a degree set out in this Act and in relevant education legislation, shall be conferred the appro-priate corresponding degree by the said military or police academy.
+
+## Article 14
+
+A student undertaking a double major offered by the enrolling institution or by both the enrolling institution and another institution within the legally prescribed period of study, upon obtainment of the required course credits, having met the graduation requirements with satisfactory assessment results, and having met the requirements set out in this Act for conferring degrees at respective levels shall be conferred a degree by the enrolling institution, and the degree diploma that the student is awarded will record the name of the institution(s) and the department(s) in which the double major was offered.
+
+A student undertaking an associate or bachelor's degree may enroll in a minor subject (department or degree program) at the same level within the enrolling institution or at another institution. A student undertaking a master's or doctoral degree may enroll in a minor subject (department, graduate institute, or degree program) at the same or a lower level within the same university, but the student will not be conferred a separate degree.
+
+If the student undertaking a double major offered by the enrolling institution or by both the enrolling institution and another institution referred to in Paragraph 1 is un-able to earn the required course credits to complete the double major within the pre-scribed period of study, the student may apply for credit transfer and waiver to ob-tain a minor in a subject (department or degree program) instead and the student will not be conferred a separate degree.
+
+## Article 15
+
+An honorary doctoral degree may be awarded to a person after an honorary doctoral degree review committee formed by a university which may confer a doc-toral degree in the same discipline has approved such an award. The university shall implement the awarding of any hon-orary doctoral degree after the criteria for such awards, the formation of the review committee, and the review procedures have been approved at a university level academic affairs meeting.
+
+## Article 16
+
+Persons who have obtained a doctoral or master’s degree shall give a copy of their thesis or dissertation, written report, technical report, or professional practice report which they submitted for the degree to the National Central Library in the form of documents, videotapes, audiotapes, discs or in some other form, along with an electronic file version, through the enrolling university and to the library affiliated with the university for storage.
+
+A copy of the dissertation, thesis, written report, technical report, or professional practice report stored by the National Central Library shall be made available to the public to read within the library in print form or by accessing electronic data files using independent equipment. If authority has been given in accordance with the provisions of the Copyright Act, the said stored items may be reproduced, publicly transmitted over the internet inside or outside the library, or handled or used in other ways that are subject to copyright. If, however, any of them involves confidential information, patent matters, or is not permitted to be provided on statutory grounds and this has been confirmed by the university, the material may be placed under embargo for a certain period, or access to it may be denied.
+
+The library storage and public availability referred to in the preceding two paragraphs do not affect the copyright of any such dissertations, theses, written reports, technical reports, or professional practice reports.
+
+## Article 17
+
+A degree conferred by a university or jun-ior college shall be revoked under any of the following circumstances, and the uni-versity or junior college shall issue a pub-lic notice that the degree diploma that was awarded has been invalidated. If any other laws or regulations have been vio-lated, the matter shall also be dealt with in accordance with the provisions of the applicable laws and regulations:
+
+1.A degree recipient’s admission eligi-bility or course of studies involves dishonesty or fraud.
+
+2.A thesis or dissertation, work, proof of achievement, written report, tech-nical report, or professional practice report involves forgery, alteration, plagiarism, ghostwriting, or some other form of fraud.
+
+If the competent authority of the univer-sity or junior college discovers that the handling of any matter referred to in the preceding paragraph by the university or junior college could possibly have been illegal or inappropriate, the competent authority shall notify the university to rectify the matter within a prescribed time period; if the university does not rectify the matter within the prescribed time pe-riod, the competent authority may issue an official reprimand.
+
+If a university or junior college that has been issued an official reprimand by the competent authority does not then handle the illegal or improper matters referred to in Paragraph 1 adequately, the competent authority may invite scholars and experts, and representatives of the university or junior college to form a review committee to identify and advise on specific disci-plinary action to be taken to address any violation that has occurred, and the uni-versity shall handle the matter in accord-ance with the advice given. If the univer-sity or junior college fails to do so within a prescribed time period, the competent authority may issue an official reprimand and reduce the subsidies to the university or junior college and its enrollment quo-tas.
+
+A university or junior college that revokes a degree in accordance with the provi-sions of Paragraph 1 shall then notify the degree recipient to return the degree di-ploma and inform other junior colleges, universities, and relevant institutions (agencies) of the circumstances of the revocation and invalidation.
+
+## Article 18
+
+Under any of the following circumstanc-es, the offender or the person(s) responsi-ble shall be subject to a fine of between NT$ 300,000 (three hundred thousand New Taiwan Dollars) and NT$ 1,000,000 (one million New Taiwan Dollars) as a penalty, and a separate fine may be im-posed for each instance of a violation:
+
+1.Using an advertisement, oral request, a broadcast, or some other means to solicit another person to ghostwrite (or produce and present as done by the student) a dissertation or thesis, work(s), proof of achievement, writ-ten report, technical report, or pro-fessional practice report.
+
+2.De facto ghostwriting (producing and presenting as done by the stu-dent), or providing plagiarized mate-rials orally, or using photocopying or other deceptive measures to incorpo-rate into a dissertation or thesis, work(s), proof of achievement, writ-ten report, technical report, or pro-fessional practice report.
+
+The penalty fines referred to in the pre-ceding paragraph will be imposed by the competent authority.
+
+## Article 19
+
+The conferral of degrees on students who began undertaking an associate bachelor’s degrees at a junior college, junior college division affiliated with a university, or supplementary advanced education school affiliated with a junior college or university, and students who began un-dertaking bachelor’s degrees at a universi-ty or the supplementary advanced educa-tion school affiliated with a university before the implementation of the amend-ments made on November 9, 2018 to Ar-ticle 4 and Paragraph 1 of Article 5 of this Act shall be handled in accordance with the previous regulations.
+
+## Article 20
+
+This Act shall take effect on the date of promulgation, with the exception of the implementation date of the amendments made to Article 4, and to Paragraph 1 of Article 5 on November 9, 2018, for which the date of effect shall be prescribed by the Executive Yuan.
+
+## History
+
+1.Promulgated on April 22, 1935.
+
+2.Amendment to Articles 3, promulgated on June 4, 1954.
+
+3.Amendment to Articles 7, promulgated on April 1, 1959.
+
+4.Amendment to Articles 3, promulgated on May 27, 1972.
+
+5.Amendments to all 17 articles, promulgated on February 3, 1977.
+
+6.Amendments, promulgated on May 6, 1983.
+
+7.Presidential Decree Hua-Zhong (1) Yi-Zi No. 2235 promulgated on April 27, 1994: Amendments to all 17 articles of the Act.
+
+8.Presidential Decree Hua Zong Yi.Yi.Zi. No.09100116880 issued June 12, 2002: Addition of Articles 7-1 and Articles 7-2.
+
+9.Presidential Decree Hua Zong Yi.Yi.Zi. No. 09300117561 issued June 23, 2004: Amendment to Article 2, Article 3, Article 13, Article 17, and Addition of Articles2-1 and Articles5-1, which shall take effect on January 16, 2004.
+
+10.Presidential Decree Hua Zong Yi.Yi.Zi. No.10200111621 issued June 11, 2013: Addition of Articles 7-3.
+
+11.Presidential Decree Hua-Zhong (1) Yi-Zi No. 10700129041 promulgated on November 28, 2018: Amendments to all 20 articles of the Act. These amendments shall take effect from the date of promulgation, with the exception of the provisions of Article 4, Paragraph 1 of Article 5, with the date of effect to be determined by the Executive Yuan.

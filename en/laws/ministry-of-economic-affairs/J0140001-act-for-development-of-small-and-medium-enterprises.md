@@ -1,0 +1,429 @@
+---
+title: "Act for Development of Small and Medium Enterprises"
+title_zh: "中小企業發展條例"
+identifier: "J0140001"
+type: act
+law_level: "法律"
+category: "行政＞經濟部＞中小企業目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1991-02-04
+last_amended: 2024-08-07
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0140001"
+retrieved: 2026-10-12
+---
+
+# Act for Development of Small and Medium Enterprises
+
+> Translation. The Chinese text ([zh/laws/ministry-of-economic-affairs/J0140001-act-for-development-of-small-and-medium-enterprises.md](../../../zh/laws/ministry-of-economic-affairs/J0140001-act-for-development-of-small-and-medium-enterprises.md)) is authoritative.
+
+## Chapter Ⅰ General Principles
+
+### Article 1
+
+This Act is enacted for the furtherance of sound development of small and medium enterprises by helping them improve their operation environments, promoting mutual cooperation, and assisting them in their efforts for self-reliant growth and upgrade transformation. With regard to matters not provided for in this Act, the provisions of other relevant acts and regulations shall apply.
+
+### Article 2
+
+The term "small and medium enterprises" used in this Act shall refer to the enterprises which have completed the company, limited partnership or business registrations by law and have conformed to the standards for identifying small and medium enterprises.
+
+The standards referred to in the preceding paragraph shall be prescribed by the central competent authority according to the amounts of capitals and the numbers of regular employees, etc.
+
+Other government authorities, which administer small and medium enterprise assistance and guidance may, in accordance with their respective operational requirements, prescribe separate standards with loose requirements for objects of assistance and guidance.
+
+### Article 3
+
+The term "competent authority" used in this Act shall be the Ministry of Economic Affairs at the central government level, the provincial (municipal) government at the province (municipality ) level, and the county (city) government at the county (city) level.
+
+Where any of the matters set forth in this Act involves the functional duties of an authority in charge of a particular enterprise, the competent authority referred to in this Act shall handle such matters in coordination with the said authority in charge of such enterprise.
+
+For enforcement of this Act, government at various levels shall set up or designate a government agency to provide assistance and guidance.
+
+### Article 4
+
+For achieving the objectives of this Act, the competent authority concerned shall take appropriate assisting or encouraging measures in respect of the following:
+
+1.Market research and development,
+
+2.Furtherance of rationalization of business operations,
+
+3.Promotion of mutual cooperation,
+
+4.Acquisition and securing of production factors and technology,
+
+5.Education and training of competent personnel, and
+
+6.Other matters relating to the establishment or sound development of small and medium enterprises.
+
+In formulating the policy, acts and regulations, and measures in the preceding paragraph, the competent authority concerned shall aim the contents at the furtherance of improvement and development of the business operations of small-scaled enterprises without unfair treatment in respect of financial and taxation systems and other related matters.
+
+The central competent authority shall publish a white paper, at the end of each fiscal year, on small and medium enterprises given the enforcement status, the review results and the prospective development of the provisions of the preceding two paragraphs.
+
+### Article 5
+
+For furthering small and medium enterprises to conduct market research and development activities, the assistance and guidance provided by the competent authority to small and medium enterprises shall be emphasized on the provision of information services, the creation of exclusive brands for their own products, arrangement of marketing channels and/or development of potential market.
+
+### Article 6
+
+For furthering small and medium enterprises to rationalize their business operations, the assistance and guidance provided by the competent authority shall be emphasized on the following:
+
+1.Research and development and development of new products,
+
+2.Modernization and renovation of production facilities and improvement of production technology,
+
+3.Improvement of the methods of operational management,
+
+4.Expansion of market and acquisition of necessary information,
+
+5.Conversion and adjustment of the field of business, and
+
+6.Acquisition of resources and technical know-how for business operation.
+
+### Article 7
+
+For encouraging mutual cooperation between small and medium enterprises, the assistance and guidance to be provided by the competent authority shall be emphasized on the following:
+
+1.Verticle amalgamation of businesses of the trade and establishment and promotion of the satellite-factory system,
+
+2.Horizontal amalgamation of businesses of the trade and establishment and promotion of joint production and marketing system,
+
+3.Mutual fund or cooperative enterprise,
+
+4.Technical cooperation and development of common technology,
+
+5.Procurement of common equipment, and
+
+6.Establishmant of strategic marketing points.
+
+### Article 8
+
+For assisting small and medium enterprises to acquire and secure production resources and technology, the assistance and guidance to be provided by the competent authority shall be emphasized on the following:
+
+1.Formation and accumulation of capital,
+
+2.Capital accommodation,
+
+3.Acquisition of land, plant building, equipment, business site and business information,
+
+4.Personnel training and upgrading of labor productivity,
+
+5.Securing the sources of agricultural and industrial raw materials and technical know-how,
+
+6.Assisting small and medium enterprises to obtain fund from capital market, and
+
+7.Upgrading of the level of services and technical skill.
+
+### Article 9
+
+The central competent authority shall set up small and medium enterprise development fund, with the use thereof to be confined to the following:
+
+1.To finance the operating expenses required for carrying out assistance plans,
+
+2.To take part in investment and development projects or provide financing assistance and guaranty jointly with financial institutions under the condition that such financial institutions or credit guarantee institutions can not provide financing or guaranty under normal terms and conditions,
+
+3.To make investment in small and medium enterprise development companies, or to take part in investment in small and medium enterprise with small and medium enterprises development companies, financial institutions and identified investment institutions.
+
+4.To provide financial support to the juridical persons institutions that are incorporated to conduct the activities specified in Article 4 , and
+
+5.Other purposes relating to the furtherance of sound development of small and medium enterprises and as specified in this Act .
+
+For the income-expenditures, safeguarding and utilization of the small and medium enterprise development fund, a small and medium enterprise development fund management committee shall be formed, with its organization structure and the regulations for income and expenditure, safeguarding and utilization of the fund to be stipulated by the Executive Yuan.
+
+### Article 10
+
+The small and medium enterprise development fund shall be derived from the following sources:
+
+1.Appropriation from the annual budget programmed by the central government,
+
+2.Appropriation from other special-case funds,
+
+3.Donation from individuals or public and private business organizations or groups,
+
+4.Interests accrued on the fund, and
+
+5.Other associated income.
+
+The donation referred to in item 3 the preceding paragraph may, when certified by the competent authority, be deductible from the total income of the current year, free from any restriction on the amount, in accordance with the Income Tax Act.
+
+### Article 11
+
+The provincial (municipal) and the county (city) competent authority (henceforth referred to as “local competent authority) may, taking into account of the specific development requirements of small and medium enterprises, under its jurisdiction, draw up assistance plan and formulate budget, and shall be responsible for the execution.
+
+To carry out the assistance plan referred to in the preceding paragraph, the local competent authority may apply to the small and medium enterprise development fund for subsidy or assist the small and medium enterprises to obtain capital accommodation under special projects.
+
+### Article 12
+
+The competent authority may, taking into account of actual requirements, cooperate with or consign to public and/or private research and service institutions, financial institutions, credit guarantee institutions, trade promotion institutions, industrial and/ or commercial organizations or other agencies for execution of the assistance activities under this Act ; and shall set up separate assistance systems in connection with respectively the operations including financial accommodation, operational management, production technology, research and development information management, industrial safety, pollution control, marketing, mutual cooperation, and quality reinforcement, etc.
+
+The regulations governing establishment up and supervision of the assistance systems shall be drawn up by the central competent authority and submitted to the Executive Yuan for approval.
+
+### Article 12-1
+
+In enacting or adjusting acts related to small and medium enterprises, governments at various levels shall review the operation scales or characteristics of small and medium enterprises to facilitate observance by small and medium enterprises.
+
+The central competent authority shall periodically review the acts related to small and medium enterprises on term, and judge the adapt ability of small and medium enterprises, and the influence to small and medium enterprises, and take a review report to the Legislative Yuan yearly.
+
+## Chapter Ⅱ Financing Facilities and Guaranty
+
+### Article 13
+
+In order to meet the capital requirements for small and medium enterprises, the central competent authority shall coordinate with financial institutions and credit guarantee institutions to enhance their respective functions of providing financing and guaranty to small and medium enterprises.
+
+In order to meet the capital requirements for small and medium credit guarantee institutions, the central competent authority shall allocate budget for donation to such credit guarantee institutions for the maintenance of their guarantee capacity. Financial institutions which contract with such credit guarantee institutions shall also cooperate with the donation whereas and the central competent authority may also solicit donation from private businesses.
+
+The total amount of donation from various financial institutions mentioned in the preceding paragraph, taking into account the actual requirements, may be adjusted upward annually until reaching 35% of the total donation amount and be determined by the central competent authority according to the safekeeping amount, overdue ratio, substitute pay off amount, credit remainder, net value, profit and loss status, and the donated amount.
+
+The central competent authority shall actively help small and medium enterprises get the loan from banks, and report the review results of each fiscal year to the Legislative Yuan.
+
+### Article 14
+
+All banks throughout the Republic of China shall, within the scope of their respective business, elevate the ratio of financing facilities provided to small and medium enterprises and shall set up small and medium enterprises assistance center in order to enhance the provision of relevant services.
+
+### Article 15
+
+The competent authority shall coordinate various agencies to make ample budget available for providing special loans to small and medium enterprises, and instruc sponsoring banks to provide special or emergency financing facilities or to extend loans to meet with the requirements of enterprises implementing business converting projects or adapting to the change of economic situation; and to elevate, when necessary, the ceiling of such financing, loans and guaranty.
+
+### Article 16
+
+The term "special financing" used in the preceding Article shall refer to the financing provided to small and medium enterprises carrying out any of the following projects:
+
+1.Operational project for reinforcement of competiveness;
+
+2.Research and development, pollution control or market expansion project:;
+
+3.Project for creation of new product(s) or upgrading the quality of product(s);
+
+4.Factory relocation project which must be carried out so as to meet with the requirements of environment protection , urban planning, or road construction or other infrastructural projects sponsored by the government;
+
+5.Any other special projects as approved by the competent authority
+
+### Article 17
+
+The term "emergency financing facilities " as used in Article 15 shall refer to the following financing provided to small and medium enterprises:
+
+1.Loan provided as revolving fund in support of production and sales during the period of significant economic crisis;
+
+2.Loan required for recovery of significant natural disaster; or
+
+3.Other loan as required to cope with emergency events.
+
+### Article 18
+
+The term "loans to meet with the requirements of enterprises implementing business converting projects or adapting to the change economic situation " used in Article 15 shall refer to any of the following loans extended to small and medium enterprises:
+
+1.Loan provided as revolving fund in support of production and sales during the period of economic recession;
+
+2.Loan required for procurement of replacement or additional machinery and equipment in the course of business conversion; or
+
+3.Loan required for procurement of automation equipment for improvement of productivity.
+
+### Article 19
+
+Funds appropriated from the small and medium enterprise development fund for participate in the loans or guaranties sponsored by financial institutions or credit guarantee institutions in accordance with the preceding three Articles; the ratio of such appropriations may be determined by the competent authority in accordance with the actual requirements.
+
+With regard to the bad debts resulted from causes which are not attributable to the intentional act, gross negligence or malpractice of the personnel handing the relevant matters set forth in the preceding paragraph, they shall be fully indemnified from damage liabilities and exmpt from disciplinary measures, according to the provisions of item 1,Article 77 of the Audit Act.
+
+### Article 20
+
+The competent authority concerned may coordinate the financial institutions and/or credit guarantee enterprises to give priority to small and medium enterprises, which have sound management, financial and accounting systems and have paid up all taxes due, in providing financing facilities and guaranties.
+
+### Article 21
+
+Where the operation of a small or medium enterprise is affected or it has to move to another place in order to meet with the requirements of environmental protection, urban planning, or road construction or other projects sponsored by the government, the competent authority shall assist it to apply for operating revolving loan or relocation loan from financial institution, and assist it to acquire the land required for factory relocation, when it is deemed necessary.
+
+### Article 22
+
+Where a small or medium enterprise suffers great damages caused by natural disaster, the competent authority shall coordinate the financial authority for tax exemption or reduction or other remedies.
+
+### Article 23
+
+In order to prevent small and medium enterprises from involvement in domino effect resulted from the close-down of their respective related enterprises, the competent authority may coordinate and assist industrial associations to establish, either separately or jointly, mutual guaranty fund(s) for prevention of chain close-down of small and medium enterprises so as to provide credit guarantee in respect of special financing facilities for the small and medium enterprises having financial or operational difficulties in such cases.
+
+The small and medium enterprise development fund may, when necessary, contribute to such mutual guaranty fund(s) at the initial stage upon its (their) establishment.
+
+## Chapter Ⅲ Operation Management, Market and Product Development
+
+### Article 24
+
+The competent authority may establish or assist the private sector to establish a small and medium enterprise guidance and service center, and may cooperate with relevant public and private institutions to provide small and medium enterprises with the following guidance and services:
+
+1.Business operation diagnosis;
+
+2.Improvement of the marketing and production technology, operation management and financial structure of small and medium enterprises;
+
+3.Training of management or technical personnel of small and medium enterprises;
+
+4.Production and market information and consultation services; and
+
+5.Other relevant businesses activities.
+
+### Article 24-1
+
+The competent authority may set up funds to assist in the development of local culture industries for local economic prosperity.
+
+### Article 25
+
+For improvement of the operating efficiency and reinforcement of the competitiveness of small and medium enterprises, the competent authority may assist small and medium enterprises to jointly engage in activities such as production, marketing, procurement, transportation, cooperation in technology development, and research and development.
+
+### Article 26
+
+The central competent authority may work jointly with relevant institutions, universities and colleges in the training of professionals in the fields of operation diagnosis and business administration so as to provide small and medium enterprises with guidance and services.
+
+### Article 27
+
+The competent authorities may provide necessary assistance to various industrial associations or industrial and commercial organizations which have a dedicated service unit responsible for providing services to small and medium enterprises.
+
+### Article 28
+
+For encouraging small and medium enterprises to manufacture quality and/or high value-added products or service, and to expand export market, the competent authority shall provide, in conjunction with institutions concerned, technical and marketing guidance and assist medium and small enterprises to participate in overseas exhibition, acquire market information, make joint advertizing activities, trademark registration, patent application, or establish joint distribution warehouses abroad.
+
+Where the plan of a small or medium enterprise for manufacturing quality and/or high value-added products or service planning has been evaluated and approved by the competent authority in conjunction with authorities concerned, the said small or medium enterprise may apply to the small and medium enterprise development fund to subsidize the expenses incurred in product and market developments.
+
+### Article 29
+
+For upgrading the level of production skill of small and medium enterprises, the competent authority may entrust technical service institutions or retain technical experts to make research and development for new products or to acquire advanced technology for providing relevant guidance and services to various industries.
+
+For transfer of new products or advanced technology, the competent authority may collect reasonable charges for amortization of costs incurred; If necessary, these charges may also be partly subsidized by the small and medium enterprise development fund.
+
+### Article 30
+
+In order to assist small and medium enterprises for research and development, the competent authority may cooperate with appropriate technology research institutes in the establishment of institutes or places for exclusive use by small and medium enterprise conducting research , testing and development of technical skill and/or new products.
+
+Small and medium enterprises may apply for use, by paying necessary charges, the equipment and facilities of the institutes or places set forth in the preceding to conduct experiment and research activities.
+
+### Article 31
+
+The competent authority may, when it deems necessary, negotiate with public or private enterprises for appointment of their respective technical personnel, and support and assistance system to provide guidance in the fields of production skill or service know-how as required by small and medium enterprises.
+
+### Article 32
+
+The central competent authority may establish or assist in the establishment of small and medium enterprise development companies to invest directly or indirectly in the small and medium enterprises having development potential and to provide consulting services and other relevant services in connection with domestic and/or overseas technical cooperation, market and product development or investment.
+
+The central competent authority shall provide assistance to the institutes and juridical persons established for carrying out the activities specified in Article 4 of this Act.
+
+The central competent authority may coordinate with the competent authority in charge of banking business under the Banking Act for approval of the participation of banks in the said small and medium enterprise development company so as to enable them to directly provide services referred to in the preceding paragraph.
+
+The small and medium enterprise development fund may take part in the investment for capital formation of small and medium enterprise development companies.
+
+The regulations governing the establishment and operation of the small and medium enterprise development companies and the standard and proportion of investment made by the small and medium enterprise development fund shall be stipulated by the Executive Yuan.
+
+## Chapter Ⅳ Tax Remittance
+
+### Article 33
+
+Where an investor provides a parcel of land in an industrial zone as his capital investment in a small or medium enterprise, and the said medium or small enterprise agrees to allow the investor to furnish the stock(s) of the said small or medium enterprise acquired by the said investor as the security for his payment of taxes, then the land value increment tax payable by the said investor may be paid in five equal installments in five consecutive years from the year in which the said parcel of land is committed to the investment.
+
+The land to be invested under the preceding paragraph shall be used only by the said small or medium enterprise for its own. If the land is not used by the said small or medium enterprise for its own or is transferred to any other person, the outstanding land value increment tax shall be paid, in a lump sum, by the investor.
+
+### Article 34
+
+Where a small or medium enterprise has moved, on account of any of the following causes, its factory or plant into an industrial zone, an industrial zone under an urban plan, or an industrial land designated in accordance with the act for Encouragement of Investment prior to the enforcement of this Act, the land value increment Tax payable on the sale or transfer of its original factory or plant site (land) shall be levied at the lowest tax rate:
+
+1.Where the original factory land does not meet with the zoning requirements upon implementation of the urban planning or zoning plan;
+
+2.Where the relocation of factory or plant is applied by the said small or medium enterprise and is approved by the competent authority due to the difficulties in making necessary improvement to meet with the requirements for pollution control, public safety or maintenance of natural landscape; and
+
+3.Where the relocation of factory or plant implemented under the initiative assistance of the government.
+
+Where the new factory land of a small or medium enterprise is transferred to anther party (or other partied) within three years after the factory relocation made under the preceding paragraph, the reduced portion of land value increment tax reduced while assessing such tax on the original factory land sold or transferred prior to the factory relocation shall be assessed supplementarily in accordance with the act.
+
+### Article 35
+
+To promote innovation and research and development of small and medium enterprises, a small and medium enterprise, by investing in research and development, may select to get the amount of tax credit up to 30% of the current year profit-seeking enterprise income tax payable by such company or limited partnership between the following two methods. No change of the method is allowed once the choice is made.
+
+1.Tax credit up to 15% of the research and development expenses, applied to the current year profit-seeking enterprise income tax payable.
+
+2.Tax credit up to 10% of the research and development expenses, applied to the annual profit-seeking enterprise income tax payable for three years, starting from the current year.
+
+For any instrument and equipment used for research and development, experiment or quality inspection purposes, if its service life is more than two years, the depreciation thereof may be accelerated by one half (1/2) of the number of years applicable as listed in the table of service life of fixed assets annexed to the Income Tax Act. Balance of service life in a length of less than one year after the depreciation acceleration shall not be taken into account.
+
+The standards referred to the tax credit from investment in paragraph 1 of this Article, regarding scope, application deadline, application procedure, approving authority, applicable period, tax credit rate and other related matters shall be prescribed by the central competent authority in consultation with the Ministry of Finance.
+
+### Article 35-1
+
+To promote circulation and application of innovation and R&D results, new shares of stock issued to a small and medium enterprise in exchange of its intellectual property rights, by an enterprise that is not listed in the Taiwan Stock Exchange, OTC, or the Emerging Stock Board, shall be excluded from the current year profit-seeking enterprise taxable income of the said small and medium enterprise.
+
+New shares of stock issued to an individual in exchange of her (his) intellectual property rights, by an enterprise that is not listed in the Taiwan Stock Exchange, OTC, or the Emerging Stock Board, shall be excluded from the current year taxable consolidated income of the said individual.
+
+When shares of stock mentioned in preceding Paragraph 1 and 2 are transferred through an actual transaction, stock gift, or inheritance, the total stock value shall be included in the current year taxable income of the recipient(s), calculated based on the actual transaction price or the fair market value of the stock at the time of the transfer, minus the related expenses or cost, incurred but not recognized yet, in obtaining the stock.
+
+The above mentioned enterprise that issues new shares of stock to obtain intellectual property rights should report to the local tax authority within 30 days from the day after the date of the stock transfer. The said enterprise is subject to a 20% fine based on the actual transfer amount and required to resubmit the report with voucher(s) in required format if it fails to meet the reporting deadline, to report the fact, or to report with voucher(s) in required format.
+
+In case the said small and medium enterprise or the individual who receive the shares of stock through intellectual property transfer is unable to provide the cost basis of the transfer for income calculation, a default 30% of the transaction price shall be applied to the cost basis of obtaining the stock.
+
+### Article 36
+
+A small and medium-sized enterprise may retain and withhold from distributing a surplus earning in an amount not exceeding double the amount of its paid-in capital. In case the retained and undistributed earnings exceed the aforesaid limit, any additional surplus earning retained in each year thereafter shall be free from the restriction stipulated in the Income Tax Act after as profit seeking enterprise income tax at the rate of 10% has been surcharged.
+
+The retain and withhold from distributing a surplus earning after 1998 until then, shall obey the Income Tax Acts, and not apply to the preceding paragraph.
+
+### Article 36-1
+
+Small and medium enterprises development companies may raise the preparation to investment loss, under 20% of the investment amount, so as to compensate for actual loss. If there is no actual loss situation within 5 years, they shall turn the raising preparation to be the benefit of the 5th year.
+
+When corporations calculate the clearing accounts income due to cancellation, rescission, revocation, mergence, or transference with Article 75, of the Income Tax Act, the accumulate remaining amount from the investment loss preparation within the preceding paragraph, shall turn to be the benefit of the same year.
+
+### Article 36-2
+
+If a small and medium enterprise additionally hires certain number of domestic junior employees under the age of 24 or over the age of 65 and increases its aggregate gross salary payments, the small and medium enterprise can deduct up to 200% of the annual gross salary payments to such additional employees from its current year profit-seeking enterprise income.
+
+If a small and medium enterprise raises the average salary paid to the domestic junior employees, the small and medium enterprise can deduct up to 175% of the incremental annual gross salary payments, excluding statutory minimum wage adjustment, to the junior employees from its current year profit-seeking enterprise income. However, the additional salary paid to the new hires shall not be deducted here as it has been used for tax benefit applied to the provisions in the preceding paragraph.
+
+As referred to in the preceding two paragraphs, matters regarding type and number of additional employees hired, aggregate gross salary payments, the range of junior employees, calculation of the average salary paid, approving authority, the prerequisites for application, application deadline, application procedure, and measures of other related matters, shall be prescribed by the central competent authority in consultation with the Ministry of Finance.
+
+### Article 36-3
+
+A small and medium enterprise that has enjoyed tax benefit under other laws may not enjoy tax benefit under this Act for the same matter again; if same matter conforms to both requirements for different tax benefits under this Act, the small and medium enterprise shall select the application of one of tax benefits and may not enjoy both tax benefit repeatedly.
+
+If a small and medium enterprise that has seriously violated the laws relating to environmental protection, labor, or food safety and health in the most recent three years and has been determined by the respective central competent authorities for specific business may not apply for tax benefit under this Act.
+
+## Chapter Ⅴ Public Procurement Projects or Public Works
+
+### Article 37
+
+Governments at various levels and government-owned enterprises shall assist small and medium enterprises to acquire business opportunities in making public announcements for procurement projects or construction of public works.
+
+### Article 38
+
+For making public announcement for procurement projects, construction of public works or for entrustment of research and development tasks, government at various levels and government-owned enterprises shall, based on actual requirements, establish qualification requirement and registration system in respect of small and medium enterprises eligible for acting as a supplier or bidder.
+
+## Chapter Ⅵ Supplementary Provisions
+
+### Article 39
+
+To review the small and medium enterprise development policy, the central competent authority may invite relevant agencies and expert scholars to form a Small and Medium Enterprise Policy Review Committee.
+
+### Article 40
+
+This Act shall come into force from the date of promulgation.
+
+Article 35 and Article 36-2 of this Act amended and promulgated on June 4, 2014 shall be enforced from May 20, 2014 to May 19, 2024; and Article 35-1 shall be enforced from May 20, 2014 to December 31, 2033.
+
+Paragraphs 2 to 5 of Article 36-2 of this Act amended and promulgated on January 6, 2016 shall be enforced from January 1, 2016 to May 19, 2024.
+
+Article 35 and Article 36-2 of this Act amended and promulgated on July 12, 2024 shall be enforced from January 1, 2024 to December 31, 2033.
+
+## History
+
+1.Publically Announced In Accordance With The Presidential Decree Dated February 4,1991
+
+2.Revised In Accordance With The Presidential Decree Dated May 21,1997
+
+3.Revised In Accordance With The Presidential Decree Dated January 21,1998
+
+4.Revised In Accordance With The Presidential Decree Dated December 27, 1990
+
+5.Revised In Accordance With The Presidential Decree Dated December 21, 2001
+
+6.Revised In Accordance With The Presidential Decree Dated December 17, 2003
+
+7.Revised In Accordance With The Presidential Decree Dated November 25, 2009
+
+8.Revised In Accordance With The Presidential Decree Dated JUNE 4, 2014
+
+9.Revised In Accordance With The Presidential Decree Dated January 6, 2016
+
+10.Revised In Accordance With The Presidential Decree Dated August 7, 2024

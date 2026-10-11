@@ -1,0 +1,753 @@
+---
+title: "Occupational Safety and Health Act"
+title_zh: "職業安全衛生法"
+identifier: "N0060001"
+type: act
+law_level: "法律"
+category: "行政＞勞動部＞職業安全衛生目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1974-04-16
+last_amended: 2025-12-19
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0060001"
+retrieved: 2026-10-12
+---
+
+# Occupational Safety and Health Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-labor/N0060001-occupational-safety-and-health-act.md](../../../zh/laws/ministry-of-labor/N0060001-occupational-safety-and-health-act.md)) is authoritative.
+
+## ChapterⅠ General Provisions
+
+### Article 1
+
+The Act is enacted to protect workers’ safety and health and to prevent occupational accidents; if otherwise provided by other applicable act, the provisions of that other act shall prevail.
+
+### Article 2
+
+The terms used in the Act are defined as follows:
+
+1.The term “workers” referred to in the Act means laborers, self-employed workers, or other people engaged in work and directed or supervised by the responsible people in workplaces.
+
+2.The term “laborers” referred to in the Act means people employed to work for wages.
+
+3.The term “employers” referred to in the Act means the owners of business entities, or the people in positions of managerial responsibility for such business entities.
+
+4.The term “business entities” referred to in the Act means entities falling within the scope of this Act, which employ laborers to perform work.
+
+5.The term “occupational accidents” referred to in the Act means any diseases, injuries, disabilities, or deaths of workers caused by buildings, machinery, equipment, raw materials, materials, chemicals, gases, vapors, dusts, etc., at the place of duty, or as a result of work activities, or due to other occupational causes.
+
+6.The term “place of duty” referred to in the Act means the place where the employer assigns laborers to carry out work services to fulfill the terms of the contract, for the duration of the labor contract, the actual place where self-employed workers engage in work, and the actual place where other people engaged in work and directed or supervised by the responsible people in workplaces engage in work.
+
+7.The term “workplaces” referred to in the Act means the place where the person who accepts the employer's or the interim employer's directions for handling of related laborer affairs can direct and manage, within the place of duty.
+
+8.The term “job sites” referred to in the Act mean sites where work for specific purposes takes place within a workplace.
+
+### Article 3
+
+(Ⅰ)The term "competent authority" referred to in the Act mean the Ministry of Labor at the central government level, the municipal government at the municipality level, or the county (city) government at the county (city) level.
+
+(Ⅱ)Health matters related to the Act shall be handled by the Central Competent Authority in consultation with the Central Competent Health Authority.
+
+### Article 4
+
+The Act applies to all industries. However, due to factors such as the scale, characteristics and risks of the business entity, the Central Competent Authority may designate and announce the applicable provisions of the Act.
+
+### Article 5
+
+(Ⅰ)Work assigned to laborers by the employers shall be within a reasonable and feasible scope, with necessary preventative equipment or measures taken to prevent laborers from being involved in occupational accidents.
+
+(Ⅱ)Those involved in the design, manufacture, or importation of items such as machinery, equipment, tools, raw materials, and materials, as well as those engaged in the design or construction of engineering projects shall carry out risk assessments during the design, manufacturing, importation, or construction planning phase, and endeavor to prevent the occurrence of occupational accidents during the usage of such items, or process of engineering or construction.
+
+## Chapter II Safety and Health Facilities
+
+### Article 6
+
+(Ⅰ)The employers shall have the necessary safety and health equipment and measures that comply with the regulations for the following items:
+
+1.To prevent the hazards posed by items such as machinery, equipment, or tools.
+
+2.To prevent the hazards posed by explosive or flammable materials.
+
+3.To prevent the hazards posed by electricity, heat, or other energy sources.
+
+4.To prevent the hazards encountered in the course of activities such as quarrying, excavating, loading and unloading, transportation, stockpiling, collecting, or logging.
+
+5.To prevent the hazards posed by falling, falling objects, or collapse at the job site.
+
+6.To prevent the hazards posed by high-pressure gas.
+
+7.To prevent the hazards posed by raw materials, materials, gases, vapors, dusts, solvents, chemicals, toxic substances, or oxygen-deficient air.
+
+8.To prevent the hazards posed by radiation, high temperature, low temperature, ultrasonic waves, noise, vibration, or abnormal atmospheric pressure.
+
+9.To prevent the hazards posed by monitoring instruments or high-precision operations.
+
+10.To prevent the hazards posed by waste gases, waste liquids, or residues.
+
+11.To prevent the hazards posed by flood, wind, or fire.
+
+12.To prevent the hazards posed by animals, plants, or microorganisms.
+
+13.To prevent the hazards posed by passages, floors, or stairways.
+
+14.To prevent the hazards posed by failure to adopt adequate ventilation, lighting, illumination, temperature control, or humidity control.
+
+(Ⅱ)The employers shall adequately plan and adopt the necessary safety and health measures for the following items:
+
+1.To prevent musculoskeletal disorders induced by repetitive operations and related works.
+
+2.To prevent ailments induced by exceptional workload, such as working shifts, working at night, and long working hours.
+
+3.To prevent unlawful physical or mental infringement caused by the actions of others in the performance of duties, and to establish the procedures for complaints, investigations, and processing of the relevant incidents.
+
+4.To allow for evacuation, first-aid treatment, rest, or other actions to protect the physical and mental health of laborers.
+
+(Ⅲ)Standards and rules for the necessary safety and health equipment and measures in the preceding two paragraphs shall be stipulated by the Central Competent Authority.
+
+### Article 7
+
+(Ⅰ)Machinery, equipment, or tools specified by the Central Competent Authority whose structures, functions, or safeguards do not fulfill safety standards shall not be manufactured and shipped from the factory, nor imported, rented out, supplied or installed by manufactures, importers, suppliers or employers.
+
+(Ⅱ)The safety standards referred to in the preceding paragraph shall be stipulated by the Central Competent Authority.
+
+(Ⅲ)Machinery, equipment, or tools that meet safety standards specified in paragraph 1 shall be registered by manufacturers or importers on the information reporting website specified by the Central Competent Authority. Manufacturers or importers shall put up the safety label in a prominent place on the manufactured or imported products for identification. Products announced as requiring type certification shall be handled in accordance with the provisions of Articles 8 and 9.
+
+(Ⅳ) The methods for information registration, labeling, and other binding matters to the preceding paragraph shall be stipulated by the Central Competent Authority.
+
+### Article 8
+
+(Ⅰ)Machinery, equipment, or tools announced by the Central Competent Authority as requiring type certification shall not be manufactured and shipped from the factory nor imported by manufactures or importers if their qualification label or type certification is not issued by a certification body authorized by the Central Competent Authority.
+
+(Ⅱ)If machinery, equipment or tools specified in the preceding paragraph satisfies any one of the following circumstances, certification may be waived and is not subject to the limits set in the preceding paragraph:
+
+1.Those that have undergone inspections, examination, certification, or approval in accordance with Article 16 or other legal regulations.
+
+2.Those that are provided for military or national defense use, with documentation to this effect issued by the Ministry of National Defense or a subordinate body thereof.
+
+3.Those that are special model manufactured or imported in limited quantities for the sole purpose of technological research and development or testing, and have been authorized by the Central Competent Authority.
+
+4.Those that are used for commercial sample or exhibition and not for actual use or operation purpose, and have been authorized by the Central Competent Authority.
+
+5.Other special circumstances requiring that certification be waived, and approved by the Central Competent Authority.
+
+(Ⅲ)For the certification referred to in Paragraph 1, where unusual structural specifications of products leading to difficulties in certification, the obligatory applicants may attach the product safety assessment reports and request with the Central Competent Authority for the approval of a suitable means of examination.
+
+(Ⅳ)For the certification referred to in Paragraph 1, due to the requirements of certification, importers may apply to the Central Competent Authority for prior releases. With approval such certification is allowed to be conducted at location where the products are installed.
+
+(Ⅴ)The implementation processes, items, standards, obligatory applicants for type certifications, the qualifications, their approval and the revocation and cancellation thereof, qualification mark, labeling methods, the conditions for prior release, request for certification waiver, safety assessment reports, overseeing and supervision, and other binding matters specified in the preceding four paragraphs shall be stipulated by the Central Competent Authority.
+
+### Article 9
+
+(Ⅰ)Where products meet the following circumstances, manufacturers, importers, suppliers, or the employers shall not display a safety label, a certified mark, or other similar and easily confused label or mark on the product:
+
+1.Failure to complete the registration on the information reporting website.
+
+2.Failure to pass the type certification.
+
+3.The registration on the information reporting website or type certification has expired.
+
+(Ⅱ)Manufacturers or importers shall establish and maintain the production and distribution documents about the product which has completed the registration on the information reporting website or passes the type certification.
+
+(Ⅲ)The Central Competent Authority or labor inspection agency may conduct random examinations and market examinations of products referred to in the preceding paragraph. Businesses shall not evade, obstruct, or refuse such inspections.
+
+(Ⅳ)The contents, retention period, and other relevant matters to be included in the production and distribution documents referred to in Paragraph 2, and the regulations governing the random examinations, market examinations, and other matters referred to in the preceding paragraph shall be stipulated by the Central Competent Authority.
+
+### Article 10
+
+(Ⅰ)The employers shall label, make inventories, and display safety data sheets for hazardous chemicals, and adopt necessary hazard communication measures.
+
+(Ⅱ)Prior to providing the chemicals in the preceding paragraph to business entities or self-employed workers, the manufacturers, importers, or suppliers shall label them and provide safety data sheets; the same shall be applied for any change of information.
+
+(Ⅲ)The scope, labeling, inventory formats, safety data sheets, and their displays, hazard communication measures and other binding matters regarding the chemicals specified in the preceding two paragraphs shall be stipulated by the Central Competent Authority.
+
+### Article 11
+
+(Ⅰ)With regard to the chemicals specified in the preceding Article, the employers shall assess the degrees of risks the chemicals pose based on health hazards, dispersion, quantity of use and other conditions, and adopt management measures according to risk ranking.
+
+(Ⅱ)The regulations on assessments, risk ranking management procedures and the adoption of measures specified in the preceding paragraphs and other binding matters shall be stipulated by the Central Competent Authority.
+
+### Article 12
+
+(Ⅰ)For job sites where the central competent authority has stipulated permissible exposure limits, the employers shall ensure that laborers’ hazard exposure is under the permissible level.
+
+(Ⅱ)The permissible exposure limits in the preceding paragraph shall be stipulated by the Central Competent Authority.
+
+(Ⅲ)Employers of job site designated by the Central Competent Authority shall formulate a workplace monitoring plan, and establish organizations or commission a job site monitoring agency approved by the Central Competent Authority to carry out monitoring. However, qualified monitoring personnel may be hired to perform monitoring items designated by the Central Competent Authority that are exempt from analysis by the monitoring agency.
+
+(Ⅳ)The employers shall publicly disclose and report to the central competent authority the monitoring plans and monitoring results referred to in the preceding paragraph. The Central Competent Authority or a labor inspection agency may examine the plans and results.
+
+(Ⅴ)Regulations governing job site designation, disclosure and reporting of monitoring plans and monitoring results, the qualifications of monitoring agencies and personnel, their approval and revocation and termination thereof, and inspection methods in the preceding two paragraphs and other binding matters shall be stipulated by the Central Competent Authority.
+
+### Article 13
+
+(Ⅰ)Manufacturers or importers shall not manufacture or import chemicals containing new chemical substances that are not on the inventory of chemical substances announced by the Central Competent Authority prior to submitting a chemical substance safety assessment report to the Central Competent Authority and receiving registration approval for the new substances. Substances stipulated by other laws, or which are announced by the Central Competent Authority announces as not applicable shall not be subject to this restriction.
+
+(Ⅱ)In order to prevent hazards to the safety and health of workers, the assessment reports in the preceding paragraph may be made public by the Central Competent Authority after examination.
+
+(Ⅲ)Regulations governing the announcement of the inventory of chemical substances, registration of new chemical substances, content of assessment reports, examination procedures, and public disclosure of information in the preceding two paragraphs and other binding matters shall be stipulated by the Central Competent Authority.
+
+### Article 14
+
+(Ⅰ)Manufacturers, importers, suppliers, or employers shall not manufacture, import, supply, or provide for workers to handle or use Controlled Chemicals that are designated by the Central Competent Authority. However, chemicals that are approved by the Central Competent Authority are not subject to this restriction.
+
+(Ⅱ)Manufacturers, importers, suppliers, or employers shall report relevant handling information of Priority Management Chemicals specified by the Central Competent Authority to the Central Competent Authority for reference.
+
+(Ⅲ)Regulations governing the designation of chemicals, conditions of permission, terms, termination or revocation of permission, content of handling information and other binding matters in the preceding two paragraphs shall be stipulated by the Central Competent Authority.
+
+### Article 15
+
+(Ⅰ)For workplaces under any of the following specified circumstances, business entities shall regularly conduct process safety assessments, produce process safety assessment reports, and adopt necessary preventative measures within the deadline stipulated by the central competent authority; the same rule applies when the process is modified.
+
+1.Petrochemical industry which engages in petroleum cracking.
+
+2.Workplaces which engage in the manufacturing, storage, or usage of hazardous chemicals in excess of the quantity stipulated by the central competent authority.
+
+(Ⅱ)Process safety assessment reports in the preceding paragraph shall be reported by the business entities to the labor inspection agency for reference.
+
+(Ⅲ)Rules governing the quantity of hazardous chemicals, process safety assessment methods, important items for assessment reports, as well as the deadline, items, and methods of reporting for reference in the preceding two paragraphs and other binding matters shall be stipulated by the Central Competent Authority.
+
+### Article 15-1
+
+(Ⅰ)When business entities contract the planning and design of any construction projects of a certain scale or above, they shall analyze potential construction hazards subject to the construction characteristics of such project, prepare safety and health drawings, specifications, and regulations, quantify and prepare the budget for safety and health expenses, and prepare the safety analysis report on the construction project planning and design.
+
+(Ⅱ)When business entities contract the construction of the projects referred to in the preceding paragraph, they shall require the constructors to assess the construction risks in advance based on the safety analysis report on the project planning and design, adopt necessary preventive equipment and measures, incorporate them into the construction plan, and execute the plan precisely.
+
+(Ⅲ)Business entities shall require the constructors referred to in the preceding paragraph to perform the work strictly in accordance with the construction plan, and also designate their personnel or contract professional organizations to supervise and verify the work.
+
+(Ⅳ)The specific construction scale or above, methods of analysis and assessment, contents of safety and health drawings, specifications, and regulations, key contents of the safety analysis report on the project planning and design and construction plan, qualifications of the personnel or professional organizations, contents of the supervision and verification, and other related matters referred to in the preceding three paragraphs shall be stipulated by the Central Competent Authority.
+
+### Article 16
+
+(Ⅰ)Employers shall not use machinery or equipment specified as hazardous by the Central Competent Authority without passing an inspection by a labor inspection agency, or by a certificated inspection agency designated by the Central Competent Authority; where such usage exceeds the stipulated period, the machinery and facilities shall not be used without passing a reinspection.
+
+(Ⅱ)Designated inspection agencies shall perform their duties in accordance with the Act and orders issued by the Act.
+
+(Ⅲ)Inspection fee standards and the qualifications and responsibilities of designated inspection agencies shall be stipulated by the Central Competent Authority.
+
+(Ⅳ)Regulations regarding the types of hazardous machinery or equipment, their required capacities, and the process, completion, usage, modification or other matters of inspection related to procedures, items, and standards of inspection, as well as effective period of approved inspections thereof referred to in Paragraph 1 shall be stipulated by the Central Competent Authority.
+
+### Article 17
+
+All workplace building shall be designed by a registered practicing architect in accordance with the law on architecture and the safety and health provisions of the Act.
+
+### Article 18
+
+(Ⅰ)When there is a concern of a potential imminent danger at a workplace, the employers or people responsible for the workplace shall immediately issue orders to halt work and withdraw laborers to a safe location.
+
+(Ⅱ)When laborers discover there is a concern of a threat of imminent danger while executing their duties, under conditions in which the safety of other workers is not jeopardized, they may terminate work of their own accord and withdraw to safe locations, and immediately report to their direct supervisors.
+
+(Ⅲ)The employers shall not dismiss, reassign, not pay wages for the period of work on halt, or otherwise impose unfavorably treatment on laborers taking actions prescribed in the preceding paragraph. However, employers are not subject to this restriction if they can prove that laborers have abused their rights to suspend work and have been affirmed by the competent authority for having complied with labor regulations.
+
+### Article 19
+
+(Ⅰ)The employers shall not have laborers work in a high temperature worksite for more than six hours each day; employers shall reduce working hours for laborers performing work under abnormal atmospheric pressure conditions, elevated operation, high precision operation, high physical exertion, or other specially hazardous tasks, and give appropriate rest periods during working hours.
+
+(Ⅱ)The standards for the preceding paragraph describing the reduction of working hours and adequate time for rest for working under unusually high temperature, abnormal atmospheric pressure, elevated operation, high precision operation, high physical exertion, and other specially hazardous tasks shall be stipulated by the Central Competent Authority in coordination with relevant authorities.
+
+### Article 20
+
+(Ⅰ)The employers shall conduct pre-employment physical examinations for laborers at the time of employment; for currently employed laborers, the following health examinations shall be conducted:
+
+1.General health examinations.
+
+2.Special health examinations for those involved in tasks with special health hazards.
+
+3.Health examinations of specific items for specific targets workers as designated by the Central Competent Authority.
+
+(Ⅱ)The examinations in the preceding paragraph shall be performed by physicians from medical institutions approved by the Central Competent Authority in consultation with the Central Competent Health Authority; the employers shall keep the examination records and be responsible for the expense of the health examinations; when special health examinations are performed, the employers shall provide detailed information on laborer’s work, exposure to hazards, and other work experience information to the medical institution.
+
+(Ⅲ)Regulations regarding the subjects of examinations and their work experience, the items and time of their examinations, hierarchy of health management, examination records and the record keeping period in the preceding two paragraphs and other binding matters shall be stipulated by the Central Competent Authority.
+
+(Ⅳ)The medical institutions shall report the results of health examinations to the Central Competent Authority for future reference, to be applied as necessary for prevention of work related diseases. The reporting of the results of general health examinations, however, is limited to cases in which abnormalities are discovered in specific items.
+
+(Ⅴ)Regulations regarding the approval conditions, management of medical institutions, and the qualifications of examination physicians in Paragraph 2, as well as the contents, methods, and deadline for the reporting of examination results in the preceding paragraph and other binding matters to be complied with are stipulated by the Central Competent Authority.
+
+(Ⅵ)The laborers are obligated to accept the examinations in Paragraph 1.
+
+### Article 21
+
+(Ⅰ)The employers shall not employ laborers to engage in a particular type of work for which the physical examination in the preceding Article finds the laborers to be unsuitable for employment. Where a health examination finds an abnormal condition in laborers, medical personnel shall provide the laborer with health guidance. Where the results of a physician’s health assessment indicate that a laborer is not suited for his or her original work, the physician’s recommendations shall be referred to in changing the laborer’s job sites, reassigning the laborer to different duties, or shortening his or her working hours, and adopting health management measures.
+
+(Ⅱ)The employers shall compile and issue to the laborers a health examination manual based on the results of the examinations pursuant to the preceding Article and personal health recommendations. This manual shall not be used for purposes other than health management.
+
+(Ⅲ)The regulations regarding health management measures and the contents of the examination manuals in the preceding two paragraphs and other binding matters to be complied with shall be stipulated by the Central Competent Authority.
+
+### Article 22
+
+(Ⅰ)Business entities employing 50 or more laborers shall employ occupational health professionals or contract occupational health service professional organizations to conduct health management, occupational disease and work-related disease prevention, health promotion, and other activities to ensure the health and protection of laborers.
+
+(Ⅱ)Activities related to occupational disease and work-related disease prevention in the preceding paragraph shall be carried out in response to the employment of the safety and health personnel referred to in Article 23.
+
+(Ⅲ)The qualifications for the occupational health professionals and occupational health service professional organizations, labor health protection, and other binding matters referred to in Paragraph 1 shall be stipulated by the Central Competent Authority.
+
+## Chapter II-1 Prevention of Workplace Bullying
+
+### Article 22-1
+
+(Ⅰ)The workplace bullying referred to in the Act means a situation in which a laborer, when performing his/her job duty in the place of duty, suffers harm to his/her mental and physical health due to continuous occurrence of any offensive, threatening, neglectful, isolated, insulting, or other inappropriate words or behaviors from the personnel of his/her business entity through abuse of their positions or powers, and beyond the necessary and reasonable business scope. Where the case is considered serious, the continuous occurrence does not constitute a prerequisite.
+
+(Ⅱ)Employers shall take the necessary measures to prevent workplace bullying. Employers employing the laborers attaining the following scale shall apply the following requirements:
+
+1.Those employing more than 10 laborers shall establish the channel for complaints on workplace bullying and disclose such channels in the workplace.
+
+2.Those employing more than 30 laborers shall stipulate the workplace bullying prevention measures and regulations governing complaints and punishment against workplace bullying, and disclose the same in the workplace.
+
+### Article 22-2
+
+(Ⅰ)Employers shall take the following appropriate measures which become effective immediately upon awareness of any laborer suffering workplace bullying:
+
+1.When the employer is aware of the incident upon receipt of the complaint from the bullied laborer:
+
+(1)Take measures that may prevent the complainant from being bullied again;
+
+(2)Provide the related consulting services or necessary assistance and protection measures, subject to the complainant’s needs and circumstances;
+
+(3)Investigate the complaint; the complainant may provide assistance in the investigation if he/she is willing to do so; the investigation shall be continued if no settlement is reached through mediation;
+
+(4)Impose adequate punishment or relevant discipline on the perpetrator.
+
+2.When the employer is aware of the incident due to any circumstance other than those referred to in the preceding subparagraph:
+
+(1)Take any necessary action to clarify the related facts;
+
+(2)Assist the bullied laborer in the mediation for settlement or initiation of a complaint, depending on the laborer’s wish;
+
+(3)Adjust the job contents or workplace adequately;
+
+(4)Provide the related consulting services or necessary assistance and protection measures, depending on the bullied laborer’s wish.
+
+(Ⅱ)Employers shall uphold the principles of objectivity, impartiality, and fairness in the investigation or mediation about workplace bullying incidents. During the investigation, employers shall give the concerned parties the opportunity to state their opinions and respond to the incident sufficiently, and shall also comply with the conflict of interest requirements. Where the number of laborers employed by any employer reaches a specific scale, the employer shall form an investigation team. The number of external members shall be no less than half of all members.
+
+(Ⅲ)Upon receipt of the complaint from any bullied laborer, the employer shall register the complaint on the website designated by the Central Competent Authority. The resolution against the complaint shall also be registered on the website.
+
+(Ⅳ)The adequate measures, investigation and reconsideration principles, determination of the specific scale and method by which the information adopted by the employer in accordance with the preceding three paragraphs, and the prevention measures, complaints, and punishments to be set forth in the subparagraphs of Paragraph 2 of the preceding article, shall include the workplace bullying forms, prevention matters, education and training, complaint channels, investigation, handling and reconsideration procedures, investigators’ qualifications and composition of the investigation team, conflict of interest requirements, disciplinary action and other related measures. The guidelines thereof shall be stipulated by the Central Competent Authority.
+
+(Ⅴ)Where the investigation results of the workplace bullying incident caused by the employer confirm a violation of the guidelines set forth in the preceding paragraph and the investigation procedure is found materially defective, the competent authority or labor inspection agency may request a re-investigation, and no objection may be raised by the employer.
+
+### Article 22-3
+
+(Ⅰ)The laborer suffering workplace bullying shall file a complaint with his/her employer. Where the accused is the highest-ranking official, the laborer may file the complaint with the municipal or county (city) competent authority directly.
+
+(Ⅱ)The time limit within which the laborer shall file the complaint with the municipal or county (city) competent authority in accordance with the proviso in the preceding paragraph shall be determined in the following manners:
+
+1.No complaint will be accepted upon expiration of three years after the workplace bullying;
+
+2.The laborer may file the complaint within one year as of the date of resignation if the workplace bullying incident occurs during the laborer’s employment, provided that the longer time limit determined pursuant to the preceding subparagraph, if any, shall apply.
+
+(Ⅲ)In order to investigate the complaint referred to in Paragraph 1, the municipal or county (city) competent authority may contract experts or non-governmental organizations to provide assistance.
+
+(Ⅳ)When the municipal or county (city) competent authority is conducting the investigation pursuant to the Act, the complainant, accused, and individual or unit invited to provide assistance in the investigation shall work with the authority and provide related information. The accused shall not evade, obstruct, or deny the investigation.
+
+(Ⅴ)The regulations governing the scope of complaints against workplace bullying accepted by the municipal or county (city) competent authority and of the highest-ranking official, handling procedures, investigation method, and other related matters shall be stipulated by the Central Competent Authority.
+
+## Chapter III Safety and Health Management
+
+### Article 23
+
+(Ⅰ)Employers shall establish the safety and health organization and personnel based on the scale and characteristics of their business entities, and shall also prepare the occupational safety and health management plan to implement safety and health management and self-inspections.
+
+(Ⅱ)Where the scale of business entities in the preceding paragraph reaches or exceeds a certain level, or have workplaces as stipulated in Paragraph 1, Article 15 herein, the business entities shall establish an occupational safety and health management system.
+
+(Ⅲ)The Central Competent Authority may conduct on-site visits and inspections of the occupational safety and health management system stipulated in the preceding paragraph, and may publicly commend those with sound management performances once they are recognized.
+
+(Ⅳ)The safety and health management referred to in Paragraphs 1 and 2 shall be managed by the employer, interim employer, or responsible people in workplaces comprehensively, and executed by the relevant personnel directed and supervised by various supervisors of the business entities based on their job duties.
+
+(Ⅴ)Regulations regarding the scale and characteristics of business entities, safety and health organizations, personnel, job duties, management, self-inspections, and the establishment of occupational safety and health management systems in the preceding four paragraphs and other related matters to be complied with shall be stipulated by the Central Competent Authority.
+
+### Article 24
+
+(Ⅰ)For positions requiring the operations of dangerous machinery or equipment referred to in Paragraph 1, Article 16 and other specific machines, the employer shall hire qualified personnel who have completed education and training or passed skills certification approved by the Central Competent Authority.
+
+(Ⅱ)The categories of such other specific machinery referred to in the preceding paragraph, and the required capacities thereof, shall be announced by the Central Competent Authority.
+
+(Ⅲ)When performing operations, the personnel referred to in Paragraph 1 shall carry out their duties in accordance with the standards and rules for safety and health equipment and measures prescribed pursuant to the authorizations under Paragraphs 1, 2, and 3 of Article 6.
+
+### Article 25
+
+(Ⅰ)When business entities recruit contractors for projects, their contractors assume the responsibilities of the employers stipulated in the Act for the portion contracted; the original business entities shall assume joint liabilities with the contractors for occupational accident compensation. The above also applies to subcontractors.
+
+(Ⅱ)When the original business entities violate the Act or related safety and health regulations, resulting in occupational accidents suffered by laborers employed by the contractors, they assume joint liabilities with the contractors for indemnity. The above also applies to subcontractors.
+
+### Article 26
+
+(Ⅰ)Prior to contracting their works, business entities shall conduct risk assessment on the contracted works in advance, inform the contractors of the assessment results related to the work environment, hazardous elements, and safety and health equipment measures to be adopted, and require the contractors to execute the work based on the assessment results precisely during the contract period.
+
+(Ⅱ)Prior to subcontracting the part contracted, if any, the contractors or subcontractors shall apply the requirements referred to in the preceding paragraph.
+
+(Ⅲ)When leasing or lending workplaces or equipment to another person, business entities shall advise the person of the precautions related to the workplaces, hazardous factors of the equipment, and safety and health in advance.
+
+### Article 27
+
+(Ⅰ)When business entities contract their operations, and work with workers of contractors and subcontractors, the original business entities shall institute the following necessary measures:
+
+1.Establish a consultation group, and appoint a person responsible for supervision and coordination of the workplace.
+
+2.Regulate and integrate work.
+
+3.Conduct inspections of the workplaces.
+
+4.Direct and assist in safety and health education and training related to the contractors.
+
+5.Control the entry of machinery, equipment, tools, and personnel.
+
+6.Other measures necessary to prevent occupational accidents.
+
+(Ⅱ)If the business entities contract two or more contractors for joint operation, but the business entities themselves do not participate in such work, one of the contractors shall be designated to assume the business entities’ responsibilities set forth in the preceding paragraph.
+
+(Ⅲ)Prior to subcontracting the part contracted, if any, the contractors or subcontractors shall also apply the requirements referred to in subparagraphs 2 through 6 of Paragraph 1.
+
+(Ⅳ)The contractors and subcontractors shall act in response to the necessary measures taken by the original business entities referred to in Paragraph 1.
+
+### Article 27-1
+
+(Ⅰ)When business entities contract any construction project of a certain scale or above referred to in Paragraph 1, Article 15-1 to more than two constructors, one of the constructors shall be designated to be responsible for the holistic safety and health management of the projects.
+
+(Ⅱ)The designated constructor referred to in the preceding paragraph shall execute the holistic safety and health management of the projects in its entirety.
+
+(Ⅲ)The regulations governing the designation of the constructors, holistic safety and health management of projects, and other related matters shall be stipulated by the Central Competent Authority.
+
+### Article 28
+
+If two or more business entities contribute fund jointly for a contracted operation, they shall select one person to act as the representative. Said representative is deemed the employers of such operation, and is liable for the prevention of occupational accidents as stipulated for employers’ under the Act.
+
+### Article 29
+
+(Ⅰ)Employers shall not employ persons under the age of 18 to perform any of the following potentially dangerous or harmful work:
+
+1.Work in tunnels.
+
+2.Work involving the handling of explosives or flammable substances.
+
+3.Work at sites where lead, mercury, chromium, arsenic, yellow phosphorus, chlorine, hydrogen cyanide, aniline, or other harmful substances are spread.
+
+4.Work at sites where harmful level of radiation is present.
+
+5.Work at sites where harmful level of dust is present.
+
+6.Work involving the cleaning, lubrication, inspection, repair, or the installation or removal of belts or chains on moving machinery or the dangerous parts of power transmission apparatus.
+
+7.Work involving the connecting of electrical wires carrying over 220 volts of electricity.
+
+8.Work involving the handling of smelted minerals or slag.
+
+9.Work involving the ignition or operation of a boiler.
+
+10.Work involving the operation of a rock drill or other machinery with excessive vibration.
+
+11.Work involving the handling of objects above a specific weight.
+
+12.Work involving the operation of a crane or derrick crane.
+
+13.Work involving the operation of a powered winch, powered carrier, or cableway.
+
+14.Work involving the operation of rolling and grinding mills for rubber compounds or synthetic resins.
+
+15.Other work determined to be of a potentially dangerous or harmful nature by the central competent authority.
+
+(Ⅱ)The standards for defining the potentially dangerous or harmful work set forth in the preceding paragraph shall be stipulated by the Central Competent Authority.
+
+(Ⅲ)In the event that a person under the age of 18 engaged in work other than those set forth in Paragraph 1 is found unsuitable for his or her original work as a result of a physician’s health assessments stipulated in Article 20 or 22, the employer shall refer to the physician’s recommendations to change job site, reassign work, or shorten his or her working hours, and adopt health management measures.
+
+### Article 30
+
+(Ⅰ)Employers shall not employ a pregnant female laborer to perform any of the following potentially dangerous or harmful work:
+
+1.Work in tunnels.
+
+2.Work at a site where lead and its compounds are spread.
+
+3.Work under abnormal air pressure conditions.
+
+4.Work involving the handling of or exposure to Toxoplasma gondii, rubella, or other microorganisms or viruses which potentially affect the health of the fetus.
+
+5.Work involving the handling of or exposure to carbon disulfide, trichloroethylene, ethylene oxide, acrylamide, ethylenimine, arsenic and its compounds, mercury and its inorganic compounds, and other chemicals designated as hazardous by the central competent authority.
+
+6.Work involving the operation of a rock drill or other machinery with excessive vibration.
+
+7.Work involving the handling of objects above a specific weight.
+
+8.Work at a site where harmful level of radiation is present.
+
+9.Work involving the handling of smelted minerals or slag.
+
+10.Work involving the operation of a crane or derrick crane.
+
+11.Work involving the operation of a powered winch, powered carrier, or cableway.
+
+12.Work involving the operation of rolling and grinding mills for rubber compounds or synthetic resins.
+
+13.Work involving the handling of or exposure to disease or lethal microorganisms designated potentially infectious by the central competent authority.
+
+14.Other work determined to be of a potentially dangerous or harmful nature by the Central Competent Authority.
+
+(Ⅱ)Employers shall not employ female laborers who are still within their first postpartum year to perform any of the following potentially dangerous or hazardous work:
+
+1.Work in tunnels.
+
+2.Work at sites where lead and its compounds are spread.
+
+3.Work involving the operation of a rock drill or other machinery involving excessive vibration.
+
+4.Work involving the handling of objects above a specific weight.
+
+5.Other work determined to be of a potentially dangerous or hazardous nature by the Central Competent Authority.
+
+(Ⅲ)This limitation shall not apply to the work set forth in subparagraphs 5 to 14 of Paragraph 1 and subparagraphs 3 to 5 of the preceding paragraph where the employers implement maternal health protection measures pursuant to Article 31 and the person involved provides written consent.
+
+(Ⅳ)The evaluative standards for the potentially dangerous or harmful work set forth in Paragraphs 1 and 2 shall be determined by the Central Competent Authority.
+
+(Ⅴ)Where the employers are not informed by the person involved of the pregnancy or childbirth and breach the regulations stipulated in Paragraph 1 or 2, the employers shall be exempt from penalty; however, this exemption shall not apply if employers are aware or could have known of the fact.
+
+### Article 31
+
+(Ⅰ)Employers shall institute hazard assessments, controls, and hierarchy management measures for work which is potentially hazardous to maternal health in industries designated by the Central Competent Authority; for female laborers who are still within their first postpartum year, work adjustment or reassignment or other protective measures shall be adopted in accordance with the physician’s suitability assessment recommendations, and records of these measures should be kept.
+
+(Ⅱ)In the event that the laborers in the preceding paragraph experience health abnormalities or adverse reactions due to changes in working conditions or operating processes during the period of protection, where a physician’s assessment confirms that the laborers are unsuitable for her original work, the employers shall rearrange the matter in accordance with the provisions of the preceding paragraph.
+
+(Ⅲ)Regulations regarding the designation of industries, types of work considered potentially hazardous to maternal health, hazard assessment procedures and controls, hierarchy management methods, suitability assessment principles, work adjustment or reassignment, physician qualifications and report formats, and records keeping in Paragraph 1 and other binding matters to be complied with shall be stipulated by the Central Competent Authority.
+
+(Ⅳ)Where the employers are not informed by the person involved of the pregnancy or childbirth and breach the regulations stipulated in Paragraph 1 or 2, the employers shall be exempt from penalty; however, this exemption shall not apply if employers are aware or could have known of the fact.
+
+### Article 32
+
+(Ⅰ)Employers shall provide laborers with all the necessary safety and health education and training to perform duties and prevent accidents.
+
+(Ⅱ)The employer shall organize by itself, or contract the training units, including institutions (agencies), schools, or organizations approved by the Central Competent Authority to organize, the safety and health education and training referred to in the preceding paragraph.
+
+(Ⅲ)The regulations governing matters for the safety and health education and training, qualifications and management, audit, approval, and evaluation of training entities set forth in the preceding two paragraphs and other compliance matters shall be stipulated by the Central Competent Authority.
+
+(Ⅳ)Laborers are obligated to participate in the safety and health education and training in Paragraph 1.
+
+### Article 33
+
+Employers shall be responsible for disseminating the content of the Act and related safety and health regulations to all laborers.
+
+### Article 34
+
+(Ⅰ)Employers shall prepare, in consultation with labor representatives, appropriate safety and health work rules which suit their needs. These rules shall be posted and implemented after a copy has been submitted to a labor inspection agency for reference.
+
+(Ⅱ)Laborers shall conscientiously abide by the rules in the preceding paragraph.
+
+## Chapter IV Supervision and Inspections
+
+### Article 35
+
+The Central Competent Authority may invite laborers, employers, and government representatives, academic experts, and occupational accident labor organizations to convene occupational safety and health consultative committees to examine and discuss national occupational safety and health policies and provide recommendations; neither genders of members shall comprise less than one third of such a committee.
+
+### Article 36
+
+(Ⅰ)The Central Competent Authority and labor inspection agencies may carry out inspections of places of duty of business entities. Those not conforming to regulations shall be informed of the provisions breached and notified to make improvements within a limited time period. Those failing to make improvements within the specified period of time, or have already had occupational accidents, or for which there is a concern of a potential for occupational accidents to occur may be notified to suspend all or part of their works. Laborers shall be paid their usual wages during the period of work stoppage.
+
+(Ⅱ)When necessary, business entities may request assistance from the central competent authority or consult with consulting services agency to provide professional and technical guidance in making the improvements set forth in the preceding paragraph.
+
+(Ⅲ)Regulations regarding the types, conditions, and scope of services of the consulting services agencies mentioned in the preceding paragraph, qualifications and job duties of consultants, procedures for approval, revocation, termination, and management thereof, and other binding matters to be complied with shall be stipulated by the Central Competent Authority.
+
+### Article 37
+
+(Ⅰ)In the event that an occupational accident occurs at the workplace of business entities, the employers shall immediately take necessary measures such as first aid and emergency rescue, and conduct an investigation, analysis of the accident, and make record of such in consultation with labor representatives.
+
+(Ⅱ)Employers shall notify a labor inspection agency within eight hours of the occurrence of one of the following types of occupational accidents at the place of duty of business entities:
+
+1.Accidents involving death.
+
+2.Accidents causing injuries to three people or more.
+
+3.Accidents causing injuries to one person or more that require hospitalization.
+
+4.All other categories of accidents designated and officially announced by the Central Competent Authority.
+
+(Ⅲ)After receiving a report as set forth in the preceding paragraph, the labor inspection agency shall dispatch inspector to the workplaces where the accidents causing death or serious injuries occurred.
+
+(Ⅳ)In the event that accidents of one of the types set forth in Paragraph 2 occur at business entities, without the permission of the appropriate judicial body or inspection agency, the employers shall not disturb or damage the accident site except for necessary first aid or emergency rescue.
+
+### Article 38
+
+Employers in industries designated by the Central Competent Authority shall compile reports and statistics on occupational accidents in accordance with regulations and forward such reports to the labor inspection agencies each month for future reference and post them at the workplaces.
+
+### Article 39
+
+(Ⅰ)Workers may file complaints with the employers, the competent authority, or labor inspection agencies if one of followings is discovered:
+
+1.The business entities are in violation of this Act or related safety and health regulations.
+
+2.A suspected occupational disease.
+
+3.Physical or psychological infringement.
+
+(Ⅱ)The competent authority or labor inspection agencies may conduct investigations to verify the measures taken by the employers in the preceding paragraph to prevent and respond to such occurrences.
+
+(Ⅲ)When necessary, the parties or related personnel may be notified to take part in the investigation mentioned in the preceding paragraph. Meanwhile, experts or non-government organizations may also be invited to provide assistance in the investigation.
+
+(Ⅳ)The employer shall not terminate the employment of, demote, reduce wages of, or infringe on the rights and benefits under the law, contract, or norm of a worker who files a complaint or helps another person file a complaint pursuant to the Act, or otherwise impose any decision unfavorable to the worker.
+
+(Ⅴ)Where the employer has imposed the unfavorable decision referred to in the preceding paragraph, such decision shall be invalid.
+
+(Ⅵ)Where the worker receives any decision unfavorable to him/her due to the acts referred to in Paragraph 4, the employer shall bear the burden of proof to prove that the unfavorable decision is unrelated to the acts referred to in Paragraph 4.
+
+## Chapter V Penalties
+
+### Article 40
+
+(Ⅰ)Any violation of the provisions of Paragraph 1, Article 6 or Paragraph 1, Article 16, resulting in the occurrence of an accident as set forth in subparagraph 1 of Paragraph 2, Article 37 shall be sentenced to a term of imprisonment of no more than five years, detention, and/or given a fine of up to NT$1,500,000.
+
+(Ⅱ)Where a crime stipulated in preceding paragraph is committed by a legal entity, in addition to punishing the individual responsible for the entity, the fine set forth in the preceding paragraph shall also be levied against said legal entity.
+
+### Article 41
+
+(Ⅰ)Any one of the following violations shall be sentenced to a term of imprisonment of no more than three years, detention, and/or given a criminal fine of up to NT$1,000,000:
+
+1.Violations of the provisions of Paragraph 1, Article 6 or Paragraph 1, Article 16 resulting in the occurrence of accidents as set forth in subparagraph 2 of Paragraph 2, Article 37.
+
+2.Violations of the provisions of Paragraph 1, Article 18, Paragraph 1, Article 29, or Paragraph 1 and Paragraph 2, Article 30.
+
+3.Violations of a notice to suspend works issued by the Central Competent Authority or labor inspection agency per Paragraph 1, Article 36.
+
+4.Intentionally disturbing or damaging the accident site without permission, in violation of Paragraph 4, Article 37.
+
+(Ⅱ)Where a crime stipulated in the preceding paragraph is committed by a legal entity, in addition to punishing the individual responsible for the entity, the fine set forth in the preceding paragraph shall also be levied against said legal entity.
+
+### Article 42
+
+(Ⅰ)Any violation of the provisions of Article 15 Paragraph 1 or 2 wherein there is hazardous chemicals leak or a fire or explosion is caused that results in the occurrence of an occupational accident as set forth in Article 37 Paragraph 2 shall be subject to a fine of no less than NT$300,000 but no more than NT$3,000,000; if notification has been given to make improvements within a limited time period but has failed to do so, an additional fine per violation may be levied.
+
+(Ⅱ)Monitoring data reported by the employer per Article 12 Paragraph 4 that has been verified by the Central Competent Authority as being false shall be subject to a fine of no less than NT$300,000 but no more than NT$1,000,000.
+
+### Article 43
+
+(Ⅰ)Any of the following violations shall be subject to a fine of no less than NT$50,000 but no more than NT$3,000,000:
+
+1.Violations of the provisions of Paragraph 1, Article 10, Paragraph 1, Article 11, or Paragraph 2, Article 23, for which the improvement was ordered within a time limit, but no improvement was made within the time limit.
+
+2.Violations of the provisions of Paragraph 1, Article 6, Paragraph 1 or Paragraph 3, Article 12, Paragraph 2, Article 14, Paragraph 1, Article 16, Paragraph 1, Article 19, Paragraph 1, Article 24, Paragraph 1 or Paragraph 2, Article 31, or Paragraph 1, Paragraph 2 or Paragraph 4, Article 37.
+
+3.Violations of the provisions of Paragraph 2, Article 6, the latter part of Paragraph 2, Article 22-1, or Paragraph 1, Article 22-2 resulting in the occurrence of occupational diseases or work-related diseases.
+
+4.Violations of the provisions of Paragraphs 1 through 3, Article 15-1, Paragraph 1, Article 23, Article 26, Article 27, Paragraph 1 or Paragraph 2, Article 27-1, Article 28, or Paragraph 1, Article 32 resulting in the occurrence of accidents referred to in Paragraph 2, Article 37.
+
+5.Violations of the provisions of Paragraph 1 or Paragraph 2, Article 15 for which fines may be levied per violation.
+
+6.Evasion, obstruction, or refusal of an inspection, investigation, random examination, market examination, or verification prescribed by the Act.
+
+(Ⅱ)Where any of the circumstances set out in the preceding paragraph applies, the competent authority may, based on the scale or nature of the enterprise or the circumstances of the violation, increase the fine by an amount up to one-half of the statutory maximum fine.
+
+### Article 44
+
+(Ⅰ)Failure to register in accordance with the provisions of Paragraph 3, Article 7 or violations of the provisions of Paragraph 2, Article 9 or Paragraph 2, Article 10 shall be subject to a fine of no less than NT$30,000 but no more than NT$150,000. Where no improvement has been made within the time limit prescribed in a notice, an additional fine may be levied per violation.
+
+(Ⅱ)Violations of Paragraph 1, Article 7, Paragraph 1, Article 8, Paragraph 1, Article 13, or Paragraph 1, Article 14 may be subject to a fine of no less than NT$200,000 but no more than NT$2,000,000, and a deadline may be given by which the violator must cease the importation, production, manufacture, or supply of the related products; where said activities are not ceased by the time specified, fines may be levied per violation.
+
+(Ⅲ)Failure to mark products in accordance with the provisions of Paragraph 3, Article 7 or violation of Paragraph 1, Article 9 shall be subject to a fine of no less than NT$30,000 but no more than NT$300,000, and violators may be ordered to recall the products or make corrections within a set period of time.
+
+(Ⅳ)Failure to recall products or make corrections in accordance with the provisions of the preceding paragraph shall be subject to a fine of no less than NT$100,000 but no more than NT$1,000,000 per violation.
+
+(Ⅴ)Products in violation of the provisions of Paragraph 1, Article 7, Paragraph 1, Article 8 or Paragraph 1, Article 9, or chemicals in violation of the provisions of Paragraph 1, Article 14, may be subject to confiscation, destruction, or other necessary measures. The cost of which shall be borne by the perpetrator.
+
+### Article 45
+
+(Ⅰ)Any of the following violations shall be subject to a fine of no less than NT$30,000 but no more than NT$750,000:
+
+1.Violations of the provisions of Paragraph 2, Article 6, Paragraph 4, Article 12, Paragraph 1 or Paragraph 2, Article 20, Paragraph 1 or Paragraph 2, Article 21, Paragraph 1, Article 22, the latter part of Paragraph 2, Article 22-1, subparagraph 2 of Paragraph 1 or Paragraph 3, Article 22-2, Paragraph 1, Article 23, Paragraph 1, Article 32, Paragraph 1, Article 34, or Article 38, for which the improvement was ordered within a time limit, but no improvement was made within the time limit.
+
+2.Violations of the provisions of Paragraphs 1 through 3, Article 15-1, Article 17, Paragraph 3, Article 18, subparagraph 1 of Paragraph 1, Paragraph 2 or Paragraph 5, Article 22-2, Article 26, Article 27, Paragraph 1 or Paragraph 2, Article 27-1, Article 28, Paragraph 3, Article 29, Article 33, or Paragraph 4, Article 39.
+
+3.Failure to provide wages which should be paid in accordance with the provisions of Paragraph 1, Article 36.
+
+(Ⅱ)Where any of the circumstances set out in the preceding paragraph applies, the competent authority may, based on the scale or nature of the enterprise or the circumstances of the violation, increase the fine by an amount up to one-half of the statutory maximum fine.
+
+### Article 46
+
+(Ⅰ)The highest-ranking official who is found committing the workplace bullying shall be subject to a fine of no less than NT$10,000 but no more than NT$1,000,000.
+
+(Ⅱ)For violations of Paragraph 3, Article 24 resulting in the accidents referred to in Paragraph 2, Article 37, the violators shall be subject to a fine of no less than NT$10,000 but no more than NT$200,000, and shall attend the training designated by the Central Competent Authority; where such person refuses to attend the training, penalties shall be imposed for each refusal.
+
+(Ⅲ)No fines shall be levied if the operating personnel cause the circumstances referred to in the preceding paragraph by following their employer's instructions.
+
+(Ⅳ)Violations of Paragraph 6, Article 20, Paragraph 4, Article 32, or Paragraph 2, Article 34 shall be subject to a fine of no more than $NT3,000.
+
+(Ⅴ)The statute of limitations for exercising the power of adjudication referred to in Paragraph 1 shall commence from the date when the municipal or county (city) competent authority accepts the complaint filed by the complainant pursuant to the proviso in Paragraph 1, Article 22-3.
+
+### Article 47
+
+Designated inspection agencies which violate this Act or orders issued in accordance with the Act in the course of executing their duties shall be subject to a fine of no less than NT$60,000 but no more than NT$300,000; in the event of severe violations, the Central Competent Authority may also temporarily suspend or revoke the designated inspection agency from their position of inspection.
+
+### Article 48
+
+Any one of the following violations shall be issued a warning or be subject to a fine of no less than NT$60,000 but no more than NT$300,000, and may be ordered to make corrections within a limited period of time. Where any violator fails to make corrections within the limited time or the violation is considered severe, the violator shall be subject to the revocation or termination of approval or the temporary suspension of all or part of its operations;
+
+1.Violation by certification bodies of regulations prescribed by the Central Competent Authority in accordance with Paragraph 5, Article 8 of the Act.
+
+2.Violation by monitoring agencies of regulations prescribed by the Central Competent Authority in accordance with Paragraph 5, Article 12 of the Act.
+
+3.Violation by medical institutions of Paragraph 4, Article 20 of the Act and also regulations prescribed by the Central Competent Authority in accordance with Paragraph 5, Article 20 of the Act.
+
+4.Violation by occupational health service professional organizations of rules prescribed by the Central Competent Authority in accordance with Paragraph 3, Article 22 of the Act.
+
+5.Violation by training entities of rules prescribed by the Central Competent Authority in accordance with Paragraph 3, Article 32 of the Act.
+
+6.Violation by consulting services agencies of rules prescribed by the Central Competent Authority in accordance with Paragraph 3, Article 36 of the Act.
+
+### Article 49
+
+(Ⅰ)Any one of the following violations, the names of the business entities, employers, designated inspection agencies, certification bodies, monitoring agencies, medical institutions, occupational health service professional organizations, training entities, or consultation services agencies, and the names of the people in charge shall be made public. For anyone that is fined by the competent authority, the competent authority shall publicly announce the date of the disposition, violated provisions, and amount of the penalty:
+
+1.Occurrence of accidents referred to in Paragraph 2, Article 37.
+
+2.Occurrence of circumstances referred to in Articles 40 through 45, Article 47, or Article 48.
+
+3.Occurrence of occupational diseases.
+
+(Ⅱ)For any circumstances meeting the conditions of subparagraph 1 or subparagraph 2 of the preceding paragraph, the date and location of occurrence of the occupational accident and the number of casualties shall also be published.
+
+## Chapter VI Supplementary Provisions
+
+### Article 50
+
+(Ⅰ)In order to enhance employers and workers’ knowledge of occupational safety and health and to promote the development of occupational safety and health culture, the Central Competent Authority may stipulate regulations regarding rewards or subsidies to encourage business entities and related groups for implementation.
+
+(Ⅱ)Municipalities, county or city governments, and government authorities in charge of subject industries shall actively promote occupational safety and health work; the Central Competent Authority may stipulate regulations for performance evaluations and rewards.
+
+### Article 51
+
+(Ⅰ)Where a self-employed worker operates independently or contracts out his or her operations, Articles 5 through 7, Article 9, Article 10, Article 14, Article 16, Article 24, Article 26, Article 27, and Article 28, and the penalty provisions thereof, shall apply.
+
+(Ⅱ)People engaged in work directed or supervised by the responsible people in workplaces as described in subparagraph 1 of Article 2, when performing labor work at business entities’ workplaces, are equally subject to the Act as if they were laborers employed by said entities. Notwithstanding, the provisions regarding physical examinations and health examinations for currently employed workers as set forth in Article 20 shall not be subject to this restriction.
+
+### Article 51-1
+
+Where business entities operate product transactions or deliveries in an electronic form, and contract individuals without employment relationships with them to perform the deliveries in person, Paragraph 1, Article 5, Article 6, Paragraph 1, Article 32, Article 33, and Paragraph 2, Article 37 of the Act, and those about penalties shall apply.
+
+### Article 52
+
+The Central Competent Authority may commission related professional organizations to handle matters involving the management of certification bodies as set forth in Article 8, random examinations and market examinations as set forth in Article 9, management and review of job site monitoring agencies, and the reporting of monitoring results as set forth in Article 12, the examinations of the registrations and reporting of New Chemical Substances as set forth in Article 13, the approval of Controlled Chemicals and reference of handling information of Priority Management Chemicals as set forth in Article 14, the management of approved medical institutions and the reporting of health examination results as set forth in Article 20, inspection and performance approval for occupational safety and health management systems as set forth in Article 23 Paragraph 3, the management of training entities as set forth in Article 32 Paragraph 2, and the investigation of suspected occupational diseases as set forth in Article 39 Paragraph 2.
+
+### Article 53
+
+Charges and fees shall be collected by the competent authority for performing tasks such as granting approval, examination, issuing permits, certification, inspections, and designations prescribed by the Act; the standards for said fees shall be stipulated by the Central Competent Authority.
+
+### Article 54
+
+The enforcement rules of the Act shall be stipulated by the Central Competent Authority.
+
+### Article 55
+
+The date of enforcement of the Act shall be determined by the Executive Yuan.
+
+## History
+
+1.Promulgated by Presidential Order (63) Tai-Tung (1)-Yi-Tzu No. 1604 on April 16, 1974
+
+2.Amended and promulgated by Presidential Order Hua-Tsung (1)-Yi-Tzu No. 2433 on May 17, 1991
+
+3.Article 6 amended and promulgated by the Presidential Order Hua-Tsung1-Yi-Tzu No. 09100093800 on May 15, 2002
+
+4.Articles 6, 8, 10, 23, and 32 amended and Article 36-1 insertion promulgated by Presidential Order Hua-Tsung (1)-Yi-Tzu No. 09100116850 on June 12, 2002.
+
+5.Title and the complete text of 55 articles amended and promulgated by Presidential Order Hua-Tsung (1)-Yi-Tzu No. 10200127211 on July 3, 2013; date of enforcement determined by Executive Yuan (Original title: Labor Safety and Health Act).
+
+6.Article 3 and 6 amended and promulgated by the Presidential Order Hua-Tsung1-Yi-Tzu No. 10800049111 on May 15, 2019; date of enforcement determined by Executive Yuan.
+
+7.Articles 2, 6, 9, 22, 23, 24, 26, 27, 32, 39, 40, 41, 43 to 46, 48, 49, and 51 amended and Articles 15-1, 22-1 to 22-3, 27-1, 51-1, and Chapter II-1 added and promulgated by the Presidential Order Hua-Tsung (1)-Yi-Tzu No. 11400130481 on December 19, 2025; date of enforcement determined by Executive Yuan.

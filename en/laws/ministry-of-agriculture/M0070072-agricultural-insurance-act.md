@@ -1,0 +1,289 @@
+---
+title: "Agricultural Insurance Act"
+title_zh: "農業保險法"
+identifier: "M0070072"
+type: act
+law_level: "法律"
+category: "行政＞農業部＞農業金融目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2020-05-27
+last_amended: 2025-08-19
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0070072"
+retrieved: 2026-10-12
+---
+
+# Agricultural Insurance Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-agriculture/M0070072-agricultural-insurance-act.md](../../../zh/laws/ministry-of-agriculture/M0070072-agricultural-insurance-act.md)) is authoritative.
+
+## Chapter 1 General Principles
+
+### Article 1
+
+This Act is enacted to establish an agricultural insurance system, compensating losses in agriculture, forestry, fishery and animal industry businesse from natural disasters, strengthen protection for agricultural operations and stabilize the income for farmers.
+
+### Article 2
+
+The term “competent authority” as used in this Act means the Ministry of Agriculture.
+
+### Article 3
+
+The terms as used in this Act are defined as follows:
+
+(1)“Agricultural insurance” means an insurance coverage that is announced by the competent authority to compensate actual or presumed losses of the subject matter insured caused by natural disasters or other events.
+
+(2)“Subject matter insured”means an item related to a product of the agriculture, forestry, fishery or animal industry business.
+
+(3)“Insurance enterprise” means an entity approved by the Financial Supervisory Commission that has been established and registered in accordance with the law to engage in the insurance business.
+
+(4)“Insurer” means an insurance enterprise and a farmers’ or fishermen’s association that has a right to claim a premium upon entering into an agricultural insurance contract and is liable for indemnification in accordance with the contracted insurance obligations when an insured peril occurs.
+
+(5)“Proposer” means a person having an insurable interest in the subject matter insured who applies to an insurer to enter into an agricultural insurance contract and is obliged to pay a premium.
+
+(6)“Insured” means a person actually engaged in agriculture, forestry, fishery or animal industry business who, upon incurring damage as the result of an insured peril, has the right to claim indemnification. A proposer may also be the insured.
+
+### Article 4
+
+The insurer shall conduct agricultural insurance business in accordance with the provisions of this Act. Matters not provided in this Act shall be governed by provisions of the Insurance Act for insurance enterprise.  The provisions of Chapter 1 to 3 of the preceding act shall apply mutatis mutandis to a farmers’ or fishermen’s association.
+
+## Chapter 2 Promotion of Agricultural Insurance
+
+### Article 5
+
+The competent authority may elect the subject matter insured and conduct a trial operation of agricultural insurance in a designated area during specific period. Based on the results of the trial operations, it would be adopted as a fully promoted item.
+
+The means, qualifications of the insured, scope, payment method and its effect, insurance amount, insurance type, content of the payment items, review basis and other related matters of the trial operations of the agricultural insurance specified in the preceding paragraph shall be prescribed by the competent authority.
+
+### Article 6
+
+Based on the characteristic of the subject matter insured and the policy objective, an insurance enterprise or a farmers’ or fishermen’s association approved by the competent authority shall act as the insurer for agricultural insurance and take charge of the agricultural insurance business.The insurer specified in the preceding paragraph may entrust a farmers’ or fishermen’s association to handle the operations of the agricultural insurance.
+
+The qualifications and requirements, procedure to apply for approval and rescission of approval for a farmers’ or fishermen’s association to serve as the insurer specified in the first paragraph, the scope of entrustment of the handling of the operations of agricultural insurance prescribed in the preceding paragraph and other matters to be complied with shall be prescribed by the competent authority.
+
+### Article 7
+
+When a farmers’ or fishermen’s association serves as the insurer, it shall only handle agricultural insurance that meets the demand of the industry policy set by the competent authority and shall enter into an insurance contract based on the contract sample prescribed by the competent authority.
+
+The proposer, the insured, the subject matter insured, the insured incident, premium rate, reserve funds, reinsurance and other matters to be complied with shall be prescribed by the competent authority.  When an insurance enterprise handles agricultural insurance, the insurance products shall be reported to the Financial Supervisory Commission by the insurance enterprise or the Non-Life Insurance Association of the Republic of China for review; permission of the competent authority shall be obtained before submission for review and the same shall apply in the event of amendments.
+
+### Article 8
+
+Based on the policy objective and the specific demands of the industry policy of agriculture, forestry, fishery and animal industry businesses, agricultural insurance may be handled by full or partial mandatory insurance or voluntary insurance.  When the insured party for the mandatory insurance fails to buy the insurance as required, the competent authority may withhold or at its discretion reduce the relevant measures related to the subject matter insured, including grant, subsidy, incentive reward, aid and relief.
+
+With respect to the mandatory insurance specified in the preceding paragraph, the subject matter insured, scope, insured party, the measures that may be taken against an insured party for the mandatory insurance who fails to buy the insurance as required and other matters to be complied with shall be prescribed by the competent authority.
+
+## Chapter 3 Premium and Subsidy
+
+### Article 9
+
+The premium of agricultural insurance shall be paid before the contract takes effect. However, this shall not apply if the competent authority otherwise designates the payment method.
+
+### Article 10
+
+The competent authority may provide a subsidy to the proposer’s premium for the agricultural insurance. The rate of subsidy shall be determined according to the subject matter insured and the type of insurance and the upper limit shall be fixed at 75%. However, the foregoing shall not apply to mandatory insurance.
+
+The competent authorities shall regularly review and adjust the subsidy ratios referred to in the preceding paragraph based on the needs of agricultural development.
+
+The competent authority may adjust the amount of cash relief provided for in the Agricultural Natural Disasters Relief Regulations based on the subject matter insured, insurance type, and the recipient and premium subsidy.
+
+The recipient, rate, amount, application procedure, issuance, rescission of subsidy and other matters to be complied with for the premium subsidization specified in Paragraph 1 shall be prescribed by the competent authority.
+
+### Article 11
+
+The competent authority shall assist the insurer in developing agricultural insurance products.
+
+The competent authority may subsidize insurance loadings or give incentives to insurers for handling agricultural insurance.
+
+The recipients, qualifications, review procedures and basis, abolition and other matters to be complied with for the subsidy or incentives specified in the preceding paragraph shall be prescribed by the competent authority.
+
+## Chapter 4 Agricultural Insurance Fund and Risk Spreading and Management
+
+### Article 12
+
+The insurer shall underwrite the risk of agricultural insurance by means of the risk spreading and management mechanism established by the competent authority.
+
+The risk spreading and management mechanism specified in the preceding paragraph shall be administered by the Agricultural Insurance Fund established by the competent authority; the risk transferred by the insurer shall be assumed by the foregoing fund, ceded to domestic or foreign reinsurers or handled in the manner prescribed by the competent authority.
+
+With respect to the risk spreading and management mechanism specified in the preceding two paragraphs,  the competent authority shall, in consultation with the Financial Supervisory Commission, prescribe regulations governing the risk assumption limit or rate, insured amount, insurance premium rate, provisions for various reserve funds and other matters to be complied with.
+
+### Article 13
+
+The Agricultural Insurance Fund shall conduct the following activities:
+
+(1)Matters on reinsurance, risk assumption and risk spreading of agricultural insurance.
+
+(2)Matters on fund income and fund utilization.
+
+(3)Establishment and maintenance of the agricultural insurance  information system.
+
+(4)Education and training of loss adjustment personnel and establishment and management of human resource database; they may handle loss adjustment matters upon appointment by the insurer.
+
+(5)Education and extention of agricultural insurance.
+
+(6)Establishment of channels for assistance, consultation and complaint for the proposer and the insured of the agricultural insurance.
+
+(7)Promotion of other matters related to agricultural insurance.
+
+With respect to the Agricultural Insurance Fund, the charter of endowment, fund utilization and other matters to be complied with shall be prescribed by the competent authority.
+
+### Article 14
+
+The sources of funds for the Agricultural Insurance Fund shall be as follows:
+
+(1)Endowment from the government.
+
+(2)Reinsurance premium income received from agricultural insurance products.
+
+(3)Interest and returns on capital
+
+(4)Income from donations.
+
+(5)Loans or financing from financial institutions.
+
+(6)Other sources of income.
+
+With respect to the endowment by the government specified in Sub-paragraph 1 of the preceding paragraph, the competent authority shall allocate budgets up to NT$10,000,000,000; thereafter, it shall continue to allocate and budget for the foregoing fund based on the required underwriting capacity and the extent of loss.
+
+## Chapter 5 Tax Reduction and Exemption
+
+### Article 15
+
+Upon the issuance of a certificate by the Agricultural Insurance Fund, the donations specified in Sub-paragraph 4 of Paragraph 1 of the preceding article may be catalogued as itemized deduction or expenses in the tax return for that year in accordance with Article 17 or Article 36 of the Income Tax Act.
+
+### Article 16
+
+An insurer may be exempted from business tax and stamp tax for handling agricultural insurance in accordance with this Act.
+
+All accounts, receipts, revenue and expenditures of the Agricultural Insurance Fund for the handling of agricultural insurance in accordance with this Act shall be exempted from taxation.
+
+Tax preference specified in the two preceding paragraphs shall be limited to fifteen years.
+
+Before the period expires, the Executive Yuan may extend the tax preference period once for a maximum period of fifteen years taking the actual circumstances into consideration.
+
+## Chapter 6 Business Management and Dispute Handling
+
+### Article 17
+
+When a farmers’ or fishermen’s association handles the agricultural insurance business, it shall establish a dedicated account and use the funds for their specified purposes; it shall establish a mechanism for the management and application of the dedicated account, underwriting and claims adjustment and internal audit and control.  The requirements for the source and purposes of funds for the designated account, the management and application of the dedicated account, underwriting and claims adjustment, internal audit and control and other matters to be complied with shall be prescribed by the competent authority.
+
+### Article 18
+
+The competent authority may at any time send its officials to inspect the business, financial conditions and other related matters of the agricultural insurance handled by a farmers’or fishermen’s association, or order the foregoing inspected party to submit financial statements, lists of properties or other related information and reports based on truthful representation within a specified time. The directors, supervisors, general-director and related personnel shall not evade, obstruct, or refuse the inspection or provide false or incomplete information and reports.
+
+The competent authority may engage the Financial Supervisory Commission to handle the preceding inspection.
+
+When necessary, the competent authority may appoint a professional or a technician to investigate the matters on the information or reports required to be inspected as prescribed under Paragraph 1 and to submit a report to the competent authority based on truthful representation; the costs shall be borne by the farmers’ or fishermen’s association.
+
+The competent authority shall properly practice the fiduciary duty for the information obtained through the manner specified in Paragraph 1 to Paragraph 3; it shall conduct a safety check on the operations of information; the collection, processing and use of information shall be subject to requirements under the Personal Data Protection Act.
+
+### Article 19
+
+An insurer shall establish independent accounting to record the operational and financial conditions in handling agricultural insurance business.
+
+### Article 20
+
+When the competent authority and the Agricultural Insurance Fund requests information on matters such as the underwriting, claims adjustment and disputed cases from an insurer, the insurer shall not evade, impede, or refuse the inspection, or provide false or incomplete information or reports.
+
+For the purpose of handling the agricultural insurance business, the competent authority or the Agricultural Insurance Fund may request information such as climate, geological or hydrological data or research materials from a relevant entity or authority.
+
+### Article 21
+
+The personnel responsible for handling loss adjustment for agricultural insurance business shall comply with the qualifications prescribed by the competent authority or participate in the training organized by an entity as designated by the competent authority and obtain a certificate of competency.
+
+The Agricultural Insurance Fund shall publish on the information network the list of loss adjustment personnel who have obtained a certificate of competency in accordance with the preceding paragraph.
+
+The competent authority shall establish loss adjustment principles for insured incidents; when necessary, it shall assist in the handling of matters related to loss assessment.
+
+The qualification, training, certification of competency, establishment of human resource database and other matters to be complied with for the loss adjustment personnel specified in Paragraph 1 shall be prescribed by the competent authority.
+
+### Article 22
+
+With respect to civil disputes arising from agricultural insurance products or services provided by a farmers’ or fishermen’s association, mediation proceedings may be instituted by an ombudsman body established under the Financial Consumer Protection Act; when a resolution is achieved, the ombudsman body shall prepare a mediation statement.
+
+The processing, procedures, duration, resolution, liability for mediation costs and other matters to be complied with for the mediation specified in the preceding paragraph shall be prescribed by the competent authority in consultation with the Financial Supervisory Commission.
+
+Consultation with the competent authority may be requested if professional matters related to agriculture are involved in the mediation proceedings of agricultural insurance.
+
+### Article 23
+
+If a farmers’ or fishermen’s association violates laws or regulations, or is suspected of improper management in the handling of agricultural insurance business, the competent authority may issue an official reprimand or order it to take corrective action within a specified time, and may, depending on the circumstances, take the following disciplinary actions:
+
+(1)Revoke the resolution of a statutory meeting.
+
+(2)Order to discharge the general-director or staff from their duties.
+
+(3)Discharge the directors or supervisors or suspend them from their duties for a specified period.
+
+(4)Suspend the agricultural insurance business in part or in full.
+
+(5)Other measures related to business or operations as necessary.
+
+The competent authority may engage other bodies to assist the farmers’ or fishermen’s association in handling the agricultural insurance business.
+
+## Chapter 7 Penal Provisions
+
+### Article 24
+
+When a farmers’ or fishermen’s association engages in agricultural insurance business without the approval from the competent authority in contravention of Paragraph 1 of Article 6, it shall be assessed an dministrative fine of not less thanNT$300,000 and not more than NT$1,500,000.
+
+### Article 25
+
+With respect to directors, supervisors, general-director or related personnel of a farmers’ or fishermen’s association, when the competent authority sends its officials or engages the Financial Supervisory Commission for inspection in accordance with Article 18 or orders it to submit financial statements, lists of properties or other related information and reports based on truthful representation within specified period, under any of the following circumstances, shall be assessed an administrative fine of not less than NT$150,000 and not more than NT$750,000:
+
+(1)Evade, impede or refuse inspection or investigation or refuse to open the vault or other storage facilities.
+
+(2)Conceal or damage books and documents related to business or financial conditions.
+
+(3)Refuse to reply or misrepresent responses to inquiries of inspection and investigation personnel without justifiable reasons.
+
+(4)Evade, impede, refuse provision of or fail to provide on time financial statements, lists of properties or other related information or reports or provide false or incomplete information or reports.
+
+### Article 26
+
+With respect to a farmers’ or fishermen’s association, under any of the following circumstances, it shall be assessed an administrative fine of not less than NT$60,000 and not more than NT$300,000:
+
+(1)Fail to enter into an insurance contract based on the agricultural insurance contract sample prescribed by the competent authority in contravention of the forepart of Paragraph 1 of Article 7.
+
+(2)Fail to comply with requirements of the latter part of Paragraph 1 of Article 7 for the proposer, the insured, the  subject matter insured, the insured incident, premium rate,  reserve funds or reinsurance.
+
+(3)Fail to establish a dedicated account or to use the funds for their specified purposes; failure to establish mechanism for the management and application of the dedicated account, claims adjustment and internal audit and control or fails to implement in substance each of the mechanisms as required under Article 17 in the handling of agricultural insurance business.
+
+### Article 27
+
+With respect to an insurer under any of the following circumstances, it shall be assessed an administrative fine of not less than NT$60,000 and not more than NT$300,000:
+
+(1)Fail to establish independent accounting to record the operational and financial conditions as required under Article 19.
+
+(2)Evade, impede, refuse provision of or fail to provide information or provide false or incomplete information in contravention of Paragraph 1 of Article 20.
+
+### Article 28
+
+The competent authority shall notify the Financial Supervisory Commission when it imposes the penalty specified in the preceding article on an insurance enterprise.
+
+## Chapter 8 Supplementary Provisions
+
+### Article 29
+
+A farmers’ or fishermen’s association that handles agricultural insurance in accordance with Paragraph 2 of Article 58 of the Agricultural Development Act prior to the enforcement of this Act shall be the insurer from the enforcement date of this Act and shall be governed by this Act in the handling of agricultural insurance.  However, the farmers’ or fishermen’s association shall obtain approval from the competent authority within two years from the enforcement date of this Act in accordance with the method prescribed under Paragraph 3 of Article 6; failure to obtain the approval within the specified time shall result in the termination of status as an insurer and the competent authority may order the transfer of business within a specified time.
+
+With respect to a farmers’ or fishermen’s association that handles agricultural insurance in accordance with Paragraph 2 of Article 58 of the Agricultural Development Act, the balance of its dedicated agricultural insurance account accrued before the establishment of the Agricultural Insurance Fund shall be transferred into the Fund within two years of the establishment of the foundation.
+
+### Article 30
+
+The enforcement date of this Act shall be determined by the Executive Yuan.
+
+## History
+
+1.The whole text of 30 articles enacted and Promulgated by President Order No.10900056501 on May 27, 2020. The effective date of this Act shall be prescribed by the Executive Yuan.
+
+Amendment to Article 12, Article 13, Paragraph 1, Subparagraphs 1 and 4, and Article 21 were effective from July 1, 2021 , while the other Articles were effective from January 1, 2021 , as promulgated by the Executive Yuan Order No.1090029825 on November 13, 2020.
+
+The announcement was made on July 27, 2023 by the Executive Yuan Order No. 1125014346. The relevant matters set out in Article 2, Article 3, Subparagraph 1, Article 5, Article 6, Paragraphs 1 and 3, Article 7, Article 8, Article 9, Article 10, Article 11, Article 12, Article 13, Paragraph 2, Article 14, Paragraph 2, Article 17,Article 18, Article 20,Article 21, Paragraphs 1, 3, and 4, Article 22, Paragraphs 2 and 3, Article 23, Paragraphs 1 (preamble) and 2, Article 24, Article 25 (preamble),Article26,Subparagraph 1, Article 28, and Article 29, Paragraph 1 pertaining to “ the Council of Agriculture of the Executive Yuan” shall be handled by “Ministry of Agriculture” as governing body, effective August 1, 2023.
+
+2.Article 2,10 amended and promulgated by President Order No. 11400083171 on August 19, 2025. The effective date of this Act shall be prescribed by the Executive Yuan.
+
+The Articles were effective since January 1, 2026 by the Executive Yuan Order No. 1141027010 on October 3, 2026.

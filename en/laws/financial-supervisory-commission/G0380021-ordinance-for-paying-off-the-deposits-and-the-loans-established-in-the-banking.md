@@ -1,0 +1,73 @@
+---
+title: "Ordinance for paying off the deposits and the loans established in the banking industry in the prewar period"
+title_zh: "銀行業戰前存款放款清償條例"
+identifier: "G0380021"
+type: act
+law_level: "法律"
+category: "行政＞金融監督管理委員會＞銀行目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1947-12-26
+last_amended: 1949-01-21
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0380021"
+retrieved: 2026-10-12
+---
+
+# Ordinance for paying off the deposits and the loans established in the banking industry in the prewar period
+
+> Translation. The Chinese text ([zh/laws/financial-supervisory-commission/G0380021-ordinance-for-paying-off-the-deposits-and-the-loans-established-in-the-banking.md](../../../zh/laws/financial-supervisory-commission/G0380021-ordinance-for-paying-off-the-deposits-and-the-loans-established-in-the-banking.md)) is authoritative.
+
+## Article 1
+
+The un-cleared regular savings, saving deposits, trust deposits, and loans established in the banking industry in the prewar period shall be paid off in compliance with the ordinance.
+
+The above-mentioned banking industry includes the Directorate General of the Postal Remittances & Savings Bank and the Central Credit Union.
+
+## Article 2
+
+The regular savings or loans in the prewar period which have not been cleared as of the date of promulgation of the Ordinance shall be paid off in accordance with the following requirements:
+
+The savings or the loans established before August 13, 1937, shall be calculated with the original interest rate from the date of deposit or the date the loan was first disbursed; meanwhile, the total amount equals twice the number of compound amounts. For example, the payoff value is NT$200 if the number of compound amounts is NT$100.
+
+The deposits and the loans established after August 14, 1937, shall be Interest-free, and the payoff value shall be reduced by 20% of the value yearly; for example, the payoff value of a NT$100 loan established in 1938 shall be NT$180; the payoff value of NT$100 loan established in 1939 shall be NT$160; the payoff value of NT$100 loan established in 1940 shall be NT$140; the payoff value of NT$100 loan established in 1941 shall be NT$120.
+
+## Article 3
+
+The un-cleared balance of the current account established in the prewar period as of the date of promulgation of the Ordinance shall be calculated at half the interest rate in the previous article. However, the interest of the current account that was used till December 9, 1941, shall be calculated in compliance with the original contract, and the Ordinance shall not apply to this situation accordingly.
+
+## Article 4
+
+According to Articles 2 and 3 of the Ordinance, a loan below NT$2,000 shall be paid off with 3 dollars of Golden Yuan notes for 1 NT dollar. The loan between NT$2,001 and NT$5,000 shall be paid off with 2 dollars of Golden Yuan notes for 1 NT dollar except for NT$2,000 of which shall be paid off at the rate of 1:3 (NT: Golden Yuan notes); the loan above NT$5,001 shall be paid with 1 dollar of Golden Yuan notes for 1 NT dollar expect for NT$2,000, and the amount NT$2,001 – NT$5,000 of which shall be paid off with the rate of 1:3 and 1:2 respectively.
+
+## Article 5
+
+The savings or  loans established in the banking industry in the prewar period have not been overdue as of the date of promulgation of the Ordinance will be regarded as overdue.
+
+## Article 6
+
+The un-cleared amount of the savings or the loans established in the banking industry in the prewar period shall be paid off in accordance with the Ordinance; the Ordinance shall not be adopted to request compensation for the cleared amount.
+
+## Article 7
+
+The compound amount calculated in accordance with the Ordinance shall be cleared, and the Creditor shall be informed within one month after the date of promulgation of the Ordinance; the interest payment may be terminated if the Creditor does not claim the interest.
+
+## Article 8
+
+The interests of the loans for public organizations from national banks and the savings of public organizations and the banking industry in national banks shall be calculated in accordance with the original contract.
+
+## Article 9
+
+The cleared savings and loans in the banking industry after the date of promulgation of the Ordinance shall not be suitable for the provisions of Article 12 of Supplement Rules for Civil Procedure After Demobilization.
+
+## Article 10
+
+This Ordinance shall come into force from the date of promulgation.
+
+## History
+
+1.Promulgated on December 26, 1947
+
+2.Amended on January 21, 1949

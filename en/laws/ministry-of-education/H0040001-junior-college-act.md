@@ -1,0 +1,449 @@
+---
+title: "Junior College Act"
+title_zh: "專科學校法"
+identifier: "H0040001"
+type: act
+law_level: "法律"
+category: "行政＞教育部＞技術及職業教育目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1948-01-12
+last_amended: 2019-05-08
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=H0040001"
+retrieved: 2026-10-12
+---
+
+# Junior College Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-education/H0040001-junior-college-act.md](../../../zh/laws/ministry-of-education/H0040001-junior-college-act.md)) is authoritative.
+
+## Chapter 1 General Principles
+
+### Article 1
+
+The mission of junior colleges is to teach and enhance applied sciences and technologies, nurture practical and professional talents, and foster their employability.T
+
+### Article 2
+
+In this Act the competent authority is the Ministry of Education.
+
+### Article 3
+
+In this Act the term “junior college” refers to an educational institution specializing in technological and vocational education established in accordance with the Act and conferring associate bachelor’s degrees.
+
+## Chapter 2 Establishment & Categories
+
+### Article 4
+
+Junior colleges are categorized as national junior colleges, municipal junior colleges (where the term ‘public junior colleges’ is used below it refers to these two categories collectively), or private junior colleges.
+
+The establishment of national junior colleges and private junior colleges, and the suspension or termination of their operations, shall be reviewed and approved by the Ministry of Education in accordance with educational policies, and national needs, taking into account the actual circumstances of each region nationwide. Details of the establishment of municipal junior colleges, and of the suspension or termination of their operations shall be reported to the Ministry of Education by the government of special municipality concerned for review and approval. The establishment of private junior colleges and the suspension or termination of their operations shall also be undertaken in accordance with the provisions of the Private School Act.
+
+Junior colleges may establish branch colleges, and branch campuses.
+
+The regulations governing the terms and conditions, procedures, and other matters to be observed in conjunction with the establishment, or the suspension or termination of the operations of junior colleges or any branch school or branch campus shall be prescribed by the Ministry of Education.
+
+### Article 5
+
+To ensure equitable access to junior college education across local regions, in accordance with the law, in a county (city) which does not have a junior college or any educational institution with a junior college division, the Ministry of Education may select a public skills-based senior high school, or consolidate several such high schools and convert it or them into a junior college which has an affiliated skills-based senior high school division.
+
+The terms and conditions, eligibility criteria, application procedures, and review procedures of such junior colleges; and regulations governing the organization, and teachers’ qualification requirements of their affiliated vocational high schools, and other matters to be observed shall be prescribed by the Ministry of Education.
+
+### Article 6
+
+To upgrade the practical skills and knowledge base of professionals and people in the workforce, and enhance the quality of technical and vocational education, in accordance with the law the Ministry of Education may approve the conversion of institutional status of a junior college which satisfies the criteria for the establishment of a tertiary institution to an institute of technology. The regulations governing the terms and conditions, procedures, and reviews for the said conversion shall be prescribed by the Ministry of Education.
+
+Universities of technology and technical colleges may establish junior college divisions. The regulations governing the organization, criteria, procedures, and review and approval process pertaining to establishing such junior college divisions shall be prescribed by the Ministry of Education.
+
+The provisions of this Act pertaining to program duration (years), category/department establishment and alteration, student admission eligibility requirements, regular length of study, courses, and facilities of said divisions shall apply to the provisions of the Act.
+
+### Article 7
+
+When either of the two situations listed out immediately below pertain to a junior college which has been converted to an institute of technology, or to an institute of technology which has been renamed a university of science and technology, in the case of a public institution, it shall be converted to a junior college after review and approval by the Ministry of Education; in the case of a private institution it shall be converted to a junior college after the school legal person under which the educational institution is registered submits details to the Ministry of Education and receives approval:
+
+1.When further development of the educational institution requires it.
+
+2.When the educational institution has encountered some significant difficulty, making it unable to continue its operations, and requiring such an alteration.
+
+If the operational performance of the technical college or university of science and technology referred to in the preceding paragraph is unsatisfactory, the Ministry of Education may order it to become a junior college.
+
+If the operational performance of a junior college is unsatisfactory and corrective action is not fully undertaken within a specified time, the Ministry of Education may order its closure.
+
+The provisions of Paragraphs 1 and 2 may apply mutatis mutandis to a junior college converted from a skills-based senior high school in accordance with the provisions of Article 5.
+
+The regulations governing the terms and conditions, procedures, and other associated matters to be observed in conjunction with the said conversion referred to in the four preceding paragraphs shall be prescribed by the Ministry of Education.
+
+### Article 8
+
+A junior college may apply to change its name in conjunction with its development needs. In the case of a national junior college, an application for such a name change shall be reviewed and approved by the Ministry of Education; in the case of a municipal junior college, such an application shall be reviewed and approved by the government of special municipality; and in the case of a private junior college, the application shall be referred to the school legal person under which the college is registered to forward to the Ministry of Education for review and approval. The regulations governing the terms and conditions, procedures, and other associated matters to be observed for the said renaming shall be prescribed by the Ministry of Education.
+
+### Article 9
+
+A junior college may choose one or more appropriate educational institutions for a merger and undertake merger planning, taking into due consideration their own resources, circumstances, and development focus. In the case of a national junior
+
+college such a plan for a amalgamation  shall be reviewed and approved by the Ministry of Education. In case of a municipal junior college, after receiving approval from the municipal government the plan shall be submitted to the Ministry of Education for review and approval. In case of a private junior college, the plan shall be submitted to the Ministry of Education by the school legal person under which the college is registered, for review and approval before proceeding with the merger. The regulations governing the terms and conditions, procedures, and other associated matters to be observed for a amalgamation  shall be prescribed by the Ministry of Education.
+
+If the amalgamation  referred to in the previous paragraph involves a amalgamation  between junior colleges in different categories, i.e. national, municipal, and/or private junior colleges, the proposed amalgamation  plan shall be reviewed and approved by the Ministry of Education.
+
+The Ministry of Education may, after weighing and considering factors such as the distribution of junior colleges, and the allocation of educational resources, recommend that junior colleges implement a amalgamation  plan, and assist them to do so.
+
+### Article 10
+
+Junior colleges shall be established in accordance with the principle of categorization. When necessary, they may be established in a combined category. Each category shall have a number of departments.
+
+The number of students enrolled in a junior college shall be commensurate with the resource capacity of the said college. The standards shall be prescribed by the Ministry of Education.
+
+Each junior college shall establish reasonable scales for development in accordance with the standards referred to in the preceding paragraph. National junior colleges and private junior colleges shall submit details of the scale of their proposed developments to the Ministry of Education for approval. Municipal junior colleges shall submit such details to the government of special municipality for approval, after which the details shall serve as a basis for planning adjustments to categories, departments, and admission quotas.
+
+### Article 11
+
+Junior colleges may establish an evening division; the regulations governing its establishment, alterations, cessation of operations, and other associated matters shall be prescribed by the Ministry of Education.
+
+### Article 12
+
+Each junior college shall conduct its own evaluation of its teaching, services, guidance and counselling, administration, student practicums and internships, industry-academia collaboration, and student participation on a regular basis. The regulations governing the evaluation shall be formulated by each junior college.
+
+To contribute to the development of junior colleges, the Ministry of Education shall form evaluation task groups or commission universities, academic organizations, or institutions specializing in conducting evaluations to undertake regular evaluations of junior colleges. The results of such evaluations shall be made public and may be used by the Ministry of Education as reference material when deliberating on matters such as whether to increase or decrease the number of junior colleges; alter the numbers of departments, sections, or classes, or student admission quotas; adjust the indicators used calculating tuition and miscellaneous fees; or partial or full suspension or closure.
+
+The regulations governing the type, content, criteria, methods, procedures, use of evaluation results, and other matters associated with the evaluation referred to in the preceding paragraph shall be prescribed by the Ministry of Education.
+
+## Chapter 3 Organization & Meetings
+
+### Article 13
+
+A junior college shall install one president responsible for the overall management and development of college affairs and serving a set term of office. A junior college may install one vice president to assist the president in undertaking college affairs. The vice president shall be appointed by the president. The regulations governing the term of office, and qualifications for serving as vice president shall be set in the charter and by-laws of each junior college.
+
+The qualifications for serving as president shall be in accordance with relevant laws and regulations. A foreign citizen may fill the post of president: such an appointment is not subject to the restrictions pertaining to the employment and supervision of foreigners stipulated in the provisions of Subparagraph 8, Paragraph 1, Article 10, or Article 20 of the Nationality Act, or in Articles 42 to 62 of the Employment Service Act.
+
+### Article 14
+
+Presidents of public junior colleges serve a four-year term of office and may be reappointed to serve a further term when their term expires. The procedure for their reappointment, the number of times they may be reappointed, and the ways to resign before the end of their term of office shall be set in the charter and by-laws of each junior college. The regulations governing the term of office and reappointment of the president of a private junior college shall be set in the charter and by-laws of each junior college.
+
+### Article 15
+
+For the appointment of a new president of a public junior college, the Ministry of Education or the government of special municipality shall organize a selection committee ten months prior to the expiry of the term of office of the incumbent president, or within two months after the post becomes vacant through some other cause. After being selected through an open selection procedure, the new president shall be officially appointed by the Ministry of Education or the government of special municipality. The members of the selection committee shall include at least one representative of the Ministry of Education or the municipal government, teacher representatives of the junior college, and impartial upright members of the community. The number of the impartial upright members of the community shall comprise at least one half of that of the committee members.
+
+The regulations governing its organization and operation, and other associated matters to be observed regarding the selection committee referred to in the preceding paragraph shall be prescribed by the Ministry of Education in the case of national junior colleges, and by the municipal government in the case of municipal junior colleges.
+
+For the appointment of the president of a private junior college, the board of directors of the college foundation/legal person of that junior college shall organize a selection committee to identify a number of appropriate candidates, and the board of directors shall select one of those candidates. The candidate that is selected shall be appointed after their selection is approved by the Ministry of Education.
+
+People of each gender shall make up one third or more of the total number of members of the selection committee referred to in Paragraphs 1 and 3.
+
+The Ministry of Education or the government of special municipality shall conduct a performance evaluation one year before the end of a junior college president’s term of office. The evaluation results shall be used for reference on considering whether to reappoint that president for a further term.
+
+A public junior college president who either expresses their intention not to be reappointed during a performance evaluation by the Ministry of Education or the government of special municipality mentioned in the preceding paragraph, or fails to pass the reappointment evaluation, shall be ineligible to participate in the selection process for the next president at their current junior college.
+
+### Article 16
+
+For the appointment of a president of a newly established junior college, in the case of a national junior college, the Ministry of Education shall set up a selection committee to select and appoint the president directly; in the case of a municipal junior college, the government of special municipality shall select two or three candidates and submit their details to the Ministry of Education which shall, in turn, set up a selection committee to select and appoint the president. In the case of a private junior college, the board of directors of the college foundation/legal person shall select a candidate and report to the Ministry of Education for approval to appoint the person selected.
+
+People of each gender shall make up one third or more of the total number of members of the selection committee referred to in the preceding paragraph.
+
+### Article 17
+
+Each department in a junior college shall install a chairperson responsible for overall management of department affairs.  The term of office to be served by chairpersons and the selection process shall be in accordance with the procedures set in the charter and by-laws of each junior college. Department chairpersons shall be appointed by the college president from among the full-time teachers of assistant professorship or above or vocational and technical instructors of assistant professorship or above and serve in a concurrent capacity.
+
+In response to the needs of the development of school administrative affairs, junior colleges may install a deputy chair for the department of a certain scale and with an extensive or complex range of duties. The deputy chair shall be appointed by the college president from among the full-time teachers of lectureship or above or vocational and technical instructors of lectureship or above, serve in a concurrent capacity, and assist the chairperson in undertaking the academic affairs of the department.
+
+The procedures for the term of office, reappointment, and dismissal of department chairpersons and deputy chairpersons, and other matters to be observed shall be stipulated in the charter and by-laws of each junior college.
+
+### Article 18
+
+To achieve the goals determined in Article 1, junior colleges may set up various administrative units and/or convene various meetings. An administrative unit may set up various subsections to deal with particular matters. The name of each administrative unit, the tasks, duties and labor distribution of the meetings convened, and eligibility criteria for serving as an administrative unit director, and other matters to be observed shall be stipulated in the charter and by-laws of each junior college.
+
+In public junior colleges, the persons in charge of the administrative units, except for those of academic affairs and of student affairs shall be concurrently served by full-time teachers of associate professorship or above or by full-time vocational and technical instructors of associate professorship or above, may be appointed from among full-time teachers of assistant professorship or above or from among staff members. Related details shall also be stipulated in the charter and by-laws of each junior college.
+
+The provisions of the laws governing public servants and educators apply to the employment of other non-teaching staff of public junior colleges. The employment of personnel and accounting staff shall also be in accordance with laws and regulations pertaining to personnel and accounting.
+
+Members of the non-executive staff at national junior colleges may be employed on a contract basis and shall not be subject to the restrictions referred to in the preceding paragraph. Their rights and obligations shall be explicitly set out in their contract.
+
+### Article 19
+
+Based on and in line with teaching and practicum and internship needs, junior colleges may separately establish affiliated bodies to provide practicums and internships or do experimental work. The related regulations shall be formulated by each college and submitted to the Ministry of Education for review and approval in the case of national or private junior colleges, and in the case of a municipal junior college, the said regulations shall be submitted to the government of special municipality concerned for review and approval.
+
+### Article 20
+
+Junior colleges shall install a director of the military training office and military instruction . The regulations governing the establishment, headcount, qualifications, and selection of the said personnel shall be prescribed by the Ministry of Education in conjunction with the Ministry of National Defense. The regulations governing the said personnel’s responsibilities and powers, assignment, reassignment, continuing education, grievances and appeals, and other associated matters shall be prescribed by the Ministry of Education.
+
+The regulations governing the qualifications, selection, assignment, and reassignment of nursing teachers teaching nursing courses as part of the military training in junior colleges shall be prescribed by the Ministry of Education.
+
+### Article 21
+
+Each junior college shall set up a school council, composed of the college president, vice president, teacher representatives, the heads of academic affairs and administrative affairs, representatives of non-teaching staff, student representatives, and representatives of other personnel concerned.
+
+The teacher representatives, representatives of non-teaching staff, and student representatives referred to in the preceding paragraph shall be chosen by election. The combined number of teacher representatives, representatives of non-teaching staff, and student representatives may not be less than one half of the total number of council member. The proportion of student representatives may not be less than one tenth of the total number of council member . The number of council member , the percentages of various categories of board members in attendance, and the methods of selection shall be stipulated in the charter and by-laws of each junior college.
+
+The number of board members, the percentages of various categories of board members, and the methods of selection shall be stipulated in the charter and by-laws of each junior college.
+
+Meetings of each junior college’s school council shall be convened by the president, at least once each semester. If an extraordinary meeting is requested in writing by a minimum of one fifth of the number of members constituting a quorum, the president shall convene the extraordinary meeting within fifteen days.
+
+When necessary, the junior college’s school council may establish a variety of committees or special task groups to undertake duties as assigned by the council. Their names, duties, and how they are formed shall be stipulated in the charter and by-laws of each junior college.
+
+### Article 22
+
+The school council of each junior college shall deliberate on the following matters:
+
+1.The college’s development plan and budget.
+
+\2. The college’s organizational charter, and various important rules and regulations.
+
+3.The establishment, alterations to, and closure of a department and any subsidiary bodies.
+
+\4. Academic affairs, student affairs, general affairs, practicums, and other significant matters of school affairs.
+
+5.Study and discussion of the college’s regulations governing the teaching evaluation.
+
+6.Matters to be decided on by committees or special task groups set up by the school council.
+
+7.Matters of proposals put forward by the council and those proposed by the college president.
+
+### Article 23
+
+Junior colleges shall carry out a system of academic advisors and tutors providing guidance and advice to students for fostering their learning,life coping skills, and capacity to exercise autonomy. The implementation regulations shall be formulated by each junior college.
+
+## Chapter 4 Ranking & Employment of Teachers
+
+### Article 24
+
+Junior college teachers are classified into four levels: professor, associate professor, assistant professor, and lecturer. The qualifications required for teachers’ appointment are stipulated by relevant laws and regulations. Preference may be given to appointing applicants who have professional and technological skills, who have passed a promotion review on the basis of a technological report, or who have held a professional license or certificate.
+
+Junior colleges may establish positions for vocational and technical instructors and select and appoint people with ample practical technical experience to be responsible for teaching vocational and technical subjects. The regulations governing teacher rankings, qualifications, headcount, appointment, promotion, dismissal, suspension, non-renewal of appointment, grievances and appeals, pay and remuneration, welfare, continuing education, retirement, bereavement payment, layoff with severance pay, annual increments, and other rights and interests of junior college specialist vocational and technical instructors shall be prescribed by the Ministry of Education.
+
+### Article 25
+
+The appointment of junior college teachers is divided into three categories: initial appointment, renewed appointment, and long-term appointment. Teachers’ appointment shall be handled based on the principles of fairness, impartiality, and openness.
+
+For the initial appointment of teachers in a junior college, the junior college shall publicize details of the initial appointment vacancy and invite applications in the mass media or academic journals.
+
+### Article 26
+
+Apart from complying with the provisions of the Teachers Act, junior colleges may also establish additional regulations governing teachers’ rights and obligations in the college rules and regulations and may prescribe separate regulations governing teachers’ suspension or non-renewal of their appointment, based on professional and technological development requirements.
+
+The said regulations shall be implemented after being considered and approved by the junior college’s school council and included in the contract of employment.
+
+### Article 27
+
+The appointment, promotion, suspension, dismissal, non-renewal of appointment, and endorsement of reasons for layoff with severance pay of junior colleges’ teaching staff shall be deliberated by a teacher evaluation committee .  The regulations governing the administrative level aspects, composition, and operation of the teacher evaluation committee referred to in the preceding paragraph shall be implemented after being deliberated on and approved by the junior college’s school council. People of each gender shall make up one third or more of the total number of members of the teacher evaluation committee .
+
+Teachers at a junior college shall be appointed by the junior college president after satisfactorily passing the review process of the teacher evaluation committee . Such appointments are not subject to the provisions of Paragraph 1, Article 26 of the Act Governing the Appointment of Educators.
+
+### Article 28
+
+Junior colleges shall set up a teacher performance evaluation system to evaluate the effectiveness of teachers in teaching, research & development, guidance of students, and services. The results of a teacher’s performance evaluation are key reference material on considering promotion, renewal of appointment, long-term appointment, suspension, non-renewal of appointment, and incentive awards.
+
+The methods, procedures, and specific measures for undertaking the performance evaluation referred to in the preceding paragraph shall be implemented after being deliberated on and approved by the junior college’s school council.
+
+### Article 29
+
+Junior colleges shall set up a teacher appeal and review committee to review appeals from teaching staff regarding dismissal, suspension, or other decisions unacceptable to appellants. The regulations governing the composition and operation of the said committee shall be in accordance with the provisions of the regulations governing the organization and review of the teacher appeal and review committee and shall be implemented after being deliberated on and approved by the junior college’s school council.
+
+A decision handed down by the teacher appeal and review committee shall not adversely affect any legal right of the party involved to resort to litigation.
+
+## Chapter 5 Student Affairs
+
+### Article 30
+
+The eligibility requirements for admission of students to junior colleges are stipulated below:
+
+\1. Two-year programs in junior colleges: graduates of a skills-based senior high school or of a vocational course group affiliated to a comprehensive senior high school or a general senior high school, or applicants who had held equivalent academic qualifications or have been admitted through an open admission procedure. Graduates of a general senior high school may only be admitted to junior colleges in categories approved by the Ministry of Education to do so.
+
+\2. Five-year programs in junior colleges: graduates of a junior high school or applicants who had held equivalent academic qualifications or have been admitted through an open admission procedure.
+
+The criteria for determining the equivalent academic qualifications referred to in the preceding paragraph shall be prescribed by the Ministry of Education.
+
+### Article 31
+
+Junior colleges shall admit students through a publicly open process and may admit students transferring from another college to fill up their approved admission quota.
+
+When undertaking the admissions referred to in the preceding paragraph, junior colleges may admit students to two-year programs using a recommendation and screening basis, application-based admission, or any other admission selection method approved by the Ministry of Education. Junior colleges shall admit students to five-year programs principally through non-exam-based admission, and may admit students with specific characteristics to fill part of their specified quota. The regulations governing the admission methods, potential students, admission quotas, admission examinations and recommendation and screening selection, the composition of admission and enrollment committees, avoidance of conflicts of interest, review of grades and result awarded, grievance and appeal handling procedures, and other matters to be observed shall be formulated by the junior college or by a unified admission committee, and be implemented after being approved by the Ministry of Education.
+
+The junior colleges or unified admission committee referred to in the previous paragraph may commission a professional or academic organization or foundation to deal with matters associated with admission examinations. The regulations governing such commissioned bodies’ necessary qualifications, scope of activities, responsibilities, and other associated matters shall be formulated by the junior college or unified admission committee with details submitted to the Ministry of Education for reference.
+
+The eligibility criteria and admission methods for student admissions into arts-related divisions or departments of junior colleges shall also be handled in accordance with the Arts Education Act and related regulations.
+
+Junior colleges shall formulate regulations governing examination venues and how any contraventions will be dealt with for their various admission examinations and state these clearly in the admission brochure.
+
+Any case in which a student participating in any junior college admission examination acts in contravention of the examination venue procedures or in any way that compromises examination fairness shall be dealt with in accordance with the provisions of relevant laws, the regulations governing examination venues and contraventions referred to in the previous paragraph, and the provisions of the academic regulations of each junior college.
+
+### Article 32
+
+The following students who enroll in a junior college are not subject to the provisions governing publicized admission quotas and methods stipulated in the previous article. The regulations governing the verification of their status, admission quotas, handling methods, time schedule, selection principles, and other major matters pertaining to admissions shall be prescribed by the Ministry of Education; however, the regulations governing students from mainland China, Hong Kong, and Macao shall be formulated by the Ministry of Education and approved by the Executive Yuan:
+
+\1. Persons with disabilities .
+
+\2. Indigenous students.
+
+\3. Students from an area severely affected by disaster.
+
+\4. The children of government officials who have been assigned to work overseas.
+
+\5. Students who have participated in an international academic or skills-based competition and received excellent results.
+
+\6. Students who have received excellent results for their performance in a skills-based competition in Taiwan.
+
+\7. Students who have been awarded for their excellence in sporting achievements.
+
+\8. Students who are veterans.
+
+\9. Overseas compatriot students.
+
+\10. Students from Mongolia or Tibet.
+
+\11. Students from mainland China.
+
+\12. Students from Hong Kong or Macao.
+
+\13. International students.
+
+14.Students placed due to humanitarian considerations, international assistance, or other special status through a project approved by the Ministry of Education.
+
+The regulations governing secured admission for persons with disabilities and indigenous students referred to in the previous paragraph shall be separately handled in accordance with the provisions of the Special Education Act, and the Education Act for Indigenous Peoples.
+
+Students from mainland China referred to in Paragraph 1 may not be admitted to study in departments that have been identified and publicly classified by the Ministry of Education in consultation with relevant authorities as being involved in national security and secrecy.
+
+### Article 32-1
+
+People with educational level equivalent to junior college graduates may be issued certificates after passing the self-study educational level identification exam; regulations regarding the agency holding the exam, exam frequency and schedule every year, requirements of test-takers, subjects and range of the exam, score calculation standards, issuing, revocation and termination of the certificate, and other relevant matters shall be stipulated by the Ministry of Education.
+
+### Article 33
+
+Junior colleges offer two-year programs and five-year programs. Departments with special characteristics that require adjustments to the length of the study due to instructional needs may report to the Ministry of Education for approval.
+
+The credits required to be earned for graduation from a junior college may not be less than 80 credits for a two-year program; and may not be less than 220 credits for a five-year program.
+
+All junior college department courses are categorized as either required courses or electives; students who have not passed all the required courses may not graduate.
+
+Junior college students who have earned the credits required for graduation with excellent academic results may reduce their regular length of study; those in a five-year program may shorten their length of study by up to one year; those in a two-year program may shorten their length of study by up to half a year. Students who fail to earn the credits required for graduation by the end of the regular length of study may extend the said length. The regulations governing the eligibility criteria and procedures for students to shorten or extend their length of study shall be formulated by each junior college and submitted to the Ministry of Education for reference.
+
+The length of study may be extended to accommodate the physical or mental condition and learning needs of junior college students with disabilities, and any regulations governing mandatory withdrawal because of academic results shall not apply to these students.
+
+Junior college students pregnant or looking after one or more children aged three or younger may extend their length of study.
+
+The regulations governing applications and the procedure for the extension of the length of study referred to in the two preceding paragraphs shall be formulated by each junior college and submitted to the Ministry of Education for reference.
+
+### Article 34
+
+Junior colleges shall focus their curricula on professional courses and plan courses for their respective departments according to their development characteristics and the needs of industry. The curricula for the first three years of five-year programs in junior colleges shall complement the development of curricula for the later stage of secondary education.
+
+Junior college curricula shall be researched and discussed by department-level curriculum committees and a college curriculum committee formed by each college and be approved by a college-level meeting to deal with college affairs before being implemented. The pertinent department-level curriculum committees and college curriculum committee shall also review and/or review the curricula on a regular basis.
+
+### Article 35
+
+Junior college students may earn some of the course credits in distance learning mode. The regulations governing the percentage of said credits earned that may be recognized, prerequisites, and other associated matters shall be prescribed by the Ministry of Education.
+
+### Article 36
+
+All departments in junior colleges shall emphasize practicums and internships for students to cultivate exceptional mastery of skills.
+
+### Article 37
+
+Students in each department of junior colleges who have completed their course of study, earned the credits as required, and, where applicable, completed the practicum or internship with satisfactory evaluation results shall be conferred an associate bachelor’s degree by their respective colleges in accordance with the law.
+
+### Article 38
+
+Junior college students studying a minor at their own junior college or at another junior college, studying a double major, studying an elective at another junior college, retaining of admission eligibility, transfer to another educational institution, transfer to another department (section), suspension from college, expulsion, cancellation of student status, assessment of grades and results, credit transfer and waiver, summer programs, assessment and recognition of foreign academic credentials, handling of student status for students on military service or those going abroad, students being simultaneously enrolled in two different educational institutions, and other matters related to a student’s institutional status, shall be included in the academic regulations of each junior college with details submitted to the Ministry of Education for reference.
+
+The regulations governing the principles and procedures for the recognition of foreign academic credentials referred to in the previous paragraph and other associated matters to be observed shall be prescribed by the Ministry of Education.
+
+### Article 39
+
+To optimize their provision of education, training, and technological services, junior colleges may undertake industry-academia collaboration with government agencies, enterprises, lifelong learning organizations, private sector organizations, and academic research institutions. The implementation regulations governing said collaboration shall be prescribed by the Ministry of Education.
+
+### Article 40
+
+Junior colleges may offer extension education, on the principle of extension education students studying courses or earning credits. A student who has earned credits by passing the required examinations from said extension education and is subsequently admitted to a junior college through open admission process may transfer and/or waive the said credits in accordance with the regulations of respective junior colleges governing credit transfer and waiver, and if it considered appropriate the said student’s length of study may be shortened. In accordance with the law, students who have earned credits as required and satisfied pertinent requirements shall be conferred an associate bachelor’s degree.
+
+The implementation regulations governing extension education shall be prescribed by the Ministry of Education.
+
+### Article 41
+
+To assure their students of the effectiveness of learning and establish behavioral codes for students, junior colleges shall formulate academic regulations, and regulations governing awards and penalties, and submit these regulations to the Ministry of Education for reference.
+
+### Article 42
+
+To enhance their educational effectiveness in junior colleges, elected student representatives shall attend meetings on matters related to academic studies, life, and the formulation of regulations governing awards and penalties.
+
+Junior colleges, to enhance the effectiveness of learning for students on campus and their ability to act autonomously, shall guide and support students to set up a student association and other associated autonomous organizations through elections in which all students have a vote.
+
+Students are ipso facto members of the student association referred to in the preceding paragraph. The student association may collect membership fees from its members. Junior colleges shall collect such membership fees from the students on behalf of the student association if requested to do so.
+
+Junior colleges shall establish a student grievance review system and set up a student appeal committee to handle cases where students, the student association, or other associated autonomous student organizations do not accept some penalty imposed by the college or some other college measure or decision, and thereby safeguard students’ rights and interests. Regarding the composition of the student appeal committee, people of each gender shall make up at least one third of the total number of members of the student appeal committee.
+
+The regulations governing the implementation of the matters referred to in the four preceding paragraphs shall be stipulated in the charter and by-laws of each junior college.
+
+### Article 43
+
+Junior colleges shall handle group insurance for their students; each college shall prescribe the regulations governing the scope, amounts, payment methods, duration, criteria for benefits, rights and obligations, procedures for insurance procurement, and other related matters.
+
+When a student files a claim, the college shall actively provide the student with assistance. Junior colleges shall obtain public accident liability insurance covering the college premises and facilities. The regulations governing the scope of insurance coverage, insured items, amounts, and other related matters shall be prescribed by each junior college.
+
+### Article 44
+
+Students undertaking a five-year program at a junior college who meet specific eligibility criteria are exempt from having to pay tuition for the first three years. This exemption does not apply to students without Republic of China nationality, or those repeating the same educational level.
+
+The tuition exemption referred to in the preceding paragraph shall be budgeted for subsidizing students by the Ministry of Education. Public junior college students do not have to pay any tuition upon registration; private junior college students do not have to pay any tuition upon registration, and the private junior colleges may submit a name list of the said students to the Ministry of Education for appropriation.
+
+Junior colleges may charge students fees, apart from tuition exemption referred to in Paragraph 1. The regulations governing the specific conditions and subsidies, items of fees to be charged, purposes, amounts, reductions, refunds, and other related matters shall be prescribed by the Ministry of Education.
+
+To assist students in attending junior colleges, the government shall handle student loans that cover such associated costs as tuition & miscellaneous fees, those of practicum and internship, books, and of accommodation, daily expenses, student group insurance premiums, and overseas study. The regulations governing conditions, amount lent, rights and obligations, and other matters to be observed shall be prescribed by the Ministry of Education.
+
+A junior college which collects fees from students in contravention of the regulations stipulated in Paragraph 1 or Paragraph 3 shall be dealt with according to the following regulations:
+
+\1. Public junior colleges: The junior college shall impose administrative punishment on the relevant personnel. The Ministry of Education and the government of special municipality may reduce the said college's subsidies or admission quotas and order the college to make rectification within a specified period. If the college fails to make improvements within the time specified, it may be punished repeatedly until the improvements are made.
+
+\2. Private junior colleges: The matter shall be handled in accordance with Article 55 of the Private School Act.
+
+## Chapter 6 Supplementary Provisions
+
+### Article 45
+
+Each junior college shall formulate their charter and by-laws in accordance with the provisions of this Act and submit them to the Ministry of Education for review and approval before implementing them.
+
+### Article 46
+
+With the exception of information and data which by law are classified confidential, in principle junior colleges shall actively make their college information public and may provide such information upon application made by members of the public.
+
+### Article 47
+
+This Act shall apply to private junior colleges, which, in addition, shall be operated in accordance with the Private School Act.
+
+### Article 48
+
+The enforcement rules of this Act shall be prescribed by the Ministry of Education.
+
+### Article 49
+
+With the exception of Article 44 which shall take effect on August 1, 2014, this Act shall be effective from the date of promulgation.
+
+## History
+
+\1. Enacted and promulgated by the government of the Republic of China January 12, 1948: complete text of 24 articles.
+
+\2. Presidential Decree (65) Tai-Tong (1) Yi-Zi No. 2163 promulgated July 3, 1976: amendment of the complete text of 34 articles.
+
+\3. Presidential Decree (84) Hua-Zong (1) Yi-Zi No. 0250 promulgated January 18, 1995: amendment to Article 26.
+
+\4. Presidential Decree (84) Hua-Zong (1) Yi-Zi No. 4340 promulgated June 29, 1995: amendment to Article 4.
+
+\5. Presidential Decree (84) Hua-Zong (1) Yi-Zi No. 8753 promulgated November 8, 1995: the addition of Article 3-1.
+
+\6. Presidential Decree (89) Hua-Zong-Yi-Yi-Zi No. 8900028490 promulgated February 2, 2000: amendments to Articles 2, 3-1, and 6.
+
+\7. Presidential Decree Hua-Zong-Yi-Yi-Zi No.09200005430 promulgated January 15, 2003: amendments to Articles 3-1, 4, 8, and 25; and the addition of Articles 5-1, 23-1, 26-1, 26-2, 27-1, 27-2, 30-1, and 30-2.
+
+\8. Presidential Decree Hua-Zong-Yi-Yi-Zi No. 09300002911 promulgated January 14, 2004: amendment of the complete text of 40 articles, effective from the date of promulgation.
+
+\9. Presidential Decree Hua-Zong-Yi-Yi-Zi No. 09900017961 promulgated January 27, 2010: amendments to Articles 35, and 36, effective from the date of promulgation.
+
+\10. Presidential Decree Hua-Zong-Yi-Yi-Zi No. 09900223421 promulgated September 1, 2010: amendments to Articles 26, and 40, with the date of effect to be determined by the Executive Yuan;
+
+Executive Yuan Order Yuan-Tai-Jiao-Zi 0990103085 promulgated September 3, 2010: amendments to Articles 26, and 40 to take effect September 3, 2010.
+
+\11. Presidential Decree Hua-Zong-Yi-Yi-Zi No. 10200131141 promulgated July 10, 2013: amendment of Articles 25, 26, 35, and 40; Articles 25, and 26 take effect September 1, 2013; Article 35 takes effect August 1, 2014.
+
+\12. Presidential Decree Hua-Zong-Yi-Yi-Zi No. 10300093231 promulgated June 18, 2014: amendment of the complete text of 49 articles, effective from the date of promulgation, with the exception of Article 44 which takes effect August 1, 2014.
+
+\13. Presidential Decree Hua-Zong-Yi-Yi-Zi No. 10800045111 promulgated May 8, 2019: addition of Article 32-1; and amendment of the complete text of Articles 11, and 12.

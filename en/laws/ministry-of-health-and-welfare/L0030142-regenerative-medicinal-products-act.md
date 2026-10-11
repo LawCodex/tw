@@ -1,0 +1,257 @@
+---
+title: "Regenerative Medicinal Products Act"
+title_zh: "再生醫療製劑條例"
+identifier: "L0030142"
+type: act
+law_level: "法律"
+category: "行政＞衛生福利部＞食品藥物管理目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2024-06-19
+last_amended: 2024-06-19
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0030142"
+retrieved: 2026-10-12
+---
+
+# Regenerative Medicinal Products Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-health-and-welfare/L0030142-regenerative-medicinal-products-act.md](../../../zh/laws/ministry-of-health-and-welfare/L0030142-regenerative-medicinal-products-act.md)) is authoritative.
+
+## Article 1
+
+The Regenerative Medicinal Products Act (hereinafter “this Act”) is established in order to ensure the safety, quality, and efficacy of regenerative medicinal products and to protect patients’ interests. Anything that is not stipulated in this Act shall be governed by the Pharmaceutical Affairs Act and other applicable laws.
+
+## Article 2
+
+The competent authorities mentioned in this Act: The Ministry of Health and Welfare at the central level, the municipality governments at the municipality level, and the county (city) governments at the county (city) level.
+
+## Article 3
+
+Regenerative medicinal products referred to in this Act mean drugs for human use that contain genes, cells, and cell derivatives thereof.
+
+The regenerative medicinal products mentioned in the preceding paragraph are classified as drugs under Article 6 of the Pharmaceutical Affairs Act.
+
+## Article 4
+
+Regenerative medicinal products are divided into the following categories:
+
+\1. Gene therapy medicinal products: medicinal products that insert or administer recombined genes to humans to treat, prevent, or diagnose disease.
+
+\2. Cell therapy medicinal products: medicinal products that contain processed/manipulated cells or their derivatives to treat, prevent, or diagnose disease.
+
+\3. Tissue-engineered medicinal products: medicinal products that contain engineered/altered tissues or cells to repair, regenerate, or replace human tissues/organs.
+
+\4. Combinational medicinal products: medicinal products that contain one or more medical devices as an integral part of medicinal products mentioned in the preceding three subparagraphs.
+
+## Article 5
+
+Distributors and manufacturers of regenerative medicinal products (hereinafter “Pharmaceutical Firms”) are drug dealers under Subparagraph 1, Article 15, and drug manufacturers under Paragraph 1, Article 16 of the Pharmaceutical Affairs Act.
+
+The drug manufacturers referred to in the preceding paragraph shall have a full-time, licensed pharmacist stationed at the manufacturing site to supervise the production and shall employ full-time personnel who have graduated from domestic or foreign universities or higher institutions in relevant fields such as medical or life sciences, with specialized knowledge in cytology, microbiology, or immunology, to be stationed at the site and participate in the manufacturing process.
+
+## Article 6
+
+To manufacture or import regenerative medicinal products, pharmaceutical firms shall apply for registration and market approval with the central competent authority. The manufacturing or importation shall only take place after approval and issuance of a drug license or conditional approval.
+
+The central competent authority may grant conditional approval for the preceding item only after it has been reviewed and approved by the Regenerative Medicine Review Board.
+
+The importation of regenerative medicinal products under Paragraph 1 shall be done by the holder of a drug license or conditional approval or by their authorized representative.
+
+## Article 7
+
+Any changes to the drug license, conditional approval, or original registration details of a regenerative medicinal product that has been approved for manufacture or importation must be approved by the central competent authority. When transferring the drug license or conditional approval, a transfer registration must be completed.
+
+## Article 8
+
+The drug license issued in accordance with the provisions of Paragraph 1, Article 6 shall be valid for five years. If continued manufacturing or importation is needed after the expiration of the validity period, an application for extension must be submitted to the central competent authority within three to six months prior to the expiration date. Each extension shall not exceed five years. If the extension is not applied for or is denied, the original license will lose its validity and shall be revoked by the central competent authority.
+
+If the drug license referred to in the preceding paragraph is damaged or lost, a replacement or reissuance must be applied for from the central competent authority with an explanation of the reasons. In the case of replacement, the original license must be simultaneously surrendered for cancellation.
+
+The application requirements, necessary documents, procedures, approval criteria, fees, and other relevant guidelines for the registration and market approval, transfer registration, changes to the drug license or conditional approval, and original registration details, as well as the extension, replacement, and reissuance of the drug license referred to in the preceding two articles and the preceding two paragraphs, shall be prescribed by the central competent authority.
+
+## Article 9
+
+After accepting a registration and market approval application under Paragraph 1 of Article 6, the central competent authority may, for the treatment of life-threatening or severely disabling diseases, grant conditional approval with a validity period not exceeding five years following the completion of Phase II clinical trials and a review of the risk-benefit profile demonstrating safety and preliminary efficacy. This approval cannot be extended upon expiration.
+
+For life-threatening or severely disabling diseases mentioned in the preceding paragraph, an application for recognition may be made to the central competent authority before applying for registration and market approval.
+
+## Article 10
+
+The conditional approval specified in Paragraph 1 of the preceding article may include the following conditions:
+
+\1. Conducting efficacy verification trials and submitting trial reports periodically or before a designated deadline.
+
+\2. The amount and method of charging fees.
+
+\3. Remedial measures for patients who experience adverse reactions leading to death, disability, or severe illness as a result of using the product.
+
+\4. Other matters designated by the central competent authority.
+
+Those granted conditional approval under Paragraph 1 of the preceding article, after fulfilling the attached conditions, may apply for registration and market approval from the central competent authority. Upon approval, a drug license will be issued.
+
+If the attached conditions are not fulfilled or if there are significant safety concerns based on the assessment, the central competent authority may revoke the approval.
+
+## Article 11
+
+Manufacturers or importers of regenerative medicinal products derived from human tissues or cells must ensure the eligibility of the source providers before manufacturing or importing the product.
+
+The criteria for determining the eligibility of the providers, as well as the screening, testing items, and other related matters, shall be prescribed by the central competent authority.
+
+## Article 12
+
+For the purpose of manufacturing regenerative medicinal products, human tissues or cells obtained domestically must come from competent adults. However, this shall not apply to those clearly beneficial for treating a specific population and cannot be replaced by other subjects.
+
+Prior to obtaining the tissues or cells mentioned in the preceding paragraph, written consent from the provider must be obtained.
+
+If the provider is a person with limited capacity or under commencement of assistantship, written consent must be obtained from both the provider and their legal representative or assistant. If the provider is a person without capacity or under commencement of guardianship, written consent must be obtained from their legal representative or guardian.
+
+If the provider is an adult without the ability to make a declaration of intention and the consent cannot be obtained in accordance with the previous paragraph, written consent must be obtained in the following order:
+
+\1. Spouse.
+
+\2. Adult children.
+
+\3. Parents.
+
+\4. Siblings.
+
+\5. Grandparents.
+
+The written consent provided by individuals listed in Subparagraphs 2 to 5 of the preceding paragraph may be given by one person. If there is disagreement among individuals of the same priority, the consent of cohabiting relatives of the person without the ability to make a declaration of intention shall take precedence. If there are two or more cohabiting relatives, the older relative shall be prioritized. If there are no cohabiting relatives, the older relative among those listed shall be prioritized.
+
+Written consent obtained from providers of tissues or cells who are individuals with limited capacity, under commencement of assistantship, without capacity, under commencement of guardianship, or adults without mental capacity, as specified in Paragraphs 3 and 4, must be notarized to be valid.
+
+The content of the written consent required by this article and Article 13 may be fully presented and, if retrieved for future inspection, may be provided in electronic document form.
+
+## Article 13
+
+Before obtaining consent in accordance with the previous article, manufacturers of regenerative medicinal products must inform the provider of the following:
+
+\1. The name of the regenerative medicinal product manufacturer.
+
+\2. The intended use of the tissues or cells.
+
+\3. The intended indications and target population for the regenerative medicinal product.
+
+\4. The method of obtaining the tissues or cells, potential side effects and complications, their incidence rates and management methods, contraindications, restrictions, and other related matters.
+
+\5. The criteria for determining the eligibility of the provider.
+
+\6. The subsequent disposal or potential use of any remaining tissues or cells.
+
+\7. The content and method of compensation for the provision of tissues or cells.
+
+\8. The content and method of follow-up.
+
+\9. The right to withdraw, suspend, or terminate the provision.
+
+\10. Medical care, compensation, and handling of adverse reactions occurred during the process of obtaining the tissues or cells.
+
+\11. Expected potential benefits and their attribution.
+
+\12. Measures for personal data confidentiality.
+
+\13. Other matters announced by the central competent authority.
+
+The methods, procedures, and other compliance requirements for informing the consent mentioned in the preceding paragraph shall be prescribed by the central competent authority.
+
+## Article 14
+
+Advertisements for recruiting providers of tissues or cells for regenerative medicinal products (hereinafter referred to as ‘recruitment advertisements’) may only be conducted by pharmaceutical companies.
+
+Advertisements for regenerative medicinal products shall comply with the regulations on pharmaceutical advertising under the Pharmaceutical Affairs Act.
+
+## Article 15
+
+Recruitment advertisements must not contain exaggerated, false, or unsubstantiated claims or promotions.
+
+Before publishing the recruitment advertisement mentioned in the preceding paragraph, pharmaceutical firms must submit the content and method of publication to the central competent authority or its designated agency or entity for approval. Only after receiving the approval and providing the approval documents to the media enterprises may they proceed with the publication. During the publication period, the content or method of the approved recruitment advertisement may not be changed without further approval.
+
+If an approved recruitment advertisement is found to pose a risk to public health or has a significant potential for harm, the central competent authority shall order the pharmaceutical firms to immediately stop the publication and make amendments within a specified period. If the amendments are not made within the deadline, the approval shall be revoked.
+
+Media enterprises shall not publish recruitment advertisements that have not been approved, do not conform to the approved content, have been revoked, or have been ordered to be immediately stopped.
+
+Media enterprises accepting commissions to publish recruitment advertisements must retain, for six months from the date of the advertisement, the name of the pharmaceutical firms, the pharmaceutical firms’ license number, business address, phone number, and a copy of the approval documents from the second item. They must not evade, obstruct, or refuse to provide this information when requested by the central competent authority.
+
+The regulations for determining what can and cannot be included in recruitment advertisements, such as text, wording, illustrations, target audience, publication methods, publication locations, and other compliance requirements, shall be prescribed by the central competent authority.
+
+## Article 16
+
+Pharmaceutical firms must obtain manufacturing and distribution licenses in accordance with Article 53-1 and Article 57 of the Pharmaceutical Affairs Act and comply with the Pharmaceutical Good Manufacturing Practice Regulations (GMP) and the Western Pharmaceuticals Good Distribution Practice Regulations (GDP) before manufacturing and distributing regenerative medicinal products.
+
+Violations of the preceding paragraph by manufacturing or distributing without permission, or by manufacturing or distributing in a manner that does not comply with the Pharmaceutical Good Manufacturing Practice Regulations (GMP) or the Western Pharmaceuticals Good Distribution Practice Regulations (GDP) shall be subject to penalties in accordance with the Pharmaceutical Affairs Act.
+
+## Article 17
+
+For regenerative medicinal products that have been approved for manufacture or importation, the central competent authority may designate specific items and periods and require the holder of the drug license or conditional approval to monitor their safety according to the announced or approved safety surveillance plan. Medical institutions must provide relevant safety surveillance data to the holder of the license or conditional approval.
+
+The holder of the license or conditional approval must regularly submit safety surveillance reports to the central competent authority. If reports are not submitted on time, or if the central competent authority determines that the product poses safety concerns or that the execution of the safety surveillance plan deviates from the announced or approved plan, the authority may require improvements within a specified period or extend the surveillance period. If necessary, the authority may order the suspension of manufacturing, importation, or sale. In severe cases, the authority may revoke the drug license or conditional approval directly.
+
+The methods, deadlines, content, format, data collection restrictions, maintenance, surveillance period, evaluation, and other compliance requirements for submitting the safety surveillance data and reports mentioned in the preceding two paragraphs shall be prescribed by the central competent authority.
+
+## Article 18
+
+Pharmaceutical firms and medical care institutions must retain records of the sources and distribution of regenerative medicinal products.
+
+The scope, methods of retention, duration, and other compliance requirements for the records mentioned in the preceding paragraph shall be prescribed by the central competent authority.
+
+## Article 19
+
+In the event of adverse reactions leading to death, disability, or severe illness from the use of regenerative medicinal products with conditional approval, relief measures shall be handled according to the provisions of Item 3, Paragraph 1, Article 10. For regenerative medicinal products with a drug license, the provisions of the Pharmaceutical Injury Relief Act shall apply.
+
+## Article 20
+
+The central competent authority shall impose a fine of not less than NT$30,000 and not more than NT$2,000,000 for any of the following circumstances:
+
+\1. Violation of the provisions of Paragraph 2, Article 15, by publishing recruitment advertisements without approval or without providing the approval documents to media enterprises, or by altering the content or publication method of approved recruitment advertisements without approval.
+
+\2. Violation of the provisions of Paragraph 4, Article 15, by publishing recruitment advertisements that have not been approved, do not conform to the approved content, have been revoked, or have been ordered to be immediately stopped.
+
+\3. Violation of the provisions of Paragraph 5, Article 15, by failing to retain records within the specified period, retaining incomplete records, or evading, obstructing, or refusing to provide records.
+
+\4. Violation of regulations concerning the placement of recruitment advertisements as outlined in Paragraph 6, Article 15.
+
+## Article 21
+
+Any of the following circumstances shall result in a fine of not less than NT$30,000 and not more than NT$2,000,000 imposed by the municipal or county (city) competent authority:
+
+\1. Failure to employ dedicated personnel with relevant qualifications and expertise as required by Paragraph 2, Article 5.
+
+\2. Manufacturing or importing regenerative medicinal products without obtaining a drug license or conditional approval in violation of Paragraph 1, Article 6.
+
+\3. Unauthorized changes to the drug license, conditional approval, original registration details, or unauthorized transfer in violation of Article 7.
+
+\4. Unauthorized manufacturing or importing of regenerative medicinal products without ensuring the eligibility of the provider in violation of Paragraph 1, Article 11.
+
+\5. Manufacturing regenerative medicinal products from tissues or cells that are not from adults with mental capacity in violation of the main text of Paragraph 1, Article 12.
+
+\6. Violation of Paragraph 2, Article 12, where written consent was not obtained prior to the acquisition of tissues or cells, or failure to comply with the provisions on the exercise of consent rights as stipulated in Paragraphs 3 to 6 of the same article.
+
+\7. Failure to inform the listed matters before obtaining consent in violation of Paragraph 1, Article 13.
+
+\8. Violation of the regulations regarding the method or procedure of notification as prescribed in Paragraph 2, Article 13.
+
+\9. Publishing recruitment advertisements by entities other than pharmaceutical companies, in violation of Paragraph 1, Article 14.
+
+\10. Violation of Paragraph 1, Article 17, in which the holder of the drug license or conditional approval has not conducted safety surveillance in accordance with the announced or approved safety surveillance plan, or the medical institution has failed to provide the required safety surveillance data.
+
+\11. Violation of the regulations on the content, submission deadlines, or surveillance period of safety surveillance reports as specified in Paragraph 3 of Article 17.
+
+\12. Failure to retain records, in violation of Paragraph 1, Article 18.
+
+\13. Violation of the regulations on the scope, method, or duration of record retention as specified in Paragraph 2 of Article 18.
+
+## Article 22
+
+The governance of regenerative medicinal products under this Act may be subject to regular or ad hoc audit by the competent authority at any level.
+
+## Article 23
+
+The enforcement date of this Act shall be determined by the Executive Yuan.
+
+## History
+
+1.Promulgated June 19, 2024

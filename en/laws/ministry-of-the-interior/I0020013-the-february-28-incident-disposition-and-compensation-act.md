@@ -1,0 +1,201 @@
+---
+title: "The February 28 Incident Disposition and Compensation Act"
+title_zh: "二二八事件處理及賠償條例"
+identifier: "I0020013"
+type: act
+law_level: "法律"
+category: "行政＞內政部＞民政目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1995-04-07
+last_amended: 2018-01-17
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=I0020013"
+retrieved: 2026-10-12
+---
+
+# The February 28 Incident Disposition and Compensation Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-the-interior/I0020013-the-february-28-incident-disposition-and-compensation-act.md](../../../zh/laws/ministry-of-the-interior/I0020013-the-february-28-incident-disposition-and-compensation-act.md)) is authoritative.
+
+## Article 1
+
+The purposes of this Act are to dispose compensation matters of the February 28 Incident (hereinafter the 228 Incident), to carry out the education of history, to clarify attribution of responsibility, to enhance public understanding of the 228 incident, to heal the wounds of history, and to promote integration of communities.
+
+## Article 2
+
+As used in this Act, the term “victim” means any person whose life, body, liberty, or property is infringed as a result of the 228 Incident by a public functionary or by the exercise of public authority.
+
+A victim or a family member of a victim shall make an application for monetary compensation within seven years from October 7, 1995 in accordance with provisions of this Act.
+
+Where a victim or a family member of a victim does not make an application for monetary compensation within the time period specified in the preceding Paragraph for unknown reasons, the time period for applying for compensation may be extended for four years after the amendment of this Act on December 26, 2017.
+
+Where a victim or a family member of a victim has received reparation, pension, or relief by a decision of the court or by an administrative order of the Taiwan Provincial government, the said person shall not be eligible to make an application to be registered as a claimant under this Act.
+
+## Article 3
+
+Matters set forth in Article 1 of this Act shall be handled by the Memorial Foundation of 228 (hereinafter the Memorial Foundation) established by the Executive Yuan. Matters in relation to furthering the education of history shall be jointly handled by the Ministry of Education, the Ministry of Culture, and the Council of Indigenous Peoples, Executive Yuan.
+
+The Memorial Foundation shall be composed of persons selected and retained by the Executive Yuan in the following categories: scholars and experts, social leaders, Government representatives, and representatives of the victims or their family members. The proportion of representatives of the a victim or a family member in the board of directors of the Memorial Foundation shall not be lower than one-third .
+
+Where an applicant disagree with a decision made by the Memorial Foundation, the said applicant may file an administrative appeal or an administrative litigation, where applicable, in accordance with the applicable statutory law.
+
+## Article 3-1
+
+The Memorial Foundation shall conduct the following matters:
+
+1.Investigating facts concerning the circumstances of the 228 Incident, as well as collecting and studying of relevant historical materials;
+
+2.Organizing activities in memory of the 228 Incident;
+
+3.Organizing activities in relation to promoting the education and international exchanges on cultural, historical or human-rights aspects in relation to the 228 Incident;
+
+4.Handing out compensation for the confirmed victims;
+
+5.Assisting the victims and their family members to restore their reputation;
+
+6.Offering financial aid to a disadvantaged family member of a victim;
+
+7.Clarifying the attribution of responsibility of related persons;
+
+8.And any other related matters in line with the purposes of this Act.
+
+In handling matters specified in the preceding Paragraph, the Memorial Foundation may not act in contravention of the truth of the 228 Incident.
+
+## Article 3-2
+
+The central government shall establish the National 228 Memorial Museum to preserve and arrange artifacts, historical materials, and documents relating to the 228 Incident. The said National Museum may be entrusted and managed by the Memorial Foundation. A 228 memorial museum established by a local government may also be entrusted and managed by the Memorial Foundation.
+
+## Article 4
+
+The government shall hold an inauguration ceremony for the 228 memorial monument and set the date of the inauguration ceremony as an annual memorial date for the erection of the 228 memorial monument. The President or other relevant leaders of the government shall be invited to attend and address the inauguration ceremony.
+
+The government shall designate February 28 as Peace Memorial Day, to be a national memorial day and a public day off .
+
+Commemoration activities of the 228 Incident shall be organized by the Memorial Foundation.
+
+## Article 5
+
+The Memorial Foundation shall, in accordance with the findings of the investigation, make a petition to the President to exercise the power of granting amnesties or pardons to those victims who were declared and executed for the death penalty, imprisonment, or criminal detention, or to those victims who were not declared a sentence yet had been executed in any case.
+
+## Article 6
+
+Where the reputation of a victim or a family member were damaged, the said person may make an application for restoration of reputation. Where the household registration for a person concerned is found to be inaccurate, an application for correction may be made.
+
+## Article 7
+
+The amount of compensation for a victim shall be calculated based on compensation units, and 100,000 New Taiwan Dollar (NTD) shall be awarded to each compensation unit, within the limit of sixty compensation units payable in a single case at maximum.
+
+The Memorial Foundation shall pronounce standards for determining the amount of compensation to be made in accordance with the preceding Paragraph, taking into account the degree of suffering each victim has endured.
+
+Detailed regulations governing the application for, the confirmation process of, and the handing out of compensation shall be prescribe by the Memorial Foundation.
+
+## Article 8
+
+The causes for compensation for sufferings endured as a result of the 228 Incident is as follows:
+
+1.Deceased or missing victims;
+
+2.Injury or disability;
+
+3.Victims who suffered from detainment or imprisonment, injuries or damage to reputation;
+
+4.Victims who suffered from damage done to the property;
+
+5.Victims who suffered from damage to health or reputation;
+
+6.Other unlisted matters which the Memorial Foundation is authorized to provide.
+
+An educational or cultural institution that has suffered harms during the 228 Incident may apply for restoration of reputation and request for assistance in restoring its reputation. Detailed regulations governing the restoration of reputation for such an institution shall be prescribed by the Executive Yuan.
+
+## Article 9
+
+The Memorial Foundation shall exercise its functions impartially and shall be free from any interference in conducting an investigation of the facts and related information of the 228 Incident, identifying the victims of the 228 Incident, publishing a list of the victims, and accepting the requests and making payments of compensation.
+
+A family member of the victim, for the purpose of identifying and confirming the victim, may also make an application in writing to the Memorial Foundation for investigation, to be supported by specific information or relevant witnesses.
+
+The Memorial Foundation shall complete its process in handling an application filed in accordance with the preceding Paragraph within three months of receiving the application.
+
+## Article 10
+
+For purposes of investigating the circumstances in relation to sufferings endured by the victims, the Memorial Foundation shall have access to documents and files collected or archived by government agencies or private organizations. Any government agency or private organization may not refuse the request of the Memorial Foundation for information. Where an agency or organization contravenes the foregoing deliberately, its supervisor and relevant personnel shall be liable for the offense provided in Article 165 of the Criminal Code.
+
+The documents and files referred to in the preceding Paragraph shall include any material related to the circumstances of the 228 Incident and are not limited to those carrying a label of 228 attached to the files.
+
+## Article 11
+
+The funds of the Memorial Foundation are for the following uses:
+
+1.To provide for the compensation;
+
+2.To hold the 228 Incident memorial activities;
+
+3.To hold publicity campaigns aimed at raising public awareness of the 228 Incident;
+
+4.To finance the publishing of textbooks or publications on the 228 Incident;
+
+5.To finance investigation of the truth behind the 228 Incident and grants for research;
+
+6.Other uses advancing purposes of vindicating the victim’s reputation, taking care of a disadvantaged family member of a victim, and promoting social reconciliation in Taiwan.
+
+## Article 12
+
+The sources of funds for the Memorial Foundation shall consist of the following:
+
+1.Donations from the government made in accordance with budgetary procedures;
+
+2.Donations from domestic or foreign companies, organizations, or individuals;
+
+3.Profits from funds and income from the use of profits;
+
+4.Other income.
+
+Where there appears a shortage of funds, the government shall make a donation through the budgetary process.
+
+Compensation paid in accordance with provisions of this Act is exempt from income tax.
+
+## Article 13
+
+A “family member” of a victim mentioned in this Act refers to an heir of a deceased or disappeared victim in accordance with and in the order as specified in Article 1138 of the Civil Code.
+
+## Article 14
+
+The Memorial Foundation shall make a lump sum payment of compensation to persons who are confirmed to be eligible for claiming compensation under this Act by an investigation within two months from the date of the confirmation of eligibility. Where the person eligible to claim the compensation does not collect the compensation within five years from the date he or she receives the notice of collection, the amount of compensation shall then belong to the 228 Incident Memorial Fund.
+
+## Article 15
+
+The right to apply for compensation under this Act shall not be an object for  seizure, transfer , or for providing as security.
+
+## Article 16
+
+A victim who has been awarded compensation in accordance with provisions of this Act is deemed to having been compensated.
+
+## Article 17
+
+This Act shall come into force on the date of its promulgation.
+
+## History
+
+1.Promulgated on April 7, 1995
+
+2.Amended on February 25, 1997
+
+3.Amended on October 4, 1997
+
+4.Amended on June 17, 1998
+
+5.Amended on February 9, 2000
+
+6.Amended on October 5, 2001
+
+7.Amended on February 6, 2003
+
+8.Amended on March 21, 2007
+
+9.Amended on July 1, 2009
+
+10.Amended on May 22, 2013
+
+11.Amended on January 17, 2018

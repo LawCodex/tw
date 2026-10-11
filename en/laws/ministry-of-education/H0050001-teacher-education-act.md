@@ -1,0 +1,313 @@
+---
+title: "Teacher Education Act"
+title_zh: "師資培育法"
+identifier: "H0050001"
+type: act
+law_level: "法律"
+category: "行政＞教育部＞師資培育及藝術教育目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1979-11-21
+last_amended: 2019-12-11
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=H0050001"
+retrieved: 2026-10-12
+---
+
+# Teacher Education Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-education/H0050001-teacher-education-act.md](../../../zh/laws/ministry-of-education/H0050001-teacher-education-act.md)) is authoritative.
+
+## Article 1
+
+This Act has been enacted in order to educate qualified teachers for senior high schools and below, as well as preschools, and ensure an abundant supply of teachers while enhancing their professional competence.
+
+## Article 2
+
+In this Act, the term “Central Competent Authority” refers to the Ministry of Education, and the term “Competent Authority” refers to the local municipal government at the municipal level, and to the local county (city) government at the county (city) level.
+
+## Article 3
+
+The terms used in this Act are defined as follows:
+
+1.Teacher Education: the education and training of professional teachers, including Pre-service Teacher Education, Practical Education Training, and In-service Training for Teachers.
+
+2.Universities offering teacher training programs, hereinafter as “Teacher Education Universities”: normal universities, universities of education, universities with teacher education-related departments, or Teacher Education Centers.
+
+3.Pre-service Teacher Education Courses: all related courses accepted in accordance with this Act before taking a Teacher Qualification Examination, including general courses, Professional Education Courses, and specialization courses.
+
+4.General courses: the courses developing teachers' broad sense of the humanities and aspirations for an educational career.
+
+5.Professional Education Courses: education credit courses to equip teachers with the teaching knowledge and skills needed by a qualified teacher in their subject area(s).
+
+6.Area of specialization courses: courses designed to equip teachers with specialized knowledge and skills in teaching particular subjects, disciplines, and specialized fields.
+
+## Article 4
+
+Teacher Education shall be implemented with a focus on student-learning-centered educational competence, a sense of professionalism, and character development. Respect for diversity, ethnic cultures, social concerns, and international vision shall also be enhanced.
+
+In order to achieve the objectives of Teacher Education set out in the preceding paragraph, the Central Competent Authority shall formulate Guidelines Regarding Teachers' Professionalism and The Criteria Governing Pre-service Teacher Education Courses.
+
+The course criteria referred to in the preceding paragraph shall address teaching competence stipulated in the curriculum guidelines for senior high schools and below, and in the preschool curricular outlines, and address each major issues.
+
+## Article 5
+
+The Central Competent Authority shall establish a Teacher Education Review Committee to undertake the following matters:
+
+1.Make recommendations and provide consultation regarding Teacher Education policies;
+
+2.Review Teacher Education planning and major Teacher Education development projects;
+
+3.Review changes to the status or the suspension of operations of normal universities and universities of education;
+
+4.Review the approval or changes to the status of teacher education-related departments;
+
+5.Review the establishment and suspension of operations of Teacher Education Centers at universities;
+
+6.Review the Guidelines Regarding Teachers' Professionalism and The Criteria Governing Pre-service Teacher Education Courses for Teacher Education;
+
+7.Review the standards for recognizing foreign academic credentials for completion of Pre-service Teacher Education Courses;
+
+8.Review evaluations of Teacher Education and guidance; and
+
+9.Other review matters regarding Teacher Education.
+
+The review committee referred to in the preceding paragraph shall include representatives of the Central Competent Authority, and special municipality, county and city competent authorities; representatives of Teacher Education Universities; representatives of teachers' organizations, teachers; scholars or experts in indigenous education; and individuals dedicated to social justice. The regulations governing the establishment of the committee shall be prescribed by the Central Competent Authority.
+
+## Article 6
+
+Pre-service Teacher Education and Practical Education Training shall be provided and organized by Teacher Education Universities.
+
+The approval or changes to the status of the teacher education-related departments referred to in Article 3, Subparagraph 2 shall be undertaken by the Central Competent Authority.
+
+The establishment of a Teacher Education Center by a university shall be approved by the Central Competent Authority. The regulations governing the eligibility criteria and procedures to establish such a center, its teachers, facilities, student admissions, curricula, the length of programs, suspension of operations, and other related matters shall be prescribed by the Central Competent Authority.
+
+## Article 7
+
+The Pre-service Teacher Education provided by Teacher Education Universities shall meet the following requirements:
+
+1.Separate planning shall be undertaken for the teaching subject areas of secondary schools, elementary schools, preschools, and special education schools (programs).
+
+2.The Teacher Education content of the subjects, fields, and subject clusters of each teaching subject area and the quota for each subject area shall be approved by the Central Competent Authority.
+
+The planning of teaching subject areas for secondary schools and elementary schools may be undertaken as planning teaching subject areas that encompass both secondary and elementary levels, based on pedagogical demands.
+
+The Pre-service Teacher Education Courses offered by Teacher Education Universities shall be in accordance with the provisions of The Criteria Governing Pre-service Teacher Education Courses and the provisions of the Education Act for Indigenous Peoples.
+
+## Article 8
+
+The admission requirements and the length of the programs for students in teacher education-related departments of universities shall be in accordance with the provisions of the University Act.
+
+Universities with a Teacher Education Center may select undergraduate students and students currently being registered to a master or doctoral program to take Pre-service Teacher Education Courses.
+
+After obtaining approval from the Central Competent Authority, a Teacher Education University may recruit university graduates to take Pre-service Teacher Education Courses for at least one year based on actual demands.
+
+Students referred to in the preceding three paragraphs who complete the stipulated Pre-service Teacher Education Courses with passing grades shall be issued a Pre-service Teacher Education Completion Certificate by their Teacher Education University.
+
+## Article 8-1
+
+In the light of policy requirements, the Central Competent Authority may coordinate the Teacher Education Universities to organize Pre-service Teacher Education Courses and recruit university graduates who meet specific eligibility criteria to take those courses for at least one year, with the approval of Teacher Education Review Committee.
+
+Students referred to in the preceding paragraph who complete the Pre-service Teacher Education Courses with passing grades shall be issued a Pre-service Teacher Education Completion Certificate by their Teacher Education University
+
+A person who has obtained a Pre-service Teacher Education Completion Certificate in accordance with the provisions of the preceding paragraph, and met the qualification requirements reviewed and approved by The Teacher Education Review Committee with a passing grade for her/his demonstration of teaching, may be given an exemption from doing the stipulated Practical Education Training.
+
+The Central Competent Authority shall supervise the teaching demonstrations referred to in the preceding paragraph being jointly handled by the Teacher Education Universities at least once each year. The procedure for registering to give a teaching demonstration, the registration fee, the teaching demonstration items, the date, venue, how the demonstrations are assessed, the notification of results, and other matters shall be clearly stated in the registration information material and made public two months before the teaching demonstrations are held.
+
+## Article 9
+
+A person with an academic record from a foreign university at bachelor’s degree level or higher that has been recognized by the central competent authority as having already completed the Pre-service Teacher Education Courses shall be issued a Pre-service Teacher Education Completion Certificate.
+
+The recognition referred to in the preceding paragraph and the standards governing the associated fees shall be prescribed by the central competent authority.
+
+## Article 10
+
+Teacher Qualification Assessment shall be carried out in accordance with the following provisions:
+
+1.Teacher Qualification Examinations: only a person who has obtained a Pre-service Teacher Education Completion Certificate in accordance with their subject area may join the examination.
+
+2.Practical Education Training: a person who has passed a Teacher Qualification Examination may apply to a Teacher Education University to take a half year of full time Practical Education Training which includes teaching practice, class mentor practice, administrative practice, and research and study activities.
+
+The regulations governing the eligibility for taking the examination, registration procedures, documents and materials that must be submitted, fees that must be paid, testing methods, times, admission standards, cancellation of tests or of admission eligibility, and other matters related to the Teacher Qualification Examination referred to in Subparagraph 1 of the preceding paragraph shall be prescribed by the Central Competent Authority.
+
+Regarding the fees that must be paid referred to in the preceding paragraph, the registration fee for students from low-income households, middle-income households, and families in special circumstances may be subsidized by the Central Competent Authority.
+
+The regulations governing the eligibility and selection of institutions where Practical Education Training can be held, rights and obligations during the practical training, content and procedures, guidance and performance assessment, qualifications required to be a mentor for a trainee teacher doing a teaching practicum or to be a trainee teacher instructor, and other matters related to the Practical Education Training referred to in Paragraph 1, Subparagraph 2 shall be prescribed by the Central Competent Authority.
+
+## Article 11
+
+Teacher Education Universities shall prepare a list of the students who meet all of the following eligibility criteria and submit it to the Central Competent Authority for each who was issued a Teacher’s Certificate.
+
+1.a bachelor's degree or higher;
+
+2.a Pre-service Teacher Education Completion Certificate or any proof that they have completed Pre-service Teacher Education;
+
+3.passed a Teacher Qualification Examination; and
+
+4.completed the Practical Education Training with passing grades.
+
+The regulations governing the format, application procedure, review, issue, re-issue, fees, and other related matters of the Teacher’s Certificate referred to in the preceding paragraph shall be prescribed by the Central Competent Authority.
+
+## Article 12
+
+If a person who has already obtained a Teacher’s Certificate qualifying them to teach one of the subject areas referred to in Article 7, completed the Pre-service Teacher Education Courses for teaching in another subject area and obtained a certificate or other proof, shall be issued a Teacher’s Certificate for that second subject area by the Central Competent Authority in accordance with the prescribed regulations referred to in Paragraph 2 of the previous article, and will be exempted from taking a Teacher Qualification Assessment in accordance with the regulations.
+
+## Article 13
+
+The Central Competent Authority shall organize the Teacher Qualification Examinations and establish a Teachers Qualification Examination Review Council. Its members shall include at least one professional scholar or expert in indigenous education. The Central Competent Authority may commission an educational institution or related institution (agency) to organize such examinations if necessary.
+
+## Article 14
+
+The Teacher Education programs are mainly conducted on self-funded basis, supplemented by government funding and scholarship programs. Government-funded Students are required to serve in schools in a remote or with special need district after graduation.
+
+Each Teacher Education University that organizes national language-related education for Government-funded Students shall provide national language and relevant cultural courses to address the requirements identified by the competent authority.
+
+Regulations governing the eligibility criteria for receiving a government scholarship, the associated reviews, quotas, and budget allocations, the quotas for government-funding, the period for which Government-funded Students are entitled to receive funding, contractual contents, mandatory duties and other related obligations, handling of cases of breach of obligation, and assignments to do teaching service shall be prescribed by the Central Competent Authority.
+
+## Article 15
+
+A person who has obtained a teaching certificate and wishes to engage in teaching professions, except for Government-funded Students following the distribution regulations mentioned in the preceding article, is required to participate in public teacher selection processes organized by schools or preschools in accordance with the qualification that they have obtained.
+
+## Article 16
+
+A Teacher Education University shall have an internship and career advisory unit to organize Practical Education Training, career counselling for graduates, and local educational guidance work.
+
+The local educational guidance work referred to in the preceding paragraph may include In-service Training for Teachers and be jointly organized by the competent authorities at all levels, teacher in-service training institutions, and schools or preschools. The regulations governing the implementation methods, content, intended recipients of services, and other related matters shall be formulated by the Central Competent Authority.
+
+## Article 17
+
+The competent authorities shall supervise matters related to the organization of Practical Education Training by schools at senior secondary level and below, preschools, and special education schools (programs) working together with Teacher Education Universities to organize full-time Practical Education Training, and the competent authorities shall provide any necessary funding and assistance.
+
+## Article 18
+
+Teacher Education Universities may establish affiliated experimental schools, preschools, and/or special education schools (programs) corresponding with the teaching subjects that they offer, for the purpose of providing teaching practicums, conducting experiments, and researches.
+
+## Article 19
+
+The items of fees that Teacher Education Universities charge for the Pre-service Teacher Education Courses and Practical Education Training, the associated uses, and the amounts charged are not permitted to exceed the scope determined by the Central Competent Authority, and the details shall be submitted to the Central Competent Authority for review and approval before implementation.
+
+## Article 20
+
+The competent authority may provide In-service Training for Teachers of schools at the senior secondary level and below and preschool teachers in the following ways:
+
+1.Independently or jointly establish teacher in-service training institutions;
+
+2.Coordinate or commission Teacher Education Universities to offer various in-service training courses for teachers; and
+
+3.Social education institutions or legal entities which have been approved by the competent authority may hold various in-service teacher training courses.
+
+The Teacher Education Universities referred to in Subparagraph 2 of the preceding paragraph may establish units exclusively responsible for organizing In-service Training for Teachers and shall set up professional development training courses in indigenous languages, and/or cultures, and/or multicultural education in accordance with the Education Act for Indigenous Peoples.
+
+The regulations governing the approvals referred to in Paragraph 1, Subparagraph 3 shall be formulated by the Central Competent Authority.
+
+## Article 21
+
+To obtain a teacher qualification, a person who took the Pre-service Teacher Education Courses without the completion of Practical Education Training courses before the amendments to this Act that took effect on May 26, 2017, may apply in advance to do Practical Education Training within six years from the date of effect of these amendments to this Act and be exempt from the restrictions set out in Article 10, Paragraph 1, Subparagraph 2.
+
+A person who took the Pre-service Teacher Education Courses and completed the Practical Education Training courses before the amendments to this Act that took effect on May 26, 2017, may go about obtaining a teacher qualification in accordance with the provisions of Article 10, or may apply the provisions that were in effect before the amendments to this Act took effect within ten years from the date of effect of the amendments to this Act, and will be exempted from the restrictions set out in Article 10, Paragraph 1, Subparagraph 2.
+
+## Article 22
+
+After the amendments to this Act took effect on May 26, 2017, a substitute teacher who has passed a Teacher Qualification Examination, is employed in accordance with the Regulations Governing the Employment of Part-time and Substitute Primary and Secondary School Teachers, and meets each of the eligibility requirements listed below may be given an exemption from doing Practical Education Training, and be issued a Teacher’s Certificate for their subjects by the Central Competent Authority:
+
+1.Within seven years after passing a Teacher Qualification Examination, the person has taught in a school in a remote district for two academic years or more, or continuously taught for a total of two years with a minimum of three consecutive months each year. The cumulative total number of years teaching must all have been spent in teaching the same subject area.
+
+2.The person has undergone assessment with passing grades.
+
+After the amendments to this Act took effect on May 26, 2017, a substitute teacher working in a preschool who has passed a Teacher Qualification Examination, is employed in accordance with the Implementation Rules of the Early Childhood Education and Care Act, and meets each of the eligibility requirements listed below may be given an exemption from doing Practical Education Training and issued a Teacher’s Certificate for their subjects by the Central Competent Authority:
+
+1.Within seven years after passing a Teacher Qualification Examination, the person has taught in a preschool affiliated to a school in a remote district, or in a preschool in a remote district as defined in Article 6, Subparagraph 2 of the Implementation Rules for the Early Childhood Education and Care Act for two academic years or more, or continuously taught for a total of two years with a minimum of three consecutive months each year. The cumulative total number of years teaching must all have been spent in teaching the same subject area.
+
+2.The person has undergone assessment with passing grades.
+
+After the amendments to this Act took effect on May 26, 2017, a teacher who has passed a Teacher Qualification Examination and is employed by an Overseas Taiwan School established in accordance with the Regulations for the Establishment and Assistance of Overseas Taiwan Schools and the Overseas Compatriot  Schools registered or officially recorded by the Overseas Community Affairs Council, and who meets each of the eligibility requirements listed below may be given an exemption from doing Practical Education Training and issued a Teacher’s Certificate for their subjects by the Central Competent Authority:
+
+1.Within seven years after passing a Teacher Qualification Examination, the person has taught for two academic years or more, or at least three consecutive months each year, or continuously taught for a total of two years with a minimum of three consecutive months each year. The cumulative total number of years teaching must all have been spent in teaching the same subject area.
+
+2.The person has undergone assessment with satisfactory results.
+
+The eligibility criteria and selection of the schools in remote districts referred to in Paragraph 1, Subparagraph 1; of the preschools affiliated to schools in remote districts, and preschools in remote districts referred to in Paragraph 2, Subparagraph 1; and of the Overseas Taiwan Schools and Overseas Compatriot  Schools referred to in the preceding paragraph; mentoring; the qualifications required to be a mentor for a trainee teacher doing a teaching practicum, and other related matters shall be set out in the regulations stipulated in Article 10, Paragraph 4; a list of the Overseas Compatriot  Schools shall be jointly made public by the Overseas Community Affairs Council and the Central Competent Authority, and a list of the other schools and preschools shall be made public by the Central Competent Authority.
+
+The regulations governing the content procedures, associated fees, and other matters related to the assessment of results referred to in Paragraph 1 to Paragraph 3 shall be formulated by the Central Competent Authority.
+
+## Article 23
+
+A teacher who has obtained a Teacher’s Certificate for teaching in remote or special districts and who is any one of the categories listed below may apply to the Central Competent Authority for a Teacher’s Certificate for teaching in general regions without being required to undertake the Teacher Qualification Assessment stipulated in the regulations:
+
+1.The person has continued to work in a teaching position and completed the Professional Education Courses that were held on a special-project basis between January 1, 2003 and May 4, 2007 by Teacher Education Universities coordinated by the Central Competent Authority.
+
+2.The person has worked in a teaching position for a cumulative total period of five years or more.
+
+## Article 24
+
+Before January 31, 2024, the Central Competent Authority, in coordination with Teacher Education Universities, shall organize Professional Education Courses on a special-project basis to provide professional development for persons who were engaged in actual teaching and child care work at a registered preschool before the amendments to this Act took effect on May 20, 2014 and have continued to engage in such work.
+
+Preschool staff members who complete the Professional Education Courses referred to in the preceding paragraph with passing grades shall be issued a Pre-service Teacher Education Completion Certificate by the Teacher Education University.
+
+A person who has obtained a Pre-service Teacher Education Completion Certificate in accordance with the provisions of the preceding paragraph, graduated from a university, and has been engaged in actual teaching in a registered preschool, kindergarten, or child-care center for a total of three years or more within the most recent seven years with a good performance record, may be given an exemption from doing the stipulated Practical Education Training, after giving a demonstration of teaching and getting passed. This provision will apply before January 31, 2028.
+
+The provisions of the preceding paragraph may also apply, mutatis mutandis, to teachers who completed a professional early childhood teaching program in accordance with the provisions of the Regulations Governing Pre-employment Preschool Teacher Qualification Training Courses for Personnel at Preschools and Nurseries before the amendments to this Act which took effect on May 20, 2014, and continued to be employed as a teacher afterwards.
+
+The regulations governing the required courses, student admissions, determination of eligibility for an exemption from doing Practical Education Training, and any other related matters, referred to in Paragraph 1 and Paragraph 3, shall be prescribed by the Central Competent Authority.
+
+## Article 25
+
+If the professional development of preschool teachers is governed by the provisions of the Early Childhood Education and Care Act or of the Statute for Preschool Educators, such provisions shall apply.
+
+## Article 26
+
+The enforcement rules for this Act shall be prescribed by the Central Competent Authority.
+
+## Article 27
+
+The date of effect of this Act shall be determined by the Executive Yuan.
+
+## History
+
+\1. Presidential Order (68) Tai-Tong-(1)-Yi-Zi No. 5816 enacted and promulgated November 21, 1979: Full text of 23 articles
+
+\2. Presidential Order (83) Hua-Zong-(1)-Yi-Zi No. 0694 promulgated on February 7, 1994: amendment of the title and the complete text of 20 articles (original title: the Teacher Normal Education Act)
+
+\3. Presidential Order (85) Hua-Zong--(1)-Yi-Zi No. 8500190170 promulgated on July 30, 1996: amendment of Article 6
+
+\4. Presidential Order (86) Hua-Zong--(1)-Yi-Zi No. 8600095580 promulgated on April 23, 1997: amendment of Articles 4, 7, and 10
+
+\5. Presidential Order (90) Hua-Zong-1-Yi-Zi No. 900096140 promulgated on May 16, 2001: amendment of Article 18 and addition of Article 18-1.
+
+\6. Presidential Order Hua-Zong-1-Yi-Zi No. 09100116900 promulgated on June 12, 2002: amendment of Articles 13 and 16
+
+\7. Presidential Order Hua-Zong-1-Yi-Zi No. 09100133720 promulgated on July 3, 2002: amendment of Article 18-1
+
+\8. Presidential Order Hua-Zong-1-Yi-Zi No. 09100144670 promulgated on July 24, 2002: amendment of the complete text of 26 articles
+
+Executive Yuan Order Yuan-Tai-Jiao-Zi No. 0910061641 issued December 10, 2002: the amendments to Articles 21 to 23, and Article 26 shall take effect from January 1, 2003, and the amendments to the other articles shall all take effect from August 1, 2003
+
+\9. Presidential Order Hua-Zong-1-Yi-Zi No. 09200096010 promulgated on May 28, 2003: amendment of Article 23
+
+Executive Yuan Order Yuan-Tai-Jiao-Zi No. 0920041468 issued August 6, 2003: the amendment to Article 23 shall take effect from January 1, 2003
+
+\10. Presidential Order Hua-Zong-1-Yi-Zi No. 09300088031 promulgated on May 5, 2004: amendment of Article 22
+
+Executive Yuan Order Yuan-Tai-Jiao-Zi No. 0940016316 issued April 28, 2005: the amendment to Article 22 shall take effect from May 5, 2004
+
+\11. Presidential Order Hua-Zong-1-Yi No. 09400091411 promulgated on June 22, 2005: amendment of Article 11, with the date of effect to be issued in an Executive Yuan Order
+
+Executive Yuan Order Yuan-Tai-Jiao-Zi No. 0940035273 issued August 11, 2005: the amendment to Article 11 shall take effect from June 6, 2005
+
+\12. Presidential Order Hua-Zong-1-Yi-Zi No. 09400212591 promulgated on December 28, 2005: amendment of Article 21, with the date of effect to be issued in an Executive Yuan Order
+
+Executive Yuan Order Yuan-Tai-Jiao-Zi No. 0950001296 issued January 16, 2006: the amendment to Article 21 shall take effect from December 28, 2005
+
+\13. Presidential Order Hua-Zong-1-Yi-Zi No. 10300085141 promulgated on June 4, 2014: amendment of Article 24, with the date of effect to be issued in an Executive Yuan Order
+
+Executive Yuan Order Yuan-Tai-Jiao-Zi No.1030038074 issued July 16, 2014: the amendment to Article 24 shall take effect from February 1, 2015
+
+\14. Presidential Order Hua-Zong-1-Yi-Zi No. 10600080051 promulgated on June 14, 2017: amendment of the full text of 27 articles; with the date of effect to be determined by the Executive Yuan.
+
+Executive Yuan Order Yuan-Tai-Jiao-Zi No. 1060022216C issued July 27, 2017: the amendments of Article 4, Paragraph 2, and of Article 3 shall take effect from December 1, 2018, and the amendments of the other articles shall take effect from February 1, 2018.
+
+\15. Presidential Order Hua-Zong-1-Yi-Zi No. 10800134431 promulgated on December 11, 2019: addition of Articles 8-1 and amendment of Article 14, Paragraph 2; with the date of effect to be determined by the Executive Yuan Order.
+
+Executive Yuan Order Yuan-Tai-Jiao-Zi No. 1090080017C issued January 10, 2020: the addition of Article 8-1, and the amendment of Article 14, Paragraph 2 shall take effect from January 1, 2020.

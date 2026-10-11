@@ -1,0 +1,483 @@
+---
+title: "The Act of the Cooperative Education Implementation in Senior High Schools and the Protection of Student Participants’ Rights"
+title_zh: "高級中等學校建教合作實施及建教生權益保障法"
+identifier: "H0060042"
+type: act
+law_level: "法律"
+category: "行政＞教育部＞國民及學前教育目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2013-01-02
+last_amended: 2021-06-16
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=H0060042"
+retrieved: 2026-10-12
+---
+
+# The Act of the Cooperative Education Implementation in Senior High Schools and the Protection of Student Participants’ Rights
+
+> Translation. The Chinese text ([zh/laws/ministry-of-education/H0060042-the-act-of-the-cooperative-education-implementation-in-senior-high-schools-and.md](../../../zh/laws/ministry-of-education/H0060042-the-act-of-the-cooperative-education-implementation-in-senior-high-schools-and.md)) is authoritative.
+
+## Chapter 1 General Principles
+
+### Article 1
+
+This Act is enacted to overhaul the system of cooperative education, protect the rights and interests of student participants, and enhance the quality of vocational education.
+
+### Article 2
+
+The competent authority in this Act refers to: the Ministry of Education for the central government; governments of special municipality for the special municipality; County（City）governments for the County（City）.
+
+Matters in this Act that fall within the scope of each purposive authority shall be governed by referring to the legal purpose of respective purposive authority.
+
+### Article 3
+
+Special terms used in this Act are defined as follows:
+
+1.Cooperative Education: a mechanism whereby vocational schools, senior high schools with vocational or special programs, and special education schools (hereinafter referred to as schools) cooperate with partner institutions with the goal of cultivating vocational skills of student participants.
+
+2.Student Participants: students who currently enroll in schools and participate in the cooperative education program, undergo vocational training in institutions that partner with schools in implementing vocational education in a fixed period of time and receive a certain amount of living allowance.
+
+3.Partner institutions: institutions that have signed Cooperative Education contracts with schools for the purpose of imparting vocational skills to student participants.
+
+4.Cooperative Education contracts: contracts signed between schools and their partner institutions whereby the schools arrange their student participants to go to the partner institutions for vocational skill training during a fixed period of time .
+
+5.Training contracts of student participants: contracts signed between student participants and partner institutions in which the students undergo vocational skill training and instruction at partner institutions in a fixed period of time, and receive a certain amount of living allowance .
+
+### Article 4
+
+The central competent authority, in conjunction with the labor administration competent authority, shall conduct an annual survey on matters concerning the protection of the rights and interests of student participants as stipulated in this Act and publish the survey report.
+
+If necessary, the former survey may be commissioned to an academic or professional organization.
+
+The results of the first survey shall be used as a reference for the competent authorities at all levels to formulate policies on cooperative education, and to select the types of industries for partner institutions.
+
+## Chapter II System of the Cooperative Education
+
+### Article 5
+
+Schools shall establish cooperative education programs based on the following approaches:
+
+\1. Rotation: Schools and partner institutions shall rotate based on a two-class unit; with one class attending school while the other receiving vocational skills training at partner institution.
+
+\2. Step-by-step: Year 1 and Year 2 students receive basic and professional theoretical education at schools, while Year 3 students receive vocational skills training at partner institutions.
+
+\3. Internship: In accordance with the needs of the professional curriculum of each grade, the schools shall allow students to receive vocational skills training in the summer/ winter breaks or in the midterm-semester at partner institutions without adjusting the curriculum structure.
+
+\4. Other approaches approved by the central competent authority: The school develops the modes of operation, which are approved by the competent authority of the special municipality or the County (City), and then transferred to the central competent authority for final approval.
+
+### Article 6
+
+The following conditions shall be fulfilled by partner institutions participating in the cooperative education:
+
+\1. Be established or registered in accordance with the law.
+
+\2. The training capacity, instructional manpower, and sound equipment are available for the relevant occupations.
+
+\3. The training site complies with labor safety and health related laws and regulations.
+
+\4. There are no circumstances stipulated in Article 32, Paragraph 1 or Article 35 that prohibit the partner institutions from participating in the cooperative education.
+
+\5. No violation of labor laws and regulations over the past two years.
+
+\6. The number of employees who have had their labor contracts terminated in accordance with Article 11 of the Labor Standards Act over the past two years does not exceed 10% of the total number of employees.
+
+\7. Not engaged in dispatching business.
+
+Concerning 3, 5, and 7 of Article 6, the required verification documents, their scopes, the confirmation process and other matters to be followed shall be formulated by the central competent authority in conjunction with the central labor administration competent authority.
+
+### Article 7
+
+To conduct the cooperative education, schools shall meet the following requirements:
+
+\1. The results of the latest school evaluation shall be level 4 or above.
+
+\2. The results of the last three years’ evaluation of cooperative education shall be level 4 or above, and the results of the latest year’s evaluation shall be level 3 or above.
+
+\3. Every two cooperative education classes shall be assigned with five full-time teachers of that field.
+
+### Article 8
+
+To conduct the cooperative education, schools shall submit the following documents to the competent authority for approval:
+
+\1. A proposal of cooperative education program.
+
+\2. The credit and achievement test benchmarks to be adopted.
+
+\3. The vocational skills training plan for student participants.
+
+\4. Counseling plan for student participants.
+
+\5. The contract draft of cooperative education between the school and partner institution.
+
+\6. The training contract draft for student participants.
+
+\7. The evaluation report form of the partner institution.
+
+The counseling plan in Subparagraph 4 of Article 8 shall include life counseling and on site visits.
+
+### Article 9
+
+To examine the proposal mentioned in the previous Article, the competent authority shall organize a cooperative education examination panel consisted of 15 to 25 people; panel members shall be selected from scholars and experts, social justice advocates, industry representatives, labor union representatives, teachers’ organization representatives, teenagers’ group representatives, school representatives, parents’ group representatives, competent authority representatives and labor administration competent authority representatives; if necessary, an expert team can be organized to conduct on-site evaluation at partner institutions.
+
+The forementioned panel shall include at least one scholar or expert with specialties in labor and employment, and the gender ratio for both sexes in the panel shall not fall below 1/3.
+
+Regarding Paragraph 1, the composition and operation of the cooperative education examination panel and the expert team, the examination procedure, evaluation items and standards, results, and other matters to be followed shall be formulated by the central competent authority.
+
+The central competent authority shall routinely review partner institutions’ industrial categories.
+
+### Article 10
+
+Cooperative education curriculum shall be implemented according to the central competent authority’s curriculum regulations.
+
+Once student participants receive vocational skill training at partner institutions and are proved qualified in performance by schools, their training may be counted toward vocational skill training credits; those credits may not exceed one sixth of the required graduation credits. However, such credits can be extended up to 30 credits in special cases pending on the approval of the competent authority.
+
+The benchmark, calculation method and other related regulations regarding the waiver of graduation credits through vocational training shall be formulated by the central competent authority.
+
+Except for the vocational skill training credits in Paragraph 2 of this article, other cooperative education curriculum shall be implemented in Schools.
+
+### Article 11
+
+Schools shall complete the following matters prior to the starting of vocational skill training at partner institutions:
+
+\1. Provide student participants with basic or pre-training to equip them with background knowledge that involves the basic skills, occupational safety and health, work ethics, labor rights and interests of the relevant vocational category.
+
+\2. Invite partner institutions to jointly hold orientations, to explain to student participants and their parents the training content, and the rights and obligations of student participants during their training.
+
+The minimum hours of basic or pre-training shall be declared by the central competent authority in accordance with the Cooperative Education processing procedures. With regard to the minimum hours of courses concerning labor rights and interests shall be regulated after consultations with the central labor administration competent authority.
+
+The central competent authority shall consult the central labor administration competent authority on the compiling of labor rights and interests manual and provide such manual to the schools for their basic or pre-training. The content of the manual shall be examined and modified annually.
+
+Schools that manage Cooperative Education for overseas compatriot students shall organize basic Chinese language courses in subparagraph 1of paragraph 1 concerning basic or pre-training.
+
+### Article 12
+
+Schools shall not engage in any of the following situations when operating cooperative education:
+
+1.Sending student participants to partner institutions that have not been approved by the competent authority to receive vocational skills training.
+
+\2. Recall student participants from partner institutions without any legitimate reason.
+
+\3. Sending student participants to partner institutions to receive vocational skills training during schools’ teaching instruction period.
+
+\4. Discriminate against student participants after they file a appeal or request for mediation based on this Act.
+
+### Article 13
+
+Schools shall assign teachers to visit partner institutions without prior notice at least once every two weeks, in order to understand how student participants receive vocational skill training and whether partner institutions enforce training according to cooperative education contracts and the training contracts of student participants, to insure student participants are counseled toward receiving good training.
+
+Teachers shall report to schools immediately once they discover that partner institutions fail to operate based on vocational skill training plan or fail to abide by cooperative education contracts or the training contracts of student participants.
+
+After receiving teachers’ report, schools shall request partner institutions to improve their practices immediately, and properly follow up and record the improvement in details and submit these reports to the competent authority for their reviews and evaluation.
+
+Teachers assigned by schools in Paragraph 1 shall regularly attend seminars regarding labor human rights, labor rights and interests, and occupational safety and health, or take courses of continuing education.
+
+### Article 14
+
+The total of student participants, apprentices, foster workers, interns and other people that belong to the apprentices category, as defined in the Labor Standards Act, that are recruited by partner institutions, may not exceed 1/4 of the total labor force of the institutions; for individual partner institution, the number of people in rotation for each period of time may not be less than two.
+
+The total number of the recruited labor in preceding paragraph is calculated as 8 people when the actual members are equal or more than 6 but less than 8 people.
+
+The calculation of the total number of the recruited labor in Paragraph 1 and 2 does not include foreigners hired according to Subparagraph 10 and 11 of Paragraph 1 of Article 46 of the Employment Services Act.
+
+### Article 15
+
+Schools and partner institutions shall not agree on any considerations such as paying rewards, payment, gifts, bonus, rebates or commissions to the other party in the name of any nominal transactions.
+
+## Chapter III Cooperative Education Contracts and the Training Contracts of Student Participants
+
+### Article 16
+
+After the competent authority approves schools’ establishment of the cooperative education, schools shall sign cooperative education contracts with partner institutions, and submit the contracts to the competent authority for record; the contracts shall include the following matters:
+
+\1. Name of the cooperative education program.
+
+\2. Budget and agenda of the cooperative education program.
+
+\3. The vocational skill training plan for student participants.
+
+\4. The skill, life and career counseling to student participants provided by the partner institutions.
+
+\5. The establishment and operation of cooperative education coordination committee.
+
+\6. The number of students and the period of time assigned by schools for training at partner institutions.
+
+\7. Standards of credit calculation and performance evaluation.
+
+\8. Origin of incidents and procedures for schools to recall student participants.
+
+\9. Partner institutions shall accept the procedure and approach as requested by schools and visiting teachers for their improvement.
+
+\10. Appropriate arrangement of accommodations, transportation, living allowances and their adjustments, payment methods, and calculation standards.
+
+Regarding Subparagraph 3 in the previous Paragraph, vocational skill training plan of student participants shall include training courses, content, approaches, periods, daily schedule, break time, and legal holidays.
+
+### Article 17
+
+Based on Paragraph 1 of the previous Article on the content of cooperative education contracts, partner institutions shall sign the training contracts of student participants in written forms, and submit the contracts to the competent authority for examination; the contracts shall include the following matters:
+
+1.The vocational skills training plan of student participants.
+
+\2. Labor insurance and group insurance.
+
+\3. Issuance of training certificates.
+
+\4. The grounds and procedures for contract termination.
+
+\5. Arrangement of accommodations, transportation, living allowances and their adjustments, payment methods, and calculation standards.
+
+\6. Handling of appeals and mediation that are related to the rights and interests of student participants.
+
+Schools shall assist their student participants in signing their training contracts with partner institutions.
+
+If the student participants is a minor, the signing of training contract shall be granted with permission from his/her guardians.
+
+Regarding the format and content of student participants’ training contracts in Paragraph 1, the central competent authority shall formulate a contract template along with terms that shall and shall not be recorded.
+
+### Article 18
+
+Partner institutions shall not engage in the following behaviors:
+
+1.Require student participants to pay any training expenses.
+
+\2. Require student participants to pay deposit.
+
+\3. Formulate regulations of accommodations, transportation, living allowances and their adjustments, payment methods, and calculation standards that are not in accordance with Subparagraph 10 of Paragraph 1 of Article 16.
+
+\4. Deprive student participants of their rights in requesting damage compensation, or restrict the amount of damage compensation.
+
+\5. Give extra hours of training or promote products to student participants.
+
+\6. Require student participants to pay penalty for breach of contracts when they terminate contracts earlier than specified.
+
+\7. Deduct the living allowance of student participants when they violate working regulations.
+
+\8. Restrict the employment freedom of student participants after the termination of contracts.
+
+\9. Other relevant behaviors that deprive student participants of their rights and interests.
+
+The contract shall be void if any of the aforementioned terms is contained.
+
+### Article 19
+
+If student participants cause any incident that contributes to the termination of contracts during the training period at partner institutions, the partner institutions shall coordinate with schools to guidance their student participants within three days from the date the institutions become aware of the incident; partner institutions that do not follow this process within time limit may not use the incident as an excuse to terminate the training contracts of student participants.
+
+If the partner institutions coordinate with schools to guidance the student participants in accordance with the preceding paragraph and if no improvement is made in two weeks, the partner institutions may terminate the training contracts of the students and report it to the competent authority for record.
+
+### Article 20
+
+Student participants that encounter controversies due to cooperative education matters may request for schools’ mediation, or file appeals to schools’ competent authority.
+
+To conduct a mediation meeting regarding the previous Paragraph, schools shall invite representatives from partner institutions, the students and their parents, experts and scholars to participate, and shall have the competent authority representatives in attendance; during the meeting one person shall be elected as the chair of the meeting; minutes of the mediation meeting shall be recorded and submitted by schools to the competent authority for record. Partner institutions shall implement the resolutions reached in the mediation meeting.
+
+Mediation in Paragraph 1 does not affect other rights and remedies of student participants or partner institutions.
+
+To review the appeal regarding Paragraph 1, schools’ competent authority shall select 7 to 15 scholars and experts who have expertise in education, psychological counseling, law, labor affairs, etc. to form a Appeal Review Committee; the gender of both sexes shall exceed 1/3 in this committee; regulations of its organization, operation, and other relevant matters shall be formulated by the corresponding competent authorities.
+
+## Chapter IV Protection of the Rights and Interests of Student Participants
+
+### Article 21
+
+To protect the rights and interests of student participants, partner institutions shall fulfill the following obligations:
+
+1.Abiding by the training contract; partner institutions shall provide student participants with a decent training environment, where student participants are placed to receive training and to develop positive work attitudes, safety awareness and code of ethics.
+
+\2. The aforementioned training shall be related to the vocational category that the students participants are studying and shall pay attention to the physical and mental health of the students.
+
+\3. During the course of training, partner institutions shall assign instructors to supervise the vocational training of student participants and to provide them with counseling.
+
+\4. When scheduling training sessions for student participants, partner institutions shall not violate students’ rights and interests to attend classes in schools or to learn and receive training in other organizations.
+
+\5. Partner institutions shall increase the amount of living allowance to student participants annually based on their learning performance and seniority.
+
+\6. Articles of the Labor Insurance Act shall apply mutatis mutandis to student participants when partner institutions apply for labor insurance for the students.
+
+\7. Partner institutions shall have attendance records or attendance cards prepared for student participants, which keep track of students’ training. These records or cards shall be kept for one year.
+
+\8. Cooperative Education students shall receive physical or health examination in accordance with Occupational Safety and Health Act when they are doing activities in the training requiring special physical examination or health examination referred to Labor Health Protection Act.
+
+Partner institutions shall provide labor insurance for student participants, and the labor insurance shall specify starting date and expiration date, monthly covered salary and its adjustment, premiums, payment of premium, grace period for payment of premium, collection and handling of delinquency charges, insurance benefit calculation and payment, and other matters concerning insurance shall apply mutatis mutandis to Articles of the Labor Insurance Act and other relevant regulations.
+
+If student participants unlawfully violate the rights of others while engaging in vocational training, partner institutions shall be liable for the damage compensation. However, damage caused by the intentional misconduct or gross negligence on the part of student participants shall not be subject to the provisions of this paragraph.
+
+### Article 22
+
+Partner institutions shall provide living allowance and an itemized list of the allowance in accordance with students’ training contracts.
+
+The aforementioned living allowance is classified as subsidy for the occupational training, not as wage, salary or pay. Accordingly, the allowance is not included in Individual Income Tax. It shall be no less than the basic wage as stipulated in the Labor Standards Act and shall be paid in legal tender.
+
+Living allowance shall be paid each month directly to student participants in full amount, unless stipulated otherwise by law that relevant expenses may be deducted.
+
+Partner institutions shall not deduct living allowance in advance as penalty fees or compensation.
+
+### Article 23
+
+Prior to the signing of training contracts with student participants, partner institutions shall deposit a certain amount of funds with schools, which shall then deposit the funds to their special accounts. When students’ requests for living allowance or the compensation mentioned in Paragraph 9 of Article 24 are denied by partner institutions, the requests shall then be granted through the funds. Schools shall return the rest of the funds to partner institutions following the terminations of students’ training contracts.
+
+The amount of the fund to be deposited shall be formulated by the central competent authority.
+
+### Article 24
+
+Student participants’ training hours shall not exceed eight hours a day. The total number of training hours every week shall not be more than forty hours, and training shall not take place between eight o’clock in the evening and six o’clock in the next morning.
+
+When student participants are trained for four consecutive hours, they shall have a minimum of a thirty-minute break.
+
+During the course of the training, student participants shall have at least two days off every seven days as regular holidays.
+
+During the course of the training, student participants shall take the holidays off as stipulated in the Labor Standards Act and in related regulations.
+
+Female students may apply for a one-day menstrual leave each month if they have difficulties receiving training due to menstrual period.Partner institutions shall not cut female students’ living allowance because of menstrual leave, and schools shall exclude menstrual leave from scoring and evaluation criteria.
+
+Partner institutions may apply for the competent authority’s approval of setting different starting and ending time for students’ training and breaks, if the institutions have special needs because of their business nature, job characteristics, seasons, locations, or industrial categories and meet the following requirements:
+
+\1. The student participants have reached the age of sixteen.
+
+\2. The partner institutions provide the necessary safety and health facilities.
+
+\3. If no public transportation is available, the partner institutions will provide transportation or arrange dormitories for student participants.
+
+Regarding the previous Paragraph, partner institutions and student participants that have both agreed to different training time shall not have training sessions between ten o’clock in the evening and six o’clock in the next morning.
+
+The starting and ending time of the training, including the training time and the breaks in between shall not exceed twelve hours in total each day.
+
+If partner institutions violates regulations in Paragraph 1 to 5, 7, or the preceding paragraph, they shall pay the students two times the amount of the living allowance converted to that number of hours as compensation for the number of violation hours ; if the number of violation hours  is less than one hour, the number of hours shall be counted as one hour.
+
+### Article 25
+
+In the event of death, incapacity, injury, or illness caused by an accident that occurs while student participants are engaged in training activities, the partner institutions shall compensate the students by applying the provisions of Chapter 7 of the Labor Standards Act, which stipulates that the students shall be compensated for the occupational accident.
+
+The standards of calculating compensation shall be based on wage that is no lower than the basic wage stipulated in the Labor Standards Act.
+
+Student participants that are not insured by the Labor Insurance shall apply mutatis mutandis the relevant regulations concerning workers not insured by the Labor Insurance as stipulated in the Act for Protecting Worker of Occupational Accidents.
+
+Schools shall take the initiative to assist student participants in their request for compensation or application for assistances in accordance with the first or the aforementioned Paragraph.
+
+### Article 26
+
+During the course of the training, partner institutions shall not discriminate against any student participant on the basis of race, class, language, thought, religion, political party, place of origin, place of birth, age, marital status, appearance, facial features, or physical or mental disabilities.
+
+Partner institutions shall consult with the schools to provide individualized assistance for student participants with disabilities.
+
+Partner institutions shall not discriminate against student participants when they file appeals or request for mediation according to this Act, or when they request for conciliation or file a lawsuit according to Labor Incident Act.
+
+The legal doctrine of discrimination shall be based mutatis mutandis on Employment Services Act and the relevant regulations.
+
+### Article 27
+
+During the course of the training, partner institutions shall not discriminate against student participants on the basis of their gender or sexual orientation, and shall prevent the occurrence of any sexual harassment. Upon becoming aware of any incident of sexual harassment, the partner institutions shall take effective corrective action and remedial measures immediately.
+
+During the course of the training, if the students suffer sexual harassment or discrimination due to their gender identity or sexual orientation, the filing of appeals, its legal requirements, and the partner institutions’ liability to pay compensation for damage shall be based mutatis mutandis on the Act of Gender Equality in Employment and relevant regulations.
+
+### Article 28
+
+Upon the expiration of the training contract of the student participants or its termination due to other reasons, the partner institutions shall issue a written training certificate in accordance with the provisions of Article 17, Paragraph 1, Subparagraph 3.
+
+The training certificate mentioned in the previous Paragraph shall include the vocational category, training period, and training hours.
+
+If student participants obtains training certificates and perform well, the partner institutions shall give priority to them in employment.
+
+## Chapter V Supervision over the Cooperative Education
+
+### Article 29
+
+The competent authorities at all levels shall, in conjunction with the local labor administration competent authority, review and examine the cooperative education between schools and partner institutions; the items, methods, criteria, rewards and penalties of the assessment, as well as other matters to be observed, shall be determined by the central competent authority.
+
+In addition to the previous assessment, the labor administration competent authority may arrange labor inspection of partner institutions.
+
+### Article 30
+
+When the competent authorities at all levels conduct examinations in accordance with the provisions of the preceding Article, and find that the partner institutions have violated the regulations on construction, fire fighting, labor safety and health, sanitation, or other matters, they shall inform the purposive authority to address these issues in accordance with the relevant regulations.
+
+Partner institutions that give priority to the employment of excellent student participants in accordance with the provisions of Paragraph 3 of Article 28 may be listed for future references by the competent authority in the following academic years.
+
+## Chapter VI Penalties
+
+### Article 31
+
+Schools that violate Paragraph 1, 3 or 4 of Article 12 shall be subject to a fine of not less than NT$50,000 and not more than NT$ 250,000 for each violation. A serious violation may result in the reduction of the number of students enrolled in the cooperative education program in the next academic year, the termination of the enrollment of some of the cooperative education classes, or the suspension of the cooperative education program for two years.
+
+### Article 32
+
+Partner institutions that engage in any of the following situations shall be subject to a fine of not less than NT$50,000 and not more than NT$250,000 for each violation; any institution that fails to make improvements after being fined a second time shall be prohibited from participating in the cooperative education program in the next three years, and the name of the institution as well as the name of the person in charge of the institution shall be revealed to the public:
+
+\1. Violation of Article 14 by over-recruiting student participants or failing to reach the minimum number of people in rotation in each period.
+
+\2. Commitment of the violation of Paragraph 1 of Article 18.
+
+\3. Failure to fulfill the obligation to protect the rights and interests of student participants stipulated in Subparagraph 1 to 3, 5, 7 or 8 of Paragraph 1 of Article 21.
+
+\4. Violation of Article 22 by failing to provide student participants with living allowance and an itemized list of the allowance as stipulated in students’ training contracts, failing to provide living allowance no less than the basic wage as stipulated in the Labor Standards Act, failing to provide living allowance in the legal tender, failing to provide the full amount of living allowance each month, or deducting living allowance in advance.
+
+\5. Failure to deposit funds in accordance with Article 23.
+
+\6. Failure to schedule students’ training time and breaks according to Paragraph 1 to 8 of Article 24, or failure to compensate students in accordance with Paragraph 9 of Article 24.
+
+\7. Failure to make compensation payment to student participants in accordance with Paragraph 1 and 2 of Article 25.
+
+\8. Violation of Paragraph 1 and 3 of Article 26 by discriminating against student participants, or failure to provide individualized assistance in accordance with Paragraph 2 of Article 26.
+
+\9. Violation of Paragraph 1 of Article 27 by discriminating against student participants, failing to prevent the occurrence of any sexual harassment, or failing to take effective corrective action and remedial measures immediately.
+
+Partner institutions that violate Subparagraph 6 of Paragraph 1 or Paragraph 2 of Article 21 shall be punished by the labor insurance competent authority according to the Labor Insurance Act. Nonetheless, partner institutions that violate Subparagraph 6 of Paragraph 1 of Article 21 by failing to provide labor insurance to student participants, and thus committing the violation stipulated in Paragraph 3 of Article 25, shall be punished by the central labor administration competent authority in accordance with the Act for Protecting Worker of Occupational Accidents.
+
+### Article 33
+
+Schools and partner institutions that violate Article 15 by engaging in any agreement on consideration such as rewards or commissions to the other party in the name of any nominal transaction shall be subject to a fine of not less than NT$50,000 and not more than NT$ 250,000 for each violation.
+
+When representatives, administrators or any other agents that represent the schools or the partner institutions execute their duties and result in the imposition of penalties on the schools and the institutions pursuant to the previous Paragraph, these people shall be subject to the same amount of fine.
+
+### Article 34
+
+Schools with any of the following conditions shall be ordered to make improvements within a specified period of time; those that fail to make improvements within the specified period shall be subject to a fine of not less than NT$10,000 and not more than NT$50,000 for each violation; and schools in serious cases may be subject to a reduction in the number of students to be enrolled in the cooperative education program in the next academic year, the cessation of enrollment in some of the cooperative education classes, or the suspension of the cooperative education program for a period of one to two years:
+
+\1. Failure to count students’ training toward their vocational skill training credits according to Paragraph 2 of Article 10.
+
+\2. Failure to provide student participants with basic or pre-vocational training before they receive vocational skills training at partner institutions in accordance with the provisions in Subparagraph 1, or the number of hours set forth in Subparagraph 2 of Paragraph 1 of Article 11.
+
+\3. Failure to invite partner institutions to co-organize orientation sessions before the start of student training at partner institutions in accordance with Subparagraph 2 of Paragraph 1 of Article 11.
+
+\4. Violation of Paragraph 2 of Article 12 by recalling student participants from partner institutions without any legitimate reason.
+
+\5. Failure to assign teachers to visit partner institutions, to request partner institutions to make improvements, to conduct appropriate follow-ups, and to keep detailed records in accordance with Article 13, Paragraph 1 or Paragraph 3.
+
+\6. Failure to conduct a mediation meeting, to record minutes of the mediation meeting, and to submit them to the competent authority for examination in accordance with Paragraph 2 of Article 20.
+
+\7. Failure to take the initiative to assist student participants in their request for compensation or application for assistances according to Paragraph 4 of Article 25.
+
+### Article 35
+
+Partner institutions that engage in any of the following situations shall be subject to a fine of not less than NT$10,000 and not more than NT$ 50,000 for each violation.; any institution that fails to make improvements after being fined a second time shall be prohibited from participating in the cooperative education program in the next three years, and the name of the institution as well as the name of the person in charge of the institution shall be revealed to the public:
+
+\1. Failure to submit the training contracts of student participants to the competent authority for examination in accordance with Paragraph 1 of Article 17.
+
+\2. Failure to coordinate with schools to guidance the student participants within three days from the date of the termination of the contract attributable to the student participants in accordance with Paragraph 1 of Article 19, and to terminate students’ training contracts directly due to the termination of the contract.
+
+\3. Failure to comply with Paragraph 2 of Article 20, or follow the resolution reached in the mediation meeting.
+
+\4. Violation of Paragraph 1 or Paragraph 2 of Article 28 by failing to issue written training certificates to the student participants or failing to state in the certificates the type of training, the duration of training, and the hours of training.
+
+### Article 36
+
+Partner institutions that violate Subparagraph 4 of Paragraph 1 of Article 21 shall be subject to a fine of not less than NT$10,000 and not more than NT$ 50,000 for each violation.
+
+## Chapter VII Supplementary Provisions
+
+### Article 37
+
+Since the enforcement of this Act, relevant regulations stipulated in Chapter 8 of the Labor Standards Act that are applicable mutatis mutandis to apprentices shall no longer be applicable to student participants.
+
+### Article 38
+
+Cases of cooperative education programs approved before the enforcement of this Act shall be handled in accordance with the original regulations, except for those applicable to Act 23.
+
+### Article 39
+
+This Act will be enforced on the date of promulgation.
+
+## History
+
+\1. Promulgated per January 2nd, 2013 Presidential Order Hua-Tsung (1)-Yi-Tzu No. 10100290761.
+
+\2. Article 4, 9, 11, 13, 14, 21-26, 29, and 32 were amended and promulgated by Presidential Order Hua-Tsung (1)-Yi-Tzu No. 11000054051 on June 16, 2021.

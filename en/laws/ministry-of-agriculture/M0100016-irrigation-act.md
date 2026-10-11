@@ -1,0 +1,337 @@
+---
+title: "Irrigation Act"
+title_zh: "農田水利法"
+identifier: "M0100016"
+type: act
+law_level: "法律"
+category: "行政＞農業部＞農田水利目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2020-07-22
+last_amended: 2020-07-22
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0100016"
+retrieved: 2026-10-12
+---
+
+# Irrigation Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-agriculture/M0100016-irrigation-act.md](../../../zh/laws/ministry-of-agriculture/M0100016-irrigation-act.md)) is authoritative.
+
+## Chapter 1:General Provisions
+
+### Article 1
+
+The purpose of this Act is to ensure food safety and agricultural sustainability; promote the advancement of farmland water conservancy activities; and improve the construction, maintenance, and management of farmland water conservancy facilities, in order to stabilize the supply of irrigation water needed for the development of agriculture, expand irrigation services; maintain agricultural production, enhance the value of utilization of farmland, and effectively manage the institutional reform of the irrigation associations.
+
+### Article 2
+
+The Competent Authority of this Act is the Council of Agriculture of the Executive Yuan.
+
+### Article 3
+
+Definitions of terms used in this Act are as follows:
+
+1.Farmland water conservancy activities: This refers to the use of artificial or natural methods to undertake farmland irrigation, farmland drainage, or related activities in farmland water conservancy activities areas or within farmland water conservancy facilities areas as demarcated by the Competent Authority.
+
+2.Farmland water conservancy facilities: This refers to structures and their affiliated structures used for taking water, drawing water, conveying water, storing water, drainage, or other activities needed for farmland water conservancy under the jurisdiction of irrigation associations (before the coming into effect of this Act) or newly erected by the Competent Authority (after the coming into effect of this Act).
+
+### Article 4
+
+The Competent Authority shall demarcate farmland water conservancy activities areas based on drainage basin, geographical environment, and economic benefits, and announce the demarcations to the public; the same applies to the alteration or elimination of such areas. In cases where such areas infringe on indigenous people’s regions, the Competent Authority shall consult with the central Competent Authority responsible for indigenous affairs and make public announcements of the resolutions.
+
+The Competent Authority shall designate irrigation systems within the farmland water conservancy activities areas mentioned in the previous Paragraph, based on the condition of the water source, overall planning of the regional water resource, agricultural operational planning, and the functions of farmland water conservancy facilities. The policies shall be announced to the public; the same applies to the amendment or revocation of the policies.
+
+Regulations governing the standards for demarcation of farmland water conservancy activities areas, their alteration, or their elimination (as mentioned in Paragraph 1 of this Article) and the standards for designating irrigation systems, their alteration, or elimination (as mentioned in the preceding Paragraph) and for other relevant matters shall be stipulated by the Competent Authority.
+
+## Chapter 2: The Demarcation and Management of Farmland Water Conservancy Facilities Areas
+
+### Article 5
+
+The Competent Authority shall demarcate and publicize farmland water conservancy facilities areas, as well as manage and maintain the facilities; the same applies to the alteration or elimination of such areas. In cases where such areas infringe on indigenous people’s regions, the Competent Authority shall make public announcements in cooperation with the central Competent Authority for indigenous affairs.
+
+Regulations governing the standards for demarcation of farmland water conservancy facilities areas as mentioned in the preceding Paragraph, their management and maintenance, alteration, elimination, or other relevant matters shall be stipulated by the Competent Authority in cooperation with the central Competent Authority for water resources.
+
+### Article 6
+
+Farmland drainage in farmland water conservancy activities areas shall conform to runoff allocation plan announced based on the Water Act and to flood prevention plans of the Competent Authority for water resources, to share flooding in the regional areas.
+
+### Article 7
+
+When the planning, design, and supervision of farmland water conservancy facilities construction projects go beyond a certain scale, the relevant professional engineer certification shall be registered according to law. However, when the Competent Authority is itself executing the project, it could be executed by a member of the Competent Authority who has, legally received relevant certifications for mechanics.
+
+The “certain scale” mentioned in the previous Paragraph shall be announced by the Competent Authority.
+
+Projects for farmland water conservancy facilities in farmland implemented based on the Farmland Readjustment Act shall not be subject to the provisions of Paragraph 1 of this Article.
+
+### Article 8
+
+No one shall arbitrarily alter or demolish farmland water conservancy facilities. However, in order to increase the utilization benefits of land, serve the public interest, provide land for the construction of infrastructure, or that the surrounding farmland has already been rezoned as nonagricultural use, an applicant may, with an attached plan, apply to the Competent Authority, and after receiving authorization, may alter or demolish such facilities within the scope of the authorization; the applicant shall bear the expense.
+
+Regulations governing the qualifications of applicants as mentioned in the preceding Paragraph, application procedures, the required contents of plans, documents that shall be attached, conditions for authorization, withdrawal of authorization, and other relevant matters shall be stipulated by the Competent Authority.
+
+### Article 9
+
+Land for new construction or improvement of farmland water conservancy facilities shall be acquired through appropriation, establishment of superficies, land easement or rental, purchase by negotiated price, agreement of the landowner, or expropriation.
+
+### Article 10
+
+When there is damage to farmland water conservancy facilities that poses an imminent threat to citizens’ lives or their property, the Competent Authority may demolish the facilities; requisition materials, machinery, facilities, or land needed for emergency actions; dispatch manpower; or adopt other necessary emergency measures.
+
+In cases where citizens suffer loss as a result of demolition, requisitions, drafting, or other emergency measures as mentioned in the preceding Paragraph, they may ask for compensation from the Competent Authority. However, if the citizen is at fault for the loss, no compensation may not be granted.
+
+Compensation for loss as mentioned in the preceding Paragraph shall be paid in cash, to a maximum amount of the actual loss suffered. Applicants for compensation must apply within two years of becoming aware of the loss. However, in cases where five years have passed following the occurrence of the loss, no application may be made.
+
+Regulations governing compensation or calculation of value as stipulated in Paragraph 2 of this Article, their standards, processes, payment methods, and other relevant matters that must be followed shall be stipulated by the Competent Authority.
+
+### Article 11
+
+Land allocated to irrigation associations before the coming into effect of this Act shall maintain its existing usage.
+
+When land as mentioned in the previous Paragraph is state-owned land that can be appropriated for use without charge, the Competent Authority shall designate a subordinate agency, and after getting the agreement of the managing agency, shall, jointly with this agency, arrange for alteration of the registered managing agency, and the land shall be managed by the designated subordinate agency.
+
+Land as mentioned in the previous Paragraph may not be listed as an asset of the Farmland Water Conservancy Activities Operational Fund set up in accordance with Paragraph 1 of Article 22 of this Act.
+
+## Chapter 3: Irrigation and Drainage Management
+
+### Article 12
+
+Farmland water conservancy facilities shall not be concurrently used for other purposes. However, if the proposed alternate use does not interfere with the original functions or maintenance of the facilities, applicants can apply authorization from the Competent Authority by submitting a plan for concurrent use.
+
+Regulations governing concurrent other uses as mentioned in the preceding Paragraph, their application procedures, the required contents of plans, documents that shall be attached, conditions for authorization, withdrawal of authorization, and other relevant matters shall be stipulated by the Competent Authority.
+
+### Article 13
+
+Within farmland water conservancy facilities areas, no one shall, without the authorization of the Competent Authority, construct irrigation channels (ditches), box culverts, drainage pipelines, or other structures connected to farmland water conservancy facilities (hereinafter referred to as “unauthorized structures”).
+
+For public drainage systems facilities that were established before the coming into effect of this Act, they may continue to be used as before, and the previous Paragraph does not apply to them. However, in cases of improvement, restoration, or demolition of such facilities, there must still be an application for authorization as mentioned in the preceding Paragraph.
+
+For unauthorized structures built in farmland water conservancy facilities areas before the coming into effect of this Act, the Competent Authority reserves the power to prohibit their use, mandate closure, or instruct the builder to facilitate their demolition. In cases where there are concerns regarding the potential risks such structures may pose to human health, to agricultural industries, or to biosafety, the Competent Authority may immediately demolish them or take other necessary measures.
+
+Regulations governing applications as mentioned in Paragraph 1 of this Article, their application procedures, documents that shall be attached, conditions for authorization, withdrawal of authorization, and other relevant matters shall be stipulated by the Competent Authority.
+
+### Article 14
+
+Within farmland water conservancy facilities areas, no one shall, without the authorization of the Competent Authority, release non-farmland drainage water; this is prohibited in principle for channels specially for the use of irrigation.
+
+For cases requesting the release of non-farmland drainage water as mentioned in the preceding Paragraph, an application, with an attached plan, should be submitted to the Competent Authority for authorization. Quality of drainage water should conform to publicly announced irrigation water quality standards.
+
+Regulations governing the water quality standards as mentioned in the preceding Paragraph, application procedures, the required contents of plans, documents that shall be attached, conditions for authorization, withdrawal of authorization, and other relevant matters shall be stipulated by the Competent Authority acting in coordination with the central Competent Authority for environmental protection.
+
+### Article 15
+
+Guidelines governing testing methods used by the Competent Authority for irrigation water quality as mentioned in Paragraph 2 of the preceding Article, quality control, and other relevant measures shall be stipulated by the Competent Authority acting in coordination with the central Competent Authority for environmental protection.
+
+### Article 16
+
+The following actions are prohibited in farmland water conservancy facilities areas:
+
+\1. Obstructing water channels.
+
+\2. Damaging ponds, water channels, or their affiliated structures.
+
+\3. Opening, closing, moving, or damaging sluice gates or their affiliated structures.
+
+\4. Discarding spent clay or waste.
+
+\5. Removing or piling up soil or stone.
+
+\6. Other actions that impede the safety or proper functioning of farmland water conservancy facilities.
+
+The unauthorized taking of irrigation water in farmland water conservancy facilities areas is prohibited. However, in cases where taking of irrigation water occurs in designated irrigation systems as mentioned in Paragraph 2 of Article 4 or where authorization has been applied for and received from the Competent Authority, this prohibition shall not apply.
+
+Regulations governing the applications as mentioned in the proviso in the preceding Paragraph, their application procedures, requisite document attachments conditions for authorization, withdrawal of authorization, and other relevant matters shall be stipulated by the Competent Authority.
+
+### Article 17
+
+The Competent Authority may, depending on local irrigation requirements, set up water conservancy committees in farmland water conservancy activities areas. Each committee comprises one unpaid chairman, who assists in promoting the management of irrigation water under its jurisdiction.
+
+Regulations governing water conservancy committees as mentioned in the preceding Paragraph, their establishment, duties, membership, methods for producing a committee chairman, scope of their authority, and other relevant matters shall be stipulated by the Competent Authority.
+
+## Chapter 4: Irrigation Management Organizations and Personnel in Farmland Water Conservancy Activities Areas
+
+### Article 18
+
+The Competent Authority, in order to arrange for irrigation management in farmland water conservancy activities areas, may establish irrigation management organizations within its subordinate agencies, to handle the following matters:
+
+\1. Distribution and management of farmland water conservancy water.
+
+\2. Maintenance of orderly use of irrigation water and guidance of water conservancy committee affairs.
+
+\3. Construction, management, improvement, and maintenance of farmland water conservancy facilities.
+
+\4. Disaster prevention and post-disaster response measures for farmland water conservancy facilities.
+
+\5. Personnel management of professional staff in irrigation management organizations (hereafter known as farmland water conservancy personnel).
+
+\6. Management of and revenue earning from assets belonging to the Farmland Water Conservancy Activities Operational Fund.
+
+Training and advanced study for full-time professional staff in irrigation management organizations as mentioned in the preceding Paragraph shall be handled by a juridical person set up with funding provided by the Competent Authority.
+
+Regulations governing the establishment of irrigation management organizations as mentioned in Paragraph 1 of this Article, the scope of their authority, and other relevant matters shall be stipulated by the Competent Authority.
+
+### Article 19
+
+For personnel employed by appointment by an Irrigation Association under Article 22 of this Act of Irrigation Association Organization prior to the coming into effect of this Act, the Competent Authority shall, after the coming into effect of this Act, continue to employ them as farmland water conservancy personnel; moreover, their positions should at an equivalent grade to the positions they held when originally employed by an Irrigation Association.
+
+Recruitment and assessment of newly employed farmland water conservancy personnel in irrigation management associations as mentioned in preceding Paragraph shall be conducted by the Competent Authority.
+
+Regulations governing farmland water conservancy personnel,  , performance appraisals, incentives or punishments, retirement, dismissal, bereavement compensation, insurance, and other protections of their rights, as well as personnel management, shall be stipulated by the Competent Authority.
+
+The provisions of the Labor Standards Act do not apply to farmland water conservancy personnel.
+
+### Article 20
+
+For technicians, janitorial staff, contract employees whose hiring has been approved by the Competent Authority, and security personnel hired by an Irrigation Association prior to the coming into effect of this Act, subordinate agencies of the Competent Authority shall, after the coming into effect of this Act, continue to employ them, based on relevant laws and regulations and their original hiring conditions.
+
+The Labor Standards Act does not apply to contract employees as mentioned in the preceding Paragraph.
+
+### Article 21
+
+The Competent Authority shall invite scholars and experts, local people, and farmers who actually cultivate the land to organize farmland water conservancy advisory council in each area; the number of farmers shall not be lower than two-thirds of the council.
+
+The water conservancy advisory councils as mentioned in the previous Paragraph may provide water supply services, mediation of disputes between farmers, and other relevant consultation services; the members of water conservancy advisory council shall be unpaid.
+
+## Chapter 5: Funding for Farmland Water Conservancy Activities
+
+### Article 22
+
+The Competent Authority shall, in order to handle water conservancy activities and fund the operations of irrigation management organizations as mentioned in Article 18, establish the Farmland Water Conservancy Activities Operational Fund, whose funding sources shall be as follows:
+
+\1. Appropriations of the governmental budget.
+
+\2. Income from fees collected for applications in farmland water conservancy facilities areas based on Paragraph 1 of Article 12, Paragraph 1 of Article 13, and Paragraph 2 of Article 14, as well as fees collected from users based on the provisions of Article 25.
+
+\3. Rental and interest income.
+
+\4. Income from asset disposal or revenue from assets activation.
+
+\5. Other income.
+
+The uses of the Operational Fund as mentioned in the preceding Paragraph shall be as follows:
+
+\1. Expenditures for the construction, improvement, maintenance, or management of farmland water conservancy activities.
+
+\2. Expenditures for matters related to prevention of disasters and post-disaster response measures for farmland water conservancy activities.
+
+\3. Personnel costs for staff for farmland water conservancy activities.
+
+\4. Expenditures for matters related to the rental or acquisition of land needed for the use of farmland water conservancy facilities belonging originally to an Irrigation Association.
+
+\5. Other expenditures related to farmland water conservancy activities.
+
+The Farmland Water Conservancy Activities Operational Fund as mentioned in Paragraph 1 of this Article shall set up individual accounts for each farmland water conservancy activity.
+
+The income listed in the Sub-Paragraphs of Paragraph 1 of this Article shall be exempted from the Business Tax.
+
+### Article 23
+
+Following the organizational reform of the Irrigation Associations, their assets and debts shall be summed up and taken over by the state, and incorporated into and managed by the Farmland Water Conservancy Activities Operational Fund set up in accordance with Paragraph 1 of the preceding Article.
+
+When assets are transferred to the Farmland Water Conservancy Activities Operational Fund for management as mentioned in the preceding Paragraph, the transfer shall be exempt from all taxes.
+
+To finance the costs of farmland water conservancy activities, assets taken over by the state as mentioned in Paragraph 1 of this Article shall be handled in a manner to activate revenue in their use, revenues, or disposition, and are not subject to the restrictions in Article 28, Chapter 4, or Chapter 6 of the National Property Act; regulations governing the assets to be activated, fee, and other relevant matters shall be stipulated by the Competent Authority. Any agency which makes receives appropriations according to law shall arrange appropriations with charge.
+
+Assets as mentioned in Paragraph 1 of this Article shall not be subject to the limitations related to uncompensated appropriation or substitution of public land in the proviso in Paragraph 1 of Article 43 of the Land Expropriation Act, in Paragraph 1 of Article 60, of the Equalization of Land Rights Act, or in Paragraph 2 of Article 11 of the Rural Community Land Readjustment Act.
+
+After organizational reform of Irrigation Associations, in cases where as a result of reorganization of land ownership it is discovered that land originally belonging to an Irrigation Association as registered by the land administration of the relevant municipality, county, or city has the notation “state-owned” in the column for the owner, the managing organization shall be a subordinate agency designated by the Competent Authority.
+
+### Article 24
+
+To meet the needs of maintaining the operations of farmland water conservancy facilities, the Competent Authority shall appropriate funding in the annual budget to the Farmland Water Conservancy Activities Operational Fund set up on the basis of Paragraph 1 of Article 22 of this Act.
+
+The standards for calculating the yearly appropriation mentioned in the preceding Paragraph shall be stipulated by the Competent Authority.
+
+### Article 25
+
+In cases where the topography requires the Competent Authority to supply irrigation water through pressurization, the Competent Authority may collect additional fees related to the operation and maintenance of facilities.
+
+The fee-charging standards as mentioned in the previous Paragraph shall be stipulated by the Competent Authority.
+
+### Article 26
+
+The Farmland Water Conservancy Activities Operational Fund shall each year appropriate part of the proceeds from asset disposal for the rental or acquisition of usage rights of land that shall continue to be used as before as stipulated in Paragraph 1 of Article 11 of this Act.
+
+## Chapter 6: Penalty Provisions
+
+### Article 27
+
+Violations of Paragraph 1 of Article 16 that endanger public safety shall be sentenced to imprisonment for not more than five years; in addition thereto, a fine of not less than NT$100,000 but no more than NT$500,000 may be imposed.
+
+If an offense results in death, the offender shall be sentenced to  life imprisonment or imprisonment for not less than seven years , and in addition thereto, a fine of not less than NT $200,000 but no more than NT$1 million may be imposed. If an offense results in serious physical injury, the offender shall be sentenced to imprisonment for not less than three years but not more than ten years , and in addition thereto, a fine of not less than NT$150,000 but no more than NT$600,000 may be imposed.
+
+### Article 28
+
+A person who by violence, threats or other illegal means, compels management personnel to open or close a water or sluice gate in farmland water conservancy facilities areas shall be sentenced to imprisonment for not more than five years, short-term imprisonment; in lieu thereof, or in addition thereto, a fine of not not less than NT$60,000  but no more than NT$300,000 may be imposed.
+
+Violations as mentioned in the preceding Paragraph that endanger public safety shall be sentenced to imprisonment for not more than seven years; in addition thereto, a fine of not less than NT$100,000 but no more than NT$500,000 may be imposed.
+
+In cases in which violations as mentioned in the preceding two paragraphs are committed by groups of people shall be subject to the punishment prescribed for such an offense by increasing it up to one half.
+
+An attempt to commit an offense specified in Paragraph 1 of this Article shall be punishable.
+
+### Article 29
+
+Violations of Paragraph 1 of Article 14 of this Act,  in which persons release non-farmland drainage water without the authorization of the Competent Authority, must be punished by a fine  of not less than NT$30,000 but no more than NT$600,000.
+
+The failure of non-farmland drainage water released with authorization as mentioned in Paragraph 2 of Article 14 of this Act, to conform to water quality standards must be punished by a fine of not less than NT$3,000 but no more than NT$30,000.
+
+When the person committing a violation as mentioned in the preceding Paragraph is part of an enterprise announced by the Competent Authority, the act must be punished by a fine of not less than NT$3,000 but no more than NT$600,000.
+
+In any of the situations mentioned in the preceding three Paragraphs, where there are also concerns about a hazard posed to agricultural industries, biosafety, or human health, the maximum fine may be increased to NT$20 million.
+
+For cases of offenders penalized based on the preceding four Paragraphs, the Competent Authority may order the offender to improve within a specified time limit; in cases in which improvements have not been completed within the specified time limit, the offender may be punished separately for each additional violation. In serious cases, the drainage water release authorization may be withdrawn.
+
+### Article 30
+
+In any of the following situations, the Competent Authority must impose a fine of not less than NT$6,000 but no more than NT $30,000, and may order the offender to improve within a specified time limit; in cases in which improvement has not been completed within the specified time limit, the offender may be punished separately for each additional violation.
+
+\1. Violations of Paragraph 1 of Article 8 of this Act, in which farmland water conservancy facilities are altered or demolished without authorization from the Competent Authority or in which alteration or demolition goes beyond the scope of the authorization.
+
+\2. Violations of Paragraph 1of Article 12 of this Act, in which concurrent use is made without authorization from the Competent Authority.
+
+\3. Violations of Paragraph 1of Article 13 of this Act, in which unauthorized structures are set up within farmland water conservancy facilities areas without the authorization of the Competent Authority.
+
+\4. Violations of Paragraph 1of Article 16 of this Act, for cases of prohibited actions in farmland water conservancy facilities areas.
+
+\5. Violations of Paragraph 2 of Article 16 of this Act, in which irrigation water in farmland water conservancy facilities areas is taken without the authorization of the Competent Authority.
+
+### Article 31
+
+In situations mentioned in Paragraph 1 of Article 29 or in Subparagraph 4 or 5 of the preceding Article of this Act, if the offense is deemed minor, the offender may initially receive an order for remediation within a stipulated timeframe. Upon successful completion of the improvements, the punishment may be reduced or waived.
+
+The standards for determining the insignificance of the offenses and the guidelines for reducing or waiving punishments as mentioned in the preceding Paragraph shall be stipulated by the Competent Authority.
+
+## Chapter 7: Supplementary Provisions
+
+### Article 32
+
+For uses of the following types of land for purposes other than water conservancy activities applied for according to law, the approval of the Competent Authority shall be obtained:
+
+\1. Land used for activities of an Irrigation Association prior to the coming into effect of this law and whose land use category is water conservancy land.
+
+\2. Land that is legally appropriated, purchased at a negotiated price, or expropriated by the Competent Authority for the use of water conservancy.
+
+\3. Land which is announced as being in a farmland water conservancy facilities area and whose category is water conservancy land based on Paragraph 1 of Article 5 of this Act.
+
+A detailed inventory of land as mentioned in the previous Paragraph shall be announced by the Competent Authority.
+
+### Article 33
+
+The Enforcement Rules of this Act shall be stipulated by the Competent Authority.
+
+### Article 34
+
+The date when this Act comes into effect shall be stipulated by the Executive Yuan.
+
+Starting from the date when this Act comes into effect, the Act of Irrigation Association Organization shall no longer apply.
+
+## History
+
+\1. The enacted Act with all 34 articles was promulgated by the Presidential Decree hua-zong-yi-jing-zi No. 10900083031 on July 22, 2020. The date when this Act comes into effect shall be stipulated by the Executive Yuan.
+
+The Act was set to be effective since October 1, 2020 by the Executive Yuan Order yuan-tai-nong-zi No. 1090029805 on September 9, 2020.
+
+The announcement was made on July 27, 2023 by the Executive Yuan Order yuan-tai-gui-zi No. 1125014346. The relevant matters set out in Article 2, Subparagraphs 1, 2 of Article 3, Article 4, Article 5, Paragraphs 1, 2 of Article 7, Article 8, Paragraphs 1,2,4 of Article 10, Paragraph 2 of Article 11, Article 12, Paragraphs 1,3,4 of Article 13, Article 14, Article 15, Paragraphs 2,3 of Article 16, Article 17, the preamble of Paragraph 1, and Paragraphs 2,3 of Article 18, Paragraphs 1,2,3 of Article 19, Paragraph 1 of Article 20, Paragraph 1 of Article 21, the preamble of Paragraph 1 of Article 22, Paragraphs 3,5 of Article 23, Article 24, Article 25, Paragraphs1,3,5 of Article 29, the preamble and Subparagraphs 1,2,3,5 of Article 30, Paragraph 2 of Article 31, the preamble , Subparagraph 2 of Paragraph 1, and Paragraph 2 of Article 32 and Article 33 pertaining to “Council of Agriculture, Executive Yuan” shall be handled by “Ministry of Agriculture” as governing body, effective August 1, 2023.

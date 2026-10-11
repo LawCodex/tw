@@ -1,0 +1,385 @@
+---
+title: "Educational Association Act"
+title_zh: "教育會法"
+identifier: "D0050108"
+type: act
+law_level: "法律"
+category: "行政＞內政部＞合作及人民團體目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1931-01-27
+last_amended: 2021-01-27
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0050108"
+retrieved: 2026-10-12
+---
+
+# Educational Association Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-the-interior/D0050108-educational-association-act.md](../../../zh/laws/ministry-of-the-interior/D0050108-educational-association-act.md)) is authoritative.
+
+## Chapter Ⅰ General Principles
+
+### Article 1
+
+The purpose of educational association is to research education, assist the development of education and enhance the welfare of educational staff.
+
+### Article 2
+
+A educational association is a judicial person.
+
+### Article 3
+
+The competent authorities of national educational association is Ministry of the Interior, the competent authorities of educational associations in municipalities directly under central government are municipality governments, the competent authorities of educational associations in counties(cities) are the county(city) governments.
+
+The target business competent authorities of educational associations should be under guidance and supervision of Ministry of Education or municipality or county(city) authorities in charge of educational affairs.
+
+### Article 4
+
+The roles of an educational association are as follows:
+
+\1. Education-related research, as well as design and improvement suggestions.
+
+\2. Guidance of national knowledge on common life and the promotion of lifelong.
+
+\3. Assistance in educational investigation, statistics and compilation of books and periodicals.
+
+\4. Conducting members’ public welfare activities.
+
+\5. Mutual aid and coordination for members ’ welfare and cooperation.
+
+\6. Facilitation and implementation of educational policies and regulations.
+
+\7. Educational matters commissioned by authorities or groups.
+
+\8. Participation in educational activities and social campaigns.
+
+\9. Other matters required by relevant laws and statutes.
+
+## Chapter Ⅱ Establishment
+
+### Article 5
+
+Educational associations are classified into township (city or district) educational associations, county (city) educational associations, provincial (municipal) educational associations and national educational association.
+
+### Article 6
+
+Educational associations of township (city or district), county (city) and provincial (municipal) levels are organized according to the administrative districts and adopted  the names of the relevant administrative districts as their titles; national educational association must adopt R.O.C as its title.
+
+### Article 7
+
+There shall be only one educational association per level in an administrative district. This article does not apply to an education association that had been established before the administrative district in which it is located was formed.
+
+### Article 8
+
+The location of an educational association must be in its organizational area. An education association may set up branches with a resolution passed at the members ’ (member representatives ’)general meeting.
+
+### Article 9
+
+Township (city or district) educational association is initiated and organized by at least fifteen qualified members in this area; where there are less than fifteen qualified members, they should join in the educational association in an adjoining administrative district.
+
+### Article 10
+
+County (city) educational association is initiated and organized by at least five township (city or district) educational associations of this county (city); special cases approved by central competent authorities are not subject to this regulation.
+
+### Article 11
+
+Provincial (municipal) educational association is initiated and organized by at least five county (city or district) educational associations in this province (municipality); special cases approved by central competent authorities are not subject to this regulation.
+
+### Article 12
+
+National educational association is initiated and organized by at least three provincial (municipal) educational associations.
+
+### Article 13
+
+The initiation and establishment of an educational association shall be reported to the competent authorities for approval before the initiator meeting is convened to establish a preparatory committee.
+
+The competent authorities may send personnel to attend the meeting of the preparatory committee and the inaugural meeting of the educational association. The educational association shall submit the bylaw, roster of members and resumes of directors and supervisors to the competent authorities for reference within 15 days after the inaugural meeting, and the competent authorities shall forward the submitted information to the central competent authority..
+
+### Article 14
+
+The bylaw of educational associations should state clearly the following items:
+
+\1. Title.
+
+\2. Purpose.
+
+\3. Organizational area.
+
+\4. Locale of meeting.
+
+\5. Tasks.
+
+\6. Organizational structure.
+
+\7. Procedures of enrollment, withdrawal from the educational associations and removal of membership.
+
+\8. The rights and obligations of members.
+
+\9. The number, office term, appointment and dismissal of member representatives, directors and supervisors.
+
+\10. The title, number, appointment and dismissal of working staff of educational associations.
+
+\11. Meeting affairs.
+
+\12. Funds and financial affairs.
+
+\13. Procedures for the revision of articles.
+
+## Chapter Ⅲ Members
+
+### Article 15
+
+Adult R.O.C citizens who work or reside in organizational areas of educational associations, work as school or preschool teachers, have ever worked as school teachers for more than three years, work as administrative personnel of educational authorities at any level, or work as professionals of a social education institute or researchers of an academic research institution, may join the educational associations located in the townships, cities, or districts where they work or reside and become individual members.
+
+Schools, social education institutes and academic research institutions of all levels can join the educational associations located in the townships, cities, or districts in which they are located and become sponsoring members. Sponsoring members have no rights to select or be selected.
+
+### Article 16
+
+Any of the following persons cannot become members of educational associations:
+
+\1. Persons who commit crimes of civil strife and foreign aggression and whose crimes have been testified.
+
+\2. Persons who commit crimes other than those mentioned in Subparagraph 1 and are in the execution of punishment.
+
+\3. Persons who have been deprived of civil rights.
+
+\4. Persons who have been placed under the declaration of guardian and such declaration has not yet been withdrawn.
+
+\5. Persons who are in the declaration of bankruptcy.
+
+### Article 17
+
+The lower educational associations are the group members of the relevant upper educational associations.
+
+The group representatives of lower educational associations to attend the meetings of upper educational associations are elected or appointed in meetings of councils of group members two months before the reelection of directors and supervisors of upper educational associations, the number of member representatives is decided by the upper educational associations in proportion to the number of representatives of each group member, which is stipulated in the bylaw.
+
+### Article 18
+
+Members (member representatives) have the rights of vote, election, being elected and recall, one vote for each.
+
+### Article 19
+
+When members or member representatives cannot attend the general meetings in person, they should entrust other members or member representatives to deputize their votes, each member or member representative can only deputize one member or member representative and the entrusted members or member representatives should not exceed half of the number of those attending the meetings.
+
+### Article 20
+
+The rule of membership transfer of educational associations of township (city district) is made by central competent authorities.
+
+## Chapter Ⅳ Staff
+
+### Article 21
+
+An educational association shall have directors and supervisors, who shall be elected by members (member representatives) at the members ’ (member representatives ’ )general meeting to form the board of directors and the board of supervisors, respectively.
+
+The number of directors is provided as follows:
+
+\1. No more than fifteen directors for an educational association at the township (city or district) level.
+
+\2. No more than twenty-one directors for a county (city) educational association.
+
+\3. No more than thirty-three directors for a provincial (municipal) educational association.
+
+\4. No more than thirty-nine directors for a national educational association.
+
+The number of directors shall not exceed half of the number of all of the members or member representatives. The supervisors shall not exceed one third of the directors. Alternate directors and alternate supervisors shall not exceed one third of the directors and supervisors, respectively.
+
+In case of more than three directors or supervisors, standing directors or standing supervisors may be elected by and from the directors or the supervisors. The number of standing directors or standing supervisors shall not exceed one third of the directors or supervisors. A chairperson shall be elected from among the standing directors, or from among the directors if there is no standing director.
+
+The convener of meetings of the board of supervisors shall be elected by and from the standing supervisors when there are more than three standing supervisors.
+
+### Article 22
+
+The board of directors and the board of supervisors should execute their duties respectively in accordance with the decisions and bylaw made in general meeting.
+
+### Article 23
+
+The election of directors and supervisors of upper educational associations is not subject to the elected directors or supervisor being directors or supervisors of the lower educational associations, and the group representatives elected to attend the meeting of upper educational association are not subject to the elected group representatives being directors or supervisors of the lower educational association.
+
+### Article 24
+
+The directors or supervisor of upper educational associations should not hold the posts of directors or supervisors of lower educational associations.
+
+### Article 25
+
+Both directors and supervisors are non-paid position.
+
+### Article 26
+
+The tenure of directors and supervisors is three years, those serving two consecutive office terms should not exceed half of the directors or supervisors respectively, the head of directors can only serve two consecutive office terms.
+
+When the work of reelection is finished, the resumes of newly-elected directors and supervisors should be sent to the competent authorities for reference within 15 days.
+
+### Article 27
+
+When directors or supervisors have any of the following situations, they should be dismissed immediately, and the vacancies should be filled by alternate directors and supervisors in turn:
+
+\1. Lose the member qualification.
+
+\2. Resignation adopted by the board of directors and the board of supervisors.
+
+\3. Those dismissed or relieved in accordance with the act.
+
+\4. The educational associations they belong to are dissolved in accordance with the act.
+
+### Article 28
+
+The working staff of educational association are employed in accordance with bylaw and accept the orders of the chairperson to arrange the association’s affairs. The appointment of the working staff should be reported to the board of directors via chairperson and obtaining the approval of the board of directors, finally submitted to the competent authorities for reference at the same time.
+
+## Chapter Ⅴ Meeting
+
+### Article 29
+
+General meetings should be adopted and convened by the chairperson of director, including the following:
+
+\1. Regular meetings held at least once a year.
+
+\2. Temporary meetings when the board of directors consider necessary or demanded by more than one fifth of the representatives or convened by the board of supervisors.
+
+If the chairperson fails to convene the meetings mentioned in Subparagraph 1, the competent authorities should appoint a director to convene the regular meetings.
+
+### Article 30
+
+The calling of the members’ (member representatives’) general meeting shall be announced fifteen days prior to the meeting. However, for a provisional meeting called due to emergency, the announcement may be conveyed in a shorter time if members are able to timely attend the provisional meetings.
+
+The educational association shall report the above meetings to the competent authorities and ask the competent authorities to send personnel to attend the meetings.
+
+### Article 31
+
+The decisions made in general meetings will take effect when more than half of the members or member representatives attend the meetings and half of the attending members or member representatives agree to them. But, about the following items, the decisions will take effect only when more than two thirds of the members or member representatives attending the meetings and more than two thirds of the attending members or member representatives agree to the decisions.
+
+\1. The alteration of bylaw.
+
+\2. Punishment of members and/or member representatives.
+
+\3. Dismissing directors or supervisors.
+
+\4. Decisions about liquidation and the appointment of personnel in in charge of liquidation.
+
+\5. Disposition of property.
+
+### Article 32
+
+When the members of an educational association exceed three hundred persons, the board of directors should divide electorates according to the distribution of members and representatives are to be elected from each electorate to attend the general meeting,
+
+### Article 33
+
+The board of directors and the board of supervisors should hold meetings at least once three months, and the alternate directors and supervisors should attend the meetings respectively as nonvoting delegates.
+
+### Article 34
+
+The decisions made in the meetings of the board of directors or the board of supervisors are to take effect when more than half of the directors or supervisors attend the meetings respectively; the resignation of directors and supervisors should be adopted and take effect only when more than half of the directors and supervisors attend the meetings respectively and more than two thirds of the attending directors or supervisors respectively agree to the resignation.
+
+## Chapter Ⅵ Fund
+
+### Article 35
+
+The incomes of an educational association are as follows:
+
+\1. Admission fee paid by each member when joining the association.
+
+\2. Annual membership dues paid yearly.
+
+\3. Donations from members.
+
+\4. Operating fee.
+
+\5. Commission revenue.
+
+\6. Funds and interest of funds.
+
+\7. Subsidies from the government.
+
+\8. Other incomes.
+
+The amounts mentioned in Subparagraph 1 and Subparagraph 2 of the preceding paragraph and the regulations for receiving fees shall be provided in the bylaw of the educational association.
+
+### Article 36
+
+The raising of the operating fee provided in Subparagraph 4 of Paragraph 1 of the preceding article shall be included in the annual plan of each educational association and implemented after being passed by resolution at the members ’ (member representatives ’ )general meeting.
+
+### Article 37
+
+The annual budge book and final accounts book of educational association should be checked by the board of directors, reported to general meeting for adoption and finally submitted to competent authorities for reference.
+
+### Article 38
+
+When being dissolved, educational associations should carry out liquidation work and the personnel in charge of the liquidation are to be appointed in general meeting; when no personnel can be appointed, the competent authorities, prosecutors or stakeholders should request the court to appoint the personnel in charge of the liquidation work.
+
+The residual property of educational association after liquidation goes to the newly organized educational association, when no enough members are available to form a new educational association, the residual property goes to the educational association of upper level.
+
+### Article 39
+
+Enterprises run by educational association should have separate accounts, and the accounts should be sent to the board of supervisors for auditing and passed by resolution at the members’ (member representatives’) general meeting for check and adoption, and then sent to competent authorities and educational authorities for reference.
+
+After the enterprises run by educational association are closed, the relevant rights and obligations are to be borne by the educational association.
+
+## Chapter Ⅶ Supervision
+
+### Article 40
+
+Members of educational association who don’t pay their membership dues in accordance with the act and fail to perform the persuasions in written form from the educational association should be deprived of membership upon decisions made by the board of directors.
+
+### Article 41
+
+When directors or supervisors break the relevant decree or bylaw in the execution of duties and the breach is put forward by more than one tenth of the members or member representatives and testified by more than two thirds of the attending members or member representatives in general meetings attended by more than two thirds of members or member representatives, the decree-breaking directors or supervisors are to be recalled immediately, those who should bear criminal duties are to be punished in accordance with the relevant act.
+
+### Article 42
+
+If educational association breaks the decrees, bylaw, oversteps its authorities, hamper commonweal affairs or meeting affairs, the competent authorities should punish it as per the following procedures:
+
+\1. Warning
+
+\2. Cancel its decisions.
+
+\3. Relieve its directors and supervisors.
+
+\4. Reshuffle the educational association.
+
+\5. Dissolve the educational association.
+
+The punishment mentioned in Subparagraph 1 and Subparagraph 2 are carried out by educational authorities and competent authorities; lower competent authorities should report the punishment mentioned in Subparagraph 3, Subparagraph 4 and Subparagraph 5 to upper competent authorities for approval.
+
+The reorganization of an educational association after the punishment of reshuffle in accordance with Subparagraph 4 of Paragraph 1 and after the punishment of dissolution in accordance with Subparagraph 5 of Paragraph 1 is decided by central competent authorities.
+
+### Article 43
+
+Educational association should not run lucrative enterprises.
+
+### Article 44
+
+Educational association should not persuade its members to donate money without adoption in general meeting and approval from competent authorities.
+
+## Chapter Ⅷ Supplementary Provisions
+
+### Article 45
+
+The relevant prescriptions of educational associations of township (city or district) level apply to provinces and municipalities without sub-districts.
+
+### Article 46
+
+The enforcement rules on the implementation of the act are enacted by central competent authorities.
+
+### Article 47
+
+The act takes effect as of the date of promulgation.
+
+The articles of this law amended on 12nd May of 2009 of the Republic of China take effect on 23rd November of 2009.
+
+## History
+
+\1. The act of 38 articles was promulgated by the KMT Government on Jan. 27th,1931.
+
+\2. The act of 38 articles was revised and promulgated by KMT Government on Oct. 31st, 1944.
+
+\3. The act was revised and promulgated as decree President No. 74, Hua Tsung Ⅰ, Yi Tzu No. 2755 on Jun. 5th, 1985.
+
+\4. Article 3, artcle 10 and article 46 of the act were rivised and promulgated as decree PresidentNo.91, Hua Tsung Ⅰ, Yi Tzu No. 09100075630 on Apr. 24th, 2002.
+
+\5. The full text of Article 16 and 47 are amended and promulgated on 27th May of 2009 by President Order Hua-Tsung (1)-Yi-Tzu No.09800134351, and take effect on 23rd November of 2009.
+
+\6. Articles 4, 7, 8, 13, 15, 21, 30, 35 and 36 amended and promulgated through President’s Order No. Hua-Zong-Yi-Yi-Zi-10300168981 dated November 12, 2014.
+
+\7. Article 15 amended by President Order Hua-Tsung (1)-Yi-Tzu No. 11000006171 on January 27, 2021

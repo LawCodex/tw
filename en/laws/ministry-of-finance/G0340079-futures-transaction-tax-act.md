@@ -1,0 +1,85 @@
+---
+title: "Futures Transaction Tax Act"
+title_zh: "期貨交易稅條例"
+identifier: "G0340079"
+type: act
+law_level: "法律"
+category: "行政＞財政部＞賦稅目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1998-06-20
+last_amended: 2008-08-06
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0340079"
+retrieved: 2026-10-12
+---
+
+# Futures Transaction Tax Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-finance/G0340079-futures-transaction-tax-act.md](../../../zh/laws/ministry-of-finance/G0340079-futures-transaction-tax-act.md)) is authoritative.
+
+## Article 1
+
+Trading of futures within the Republic of China shall be subject to futures transaction tax [hereinafter, "transaction tax"] in accordance with the provisions of this Act.
+
+## Article 2
+
+The buying and selling parties of a futures transaction shall each pay transaction tax at the following rates:
+
+\1. Stock index futures contracts: Transaction tax is levied per transaction at a rate of not less than 0.0000125% and not more than 0.06%, based on the value of the futures contract.
+
+\2. Interest rate futures contracts: Transaction tax is levied per transaction at a rate of not less than 0.0000125% and not more than 0.00025% based on the value of the futures contract.
+
+\3. Option contracts or option contracts on futures: Transaction tax is levied per transaction at a rate of not less than 0.1% and not more than 0.6%, based on the premium paid.
+
+\4. Other futures contracts: Transaction tax is levied per transaction at a rate of not less than 0.0000125% and not more than 0.06%, based on the value of the futures contract.
+
+The applicable rates in the items of Paragraph 1 shall be decided respectively by the Ministry of Finance subject to the approval of the Executive Yuan.
+
+In a futures contract where the buyer and seller settle by the difference in value upon or before the expiration of the contract, the transaction tax payable by each shall be levied based on the settlement price in the market at the rates provided in the following regulations.
+
+\1. Option contracts or option contracts on futures regulated in Item 3 of Paragraph 1 shall be levied at the rates of Item 1, 2 or 4 of Paragraph 1 according to kind.
+
+\2. Futures contracts regulated in the Item 1, 2 or 4 of Paragraph 1 shall levied at the rates of that item.
+
+## Article 3
+
+Transaction tax shall be collected by the futures commission merchant (FCM) on the date of transaction at the tax rate specified in the preceding article and paid to the national treasury on the following day along with a filled-in payment slip.
+
+The collecting agent shall produce a list or digital data each day recording the names and addresses of the traders, types, volume, and amount of contracts traded, and the amounts of tax collected, and file the same with the competent assessing authority by the fifth day of the following month.
+
+## Article 4
+
+A collecting agent that fulfills its collection obligations in compliance with the statutory procedure and time limit is entitled to a reward, payable by the competent assessing authority, equal to one thousandth of the tax collected by said agent, up to a maximum of NT$24 million in reward per agent each year.
+
+## Article 5
+
+If a collecting agent fails to fulfill its obligation to collect transaction tax or under-collects the tax, the competent assessing authority may order said agent to pay any back taxes and impose a fine of not less than 10 and not more than 30 times the amount of uncollected tax.
+
+A collecting agent that fails to file the futures transaction list or digital data with the competent assessing authority, or files a fraudulent list in violation of Paragraph 2 of Article 3 of this Act, shall be subject to a late filing charge of not less than NT$15,000 and not more than NT$30,000.
+
+## Article 6
+
+A collecting agent that fails to surrender the transaction tax collected within the time limit specified in Paragraph 1 of Article 3 herein shall be subject to an overdue charge.
+
+## Article 7
+
+The futures transaction tax is a national tax, which will be collected by the competent tax assessing authorities under the Ministry of Finance.
+
+## Article 8
+
+This Act shall be implemented upon promulgation.
+
+Note:
+
+In case of any discrepancy between the English version and the Chinese text of this Act, the Chinese text shall govern
+
+## History
+
+1.Promulgated on June 20, 1998
+
+2.Articles 1 and 2 Revised on 14 December 2005 by government decree Hua-tzung-1 Yi No. 09400199331
+
+3.Amended on August 06, 2008

@@ -1,0 +1,291 @@
+---
+title: "House Tax Act"
+title_zh: "房屋稅條例"
+identifier: "G0340102"
+type: act
+law_level: "法律"
+category: "行政＞財政部＞賦稅目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1943-03-11
+last_amended: 2024-01-03
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0340102"
+retrieved: 2026-10-12
+---
+
+# House Tax Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-finance/G0340102-house-tax-act.md](../../../zh/laws/ministry-of-finance/G0340102-house-tax-act.md)) is authoritative.
+
+## Article 1
+
+House tax shall be levied in accordance with the provisions of the Act herein. For matters not specified in this Act, other relevant laws and regulations shall govern.
+
+## Article 2
+
+Terms depicted in this Act are defined as follows:
+
+\1. The term “house” means a structure attached to land and used for business, work, or residential purposes.
+
+\2. The term “structure that enhances the use value of the house” means other structures appended to the house subject to house tax that adds to the use value of the house.
+
+## Article 3
+
+House tax shall be levied on all houses attached to land and on such other buildings which enhance the use value of those houses.
+
+## Article 4
+
+The house tax is levied on house-owner; for houses with land use rights, the tax is levied on the holder of such rights; in cases of house set with Dien right, the tax is levied on the Dien-holder. For jointly owned houses, the tax is levied on the joint owners, with one owner presumed to pay; if no presumption is made, the current resident or user shall pay on behalf of the owners.
+
+In the case of tax payment on behalf of the joint owners as mentioned in preceding paragraph, the portion of the tax beyond the payer’s responsibility can be claimed from other co-owners.
+
+If the address of the house-owner, holder of land use rights, or Dien -holder is unknown or not residing at the house, the tax shall be paid by the manager or current resident. If rented out, the lessee is responsible for payment, deductible from rent.
+
+For houses that have never had ownership registered and the owner is unknown, the house tax is levied on the person listed as the constructor on the license of permit; if no license of permit exists, it's levied on the person listed on the construction license; if no construction license exists, it's levied on the current resident or manager.
+
+If the house is trust property, the trustee shall be the taxpayer of the house tax during the existence of the trust relationship. If there are two or more trustees, the provisions of Paragraph 1 regarding jointly owned houses in the first paragraph shall apply.
+
+## Article 5
+
+House tax is levied in accordance with the current value of the house at the following rates:
+
+\1. Houses used for residential purposes:
+
+(1) For houses used for self-residence, houses leased out for public welfare purpose with the owner registering to and verified by local government, or houses with land use right and used for self-residence by the use right holder, the rate is 1.2 percent. However, if a person, spouse and minor children only own one house in the country for their own residence and the current value of the house is not over a certain amount, the rate is 1 percent.
+
+(2) In addition to the provision of the preceding item, for a house with declared rental income reaching the amount of rent prevailing in the locality stipulated in Category 5, Paragraph 1, Article 14 of the Income Tax Act, or a jointly owned house acquired through inheritance, the minimum rate shall not be less than 1.5 percent and the maximum rate shall not exceed 2.4 percent.
+
+(3) For a house to be sold for residence and owned by the builder whose name stated on the license of permit, within two years of the imposition of house tax, the minimum rate shall not be less than 2 percent, and the maximum rate shall not exceed 3.6 percent.
+
+(4) For other houses for residential purposes, the rate shall not be less than two percent 2 percent and shall not exceed 4.8 percent.
+
+\2. Houses used for non-residential purposes: For a house used for business purpose, or for operating a private hospital, a private clinic, or a professional office, the rate shall not be less than 3 percent and shall not exceed 5 percent of the current value of the house; for a house used for the operation of a non-profit civil organization, the rate shall not be less than 1.5 percent and shall not exceed 2.5 percent.
+
+\3. For a house used for both residential and non-residential purposes, the house tax thereon shall be levied at the applicable rates based on the area of the house used for residential and non-residential purposes, respectively. However, the taxable area for non-residential purposes shall not be less than one-sixth of the total area of the house.
+
+Municipal and county (city) governments shall, in accordance with the provisions of Items 2 through 4 of Subparagraph 1 of the preceding paragraph, respectively set differential tax rates based on the total number of taxable houses nationwide owned by taxpayers under each item or other reasonable needs. Taxpayers holding taxable houses of each type located in municipalities and counties (cities) shall be levied house tax according to the total number of houses nationwide and at the corresponding tax rate set by the municipality and county (city) government where the houses are located.
+
+When calculating the number of houses in accordance with the provisions of the preceding two paragraphs, if the house is a trust property, it shall be deemed held by the settlor during the existence of the trust relationship, and the houses held by the settlor specified in the first subparagraph of the first paragraph shall be counted together with it to determine the total number of houses. However, if the beneficiary of the trust interest is not the settlor and meets the following provisions, it shall be deemed held to the beneficiary:
+
+\1. The beneficiary has been determined and enjoys all trust benefits.
+
+\2. The settlor does not reserve the right to change the beneficiary.
+
+For the residential houses intended for self-use as described in Item 1 of Subparagraph 1 of Paragraph 1, the house-owner or the person with the right-of-use, his/her spouse or immediate family members shall complete household registration in the house, and it shall not be rented out or used for business; others requirements or criteria needed to be fulfilled as self-use or leasing for public welfare purpose, as well as the method of calculating the number of houses in the first three paragraphs, the determination of reasonable needs in the second paragraph, and other related matters, shall be stipulated by the Ministry of Finance (hereinafter referred to as the MOF).
+
+Autonomous regulations that stipulate the certain amount of the present value of houses in the provisio of Item 1 of Subparagraph 1 of Paragraph 1 shall be formulated by municipal and county (city) governments and reported to the MOF for recordation.
+
+The provisio in the first item of Subparagraph 1 of Paragraph 1 stipulates that the certain amount of the current value of the house, the brackets of the differential tax rates in Paragraph 2, the number of brackets and the basis of the tax rates for each bracket shall be announced by the MOF; municipalities or counties (cities) government may set them up with reference to this benchmark.
+
+## Article 6
+
+The house tax rates set by the municipal and county (city) governments within the range of the tax rates stipulated under the preceding article shall be submitted to and approved by the local representative assembly and reported to the MOF for recordation.
+
+After July 1, 2024, for the municipal and county (city) governments having levied house tax in accordance with the provisions of Subparagraph 1 of Paragraph 1, Paragraph 2 and Paragraph 5 of the preceding article, and in compliance with the provisions of Paragraph 6 of the preceding article. If there is still a substantial net loss of tax revenue, before the amendment to the Act Governing the Allocation of Government Revenues and Expenditures to expand the scale of centrally coordinated tax distribution comes into effect, the loss for that period shall be made up by the central government, and shall not be subject to the provisions of Article 23 of the Budget Act about proceeds from public debt cannot be used for current expenditures.
+
+The calculation of the actual substantial net tax loss in the preceding paragraph shall be determined by the MOF in consultation with the municipal and county (city) governments.
+
+After July 1, 2024, if municipalities and county (city) governments levy house tax without setting differential tax rates in accordance with the provisions of Paragraph 2 of the preceding Article, the tax for that period shall be calculated based on the basis set by Paragraph 6 of the preceding Article.
+
+## Article 6-1
+
+House tax takes the date of the end of February each year as the base date for tax liability. The tax amount is determined by the local competent tax authority based on the house tax registration information and is levied once every year from May 1 to May 31. The tax period is from July 1st of the previous year to June 30th of the current year.
+
+For newly built, added or renovated houses, if the construction is completed in the current period, the tax will be charged on a monthly basis, and if it is no more than one month, it will not be counted; if it is demolished in the current period, the same applies.
+
+For houses that are newly built, added or renovated from March 1st to June 30th of each year, the house tax for that period will be collected in the next period; for houses that were demolished from July 1st of the previous year to the end of February of the current year, house tax shall be levied for the months that the house has not yet been demolished.
+
+## Article 7
+
+Taxpayers should submit related documents and report to the local competent tax authority the relevant matters and usage of the house within thirty days from the date of completion of the construction of the house; when there is any addition, reconstruction or transfer or setting the right of Dien, the taxpayer shall do the same.
+
+If a change in the use of the house, except for the cases that the change results in an increase in the amount of tax, the taxpayer should report the change to the local competent tax authority 40 days before the commencement of the next collection period. If the change results in an increase in the amount of tax, taxpayers should report the change to the competent tax authority 40 days before the commencement of current collection period. After the tax amount with the change has been approved by the competent tax authority, if there are no other changes, no further report is required. In instances where the tax amount is reduced due to a change in the use of the house, if the report is late, it will be applicable from the next collection period after the report; if the tax amount is increased, it will be applicable from the next period of the change. The same applies to late report or failure to report.
+
+## Article 8
+
+If a house is burned, collapses, or is demolished to the point that it is uninhabitable, the taxpayer should report to the local competent tax authority for verification. After it is verified, tax collection will be suspended until the reconstruction is completed.
+
+## Article 9
+
+The real estate assessment committee stipulated in this Act shall be organized by the municipal or county (city) government. Its organization and operation shall be prescribed by the MOF.
+
+The members of the aforementioned committee shall be composed of representatives from relevant administrative agencies, experts and scholars with expertise in real estate valuation, civil or structural engineering, architecture, urban planning, or representatives from private organizations in these fields. The number of experts, scholars, and private organization representatives shall not be less than half of the total number of committee members, and the number of members of any one gender shall not be less than one-third of the total number of committee members.
+
+## Article 10
+
+The competent tax authority shall calculate the current value of houses based on the standards determined by the real estate assessment committee.
+
+The competent tax authority shall notify the taxpayer of the calculated current value of the house according to the provisions of the preceding paragraph. If the taxpayer has objections, he or she may, within 30 days of receiving the notification, submit supporting documents and apply for revaluation.
+
+## Article 11
+
+The standard values of houses shall be assessed by the real estate assessment committee based on the following matters, and announced by the municipality, county (city) government:
+
+\1. Houses built with various construction materials are divided into types and grades.
+
+\2. Durability and depreciation standards of various types of houses.
+
+\3. Establish standards based on the commercial traffic conditions of the streets and villages where the houses are located and the supply and demand situation of houses, and by comparing the real estate transaction prices registered at actual prices in different locations minus the land price.
+
+The standard values of houses in the preceding paragraph shall be re-evaluated every three years, and shall be depreciated according to its service life, and its price shall be reduced annually.
+
+## Article 12
+
+(Deleted).
+
+## Article 13
+
+(Deleted).
+
+## Article 14
+
+Public housing provided to the following categories of users shall be exempt from house tax:
+
+\1. Office buildings of government agencies at all levels and local self-governing agencies, including their staff dormitories.
+
+\2. Office buildings of military units and their barracks.
+
+\3. Prisons, detention centers, and their office buildings and staff dormitories.
+
+\4. School buildings, hospital facilities, office buildings of social education and academic research institutions, relief organizations and public welfare institutions and their staff dormitories.
+
+\5. Buildings used for research or experimentation by industrial, mining, agricultural, forestry, water conservancy, and fisheries and animal husbandry institutions.
+
+\6. Warehouses of grain authorities, salt warehouses of salt authorities, factory buildings and office buildings used by public sales enterprises and government-operated water supply plants.
+
+\7. Buildings and staff dormitories used by postal, telecommunications, railway, highway, aviation, meteorological, and port industries for their own business operations.
+
+\8. Temples and monuments of historical significance and memorials to ancestors and martyrs.
+
+\9. Housing provided by the government for poor household.
+
+\10. Buildings used by government agencies for organizing businesses to assist in the employment of retired and discharged servicemen.
+
+## Article 15
+
+Private houses that meet any of the following circumstances are exempt from house tax:
+
+\1. Private schools and academic research institutions that have been registered and have completed registration as foundations shall have their own buildings used for school buildings or offices.
+
+\2. Houses owned by a registered nonprofit private charitable relief enterprise having completed registration as a foundation, and directly used for the purpose of charitable relief.
+
+\3. Ancestral halls dedicated to worship, churches and temples used by religious groups for preaching or missionary purposes. However, this is limited to those having completed registration as foundations or temples, and the houses must be self-owned.
+
+\4. Houses provided free of charge for government agencies' public use or for military purposes.
+
+\5. Public welfare organizations that are not for profit and have been approved by the government have their own buildings for office use. However, the organizations whose beneficiaries are trade union members, fellow villagers, classmates or kinship will not be exempted from the tax, unless the union formed in accordance with the Labor Union Act has been granted the exemption by the local competent tax authority with the approval from the municipal or county (city) government.
+
+\6. Houses specifically for raising poultry and livestock, greenhouses for cultivating agricultural products, operating rooms for rice seedling nurseries, artificial breeding farms, water pump station; houses specifically for farmers' personal use such as tobacco smoking rooms, rice and tea drying machine rooms, agricultural machinery storage warehouses, and compost sheds.
+
+\7. Houses that have been significantly damaged in major disasters, with damages accounting for not less than 50 percent of the total area, and must be repaired before they can be used.
+
+\8. Houses owned by judicial protection organizations.
+
+\9. Residential houses with current value not more than NT$100,000 each owned by a natural person, limited to three houses nationwide. However, if the standard values of houses are reassessed according to the provisions of Paragraph 2, Article 11, the adjustment will be made on the basis of the reassessed standard values. The adjustment is calculated in unit of NT$1,000. If it is less than NT$1,000, it is calculated as NT$1,000.
+
+\10. Warehouses owned by farmer’s associations, specifically for storing public grain by food administration as certified by the competent authority.
+
+\11. Houses acquired by the trustee of a public welfare trust, established with the permission of the competent authority, due to the trust relationship and directly used for public welfare activities.
+
+Private houses meeting any of the following conditions shall be subject to a fifty percent reduction in house tax:
+
+\1. Civilian housing allocated and sold by the government at a fair price.
+
+\2. Self-owned houses legally registered as factories for direct production use.
+
+\3. Warehouses and inspection sites owned by farmer’s associations for their own use, as certified by the competent authority.
+
+\4. Houses significantly damaged in major disasters, with damages accounting for not less than thirty percent but less than fifty percent of the total area.
+
+Taxpayers benefiting from the reductions specified in Subparagraphs 1 to 8, 10, 11 of Paragraph 1, and the provisions of the preceding paragraph shall report to the local tax authorities no later than 40 days before the commencement of house tax collection period. Failure to report on time shall result in the application starting from the subsequent collection period after the report. Once the reason for the reduction has been approved and remains unchanged, no further report is required.
+
+For residential houses with a current value of not more than NT$100,000 owned by a natural person, if the total number exceeds three houses nationwide, the owner shall report to the local tax authorities no later than 40 days before the commencement of the house tax collection period to designate which houses will be subject to the provisions of Subparagraph 9, Paragraph 1. Failure to report on time shall result in exemption starting from the subsequent collection period after the report. If the number of holdings remains unchanged after approved, no further reporting is required.
+
+Before July 1, 2024, natural persons who have owned more than three residential houses nationwide with a current value of not more than NT$100,000 should report to the local competent tax authority before March 22, 2025 for the applicable determinedouses specified in Subparagraph 9, Paragraph 1; if the report is not made by the due date, the local competent tax authority shall make a preferential decision for them.
+
+Regulations on the determination of the number of private houses applicable of Subparagraph 9, Paragraph 1, the report procedures in the preceding two paragraphs, the preferential selection method in the preceding paragraph and other related matters shall be prescribed by the MOF.
+
+## Article 16
+
+Taxpayers who fail to file declaration within the time limit specified in Article 7 and result in underpayment of tax, he shall not only be ordered to pay the tax in full, but shall also be fined not more than twice the amount of tax underpaid.
+
+## Article 17
+
+(Deleted).
+
+## Article 18
+
+Taxpayers who fail to pay house tax before the deadline specified in the tax payment notice shall be subject to a belated surcharge.
+
+## Article 19
+
+(Deleted).
+
+## Article 20
+
+(Deleted).
+
+## Article 21
+
+(Deleted).
+
+## Article 22
+
+In the case of house tax is owed on the house, until the tax arrears are settled, no transfer registration or establishment of Dien right registration may be processed.
+
+The amount of tax arrears in the preceding paragraph may be applied for by the house acquirer for proxy payment, and the amount paid on behalf can be recovered from the taxpayer, or deducted in proportion from the purchase price or Dien price.
+
+## Article 23
+
+For houses that are newly constructed, reconstructed, expanded, or transferred on behalf of Dien right, the competent building authority and the registration authority shall notify the competent tax authority simultaneously on the date of approval or registration.
+
+## Article 24
+
+The detailed regulations for the collection of house tax shall be formulated by the municipal and county (city) governments in accordance with this Act, and reported to the MOF for recordation.
+
+## Article 25
+
+The effective date of this Act shall be determined by the Executive Yuan.
+
+The amended articles of this Act shall come into effect on the date of promulgation. However, the effective date of the articles amended and promulgated on June 20, 2001, shall be determined by the Executive Yuan; Articles 4 to 7, 12, and 15 amended on December 19, 2023, shall come into effect on July 1, 2024.
+
+## History
+
+1.Full-text (14 articles) promulgated on 11 March 1943 by Nationalist Government.
+
+2.Amendment to Article 2 promulgated on 3 October 1944 by Nationalist Government.
+
+3.Full-text amendments (15 articles) promulgated on 5 December 1946 by Nationalist Government.
+
+4.Full-text amendments (14 articles) promulgated on 14 November 1947 by Nationalist Government.
+
+5.Amendment to Articles 11 and 12 promulgated on 17 June 1950 by Presidential Decree.
+
+6.Full-text amendments (20 articles) promulgated on 31 December 1955 by Presidential Decree.
+
+7.Full-text amendments (25 articles) and change of title promulgated on 11 April 1967 by Presidential Decree.
+
+8.Amendments to Articles 5, 14 and 15 promulgated on 8 July 1970 by Presidential Decree.
+
+9.Amendments to Articles 13 and 15 promulgated on 11 December 1972 by Presidential Decree No.0915.
+
+10.Amendment to Article 15 promulgated on 30 November 1974 by Presidential Decree No. 5416.
+
+11.Amendment to Article 15 promulgated on 20 May 1981 by Presidential Decree No. 3139.
+
+12.Amendment to Article 12 promulgated on 11 November 1983 by Presidential Decree No. 6262.
+
+13.Amendments to Articles 6, 15, 18 and 25, and deletion of Articles 13 and 17 promulgated on 29 July 1992 by Presidential Decree No. 3668.
+
+14.Deletion of Articles 19, 20 and 21 promulgated on 30 July 1993 by Presidential Decree No.3703.
+
+15.Amendments to Articles 1, 4 to 7, 10, 11, 15, 16, 22, 24 and 25 promulgated on 20 June 2001 by Presidential Decree No. 9000116980 (and implemented on 1 July 2001 as approved by the Executive Yuan).
+
+16.Amendment to Article 15 promulgated on 21 March 2007 by Presidential Decree No. 09600034661.
+
+17.Amendment to Article 5 promulgated on 4 June 2014 by Presidential Decree No. 10300085851.
+
+18.Amendments to Articles 4 to 7, 9, 11, 15, 18, 24, and 25, adding Article 6-1 and deleting Article 12 were promulgated on 3 January 2024 by Presidential Decree No. 11200115291 (Articles 4 to 7, 12, and 15 were implemented on 1 July 2024).

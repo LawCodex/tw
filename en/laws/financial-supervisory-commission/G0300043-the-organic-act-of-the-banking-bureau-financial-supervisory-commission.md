@@ -1,0 +1,73 @@
+---
+title: "The Organic Act of the Banking Bureau, Financial Supervisory Commission"
+title_zh: "金融監督管理委員會銀行局組織法"
+identifier: "G0300043"
+type: act
+law_level: "法律"
+category: "行政＞金融監督管理委員會＞組織目       "
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2008-01-09
+last_amended: 2011-06-29
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0300043"
+retrieved: 2026-10-12
+---
+
+# The Organic Act of the Banking Bureau, Financial Supervisory Commission
+
+> Translation. The Chinese text ([zh/laws/financial-supervisory-commission/G0300043-the-organic-act-of-the-banking-bureau-financial-supervisory-commission.md](../../../zh/laws/financial-supervisory-commission/G0300043-the-organic-act-of-the-banking-bureau-financial-supervisory-commission.md)) is authoritative.
+
+## Article 1
+
+The Financial Supervisory Commission establishes the Banking Bureau (hereinafter referred to as the “Bureau”) for purposes of the supervision and regulation of the banking market, the bills market, financial holding companies and banking enterprises, and the formulation, planning, and implementation of related policies, laws, and regulations.
+
+## Article 2
+
+The Bureau shall be in charge of the formulation, planning, and implementation of the following matters:
+
+\1. Supervision and regulation of all types of affairs related to banks, financial holding companies, credit cooperatives, bills houses, trust enterprises, financial asset and real estate securitization.
+
+\2. Supervision and regulation of foreign bank branches and representative offices.
+
+\3. Supervision and regulation of the financial cards businesses and related institutions.
+
+\4. Acknowledgement and regulation of impartial third parties as required by the Financial Institutions Merger Act.
+
+\5. Supervision and regulation of service enterprise engaged in interbank credit information processing and exchange, as well as in deposit insurance.
+
+\6. Collaboration with the Ministry of Transportation and Communications on the supervision and regulation of postal savings and remittances businesses.
+
+\7. Supervision and regulation of foreign exchange administration.
+
+\8. Processing of examination reports on financial institutions in relation to the functions of the Bureau and conducting necessary follow-up and assessments.
+
+\9. Consumer protection in connection with the businesses of the Bureau.
+
+\10. Supervision and regulation of all businesses referred to in the preceding nine subparagraphs, as well as incorporated foundations, and financial industry associations.
+
+\11. Supervision and regulation of other matters in connection with the banking market, the bills market, financial holding companies, and banking enterprises.
+
+## Article 3
+
+The Bureau shall have one director general, who shall be a regularly appointed senior civil servant at occupational grade 13, and two deputy directors general, who shall be regularly appointed senior civil servants at occupational grade 12.
+
+## Article 4
+
+The Bureau shall have one chief secretary, who shall be a regularly appointed senior civil servant at occupational grade 11
+
+## Article 5
+
+The civil service rank, occupational grade, and staffing quotas for each occupational title within the Bureau shall be separately specified in a personnel organization table.
+
+## Article 6
+
+The Executive Yuan shall prescribe by order the implementation date of this Act.
+
+## History
+
+1.The full text (six articles) was promulgated by Presidential Order No. Hua-Zong-Yi-Yi-Zi-09700002271 dated January 9, 2008 and became effective from the date of promulgation.
+
+2.Amendments to the title and full text (six articles) were promulgated by Presidential Order No. Hua-Zong-Yi-Yi-Zi-10000136521 dated June 29, 2011; the effective date on July 1, 2012 was determined by the Executive Yuan by Order No. Yuan-Shou-Zong-Zi-1002261392 dated October 31, 2011.

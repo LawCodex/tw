@@ -1,0 +1,1091 @@
+---
+title: "Futures Trading Act"
+title_zh: "期貨交易法"
+identifier: "G0400100"
+type: act
+law_level: "法律"
+category: "行政＞金融監督管理委員會＞證券暨期貨管理目  "
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1997-03-26
+last_amended: 2023-06-28
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0400100"
+retrieved: 2026-10-12
+---
+
+# Futures Trading Act
+
+> Translation. The Chinese text ([zh/laws/financial-supervisory-commission/G0400100-futures-trading-act.md](../../../zh/laws/financial-supervisory-commission/G0400100-futures-trading-act.md)) is authoritative.
+
+## Chapter I General Principles
+
+#### Article 1
+
+The Futures Trading Act (hereinafter referred to as "this Act") is enacted for the purpose of facilitating the sound development of the futures market and maintaining orderly futures trading.
+
+#### Article 2
+
+The regulation of futures trading shall be governed by this Act. Matters not provided for in this Act shall be governed by the provisions of other relevant laws.
+
+#### Article 3
+
+The term "futures trading" as used in this Act refers to trading in any of the following contracts, or any combination thereof, deriving from commodities, currencies, securities, interest rates, indices, or other interests, conducted pursuant to the regulations or practices set forth by domestic or foreign futures exchanges or other futures markets:
+
+\1. Futures contract: means a contract under which the parties agree to purchase or sell an agreed underlying interest at a specified future time under specified trading terms including specified price and quantity, or to offset the contract by settling the difference in price before or on the last trading day.
+
+\2. Option contract: means a contract under which the parties agree that the option buyer pays a premium to obtain a call option or put option right to purchase or sell an agreed underlying interest within a specified time period under specified trading terms including specified quantity and price, and the option seller has the obligation to perform under the contract terms when the buyer calls for exercise thereunder, or the parties consent to settle the price difference before or on the last trading day.
+
+\3. Futures option contract: means a contract under which the parties agree that the option buyer pays a premium to obtain a call option or put option right to purchase or sell an agreed underlying futures contract within a specified time period under specified trading terms including specified quantity and price, and the option seller has the obligation to perform under the option contract terms when the buyer calls for exercise thereunder, or the parties consent to settle the price difference before or on the last trading day.
+
+\4. Leverage contract: means a contract under which the parties agree that one party pays a certain percentage of a price or obtains a specific credit limit granted by the other party, and the parties, within a specified future time period, by an agreed method, settle the price difference or deliver the underlying interest.
+
+\5. Swap contract: means a contract under which the parties agree, within a specified future time period, by an agreed method, to exchange an agreed underlying interest or a cash flow arising therefrom.
+
+\6. Other types of contracts.
+
+Based on policy considerations relating to finance, currency, foreign exchange, government bonds, etc., futures trading conducted outside futures exchanges may, as announced by the Competent Authority within its regulatory purview or by the Central Bank of the Republic of China (Taiwan) within its administrative purview, be exempted from the application of this Act. However, within the scope of futures trading for which central clearing is required by the provisions of the Competent Authority, central clearing shall be performed in accordance with this Act at a futures clearing house designated thereby.
+
+If the scope of futures trading for which central clearing is required, as referred to in the preceding paragraph, involves foreign exchange, the Competent Authority shall consult with and obtain the consent of the Central Bank of the Republic of China (Taiwan) in advance.
+
+#### Article 4
+
+The term "Competent Authority" as used in this Act refers to the Financial Supervisory Commission.
+
+#### Article 5
+
+The futures trading that a futures commission merchant may accept orders to engage in shall be confined to the types and exchanges announced by the Competent Authority.
+
+#### Article 5-1
+
+To facilitate the development of financial inclusion and financial technologies, applicants, not limited to futures enterprises, may apply to conduct innovative experimentation in futures business pursuant to the Financial Technology Development and Innovative Experimentation Act.
+
+An innovative experiment under the preceding paragraph may be exempted from  the application of the provisions of this Act within the period and scope approved by the Competent Authority.
+
+The Competent Authority shall take into reference the results of implementation of the innovative experimentation under paragraph 1, and review the appropriateness of this Act and relevant financial laws and regulations in light thereof.
+
+#### Article 6
+
+The Competent Authority may, with approval by the Executive Yuan, enter into cooperation agreements with foreign government agencies, institutions, or international organizations to facilitate matters such as information exchange, technical cooperation, and investigation assistance.
+
+The Competent Authority may, with approval by the Executive Yuan, authorize other agencies, institutions, or associations to enter into the cooperation agreements as referred to in the preceding paragraph.
+
+Unless it would jeopardize the national interest or the rights of the investing public, the Competent Authority may request the provision of necessary information and records from related regulatory authorities or financial institutions, and provide them to a requesting foreign government agency, institution, or international organization that has executed a cooperation agreement based on the principles of reciprocity and confidentiality.
+
+## Chapter II Futures Exchange
+
+### Section I General Provisions
+
+#### Article 7
+
+A futures exchange shall be established for the purpose of promoting the public interest and preserving the fairness of futures market trading.
+
+A futures exchange may be organized as either a membership organization or a company organization.
+
+#### Article 8
+
+The establishment of a futures exchange shall require permission and issuance of a license from the Competent Authority.
+
+The establishment standards and governing regulations under the preceding paragraph shall be prescribed by the Competent Authority.
+
+#### Article 9
+
+The business of a futures exchange is to provide services for a centralized futures trading market. Unless otherwise approved by the Competent Authority, a futures exchange shall neither engage in other business nor invest in other enterprises.
+
+#### Article 10
+
+A futures trading contract shall not be traded on the futures exchange without prior approval from the Competent Authority. Nonetheless, when the Competent Authority approves a currency futures trading contract involving currency exchange between New Taiwan Dollars and any foreign currency, the Competent Authority shall consult with and obtain the consent of the Central Bank of the Republic of China (Taiwan) in advance.
+
+The Competent Authority shall grant or deny an application referred to in the preceding paragraph within six months unless extraordinary circumstances exist.
+
+#### Article 11
+
+An approved futures trading contract may be withdrawn by the Competent Authority if any of the following events occurs:
+
+\1. The contract has lost its economic value.
+
+\2. The contract is not consistent with the public interest.
+
+\3. Upon application by the futures exchange.
+
+#### Article 12
+
+Unless otherwise prescribed by this Act or other laws or otherwise approved by the Competent Authority, futures trading shall be conducted only on a futures exchange.
+
+#### Article 13
+
+It is prohibited to operate a futures exchange or the business of a futures exchange except in accordance with this Act.
+
+It is prohibited for anyone to provide any premises, facilities, or information for others to engage in unlawful business under the preceding paragraph.
+
+#### Article 14
+
+A futures exchange shall deposit an operation bond with the National Treasury. The amount and the governing regulations of such bonds shall be prescribed by the Competent Authority.
+
+#### Article 15
+
+The operating rules of a futures exchange shall contain the following particulars:
+
+\1. Use of the futures trading market.
+
+\2. Trading system.
+
+\3. Clearing and settlement system.
+
+\4. Methodology for calculation of margin and premium.
+
+\5. Administration of futures commission merchants.
+
+\6. Surveillance of the futures trading market.
+
+\7. Contingency plans.
+
+\8. Handling procedures and penalties for default.
+
+\9. Other matters as required by the Competent Authority.
+
+The prescription and amendment of the provisions of the operating rules under the preceding paragraph shall be subject to final approval by the Competent Authority.
+
+#### Article 16
+
+If a futures exchange, in the execution of market surveillance pursuant to subparagraph 6 of paragraph 1 of the preceding Article, detects that the criteria of a trading anomaly is met in any futures trade, it may publish the trading information. If there is any likelihood that such anomaly would materially affect market trading order, the following measures also may be taken with respect to that futures trade:
+
+\1. Adjustment of margin level or the time span for collection.
+
+\2. Restriction of brokerage trade volumes for all or certain futures commission merchants.
+
+\3. Restriction of trading volumes or open positions.
+
+\4. Suspension or termination of the futures trade.
+
+\5. Any other necessary measure for the maintenance of market order or for the protection of futures traders.
+
+#### Article 17
+
+In any of the following events, the Competent Authority may withdraw the permission granted to a futures exchange:
+
+\1. The application for the establishment or the license contained any misrepresentation.
+
+\2. The futures exchange fails to commence business operations within three months after receiving its license or, after commencing business operations, suspends operation for a continuous period of three months or longer. This restriction will not apply, however, if the futures exchange, for good cause shown, applies for and obtains approval from the Competent Authority for an extension.
+
+#### Article 18
+
+A futures exchange shall file with the Competent Authority for its approval and recordation upon commencing or suspending its business operation.
+
+#### Article 19
+
+A futures exchange's directors and supervisors and representatives thereof, managerial officers, and employees are prohibited from divulging any confidential information relevant to futures trading acquired through the performance of their duties.
+
+#### Article 20
+
+The rules regarding qualifications and personnel governance for the responsible persons and associated persons of a futures exchange shall be prescribed by the Competent Authority.
+
+### Section II Membership Futures Exchange
+
+#### Article 21
+
+A membership futures exchange shall be established as a nonprofit association.
+
+#### Article 22
+
+The number of members of a membership futures exchange shall be no less than seven.
+
+#### Article 23
+
+The promoters of a membership futures exchange shall, by unanimous agreement, execute the articles of association containing all the following particulars and affix their signatures/seals:
+
+\1. Objectives.
+
+\2. Name.
+
+\3. Location of the head office.
+
+\4. Organization and responsibilities.
+
+\5. Membership categories and eligibility.
+
+\6. Number of memberships allowed.
+
+\7. Accession and withdrawal of members.
+
+\8. Membership contributions and refunds.
+
+\9. Member discipline.
+
+\10. Number, responsibilities, term of office, and election and removal of directors and supervisors.
+
+\11. Matters regarding clearing and settlement.
+
+\12. Imposition of penalties for breach of contract.
+
+\13. Matters regarding transaction fees and charges for members.
+
+\14. Apportionment of membership expenses.
+
+\15. Disposal of residual assets upon dissolution.
+
+\16. Accounting.
+
+\17. Procedures for amending the articles of association.
+
+\18. Methods for public announcements.
+
+\19. Any other matters as required by the Competent Authority.
+
+\20. Date of execution of the articles of association.
+
+#### Article 24
+
+The members shall make their contributions in accordance with the provisions of the articles of association. The minimum contribution amounts shall be prescribed by the Competent Authority according to the categories of membership.
+
+Apart from the sharing of membership expenses according to the provisions of the articles of association and the contributions referred to in the preceding paragraph, a member's liability for the futures exchange is limited to ten times its membership contribution.
+
+The member contributions referred to in paragraph 1 shall be paid in cash.
+
+#### Article 25
+
+In the event of any of the following acts by a member of a membership futures exchange, the futures exchange shall impose upon the member a monetary penalty and may further warn, suspend, or restrict such member from trading on the futures exchange. If the circumstances are material, it additionally may expel the member:
+
+\1. Any violation of law or regulation or failure to comply with any administrative disposition issued by the Competent Authority pursuant to law or regulation.
+
+\2. Any violation of the articles of association, operating rules, brokerage contract regulations, or any other rules of the futures exchange.
+
+\3. Any trade in violation of the principles of integrity and good faith which may cause damage to another.
+
+The expulsion of a member under the preceding paragraph shall be reported to the Competent Authority for recordation.
+
+#### Article 26
+
+When a member withdraws from membership or is suspended from trading, the membership futures exchange shall, in compliance with the articles of association, require that member or designate another member to wind up and liquidate its trades on the futures exchange. Within the scope of winding up and liquidating the trades, the member shall be deemed to have not yet withdrawn from membership or been suspended from trading.
+
+When another member is designated to wind up and liquidate trades under the preceding paragraph, a mandate relationship is deemed to exist between the withdrawing member and the designated member insofar as is necessary for winding up and liquidating the trades.
+
+#### Article 27
+
+A membership futures exchange shall have at least three board directors and one supervisor elected from among its members in accordance with the articles of association. At least one-fourth of the directors shall be elected from among non-member experts, half of whom shall be appointed by the Competent Authority and the remaining shall be selected by the Board with the approval of the Competent Authority. The selection procedures for such directors shall be prescribed by the Competent Authority.
+
+The term of office of both directors and supervisors shall be three years. Successive terms in office are permissible upon re-election or reappointment.
+
+The directors shall establish a board of directors and elect a chairman with the consent of the majority of the directors.
+
+The board chairman shall be a full-time executive officer. This requirement shall not apply, however, if the membership futures exchange has assigned another managerial officer vested with full authority to take charge of its operation.
+
+#### Article 28
+
+No person who falls within any of the following categories shall serve as a promoter, director, supervisor, or manager of a membership futures exchange; those already serving in any of these capacities shall be discharged:
+
+\1. Any person specified in any subparagraph of Article 30 of the Company Act.
+
+\2. Any person who served as a director, supervisor, managerial officer, or other equivalent position of a juristic person at a time it was adjudicated bankrupt if three years have not elapsed since the close of the bankruptcy or the reconciliation has not been fulfilled.
+
+\3. Any person with a record of a negotiable instrument being dishonored by a financial institution in the preceding three years.
+
+\4. Any person who has been discharged from their position under paragraph 1 of Article 101 of this Act, or Article 56 or subparagraph 2 of Article 66 of the Securities and Exchange Act within the past five years.
+
+\5. Any person who has been sentenced under this Act, the Foreign Futures Trading Act, the Company Act, the Securities and Exchange Act, the Banking Act, the Foreign Exchange Regulation Act, the Insurance Act, or the Credit Union Act to a punishment not less severe than a criminal fine, and five years have not elapsed since the completion of sentence execution, the expiration of the suspension of sentence, or the pardon of the crime.
+
+\6. Any person who has been removed from their position pursuant to subparagraph 2 of Article 100 of this Act within the past five years.
+
+\7. Any person proven to have been improperly used by another to fill a position as a promoter, director, supervisor, or managerial officer of a membership futures exchange.
+
+If a promoter, director, or supervisor of the membership futures exchange is a juristic person, the preceding paragraph shall apply mutatis mutandis to the representative of the juristic person or the individual designated to execute business for the juristic person.
+
+#### Article 29
+
+A member director's or supervisor's representative, a non-member director or supervisor, or any other employee of a membership futures exchange is prohibited from trading on that futures exchange for themself under any name, whether on their own or by appointing any other person to do so. The persons referred to in the preceding paragraph are prohibited from providing funds to, sharing profits or losses with, or being involved in any other business interest with any member of that exchange. However, this restriction shall not apply to the representatives of member directors or supervisors who perform such acts for the interests of the members they represent.
+
+#### Article 30
+
+In the event that the Competent Authority finds that any director or supervisor of the futures exchange was improperly elected, or any director, supervisor or manager has violated any law or regulation, or the articles of association, or fails to comply with any administrative disposition issued by the Competent Authority pursuant to law or regulation, the Competent Authority may notify the futures exchange to discharge such person from their office.
+
+#### Article 31
+
+Unless otherwise provided in this Act, the provisions of the Company Act regarding directors, supervisors, or managerial officers shall apply mutatis mutandis to the directors, supervisors, or managerial officers of a membership futures exchange.
+
+#### Article 32
+
+The provisions of this section regarding directors and supervisors shall apply mutatis mutandis to their designated representatives.
+
+#### Article 33
+
+A membership futures exchange shall proceed with the dissolution process upon the occurrence of any one of the following causes:
+
+\1. Occurrence of any cause of dissolution specified in the articles of association.
+
+\2. Resolution of the general meeting of members.
+
+\3. Membership of less than seven members.
+
+\4. Bankruptcy.
+
+\5. Withdrawal of the permission for the establishment of the futures exchange.
+
+Dissolution under subparagraph 2 of the preceding paragraph shall not become effective without approval from the Competent Authority.
+
+### Section III: Futures Exchange Organized as a Company
+
+#### Article 34
+
+A futures exchange organized as a company shall be a company limited by shares. The shareholding of any shareholder shall not exceed five percent of the paid-in capital of the company unless an approval is granted by the Competent Authority under special circumstances.
+
+#### Article 35
+
+The articles of incorporation of a futures exchange organized as a company shall be executed in accordance with the Company Act. The following particulars shall not be effective unless they are specified in the articles of incorporation:
+
+\1. Qualifications of traders.
+
+\2. Establishment of a clearing department.
+
+\3. Any other matters required by the Competent Authority.
+
+#### Article 36
+
+At least one-fourth of the directors and supervisors of a futures exchange organized as a company shall be non-shareholder experts in relevant fields, half of whom shall be appointed by the Competent Authority, and the remaining half shall be selected by the Board subject to approval by the Competent Authority. The selection procedures for such board members shall be prescribed by the Competent Authority, and Article 192, paragraph 1 and Article 216, paragraph 1 of the Company Act shall not be applicable.
+
+#### Article 37
+
+A futures exchange organized as a company shall not issue bearer stocks.
+
+Persons to whom the stock of a futures exchange organized as a company may be transferred or pledged are limited to lawfully established futures commission merchants, securities firms, securities finance enterprises, banks, or securities and futures-related institutions for which the Competent Authority has granted approval.
+
+#### Article 38
+
+A futures exchange organized as a company shall establish a business committee and a discipline committee, and at least one-third of the members of each committee shall consist of futures commission merchants trading on the exchange.
+
+The organization and responsibilities of the committees referred to in the preceding paragraph shall be filed with the Competent Authority for approval.
+
+#### Article 39
+
+Futures commission merchants trading in a futures exchange organized as a company shall enter into a contract for the use of the centralized futures trading market with the exchange specifying the following:
+
+\1. The rate of futures trading processing fees.
+
+\2. Any futures commission merchant who violates any subparagraph of paragraph 1 of Article 25 of this Act shall be punished with a monetary penalty for breach of contract, have its trading suspended or restricted, or have its contract terminated.
+
+\3. Any futures commission merchant who has been designated to wind up and liquidate trades made by other futures commission merchants shall have the obligation to perform in accordance with the contract.
+
+The contract referred to in the preceding paragraph, together with other relevant materials, shall be filed by the futures exchange with the Competent Authorities for its approval and recordation.
+
+#### Article 40
+
+The contract referred to in the preceding Article shall be terminated either pursuant to the provisions of the contract, or upon the dissolution, withdrawal of business permission, or cessation of business of either party to the contract.
+
+#### Article 41
+
+A futures exchange organized as a company that terminates a contract with a futures commission merchant pursuant to Article 39, paragraph 1, subparagraph 2 of this Act shall file with the Competent Authority for recordation.
+
+#### Article 42
+
+When a futures commission merchant terminates a contract pursuant to Article 40 of this Act or is suspended from trading, it shall bear the obligation to wind up and liquidate its trades in the centralized futures trading market.
+
+#### Article 43
+
+When the Competent Authority deems it necessary, it may order a futures exchange organized as a company, when distributing earnings, to allocate a certain proportion as a special reserve in addition to the legal reserve required by law.
+
+The rate for allocation per annum of the special reserve under the preceding paragraph shall be determined by the Competent Authority depending upon the earnings status of the futures exchange.
+
+#### Article 44
+
+The provisions of Article 28, Article 30, and Article 32 of this Act shall apply mutatis mutandis to a futures exchange organized as a company.
+
+## Chapter III Futures Clearing Houses
+
+#### Article 45
+
+The establishment of a futures clearing house shall require permission and the issuance of a license from the Competent Authority. Such permission and license are likewise required if it is operated concurrently by a futures exchange or other institution.
+
+The operations, finances, and accounting of a futures clearing house shall be kept independent. The form of organization, establishment standards, and governing regulations shall be prescribed by the Competent Authority.
+
+#### Article 46
+
+The clearing of futures trades, unless otherwise approved by the Competent Authority, shall be executed by a clearing member with its futures clearing house.
+
+The qualifications of a clearing member under the preceding paragraph shall be prescribed by the futures clearing house and submitted to the Competent Authority for its approval.
+
+#### Article 47
+
+The operating rules of a futures clearing house shall contain the following particulars:
+
+\1. Procedures and methods of clearing and settlement.
+
+\2. Clearing confirmation, recordation, and report statements.
+
+\3. Matters relating to clearing margin and premium.
+
+\4. Matters relating to settlement at expiration.
+
+\5. Contribution, custody and utilization of clearing and settlement funds.
+
+\6. Surveillance of the futures trading market.
+
+\7. Matters relating to service charges.
+
+\8. Handling procedures and penalties for default.
+
+\9. Contingency plans.
+
+\10. Other matters as required by the Competent Authority.
+
+The prescription and amendment of the provisions of the operating rules under the preceding paragraph shall be reported to the Competent Authority for its approval.
+
+#### Article 48
+
+A futures clearing house may, in the process of surveillance of the futures trading market pursuant to subparagraph 6 of paragraph 1 of the preceding Article, take the following necessary measures against any members when it discovers circumstances likely to affect the market order:
+
+\1. Adjust the amount of the clearing margin.
+
+\2. Issue intra-day multiple margin calls.
+
+\3. Liquidate the open positions in whole or in part.
+
+\4. Any other measures necessary to maintain market order or protect futures trading.
+
+The standards for determining when the market order is likely to be affected shall be prescribed by the clearing house and submitted to the Competent Authority for its approval.
+
+#### Article 49
+
+In case a clearing member fails to perform its clearing and settlement obligation, the futures clearing house shall first apply the defaulting clearing member's clearing margin to cover the default. If that is insufficient, it shall apply the defaulting member's contribution to the clearing and settlement fund, the compensation reserve fund of the futures clearing house, the other clearing members' contributions to the clearing and settlement fund, and amounts to be borne by the other clearing members in proportions determined by the clearing house.
+
+The order of application of other funds when the defaulting clearing member's clearing margin is insufficient and the proportions to be borne by the other clearing members as referred to in the preceding paragraph shall be drafted by the clearing house and reported to the Competent Authority for its approval.
+
+The amounts referred to in paragraph 1 shall be respectively contributed or allocated to cover defaults based on whether the futures trades are conducted on-exchange or off-exchange.
+
+The defaulting futures clearing member is liable to indemnify for any payments under paragraph 1 that are made to cover the default from the compensation reserve fund of the futures clearing house, the other clearing members' contributions to the clearing and settlement fund, and amounts borne by the other clearing members.
+
+#### Article 50
+
+A futures clearing house shall collect a clearing margin from each of its clearing members, and such margin may be deposited in cash or other securities approved by the Competent Authority. With respect to any pledging of securities as margin, the proportion of the total margin value that may be covered by pledged securities shall be prescribed by the Competent Authority.
+
+The methods and standards for the collection of clearing margin under the preceding paragraph and the haircut rate on the value of securities pledged as margin shall be prescribed by the futures clearing house and submitted to the Competent Authority for its approval.
+
+#### Article 51
+
+The clearing margins collected by the futures clearing house shall be deposited separately from the futures clearing house's own assets.
+
+It is prohibited for any creditor of a futures clearing house, of the financial institution holding the clearing margins, or of a clearing member to claim for attachment or exercise any other rights against such clearing margins unless otherwise provided by this Act.
+
+A futures clearing house shall handle the clearing margins it collects from its clearing members separately according to whether the margins are for proprietary or brokerage trading.
+
+#### Article 52
+
+With respect to a futures clearing member's debt arising out of futures clearing, the creditors thereof shall have priority rights to claim against that clearing member's contributions to the clearing and settlement fund. The priority of the creditors shall be as follows in decreasing order:
+
+\1. The clearing house.
+
+\2. Futures traders.
+
+\3. Clearing members.
+
+#### Article 53
+
+A clearing house shall deposit compensation reserve funds. The allocation conditions and the methods of custody and utilization of the funds shall be prescribed by the Competent Authority.
+
+#### Article 54
+
+A futures clearing house may, in the event of a member's bankruptcy, dissolution, suspension of business, or default on its clearing and settlement obligation, transfer such member's account and the related accounts of futures traders to another member who has executed a succession agreement with the member at issue. When necessary, the futures clearing house may instruct their transfer to another member who has not executed a succession agreement with the member at issue.
+
+A futures clearing house may impose a monetary penalty on, withdraw the membership of, or take other necessary measures with respect to a member who refuses to accept succession under the preceding paragraph.
+
+#### Article 55
+
+The provisions of Chapter II regarding a futures exchange shall apply mutatis mutandis to a futures clearing house unless otherwise provided in this Chapter or as provided in the latter part of Article 34 of this Act.
+
+## Chapter IV Futures Enterprises
+
+### Section I Futures Commission Merchants
+
+#### Article 56
+
+Unless otherwise provided for in this Act, it is prohibited for anyone other than a futures commission merchant to engage in the business of futures trading.
+
+A futures commission merchant must obtain permission and issuance of a license from the Competent Authority before it may commence business operation.
+
+A foreign futures commission merchant must obtain recognition from the ROC government and obtain permission and issuance of a license from the Competent Authority before it may commence business operation.
+
+Without having obtained permission and issuance of a license from the Competent Authority, it is prohibited to establish or operate a branch of a futures commission merchant.
+
+The form of organization, establishment standards, and governing regulations of futures commission merchants shall be prescribed by the Competent Authority.
+
+#### Article 57
+
+Unless approved by the Competent Authority, a futures commission merchant shall not concurrently operate any other business.
+
+A futures commission merchant shall not be operated concurrently by any other business. However, this restriction does not apply to a securities firm that concurrently operates securities related futures business or has obtained approval from the competent authority for the relevant business. The standards for such concurrent operation shall be prescribed by the Competent Authority.
+
+A firm operating a futures business in accordance with the preceding paragraph shall establish an independent department specifically in charge of the futures business. That department's operations and accounting must be independent.
+
+#### Article 58
+
+The name of a futures commission merchant shall explicitly bear the word "futures." However, those who are futures commission merchants under the proviso in paragraph 2 of the preceding paragraph are exempted from this requirement.
+
+#### Article 59
+
+The minimum requirement of equity capital or designated operating capital of a futures commission merchant shall be prescribed by the Competent Authority.
+
+#### Article 60
+
+A futures commission merchant shall, prior to commencing its business, deposit an operation bond with a financial institution designated by the Competent Authority. The amount thereof shall be prescribed by the Competent Authority.
+
+Creditors with debt claims arising from the futures business of a futures commission merchant shall have the right of priority to recover damages from the operation bond referred to in the preceding paragraph.
+
+A futures commission merchant shall restore the bond to its original level if it falls below the amount prescribed under paragraph 1 as a result of satisfying liabilities under the preceding paragraph.
+
+#### Article 61
+
+The rules governing the qualifications and administration of the responsible persons, associated persons, or other business facilitating agents of futures commission merchants shall be prescribed by the Competent Authority.
+
+#### Article 62
+
+The provisions of Article 28 shall apply mutatis mutandis to the responsible persons or associated persons of futures commission merchants.
+
+#### Article 63
+
+It is prohibited for any responsible person, associated person, or other employee of a futures commission merchant to do any of the following:
+
+\1. Divulge any information on orders or related matters entrusted by a futures trader or secret learned while performing duties.
+
+\2. Guarantee a futures trader a profit.
+
+\3. Agree with a futures trader to share profit or jointly bear loss.
+
+\4. Engage in trading for themself using the account or name of a futures trader.
+
+\5. Offer the use of one's own or any other person's name or account to a futures trader for use in futures trading.
+
+\6. Engage in exaggerated or biased promotion or disseminate false information.
+
+#### Article 64
+
+When accepting any engagement to handle futures brokerage trading, a futures commission merchant shall assess the customer's capability to engage in futures trading. If the assessment of the customer's credit situation and financial strength shows that the customer is incapable of engaging in futures trading, the futures commission merchant shall refuse to accept the engagement unless appropriate collateral is provided by the customer.
+
+When a futures commission merchant accepts an engagement to handle futures brokerage trading, it shall enter into a brokerage contract with the futures trader at the time of opening the trading account. The contents of such contract shall be prescribed by the Competent Authority.
+
+#### Article 65
+
+When a futures commission merchant accepts to open an account for a futures trader, the account opening shall be handled by a qualified associated person. Prior to the account opening, the futures commission merchant shall advise the trader of the nature of various kinds of futures, the terms of trading, and the potential risks involved and shall deliver a risk disclosure statement to the futures trader.
+
+The content and the format of the risk disclosure statement referred to in the preceding paragraph shall be prescribed by the Competent Authority.
+
+#### Article 66
+
+A futures commission merchant shall not employ anyone who is not a qualified associated person to accept orders from futures traders and engage in futures trading.
+
+The minimum required number of associated persons of a futures commission merchant and the required content of the futures trading order form shall be prescribed by the Competent Authority.
+
+#### Article 67
+
+A futures commission merchant engaged in handling futures brokerage trading shall collect margins or premiums from the futures traders. For each customer the merchant shall keep a detailed account statement specifying the balance as calculated on a daily basis.
+
+#### Article 68
+
+A futures commission merchant engaged in handling futures brokerage trading shall prepare and deliver a trade report to the futures trader after the execution of a futures trade, and at the end of each month it shall further prepare and deliver a reconciliation statement to each futures trader.
+
+The contents of the trade report and reconciliation statement under the preceding paragraph shall be prescribed by the Competent Authority.
+
+#### Article 69
+
+A futures commission merchant, when concurrently engaging in proprietary and brokerage businesses, shall, for each trade, distinguish in writing whether it is a proprietary or brokerage trade.
+
+#### Article 70
+
+A futures commission merchant shall open an exclusive customer margin account in a banking institution designated by the Competent Authority and shall deposit its futures customers' margins or premiums into such exclusive account. The account shall be kept separate from the futures commission merchant's own assets.
+
+It is prohibited for any creditor of a futures commission merchant or designated institution referred to in the preceding paragraph to claim for attachment or exercise any other rights against the segregated customer margin account unless otherwise provided for in this Act.
+
+#### Article 71
+
+A futures commission merchant shall not withdraw any funds from the segregated customer margin account unless one of the following situations occurs:
+
+\1. Instruction from the futures trader to deliver the excess margins/premiums.
+
+\2. Payment for the futures trader of the margins/premiums due or settlement balance.
+
+\3. Payment for the futures trader of brokerage commissions, interest, or other transactional fees payable to the futures broker.
+
+\4. Other items approved by the Competent Authority.
+
+#### Article 72
+
+When the owners' equity of a futures commission merchant is lower than the designated percentage of the minimum paid-in capital, or its adjusted net capital is lower than the designated ratio of the total customer margin required for the open positions of futures traders, the futures commission merchant shall immediately report the situation to the Competent Authority. The Competent Authority shall order such futures commission merchant to correct the situation within a limited period. If the futures commission merchant fails to make the corrections within the period, the Competent Authority may, depending on the severity of the case, restrict a part of its business or withdraw its permission.
+
+The designated percentage, the calculation methodology for the adjusted net capital, the net capital ratio, and the relevant registration and time period for correction referred to in the preceding paragraph shall be prescribed by the Competent Authority.
+
+#### Article 73
+
+A futures commission merchant shall not accept a discretionary authorization to decide the category, quantity, or price of futures trades on behalf of the futures trader. Nonetheless, if done in compliance with the provisions set out by the Competent Authority, this restriction shall not apply.
+
+A futures commission merchant shall not engage in any unnecessary trade on behalf of a futures trader. The same shall apply to futures commission merchants with discretionary authorization under the preceding paragraph.
+
+#### Article 74
+
+A futures commission merchant shall not do any of the following:
+
+\1. Trade in non-compliance with the order instructions or conditions of the futures trader.
+
+\2. Conduct any futures trade on behalf of a futures trader without the authorization of the futures trader.
+
+#### Article 75
+
+In the event of a futures commission merchant's bankruptcy, dissolution, or suspension of business operations, or circumstances under which laws or regulations require suspension of the acceptance of orders from futures traders, the Competent authority may order it to transfer the relevant accounts of its futures traders to another futures commission merchant with which it has entered into a succession contract unless the futures commission merchant at issue is a clearing member, in which case the provisions of Article 54 shall govern.
+
+A futures commission merchant, unless with good cause approved by the Competent Authority, shall, within two business days from receiving the transfer order from the Competent Authority, transfer the balance of the segregated customer margin account and itemized trading statements of the futures traders to the other futures commission merchant as referred to in the preceding paragraph. Any costs arising from the transfer shall be borne by the transferring futures commission merchant.
+
+A futures commission merchant shall, within two months after the commencement of its business operation, register with the Competent Authority for its recordation a photocopy of the succession agreement under which another futures commission merchant agrees to assume the relevant accounts of futures traders upon the occurrence of the events referred to in paragraph 1.
+
+#### Article 76
+
+If the Competent Authority, in accordance with this Act, withdraw a futures commission merchant's business permission or orders it to suspend operations, it shall wind up and liquidate all futures trading affairs entered into before such withdrawal or suspension.
+
+#### Article 77
+
+A futures commission merchant whose business permission has been withdrawn shall still be deemed a futures commission merchant within the scope and for the purposes of winding up and liquidating its futures trading affairs. A futures commission merchant ordered to suspend operations shall be deemed not yet suspended from operation within the scope of winding up and liquidating its futures trading affairs.
+
+#### Article 78
+
+In the event a futures commission merchant is dissolved or partially ceases to operate its business, its responsible person shall submit a report explaining the cause to the Competent Authority.
+
+The provisions of the preceding two articles shall apply mutatis mutandis to the situation provided in the preceding paragraph.
+
+#### Article 79
+
+Article 17 and Article 18 shall apply mutatis mutandis to futures commission merchants.
+
+### Section II Leverage Transaction Merchants
+
+#### Article 80
+
+Unless approved by the Competent Authority, a leverage transaction merchant shall not engage in futures trading business.
+
+A leverage transaction merchant must obtain permission and issuance of a license from the Competent Authority before it may commence business operation.
+
+Without having obtained permission and issuance of a license from the Competent Authority, it is prohibited to establish or operate a branch of a leverage transaction merchant.
+
+The establishment standards and governing regulations for leverage transaction merchants shall be prescribed by the Competent Authority.
+
+#### Article 81
+
+The provisions of Article 17, Article 18, and Articles 57 to 78 shall apply mutatis mutandis to leverage transaction merchants.
+
+### Section III Futures Service Enterprise
+
+#### Article 82
+
+A futures trust enterprise, managed futures enterprise, futures advisory enterprise or other futures service enterprise must obtain permission and issuance of a license from the Competent Authority before it may commence business operation.
+
+Without having obtained permission and issuance of a license from the Competent Authority, it is prohibited to establish or operate a branch of a futures service enterprise.
+
+The establishment standards and governing regulations for futures service enterprises shall be prescribed by the Competent Authority.
+
+#### Article 83
+
+The regulation of futures trust enterprises shall be subject, in addition to this Act or any other regulations issued hereunder, to laws governing trust and trust enterprises.
+
+#### Article 84
+
+Unless it has obtained approval from the Competent Authority or it has filed for registration with the Competent Authority and the registration has become effective, a futures trust enterprise shall not engage in any activity to raise a futures trust fund.
+
+A futures trust enterprise shall deliver a prospectus to prospective subscribers by the method provided by the Competent Authority before raising any futures trust fund. The content required in such prospectus shall be prescribed by the Competent Authority.
+
+A futures trust enterprise that fails to deliver a prospectus in accordance with the preceding paragraph shall be held liable for damages for any injury consequently sustained by bona fide trading counterparties.
+
+The provisions of Article 32 of the Securities and Exchange Act shall apply mutatis mutandis to liability for damages for any injury sustained by a bona fide counterparty because of any misrepresentation or concealment in the main required content of a prospectus.
+
+The right to claim damages under paragraph 2 shall be extinguished if not exercised within two years from the time the claimant learns of the cause entitling the claimant to claim damages, or within five years from the date of occurrence of the cause for damages.
+
+#### Article 85
+
+Futures trust funds raised from the public by a futures trust enterprise shall be kept segregated and independent from the assets of the futures trust enterprise and the fund custodian.
+
+Regulations governing futures trust funds shall be prescribed by the Competent Authority.
+
+#### Article 86
+
+It is prohibited for any creditor to claim for attachment or exercise any other rights against the assets of a futures trust fund to satisfy debts incurred by the futures trust enterprise or the fund custodian with respect to their assets.
+
+#### Article 87
+
+Before accepting a mandate from any specific person to conduct futures trading, a managed futures enterprise shall advise them of the nature of futures trading and the inherent risks involved, deliver the risk disclosure statement, and sign a written mandate contract with the customer.
+
+The content and format of the written contract and the risk disclosure statement referred to in the preceding paragraph shall be prescribed by the Competent Authority.
+
+The provisions of Article 84 to Article 86 shall apply mutatis mutandis if the managed futures enterprise raises funds from unspecified persons to engage in futures trading.
+
+#### Article 88
+
+The provisions of Article 17, Article 18, Article 57 to Article 61, Article 63 to Article 66, and Article 74 shall apply mutatis mutandis to futures service enterprises.
+
+## Chapter V Futures Associations
+
+#### Article 89
+
+A futures-related enterprise shall not commence to operate its business unless it has joined a futures association. A futures enterprise shall temporarily join a futures association designated by the Competent Authority if no such association is organized within its locality.
+
+Unless otherwise provided in this Act, the Commercial Group Act shall be applicable to the establishment, organization, and supervision of the futures associations referred to in the preceding paragraph.
+
+#### Article 90
+
+The national futures association shall consist of the following members:
+
+\1. Futures exchanges.
+
+\2. Futures clearing houses.
+
+\3. Provincial futures associations or municipal futures associations.
+
+\4. Others designated by the Competent Authority.
+
+Permission for establishing the national futures association shall be obtained from the Competent Authority before its is registered with the Ministry of the Interior.
+
+#### Article 91
+
+The national futures association may collect fees, in addition to the fees set forth by the Commercial Group Act, to the extent necessary to effect the function of self-regulation and to coordinate the development of the futures market. The categories and rates of such fees shall be proposed by the national futures association and submitted to the Competent Authority for its approval.
+
+#### Article 92
+
+The national futures association shall have at least three directors and one supervisor elected by its members pursuant to its articles of association. However, at least one-fourth of its directors and supervisors shall consist of related experts, half of whom shall be appointed by the Competent Authority, and the remaining shall be selected by the directors and supervisors and approved by the Competent Authority. The regulations governing the selection thereof shall be prescribed by the Competent Authority.
+
+The terms of office of the directors and the supervisors shall be three years, and they may serve consecutive terms upon re-election. The chairman of the board of directors, however, may be re-elected only once.
+
+#### Article 93
+
+The required particulars of the articles of association for the futures associations and the national futures association, the regulations for the guidance and supervision of their business, and the supervision of their responsible persons and associated persons shall be prescribed by the Competent Authority.
+
+#### Article 94
+
+A futures association may impose necessary sanctions upon its members or the representatives of the members pursuant to the articles of association.
+
+## Chapter VI Supervision and Administration
+
+### Section I Supervision
+
+#### Article 95
+
+The Competent Authority shall adopt market surveillance regulations to protect the public interest and maintain market order.
+
+#### Article 96
+
+In the event of any of the following circumstances in the futures market or futures trading, the Competent Authority may issue orders to adjust the margin level, restrict the trading volume or open positions of futures traders, or adopt any other necessary measures. In extraordinary circumstances, the Competent Authority may order the complete or partial suspension of futures trading:
+
+\1. The futures market or futures trading is subject to manipulation or monopoly or the risk thereof.
+
+\2. Any measure taken by the Taiwan government or a foreign government is sufficient to affect the futures market, futures trading, or certain underlying assets of futures trading.
+
+\3. The foreign or domestic market fluctuates substantially due to natural disasters, war, civil commotion, or other force majeure events, which will severely impede the futures market, futures trading, or certain underlying assets of futures trading.
+
+\4. Other event which will severely affect the futures market order or harm the public interest.
+
+#### Article 97
+
+Futures exchanges, futures clearing houses, futures enterprises, and futures associations shall periodically prepare and file with the Competent Authority financial reports that have been audited and attested, or reviewed, by a certified public accountant, and shall preserve the trading and business records.
+
+The rules regarding the preparation of the financial reports, filing procedures, particulars for public announcement, and record keeping referred to in the preceding paragraph shall be prescribed by the Competent Authority.
+
+#### Article 97-1
+
+Futures exchanges, futures clearing houses, and futures enterprises shall establish financial and operational internal control systems.
+
+The Competent Authority may prescribe regulations governing the internal control systems of companies or institutions under the preceding paragraph.
+
+Unless approved by the Competent Authority, a company or institution under paragraph 1 shall file a statement of internal control to the Competent Authority within three months after the close of each accounting year.
+
+#### Article 98
+
+To protect the public interest or maintain the market order, the Competent Authority may, from time to time, order a futures exchange, futures clearing house, futures enterprise, futures association or any related parties having financial or business dealings with the parties above to furnish financial or business report materials or examine their business, assets, accounting books, documents or other related articles. If there is found to be any material suspicion of a violation of laws or regulations, the Competent Authority may place under seal or require the production of relevant documents.
+
+The scope of the related parties referred to in the preceding paragraph shall be prescribed by the Competent Authority.
+
+#### Article 99
+
+To maintain the public interest and market order, if there is a likelihood of any violation of this Act, the Competent Authority may request institutions, organizations, or individuals related to the futures trading to submit relevant account books or documents, or notify relevant personnel to appear at the office of the Competent Authority to give statements. The regulations governing the above shall be prescribed by the Competent Authority.
+
+Persons being requested to appear under the preceding paragraph may retain attorneys-at-law, certified public accountants, or other persons who, under the law, can legally represent and defend them.
+
+#### Article 100
+
+If a futures exchange, futures clearing house, or futures enterprise violates this Act or any regulation issued pursuant to this Act, in addition to imposing penalties as set out herein, the Competent Authority may, depending upon the severity of the violation, additionally issue a reprimand or impose the following sanctions and, in addition thereto, order such violator to correct its conduct within a limited period of time:
+
+\1. Warning.
+
+\2. Remove its responsible persons or other related personnel.
+
+\3. Order suspension of its business in part or in whole for not more than six months.
+
+\4. Withdraw or revoke its business permission.
+
+\5. Other necessary measures.
+
+#### Article 101
+
+If a responsible person or employee of a futures exchange, futures clearing house, or futures enterprise violates this Act or any regulation issued pursuant to this Act, in addition to imposing penalties as set out herein, the Competent Authority may, depending on the seriousness of the violation, may order suspension of their execution of business for not more than six months or their removal from their position. In addition, the Competent Authority may impose upon the futures exchange, futures clearing house, or futures enterprise sanctions in accordance with the preceding Article.
+
+After any of the personnel referred to in the preceding paragraph is removed from their position, the futures exchange, futures clearing house, or futures enterprise shall report the same to the Competent Authority.
+
+#### Article 102
+
+To protect the public interest, the Competent Authority may issue an order notifying a futures exchange, futures clearing house, or futures association to amend its articles of association, operating rules, brokerage contract regulations, or other rules or suspend, restrict, amend, or withdraw any resolution or disposition made by such exchange, clearing house, or association.
+
+#### Article 103
+
+The Competent Authority may appoint persons to a futures exchange or futures clearing house for supervisory purposes. The regulations governing supervision shall be prescribed by the Competent Authority.
+
+### Section II Administration
+
+#### Article 104
+
+The Competent Authority may restrict the futures trading volumes or open positions of futures traders.
+
+A futures trader shall report its futures trading volumes and open positions. The scope, content, and procedures for such reporting shall be prescribed by the Competent Authority.
+
+#### Article 105
+
+It is prohibited for anyone to engage a person to conduct futures trading who has not been approved by the Competent Authority to operate a futures business.
+
+#### Article 106
+
+With regard to futures trading, it is prohibited to do any of the following with the intent to manipulate the price of futures:
+
+\1. Act independently or conspire with others to continuously inflate, maintain, or deflate the trading price of futures or related spot commodities.
+
+\2. Act independently or conspire with others to increase, maintain, or decrease positions in futures or the supply or demand of related spot commodities.
+
+\3. Act independently or conspire with others to disseminate or spread false information.
+
+\4. Any manipulative act that directly or indirectly influences the trading prices of futures or related spot commodities.
+
+#### Article 107
+
+The following persons directly or indirectly having access to information sufficient to materially affect futures trading prices shall not purchase or sell for their own account or in the name of another, or have others engage in trading of, any futures or related spot commodities that are related to such information prior to the public disclosure of the information or within 18 hours after its public disclosure:
+
+\1. Directors, supervisors, managerial officers, employees, or mandataries of a futures exchange, futures clearing house, futures enterprise, futures association, securities exchange, over-the-counter securities exchange, or securities dealers association.
+
+\2. Public officials, employees, or mandataries of the Competent Authority or the competent authorities of other related businesses.
+
+\3. Any person who has learned the information because of an occupational or controlling relationship.
+
+\4. Directors, supervisors, managerial officers, employees, mandataries, or shareholders with a shareholding of 10 percent or more, of the issuer of the underlying securities of single stock futures contracts or single stock option contracts.
+
+\5. Directors, supervisors, managerial officers, or employees of the mandataries referred to in subparagraphs 1, 2, and 4.
+
+\6. A person who, though no longer among those listed in the preceding five subparagraphs, has only lost such status within the last six months.
+
+\7. Any person who has been informed of the information by any of the persons listed in the preceding six subparagraphs.
+
+The preceding paragraph shall apply mutatis mutandis to the representatives of the directors and supervisors.
+
+#### Article 108
+
+Any person involved in futures trading shall not engage in bucketing, misrepresentation, fraud, concealment, or other conduct sufficient to mislead futures traders or third parties.
+
+The term "bucketing" in the preceding paragraph means any of the following:
+
+\1. Off-market offsetting.
+
+\2. Cross-trading.
+
+\3. Taking the opposite side of a customer's order.
+
+\4. Accommodation trading.
+
+## Chapter VII Arbitration
+
+#### Article 109
+
+For any dispute arising out of futures trading conducted pursuant to this Act, the parties may resort to arbitration, pursuant to their agreement.
+
+Unless otherwise provided by this Act, arbitration under the preceding paragraph shall be governed by the Arbitration Act.
+
+#### Article 110
+
+If the arbitrators selected by the parties to the dispute cannot agree on the appointment of the third arbitrator as provided under the agreement to arbitrate, the Competent Authority may appoint the third arbitrator upon application or ex officio.
+
+#### Article 111
+
+If any futures enterprise delays its compliance with an arbitration award, a settlement reached pursuant to Article 44 of the Arbitration Act, or mediation successfully concluded pursuant to Article 45 of the Arbitration Act, the Competent Authority may order the futures enterprise to suspend business or impose any other necessary sanctions prior to its compliance, unless the arbitration award, settlement, or mediation has been challenged by litigation pursuant to Article 40 or the mutatis mutandis application of Article 40 under Article 46 of the Arbitration Act.
+
+## Chapter VIII Penal Provisions
+
+#### Article 112
+
+A person who violates Article 106, Article 107, or paragraph 1 of Article 108 shall be punished with imprisonment for not less than 3 years but not more than 10 years, and in addition thereto may be fined a criminal fine of not less than NT$10 million but not more than NT$200 million.
+
+A person who commits an offense as set out in the preceding paragraph and subsequently voluntarily surrenders to the authorities, if they voluntarily hand over the proceeds of crime in full, shall have their punishment reduced or remitted; and their punishment shall be remitted if another principal offender or an accomplice is captured as a result.
+
+A person who commits an offense as set out in paragraph 1 and confesses during the prosecutorial inquiry, if they voluntarily hand over the proceeds of crime in full, shall have their punishment reduced; and their punishment shall be reduced by one-half if another principal offender or an accomplice is captured as a result.
+
+When the interest in property or assets gained by a person through the commission of an offense in paragraph 1 exceeds the maximum amount of the criminal fine, the fine may be increased within the scope of the interest gained.
+
+A person shall be punished with imprisonment for a period not exceeding seven years and, in addition thereto, may be fined a criminal fine of not more than NT$3 million for any of the following offenses:
+
+\1. Without permission, engaging in the operation of a futures exchange or any related business of a futures exchange.
+
+\2. Without permission, engaging in the operation of a futures clearing house.
+
+\3. Violation of the provisions of paragraph 1 of Article 56.
+
+\4. Without permission, engaging in the business of a leverage transaction merchant.
+
+\5. Without permission, engaging in the business of a futures trust enterprise, managed futures enterprise, futures advisory enterprise or any other related futures service enterprises.
+
+\6. Violation of the provision of paragraph 1 of Article 84 by any futures trust enterprise in raising a futures trust fund.
+
+#### Article 112-1
+
+A person who endangers, through the employment of theft, damage, or other illegal means, the normal operation of equipment functions of a core information and communication system of a futures exchange or a futures clearing house shall be sentenced to imprisonment for not less than one year and not more than seven years. In addition, a criminal fine of not more than NT$10 million may be imposed.
+
+A person who intends to endanger national security or social stability and commits an offense under the preceding paragraph shall be sentenced to imprisonment for not less than three years and not more than ten years. In addition, a criminal fine of not more than NT$50 million may be imposed.
+
+If an offense under either of the preceding two paragraphs seriously affects the futures market order, the punishment shall be increased by one-half.
+
+An attempt to commit an offense specified in paragraph 1 or paragraph 2 is punishable.
+
+#### Article 112-2
+
+A person who endangers the normal operation of equipment functions of a core information and communication system of a futures exchange or a futures clearing house by any of the following means shall be sentenced to imprisonment for not less than one year and not more than seven years. In addition, a criminal fine of not more than NT$10 million may be imposed:
+
+\1. Without cause, gains access to its computer or related equipment by entering its account password, cracking the protective measures for using the computer, or exploiting any vulnerability of the computer system.
+
+\2. Without cause, interferes, through the use of computer programs or other electromagnetic methods, with its computer or related equipment.
+
+\3. Without cause, obtains, deletes, or alters any magnetic record of its computer or related equipment.
+
+A person who makes computer programs specifically for himself or another to commit any offense specified in the preceding paragraph is also subject to the penalty provisions thereof.
+
+A person who intends to endanger national security or social stability and commits any offense under the preceding two paragraphs shall be sentenced to imprisonment for not less than three years and not more than ten years. In addition, a criminal fine of not more than NT$50 million may be imposed.
+
+If an offense under any of the preceding three paragraphs seriously affects the futures market order, the punishment shall be increased by one-half.
+
+An attempt to commit an offense specified in paragraph 1 to paragraph 3 is punishable.
+
+#### Article 113
+
+Any director, supervisor, managerial officer, mandatary, or employee of a futures exchange, futures clearing house, or futures trust enterprise who demands, agrees to accept, or receives any illegitimate profit in connection with the performance of their duty shall be punished with imprisonment for a period not exceeding five years, short-term imprisonment, or in addition thereto a criminal fine of not more than NT$2.4 million.
+
+Any person referred to in the preceding paragraph who demands, agrees to accept, or receives any illegitimate profits for actions in contravention of their duty, shall be punished with imprisonment for a period not exceeding seven years, short-term imprisonment, and/or a criminal fine of not more than NT$3 million.
+
+#### Article 114
+
+Any person who offers, promises, or delivers illegitimate profit to any person who acts in contradiction to their duty as specified in the preceding Article shall be punished with imprisonment for a period not exceeding three years, short-term imprisonment, and/or a criminal fine not exceeding NT$2 million.
+
+The punishment of the offense specified in the preceding paragraph may be pardoned if the offender voluntarily surrenders himself to the law enforcement authorities.
+
+#### Article 115
+
+A person shall be punished with imprisonment for a period not exceeding three years, short-term imprisonment, and/or a criminal fine of not more than NT$2.4 million for any of the following offenses:
+
+\1. Concealment or misrepresentation in the contents of the application materials required under paragraph 1 of Article 8, paragraph 1 of Article 45, paragraphs 2 to 4 of Article 56, paragraphs 2 and 3 of Article 80, paragraphs 1 and 2 of Article 82, and paragraph 1 of Article 84.
+
+\2. Violation of the provisions of Article 71.
+
+\3. Violation by a leverage transaction merchant of Article 71 as applied mutatis mutandis under Article 81.
+
+\4. Making false statements in the accounting books, documents or other related articles or reporting materials required to be produced under an order from the Competent Authority issued pursuant to Article 98.
+
+\5. Making false statements in the accounting books, documentary evidence, financial reports or any other business documents filed by any futures exchange, futures clearing house, futures enterprise, or futures association as required by law or by an order issued by the Competent Authority under the law.
+
+#### Article 116
+
+A person shall be punished with imprisonment for a period not exceeding three years, short-term imprisonment, and/or a criminal fine of not more than NT$2.4 million for any of the following offenses:
+
+\1. Violation of paragraph 2 of Article 13, unless the provider does not know that it is illegally operating a futures exchange or futures exchange business.
+
+\2. Violation of Article 63.
+
+\3. Violation of Article 63 as applied mutatis mutandis under Article 81 by a responsible person, associated person, or any other employees of a leverage transaction merchant.
+
+\4. Violation of Article 63 as applied mutatis mutandis under Article 88 by a responsible person, associated person or any other employees of a futures service enterprise.
+
+#### Article 117
+
+A person shall be punished with imprisonment for a period not exceeding one year, short-term imprisonment, and/or a criminal fine of not more than NT$1.8 million for any of the following offenses:
+
+\1. Violation of the provisions of Article 12, Article 19, or Article 29.
+
+\2. Violation of Article 19 or 29 as applied mutatis mutandis under Article 55 by a futures clearing house.
+
+#### Article 118
+
+If a representative, agent, associated person or any other employee of a juristic person commits any of the following offenses in connection with the execution of business, in addition to the punishment imposed on the person in violation of the law pursuant to Article 116 and Article 117, the criminal fines under each applicable Article shall also be imposed on the juristic person:
+
+\1. Violation of the provisions of Article 19, Article 29, or Article 63.
+
+\2. Violation of the provisions of Article 19 or 29 as applied mutatis mutandis under Article 55.
+
+\3. Violation of the provisions of Article 63 as applied mutatis mutandis under Article 81 or 88.
+
+Before a crime referred to in the preceding paragraph has been discovered, if the juristic person, on its own accord, files a complaint or reports the crime, the punishment hereunder may be reduced or remitted.
+
+#### Article 119
+
+A person shall be punished with an administrative fine of not less than NT$120,000 but not more than NT$2.4 million for committing any of the following violations, and furthermore may additionally be ordered to correct the violation within a limited period of time; if the violation is not corrected within that time, penalties may be opposed for each instance of violation:
+
+\1. Violation of the provisions of Article 5, paragraph 1 of Article 10, Article 18, the forepart of paragraph 2 of Article 45, paragraph 4 of Article 56, paragraph 1 of Article 57, Article 64, paragraph 1 of Article 65, paragraph 1 of Article 66, Article 67, paragraph 1 of Article 70, paragraph 1 of Article 72, Article 73, Article 74, paragraph 1 of Article 78, paragraph 3 of Article 80, paragraph 2 of Article 82, the forepart of paragraph 2 of Article 84, paragraph 1 of Article 85, paragraph 1 of Article 87, paragraph 1 or paragraph 3 of Article 97-1, paragraph 2 of Article 104, or Article 105 of this Act.
+
+\2. Violation of an order issued pursuant to the provisions of paragraph 2 of Article 8, the latter part of paragraph 2 of Article 45, paragraph 5 of Article 56, paragraph 4 of Article 80, paragraph 3 of Article 82, paragraph 2 of Article 85, or Article 93 of this Act.
+
+\3. Failure to perform central clearing at a futures clearing house designated by the Competent Authority as required by the provisions of the Competent Authority, in violation of the proviso to paragraph 2 of Article 3, or a futures clearing house violating the provision of Article 18 as applied mutatis mutandis under Article 55 of this Act.
+
+\4. A futures commission merchant violating the provisions of Article 18 as applied mutatis mutandis under Article 79 of this Act.
+
+\5. A leverage transaction merchant violating the provisions, as applied mutatis mutandis under Article 81, of Article 18, paragraph 1 of Article 57, Article 64, paragraph 1 of Article 65, paragraph 1 of Article 66, Article 67, paragraph 1 of Article 70, paragraph 1 of Article 72, Article 73 and Article 74, or paragraph 1 of Article 78 of this Act.
+
+\6. A futures service enterprise violating the provisions, as applied mutatis mutandis under Article 88, of Article 18, paragraph 1 of Article 57, Article 64, paragraph 1 of Article 65, paragraph 1 of Article 66, or Article 74 of this Act.
+
+\7. Failure to furnish accounting books, documentary evidence or other related articles or reporting materials within the period specified in an order issued by the Competent Authority, or any evasion, obstruction, or refusal of the inspection initiated by the Competent Authority pursuant to the provisions of paragraph 1 of Article 98.
+
+\8. Failure on the part of a futures exchange, futures clearing house, futures enterprise, or futures association to prepare, file, publicly announce, maintain, or keep accounts, documentary evidence, financial reports or other relevant business documents according to law or as required by an order issued by the Competent Authority.
+
+\9. Evasion, obstruction, or refusal of an investigation initiated by the Competent Authority pursuant to paragraph 1 of Article 99, or refusal to provide related documents, or refusal without good cause to appear after receiving notice to appear at the office of the Competent Authority for examination.
+
+The penalty for an act punishable by an administrative fine under the preceding paragraph may be remitted if the circumstances of the act are trivial and it is deemed appropriate not to impose punishment.
+
+#### Article 120
+
+If any person refuses to pay an administrative fine imposed under this Act within the required time, the case shall be referred to the courts for compulsory execution.
+
+## Chapter IX Supplementary Provisions
+
+#### Article 121
+
+The Foreign Futures Trading Act shall become inapplicable from the date of enforcement of this Act.
+
+#### Article 122
+
+If any license or credential of qualification obtained or issued pursuant to the Foreign Futures Trading Act, the Securities and Exchange Act, and their related regulations before the enforcement of this Act is inconsistent with the requirements of this Act, the recipient shall apply for a new license or credential with the Competent Authority within one year after the enforcement of this Act.
+
+#### Article 123
+
+After the enforcement of this Act, the Competent Authority referred to in Article 4 shall retain the title Securities and Exchange Commission of the Ministry of Finance until the Organizational Act of the Securities and Exchange Commission of the Ministry of Finance is amended to change its name to the Securities and Futures Commission of the Ministry of Finance.
+
+#### Article 124
+
+The Enforcement Rules of this Act shall be prescribed by the Ministry of Finance.
+
+#### Article 125
+
+The date of enforcement of this Act shall be prescribed by the Executive Yuan.
+
+Amended articles of this Act shall be enforced from the date of promulgation.
+
+## History
+
+\1. Full text of 125 articles enacted and promulgated per 26 March 1997 Presidential Order No. ROC-President-(I)-Yi-8600069970
+
+For enforcement from 1 June 1997 per 30 April 1997 Executive Yuan Order No. (86)-Taiwan-Finance-16983
+
+\2. Articles 119 and 125 amended and promulgated and Article 97-1 added per 12 June 2002 Presidential Order No. ROC-President-(I)-Yi-09100116800
+
+\3. Article 4 amended per 9 June 2010 per Order No. ROC-President-(I)-Yi-09900140711
+
+\4. Article 4 amended and promulgated per 4 February 2015 Presidential Order No. ROC-President-I-Yi-10400012391
+
+\5. Articles 107 and 112 amended and promulgated per 9 November 2016 Presidential Order No. ROC-President-I-Yi-10500136251
+
+\6. Article 113 amended and promulgated per 14 June 2017 Presidential Order No. ROC-President-I-Yi-10600073291
+
+\7. Article 5-1 added and promulgated per 31 January 2018 Presidential Order No. ROC-President-I-Yi-10700009751
+
+\8. Articles 3, 28, 35, 37, 49, 84, 97-1, 100, 109, 111, 116, and 119 amended and promulgated per 16 January 2019 Presidential Order No. ROC-President-I-Jing-10800002771
+
+\9. Articles 112-1 and 112-2 added and promulgated per 28 June 2023 Presidential Order No. Hua-Zong-I-Jing-11200053961

@@ -1,0 +1,131 @@
+---
+title: "Act for Establishing the National Senior High School Affairs Fund"
+title_zh: "國立高級中等學校校務基金設置條例"
+identifier: "H0060031"
+type: act
+law_level: "法律"
+category: "行政＞教育部＞國民及學前教育目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2009-04-29
+last_amended: 2015-05-06
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=H0060031"
+retrieved: 2026-10-12
+---
+
+# Act for Establishing the National Senior High School Affairs Fund
+
+> Translation. The Chinese text ([zh/laws/ministry-of-education/H0060031-act-for-establishing-the-national-senior-high-school-affairs-fund.md](../../../zh/laws/ministry-of-education/H0060031-act-for-establishing-the-national-senior-high-school-affairs-fund.md)) is authoritative.
+
+## Article 1
+
+In order to respond accordingly to senior secondary education development trends, enhance the quality of education, and facilitate schools’ ability to undertake and manage their financial affairs, this Act to establish national senior high school affairs funds has been formulated (herein referred to as "Fund").
+
+## Article 2
+
+A Fund is categorized as a special fund as specified in Article 4, Paragraph 1, Subparagraph 2 of the Budget Act, with subordinate unit budgets compiled. The Ministry of Education is the competent authority and the Ministry of Education K-12 Education Administration is the managing agency.
+
+## Article 3
+
+All income and expenditure of a national senior high school shall be transacted through its Fund, and be handled in accordance with law. A school is not permitted to set up and register a new corporation.
+
+## Article 4
+
+A Fund derives money from the following sources:
+
+1.Funding provided by the government according to budget process.
+
+2.Income from tuition and other fees.
+
+3.Income from continuing education.
+
+4.Income from cooperative education.
+
+5.Income from venue and facility management.
+
+6.Income from works created by students doing internships (experiments).
+
+7.Income from gifts and donations.
+
+8.Interest earned.
+
+9.Other income.
+
+Income from the sources listed in subparagraphs 3 to 6 of the preceding paragraph is exempt from business tax.
+
+The Ministry of Education shall make a generous allocation in its annual budget and is not permitted to stipulate a proportion of its revenue that each school shall individually raise.
+
+## Article 5
+
+A Fund is to be used for the following:
+
+1.Teaching and student scholarship and grant payments.
+
+2.Research costs.
+
+3.Continuing education payments.
+
+4.Cooperative education payments.
+
+5.Asset and property addition, expansion, and improvement related payments.
+
+6.General and administrative expenses.
+
+7.Other school development related payments.
+
+## Article 6
+
+The safeguarding and use of a Fund shall be undertaken prioritizing profitability and security, and storage shall be managed in accordance with the provisions of the National Treasury Act and its related ordinances.
+
+## Article 7
+
+In order to meet its operational needs, the Fund may purchase government bonds, national treasury bills, or other short-term bills.
+
+## Article 8
+
+The compilation and implementation of the Fund’s annual budget and compilation of its final accounts shall be undertaken in accordance with the provisions of the Budget Act, the Accounting Act, the Financial Statement Act, the Audit Act, and their related ordinances.
+
+## Article 9
+
+If the Fund receives a gift, except when the gift is subject to a charge, the Ministry of Education may without undergoing a review process be the competent authority, and not be subject to the provisions of Article 37 of the National Property Act.
+
+The chattels, negotiable securities, and rights that a fund acquires from gifts and investments may be reported to the Ministry of Education and disposed of with its approval and are not subject to the restrictions of Article 28, and Article 60, Paragraph 2 of the National Property Act.
+
+The sale of the negotiable securities referred to in the previous paragraph shall be handled in accordance with the provisions of the Securities and Exchange Act.
+
+## Article 10
+
+The budget of the Fund shall be compiled examining and considering its financial status and its anticipated revenue and expenditure, on the principle that the fund will maintain a budget balance or generate a surplus.
+
+## Article 11
+
+The Ministry of Education K-12 Education Administration shall formulate a uniform accounting system and provide it to each school to use to deal with their Fund’s accounting.
+
+## Article 12
+
+If a Fund has an annual budgetary surplus this may be retained to increase the Fund in line with budget procedures or be dealt with as an unallocated surplus.
+
+## Article 13
+
+In order to improve the performance of the use of each Fund, the Ministry of Education shall organize regular performance evaluations. The regulations governing evaluations shall be formulated by the Ministry of Education.
+
+## Article 14
+
+When a Fund is closed, its accounts shall be finalized and its remaining rights and interests shall be released to the national treasury.
+
+## Article 15
+
+Other public senior secondary schools may use the provisions of this Act, mutatis mutandis.
+
+## Article 16
+
+This Act takes effect on the date of promulgation.
+
+## History
+
+1.Promulgated on April 29, 2009.
+
+2.Amendments to Articles 2 and 11 promulgated on May 6, 2015.

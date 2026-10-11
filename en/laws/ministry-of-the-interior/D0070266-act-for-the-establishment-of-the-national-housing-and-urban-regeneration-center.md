@@ -1,0 +1,407 @@
+---
+title: "Act for the Establishment of the National Housing and Urban Regeneration Center"
+title_zh: "國家住宅及都市更新中心設置條例"
+identifier: "D0070266"
+type: act
+law_level: "法律"
+category: "行政＞內政部＞國土管理目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2018-02-14
+last_amended: 2018-02-14
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0070266"
+retrieved: 2026-10-12
+---
+
+# Act for the Establishment of the National Housing and Urban Regeneration Center
+
+> Translation. The Chinese text ([zh/laws/ministry-of-the-interior/D0070266-act-for-the-establishment-of-the-national-housing-and-urban-regeneration-center.md](../../../zh/laws/ministry-of-the-interior/D0070266-act-for-the-establishment-of-the-national-housing-and-urban-regeneration-center.md)) is authoritative.
+
+## Chapter 1 General Provisions
+
+### Article 1
+
+This Act and the National Housing and Urban Regeneration Center (hereinafter referred to as the “Center”) are established to implement the housing and urban renewal policy, improve the housing environment, enhance urban functions, benefit public interests, and achieve sustainable urban development.
+
+### Article 2
+
+The Center is an administrative corporation, and its supervisory agency is the Ministry of the Interior (MOI).
+
+The MOI may designate an agency to supervise the Center’s operations.
+
+### Article 3
+
+The Center’s scope of business is as follows:
+
+\1. Management of social housing as a trustee.
+
+\2. Integration of and investment in Urban renewal project.
+
+\3. Implement Urban renewal project.
+
+\4. Handle open selections for Urban renewal project and subsequent contract performance management.
+
+\5. Management and operation of real estate in social housing and Urban renewal project.
+
+\6. Information collection, statistical analysis, research planning, feasibility evaluation and training for housing and urban renewal.
+
+\7. Social housing and urban renewal affairs instructed by the supervisor agency.
+
+\8. Other matters related to social housing and urban renewal.
+
+### Article 4
+
+The Center’s sources of funding and assets are as follows:
+
+1.The grant allocation, donations and subsidies from the government.
+
+\2. Appropriations from the Central Urban Regeneration Fund, Housing Fund, New Town Development Fund, etc.
+
+\3. Public land and buildings donated by the government.
+
+\4. Public land or buildings purchased by the Center.
+
+\5. Donations from domestic and foreign public organizations, group, and individuals.
+
+\6. Income from the implementation, operation, and investment in social housing and Urban renewal project.
+
+\7. Income from commissioned research and services.
+
+\8. Sale of land, buildings and other service facilities.
+
+\9. Other income.
+
+### Article 5
+
+Management of social housing by the Center as a trustee, Urban renewal project implemented by the Center, and investments made by the Center in Urban renewal project shall be approved by the board of directors and ratified by the supervisory agencies.
+
+The Center shall adopt its articles of incorporation and regulations governing its own personnel management, accounting system, internal control, auditing, procurement and other requirement. It shall submit such regulations to its board of directors for approval and, upon approval, file them to the supervisory authority for record.
+
+The Center may, without contravening any related law or regulation, draft regulations concerning its execution of public affairs and submit such regulations to its board of directors (council of directors) for approval, and upon approval, file them to the supervisory authority for record.
+
+## Chapter 2 Organization
+
+### Article 6
+
+The Center’s board of directors shall have 11 to 15 directors selected by the supervisory agency from the following persons and appointed by the Premier of the Executive Yuan. The same process shall apply to dismissal:
+
+\1. Representatives of relevant government agencies (institutions).
+
+\2. Experts and scholars on housing, urban renewal, law, or finance.
+
+The number of directors in subparagraph 1 of the preceding paragraph may not be less than half of the total number of directors.
+
+The number of full-time directors in Paragraph 1 may not exceed one third of the total number of directors.
+
+The number of directors of any gender many not be less than one third the total number of directors.
+
+### Article 7
+
+The Center’s board of supervisors shall have 3 to 5 supervisors selected by the supervisory agency from the following persons and appointed by the Premier of the Executive Yuan. The same process shall apply to dismissal:
+
+\1. Representatives of relevant government agencies (institutions).
+
+\2. Experts and scholars on housing, urban renewal, law, or finance.
+
+Supervisors shall appoint an executive supervisor from themselves.
+
+The number of supervisors of any gender many not be less than one third the total number of supervisors.
+
+### Article 8
+
+The term of directors and supervisors is four years calculated individually regardless of session. Directors and supervisors may be reappointed once their term ends. After this Act takes effect, among the directors that are first appointed, the term of 7 directors shall be 2 years; among the supervisors that are first appointed, the term of 2 supervisors shall be 2 years.
+
+Directors and supervisors representing government agencies (institutions) shall be reappointed according to their position change; their reappointment is not limited by the number of reappoints in the preceding paragraph. If a director or supervisor appointed according to Subparagraph 2, Paragraph 1, Article 6 or Subparagraph 2, Paragraph 1 of the preceding article leaves the position before their term ends, the supervisory agency shall select and request the Premier appoint a new director or supervisor. The term of the new director or supervisor will be until the term of the original director or supervisor ends.
+
+### Article 9
+
+A person who has any of the following circumstances may not be appointed as a director or supervisor:
+
+\1. A person who has been placed under custodianship or guardianship, and such placement has not yet been withdrawn.
+
+\2. A person who has been sentenced to imprisonment, and has not yet been declared on probation.
+
+\3. A person who has been declared bankrupt and has yet to come out of bankruptcy.
+
+\4. A person whose citizen’s rights have been suspended and has not yet resumed the rights.
+
+\5. A person who has been certified by a public hospital as incapable of performing duties due to physical or mental disabilities.
+
+A director or supervisor who has one of the above circumstances, or fails to attend meetings of the board of directors for three consecutive times without justified reasons, shall be dismissed.
+
+A director or supervisor may be dismissed if one of the following circumstances arises:
+
+\1. A director or supervisor whose misconduct or poor character affects the image of the Center, and there is concrete evidence of the misconduct.
+
+\2. A director or supervisor who fails to devote reasonable effort or neglects to perform his/her duties, and there are specific facts amounting to material breach of his/her appointment.
+
+\3. The Center to which a director or supervisor is appointed fails the supervisory authority’s performance evaluation for two consecutive years.
+
+\4. A director or supervisor who is found by concrete evidence to have violated the Administrative Neutrality Act.
+
+\5. A director or supervisor who is found by concrete evidence to have accepted gifts or special treatments from lobbyists and misused his/her position to influence supervisory decisions, and as a result jeopardized the interests of the public or the Center.
+
+\6. A director or supervisor who is found by concrete evidence to have misused assets of the Center for non-official reasons.
+
+\7. A director or supervisor who has violated the principle of recusal, or engaged in the prohibited transactions stipulated in the first part of Paragraph 1 of Article 17, and there is concrete evidence of the misconduct.
+
+\8. A director or supervisor who has any conduct that renders him/her unfit for the position of director or supervisor.
+
+The supervisory agency shall give the person involved an opportunity to give a statement or defend him/herself before dismissal for the conditions specified in the preceding paragraph.
+
+Regulations on the appointment, dismissal, additional appointment, and related matters of the Center’s directors and supervisors shall be prescribed by the supervisory agency.
+
+### Article 10
+
+Where the Center has a board of directors, a full-time chairperson shall be appointed by the supervisory authority or Premier of the Executive Yuan. The same shall apply to the dismissal of the chairperson.
+
+The appointment of the chairperson shall be governed by the regulations enacted by the supervisory authority.
+
+The chairperson oversees all matters of the Center and represents the Center externally. If the chairperson cannot perform his/her duties due to certain reasons, the chairperson shall appoint a director perform duties on his/her behalf. If the chairperson cannot appoint a director, the directors shall appoint a director from among themselves to perform duties on behalf of the chairperson.
+
+A chairperson may not exceed the age of 65 at the start of his/her term. Where a chairperson reaches the age of 70 before the expiration of his/her term, he or she shall be immediately replaced. Notwithstanding, special exemptions may be made upon approval by the Executive Yuan.
+
+The chairperson’s remuneration shall be prescribed by the supervisory agency.
+
+### Article 11
+
+Remuneration for the Center’s full-time directors and supervisors shall be prescribed by the supervisory agency; a director and supervisor who concurrently holds another position shall receive no remuneration.
+
+### Article 12
+
+The board of directors shall have the following power:
+
+\1. Review development goals and projects.
+
+\2. Review annual business and operating plans.
+
+\3. Appointment and dismissal of the CEO.
+
+\4. Fund raising and budget allocation.
+
+\5. Review annual budget and final reports.
+
+\6. Review the sale of real estate or setting encumbrances.
+
+\7. Review matters specified in this Act as requiring the board of directors’ resolution.
+
+\8. Review of regulations.
+
+\9. Review other material matters.
+
+### Article 13
+
+The board of directors meets once every two months; an extraordinary meeting may be convened when necessary. Board meetings are called by the chairperson, who also serves as the chairperson of the meeting.
+
+At least half of all directors shall be in attendance in board of directors’ meetings, and resolutions shall be approved by at least half of all directors in attendance. Resolutions for subparagraphs 1 through 8 of the preceding articles shall be approved by at least half of all directors.
+
+### Article 14
+
+The board of supervisor shall have the following power:
+
+\1. To examine and approve financial statements from yearly project.
+
+\2. To supervise business and financial conditions.
+
+\3. To audit financial accounts, documents and assets data.
+
+\4. To examine and approve or audit other matters of material importance.
+
+A supervisor exercises his or her powers independently. The executive Supervisor shall represent the committee of supervisors in attending the board meetings.
+
+### Article 15
+
+Directors, supervisors, and the executive director shall attend meetings of the board of directors or board of supervisors in person, and may not designate a proxy to attend the meeting.
+
+### Article 16
+
+A director or supervisor shall strictly comply with the principle of recusal, and may not abuse the power, opportunities or means arising from his/her position to seek gains for himself/herself or related persons. The scope of recusal and penalties for violation shall be stipulated by the supervisory authority.
+
+A director or supervisor may not be a spouse or relative by blood or marriage within three degrees of kinship to another director or supervisor.
+
+If any land or buildings owned by directors, supervisors or related parties is located within the area of social housing or urban renewal project, the director or supervisor shall report the matter to the board of directors and may not participate in reviews of the project involved.
+
+The scope of related parties referred to in this Act is as follows:
+
+\1. Spouse or family members living together.
+
+\2. Relatives within the second degree of kinship.
+
+\3. A trustee entrusted with the assets of the director or supervisor or spouse.
+
+\4. A profit-seeking business in which the director or supervisor or persons listed in subparagraphs 1 and 2 serve as the person-in-charge, director, supervisor, or manager.
+
+### Article 17
+
+A director, supervisor or related person thereof may not conduct transactions such as sales, lease or contracting with the Center.
+
+A person who violates the requirements set forth in the preceding paragraph and causes harm to the Center shall be liable for compensation to the Center.
+
+### Article 18
+
+The Center has one full-time CEO nominated by the chairperson and appointed after being approved by the board of directors; the same process shall apply for dismissal.
+
+The CEO carries out the Center’s affairs and supervises personnel in accordance with the Center’s regulations, resolutions of the board of directors, and authorization from the chairperson.
+
+Paragraphs 1 through 4 of Article 9, Paragraph 4 of Article 10, Article 16, Article 17, Paragraph 3 of Article 19, and Subparagraph 6 of Article 21 are applicable to the CEO.
+
+### Article 19
+
+Persons employed by the Center shall be governed by their personnel regulations. These persons shall not have civil servant status, and their rights and obligations shall be clearly set forth in their contracts.
+
+A spouse or relative by blood or marriage within three degrees of kinship of a director or supervisor may not hold a position in general affairs, accounting or personnel with the Center.
+
+A chairperson of the Center may not hire his/her spouse or relative by blood or marriage within three degrees of kinship as an employee of the Center.
+
+Directors, supervisors, and the Center’s personnel may not use their position at the Center to violate the law by offering or taking bribes and damage the Center’s reputation.
+
+A person who violates the requirements set forth in the preceding paragraph and causes harm to the Center shall be liable for compensation to the Center.
+
+## Chapter 3 Business and Supervision
+
+### Article 20
+
+The Center shall formulate its development objectives and plans and submit them to the supervisory authority for approval.
+
+The Center shall formulate and submit its annual operation (business) plans and budgets to the board of directors for approval before filing them to the supervisory authority for record.
+
+### Article 21
+
+The supervisory agency’s authority to supervise the Center is as follows:
+
+\1. To approve development goals and plans, management of social housing as a trustee, implementation of Urban renewal project, and investment in Urban renewal project.
+
+\2. To approve or keep records of the regulations, annual operation (business) plans and budgets, and annual performance and financial statement reports.
+
+\3. To inspect the assets and financial condition of the Center.
+
+\4. To evaluate business performance.
+
+\5. To appoint and dismiss directors or supervisors.
+
+\6. To impose necessary punishment on any director or supervisor who violates the law in the discharge of his/her duty.
+
+\7. To revoke, change, terminate or suspend operations; demand timely improvement; or impose other penalties in the event the Center violate the Constitution or other laws and regulations.
+
+\8. To approve the disposal of, or creation of a right in rem over, real estate owned by the Center.
+
+\9. To supervise other matters as prescribed by the law.
+
+### Article 22
+
+The supervisory agency shall invite representatives of related agencies, scholars, experts, and impartial persons to carry out performance evaluations for the Center; the number of scholars, experts and impartial persons may not be less than one half; any gender may not be less than one third of the total number of people.
+
+Contents of the performance in the preceding paragraph are as follows:
+
+\1. To assess the yearly execution outcomes of the Center.
+
+\2. To measure the Center’s operational effectiveness and achievement rates.
+
+\3. To assess the degree to which the Center has reached their annual self-funding targets.
+
+\4. To make recommendations on the appropriation of funds of the Center.
+
+\5. Other related matters.
+
+Regulations on the performance evaluation method, procedures and other related matters shall be prescribed by the supervisory agency.
+
+## Chapter 4 Accounting and Finances
+
+### Article 23
+
+The fiscal year adopted by the Center shall be the same as that of the government.
+
+The accounting system of the Center shall be based on the Regulations for Establishment of the Non-Departmental Public Bodies' Accounting System.
+
+The Center shall mandate a certified public accountant to provide auditing and attestation of its financial statements.
+
+### Article 24
+
+Within three months after the end of the fiscal year, the Center shall entrust a certified public accountant to audit and certify its annual performance and financial statement reports, then submit such reports to the board of directors for deliberation. Upon obtaining approval from the supervisors or the board of supervisors, they shall submit the reports to the audit authority as well as the supervisory authority for record.
+
+The audit authority may audit the financial statement reports prescribed in the preceding paragraph. The audit results may be sent to the supervisory authority or relevant authorities for necessary action.
+
+### Article 25
+
+The amount of funding appropriated by the government in the year the Center is established may be adjusted by the supervisory agency within its budget, and is not limited by Articles 62 and 63 of the Budget Act.
+
+If the Center’s profits in the final report exceeds NT$15 billion in cash after the fiscal year ends, the profits shall be appropriately returned to the Central Urban Regeneration Fund, Housing Fund, New Town Development Fund, etc.
+
+### Article 26
+
+Funds appropriated by government agencies for the Center shall be used according to budgetary procedures specified by law and be subjected to auditing and supervision.
+
+If funds appropriated by government agencies in the preceding paragraph exceed 50% of the Center’s total income in a year, the supervisory agency shall submit the Center’s annual budget to the Legislative Yuan for deliberation.
+
+The Center shall establish regulations on income and expense management for the use and management of its own income sources, and shall submit the regulations to the supervisory agency for recordation.
+
+### Article 27
+
+Public real estate needed for operations of the Center may be handled by government agencies (institutions) using the following methods:
+
+\1. Donation.
+
+\2. Rental.
+
+\3. Provided for use free of charge.
+
+After the Center is established, the Center may purchase public real estate using funds appropriated by government agencies or its self-raised funds. The price of land shall be based on the announced current land value. The price of buildings shall be based on the appraised value provided by the taxation agency for the year of the purchase. If there is no appraised value for the year of the purchase, the price shall be based on the appraisal of the public property management agency.
+
+After the Center is established, government agencies may donate public real estate for the Center to implement social housing business. If the real estate is no longer needed by the Center, the real estate shall be returned to the government agency that donated, and may not be sold at the Center’s discretion.
+
+Articles 25 and 26 of the Budget Act, Articles 28 and 60 of the National Property Act, Article 52 of the Urban Planning Law, and Article 25 of the Land Act are not applicable to donators in Subparagraph 1 of Paragraph 1 and the preceding paragraph.
+
+The Center is registered as the administrator of public real estate in Subparagraph 3 of Paragraph 1. Income from the public real estate is listed as income of the Center and not limited by Paragraph 1 of Article 7 of the National Property Act. Regulations on the management, use, and income from the public real estate shall be prescribed by the supervisory agency. When the public real estate is no longer used by the Center, it shall be handed over to the public property management agency of governments at each level.
+
+Besides the public real estate in Subparagraphs 2 and 3 of Paragraph 1, property obtained by the Center is self-owned property.
+
+### Article 28
+
+The Center shall gain approval from the board of directors when using self-owned property as collateral for obtaining loans.
+
+Debt raised by the Center shall be limited to self-liquidating loans, which shall be submitted to the supervisory authority for approval in advance. Where debt cannot be repaid by self-liquidation according to the outcome of budget implementation, the Center shall promptly review and propose improvement measures to the supervisory authority for approval.
+
+### Article 29
+
+Where the Center conducts procurement, it shall act according to the principles of openness and fairness, as well as treaties or agreements which are concluded by the Republic of China.
+
+Government Procurement Act is not applicable to the procurement prescribed in the preceding paragraph, except for the circumstance set forth in Article 4 of that Act.
+
+Where a law other than the Government Procurement Act is applicable to the procurement subject to Article 4 of the Government Procurement Act as prescribed in the preceding paragraph, that law shall prevail over the Act.
+
+### Article 30
+
+The relevant information of the Center shall be made available to the public pursuant to the related requirements of the Freedom of Government Information Act. It shall take the initiative in making its annual financial statements, operation information, and performance evaluation reports available to the public.
+
+The supervisory authority shall submit the performance evaluation reports prescribed in the preceding paragraph to the Legislative Yuan for reference. The Legislative Yuan may, as it deems necessary, summon the head of the supervisory authority together with the chairperson, head, or related supervisors of the Center to report the operation status and answer questions.
+
+## Chapter 5 Supplementary Provisions
+
+### Article 31
+
+After gaining approval from the supervisory agency, the Center may apply to the registration agency for household registration data or category 1 transcripts specified in Article 24-1 of the Regulations of the Land Registration to carry out operations in Subparagraph 2 or 3 of Article 3, and pay related fees.
+
+Data obtained from the registration agency in the preceding paragraph may not be used for other purposes, and the collection, processing, and use shall be in accordance with the Personal Information Protection Act.
+
+The scope and elements of the application in Paragraph 1 shall be prescribed by the supervisory agency.
+
+### Article 32
+
+A person objecting to an adjudication given by the Center may file an administrative appeal to the competent supervisory authority in accordance with the Administrative Appeal Act.
+
+### Article 33
+
+Where the Center cannot meet the objectives of its establishment due to a change of circumstances or poor performance, its supervisory authority should apply to the Executive Yuan for its dissolution, which should be enforced upon the Executive Yuan’s approval.
+
+Upon the dissolution of the Center, contracts of personnel shall be terminated; remaining assets shall be paid into the treasury, and supervisory agency shall be responsible for all debts of the Center.
+
+### Article 34
+
+The enforcement date of this Act shall be determined by the Executive Yuan.
+
+## History
+
+1.Full text of 34 articles enacted and promulgated by Presidential Order Hua-Zhong (1)-Yi-Zi No. 10700016271 dated February 14th, 2018; the effective date will be prescribed by the Executive Yuan

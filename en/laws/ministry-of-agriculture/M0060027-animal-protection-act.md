@@ -1,0 +1,727 @@
+---
+title: "Animal Protection Act"
+title_zh: "動物保護法"
+identifier: "M0060027"
+type: act
+law_level: "法律"
+category: "行政＞農業部＞動物保護目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1998-11-04
+last_amended: 2021-05-19
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0060027"
+retrieved: 2026-10-12
+---
+
+# Animal Protection Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-agriculture/M0060027-animal-protection-act.md](../../../zh/laws/ministry-of-agriculture/M0060027-animal-protection-act.md)) is authoritative.
+
+## Chapter I General Provisions
+
+### Article 1
+
+1.1 This Act is hereby enacted out of respect for animal life so as to protect animals and improve animal welfare.
+
+1.2 This Act governs activities to protect animals. However, other laws may prevail if they contain specific applicable stipulations.
+
+### Article 2
+
+2.1 The term “competent authority” in this Act refers to one of the following: the Council of Agriculture of the central government, the municipal government of a special municipality, or a city/county government.
+
+2.2 A municipal, city/county government (hereinafter “local government”) shall set up an animal protection agency dedicated to the enforcement of this Act.
+
+### Article 3
+
+3.1 Definition of terms used in this Act:
+
+3.1.1 Animal: a dog, a cat or any vertebrate reared or tended by humans for its economic value, for laboratory use, as a pet or for other purposes.
+
+3.1.2 Economic animal: an animal reared and tended for the production of fur, meat, milk, labor or for other economic purposes.
+
+3.1.3 Laboratory animal: an animal reared and tended for scientific applications.
+
+3.1.4 Scientific application: a usage for the purpose of teaching, scientific experiment; biological products manufacturing, product testing, drugs, poison/toxin; or facilitating organ transplant.
+
+3.1.5 Pet: an animal, such as a dog or a cat, reared and tended for enjoyment or companionship.
+
+3.1.6 Pet food: feed or substance to provide a balanced diet of nutrients to animals declared as pets by the central competent authority.
+
+3.1.7 Owner: the person having possession of, or actually tending, an animal.
+
+3.1.8 Pet breeding facility: a place to breeding, selection or reproduce pets for commercial purposes.
+
+3.1.9 Pet food vendor: a person/business engaged in the manufacturing, processing, packaging, wholesale or retail, or import/export of pet food.
+
+3.1.10 Abuse: harming an animal or making it unable to function properly with violence, drug diversion, physical objects, acts of omission, or other means, beyond what is necessary to rear, tend or dispose of an animal.
+
+3.1.11 Transporter: someone whose job is to transport animals.
+
+3.1.12 Slaughterer: someone whose job is to slaughter economic animals at an abattoir.
+
+3.1.13 Performing: using animals for display, performance or interaction with people in a public place or venue with public access.
+
+## Chapter II General protection of animals
+
+### Article 4
+
+4.1 The central competent authority shall form a panel – consisting of experts, scholars, officials from relevant agencies and representatives from legitimate animal welfare civic groups – to develop animal protection policies and education curriculum, as well as indicators and white paper for animal welfare, to be subject to a quarterly performance review. The number of experts, scholars and animal protection advocates combined – those not in official capacities – must not be less than two thirds of the panel.
+
+4.2 When and if there is a shortage of animal drug to treat diseases, some categories of human drug declared by the central competent authority may be used in dogs, cats and non-economic animals as long as the veterinarian (or the vet’s aid) enters a note in the medical record.
+
+4.3 Regulations governing the use and management of human drug on dogs, cats and non-economic animals -- as described in Clause 4.2 -- shall be stipulated by the central competent authority in collaboration with the central health competent authority.
+
+### Article 4-1
+
+Authorities at all levels shall promote education and studies relevant to animal ethics and animal protection regulations to enhance public awareness about animal welfare; also instill such knowledge through the 12-year basic education curriculum.
+
+### Article 5
+
+5.1 Only adults are eligible in the case of natural-person ownership. The statutory agent or legal guardian of a minor keeping or tending animals shall be the owner on behalf of the minor.
+
+5.2 Regarding animals tended under his care, an owner shall comply with the followings:
+
+5.2.1 Providing proper, clean and harmless food as well as adequate and clean water which should be available at all times.
+
+5.2.2 Providing a living environment that is safe, clean, well- ventilated, non-flooding with proper and adequate shelter, lighting and warmth.
+
+5.2.3 Providing necessary precaution against infectious animal diseases.
+
+5.2.4 Preventing the animal from harassment, abuse or injury.
+
+5.2.5 Providing adequate room for a caged pet to stretch and move about, while allowing sufficient out-of-cage activities.
+
+5.2.6 For a pet kept on a leash and collar, using a leash longer than its body length allowing it to stretch and move about, and a collar that is safe, comfortable, breathable and of proper elasticity; also giving the pet sufficient outdoor activities whenever appropriate.
+
+5.2.7 Must not tow the pet behind a car or motorcycle.
+
+5.2.8 Moving the pet to a safe location with a chance to escape from a place with potential hazards.
+
+5.2.9 Not confining a pet in an enclosed space for a long time; keeping the vent holes open to allow breathing.
+
+5.2.10 Providing other proper care.
+
+5.2.11 Other than neutering, a pet must not be subject to any non-essential or non-medical surgery.
+
+5.3 An owner must not abandon any animal under his care unless it has been accepted for custody or disposal by an animal shelter, or a refuge designated by the local competent authority.
+
+### Article 6
+
+One must not harass, abuse or injure any animal.
+
+### Article 6-1
+
+6-1.1 One must not stage any animal performance, unless the local competent authority has granted a permit upon application, or the animal performance is of a type, condition, format or venue exempted as declared by the central competent authority.
+
+6-1.2 For the permit in Clause 6-1.1, eligible applicants are social education organizations, leisure farms, tourist entertainment companies, or entities specified by the competent authority; the local competent authority shall reject the application in Clause 6-1.1 if the applicant or any of its employees has been convicted of an offense in Article 25 or Clause 25-1.1.
+
+6-1.3 Upon notice by the local competent authority, the applicant in Clause 6-1.1 shall pay a monetary deposit, purchase liability insurance, or put up a surety bond which shall be forfeited to the local competent authority for proper care -- rearing, tending, placement or other means -- of performing animals in case the applicant fails to care for them properly.
+
+6-1.4 The entity staging the animal performance shall provide proper facility, dedicated full-time staff, and report performing-animals’ relevant information to the competent authority for assessments. The competent authority shall order the entity failing the assessment to take corrective actions before a specific deadline; the authority may revoke the permit if the entity fails to meet the deadline.
+
+6-1.5 Application rules of animal performance permit in Clause 6-1.1 (conditions, procedure, documents to submit, review criteria and permit period), qualification of the applicant and relevant staff in Clause 6-1.2, monetary deposit, liability insurance or surety bond in Clause 6-1.3 (payment method, amount, and disbursement), as well as caring for animals in Clause 6-1.4 (dedicated staff, animal facility, information to report, rearing and tending, assessment, permit revocation) and other requirements are to be stipulated by the central competent authority.
+
+6-1.6 Animal performances already in progress by May 22, 2018 – amendment date of relevant clauses in this Act – shall be exempted from Clause 6-1.1, and may continue until the first anniversary of the effective date of the amendment.
+
+### Article 6-2
+
+Maximum weekly hours, maximum service years, old-age care and requirements for dogs owned by government agencies -- for quarantine, controlled-drug enforcement, police, rescue or national defense purposes – shall be stipulated by the central competent authority.
+
+### Article 7
+
+An owner shall prevent his animal from infringing on the life, body, freedom, or property of others without due cause.
+
+### Article 8
+
+The central competent authority may specify and declare the breed names of animals banned from being owned, imported or exported.
+
+### Article 9
+
+9.1 A transporter shall pay attention to food, water, excrement, surrounding conditions and safety of animals being transported, while keeping them from panicking, suffering or harm.
+
+9.2 Transporters shall receive pre-job training to obtain a certificate before transporting the type of animals declared by the central competent authority as requiring special handling.
+
+9.3 Transporters shall receive on-job training once every two years after obtaining the certificate described in Clause 9.2. Regulations governing transporter training, animal transport vehicles and protocols shall be stipulated by the central competent authority.
+
+### Article 10
+
+10.1 One must not do the followings to any animal:
+
+10.1.1 Conducting fights that pit an animal against another animal or human for direct/indirect gambling, entertainment, profit, business promotion or a dubious purpose.
+
+10.1.2 Conducting animal races or contests for direct/indirect gambling.
+
+10.1.3 Abusing, swapping or giving away animals for direct/indirect gambling or a dubious purpose.
+
+10.1.4 Using excessive force or electric stunning to gather and drive animals, or causing harm when branding animals (with sharp tools) during their transport, auction or resting on the way to market/abattoir.
+
+10.1.5 Subjecting economic animals in the abattoir to force-feeding of water/food, tying, tossing, hurling, cutting and bleeding without humanly rendering them unconscious first.
+
+10.1.6 Any act that deviates from social norms.
+
+### Article 11
+
+11.1 The owner shall provide necessary medical care to an injured or sick animal.
+
+11.2 Animals must not be subject to medical treatment or surgery unless it is necessary for the health or management of animals. The treatment or surgery shall be conducted by a veterinarian, unless it is for emergency, scientific application, or situations declared by the central competent authority.
+
+### Article 12
+
+12.1 No one shall be allowed to kill animals without due cause unless in any of the following situations:
+
+12.1.1 For obtaining meat, skin, fur, feather or other intended economic gain that animal is reared for.
+
+12.1.2 For scientific applications.
+
+12.1.3 For epidemic control or species improvement.
+
+12.1.4 For culling over-populated economic animals upon prior consent of competent authorities.
+
+12.1.5 For relieving animals’ pain from injury or illness.
+
+12.1.6 For preventing an imminent danger to the life, body, health, freedom or property of human, or to public security.
+
+12.1.7 Animals in a shelter (or a designated local refuge)of an animal diagnosed by a veterinarian as having an incurable or notifiable infectious disease, causing unsanitary conditions, or posing hazards to human/animal health and public security.
+
+12.1.8 For other circumstances in this Act or declared by the central competent authority.
+
+12.2 The central competent authority    may declare the type of animals     banned from　slaughter in Clause 12.1.1.
+
+12.3 One must not do any of the following, even on pretext of Clause 12.1.1:
+
+12.3.1 Killing a dog/cat, selling, buying, eating or possessing the remains (carcass or offal) or food containing ingredients thereof.
+
+12.3.2 Selling the carcass of an animal banned from slaughter by the central competent authority.
+
+12.4 Animals eligible for reclamation or adoption according to Clause 14.2 shall exclude those animals declared as banned from ownership, or importation in Article 8. However, for an animal already owned/imported and duly registered according to Clause 36.1 before the declaration, the owner is allowed to reclaim it.
+
+12.5 Within two years from January 23, 2015 when this revision of the Act becomes effective, animal shelters -- or designated local refuges -- may kill those animals yet to be reclaimed, adopted or disposed of, after 12 days from the date of notification or public announcement. Such shelters are not bound by Clause 12.1.
+
+### Article 13
+
+13.1 Anyone killing animals for reasons in Clause 12.1 shall do so in a humane way to minimize animals’ pain. Additional guidelines regarding animal killing are:
+
+13.1.1 One must not kill animals in a public place or a venue with public access unless otherwise stipulated by the competent authority.
+
+13.1.2 The act of putting a pet to death to relieve its pain shall be performed by a veterinarian unless in emergency.
+
+13.1.3 A veterinarian shall personally conduct or supervise over the disposition of animals at an animal shelter or a designated local refuge.
+
+13.1.4 Excess animals shall be culled in a way approved by the competent authority.
+
+13.2 The central competent authority shall, based on actual needs, formulate protocols to put animals to death in a humane way.
+
+13.3 Slaughterers of economic animals shall -- on an annual basis -- attend workshops on humane slaughter practices in training programs organized by the competent authority or a delegated entity.
+
+### Article 14
+
+14.1 Based on demography of human and stray animal populations, local competent authorities shall set up animal shelters locally, or delegate private organizations/groups to set up animal shelters or specific venues for harboring and handling of:
+
+14.1.1 stray animals caught by local competent authorities or members of the public,
+
+14.1.2 animals whom the owner no longer wish to keep,
+
+14.1.3 animals detained or confiscated by competent authorities according to this Act, or
+
+14.1.4 animals in distress.
+
+14.2 For a sheltered animal described in Clause 14.1 whose ownership cannot be confirmed, or whose owner -- though identified (through pet registration or other information) and notified -- fails to reclaim the lost pet within seven days from the notification date, the competent authority or shelter may declare this animal eligible for adoption, or have it neutered, or subject to other necessary disposal measures.
+
+14.3 The central competent authority shall allocate budgets to subsidize local competent authorities in setting up animal shelters and carrying out animal protection tasks such as neutering, reclamation and adoption. Organization laws and operating procedures for public animal shelters shall be stipulated by the central competent authority.
+
+14.4 Local competent authorities may devise incentive programs to supervise and assist private organizations/groups in setting up animal shelters.
+
+14.5 Fees may be charged for services provided by animal shelters or designated local refuges. Fee standards are to be formulated by local competent authorities.
+
+### Article 14-1
+
+14-1.1 One must not capture animals by any of the following means:
+
+14-1.1.1 explosive material,
+
+14-1.1.2 poison,
+
+14-1.1.3 electricity,
+
+14-1.1.4 corrosive substance,
+
+14-1.1.5 firearms other than a tranquilizing gun,
+
+14-1.1.6 traps, or
+
+14-1.1.7 any method declared to be banned by competent authorities.
+
+14-1.2 Competent authorities may remove, dismantle and destroy devices for any of the prohibited methods in Clause 14-1.1 without official consents. The landlord, user or person in charge must not evade, obstruct or refuse.
+
+### Article 14-2
+
+One must not manufacture, sell, display, import or export animal traps without prior approval from the central competent authority.
+
+## Chapter III Scientific Application of Animals
+
+### Article 15
+
+15.1 One shall avoid using live animals for scientific application; when it cannot be avoided, one shall do so with the least number of animals and in a way inflicting the least pain or harm.
+
+15.2 The central competent authority may formulate regulations governing the source, application scope and management of lab animals based on the type of animals.
+
+### Article 16
+
+16.1 The institution using animals for scientific application shall set up a panel for the care and use of lab animals for scientific application within the institution.
+
+16.2 The central competent authority shall invite scholars, experts, officials from related agencies and registered civic animal welfare groups to regularly supervise and manage the scientific application of animals. There should be at least one veterinarian and one representative from a civil group on this list.
+
+16.3 Regulations governing the composition, mission and management of the animal care and use committee/panel in an institution shall be formulated by the central competent authority.
+
+### Article 17
+
+17.1 One shall examine the conditions of a lab animal immediately after a scientific application is completed. Animals whose quality of life has been compromised from losing limbs, organs or pain shall be put to death in the least painful way.
+
+17.2 A lab animal must not be subject to additional use for scientific application before its physiological functions have fully recovered unless necessary for scientific purposes.
+
+### Article 18
+
+Schools at or below the high school level must not conduct courses causing animal injury or death beyond the curriculum designated by the education competent authority.
+
+## Chapter IV Management of pets
+
+### Article 19
+
+19.1 The central competent authority may specify and declare the breeds of pets subject to compulsory registration with the government.
+
+19.2 The owner shall register the birth, acquisition, transfer, missing and death of a pet described in Clause 19.1 with the local competent authority or the delegated private entity. The local competent authority shall issue an ID tag to each registered pet. Every pet shall get an ID microchip implant.
+
+19.3 Procedure and deadline for the registration described in Clause 19.2, neutering incentives, other regulations governing ID tags/chips shall be stipulated by the central competent authority.
+
+### Article 20
+
+20.1 A pet in a public place or venue with public access must have human company over seven years of age.
+
+20.2 An aggressive pet showing up in a public place or venue with public access must have adult human company who shall take precaution to protect the public.
+
+20.3 The central competent authority shall specify and declare the breed names of aggressive pets and relevant precaution to be taken in Clause 20.2.
+
+### Article 20-1
+
+Local competent authorities shall provide proper and adequate public facilities for activity of pets accompanied by their owners.
+
+### Article 21
+
+21.1 When a pet subject to compulsory registration shows up without human company in a public place or a venue with public access, anyone may assist and guard the pet on the way to an animal shelter or a designated local refuge.
+
+21.2 The owner shall be notified promptly if the pet in Clause 21.1 carries an ID tag or chip. If there is no ID tag/chip, or no one comes to reclaim the pet within 12 days, the pet will be disposed of according to Articles 12 and 13.
+
+21.3 If the pet in Clause 21.1 has a contagious disease or is in distress, it may be put to death in a humane way.
+
+21.4 Clauses 21.2 and 21.3 shall apply in a similar manner for a pet given up by its owner to an animal shelter, or a designated local refuge.
+
+## Chapter IV-1 Management of vendors of pet breeding, trading, lodging service and pet food
+
+### Article 22
+
+22.1 No one shall be allowed to sell the specific breeds of pets. However, vendors with permits from local competent authorities and legitimate business licenses may operate commercial breeding, trading and lodging of specific breeds of pets. Duration of the permit is three years.
+
+22.2 The breed names of specific pets in Clause 22.1; qualifications for pet breeding, trading, and lodging vendors, their facilities and full-time staffs; application procedure for the permit and its duration; criteria for permit renewal, revocation or suspension; regulations governing pet breeding shall be stipulated by the central competent authority.
+
+22.3 The owner of specific breeds of pets, other than the vendors specified in Clause 22.1, shall neuter their pets, unless a neutering waiver is obtained upon filing a breeding management plan with the local competent authority. The owner shall file for record with the authority if there is a need for breeding, and subsequently register for and implant chips on new additions according to Article 19.
+
+22.4 Local competent authority may require the owner on file in Clause 22.3 to provide the status of specific breeds of pets under his care, and information about previous/subsequent owner whom the pet is transferred from or to.
+
+22.5 Vendors already in breeding, trading or lodging business of specific breeds of pets before the regulations according to Clause 22.2 becomes effective, shall obtain permits within two years from the effective date. Failure to comply will result in penalties listed in Article 25-1.
+
+### Article 22-1
+
+22-1.1 Local competent authorities shall conduct regular inspection and evaluation of pet breeding, trading, and lodging vendors; regulations governing inspection and evaluation shall be stipulated by the central competent authority.
+
+22-1.2 Inspection reports defined in Section 22-1.1 shall be published on a regular basis.
+
+### Article 22-2
+
+22-2.1 Traders of specific breeds of pets mentioned in Article 22 shall acquire such animals only from pet breeders or traders with permits; and must not trade or transfer such animals to a third party without ID microchip implants.
+
+22-2.2 In transactions of specific breeds of pets described in Article 22, breeders or traders shall prepare and provide to the buyer documentations about the pets.
+
+22-2.3 Vendors of pet breeding, trading or lodging services mentioned in Clause 22-2.2 shall indicate the permit number in electronic, print, telecommunication or other media for business promotion.
+
+### Article 22-3
+
+22-3.1 Vendors in pet food manufacturing, processing or importation business shall file for record with the central competent authority the type of pet food handled.
+
+22-3.2 The central competent authority shall formulate regulations governing the type of pet food subject to filing for record, and the content, format, deadline, procedure and other aspects about the filing.
+
+### Article 22-4
+
+22-4.1 One must not manufacture, process, repackage, wholesale, retail, import, export, give away for free, or display for sale a pet food in any of the following conditions:
+
+22-4.1.1 contaminated with pathogenic microorganism,
+
+22-4.1.2 with a pet health hazard exceeding the allowable level for safety,
+
+22-4.1.3 beyond the expiration date, or
+
+22-4.1.4 the labeling is non-compliant, unclear or incomplete.
+
+22-4.2 The type of pathogenic microorganism and animal health hazards mentioned in Clause 22-4.1, and their allowable levels are to be prescribed by the central competent authority.
+
+### Article 22-5
+
+22-5.1 Chinese language and universal symbols shall be used on the container, package or instruction of pet food to indicate the followings:
+
+22-5.1.1 product name,
+
+22-5.1.2 net weight, volume, quantity or other measurement; net weight, volume or quantity shall be expressed in legal metrology units (other units could be used additionally when necessary),
+
+22-5.1.3 names of primary materials and additives,
+
+22-5.1.4 nutrients and their amounts,
+
+22-5.1.5 the name, address and phone number of the manufacturer or processer; or the names, addresses, phone numbers of the importer and domestic company in charge and the country of origin for imported products,
+
+22-5.1.6 expiration date or date of manufacturing,
+
+22-5.1.7 shelf life, storage methods and conditions,
+
+22-5.1.8 intended pet type, feeding method and other instructions, and
+
+22-5.1.9 other information required by the central competent authority
+
+22-5.2 Labeling, promotion material or advertisement for pet food must not include false, exaggerated or misleading information.
+
+22-5.3 One must not manufacture, sell, import, export, or use a container or package for pet food that is:
+
+22-5.3.1 poisonous,
+
+22-5.3.2 prone to undesirable chemical reactions, or
+
+22-5.3.3 imposing health hazards.
+
+## Chapter V Government supervision
+
+### Article 23
+
+23.1 Local competent authorities shall have full-time animal protection inspectors, and may recruit animal protection volunteers to assist in relevant tasks.
+
+23.2 For verification and enforcement against offenses of this Act, animal protection inspectors may enter animal contest grounds, commercial venues where animals are slaughtered, bred, traded, lodged, displayed; or facilities for animal training or scientific applications.
+
+23.3 One must not evade, obstruct or refuse the verification or enforcement described in Clause 23.2.
+
+23.4 Local competent authorities may delegate the verification tasks in Clause 23.2 to third-party agencies, legal entities, groups or individuals.
+
+23.5 To perform the duty, animal protection inspectors shall show relevant document, or paper for identification; police assistance could be obtained when necessary.
+
+23.6 Municipal or city/county police forces assisting animal protection inspectors performing duties shall have had relevant technical training.
+
+23.7 For this Act to be effectively enforced, competent authorities shall allocate funds in the annual budget year after year to facilitate animal protection tasks such as stray dog control, innovative adoption campaign, programs for service dogs and/or school dogs, and setting guidelines for shelter management.
+
+### Article 23-1
+
+23-1.1 In collaboration with other authorities, local competent authorities may dispatch inspectors to business premises or related facilities of pet food vendors for inspection or sampling test.
+
+23-1.2 For the inspection or sampling test in Clause 23-1.1, the local competent authority may require the pet food vendor to provide documents or records about production, inbound and outbound shipment, or inventory control.
+
+23-1.3 When conducting inspection or sampling test in Clause 23-1.1, the inspector shall show authorization document or the badge for identification.
+
+23-1.4 Pet food vendors must not evade, obstruct or refuse inspection or sampling test described in Clause 23-1.1.
+
+### Article 23-2
+
+Pet food products confirmed to contain pathogenic microorganism or pet health hazards exceeding the allowable standards prescribed according to Clause 22-4.2, the local competent authority shall demand the of fending products be recalled, destroyed, or otherwise properly disposed of before a deadline.
+
+### Article 24
+
+Local competent authorities shall notify institutions or schools incompliant with Article 15, Clause 16.1, Article 17 or Article 18 to take corrective and necessary actions by a deadline.
+
+## Chapter VI Penalty
+
+### Article 25
+
+25.1 A jail term or penal servitude under two years, in conjunction with a fine over NT$200,000 and under NT$2,000,000 will be imposed for any of the following situations:
+
+25.1.1 Killing, deliberate hurting, or causing injury of an animal in violation of Clause 5.2, Article 6, or Clause 12.1 resulting in mangled limbs, or vital organ failure of the animal.
+
+25.1.2 Violation of Clause 12.2 or Clause 12.3.1, namely killing a dog/cat or an animal banned from slaughter as declared by the central competent authority.
+
+### Article 25-1
+
+25-1.1 A jail term of no less than one year and up to five years in conjunction with a fine over NT$500,000 and under NT$5,000,000 will be imposed on a person in serious violation of Clause 5.2, Article 6, Clause 12.1, Clause 12.2 or Clause 12.3.1with drugs or fire arms to cause death of multiple animals.
+
+25-1.2 The competent authority may publicize the offender’s name, photo and facts about any offense described in Article 25 or Clause 25-1.1.
+
+### Article 25-2
+
+25-2.1 A fine of over NT$100,000 and underNT$3,000,000 will be imposed on anyone that operates breeding, trading and lodging business of specific breeds of pets in violation of Clause 22.1, namely without a permit issued by the local competent authority. In addition to the fine, the offender shall be ordered to close down the business. The offender shall be fined for each closure deadline extended but missed.
+
+25-2.2 The local competent authority may confiscate the animal under the charge of the offender in violation of Articles 25 or Article 25-1, or the specific breed of pets for breeding or trading in Articles 25-2.1.
+
+### Article 26
+
+A fine over NT$50,000 and under NT$250,000 will be imposed in any of the following situations:
+
+26.1.1 Violation of Clause 6-1.1, namely staging an animal performance.
+
+26.1.2 Violation of Article 8, namely owning, exporting or importing a breed of animals whose ownership, exportation and importation have been banned by the central competent authority.
+
+26.2 The local competent authority may, regardless of ownership, confiscate the animal involved in Clause 26.1.1.
+
+### Article 27
+
+27.1 A fine of over NT$50,000 and under NT$250,000 will be imposed – the offender’s name, photo, and fact of offense may be publicized; the offender may be required to take corrective actions by a deadline; the fine may be imposed for each deadline extended and missed – in any of the following situations:
+
+27.1.1 Violation of Clause 10.1.1, namely facilitating fights that pit one animal against another or against human.
+
+27.1.2 Violation of Clause 10.1.1, namely fighting against animals.
+
+27.1.3 Violation of Clause 10.1.2, namely operating animal races for gambling directly or indirectly.
+
+27.1.4 Violation of Clause 10.1.3, namely directly or indirectly offering animals for swaps or gifts in a gamble or illicit activity.
+
+27.1.5 Violation of Clause 10.1.6, namely using animals in a manner deviating from social norms.
+
+27.1.6 Violation of Clause 12.3, namely selling, buying, eating or possessing the remains -- carcasses, offal or food containing dog/cat parts, or carcasses of animals banned from slaughter as declared by the central competent authority.
+
+27.1.7 Violation of regulations governing pet breeding as stipulated by the central competent authority in accordance with Clause 22.2.
+
+27.1.8 Violation of Clause 22.3, namely -- after choosing not to neuter the animal -- failure to file a breeding management plan, or breeding an animal without prior filing for record of such a need.
+
+27.1.9 The action to manufacture, process, repackage, wholesale, retail, import, export, give away for free, or display for sale a pet food in conditions described in Clause 22-4.1.1 or Clause 22-4.1.2.
+
+27.1.10 Noncompliance of Article 23-2, namely failure to recall, destroy or properly dispose of tainted products by a deadline specified by the local competent authority.
+
+### Article 27-1
+
+A jail term or penal servitude under one year, or a fine of under NT$30,000, or both, will be imposed for an action to disseminate, broadcast, or sell text, picture, audio or video recording, electronic record that violates Article 6, Article 10, or Clause 12.1; or to display the above in public, or to allow others to watch and/or listen.
+
+### Article 28
+
+28.1 A fine over NT$40,000 and under NT$200,000 will be imposed – the offender’s commercial name, personal name and photo may be publicized; the offender may be required to take corrective actions by a deadline; the fine may be imposed for each deadline extended and missed; the permit may be revoked after three offenses – in any of the following situations:
+
+28.1.1 Failure to comply with qualifications for breeding, trading, and lodging vendors of specific breeds of pets, their facilities and full-time staffs, as stipulated by the competent authority according to Clause 22.2.
+
+28.1.2 Violation of Clause 22-1.1, namely acquisition of specific breeds of pets from breeders or traders without permits; or trading or transferring such animals to a third party without implanting ID microchips.
+
+### Article 29
+
+29.1 A fine of over NT$30,000 and under NT$150,000 will be imposed for any of the following situations:
+
+29.1.1 Violation of Clause 5.3, namely animal abandonment.
+
+29.1.2 Noncompliance of rules stipulated under Clause 6-1.5, namely those about monetary deposit, liability insurance or surety bond, dedicated full-time staff, animal facility, information reporting, and animal rearing/tending.
+
+29.1.3 Noncompliance of Article 24, namely failure to take corrective actions or properly dispose of animals before a deadline upon violating Clause 15.1, Article 17 or Article 18.
+
+29.1.4 Noncompliance of Article 16-1, namely failure to form a panel for proper care and use of laboratory animals.
+
+29.1.5 Violation of Clause 20.2, namely allowing an aggressive pet to roam about in a public venue or a place with public access without adult supervision or proper precaution.
+
+29.1.6 Violation of Clause 23.3, namely the action to evade, obstruct, or refuse enforcement by animal protection inspectors.
+
+29.1.7 The action to manufacture, process, repackage, wholesale, retail, import, export, give away for free, or display for sale a pet food described in Clause 22-4.1.3 and Clause 22-4.1.4.
+
+29.1.8 Failure to take corrective actions before a specific deadline for noncompliance of Clause 22-5.1 about labeling.
+
+29.1.9 Noncompliance of Clause 22-5.2, namely making false, exaggerated, or misleading statements in labeling, promotion material or advertisement.
+
+29.1.10 Nonconformance of Clause 22-5.3, namely the action to manufacture, sell, import, export or use containers or packages described therein for pet food.
+
+29.1.11 Noncompliance of Clause 23-1.4, namely the action to evade, obstruct, or refuse inspection or sampling test by inspectors.
+
+29.2 The local competent authority may, regardless of ownership, confiscate the animal involved in Clause 29.1.2 or 29.1.3.
+
+### Article 30
+
+30.1 A fine of over NT$15,000 and under NT$75,000 will be imposed in any of the following situations:
+
+30.1.1 Violation of any provision from Clause 5.2.1 to 5.2.10 or Article 6 with intention (to deliberately injure or cause injury to an animal, but short of leading to mangled limbs, loss of major organ functions or death), or out of gross negligence (thus accidentally injure or cause injury to an animal leading to mangled limbs, loss of major organ functions, or death).
+
+30.1.2 Violation of Clause 5.2.11, namely subjecting a pet to any non-essential or non-medical surgery other than for neutering.
+
+30.1.3 Failure to take corrective actions before a deadline specified by a local competent authority regarding a violation of Clause 11.1, namely not providing necessary medical care to an injured or sick animal.
+
+30.1.4 Violation of Clause 13.1.1 namely killing animals in a public venue or a place with public access.
+
+30.1.5 Noncompliance of Clause 13.1.4 namely failure to cull animals in a manner approved by the competent authority.
+
+30.1.6 Noncompliance of Clause 13.2, namely failure to abide by the guideline for animal slaughter as stipulated by the central competent authority.
+
+30.1.7 Noncompliance of Clause 14-1.1, namely capturing animals by a means that is banned.
+
+30.1.8 Violation of Article 14-2, namely the action to manufacture, sell, display, import or export animal traps without prior consent of the central competent authority.
+
+30.1.9 Noncompliance of Clause 22-2.2, namely refusal or failure of the breeder or trader to provide to the buyer documents about the pet in the transaction.
+
+30.1.10 Noncompliance of Clause 22-2.3, namely failure of vendors of pet breeding, trading or lodging business to indicate the permit number in electronic, print, telecommunication or other media for business promotion.
+
+30.2 A jail term up to two years will be imposed for a deliberate repeat offense of any clause from 30.1.1 to 30.1.8 within five years from the date the previous penalty notice is served on an offense of any clause in that group.
+
+### Article 30-1
+
+30-1.1 A fine of over NT$3000 and under NT$15,000 will be imposed in any of the following situations; the fine may be imposed each time the offense occurs:
+
+30-1.1.1 Failure to take corrective actions before a deadline after violating – but not causing injury to the animal -- any clause from 5.2.1 to 5.2.10.
+
+30-1.1.2 Violation of any provision from Clause 5.2.1 to 5.2.10 or Article 6 out of negligence (thus accidentally injure or cause injury to an animal but short of leading to mangled limbs, loss of major organ functions, or death).
+
+30-1.1.3 Noncompliance of Clause 22.4, namely failure to take corrective actions before a specific deadline after being required to provide status report of the pet of a specific type, and the information about the previous/subsequent owners whom the pet is transferred from or to.
+
+### Article 31
+
+31.1 A fine of over NT$3000 and under NT$15,000 will be imposed -- the offender may be required to take corrective actions before a specific deadline, and the fine may be imposed each time the deadline is extended but missed – in any of the following situations:
+
+31.1.1 A veterinarian (or a vet’s aid) administering drugs other than those in the declared categories, on economic animals in violation of Clause 4.2; or any person failing to abide by the rules stipulated under Clause 4.3.
+
+31.1.2 Noncompliance of Clause 9.2 by a transporter, namely operating animal transport business without completing a pre-job training to get a certificate.
+
+31.1.3 Noncompliance of Clause 9.3 by a transporter, namely failure to get once-every-two-year on-job training offered by the competent authority or a delegated entity.
+
+31.1.4 Violation by a transporter of guidelines for animal transport vehicles and processes stipulated by the central competent authority according to Clause 9.3.
+
+31.1.5 Violation of Clause 11.2 namely conducting medical treatment or surgery for purposes other than animal health or management.
+
+31.1.6 Violation of Clause 13.1.2, namely killing animals without a qualified veterinarian, or in a non-emergency situation.
+
+31.1.7 Violation of Clause 13.1.3 namely animals killed by someone other than a qualified veterinarian, or without the supervision of a veterinarian.
+
+31.1.8 The owner failing to meet registration deadlines – about birth, acquisition, transfer, missing or death of a pet – stipulated under Clause 19.3 by the central competent authority.
+
+31.1.9 The owner violating Clause 20.1, namely allowing a pet to be in a public place or venue with public access without a human companion over seven years of age.
+
+31.1.10 Failure to take corrective actions before a specific deadline regarding noncompliant of Clause 22-3.1 in filing for the record, or noncompliance of requirements stipulated according to Clause 22-3.2 for the content, format, deadline, procedure and other aspects of the filing.
+
+31.2 A jail term under one year will be imposed for a deliberate repeat offense of any clause from 31.1.4 to 31.1.7 within two years from the date a previous penalty notice is served on an offense of any clause in the same group.
+
+### Article 32
+
+32.1 The local competent authority may confiscate an owner’s animals in any of the following situations:
+
+32.1.1 Violation of Clause 5.2, namely an owner subjecting his animals to ill-intended or gratuitous harassment, abuse, or harm that potentially may lead to death.
+
+32.1.2 Animals abandoned by an owner in violation of Clause 5.3.
+
+32.1.3 Offense of Article 7, namely animals having caused unjustified death or bodily harm of human.
+
+32.1.4 Owner’s failure to take corrective actions after receiving advice about the violation of Article 7, and the animal continues to infringe on freedom or property of others without due cause.
+
+32.1.5 Violation of Article 8, namely owning, importing or exporting animals declared to be banned from being owned, imported or exported.
+
+32.2 Owners violating any clause from 32.1.1 to 32.1.5 may be banned by the local competent authority from adopting animals from shelters under its jurisdiction, or be denied the permit to operate a pet breeding, trading or lodging business.
+
+### Article 33
+
+33.1 The local competent authority shall demand the owner to take corrective actions before a deadline, in addition to imposing penalties according to this Act – failure to comply may result in confistication of the animal – in one of the following situations:
+
+33.1.1 Violation of Clause 5.2, namely the owner subjecting his animal to ill-intended or gratuitous harassment, abuse, or harm.
+
+33.1.2 Using animals in a way violating of Article 10.
+
+33.1.3 Noncompliance of Clause 11.1, namely failure to provide necessary medical care to an animal.
+
+33.1.4 Violation of Clause 20.2, namely the owner allowing an aggressive pet to be present at a public place or a venue with public access without adult human company, and without necessary precautions.
+
+33.2 Owners violating any clause from 33.1.1 to 33.1.4 may be banned by the local authority from adopting animals from shelters under its jurisdiction, or be denied the permit to operate a pet breeding, trading or lodging business.
+
+### Article 33-1
+
+33-1.1 No one shall be allowed to own a pet of specific breeds subject to compulsory registration in Clause 19.1, or to adopt a sheltered animal described in Clause 14.1 if he has previously committed any of the followings:
+
+33-1.1.1 Animal abandonment,
+
+33-1.1.2 Surrendering to shelter custody an animal he no longer wishes to keep,
+
+33-1.1.3 Noncompliance of any clause in Clause 5.2 for animals under his care,
+
+33-1.1.4 Violation of Article 6, namely the action to harass, abuse or injure an animal,
+
+33-1.1.5 Any of the prohibited behaviors described in Article 10,
+
+33-1.1.6 Failure to provide necessary medical care to an injured or sick animal in violation of Clause 11.1,
+
+33-1.1.7 Violation of Clause 12.1, namely killing an animal without due cause, or violation of Clause 12.2 or Clause 12.3, namely killing dogs/cats or animals banned from slaughter, selling, buying, eating or possessing the carcass, offal or food containing parts of such animals,
+
+33-1.1.8 Causing his animals to be confiscated by a local competent authority citing Clause 32.1 or Clause 33.1.
+
+33-1.2 A fine of over NT$3000 and under NT$15,000 will be imposed on the person owning a pet or adopting animals in violation of Clause 33-1.1; the local competent authority shall also confiscate the pet or animal involved.
+
+33-1.3 Anyone convicted of a crime, receiving a deferred prosecution or a monetary fine for any situation in Clause 33-1.1 or any clause from Article 25 to Article 31, may be required by the local competent authority to attend an animal protection course part of which is hands-on practice in an animal shelter. Regulations governing the format, content, fee collection and requirements of the training course shall be stipulated by the central competent authority.
+
+### Article 33-2
+
+33-2.1 The local competent authority shall compile and submit a quarterly report to the central competent authority regarding violations of any clause from Article 25 to Article 33-1.
+
+33-2.2 The central competent authority shall consolidate the reports described in Clause 33-2.1 and distribute to each competent authority and animal shelter as the basis for refusing/approving an adoption, or imposing penalty according to Clause 33-1.2.
+
+33-2.3 Local competent authority shall keep confidential the identity and relevant information of a whistleblower who provides evidence leading to the discovery of any violation of this Act. The authority may offer rewards.
+
+33-2.4 Guidelines for whistleblower rewards, as mentioned in Clause 33-2.3, shall be formulated by the central competent authority.
+
+### Article 34
+
+The local competent authority shall be the agency to impose monetary fines stipulated in this Act.
+
+### Article 35
+
+Failure to pay the fine – imposed according to this Act -- before a deadline will be referred to the court for mandatory enforcement.
+
+## Chapter VII Supplementary Provisions
+
+### Article 36
+
+36.1 The owner shall file for record with the local competent authority before a deadline specified by the central competent authority if he has owned an animal banned from being imported or owned since before the central competent authority’s declaration according to Article 8. The same rule applies to ownership changes if any.
+
+36.2 Only those owners who have filed for record according to Clause 36.1 are allowed to continue to own the animals. One must not breed such animals unless the central competent authority has announced a relevant permission.
+
+36.3 Violation of Clause 36.1 or Clause 36.2 shall be dealt with according to Article 26 and Clause 32.1.3.
+
+### Article 37
+
+Vendors having been operating breeding, trading or lodging business of pets subject to compulsory registration before the pet-registration requirement Is announced according to Clause 19.1 shall apply for and obtain a permit from the local competent authority within two years from the effective date of regulations stipulated according to Clause 22.2. Those who fail to apply for and obtain the permit before the deadline shall be dealt with according to Article 25.
+
+### Article 38
+
+Local competent authorities shall charge fees for issuing pet ID tags according to Clause 19.2, for handling missing pets and returning them to owners, for issuing permits according to Clause 22.1. Fee standards for such services shall be stipulated by the central competent authority.
+
+### Article 39
+
+Enforcement rules of this Act shall be formulated by the central competent authority.
+
+### Article 40
+
+This Act shall come into force on the day it is promulgated.
+
+## History
+
+1.The 40 articles are enacted by the Legislative Yuan and promulgated by the President on November 4, 1998 by the Order of (87) Hua-Tsung-(1)-Yi-Tze-No.8700224370.
+
+2.Article 2 amended by the Legislative Yuan and promulgated by the President on May 17, 2000 by the Order of (89) Hua-Tsung-(1)-Yi-Tze-No.8900118440.
+
+3.Articles 6, 12, 22 and 28 amended by the Legislative Yuan and promulgated by the President on January 17, 2001 by the Order of (90) Hua-Tsung-1-Yi-Tze-No.9000007530.
+
+4.Article 23 amended by the Legislative Yuan and promulgated by the President on December 21, 2001 by the Order of (90) Hua-Tsung-1-Yi-Tze-No.9000252780.
+
+5.Articles 12, 14 and 31 amended by the Legislative Yuan and promulgated by the President on January 7, 2004 by the Order of Hua-Tsung-1-Yi-Tze-No.09200248361.
+
+6.Articles 30 and 31 amended by the Legislative Yuan and promulgated by the President on July 11, 2007 by the Order of Hua-Tsung-1-Yi-Tze-No.09600088031.
+
+7.Article 14-1, Article 20-1, Title of Chapter IV-1, Article 22-1, Article 22-2, and Article 25-1 added, and Articles 3 to 5, Article 7, Article 9, Article 10, Article 12, Article 13, Article 15, Article 16, Article 18, Articles 20 to 23, Article 25, and Articles 27 to 33 amended by the Legislative Yuan and promulgated by the President on January 16, 2008 by the Order of Hua-Tsung-1-Yi-Tze-No.09700002551.
+
+8.Article 27-1 added, and Articles 5, Article 12, Article 14, Article 21, Article 22-2, and Articles 28 amended by the Legislative Yuan and promulgated by the President on January 27, 2010 by the Order of Hua-Tsung-1-Yi-Tze-No.09900020011.
+
+9.Article 14-2 added, and Articles 30 amended by the Legislative Yuan and promulgated by the President on June 29, 2011 by the Order of Hua-Tsung-1-Yi-Tze-No. 10000136211.
+
+10.Articles 6-1, 6-2, 22-3~22-5, 23-1, 23-2, 30-1, 33-1, 33-2 added; Title of Chapter IV-1, Articles 2~6, 12, 14, 19, 22, 22-2, 23, 25, 27, 29, 30 and 31 amended by the Legislative Yuan and promulgated by the President on Feb 4, 2015 by the Order of Hua-Tsung-1-Yi-Tze-No. 10400014321.
+
+11.Articles 25-1 amended by the Legislative Yuan and promulgated by the President on May 18, 2016 by the Order of Hua-Tsung-1-Yi-Tze-No.10500042801.
+
+12.Article 25-2 added, and Articles 5, 12, 25, 25-1, 27, 30, 30-1 and 33-1 amended by the Legislative Yuan and promulgated by the President on April 26, 2017 by the order of Hua-Tsung-1-Yi-Tze-No. 10600050401.
+
+13.Articles 3, 6-1, 26, 29, and 31 amended by the Legislative Yuan and promulgated by the President on June 13, 2018 by the order of Hua-Tsung-1-Yi-Tze-No. 10700063001.
+
+14.Article 4-1 added, and Articles 4 and 23 amended by the Legislative Yuan and promulgated by the President on December 26, 2018 by the order of Hua-Tsung-1-Jing-Tze-No. 10700140871.
+
+15.Articles 5 amended by the Legislative Yuan and promulgated by the President on February 3, 2021 by the order of Hua-Tsung-1-Jing-Tze-No. 11000008891.
+
+16.Articles 1, 3, 14-1, 22-1 and 30 amended by the Legislative Yuan and promulgated by the President on May 19, 2021 by the order of Hua-Tsung-1-Jing-Tze-No. 11000046551.
+
+Following Executive Yuan Order Tai-Gui-Zi No. 1125014346 issued on July 27, 2023, authority over matters in the following provisions of the Act that previously fell under the jurisdiction of the Council of Agriculture, Executive Yuan, was transferred to the Ministry of Agriculture on August 1, 2023: Article 2 Paragraph 1, 3 Subparagraph 6, 4, 6-1 Paragraph 1, Paragraph 2, Paragraph 5, 6-2, 8, 9 Paragraph 2, Paragraph 3, 11 Paragraph 2, 12 Paragraph 1, Subparagraph 4, Subparagraph 8, Paragraph 2, Paragraph 3,Subparagraph 2, 13 Paragraph 1, Subparagraph 1, Subparagraph 4, Paragraph 2, Paragraph 3, 14 Paragraph 1, Subparagraph 3, Paragraph 3, 14-1 Paragraph 1, Subparagraph 7, Paragraph 2, 14-2, 15 Paragraph 2, 16 Paragraph 2, Paragraph 3, 19 Paragraph 1, Paragraph 3, 20 Paragraph 3, 22 Paragraph 2, 22-1 Paragraph 1, 22-3, 22-4 Paragraph 2, 22-5 Paragraph 1, Subparagraph 9, 23 Paragraph 7, 25 Subparagraph 2, 25-1 Paragraph 2, 26 Paragraph 1, Subparagraph 2, 27 Subparagraph 6, Subparagraph 7, 28 Subparagraph 1, 30 Paragraph 1, Subparagraph 5, Subparagraph 6, Subparagraph 8, 31 Paragraph 1, Subparagraph 3, Subparagraph 4, Subparagraph 8, 33-1 Paragraph 3, 33-2 Paragraph 1, Paragraph 2, Paragraph 4, 36 Paragraph 1, Paragraph 2, 38, 39.

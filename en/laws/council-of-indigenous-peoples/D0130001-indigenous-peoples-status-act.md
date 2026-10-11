@@ -1,0 +1,115 @@
+---
+title: "Indigenous Peoples Status Act"
+title_zh: "原住民身分法"
+identifier: "D0130001"
+type: act
+law_level: "法律"
+category: "行政＞原住民族委員會＞綜合規劃目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2001-01-17
+last_amended: 2024-01-03
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0130001"
+retrieved: 2026-10-12
+---
+
+# Indigenous Peoples Status Act
+
+> Translation. The Chinese text ([zh/laws/council-of-indigenous-peoples/D0130001-indigenous-peoples-status-act.md](../../../zh/laws/council-of-indigenous-peoples/D0130001-indigenous-peoples-status-act.md)) is authoritative.
+
+## Article 1
+
+Said act is promulgated for the recognition of indigenous status and the protection of indigenous rights.
+
+## Article 2
+
+The terms "indigenous/indigenous person" herein include indigenous persons of the mountains and plains. Status recognition, unless otherwise herein provided, is as provided in the following:
+
+\1. Mountain indigenous person: resident of the mountain administrative zone before the retrocession of Taiwan, and the household registration record shows the individual or immediate kin of the individual as of indigenous descent.
+
+\2. Plains indigenous person: resident of the plains administrative zone before the retrocession Taiwan, and the household registration record shows the individual or immediate kin of the individual as of indigenous descent, and that the individual is registered as Plains indigenous person in the village (town, city, district) administration office.
+
+## Article 3
+
+Individuals with one of the parents as indigenous and meet one of the following provisions, shall acquire indigenous status:
+
+\1. Adopt the traditional indigenous name of the indigenous group to which one of the parents belongs.
+
+\2. Adopt a non-indigenous name while also listing in indigenous writing the traditional indigenous name of the indigenous group to which one of the parents belongs.
+
+\3. Adopt the surname of the parent with indigenous status. Individuals acquiring indigenous status as provided in Item 2 of the preceding paragraph, should their children adopt the surname of such individuals, their children shall also acquire the indigenous status accordingly.
+
+## Article 4
+
+Non-indigenous individuals adopted by childless indigenous parents over the age of 40, and meet the following provisions, shall acquire indigenous status:
+
+\1. Under the age of seven when adopted.
+
+\2. Adopt or list in indigenous writing the traditional indigenous name of the indigenous group to which one of the adoptive parents belongs, or adopt the surname of one of the adoptive parents.
+
+Prior to the enactment of said act, the adoption of non-indigenous minors under the age of seven by childless indigenous parents is not subject to the age and childless status limitations in the preceding paragraph.
+
+## Article 5
+
+Under any one of the following circumstances, the indigenous status of indigenous individuals is forfeited:
+
+\1. Having acquired indigenous status as provided in the two preceding articles, but later failing to meet such provisions due to name change.
+
+\2. Having acquired indigenous status as provided in the preceding article, but with the adoption later dissolved.
+
+\3. Apply to forfeit indigenous status upon reaching the legal age.
+
+\4. Having acquired indigenous status as provided in Item 3 of Article 4 before amendments were made and taken effect on January 27, 2021, but failing to adopt or list in indigenous writing the traditional indigenous name of the indigenous group to which one of the indigenous parents belongs, or adopt the surname of one of the indigenous parents, within two years of the amendments made and taken effect on December 18, 2023.
+
+Indigenous status forfeited as provided in Item 3 of the preceding paragraph without the circumstances in Item 1 or Item 2 in the same preceding paragraph may apply for indigenous status recovery, such recovery is limited to once.
+
+Indigenous individuals who forfeited their indigenous status as provided in Item 3 of Paragraph 1, the indigenous status of their immediate kin is not forfeited during the application.
+
+## Article 6
+
+To acquire indigenous status, the individual may apply to adopt or list in indigenous writing the traditional indigenous name, or adopt the surname of one of the indigenous parents; the application may be arranged in writing by the statutory representative during the period the child is a minor, and apply by personal preference after said child has reached legal age, not restricted by Items 1 and 4 of Article 1059, and Items 1 and 2 of Article 1078 of the Civil Code, or Item 2 of Article 1 of the Name Act.
+
+Other than birth registration, application to acquire indigenous status as provided in the preceding paragraph is limited to once per minor period and once after the child has reached legal age.
+
+Adopted children acquiring indigenous status via application as provided in Paragraph 1 may apply to the Household Registration Office as interested persons for the household registration record or the household certificate transcript of their birth parents as provided in Article 65 of the Household Registration Act.
+
+## Article 7
+
+Individuals complying with the criteria of acquiring indigenous status as provided in Articles 2 to 4 which die before applying for or acquiring indigenous status, their children may apply for indigenous status as provided in Article 3 and the preceding article.
+
+## Article 8
+
+In the event of intermarriage between mountain and plains indigenous persons, individuals concerned may agree to alter their status to either mountain or plains indigenous persons to be the same; children of said marriage adopt the according status.
+
+In the event no status alteration agreement has been made, their children may acquire the mountain or plains indigenous status or alter such status through the arrangement of a statutory representative during the period the child is a minor, or by personal preference after the child has reached legal age.
+
+## Article 9
+
+Indigenous persons should register their indigenous groups according to the indigenous groups of one of their parents, the traditional indigenous name or surname adopted should correspond to the indigenous group registered.
+
+The central competent authority of indigenous peoples shall issue regulations for the recognition, registration, alteration, or other related matters of the indigenous groups in the preceding paragraph.
+
+## Article 10
+
+The application for acquisition, forfeiture, alteration, or recovery of indigenous status should be filed at the Household Registration Office, when applications are reviewed to be compliant, the indigenous status and indigenous group will be registered in the household registration record and take effect upon registration.
+
+## Article 11
+
+In the case of household registration error, omission, or other factors resulting in the erroneous indigenous status or omitted indigenous status, upon the discovery of said error or omission, the local Household Registration Office at the individual's place of domicile should notify the individual concerned for amendment or revocation of such registration, or the individual should apply for investigation at the Household Registration Office at the individual's place of domicile followed by revocation or amendment of such registration.
+
+## Article 12
+
+Said Act takes effect upon promulgation.
+
+## History
+
+1.January 17, 2001 Presidential decree Hua-tsung-yi-tzu-no.9000009310
+
+2.December 3,2008 Presidential decree Hua-tsung-yi-tzu-no.09700253161 amended on Article 8
+
+3.January 27, 2021 Presidential decree Hua-tsung-yi-tzu-no.11000007741 amended on Articles 4, 8, 11, and 13
+
+4.January 3, 2024 Presidential decree Hua-tsung-yi-tzu-no.11200115331. amended

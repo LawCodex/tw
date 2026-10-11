@@ -1,0 +1,129 @@
+---
+title: "Provisional Act Governing the Welfare Allowance for Elderly Farmers"
+title_zh: "老年農民福利津貼暫行條例"
+identifier: "M0090015"
+type: act
+law_level: "法律"
+category: "行政＞農業部＞農民輔導目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1995-05-31
+last_amended: 2018-06-13
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0090015"
+retrieved: 2026-10-12
+---
+
+# Provisional Act Governing the Welfare Allowance for Elderly Farmers
+
+> Translation. The Chinese text ([zh/laws/ministry-of-agriculture/M0090015-provisional-act-governing-the-welfare-allowance-for-elderly-farmers.md](../../../zh/laws/ministry-of-agriculture/M0090015-provisional-act-governing-the-welfare-allowance-for-elderly-farmers.md)) is authoritative.
+
+## Article 1
+
+The specific legislative intent of this Act is to support elderly farmers in their daily lives and to improve the well-being of the farming population. For any relevant matters not specified or stipulated in this Act, the provisions of other laws shall apply.
+
+## Article 2
+
+The term "Competent Authority" in this Act refers to the Council of Agriculture, the Executive Yuan at the central level, the municipal governments at the municipal level, and the county (city) governments at the county (city) level.
+
+## Article 3
+
+The term “elderly farmer” as used this Act shall be a person who meets both the following criteria:
+
+\1. A citizen of the ROC 65 years of age or older, who has legal domicile in the ROC, and has stayed in the ROC for over 183 days each year, for each of the last three years.
+
+\2. A farmer who, at the time of application for the Welfare Allowance for Elderly Farmers, has been participating in the Farmers Health Insurance program for a cumulative total of 15 years or more; or who has been a category A member of a Fishermen's Association, has maintained membership for a cumulative total of at least 15 years, and has already begun receiving the old-age benefits of Labor Insurance program.
+
+For persons who, prior to the coming into force of the amendments to Article 3 of this Act of June 27, 2014, had been participating in the Farmers Health Insurance program, and moreover, at the time of application for the Welfare Allowance for Elderly Farmers, had continued to pay premiums for a cumulative total of more than six months but less than 15 years, the qualifications for such persons shall not be subject to the limitations contained in Subparagraph 2 of the previous Paragraph of this Article, but they shall be reduced by half the amount of  the Welfare Allowance for Elderly Farmers as prescribed in Article 4, Paragraph 1 of this Act.
+
+Any elderly farmers who had already received the Welfare Allowance prior to the coming into force of the amendments to Article 3 of this Act of June 27, 2014, but who thereafter fail to meet the criteria in either Subparagraphs 1 or 2 of Paragraph 1 of this amended Article, shall no longer be issued the Welfare Allowance, and the termination of the Allowance will continue until such time as the reason for its termination has ceased to exist.
+
+## Article 4
+
+Elderly farmers who meet the qualifications set out in Article 3 of this Act can apply for the welfare allowance. This allowance was adjusted to NT$7,000 per month as of January 1, 2012, and is issued up through the month in which the recipient dies. In the future, the amount shall be adjusted once every four years. The adjustment shall be made and publicly announced by the Competent Authority at the central government level, with reference to the percentage change of the consumer price index for the most recent year (as issued by the central government’s accounting and statistics agency) in comparison with the consumer price index for the year prior to the previous adjustment. However, where the percentage change is zero or negative, no adjustment shall be made.
+
+The welfare allowance is paid to elderly farmers who was eligible and paid the allowance from the beginning of the month which the applications was received.
+
+Following a one-year period for informing and educating the public, starting on January 1, 2013, for any elderly farmer who applies to receive the welfare allowance and falls under any one of the following circumstances, the allowance shall not be paid, or shall be suspended until the month when the said circumstance ceases to exist. However, this shall not apply to any elderly farmer who was already receiving the welfare allowance prior to January 1, 2013.
+
+\1. Tax agencies inform the central Competent Authority that the individual’s total taxable income from all sources other than agriculture totaled in excess of NT$500,000 for the preceding fiscal year.
+
+\2. The value of land and houses owned by the individual totals in excess of NT$5 million.
+
+The value of land as mentioned in Subparagraph 2 of the preceding Paragraph shall be calculated based on the “publicly declared present value of the land.” The value of houses shall be calculated based on the “assessed price.” However, deductions shall be made from the total combined value for any of the following circumstances:
+
+\1. Land for agricultural use.
+
+\2. Part or all of the land outside of that for agricultural use which has been designated under law as “land reserved for public facilities,” and which has not been expropriated (with compensation) by the government for financial reasons or any other reason that cannot be attributed to the elderly farmer.
+
+\3. The individual’s farmhouse.
+
+\4. For a person who does not own a farmhouse, the total combined value of the one and only house that serves as the actual residence of the individual (based on the assessed price) plus the “publicly declared present value” of that house’s land, where such combined value does not exceed NT$4 million; where the value exceeds that amount, the deduction shall be limited to NT$4 million.
+
+\5. Land reserved for Aboriginal people which has not yet been used effectively in economic terms.
+
+\6. Existing roads which are related to land for public use and have been determined by the Competent Authority at the municipal, city, or county levels to have not yet been used effectively in economic terms.
+
+As of January 1,  2018, for elderly farmers who are already receiving the welfare allowance as defined in Paragraph 3 of this Article, when there is no increase in the value of land and houses owned by the individual which shall be entered into calculations based on the regulations in the preceding Paragraph, after the municipal, city, or county government adjusts the “publicly declared present value of the land” or the “assessed price” of the house, cases which conform to the following rules shall not be subject to the limitations set out in Subparagraph 2 of Paragraph 3:
+
+\1. Possessing the qualifications set out in Subparagraph 1 of Paragraph 1 of the previous Article.
+
+\2. Not being in the situation set out in Subparagraph 1 of Paragraph 3.
+
+\3. Not having applied or received any other government living subsidies or benefits at the same time.
+
+\4. Not being in the situation set out in Paragraph 7.
+
+In cases where the individual, for a given period of time, is qualified under the previous Article for the welfare allowance for elderly farmers as well as for other living subsidies or benefits issued by the government, the individual must choose to receive only one.
+
+For a person who is already receiving a social insurance old-age benefit, if the person, following the coming into effect of the amended version of this law on November 11, 1998, either (a) reenters Farmers Health Insurance or (b) is a category A member of a Fishermen's Association who joins Labor Insurance, the provisions of this Act shall not apply.
+
+For any person who is not qualified for the welfare allowance in this Act but receives the allowance, the central Competent Authority shall send written notification to the individual or the individual's legal heirs ordering them to repay the unlawfully received welfare allowance within 30 days.
+
+The regulations for applying and approving of welfare allowance for elderly farmers, shall be stipulated by the Competent Authority at the central government level.
+
+## Article 4-1
+
+Neither the welfare allowance for elderly farmers, nor the right to apply for and receive the welfare allowance, shall serve as an object for the purposes of mortgage, assignment, offset or guarantee.
+
+Persons who are qualified under this Act to apply for and receive the welfare allowance may open an account at a financial institution specifically for the purpose of the deposit of this welfare allowance; the individual must, at the time of opening said account, present identification documentation issued by the Competent Authority at the central government level.
+
+## Article 5
+
+Elderly farmers who, as a result of Article 2, Paragraph 2, Subparagraphs 2 through 4 of the Regulations Governing Application for and Approval for Receiving the Welfare Allowance for Elderly Farmers (announced on, and implemented as of, June 8, 1995), are barred from applying for and receiving the welfare allowance, may, following the coming into effect of the amended version of this Act, apply for compensatory issuance under the regulations in effect prior to the coming into effect of the amended version of this Act.
+
+## Article 6
+
+In special municipalities directly under the jurisdiction of the central government, the Competent Authority at the central government level shall be responsible for paying 50% of the welfare allowance for elderly farmers, while the special municipality shall be responsible for 50%. In areas under the jurisdiction of provinces, the central government (only) shall be responsible. Moreover, the central government shall take full responsibility for paying increases in the amount of the welfare allowance stipulated by amendments made on December 13, 2005; July 20, 2007; and December 2, 2011.
+
+## Article 7
+
+This Act shall take effect starting on the day of its promulgation. However, Article 4 as amended on December 4, 2003 shall take effect as of January 1, 2004.
+
+Article 4 as amended on December 13, 2005, shall take effect as of January 1, 2006.
+
+## History
+
+1.May 31, 1995: Complete text, comprising six articles, promulgated by the President (promulgation decree number: Huazong (1) Yizi No.3499).
+
+2.November 11, 1998: Amended text of entire law, comprising seven articles, promulgated by the President (promulgation decree number: Huazong (1) Yizi 8700231350).
+
+3.June 14, 2000: Amended version of Article 2 promulgated by the President (promulgation decree number: Huazong (1) Yizi 8900147010).
+
+4.June 12, 2002: Amended version of Article 4 promulgated by the President (promulgation decree number: Huazong 1 Yizi 0900120590).
+
+5.December 17, 2003: Amended versions of Article 4 and Article 7, plus addition of new Article 4-1, promulgated by the President (promulgation decree number: Huazong 1 Yizi 09200235591). Amended version of Article 4 to take effect as of January 1, 2004.
+
+6.December 28, 2005: Amended versions of Article 4, Article 6, and Article 7 promulgated by the President (promulgation decree number: Huazong 1 Yizi 09400212611). Amended versions of Article 6 and Article 7 to take effect immediately, amended version of Article 4 to take effect as of January 1, 2006.
+
+7.August 8, 2007: Amended version of Article 4 promulgated by the President (promulgation decree number: Huazong 1 Yizi 09600103211).
+
+8.December 21, 2011: Amended versions of Article 4 and Article 6 promulgated by the President (promulgation decree number: Huazong 1 Yizi 10000283801).
+
+9.January 29, 2014: Amended version of Article 4-1 promulgated by the President (promulgation decree number: Huazong 1 Yizi 10300013761).
+
+10.July 16, 2014: Amended version of Article 3 promulgated by the President (promulgation decree number: Huazong 1 Yizi 10300105341).
+
+11.June 13, 2018: Amended version of Article 4 promulgated by the President (promulgation decree number: Huazong 1 Yizi 10700062431).

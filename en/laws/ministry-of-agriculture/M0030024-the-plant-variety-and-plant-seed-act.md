@@ -1,0 +1,609 @@
+---
+title: "The Plant Variety and Plant Seed Act"
+title_zh: "植物品種及種苗法"
+identifier: "M0030024"
+type: act
+law_level: "法律"
+category: "行政＞農業部＞農糧目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1988-12-05
+last_amended: 2023-05-17
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0030024"
+retrieved: 2026-10-12
+---
+
+# The Plant Variety and Plant Seed Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-agriculture/M0030024-the-plant-variety-and-plant-seed-act.md](../../../zh/laws/ministry-of-agriculture/M0030024-the-plant-variety-and-plant-seed-act.md)) is authoritative.
+
+## Chapter 1 General Principles
+
+### Article 1
+
+This Act is enacted to protect rights in plant varieties, facilitate improvements in plant varieties, and implement a plant seed administration system to promote farmers' interests and benefit agricultural development. With respect to matters not provided for in this Act, other applicable laws shall govern.
+
+### Article 2
+
+Competent authorities as referred to in this Act: At the central government level: the Council of Agriculture, Executive Yuan; at the special municipal level: the government of the special municipality; and at the county (city) level: the government of the county (city).
+
+### Article 3
+
+The terms as used in this Act are defined as follows:
+
+\1. &quot;Variety&quot; means a plant grouping within a botanical taxon of the lowest rank that expresses its characteristics through a single genotype or a certain combination of genotypes and, can be distinguished by at least one characteristic from any other plant grouping while remaining unchanged in its main characteristics when undergoing a designated method of propagation.
+
+\2. &quot;Transgenic technology&quot; means the transfer of an exogenous gene into a plant cell using technologies such as genetic engineering or molecular biology to cause a gene recombination phenomenon so that the plant expresses the characteristic of the exogenous gene. Such technology, however, shall not include traditional hybridization, mutation, in vitro fertilization, cell and protoplast fusion wherein the cell and protoplast are within the same family of plant taxonomy, somatic mutation, or chromosome doubling.
+
+\3. &quot;Transgenic plant&quot; means a plant or seed that is obtained by means of transgenic technology, as well as the progeny derived from such plant or seed.
+
+\4. &quot;Breeder&quot; means a person who breeds, or discovers and develops varieties.
+
+\5. &quot;Plant seed&quot; means an entire plant, or any part thereof, that is ready for propagating or planting.
+
+\6. &quot;Plant seed enterprise&quot; means the enterprise that is engaged in the business of breeding, propagation, importation, exportation, or sale of plant seeds.
+
+\7. &quot;Sale&quot; means the act of selling at a fixed price, or bartering.
+
+\8. &quot;Promotion&quot; means the act of introducing or providing plant seeds for others to use.
+
+### Article 4
+
+Botanical taxons governed by this Act are seed plants, ferns, mosses, multicellular algae, and other cultivated plants that are cultivated for the production of agricultural products.
+
+### Article 5
+
+The term &quot;right to apply for a variety &quot; means the right to apply for a variety in accordance with this Act.
+
+The term &quot;the holder of the right to apply for a variety &quot; means the breeder or any of the breeder&#39;s assignees or successor, unless otherwise specified in this Act or as otherwise provided in an agreement between the parties.
+
+### Article 6
+
+The right to apply for a variety and a variety right may be assigned or inherited.
+
+At the time of filing an application for a variety right, an assignee or successor shall state the breeder&#39;s name and submit supporting documents of proof concerning such assignment or inheritance.
+
+The assignment or inheritance of the right to apply for a variety or a variety right shall have no locus standi against any bona fide third party without registration.
+
+### Article 7
+
+The right to apply for a variety shall not be taken as the subject of a pledge.
+
+In the case of taking a variety right as the subject of a pledge, the pledgee shall not be allowed to exploit such the right to a variety, unless it is otherwise specified for in an agreement.
+
+### Article 8
+
+Unless otherwise specified in an agreement between the parties, the variety right and the right to apply for a variety for a variety bred by, or discovered and developed by, an employee within the course of employment shall be vested in the employer, and the employer shall provide the employee with appropriate rewards or remuneration.
+
+A variety bred, or discovered and developed, by an employee within the course of employment as set forth in the preceding Paragraph shall mean the variety completed by an employee in the course of performing during the period of employment relationship.
+
+Where a fund provider appoints another party to engage in the work of breeding a variety, the agreement between the partiesshall govern with respect to the ownership of the right to apply for a variety and a variety right, or such rights shall be vested in the breeder in the absence of such agreement. However, the fund provider shall be entitled to exploit such variety.
+
+In accordance with the requirements of Paragraphs 1 or 3 of this Article, where the right to apply for a variety and a variety right are vested in the employer or the fund provider, the breeder concerned shall be entitled to a right to have his/her name shown as such.
+
+### Article 9
+
+Where a variety bred by, or discovered and developed by, an employee outside the course of employment, the employee shall be entitled to the right to apply for the variety and the variety right. However, if such variety is made through the utilization of the employer’s resources or experiences, the employer may exploit the variety in the enterprise after paying reasonable remuneration to the employee.
+
+Where an employee completes a variety that has no connection to the course of the employment, the employee shall give a written notification to the employer regarding such facts; and, if necessary, shall also inform the employer of the breeding process, or the discovery and development process, of the variety.
+
+If the employer fails to raise any objection to the employee within six months after receiving the employee’s written notification under the preceding Paragraph, the employer shall not claim that such variety was completed by the employee withinthe course of the employment.
+
+### Article 10
+
+An agreement concluded in advance between an employer and an employee as stated in the preceding article, based on which the employee is precluded from enjoying legitimate rights and interests in respect of applying for a variety and having a variety right, shall be void.
+
+### Article 11
+
+A variety application filed by a foreign applicant may not be accepted if the home country of such foreign applicant is not a signatory to an international treaty or organization for protection of variety right to which the Republic of China (ROC) is a signatory, or if the home country does not conclude with the ROC a treaty or an agreement for reciprocal protection of variety rights, or if no variety protection agreement is concluded by and between organizations or institutions of the ROC and said foreign country and approved by the respective competent authorities, or if the foreign country refuses to accept variety applications filed by ROC nationals.
+
+## Chapter 2 Application for a Plant Variety Right
+
+### Article 12
+
+A variety that has the characteristics of novelty, distinctness, uniformity, and stability, as well as an appropriate variety denomination, may be the subject of an application for a variety right in accordance with this Act.
+
+&quot;Novelty&quot; as referred to in the preceding Paragraph means that prior to the date of filing of the application for a variety right, no plant seeds and no harvested material of such varietyhave been sold or promoted solely by, or with the consent of, the holder of the right to apply for the variety right either inside the R.O.C. for longer than one year or outside the R.O.C. for longer than six years in the case of trees or perennial vine plants, or for longer than four years in the case of all other plant species.
+
+&quot;Distinctness&quot; as referred to in Paragraph 1 means that a variety can be distinguished on the basis of one or more recognizable and articulable characteristics from any other varieties that have been in general circulation, or that have obtained a variety right either inside or outside the R.O.C., prior to the date of filing the application for the variety right.
+
+&quot;Uniformity&quot; as referred to in Paragraph 1 means that, with the exception of predictable natural variations, the characteristics of individual plants of the variety exhibit uniformity in comparison with each other.
+
+&quot;Stability&quot; as referred to in Paragraph 1 means that the main characteristics of the variety are able to remain unchanged after repeated propagation, or after a particular cycle of propagation, through a designated method of propagation.
+
+### Article 13
+
+A variety denomination under the preceding Article shall not contain any of the following circumstances:
+
+\1. such denomination is expressed solely in the form of figures,
+
+\2. such denomination is identical with or similar to the denomination of another variety within the same species or a closely related species,
+
+\3. such denomination is likely to mislead or cause confusion as to the characteristics of the variety or the identity of the breeder, or
+
+\4. such denomination is contrary to public order and public morals.
+
+### Article 14
+
+To apply for a variety right, the applicant shall submit to the central competent authority a duly completed application form together with a written description of the variety and relevant supporting documents.
+
+The written description of the variety shall state the following matters:
+
+\1. The name, domicile, and residence of the applicant, or in the case of a juridical person or organization, its name, office location or place of business, as well as the name, domicile, and residence of its legal representative or manager;
+
+\2. The botanical taxon of the variety;
+
+\3. The denomination of the variety;
+
+\4. The source of the variety;
+
+\5. The characteristics of the variety;
+
+\6. The process of breeding and discovery of the variety;
+
+\7. A test report on the cultivation of the variety;
+
+\8. Matters to which one must pay attention when cultivating the variety; and
+
+\9. Other related matters.
+
+A variety denomination shall be written in Chinese, together with the denomination in Roman letters. For varieties bred in foreign countries, the variety denomination shall be written in Roman letters and Chinese.
+
+### Article 15
+
+Where a right to apply for a variety is jointly owned, the variety application related thereto shall be filed by all the joint owner(s).
+
+### Article 16
+
+The filing date of an application for a variety right shall be the date on which a duly completed application form, a written description of the variety, and the relevant supporting documents are submitted.
+
+If not all required documents are submitted for an application for a variety right, or if such documents are incomplete or deficient in their statements of information, the central competent authority shall specify the reasons and notify the applicant to remedy such deficiency within a specified time limit. If the applicant fails to remedy the deficiency within the time limit, the application shall not be accepted. If the applicant is able to remedy the deficiency within the time limit, the date of remediation shall be deemed to be the filing date.
+
+### Article 17
+
+With regard to the same variety, the applicant who applies for the first time at a country or World Trade Organization member that has the mutual recognition of priority right with the R.O.C. and submits an application for the variety right within twelve (12) months after the first application date may claim the priority right.
+
+Where an applicant has first applied for a variety in a foreign country, which reciprocally allows ROC nationals to claim variety priority, or with any member of the World Trade Organization (WTO), the applicant may claim priority in respect of an ROC variety application for the same variety if the ROC variety application for the same variety is filed within twelve (12) months after the filing date of the said first variety application.
+
+An applicant who claims the priority right pursuant to the preceding paragraph shall simultaneously make a declaration, and submit evidentiary proof of the application as accepted by the country or WTO member referred to in the preceding paragraph within 4 months from the next day of the application date. An applicant is not entitled to the right of priority if he/she fails to fulfill the aforementioned requirements.
+
+In the case that an applicant claims the priority right, the review of the elements of the plant variety right shall be based on the date of the priority right.
+
+### Article 18
+
+Where two or more persons separately file applications for a variety right with respect to the same variety, the first to file the application shall prevail. The above provision shall not apply where the priority date claimed by the latter applicant precedes the filing date of the prior applicant.
+
+If the filing date and the priority right date under the preceding Paragraph are the same date, the applicants shall be notified to reach an agreement on this issue. If the applicants fail to reach an agreement, none of these applicants shall be granted a variety right.
+
+### Article 19
+
+When accepting an application for a variety right, the central competent authority shall make public the following information within one month from the day following the filing date of the application:
+
+\1. The serial number and filing date of the application,
+
+\2. The applicant&#39;s name or title, and address;
+
+\3. The denomination of the variety, and the botanical taxon to which the variety that is the subject of the application belongs; and
+
+\4. Other required matters.
+
+After obtaining a variety right, the applicant may claim appropriate compensation against the exploiter who, has been given a written notice by the applicant after the laying open of the variety application, continues to commercially exploit the variety after receiving the notice and before the approval of the application is published.
+
+The claim referred to in the preceding paragraph may also be made against a person who is fully aware that the variety application has been laid open but continues to commercially exploit the variety prior to its publication.
+
+The right to claim appropriate compensation under the preceding two Paragraphs shall become extinguished if not exercised within 2 years after the publication date of the said variety right.
+
+### Article 20
+
+If necessary, during the examination of applications for variety rights, the central competent authority may notify the applicants to submit within a specified time limit the materials necessary for examining variety characteristics, as well as other relevant information or materials.
+
+After the examination of an application for the variety right, the central competent authority shall use the examination results to produce a written decision clearly stating the reasons for the decision, and shall notify the applicant of such decision. Varieties that are examined and determined to meet the requirements for a variety right shall be approved and published as variety rights.
+
+### Article 21
+
+The central competent authority shall establish a Variety Review Committee to review variety rights applications, revocations, and annulments.
+
+The review committee under the preceding Paragraph shall be madeup of five to seven members. The central competent authority shall invite experts or specialists who have extensive research backgrounds or experiences concerning variety review regulations, plant cultivating techniques, or other relevant fields, to serve as members of the committee. The organization regulations of this committee and the review procedures shall be prescribed by the central competent authority.
+
+## Chapter 3 Plant Variety Rights
+
+### Article 22
+
+The effectiveness of plant variety rights starts from the date of approval and publication of the plant variety rights application.
+
+### Article 23
+
+The term of a plant variety right for a tree or a perennial vine plant shall be twenty-five (25) years from the date of approval and publication of the variety right. The term of the variety right for all other plant species shall be twenty (20) years from the date of approval and publication of the variety right.
+
+### Article 24
+
+The holder of a variety right shall have the exclusive right to preclude others from engaging, without the consent of the holder, in the following acts with respect to plant seeds to which the holder has the variety right:
+
+\1. roduction or reproduction (multiplication),
+
+\2. conditioning for the purpose of propagation,
+
+\3. offering for sale,
+
+\4. selling or otherwise marketing,
+
+\5. importing or exporting, or
+
+\6. holding for any of the purposes in the preceding 5 Subparagraphs.
+
+The holder of a variety right shall have the exclusive right to preclude others from engaging, without the consent of the holder, in the acts as set forth in the Subparagraphs of the preceding Paragraph with respect to the harvested material obtained through use of plant seeds of such variety.
+
+The holder of a variety right shall have the exclusive right to preclude others from engaging, without the consent of the holder of the variety right, in the acts as set forth in the Subparagraphs of Paragraph 1 with respect to processed products obtained directly through the use of the harvested material under the preceding Paragraph, provided that this provision shall apply only to plant species published by the competent authority.
+
+The exercise of the rights as referred to in the preceding two Paragraphs shall be limited to where the holder of the variety right has had no reasonable opportunity to exercise his or her rights with respect to the acts in the Subparagraphs of Paragraph 1.
+
+### Article 25
+
+The protection of variety rights under the preceding Article shall extend to the following dependent varieties:
+
+\1. A variety substantially derived from a variety protected by the variety right, and where such protected variety is not substantially derived from another variety;
+
+\2. A variety not clearly distinguishable in comparison with a variety protected by the variety right; or
+
+\3. A variety that requires repeated use of a variety protected by the variety right in order to be produced.
+
+The protection of a variety right shall not extend to a dependent variety whose existence was a matter of common knowledge before the amendment to this Act takes effect.
+
+A &quot;variety substantially derived&quot; from another variety as referred to in Subparagraph 1 of Paragraph 1 shall meet the following requirements:
+
+\1. The variety is derived from an initial variety, or from a variety that is substantially derived from an initial variety;
+
+\2. The variety is clearly distinguishable in comparison with the initial variety; and
+
+\3. The variety, except for differences as a result of the act of derivation, retains the characteristics expressed by the genotype or combination of genotypes of the initial variety.
+
+### Article 26
+
+The protection of a variety right shall not extend to any of the acts in the following Subparagraphs:
+
+\1. Acts done by an individual for non-profit purposes;
+
+\2. Acts done for experimental or research purposes;
+
+\3. Acts done for the purpose of breeding other varieties, but not including acts for the purpose of breeding dependent varieties set forth in Paragraph 1 of the preceding Article;
+
+\4. Acts done by farmers of keeping, for the farmer&#39;s own use, plant seeds of a variety protected by a variety right or of the harvested material obtained from plant seeds of dependent varieties as set forth in Subparagraphs 1 and 2 of Paragraph 1 of the preceding Article;
+
+\5. Acts, at a farmer&#39;s request and for the purpose of providing the farmer with propagating material, of engaging in the conditioning and nursing of harvested material obtained from the propagating material of a variety protected by a variety right, or of its dependent variety;
+
+\6. Acts done of domestically selling or otherwise circulating any material of a variety protected by a variety right, or its dependent variety, as undertaken voluntarily by or with the consent of the holder of the variety right, but not including acts of further propagation of such protected variety; or
+
+\7. Acts done with respect to any material derived from the material set forth in the preceding Subparagraph, but not including acts of further propagation of such protected variety.
+
+Subparagraphs 4 and 5 of the preceding Paragraph shall apply only to plant species published by the central competent authority for the purposes of ensuring food safety.
+
+The &quot;material&quot; as referred to in Paragraph 1 means any propagating material, harvested material, and products made directly from the harvested material, of a variety. Such harvested material shall include entire or parts of the plant.
+
+Acts done under Subparagraphs 6 and 7 of Paragraph 1 shall not include acts of exporting propagating material of such protected variety to a country that does not protect the plant genus or species to which the variety belongs, provided that this provision shall not apply where the purpose is for final consumption.
+
+### Article 27
+
+A variety right may be licensed to and exercised by a third party.
+
+The license of a variety right to others or the creation of a pledge on a variety right shall be registered with the central competent authority. Unless registered, no action may be taken against a bona fide third party.
+
+### Article 28
+
+Without the consent of the holders of two-thirds or more of the interested shares in a variety right, no joint owner shall assign his or her own share, license others to exercise such share, or create a pledge on such share; provided, however, that if the parties have agreed otherwise, the terms of such agreement shall govern.
+
+### Article 29
+
+A variety right holder shall not abandon his or her rights without the consent of his or her licensee(s) or pledgee(s).
+
+### Article 30
+
+In response to significant national situations or to make non-profit use for the enhancement of the public interest, or in the case of an applicant&#39;s failure to reach a licensing agreement with the holder of a variety right under reasonable commercial terms within a considerable period of time, the central competent authority may grant a compulsory license to exercise such variety right upon request, provided that such license is exercised mainly for the purposes of satisfying domestic market demand.
+
+Compulsory licenses shall be nonexclusive and nontransferable licenses only. The period of a compulsory license shall be clearly specified in the license; however, in no event shall the period exceed 4 years.
+
+In the absence of the conditions set forth in Paragraph 1, the central competent authority still may grant a compulsory license for the exercise of a variety right to the person applying for a compulsory license upon receipt of a request from the person in the event that the holder of such variety right has engaged in restricting competition or in unfair competition as confirmed by a court decision or by a decision of the Fair Trade Commission of the Executive Yuan.
+
+Upon receipt of a written request for a compulsory license, the central competent authority shall serve a copy of the request on the holder of the variety right, requesting the holder of the variety right to make a defense within 3 months. If no defense is responded within the specified time limit, the central competent authority may decide the matter by its authority.
+
+A compulsory license with respect to a variety right shall not preclude others from obtaining a right to exercise such variety right.
+
+The holder of the compulsory licensee shall provide the holder of the variety right with appropriate remuneration. In the case of a dispute, it shall be determined by the central competent authority.
+
+The compulsory license shall be transacted together with the business pertaining to the compulsory license for assignment, inheritance, license, or pledge creation.
+
+When the reason for the compulsory license ceases to exist, the central competent authority may annul the compulsory license upon request.
+
+### Article 31
+
+If the holder who has obtained a compulsory license in accordance with the provisions of the preceding Article violates the purpose of the compulsory license, the central competent authority may, upon an request filed by the holder of the variety right or ex officio, annul the compulsory license.
+
+### Article 32
+
+Regardless of whether the term for a variety right has expired, any person who sells or otherwise markets a variety that currently is protected by, or at one time was protected by a variety right, shall be required to use the denomination of the variety for which the corresponding variety right was obtained.
+
+Where such variety denomination is to be indicated together with a trade name or a trademark, such denomination shall be clearly recognizable as the variety denomination.
+
+## Chapter 4 Maintenance of Rights
+
+### Article 33
+
+In order to perform follow-up testing to determine whether the variety protected by a variety right still maintains its original characteristics, the central competent authority may require the holder of the variety right to provide an adequate quantity of plant seeds of such variety or other necessary information.
+
+### Article 34
+
+The central competent authority may appoint its subordinate agencies or entrust other agencies or institutions to conduct the examination and follow-up testing of variety characteristics set forth in Article 20 and the preceding Article. The regulations governing such appointment or entrustment shall be prescribed by the central competent authority.
+
+### Article 35
+
+If the denomination of the variety fails to meet the requirements of Article 13, the central competent authority may require the holder of the variety right to propose a suitable denomination within a specified time period.
+
+### Article 36
+
+A variety right shall become extinguished under any of the following circumstances:
+
+\1. When the variety right expires, it shall be extinguished on the day following the expiration date;
+
+\2. When the variety right holder abandons the right, the variety right shall be extinguished from the date that the central competent authority receives a written declaration from the variety right holder; in the case a date of the abandonment is specified in the written declaration, the variety right shall be extinguished from that specific date; or
+
+\3. When the holder of the variety right fails to pay the annual fee within a time period for remedial payment, the variety right shall be extinguished on the date following the final date of the annual payment term.
+
+In the case of the death of the holder of a variety right without a person claiming to be an heir, the ownership of the variety right shall be transferred to the national treasury in accordance with the requirements of Article 1185 of the Civil Code.
+
+### Article 37
+
+The central competent authority shall revoke a variety right, either upon request or ex officio, under any of the following circumstances:
+
+\1. The variety protected by a variety right fails to meet the requirements of Article 12; or
+
+\2. The variety right is obtained by a person who is not entitled to the right to apply for the variety right.
+
+The central competent authority shall annul a variety right, either upon request or ex officio, under any of the following circumstances:
+
+\1. After the variety right is obtained, such variety protected by the variety right no longer meets the requirements of uniformity or stability under Article 12;
+
+\2. The holder of a variety right fails to fulfill his or her obligations in accordance with the requirements of Article 33 without justifiable reasons; or
+
+\3. The holder of a variety right fails to propose a suitable denomination under Article 35 without justifiable reasons.
+
+Upon the revocation or annulment of a variety right, the variety right certificate shall be returned within a specified time limit. If such certificate fails to be returned upon demand, such certificate shall be recorded and published as invalid.
+
+### Article 38
+
+Any person who believes that a variety right falls within any of the circumstances set forth in Paragraphs 1 or 2 of thepreceding Article may submit to the central competent authority a request for revocation or annulment of such variety right together with a written statement explaining the reasons for the request and any supporting evidence, provided that only the holder of the right to apply for such variety right may request revocation under Subparagraph 2 of Paragraph 1 of the preceding Article.
+
+If a variety right is revoked in accordance with Paragraph 1 of the preceding Article, such variety right shall be deemed to be nonexistent from the beginning.
+
+### Article 39
+
+The central competent authority shall publish any amendments to, compulsory license or license to, creation of pledges on, and expiration, revocation, or annulment of, a variety right.
+
+### Article 40
+
+The holder of the variety right or his or her exclusive licensee may request the removal of the infringement and the prevention of any likely infringement. In case an infringement of the variety right occurs due to an intentional act or negligence, the right holder may claim damages suffered therefrom.
+
+When making a request pursuant to the preceding Paragraph, the right holder or his or her exclusive licensee may request for destruction or other necessary disposal of the infringing articles or the materials or implements used for the infringement. Where the breeder’s right to be indicated as such is infringed, the breeder may request for necessary disposition(s) to have his/her name indicated or to restore the impaired reputation.
+
+The rights to request as set forth in this Article shall become extinguished if not exercised within 2 years from the time the patentee becomes aware of the infringement and the person liable for the infringement. This right shall also become extinguished if it is not exercised within ten (10) years after the time of the infringement.
+
+### Article 41
+
+The infringement claimed pursuant to the preceding Article may be calculated according to any of the following methods:
+
+\1. The method as set forth in Article 216 of the Civil Code; if no method of proof can be produced to prove the damages suffered, the variety right holder or exclusive licensee may claim damages based on the difference between the profit earned through the variety right exploitation after the infringement and the profit normally expected through the exploitation of the same variety right; or
+
+\2. The profit earned by the infringer as a result of the variety right infringement; when the infringer is unable to provide proof of costs and/or necessary expenses, the entire income derived from the infringer&#39;s sales of the infringing articles shall be deemed to be the infringer&#39;s profits.
+
+In addition to the requirements set forth in the preceding Paragraph, the holder of the variety right or his or her exclusive licensee may claim separately for an appropriate amount of remuneration corresponding to losses to his or her respective business reputation as a result of the infringement.
+
+### Article 42
+
+Prior to the final decision on the revocation or annulment of a variety right, the adjudication on all civil proceedings concerning such variety right may be suspended.
+
+### Article 43
+
+An unrecognized foreign juridical person or organization may initiate civil proceedings in respect of the matters governed by this Act provided that the nationals or organizations of the R.O.C. are entitled to the same rights under treaties, agreements, or national laws or customary practices of the applicant&#39;s home country. The above provision also shall apply to variety right protection agreements that are concluded by and between the organizations or institutions of the R.O.C. and those of the foreign country and that are approved by the central competent authority.
+
+## Chapter 5 Plant Seed Administration
+
+### Article 44
+
+Unless a plant seed enterprise has obtained approval from the special municipality or county/city competent authority and has been issued a plant seed enterprise registration certificate, such enterprise shall be prohibited from engaging in business operations.
+
+The qualification requirements and facility standards for plant seed enterprises shall be prescribed by the central competent authority.
+
+### Article 45
+
+The plant seed enterprise registration certificate shall indicate the following matters:
+
+\1. the registration certificate number and the date, month, and year of the registration;
+
+\2. the name and address of the plant seed enterprise, and the name of the person responsible for such enterprise;
+
+\3. the scope of the operations of, and the categories of plant seeds involved, the enterprise&#39;s business;
+
+\4. the amount of capitalization of the enterprise;
+
+\5. in the case of persons engaged in propagation, the address of any related location where the propagation takes place;
+
+\6. the term of validity of the registration certificate; and
+
+\7. other related matters.
+
+If a change occurs with respect to the matters under Subparagraphs 2 or 3 of the preceding Paragraph, an application for amendment to the enterprise&#39;s registration shall be filed with the government authority agency that approved and issued the original registration certificate within thirty(30) days of the date of such change. The competent authority may order an enterprise that has failed to apply for an amendment to its registration within such time limit to amend its registration within a specified time limit.
+
+### Article 46
+
+The following information shall be marked, mainly in Chinese together with the denomination of the plant variety in Roman letters, on the packaging, containers, or labels of a plant seed sold by a plant seed enterprise:
+
+\1. the name and address of the plant seed enterprise;
+
+\2. the botanical taxons of the plant seeds and the Chinese variety denomination of the plant seed, or the plant variety right registration certificate number;
+
+\3. the place of production;
+
+\4. weight and quantity; and
+
+5.any other matters required by the central competent authority.
+
+With respect to seeds under Subparagraph 2 of the preceding Paragraph, information concerning the germination percentage and testing date shall be marked; in the case of grafted plants, information concerning the botanical taxons and denominations of the scion as well as the stock shall be marked.
+
+### Article 47
+
+Where a plant seed enterprise fails to start business operations within 1 year after its registration is approved, or where an enterprise, after having started business operations, has ceased business operations for a period of 1 year without justifiable reasons, the special municipality or county/city competent authority may annul the registration of the enterprise.
+
+### Article 48
+
+The registration certificate shall be effective for a term of ten (10) years. Plant seed enterprises that need to continue their business operations after the end of such term shall file an application for re-issuance of the registration certificate, together with the original registration certificate, within three months prior to the final date of such term. If a plant seed enterprise fails to file such an application or otherwise fails to meet the requirements of this Act, the enterprise&#39;s original registration certificates shall be published by the competent authority as invalid.
+
+### Article 49
+
+Within thirty (30) days of annulling business operations, a registered enterprise shall file an application with the special municipality or county/city competent authority to record the cessation of its business operations and shall submit the registration certificate for annulment. If such enterprise fails to file the application or make such submission, its registration shall be canceled by the competent authority ex officio.
+
+### Article 50
+
+The competent authority may assign inspectors to inspect whether a plant seed enterprise meets the qualification requirements and facility standards, as well as the labeling of plant seeds sold by the enterprise. A plant seed enterprise shall not refuse, evade, or obstruct the inspection. If the inspection results reveal any inconformity with the requirements and standards set forth in Paragraph 2 of Article 44, the competent authority shall notify the enterprise to correct the noncompliance within a specified time limit.
+
+Inspection personnel shall present official identification when performing official duties.
+
+### Article 51
+
+Seeds, their harvested material, and products processed directly from their harvested material should be allowed to be freely imported and exported. However, restrictions or prohibitions may be imposed in the following circumstances:
+
+\1. Import and/or export may be restricted due to international treaties or trade agreements, or for the purpose of protecting rights in such plant varieties, or due to public safety, sanitation, environmental protection, ecological protection, or policy needs.
+
+\2. Import and/or export may be prohibited if it hinders national security or national interests, or affects the development of domestic agriculture industry.
+
+With respect to plant seeds, their harvested material, and products processed directly from their harvested material that are subject to the import and/or export restrictions and/or prohibitions under the preceding Paragraph, their botanical taxa, quantities, areas or regions, time periods, and conditions shall be published by the central competent authority after consulting with relevant authorities.
+
+### Article 52
+
+Without the approval of the central competent authority, the importation or exportation of transgenic plants is prohibited.
+
+The regulations governing the approval for the importation or exportation of transgenic plants shall be prescribed by the central competent authority.
+
+Transgenic plants introduced from abroad or cultivated domestically shall be prohibited from domestic promoting or sale unless they have been approved by the central competent authority for field experience and are accompanied by a consent document approved by the central competent authority for the intended purpose.
+
+The testing methods, application and examination procedures, relevant administrative regulations, and the standard rates of the testing fees of the field experience referred to in the preceding Paragraph shall be prescribed by the central competent authority.
+
+Due to food safety and environmental safety, transgenic plants shall be appropriately packaged and labeled for import, export, transport, marketing, and sale. The packaging and labeling regulations shall be prescribed by the central competent authority.
+
+### Article 53
+
+No imported plant seed shall be used for any purposes other than the declared purpose of importation.
+
+In order to prevent any imported plant seeds from being used for purposes other than the declared one, the central competent authority may require the importer to undertake necessary treatments such as pesticide treatment beforehand.
+
+## Chapter 6 Penal Provisions
+
+### Article 53-1
+
+Any person who imports and/or exports plant seeds, their harvested material, or products processed directly from their harvested material in violation of the prohibition published in accordance with Paragraph 2 of Article 51 shall be sentenced to imprisonment for not more than three years, detention, and/or a fine of more than six hundred thousand New Taiwan Dollars but less than three million New Taiwan Dollars.
+
+If the crime set forth in the preceding Paragraph is committed, the plant seeds, their harvested material, or products processed directly from their harvested material in violation shall be confiscated, whether they belong to the offender or not.
+
+If a representative of a juridical person, or an agent, employee or other staff of a juridical person or a natural person commits the offense specified in Paragraph 1 of this Article in the course of the execution of business, in addition to the punishment of the perpetrator, a fine specified in Paragraph 1 shall also be imposed on the juridical person or natural person.
+
+However, if the representative of a juridical person or the natural person has done the best to prevent the commission of the crime, the juridical person or the natural person shall be exempted from the punishment.
+
+### Article 54
+
+Any person in any of the following circumstances shall be fined more than one million New Taiwan Dollars but less than five million New Taiwan Dollars:
+
+\1. Importing or exporting in violation of the mandatory requirements governing approval under Paragraph 1 of Article 52;
+
+\2. Promoting and selling in violation of the requirements under Paragraph 2 of Article 52; or
+
+\3. Conducting field testing in violation of the mandatory requirements governing administrative regulations under Paragraph 3 of Article 52.
+
+Any plant illegally imported or exported, promoted, sold, or field-tested as set forth in the preceding Paragraph may be confiscated or destroyed.
+
+### Article 55
+
+Any person who imports and/or exports plant seeds, their harvested material, or products processed directly from their harvested material in violation of the restriction published in accordance with Paragraph 2 of Article 51 shall be fined more than five hundred thousand New Taiwan Dollars but less than two million five hundred thousand New Taiwan Dollars ; such plant seeds, their harvested material, and products processed directly from their harvested material may be confiscated in whole or in part, regardless of who owns them.
+
+### Article 56
+
+Any person in either of the following circumstances shall be fined more than sixty thousand New Taiwan Dollars but less than three hundred thousand New Taiwan Dollars: :
+
+\1. Violating the requirements of Paragraph 1 of Article 32 by failing to use the denomination for a variety for which a plant variety right has been obtained, or
+
+\2. Violating the requirements of Paragraph 1 of Article 44 by engaging in business operations without prior registration.
+
+When imposing a fine set forth in Subparagraph 2 of the preceding Paragraph, the competent authority may also order an enterprise to cease its business operations. Any enterprise that fails to cease its business operations shall be fined based on the number of months of such violation.
+
+### Article 57
+
+Any enterprise that fails to meet the qualification requirements or facility standards for plant seed enterprises under Paragraph 2 of Article 44 within the time limit for correction as specified by the competent authority under the requirements of Paragraph 1 of Article 50 shall be more than thirty thousand New Taiwan Dollars but less than one hundred fifty thousand New Taiwan Dollars. Any enterprise in serious violation may be ordered to cease all business activities for up to six months.
+
+If a violating enterprise fails to correct its violation within three months after resuming its business operations, the matter may be reported to the higher competent authority for approval of the annulment of the enterprise&#39;s registration.
+
+### Article 58
+
+Any person in any of the following circumstances shall be fined more than twenty thousand New Taiwan dollars but less than one hundred thousand New Taiwan dollars:
+
+\1. Violating the requirements of Article 46 for unclear, incomplete, or false labeling, or failure to label;
+
+\2. Refusing, evading, or obstructing inspectors from conducting inspections as stipulated in Paragraph 1 of Article 50; or
+
+\3. Violating the requirements under Paragraph 1 of Article 53.
+
+Article 59 Any enterprise that fails to file an application for an amendment to its registration within the time limit specified by the competent authority under the requirements of Paragraph 2 of Article 45 shall be fined more than ten thousand New Taiwan Dollars but less than fifty thousand New Taiwan Dollars.
+
+### Article 60
+
+Except for fines set forth in Article 54 and Article 55, which shall be imposed by the central competent authority, all other fines under this Act shall be imposed by the special municipality or county/city competent authority.
+
+If a fine imposed according this Act fails to be paid within the prescribed period, it shall be enforced compulsorily in accordance with the law.
+
+## Chapter 7 Supplementary Provisions
+
+### Article 61
+
+An applicant for a plant variety right shall pay the application fee at the time of filing such application. Upon approval of a plant variety right, the holder of the plant variety right shall pay the certificate fee and the annual fee. No plant variety right shall be published, nor shall any plant variety certificate be issued, until the annual fee for the first year and the certificate fee are paid.
+
+The annual fee for the second year and subsequent years shall be paid prior to the end of the term. If such an annual fee fails to be paid within the time period for payment, a remedial payment of the annual fee may be made within six months of the final date of the term, provided that the annual fee shall be paid at a rate of twice of what is otherwise required for timely payment of the annual fee.
+
+The examination fee required for the examination of characteristics under Paragraph 1 of Article 20 shall be paid by the applicant. The examination fee required for the follow-up testing of characteristics under Article 33 shall be paid by the holder of the plant variety right.
+
+The applicant or the person making a request shall pay the registration fee as well as any application or request fee at the time of filing an application or request under Paragraph 2 of Article 27, Paragraph 1 of Article 44, and Article 38.
+
+The standard rates for the various application or request fees, certificate fees, annual fees, and examination or testing fees with respect to plant variety rights shall be prescribed by the central competent authority.
+
+### Article 62
+
+An application for a plant variety right that has not been examined and approved prior to the date on which this amended Act takes effect shall be processed in accordance with the requirements of this amended Act.
+
+Plant variety rights already in effect on the date this amended Act takes effect shall be treated in accordance with the requirements of this amended Act.
+
+### Article 63
+
+A plant seed enterprise that has obtained a plant seed enterprise registration certificate prior to the date on which this amended Act takes effect shall reapply for a plant seed enterprise registration certificate within 2 years of the date on which a publication is made by the central competent authority notifying such enterprise to reapply for the same. If such enterprise fails to file a reapplication within the specified period, its registration certificate shall become invalid, and its registration certificate shall be recorded as invalid by the competent authority. Moreover, if such enterprise fails to apply for a re-issuance of its registration certificate and yet continues to engage in business operations, such enterprise shall be fined in accordance with the requirements of Subparagraph 2 of Paragraph 1 under Article 56.
+
+### Article 64
+
+The Enforcement Rules for this Act shall be prescribed by the central competent authority.
+
+### Article 65
+
+The effective date of this Act shall be prescribed by the Executive Yuan.
+
+## History
+
+1.Promulgated as “Plant Seed Act” on December 5, 1988 by the Presidential Order no. Hua-tzung-1-yi-tzu 5591. Enforced on the same day.
+
+2.Amended & promulgated on May 17, 2000 by the Presidential Order no. Hua-tzung- 1-yi-tzu 8900118390 for Article 2.
+
+3.Amended & promulgated on January 30, 2002 by the Presidential Order no. Hua- tzung-1-yi-tzu 09100016990 for Article 3, 4(1), 25(1), 28~30, 34, 35, 37, 41 (1), 42~45.
+
+4.Amended and promulgated as “Plant Variety and Plant Seed Act” on 21 April 2004 by Presidential Order no. Hua-tzung-1-yi-tzu 09300074811. Enforced on 30 June 2005 by the Executive Yuan.
+
+5.Article 17 amended and promulgated on August 25, 2010 by President Order Hua- Tsung (1)-Yi-Tzu No. 09900219181
+
+6.Article 4 amended and promulgated on May 23, 2018 by President Order Hua- Tsung (1)-Yi-Tzu No. 10700055481; the enforcement date to be determined by the Executive Yuan
+
+7.Article 51 and 55 amended, Articles 53-1 Added and Promulgated on May 17, 2023 by President Order Hua- Tsung (1)-Yi-Tzu No.11200040941; the enforcement date to be determined by the Executive Yuan.
+
+The announcement was made on July 27, 2023 by the Executive Yuan Order tai-gui-zi No. 1125014346. The relevant matters set out in Article 2, Article 4, Article 11, Article 14, Paragraph 1, Article 16, Paragraph 2, Article 19, Paragraph 1, Article 20, Article 21, Article 24, Paragraph 3, Article 26, Paragraph 2, Article 27, Paragraph 2, Article 30, Paragraph 1,3,4,6,8, Article 31, Article 33, Article 34, Article 35, Article 31, Article 36, Paragraph 1, Subparagraph 2, Article 37, Paragraph 1,2, Article 38, Paragraph 1, Article 39, Article 43, Article 44, Paragraph 2, Article 46, Paragraph 1, Subparagraph 5, Article 50, Paragraph 1, Article 51, Paragraph 2, Article 52, Article 53, Paragraph 2, Article 57, Article 60, Paragraph 1, Article 61, Paragraph 5, Article 63, Article 64 pertaining to “ the Council of Agriculture of the Executive Yuan” shall be handled by “Ministry of Agriculture” as governing body, effective August 1, 2023.

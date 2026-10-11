@@ -1,0 +1,167 @@
+---
+title: "Statute for Expediting Reconstruction of Urban Unsafe and Old Buildings"
+title_zh: "都市危險及老舊建築物加速重建條例"
+identifier: "D0070249"
+type: act
+law_level: "法律"
+category: "行政＞內政部＞國土管理目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2017-05-10
+last_amended: 2023-12-06
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0070249"
+retrieved: 2026-10-12
+---
+
+# Statute for Expediting Reconstruction of Urban Unsafe and Old Buildings
+
+> Translation. The Chinese text ([zh/laws/ministry-of-the-interior/D0070249-statute-for-expediting-reconstruction-of-urban-unsafe-and-old-buildings.md](../../../zh/laws/ministry-of-the-interior/D0070249-statute-for-expediting-reconstruction-of-urban-unsafe-and-old-buildings.md)) is authoritative.
+
+## Article 1
+
+This Statute is enacted to expedite the reconstruction of unsafe and old buildings within the area of urban planning, improve the living environment, and improve building safety and citizens’ living conditions in response to potential disaster risk.
+
+## Article 2
+
+The authority as referred to in this Statute shall be Ministry of the Interior of the Central Government; the Municipal Governments; and the County (City) Governments.
+
+## Article 3
+
+This Statute is applicable to legal buildings within the urban planning area that do not possess historic, cultural, art, and commemorative value designated by the industry authority, and meet any one of the following conditions:
+
+\1. The authority of buildings sets a deadline for demolition or forced demolition in accordance with building laws and disaster prevention laws or evaluates the building as unsafe and sets a deadline for reinforcement or demolition.
+
+\2. Not reaching the minimum level in a structural safety assessment.
+
+\3. Building age of 30 years or above, seismic resistance not reaching the standard in the structural safety assessment, and improvements were ineffective or did not have a lift.
+
+Adjacent building lots or land may be combined for the reconstruction of legal buildings in the preceding paragraph.
+
+Where reconstruction of the site of unsafe buildings demolished in accordance with Article 81 and Article 82 of the Building Act before this Statute takes effect has not yet been completed, an application for reconstruction may be submitted in accordance with this Statute within three years after this Statute takes effect.
+
+Structural safety assessment in subparagraphs 2 and 3 of Paragraph 1 shall be commissioned by the building owner to an institution under an inter-entity supply contract with the central authority.
+
+The institution conducting the structural safety assessment and its personnel shall not give false certification or a false assessment report.
+
+The central authority shall prescribe the contents, application method, assessment items, weights, grade, assessment standard, assessment method, assessment report, and regulations on qualifications, management, review, and other relevant matters of institutions and their personnel under an inter-entity supply contract for the structural safety assessment in Subparagraphs 2 and 3 of Paragraph 1.
+
+## Article 4
+
+The competent authority may subsidize the fee for structural safety assessments. Regulations or self-governance ordinances on application conditions, subsidy amount, application method, and other compliance matters shall be prescribed by competent authorities at each level.
+
+In the event of an objection to the assessment result in Subparagraphs 2 and 3 of Paragraph 1, the municipal or county (city) government with jurisdiction shall form an appraisal team, and process the appraisal application of the applicant. Appraisal results of the appraisal team shall be the final result. The central authority shall prescribe regulations on the organization, execution, operation, and other compliance matters of the appraisal team.
+
+## Article 5
+
+When applying for reconstruction in accordance with this Statute, the builder of the new building shall formulate a reconstruction plan, gain consent from owners of all land and legal buildings within the scope of the reconstruction plan, gain approval from the municipal or county (city) government, and apply for a building permit in accordance with building laws and regulations.
+
+Application for the reconstruction plan in the preceding paragraph must be submitted before May 31, 2027.
+
+## Article 5-1
+
+If lands and legal buildings included in Paragraph 1 of the preceding article are public property, they are mandated to participate in the reconstruction plans and shall exempt from the constraints delineated in Article 25 of the Land Act; Article 28, Article 53 and Article 66 of the National Property Act; Article 25, Article 26 and Article 86 of the Budget Act; and relevant regulations governing local public property management, except under the following circumstances:
+
+\1. There are other reasonable utilization plans so that unable to participate in the reconstruction.
+
+\2. The ratio of public land area is above 50% within the reconstruction plan scope.
+
+\3. The ratio of public land area is above 30% within the reconstruction plan scope and scope of the reconstruction plan aligns with the criteria for designating a renewal unit.
+
+Public properties in preceding paragraph participating in reconstruction shall be processed through methods such as joint construction by agreements; public tendering, project-specific sale or other methods as prescribed by relevant legal provisions.  In the case of joint construction by agreements, involving the values of land and legal structures before and after reconstruction, and the cost of reconstruction, public property administrative authority shall commission real estate appraisers to assess and then to determine the market value in accordance with the price assessment and review mechanism applicable for such public property. Subsequently, each respective public property administrative authority may negotiate the value distribution ratio in the reconstruction based on the determined market value. In the case of public tendering, apart from statutory preferential acquirer, the builder has the privilege of exercising the right of first acquisition under the same conditions.
+
+In the two preceding paragraphs, circumstances for public properties unable to participate in reconstruction due to other reasonable utilization plan; applicable conditions for public properties to participate in reconstruction; handling procedure and other compliance matters to be followed shall be separately prescribed by Ministry of Finance and competent authorities of municipal or county (city) government.
+
+## Article 6
+
+Building bulk rewards may be appropriately awarded based on actual requirements for the building site within the reconstruction plan. Building bulk after the reward shall not exceed 1.3 times the base bulk of the building site or 1.15 times the original building bulk of the building site, and shall not be limited by the base bulk or maximum building bulk after the reward prescribed in the Enforcement Rules of the Urban Planning Law enacted in accordance with Article 85 of the Urban Planning Law.
+
+Reconstruction plans proposed within certain periods after the Statute takes effect may be given an extra incentive according to the following regulations without being subject to the maximum building bulk limit specified in the preceding paragraph:
+
+\1. Within three years after the Statute takes effect: 10% of the building site's base bulk.
+
+\2. In the fourth year after the Statute takes effect: 8% of the building site's base bulk.
+
+\3. In the fifth year after the Statute takes effect: 6% of the building site's base bulk.
+
+\4. In the sixth year after the Statute takes effect: 4% of the building site's base bulk.
+
+\5. In the seventh year after the Statute takes effect: 2% of the building site's base bulk.
+
+\6. In the eighth year after the Statute takes effect: 1% of the building site's base bulk.
+
+If the building site of the reconstruction plan complies with Paragraph 1 of Article 3 or the aggregate of the building site and consolidated adjacent building lots and land achieves 200 square meters, an extra incentive of 2% of the building site's base bulk shall be given. For each additional 100 square meters, another incentive of 0.5% of the base bulk shall be given without being subject to the maximum building bulk limit specified in Paragraph 1.
+
+The total incentive for each reconstruction plan as prescribed in the two preceding paragraphs may not exceed 10% of the building site's base bulk.
+
+If adjacent building lots or land are consolidated according to Paragraph 2 of Article 3 and the building bulk reward regulations set forth in Paragraphs 1 to 3 are applicable, the total area may not exceed the building site area specified in Paragraph 1 of Article 3 and one thousand square meters shall be the limit.
+
+If an application for building bulk reward was submitted for a building in accordance with this Statute, the building shall not be eligible for building bulk reward items of other laws and regulations.
+
+The central authority shall prescribe items, calculation methods, quota, application conditions, and other compliance matters for the building bulk reward in Paragraph 1.
+
+## Article 7
+
+Restrictions on building coverage ratio and building height of buildings reconstructed in accordance with this Statute may be relaxed; the municipal or county (city) competent authority shall prescribe the standard for restriction relaxation. Restrictions on building coverage ratio may only be relaxed for residential areas, and shall not exceed the original building coverage ratio.
+
+## Article 8
+
+Where the reconstruction plan is submitted within five years after this Statute takes effect, after gaining approval from the municipal or county (city) competent authority taking into consideration local development trends and financial condition, land and buildings within the area of the reconstruction plan may be eligible for the following tax exemptions and reductions. However, if the area of adjacent building lots or land consolidated according to Paragraph 2 of Article 3 exceeds the area of the building site specified in Paragraph 1 of the same Article, no tax reduction shall be given.
+
+1.Exemption of land value tax where the land cannot be used during the reconstruction period. In the event building reconstruction is not completed within the deadline due to reasons attributable to the land owner, land value tax shall be collected in accordance with the law.
+
+2.Reduction of land value tax and house tax by half for two years after reconstruction.
+
+3.If the owner of the legal building before reconstruction is a natural person, and the owner does not transfer ownership of the building within the two-year house tax reduction period in the preceding subparagraph, the period of house tax reduction may be extended until the owner loses ownership. The house tax reduction period is limited to 10 years.
+
+If an owner is receiving tax exemption or reduction in accordance with this Statute, the owner shall not be eligible for tax exemption or reduction in accordance with other laws and regulations for the legal building. If provisions of other laws are more favorable than this Statute, then the law with the most favorable conditions shall apply.
+
+The Executive Yuan may extend the period set forth in Paragraph 1 six months before the period expires, but limited to once.
+
+## Article 9
+
+Municipal and county (city) competent authorities shall provide assistance with the reconstruction of legal buildings in Subparagraph 1 of Paragraph 1 of Article 3 with respect to relevant laws, financing channels, and engineering technology.
+
+The municipal or county (city) competent authority shall provide social housing or rental subsidy to economically or socially disadvantaged persons as defined in Paragraph 2 of Article 4 of the Housing Act who are indeed residing in the area of the reconstruction plan.
+
+## Article 10
+
+Competent authorities at each level may subsidize reconstruction plans, and may provide credit guarantee for necessary financing for the reconstruction under the following conditions:
+
+1.The municipal or county (city) competent authority determines it is difficult to obtain necessary financing after providing assistance in Subparagraph 1 of the preceding article.
+
+2.The builder is a natural person and the municipal or county (city) competent authority determines it is necessary to provide assistance for the non-profit organization to obtain necessary financing.
+
+3.Area evaluated by the municipal or county (city) government as a priority for reconstruction.
+
+The central authority shall subsidize funds required by municipal and county (city) competent authorities to provide assistance in the preceding paragraph.
+
+## Article 10-1
+
+The loans provided by commercial banks to meet the capital needs of owners of land and legal buildings or builders to carry out reconstruction plans approved by the competent authority may not be subject to the limitations set forth in Article 72-2 of the Banking Act.
+
+The financial authority may specify the maximum amount of the loans provided by commercial banks as described in the preceding paragraph if necessary.
+
+## Article 11
+
+In the event an institution or its personnel violate Paragraph 5 of Article 3 by giving false certification or a false assessment report for a structural safety assessment, a fine of no less than NT$1 million but no more than NT$5 million shall be imposed.
+
+## Article 12
+
+The central authority shall prescribe the enforcement regulations for this Statute.
+
+## Article 13
+
+This Statute shall take effect from the date of promulgation.
+
+## History
+
+\1. Promulgated by letter Hua-Zong-1-Yi No. 10600056401 of President May 10, 2017
+
+\2. Amended and Promulgated by letter Hua-Zong-1-Yi No. 10700060031 of President June 6, 2018; adding Article 10-1
+
+\3. Amended and Promulgated by letter Hua-Zong-1-Yi No. 10900045621 of President May 6, 2020; revising Article 3,6,8
+
+\4. Amended and Promulgated by letter Hua-Zong-1-Yi No. 11200105761 of President Dec 6, 2023; adding Article 5-1

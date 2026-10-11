@@ -1,0 +1,413 @@
+---
+title: "Act Governing the Allocation of Government Revenues and Expenditures"
+title_zh: "財政收支劃分法"
+identifier: "G0320015"
+type: act
+law_level: "法律"
+category: "行政＞財政部＞國庫目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1951-06-13
+last_amended: 2025-12-03
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0320015"
+retrieved: 2026-10-12
+---
+
+# Act Governing the Allocation of Government Revenues and Expenditures
+
+> Translation. The Chinese text ([zh/laws/ministry-of-finance/G0320015-act-governing-the-allocation-of-government-revenues-and-expenditures.md](../../../zh/laws/ministry-of-finance/G0320015-act-governing-the-allocation-of-government-revenues-and-expenditures.md)) is authoritative.
+
+## Chapter 1: General Principles
+
+#### Article 1
+
+This Act is adopted in accordance with the relevant articles of Chapters X and XIII of the Constitution of the Republic of China (Taiwan).
+
+#### Article 2
+
+The allocation, adjustment, and classification of revenues and expenditures for public finance by governments at all levels in the Republic of China shall be as prescribed in this Act.
+
+#### Article 3
+
+The divisions of the national system for government revenues and expenditures are as follows:
+
+\1. The central government.
+
+\2. Special municipalities.
+
+\3. Counties and county-level cities.
+
+\4. Townships/cities.
+
+#### Article 4
+
+(deleted)
+
+#### Article 5
+
+Oversight of revenues and expenditures in public finance at each level of government shall be as provided for by law.
+
+## Chapter 2: Revenues
+
+### Section 1: Tax revenues
+
+#### Article 6
+
+Tax levies are divided into national, special municipality, and county (or county-level city) taxes.
+
+#### Article 7
+
+Legislation by special municipalities, counties or county-level cities, and townships/cities for the purpose of levying taxes is restricted to legislation for which this Act expressly provides, and shall conform with the Act Governing Local Tax Regulations.
+
+#### Article 8
+
+The following taxes are national taxes:
+
+\1. Income tax.
+
+\2. Estate and gift tax.
+
+\3. Customs duties.
+
+\4. Business tax.
+
+\5. Commodity tax.
+
+\6. Tobacco and alcohol tax.
+
+\7. Securities transaction tax.
+
+\8. Futures transaction tax.
+
+Eleven percent of the total revenue from the income tax of Subparagraph 1 of the preceding paragraph, the total revenue from the business tax of Subparagraph 4 after the deduction of one point five percent collection cost and of duly appropriated Uniform Invoice Prizes, and 10 percent of the total revenue from the commodity tax of Subparagraph 5 shall be redistributed from the central government to the special municipalities, counties and townships/cities.
+
+Fifty percent of the revenue from the estate and gift tax of Subparagraph 2, Paragraph 1 that is collected in a special municipality shall be returned to the respective municipality; 80 percent of the revenue from such tax that is collected in a county-level city shall be returned to the respective county-level city; and 80 percent of the revenue from such tax that is collected in a township/city shall be returned to that township/city.
+
+Eighteen percent of the total revenue from the tobacco and alcohol tax of Subparagraph 6, Paragraph 1 shall be distributed among the special municipalities and the counties and county-level cities of Taiwan Province, in proportion to their populations; two percent of the total revenue shall be distributed to Kinmen County and Lienchiang County of Fujian Province, in proportion to their populations.
+
+#### Article 9
+
+(deleted)
+
+#### Article 10
+
+(deleted)
+
+#### Article 11
+
+(deleted)
+
+#### Article 12
+
+The following taxes are special municipality and county and county-level city taxes:
+
+\1. Land tax, which includes the following:
+
+(1) Land value tax
+
+(2) Agricultural land tax
+
+(3) Land value increment tax.
+
+\2. House tax.
+
+\3. Vehicle license tax.
+
+\4. Deed tax.
+
+\5. Stamp tax.
+
+\6. Amusement tax.
+
+\7. Special tax levies.
+
+A county shall return 30 percent of the total revenue from the land value tax of Item 1, Subparagraph 1 that is collected in a given township/city to the respective township/city, and shall redistribute a further 20 percent of the total revenue so collected among the townships/cities of the county; a county shall return all of the total revenues from the agricultural land tax of Item 2, Subparagraph 1 that are collected in a given township/city to the respective township/city.
+
+A county shall return 40 percent of the revenue from the house tax of Subparagraph 2, Paragraph 1 that is collected in a given township/city of the county to the respective township/city, and shall redistribute a further 20 percent of the total revenues so collected to the county's townships/cities.
+
+A county shall return 80 percent of the revenue from the deed tax of Subparagraph 4, Paragraph 1 that is collected in a given township/city of the county to the respective township/city, and shall redistribute 20 percent of the total revenue so collected to the county's townships/cities.
+
+A county shall return all of the revenue from the amusement tax of Subparagraph 6, Paragraph 1 that is collected in a given township/city to the respective township/city.
+
+The term "special tax levies" of Subparagraph 7, Paragraph 1 refers to taxes levied through legislation by local legislative bodies in response to the requirements of local self-government. Such legislation, however, may not levy further taxes on items to which commodity tax or tobacco and alcohol tax already apply.
+
+#### Article 13
+
+(deleted)
+
+#### Article 14
+
+(deleted)
+
+#### Article 15
+
+(deleted)
+
+#### Article 16
+
+(deleted)
+
+#### Article 16-1
+
+The redistribution of tax revenues pursuant to Paragraph 2, Article 8 shall be based on the transparent, fair, and standardized methods. The local governments that receive the redistributions shall recognize the amounts so received as current-year tax revenues.
+
+Ninety-six percent of the total amount of tax funds redistributed by the central government to special municipalities, counties and county-level cities, and townships/cities pursuant to Paragraph 2, Article 8 shall be recognized as "general centrally-funded tax revenues." The remaining four percent shall be recognized as "special centrally-funded tax revenues" and provided to local governments that receive the distributions as necessary funding support for use in emergencies and other major matters. The funds will be distributed by the Executive Yuan based on actual circumstances.
+
+The amount allocated to each special municipality, county and county-level city, and township/city from the general centrally-funded tax revenues shall be calculated based on the following indices and weights:
+
+\1. Ninety point five percent of the funds that can be provided for distribution shall be allocated to special municipalities, counties and county-level cities (excluding offshore islands) according to the following weights:
+
+(1) The ratio of the average amount of business sales within each special municipality, county and county-level city in the recent three years to the total average amount of all special municipalities, counties and county-level cities (excluding offshore islands). The weight is 30 percent.
+
+(2) The ratio of the ranking grade for the growth rate of total revenues from house tax, land value tax, and land value increment tax within each special municipality, county and county-level city compared to the previous year, relative to the total ranking grades of all special municipalities, counties and county-level cities (excluding offshore islands). The weight is 10 percent.
+
+(3) The ratio of charges and fees revenues, community development fee revenues, and fines and indemnities revenues to self-financing resources within each special municipality, county and county-level city, relative to the total ratios of all special municipalities, counties and county-level cities (excluding offshore islands). The weight is five percent.
+
+(4) The ratio of the land area within each special municipality, county and county-level city to the total land area of all special municipalities, counties and county-level cities (excluding offshore islands). The weight is 10 percent.
+
+(5) The population index is weighted at 45 percent, calculated based on the following detail indices and weights:
+
+i. Population: The ratio of the population within each special municipality, county and county-level city at the end of the most recent year, accounting for 90 percent of the population index.
+
+ii. Income Capacity: The ratio of income capacity within each special municipality, county and county-level city in the most recent year to the total income capacity of all special municipalities, counties and county-level cities (excluding offshore islands), accounting for 10 percent of the population index. Income Capacity=National disposable income per household÷ Disposable income per household within each special municipality, county and county-level city.
+
+\2. Considering that the responsibilities and expenditure items of special municipalities differ from those of counties and county-level cities, two percent of the funds that can be provided for distribution shall be allocated to special municipalities based on the portion of allocated amounts within each special municipality.
+
+\3. Two point five percent of the funds that can be provided for distribution shall be allocated to the three offshore island counties and county-level cities according to the following weights:
+
+(1) The ratio of the average amount of business sales within each offshore island county and county-level city in the recent three years to the total average amount of the three offshore island counties and county-level cities. The weight is 30 percent.
+
+(2) The ratio of the ranking grade for the growth rate of total revenues from house tax, land value tax, and land value increment tax within each offshore island county and county-level city compared to the previous year, relative to the total ranking grades of the three offshore island counties and county-level cities. The weight is 10 percent.
+
+(3) The ratio of charges and fees revenues, community development fee revenues, and fines and indemnities revenues to self-financing resources within each offshore island county and county-level city, relative to the total ratios of the three offshore island counties and county-level cities. The weight is five percent.
+
+(4) The ratio of the land area within each offshore island county and county-level city to the total land area of the three offshore island counties and county-level cities. The weight is 10 percent.
+
+(5) The population index is weighted at 45 percent, calculated based on the following detail indices and weights:
+
+i. Population: The ratio of the population within each special municipality, county and county-level city at the end of the most recent year, accounting for 90 percent of the population index.
+
+ii. Income Capacity: The ratio of income capacity within each special municipality, county and county-level city in the most recent year to the total income capacity of the three offshore island counties and county-level cities, accounting for 10 percent of the population index. Income Capacity=National disposable income per household÷ Disposable income per household within each special municipality, county and county-level city.
+
+\4. Five percent of the funds that can be provided for distribution shall be allocated to townships/cities, a formula shall be developed for distribution of the funds to each of the township/city in consideration of personnel expenses for formal civil servants and their basic infrastructure needs.
+
+\5. The total reductions in allocation amounts, compared to the year before the amendment of the Act, for each special municipality, county and county-level city, and township/city are compensated by special centrally-funded tax revenues.
+
+Based on the aforementioned calculated amounts for each special municipality, county and county-level city, and township/city, the Ministry of Finance should calculate the amount allocated to each special municipality, county and county-level city, and township/city using the estimated centrally-funded tax revenues for the following year and notify the respective governments four months before the beginning of the fiscal year. The aforementioned provision states that if the circumstances change due to legislative amendments, the requirement to notify the relevant special municipality, county and county-level city, and township/city governments four months prior to the start of the fiscal year will not apply.
+
+A county government shall establish regulations, based on the principal of adjustments for fiscal surpluses or shortages, to govern the redistribution of funds from the county to townships/cities under Paragraphs 2 through 4, Article 12. Funds that are redistributed according to formula may not be less than 90 percent of the total funds available for redistribution, and each township/city government must be notified three months before the beginning of the fiscal year.
+
+#### Article 17
+
+(deleted)
+
+#### Article 18
+
+No government at any level may impose a double tax or a surtax on the tax levies of another government at the same level or any other level. This restriction does not apply, however, to the governments of special municipalities, counties and county-level cities when, to raise the necessary financing to manage self-government matters, they impose a surtax in accordance with the Act Governing Local Tax Regulations.
+
+No local government at any level may impose an entry tax or a transit tax on goods that enter or pass through its jurisdiction.
+
+#### Article 19
+
+A government at any level, in order to meet special needs, may impose a provisional tax levy through legislation by the representative body at that level.
+
+### Section 2: Revenues from monopoly utilities and monopoly sales
+
+#### Article 20
+
+A government at any level, having obtained permission by law, may operate a monopoly public utility, and may duly impose a franchise fee and permit a private party to operate the utility.
+
+The area supplied by a monopoly public enterprise operated by a local government shall be limited to the area under that government's jurisdiction, provided that a stipulation to expand the area supplied may be made by agreement with the local government of a neighboring area.
+
+#### Article 21
+
+The central government, in order to increase national treasury revenues or to control the costs of production, may sell monopoly goods in accordance with the provisions of law, and may manufacture such goods.
+
+### Section 3: Revenues from community development fees assessed on construction projects
+
+#### Article 22
+
+When there is construction of roads, levees, ditches, harbors and piers, or other land and water improvement projects within the jurisdiction of a government at any level, that government may collect fees from any real estate or ship that directly benefits from the construction.
+
+Collection of fees on construction profits under the preceding paragraph shall be limited to the actual amount of expense directly and indirectly incurred in the given construction project. If the expense for the construction is financed by borrowing, the collection of the fees shall be limited to the amount required for full payment of the borrowed funds and the interest on those funds. However, if continued maintenance is required for the given construction project, fees may continue to be collected in accordance with the required maintenance.
+
+Construction projects and the collection of fees on construction profits may be undertaken only after the requisite budgetary procedures have been carried out.
+
+### Section 4: Revenue from fines and compensation
+
+#### Article 23
+
+Except as otherwise provided by law, any lawfully collected criminal or administrative fine, confiscated property, or revenue from compensation shall be placed in the respective government treasury of the given level of government.
+
+### Section 5: Revenues from charges and fees
+
+#### Article 24
+
+The charges and fees of judicial bodies, examination bodies, and the administrative agencies at various levels of government shall be collected as provided by law. If not provided by law, charges and fees may not be collected except by the prior passage of a resolution by the relevant legislative or representative body approving the specific charge or fee.
+
+#### Article 25
+
+Except as otherwise provided by law, charges and fees collected by any public enterprise organization shall be approved first by the highest-level authority for the given enterprise and placed in the government treasury of the given level of government after the requisite budgetary procedures have been carried out.
+
+### Section 6: Trust management revenue
+
+#### Article 26
+
+A government at any level and the agencies subordinate to it, when lawfully engaging in trust management or managing a trust on behalf of another party, may collect trust management fees.
+
+### Section 7: Property revenue
+
+#### Article 27
+
+Except as otherwise provided by law, interest generated by assets owned by a government at any level, the sale price of assets sold by it, and capital recovered by it, shall be placed in the government treasury of the given level of government.
+
+#### Article 28
+
+The sale of real estate or important assets by any level of government shall be done in accordance with the law. Except as otherwise provided by law, items generated by assets owned by a public agency, or surplus or waste items among the items used by that agency, may be sold at the current market price after a request to do so has been approved by a superior competent authority.
+
+### Section 8: Operating surpluses, donations and contributions, and other revenues
+
+#### Article 29
+
+Except as otherwise provided by law, operating surpluses, donations and contributions received, and other lawful revenues received at any level of government shall be placed in the respective government treasury of that level of government.
+
+### Section 9: Subsidy and assistance revenue
+
+#### Article 30
+
+The central government, in seeking balanced development of the national economy, may consider providing subsidies to local governments, provided that such subsidies are limited to the following:
+
+\1. Programs whose benefits will be broad in scope, while also having goals that are comprehensive in nature.
+
+\2. Infrastructure projects whose scope extends beyond a special municipality, county or county-level city, or spans two or more counties or county-level cities.
+
+\3. Major infrastructure projects that will serve in a demonstration capacity.
+
+\4. Matters in which the cooperation of the local government is needed for major central government policies or infrastructure projects.
+
+Regulations governing subsidies provided under each of the subparagraphs of the preceding paragraph shall be adopted by the Executive Yuan.
+
+The amount of the General Grant provided to local governments by the central government shall not be less than the budgeted amount from the year before the amended Act was enforced.
+
+#### Article 31
+
+A county government, in seeking balanced development of townships/cities, may consider providing subsidies to those townships/cities. The regulations governing such subsidies shall be separately adopted by the county government.
+
+#### Article 32
+
+(deleted)
+
+#### Article 33
+
+Any higher-level government, to respond to special needs, may obtain assistance funding from lower-level governments with relatively strong fiscal capabilities.
+
+The "assistance funding" of the preceding paragraph shall be recognized in the budgets of each of the given lower-level governments.
+
+### Section 10: Government bonds and government borrowing
+
+#### Article 34
+
+No government at any level may issue government bonds, or engage in borrowing from a domestic or foreign source with a repayment period of one year or more, except as provided by law or by passage of a resolution in the relevant legislative body.
+
+The limits on outstanding debt in the form of government bonds or loans under the preceding paragraph shall be determined in accordance with the Public Debt Act.
+
+A local government at any level shall first receive approval from the central government before issuing government bonds or borrowing funds abroad.
+
+## Chapter 3: Expenditures
+
+#### Article 35
+
+No expenditure may be made by a government at any level except through requisite budgetary procedures.
+
+#### Article 35-1
+
+Except as otherwise provided by other laws, the standards for planning, compilation, and common expenses with respect to the revenues and expenditures in annual general budgets, additional budgets, and special budgets at all governmental levels shall be in accordance with the Principles for Planning and Compilation of Central and Local Government Budgets adopted by the Executive Yuan.
+
+When a local government fails to comply with the Principles for Planning and Compilation of Central and Local Government Budgets under the preceding paragraph, or when it is allowed by law to collect revenues from a particular source but fails to do so, its superior government shall consider reducing the budgeting or allocation of subsidies to that local government as merited by the actual circumstances; when a local government has a record of successfully developing sources of revenue, its superior government may consider increasing subsidies to it.
+
+#### Article 36
+
+The expenses incurred by persons exercising political powers within the administrative regions of governments at all levels shall be borne by their respective governments.
+
+#### Article 37
+
+The division of expenditures at various levels of government is as follows:
+
+\1. Expenditures arising from legislation enacted and administered by the central government are the responsibility of the central government.
+
+\2. Expenditures arising from legislation enacted and administered by special municipalities are the responsibility of the special municipalities.
+
+\3. Expenditures arising from legislation enacted and administered by counties and county-level cities are the responsibility of the counties and county-level cities.
+
+\4. Expenditures arising from legislation enacted and administered by townships/cities are the responsibility of the townships/cities.
+
+If the matters under Subparagraphs 1 and 3 of the preceding paragraph must be administered by a lower-level government, then except as otherwise provided by law, the expenses of administration for the commissioned matters shall be borne by the commissioning agency; for self-government matters, expenses shall be borne by the given local government.
+
+When the above matters are administered jointly by two or more governments at the same or at different levels, whether the central government or the governments of special municipalities, counties or county-level cities, or townships/cities, a proportional share of the cost of administration shall be borne respectively by the central government or by each respective special municipality, county or county-level city, or township/city.
+
+When a local government at any level fails to bear expenses as required by Paragraphs 2 and 3 above, its superior government may deduct those expenses from the subsidies it provides to the local government.
+
+#### Article 37-1
+
+A local government shall give priority to funding for each of the following expenditures from its basic fiscal revenues and other recurring revenues:
+
+\1. The allotted number of persons on its staff and the personnel and related expenses officially ratified by a higher level of government.
+
+\2. General recurring expenditures, management and upkeep of public facilities, and expenses it is obligated to bear by law.
+
+\3. Expenses for basic local facilities or small-scale construction.
+
+\4. Expenses for other local matters that the local government is obligated to carry out.
+
+When a local government, after complying with the provisions of the preceding paragraph, finds its revenues are insufficient for the required expenditures, it shall give priority to the above expenditures when using the centrally-funded tax revenues that have been allocated to it.
+
+#### Article 38
+
+When the administration of matters by a government at any level is delegated to a government at the same or another level, the related expenses shall be borne by the delegating agency.
+
+#### Article 38-1
+
+When a government or legislative body at any level enacts, adopts, or amends laws or self-governing regulations, that would lead to a reduction in its revenues, it shall at the same time make sufficient plans for an alternative source of revenue; if it must increase its fiscal burden, it shall make sufficient plans in advance for related expenses, or, at the time of legislation, shall expressly provide for a corresponding source of revenue.
+
+## Chapter 4: Supplemental Provisions
+
+#### Article 38-2
+
+The date of enforcement of Articles 8, 12, and 16-1 as amended on January 13, 1999 shall be determined by an order of the Executive Yuan.
+
+The date of enforcement of Article 16-1 as amended on November 21, 2025 shall retroactively come into effect on March 21, 2025.
+
+#### Article 39
+
+This Act, unless a separate date of enforcement has been provided, shall be enforced from the date of promulgation.
+
+## History
+
+\1. Promulgated on 13 June 1951 by Presidential Order.
+
+\2. Appendix 1 amended and promulgated on 27 November 1953.
+
+\3. Articles 9, 11, 13 to15, and Appendix 1 amended and promulgated on 17 August 1954.
+
+\4. Article 8 and Appendix 1 amended and promulgated on 31 December 1955.
+
+\5. Article 8 and Appendix 1 amended and promulgated on 29 December 1960.
+
+\6. Articles 1 to 39 and Appendices 1 and 2 amended and promulgated on 4 May 1965.
+
+\7. Article 8 and Appendix 1 amended and promulgated on 19 June 1965.
+
+\8. Articles 16 and 18 and Appendix 1 amended and promulgated on 28 June 1968.
+
+\9. Articles 8 and 10 and Appendix 1 amended and promulgated on 10 May 1973.
+
+\10. Articles 8, 12, 16, and 18 and Appendices 1 and 2 amended; Articles 9 to 11 and 13 to 15 deleted and promulgated by Presidential Decree Tai-tung-1-Yi No.0464 on 21 January 1981.
+
+\11. Articles 16-1, 35-1, 37-1, 38-1, and 38-2 added; Articles 16, 17, and 32 deleted; Articles 3, 4, 6 to 8, 12, 18, 19, 30, 31, the name of Section 10, and Articles 34, 37, and 39 amended and promulgated by Presidential Decree Hua-Tzung-I-Yi No.8800017860 on 25 January 1999.
+
+\12. Article 4 deleted; Articles 8, 12, 16-1, and 30 amended and promulgated by Presidential Decree Hua-Tzung-I-Jing No.11400026181 on 21 March 2025.
+
+\13. Articles 16-1, and 38-2 amended and promulgated by Presidential Decree Hua-Tzung-I-Jing No.11400124061 on 3 December 2025.

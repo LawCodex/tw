@@ -1,0 +1,229 @@
+---
+title: "Private Security Service Act"
+title_zh: "保全業法"
+identifier: "D0080081"
+type: act
+law_level: "法律"
+category: "行政＞內政部＞警政目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1991-12-30
+last_amended: 2021-01-20
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0080081"
+retrieved: 2026-10-12
+---
+
+# Private Security Service Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-the-interior/D0080081-private-security-service-act.md](../../../zh/laws/ministry-of-the-interior/D0080081-private-security-service-act.md)) is authoritative.
+
+## Article 1
+
+This Act is enacted to improve the development of private security services and ensure the safety of citizens' lives and property. If the matters are not specifically prescribed in this Act, other laws shall apply.
+
+## Article 2
+
+The competent authorities herein refer to the Ministry of the Interior at the central government level, the municipal government at the municipality level, and the county (city) government at the county (city) level.
+
+## Article 3
+
+Security Services herein refer to companies with limited liability established to provide security services in compliance with this Act.
+
+## Article 4
+
+Security companies may provide the following services:
+
+\1. Safeguarding office buildings, business premises, factories, warehouses, performance and entertainment sites, contest venues, residences, exhibition and reading sites, and parking lots against burglaries, fires, or disasters.
+
+\2. Safeguarding cash or other valuable items during their transportation.
+
+\3. Safeguarding personal safety.
+
+\4. Providing other security services approved by the central competent authority.
+
+## Article 4-1
+
+When a security company discovers a robbery, burglary, fire, or other incidents that affect public safety, it shall notify the local police organization immediately.
+
+## Article 4-2
+
+A Security company shall report its establishment to the local competent authority for future reference within seven days after it begins operation.
+
+The competent authority prescribed in the preceding paragraph shall inspect the company's business operation within ten days after receiving the letter of notification.
+
+## Article 5
+
+Anyone who runs a security company shall apply for a license to the central competent authority by submitting the application form and a business plan. After receiving the license, he/she then may apply to have that company registered. The same shall apply to the establishment of branch offices.
+
+## Article 6
+
+When a security company approved by the central competent authority to provide security services has failed to complete company registration after receiving the license for over six months, the central competent authority may revoke the license.
+
+## Article 7
+
+The central government authority shall determine the minimum paid-up capital for a security company.
+
+## Article 8
+
+A security company shall be equipped with the following:
+
+\1. A fixed and exclusive place for its business.
+
+\2. Control system and equipment that report and record automatically.
+
+\3. Patrolling service vehicles.
+
+\4. Armor cash carrier: running a business prescribed in subparagraph 2 of Article 4 shall use armor cash vehicles that are equipped with special security devices.
+
+\5. Other equipment needed to run the business items that are approved by the central competent authority.
+
+The equipment needed for the patrolling service vehicles, as prescribed in subparagraph 3, and armor cash carriers with special security devices, as prescribed in subparagraph 4, shall be determined by the central competent authority.
+
+## Article 9
+
+In light of the compensation liability incurred by providing security services, a security company shall purchase liability insurance from an insurance company approved by the Financial Supervisory Commission. The central competent authority shall determine the insured amount.
+
+The liability insurance, as prescribed in the preceding paragraph, shall be purchased prior to the commencement of business, and the policy shall not be terminated before maturity without prior permission from the central competent authority.
+
+## Article 10
+
+A security company shall have security guards to provide security services and submit a list of prospective security guards to the local competent authority for review before hiring them. When necessary, a security company may employ security guards directly but immediately submit the aforementioned list to the local competent authority for verification.
+
+## Article 10-1
+
+People with any of the following conditions shall not serve as security guards unless the conditions occurred before this Act amended and came into effect on January 22, 2003, and they had already been working as security guards:
+
+\1. Minors or people aged 70 and over.
+
+\2. People who committed crime prescribed in the Organized Crime Prevention Act, Narcotics Elimination Act, Narcotics Control Act, Narcotics Hazard Prevention Act, Firearms, Ammunition and Knives Control Act, Anti-Corruption Act, Child and Youth Sexual Transaction Prevention Act, Child and Youth Sexual Exploitation Prevention Act, Human Trafficking Prevention Act, and Money Laundering Control Act, or offenses in Articles 173 to 180, 185-1, 185-2, 186-1, 190, 191-1, and sexual offenses, offenses against morality, offenses in Articles 271 to 275, offenses in the second paragraph of Article 277, offenses in Article 278, offense against freedom, offenses of larceny, offense of abrupt taking, robbery, and piracy, offense of embezzlement, offense of fraudulence, breach of trust, and usury, offense of extortion and kidnapping for ransom, and offense of receiving stolen property prescribed in the Criminal Code of the Republic of China and were convicted with a sentence pronounced, except for those who were given a probation, or his/her sentence could be replaced by a fine, community service, labor, or who were fined and his/her sentence had been executed, or who were finally found not guilty.
+
+\3. People intentionally committed crimes other than those prescribed in the preceding subparagraph and were finally sentenced to imprisonment for more than six months, their sentence has not been executed or is being executed or has been executed for less than one year, except for those are sentenced to be under probation.
+
+\4. People who were finally sentenced to receive rehabilitative measures, but his/her sentence has not been executed or is being executed.
+
+As soon as a security company becomes aware that there are security guards who work for it and have any of the conditions prescribed in the subparagraphs of the preceding paragraph, it shall dismiss the security guards immediately.
+
+## Article 10-2
+
+When a security company hires security guards, it shall offer them more than one week pre-service professional training. For serving security guards, it shall provide them with at least four hours in-service training every month.
+
+## Article 11
+
+People with any of the conditions prescribed in subparagraph 2 to 6 of Article 30 of the Company Act shall not serve as a security company's directors, supervisors, or managers.
+
+Those who are already in the positions shall be dismissed, and the competent authority shall notify the Ministry of Economic Affairs to cancel their registrations as director, supervisor, or manager.
+
+A security company shall submit a list of its directors, supervisors, or managers to the local competent authority for reference within seven days of taking those positions. The same shall apply if there is any change in the list.
+
+## Article 12
+
+Before being contacted to provide security services, a security company shall enter into a written agreement.
+
+The items that need to be included in the written agreement as prescribed in the preceding paragraph shall be determined by the central competent authority.
+
+## Article 13
+
+The competent authority may send its officers with their credentials to inspect the business operations of security companies at any time and may demand the presentation of related data.
+
+A security company's directors, supervisors, managers, or staff shall not reject the inspection or demand as prescribed in the preceding paragraph.
+
+The competent authority shall periodically check the qualifications of security guards and shall notify the respective security company to dismiss those with any of the conditions prescribed in the subparagraphs of paragraph 1, Article 10-1.
+
+## Article 14
+
+Security guards shall wear uniforms while providing security services. The uniforms shall not be identical or similar to those worn by the military or police personnel. Security guards shall also carry credentials, communication equipment and personal safety protection gear at all times.
+
+The design, color, and logo of the uniforms, as prescribed in the preceding paragraph, shall be submitted to the central competent authority for reference. The central competent authority shall determine the types, specifications and use of the communication equipment and personal safety protection gear.
+
+## Article 15
+
+Security company shall be responsible for supervising its security guards and preventing them from infringing upon the rights of its clients.
+
+When security guards infringe upon the rights of clients illegally while providing services, the security company, along with the infringers, shall take no-fault liability for the compensation.
+
+## Article 16
+
+Any Security company with any of the following conditions shall be subject to a fine between NTD 100,000 and NTD 500,000 imposed by the competent authority:
+
+\1. Violating the provisions prescribed in Article 8 by not having the required equipment.
+
+\2. Violating the provisions prescribed in Article 9 by not purchasing liability insurance or discontinuing it.
+
+\3. Violating the provisions prescribed in Article 10 by not submitting a list of prospective security guards for review, by hiring security guards disqualified in the review, or by not submitting a list of hired security guards for verification.
+
+\4. Violating the provisions prescribed in paragraph 2 of Article 10-1 by not dismissing security guards that shall be dismissed.
+
+\5. Violating the provisions prescribed in Article 10-2 by not providing the security guards with pre-service professional training or in-service training.
+
+Failure to improve before a given deadline on any conditions prescribed in the preceding subparagraph or repeated violations of any condition thereof shall be subject to a suspension of business for between one month and one year imposed by the competent authority; as for severe cases, the license shall be subject to revocation.
+
+## Article 17
+
+Any of the following conditions shall be subject to a fine between NTD 60,000 and NTD 300,000 imposed by the competent authority:
+
+\1. Violating the provisions prescribed in Article 4-1 by not notifying the authorities concerned in accordance with required procedures.
+
+\2. Violating the provisions prescribed in Article 4-2 by not submitting a report to the local competent authority for reference within seven days of the commencement of business.
+
+\3. Violating the provisions prescribed in Article 11 in selecting directors, supervisors, or managers, or failing to submit the list of directors, supervisors, or managers for reference by a given deadline.
+
+Any of the following conditions shall be subject to a fine between NTD 200,000 and NTD 1,000,000 imposed by the competent authority:
+
+\1. Violating the provisions prescribed in Article 13 by refusing to be inspected or provide data.
+
+\2. Violating the provisions prescribed in Article 15 by infringing upon the rights of clients.
+
+Failure to improve before a given deadline on any conditions prescribed in the subparagraphs of the preceding two paragraphs or repeated violations of any condition thereof shall be subject to a suspension of business for between one month and one year by the competent authority.
+
+## Article 18
+
+Any of the following conditions shall, depending on the severity, be subject to a warning or a fine between NTD 9,000 and NTD 90,000 and a demand for improvements by a given deadline imposed on the respective security company by the competent authority:
+
+\1. Violating the provisions prescribed in paragraph 1 of Article 12.
+
+\2. Violating the provisions prescribed in paragraph 1 of Article 14 by not wearing uniforms.
+
+The monetary penalty prescribed in the preceding paragraph may be imposed consecutively by each violation.
+
+## Article 19
+
+Security companies that provide security services without a license or with a revoked license shall be ordered to terminate the business and be subject to a fine between NTD 30,000 and NTD 300,000.
+
+## Article 20
+
+Security companies that are already in operation prior to the enforcement of this Act shall apply for a license to the central competent authority in accordance with the provisions herein within one year after this Act is enforced. Failure to do so shall be subject to revocation of company registrations or partially registered items by the Ministry of Economic Affairs upon the notice from the competent authority.
+
+## Article 21
+
+The local competent authority shall determine the fines in accordance with this Act.
+
+The fines, as prescribed in the preceding paragraph, shall be referred to court for compulsory enforcement if no payment has been made by the notified deadline.
+
+## Article 22
+
+The central competent authority shall enact the Enforcement Rules of this Act.
+
+## Article 23
+
+This Act shall take effect from the date of promulgation.
+
+## History
+
+\1. Enacted and promulgated by President Order Hua Zong 1 Yi Zi No. 6903 on Dec. 30, 1991
+
+\2. Amended by Presidential Order Hua Zong 1 Yi Zi No. 8900166180 on July 5, 2000
+
+\3. Amended by Presidential Order Hua Zong 1 Yi Zi No. 09200011700 on Jan. 22, 2003
+
+\4. Amended by Presidential Order Hua Zong 1 Yi Zi No. 10000259751 on Nov. 23, 2011
+
+\5. Amended by Presidential Order Hua Zong 1 Yi Zi No. 10500154261 on Dec. 14, 2016
+
+\6. Amended by Presidential Order Hua Zong 1 Yi Zi No. 10600073221 on Jun. 14, 2017
+
+\7. Amended by Presidential Order Hua Zong 1 Yi Zi No. 10800063481 on Jun. 21, 2019
+
+\8. Amended by Presidential Order Hua Zong 1 Yi Zi No. 11000003481 on Jan. 20, 2021

@@ -1,0 +1,77 @@
+---
+title: "Organization Law of Occupational Safety and Health Administration, Ministry of Labor"
+title_zh: "勞動部職業安全衛生署組織法"
+identifier: "N0000032"
+type: act
+law_level: "法律"
+category: "行政＞勞動部＞組織目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2014-01-29
+last_amended: 2014-01-29
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0000032"
+retrieved: 2026-10-12
+---
+
+# Organization Law of Occupational Safety and Health Administration, Ministry of Labor
+
+> Translation. The Chinese text ([zh/laws/ministry-of-labor/N0000032-organization-law-of-occupational-safety-and-health-administration-ministry-of.md](../../../zh/laws/ministry-of-labor/N0000032-organization-law-of-occupational-safety-and-health-administration-ministry-of.md)) is authoritative.
+
+## Article 1
+
+The Ministry of Labor shall establish the Occupational Safety and Health Administration to plan and execute services related to occupational safety and health, the protection of laborers from occupational accidents, and labor inspection (hereinafter referred to as the Administration).
+
+## Article 2
+
+The Administration shall be in charge of the following matters:
+
+1.Formulating, amending, abolishing, and interpreting regulations and policies for occupational safety and health.
+
+2.Formulating, amending, abolishing, and interpreting regulations and policies for labor inspection.
+
+3.Formulating, amending, abolishing, and interpreting regulations and policies for the protection of laborers from occupational accidents.
+
+4.Planning, promoting, and managing systems of occupational safety and health.
+
+5.Promoting, executing, and supervising inspections of occupational safety and health, and labor standards.
+
+6.Promoting and managing improvement of labor health, investigation and appraisal of occupational diseases, as well as prevention of occupational diseases and injuries.
+
+7.Promoting, supervising, and managing the prevention of occupational accidents, compensation and rehabilitation of laborers due to occupational accidents.
+
+8.Other matters related to occupational safety and health, labor inspection, and protection of labor from occupational accidents.
+
+## Article 3
+
+The Administration shall have one Director-General at senior grade 13, and two Deputy Directors-General at senior grade 12.
+
+## Article 4
+
+The Administration shall have one Chief-Secretary at senior grade 11.
+
+## Article 5
+
+The official ranks, grades, and headcounts of personnel at the Administration shall be regulated by a separate Personnel Establishment Table.
+
+The 17 people transferred to the Administration from the original Bureau of Labor Insurance (hereinafter referred to as the Bureau of Labor Insurance.) shall not be included in the scope of staffing by the Act Governing the Total Number of Personnel Headcounts of Central Government Agencies.
+
+## Article 6
+
+Before the Law is implemented, the current staff with public functionary qualifications of the Bureau of Labor Insurance will be transferred. Their levels of position and retirement pension will be regulated by the Examination Yuan and Executive Yuan. If the offering and level of position of the transferred staff are lower than the original offering and level of position before the implementation of the Law, the staff can demand compensation for the deficiency, which will be offset when the offering is adjusted. During the time when one receives the deficiency payment, they cannot apply for a living allowance. They can also choose not to receive the deficiency payment and apply for a living allowance according to the regulations.
+
+The above mentioned personnel are not restricted by the regulations of examination, employment, and transferring in the Examination Act of Public Functionaries and the Public Functionaries Appointment Act. However, if the employee is transferred again, (s)he can only be transferred to a position in the original examination institution, the institution (s)he currently serves, or the Administration.
+
+Before the implementation of the Law, the original regulations are still applicable for current employees without public functionary qualification of the Bureau of Labor Insurance. They will stay in their position until they resign or retire.
+
+The offering adjustment mentioned above refers to the adjustment of the offerings of soldiers, public functionaries, and teachers in Taiwan, or the adjustment of offerings because of a transfer of position, improvement of yearly performance rating, or promotion.
+
+## Article 7
+
+The effective date of this Act shall be decreed by the Executive Yuan.
+
+## History
+
+1.Promulgated on January 29, 2014

@@ -1,0 +1,509 @@
+---
+title: "Animal Industry Act"
+title_zh: "畜牧法"
+identifier: "M0060023"
+type: act
+law_level: "法律"
+category: "行政＞農業部＞畜牧目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1998-06-24
+last_amended: 2010-11-24
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0060023"
+retrieved: 2026-10-12
+---
+
+# Animal Industry Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-agriculture/M0060023-animal-industry-act.md](../../../zh/laws/ministry-of-agriculture/M0060023-animal-industry-act.md)) is authoritative.
+
+## Chapter One General Provisions
+
+### Article 1
+
+The Animal Industry Act (hereinafter referred to as the Act) is drawn up for the purposes of preventing pollution and facilitating the development of the animal industry. Matters not specified herein shall be governed by other relevant laws and regulations.
+
+### Article 2
+
+The competent authority referred to in the Act shall be the Council of Agriculture, Executive Yuan on the central level, the Municipal Government on the municipal level, and the county (city) government on the county (city) level.
+
+### Article 3
+
+The terms used herein are defined as follows:
+
+\1. Livestock: The cattle, sheep, horse, pig, deer and rabbit, and other animals designated by the central competent authority.
+
+\2. Poultry: The chicken, duck, goose and turkey, and other animals designated by the central competent authority.
+
+\3. Animal farm: A place of raising livestock or poultry with an operation scale up to that specified in Article 4 herein.
+
+\4. Slaughterhouse: A slaughter establishment set up according to the Act, or approved or designated by the competent authorities prior to the enforcement of the Act.
+
+\5. Breeding flock: Livestock or poultry for reproduction.
+
+\6. Breeding stock: Genetic materials of the breeding flock, such as semen, ovum, egg, embryo, genes, or living creature produced by modified genetic materials or transplanted embryo.
+
+\7. Breeder: Business engaging in the raise, incubation, improvement or reproduction of breeding flock or breeding stock.
+
+\8. Breeding farm: A place where the raise, incubation, improvement or reproduction of breeding flock or breeding stock takes place.
+
+\9. Industrial organization: The academy, foundation, trade association, farmer's association or cooperative that is associated with the research, development, production and supply & marketing activity of husbandry or veterinary medicine.
+
+## Chapter Two Registration and Administration of an Animal Farm
+
+### Article 4
+
+When an establishment that raises livestock or poultry has reached a certain scale as specified by the central competent authority, it shall apply for the registration of animal farm.
+
+Where establishments that raise livestock or poultry of the same species use the same water meter, electricity meter or drainage outlet, or are located inside the same premises surrounded by fence (wall), their operation scale shall be tallied in combination.
+
+The central competent authority shall specify the scale of farming operation referred to in the first paragraph at the same time when it designates livestock or poultry pursuant to the subparagraphs 1 or 2 of Article 3 herein.
+
+### Article 5
+
+The application for registration of an animal farm shall meet the following requirements:
+
+\1. The person-in-charge or the key management of the farm shall be a graduate of the department of animal husbandry, veterinary medicine or livestock veterinary medicine of a vocational school or above, or shall have received professional training in livestock farming sponsored by any government agency for more than one month, with the evidence of course completion, or shall have more than two years’ practical work experience in onsite work with a certificate issued by a village (town, city, or district) administration office evidencing his or her qualification.
+
+\2. The land on which the farm operates shall be in the zoning that allows the establishment of livestock/poultry farming operation. The area of land used for the erection of facilities shall not exceed eighty percent (80%) of the total land area occupied by the farm. Buildings in the farm shall have be granted the building license as required by law.
+
+\3. The farm shall be equipped with livestock waste treatment facilities that meet the relevant regulatory requirements. The preceding provision does not apply, if the farm shows evidence that it has retained the service of a waste treatment service provider approved by the competent environmental protection authority, or the farm has sufficient land to recover the environment from pollution of livestock waste with the approval of the competent environmental protection authority.
+
+\4. The principal facilities of the farm shall meet the standards stipulated by the central competent authority.
+
+### Article 6
+
+To apply for the registration of an animal farm, the applicant shall fill out an application form, and attach a pollution control plan that is reviewed and approved by the competent environmental protection authority. The application shall be submitted to the competent authority of the municipality or county (city) where the establishment is located.
+
+After being issued the use permit for the facilities, the farm shall complete its construction within one year, or where it is impossible to complete the same in a timely manner with justified reasons, it may apply for an extension with the competent authority of the municipality or county (city) where the establishment is located for approval. Within three months after its construction, the farm shall apply with the competent authority of the municipality or county (city) where the establishment is located for an on-site inspection. The competent authority shall, within one month upon receipt of the application, conduct the inspection together with the competent environmental protection authority, and issue a registration certificate if the farm conforms to the inspection requirements, with a carbon copy of the notice to the central competent authority and central environmental protection competent authority of such issuance.
+
+### Article 7
+
+The registration certificate of an animal farm shall state the following particulars:
+
+\1. Name.
+
+\2. Person-in-charge and key management.
+
+\3. Address.
+
+\4. Size of area.
+
+\5. Primary facilities.
+
+\6. The kind of livestock or poultry raised, and the scale of operation.
+
+### Article 8
+
+Where there is any change to the registration items required by any subparagraph of the preceding article, the farm shall complete the application form for change of registration and submit the same to the competent authority of the municipality or county (city) where the establishment is located within one month after the date of occurrence. After the approval of the change of registration, the municipal or county (city) competent authority notify the central competent authority and central competent environmental protection authority of such change.
+
+The provisions in Article 6 will apply mutatis mutandis in case the farm builds new facilities or additions, make renovation, take on major repair, relocate the animal quarters, change farm address, or the kind of livestock or poultry raised, in oder to expand the breeding scale.
+
+### Article 8-1
+
+The following provisions shall apply to the farm that has received the farm registration certificate, but for some reason suspends, closes up or goes back to business.
+
+\1. The farm that suspends it business shall fill out a report on suspension of usiness and submit the same, together with the farm registration certificate, to the competent authority of the municipality or county (city) where the establishment is located within one month as of the date of occurrence, in order to request the competent authority to revoke the farm registration ertificate and render it null and void.
+
+\2. The farm that has closed down business for more than six months and less than one year shall fill out a report on closure of business and submit the same to the competent authority of the municipality or county (city) where the establishment is located for future reference within one month as of the date of occurrence. The same procedure applies when the farm goes back to business.
+
+\3. The farm that has closed up its business for more than one year and whose primary farming facilities at the premises have been removed will be considered as good as suspending business. Suspension of business should be carried out in accordance with the provisions of the subparagraph 1. Where the farm fails to do so, the competent authority of the municipality or county (city) where the establishment is located shall revoke the farm’s registration certificate and render it null and void.
+
+\4. The farm, which is unable to go back to business for a proper reason before the period of closure of business comes to an end, may apply with the competent authority of the municipality or county (city) where the establishment is located for approval to extend the time limit of the period. This application may be filed for no more than once, and the extension shall be no more than one year.
+
+Regarding situations stated in the subparagraphs of the preceding paragraph, the competent authority in the municipalities or county (city) shall notify the central competent authority and central environmental protection competent authority of such issuance.
+
+### Article 9
+
+A farm shall be staffed with a veterinarian or has a contracted veterinarian who is responsible for the sanitation management of the farm. Where the disease incidence of livestock or poultry on the farm reaches ten percent (10%) or higher, the veterinarian shall report to the local competent authority within twenty-four hours.
+
+### Article 10
+
+The competent authority may, together with other authorities concerned, inspect the operation scale, farming facilities, disease control facilities, and relevant records of a farm or a livestock/poultry raising establishment. The farm or said establishment shall not evade, interfere with, or refuse such inspection without due causes.
+
+Said inspectors shall present their identification certificates when carrying out their duty.
+
+### Article 11
+
+The competent authority shall set up a unit or personnel dedicated to providing guidance to farms on pollution control.
+
+## Chapter Three Regulation of Breeding Flock and Breeding Stock
+
+### Article 12
+
+New breed or new strain of breeding flock or breeding stock discovered, incubated or brought in from abroad shall be registered with the central competent authority before it can be promoted or marketed.
+
+Breeders who fail to pass the review as described in the preceding paragraph may put forward reasons to apply with the central competent authority for a second review within two months from the date following the day when the review result is received.
+
+After the registration of the breeding flock or breeding stock has been reviewed and made public, anyone who thinks that the documents presented by the applicant in accordance with provisions of registration application are not in keeping with realities, and who can present concrete evidence, may fill out the objection application form within three months from the date of the public announcement, state clearly the reasons, attach the documents in question and raise an objection to the central competent authority. When the objection is being reviewed, the reviewing committee may send for the applicant to express his opinions. After the objection is reviewed, the result has to be made in the form of a review booklet, in which the reasons are stated clearly, and the committee shall notify the applicant as well as the one who objects. Once the objection goes valid, the registration shall be revoked in a public announcement.
+
+Breeders shall apply with the central competent authority for registering the breed or strain promoted or marketed prior to the enforcement of the Act.
+
+### Article 12-1
+
+Breeding flock or breeding stock involving the transfer of genetic materials shall undergo field tests and creatures' safety assessment before it can be promoted and made use of. The regulation measures on the transfer of genetic materials will be set forth by the central competent authority.
+
+### Article 12-2
+
+When more than two applicants apply for registration individually with the same or similar names for new breed or new strain of breeding flock or breeding stock, the one who files the application first will be allowed to register, Where both applicants file the applications on the same day and there is no telling who comes first, the matter will be settled through negotiation among the individual applicants and the registration goes exclusively to one person. When no negotiation avails, the matter will be settled by drawing lots.
+
+When more than two breeders apply for registration individually with the same or similar names for the breed or strain promoted or marketed prior to the enforcement of the Act, the precedence will be decided by the central competent authority on the basis of how it is discovered or incubated as well as a report of how it is raised.
+
+New breed or new strain of breeding flock or breeding stock incubated or discovered by an employee shall be registered with the name of the employer unless it is otherwise specified in the contract.
+
+### Article 13
+
+Breeders shall carry out pedigree registration with the central competent authority for the registered breed or strain described in Article 12 if it is so designated by the same authority.
+
+### Article 14
+
+Breeders who are required to carry out pedigree registration for the breeding flock raised by them shall carry out pedigree registration for their male breeding flock and more than half of their female breeding flock.
+
+### Article 15
+
+The facilities of breeding farm shall meet the standards set forth by the central competent authority.
+
+### Article 16
+
+Breeding flock or breeding stock that has entered the pedigree registration shall be subjected to the periodic follow-up and inspection of the competent authority, and those who fail the inspection will have their registration revoked.
+
+### Article 17
+
+The competent authority may dispatch inspector to examine or test the breeding flock, breeding stock, facilities, pedigree registration and related records of breeders, and the breeders shall not evade, interfere with or object to such examination or testing without due causes.
+
+Breeding flock or breeding stock found to have contracted notifiable disease or have hereditary disease during said examination or testing shall be banned from breeding.
+
+Said inspectors shall present their identification certificates when carrying out their duty.
+
+### Article 18
+
+Breeding flock or breeding stock having hereditary disease, which might be harmful to human health as deemed by the competent authority, shall be destroyed by an agency designated by the central competent authority. The central competent authority shall also compensate the owner of the flock or breeding stock destroyed, and the amount of compensation shall be assessed by a body comprised of representatives from government agencies concerned, industrial organizations, experts and scholars under the invitation of the central competent authority.
+
+### Article 19
+
+Breeding flock or breeding stock that have been designated by the central competent authority shall obtain the approval document of the same authority before it can be imported or exported.
+
+### Article 20
+
+The central competent authority may commission research institutes or private organizations to engage in collection, appraisal, preservation and research for the purpose of preserving breeding flock resources and improving the performance of livestock or poultry.
+
+### Article 21
+
+The central competent authority may conduct periodic assessment of the breeders, and reward outstanding breeders.
+
+## Chapter Four Regulation and Guidance of Production and Marketing
+
+### Article 22
+
+The central competent authority shall draw up annual livestock production goal. Municipal and county (city) competent authorities shall formulate the annual livestock production plan on the basis of said goal, and provide guidance to farms, industrial organizations and farmers to carry out production and marketing accordingly.
+
+To promote the development of a healthy dairy industry and to facilitate sound marketing system of the dairy products, the central competent authority shall set the related regulations and enforcement procedures governing the dairy industry.
+
+### Article 23
+
+For the purpose of stabilizing the production and marketing of livestock and poultry, the central competent authority may specify the kind of livestock or poultry and announce regulating measures with regard to the following particulars:
+
+\1. The heads of livestock or poultry raised by individual farm.
+
+\2. The heads of livestock or poultry the wholesale produce market may accept from the suppliers.
+
+\3. The ratio of domestic sale and export of livestock or poultry produced by large-scale farms.
+
+\4. Temporarily suspending acceptance of farm registration or applications for construction of new farms, additional buildings of farm facilities and expansion of the breeding scale.
+
+\5. Other necessary items.
+
+The central competent authority will carry out the regulating measures referred to in the preceding paragraph, which should be publicly announced.
+
+Those who have obtained farm facility permits before the public announcement by the central competent authority are not covered by the announcement referred to in the preceding paragraph.
+
+The temporary suspension pursuant to Subparagraph 4, Paragraph 1 shall be no more than one year, which may be extended if necessary.
+
+### Article 24
+
+The competent authority shall provide guidance to farms to join the membership of the provincial (city) or national industrial organization that coordinates the marketing of their production, and observe the production and marketing operations set up by said organization. The competent authority will not provide guidance to non-member farms or farmers.
+
+An industrial organization may charge farms and livestock/poultry raising establishment necessary fees for the marketing service it provides. The fee schedule will be set by said organization, subject to the approval of the municipal competent or county (city) authority, if the organization is a local organization, or the approval of the central competent authority, if the organization is a national organization.
+
+### Article 25
+
+For the sake of effective implementation of the livestock production and marketing system and promoting the development of the animal industry, the central competent authority shall donate a reserve fund for the establishment of National Animal Industry Foundation, and establish the regulations for the establishment.
+
+### Article 26
+
+The funding resources for the establishment of the National Animal Industry Foundation shall originate from:
+
+\1. Appropriation of the central competent authority.
+
+\2. Donation of the industrial organizations.
+
+\3. Other donations.
+
+### Article 27
+
+The businesses of the National Animal Industry Foundation includes:
+
+\1. When the production and marketing of livestock/poultry products are out of balance, coordinating among industrial organizations or farms to draw up response measures and implementing the same upon approval of the central competent authority.
+
+\2. Providing information on the supply and demand of important livestock materials, such as feeds and animal medications.
+
+\3. To stabilize the prices of important livestock/poultry product, coordinating among farmers' organization or farm product wholesale market to buy and sell in the wholesale market, or engage in joint transportation and sale of that particular livestock product.
+
+\4. Upon the commission of the central competent authority, coordinating among industrial organizations, farms, livestock/poultry raising establishment, merchants, and consumer representatives that are associated with a particular livestock product to set the production quantity and appropriate prices of said product.
+
+\5. Assisting industrial organizations to carry out the relevant policy set forth by the central competent authority.
+
+\6. Carrying out other matters as commissioned by the central competent authority.
+
+\7. Making suggestions with regard to livestock/poultry production and marketing.
+
+### Article 28
+
+The National Animal Industry Foundation may charge a fee for the service it provides. The charge standards shall be set forth by the Foundation and subject to the approval of the central competent authority.
+
+### Article 28-1
+
+To stabilize the production and marketing of livestock and poultry, the central competent authority shall establish livestock and poultry funds according to actual industry needs. The central competent authority may ask participating breeders, members of various livestock and poultry groups, and business owners to pay regulatory fees of not more than 0.04% of livestock and poultry prices.
+
+The central competent authority shall determine the terms of payment of the regulatory fees, calculation basis, actual payment rates, payment deadlines, and scope of payment.
+
+Fund management committees for both of the livestock and poultry industries need to be established with several members to take care of the balance of payments, custody and use of the funds referred to in Paragraph 1.
+
+The central competent authority has to appoint a government agency or a group to collect on its behalf the regulatory fees referred to in Paragraph 1.
+
+The central government authority shall draw up a budget for subsidies if the industry fund is temporarily suspended due to the following reasons:
+
+\1. Pandemic or calamity in the country
+
+\2. Severe imbalance in production and marketing
+
+\3. Other force majeure factors making the collected regulatory fees inadequate.
+
+## Chapter Five Management of Livestock and Poultry Slaughter
+
+### Article 29
+
+The slaughtering of pig, cattle, goat or other livestock or poultry as designated by the central competent authority for human consumption shall be carried out in a slaughterhouse, unless the central competent authority otherwise designates it.
+
+The person in charge of the slaughterhouse mentioned in the preceding paragraph shall apply with the central competent authority for meat inspection. The central competent authority and the central health competent authority shall be responsible for regulations governing application procedures, documentation, inspection procedure, steps and methods, tethering, missing, isolated slaughter, emergency slaughter, determining qualification, condemning carcasses, handling of viscera, veterinary instructions, cessation of slaughter inspection, and other compliance requirements.
+
+The central competent authority may conduct the meat inspection mentioned in the preceding paragraph by themselves, or by commissioning a proprietary organization, or a qualified practicing veterinarian.
+
+Said inspection, if carried out by a commissioned organization or veterinarian, shall be under the supervision and evaluation of the central competent authority. Personnel commissioned to carry out the inspection, testing and issuance of certificate shall act in the capacity of a public official and assume responsibility thereof.
+
+The central competent authority shall prepare the budget for the meat inspection pursuant to Paragraph 2 of this Article, but shall charge the slaughterhouses at the rates set by the central competent authority for the inspection hours exceeding the regular office hours of government.
+
+### Article 29-1
+
+In accordance with the Paragraph 3 of the preceding article, the veterinarian dispatched by the central competent authorities, or commissioned or employed by a proprietary organization commissioned by the central competent authorities, should pass the training and receive a certificate issued by the central competent authorities or the commissioned training institution
+
+### Article 30
+
+The application for establishing a slaughterhouse shall be filed with the central competent authority via the competent authority of the municipality or county (city) where the establishment is located. The establishment will then be subjected to the joint inspection of the central competent authority together with the central industrial administration and environmental protection authority, and receives a registration certificate if it passes the inspection. The central competent authority shall set forth the documents to be provided, procedure to follow, procedure of review, issuance of the document that approves establishment, period of time, application for the joint inspection and ensuing review, issuance of the slaughterhouse registration certificate and contents of the certificate.
+
+The slaughterhouse shall meet the Establishment Standards for Slaughterhouse set forth jointly by the central competent authority as well as the central industrial and environmental protection authority.
+
+The slaughterhouse shall comply with the Requirements for Slaughter Operation set forth by the central competent authority.
+
+### Article 30-1
+
+If the construction of a registered slaughterhouse is for some reason forced to be suspended for less than a month, the person- in-charge shall fill out a report on suspension and resumption of work five days prior to the suspension of construction, and apply with the central competent authority via the municipal or county (city) competent authority for future reference.
+
+If the business of a registered slaughterhouse is for some reason forced to be suspended for more than one month and less than one year, the managerial personnel shall fill out a report on suspension of business ten days before its business is suspended, and deliver it to the central competent authority via the municipal or county (city) competent authority for future reference. When a slaughterhouse is ready to go back to business, the managerial personnel shall fill out a report on resumption of business ten days before the business is resumed, provide the documents as designated in Paragraph 2, Article 29 herein, and deliver it to the central competent authority via the municipal or county (city) competent authority for approval before its business can be resumed.
+
+If the business of a registered slaughterhouse is closed up for some reason, the managerial personnel shall fill out a report on closure of business and deliver it together with the slaughterhouse registration certificate to the central competent authority via the municipal or county (city) competent authority for revocation.
+
+A slaughterhouse whose business has been suspended for more than one year will be regarded as good as closing up business. The registration certificate should be revoked. If the managerial personnel fails to turn it in for revocation, it will be revoked directly by the central competent authority in a public announcement.
+
+### Article 31
+
+In order to protect consumers' rights, the competent authority may enter the slaughterhouse or other buildings in order to inspect the slaughter facilities and operation. The owner or managerial personnel shall not evade, interfere with, or object to such inspection without due causes.
+
+If there is any evasion of, interference with or objection to said inspection, the competent authority may carry out the inspection compulsorily.
+
+The inspectors mentioned in the first paragraph shall present identification certificates when carrying out their duty.
+
+### Article 32
+
+Carcasses or viscera that were not inspected or were condemned after inspection shall not be cut, processed, transported, stored or sold for human consumption or with the attempt to provide it for human consumption.
+
+The owner or managerial personnel of said carcasses or viscera shall, under the instruction of Veterinary Meat Inspector or other authorized inspectors, dispose of the carcasses or viscera by incineration, rendering or other necessary measures.
+
+The carcasses or viscera mentioned in the first paragraph are assumed to be for human consumption or with the attempt to provide it for human consumption unless they are proved to be otherwise.
+
+Carcasses, viscera or their packaging containers that were inspected and passed shall be marked with the "INSPECTED AND PASSED" labelling, the slaughterhouse code and slaughter date before they are shipped out of the premises. The "PASSED" labelling and the way it is marked will be prescribed by the central competent authority.
+
+## Chapter Six Management of the Dairy Industry
+
+### Article 33
+
+The municipal or county (city) competent authority may conduct irregular or random test of raw milk quality and the result of which shall be filed with the central competent authority.
+
+### Article 34
+
+When necessary, the central and municipal or county (city) competent authority may ask the dairy product manufacturers to submit information concerning the source and the quantity of raw milk collected, and the inventory of the dairy products. The manufacturers shall not refuse to submit said information.
+
+The central and municipal or county (city) competent authority, in collaboration with hygienic, environmental, and consumer protection authorities, shall examine said information. Dairy product manufacturers must not evade, hinder or refuse without due causes. The inspectors shall show their identification certificates when carry out their duty.
+
+### Article 35
+
+The National Animal Industry Foundation may organize a raw milk price appraisal committee to set the acquisition price for reference by the dietary manufacturers. The price shall be reported to the competent central authority and announced upon approval of the competent central authority.
+
+The central competent authority shall designate or establish a raw milk testing laboratory to provide the basis for settlement of the dispute over the raw milk quality between milk producers and dairy product manufacturers.
+
+### Article 36
+
+In order to balance the production and marketing of cow's milk and goat's milk, the municipal or county (city) competent authority shall assist milk producers and dairy product manufacturers to enter a raw milk supply and purchase contract. The milk quantity items involved in such contract shall be reported to the local authority for future reference.
+
+### Article 37
+
+Manufactured and/or imported dairy products which are covered by the National Standard (CNS) shall be regulated by the CNS rules concerned.
+
+## Chapter Seven Penalty Clauses
+
+### Article 38
+
+Offenders meeting any of the following conditions shall be subjected to a fine of more than NT$100,000, but less than NT $500,000:
+
+\1. In violation of the provisions in Article 12-1 herein for engaging in promoting and making use of the breeding flock or breeding stock that has not undergone any field test, creatures' safety assessment and involving the transfer of genetic materials without due permission.
+
+\2. In violation of the provisions in Paragraph 1 of Article 29 herein for engaging in livestock slaughter operations outside a slaughterhouse privately, or inside a slaughterhouse without livestock inspection referred to in Paragraph 2 of the same article.
+
+\3. In violation of the provisions in Paragraph 1 of Article 32 for cutting, processing, transporting, storing or selling livestock carcasses or viscera that were not inspected or were condemned after inspection for human consumption or with the attempt to provide it for human consumption.
+
+\4. Intentionally misleading people into believing it has passed slaughter inspection by adding markings or labels other than the “Pass” labelling on the carcass, viscera or packaging materials specified in the preceding subparagraph.
+
+\5. In violation of the provisions in Article 37 for manufacturing or importing dairy products against CNS.
+
+Offenders meeting any of the following conditions shall be subjected to a fine of more than NT$20,000, but less than NT $100,000:
+
+\1. In violation of the provisions in Paragraph 1 of Article 29 herein for engaging in poultry slaughter operations outside a slaughterhouse privately, or inside a slaughterhouse without poultry inspection referred to in Paragraph 2 of the same article..
+
+\2. In violation of the provisions in Paragraph 1 of Article 32 for cutting, processing, transporting, storing or selling poultry carcasses or viscera that were not inspected or were condemned after inspection for human consumption or with the attempt to provide it for human consumption.
+
+The penalty imposed on those who commits offence mentioned in the subparagraphs 1 to 3, and 5 of Paragraph 1, where severe harm is done to human health, is a prison term of not more than three years or a fine of not more than NT$300,000.
+
+The penalty imposed on those who commits the offence mentioned in Paragraph 2, where there is severe harm done to human health or re-offenders is a prison term of not more than one year or a fine of not more than NT$100,000.
+
+The penalty shall be imposed on the offender who commits the offence mentioned in Paragraphs 3 and 4 in the execution of business, while the corporation or natural person who employs said offender shall also be subjected to a penalty stipulated in the preceding paragraph.
+
+In the condition referred to in the subparagraphs 2 and 3 of Paragraph 1, or Paragraph 2, the central competent authority may confiscate said carcasses and viscera without asking who owns them.
+
+### Article 39
+
+Offenders meeting any of the following conditions shall be subjected to a fine of more than NT$30,000, but less than NT $150,000:
+
+\1. Failing to reach the raising scale specified by the central competent authority and livestock and poultry raisers who have not obtained farm registration permits in accordance with Article 6.
+
+\2. Registered farms which have not established livestock/poultry waste treatment facilities, pollution treatment facilities or outsourced waste treatment in accordance with the subparagraph 3 of Article 5 herein, or whose livestock/poultry waste treatment facilities or other major farming facilities are found failing to meet the standards specified in the subpararaph 3 or 4 of Article 5 herein.
+
+\3. Failing to comply with the provisions stipulated in Paragraph 2 of Article 8 herein by expanding farming scale without going through due process.
+
+\4. Failing to apply for resumption of business in accordance with Article 8-1 herein.
+
+\5. Violate the regulation measures specified by the central competent authority in Article 23 herein.
+
+\6. Slaughterhouses found in violation of the provisions in Paragraph 2 of Article 29 concerning regulations on tethering, detention, isolated slaughter, emergency slaughter, condemned carcasses, handling of viscera, veterinary instructions, and other compliance requirements.
+
+\7. Slaughterhouse found in violation of the Establishment Standards of Slaughterhouse or Requirements for Slaughterhouse Operations specified in Paragraph 2 or 3 of Article 30 herein, especially those concerning environment, buildings, facilities, equipment, sample inspection, hygiene and sanitation procedures, slaughter operations, employee health and hygiene requirements, disposal of condemned carcasses and viscera, quality of water supply, or provision of data.
+
+\8. In violation of the provisions in Paragraph 2 of Article 32 herein for failing to dispose of the condemned carcasses or viscera by incineration, rendering or other necessary measures as instructed by the Veterinary Meat Inspector or other authorized inspectors.
+
+\9. The slaughterhouse which fails to mark carcasses, viscera or their packaging container that have passed the meat inspection with relevant statements in accordance with the provisions specified in Paragraph 4 of Article 32 herein.
+
+\10. Failing to apply for livestock and poultry breeding registration in accordance with Paragraph 2 of Article 43 herein.
+
+\11. In violation of the provision in Paragraph 2 of Article 43 herein regarding expansion of the scale of breeding operations, or failing to dispose of dead livestock and poultry carcasses in accordance with the Disposal Plan for Dead Livestock and Poultry Carcasses.
+
+In the event of the situation described in the subparagraphs 1 through 5, 10, or 11 of the preceding paragraph, the competent authority shall impose the fine as stipulated in the preceding paragraph and order the offender to take corrective actions within specific time limit. When the offender fails to do so, a separate fine will be imposed for each violation. In the event of the situation described in the subparagraphs 2, 3, or 11 of the preceding paragraph, offenders which have not improved after being fined for three times will have their farm registration certificates or breeding registration certificates revoked and rendered null and void. In the event of the situation described in the subparagraphs 6 through 9 of Paragraph 1, the central competent authority shall impose the fine as stipulated in Paragraph 1, and order the offender to take corrective actions within specific time limit.
+
+Where the offender fails to do so, a separate fine shall be imposed for each violation until corrective actions have been taken, or the slaughter operation of the offender shall be suspended in part or in whole. Slaughterhouses that have been ordered for suspension but continue their slaughter operations shall have their registration certificates revoked and rendered null and void.
+
+Those which violate the provisions in the first half of the subparagraph 2 or the latter half of the subparagraph 11 of Paragraph 1, for providing dead condemned carcasses for human consumption shall be fined more than NT$60,000 and less than NT $300,000. Re-offenders will have their breeding certificates and farm registration certificates revoked and rendered null and void.
+
+### Article 40
+
+Offenders meeting the following conditions shall be subjected to a fine of more than NT$20,000, but less than NT$100,000:
+
+\1. In violation of the provisions in Paragraph 1 of Article 12 herein for promotion or sale without permission.
+
+\2. In violation of the provisions in Paragraph 2 of Article 17 herein.
+
+\3. In violation of the provisions in Article 19 herein for importing or exporting breeding flock or breeding stock without permission.
+
+### Article 41
+
+Offenders meeting any of the following conditions shall be subjected to a fine of more than NT$10,000, but less than NT $50,000:
+
+\1. The farm failing to file the application as required in Paragraph 1 of Article 8, and Article 8.1 herein in the event of suspension or closure of business, or change of registration status.
+
+\2. In violation of the provisions in Paragraph 2 Article 43 regarding changes in registration or application for suspension of business.
+
+\3. Evading, interfering, or objecting without due causes, or making false representation or giving inflated fees in the inspection of the competent authority authorized by the provisions specified in Paragraph 1 of Article 10, Article 16, Paragraph 1 of Article 17, or Paragraph 1 of Article 31, or Paragraph 1 and Paragraph 2 of Article 34 herein.
+
+\4. The farm or veterinarian in violation of the provisions specified in Article 9 herein.
+
+\5. In violation of the provisions in Article 13 or 14 herein.
+
+\6. In violation of the facilities requirements specified in Article 15 herein.
+
+\7. Failing to accept the assessment of the competent authority in accordance with the provisions in Article 21 herein.
+
+\8. Failing to pay fees in accordance with the provisions in Article 28.
+
+\9. Failing to pay the market regulation fees in accordance with Paragraph 1 of Article 28-1 or violating the payment deadline referred to in Paragraph 2.
+
+### Article 42
+
+The fines stipulated in the Act herein shall be imposed by municipal or county (city) competent authority, but where the central competent authority finds the offences against the provisions in Chapter Five herein on Regulation of Livestock and Poultry Slaughter, the central competent authority shall impose the fine.
+
+Offenders shall pay up the penalty imposed in accordance with the Act herein within prescribed period of time. Those who fail to do so shall be brought to justice and subject to a compulsory execution.
+
+## Chapter Eight Supplemental Provisions
+
+### Article 43
+
+The farm that has received registration certificate prior to the enforcement of the Act shall, within two years from the date of the enforcement of the Act, apply with the central competent authority for re-issuance of the certificate; otherwise, the central competent authority may annul its existing registration certificate.
+
+The livestock or poultry farm that has reached the scale specified in Article 4 herein prior to the amendments to the Act, but fails to receive a registration certificate shall apply for the livestock or poultry registration. The relevant registration management regulations shall be established by the central competent authority.
+
+Any person who wishes to operate a farm on public land may apply with the competent authority of said land for lease of the public land for livestock farming operation.
+
+### Article 44
+
+Slaughterhouses set up prior to the enforcement of the Act herein shall apply for registration certificate as required within two years from the date of the enforcement of the Act. Those that have received factory registration certificate shall apply with the central competent authority for re-issuance of registration certificate within two years from the date of the enforcement of the Act. Where they fail to do so within said- noted time limit, the central competent authority shall notify the central industrial administration authority to annul their factory registration certificates.
+
+### Article 45
+
+The competent authority may charge registration fee and certificate fee for processing application for the registration of a farm or a slaughterhouse. The central competent authority shall prescribe the fee schedule.
+
+### Article 45-1
+
+The Act has been promulgated by the central competent authority and should be publicly announced and published in government bulletins.
+
+### Article 46
+
+The central competent authority herein shall set forth the enforcement rules of the Act.
+
+### Article 47
+
+The Act shall be come into force from the date of promulgation.
+
+## History
+
+1.On June 24, 1998, by Presidential Decree No. 8700123980 (87) Hua Zong Yi Zi No. 8700123980, the Republic of China enacted and promulgated a total of 42 articles, which shall come into effect from the date of promulgation.
+
+2.On May 17, 2000, by Presidential Decree No. 8900118420 (89) Hua Zong Yi Zi No. 8900118420, the Republic of China amended and promulgated Articles 2, 6, 8, 22, 24, 30, and 38.
+
+3.On January 30, 2002, by Presidential Decree No. 09100017000 (91) Hua Zong Yi Zi No. 09100017000, the Republic of China amended and promulgated Articles 12, 16, 29 to 34, and 36 to 39, and additionally enacted Articles 8-1, 12-1, 12-2, and 30-1.
+
+4.On April 14, 2004, by Presidential Decree No. 09300070971 Hua Zong Yi Zi No. 09300070971, the Republic of China amended Article 22 and added the title of Chapter VI and Articles 33 to 37. The original titles of Chapters VI and VII were renumbered as the titles of Chapters VII and VIII, respectively. The original Articles 33 to 42 were amended and renumbered as Articles 38 to 47.
+
+5.On January 19, 2005, by Presidential Decree No. 09400004871 Hua Zong Yi Zi No. 09400004871, the Republic of China amended and promulgated Articles 30 and 38.
+
+6.On July 4, 2007, by Presidential Decree No. 09600083751 Hua Zong Yi Zi No. 09600083751, the Republic of China amended and promulgated Article 29.
+
+7.On November 24, 2010, by Presidential Decree No. 09900317091 Hua Zong Yi Zi No. 09900317091, the Republic of China amended and promulgated Articles 3, 4, 6 to 8-1, 13, 19, 23, 29, 30-1, 38, 39, and 41, and additionally enacted Articles 28-1, 29-1, and 45-1. On July 27, 2023, by the Executive Yuan Order tai-gui-zi No. 1125014346. Articles 2, 3 Paragraph 1, Paragraph 2, Paragraph 4, 4 Paragraph 1, Paragraph 3, 5 Paragraph 1, Paragraph 4, 6 Paragraph 2, 8 Paragraph 1, 8-1 Paragraph 2, 10 Paragraph 1, 11, 12, 12-1, 12-2 Paragraph 2, 13, 15, 16, 17 Paragraph 1, 18, 19, 20, 21, 22, 23 Paragraph 1, Paragraph 2, Paragraph 3, 24, 25, 26 Paragraph 1, 27 Paragraph 1, Paragraph 4, Paragraph 5, Paragraph 6, 28, 28-1 Paragraph 1, Paragraph 2, Paragraph 4, Paragraph 5, 29, 29-1, 30, 30-1, 31 Paragraph 1, Paragraph 2, 32 Paragraph 4, 33, 34, 35, 38 Paragraph 6, 39 Paragraph 1 Subparagraph 1, Subparagraph 5, Paragraph 2, Paragraph 3, 41 Subparagraph 3, 42 Paragraph 1, 43 Paragraph 1, Paragraph 2, 44, 45, 45-1, and 46, which fall under the jurisdiction of the &quot;Council of Agriculture, Executive Yuan,&quot; shall be governed by the &quot;Ministry of Agriculture&quot; starting from August 1, 2023.

@@ -1,0 +1,687 @@
+---
+title: "Nuclear Emergency Response Act"
+title_zh: "核子事故緊急應變法"
+identifier: "J0160056"
+type: act
+law_level: "法律"
+category: "行政＞核能安全委員會＞原子能目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2003-12-24
+last_amended: 2023-06-28
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0160056"
+retrieved: 2026-10-12
+---
+
+# Nuclear Emergency Response Act
+
+> Translation. The Chinese text ([zh/laws/nuclear-safety-commission/J0160056-nuclear-emergency-response-act.md](../../../zh/laws/nuclear-safety-commission/J0160056-nuclear-emergency-response-act.md)) is authoritative.
+
+## Chapter I General Principles
+
+### Article 1
+
+Purpose
+
+Paragraph 1.1
+
+The purpose of this Act is to establish an emergency response system in the event of a nuclear accident, and to strengthen the emergency response functions so as to ensure the safety and health of the public and to protect their property.
+
+Paragraph 1.2
+
+The emergency response for nuclear accidents shall be governed by this Act; matters not provided for in this Act shall be governed by the provision of the Disaster Prevention and Protection Act and other relevant laws.
+
+### Article 2
+
+Definitions
+
+The terms used in this Act are defined as follows:
+
+(1) Nuclear Accident：refers to an emergency occurring in a nuclear reactor facility whose response organization fails to eliminate the causes of the accident promptly and to prevent enlargement of the hazard, thereby leading to the release or potential release of radioactive materials, which is sufficient to give rise to an accident of radiation detriment.
+
+(2) Nuclear Reactor Facility： refers to an installation with nuclear fuel in appropriate array where the self-sustaining chain reaction of controllable nuclear fission can take place together with its associated buildings and equipment; several nuclear reactor facilities installed at the same site by the same licensee are regarded as a single nuclear reactor facility.
+
+(3) Research Nuclear Reactor Facility：refers to a nuclear reactor facility mainly for the purpose of teaching, research, or experimentation.
+
+(4) Nuclear Reactor Facility Licensee：refers to a licensee that has been designated or approved by the government to operate the nuclear reactor facility.
+
+(5) Emergency Planning Zone (EPZ)：refers to a zone where the emergency response plan must be carried out and the public protective measures must be taken immediately upon the occurrence of a nuclear accident.
+
+(6) Preparedness Measures：refer to various actions of planning, organizing, training, and exercising that are taken in advance at ordinary times and can be adopted promptly upon the occurrence or possible occurrence of a nuclear accident.
+
+(7) Response Measures：refer to measures to be taken upon the occurrence or possible occurrence of a nuclear accident with various actions of preventing continual deterioration of the accident and protecting the safety, health and properties of the public.
+
+(8) Recovery Measures：refer to relevant protective measures needed to complete temporary relocation, area control of access and egress, and control of food and drinking water after the nuclear accident has been controlled and no longer deteriorates, but before the affected area can be recovered to normal living conditions.
+
+(9) Designated Agency：refers to a governmental agency designated by the Executive Yuan to carry out emergency response affairs for nuclear accidents.
+
+(10) Public Protection：refers to measures taken upon the occurrence or possible occurrence of a nuclear accident to reduce radiation exposure and protect the safety, health of the public. Such measures include sheltering, iodine tablet administration, evacuation and accommodation, control of food and drinking water, temporary relocation, area control of access and egress, decontamination and cleanup, and medical aid.
+
+(11) Sheltering：refers to the action taken by the public to stay indoors with windows, doors, and ventilation systems promptly closed, in order to reduce the risk of inhaling radionuclides and receiving radiation exposure.
+
+(12) Iodine Tablet：refers to the drug potassium iodide (KI); as a certain dosage is taken timely upon the occurrence or possible occurrence of a nuclear accident, it can prevent the released radionuclide from depositing in the thyroid glands, so as to avoid or reduce the thyroid cancer morbidity.
+
+(13) Emergency Response Plan：refers to the emergency response basic plan, the public protection plan within the EPZ, and the emergency response plan of a nuclear reactor facility.
+
+(14) Emergency Response Basic Plan：refers to a comprehensive emergency response plan for nuclear accidents laid down by the central competent authority in consultation with the designated agencies.
+
+(15) Public Protection Plan within the EPZ： refers to a regional public protection response plan for nuclear accidents established by the special municipal government or county/city government  responsible for the EPZ, in order to ensure the safety of local residents.
+
+(16) Emergency Response Plans for the Nuclear Reactor Facility：refer to both on-site and off-site emergency response plans for nuclear accidents established by the nuclear reactor facility licensee for managing facility rescue operations and coordinating with regional public protection efforts.
+
+### Article 3
+
+Competent Authority
+
+The competent authority in this Act is the Atomic Energy Council (AEC) of the Executive Yuan at the central government level; at the local government level are the special municipal government and the county (city) government governing the EPZ.
+
+### Article 4
+
+Research Nuclear Reactors
+
+Paragraph 4.1
+
+For research nuclear reactor facilities with thermal power under a certain limit, the central competent authority shall prescribe separate regulations to control the emergency response organization including organizing, preparedness, response, and recovery measures as well as inspection and testing. The provisions of Chapters II to V and Article 43 of Chapter VII shall not apply.
+
+Paragraph 4.2
+
+The limit in the previous paragraph shall be prescribed and announced by the central competent authority.
+
+### Article 5
+
+Classification
+
+The central competent authority shall classify the potential impact of a nuclear accident into appropriate categories, and lay down response and notification provisions accordingly.
+
+## Chapter II Organizations and Responsibilities
+
+### Article 6
+
+Response Centers
+
+Paragraph 6.1
+
+To effectively carry out emergency response actions upon the occurrence or possible occurrence of a nuclear accident, and based on the potential impact of the accident, the central competent authority shall activate the National Nuclear Emergency Response Center and the Radiation Monitoring and Dose Assessment Center; the  Ministry of National Defense shall activate the Nuclear Emergency Support Center; and the local competent authority shall activate the Regional Nuclear Emergency Response Center.
+
+Paragraph 6.2
+
+The activation timing, operational procedures, and grouping of the National Nuclear Emergency Response Center and the Radiation Monitoring and Dose Assessment Center mentioned in the preceding paragraph are to be laid down by the central competent authority. The grouping and operational procedures of the Nuclear Emergency Support Center are to be established by the Ministry of National Defense. The grouping and operational procedures as the Regional Nuclear Emergency Response Center are to be established by the local competent authority.
+
+Paragraph 6.3
+
+The nuclear reactor facility licensee shall set up a dedicated Nuclear Emergency Response Unit, and activate the Nuclear Emergency Response Organization within the facility upon the occurrence or possible occurrence of a nuclear accident. The establishment of the Nuclear Emergency Response Unit and the activation timing, operational procedures and grouping of the Nuclear Emergency Response Organization within the facility are to be drawn up by the facility licensee and submitted to the central competent authority for approval.
+
+Paragraph 6.4
+
+The central competent authority may call upon the All-out Defense Mobilization Preparation System to carry out relevant emergency response actions when necessary.
+
+### Article 7
+
+Responsibility of National Nuclear Emergency Response Center
+
+The National Nuclear Emergency Response Center shall:
+
+(1) plan and supervise the implementation of response measures,
+
+(2) analyze, assess, and manage the nuclear accident,
+
+(3) notify the local competent authority to activate the Regional Nuclear Emergency Response Center,
+
+(4) notify the Ministry of National Defense to activate Nuclear Emergency Support Center,
+
+(5) issue alerts and press releases,
+
+(6) announce orders for public protection actions,
+
+(7) matters related to the allocation of manpower and resources from the designated agencies
+
+(8) implement any other measure to prevent enlargement of the hazard.
+
+### Article 8
+
+Responsibility of Regional Nuclear Emergency Response Center
+
+The Regional Nuclear Emergency Response Center shall:
+
+(1) carry out the protective actions of sheltering, iodine tablet distribution, and public evacuation/transportation in accordance with the orders issued by the National Nuclear Emergency Response Center,
+
+(2) assist in issuing alerts and press releases,
+
+(3) arrange accommodations, temporary relocation, and emergency medical aid for the evacuees,
+
+(4) carry out traffic control, security, and order maintenance in the accident-affected area, and
+
+(5) implement any other measures related to regional disaster response and to prevent the escalation of hazards.
+
+### Article 9
+
+Responsibility of Nuclear Emergency Radiation Monitoring and Dose Assessment Center
+
+Paragraph 9.1
+
+The Nuclear Emergency Radiation Monitoring and Dose Assessment Center shall:
+
+(1) carry out radiation monitoring for personnel, vehicles, and the environment,
+
+(2) assess the severity and impact scope of the accident, evaluate public radiation dose, and propose protective actions,
+
+(3) provide comprehensive information and technical support to the various levels of emergency response centers, and
+
+(4) implement any other measures as directed by the National Nuclear Emergency Response Center.
+
+Paragraph 9.2
+
+When the Nuclear Emergency Radiation Monitoring and Dose Assessment Center carries out the preceding items, the designated agencies and the nuclear reactor facility licensee shall dispatch staff to assist.
+
+Paragraph 9.3
+
+The nuclear reactor facility licensee shall provide a workplace and necessary equipment at an appropriate location for the Nuclear Emergency Radiation Monitoring and Dose Assessment Center. The licensee is responsible for the maintenance, management, and testing of the workplace and various equipment on a regular basis.
+
+### Article 10
+
+Responsibility of Nuclear Emergency Support Center
+
+Paragraph 10.1
+
+The Nuclear Emergency Support Center shall:
+
+(1) carry out the decontamination of personnel, vehicles, and major roads affected by radiation,
+
+(2) assist the Regional Nuclear Emergency Response Center in carrying out public sheltering, evacuation/transportation, accommodation of evacuees, temporary relocation, emergency medical aid, iodine tablet distribution, traffic control, security, and order maintenance,
+
+(3) assist the Nuclear Emergency Radiation Monitoring and Dose Assessment Center in radiation  monitoring, and
+
+(4) implement any other measures as directed by the National Nuclear Emergency Response Center.
+
+### Article 11
+
+Responsibility of Nuclear Emergency Response Unit
+
+The Nuclear Emergency Response Dedicated Unit shall:
+
+(1) provide relevant support, coordination, and recommendations for the emergency response operations within the nuclear reactor facility upon the occurrence or possible occurrence of a nuclear accident,
+
+(2) collect and analyze accident information, and assess radiation dose and the extent of its impact,
+
+(3) coordinate with emergency response centers at all levels to carry out relevant response measures,
+
+(4) notify, communicate, and coordinate with competent authorities at all levels and request external support, and
+
+(5) supervise, evaluate, and conduct exercise planning for emergency response operations within nuclear reactor facilities.
+
+### Article 12
+
+Responsibility of Nuclear Emergency Response Organization within the Facility
+
+The Nuclear Emergency Response Organization within the Facility shall:
+
+(1) control, analyze, and assess accident conditions and take proper response actions,
+
+(2) conduct environmental radiation monitoring and dose assessment,
+
+(3) direct and implement the emergency response actions within the facility,
+
+(4) make accident notification and communication and provide relevant information, and
+
+(5) implement protective actions for workers and control measures within the facility.
+
+## Chapter III Preparedness Measures
+
+### Article 13
+
+Emergency Planning Zone (EPZ)
+
+Paragraph 13.1
+
+The nuclear reactor facility licensee shall follow the provisions laid down by the central competent authority to delineate the Emergency Planning Zone (EPZ) around the nuclear reactor facility, and review and revise periodically. Any delineation or revision shall be submitted to the central competent authority for approval and announcement.
+
+Paragraph 13.2
+
+The nuclear reactor facility licensee shall periodically submit the analysis and planning of the public protective measures within the EPZ to the central competent authority for approval, and establish the necessary facilities and equipment based on the approved analysis and planning.
+
+Paragraph 13.3
+
+For the preceding necessary places and equipment to be set up, the competent authorities at all levels and the designated agencies shall provide necessary assistance.
+
+### Article 14
+
+Emergency Response Plans
+
+Paragraph 14.1
+
+The central competent authority shall consult with each designated agency to lay down the Emergency Response Basic Plan and the Nuclear Emergency Public Protective Action Guides, submit them to the Executive Yuan and make public announcement upon approval.
+
+Paragraph 14.2
+
+The local competent authority shall lay down the Public Protection Plan within the EPZ in accordance with the Emergency Response Basic Plan and the Nuclear Emergency Public Protective Action Guides.
+
+Paragraph 14.3
+
+The Public Protection Plan within the EPZ and the Emergency Response Plan for Nuclear Reactor Facility, as described in the preceding two paragraphs, shall be submitted to the central competent authority for approval and announcement.
+
+Paragraph 14.4
+
+The Public Protection Plan within the EPZ in Paragraph 14.2 and the Emergency Response Plan for Nuclear Reactor Facility in Paragraph 14.3 shall be submitted to the central competent authority for approval and announcement.
+
+### Article 15
+
+Exercise
+
+Paragraph 15.1
+
+The central competent authority shall periodically select an EPZ and conduct exercise according to the approved Emergency Response Basic Plan.
+
+Paragraph 15.2
+
+The designated agencies, the local competent authority, the nuclear reactor facility licensee, as well as public and private schools, agencies (institutes), organizations, companies, factories, and the public shall cooperate in carrying out the preceding exercise.
+
+Paragraph 15.3
+
+The preceding schools, agencies (institutes), organizations, companies, and factories involved in the preceding exercise shall grant official leave to the personnel who participate in the exercise.
+
+Paragraph 15.4
+
+For each nuclear reactor facility, the licensee shall periodically carry out the exercise according to the Emergency Response Plans for the Nuclear Reactor Facility.
+
+### Article 16
+
+Duties of the central Competent Authority
+
+The central competent authority shall conduct the following according to the approved Emergency Response Basic Plan:
+
+(1) Staff operations of the National Nuclear Emergency Response Center,
+
+(2) planning, supervision, and coordination of preparedness, training, and exercises,
+
+(3) personnel grouping and training, and equipment testing and maintenance,
+
+(4) inspection and testing of nuclear emergency response preparedness measures,
+
+(5) compilation and revision of operational procedures,
+
+(6) planning and commissioning of research and development activities and
+
+(7) other relevant items.
+
+### Article 17
+
+Designated Agency(ies)
+
+Paragraph 17.1
+
+The designated agencies shall follow the Emergency Response Basic Plan to carry out personnel grouping and training, and equipment testing and maintenance.
+
+Paragraph 17.2
+
+When the designated agencies follows the preceding provisions to carry out personnel grouping and training, competent authorities at all levels and the nuclear reactor licensee shall provide necessary assistance.
+
+### Article 18
+
+Duties of regional Competent Authority
+
+Paragraph 18.1
+
+In order to effectively carry out public protective actions, the local competent authority shall follow the approved Public Protection Plan within the EPZ to:
+
+(1) conduct personnel grouping, training, and exercise,
+
+(2) install, test, and maintain equipment and facilities,
+
+(3) store, inspect, and dispatch public protective materials and equipment, and
+
+(4) plan and implement items of other emergency response and preparedness measures.
+
+Paragraph 18.2
+
+When the local competent authority carries out the preceding items, the central competent authority, the designated agencies, and the nuclear reactor facilities licensee shall provide necessary assistance.
+
+Paragraph 18.3
+
+In order to carry out the items in Paragraph 18.1, the local competent authority may set up a dedicated unit.
+
+### Article 19
+
+Facility Licensee
+
+The nuclear reactor facility licensee shall follow the approved Emergency Response Plan for the Nuclear Reactor Facility to:
+
+(1) conduct personnel grouping, training, and exercise,
+
+(2) install, test, and maintain equipment and facilities,
+
+(3) establish and revise operational procedures,
+
+(4) record and safekeep documents and data, and
+
+(5) carry out other relevant items.
+
+### Article 20
+
+Inspection and Testing
+
+The central competent authority may inspect and test, at any time, relevant measures regarding nuclear emergency response and preparedness according to the provisions of this Act as implemented by the designated agencies, the local competent authority and the nuclear reactor facility licensee. The organizations being inspected shall not evade, impede, or refuse.
+
+### Article 21
+
+Correction and Improvement
+
+Upon completion of the preceding inspection and testing or deemed necessary, the central competent authority may require the designated agencies, the local competent authority, and the nuclear reactor facility licensee to correct or improve the emergency response and preparedness measures, and equipment as well, within a prescribed time period.
+
+### Article 22
+
+Public Education
+
+Paragraph 22.1
+
+Competent authorities at all levels shall publicize the emergency response plan to the public in the EPZ and its adjacent areas.
+
+Paragraph 22.2
+
+The nuclear reactor facility licensee shall provide necessary assistance to the preceding public information.
+
+## Chapter IV Response Measures
+
+### Article 23
+
+Quick Response
+
+Paragraph 23.1
+
+Upon occurrence or possible occurrence of a nuclear accident, the nuclear reactor facility licensee shall promptly carry out response measures according to the Emergency Response Plans for the Nuclear Reactor Facility and notify competent authorities at all levels.
+
+Paragraph 23.2
+
+Upon completion of the preceding notification, the nuclear reactor facility licensee shall in accordance with the provisions established by the central competent authority, report relevant information about the accident to competent authorities at all levels or their associated emergency response organizations at a given time interval.
+
+### Article 24
+
+Activation of National Nuclear Emergency Response Center and Nuclear Emergency Radiation Monitoring and Dose Assessment Center
+
+Paragraph 24.1
+
+Upon receipt of the notification in Paragraph 23.1, the central competent authority shall promptly implement the response measures as specified in the Emergency Response Basic Plan. When necessary it may convene the designated agencies and the nuclear reactor facility licensee to activate the Nuclear Emergency Radiation Monitoring and Dose Assessment Center to carry out response operations.
+
+Paragraph 24.2
+
+The central competent authority shall report to the Executive Yuan at as needed based on the progression of the nuclear accident and set up the National Nuclear Emergency Response Center to implement response measures.
+
+### Article 25
+
+Outside Help
+
+Upon occurrence of a nuclear accident, the government shall notify neighboring countries and relevant international organizations at an appropriate time, and ask their assistance when necessary.
+
+### Article 26
+
+Activation of Regional Response Center
+
+Paragraph 26.1
+
+Upon receipt of the notification from the National Nuclear Emergency Response Center, the local competent authority shall promptly activate the Regional Nuclear Emergency Response Center to carry out the response measures according to the Public Protection Plan within the EPZ.
+
+Paragraph 26.2
+
+The central competent authority and the nuclear reactor facility licensee shall dispatch their staff to provide nuclear technical advice to the Regional Nuclear Emergency Response Center.
+
+### Article 27
+
+Activation of Nuclear Emergency Support Center
+
+Upon receipt of the notification from the National Nuclear Emergency Response Center, the Ministry of National Defense shall promptly activate the Nuclear Emergency Support Center to assist in disaster relief.
+
+### Article 28
+
+Daily Necessity
+
+Upon occurrence of a nuclear accident, the turnover of daily necessities and personnel activities within the EPZ shall follow the guidance and control of personnel from emergency response centers at all levels.
+
+### Article 29
+
+Working Report
+
+Paragraph 29.1
+
+The designated agencies, the local competent authority, and the nuclear reactor facility licensee shall submit an emergency response working report within a prescribed time period specified by the central competent authority.
+
+Paragraph 29.2
+
+The central competent authority shall compile the preceding reports into a summary report for the nuclear emergency response, submit it to the Executive Yuan and make public announcement afterwards.
+
+## Chapter V Recovery Measures
+
+### Article 30
+
+Nuclear Emergency Recovery Committee
+
+Paragraph 30.1
+
+Upon elimination of the causes for the nuclear accident, and the confirmation of completion of every emergency response measure, the National Nuclear Emergency Response Center shall relieve the responsibilities of various emergency response organizations. When necessary, the central competent authority shall call upon relevant government agencies at all levels and the nuclear reactor facility licensee to activate the Nuclear Accident Recovery Committee to take recovery measures, and ensure that affected areas are recovered to normal conditions promptly.
+
+Paragraph 30.2
+
+Provisions for the activation, organization, and operation of the preceding Nuclear Emergency Recovery Committee shall be laid down by the central competent authority.
+
+### Article 31
+
+Responsibilities of Nuclear Emergency Recovery Committee
+
+The responsibilities of the Nuclear Accident Recovery Committee in the preceding article are as follows:
+
+(1) to determine recovery measures and supervise the implementation of these measures,
+
+(2) to notify relevant government agencies at all levels and the nuclear reactor facility licensee to implement relevant recovery measures,
+
+(3) to coordinate the dispatch of manpower and resources for recovery,
+
+(4) to issue orders for public protective actions during the recovery period,
+
+(5) to issue press release for recovery, and
+
+(6) to carry out any other recovery measure.
+
+## Chapter VI Penal Provisions
+
+### Article 31-1
+
+Paragraph 31-1.1
+
+Any person who, through theft, sabotage or other methods, endangers the proper operation of any nuclear reactor facility shall be sentenced to imprisonment for not less than one year but not more than seven years; in addition thereto, a fine of not more than ten million New Taiwan Dollars may be imposed.
+
+Paragraph 31-1.2
+
+Any person who intends to endanger national security or social stability and commits an offense under the preceding paragraph, shall be sentenced to imprisonment for not less than three year but not more than ten years; in addition thereto, a fine of not more than fifty million New Taiwan Dollars may be imposed.
+
+Paragraph 31-1.3
+
+Any person who commits the offenses specified in the preceding three paragraphs resulting in a nuclear accident, shall be subject to the punishment prescribed for such an offense by increasing it up to one-half; if death results from the commission of the offense, the offender shall be sentenced to life imprisonment or with imprisonment for not less than seven years, and in addition thereto a fine of not more than one hundred million New Taiwan Dollars may be imposed; if aggravated injury results, the offender shall be sentenced to imprisonment for not less than five years but not more than twelve years, and in addition thereto a fine of not more than eighty million New Taiwan Dollars  may be imposed.
+
+Paragraph 31-1.4
+
+An attempt to commit the offenses specified in paragraphs 1 and 2 is punishable.
+
+### Article 31-2
+
+Paragraph 31-2.1
+
+Any person, who endangers the proper operation of core information and communication systems of any nuclear reactor facility by any of the following methods, shall be sentenced to imprisonment for not less than one year but not more than seven years; in addition thereto, a fine of not more than ten million New Taiwan Dollars may be imposed.
+
+(1) Without cause, gains access to its computer or related equipment by entering its account password, cracking the protective measures for using the computer, or exploiting any vulnerability of the computer system.
+
+(2) Without cause, interferes, through the use of computer programs or other electromagnetic methods, with its computer or related equipment.
+
+(3) Without cause, obtains, deletes, or alters any magnetic record of its computer or related equipment.
+
+Paragraph 31-2.2
+
+Any person who makes computer programs specifically for oneself or another to commit any offense specified in the preceding paragraph is also subject to the penalty provisions thereof.
+
+Paragraph 31-2.3
+
+Any person who intends to endanger national security or social stability and commits an offense under the preceding paragraph, shall be sentenced to imprisonment for not less than three year but not more than ten years ; in addition thereto, a fine of not more than fifty million New Taiwan Dollars may be imposed.
+
+Paragraph 31-2.4
+
+Any person who commits the offenses specified in the preceding three paragraphs resulting in a nuclear accident, shall be subject to the punishment prescribed for such an offense by increasing it up to one-half; if death results from the commission of the offense, the offender shall be sentenced to life imprisonment or with imprisonment for not less than seven years, and in addition thereto a fine of not more than one hundred million New Taiwan Dollars may be imposed; if aggravated injury results, the offender shall be sentenced to imprisonment for not less than five years but not more than twelve years, and in addition thereto a fine of not more than eighty million New Taiwan Dollars may be imposed.
+
+Paragraph 31-2.5
+
+An attempt to commit an offense specified in paragraphs 1 to 3 is punishable.
+
+### Article 32
+
+Being Irresponsive
+
+Violation of the provision in Paragraph 1 of Article 23 by the nuclear reactor facility licensee, specifically the failure to implement response measures or to provide timely notification, shall be punished with an administrative fine of not less than one million New Taiwan Dollars but not more than five million New Taiwan Dollars.
+
+### Article 33
+
+Failure to Provide Assistance
+
+Paragraph 33.1
+
+Violation of the provision in Paragraph 2 of Article 9 by the nuclear reactor facility licensee, specifically, failure to dispatch staff to assist the Nuclear Emergency Radiation Monitoring and Dose Assessment Center, shall be punished with an administrative fine of not less than five hundred thousand New Taiwan Dollars but not more than two million New Taiwan Dollars.
+
+Paragraph 33.2
+
+Violation of the provision in Paragraph 3 of Article 9 by the nuclear reactor facility licensee, namely, failure to provide a workplace and necessary equipment at an appropriate location for the Nuclear Emergency Radiation Monitoring and Dose Assessment Center, shall be punished with an administrative fine of not less than five hundred thousand New Taiwan Dollars but not more than two million five hundred thousand New Taiwan Dollars, as well as an order to rectify the situation before a deadline. Failure to rectify by the deadline will result in repeated fines for each deadline extended.
+
+Paragraph 33.3
+
+Violation of the provision in Paragraph 2 of Article 23 by the nuclear reactor facility licensee, namely, failure to make notification at the given time, shall be punished with an administrative fine of not less than five hundred thousand New Taiwan Dollars but not more than two million five hundred thousand New Taiwan Dollars.
+
+### Article 34
+
+Failure to Revise EPZ
+
+Paragraph 34.1
+
+Violation of the provision in Paragraph 1 of Article 13 by the nuclear reactor facility licensee, specifically, failure to periodically review and revise the EPZ or failure to submit it to the central competent authority for approval, shall be punished with an administrative fine of not less than five hundred thousand New Taiwan Dollars but not more than two million New Taiwan Dollars, as well as an order to rectify the situation before a deadline. Failure to rectify by the deadline will result in repeated fines for each deadline extended.
+
+Paragraph 34.2
+
+Violation of the provision in Paragraph 2 of Article 15 by the nuclear reactor facility licensee, namely, failure to cooperate in carrying out the exercise, shall be punished with an administrative fine of not less than five hundred thousand New Taiwan Dollars but not more than two million New Taiwan Dollars.
+
+Paragraph 34.3
+
+Violation of the provision in Paragraph 2 of Article 26 by the nuclear reactor facility licensee, namely, failure to dispatch staff to provide nuclear technical advice to the Regional Nuclear Emergency Response Center, shall be punished with an administrative fine of not less than five hundred thousand New Taiwan Dollars but not more than two million New Taiwan Dollars.
+
+### Article 35
+
+Failure to Provide Public Protection Measures
+
+Paragraph 35.1
+
+Violation of the provision in Paragraph 2 of Article 13 by the nuclear reactor facility licensee, specifically, failure to periodically submit analyses and plans for public protective measures or failure to establish the necessary facilities and equipment, shall result in an administrative fine of not less than three hundred thousand New Taiwan Dollars but not more than one million five hundred thousand New Taiwan Dollars, as well as an order to rectify the situation before a deadline. Failure to rectify by the deadline will result in repeated fines for each deadline extended.
+
+Paragraph 35.2
+
+Violation of the provision in Paragraph 3 of Article 14 by the nuclear reactor facility licensee, namely, failure to draw up an emergency response plan, or violation of the provision in Paragraph 4 of Article 14, specifically, failure to submit the emergency response plan to the central competent authority for approval, shall be punished with an administrative fine of not less than three hundred thousand New Taiwan Dollars but not more than one million five hundred thousand New Taiwan Dollars, as well as an order to rectify the situation before a deadline. Failure to rectify by the deadline will result in repeated fines for each deadline extended.
+
+Paragraph 35.3
+
+Violation of the provision in Paragraph 4 of Article 15 by the nuclear reactor facility licensee, specifically, failure to periodically carry out exercise, shall be punished with an administrative fine of not less than three hundred thousand New Taiwan Dollars but not more than one million five hundred thousand New Taiwan Dollars, as well as an order to rectify the situation before a deadline. Failure to rectify by the deadline will result in repeated fines for each deadline extended.
+
+### Article 36
+
+Refusal of Inspection and Testing
+
+Paragraph 36.1
+
+Violation of the provision in Article 20 by the nuclear reactor facility licensee, specifically evading, obstructing, or refusing inspections and testing conducted by the central competent authority, shall be punished with an administrative fine of not less than two hundred thousand New Taiwan Dollars but not more than one million New Taiwan Dollars. The punishment shall be consecutively imposed for each violation, and the inspections and testing may be carried out forcibly.
+
+Paragraph 36.2
+
+Violation of the provision in Paragraph 1 of  Article 29 by the nuclear reactor facility licensee, namely, failure to submit an emergency response working report within a limited period of time, shall be punished with an administrative fine of not less than two hundred thousand New Taiwan Dollars but not more than one million New Taiwan Dollars.
+
+### Article 37
+
+Failure to Carry Out Maintenance, Management, and Testing Violation of the provision in Paragraph 3 of  Article 9 by the nuclear reactor facility licensee, specifically, failure to carry out maintenance, management, or testing of various equipment and workplaces of the Nuclear Emergency Radiation Monitoring and Dose Assessment Center at ordinary times, shall be punished with an administrative fine of not less than one hundred thousand New Taiwan Dollars but not more than five hundred thousand New Taiwan Dollars, as well as an order to rectify the situation before a deadline. Failure to rectify by the deadline will result in repeated fines for each deadline extended.
+
+### Article 38
+
+Failure to Correct and Improve
+
+Violation of the provision in Article 21 by the nuclear reactor facility licensee, specifically, failure to complete the required corrections or improvements within a prescribed time period set by the central competent authority, shall be punished with an administrative fine of not less than one hundred thousand New Taiwan Dollars but not more than five hundred thousand New Taiwan Dollars. The punishment shall be consecutively imposed for each violation.
+
+### Article 39
+
+Inaction of Research Reactor Licensee
+
+For violation by the nuclear research reactor facility licensee of the regulations laid down by the central competent authority according to Paragraph 1 of Article 4, specifically, failure to follow the provisions about emergency response organization including grouping, preparedness, response, and recovery measures or inspection and testing, the central competent authority will notify the licensee to rectify the situation before a deadline. Failure to rectify by the deadline shall be punished with an administrative fine of not less than fifty thousand New Taiwan Dollars but not more than two hundred fifty thousand New Taiwan Dollars. The punishment may be consecutively imposed for each violation.
+
+### Article 40
+
+Necessary Assistance
+
+Violation of the provision in Paragraph 2 of  Article 17, Paragraph 2 of Article 18, or Paragraph 2 of Article 22 by the nuclear reactor facility licensee, namely, failure to provide necessary assistance, shall be punished with an administrative fine of not less than fifty thousand New Taiwan Dollars but not more than two hundred fifty thousand New Taiwan Dollars.
+
+### Article 41
+
+Executing Authority
+
+The administrative fines specified by this Act will be punished by the central competent authority.
+
+### Article 42
+
+Payment Deadline
+
+The administrative fines punished by this Act must be paid before the deadline. One who fails to pay the administrative fine under this Act within the prescribed time limit after being served a notice demanding payment shall be referred to the Court for compulsory execution.
+
+## Chapter VII Supplementary Provisions
+
+### Article 43
+
+Fund
+
+Paragraph 43.1
+
+In order to implement the preparedness measures for nuclear emergency response, and to support response operations during the occurrence or possible occurrence of an accident, the central competent authority shall collect a certain amount of money from the nuclear reactor facility licensee each year for every nuclear reactor facility to set up a Nuclear Emergency Response Fund. The income and expenditure, the safekeeping, and the utilization of the fund are to be prescribed by the Executive Yuan.
+
+Paragraph 43.2
+
+The uses of the Fund mentioned in the preceding paragraph are as follows:
+
+(1) The revenues and expenditures incurred by the central competent authority in conducting exercises according to Paragraph 1 of Article 15,
+
+(2) the revenues and expenditures incurred by the central competent authority when implementing actions specified in Article 16,
+
+(3) the revenues and expenditures incurred by the local competent authority when implementing actions specified in Paragraph 1 of Article 18,
+
+(4) the revenues and expenditures related to emergency response operations upon occurrence of a nuclear accident, and
+
+(5) the revenues and expenditures for management and administrative affairs.
+
+Paragraph 43.3
+
+The designated agencies may allocate funds in accordance with the law to cover expenses related to the planning, personnel training, and other matters pertaining to the implementation of the emergency response plan specified in this Act.
+
+Paragraph 43.4
+
+The specific amount specified in Paragraph 1 of Article 43 is to be determined by the central competent authority according to annual uses of the Fund, appropriate reserve for response operations and other relevant factors.
+
+### Article 44
+
+Implementation
+
+Enforcement rules of this Act shall be prescribed by the central competent authority.
+
+### Article 45
+
+Effective Date
+
+Paragraph 45.1
+
+The commence date of this Act shall be determined by the Executive Yuan.
+
+Paragraph 45.2
+
+The amended articles of this Act shall be put into force from the promulgation date.
+
+## History
+
+\1. Promulgated on December 24, 2003 by Presidential Decree No. Hua-Tsong-Yi-Yi-Tsu 09200240981; the effective date is to be determined by the Executive Yuan.
+
+\2. Article 45 amended, and Articles 31-1, 31-2 added on June 28, 2023, promulgated by Presidential Decree No. Hua-Tsong-Yi-Yi-Tsu 11200054161, shall become effective as of the date of promulgation.

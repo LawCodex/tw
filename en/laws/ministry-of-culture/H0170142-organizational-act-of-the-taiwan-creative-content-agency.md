@@ -1,0 +1,383 @@
+---
+title: "Organizational Act of the Taiwan Creative Content Agency"
+title_zh: "文化內容策進院設置條例"
+identifier: "H0170142"
+type: act
+law_level: "法律"
+category: "行政＞文化部＞組織目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2019-01-09
+last_amended: 2019-01-09
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=H0170142"
+retrieved: 2026-10-12
+---
+
+# Organizational Act of the Taiwan Creative Content Agency
+
+> Translation. The Chinese text ([zh/laws/ministry-of-culture/H0170142-organizational-act-of-the-taiwan-creative-content-agency.md](../../../zh/laws/ministry-of-culture/H0170142-organizational-act-of-the-taiwan-creative-content-agency.md)) is authoritative.
+
+## Chapter I General Principles
+
+### Article 1
+
+By this Act is established the Taiwan Creative Content Agency (henceforth, “the Agency”), so done as to spur the development of the cultural content industry and of cultural industries.
+
+### Article 2
+
+The Agency shall be an administrative institution, and its supervising authority shall be the Ministry of Culture.
+
+### Article 3
+
+The Agency’s primary objectives shall be in the following matters:
+
+\1. To conduct surveys on, take account of, and perform research on the development of cultural content-related industries;
+
+\2. To train professionals in cultural content-related industries;
+
+\3. To support the development and production of cultural content;
+
+\4. To develop cultural technologies, technology transfers, and added-value applications;
+
+\5. To invest in and seek diversified funding for cultural content-related industries;
+
+\6. To expand the market for and international cooperation by cultural content-related industries;
+
+\7. To manage commissioned operations of cultural content-related industries’ infrastructure;
+
+\8. To provide guidance for cultural content-related industries in the area of copyright; and
+
+\9. To handle other matters related to the upgrading, development, and application of cultural content.
+
+### Article 4
+
+Funding for the Agency shall be derived from:
+
+\1. Government appropriations and donations;
+
+\2. Donations by domestic and foreign private organizations, groups, and individuals;
+
+\3. Income from providing commissioned research and other services;
+
+\4. Income stemming from operations and products; and
+
+\5. Other sources.
+
+Donations made under Subparagraph 2 shall be deemed donations to the government.
+
+### Article 5
+
+The Agency’s Charter, personnel management, accounting method, internal controls, audit procedures, and other regulations shall, after being approved of by its Board of Directors, be reported to the supervising authority.
+
+Public business to be conducted by the Agency shall be determined by its Board of Directors and reported to the supervising authority, and shall not contravene current laws or regulations.
+
+### Article 6
+
+The Agency shall establish methods for public participation and shall incorporate the ideas and opinions of all sectors of society and address or provide explanations concerning same.
+
+### Article 7
+
+The Agency shall hold an annual consultative meeting to which are invited scholars and experts in cultural content as well as representatives of industries, groups, legal persons, and organizations. At the meeting will be discussed related to the Agency’s development and business affairs, at which participants are to share opinions. The meeting is to be public in its entirety.
+
+The principle of parity should apply as regards the gender, race, geographic origin, social class, and political affiliation of participating scholars, experts, and representatives.
+
+## Chapter II Organization
+
+### Article 8
+
+The Agency’s Board of Directors shall consist of between 11 and 15 members. The appointment and dismissal of Directors shall be conducted by the supervisory authority and approved of by the Premier. Board members shall be selected from among the following:
+
+\1. Representatives of related government agencies;
+
+\2. Scholars and experts whose work has benefited the application to other industries of cultural content;
+
+\3. Experts in the areas of law, finance, marketing management, and innovative technology, or persons who have made great contributions to cultural content;
+
+The number of Directors chosen from Subparagraph 1 shall not account for less than one-half of all Directors.
+
+Neither gender should occupy less than one-third of the seats of the Board.
+
+### Article 9
+
+The Agency’s Board of Supervisors shall consist of between 11 and 15 members. The hiring and dismissal of Supervisors shall be conducted by the supervisory authority, approved of by the Premier. Board members shall be selected from among the following:
+
+\1. Representatives of related government agencies;
+
+\2. Persons with expertise in accounting, financial auditing, auditing, law, or management.
+
+Supervisors shall select one of their members to serve as Executive Director.
+
+Neither gender should occupy less than one-third of the seats of the Board.
+
+### Article 10
+
+The period of appointment for both Directors and Supervisors shall be three years and may be renewed once. The number of those serving a second term, however, shall not exceed one-half the number of Directors or Supervisors.
+
+Directors and Supervisors representing government agencies shall be properly seconded and shall not be term-limited. In accordance with Subparagraphs 2 and 3 of Paragraph 1 of Article 8 and Subparagraph 2 of Paragraph 1 of this Article, Directors and Supervisors who resign their posts prior to their term’s expiry shall be replaced by the supervisory authority with the approval of the Premier for a term coterminous with that of the original holder of the position.
+
+### Article 11
+
+A person to whom any of the following circumstances applies may not be hired as a Director or Supervisor:
+
+\1. A guardianship announcement or assistance announcement remains in force;
+
+\2. A conviction mandating imprisonment has been handed down and probation not yet granted;
+
+\3. A bankruptcy declaration has been filed, or where in accordance with the Consumer Debt Clearance Act a judge has mandated the debt liquidation process begin, but where rights have not yet been restored.
+
+\4. Civil rights have been taken away and not yet restored.
+
+Where any of the preceding is found to apply to a Director or Supervisor, he or she shall be removed. Directors or Supervisors who are absent from a board meeting without due cause three times shall also be removed.
+
+A Director or Supervisor to whom any of the following circumstances applies may be removed:
+
+\1. Proven immoral behavior detrimental to the image of the Agency;
+
+\2. Where work has been performed unsatisfactorily or duties have been neglected so as to seriously infringe upon the terms of employment;
+
+\3. Where the Agency has not met the standards laid out by the supervising authority for its annual performance review two years in a row;
+
+\4. Where there has been a proven contravention of the Civil Service Administrative Neutrality Act;
+
+\5. Where there has been proven lobbying or favors concerning matters under the individual’s purview, or where an individual has used his/her official capacity to accept entertainment, meals, or gifts such that the public interest or the interests of the Agency have been harmed;
+
+\6. Where it is proven that the Agency’s property has been used for other than official use;
+
+\7. Where it is proven that an individual has not abided by the stipulations of this act concerning recusal in a case of conflict of interest, or the stipulations of Paragraph 1 of Article 18 forbidding contractual relationships;
+
+\8. Other conduct unbecoming a Director or Supervisor.
+
+For any of these situations, the supervisory authority shall give the accused the opportunity to state his/her opinions and rebut the charges levied.
+
+Regulations concerning the Agency’s selection and removal of new members and replacement members, as well as related matters, shall be drafted by the supervisory authority.
+
+### Article 12
+
+The Agency shall have one Chair of the Board of Directors who shall be selected by the supervisory authority from among the Directors and approved by the Premier. The removal of the Chair shall follow the same process.
+
+Regulations concerning the Agency’s selection and removal of Chairpersons and replacement Chairpersons, as well as related matters, shall be drafted by the supervisory authority.
+
+The Chair shall be in charge of the Agency, and serve as its representative. When a Chair is unable to perform his/her duties, he/she may appoint another Director to serve in his/her stead. Where no selection is made, the Directors shall appoint one of their own to serve as Acting Chair.
+
+No person having attained 65 years of age may take on the position of Chairperson. In the year in which a Chair attains the age of 70, he/she shall step down and be replaced. This stipulation shall not apply where special circumstances apply and the Executive Yuan has given approval.
+
+### Article 13
+
+The mission of the Board of Directors shall:
+
+\1. Review and approve development goals and plans;
+
+\2. Review and approve annual work plans;
+
+\3. Be responsible for raising funds, as well as for managing and utilizing Agency property;
+
+\4. Reviewing and approving the annual budget, approved budget, and goals.
+
+\5. Reviewing and approving of the Agency’s Charter.
+
+\6. Reviewing and approving the apportionment and other usage of real estate and intangible assets of the Agency;
+
+\7. The appointing and dismissing of the Agency’s President.
+
+\8. Reviewing and approving the annual plan for pooling miscellaneous funds;
+
+\9. Reviewing and approving expansion of the Agency;
+
+\10. Reviewing and approving items stipulated in this Act as needing Board approval; and
+
+\11. Reviewing and approving other important matters.
+
+### Article 14
+
+The Board of Directors shall meet at least once every three months. Where necessary, it may call ad hoc meetings. Meetings are to be convened and presided over by the Chair.
+
+A quorum of one-half of the Directors shall be required. Resolutions may be passed by a majority vote of Directors present. But for resolutions on Paragraphs 1 to 10 of the preceding Article, agreement of one-half the total number of Directors is required.
+
+### Article 15
+
+The mission of the Board of Supervisors shall:
+
+\1. Review and pass the annual approved budget;
+
+\2. Oversee Agency business and financial affairs;
+
+\3. Audit the financial records, documents, and property records of the Agency.
+
+\4. Review or audit other important matters.
+
+Supervisors shall exercise independent authority; Standing Supervisors shall represent the Board of Supervisors at meetings of the Board of Directors.
+
+### Article 16
+
+Directors, Supervisors, and Standing Supervisors shall personally attend meetings of the Board of Directors; they may not appoint a proxy to attend.
+
+### Article 17
+
+Directors and Supervisors shall recuse themselves where a conflict of interest arises. They are not to use the power, opportunities, or means afforded by the office for their own interest or that of a related individual. The supervisory authority shall determine the scope of where recusal needs to take place, and the penalty for failing to recuse oneself.
+
+Between Directors and Supervisors there shall not be a spousal or other relationship within three degrees of consanguinity.
+
+Where this Article states “related individual,” this is taken to mean a spouse or a person within two degrees of consanguinity.
+
+### Article 18
+
+Directors, Supervisors, and related individuals shall not enter into a business, rental, or other contractual relationship with the Agency.
+
+Persons infringing upon this regulation, where the Agency suffers as a result, shall be made to pay damages for harm done.
+
+### Article 19
+
+The Chairperson of the Board of Directors of the Agency may be a full-time or part-time position. Compensation for full-time Chairpersons shall be determined by the supervisory authority; there shall be no compensation for part-time Chairpersons.
+
+Directors, Supervisors, and Standing Supervisors shall all be uncompensated positions.
+
+### Article 20
+
+There shall be one President of the Agency. This person shall be proposed by the Chairperson and hired upon approval by the Board of Directors. The same procedure shall be followed for the President’s removal. The President shall be subject to the directions and supervision of the Board of Directors, and shall implement the Agency’s business, and shall attend Board of Directors meetings as a nonvoting member.
+
+Regulations governing Directors and the Chairman of the Board of Directors, namely those under Paragraphs 1 through 4 of Article 11, Paragraph 4 of Article 12, Article 17 and 18, Paragraph 2 and 3 of Article 21, and Paragraph 6 of Article 23, shall also apply to the President.
+
+### Article 21
+
+Personnel shall be hired to work at the Agency in line with the rules concerning personnel management of the Agency. They shall not be considered public servants. Their rights and duties are to be stipulated in their contracts.
+
+Persons having a spousal or other relationship within three degrees of consanguinity or marriage relationship with Directors or Supervisors shall not serve in positions concerning general affairs, accounting, or personnel at the Agency.
+
+The Chairperson shall not appoint his/her spouse or a person within three degrees of consanguinity or marriage relationship to work at the Agency.
+
+## Chapter III Responsibilities and Oversight
+
+### Article 22
+
+The scope of supervision carried out by the supervisory authority shall be limited to:
+
+\1. Approving the development goals and plans;
+
+\2. Approving or filing for reference the Agency’s rules, annual work plan and budget, annual achievements report, and final report;
+
+\3. Examining Agency property and finances;
+
+\4. Evaluating reports on work completed;
+
+\5. The appointing and dismissing of Directors and Supervisors, and rendering opinions thereon.
+
+\6. Meting out punishment to Directors and Supervisors who have infringed upon relevant regulations;
+
+\7. Dismissing, changing, abolishing, requiring improvements to be made, halting the execution of duties, and otherwise meting out punishment where the Constitution, laws, and regulations are breached by the Agency.
+
+\8. Approving the granting or removing of rights over the real estate and intangible assets of the Agency;
+
+\9. Approving the annual plan for pooling miscellaneous funds;
+
+\10. Other supervisory duties in accordance with the law.
+
+### Article 23
+
+The supervisory authority shall invite representatives of relevant agencies, scholars and experts, and justice person of the community to prepare evaluations of the Agency. Among these, the number of scholars and experts and upstanding members of the public shall account for no less than two-thirds of the total. Neither gender should occupy no less than one-third of the seats of the committee/commission.
+
+The supervisory authority shall determine the evaluation method, procedure, and related matters.
+
+The evaluation shall cover:
+
+\1. A review of the annual achievements report;
+
+\2. An assessment of how well the Agency did in achieving its goals;
+
+\3. An assessment of the success (percentage collected) of fundraising campaigns;
+
+\4. Recommendations on budget allocation; and
+
+\5. Other related matters.
+
+### Article 24
+
+The Agency’s development goals and plan shall be approved by the supervisory authority after being approved of by the Board of Directors.
+
+The annual work plan and budget is to be sent to the supervisory authority after it is passed by the Board of Directors.
+
+### Article 25
+
+Within three months of the end of the Agency’s accounting year, it shall present its annual achievements report and final report to an accountant for a review, following which these are to be reviewed by the Board of Directors. After being approved by the Board of Supervisors, they are to be sent to the supervisory authority as well as the auditing authority.
+
+The final report is to be audited by the auditing authority. After this audit, the report is to be sent to the supervisory authority or other related agency for any necessary action.
+
+## Chapter IV Accounting and Finances
+
+### Article 26
+
+The Agency’s accounting year shall be the same as that followed by the government.
+
+The Agency’s system of accounting shall be determined in accordance with laws concerning the system of accounting to be used by administrative institutions.
+
+The Agency’s financial report shall be approved of and signed off on by an accountant.
+
+### Article 27
+
+The budget allocated by the government for the first year of the Agency’s operation may be adjusted by the supervisory authority; this shall not be subject to the stipulations of Articles 62 and 63 of the Budget Act.
+
+### Article 28
+
+When the Agency is established, and such that it may perform its duties, government agencies may donate, lease, or provide free of charge publicly owned property to the Agency for its use.
+
+After the Agency’s establishment, and such that it may perform its duties, it may purchase publicly owned property. The land price shall be the current land value. The price for improvements on the land shall be the estimated value provided for that year by the relevant revenue collection authority. Where no such estimate is available, the price shall be determined by the agency having managerial responsibility over public property.
+
+Following the Agency’s establishment, where it is commissioned to manage cultural content-related assets and facilities, government agencies may donate, lease, or provide free of charge publicly owned assets for its use.
+
+Donations as stated in Paragraph 1 and the preceding Paragraph shall not be subject to Articles 25 and 26 of the Budget Act and Articles 28 and 60 of the National Property Act.
+
+Assets purchased for purposes specified in connection with the budget allocated by the government shall be publicly owned assets.
+
+Except for property that is leased or used free of charge under Paragraph 1 and Paragraph 3, and publicly owned assets as stated in the preceding Paragraph, property obtained shall become the property of the Agency.
+
+For property that is leased or used free of charge under Paragraph 1 and Paragraph 3, and for publicly owned property as used under Paragraph 5, the Agency shall appoint as a manager. Any income derived from such property shall be listed as income of the Agency and not be subject to the restrictions of Paragraph 1 of Article 7 of the National Property Act. Regulations concerning the management, use, and benefits derived from such property shall be drafted by the supervisory authority.
+
+When publicly owned property is deemed unserviceable, it shall be remanded to the custody of the agency having managerial responsibility over public property.
+
+Where the Agency has accepted a donation of publicly owned real estate, when said real estate is no longer needed by the Agency, the Agency shall return the real estate to the donating agency.
+
+### Article 29
+
+The budget for the Agency must be allocated by government agencies in line with legal budgetary procedures and is subject to audit and supervision.
+
+Where the budget allocated to the Agency is more than 50 percent of all funding for the Agency in a given year, the supervisory authority shall send the Agency budget to the Legislative Yuan for review.
+
+The Agency shall draft and submit to the supervisory authority regulations concerning the use and management of income and expenditure.
+
+### Article 30
+
+Debts incurred by the Agency shall be limited to self-liquidating loans, which shall be submitted to the supervisory authority for approval in advance. Where debts cannot be self-liquidated in line with budgetary expenditures, the Agency shall review and propose improvement measures to the supervisory authority for approval.
+
+### Article 31
+
+The Agency’s procurement procedures shall be open and fair. Except where regulations concerning treaties, agreements, or conditions concluded by the Republic of China and Article 4 of the Government Procurement Act, the Government Procurement Act shall not apply. In such cases, regulations governing procurement procedures shall be submitted to the supervisory authority for approval.
+
+Where a law other than the Government Procurement Act is applicable to the procurement subject to Article 4 of the Government Procurement Act as prescribed in the preceding Paragraph, that law shall prevail.
+
+### Article 32
+
+Information concerning the Agency shall be made public in line with laws concerning government transparency. The Agency shall make public its annual financial report, annual business conducted, and annual evaluation report.
+
+The supervisory authority shall provide an analysis of the Agency’s annual evaluation report and send it to the Legislative Yuan for its reference. Where necessary, the Legislative Yuan may request that the head of the supervisory agency bring the Chair of the Board of Directors, the Agency’s President, or related supervisors to the Legislative Yuan for interpellation concerning the operations of the Agency.
+
+## Chapter V Additional Articles
+
+### Article 33
+
+Where there are objections to dispositions made against it, the Agency may appeal to the supervisory authority under the terms of the Administrative Appeal Act.
+
+### Article 34
+
+Where the Agency cannot achieve the objectives of its establishment due to a change in circumstances or due to poor performance, the supervisory authority shall apply to the Executive Yuan for the dissolution of the Agency.
+
+Where the Agency is dissolved, the contracts of Agency personnel shall be terminated; remaining assets shall be turned over to the Treasury and all debts assumed by the supervisory authority.
+
+### Article 35
+
+The implementation date of this Act shall be determined by order of the Executive Yuan.
+
+## History
+
+1.Promulgated on January 9, 2019 by Presidential Decree No. Yi Yi Zi Di 10800003751

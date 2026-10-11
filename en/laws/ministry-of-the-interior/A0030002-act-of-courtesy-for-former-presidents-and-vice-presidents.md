@@ -1,0 +1,103 @@
+---
+title: "Act of Courtesy for Former Presidents and Vice Presidents"
+title_zh: "卸任總統副總統禮遇條例"
+identifier: "A0030002"
+type: act
+law_level: "法律"
+category: "行政＞內政部＞宗教及禮制目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1978-05-03
+last_amended: 2010-09-01
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=A0030002"
+retrieved: 2026-10-12
+---
+
+# Act of Courtesy for Former Presidents and Vice Presidents
+
+> Translation. The Chinese text ([zh/laws/ministry-of-the-interior/A0030002-act-of-courtesy-for-former-presidents-and-vice-presidents.md](../../../zh/laws/ministry-of-the-interior/A0030002-act-of-courtesy-for-former-presidents-and-vice-presidents.md)) is authoritative.
+
+## Article 1
+
+This Act was established as a courtesy for former presidents and vice presidents.
+
+## Article 2
+
+Former presidents shall enjoy the following courtesies:
+
+(1) Invitation to major national ceremonies.
+
+(2) Courtesy payment of NT$250,000 per month shall be adjusted under the salary level of government employees and teachers.
+
+(3) In the first year, NT$8 million to pay for secretaries, drivers, an office, and various activities, to be reduced to NT$7 million in the second year, NT$6 million in the third year, and NT$5 million in the fourth year. No further reductions will be applied in the fifth year or afterward.
+
+(4) Supply of health care.
+
+(5) Supply 8 to 12 security guards, to be adjusted as required.
+
+The National Security Bureau shall provide the courtesies under Subparagraph 5 of the previous Paragraph.
+
+The courtesies under all subparagraphs under the first paragraph, except the first subparagraph, shall have the same validity period as the duration of the president’s term. Periods shorter than one year shall be calculated as one year.
+
+## Article 3
+
+Former vice presidents shall enjoy the following courtesies:
+
+(1) Invitation to major national ceremonies.
+
+(2) Courtesy payment of NT$180,000 per month shall be adjusted under the salary level of government employees and teachers.
+
+(3) In the first year, NT$4 million to pay for secretaries, drivers, an office, and various activities, to be reduced to NT$3.5 million in the second year, NT$3 million in the third year, and NT$2.5 million in the fourth year. No further reduction will be applied in the fifth year or afterward.
+
+(4) Supply of health care.
+
+(5) Supply 4 to 8 security guards, to be adjusted as required.
+
+Before implementing the revised version of this Act on 13 June 2010, if the Government Officers Superannuation Act has already been applied to any former vice president, the superannuation shall continue to apply and Subparagraph 2 of the previous Paragraph shall not be applicable.
+
+The Bureau of National Security shall provide the courtesies under Subparagraph 5 of the previous Paragraph.
+
+The courtesies under all subparagraphs under the first paragraph, except the first subparagraph, shall have the same validity period as the duration of the vice president’s term. Periods shorter than one year shall be calculated as one year.
+
+## Article 4
+
+The courtesy for any former or vice president shall cease in case of any of the following:
+
+(1) If the former or vice president serves in any public office again.
+
+(2) Offense of insurrection or foreign aggression, confirmed guilty by first-instance judgment.
+
+(3) Loss of nationality of the Republic of China.
+
+(4) Immigration overseas for permanent residency.
+
+Any former or vice president found guilty of the offense of corruption by first-instance judgment shall be supplied 2 or 3 security guards, and the courtesy under Paragraph 1, Article 2, and Paragraph 1 of the previous Article shall not be applicable. Security guards shall no longer be provided in case of a confirmed guilty judgment.
+
+Suppose courtesies are suspended under Subparagraph 2, Paragraph 1, and the previous Paragraph and in case of a confirmed non-guilty judgment. In that case, the courtesies shall be reinstated, and all courtesy payments that should have been paid during the suspended period shall be reimbursed.
+
+## Article 5
+
+The courtesy under this Act shall apply to any president or vice president who is recalled, impeached, or dismissed with confirmed judgment.
+
+The previous paragraph shall be applied mutatis mutandis to any former president or vice president with confirmed impeachment.
+
+## Article 6
+
+This Act shall be implemented from its date of publication.
+
+The provisions of this Act amended on 30 June 2006 shall be implemented from 1 January 2007.
+
+## History
+
+1.Full text including 6 articles established and published by the President on 3 May 1978
+
+2.Name and Articles 1, 2 and 6 amended and published by Presidential Order (2001) Hua-Zhong-Yi-Yi-No. 9000115190 on 13 June 2001 (former name: Act of Courtesy for Former President)
+
+3.Full text including 6 articles amended and published by Presidential Order Hua-Zhong-Yi-Yi-No. 09500102601 on 19 July 2006; implementation from 1 January 2007
+
+4.Articles 2 and 3 amended and published by Presidential Order Hua-Zhong-Yi-Yi-No. 09600087971 on 11 July 2007
+
+5.Article 4 amended and published by Presidential Order Hua-Zhong-Yi-Yi-No. 09900224401 on 1 September 2010

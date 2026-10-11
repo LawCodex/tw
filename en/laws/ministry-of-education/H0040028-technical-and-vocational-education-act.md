@@ -1,0 +1,253 @@
+---
+title: "Technical and Vocational Education Act"
+title_zh: "技術及職業教育法"
+identifier: "H0040028"
+type: act
+law_level: "法律"
+category: "行政＞教育部＞技術及職業教育目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2015-01-14
+last_amended: 2019-12-31
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=H0040028"
+retrieved: 2026-10-12
+---
+
+# Technical and Vocational Education Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-education/H0040028-technical-and-vocational-education-act.md](../../../zh/laws/ministry-of-education/H0040028-technical-and-vocational-education-act.md)) is authoritative.
+
+## Chapter 1 General Principles
+
+#### Article 1
+
+In order to establish the technical and vocational education (hereinafter referred to as the “TVE”) talent training system, cultivate the nationals’ correct idea about career, fulfill the technical and vocational education practices and train talents in various walks of life, the Act is enacted accordingly.
+
+#### Article 2
+
+The competent authority in charge of the Act refers to Ministry of Education at the central government level, the municipality at the municipal level, or the county(city) government at the county(city) level.
+
+The matters defined herein involving functions of various industry competent authorities shall be handled by the respective industry competent authorities.
+
+#### Article 3
+
+The following terms used herein shall carry the following definitions:
+
+\1. Pre-vocational education: To educate students about vocational knowledge, exploration and experience.
+
+\2. Vocational preparation education: To provide students with the expertise, technology and professional ethical education required prior to launching their career and to generate the honor for technical and vocational professionalism.
+
+\3. Vocational continuing education: To provide active staff or applicants for job transfer with professional technical or vocational training education required by their career.
+
+\4. Technical and vocational schools and colleges : Technology oriented senior high schools, special course groups affiliated to general senior high schools, comprehensive senior high schools, junior colleges, institutes of technology, and universities of science and technology.
+
+\5. Technical and vocational colleges and universities: Junior colleges, institutes of technology and universities of science and technology.
+
+\6. Vocational training institute: The vocational training institutes registered or approved to be incorporated under Vocational Training Act.
+
+## Chapter 2 Planning and Management of Technical and Vocational Education
+
+#### Article 4
+
+In order to train talents who meet the national economic and industrial development needs, and formulate macro technical and vocational education policies and schemes, Executive Yuan shall invite chiefs from Ministry of Education, Ministry of Labor, Ministry of Economic Affairs, National Development Council and other related ministries/departments to convene the technical and vocational education council meeting regularly.  The Executive Yuan shall define the election of members and the organization and operation of the committee.
+
+The scheme referred to in the preceding paragraph shall be reviewed comprehensively and published at least once every two years.
+
+#### Article 5
+
+The central competent authority shall conduct a survey to generate statistics for technical and vocational education data, or appoint or entrust some school, corporation, agency (organization) or group to do so.
+
+The central industry competent authority shall compile the information about the talents needed by the industries governed by it, and submit the investigation report and forecast about talents needed by industries to the central competent authority.
+
+The central competent authority shall publish the technical and vocational education statistic data and information about industries, vocational development and need for human resource periodically.
+
+#### Article 6
+
+The competent authority of any municipality government or county (city) government shall submit the technical and vocational education report to the central competent authority every three years, so that the central competent authority may draft the technical and vocational education development report based thereon.
+
+#### Article 7
+
+The competent authority shall take the regional industries and personal need for employment into consideration and plan the implementation of the technical and vocational education in the schools within its jurisdiction based on the social, economic and technical development.
+
+Where the competent authority of any municipality government or county (city) government receives substantial results from implementation of technical and vocational education, the central competent authority shall allocate certain subsidy to it as reward. The central competent authority shall define the conditions, mode and other requirements of such reward.
+
+#### Article 8
+
+The competent authority shall invite the applicable government entities, scholars & experts, others from the society, representatives from the business circle, representatives from schools, representatives from teachers' unions, and representatives from industry (vocational) associations or unions to form the technical and vocational advisory committee dedicated to providing advice on technical and vocational education issues.
+
+The technical and vocational education advisory committee referred to in the preceding paragraph shall consist of the members of any gender no less than one-third of the whole members.
+
+## Chapter 3 Implementation of Technical and Vocational Education
+
+### Section 1.Pre-vocational Education
+
+#### Article 9
+
+The senior high schools or below shall offer or apply the integrated pre-vocational and vocational guidance courses to provide students with pre-vocational opportunities and form correct vocational values.
+
+The curriculum guidelines of elementary schools and junior high schools shall include the contents related to vocational knowledge and exploration.  Senior high schools and junior high schools shall arrange visits to related industries for students.
+
+#### Article 10
+
+In order to implement the pre-vocational education, junior high schools may work with Technical and vocational schools and colleges  or vocational training organizations to carry out skill-based education. The central competent authority shall define the implementation rules thereof upon consultation with the central labor competent authority.
+
+The rights and obligations between junior high schools and vocational training organizations shall be defined by contract and reported by schools to the competent authority for record.
+
+For the contract referred to in the preceding paragraph, the competent authority shall define the standard draft contract and specify the requirements to be included and excluded therein.
+
+### Section 2 Vocational Preparation Education
+
+#### Article 11
+
+Senior high schools or above (hereinafter referred to as the “schools”) which offer the vocational preparation education may design professional curriculum together with the industries to work out adequate curriculum arrangement, and also take care of students' professional ethical training and knowledge about laws and regulations related to vocational development, labor and technology, and update the curriculum design periodically.
+
+The schools may plan and design the professional curriculum referred to in the preceding paragraph based on the occupational competency standards defined by the central industry competent authorities to provide students with the occupation competency needed by them to seek jobs.
+
+The occupational competency standards defined by various central industry competent authorities in accordance with the Statute for Industrial Innovation shall be reviewed, updated and adjusted at least once per two years, subject to the social development and industrial transformation, and be posted on some exclusive information platform.
+
+Technical and vocational colleges and universities shall review their curriculum based on the competency standards defined by various central industry competent authorities.
+
+#### Article 12
+
+The schools may offer related internship programs by the nature of sections, departments, institutes and academic programs.
+
+The internship programs referred to in the preceding paragraph, in the case of off-campus internship, shall be subject to the mode of implementation, venue, teachers’ qualification, calculation of credits, guidance and other requirements defined by the schools, unless otherwise provided in laws.
+
+Where it is necessary for government authorities (agencies) or public enterprises to offer the quota for internship to the off-campus internship programs offered by the schools, the quota shall be offered in the following manners:
+
+\1. Government authorities (agencies): The schools shall attach the off-campus internship program plan and report the same to the competent authority in charge of the schools as a special project to seek approval from the applicable government authorities (agencies).
+
+\2. Public enterprises: The competent authority in charge of the schools shall consult with the competent authority in charge of the public enterprises to contact the enterprises subordinated to it to offer the quota, object and mode of the internship.  Then, the competent authority in charge of the schools shall summarize and publish the off-campus internship program plan and information about recruitment of student trainees, and then make decision upon selection or screening.
+
+#### Article 13
+
+The competent authority shall conduct performance appraisal on the internship programs implemented by the schools.  The central competent authority shall define the contents and regulations governing other requirements to be met for the appraisal.
+
+The competent authority may reward schools, partners and other related personnel that achieve outstanding performance in implementing the internship program.
+
+The partners working with the schools to implement the off-campus internship shall offer the quota for the internship to the schools permanently.  Where the student trainees who are hired as formal employees of the partners via specific selection procedure after graduation attain the specific proportion set by the central competent authority, the competent authority shall report the same to the central competent authority and then the central competent authority shall ask the central industry competent authority to grant reward.
+
+#### Article 14
+
+The schools may select experts from the industries to help the education.
+
+Identification, right and obligation and administration of the experts from the industries referred to in the preceding paragraph, and curriculum offered by the schools and other requirements to be met shall be defined by the central competent authority.
+
+The competent authority shall reward enterprises, which assign a great number of their employees to participate in the schools’ internship education.
+
+#### Article 15
+
+The schools shall encourage teachers and students to take part in techniques contents or seek the certificates and licenses related to their majors, in order to upgrade the students’ ability to seek employment.The competent authority will reward the schools that achieve excellent performance therefor.
+
+The various central industry competent authorities shall summarize the certificates and licenses for the industries governed by them respectively and submit the same to the central competent authority for periodic publication.
+
+Identification of the certificates and licenses referred to in the preceding two paragraphs, and conditions, mode and regulations governing other requirements to be met for the reward referred to in Paragraph 1 shall be defined by the central competent authority upon consultation with the central industry competent authority.
+
+#### Article 16
+
+Technology oriented senior high schools, special course groups affiliated to general senior high schools and comprehensive senior high schools may draft plans for special programs and submit the same to the competent authority for approval, in order to offer the special programs for basic technical human resource for specific industries.
+
+The special programs referred to in the preceding paragraph may be exempted from the restrictions on students’ qualification, admission, division of school districts, curriculum and assessment for learning referred to in Chapter 6 and Chapter 7 of Senior High School Education Act.
+
+#### Article 17
+
+Junior colleges or above may work with industries to offer special programs in order to implement the vocational preparation education.
+
+The teachers’ qualification, curriculum design, mode, calculation of credits, internship program and guidance related to the special programs referred to in the preceding paragraph shall be subject to the implementation plan drafted by the colleges and approved by the competent authority in charge of the college.
+
+#### Article 18
+
+Technical and vocational colleges and universities shall enhance occupational competency-oriented curriculum and work with technology-oriented senior high schools, special course groups affiliated to general senior high schools and comprehensive senior high schools to establish the curriculum transitional mechanism to help train students’ occupational competency.
+
+#### Article 19
+
+Technical and vocational colleges and universities may enroll students with specific work experience as the first priority.  The colleges and universities may add the relevant requirements about recognition of work experience and preferential treatment into the relevant enrollment guide, and implement the same upon resolution of the admission committee and approval from the central competent authority.
+
+### Section 3 Vocational Continuing Education
+
+#### Article 20
+
+The schools or vocational training organizations may implement vocational continuing education.
+
+The schools shall provide academic degree certificates, diploma, certificate of credits, or learning certificate by the nature of the vocational continuing education.
+
+The vocational continuing education shall offer the curriculum required by active staff or applicants for job transfer primarily.  Such curriculum may be planned and designed based on the occupational competency standards defined by the various central industry competent authorities, and updated periodically.
+
+The regulations governing the enrollment targets, curriculum design, assessment for learning, qualification, mode of admission and other requirements to be met referred to in the preceding paragraph shall be defined by the central competent authorities.  If necessary, upon consultation with the central labor competent authority, the vocational continuing education may be exempted from restrictions about the mode of admission referred to in Articles 35 to Article 40 of the Senior High School Education Act, and the curriculum and assessment for learning referred to in Chapter 7 of the same Act, and the restrictions about mode of admission referred to in Paragraph 2 of Article 31 of Junior College Act and mode of admission referred to in Paragraph 1 of Article 24 of the University Act.
+
+#### Article 21
+
+In order to implement the vocational continuing education, the schools may arrange students to take education and training curriculum at workplace.
+
+The education and training curriculum at workplace referred to in the preceding paragraph shall be planned and designed by the schools and partners.  The schools and partners shall also sign the occupational education and training contract with students.
+
+The occupational education and training contract referred to in the preceding paragraph shall specify the contents of education and training, right and obligation of the schools, partners and students, assessment for learning and graduation requirements, et al..
+
+For the contract referred to in the preceding paragraph, the central competent authority shall define the standard draft contract and specify the requirements to be included and excluded therein.
+
+When students take education and training curriculum at workplace according to Paragraph 1 herein, the competent authority in charge of the schools may, if necessary, conduct an on-site survey.  The competent authority may approve annual adjustment on sections, departments, institutes, academic programs, classes or subsidy/reward of the schools based on the survey result.
+
+#### Article 22
+
+When implementing the vocational continuing education, vocational training organizations shall draft the implementation plan for vocational continuing education with respect to the teachers’ qualification, curriculum, mode and recognition of credits and submit the same to the competent authority for authorization.
+
+The central competent authority shall define the regulations governing recognition of the vocational continuing education curriculum, adoption of learning accomplishment and other requirements to be met referred to in the preceding paragraph upon consultation with the central labor competent authority.
+
+#### Article 23
+
+The competent authority may entrust academic groups or professional evaluation organizations to evaluate or visit the vocational continuing education implemented by the vocational training organizations, and publish the evaluation result.  The regulations governing the evaluation, visit and other requirements to be met shall be defined by the competent authority.
+
+## Chapter 4 Qualified Teachers for Technical and Vocational Education
+
+#### Article 24
+
+The orientation training program for qualified teachers of senior high schools or below shall include the subjects about vocational education and training and career planning as required credits.
+
+The orientation education program for qualified teachers of senior vocational schools shall include the internship training for at least 18 hours to be arranged by universities with teacher education.
+
+#### Article 25
+
+Teachers qualified for professional subjects or technical subjects of Technical and vocational schools and colleges  and universities shall have the work experience in the industries related to the subjects taught by them for more than one year, unless in the event of one of the following：
+
+Qualified full-time teachers who have already been hired prior to enforcement of the amended law(on date).
+
+Qualified full-time teachers who have already acquired certificates on their teaching subjects specific for technology oriented senior high schools, special course groups affiliated to general senior high schools, or comprehensive senior high schools and been hired by senior high schools for professional subjects or technical subjects by (date).
+
+The central competent authority shall define the standards concerning identification of the work experience related to the subjects referred to in the preceding paragraph.
+
+Senior high schools shall priorly hire qualified full-time teachers who have the work experience in the industries related to the subjects taught by them for more than one year and who referred to in the preceding first paragraph, unless the vacancies not to filled, who referred to in the preceding second paragraph have no work experience more than one year would be hired by( date).
+
+#### Article 26
+
+Teachers qualified for professional subjects or technical subjects, professional and technical staff, and technical teachers of graduate schools shall engage in the research or study related to their expertise or technology together with the partners of the colleges and universities or industries related to the subjects taught by them for at least a half year upon expiration of six years during their employment with the technical and vocational schools and colleges and universities. The central competent authority shall define the regulations governing the research or study of technical and graduate schools.
+
+In the duration of the research or study referred to in the preceding paragraph, the technical and vocational colleges and universities shall retain their posts, pay their salary, grant their official leave, and also sign a contract with them in advance to agree on the duration (MM/DD/YY~MM/DD/YY) of the research or study, obligation, indemnification against breach of the contract, calculation unit and compulsory execution.
+
+Where the technical and vocational colleges and universities voluntarily recommend, delegate or agree teachers, professional and technical staff or professional and technical teachers to engage in the research or study with the partners of the colleges and universities or industries related to the subjects taught by them, in order to meet the education or business need, the restrictions referred to in the preceding two paragraphs may not apply.
+
+The technical and vocational colleges and universities shall invite their partners or related vocational groups/industries to plan and conduct the research or study referred to in the preceding paragraph, and if necessary, shall ask the competent authority for help.
+
+The competent authority shall reward the technical and vocational colleges/universities, which achieve excellent performance in urging teachers qualified for professional or technical subjects, professional and technical staff or professional and technical teachers to engage in the research or study periodically.
+
+## Chapter 5 Supplementary Provisions
+
+#### Article 27
+
+The central competent authority shall, upon consultation with the central industry competent authority, reward any individuals or groups that have positive contribution to research and development of technical and vocational education equipment, donation of learning or experiment equipment, provision of internship opportunities and occupational competency training to students.
+
+#### Article 28
+
+The enforcement rules for this Act shall be prescribed by the central competent authority.
+
+#### Article 29
+
+The Act shall be enforced as of the date of promulgation hereof.
+
+## History
+
+\1. January 14, 2015 Enacted and promulgated by the Order under Hua-Tsung-1-Yi-Tze No. 10400002681
+
+\2. Amendment to Article 25 and 26 of Act per Presidential Decree No. Hua-Zong- Yi-Yi-Zi- 10800141691 dated December 31, 2019.

@@ -1,0 +1,324 @@
+---
+title: "Vehicle License Tax Act"
+title_zh: "使用牌照稅法"
+identifier: "G0340095"
+type: act
+law_level: "法律"
+category: "行政＞財政部＞賦稅目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1945-06-11
+last_amended: 2026-01-28
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0340095"
+retrieved: 2026-10-12
+---
+
+# Vehicle License Tax Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-finance/G0340095-vehicle-license-tax-act.md](../../../zh/laws/ministry-of-finance/G0340095-vehicle-license-tax-act.md)) is authoritative.
+
+## Chapter 1 General
+
+### Article 1
+
+The collection of vehicle license tax by municipal and county (city) governments shall be governed by this Act.
+
+### Article 2
+
+The definitions of terms used in this Act are as follows:
+
+1.Public water and land routes: water and land traffic routes for public use.
+
+2.Transportation equipment: motor vehicles and vessels.
+
+3.Total cylinder displacement volume: the product of the cross-sectional area of a cylinder, piston stroke, and number of cylinders.
+
+4.Military T/O transportation equipment: transportation equipment such as command vehicles, motor truck, combat vehicles, communication vehicles, and vessels required to be equipped by various units within the military equipment establishment, excluding the vehicles of military administrative agencies or schools outside the military T/O transportation equipment.
+
+5.Public hospitals: public hospitals and the hospitals established by the organizations registered to the government.
+
+6.Assembled transportation equipment: transportation equipment assembled from parts of domestic- or foreign-made vehicles, capable of being driven.
+
+7.Using non-transportation equipment: equipment, not classified as vehicles, utilizes its properties of mobility and others functions to operate as vehicles, such as an agricultural tiller designed for agricultural use, utilizing its engine and other components to be configured as resembling cargo or passenger vehicles.
+
+### Article 3
+
+Transportation equipment using public land or water routes, regardless of whether they are for public, private, or military use, must comply with other relevant laws, obtain permits and pay prescribed fees. The owners or operators of such transportation equipment shall apply to the competent authority at their location for the issuance of vehicle license and pay vehicle license tax.
+
+The aforementioned vehicle license may be replaced by a license plate issued by the traffic management authority.
+
+The vehicle license tax shall be collected by the competent tax authorities of municipalities directly under central government and counties (cities). When necessary, municipal and county (city) governments may, with approval, commission local traffic management authorities to collect taxes and issue permits uniformly.
+
+### Article 4
+
+The municipal and county (city) government may, based on actual circumstances, exempt vessels from the Vehicle license tax and report to the Ministry of Finance (hereinafter referred to as the MOF) for record.
+
+## Chapter 2 Tax Scope and Tax Rates
+
+### Article 5
+
+Vehicle license tax shall be levied based on the type of transportation equipment. Except for motor vehicles, which shall be taxed based on their total cylinder displacement volume or other power division levels, and ships, which shall be taxed based on their tonnage, as stipulated in Article 6, the tax rates for other transportation equipment shall be formulated by municipal and county (city) governments, subject to approval by the corresponding municipal or county (city) council, and reporting to the MOF for record.
+
+Municipal and county (city) governments may exempt electric-powered motor vehicles from the payment of Vehicle license tax during the following periods and shall report to the MOF for record:
+
+1.Electric cars: from January 6, 2012 to December 31, 2030.
+
+2.Electric motorcycles: from January 1, 2018 to December 31, 2030.
+
+### Article 6
+
+The Vehicle license tax on all types of transportation equipment shall be levied according to the following provisions:
+
+1.Motor vehicles: classified into four types - small passenger cars, large passenger cars, trucks, and motorcycles, they shall be levied according to the taxation table specified in this Act for motor vehicles (see attached tables one to six).
+
+2.Vessels: For vessels with a gross tonnage of five tons or more, the annual tax is NT$16,380 for commercial use and NT$40,320 for non-commercial use per vessel. For vessels with a gross tonnage of less than five tons, the annual tax is NT$9,900 for commercial use and NT$17,550 for non-commercial use per vessel.
+
+## Chapter 3 Exemptions
+
+### Article 7
+
+The following types of transportation equipment are exempted from vehicle license tax:
+
+1.Military T/O transportation equipment.
+
+2.Vessels navigating in areas where customs are stationed and have already paid navigation service fees collected by customs.
+
+3.Transportation equipment used exclusively for the purpose of public safety with fixed special equipment and distinctive markings, such as police vehicles, investigation and inspection vehicles, fugitive pursuit vehicles, fire engines, engineering rescue vehicles, and maritime rescue vessels.
+
+4.Transportation equipment used exclusively for the purpose of public health by hospitals established by health authorities and public organizations, equipped with fixed special equipment and distinctive markings, such as ambulances, medical service vehicles, water spraying vehicles, water and fertilizer vehicles, and garbage trucks.
+
+5.Transportation equipment for diplomatic missions and personnel enjoying diplomatic privileges, approved by the Ministry of Foreign Affairs and issued special license plates by traffic management authorities.
+
+6.Transportation equipment exclusively for the transportation of telecommunications mail, equipped with fixed special equipment or distinctive markings.
+
+7.Transportation equipment specifically for educational and cultural promotion tours, equipped with fixed special equipment and distinctive markings.
+
+8.Vehicles owned by and for the use of individuals holding disability certificates or proofs, and possessing driver's licenses shall be limited to one vehicle per person with mental or physical disabilities. In cases where the mental or physical disability prevents the individual from holding a driver's license, vehicles owned by the individual, the spouse, or relatives within the second degree of kinship from the same household, or owned by relatives within the second degree of kinship whose vehicle registration address is the same as the household registration address of the individual with mental or physical disabilities, and used by such individual, shall be limited to one vehicle per person with mental or physical disabilities. However, for vehicles with a total cylinder displacement volume exceeding 2400 cubic centimeters, or with electric motors with a maximum horsepower exceeding 262 horsepower (HP) or 265.9 metric horsepower (PS), the exemption amount shall be limited to the tax amount for vehicles with 2400 cubic centimeters, 262 horsepower (HP), or 265.9 metric horsepower (PS). The excess amount shall not be exempted.
+
+9.Vehicles designated for use by registered social welfare organizations and institutions, certified by local social welfare authorities, limited to three vehicles per organization or institution. However, social welfare organizations and institutions transporting persons with mental or physical disabilities or serving long-term care needs with legally installed fixed auxiliary equipment and distinctive markings, upon approval by municipal and county (city) governments, are exempt from the three-vehicle limit.
+
+10.Public buses owned by licensed highway or urban passenger transport service enterprises and approved by traffic management authorities for mass transportation use.
+
+11.Transportation equipment licensed for use in the applicable regions under the Offshore Islands Development Act. However, exemption shall not be granted for passenger vehicles with a total cylinder displacement volume exceeding 2,400 cubic centimeters, or with electric motors providing maximum horsepower exceeding 262 horsepower (HP) in the imperial system or 265.9 metric horsepower (PS).
+
+The transportation equipment exempted from license tax in the preceding clauses shall apply for exemption procedures before use, and shall not be transferred, modified, reestablished, or change the nature of use without approval from traffic management authorities.
+
+### Article 8
+
+(deleted).
+
+## Chapter 4 Collection Procedure
+
+### Article 9
+
+The collection methods for vehicle license tax are as follows:
+
+1.Vehicle license tax shall be levied on automobiles annually.
+
+2.Vehicle license tax shall be levied on motorcycles and other means of transportation equipment annually.
+
+### Article 10
+
+The Vehicle license tax shall be collected within one month starting from April 1st of each year. However, for commercial vehicles, one half of the tax amount shall be collected within one month starting from April 1st, and the other half of the tax amount shall be collected within one month starting from October 1st of each year, based on the applicable tax amount.
+
+Prior to the commencement of the collection of the Vehicle license tax, the competent tax authority shall issue the tax payment notice to the owners or users of the transportation equipment, and shall separately announce the applicable tax amounts and the commencement and end dates of the tax collection for various types of transportation equipment.
+
+### Article 11
+
+Owners or users of transportation equipment who obtain temporary license plates or automobile testing license plates shall be subject to tax calculation on a daily basis.
+
+For vehicles with temporary license plates obtained as mentioned in the preceding paragraph, the applicable tax amount shall be calculated based on the median of the tax amounts for various types of vehicles as specified in the Annex table of Article 6. For those who obtain automobile testing license plates, the applicable tax amount shall be calculated based on the highest tax amount listed for automobiles and motorcycles in the table.
+
+### Article 12
+
+Any newly purchased, newly imported, or newly assembled transportation equipment shall apply to the traffic management authority for registration inspection procedures with the attachment of importation or other origin documents. After passing the inspection, the applicant shall submit the qualified registration inspection certificate along with the aforementioned documents to the competent tax authority for verification of conformity in type and usage nature. After processing the payment of the current Vehicle license tax, the applicant shall then present the tax receipt and all documents to the traffic management authority to obtain license plates.
+
+Transfer registration procedures shall not be processed for transportation equipment until the Vehicle license tax and fines have been paid in full.
+
+When applying for transfer of ownership or reinstatement of use for a transportation equipment that has been reported as suspended, the traffic management authority shall only accept the application after verifying the payment of the current Vehicle license tax and shall notify the relevant tax authority of any related changes.
+
+### Article 13
+
+The owner or user of the licensed transportation equipment, who does not intend to use the transportation equipment, shall apply to the traffic management authority for suspension of use.  The tax amount for the period of use shall be calculated based on the actual number of days of usage. Upon resuming usage, the tax amount shall be calculated by subtracting the tax amount for the elapsed period from the annual tax amount.
+
+The transportation equipment that do not apply for suspension of use shall be deemed as continued usage, and the Vehicle license tax shall continue to be levied in accordance with this Act.
+
+### Article 14
+
+When changes such as replacing parts or altering seat frames occur in the transportation equipment already licensed for use, the owner or user of the transportation equipment shall proceed with the necessary changes through the traffic management authority. If the tax amount remains the same before and after the change, no additional tax shall be levied. If the transportation equipment, originally exempt from tax or subject to a lower tax rate, is changed to a taxable status or a higher tax rate, the additional tax amount for the difference shall be calculated on a daily basis. Conversely, if the transportation equipment, originally taxable or subject to a higher tax rate, is changed to an exempt status or a lower tax rate, the tax amount for the difference shall be refunded on a daily basis.
+
+Failure of the owner or user of the transportation equipment mentioned in the preceding paragraph to proceed with the necessary changes through the traffic management authority, and failure to pay the required taxes as stipulated, shall be considered as a transfer of the license for another use.
+
+### Article 15
+
+When transferring ownership of the transportation equipment already licensed for use, the transfer of ownership shall be registered with the traffic management authority as stipulated.
+
+Following the transfer of ownership of the transportation equipment, if the nature of use changes from originally exempt from tax or subject to a lower tax rate to taxable status or a higher tax rate, the tax amount for the difference shall be calculated on a daily basis and paid by the new owner or user. Conversely, if the transportation equipment, originally taxable or subject to a higher tax rate, changes to exempt status or a lower tax rate, the tax amount for the difference shall be calculated on a daily basis and refunded by the tax authority. Failure to comply with the stipulated procedures for transfer of ownership and failure to pay the required taxes as stipulated shall be considered as a transfer of the license for another use.
+
+### Article 16
+
+Transportation equipment newly manufactured, newly imported, or newly assembled and starting to be used shall be subject to the payment of the Vehicle license tax, calculated by subtracting the tax amount for the elapsed period from the annual tax amount.
+
+In the event of a transfer of ownership of the transportation equipment for which the Vehicle license tax has already been paid, if the transferor has already paid the full amount of Vehicle license tax for the whole year, the transferee shall not be liable for the Vehicle license tax for the same year.
+
+### Article 17
+
+(deleted).
+
+### Article 18
+
+(deleted).
+
+### Article 19
+
+(deleted).
+
+## Chapter 5 Inspection
+
+### Article 20
+
+Vehicle license shall not be sold, used for another vehicle, or used beyond the expiration date.
+
+### Article 21
+
+Upon the expiration of the Vehicle license tax collection period, the competent tax authority shall, in conjunction with the police force, dispatch personnel to organize inspection teams, conduct comprehensive vehicle inspections, and the competent tax authority or the police may conduct surprise inspections at any time.
+
+### Article 22
+
+Inspectors shall wear armbands while performing their duties. Personnel from the competent tax authority shall be issued inspection certificates by their respective competent tax authorities for identification purposes.
+
+### Article 23
+
+Upon discovering a violation of this Act involving the transportation equipment, the owner or user thereof shall be ordered to prepay an amount equivalent to the tax and fines as a security deposit, or to provide equivalent property as collateral. In the absence of prepayment of the security deposit or the inability to provide equivalent property as collateral, the tax authority may undertake the custody of the license plates or driving license of the said transportation equipment, issue a custody receipt, and return them upon payment of the tax and fines.
+
+### Article 24
+
+If the owner or user of the transportation equipment violating this Act abandons the transportation equipment upon discovery, and after public notice for claiming ownership, if no one claims ownership in three months, the tax authority may publicly auction the said transportation equipment. The proceeds from the auction, after deducting the taxes owed, shall be remitted to the national treasury.
+
+## Chapter 6 Penalty
+
+### Article 25
+
+If the owner or user of the transportation equipment fails to pay the due tax within the prescribed period stated on the payment notice, they shall be subject to the imposition of belated surcharge.
+
+### Article 26
+
+(deleted).
+
+### Article 27
+
+(deleted).
+
+### Article 28
+
+If the transportation equipment with overdue tax payment is found to be used on public water and land routes after the expiration of the late payment period, in addition to being ordered to pay the tax, a fine of not more than one time of the tax payable will be imposed, and no additional belated surcharge will be imposed in accordance with the provisions of Article 25.
+
+If the transportation equipment whose license has been reported to be stopped, license plate returned or canceled is found to be used on public roads or waterways, in addition to being ordered to pay tax, a fine of not more than twice the amount of tax payable will be imposed.
+
+### Article 29
+
+If transportation equipment is used on public water or land routes without having applied for and obtained a temporary license plate or an automobile testing license plate in accordance with relevant traffic management regulations, or if such equipment is used beyond the expiration date of the aforementioned license plates, the owner or user of the said equipment shall be ordered to pay the tax and shall additionally be fined an amount less than or equal to the tax payable, unless the circumstances fall under Paragraph 2 of the preceding article or Article 30.
+
+### Article 30
+
+If newly purchased, newly imported, or newly assembled transportation equipment without license plates is found to be in violation of Paragraph 1, Article 12 and used on public water or land routes, the owner or user of the said equipment shall be ordered to pay the tax and shall additionally be fined an amount less than or equal to the tax payable.
+
+### Article 31
+
+The owner or user of the said transportation equipment whose license plate is sold or used for other transportation equipment shall be fined an amount less than or equal to double the tax owed. However, the maximum fine shall not exceed NT$150,000.
+
+### Article 32
+
+Using non-transportation equipment as general transportation equipment on public water and land routes shall be handled by the transportation management authority in accordance with the provisions of the Road Traffic Management and Penalty Act.
+
+### Article 33
+
+(deleted).
+
+### Article 34
+
+(deleted).
+
+### Article 35
+
+(deleted).
+
+### Article 36
+
+(deleted).
+
+## Chapter 7 Supplemental Provisions
+
+### Article 37
+
+The enforcement regulations for the collection of Vehicle license tax shall be formulated separately by municipal and county (city) governments in accordance with this Act and submitted to the MOF for recordation.
+
+### Article 38
+
+This Act shall come into effect upon promulgation. However, the provisions of Article 7 amended on May 30, 2014, and the Appendix 5 specified in Article 6 amended on November 14, 2017, shall come into effect on January 1st of the following year after the amendment is promulgated.
+
+## Attachments
+
+- [Table 1 Vehicle License Tax Rates Chart for Small Passenger Vehicles.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009087)
+- [Table 2 Vehicle License Tax Rates Chart for Large Passenger Vehicles and Trucks.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009088)
+- [Table 3 Vehicle License Tax Rates Chart for motorcycles.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009089)
+- [Table 4 of Article 6， Vehicle License Tax Act.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009090)
+- [Table 5 Vehicle License Tax Rates Chart for Completely Electric-operated Motorcycles.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009091)
+- [Table 6 of Article 6， Vehicle License Tax Act.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009092)
+
+## History
+
+1.Full text (13 articles) promulgated on 11 June 1945 by National Government.
+
+2.Full-text amendments (14 articles) promulgated on 4 December 1946 by National Government.
+
+3.Full-text amendments (15 articles) promulgated on 14 November 1947 by National Government.
+
+4.Amendment to Article 5 promulgated on 4 January 1949 by Presidential Decree.
+
+5.Amendment to Articles 5, 11 and 12 promulgated on 9 June 1950 by Presidential Decree.
+
+6.Full-text amendments（21 articles) promulgated on 31 December 1955 by Presidential Decree.
+
+7.Amendment to Article 6 promulgated on 3 November 1956 by Presidential Decree.
+
+8.Full-text amendments（38 articles and tables) promulgated on 3 February 1962 by Presidential Decree.
+
+9.Amendment to Articles 1 to 7, 9 to 11, 13, 16, 17, 22, 27, 30 and 32 ,and deletion of Article 8 promulgated on 28 December 1971 by Presidential Decree No.843.
+
+10.Amendment to Article 6 promulgated on 1 August 1979 by Presidential Decree No.3839.
+
+11.Deletion of Article 35 and Article 36 promulgated on 30 July 1993 by Presidential Decree No.3703.
+
+12.Amendment to Articles 2, 3, 4, 6, 7, 9, 16, 25 and 34 and deletion of Articles 27 and 33 promulgated on 19 July 1995 by Presidential Decree No.5115.
+
+13.Amendment to Articles 7, 10, and 28 promulgated on 11 November 1998 by Presidential Decree No.8700231360.
+
+14.Amendment to Article 1, Articles 3 to 7, 12 to 15, 23, 25, 28, 31 and 37 and deletion of Articles 17 to 19, 26 and 34 promulgated on 17 January 2001 by Presidential Decree No.9000009330.
+
+15.Amendment to Article 28 promulgated on 7 January 2004 by Presidential Decree No.09200248381.
+
+16.Amendment to Article 6 promulgated on 2 February 2005 by Presidential Decree No.09400014061.
+
+17.Amendment to Articles 6 and 7 promulgated on 8 August 2007 by Presidential Decree No.09600103201.
+
+18.Amendment to Article 31 promulgated on 30 December 2009 by Presidential Decree No.09800323231.
+
+19.Amendment to Article 5 and Tables 4 and 5 of Article 6 promulgated on 4 January 2012 by Presidential Decree No.10000300181.
+
+20.Amendment to Article 4,7,28 and 38 promulgated on 18 June 2014 by Presidential Decree No. 10300092701.
+
+21.Amendment to Article 5 promulgated on 4 February 2015 by Presidential Decree No. 10400012511.
+
+22.Amendments to Article 5 to 7, 9, 11, and 38 promulgated on 6 December 2017 by Presidential Decree No. 10600145141.
+
+23.Amendments to Article 5 and 25 promulgated on 30 December 2021 by Presidential Decree No. 11000117711.
+
+24.Amendments to Article 29 to 31 promulgated on 24 January 2025 by Presidential Decree No. 11400008861.
+
+25.Amendment to Article 5 promulgated on 30 December 2025 by Presidential Decree No. 11400134461.
+
+26.Amendment to Article 7 promulgated on 28 January 2026 by Presidential Decree No. 11500007791.

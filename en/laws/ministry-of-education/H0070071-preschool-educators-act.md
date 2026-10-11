@@ -1,0 +1,565 @@
+---
+title: "Preschool Educators’ Act"
+title_zh: "教保服務人員條例"
+identifier: "H0070071"
+type: act
+law_level: "法律"
+category: "行政＞教育部＞國民及學前教育目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2017-04-26
+last_amended: 2022-06-29
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=H0070071"
+retrieved: 2026-10-12
+---
+
+# Preschool Educators’ Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-education/H0070071-preschool-educators-act.md](../../../zh/laws/ministry-of-education/H0070071-preschool-educators-act.md)) is authoritative.
+
+## Chapter 1 General Provisions
+
+### Article 1
+
+This Act is enacted to regulate the education, qualifications, rights and interests, administration, and appeals and dispute settlements of preschool educators, and to enhance the professional status of preschool educators.
+
+### Article 2
+
+The competent authority refers to the Ministry of Education at the central government level, the municipal government at the municipal level, and the county or city government at the county or city level.
+
+### Article 3
+
+“Preschool educators” as used in this Act refers to educare service providers, including principals, teachers, educare givers, and educare assistants, as defined in Item 5, Article 3 of the Early Childhood Education and Care Act.
+
+### Article 4
+
+The central competent authority shall be in charge of the following matters:
+
+\1. Development and stipulation of policies and laws regulating preschool educators.
+
+\2. Planning and training of talents; establishing a talent pool of preschool educators.
+
+\3. Protection of preschool educators’ rights and interests.
+
+\4. Other national matters regarding preschool educators.
+
+### Article 5
+
+The municipal or county（city）competent authority shall be in charge of the following matters:
+
+\1. Development and stipulation of self-governance regulations for preschool educators.
+
+\2. Supervision, consultation, administration, and in-service training of preschool educators.
+
+\3. Other local matters regarding preschool educators.
+
+## Chapter 2 Education and Qualifications
+
+### Article 6
+
+The qualifications of preschool principals shall meet all the following requirements:
+
+\1. Qualified preschool teacher or educare giver.
+
+\2. Served as teacher or educare giver in educare service institutions (including child care centers and kindergartens) for more than 5 years; or, having graduated from divisions, departments, or graduate programs specializing in early childhood education and care, and served as the responsible person in preschools for more than 5 years.
+
+\3. Passed examinations in preschool principal training courses in divisions, departments, graduate programs, or degree programs specializing in early childhood education and care offered by junior college or above established or commissioned by the municipal or county (city) competent authority and approved by the central competent authority.
+
+In addition to the aforementioned requirements, those who fulfill one of the following requirements shall also be qualified as a preschool principal:
+
+\1. Directors of child care centers and kindergartens approved by the municipal or county (city) competent authority in accordance with the law prior to December 31, 2011, continued to serve since January 1, 2012, and whose titles have been converted to preschool principals.
+
+\2. Directors of child care centers and kindergartens approved by the municipal or county (city) competent authority in accordance with the law, individuals who have completed the E Training Program of the Child Welfare Specialists Training Implementation Program, or individuals who have completed the core training courses for directors of child care organizations and obtained certification in accordance with the Regulations for Child and Youth Welfare Institute Professional Personnel Qualification and Training prior to December 31, 2011, and fulfill one of the requirements listed in the following items, may submit rosters of preschool educator personnel qualifications with relevant training certifications through the preschool of employment to the municipal or county (city) competent authority and apply for qualification as principal:
+
+（1）Directors who discontinued their service prior to January 1, 2012 and therefore whose titles were not converted to preschool principals in accordance with the preceding Subparagraph, and have regained employment at preschools and serve as preschool principals prior to December 31, 2021.
+
+（2）Educare givers at child care centers and teachers at kindergartens who have continued to serve since January 1, 2012, and serve as preschool principals prior to December 31, 2021.
+
+In the case of any of the following, the length of service shall count towards the years of service as referred to in Subparagraph 2 of Paragraph 1:
+
+\1. Length of service as a substitute teacher at a kindergarten prior to December 31, 2011 who meets all the following requirements:
+
+（1） College degree or above.
+
+（2）Graduated from schools, departments, graduate programs, degree programs, or divisions, or have a certificate in minor program specializing in early childhood education and care offered by junior college or above during the service period as a substitute teacher.
+
+（3） The service of the substitute teacher is reported to the municipal or county (city) competent authority, and the length of service as a substitute teacher is more than 3 consecutive months.
+
+\2. Length of service as an educare giver at a child care center prior to December 31, 2011, who meets all the following requirements:
+
+（1）Graduated from schools, departments, graduate programs, degree programs, or divisions, or have a certificate in minor program specializing in early childhood education and care offered by junior colleges or above during the service period.
+
+（2）The service is reported to the municipal or county (city) competent authority.
+
+\3. Qualified teacher or educare giver who served as a substitute for preschool teacher or educare giver after January 1, 2012, and the service of the substitute teacher is reported to the municipal or county (city) competent authority, and the length of service as a substitute teacher is more than 3 consecutive months.
+
+\4. Served at a baby care center after January 1, 2012 and concurrently fulfills the following qualifications and length of service for childcare givers:
+
+(1) Has one of the following academic credentials:
+
+i. Enrolled prior to July 31, 2013 and graduated from schools, departments, graduate programs, degree programs, or divisions related to early childhood education and care, or have a certificate in a minor program specializing in early childhood education and care offered by junior colleges or above.
+
+ii. Enrolled after August 1, 2013 and graduated from schools, departments, graduate programs, degree programs, or divisions recognized by the central competent authority related to early childhood education and care, or have a certificate in a minor program specializing in early childhood education and care offered by junior colleges or above.
+
+(2) The service is reported to the municipal or county (city) competent authority.
+
+Regarding Subparagraph 2 of Paragraph 1, proof of length of service shall be certified by the educare service institution or by labor insurance verifications issued by the Bureau of Labor Insurance, both of which shall be verified by the municipal or county (city) competent authority.
+
+Regarding Subparagraph 3 of Paragraph 1, professional training, qualifications, courses, number of hours, costs, and other relevant matters shall be stipulated by the central competent authority.
+
+### Article 7
+
+The principal of a public preschool shall be a current teacher or contract educare giver of said preschool.
+
+The municipal or county (city) competent authority, or municipal mountain indigenous district offices, shall appoint principals of public preschools in accordance with the following regulations, not limited by the relevant provisions restricting the recruitment, appointment, and terms of appointment of principals in the preceding Paragraph and Paragraph 4 of Article 25:
+
+\1. Principals of public preschools whose qualifications were converted in accordance with Subparagraph 1, Paragraph 2 of the preceding Article, shall continue their appointment at the original institution in accordance with the Public Functionaries Appointment Act.
+
+\2. Personnel who continue their appointment at the original institution in accordance with the Public Functionaries Appointment Act and fulfill the qualifications for preschool principal stipulated in Paragraph 1 of the preceding Article, may be promoted and appointed as preschool director in accordance with organization regulations prior to system reform and appointed principal at the original institution.
+
+The board of directors of private preschools shall select and employ qualified principals. The responsible person shall select a qualified principal if the preschool does not establish a board of directors. The principal appointment shall be submitted for approval by the municipal or county (city) competent authority.
+
+### Article 8
+
+The central competent authority shall suitably establish teacher education in accordance with the demand for preschool teachers.
+
+Preschool teacher qualifications shall be acquired through pre-service education and advanced study.
+
+The requirements for preschool teacher qualifications shall be in accordance with the Teacher Education Law, unless otherwise specified in this Act. Prior to the amendment of the Teacher Education Act and relevant regulations regarding preschool teacher qualifications, the regulations regarding the qualification of kindergarten teachers shall apply.
+
+In addition to the provisions of the preceding Paragraph, personnel who have obtained the qualifications of kindergarten teachers prior to December 31, 2011 and have continued to serve since January 1, 2012 shall convert their position/job title to preschool teacher and acquire preschool teacher qualifications.
+
+Domestic universities which have established departments related to early childhood education and care, and have been approved by the central competent authority in accordance with Paragraph 3 of Article 10, may apply for recognition for teacher education departments for the training of preschool teachers in accordance with the Teacher Education Act and relevant regulations.
+
+Individuals may take the Preschool Teacher Qualification Assessment once they have completed professional educare courses in departments, graduate programs, degree programs, divisions, minor programs, or non-degree programs specializing in early childhood education and care offered by junior college or above approved by the central competent authority in accordance with Paragraph 3 of Article 10 (hereinafter referred to as educare related departments and programs), and complete and obtain certification of professional courses of pre-service education at professional teacher training programs in colleges and universities as determined by the Teacher Education Act.
+
+The requirements for degrees and programs in preschool teacher training, content of preschool pre-service teacher education programs, and teacher qualification assessment methods shall fit the needs of professional preschool educare services.
+
+### Article 9
+
+The central competent authority shall coordinate professional teacher education programs in colleges and universities as determined by the Teacher Education Act, to hold preschool pre-service teacher education programs.
+
+These programs provide further training opportunities for current preschool principals and educare givers with more than three years of practical experience. Individuals who complete with passing grades from the preschool pre-service teacher education programs described in the preceding paragraph shall receive certification of completion of said program from the professional teacher training programs in colleges and universities as determined by the Teacher Education Act. Those with university diplomas, passed the Teacher Qualification Assessment, and completed their educational internship with passing grades shall receive a Teacher Certificate from the central competent authority. Principals and educare givers who have served at a preschool (including child care centers and kindergartens) for at least three years of the past seven years, exhibit excellent performance, and have passed their teaching demonstration shall be exempt from educational internship.
+
+Individuals who have completed preschool pre-service teacher education programs in accordance with the Teacher Education Act prior to the implementa-tion of this Act, and continue to serve after the implementation of this Act, shall be exempt from educational internship as set out in the preceding Paragraph.
+
+Regarding Paragraph 1 and Paragraph 2, required courses, admissions, exemption from educational internship, and other relevant matters shall be stipulated by the central competent authority.
+
+### Article 10
+
+Educare givers shall meet one of the following requirements:
+
+\1. Completed professional educare courses and received a junior college diploma or higher certification from educare related departments and programs at domestic junior colleges or above approved by the central competent authority.
+
+\2. Obtained diplomas from departments, graduate programs, degree programs, or divisions specializing in early childhood education and care offered by foreign junior colleges or above, and having received certification of completion in professional educare courses from the central competent authority.
+
+In addition to the aforementioned requirements, those who fulfill one of the following requirements shall also be qualified as an educare giver:
+
+\1. Personnel who have obtained the qualifications of educare giver at a child care center prior to December 31, 2011, have continued to serve since January 1, 2012, and whose title has been converted to educare giver.
+
+\2. Regarding individuals who have completed the training program of professional personnel of children and youth welfare and acquired the qualification of educare giver prior to December 31, 2011, or individuals who have completed and graduated from a preschool teacher education program from a junior college or above, or individuals who have completed the training program in accordance with the Regulations for Governing Qualifications and Trainings of Professional Personnel of Children and Youth Welfare Institutes and obtained the certificate prior to December 31, 2011, if said individuals discontinued their service prior to January 1, 2012 and therefore whose title was not converted to educare giver in accordance with the preceding Subparagraph, but have regained employment at educare service institutions and serve as educare givers prior to December 31, 2021, the education service institution of employment may submit rosters of educator personnel qualifications with relevant training certifications to the municipal or county（city）competent authority and apply for their qualification as educare giver.
+
+Regarding the educare related departments and programs at junior colleges or above referred to in Subparagraph 1 of Paragraph 1, the faculty, facilities, admission quota, course requirements, credit transfer, evaluation, accreditation, revoking of accreditation, and other relevant matters shall be prescribed by the central competent authority.
+
+The central competent authority may, through its own undertaking or commission of academic organizations or professional evaluation institutions, conduct regular evaluations of educare related departments and programs. The results of the evaluations shall be made public, and serve as reference for the approval, adjustment in admission quota, or revoking of accreditation of educare related departments and programs. Evaluation items, categories, procedure, appeals, effectiveness, and other relevant matters shall be prescribed by the central competent authority.
+
+Regarding diplomas obtained from foreign junior colleges or above as referred to in Subparagraph 2 of Paragraph 1, the necessary documents, information, accreditation standards, fees, and other relevant matters in the application of certification of completion in professional educare courses shall be prescribed by the central competent authority.
+
+Admission qualification and length of study for students in educare related departments and programs shall be in accordance with the University Act and Junior College Act.
+
+### Article 11
+
+Educare assistants shall, at the minimum, be graduates and have received diplomas from domestic senior high school child care education programs or divisions.
+
+In addition to the aforementioned requirements, those who fulfill one of the following requirements shall also be qualified as an educare assistant:
+
+\1. Personnel who have obtained the qualifications of educare assistant at a child care center prior to December 31, 2011, have continued to serve since January 1, 2012 and whose titles have been converted to preschool educare assistant.
+
+2.Regarding individuals who have completed the training program of professional personnel of children and youth welfare and acquired the qualification of assistant child care giver prior to December 31, 2011, or individuals who have completed the training program in accordance with the Regulations for Governing Qualifications and Trainings of Professional Personnel of Children and Youth Welfare Institutes and obtained the certificate prior to December 31, 2011, if said individuals discontinued their service prior to January 1, 2012 and therefore whose titles were not converted to educare assistant in accordance with the preceding  Subparagraph, but have regained employment at educare service institutions and serve as educare assistants prior to December 31, 2021, the educare service institution of employment may submit rosters of preschool educator personnel qualifications with relevant training certifications to the municipal or county (city) competent authority and apply for their qualification as educare assistant.
+
+The central competent authority shall stipulate standards for recognition of education programs or divisions as described in Paragraph 1.
+
+### Article 12
+
+A preschool educator to whom any of the following situations pertains shall be dismissed, discharged from employment, or have their contract terminated by their educare service institution, and the person never again permitted to be appointed or employed as a preschool educator:
+
+\1. The person has been found guilty of a criminal offense against the internal or external security of the State.
+
+\2. The person has been found guilty of corruption while employed in civil service and convicted with no further right of appeal.
+
+\3. The person has been found guilty of a crime as defined in Paragraph 1, Article 2 of the Sexual Assault Crime Prevention Act and convicted with no further right of appeal.
+
+\4. The municipal or county（city）competent authority has investigated and confirmed that the person has committed a sexual assault.
+
+\5. The municipal or county（city）competent authority has investigated and confirmed that the person has committed sexual harassment or sexual bullying, and that it is necessary for that person to be dismissed, discharged from employment, have their contract terminated, and never again permitted to be appointed or employed as a preschool educator.
+
+\6. The person has been penalized in accordance with the provisions of the Child and Youth Sexual Exploitation Prevention Act, or the provisions of Article 20 or Article 25 of the Sexual Harassment Prevention Act, and the municipal or county（city）competent authority has confirmed that the person has been subject to such punishment, and that it is necessary for that person to be dismissed, discharged from employment, have their contract terminated, and never again permitted to be appointed or employed as a preschool educator.
+
+\7. The person has been penalized in accordance with the provisions of Article 97 of the Protection of Children and Youths Welfare and Rights Act by the competent social welfare authority at each level, and the municipal or county（city）competent authority has confirmed that the person has been subject to such punishment, and that it is necessary for that person to be dismissed, discharged from employment, have their contract terminated, and never again permitted to be appointed or employed as a preschool educator.
+
+\8. The person became aware of an incident that suspected sexual assault has occurred at the educare service institution of employment but did not report the matter in accordance with the provisions of Article 15, thereby leading to a subsequent sexual assault at the institution; or forged, altered, destroyed or concealed evidence of any sexual assault incident committed by any other persons, and any such failure to report or forging, altering, destroying, or concealing of evidence has been investigated and verified by the municipal or county（city）competent authority.
+
+\9. The person has forged, altered, or destroyed evidence of any other persons committing a dangerous offence involving narcotics or hazardous drugs on campus or at the educare service institution, and this has been investigated and verified by the municipal or county（city）competent authority.
+
+\10. The person has inflicted corporal punishment on or bullied one or more students or children, causing severe physical or mental injury, and this has been investigated and verified by the municipal or county（city）competent authority, and that it is necessary for that person to be dismissed, discharged from employment, have their contract terminated, and never again permitted to be appointed or employed as a preschool educator.
+
+\11. The person has acted in violation of any pertinent laws or regulations and constitute a suspected harm to children and youth, and the matter has been investigated and verified by the municipal or county（city）competent authority, and that it is necessary for that person to be dismissed, discharged from employment, have their contract terminated, and never again permitted to be appointed or employed as a preschool educator.
+
+\12. The person is unfit to serve as preschool educator or staff in accordance with the provisions of other laws.
+
+### Article 13
+
+A preschool educator to whom any of the following situations pertains shall be dismissed, discharged from employment, or have their contract terminated by their educare service institution, and the educare service institution shall determine a period of between one to four years, during which that person is not permitted to be appointed or employed as a preschool educator:
+
+\1. The municipal or county（city）competent authority has investigated and confirmed that the person committed sexual harassment or sexual bullying, and that it is necessary for that person to be dismissed, discharged from employment, or have their contract terminated.
+
+\2. The person has been penalized in accordance with the provisions of the Child and Youth Sexual Exploitation Prevention Act, or the provisions of Article 20 or Article 25 of the Sexual Harassment Prevention Act, and the municipal or county（city）competent authority has confirmed this, and that it is necessary for that person to be dismissed, discharged from employment, or have their contract terminated.
+
+\3. The person has been penalized in accordance with the provisions of Article 97 of The Protection of Children and Youths Welfare and Rights Act by the competent social welfare authority at each level, and the municipal or county（city）competent authority has confirmed this, and that it is necessary for that person to be dismissed, discharged from employment, or have their contract terminated.
+
+\4. The person has inflicted corporal punishment on or bullied one or more students or children, causing physical or mental injury, and this has been investigated and verified by the municipal or county（city）competent authority, and that it is necessary for that person to be dismissed, discharged from employment, or have their contract terminated.
+
+\5. The person has acted in violation of any pertinent laws or regulations and constitute a suspected harm to children and youth, and the matter has been investigated and verified by the municipal or county（city）competent authority, and that it is necessary for that person to be dismissed, discharged from employment, or have their contract terminated.
+
+### Article 14
+
+A person to whom any of the following situations pertains is not permitted to be appointed or employed as a preschool educator; if such a person has already been appointed, the educare service institution shall dismiss them, discharge them from employment, or have their contract terminated.
+
+\1. Any situation referred to in Article 12.
+
+\2. Any situation referred to in the preceding Article that occurred during the period of one to four years determined.
+
+\3. Any situation referred to in Article 23 and Subparagraph 1, Paragraph 1 of Article 25 of the Early Childhood Education and Care Act.
+
+\4. Any situation referred to in Article 24 and Subparagraph 2, Paragraph 1 of Article 25 of the Early Childhood Education and Care Act that occurred during the period of one to four years determined.
+
+\5. Any situation referred to in Paragraph 1 of Article 14 and Subparagraph 1, Paragraph 1 of Article 19 of the Teachers’ Act.
+
+\6. Any situation referred to in Paragraph 1 of Article 15 and Subparagraph 2, Paragraph 1 of Article 19 of the Teachers’ Act that occurred during the period of one to four years determined.
+
+\7. Any situation referred to in Paragraph 1 of Article 18 of the Teachers’ Act during the period of suspension of between six months and three years.
+
+\8. Any situation referred to in Subparagraphs 1, Paragraph 1 and front part of Paragraph 3, Article 27-1 of the Gender Equity Education Act.
+
+\9. Any situation referred to in Subparagraph 2, Paragraph 1 and the latter part of Paragraph 3, Article 27-1 of the Gender Equity Education Act that occurred during the period of one to four years determined.
+
+\10. Any situation referred to in Subparagraphs 1 and 2, Paragraph 6, Article 9 of the Supplementary Education Act.
+
+\11. Any situation referred to in Subparagraph 3, Paragraph 6, Article 9 of the Supplementary Education Act that occurred during the period of one to four years determined.
+
+If any of the circumstances in any subparagraph of the preceding paragraph applies, and the matter was reported in accordance with the provisions of Paragraph 4 of Article 16, or the provisions of Paragraph 4, Article 27 of the Early Childhood Education and Care Act, or the provisions of Paragraph 4, Article 20 of the Teachers’ Act, or the provisions of Paragraph 7, Article 27-1 of the Gender Equity Education Act, or the provisions of Paragraph 12, Article 9 of the Supplementary Education Act and the person therefore has a criminal record, the educare service institution is not permitted to appoint or employ that person; if said person has already been appointed or employed, the educare service institution shall dismiss them, discharge them from employment, or have their contract terminated. If the matter was reported through means other than the aforementioned provisions and the person therefore has a criminal record, the educare service institution shall handle the matter in accordance with the provisions of Article 12 or the preceding Article and not appoint or employ that person; if said person has already been appointed or employed, the educare service institution shall dismiss them, discharge them from employment, or have their contract terminated.
+
+### Article 15
+
+When a preschool educator becomes aware in the course of carrying out their work duties that any person has been involved in circumstances referred to in Article 12, Article 13, or Paragraph 1 of the preceding Article of this Act, or Article 23, Article 24, or Paragraph 1 of Article 25 of the Early Childhood Education and Care Act, the preschool educator shall report the case to the municipal or county (city) competent authority in addition to filing any reports required in accordance with any other relevant laws and regulations.
+
+### Article 16
+
+If any of the situations referred to in Article 12, Article 13, or Paragraph 1 of Article 14 pertains to a preschool educator, the municipal or county（city）competent authority and the educare service institution shall undertake related reporting, collection, checks, processing, and use of information in accordance with the regulations governing.
+
+Before appointing or employing any preschool educator, the educare service institution shall check whether any of the circumstances referred to in the provisions of Article 12, Article 13, or Paragraph 1 of Article 14 pertain to the person; educare service institutions shall also conduct checks of the preschool educators already appointed or employed on a regular basis.
+
+When assisting educare service institutions to undertake the checking referred to in the preceding paragraph, the competent authority may use the database of persons who have been subject to an administrative penalty that was compiled by the central competent social welfare authority, in accordance with the provisions of Article 20 of the Sexual Harassment Prevention Act and Article 97 of the Protection of Children and Youths Welfare and Rights Act.
+
+The regulations governing the determination referred to in Article 12, Article 13, and Paragraph 1 of Article 14, and the reporting, collection, checks conducted before and during the term of employment, processing, and use of information referred to in the preceding Article and the three preceding paragraphs, and other related matters shall be prescribed by the central competent authority.
+
+### Article 17
+
+Regarding preschool educators who were dismissed, discharged from employment, or had their contract terminated in accordance with the provisions of Article 12, Article 13, or Paragraph 1 of Article 14, those for whom the Labor Standards Act is applicable and who fulfill the retirement conditions of said Act shall receive their pension in accordance with the law.
+
+For preschool educators to whom the provisions of Article 12, Article 13, or Paragraph 1 of Article 14 pertain, and for whom the provisions of the Teachers’ Act for public preschool educators or relevant laws of civil servants applies, their dismissal or discharge from employment shall be handled in accordance with the law; those who are not dismissed or discharged from employment shall be transferred from their current position.
+
+For preschool educators who are involved in situations referred to in Article 12 or Article 13, during the investigation period the educare service institution shall temporarily suspend their appointment, employment, or contract; if the reason（s）for the temporary suspension of employment ceases to exist and the person is reinstated, any salary that they were not paid during the suspension period shall be paid to the person in arrears in accordance with the provisions of relevant regulations.
+
+For preschool educators in the preceding Paragraph for whom the provisions of the Teachers’ Act for public preschool educators or relevant laws of civil servants applies, when the reason（s）for the temporary suspension of employment ceases to exist and the person is reinstated, their basic salary（and any associated seniority salary）or basic pay（and seniority pay）shall be paid in arrears with the provisions of relevant regulations.
+
+## Chapter 3 Rights and Interests
+
+### Article 18
+
+Regarding principals of public preschools who are current preschool teachers, the regulations regarding salary, retirement, consolation payment, insurance, benefits, and other rights and interests of the Teacher Remuneration Act; Act Governing Retirement, Severance, and Bereavement Compensation for the Teaching and Other Staff Members of Public Schools; Civil Servant and Teacher Insurance Act; and other regulations pertaining to public elementary school principals shall apply mutatis mutandis to public preschool principals.
+
+The central competent authority shall stipulate the regulations regarding salary, retirement, insurance, benefits and other rights and interests of principals of public preschools who are under current contract as educare givers.
+
+### Article 19
+
+Regarding public preschool teachers, the regulations regarding salary, temporary transfer, retirement, consolation payment, insurance, benefits, and other rights and interests of the Teacher Remuneration Act; Regulations for the Selection, Training, Promotion, and Transfer of Elementary and Junior High School Principals and Directors; Act Governing Retirement, Severance, and Bereavement Compensation for the Teaching and Other Staff Members of Public Schools; Civil Servant and Teacher Insurance Act; and other regulations pertaining to public elementary school teachers shall apply mutatis mutandis to public preschool teachers.
+
+### Article 20
+
+For public preschools, the employment of educare givers and educare assistants shall be contracted in accordance with the Labor Standards Act and relevant regulations. The regulations regarding salary and relevant matters shall be stipulated by the central competent authority.
+
+### Article 21
+
+Personnel employed in accordance with the Civil Service Employment Act and Management Guidelines for Employees at public child care centers prior to conversion into public preschools, shall remained employed at the original preschool following conversion; their advanced study, remuneration, insurance, protection, association, retirement, consolation payment, benefits, and matters related to rights and interests shall be in accordance with the original applicable laws and regulations.
+
+The promotion and appointment of the personnel in the preceding Paragraph shall be in accordance with the original applicable organization regulations.
+
+For personnel employed at public kindergartens or public child care centers in accordance with the Regulations on Contracted Employment of the Executive Yuan and Its Subordinate Agencies prior to their conversion into public preschools in accordance with the Early Childhood Education and Care Act, their salary, retirement, benefits, and other matters related to their rights and interests shall be in accordance with the original applicable laws and regulations.
+
+### Article 22
+
+The rights and interests of preschool educators at private educare service institutions shall be in accordance with the Labor Standards Act, Act of Gender Equality in Employment, Labor Insurance Act, Employment Insurance Act, Labor Pension Act, Labor Union Act, Collective Agreement Act, Act for Settlement of Labor-Management Disputes, Act for Worker Protection of Mass Redundancy, and other relevant regulations.
+
+Regarding the salary, advanced study, research, retirement, consolation payment, insurance, and teacher organizations for private preschool educators, the provisions of the Teachers’ Act shall be applicable if they have been applied mutatis mutandis prior to December 31, 2011.
+
+### Article 23
+
+Competent authorities at all levels shall assist preschool educators in establishing professional associations, assist them to develop professional ethics codes, and promote and encourage preschool educators to organize and participate in unions in accordance with the Labor Union Act.
+
+In order to enhance the quality of educare services, educare service institutions shall establish mechanisms to engage preschool educators in decision-making regarding educare services and their own employees’ rights and interests.
+
+### Article 24
+
+Educare service institutions shall inform preschool educators of the following information:
+
+\1. Personnel regulations, and work-related rights and interests.
+
+\2. Evaluation results of preschool educators’ qualifications.
+
+\3. Opportunities for in-service professional development and training.
+
+\4. The rights and interests to participate in preschool educators’ associations.
+
+\5. Labor rights and interests.
+
+## Chapter 4 Administration
+
+### Article 25
+
+Regarding principals of public preschools who are current preschool teachers, the regulations regarding evaluation, dismissal, and other administrative matters in the Act of Governing the Appointment of Educators, Regulations Governing the Evaluation of Principals in Public Schools Below Senior High Level, and other regulations pertaining to public elementary school principals shall apply mutatis mutandis to public preschool principals.
+
+The central competent authority shall stipulate the regulations regarding evaluation, termination, and other administrative matters of principals of public preschools who are under current contract as educare givers.
+
+A part-time or full-time director of an affiliated preschool of a public school shall be appointed by the principal of said public school from the staff of preschool teachers and educare givers.
+
+The self-governance laws and regulations regarding the recruitment, employment, term of employment of full-time principals of public preschools, term for full-time directors of preschools affiliated with public schools, and other administrative matters shall be stipulated by the municipal or county（city）competent authority.
+
+### Article 26
+
+Regarding public preschool teachers, the regulations regarding employment, evaluation, dismissal, termination, suspension, denial of renewed employment, and other administrative matters in the Teachers’ Act, Act of Governing the Appointment of Educators, Regulations Governing the Evaluation of Teachers in Public Schools Below Senior High Level, and other regulations pertaining to public elementary school teachers shall apply mutatis mutandis to public preschool teachers.
+
+### Article 27
+
+For public preschools, the employment of educare givers and educare assistants shall be contracted in accordance with the Labor Standards Act and relevant regulations. The regulations regarding employment procedures, evaluation, and other regulations pertaining to administration shall be stipulated by the central competent authority.
+
+### Article 28
+
+Personnel employed in accordance with the Civil Service Employment Act and Management Guidelines for Employees at public child care centers prior to conversion into public preschools, shall remained employed at the original preschool following conversion; their services, awards and punishments, performance appraisal, training, termination, and other administrative matters shall be in accordance with the original applicable laws and regulations.
+
+For personnel employed at public kindergartens or public child care centers in accordance with the Regulations on Contracted Employment of the Executive Yuan and Its Subordinate Agencies prior to their conversion into public preschools in accordance with the Early Childhood Education and Care Act, their term of employment, work content, standards of performance, and other administrative matters shall be in accordance with the original applicable laws and regulations.
+
+### Article 29
+
+Matters pertaining to the administration of preschool educators in private educare service institutions shall be clearly defined in contract.
+
+Regarding the employment, resignation, and termination of private preschool educators, the provisions of the Teachers’ Act shall be applicable if they have been applied mutatis mutandis prior to December 31, 2011.
+
+### Article 30
+
+Educare service institutions shall establish a system of substitute staff. In the case that a preschool educator, director, or section chief is on leave in accordance with the regulations, is on unpaid leave, or is vacant in such an office due to any other cause, their substitute may carry out duties on his or her behalf. In special circumstances, the substitute is exempt from the qualifications specified for preschool educators in Paragraph 2 of Article 32. The qualifications, salary, and other matters pertaining to the substitute shall be stipulated in Paragraph 2 of Article 18, Article 27, and the Enforcement Rules of this Act.
+
+For substitutes employed in accordance with the preceding Paragraph, their temporary suspension of appointment, employment, or contract during an investigation period and the payment in arrears of their salary if the temporary suspension of employment ceases to exist and the person is reinstated shall be handled in accordance with the provisions of Paragraphs 3 and 4 of Article 17.
+
+### Article 31
+
+Regulations regarding leave applications for public preschool educators shall be stipulated by the central competent authority.
+
+Leave of absence for preschool educators in private educare service institutions shall be in accordance with the Labor Standards Act, Act of Gender Equality in Employment, Regulations of Leave-Taking of Workers, and relevant regulations.
+
+### Article 32
+
+Educare service institutions shall not employ preschool educators through dispatch employment.
+
+Educare service institutions shall employ personnel with educare certificates or credentials, and who do not have any of the situations referred to in Article 12, Article 13, or Paragraph 1 of Article 14, to engage in educare services; personnel without educare certificates or credentials shall not be allowed to work as preschool educators at educare service institutions, unless otherwise stipulated by the Regulations Governing the Implementation of Community or Tribal Cooperative Educare Services or the Regulations Governing the Implementation of Workplace Cooperative Educare Services.
+
+Educare service institutions shall be prohibited from borrowing the educare certificates or credentials of preschool educators not in their employ; preschool educators shall be prohibited from offering or lending their educare certificates or credentials to others.
+
+### Article 33
+
+Preschool educators shall not impose physical and mental mistreatment, corporal punishment, bullying, sexual harassment, improper discipline, or any other acts of physical or mental violence or improper behavior on children.
+
+Preschool educators shall report cases in accordance with Article 15 to the municipal or county（city）competent authority no later than 24 hours.
+
+When the municipal or county（city）competent authority is informed of a possible incident referred to in Article 12, Article 13, Paragraph 1 of Article 14, or Paragraph 1 of this Article involving a preschool educator, it shall within two working days turn over the case to a dedicated committee for investigation and handling. In addition, it shall notify in writing the offender and the legal representative or current care givers of the child involved of its handling conclusion, facts established, and grounds. However, the Teachers’ Act and relevant regulations shall apply to preschool teachers of affiliated preschools of public schools.
+
+The committee referred to in the preceding Paragraph shall be composed of representatives of the competent authority, educare and child welfare associations concerned with child protection, preschool educator associations, associations of other personnel, parent associations, and relevant scholars and experts. Regulations regarding the committee formation, investigation and handling procedures, and other relevant matters shall be stipulated by the central competent authority.
+
+The offender and relevant persons of the educare service institution shall cooperate with the investigation referred to in Paragraph 3.
+
+### Article 34
+
+Preschool educators are required to participate in at least 18 hours of professional educare competence training every year; the regulations of implementation shall be stipulated by the central competent authority.
+
+New preschool educators in educare service institutions shall complete at least 8 hours of basic cardiopulmonary resuscitation training within 2 years before their employment or 3 months upon the start of their employment.  At least 3 hours of classes related to gender equality and labor rights, at least 8 hours of cardiopulmonary resuscitation training, at least 3 hours of courses on safety education, and at least one emergency drill shall be undertaken every two years during their period of employment. The municipal or county (city) competent authority shall conduct training, courses, or drills, on at least a quarterly basis, and educare service institutions shall provide assistance.
+
+The in-service training described in the preceding Paragraph for every two years during the period of employment, with the exception of gender equality classes, may be counted towards professional educare competence training.
+
+### Article 35
+
+Preschool educators shall maintain confidentiality with regard to information pertaining to children. However, information where parental or guardian consent is given or required by other legal provisions shall not be subject to this restriction.
+
+### Article 36
+
+Competent authorities at all levels shall collect, handle, use personal information and establish a database of preschool educators in order to understand and plan for the quota or employment of educare service institution personnel.
+
+### Article 37
+
+The municipal or county（city）competent authority shall grant incentives to preschool educators for outstanding performance. The self-governance laws and regulations regarding incentives, subjects, categories, and methods shall be stipulated by the municipal or county（city）competent authority.
+
+## Chapter 5 Appeals and Dispute Settlement
+
+### Article 38
+
+Public preschool educators’ appeals and dispute settlement shall be in accordance with the following regulations:
+
+\1. In the case of preschool principals:
+
+（1）The Teachers’ Act shall apply to current preschool principals.
+
+（2）The Labor Standards Act, Act for Settlement of Labor-Management Disputes, and Act of Gender Equality in Employment shall apply to preschool principals who are currently contracted as educare givers.
+
+\2. In the case of preschool teachers: The Teachers’ Act shall apply.
+
+\3. In the case of educare givers and educare assistants contracted in accordance with the Labor Standards Act: The Labor Standards Act, Act for Settlement of Labor-Management Disputes, and Act of Gender Equality in Employment shall apply.
+
+\4. In the case of personnel excluding those referred to in the preceding 3 Subparagraphs: The relevant laws and regulations shall apply.
+
+### Article 39
+
+The appeals and dispute settlement of preschool educators in private educare service institutions shall be in accordance with the Labor Standards Act, Act for Settlement of Labor-Management Disputes, and Act of Gender Equality in Employment. However, for kindergarten teachers for whom the relevant regulations of the Teachers’ Act are applied prior to December 31, 2011, the Teachers’ Act shall still apply.
+
+## Chapter 6 Punitive Provisions
+
+### Article 40
+
+Preschool educators who violate the provisions of Paragraph 1, Article 33 and have imposed any of the following acts on children shall be subject to a fine of not less than NT$60,000 and not more than NT$600,000, and the offender’s name and institution of employment shall be made public:
+
+\1. Physical and mental mistreatment.
+
+\2. Corporal punishment, bullying, sexual harassment, improper discipline, or any other acts of physical or mental violence or improper behavior of a serious nature.
+
+### Article 41
+
+For preschools if any of the following situation pertains, the responsible person shall be subject to a fine of not less than NT$60,000 and not more than NT$300,000, the preschool shall be ordered to take corrective actions by a specified date, and failure to take corrective actions by the specified date shall result in consecutive fines per violation. Serious violations or failure to take corrective actions after 3 fines may, depending on the severity of the violation, result in the reduction of number of children enrolled, suspension of enrollment for 6 months to one year, suspension of preschool operations for 1 to 3 years, or revocation of establishment registration:
+
+\1. Violation of Articles 12 to 14 or Paragraph 3 of Article 17 by knowingly employing preschool personnel who are prohibited from serving at educare service institutions and failing to deal with it in accordance with the provisions.
+
+\2. Violation of Paragraph 1 of Article 32 by employing dispatched preschool educators.
+
+\3. Violation of Paragraph 2 of Article 32 by employing personnel without educare certificates or credentials or those with any of the situations stipulated in Article 12, Article 13, and Paragraph 1 of Article 14 to engage in educare services.
+
+\4. Violation of Paragraph 3 of Article 32 by using educare certificates or credentials of preschool educators not employed at said preschool.
+
+### Article 42
+
+For community, tribal, or workplace cooperative educare service institutions if any of the following situation pertains, the responsible person shall be subject to a fine of not less than NT$60,000 and not more than NT$300,000, the institution shall be ordered to take corrective actions by a specified date, and failure to take corrective actions by the specified date shall result in consecutive fines per violation. Serious violations or failure to take corrective actions after 3 fines may, depending on the severity of the violation, result in the reduction of number of children enrolled, suspension of enrollment for 6 months to one year, suspension of operations for 1 to 3 years, or revocation of establishment registration:
+
+\1. Violation of Articles 12 to 14 or Paragraph 3 of Article 17 by knowingly employing preschool personnel who are prohibited from serving at educare service institutions and failing to deal with it in accordance with the provisions.
+
+\2. Violation of Paragraph 1 of Article 32 by employing dispatched preschool educators.
+
+\3. Violation of Paragraph 2 of Article 32 by employing personnel without educare certificates or credentials or those with any of the situations stipulated in Article 12, Article 13, and Paragraph 1 of Article 14 to engage in educare services.
+
+\4. Violation of Paragraph 3 of Article 32 by using educare certificates or credentials of preschool educators not employed at said institution.
+
+### Article 43
+
+If any educare service institution violates Paragraph 2 of Article 16 and fails to conduct checks before appointing or employing any preschool educator, the responsible person shall be subject to a fine of not less than NT$50,000 and not more than NT$250,000, the educare service institution shall be ordered to take corrective actions by the specified date, and failure to take corrective actions by the specified date shall result in consecutive fines per violation. If necessary, the institution may be subject to suspension of enrollment or revocation of establishment registration.
+
+Preschool educators who violate Article 15 by not reporting in accordance with the provisions shall be subject to a fine of not less than NT$30,000 and not more than NT$150,000.
+
+### Article 44
+
+Persons for whom any of the following situation pertains shall be subject to a fine of not less than NT$30,000 and not more than NT$150,000, and may be fined consecutively per violation:
+
+\1. Those that violate Paragraph 2 of Article 32 by engaging in educare services at educare service institutions without credentials.
+
+\2. Those that violate Paragraph 3 of Article 32 by providing or lending educare certificates or credentials of preschool educators for others to use.
+
+### Article 45
+
+Preschool educators who violate Article 35 shall be subject to a fine of not less than NT$30,000 and not more than NT$150,000, and may be fined consecutively per violation.
+
+### Article 46
+
+If any of the following situtation pertain to an educare service institution, the responsible person shall be fined not less than NT$6,000 and not more than NT$60,000, and the educare service institution shall be ordered to take corrective actions by a specified date, and failure to take corrective actions by the specified date shall result in consecutive fines per violation. Serious violations or failure to take corrective actions after 3 fines may, depending on the severity of the violation, result in the reduction of number of children enrolled, suspension of enrollment for 6 months to one year, suspension of preschool operations for 1 to 3 years, or revocation of establishment registration:
+
+\1. Violation of Paragraph 4 of Article 16 regarding the determination by educare service institutions, and the mandatory or prohibitive regulations on reporting, collection, checks conducted before and during the term of employment, processing, and use of information by educare service institutions.
+
+\2. Violation of the latter half of Paragraph 1, Article 51 by using educare givers or substitute teachers in the personnel quota, but do not provide the same remuneration as preschool teachers.
+
+\3. Violation of provisions of Paragraph 1, Article 33 by preschool educators at educare service institutions.
+
+Preschool educators who violate the provisions of Paragraph 1, Article 33 and have imposed on children corporal punishment, bullying, sexual harassment, improper discipline, or other acts of physical or mental violence or improper behavior not of a serious nature, the offender shall be subject to a fine of not less than NT$6,000 and not more than NT$60,000, and the offender’s name and institution of employment shall be made public.
+
+Offenders and relevant persons of the educare service institution who violate Paragraph 5 of Article 33 by not cooperating with the investigation without any reasonable ground shall be subject to a fine of not less than NT$6,000 and not more than NT$60,000, and may be fined consecutively until their cooperation is provided.
+
+### Article 47
+
+If any of the following situtation pertain to an educare service institution, the responsible person shall be fined not less than NT$3,000 and not more than NT$15,000, and the educare service institution shall be ordered to take corrective actions by a specified date, and failure to take corrective actions by the specified date shall result in consecutive fines per violation. Serious violations or failure to take corrective actions after 3 fines may, depending on the severity of the violation, result in the reduction of number of children enrolled, suspension of enrollment for 6 months to one year, suspension of preschool operations for 1 to 3 years, or revocation of establishment registration:
+
+\1. Violation of Paragraph 4 of Article 6 by refusing to issue proof of length of service of educare givers.
+
+\2. Violation of Paragraph 3 of Article 7 by failing to acquire approval of the preschool principal from the municipal or county（city）competent authority.
+
+\3. Violation of Paragraph 2 of Article 23 by failing to establish mechanisms allowing preschool educators to participate in decisions regarding educare services and employee rights and interests.
+
+\4. Violation of Article 24 by failing to provide relevant information to preschool educators.
+
+\5. Violation of Paragraph 1 of Article 30 by failing to establish a system of substitute staff.
+
+### Article 48
+
+Preschool educators for whom any of the following situation pertains hall be ordered to take corrective actions by a specified date and failure to take corrective actions by the specified date shall result in a fine of not less than NT$1,000 and not more than NT$6,000 consecutively per violation:
+
+\1. Violation of Paragraph 1 of Article 34 by failing to participate in at least 18 hours of professional educare competence training every year.
+
+\2. Violation of Paragraph 2 of Article 34 by failing to complete at least 8 hours of basic cardiopulmonary resuscitation training, at least 3 hours each of courses on gender equality, labor rights, and safety education, and at least one emergency drill within the required time period.
+
+Preschool educators for whom one of the Subparagraphs of the preceding Paragraph is true shall not be penalized if the cause is confirmed to be not attributable to the preschool educator.
+
+In the case that the cause in the preceding Paragraph is attributable to the educare service institution, the educare service institution shall be ordered to take corrective actions by a specified date and failure to take corrective actions by the specified date shall result in a fine of not less than NT$1,000 and not more than NT$6,000 consecutively per violation. Serious violations or failure to take corrective actions after 3 fines may, depending on the severity of the violation, result in the reduction of number of children enrolled, suspension of enrollment for 6 months to one year, suspension of preschool operations for 1 to 3 years, or revocation of establishment registration.
+
+### Article 49
+
+Specific terms and dates for corrections and penalties stated in this Act shall be determined by the municipal or county (city) authority; municipal and county (city) competent authorities shall make determinations in accordance with Paragraph 2, Article 18 of the Administrative Penalty Act.
+
+Regarding educare service institutions that violate this Act and are subject to fines, reduction of number of children enrolled, suspension of enrollment, suspension of preschool operations, or revocation of establishment registration by the municipal or county (city) competent authority, the name and responsible persons of said institutions shall be made public by the municipal or county (city) competent authority.
+
+Where an educare service institution is a juridical person and has had their establishment registration revoked by the municipal or county（city）competent authority, said competent authority should notify their court to issue an order to disincorporate.
+
+The publication period of the responsible person, offender, and name of the institution referred to in Article 40, Paragraph 2 of Article 46, and Paragraph 2 of this Article shall be stipulated by the central competent authority.
+
+## Chapter 7 Supplementary Provisions
+
+### Article 50
+
+Substitute teachers of private preschools converted in accordance with the Early Childhood Education and Care Act prior to December 31, 2011 from private kindergartens licensed by or registered with the competent authority, who have been approved by the municipal or county（city）competent authority prior to June 28, 2011 but have not yet obtained educare certificates or credentials, may continue to work at current preschools until July 31, 2025 without the restriction of Paragraph 2 of Article 32.
+
+### Article 51
+
+Educare givers and substitute teachers who have any of the following qualifications and completed and obtained a diploma for pre-service teacher education prior to July 31, 2025, may replace certified preschool teachers and continue preschool education services for classes of children from age 5 and up through just before enrollment in elementary school before obtaining their preschool teacher qualifications; substitute teachers on the personnel quota of private preschools shall receive the same remuneration as preschool teachers:
+
+\1. Those who were employed at a child care center prior to December 31, 2011, converted their position/job title to educare giver since January 1, 2012, and have continued to serve.
+
+\2. Substitute teachers who fulfill the requirements of the preceding Article and obtained the qualifications of educare giver, and have continued to serve since January 1, 2012.
+
+The preschool pre-service teacher education referred to in the preceding Paragraph shall be conducted in accordance with the Teacher Education Act, and may be delivered through distance learning, research projects, or workshops. The competent authority may subsidize credit fees for individuals enrolled in preschool pre-service teacher education in the preceding Subparagraphs on a needs basis. The requirement for subsidy, the amount of subsidy, and other matters shall be stipulated by the central competent authority.
+
+### Article 52
+
+The enforcement rules of the Act shall be stipulated by the central competent authority.
+
+### Article 53
+
+The enforcement date of the Act shall be determined by the Executive Yuan.
+
+## History
+
+1.The enacted Act with all 43 articles was promulgated by the Presidential Decree Hua-Tsung (1) Yi-Tzu No. 10600048431 on April 26, 2017. The Act was set to be effective since March 23, 2018 by the Executive Yuan Order Tai-Jiao-Tzu No. 1070168559 on March 22, 2018.
+
+2.The amended Act with all 53 articles was promulgated by the Presidential Decree Hua-Tsung (1) Yi-Tzu No. 11100053331 on June 29, 2022; the effective date is to be determined by the Executive Yuan.

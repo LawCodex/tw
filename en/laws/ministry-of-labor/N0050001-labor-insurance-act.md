@@ -1,0 +1,981 @@
+---
+title: "Labor Insurance Act"
+title_zh: "勞工保險條例"
+identifier: "N0050001"
+type: act
+law_level: "法律"
+category: "行政＞勞動部＞勞動保險目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1958-07-21
+last_amended: 2026-01-21
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0050001"
+retrieved: 2026-10-12
+---
+
+# Labor Insurance Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-labor/N0050001-labor-insurance-act.md](../../../zh/laws/ministry-of-labor/N0050001-labor-insurance-act.md)) is authoritative.
+
+## CHAPTER 1 GENERAL PRINCIPLES
+
+#### Article 1
+
+This Act is enacted to protect workers' livelihood and promote social security. Matters not provided herein shall be governed by other relevant laws or regulations.
+
+#### Article 2
+
+The types and benefits of Labor insurance coverage are categorized as the following:
+
+\1. Ordinary insurance: There are five different kinds of benefits which are maternity benefits, injury or sickness benefits, permanent disability benefits, old-age benefits and survivors’ benefits.
+
+\2. Occupational accident insurance: There are four kinds of benefits which are injury and sickness benefits, medical-care benefits, permanent disability benefits and survivors’ benefits.
+
+#### Article 3
+
+All labor insurance accounts books and operational receipts，income and expenditure shall be exempt from taxation.
+
+#### Article 4
+
+Competent authorities of Labor insurance include: Ministry of Labor for the central government; the municipal government for the municipality.
+
+## CHAPTER 2 INSURER, INSURED UNITS AND INSURED PERSONS
+
+#### Article 5
+
+The central competent authority shall exercise overall supervision of national labor insurance operations, and shall set up the Bureau of Labor Insurance as the insurer. The Labor Insurance Supervisory Commission shall be set up to supervise labor insurance operations and to settle disputes concerned. The members of this Commission shall be appointed in equal numbers from representatives of relevant government officials, workers, employers, and specialists.
+
+The structure of the Bureau of Labor Insurance and the Labor Insurance Supervisory Commission should be stipulated by another laws.
+
+The Regulations of the Settlement for Labor Insurance Disputes shall be prescribed by the competent central authority after due approval of the Executive Yuan.
+
+#### Article 6
+
+The following workers above 15 full years and below 65 years of age shall all be insured under this program as insured persons, with their employers, or the organizations or institutes to which they belong reckoned as the insured units:
+
+\1. Industrial workers employed by public or private factory, mine, salt field, range, pasturage, forest or tea plantation with more than five employees, as well as workers employed by a communication or transportation enterprise, or by a public utility;
+
+\2. Workers employed by a company or firm with more than five employees;
+
+\3. Employees in a journalistic, cultural, non-profit organization or cooperative enterprise with more than five persons;
+
+\4. Employees of government offices or public or private schools who are not legally entitled to join civil servants' insurance or the insurance of teachers and employees of private schools;
+
+\5. Workers employed in fishing production;
+
+\6. Persons receiving vocational training in vocational training institutes registered with the government;
+
+\7. Members of an occupational union who have no definite employer or who are self-employed; and
+
+\8. Fishermen who belong to Class A of Fishermen's Association and are either self-employed or do not have a definite employer.
+
+Preceding provisions also apply to workers under 15 years of age, provided the character and conditions of whose employment have been recognized by the competent authority as not harmful to the physical and moral health of such persons.
+
+The preceding two provisions apply to employed foreign nationals.
+
+#### Article 7
+
+If after a labor insurance policy has been taken for workers referred to paragraph 1, subparagraphs (1) to (3) inclusive of the preceding Article, the number of workers employed by the insured unit has decreased to four or less, the insured unit shall continue to carry out the labor insurance project for these workers.
+
+#### Article 8
+
+The following persons may apply the provisions of this Act and participate in the labor insurance scheme:
+
+\1. Persons employed in occupations outside of those mentioned in paragraph 1 of article 6;
+
+\2. Persons employed in enterprises which have less than five employees in occupations mentioned in paragraph 1 subparagraphs (1). to (3). inclusive of article 6;
+
+\3. Employers concurrently engaged in laboring services;
+
+\4. Seamen serving in vessels abroad-who are members of Members of National Chinese Seamen's Union or the Master Mariners Association
+
+Persons mentioned in the preceding paragraph who participate in the labor insurance scheme shall not be allowed to suspend the coverage unless they are permitted to do so under of this Act.
+
+Employers mentioned in subparagraph (3) of paragraph l who participate in the labor insurance scheme shall join their employees as the same insured unit.
+
+#### Article 9
+
+An insured person who has any of the following conditions may continue in the insurance coverage:
+
+\1. under military service;
+
+\2. sent abroad for investigation, research, or to provide services;
+
+\3. during injury or sick leave without pay, injured or sick for a period of less than one year, caused by Occupational accident for a period of less than two years as a result of industrial accident;
+
+\4. employees more than 65 years of age who continue to work;
+
+\5. detained or suspended from work on account of a court case, before the decision of the court before the sentence of the court is confirmed.
+
+#### Article 9-1
+
+An insured person who has joined the scheme for a total period of more than 15 years and who has been laid off, may participate in the insurance coverage voluntarily. Under such circumstances, the original insured unit shall take care of ordinary labor insurance procedures until the insured person reaches the age when he is entitled to claim old-age benefit.
+
+Measures concerning the labor insurance procedure and premium of an insured person mentioned in the preceding paragraph shall be promulgated by the competent central authority.
+
+#### Article 10
+
+Each insured units shall handle the insuring procedure and other insurance-related affairs for its employees, and prepare a roll list of the employees or members.
+
+The insured units may consign the organization or labor association to which it is affiliated to handle mentioned in the preceding paragraph insuring procedure and other insurance-related affairs.
+
+To verify the number of the insured unit's employees, working conditions and salary, the insurer may check the roll list of employees or members, attendance and work records as well as account books of salary when necessary.
+
+The insured units shall keep the above-mentioned list, records and books for 5 years commencing from the insured person's dimission, withdrawal from the organization, or completion (cancellation) of training.
+
+#### Article 11
+
+For workers mentioned in article 6, all insured units shall compile a list and notify the insurer on the same day when the insured persons join the enterprise, or the association, start training courses, separate from the enterprise, withdraw from the association, or end the training courses. The beginning or the ending of such insurance coverage shall start from the day on which the lists were sent out by the insured unit. In case the insured unit fails to send out the list on the same day when the insured persons report for work, join the association, or begin training courses, the day following the day on which such a list is actually sent out to the insurer shall be counted as the day on which the coverage takes effect. In such a case. the insured units shall be fined according to the provisions of article 72 of this Act.
+
+#### Article 12
+
+In case an insured person rejoins the labor insurance scheme after separation from the coverage, his accumulated years of insurance coverage shall be recognized.
+
+The insured person retired after December 9, 1999, and had suspended over 2 years before 21 February, 1979, or suspended over 6 years before 5 February, 1988, his accumulated years of insurance coverage shall be recognized.
+
+The insured person had received old-age benefits, should claim the shortage payment according to the proceeding paragraph in two years after last amended on December 19, 2001.
+
+## CHAPTER 3 INSURANCE PREMIUM
+
+#### Article 13
+
+The insurance premium of labor insurance is calculated using the insured person's monthly insurance salary and insurance premium rate.
+
+The ordinary insurance premium rate is 7.5% ~13% of the insured person's monthly insurance salary; the insurance premium rate was 7.5% when the amendments of this Act was promulgated and enforced on July 17, 2008, three years after the new regulation is enforced, the premium rate will be increased by 0.5%. Since then, 0.5% will be added to the insurance premium rate every year until the rate reaches 10%. From the year when the insurance premium rate reaches 10%, the rate will then be increased by 0.5% every two years until the rate reaches the upper limit of 13%. However, when the balance of the insurance fund is enough to pay the benefits for the next twenty years, the insurance premium rate will not be increased.
+
+The occupational accident insurance premium rate is divided into two types which are Business Category Accident Premium and On and Off Duty Accident Premium. The occupational accident insurance rate will be prescribed by competent central authority, reported to the Executive Yuan for review and approval, and sent to the Legislative Yuan for reference; and shall be adjusted once every three years.
+
+For the insured units that employ a certain number of employees, the Business Category Accident Premium rate in the former paragraph will use Experience rate schedule which is calculated and adjusted annually by the insurer using the percentage of the total amount of occupational accident insurance benefit paid in the former three years to the total payable amount of occupational accident insurance premium payable according to the following regulations:
+
+\1. For those exceed 80% of the total payable amount of occupational accident insurance premium payable, 5% of the applicable business category of occupational accident insurance premium rate will be additionally charged for every 10% increase until the premium rate reaches the 40% upper limit.
+
+\2. For those lower than 70% of the total payable amount of occupational accident insurance premium payable, 5% of the applicable business category of occupational accident insurance premium rate will be deducted for every 10% decrease.
+
+The Experience Rate regulations shall be prescribed by the competent central authority.
+
+The insurer shall separately handle the accounting of occupational accident insurance.
+
+#### Article 14
+
+The term "monthly insurance salary" referred to in the preceding article shall mean the salary reported by an insured unit pursuant to the "Table of Grades of Insurance Salary" and on the basis of the insured person's total monthly salary. In case an insured person's wage is calculated on piecework basis, the monthly insurance salary shall be pro rata to that of a worker of the same grade in the Table reported by the insured unit. The monthly insurance salaries of workers referred to in paragraph 1 subparagraph (7) or (8) of article 6 or paragraph 1 subparagraph (4) of article 8 shall be assessed by the insurer pursuant to the Table subject to the approval of the competent central authority.
+
+In case the reassessment of an insured person's monthly insurance wage was made between February to July of the current year, the insured unit shall notify the insurer of the same before the end of August of the current year, in case the reassessment was made between August of the current year to January of the following year, notification shall be made by the insured unit to the insurer before the end of February of the following year. The reassessed monthly insurance salary shall be effective on the first day of the month following the notification.
+
+The "Table of Grades of Insurance Salary" referred to in paragraph 1 of this article shall be prescribed by the competent central authority subject to the approval of the Executive Yuan.
+
+#### Article 14-1
+
+Where the insured person's insurance salary declared by the insured unit is not true, the insurer may notify the insured unit about the directly adjustment according to the insurance salary of an equivalent grade of the same occupation. In case the insurance salary after being adjusted is not in conformity with the actual salary, the latter shall apply.
+
+The insurance salary directly adjusted under the above paragraph shall take effect on the first day of the next month after adjustment is made.
+
+#### Article 14-2
+
+In case of additional insurance under Subparagraph 3, Paragraph 1, article 8, whose income is lower than the top grade of the "Table of Grades of Insurance Salary", the insured unit may quote and declare the insurance salary by itself. But the declared salary may not be lower than that of the grade applicable for the highest insurance salary as declared by the affiliated employees.
+
+#### Article 15
+
+Labor insurance premiums shall be calculated and paid in accordance with the following measures:
+
+\1. If an insured person is referred to in paragraph 1, subparagraphs (1) to (6) inclusive, of Article 6 or paragraph 1, subparagraphs (1) to (3) inclusive of Article 8, twenty percent of the premium on ordinary insurance shall be paid by the insured person, seventy percent by his employer, and the remaining ten percent shall be subsidized by the central government. The premium of occupational accident insurance shall be paid entirely by the insured unit.2.
+
+\2. If an insured person is a worker referred to in paragraph 1, subparagraph (7) of Article 6, sixty percent of ordinary and occupational accident insurance premiums shall be paid by the insured person, and the remaining forty percent shall be subsidized by the central government.
+
+\3. If an insured person is referred to in paragraph 1, subparagraph (8) of Article 6, twenty percent of ordinary and occupational accident insurance premium shall be paid by the insured person, and the remaining eighty shall be subsidized by the central government.
+
+\4. If an insured person is referred to in paragraph 1, subparagraph 4 of Article 8, eighty percent of ordinary and occupational accident insurance premiums shall be paid by the insured person, and the remaining twenty percent shall be subsidized by the central government.
+
+\5. If an insured person is referred to in Article 9-1, eighty percent of the insurance premium shall be paid by the insured person, and the remaining twenty percent shall be subsidized by the central government.
+
+#### Article 16
+
+The labor insurance premiums shall be paid monthly according to the following regulations:
+
+\1. For an insured person on referred to in paragraph 1, subparagraphs (1) to (6) of article 6, or paragraph 1, subparagraphs (1) to (3) inclusive of article 8, the portion of the premium to be borne by him shall be deducted by the insured unit which shall be paid together with the employer's portion to the insurer before the end of the following month.
+
+\2. For an insured person referred to in paragraph 1, subparagraphs (7) or (8) of article 6, or paragraph 1, subparagraph 4 of article 8, the portion of the premium to be borne by him shall be paid by month in the current month to the insured unit to which he belongs, and the insured unit shall forward the accumulated premiums to the insurer before the end of the following month.
+
+\3. For an insured person referred to in article 9-1, the premium due shall be paid by him by month to the insured unit or labor organization to which he belongs, and the insured unit or labor organization concerned shall forward the accumulated premiums to the insurer before the end of the following month.
+
+All labor insurance premiums paid to the insurer shall not be refundable except for the reasons which are neither attributable to the insured unit, nor to the insured person.
+
+#### Article 17
+
+In case an insured unit has not paid the premiums due before the date indicated in paragraph 1 of the preceding Article, they may be paid within a fifteen-day grace period. In case the premiums remain unpaid to the insurer within the grace period, an additional overdue penalty at the rate of 0.1 percent shall be paid for each day beginning from the expiration day of the grace period to one day before the premiums are paid in full, provided that the overdue penalty shall not be more than 20% the amount of the premiums.
+
+In case the premiums have not been paid fifteen days after the penalty is due, the insurer shall take legal action for the premiums and penalties payable. In case the insured unit has no property to be attached or has property that is not sufficient to pay the debt, the chief executive officer or responsible pen on shall be liable to pay compensation if deemed responsible for the default.
+
+The insurer temporarily suspends benefit payments to an insured person from the day legal action is taken to the day when the premiums and penalties are not paid in full, except when the portion of the premium payable by the insured person on has already been deducted or paid to the insured unit.
+
+For an insured person on referred to in paragraph 1 subparagraphs (7) or (8) of article 6, and paragraph I subparagraph (4) of article 8, the premiums payable under article 15 shall be paid to the insured unit periodically. In case it has not been paid after the fifteen-day grace period, the insured unit may charge penalties according to paragraph l and forward the total amount to the insurer. In case it has not been paid fifteen days after the penalties have been charged, benefit payments shall be suspended temporarily.
+
+In case an insured person on referred to in article 9-1 has not paid insurance premiums for more than two months, it is considered that he has been withdrawn from insurance. All benefit payments received by him during the period when he owes premium contributions shall be recovered legally.
+
+#### Article 17-1
+
+Premiums and overdue penalties of Labor Insurance take precedence over general claims.
+
+#### Article 18
+
+In case an insured person temporarily loses his salary because of an injury for which he receives injury or sickness benefits or hospital care benefits, he may be exempted from paying his portion of the premiums so long as his salary is suspended or loss of income.
+
+The period during which an insured person is exempted from paying his portion of the insurance premiums referred to in the preceding paragraph shall be included in calculating his coverage period.
+
+## CHAPTER 4 INSURANCE BENEFITS
+
+### Section 1 General Provisions
+
+#### Article 19
+
+Upon the occurrence of a contingency covered by the insurance after the beginning and before the end of the effective period of the insurance, an insured person or his beneficiary may claim insurance benefit payments pursuant to the provisions of this Act.
+
+Insurance benefits payable in cash shall be computed on the basis of the insured's average monthly insurance salary and benefit standard. If the insured is employed by more than two insured units at the same time, the monthly insurance salary could be combined for computing his/her ordinary insurance benefit, however, the combined monthly insurance salary shall not exceed the highest level in the "Table of Grades of Insurance Salary for Labor Insurance". Provided that the insurance salary shall not be combined, when the insured person continuously joins the insurance coverage in less than 30 days.
+
+The calculating method for the average insurance salary in the former paragraph is as following:
+
+\1. The average monthly insurance salary for Pension benefit and a lump sum old-age benefit: It is calculated by averaging the highest sixty monthly insurance salary during the period of joining insurance coverage; for those who joining the insurance coverage for less than five years, it would be calculated using the average monthly insurance salary for the actual insurance period. But for those who choose to claim a lump sum old-age benefit according to paragraph 2 of article 58, it is calculated by averaging the actual monthly insurance salary of the previous three years prior to the month the insured terminates the insurance; for those who has joined the insurance for less than 3 years, it is calculated using the average monthly insurance salary for the actual insurance period.
+
+\2. The average monthly insurance salary for other benefit payable in cash: It is computed on the basis of average monthly insurance salary for the last six months prior to the month in which the insured contingency occurs; In case an insured person is paid on a daily-salary basis, his/her insurance benefits shall be determined by dividing his/her average monthly insurance salary by thirty.
+
+For the calculation of insurance benefit standard I paragraph 2, if the insured who has joined the insurance for less than one year, it is calculated proportionally using the actual number of months for joining the insurance coverage; for less than 30 days, it is calculated as one month.
+
+In case an insured person is a full-time fisherman, aviation or navigation worker, or a mine-worker, and is declared missing as a result of an accident which occurred in the course of fishing, aviation, navigation, or mining as the case may be, in addition to the insurance benefit claims under this Act, a special missing allowance equivalent to seventy percent (70%) of his average monthly insurance salary shall be payable at the end of every three-month period from the day the insured person is declared missing in the census registry until the day prior to (1) his return alive, (2) the expiration of one year after he was declared missing, or (3) he is declared dead by law, whichever happens first.
+
+In case an insured person has been missing for one year or has been declared dead by law, a claim for death benefit may be made in pursuance to the provisions of article 64.
+
+#### Article 20
+
+For within one year after an insurance scheme has been terminated, an insured person shall remain entitled to injury or sickness benefits, permanent disability benefits, death benefit or occupational accident medical care benefits for an injury or sickness and the disease it causes occurred during the period of his insurance coverage.
+
+For within one year after an insurance scheme has been terminated, an insured person who is pregnant during the period of her insurance scheme, and conforms to the provisions of coverage days stipulated in the 1st or 2nd subparagraph of the 1 st paragraph of Article 31 of the Act, shall be entitled to maternity benefits for childbirth or premature due to the pregnancy.
+
+#### Article 20-1
+
+Where it is confirmed after an insured person terminates the insurance scheme that he/she got a kind of occupational disease during the valid period of the insurance, he/she may claim the occupational permanent disability benefits.
+
+The regulations of the objects of the above-mentioned payment, kinds of occupational diseases, determination procedure, calculation of the amount payable and other related affairs shall be prescribed by the competent central authority.
+
+#### Article 21
+
+（Deleted）
+
+#### Article 21-1
+
+（Deleted）
+
+#### Article 22
+
+No insurance benefits may be claimed repeatedly for the same contingency.
+
+#### Article 23
+
+An insured person, his beneficiary, or any other interested person shall be entitled to no insurance benefits other than funeral grant for a covered contingency incurred intentionally for the purpose of receiving insurance benefits.
+
+#### Article 24
+
+In case an insured unit intentionally files an application for person ineligible under the provisions of this Act to participate in the insurance scheme, to receive insurance benefits, the insurer shall take legal action to recover the paid insurance benefits；but also to nullify his qualifications.
+
+#### Article 25
+
+The insurer shall not be responsible for paying insurance benefits either to an insured person who refuses without adequate reason to submit to examination by a specially contracted hospital or clinic, or who refuses to submit, upon request, any required documents, or the beneficiary of an insured person refuses to submit required documents.
+
+#### Article 26
+
+No insurance benefits shall be payable for a contingency incurred by war or civil commotion, or by an intentional criminal act committed by the insured person, his father, mother, son, daughter, or spouse.
+
+#### Article 27
+
+An adopted son or daughter shall not be entitled to receive insurance benefits in case the adoption registration has been less than six months at the time when the contingency occurs.
+
+#### Article 28
+
+Where deemed necessary for the insurer to audit insurance benefit or for the Labor Insurance Supervisory Commission to settle disputed cases, the insurer or the Commission may request the insured person, beneficiary, insured unit, hospital, clinic, or the physicians or midwifes who hold the certified license, to submit a report, or check the patient data, salary account books, examination and chemical test records or diagnosis radiographs (Ｘ-ray photos) as well as other related documents, and the insured person, beneficiary, insured unit, hospital, clinic, or the physicians or midwifes may not deny such request or check.
+
+#### Article 29
+
+The rights of an insured person, the beneficiary or person who pays for funeral expenses to all kinds of insurance benefits may not be assigned, offset, attached or mortgaged.
+
+A person claiming insurance benefits per stipulations provided by this Act, or applying for a loan under Subparagraph 4, Paragraph 1 of Article 67, may present the proof of documentation issued by the insurer to open a designated account at a financial institution exclusively for depositing the insurance benefits or the principal of the loan.
+
+The deposit held in the above designated account may not be used as the instrument for offsetting, seizure, or as guarantee or court seizure.
+
+In the event the insured person had received insurance benefits that were revoked or abolished by the insurer and did not repay the amount, the insurer may have the amount deducted from insurance benefits claimed by the insured person or his/her beneficiary.
+
+An insured person who has not repaid interest on a loan referred to Subparagraph 4, Paragraph 1 of Article 67 shall have the amount deducted from insurance benefits claimed by the insured person or his/her beneficiary.
+
+Insurance premiums and overdue penalty under this insurance, as well as the unpaid interest on the loan referred to in the preceding paragraph, shall not be subject to the following provisions; the foregoing with respect to the unpaid interest on the loan shall apply retroactively from January 22, 2003:
+
+I. Regulations on debt exemption in relation to company reorganization under the Company Act.
+
+II. Regulations on debt exemption stipulated in the Consumer Debt Clearance Act.
+
+III. Regulations on debt exemption stipulated in the Bankruptcy Act.
+
+IV. Regulations on extinguishment of time limitation for claims in accordance with relevant laws.
+
+The measures governing the type, method and amount of relevant deductibles on the insurance payout related to Paragraph 4 and Paragraph 5 shall be defined by central competent authorities.
+
+The insurer shall send written notices with the amount owed each year to an insured person or his/her beneficiary who has not repaid principal and interest on a loan referred to Subparagraph 4, Paragraph 1 of Article 67, and request that the person complete repayment in accordance with regulations.
+
+Before the enforcement of the amendments for this Act on December 30, 2025, where there exists any fact of unpaid insurance premiums and overdue penalty, Paragraph 6 shall apply, and the insurer shall temporarily suspend benefit payments to an insured person according to Paragraph 3 or Paragraph 4 of Article 17; after the amounts have been paid in full, the insurer shall disburse the benefits in accordance with the relevant provisions.
+
+#### Article 29-1
+
+Insurance benefits to be disbursed in cash as prescribed in the Act shall be paid within 15 days after the insurer approved the payment; pension benefits shall be paid before the end of the following month. If overdue payment is attributable to the insurer, an interest shall be added to the benefits for the period delayed.
+
+#### Article 30
+
+A claim for insurance benefits is extinguished by prescription if it is not exercised within five years from the day on which the benefits become payable.
+
+### Section 2 Maternity Benefits
+
+#### Article 31
+
+In case an insured person has one of the following conditions, she may claim to receive maternity benefits:
+
+1.childbirth occurring more than 280 days after her insurance coverage;
+
+2.premature birth occurring more than 181 days after her insurance coverage; or
+
+3.miscarriage occurring more than 84 days after her insurance coverage.
+
+In case of childbirth, premature birth, or miscarriage of the spouse of an insured person, claims may be made pursuant to the provisions of the preceding paragraph.
+
+#### Article 32
+
+Maternity benefits are payable according to the following provisions:
+
+\1. In case of childbirth or premature labor of an insured person, or the spouse of an insured person, a lump sum payment of delivery expenses shall be made equivalent to 30 days' salaries computed on the basis of the average monthly insurance salary of the insured person, in case of miscarriage, the payment shall be reduced by fifty percent.
+
+\2. In case of childbirth or premature birth of an insured person, she shall receive, in addition to delivery expenses, a lump sum maternity benefit equivalent to 60 days' salaries computed on the basis of her average monthly insurance salary.
+
+\3. In case of a plural birth resulting from childbirth or premature birth, delivery expenses and maternity benefit shall be increased proportionately.
+
+In case of dystocia when the insured person has already claimed hospitalization benefits, delivery expenses shall no longer be payable.
+
+For those insured persons who are also eligible for maternity benefits under related social insurance scheme, or for military, civil and educational personnel who also qualify for national maternity allowances, they have to choose one type of maternity benefits or allowances only. However, those covered by the farmers’ health insurance are not limited by this rule.
+
+### Section 3 Injury or Sickness Benefits
+
+#### Article 33
+
+In case an insured person is not receiving salary payment on account of an ordinary injury or sickness for which he is hospitalized and under medical treatment, he shall be paid ordinary injury or sickness benefits beginning from the fourth day on which he is incapacitated for work.
+
+#### Article 34
+
+In case an insured person is not receiving salary payment on account of occupational injury or disease incurred on duty for which he is receiving medical treatment, he shall be paid occupational injury or disease compensation beginning from the fourth day on which he is incapacitated for work. The List of Occupational Diseases is attached hereto as Exhibit 1.
+
+The Regulations for examining injury or sickness incurred on duty shall be prescribed by the competent central authority.
+
+#### Article 35
+
+Ordinary injury or sickness benefits shall be payable at the rate of fifty percent of the average monthly insurance salary of an insured person, and payable once every half month for the maximum period of six months, provided that such benefits shall be payable for an additional six months in case the insured person has at least one year of insurance coverage prior to the occurrence of the injury or sickness.
+
+#### Article 36
+
+Occupational injury or disease compensation shall be payable at the rate of seventy percent of the average monthly insurance salary of an insured person, and payable every half month for the maximum period of six months. In case the insured person has not recovered from the injury or disease after one year, the compensation shall be reduced to fifty percent of the average monthly insurance salary for the maximum period of one year.
+
+#### Article 37
+
+In case an insured person has received all payments of such insurance benefits provided in the preceding two Articles during the period of injury or sickness, and continues to participate in the insurance scheme after recovery, he shall be entitled to claim injury or sickness benefits according to the regulations.
+
+#### Article 38
+
+（Deleted）
+
+### Section 4 Medical Care Benefits
+
+#### Article 39
+
+Medical care benefits consist of outpatient medical care benefits and inpatient hospitalization benefits.
+
+#### Article 39-1
+
+With a view to protecting the health of the insured persons, the insurer shall set up regulations to prevent the occurrence of occupational diseases.
+
+The regulations referred to in the preceding paragraph shall be presented to the competent central authority for approval.
+
+#### Article 40
+
+An insured person who has been injured or sick may apply for medical care by a hospital or clinic operated or specially contracted by the insurer.
+
+#### Article 41
+
+The sphere of outpatient medical care benefits consists of the following:
+
+\1. Diagnostic services (including laboratory examination and medical consultation);
+
+\2. Pharmaceutical services and the supply of therapeutic materials; and
+
+\3. Treatment, operation or medical care.
+
+Ten percent of the preceding expenses shall be paid by the insured person, provided that they do not exceed the maximum amount provided by the competent central authority.
+
+#### Article 42
+
+In case the diagnosis given by the hospital or clinic operated or specially contracted by the insurer decides that the insured person who conforms to one of the following conditions shall be hospitalized, his insured unit shall make such an application for him, except when an insured person is already hospitalized on account of emergent injury or sickness:
+
+\1. Where an occupational injury has been sustained;
+
+\2. Where an occupational disease has been afflicted;
+
+\3. Where an ordinary injury has been inflicted; or
+
+\4. Where the insured person has accumulated insurance coverage for more than 45 days before he applies for hospitalization treatment on account of an ordinary sickness.
+
+#### Article 42-1
+
+Where the insured person gets an occupational injury or disease, the insured unit shall fill in an outpatient clinic note of injury and disease or a letter of application for hospitalization (hereinafter referred to as "the Letter for Occupational Injury and Disease") to apply for diagnosis and treatment; in case the insured unit doesn't produce the outpatient clinic note or letter, the insured person may request the insurer to issue, and the insurer shall grant the note or letter after the case is confirmed.
+
+Where the insured person has not the above-mentioned outpatient clinic note or Application Letter for Occupational Disease and is diagnosed to have got an occupational disease, the doctor may produce an outpatient clinic note of occupational disease. The acquisition and loss of the qualification to produce such note as well as the application and use of the clinic note shall be prescribed out by the insurer, and reported to the competent central authority for approval and issue.
+
+#### Article 43
+
+Hospitalization care benefits shall include the following:
+
+\1. Diagnostic services (including laboratory examination and medical consultation);
+
+\2. Pharmaceutical services and the supply of therapeutic materials;
+
+\3. Treatment, operation or medical care;
+
+\4. Fifty percent of food expenses within 30 days; and
+
+\5. Hospital bed belonging to the same category as the Government Employees' Insurance Scheme.
+
+The insured person shall be responsible to pay for five percent of the expenses referred to in subparagraphs (1) to (3) inclusive and subparagraph (5) of the preceding paragraph, provided that they do not exceed the maximum amount provided by the competent central authority.
+
+In case an insured person personally wishes to stay in a hospital bedroom of a higher category, he shall be responsible to pay for such additional expenses, besides the expenses referred to in the preceding paragraph.
+
+The enforcement day and regulations of paragraph two of this article and paragraph two of article 41 shall be decided after they have been approved by the Legislative Yuan.
+
+#### Article 44
+
+Medical care benefits shall not include legally declared epidemics, leprosy, narcotic addictions, birth deliveries, miscarriages, plastic surgery, artificial teeth, artificial eyes, eyeglasses or their accessories, patient transportation, special nurses, blood transfusions, registration fees, charges for documents, treatments for which facilities are not available at the hospital or clinic, or items which are not referred to in Articles 41 or 43, except in the case of blood transfusion in the emergency treatment of an insured person deemed by the hospital operated or specially contracted by the insurer to be strictly necessary.
+
+#### Article 45
+
+In case an insured person has been receiving inpatient hospitalization care for an injury or sickness for more than one month, the hospital concerned shall file an application for further hospitalization of the insured person once every month.
+
+In case an insured person receiving inpatient hospitalization care in a hospital operated or specially contracted by the insurer is recommended after diagnosis to leave the hospital for convalescence.
+
+#### Article 46
+
+An insured person shall have the option to receive medical care at any hospital or clinic operated or specially contracted by the insurer, unless otherwise specially provided.
+
+#### Article 47
+
+（Deleted）
+
+#### Article 48
+
+An insured person who has received medical care benefits during an effective coverage period shall remain entitled to insurance benefits of other categories.
+
+#### Article 49
+
+All medical expenses incurred by an insured person shall be payable by the insurer directly to the hospital or clinic operated or specially contracted by the insurer, and shall not be payable to an insured person in cash.
+
+#### Article 50
+
+All public hospitals or clinics located in an area in which this Act is applicable shall be recognized as hospitals or clinics specially contracted by the insurer for medical treatment under the labor insurance scheme, provided they are above the required standards. Hospitals or clinics operated by an insured unit or a private agency may apply to the insurer to become specially contracted for medical treatment of insured persons under the labor insurance scheme, provided they are above the required standards.
+
+Regulations for the special contracting with and operation of hospitals or clinics specially contracted by the insurer for the labor insurance scheme referred to in the preceding paragraph shall be prescribed by the competent central authority in consultation with the competent central health authority.
+
+#### Article 51
+
+A specially contracted hospital or clinic offering out-patient or inpatient hospitalization services shall charge an insured person for medical expenses due in accordance with the Schedule for the Payment of Medical Expenses in Labor Insurance, and the Schedule of usable Medicines and Their Prices.
+
+The Schedule for the Payment of Medical Expenses in Labor Insurance, and the Schedule of Usable Medicines and Their Prices referred to in the preceding paragraph shall be prescribed by the competent central authority.
+
+The medical expenses referred to in preceding paragraph 1 shall be subject to review by a screening committee consisting of various categories of doctors and pharmacists appointed by the insurer. The regulations concerning such a review shall be prescribed by the competent central authority.
+
+#### Article 52
+
+In case an application for outpatient or inpatient hospitalization services filed by an insured unit is deemed not to have conformed with the provisions governing insurance benefits, medical care benefits, or hospitalization care benefits, or in case of misrepresentations in the application forms, or in case the application forms are given to noninsured persons for use, the insured unit shall be responsible for paying all the medical expenses incurred.
+
+In case the medical care given by a specially contracted hospital or clinic does not within the table of medical care benefits, the medical expenses so incurred shall be borne by the hospital or clinic or by the insured person himself.
+
+### Section 5 Permanent Disability Benefits
+
+#### Article 53
+
+In case an insured person suffers from ordinary injury or sickness and the person's symptom is stable after medical treatment but no improvement could be expected for further treatment, and if the person is diagnosed to be permanently disabled by the hospital operated or specially contracted by the insurer and the permanent disability comply with the permanent disability benefit standard regulation, the insured person could claim permanent disability benefit according to his/her average month insurance salary and stipulated benefit payment standard.
+
+If the insured person has the situation as described in previous paragraph or the insured person is physically or mentally disabled as stipulated in People with Disabilities Rights Protection Act, and is examined as no capability to work permanently, the insured person could claim for disability pension benefit. The disability benefit standard is calculated based on the insured's insurance coverage years. 1.55% of the insured's average monthly insurance salary is granted for every single insurance coverage year; if the total amount is less than four thousand NT dollars, four thousand NT dollars will be granted to the insured person.
+
+For the insured person as stipulated in previous two paragraphs and has insurance coverage year in National Pension, the pension benefit could be assessed separately according to different insurance regulations and issued by the insurer jointly and the fund needed is supplied by individual insurance.
+
+If a person has insurance coverage year before the enforcement of the amendments of this Act on July 17, 2008 and his/her condition complies with the regulations in second paragraph, other than claiming for pension according the regulations in previous two paragraphs, the insured person could also choose to claim for a lump sum disability benefit, however, if such claim has been made and the benefit paid by the insurer, it could not be changed.
+
+#### Article 54
+
+In case an insured person suffers from occupational injury or disease and the person's symptom is stable after medical treatment but no improvement could be expected for further treatment, and if the person is diagnosed to be permanently disabled by the hospital operated or specially contracted by the insurer and the permanent disability is qualified to claim a lump sum permanent disability benefit standard regulation, the insured person could claim permanent disability compensation according to his/her average month insurance salary and stipulated benefit payment standard with 50% extra benefit.
+
+If the insured person in previous paragraph is examined as no capability to work permanently and has claimed for permanent disability pension benefit, other than granting the pension according to the regulation in article 53, an extra twenty month occupational injury or disease disability compensation based on the insured's average monthly insurance salary should also be issued.
+
+#### Article 54-1
+
+The central competent authority shall stipulate the type, status and severity of the disabilities described in the two preceding articles, the corresponding benefit amounts, the level of medical institutions to issue the diagnoses, and the reviewing criteria.
+
+The central competent authority shall establish the standards of individual work capacity evaluation to be conducted by specialists to serve as the basis for permanent disability pension payment.
+
+The mechanism for individual work capacity evaluation by specialists described in the preceding paragraph shall take effect five years after promulgation of the amendment made to the Act on Jul. 17, 2008.
+
+#### Article 54-2
+
+For those who claim for permanent disability pension benefit and have family dependants who comply with the following criteria, an extra 25% family dependant allowance on the amount calculated using the regulation in article 53 should be issued for every dependant with the maximum of 50% extra:
+
+\1. The spouse should be more than 55 years of age and the conjugal relationship has existed for more than one year. However, the above regulation does not apply if any following condition exists:
+
+（1）incapable of earning a livelihood.
+
+（2）raising children as stipulated on subparagraph 3.
+
+\2. The spouse should be more than 45 years of age and the conjugal relationship has existed for more than one year and the spouse's monthly work income does not exceed the stipulated amount in the first level of Table of Grades of Insurance Salary.
+
+\3. The dependent children should comply with at least one of following criteria. As for adopted children, the adoption relation should have been existed for more than six months:
+
+（1）minority;
+
+（2）incapable of earning a livelihood;
+
+（3）under the age of 25 and still goes to school with monthly work salary does not exceed the stipulated amount in the first level of Table of Grades of Insurance Salary.
+
+The definitions of the incapable of earning a livelihood as stipulated in the previous paragraph will be stipulated by the competent central authority.
+
+The extra family dependant allowance will be terminated if the family dependent stipulated in paragraph one has the following condition:
+
+\1. Spouse:
+
+（1）Remarried
+
+（2）less than 55 years of age and the children he/she supports does not conform with the regulation in the third subparagraph of first paragraph in this Article.
+
+（3）doesn't conform with the claiming regulation defined in the second subparagraph of first paragraph in this Article.
+
+\2. The dependent children don't conform to the claiming regulation defined in the third subparagraph of first paragraph in this Article.
+
+\3. Currently serving sentences in a prison, or, being detained or imprisoned because of criminal cases.
+
+\4. Disappearance
+
+The imprisonment described in the third subparagraph of previous paragraph means personal freedom was deprived of or limited to due to the execution of sentences of detention, custody, observatory rehabilitation, compulsory rehabilitation, rehabilitative measures or correctional measures in specific locations. But people under the execution of protective correction, wanted but not yet arrested, medication after being bailed out, or currently under parole are not included.
+
+#### Article 55
+
+In case an insured person was originally partially-disabled and a new injury or sickness not only has aggravated his/her disability on the same part or caused disability to another part of his/her body, the insurer should grant balance disability benefit according to permanent disability benefit payment standard and the degree of disability is aggravated. However, the total could not exceed the first degree of the benefit standard.
+
+If the insured person in previous paragraph conforms with criteria for granting the permanent disability pension and has claimed permanent disability pension, insurer should issue 80% of the permanent disability pension amount to the insured every month until 50% of the amount of a lump sum permanent disability benefit calculated based on the original partial disability is completely deducted.
+
+For the insured person in previous two paragraphs who are partially disabled while the insurance is still effective but has not claimed permanent disability benefit, the insurer should issue permanent disability benefit according to the permanent disability benefit standards and the degree of disability after the disability is aggravated. However, the total should not exceed the first degree of the benefit standard.
+
+#### Article 56
+
+If, in reviewing a claim for permanent disability benefits, the insurer deems it is necessary to conduct a re-examination, another hospital or doctor may be appointed for the re-examination and the fee for the re-examination is the obligation of insurance fund.
+
+After the insured person claimed and got disability pension, the insurer should review the degree of disability at least every five years except for unnecessary to review the disability from the insurer.
+
+If the insurer reviews the degree of disability on those who have claimed permanent disability pension according to the former paragraph and finds the disability has been reduced and does not conform to the criteria for claiming permanent disability pension, the insurer should stop issuing permanent disability pension benefit and grant a lump sum permanent disability benefit.
+
+#### Article 57
+
+In case an insured person is evaluated to be all life incapable of earning a livelihood and has claimed permanent disability benefits, the insurer may withdraw insurance coverage immediately.
+
+### Section 6 Old-Age Benefits
+
+#### Article 58
+
+An insured person who is at least 60 years of age and has any of the following conditions may claim to receive old-age benefits:
+
+\1. An insured person whose insurance coverage year reached over fifteen could claim for old-age pension benefit.
+
+\2. An insured person whose insurance coverage year has not reached fifteen could claim for a lump sum old-age benefit.
+
+For those who already have insurance coverage years before the enforcement of the amendments for this Act on July 17, 2008 and conform to any one of the following regulations, the insured not only could claim for old-age benefit according to the regulation in preceding paragraph, he/she could also choose to claim for onetime payment of old-age benefit. However, if the insurer has approved the onetime payment, it could not be changed anymore.
+
+\1. An insured person at least sixty years of age or a female insured person at least fifty-five years of age who has been insured for at least one year and resigns;
+
+\2. An insured person whose insurance coverage reached over fifteen, who is at least fifty-five years of age and resigns;
+
+\3. An insured person who has been insured in the same insured unit for over twenty-five years and resigns; or
+
+\4. An insured person whose insurance coverage reached over twenty-five years, who is at least fifty years of age and resigns;
+
+\5. An insured person who has been employed for more than five years in physical hard labor, work of special character and who is at least fifty-five years of age and resigns.
+
+An insured person who has claimed and received old-age benefits according to the preceding two paragraphs should be withdraw from this labor insurance.
+
+The insured claim for old-age benefit is not bounded by the regulation of article 30.
+
+On the tenth year after this amendment is enforced on July 17, 2008, the age limit for claiming old-age benefit in first paragraph will be increase by one year and then the age limit will be raised by one year for every two years until the age limit reaches 65 years of age.
+
+An insured person who has received old-age benefits may no longer participate in the labor insurance.
+
+An insured person who has been employed for more than fifteen years in dangerous, physical hard labor or work of special character and is at least fifty-five years of age and resigns could claim for old-age benefit and is not bounded by the regulations in fifth subparagraph of this article and article 58-2.
+
+The meaning of dangerous, physical hard labor or work of special character in the fifth subparagraph of second paragraph and previous paragraph is to be defined by the competent central authority.
+
+#### Article 58-1
+
+Old-age pension benefit will be calculated and chose one based on the most advantageous method of the following:
+
+\1. The monthly pension amount is calculated as 0.775% of average monthly insurance salary for each single insurance coverage year plus 3,000 NT dollars.
+
+\2. The monthly pension amount is calculated as 1.55% of average monthly insurance salary for each single insurance coverage year.
+
+#### Article 58-2
+
+Insured persons who have conformed with the old-age benefit claiming criteria in first subparagraph of first paragraph and fifth paragraph of article 58 but have postponed in claiming the old-age pension benefit, extra 4% of the pension benefit amount calculated using the method in preceding article will be granted for each year of pension benefit claiming postponement with the upper limit of 20% extra.
+
+An insured person who has more than fifteen years of insurance coverage but doesn't reach the claiming age stipulated in first paragraph and fifth subparagraph of article 58 could claim for old-age pension benefit within five years in advance. However, 4% of the pension benefit amount calculated using the method in preceding article will be deducted for each year of pension benefit claiming advancement with the upper limit of 20% deduction.
+
+#### Article 59
+
+An insured person who claims a lump sum old-age benefits payment in accordance with the provisions of subparagraph two of paragraph 1 and paragraph 2 of article 58 shall receive every year of his/her insurance coverage years one-month's old-age benefit computed on the basis of his/her average monthly insurance salary; in case his/her insurance coverage years exceeds fifteen years, the insured person shall receive every exceed year of his/her insurance coverage years two-month's old-age benefits, provided that the maximum amount of old-age benefits payment shall not exceed forty-five months of insurance salaries.
+
+In case an insured person continues to work after attaining sixty years of age, his/her insurance coverage above that age shall not exceed five years. The maximum benefit payment amount shall not exceed fifty month's insurance salaries including the old-age benefits receivable before he/she attained sixty years of age.
+
+#### Article 60
+
+(Deleted)
+
+#### Article 61
+
+(Deleted)
+
+### Section 7 Survivor Benefits
+
+#### Article 62
+
+In the event of death of the father, mother, spouse, or child of an insured person, he may claim funeral grant pursuant to the following provisions:
+
+\1. Three-months' salaries on the basis of his average monthly insurance salary in the event of the death of his father, mother, or spouse;
+
+\2. Two-and-a-half months' salaries on the basis of his average monthly insurance salary in the event of the death of his over twelve years old child, or
+
+\3. One-and-a-half months' salaries on the basis of his average monthly insurance salary in the event of the death of his less than twelve years old child.
+
+#### Article 63
+
+In the event of the death of an insured person during the effective period of the insurance, the person who pays for the funeral could claim for funeral grant, furthermore, the insured person's spouse, child, parents, grandparents, or dependent grandchildren, brother(s) or sister(s) may also claim for survivor's benefits.
+
+The provisions for the survivors in previous paragraph to claim for survivor's benefit are as follow:
+
+\1. Spouse that conform to the regulations in first or second subparagraph of first paragraph of article 54-2
+
+\2. Children that conform to the regulations in third subparagraph of first paragraph of article 54-2.
+
+\3. Parents and grandparents who are at least fifty-five years of age and the monthly salary do not exceed the first level in Table of Grades of Insurance Salary.
+
+\4. Grandchildren that conform to either one of the condition in the regulations of first item to third item of third subparagraph of first paragraph of article 54-2.
+
+\5. Brothers and Sisters that conform to one of the following criteria:
+
+（1）has the situation in the regulations of first item to third item of third subparagraph of first paragraph of article 54-2.
+
+（2）are at least fifty-five years of age and the monthly salary do not exceed the first level in Table of Grades of Insurance Salary.
+
+For the insured person in paragraph one and already has insurance coverage years before the enforcement of the amendments for this Act on July 17, 2008, the survivors of the insured not only could claim for pension according to the regulation in preceding paragraph, the survivors could also choose to claim for a lump sum survivor grant excluding the limits in preceding criteria. However, if the insurer has approved the onetime payment, it could not be changed anymore.
+
+#### Article 63-1
+
+After the cancellation of insurance the insured person dies during the period of receiving permanent disability pension or old-age pension, the survivors of the insured who conform to the regulations in the second paragraph of previous article could claim for Survivors' pension Benefit.
+
+For the insured person in preceding paragraph who already has insurance coverage years before the enforcement of the amendments for this Act on July 17, 2008, his/her survivors not only could claim for pension benefit according to the preceding paragraph, they could also choose to claim a lump sum permanent disability benefit or old-age benefit after deducting the amount of pension already received free of the limitation in second paragraph of preceding Article, however, once the amount is approved and paid by insurer, it could not be changed any more.
+
+In case of insured person who already has at least fifteen years of insurance coverage and conform to the regulations defined in second paragraph of article 58, and die before claiming old-age benefit, the survivors of the insured who conform to the regulations in second paragraph of previous article could claim for Survivors' pension Benefit.
+
+For the insured person in preceding paragraph who already has insurance coverage years before the enforcement of the amendments for this Act on July 17, 2008, his/her survivors not only could claim for pension benefit according to the preceding paragraph, they could also choose to claim a lump sum old-age benefit already received free of the limitation in second paragraph of preceding Article, however, once the amount is approved and paid by insurer, it could not be changed any more.
+
+#### Article 63-2
+
+The benefit standards for the funeral grant, Survivors' pension and survivors' allowance stipulated in the previous two articles are as follows:
+
+\1. Funeral Grant: Five-months survivors' benefits shall be payable in one lump sum on the basis of insured person's average monthly insurance salary. If his/her survivors do not qualify to claim Survivors' pension benefit or survivors' allowance or the insured doesn't have any living survivor, a ten-months survivors' benefit shall be payable in one lump sum on the basis of insured person's average monthly insurance salary.
+
+\2. Survivors' Pension:
+
+（1）Claiming for Survivors' pension according to the regulations in article 63: It is calculated based on 1.55% of the average monthly insurance salary for every insurance coverage year of the insured person.
+
+（2）Claiming for Survivors' pension according to the regulations in preceding article: Half of the amount of permanent disability pension or old-age pension should be payable to the survivors.
+
+\3. Survivors' allowance:
+
+（1）Ten-months survivors' benefits shall be payable in one lump sum on the basis of the insured person's average monthly insurance salary in case his/her insurance coverage is less than one year;
+
+（2）Twenty-months survivors' benefits shall be payable in one lump sum on the basis of the insured person's average monthly insurance salary in case his/her insurance coverage is at least one year but less than two years; or
+
+（3）Thirty-months survivors' benefits shall be payable in one lump sum on the basis of the insured person's average monthly insurance salary in case his/her insurance coverage is at least two years.
+
+If the amount of Survivors' pension in second subparagraph of preceding paragraph is less than 3,000 NT dollars, then 3,000 NT dollars shall be granted.
+
+In case there are at least two survivors listed on the same payment order, 25% more of the standard survivor's pension payments will be granted for every extra survivor. The maximum extra payment will be 50% of the standard payment.
+
+#### Article 63-3
+
+The survivors should pick one to apply when they are qualified for at least 2 types of survivor's pension payments.
+
+Recipient of this Act's funeral grant, survivor pension benefit and survivor allowance is limited to one person only. In case there are at least two persons who are qualified to claim the benefits, they should jointly receive the benefits. If they don't jointly receive the benefits or another qualified person submit a claim before the insurer approve the claim, the insurer should notify the applicants to negotiate one of them to represent them in drawing the claim. When the qualified survivors could not or unable to reach an agreement, the total amount of calculated highest amount of funeral grant, survivor allowance and survivor pension would be evenly distributed among the applicants.
+
+Should there are at least two qualified persons on the same claiming order and one of them has claimed survivors' pension benefit, the benefits should be granted. If they jointly agree to claim a lump sum benefit according to third paragraph of article 63 and second and fourth paragraph of article 63-1, the benefits would be granted according to their agreement.
+
+After the insurer has granted survivors' benefit according the preceding two paragraphs, if there is any qualified survivor with the same claiming order, the survivor who draws the benefits should be responsible to distribute the benefits to other qualified survivors with the same claiming order.
+
+#### Article 63-4
+
+Survivor's pension payments shall be suspended if the survivors have one of the following conditions during the receiving period:
+
+\1. Spouse:
+
+（1）Remarried;
+
+（2）is less than 55 years of age and the children he/she supports are not qualified for the application conditions stipulated in second subparagraph of second paragraph of article 63;
+
+（3）doesn't conform to the claiming criteria stipulated in first subparagraph of second paragraph of article 63.
+
+\2. Children, parents, grandparents, grandchildren, brothers and sisters who don't conform to the claiming criteria in second to fifth subparagraph of second paragraph of article 63.
+
+\3. There is any condition as described in third and fourth subparagraph of third paragraph of article 54-2.
+
+#### Article 64
+
+In case the insured person's death caused by occupational accident, the person who pays for the funeral expenses could claim for funeral grant according to first subparagraph of paragraph one of article 63-2, and the survivors who conform to the regulations in paragraph two of article 63 could claim for Survivors' pension benefit and a ten-month occupational accident compensation based on the insured's average monthly insurance salary.
+
+In case the survivors of the insured person in preceding paragraph claim for a lump sum survivors' allowance according to the third paragraph of article 63, a forty-month based on the insured's average monthly insurance salary should be granted.
+
+#### Article 65
+
+Survivors' pension benefits and survivors' allowance shall be payable to the entitled survivors(s) according to the order prescribed below:
+
+\1. spouse, son and daughter;
+
+\2. father and/or mother;
+
+\3. grandfather and grandmother;
+
+\4. grandson and granddaughter;
+
+\5. brother(s) and sister(s).
+
+Survivors listed on the rear order as stipulated in the previous paragraph are not entitled to apply for survivor's pension benefits or survivor's allowance if survivors listed on the front still exist.
+
+Should the survivors listed in first order are all disqualified for the survivor's pension payments or having one of the following conditions when there is no survivor qualified in the same order, the survivors in the second order could claim for survivor's pension benefit:
+
+\1. die while claiming the survivor pension benefit;
+
+\2. nowhere to be found or are in overseas;
+
+\3. submit a claiming waiver;
+
+\4. don't submit an application within one year when qualified for claiming benefits.
+
+When the survivor in the first order of previous paragraph claims the benefits or re-conform to the claiming criteria, the benefit would not be granted to other survivors and the survivors in the first order could claim the benefits; however, if the benefits are already granted to the survivors in the second order, the benefits would not be reissued to the survivors in the first order.
+
+### Section 8 Application and Issuance of Pension Benefits
+
+#### Article 65-1
+
+The insured person or his/her beneficiary who conform to the claiming criteria of pension benefit should fill in an application and attach the related documents to apply to the insurer.
+
+When the insured person or his/her beneficiary in previous paragraph has been examined by insurer as qualified, the pension will be issued monthly from the month of the application until the month of pension termination.
+
+In case the beneficiary of survivor's pension doesn't submit application on the month they qualify for the benefits, the insurer should reissue the benefits to those who are entitled tracing back to five years before they submitted the application. However, for the part which already claimed by other beneficiary would not be included.
+
+#### Article 65-2
+
+The insurer may verify the benefit applications made by the insured person or the survivors and suspend payment during the verification period. Once applications are verified and approved, payment during the suspension period shall be paid and regular payments shall resume.
+
+Once recipients are not qualified for receiving pension payments or die, they themselves or the legal heir should present related documents and notify the insurer within 30 days since the happening of the above facts. Pension payments will be terminated from the next month of the happening of the above facts.
+
+When benefit recipient dies and the payable benefit is not timely into the recipient's account, the legal heir is entitled to present the copy of household registration transcript which marked the death of the applicant and the copy of household registration transcript for the legal heir to apply for the receiving of payment. When there are more than one people as the legal heir, they shall present warrant of joint-attorney and a recognizance entrusting one of them to apply for the receiving of the payment.
+
+When over pension payments resulted from recipient's failure or the failure of legal heir to notify the insurer according to Paragraph 2, the insurer shall send written notices to the recipient of the over payment requesting　repayment within 30 days. The insurer is also entitled to deduct the over payment from the account used in receiving the benefits.
+
+#### Article 65-3
+
+The insured person or his/her beneficiary is entitled to apply for only one kind of benefits if he or she is qualified for permanent disability pension, old-age pension payments, or survivor's pension benefit at the same time.
+
+#### Article 65-4
+
+The amount of pension for this insurance will be adjusted according to the accumulated growth rate of Consumer Price Index published by the Budget, Accounting and Statistics institutions in the central government if the accumulated rate reaches 5%.
+
+#### Article 65-5
+
+Should Insurer or Labor Insurance Supervisory Commission needs some necessary data for handling this insurance business, they could contact related government agencies to supply related data and those agencies could not reject such request.
+
+The insurer or Labor Insurance Supervisory Commission should ensure the safety check on the operation of information. All keeping, processing and utilization of such information shall follow the regulations of the Protective Laws of Computer Processed Personal Information.
+
+## CHAPTER 5 INSURANCE FUND AND ADMINISTRATIVE COSTS
+
+#### Article 66
+
+The labor insurance fund shall be supplied from the following sources:
+
+I. The monies earmarked in one lump sum by the government when the Fund is established;
+
+II. Amounts subsidized by the government;
+
+III. The current-year premiums and the interest income in addition to the balance after due payment of insurance benefits;
+
+IV. Penalties on overdue premiums;
+
+V. Income from investment of the Fund;
+
+VI. Other financial injections and related income.
+
+With respect to the amounts subsidized by the government under Subparagraph 2 of the preceding paragraph, after the provisions amended on December 30, 2025 under this Act take effect, the central competent authority shall, taking into account the government’s fiscal conditions and the financial status of this insurance, budget and appropriate such subsidies on an annual basis; where, in a given year, insurance premium income is less than insurance benefit expenditures, the central government shall make appropriate appropriations to the Fund or provide subsidies.
+
+#### Article 67
+
+With due approval of the Labor Insurance Supervisory Commission, the labor insurance Fund may be used in the following manner:
+
+\1. Invested in government bonds, treasury bills or corporate bonds;
+
+\2. Deposited with government-run banks or other financial institutions designated by the competent central authority.
+
+\3. Invested in labor insurance hospital(s) operated by the insurer, or used as loans to public hospitals specially contracted by the insurer to finance the repair or maintenance of labor insurance beds, their regulation is to be prescribed by the competent central authority
+
+\4. Put towards loans for insured persons; or
+
+\5. Invested in any other government-authorized projects which may inure to the benefit of their Fund.
+
+The labor insurance Fund may be applied or disposed of for no other purposes than the payment of insurance benefits or for the purposes referred to in the preceding paragraph. The regulations on the administration of such Funds shall be prescribed by the competent central authority. A report on the Fund's receipts, a status report on how the Fund is being applied or used, and on the cumulative sum of the Fund shall be submitted by the insurer to the competent central authority for public notice on a yearly basis.
+
+Items of an insured person's loan regarding qualification, use, amount, limit, and repayment method in Paragraph 1, Subparagraph 4, should be publicly declared by the Insurer in a report to the central competent authority.
+
+#### Article 68
+
+The insurer shall budget the administrative costs for handling the labor insurance program, to be computed at the rate of five and one half percent of the premiums receivable for the month of June of the current budget year and multiplied by twelve. Such costs shall be disbursed by the provincial or municipal government which has been entrusted to establish the Bureau of Labor Insurance, after the said budget has been duly reviewed and approved by the Labor Insurance Supervisory Commission.
+
+#### Article 69
+
+The central government shall bear the ultimate payment responsibility for the finances of labor insurance.
+
+After the provisions amended on December 30, 2025 under this Act take effect, the central competent authority shall review the financial status of this insurance at least once every three years.
+
+## CHAPTER 6 PENAL PROVISIONS
+
+#### Article 70
+
+In case a person receives insurance benefits through fraudulent or other improper act, or makes false certification, report, misrepresentation, or files a claim for medical expenses, he shall not only be fined an amount equivalent to twice the insurance benefits received, but also be liable to the insurer for compensation for damages. If criminally liable, he shall also be referred to the court for indictment. Any medical expenses so received by specially contracted hospital or clinic may be deductible from the expenses claimed or receivable by it.
+
+#### Article 71
+
+An employee who, in violation of the provisions of this Act, has not participated in labor insurance and attended to the formalities thereof, shall be fined an amount no less than one hundred and no more than five hundred NT dollars.
+
+#### Article 72
+
+An insured unit failing to enroll its employees for labor insurance in accordance with the regulations of this Act shall be imposed a fine four times the total of premiums for the period from the date of employment to the date of the actual enrolment or the date of termination of employment. The loss thus incurred by the employees shall be compensated by the insured unit in accordance with the payment standard defined in this Act.
+
+When an insured has paid insurance premiums as a result of an insured unit in violation of the regulation of this Act having failed to pay the premiums for the insured, the insured unit shall be subject to a fine two times the amount of the premiums that the insured has paid. The insured unit shall further refund such premiums to the insured.
+
+In the event that an insured unit under-declares or over-declares insured salaries of its employees, a fine four times the total of premiums under-declared or over-declared from the onset of the violation shall be imposed, and the said insured unit shall pay back the amount of benefits thus over-claimed. The said insured unit shall also compensate the employees for any loss thus incurred.
+
+In the event that an insured unit refuses to produce documents required for an audit conducted by the insurer according to paragraph 3 of Article 10 or that an insured unit violates the regulation of paragraph 4 of the same article, a fine of more than NT$6,000 but less than NT$18,000 shall be imposed on the said insured unit.
+
+In the event that an insured unit on which an overdue fine up to 100% of the total premiums payable had been imposed according to paragraph 1 of Article 17, but the said insured unit had not paid the said premiums payable to the insurer before the amendment of this Act took effect on May 16, 2008, and the insurer had not imposed a penalty or had imposed a penalty without enforcement, there shall be no further arbitration or enforcement.
+
+#### Article 73
+
+In case a penalty remains unpaid for no cause thirty days after the notice of the fine prescribed herein is served, the case shall be referred to the court for compulsory execution.
+
+## CHAPTER 7 SUPPLEMENTARY PROVISIONS
+
+#### Article 74
+
+The premium rates, the enforcement areas, the date and the measures for setting up unemployment insurance shall be prescribed by the Executive Yuan.
+
+#### Article 74-1
+
+Should the insured person in this Act is disabled, old-age or dead before the enforcement of the amendments for this Act on July 17, 2008, the insured person or his/her beneficiary could choose to apply the proper insurance regulations when the contingency happened or the claim is submitted for claiming benefits if the benefit claiming right does not exceed the valid period stipulated in article 30.
+
+#### Article 74-2
+
+After the enforcement of the amendments for this Act on July 17, 2008, if the insured person is qualified to claim the old-age benefits from this insurance and National Pension Insurance, the insured person could make a claim to any insurer at the same time. The insurers under such request should individually calculate the old-age benefit based on the insured person's each insurance coverage year with the insurances and issue the benefits jointly; for the benefits that should be paid by the other insurance, it should be returned by the insurer.
+
+For the insured person in previous paragraph whose insurance coverage year has not reached the age limit for claiming old-age benefit, but reach the claiming coverage year after combing other insurance's coverage year, he/she could also claim for old-age pension benefit.
+
+In case the insured person or his/her survivors is qualify to claim the National Pension Benefit and Labor Insurance Pension benefit at the same time when the insured person is disabled or dead, the insured person or his/her survivors could only choose either one from those two pension benefits to claim.
+
+#### Article 75
+
+(Deleted)
+
+#### Article 76
+
+In case an insured person is transferred to the Armed Forces Insurance, the Government Employees' Insurance, or the Insurance for Teaching and Administrative staff of Private Schools, who, at the time of such transference, is not yet entitled to draw old-age insurance benefits pursuant to the provisions of this program, his seniority qualifications shall be reckoned, and when he legally retires on reaching old age, he shall be entitled to claim old-age insurance benefits according to the provisions of article 59 of this Act.
+
+The regulation for the reckon seniority qualifications in preceding paragraph shall be prescribed by the competent central authority subject to the approval of the Executive Yuan.
+
+#### Article 76-1
+
+The provisions including article 2, article 31, article 32, article 39-52 should not be applied to the delivery expense of maternity benefits and medical benefits of Ordinary Insurance when the National Health Insurance Program becomes effective.
+
+#### Article 77
+
+The Enforcement Regulations of this Act shall be prescribed by the competent central authority subject to the approval of the Executive Yuan.
+
+#### Article 78
+
+The enforcement areas of this Act shall be determined by the ordinances of the Executive Yuan.
+
+#### Article 79
+
+This Act shall take effect from the date of promulgation.
+
+The enforcement date of this amendment to this Act amended on July 17, 2008, shall be determined by Executive Yuan unless the enforcement date is otherwise defined.
+
+The enforcement date of Article 15 as amended on April 8, 2011, shall be determined by Executive Yuan
+
+## History
+
+1.Enacted and promulgated a total eighty-seven articles of the Act by President Order on July 21, 1958
+
+2.Amended and promulgated a total eighty-eight articles of the Act by President Order on July 23, 1968
+
+3.Amended and promulgated Article 10, 18 by President Order No. 1858on April 25, 1973
+
+4.Amended and promulgated a total seventy-nine articles of the Act by President Order No.0854 on February 19, 1979
+
+5.Amended and promulgated Articles 4, 6, 8~17, 19~21, 27, 28, 31, 32, 41, 43, 44, 51, 58, 59,61,64,72 of the Act, added Article 9-1, 21-1, 39-1, and deleted Article 60,75 by President Order No.0319 on February 3, 1988
+
+6.Amended and promulgated Articles 5, 13, 15, added Article 76-1 by President Order No.1235 on February 28, 1995
+
+7.Amended and promulgated Articles 4, 15, 67, 69 by President Order No.8900177660 on July 19, 2000
+
+8.Amended and promulgated Articles 12, 58 by President Order No.90000252750 on December 19, 2001
+
+9.Amended and promulgated Articles 29, 67 by President Order No.09200012650 on January 20, 2003
+
+10.Amended and promulgated Articles 10, 13, 28, 72, added Article 14-1, 14-2, 20-1, 42-1 by President Order No.09200015210 on January 29, 2003
+
+11.Amended and promulgated Articles 17 by President Order No.09700055081 on May 14, 2008
+
+12.Amended and promulgated Articles 2,
+
+13,19, 20-1, 53~59, 63~65, 79, added Article 54-1, 54-1, 58-1, 58-2, 63-1~63-4, 65-1~65-5, 74-1, 74-2, deleted Article 21, 21-1, 38, 47, 61 by President Order No.09700153201 on August 13, 2008 13.Amended and promulgated Articles 20 by President Order No.09800015971 on January 23, 2009 3
+
+14.Amended and promulgated Articles by President Order No.09800094011 on 72 April 22, 2009
+
+15.Amended and promulgated Articles 29 by President Order No.09800292201on November 25, 2009
+
+16.Amended and promulgated Articles 15, 44, 72, 79 by President Order No.10000079401 on April 27, 2011, and the implementation date of Article 15 should be decided by the Executive Yuan
+
+17.Amended and promulgated Articles 6, 9, added Article 29-1 by President Order No. 10100269291 on December 5, 2012
+
+18.Amended on December,19,2012
+
+19.Amendment to Article 54-1 promulgated by Presidential Order No. 10200082741 on May 8, 2013; Paragraph 2 and to take effect on Aug. 13, 2013
+
+20.Amended on January 8,2014
+
+21.Amended on May 28, 2014
+
+22.Amended on July 1, 2015
+
+23.Last Amended on April 28, 2021
+
+24.Last Amended on January 21,2026

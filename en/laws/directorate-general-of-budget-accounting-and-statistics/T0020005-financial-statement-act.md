@@ -1,0 +1,259 @@
+---
+title: "Financial Statement Act"
+title_zh: "決算法"
+identifier: "T0020005"
+type: act
+law_level: "法律"
+category: "行政＞行政院主計總處＞歲計目       "
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1938-08-09
+last_amended: 2011-05-25
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=T0020005"
+retrieved: 2026-10-12
+---
+
+# Financial Statement Act
+
+> Translation. The Chinese text ([zh/laws/directorate-general-of-budget-accounting-and-statistics/T0020005-financial-statement-act.md](../../../zh/laws/directorate-general-of-budget-accounting-and-statistics/T0020005-financial-statement-act.md)) is authoritative.
+
+## Chapter 1 General Principles
+
+### Article 1
+
+This Act shall govern the compilation, audit and promulgation of financial statements of the central government of the Republic of China.
+
+### Article 2
+
+Financial statements of government shall be processed once a year in every fiscal year. Within two months after the end of a calendar year shall be the ending period of that fiscal year.
+
+Deadline for handling affairs relating to payment and receipt within the ending period shall be decided by the Executive Yuan.
+
+### Article 3
+
+Government financial statement shall be compiled pursuant to its budgets into the following categories:
+
+\1. General financial statement
+
+\2. Unit Financial Statement
+
+\3. Sub-Financial Statement of a Unit Financial Statement
+
+\4. Subordinate Unit Financial Statement
+
+\5. Sub-Financial Statement of a Subordinate Unit Financial Statement
+
+### Article 4
+
+Annual revenues and expenditures of government in every fiscal year, raising of debt, use of surplus from the previous fiscal year and debt repayment of the government shall all be compiled in the financial statement; revenues and expenditures not yet included in the financial statement of preceding year shall be compiled in other separate tables attached in the financial statement.
+
+The result from the execution of the authorized funds relating to future Financial Commitment given by the Legislative Yuan in one year shall be expressed in the financial statement for that same year; probable disbursement in the future fiscal years due to guaranty, surety or contractual obligation shall be described with tables in the financial statement.
+
+### Article 5
+
+The accounts of financial statements and their categories to be compiled shall depend on the accounts and categories listed in the budget for the same year. However, the statutory unified accounts appropriated by the Executive Yuan, First Reserve Fund and other accounts appropriated for purposes prescribed by the central budget accounting and statistics agency shall not be subject to this regulation; For revenues that are not listed in the budget of that year, it shall be categorized according to the nature of revenues, then incorporated into the financial statement according to its category.
+
+### Article 6
+
+Agency units and funds used in financial statements shall be governed by the Budget Act; the currencies for the amount recorded shall be consistent with budgets approved according to statutory regulations.
+
+### Article 7
+
+All accounts receivable, accounts payable, expenditure encumbrances in financial statements which have not been realized within four years after the end of the fiscal year in which the statements were compiled shall be exempted from inclusion into the financial statement. However, accounts receivable or accounts payable which are required to continue to be realized pursuant to other laws or regulations shall be incorporated into the financial statement compiled for the year in which those accounts are realized under appropriate budget accounts mutatis mutandis.
+
+## Chapter 2 Compilation of Financial Statements
+
+### Article 8
+
+Unless otherwise provided in this Act, the compilation, delivery, audit and consolidation of accounts in financial statements for each  agencies and funds shall be governed by the Accounting Act pertaining to compilation of financial reports.
+
+### Article 9
+
+In the event that there are changes in the agencies or funds within the fiscal year, their financial statements shall be compiled in accordance with the following:
+
+\1. Where the agency has been re-organized, the amount or the jurisdiction of funds have been changed or transferred to another agency, the financial statement shall be compiled by the agency which is in control after the re-organization or agency in charge of the fund after the change or transfer.
+
+\2. Where the name of the agency or the fund has been changed, the financial statement shall be compiled by the said agency or agency that is in charge of the funds after the change.
+
+\3. Where numerous agencies or funds amalgamate into one agency or one fund, the financial statements for each fund or agency prior to the amalgamation shall be compiled each and separately by the said agency or agency that is in charge of the fund after the amalgamation.
+
+\4. Where re-organization or alteration of agency results in division of budget or where a fund was amalgamated but later divided into numerous funds, the financial statement shall be compiled by that original agency or original agency that is in charge of the fund for the period in which the budget or fund remain undivided.
+
+### Article 10
+
+(Deleted)
+
+### Article 11
+
+For government affiliated  agency or fund closing prior to the end of the fiscal year, the said agency or competent agency in charge of the fund shall settle all accounts on the date in which the agency or fund closes. However, the agency consolidating the financial statement shall be required to incorporate all accounts settled by the said agency or fund into the financial statement of that year.
+
+### Article 12
+
+Unit financial statement of agencies shall be compiled by each agency unit. During compilation, tables for execution of budget shall be compiled according to actual facts, while other financial reports pertaining to execution of budgets, explanation as to the processes in execution of budget, execution of administrative plans, explanation as to efficacy of operational plans and related important statistical analysis shall also be attached.
+
+Unit financial statement of special fund shall be compiled by the agency that is in charge of the fund in accordance with the preceding Paragraph.
+
+### Article 13
+
+(Deleted)
+
+### Article 14
+
+Subordinate unit financial statement relating to financial statement of enterprise fund shall be compiled base on the actual progress of execution of business plan in accordance with financial records, including attachment of explanations as well as business reports and relevant important statistical analysis, and it should be delivered to each relevant agency.
+
+Each and every department of the state-owned enterprises, whose capital is independent as well as whose profit and loss are calculated individually, or the one re-invests into other businesses that it holds interests exceed 50%, the sub-financial statement of the department or other businesses it invested in shall be attached.
+
+### Article 15
+
+The main content to be included in subordinate unit financial statement relating to financial statement of enterprise funds are as follows:
+
+\1. Calculation of profit and loss;
+
+\2. Cash flows;
+
+\3. Assets and liabilities;
+
+\4. Proposal for profit distribution or loss replenishment.
+
+Financial statement of business revenues and expenditures in Subparagraph 1 of the preceding Paragraph shall make a due comparison between business circumstances and accounting standards as prescribed in the budget; Where cost accounting is applicable, explanation of cost calculation, unit cost, workforce employed, amount of material consumed and relevant data shall be attached, while variable costs and fixed costs shall be analyzed.
+
+Regarding loss and gain of each accounts in Subparagraph 3 of Paragraph 1 relating to fixed assets, long-term liabilities and capital re-investment, their detailed content shall be respectively compared with the budget amount.
+
+### Article 16
+
+Financial statements of other special funds within the subordinate unit financial statement, except for that of enterprise fund, shall be compiled pursuant to the provisions of the preceding two Articles.
+
+### Article 17
+
+Annual receipt and payment report of the National Treasury regarding all the actual cashiering activities up until the end date of that fiscal year shall be compiled and recorded by the competent agency of the National Treasury.
+
+The report in the preceding Paragraph  shall be delivered within  25 days after the end date of the fiscal year to the central budget accounting and statistics agency and auditing agency for auditing purposes.
+
+### Article 18
+
+Parts of the financial statements of competent agency relevant to the main agency shall be compiled according to actual circumstances as it stands at the end of fiscal year; parts relevant to subordinate agencies shall be compiled according to the financial statements submitted for that fiscal year.
+
+### Article 19
+
+Financial statements of each agency, once signed or stamped by the Head of the agency and the Chief Accounting Officer, shall be delivered to the superior agency and the auditing agency.
+
+### Article 20
+
+After receiving said financial statements described in the preceding Article, the competent agency shall immediately commence audit and consolidation, and amend and consolidate contents therein where inadequacies or errors have been discovered, and deliver them to the central budget accounting and statistics agency together with unit financial statement.
+
+The events of amendment described in the preceding Paragraph shall be notified to the agency that originally compiles the financial statement and the auditing agency.
+
+General financial statements compiled by the central budget accounting and statistics agency shall be governed mutatis mutandis by the preceding two Paragraphs.
+
+### Article 21
+
+The central budget accounting and statistics agency shall compile a general financial statement according to each unit financial statement, the annual receipt and payment report of the National Treasury and general financial records, while each subordinate unit financial statement including business and non-business entities shall be compiled into a consolidated table and submitted to the Executive Yuan with attachment of explanation together with the general financial statement. After being approved by the Executive Council of the Executive Yuan, they should be delivered to the Control Yuan within four months after the end of a the fiscal year.
+
+Deadline, procedure for compilation and delivery of financial statements by each level of agency shall be determined by the Executive Yuan.
+
+### Article 22
+
+Financial statements relating to revenues and expenditures of special budget shall be compiled pursuant to the provisions of this Act after the expiration of budget execution period; for execution of budget that extends over two fiscal years, its financial report shall be compiled into the financial report of prescribed year by competent agency pursuant to procedures stipulated in the Accounting Act.
+
+Each and every competent agency shall submit the annual financial statements to the Legislative Yuan for deliberation in the case of a foundation with the accumulated government-donated fund exceeding over 50% and a foundation being formed by Japan’s remaining assets due to Japan retreat and Taiwan takeover.
+
+## Chapter 3 Audit of Financial Statements
+
+### Article 23
+
+The auditing agency, when auditing the financial statement of each agency or fund, shall have due consideration to the following efficacy:
+
+\1. Circumstances of unlawful breach of duties or misconduct.
+
+\2. Budget amount in deficit or surplus.
+
+\3. Extent of realization of administrative plans, operational plans or business plans.
+
+\4. Extent of economic or uneconomic operation.
+
+\5. Extent of administrative efficacy or business efficacy, and comparison with agencies or funds of similar nature.
+
+\6. Other matters relating to financial statements.
+
+### Article 24
+
+The auditing agency, when auditing the general financial statement of government, shall have due consideration to the following efficacies:
+
+\1. Whether annual revenues and annual expenditures are consistent with the budget. In the case of inconsistency, then the reasons of inconsistency should be found out.
+
+\2. Whether annual revenues and annual expenditures are balanced. In the case of imbalance, then the reasons of the imbalance should be found out.
+
+\3. Whether annual revenues and annual expenditures are compatible with economic ability of citizens and its development.
+
+\4. Whether annual revenues and annual expenditures are compatible with the national administrative policies.
+
+\5. Opinions concerning the needed improvements of annual revenue and annual expenditure made by all parties should also be taken into account.
+
+### Article 25
+
+When the auditing agency has contentions for amendment when auditing financial statements, it shall notify the agency that originally compiles the financial statement and ask the agency to provide response within a prescribed time period; the agency that does not provide response within the time period shall be deemed to have agreed to the amendment. Financial statement, once finalized after the audit, shall be notified to agency that originally compiles the financial statement, copies of which shall be submitted to the central budget accounting and statistics agency and superior agency of the said agency.
+
+### Article 26
+
+The Auditor General shall complete the audit of general financial statements of Central Government within 3 months after receiving the financial statement; a final audit amount table shall be compiled andsubmitted to the Legislative Yuan together with the audit report.
+
+### Article 26-1
+
+The Auditor General shall complete the audit of semi-annual financial report of Government within 1 month after its submission by the Government and submit a final audit report to the Legislative Yuan.
+
+### Article 27
+
+Matters in the audit reports relating to execution of budget, implementation of policies and audit and remedies of special events, etc. shall be deliberated by the Legislative Yuan.
+
+During the deliberation of the audit report by the Legislative Yuan, the Auditor General shall answer interpellation and provide materials; Where necessary, the agency that compiles the original financial statement shall be notified to be present to answer interpellation or provide materials.
+
+### Article 28
+
+The Legislative Yuan shall complete deliberation of audit report within 1 year after receiving the audit report. If deliberation is not completed within this time period, the audit report is deemed to be have been deliberated.
+
+The final audit amount table of general financial statement, once deliberated by the Legislative Yuan, shall be submitted to the Control Yuan, and the Control Yuan shall consult the President to promulgate the said table; the parts which is required to be kept classified shall not be promulgated.
+
+### Article 29
+
+The Control Yuan shall deal with the matters required actions listed in the audit report of the general financial statement and the consolidated table of subordinate unit financial statements in the following ways:
+
+\1. The receipt and payment required to be made regarding compensation but not yet executed shall be transferred to the competent agency of the National Treasury or the competent agency of the subordinate unit financial statement for execution.
+
+\2. Matters requiring disciplinary actions shall be executed by the agencies involved pursuant to laws and regulations.
+
+\3. The Head of the superior agency shall be notified with respect to matters of neglecting duties and failing to perform at a required standard.
+
+## Chapter 4 Supplementary Provisions
+
+### Article 30
+
+Forms of financial statements shall be determined by the central budget accounting and statistics agency.
+
+### Article 31
+
+Financial statements of local governments shall be separately regulated by laws.
+
+Prior to enactment of laws as referred to in the preceding Paragraph, this Act shall be applied mutatis mutandis.
+
+### Article 32
+
+This Act shall take effect on the date of promulgation.
+
+## History
+
+1.This Act, comprising of Thirty-Two Articles was enacted and promulgated by Governmental Orders on August 9, 1938; and come into force on January 1, 1941
+
+2.The entire Twenty-nine Articles of this Act were amended and promulgated by Presidential Orders on May 27, 1948.
+
+3.The entire Thirty-Eight Articles of this Act were amended and promulgated by Presidential Orders on December 15, 1960
+
+4.The entire Thirty-Two Articles of this Act were amended and promulgated by Presidential Orders on December 21, 1972
+
+5.The heading of Chapter 1, Article 4-7, 9, 14, 15 and 28 were amended and promulgated by Presidential Order on December 13, 2000; Article 26.1 was added ; Article 10 and 13 were subsequently repealed/deleted
+
+6.Amended & Promulgated on May 14, 2008 by Presidential Order No.Hua-Zong-Yi-Yi-Tzu-09700057111
+
+7.Amended of Article 7 & Promulgated on May 25,2011 by Presidential Order No.Hua-Zong-Yi-Yi-Tzu-10000104011

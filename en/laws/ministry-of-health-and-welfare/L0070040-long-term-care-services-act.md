@@ -1,0 +1,739 @@
+---
+title: "Long-Term Care Services Act"
+title_zh: "長期照顧服務法"
+identifier: "L0070040"
+type: act
+law_level: "法律"
+category: "行政＞衛生福利部＞長期照顧目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2015-06-03
+last_amended: 2021-06-09
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0070040"
+retrieved: 2026-10-12
+---
+
+# Long-Term Care Services Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-health-and-welfare/L0070040-long-term-care-services-act.md](../../../zh/laws/ministry-of-health-and-welfare/L0070040-long-term-care-services-act.md)) is authoritative.
+
+## Chapter 1 General Principles
+
+### Article 1
+
+This Act is enacted to strengthen the long-term care service system, to ensure the provision of adequate long-term care services, to safeguard the quality of care and support services, to promote the development of accessible, diverse, and affordable services, and to guarantee the dignity and the rights for both the persons receiving services and the care providers.
+
+No person shall be subjected to discrimination or unequal treatment in the provision of long-term care services on the grounds of gender, sexual orientation, gender identity, marriage, age, disabilities, illnesses, social or economic status, race, religion, nationality, or place of residence.
+
+### Article 2
+
+The “competent authority” referred to in this Act is: the Ministry of Health and Welfare as the central competent authority, the municipal governments for municipalities as municipal authorities, and the county (city) governments for counties (cities) as local competent authorities.
+
+### Article 3
+
+The terms used in this Act are defined as follows:
+
+\1. Long-term care (hereinafter “LTC”): Refers to the provision of assistance in daily living, social participation, care or relevant health services, and related health and nursing services to individuals whose physical or mental disabilities have lasted, or are expected to last, for six months or more, in accordance with the needs of the individual or their caregiver.
+
+\2. Persons with physical or mental disabilities (hereinafter “persons with disabilities”): Refers to individuals who, due to partial or complete loss of physical or mental functions, require the assistance of others in their daily life.
+
+\3. Family caregivers: Refers to primary relatives or family members who provide regular care to a person with disability within the household.
+
+\4. Long-term care service personnel (hereinafter “LTC personnel”): Refers to a person who is certified through training and certification in accordance with this Act to provide long-term care services.
+
+\5. Long-term care service institutions (hereinafter “LTC institutions”): Refers to institutions established in accordance with this Act for the purpose of providing long-term care services or conducting assessments of long-term care needs.
+
+\6. Long-term care management centers (hereinafter “care management centers”): Refers to agencies or institutions designated by the central competent authority to provide LTC assessment and linking services for long-term care needs.
+
+\7. Long-term care service system (hereinafter “LTC system”): Refers to the network composed of LTC personnel, LTC institutions, financial and related resources, and mechanisms for development, management, and service referral.
+
+\8. Individual care workers: Refers to a person hired on an individual basis to provide care at the home of a person with disabilities.
+
+### Article 4
+
+The following matters shall be under the authority of the central competent authority:
+
+\1. Formulation, promulgation, and promotion of national long-term care (LTC) policies, laws and regulations, and planning of the LTC system in accordance with the provision of LTC services.
+
+\2. Supervision of, and coordination with, municipal and county (city) governments in the implementation of LTC services.
+
+\3. Planning for the protection of the rights and interests of LTC service users.
+
+\4. Evaluations by the central competent authority pursuant to Article 39, Paragraph 3 and development and rewards to LTC institutions.
+
+\5. Guidance and supervision of LTC institutions operating across multiple municipalities or counties (cities).
+
+\6. Planning for the management, cultivation, and training of LTC service personnel.
+
+\7. Planning and mobilization of LTC financial resources, and allocation and subsidization of LTC expenditures.
+
+\8. Research, development, and monitoring of LTC information systems and service quality.
+
+\9. Planning and promotion of international cooperation, exchange and innovative services of LTC services.
+
+\10. Coordinating and allocation of LTC services in areas with insufficient resources.
+
+\11. Other national-level planning, supervision, and oversight relating to LTC services.
+
+### Article 5
+
+The following matters shall be under the authority of the local competent authority:
+
+\1. Providing long-term care (LTC) services, and formulating, planning, promoting, and implementing LTC policies and the LTC system within its jurisdiction.
+
+\2. Implementing the LTC policies, laws and regulations, and related planning programs established by the central competent authority.
+
+\3. Conducting local training for LTC services.
+
+\4. Supervising and assessing LTC institutions within its jurisdiction, and conducting evaluations prescribed to be carried out by local competent authorities pursuant to Article 39, paragraph 3.
+
+\5. Planning and mobilizing local LTC financial resources, and allocating and subsidizing LTC expenditures.
+
+\6. Providing incentives for LTC institutions in areas within its jurisdiction that face development difficulties or have insufficient resources.
+
+\7. Other LTC service matters of a local nature.
+
+### Article 6
+
+For matters stipulated under this Act that fall within the competencies of the various central governmental authorities, the division of responsibilities shall be as follows:
+
+\1. Education authority: Matters relating to long-term care (LTC) education, workforce development, and sports activities, venues, facilities, and equipment for LTC service users.
+
+\2. Labor authority: Matters concerning the labor conditions, employment services, and occupational safety and health of LTC personnel and individual caregivers; and matters relating to the training and skills certification of LTC personnel who do not hold healthcare or social work professional licenses, as well as individual caregivers.
+
+\3. Veterans affairs authority: Matters relating to LTC services for retired military personnel.
+
+\4. Construction, public works, and fire safety authorities: Matters concerning building management of LTC institutions, accessible public facilities and built environments, and fire safety.
+
+\5. Indigenous peoples affairs authority: Coordination, liaison, and assistance in planning and promoting LTC-related matters for Indigenous peoples.
+
+\6. Science and technology authority: Research and development, technology transfer, and application of assistive technologies for LTC services.
+
+\7. Economic affairs authority: Planning and promotion of the development of LTC assistive devices, equipment, and related products.
+
+\8. Other competent authorities for specific functions: LTC-related matters falling within the scope of each respective authority’s mandate.
+
+### Article 7
+
+The competent authority shall convene a committee chaired by its head, inviting experts and scholars in long-term care (LTC), representatives of relevant civil organizations and institutions, service user representatives, and representatives of the various competent authorities for specific functions, to coordinate, study, deliberate, and provide advice on matters related to long-term care services, including the development of the national LTC workforce, fee collection and reimbursement, personnel remuneration, and supervision and assessment.
+
+Among the members referenced in the preceding paragraph, representatives of relevant experts and scholars, civil organizations and institutions, and service users shall constitute not less than two-thirds of the total membership; service user representatives and members of any single gender shall each constitute not less than one-third; and at least one representative of Indigenous peoples or one expert or scholar knowledgeable in Indigenous cultures shall be included.
+
+## Chapter 2 Long-Term Care Services and Long-Term Care Service System
+
+### Article 8
+
+The central competent authority may announce specific categories of long-term care (LTC) services.
+
+Applications by the public for the services referred to in the preceding paragraph shall be assessed by the long-term care management center or the municipal or county (city) competent authority; the municipal or county (city) competent authority shall provide services based on the assessment results.
+
+Applicants for LTC services involving medical or healthcare-related care shall obtain a physician’s written opinion, and the services shall be assessed by the care management center or the municipal or county (city) competent authority.
+
+For the services set out in paragraph 2, subsidies shall be provided by the competent authority based on the degree of impairment of the person with functional impairments and the financial status of the household. If subsidies of the same nature may be applied for under other laws or regulations, only one subsidy may be claimed.
+
+The assessments under paragraphs 2 and 3 may be commissioned to professional organizations. The assessment criteria, methods, qualification requirements for assessment personnel, and other related matters shall be announced by the central competent authority.
+
+The subsidy amount or subsidy rate under paragraph 4 shall be determined by the central competent authority.
+
+### Article 8-1
+
+The care management center or the municipal or county (city) competent authority shall, based on the assessment results referred to in paragraph 2 of the preceding article, determine the level of long-term care (LTC) needs and the amount of LTC service benefits for the individual according to the degree of impairment.
+
+Users of LTC services shall bear a prescribed percentage or amount of the LTC service benefits determined under the preceding paragraph.
+
+Contracted LTC service providers shall collect from LTC service users the required co-payment amount or percentage specified in the preceding paragraph and shall not reduce or waive such payments.
+
+The eligibility criteria for applying for LTC services under paragraph 2 of the preceding Article, the determination of LTC need levels and benefit amounts under paragraphs 1 and 2, the user co-payment percentages or amounts, and other related matters shall be prescribed by the central competent authority.
+
+### Article 9
+
+Long-term care (LTC) services shall be categorized according to their modes of provision as follows:
+
+\1. Home-based services: Services delivered at the service user’s residence.
+
+\2. Community-based services: Services provided at designated community locations and facilities, including day care, adult foster care, temporary accommodation, group homes, small-scale multifunctional services, and other integrated services; provided, however, that this category does not include the services set out in subparagraph 3.
+
+\3. Residential institutional services: Services provided through residency in a facility, offering full-time care, overnight accommodation, or similar services.
+
+\4. Family caregiver support services: Fixed-site or in-home support services provided to family caregivers.
+
+\5. Other service modes announced by the central competent authority.
+
+The service modes listed in the preceding paragraph may be provided in combination by LTC institutions.
+
+For the integrated community-based services specified in subparagraph 2 of paragraph 1, the municipal or county (city) competent authority may convene community representatives, LTC service provider representatives, and experts and scholars to coordinate, deliberate, and advise on matters relating to LTC services and related plans, the delineation of service areas for integrated community-based LTC services, community workforce development, fee collection and reimbursement, personnel remuneration, service items, dispute resolution, and other related matters. Such mechanisms may also be established jointly with those provided for in Article 7.
+
+### Article 10
+
+The items of home-based long-term care (LTC) services are as follows:
+
+\1. Personal care services.
+
+\2. Assistance with activities of daily living.
+
+\3. Household services.
+
+\4. Meal provision and nutritional services.
+
+\5. Assistive device services.
+
+\6. Necessary home environment modifications and improvements.
+
+\7. Psychological support services.
+
+\8. Emergency assistance services.
+
+\9. Medical and healthcare services.
+
+\10. Services for the prevention of additional functional impairment or deterioration.
+
+\11. Other at-home LTC-related services recognized by the central competent authority.
+
+### Article 11
+
+The items of community-based long-term care services are as follows:
+
+\1. Personal care services.
+
+\2. Assistance with activities of daily living.
+
+\3. Temporary accommodation services.
+
+\4. Meal provision and nutritional services.
+
+\5. Assistive device services.
+
+\6. Psychological support services.
+
+\7. Medical and healthcare services.
+
+\8. Transportation and escort services.
+
+\9. Social participation services.
+
+\10. Services for the prevention of additional functional impairment or deterioration.
+
+\11. Other community-oriented LTC-related services recognized by the central competent authority.
+
+### Article 12
+
+The items of residential institutional long-term care services are as follows:
+
+\1. Personal care services.
+
+\2. Assistance with activities of daily living.
+
+\3. Meal provision and nutritional services.
+
+\4. Accommodation services.
+
+\5. Medical and healthcare services.
+
+\6. Assistive device services.
+
+\7. Psychological support services.
+
+\8. Emergency medical transport services.
+
+\9. Family education services.
+
+\10. Social participation services.
+
+\11. Services for the prevention of additional functional impairment or deterioration.
+
+\12. Other LTC-related services provided in a residential setting as recognized by the central competent authority.
+
+### Article 13
+
+The items of family caregiver support services are as follows:
+
+\1. Provision of information and referral services.
+
+\2. Training in long-term care (LTC) knowledge and skills.
+
+\3. Respite care services.
+
+\4. Referral to emotional support services and group support programs.
+
+\5. Other services that enhance the capabilities and quality of life of family caregivers.
+
+The application, assessment, provision, and other required procedures for the support services in the preceding paragraph shall be prescribed by the central competent authority.
+
+### Article 14
+
+The central competent authority shall periodically conduct surveys on long-term care (LTC) resources and needs, taking into consideration multicultural characteristics and the specific circumstances of outlying islands and remote areas, and shall formulate LTC service development plans and adopt necessary incentive and support measures based on the survey results.
+
+To ensure balanced development of LTC resources, the central competent authority may delineate LTC service network areas, plan regional resources, establish service networks and delivery systems, and develop workforce plans. In areas with excess resources, the establishment or expansion of LTC institutions may be restricted; in areas with insufficient resources, the competent authority shall provide incentives and support to strengthen the LTC service system.
+
+Plans for LTC services, delineation of LTC service network areas, and workforce development in Indigenous peoples’ regions shall be formulated and implemented jointly by the central competent authority and the central Indigenous peoples affairs authority.
+
+The central competent authority shall provide incentives and support for research related to innovative LTC services.
+
+The items and methods of incentives and support under paragraphs 1 and 2, the restrictions on the establishment or expansion of LTC institutions, and the regulations governing the delineation of LTC service network areas, workforce development, and other related matters under paragraph 2 shall be prescribed by the central competent authority.
+
+### Article 15
+
+The central competent authority shall establish a special fund to provide long-term care (LTC) services, expand and universalize LTC service capacity, promote the development of LTC-related resources, enhance service quality and efficiency, strengthen and balance service and workforce resources, and subsidize various expenditures.
+
+The sources of the fund shall be as follows:
+
+\1. The additional tax revenue generated from increasing the estate and gift tax rate from ten percent to a rate not exceeding twenty percent.
+
+\2. The additional tax revenue generated from increasing the tobacco excise on tobacco products from NT$590 to NT$1,590 per 1,000 sticks (or per kilogram).
+
+\3. Government budgetary appropriations.
+
+\4. Tobacco health and welfare surcharges.
+
+\5. Donation income.
+
+\6. Income derived from interest or other earnings of the fund.
+
+\7. Other income.
+
+The tax revenues increased pursuant to subparagraphs 1 and 2 of the preceding paragraph shall not be subject to the provisions of the Act Governing the Allocation of Government Revenues and Expenditures.
+
+The sources of the fund shall be reviewed two years after the implementation of this Act to ensure stable financial resources.
+
+### Article 16
+
+The central competent authority shall establish information systems for service user care management, workforce management, long-term care (LTC) institution management, service quality, and related matters, to serve as the basis for adjustments to LTC policies, and shall make such information publicly available in accordance with law.
+
+The competent authorities and all LTC institutions shall provide the information required for the systems described in the preceding paragraph.
+
+### Article 17
+
+When a non-profit long-term care (LTC) institution requires the use of publicly owned but non-publicly utilized real property to implement national policies, it may, through a special application, request the competent authority to refer the matter to the property management authority for lawful lease. The lease payment shall be calculated as the annual rent equivalent to the land value tax and building tax payable for the property for the current period in accordance with law.
+
+If the land referred to in the preceding paragraph requires a change in land use, the LTC institution shall submit a request through the competent authority for the relevant authority to process in accordance with applicable regulations.
+
+The central competent authority shall prescribe the procedures, requirements, and other compliance matters for the special application referred to in paragraph 1.
+
+## Chapter 3 Management of Long-Term Care Personnel
+
+### Article 18
+
+Long-term care (LTC) services listed as specific service items by announcement of the central competent authority shall be provided by LTC personnel.
+
+The content of training, continuing education, and on-the-job training for LTC personnel shall take into account regional, cultural, gender, specific disease, and caregiving experience differences.
+
+LTC personnel shall complete a required number of continuing education and on-the-job training credits.
+
+The central competent authority shall prescribe the regulations concerning the qualifications, training, certification, content and credit recognition of continuing education courses, validity period of certificates, and renewal of LTC personnel credentials.
+
+### Article 19
+
+LTC personnel shall not provide long-term care (LTC) services unless registered with an LTC institution. However, healthcare professionals and social workers who have completed the training and certification referred to in Article 18, paragraph 4, and are registered under other relevant laws, may provide such services with prior approval from the competent authority.
+
+An LTC institution shall not allow unregistered personnel to provide the LTC services specified in paragraph 1 of the preceding article.
+
+When there is any change in the registration information referred to in paragraph 1, the LTC institution shall submit the change to the competent authority of its location for approval within thirty days from the date of change.
+
+The central competent authority shall prescribe regulations regarding the requirements, procedures, locations, scope of services, revocation and annulment of qualifications, temporary support, and other compliance matters related to the registration under paragraph 1.
+
+### Article 20
+
+LTC personnel shall not disclose any confidential information of others that they become aware of or hold in the course of their duties, except as required by law.
+
+## Chapter 4 Management of Long-Term Care Institutions
+
+### Article 21
+
+Long-term care (LTC) institutions shall be classified according to the types of services they provide as follows:
+
+\1. Home-based service institutions.
+
+\2. Community-based service institutions.
+
+\3. Residential institutional service institutions.
+
+\4. Integrated service institutions.
+
+\5. Other service types announced by the central competent authority.
+
+### Article 22
+
+The LTC institutions specified in subparagraph 3 of the preceding article, as well as those specified in subparagraphs 4 and 5 that provide residential institutional services, shall be established as legal entities.
+
+The provisions of the preceding paragraph shall not apply to the following:
+
+\1. Public LTC institutions.
+
+\2. Private senior secondary schools or higher-level schools with LTC-related departments, provided that the facilities are used solely for teaching, practical training, and research purposes.
+
+Private institutions established before the enforcement of this Act to provide residential institutional LTC services in accordance with the Senior Citizens Welfare Act, the Nursing Personnel Act, or the Act for the Rights of Persons with Disabilities shall not be subject to the restriction in paragraph 1, except in cases of expansion or relocation.
+
+The establishment, organization, management, and other compliance matters concerning LTC institution legal entities referred to in paragraph 1 shall be governed by separate laws.
+
+### Article 23
+
+The establishment, expansion, or relocation of a long-term care (LTC) institution shall require prior approval from the competent authority.
+
+### Article 24
+
+The regulations governing the application requirements, establishment standards, and qualifications for persons in charge of long-term care institutions—as well as the application procedures, review criteria, and mandatory contents of the establishment permit for their establishment, expansion, or relocation—shall be determined by the central competent authority.
+
+Regarding the establishment and staffing of long-term care institutions in indigenous areas, the central competent authority shall determine these regulations in conjunction with the central indigenous authority.
+
+### Article 25
+
+Any suspension of operations, permanent closure, resumption of operations, or changes to the registered items on the establishment permit of a long-term care institution shall be reported to the competent authority for approval within thirty days prior to the date of occurrence.
+
+The period for the aforementioned suspension of operations shall not exceed one year. When necessary, an application for a one-time extension may be submitted for a maximum of one year; if this period is exceeded, the institution shall proceed with permanent closure.
+
+The aforementioned permanent closure shall be processed within thirty days from the date the suspension period expires; if not processed within the time limit, the competent authority may revoke the institution's establishment permit.
+
+The regulations governing the application procedures, review process, and other relevant matters for the first and second paragraphs shall be determined by the central competent authority.
+
+### Article 26
+
+Long-term care institutions established by government agencies (or entities) shall be prefixed with the name of the respective agency (or entity). Those established by private entities shall be prefixed with the word 'Private'.
+
+A long-term care institution shall display its name in a conspicuous font at its premises in accordance with the preceding paragraph, and shall further specify the category of the institution and the scope of services provided.
+
+### Article 27
+
+No entity other than a long-term care institution shall use a name that identifies it as such.
+
+### Article 28
+
+A long-term care institution shall not use any of the following names:
+
+\1. A name identical to that of an institution whose establishment permit has been revoked, or an institution already authorized for establishment by the competent authority within the same special municipality, county, or city.
+
+\2. A name that is likely to mislead the public into believing the institution is affiliated with a government agency or other non-profit/public welfare organizations.
+
+### Article 29
+
+An entity that is not a long-term care institution shall not engage in advertising for long-term care services.
+
+The advertising content of a long-term care institution shall be limited to the following matters:
+
+\1. The name of the long-term care institution and the mandatory disclosures stipulated in Paragraph 2 of Article 26; the date of establishment, permit license number, address, telephone number, and transportation routes.
+
+\2. The name, educational background, and professional experience of the person in charge.
+
+\3. The professional or technical certification numbers of the long-term care personnel, or the document serial numbers as prescribed by this Act.
+
+\4. Service delivery methods and operating hours.
+
+\5. The dates (year, month, day) of any suspension, closure, resumption of operations, or relocation.
+
+\6. The fee schedules as approved by the competent authority.
+
+\7. Other matters authorized for publication or broadcast via public announcement by the central competent authority.
+
+### Article 30
+
+A long-term care institution shall appoint one person in charge of operations who shall be held accountable for the supervision of the institution's operations.
+
+The aforementioned person in charge of operations shall serve in a full-time capacity. The qualifications for said position, as well as any permissible circumstances for concurrently holding other positions, shall be determined by the central competent authority.
+
+### Article 31
+
+In the event that the person in charge of operations of a long-term care institution is unable to perform their duties for any reason, a deputy who meets the qualifications of a person in charge of operations shall be designated to act on their behalf. If the period of such deputization exceeds thirty days, it shall be reported to the local competent authority for approval.
+
+The aforementioned period of deputization shall not exceed one year.
+
+### Article 32
+
+The central competent authority shall establish coordination and linkage mechanisms between the long-term care system, the medical system, and the social welfare services system to provide service users with effective referrals and integrated services.
+
+### Article 32-1
+
+Providers of long-term care services as prescribed in Articles 10 through 13 may enter into contracts with the special municipality or county (city) competent authorities to become contracted long-term care units.
+
+The regulations governing the eligibility requirements, application procedures, review criteria, contract terms, renewal conditions, grounds for non-contracting, handling of breaches, and other relevant matters for such contracted units shall be determined by the Central Competent Authority.
+
+### Article 32-2
+
+A contracted long-term care unit shall, for its employed long-term care personnel, handle the enrollment in Labor Insurance, Labor Occupational Accident Insurance, Employment Insurance, and National Health Insurance, and shall make monthly pension contributions in accordance with the Labor Insurance Act, Labor Occupational Accident Insurance and Protection Act, Employment Insurance Act, National Health Insurance Act, and Labor Pension Act.
+
+A contracted long-term care unit shall ensure that the labor conditions of its long-term care personnel comply with all relevant labor laws and regulations.
+
+### Article 33
+
+Residential long-term care institutions shall enter into medical service agreements with medical institutions capable of accepting timely referrals or providing necessary medical services.
+
+### Article 34
+
+Residential long-term care institutions and integrated long-term care institutions providing residential services shall maintain public accident liability insurance to ensure the safety and well-being of service users.
+
+The scope of coverage and minimum insurance amounts for the aforementioned insurance shall be determined by the central competent authority in consultation with the relevant industry authorities.
+
+### Article 35
+
+The central competent authority shall provide pricing reference information for long-term care institutions by assisting local competent authorities in evaluating regional income levels, consumer price indices (CPI), and service quality.
+
+The fee items and amounts charged by a long-term care institution shall be submitted to the competent authority of the service location for review and approval; the same shall apply to any subsequent changes.
+
+### Article 36
+
+When collecting fees, a long-term care institution shall issue a receipt clearly specifying the itemized charges and their respective amounts.
+
+A long-term care institution shall not violate the fee regulations set forth in the preceding article by overcharging or creating unauthorized fee items.
+
+### Article 37
+
+A long-term care institution shall conspicuously display within its premises its establishment permit, fee schedules, service items, and information regarding the grievance channels established by the competent authority.
+
+### Article 38
+
+A long-term care institution shall supervise its registered long-term care personnel in the preparation of service records regarding all matters related to the long-term care services provided.
+
+Regarding the medical care portion of the aforementioned records, in addition to complying with the retention requirements of medical laws and regulations, the long-term care institution shall preserve such records for a minimum of seven years.
+
+### Article 39
+
+The competent authority shall provide guidance, supervision, monitoring, inspection, and evaluation of long-term care institutions. When necessary, the authority may notify an institution to provide relevant service data; the long-term care institution shall provide necessary assistance and shall not evade, obstruct, or refuse such requests.
+
+The results of the aforementioned evaluations shall be made publicly available.
+
+The evaluations described in the first paragraph shall be categorized according to the type of long-term care institution. The regulations governing the target entities, evaluation criteria, methodology, qualifications and appointment of evaluators, training, and other relevant matters shall be determined by the central competent authority.
+
+### Article 39-1
+
+The competent authority shall dispatch personnel to inspect any premises where long-term care services are being provided without the establishment permit required under Article 23. The party being inspected shall not evade, obstruct, or refuse the inspection, and shall provide all necessary documents, data, or other assistance.
+
+When performing the aforementioned inspection, the personnel of the competent authority shall present official identification or display signs sufficient for identification.
+
+The competent authority shall refer or relocate the service recipients of the unauthorized provider mentioned in the first paragraph; the provider of said long-term care services shall cooperate fully.
+
+### Article 40
+
+The competent authority shall establish quality standards for long-term care services based on the following principles:
+
+\1. Person-centered care, providing appropriate and tailored services.
+
+\2. Transparency and public disclosure of information.
+
+\3. Participation of representatives from family caregiver groups.
+
+\4. Consideration of cultural diversity.
+
+\5. Assurance of quality of care and quality of life.
+
+### Article 41
+
+Upon the permanent closure or suspension of operations of a long-term care institution, the institution shall provide appropriate referrals or placement for its service users. If the institution is unable to facilitate such referrals or placement, the competent authority shall assist in the process, and the long-term care institution shall cooperate fully.
+
+If a long-term care institution fails to provide appropriate referrals or placement in accordance with the preceding paragraph, the local competent authority may exercise compulsory measures.
+
+Long-term care institutions that accept such referrals shall cooperate with the competent authority to provide all necessary assistance.
+
+## Chapter 5 Protection of Interest of Long-Term Care Service Users
+
+### Article 42
+
+When providing long-term care services, a long-term care institution shall enter into a written contract with the service user, their family, or the party responsible for payment.
+
+Regarding the format and content of the aforementioned contract, the central competent authority shall establish a template for standard form contracts, as well as the mandatory and prohibitory provisions to be included therein.
+
+### Article 43
+
+Without the written consent of the long-term care service user, it is prohibited to conduct video recording, audio recording, or photography of said user. Furthermore, it is prohibited to report or record their name, date of birth, residence, or any other information sufficient to identify their identity. In cases where the user is unable to express their intent, written consent must be obtained from their legal representative or the closest relative providing primary care.
+
+Within the scope necessary to maintain the safety of the long-term care service user, a long-term care institution may install monitoring equipment, and shall not be subject to the restrictions of the preceding paragraph; however, the institution shall inform the service user, their legal representative, or the closest relative providing primary care.
+
+### Article 44
+
+A long-term care institution and its personnel shall provide appropriate care and protection to service users. There shall be no acts of abandonment, physical or mental abuse, discrimination, injury, illegal restriction of personal freedom, or any other infringements upon the rights and interests of the service users.
+
+### Article 45
+
+The competent authority shall establish grievance, appeal, and mediation mechanisms to handle public complaints and disputes arising from the commissioned services of long-term care units.
+
+### Article 46
+
+Local competent authorities shall, either independently or in collaboration with private organizations, oversee the quality of long-term care services provided to service users in residential institutions who have no persons obligated to provide support or legal representatives; the long-term care institution shall not refuse such oversight.
+
+## Chapter 6 Penal Provisions
+
+### Article 47
+
+A long-term care institution found in any of the following circumstances shall be fined between NT$60,000 and NT$300,000, and the name of the institution and its person-in-charge shall be publicly disclosed:
+
+\1. Violating Article 23 by expanding or relocating without the permission of the competent authority.
+
+\2. Violating Paragraph 1 of Article 34 by failing to maintain public accident liability insurance.
+
+\3. Violating Paragraph 1 of Article 41 by failing to provide appropriate referrals or placement for service users, or failing to cooperate with the competent authority’s referral and placement measures.
+
+\4. Violating Article 44 by committing acts of abandonment, physical or mental abuse, discrimination, injury, illegal restriction of personal freedom, or other infringements upon the rights and interests of service users.
+
+For violations of Subparagraphs 1 or 2 of the preceding paragraph, the institution shall be fined and publicly disclosed, and ordered to rectify the violation within a specified time limit; those who fail to rectify by the deadline may be fined consecutively for each instance.
+
+For violations of Subparagraph 4 of the first paragraph, the institution shall be fined and publicly disclosed, and ordered to rectify within a specified time limit; those who fail to rectify by the deadline shall be subject to a suspension of operations for a period of one month to one year. If the violation is still not rectified upon the expiration of the suspension period, their establishment permit may be revoked.
+
+In cases where a violation of Subparagraph 4 of the first paragraph is deemed severe, the competent authority may directly revoke the institution's establishment permit.
+
+### Article 47-1
+
+Any entity that provides long-term care services without obtaining an establishment permit in accordance with Article 23 shall be subject to a fine of between NT$60,000 and NT$300,000 imposed on its person-in-charge, and the name of the entity and its person-in-charge shall be publicly disclosed; furthermore, consecutive fines may be imposed for each instance under any of the following circumstances:
+
+\1. Providing long-term care services.
+
+\2. Violating Paragraph 1 of Article 39-1 by evading, obstructing, or refusing an inspection by the competent authority.
+
+\3. Violating Paragraph 3 of Article 39-1 by failing to cooperate with the competent authority’s referral or placement measures.
+
+Any entity operating without an establishment permit that commits acts of abandonment, physical or mental abuse, discrimination, injury, illegal restriction of personal freedom, or other infringements upon the rights and interests of its service users shall be fined between NT$100,000 and NT$500,000, with public disclosure of the entity's name and its person-in-charge, and may be subject to consecutive fines.
+
+Any entity operating without an establishment permit found to have committed the acts described in the preceding paragraph resulting in the death of a service user shall be fined between NT$200,000 and NT$1,000,000, with public disclosure of the entity's name and its person-in-charge.
+
+### Article 48
+
+Where a long-term care institution violates the standards for establishment permits, the competent authority shall order the institution to rectify the violation within a specified time limit. If the violation is not rectified by the deadline, a fine of between NT$60,000 and NT$300,000 shall be imposed, and a further deadline for rectification shall be set. If the violation remains unrectified upon the second deadline, the institution's establishment permit may be revoked.
+
+### Article 48-1
+
+Where a contracted long-term care unit violates the provisions of Article 32-2, it shall be penalized in accordance with the respective laws violated. If the unit fails to comply after such penalties, the competent authority may suspend the referral of cases; where the circumstances are severe, the contract may be terminated.
+
+### Article 49
+
+A contracted long-term care unit that violates Paragraph 3 of Article 8-1 shall be fined between NT$30,000 and NT$150,000, and shall be ordered to collect the fees that were unauthorizedly waived or reduced within a specified time limit.
+
+A long-term care institution that violates Paragraph 2 of Article 36 shall be fined between NT$30,000 and NT$150,000, and shall be ordered to refund the fees that were overcharged or unauthorizedly collected within a specified time limit.
+
+### Article 50
+
+A fine of between NT$10,000 and NT$50,000 shall be imposed for any of the following circumstances:
+
+\1. Non-long-term care personnel who violate Paragraph 1 of Article 18 by providing specific long-term care service items designated by the Central Competent Authority.
+
+\2. A long-term care institution that violates Paragraph 2 of Article 19 by permitting non-long-term care personnel to provide long-term care services.
+
+\3. Any non-long-term care institution that violates Article 27 by using the name of a long-term care institution.
+
+### Article 51
+
+A long-term care institution that violates Paragraph 1 of Article 25, or publishes/broadcasts advertising content other than the items specified in the subparagraphs of Paragraph 2 of Article 29, or provides false advertising content, shall be fined between NT$10,000 and NT$50,000 and ordered to rectify the violation within a specified time limit. If the violation is not rectified by the deadline, consecutive fines may be imposed for each instance.
+
+A non-long-term care institution that violates Paragraph 1 of Article 29 by advertising long-term care services shall be fined between NT$10,000 and NT$50,000.
+
+### Article 52
+
+A long-term care institution that, when providing services, fails to enter into a written contract in accordance with Article 42, or whose contract content violates the mandatory and prohibitory provisions established by the central competent authority under Paragraph 2 of the same Article, shall be ordered to rectify the violation within a specified time limit. If the violation is not rectified by the deadline, a fine of between NT$10,000 and NT$50,000 shall be imposed, and consecutive fines may be imposed for each instance.
+
+### Article 53
+
+A long-term care institution found in any of the following circumstances shall be fined between NT$6,000 and NT$30,000:
+
+\1. Violating Paragraph 3 of Article 19 by failing to report the changes/turnover of its long-term care personnel to the local competent authority for approval within the time limit.
+
+\2. Violating Paragraph 1 of Article 31 by failing to designate a qualified acting proxy when the person-in-charge is unable to perform their duties, or failing to report a proxy period exceeding 30 days for approval.
+
+\3. Violating Article 33 by failing to enter into a medical service contract with a medical institution capable of providing timely referrals or necessary medical services.
+
+\4. Where its personnel violate Article 38 by failing to create or preserve service records, or by making false entries in professional records.
+
+\5. Violating Paragraph 1 of Article 39 by evading, obstructing, or refusing evaluation, guidance, supervision, assessment, inspection, or requests to provide relevant service data.
+
+For violations of Subparagraphs 2, 3, or 4 of the preceding paragraph, the institution shall be fined and ordered to rectify the violation within a time limit; those who fail to rectify by the deadline shall be subject to suspension of operations for a period of one month to one year.
+
+For institutions that fail an evaluation under Article 39, they shall be ordered to rectify within a time limit. If they fail to rectify:
+
+\1. Residential institutions shall be fined between NT$60,000 and NT$300,000.
+
+\2. Other service categories shall be fined according to Paragraph 1 (NT$6k–$30k) and may be fined consecutively.
+
+\3. In severe cases, the institution may be subject to suspension of operations (1 month to 1 year). If they still fail to improve after the suspension, their establishment permit may be revoked.
+
+While under an order to rectify, an institution shall not accept new service users until the improvement is verified. Violators shall be fined between NT$60,000 and NT$300,000, which may be imposed consecutively.
+
+### Article 54
+
+Any long-term care personnel who violate Article 20, any person-in-charge of a long-term care institution who violates Article 30, or any long-term care institution that violates Paragraph 1 of Article 43, shall be fined between NT$6,000 and NT$30,000 and ordered to rectify the violation within a specified time limit. If the violation is not rectified by the deadline and the circumstances are severe, a suspension of operations for a period of one month to one year shall be imposed.
+
+A long-term care institution that permits long-term care personnel to provide services without completing registration or obtaining the approval of the competent authority in accordance with Paragraph 1 of Article 19, shall be fined between NT$6,000 and NT$30,000.
+
+### Article 55
+
+A long-term care institution that violates Paragraph 1 of Article 36 or Article 37 shall be ordered to rectify the violation within a specified time limit. If the violation is not rectified by the deadline, a fine of between NT$6,000 and NT$30,000 shall be imposed.
+
+### Article 56
+
+Any long-term care personnel found in any of the following circumstances shall be fined between NT$6,000 and NT$30,000, and may additionally be subject to a suspension of practice for a period of one month to one year; in severe cases, their professional certification may be revoked:
+
+\1. Making false entries in records while performing professional duties.
+
+\2. Renting or lending their long-term care personnel certification to others for their use.
+
+\3. Violating Article 44 (the Anti-Abuse provision).
+
+### Article 57
+
+A long-term care institution that employs an individual caregiver who has not received the training prescribed in Paragraph 1 of Article 64 shall be fined between NT$3,000 and NT$15,000.
+
+### Article 58
+
+A fine of between NT$3,000 and NT$15,000 shall be imposed for any of the following circumstances:
+
+\1. A long-term care worker provides services without completing the registration process in accordance with Paragraph 1 of Article 19; or medical and social work professionals registered under other laws provide long-term care services without obtaining the prior consent of the competent authority.
+
+\2. A long-term care worker provides services after the validity period of their certification has expired and without completing the renewal of said certification.
+
+### Article 59
+
+A long-term care institution found in any of the following circumstances may have its establishment permit revoked:
+
+\1. Where obvious negligence in management results in the injury or death of a service user, and the circumstances are severe.
+
+\2. Where its personnel violate the provisions of this Act while providing services, the circumstances are severe, and the fault is attributable to the institution.
+
+\3. Where the institution fails to cease operations despite being subject to a suspension order.
+
+The determination of the severity of the circumstances in Subparagraphs 1 and 2 of the preceding paragraph shall be investigated by a Dispute Resolution Committee convened by the competent authority, and the party under investigation shall be given the opportunity to state their opinion; the composition of the Dispute Resolution Committee shall be determined by the Central Competent Authority.
+
+### Article 60
+
+The penalties prescribed in this Act shall be imposed by the local competent authority.
+
+## Chapter 7 Supplementary Provisions
+
+### Article 61
+
+Personnel who have been engaged in the long-term care services prescribed in this Act in accordance with other laws prior to the implementation of this Act may continue to provide long-term care services for two years following the implementation of this Act, and shall not be subject to the restrictions of Paragraph 1 of Article 18.
+
+Matters concerning the training courses for the aforementioned personnel, the integration of such courses with those prior to the implementation of this Act, the transition of original certifications, and the recognition standards shall be determined by the Central Competent Authority.
+
+### Article 62
+
+Agencies (institutions), legal persons, organizations, cooperatives, and firms that have been engaged in the long-term care services prescribed in this Act in accordance with other laws prior to the implementation of this Act may continue to provide long-term care services under the original applicable laws. However, the certification, continuing education, registration, and penalties for the personnel actually performing these long-term care services shall be governed by the provisions of this Act.
+
+### Article 63
+
+Long-term care institutions established as subsidiaries of Veterans Homes—which were founded under the Act of Assistance for Retired Military Personnel—specifically to provide long-term care services to retired military personnel and their co-residing dependents, shall be governed by this Act regarding establishment standards, qualifications of the person-in-charge, training and certification standards for personnel, and evaluations. However, the provisions of Articles 23, 25, and 35 regarding permit and approval procedures shall not apply. Instead, these institutions shall report to the local competent authority for record-keeping (filing) within 30 days after obtaining approval from their superior governing authority.
+
+The long-term care institutions mentioned in the preceding paragraph shall not be subject to the provisions of Article 14.
+
+### Article 64
+
+Individual caregivers shall receive training designated and announced by the central competent authority.
+
+For foreigners who enter the country for the first time after the implementation of this Act and are employed by families of persons with disabilities to engage in caregiving work, the employer may apply for them to receive supplementary training as prescribed by the central competent authority.
+
+The regulations governing the course content, fee items, application procedures, and other matters to be complied with for the aforementioned supplementary training shall be determined by the central competent authority.
+
+### Article 65
+
+The enforcement rules of this Act shall be determined by the central competent authority.
+
+### Article 66
+
+This Act shall come into force two years after the date of its promulgation.
+
+The amended provisions of this Act shall come into force on the date of their promulgation, with the exception of the provisions amended and promulgated on January 26, 2017, which came into force on June 3, 2017.
+
+## History
+
+1.Published by Presidential Order Hua-Zhong-Yi-Yi-Zhi No. 10400064391 dated 3 June 2015
+
+2.Date of amendment: January 26, 2017 (Articles 15, 22, 62, and 66 were amended)
+
+3.Amended on June 19, 2019
+
+4.Amended on June 9, 2021

@@ -1,0 +1,393 @@
+---
+title: "Political Parties Act"
+title_zh: "政黨法"
+identifier: "D0020078"
+type: act
+law_level: "法律"
+category: "行政＞內政部＞民政目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2017-12-06
+last_amended: 2017-12-06
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0020078"
+retrieved: 2026-10-12
+---
+
+# Political Parties Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-the-interior/D0020078-political-parties-act.md](../../../zh/laws/ministry-of-the-interior/D0020078-political-parties-act.md)) is authoritative.
+
+## Chapter 1. General Provisions
+
+### Article 1
+
+This Act is enacted in order to strengthen the party-based political process by establishing an environment of fair competition for political parties and ensuring that the organization and political operations of political parties comply with the principles of democracy.
+
+### Article 2
+
+In this Act, the term “competent authority” refers to the Ministry of the Interior.
+
+### Article 3
+
+In this Act, the term “political parties” refers to a group of citizens of the Republic of China who share a common political ideology, safeguard the free and democratic constitutional order, help shape the political will of the people, and nominate candidates for election to public office.
+
+### Article 4
+
+Political parties shall base their organizations in the free area of the Republic of China and are permitted to establish branch offices.
+
+Political parties shall establish their head office in the area stipulated in the preceding paragraph as the location where they shall base their organization.
+
+### Article 5
+
+The organization and operation of political parties shall comply with democratic principles.
+
+### Article 6
+
+Political parties shall receive fair and equal treatment when making use of public venues, mass media, or any other public facilities, and shall not receive differential treatment without legitimate reasons.
+
+## Chapter 2. Establishment of Political Parties
+
+### Article 7
+
+Within thirty (30) days of the founding assembly of a political party, applicants shall file with the competent authority a completed official registration application along with the party charter, a party roster that contains the signatures or seals of at least one hundred (100) members of the political party, a roster of the party leader, the minutes of the founding assembly, and the minutes of the party leader selection process. After having received all documents, the competent authority shall issue an official seal and a certificate of accreditation.
+
+Not less than (50) members of the political party must be in attendance at the assembly specified in the preceding paragraph; fifteen (15) days’ advance notice of the assembly must be given to the competent authority, which may dispatch personnel to attend the event.
+
+Political party leaders must be citizens of the Republic of China, be over twenty (20) years of age, have a registered permanent address, and must not be subject to any of the following conditions:
+
+\1. After the end of the period of mobilization for the suppression of the communist rebellion, the person received a final conviction and sentence for the offense of sedition or treason.
+
+\2. The person has received a final conviction and sentence for the offense of corruption.
+
+\3. The person has received a final conviction and sentence for violating the Presidential and Vice Presidential Election Recall Act by committing offenses detailed in Article 79, Article 80, Paragraph 1 or Paragraph 2 of Article 84, Subparagraph 1 of Paragraph 1 of Article 85 or the attempt thereof, Paragraph 1 of Article 86, Subparagraph 1 of Paragraph 1 of Article 87, having the intention to seek profit specified in Paragraph 1 of Article 88, by acting alone to commit offenses detailed in Paragraph 1 or Paragraph 2 of Article 84, Paragraph 1 of Article 86, or Subparagraph 1 of Paragraph 1 of Article 87, or to attempt to commit offenses detailed in Paragraphs 1, 6 or 7 of Article 89; the person has received a final conviction and sentence for violating the Public Official Election and Recall Act by committing offenses detailed in Article 93, Article 94, Paragraph 1 or Paragraph 2 of Article 97, Subparagraph 1 of Paragraph 1 of Article 98 or the attempt thereof, Paragraph 1 of Article 99, Paragraph 1 of Article 100, Paragraphs 1, 6, or 7 of Article 101, Subparagraph 1 of Paragraph 1 of Article 102, having the intention to seek profit specified in Article 103, by acting alone to commit offenses detailed in Paragraph 1 or Paragraph 2 of Article 97, Paragraph 1 of Article 99, Paragraph 1 or Paragraph 2 of Article 100, or Subparagraph 1 of Paragraph 1 of Article 102 or the attempt thereof; the person has received a final conviction and sentence for committing offenses detailed in Article 142 or Article 144 of the Criminal Code of the Republic of China.
+
+\4. The person has received a final conviction and sentence for any offense prescribed in the Organized Crime Prevention Act.
+
+\5. The person has received a final conviction for an offense other than those detailed in the preceding four subparagraphs and has been sentenced to imprisonment for a fixed term and either has not yet served their sentence or has not yet discharged their sentence. This provision shall not apply to persons who have been granted a probation or persons whose sentence is eligible to be converted into a fine or into social labor service.
+
+\6. The person has been sentenced to death, to life imprisonment, or to imprisonment for a fixed term of not less than ten (10) years, and the conviction is not yet final.
+
+\7. The person has received a final conviction, has been sentenced to compulsory work of rehabilitative disposition, and has not yet served their sentence, not yet discharged their sentence, or discharged their sentence within the past ten (10) years.
+
+\8. The person has received a final conviction, has been sentenced to other types of rehabilitative disposition and has not yet served their sentence or has not yet discharged their sentence.
+
+\9. The person has been declared bankrupt and has not recovered their rights.
+
+\10. The person is subject to an order of custodial protection or assistantship that has not yet been rescinded.
+
+If the party leader meets any of the preceding conditions, the competent authority shall reject the official registration application. If the official registration application has been filed and the party leader subsequently meets any of the preceding conditions, the political party shall provide written notice to the competent authority within fifteen (15) days and select a new party leader within three (3) months. If such written notice is not provided, the competent authority shall contact the political party with a deadline by which a new party leader must be selected.
+
+### Article 8
+
+The name and abbreviated name of a political party are subject to the following conditions:
+
+\1. The name or abbreviated name shall not be similar or identical to that of an established political party.
+
+\2. The name or abbreviated name shall not be formulated by adding words to the name or abbreviated name of an established political party.
+
+\3. The name or abbreviated name shall not be easily mistaken for a government agency or profit-seeking institution.
+
+\4. The name or abbreviated name shall not exhibit discriminatory or hateful characteristics.
+
+If the name or abbreviated name of a political party is not in compliance with any condition specified in any subparagraph of the preceding paragraph, the competent authority shall stipulate a time by which the political party shall be required to make necessary corrections; official registration applications of political parties that fail to make such corrections or remain noncompliant after corrections have been made shall be rejected.
+
+### Article 9
+
+After completing their official registration pursuant to Article 7, political parties shall register as a legal person at the district court of the jurisdiction where their main office is located. Within thirty (30) days of completing their registration as a legal person, political parties shall submit a photocopy of their legal person registration certificate to the competent authority for future reference.
+
+### Article 10
+
+Political parties shall register any changes to the party charter or party leader with the competent authority within thirty (30) days.
+
+If any of the conditions stipulated in Paragraph 3, Article 7 are met when applying to change the party leader, the change shall not be registered by the competent authority.
+
+Political parties that have completed legal person registration and registered changes to their charter or party leader with the competent authority shall also register said changes with the court. Within thirty (30) days, political parties shall submit a photocopy of their updated legal person registration certificate to the competent authority for future reference.
+
+## Chapter 3. Organization and Activities of Political Parties
+
+### Article 11
+
+Citizens of the Republic of China have the right to join or quit political parties.
+
+Political parties shall not recruit as members citizens of the Republic of China who are under sixteen (16) years of age. Political parties shall not force citizens of the Republic of China to join or quit the said party; this provision shall not apply to party members who have been expelled from the party for disciplinary reasons.
+
+Political party members are defined as those listed in the party roster.
+
+### Article 12
+
+The charter of a political party shall specify the following:
+
+\1. The party name and, when applicable, the abbreviated name
+
+\2. The party emblem, when applicable
+
+\3. The party objectives
+
+\4. The location of the main office of the party
+
+\5. The organization and authorities of the party
+
+\6. The conditions for member admission, resignation, discipline, dismissal, arbitration, and remedy
+
+\7. The rights and obligations of party members
+
+\8. The job titles, number, selection method, tenure, and grounds for dismissals of the party leader and elected personnel.
+
+\9. The party congress or representative assembly by-laws, duration, and manner of proposing and adopting resolutions
+
+\10. The procedures for revising the party charter
+
+\11. The amount of and collection method for political party membership dues
+
+\12. The sources of funding and accounting method
+
+\13. All other matters pursuant to the provisions of relevant laws and regulations
+
+### Article 13
+
+When filing their completed official registration application with the competent authority, newly established political parties may also submit a completed party emblem registration application and an electronic file of their party emblem.
+
+Established political parties that wish to change or register their party emblem shall submit to the competent authority their party charter, a completed party emblem registration application, and an electronic file of their emblem.
+
+The party emblem registration application shall specify the following information:
+
+\1. The name of the political party
+
+\2. The date of application
+
+\3. The symbolism of the emblem
+
+\4. An image of the emblem
+
+\5. The date of approval of the emblem by the founding assembly, party congress or representative assembly of the political party
+
+### Article 14
+
+Political party emblems are subject to the following conditions:
+
+\1. The emblem shall not be similar or identical to the emblem of an established political party.
+
+\2. The emblem shall not diminish the distinctiveness of the emblem of an established political party.
+
+\3. The emblem shall not exhibit discriminatory or hateful characteristics.
+
+If the emblem of a political party is not in compliance with any condition specified in any subparagraph of the preceding paragraph, the competent authority shall stipulate a time by which the political party shall be required to make necessary corrections; official registration applications of political parties that fail to make such corrections or remain noncompliant after corrections have been made shall be rejected.
+
+### Article 15
+
+A party congress composed of party members shall act as the highest authority of a political party. Political parties shall convene a party congress not less than once every two years.
+
+Representatives to a party congress shall be selected by the members of the political party pursuant to the party charter. The authority of the party congress shall be exercised by convening the party representatives.
+
+### Article 16
+
+For a resolution of the party congress or representative assembly to be approved, not less than one half (1/2) of the political party’s members, or the representatives thereof, must be in attendance, and of those in attendance not less than one half (1/2) must approve the resolution. However, the following resolutions require approval from at least two-thirds (2/3) of those in attendance:
+
+\1. Resolutions pertaining to the formulation of or revisions to the party charter
+
+\2. Resolutions pertaining to political party mergers or dissolutions
+
+### Article 17
+
+Political parties shall appoint personnel specifically responsible for matters such as interpretation of the party charter and handling disciplinary actions against, dismissals of, and remedies of party members.
+
+### Article 18
+
+Political parties shall not establish a party organization in any government agency, government institution, public business institution, administrative body, court, military service, or school; this shall not apply to party caucuses established in representative bodies at any level.
+
+## Chapter 4. Financing of Political Parties
+
+### Article 19
+
+The sources of funding and income for political parties shall be as follows:
+
+\1. Political party membership dues
+
+\2. Political donations accepted in accordance with relevant laws and regulations
+
+\3. Political party subsidies
+
+\4. Sales from publications and promotional materials created by political parties to publicize their philosophies or engage in promotional activities, as well as income generated from the granting or conceding of rights thereof
+
+\5. Other income collected in accordance with this Act
+
+\6. Interest generated from funds or income described in the preceding five subparagraphs
+
+### Article 20
+
+The calendar year shall be adopted as the fiscal year of a political party. Accrual basis accounting shall be employed, and account books shall be established to record the party accounts in detail.
+
+All accounting documents, except for those that must be kept permanently or that are unsettled accounting events, shall be kept for seven years after the completion of annual closing procedures; all account books, except for those involving open account items, shall be kept for ten years after the completion of annual closing procedures.
+
+### Article 21
+
+Political parties shall submit their annual property statements and financial statements of the previous year to the competent authority before May 31 each year.
+
+The annual property statements and financial statements shall contain the following documents:
+
+\1. A written report of the final accounts
+
+\2. A financial statement for income and expenditures
+
+\3. A balance sheet
+
+\4. An inventory of property
+
+The property and financial statements described in Paragraph 1 shall be signed or stamped by the party leader, audited and certified by a certified public accountant commissioned by the political party, and passed by the party congress or representative assembly. If no party congress or representative assembly is held in that year, that fact shall be noted in the statements, and the statements shall be ratified during the party congress or representative assembly held in the following year.
+
+The competent authority shall compile the property and financial statements described in Paragraph 1 within forty-five (45) days after the submission deadline and shall make the information publicly available in government bulletins, government newsletters, and on the internet.
+
+Political parties that fail to submit property statements and financial statements pursuant to Paragraphs 1 to 3 shall be notified by the competent authority of a date by which said statements must be submitted; political parties that submit statements that do not meet the requirements shall be notified by the competent authority of a date by which revised statements must be submitted. The competent authority shall make public announcements in government bulletins, government newsletters, or on the internet regarding political parties that fail to submit property statements and financial statements, fail to make required revisions to such statements, or remain noncompliant after corrections have been made.
+
+### Article 22
+
+The competent authority shall allocate a portion of its annual budget to subsidize political parties that have received at least three percent (3%) of the total votes in the most recent national legislative election for legislators-at-large and legislators residing overseas.
+
+The subsidy in the preceding paragraph shall be calculated on the basis of the number of votes received by the political party in the most recent national legislative election for legislators-at-large and legislators residing overseas; the political party shall be granted an annual subsidy of NT$50 per vote. The amount of the subsidy granted each fiscal year shall be calculated by the competent authority. The political party shall collect the subsidy within two months and shall provide a receipt to the competent authority at the time of collection; the subsidy shall be granted until the term of the aforementioned legislators expires
+
+Political parties that fail to collect the subsidy by the prescribed date shall receive notice from the competent authority that the subsidy must be collected within three months; political parties that fail to collect the subsidy within said three-month period shall forfeit the subsidy.
+
+The subsidy detailed in Paragraph 2 shall be used by political parties to defray campaign costs, personnel costs, office expenses, business expenses, policy research costs, and personnel training costs.
+
+### Article 23
+
+Aside from the activities detailed in Subparagraph 4, Article 19, political parties shall not operate or invest in profit-seeking businesses or engage in profit-seeking activities.
+
+### Article 24
+
+Political parties shall not purchase real estate. This shall not apply to real estate purchased for use as an office.
+
+## Chapter 5. Disciplinary Actions, Dissolutions and Mergers of Political Parties
+
+### Article 25
+
+When a competent authority deliberates whether to file an official record of concerns regarding the disciplinary actions, name, abbreviated name, the registered official emblem of a political party, or other related matters, the competent authority shall engage a committee of impartial members of society to reach a consensus on the course of action to be adopted.
+
+For the aforementioned committee, no more than one-third (1/3) of the members shall belong to the same political party, and no less than one third (1/3) of the members shall belong to the same gender.
+
+### Article 26
+
+Pursuant to Paragraph 5, Article 5 of the Additional Articles of the Constitution of the Republic of China, if there is cause for a political party to be dissolved, the competent authority shall collect pertinent evidence and petition the Taiwan Constitutional Court for a hearing.
+
+### Article 27
+
+A political party shall have its official registration revoked if it meets any of the following conditions:
+
+\1. Four consecutive years of failure to convene a representative assembly or party congress, even after a reminder with a prescribed compliance date is issued by the competent authority
+
+\2. Four consecutive years of failure to comply with relevant laws and regulations governing the nomination of candidates for election to public office
+
+\3. Failure to register as a legal person within one year after filing the official registration application of the political party
+
+### Article 28
+
+A political party may be dissolved or may be merged with another political party by resolution of its representative assembly or party congress.
+
+An official registration of the dissolution of a political party shall be filed with the competent authority within thirty (30) days.
+
+Political parties that merge to form a new political party shall do so in accordance with Paragraph 1, Article 7, and the rights and obligations of the original political parties shall be borne by the new political party. In accordance with Article 10, when a political party is dissolved due to a merger, its rights and obligations shall be borne by the surviving political party.
+
+### Article 29
+
+Filings of official registrations of the dissolution or removal of a political party shall be announced by the competent authority. Political parties that have registered as a legal person shall request the court to register the dissolution.
+
+### Article 30
+
+When a political party is dissolved by the Taiwan Constitutional Court, all operations shall terminate on the date of the judgement. Such political parties shall not establish replacement organizations featuring identical aims and goals.
+
+Political parties dissolved in the manner described in the preceding paragraph shall not use the name of the dissolved political party, or an abbreviated version thereof, to re-establish the political party or to campaign..
+
+On the effective date of the judgement by the Taiwan Constitutional Court or the announcement of dissolution by the competent authority, legislators-at-large and legislators residing overseas who were selected according to party-list proportional representation in national legislative elections by political parties that have been dissolved shall lose eligibility. This provision shall not apply to political parties that are dissolved due to a merger.
+
+### Article 31
+
+Eligibility shall remain unchanged for legislators-at-large and legislators residing overseas who were selected according to party-list proportional representation in national legislative elections by political parties that have undergone a merger. Vacant offices shall be filled according to the prepared list of the political party to which the office holder belonged prior to the merger and according to the order in which said list was prepared.
+
+If an individual party that is involved in a party merger fails to attain the proportion of the total vote stipulated in Paragraph 1, Article 22, that party shall not be eligible for a subsidy, regardless of whether the combined total votes of the merged parties satisfy said stipulated proportion.
+
+### Article 32
+
+A political party that is dissolved due to failure to register as a legal person or that has its official registration revoked shall liquidate party property in accordance with the party charter or with resolutions of the representative assembly or congress of the party. If there are no such provisions in the party charter and the representative assembly or congress of the party cannot be convened, the competent authority shall appoint a liquidator to handle the matter pursuant to the provisions governing liquidation in the Civil Code.
+
+After the property of the political party is liquidated, any remaining surplus shall belong to the national treasury.
+
+## Chapter 6. Penalties
+
+### Article 33
+
+During an internal party election for party leaders or for party officers at the national, special municipality, or county/city level, the following circumstances shall result in imprisonment for not more than three years and imposition of a fine not exceeding NT$300,000:
+
+\1. A qualified voter asks for expected promises, accepts bribes or other undue benefits in exchange for abstaining from voting or for casting vote for an agreed-upon purpose.
+
+\2. A qualified voter is induced to abstain from voting or to exercise their right to cast their vote for an agreed-upon purpose through asking for expected promises, accepting bribes.
+
+\3. A candidate is induced to forfeit an election or to hold certain agreed-upon campaign activities through bribery or through asking for expected promises, accepting bribes.
+
+\4. A candidate asks for expected promises, accepts bribes or other undue benefits in exchange for forfeiting an election or holding certain When a political party holds an internal election for party leaders or for party officers at the national, special municipality, or county/city level, all matters related to election operations shall be made public; the party shall specify the dates and times of the election, the election process, the qualifications of the candidates, and who is eligible to vote.
+
+Within five days of the announcement of an election, the political party shall file a report with the competent authority for future reference.
+
+### Article 34
+
+Political parties in violation of Article 23 shall be imposed a fine not less than NT$5 million nor more than NT$25 million. In cases of non-compliance with an order to cease operations or investments by a prescribed date, a separate fine may be imposed for each successive violation.
+
+### Article 35
+
+Political parties in violation of Article 24 shall be imposed a fine of not less than NT$5 million nor more than NT$25 million. In cases of non-compliance with an order to transfer the ownership of real estate by a prescribed date, a separate fine may be imposed for each successive violation.
+
+### Article 36
+
+For violations of Paragraphs 1 and 2 of Article 30, chief conspirators shall be imposed a fine of not less than NT$1 million nor more than NT$5 million, while all other accomplices shall be imposed a fine of not less than NT$50,000 nor more than NT$250,000. In cases of non-compliance with an order to cease unlawful conduct, a separate fine may be imposed for each successive violation.
+
+### Article 37
+
+Political parties in violation of Article 18 shall be imposed a fine of not less than NT$500,000 nor more than NT$2.5 million. In cases of non-compliance with an order to disband such caucuses by a prescribed date, a separate fine may be imposed for each successive violation.
+
+### Article 38
+
+Political parties in violation of Article 20 shall be imposed a fine of not less than NT$500,000 nor more than NT$2.5 million.
+
+### Article 39
+
+Political parties in violation of Paragraph 4, Article 7 shall be imposed a fine of not less than NT$200,000 nor more than NT$1 million. In cases of non-compliance with an order to cease the unlawful conduct, a separate fine may be imposed for each successive violation.
+
+### Article 40
+
+Political parties in violation of Paragraph 1 or Paragraph 3 of Article 21 through failure to submit documents or failure to submit documents in accordance with legally stipulated procedures shall receive notice from the competent authority of the date by which the documents or revised documents must be submitted. Political parties that fail to submit the documents by the prescribed date shall be imposed a fine of not less than NT$1,000,000 nor more than NT$5,000,000. Political parties that fail to submit revised documents or that submit revised documents that fail to meet the requirements shall be imposed a fine of not less than NT$200,000 nor more than NT$1 million. In cases of non-compliance with an order to cease the unlawful conduct, a separate fine may be imposed for each successive violation.
+
+### Article 41
+
+Political parties in violation of Paragraph 2, Article 11 shall be imposed a fine of not less than NT$100,000 nor more than NT$500,000. In cases of non-compliance with an order to cease unlawful conduct, a separate fine may be imposed for each successive violation.
+
+## Chapter 7. Supplementary Laws and Regulations
+
+### Article 42
+
+If a political party fails to pay a fine imposed in accordance with this Act by the prescribed date the competent authority shall recover the fine by deducting the balance from the subsidy allocated for said political party pursuant to Paragraph 1, Article 22.
+
+### Article 43
+
+Political parties that have organizations, charters, or related matters that are not in compliance with this Act and that filed an official registration application in accordance with the Civil Associations Act prior to the implementation of this Act shall have two years from the effective date to make any necessary revisions. Political parties that fail to file necessary revisions by the prescribed date or that submit revisions that fail to meet the requirements shall have their official registration revoked.
+
+Political associations that were registered in compliance with the Civil Associations Act prior to the implementation of this Act shall have two years from the effective date to make necessary revisions to their charter. Political associations that fail to make necessary revisions by the prescribed date or that submit a revised charter that fails to meet the requirements shall have their official registration revoked.
+
+Political associations that have their official registration revoked pursuant to the preceding paragraph shall be dissolved and their property shall be liquidated in accordance with the provisions of Article 32 of this Act.
+
+### Article 44
+
+The electronic file format specifications for documents, forms, and political emblems detailed in this Act shall be determined by the competent authority.
+
+### Article 45
+
+Following the effective date of this Act, Paragraph 6, Article 43 of the Civil Servants Election and Recall Act and provisions related to political parties in the Civil Associations Act shall no longer apply.
+
+### Article 46
+
+This Act shall take effect on the date of promulgation.
+
+## History
+
+1.Forty-six articles promulgated by Presidential Order No. Hua-Zong-1-Yi 10600146581 on December 6, 2017

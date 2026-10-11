@@ -1,0 +1,593 @@
+---
+title: "Sexual Assault Crime Prevention Act"
+title_zh: "性侵害犯罪防治法"
+identifier: "D0080079"
+type: act
+law_level: "法律"
+category: "行政＞衛生福利部＞保護服務目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1997-01-22
+last_amended: 2023-02-15
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0080079"
+retrieved: 2026-10-12
+---
+
+# Sexual Assault Crime Prevention Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-health-and-welfare/D0080079-sexual-assault-crime-prevention-act.md](../../../zh/laws/ministry-of-health-and-welfare/D0080079-sexual-assault-crime-prevention-act.md)) is authoritative.
+
+## Chapter 1 General Provisions
+
+### Article 1
+
+The Sexual Assault Crime Prevention Act (the “Act”) is enacted for the purpose of preventing sexual assault crimes and protecting the rights and interests of Victims.
+
+### Article 2
+
+Definitions of the terms used in the Act are as follows:
+
+\1.  “Sexual Assault Crime” refers to an offense (committed) in violation of any of Articles 221 to 227, Article 228, Article 229, Subparagraph 2 of Paragraph 2 of Article 332, Subparagraph 2 of Paragraph 2 of Article 334, or Subparagraph 1 of Paragraph 2 of Article 348 of the Criminal Code, or any other special laws of the Criminal Code;
+
+\2.  “Offender” refers to a person convicted guilty, by a final judgment, of committing any of the offenses referred to in the preceding Subparagraph;
+
+\3.  “Victim” refers to a person who is, or who is suspected of being, sexually assaulted; and
+
+\4.  “Specialist” refers to a person with expertise (developed from or through professional knowledge, skills, experience, training, or education) who provides assistance in the interrogation (examination) of a child or a mentally disabled person involved in a sexual assault case.
+
+### Article 3
+
+The competent authorities referred to in the Act are the Ministry of Health and Welfare at the central level, municipal governments at the municipal level, and county (city) governments at the county (city) level.
+
+### Article 4
+
+The duties and responsibilities of the competent authorities and the competent regulatory authorities specified in the Act are as follows:
+
+\1.  the competent authorities for the administration of social affairs: protection and assistance to Victims, regular publication of statistics related to sexual assaults, and other relevant matters;
+
+\2.  the competent authorities for the administration of health affairs: medical examinations, collection of evidence, and physical and psychological treatment for Victims; physical and psychological treatment, counseling, and education for Offenders; and other relevant matters;
+
+\3.  the competent authorities for the administration of education-related affairs: sexual assault prevention education at every school level (including the preschool level), protection of the right to education of Victims and their children, and other relevant matters;
+
+\4.  the competent authorities for the administration of labor affairs: vocational training and employment services for Victims, protection of labor rights and interests of Victims, and other relevant matters;
+
+\5.  the competent authorities for the administration of police administrative affairs: protection of personal safety of Victims; investigation of and compilation of statistics related to Sexual Assault Crimes; registration of Offenders, reporting of Offenders, visiting Offenders, access to records of Offenders; and other relevant matters;
+
+\6.  the competent authorities for the administration of legal affairs and law enforcement: investigation of Sexual Assault Crimes, corrective measures and medical treatment for Offenders during imprisonment, and other relevant matters;
+
+\7.  the competent authorities for the administration of immigration affairs: assistance to Victims who are nationals without registered permanent residence in the Taiwan Area, foreign nationals, stateless persons, people of the Mainland China Area, or residents of Hong Kong or Macao, that have overstayed in the Taiwan Area as a result of being sexually assaulted, in protecting their rights and interests to visit or reside in Taiwan, as well as their follow-up repatriation; and assistance in the follow-up deportation and other relevant matters of Offenders who are nationals without registered permanent residence in the Taiwan Area, stateless persons, foreign nationals, people of the Mainland China Area, or residents of Hong Kong or Macao;
+
+\8.  the competent authorities for the administration of cultural affairs: handling of publications in violation of the Act and other relevant matters;
+
+\9.  the competent authorities for the regulation of telecommunications and broadcasting services: handling any violation of the Act by any broadcaster, any television (company), or any other media regulated and supervised by the competent authorities in accordance with the law, and other relevant matters;
+
+\10.  the competent authorities for the administration of household registration: provision of personal identification data and household registration records of Victims as well as their underage children, and other relevant matters; and
+
+\11.  other sexual assault prevention measures shall be carried out by the relevant competent regulatory authorities in accordance with their respective duties and responsibilities.
+
+### Article 5
+
+The central competent authority is responsible for the following:
+
+\1.  planning, promotion, oversight, and establishment and formulation of sexual assault prevention policies and related regulations;
+
+\2.  oversight of the implementation of sexual assault prevention endeavors;
+
+\3.  coordination of governments of all levels in establishing procedures dealing with sexual assault cases, prevention measures against sexual assault, and corresponding medical networks;
+
+\4.  promotion and education on the prevention of sexual assault;
+
+\5.  building, collection, statistics compilation, and management of data of individual Victims and data of physical and psychological treatment, counseling, and education of Offenders; and
+
+\6.  any other matters relating to the prevention of sexual assault.
+
+When carrying out the matters referred to in the preceding Paragraph, the central competent authority shall select and recruit (or appoint) scholars, experts, representatives of non-governmental organizations, and representatives of relevant government agencies for consultation. The number of scholars, experts, and representatives of non-government organizations shall not be less than one-half of the total number of all people mentioned above. Any gender of all people mentioned above shall not be less than two-fifths of the total number of all people mentioned above.
+
+Regulations governing the scope, sources, management, and use of, as well as any other relevant matters in connection with, the data referred to in the Subparagraph 5 of Paragraph 1 of this Article shall be formulated by the central competent authority.
+
+### Article 6
+
+The competent authorities of special municipalities and counties (cities) shall integrate the operation and manpower of their agencies for the administration of affairs of police, education, health, social, labor, news, household registration, and other related agencies to establish sexual assault prevention centers, and shall coordinate relevant agencies to handle the following:
+
+\1.  providing a twenty-four (24)-hour hotline service;
+
+\2.  providing Victims with a twenty-four (24)-hour emergency rescue service;
+
+\3.  assisting Victims in obtaining medical treatment, taking medical examinations, and collecting evidence;
+
+\4.  assisting Victims in obtaining psychological treatment, counseling, emergency placement, and legal consultations and services;
+
+\5.  coordinating medical institutions and facilities to set up medical teams designated to deal with sexual assault cases;
+
+\6.  offering Offenders physical and psychological treatment, counseling, and education;
+
+\7.  the registration of Offenders, reporting of Offenders, visiting Offenders, and access to records of Offenders;
+
+\8.  referring Offenders to take rehabilitation counseling;
+
+\9.  promoting sexual assault prevention education, training, and advocacy.
+
+\10. convening cross-network conferences on the prevention of recidivism of Offenders.
+
+\11.  handling other matters related to the prevention and protection against sexual assault.
+
+The sexual assault prevention centers mentioned in the preceding Paragraph may be merged with domestic violence prevention centers and shall be staffed with social workers, police, medical teams, and other professionals. The organization of the abovementioned center shall be arranged by the competent authority of the respective special municipality or of the respective county (city).
+
+### Article 7
+
+Articles 31, 33, 34, 35, 42, and 43 of this Act apply mutatis mutandis to one who is convicted guilty, by a final judgment, of committing an offense prescribed in Paragraph 1 of Article 25 of the Sexual Harassment Prevention Act, or Paragraph 1 of Article 319-2 of the Criminal Code.
+
+Articles 8, 9, 12, 13, 15, 16, and 18 to 28 of this Act apply mutatis mutandis to one who commits an offense prescribed in Articles 319-1, 319-2, 319-3, or 319-4 of the Criminal Code.
+
+Articles 8, 9, 12, 15, 16, and 18 to 28 of this Act apply mutatis mutandis to one who commits an offense prescribed in Articles 304, 305, or 346 of the Criminal Code by means of sexually explicit images or images of a sexual nature prescribed in Articles 319-1, 319-2, or 319-3 of the Criminal Code.
+
+## Chapter 2 Prevention and Reporting
+
+### Article 8
+
+Within the scope of their duties and responsibilities, the competent authorities and the competent regulatory authorities shall, taking into account the call for the prevention of sexual assault and the recognition of diverse cultural differences, take the initiative to plan for the prevention, promotion, education, and other necessary measures (against sexual assault), and shall fully collaborate with other relevant agencies in any prevention operations (against sexual assault) engaging other relevant agencies.
+
+### Article 9
+
+All schools at the senior secondary education level or other lower levels shall hold at least two (2) hours of courses on the prevention of sexual assault each semester.
+
+The sexual assault prevention courses referred to in the preceding Paragraph shall teach students the following:
+
+\1. respect for the sexual autonomy of others;
+
+\2. awareness of sexual assault crimes;
+
+\3. how to deal with sexual assaults;
+
+\4. techniques to prevent sexual assaults; and
+
+\5. other education related to the prevention of sexual assaults.
+
+Preschools shall hold courses on the education and promotion regarding the prevention of sexual assault.
+
+Agencies, troops, schools, institutions, or employers with more than thirty (30) members, employees, or service personnel shall regularly conduct, or encourage their affiliated personnel to attend, training on the prevention of Sexual Assault Crimes.
+
+### Article 10
+
+Courts, prosecutors offices, judicial police agencies, and medical institutions shall allocate specially trained officers designated to handle sexual assault cases.
+
+The specially trained, designated officers referred to in the preceding Paragraph shall take at least six (6) hours of training courses on the prevention of sexual assault each year.
+
+The agencies specified in Paragraph 1 of this Article shall duly provide education and training to enrich the competence and expertise of judicial police, judicial police officers, prosecutor’s investigators, prosecutors, or judges who investigate or try sexual assault cases involving children or persons with mental disabilities. The abovementioned education and training shall include courses on how to interrogate (examine) children or persons with mental disabilities involved in such cases.
+
+The medical institutions referred to in Paragraph 1 of this Article shall be designated by the central competent authority and shall establish medical teams that handle sexual assault cases.
+
+### Article 11
+
+Medical workers, social workers, educational workers, nursing personnel, preschool educators, police officers, labor administration staff, judicial officers, immigration officers, officers of corrective institutions, and village (township) officers who become aware of any circumstances suspected to be any Sexual Assault Crime while performing their duties shall report such circumstances to the competent local authority of the respective special municipality or county (city) within twenty-four (24) hours following their awareness of such circumstances.
+
+Unless the law provides otherwise, the content of the report, the name and address of the reporter, and any information sufficient to identify the said reporter, as referred to in the preceding Paragraph, shall be kept confidential.
+
+Upon receiving a report described in Paragraph 1 of this Article, the competent authority of the special municipality or county (city) shall immediately send personnel to assess the needs of a Victim (or Victims) and provide (the said Victim(s) with appropriate) services.
+
+### Article 12
+
+When the competent authority of a special municipality or county (city) receiving a report described in Paragraph 1 of the preceding Article learns that the actor(s) is (or are) a child (or children) or a teenager (or teenagers), the said competent authority should, pursuant to relevant laws and regulations, refer the said actor(s) to the respective competent authorities for (obtaining) education, psychological therapy or counseling, legal counseling, or other services.
+
+### Article 13
+
+An internet platform provider, an internet application service provider, or an internet access service provider, who learns of any circumstances suspected to be any Sexual Assault Crime from any Internet content protection agencies, competent authorities, police agencies, or other agencies, shall spontaneously restrict the browsing of, or remove, webpage materials related to any such crimes.
+
+The crime-related webpage materials referred to in the preceding Paragraph, as well as the personal data and Internet usage records of any suspect, shall be kept for one hundred eighty (180) days and shall be provided to judicial and police agencies for investigations.
+
+## Chapter 3 Victim Protection
+
+### Article 14
+
+Medical institutions may not, without justification, refuse to provide medical treatment or issue a medical certificate of diagnosis to a Victim.
+
+When providing diagnosis and medical treatment to a Victim, a medical institution shall arrange nursing staff to accompany the said Victim, protect the privacy of the said Victim, and provide a safe and appropriate medical environment.
+
+The format of a medical certificate of diagnosis referred to in Paragraph 1 of this Article shall be formulated by the central competent authority.
+
+### Article 15
+
+Unless the law provides otherwise, one shall keep confidential the name, date of birth, residential address, or any other personally identifiable information of a Victim, known to him or in his possession by reason of his office or employment.
+
+The police shall take measures to protect the safety of Victims when necessary.
+
+Documents made known to the public by administrative agencies or judicial agencies may not reveal the name, date of birth, residential address, or any other personally identifiable information of a Victim.
+
+### Article 16
+
+No (entity or organization of any) publicity materials, publications, broadcast, television, Internet source, or any other types of media, may report or cover the name or any other personally identifiable information of a Victim. However, the aforesaid does not apply to any of the following circumstances:
+
+\1. a grown-up Victim has consented to the report or covering of his personally identifiable information. However, if a Victim is mentally disabled or has been placed under custodianship or guardianship, the information shall be provided (to the said Victim during the process of obtaining the consent of the said Victim to the report or covering of personally identifiable information of the said Victim) in a manner understandable to the said Victim. Moreover, the report or covering of personally identifiable information of a Victim who has been placed under custodianship requires the consent of the said Victim’s custodian (to the said disclosure); or
+
+\2. a competent prosecutor or a competent court finds the disclosure of personally identifiable information of a Victim necessary according to the laws.
+
+When giving his consent, a custodian referred to in the proviso of Subparagraph 1 of the preceding Paragraph shall respect the wish(es) of the Victim who has been placed under custodianship.
+
+When a custodian referred to in the proviso of Subparagraph 1 of Paragraph 1 of this Article is a suspect or a defendant of a Sexual Assault Crime, the name or any other personally identifiable information of a Victim may not be reported or recorded.
+
+Any person other than those referred to in Paragraph 1 of this Article may not, through the media or other means, reveal to the public or disclose the name or any other personally identifiable information of a Victim.
+
+### Article 17
+
+Unless the Code of Criminal Procedure provides otherwise or a Victim is unconscious or unable to give his consent, a medical examination on and collection of evidence from a Victim shall be conducted only with the consent of the said Victim and in accordance with any of the following:
+
+\1. if a Victim is mentally disabled or has been placed under custodianship or guardianship, the information shall be provided (to the said Victim during the process of obtaining the consent of the said Victim to the conduction of a medical examination on or collection of evidence from the said Victim) in a manner understandable to the said Victim. Moreover, a medical examination on, and collection of evidence from, a Victim who has been placed under custodianship requires the consent of the custodian of the said Victim; or
+
+\2. a medical examination on, and collection of evidence from, a Victim under twelve years old requires the consent of the guardian(s) of the said Victim.
+
+When giving his consent, a custodian referred to in Subparagraph 1 of the preceding Paragraph shall respect the wish(es) of the Victim who has been placed under custodianship.
+
+When giving his consent, a guardian referred to in Subparagraph 2 of Paragraph 1 of this Article shall consider the best interest of the child concerned as a priority and weigh the said child’s opinion according to the mental maturity of the said child.
+
+A medical examination and collection of evidence may nonetheless be conducted when a custodian or a guardian referred to in Subparagraph 1, or Subparagraph 2, of Paragraph 1 of this Article is unknown, hard to reach, or a suspect of a Sexual Assault Crime.
+
+Any evidence collected pursuant to Paragraph 1 of this Article shall be placed in an evidence bag, and the judicial police agency shall immediately deliver the said evidence to the National Police Agency of the Ministry of the Interior for forensic examination. The forensic report shall be properly preserved in accordance with the law.
+
+Prior to the institution of a complaint, or the filing of a private prosecution, by a Victim against a Sexual Assault Crime requiring the institution of a complaint by a Victim, the judicial police agency shall deliver the evidence (related to the said Sexual Assault Crime) to the competent authority of the special municipality or county (city), where the said Sexual Assault Crime took place, for the safekeeping of the said evidence. Except that the suspect (of the said Sexual Assault Crime) remains unknown, the competent authority keeping the aforesaid evidence may destroy the said evidence after keeping the said evidence for six (6) months.
+
+### Article 18
+
+A guardian, spouse, lineal or collateral consanguinity within the third degree of kinship, parent, family member, physician, psychiatrist, counselor, or social worker of a Victim, or anyone whom a Victim trusts, may accompany the said Victim during an investigation or a trial, and the accompanying companion may state his or her opinion.
+
+The preceding Paragraph does not apply to an eligible accompanying companion referred to in the preceding Paragraph if the said accompanying companion is a suspect or a defendant of a Sexual Assault Crime or if a prosecutor, a prosecutor’s investigator, a judicial police officer, or a judicial policeman believes that the presence of the said accompanying companion will obstruct the investigation process.
+
+Unless it is clearly unnecessary, the competent authority of the responsible special municipality or county (city) shall appoint a social worker to be present and accompany a child or juvenile Victim during an investigation or a trial, and the appointed social worker may state his or her opinion.
+
+### Article 19
+
+During an investigation or a trial, a Specialist must be present and assist in an interrogation (examination) of a child or mentally disabled Victim when a judicial policeman, a judicial police officer, a prosecutor’s investigator, a prosecutor, or a judge finds it necessary.
+
+A Specialist referred to in the preceding Paragraph shall, prior to the beginning of the interrogation (examination) of a child or mentally disabled Victim, evaluate the communication ability and needs of the said Victim, and offer an explanation about the result of his or her assessment, as well as his or her corresponding suggestions, to the responsible judicial police, judicial police officer, prosecutor’s investigator, prosecutor, or judge (conducting an investigation of or presiding at the trial for the said Sexual Assault Crime).
+
+When providing assistance in an interrogation (examination) of a Victim in accordance with Paragraph 1 of this Article, a Specialist may offer proper suggestions if a question raised by a judicial policeman, a judicial police officer, a prosecutor’s investigator, a prosecutor, a judge, a defendant, or a defense counsel of a defendant is inappropriate or could not be properly answered by the said Victim. A Specialist may, when necessary, and with the permission of the responsible judicial police, judicial police officer, prosecutor’s investigator, or prosecutor in an investigation, or with the permission of a judge presiding at the trial, interrogate a Victim directly.
+
+A judicial policeman, a judicial police officer, a prosecutor’s investigator, a prosecutor, a judge, a defendant, or a defense counsel of a defendant, may use a one-way mirror, audio-visual transmission technical equipment, or other appropriate isolation measures to facilitate the assistance provided by a Specialist in an interrogation (examination) of a child or mentally disabled Victim.
+
+The entire process of an assessment of and that of an interrogation of a child or mentally disabled Victim directly conducted by a Specialist during an investigation or a trial shall be audio-recorded and video-recorded.
+
+### Article 20
+
+The provisions prescribed in Sections 2 and 3 of Chapter 12 of the Code of Criminal Procedure shall apply mutatis mutandis to the matters conducted by a Specialist when the said Specialist provides assistance in an interrogation (examination) of a child or mentally disabled Victim in accordance with the preceding Article.
+
+Regulations governing the qualification(s) of, criteria for, remuneration payment(s) to, ways to offer an explanation or a suggestion, and other matters related to a Specialist referred to in the preceding Article shall be formulated by the central competent authority after consulting relevant agencies.
+
+### Article 21
+
+The two preceding Articles shall apply mutatis mutandis to a child or mentally disabled Victim in a juvenile protection matter or a juvenile criminal case.
+
+### Article 22
+
+In addition to the application of relevant provisions prescribed in the Code of Criminal Procedure or the Juvenile Justice Act, Article 19 of this Act may, if necessary, apply mutatis mutandis when a suspect, a defendant, or a juvenile in a juvenile protection matter, is mentally disabled.
+
+### Article 23
+
+An examination or questioning of a Victim by a court may, upon petition or sua sponte, be conducted outside the court, via audio or video transmission technical equipment, or via any other appropriate isolation measures, so as to separate a Victim from a defendant or a judge.
+
+A court shall adopt the isolation approach prescribed in the preceding Paragraph when a child Victim, a juvenile Victim, a mentally disabled Victim, or a physically or psychologically injured Victim is unable to make a free or complete statement during a face-to-face questioning in court.
+
+A court may conduct an examination of a Victim instead when a party, or a defense counsel of a defendant, is forbidden from questioning a Victim because the said party, or the said defense counsel, inappropriately questioned the said Victim.
+
+Neither a defendant nor his defense counsel may raise any question about, or present, any evidence of a Victim’s sexual experience with any person other than the said defendant, unless the court finds it necessary.
+
+### Article 24
+
+During an investigation or a trial, the prosecution or the court may, sua sponte or upon petition, appoint or choose an expert witness from a relevant professional field to provide his professional opinion. The opinion provided by the aforesaid appointed or chosen expert witness summoned to be present in court may be admitted as evidence for the trial, and Articles 163 to 171, Article 175, and Article 199 of the Code of Criminal Procedure apply mutatis mutandis.
+
+### Article 25
+
+A court shall immediately take action to stop any statement or action by a defendant or his defense counsel during the trial that implies any sexual discrimination against a Victim.
+
+### Article 26
+
+A statement made by a Victim to a prosecutor’s investigator, a judicial police officer, or a judicial policeman during an investigation, which has been proven to be plausible and is necessary for establishing the facts relevant for the determination of guilt (or innocence), may be admitted as evidence for a trial, if any of the following occurs or applies to a Victim during the trial:
+
+\1. a Victim is unable to make a statement due to the physical or psychological trauma suffered by the said Victim as a result of sexual assault;
+
+\2. a Victim is unable to or refuses to make a statement during the examination or questioning at the trial due to physical or psychological pressure; or
+
+\3. a statement made during an interrogation (examination) conducted in accordance with Article 19 of this Act.
+
+A statement made by a Victim during an interrogation directly conducted by a Specialist, in an investigation process, in accordance with the latter part of Paragraph 3 of Article 19 of this Act, may be admitted as evidence, except that the statement made by a Victim is clearly implausible.
+
+### Article 27
+
+A trial for a Sexual Assault Crime is not open to the public. However, a trial for a Sexual Assault Crime may be made public on condition that a Victim of the said Sexual Assault Crime is an adult and making the said trial public has been consented to by the said Victim and is found necessary by the court.
+
+If a Victim referred to in the preceding Paragraph is mentally disabled or has been placed under custodianship or guardianship, the information shall be provided (to the said Victim during the process of obtaining the consent of the said Victim to make the abovementioned trial public) in a manner understandable to the said Victim. Moreover, making the abovementioned trial public requires the consent of the custodian of a Victim if the said Victim has been placed under custodianship. When giving his consent, the abovementioned custodian shall respect the wish(es) of the Victim who has been placed under custodianship.
+
+When a custodian referred to in Paragraph 2 of this Article is a defendant of the said Sexual Assault Crime, the trial for the said Sexual Assault Crime shall not be made public.
+
+### Article 28
+
+Upon application of a Victim, the competent authority of the special municipality or county (city) shall provide the following subsidies:
+
+\1. fees for medical treatment, medical examination, or collection of evidence, any of which is not covered by National Health Insurance, as well as fees for psychological recovery;
+
+\2. litigation fees and lawyer’s fees; and
+
+\3. other costs.
+
+Self-government ordinances and regulations governing the candidates entitled to, criteria for, the amount of, and other matters related to the abovementioned subsidies, referred to in the preceding Paragraph, shall be formulated by the competent authorities of the responsible special municipality or county (city).
+
+## Chapter 4 Offender Treatment
+
+### Article 29
+
+An Offender shall endure, and may not reject, the taking of his photos, the collection of his fingerprints, and the sampling of his deoxyribonucleic acid (DNA) conducted by a judicial police agency.
+
+The central competent authority for the administration of police administrative affairs shall set up archives archiving the photographs, fingerprints, records of deoxyribonucleic acid (DNA) samples, and basic personally identifiable information of Offenders.
+
+The content of the archives referred to in the preceding Paragraph shall be kept confidential and shall not be revealed, unless the law provides otherwise.
+
+Regulations governing the taking of photographs, collection of fingerprints, and sampling of deoxyribonucleic acid (DNA) referred to in Paragraph 1 of this Article, as well as the content, management, and other relevant matters of the data referred to in Paragraph 2 of this Article, shall be formulated by the central competent authority for the administration of police administrative affairs.
+
+### Article 30
+
+To prevent Sexual Assault Crimes committed across borders, the central competent regulatory authority may, when necessary, provide the personally identifiable information of an Offender to other countries in accordance with relevant laws, treaties, protocols, or agreements.
+
+### Article 31
+
+The competent authority of the responsible special municipality or county (city) shall order an Offender to take physical and psychological treatment, counseling, or education, if any of the following occurs to an Offender, and an assessment of the said Offender finds it necessary to require the said Offender to take the respective physical and psychological treatment, counseling, or education:
+
+\1. the said Offender’s serving of his imprisonment sentence in full, the enforcement of rehabilitative measures for the said Offender, or the compulsory treatment prescribed in Article 37 or Article 38 for the said Offender, is completed. However, if the imprisonment sentence of the said Offender is commuted to community service, the enforcement of physical and psychological treatment, counseling, or education on the said Offender, as ordered by the competent authority of the responsible special municipality or county (city), starts after the said Offender’s imprisonment sentence is commuted to community service;
+
+\2. an order (by a court) placing the said Offender on parole;
+
+\3. an order (by a court) placing the said Offender on probation (suspension of sentence);
+
+\4. an order (by a court) exempting the said Offender from penalty;
+
+\5. a pardon (granted by the President) pardoning the said Offender; or
+
+\6. a court order suspending the compulsory treatment for the said Offender pursuant to the proviso of Paragraph 1, and Paragraph 6, of Article 38 of this Act or the proviso of Paragraph 2 of Article 91-1 of the Criminal Code.
+
+The preceding Paragraph does not apply to one who has been deported or ordered to leave the territory after committing a crime.
+
+The duration for an order subjecting an Offender to take physical and psychological treatment, counseling, or education prescribed in Paragraph 1 of this Article shall be less than three (3) years. However, the competent authority of the responsible special municipality or county (city) may extend the duration of an abovementioned order for no more than one (1) year when the said competent authority, following an assessment of the said Offender, finds it necessary to subject the said Offender to remain taking compulsory treatment; whereas, if the said competent authority finds it unnecessary to subject the said Offender to remain taking compulsory treatment, the said competent authority may suspend the enforcement of the said order.
+
+If, during the period of registration or reporting of an Offender (who is, following an assessment on the said Offender by the competent authority of the responsible special municipality and county (city), no longer required to take physical and psychological treatment, counseling, or education ordered by the said competent authority), the said competent authority, following an assessment on the said Offender, finds it necessary to once again require the said Offender to take physical and psychological treatment, counseling, or education, the said competent authority should order the said Offender to remain taking physical and psychological treatment, counseling, or education; provided that, the duration of the abovementioned compulsory treatment (ordered before and after the aforesaid suspension) shall be combined and taken as a whole, and shall not exceed the maximum duration prescribed in the preceding Paragraph.
+
+Paragraph 1 of this Article applies mutatis mutandis, in accordance with Paragraph 1 of Article 7 of this Act, to an Offender sentenced to detention or a fine for his commission of a crime prescribed in Paragraph 1 of Article 25 of the Sexual Harassment Prevention Act, while an order (ordering the said Offender) to take physical and psychological treatment, counseling, or education shall be enforced (against the said Offender) when a court judgment convicting the said Offender becomes final.
+
+Paragraphs 1 to 3 of this Article may, if necessary, apply mutatis mutandis to an Offender who has been subject to protective measures by a ruling of a court pursuant to the Juvenile Justice Act.
+
+### Article 32
+
+The competent authority of the responsible special municipality or county (city) shall order an Offender placed on deferred prosecution for a Sexual Assault Crime with a ruling of deferred prosecution that has become final to take physical and psychological treatment, counseling, or education, if the said competent authority finds it necessary, based on an assessment conducted by an assessment team of the said competent authority on the said Offender, for the said Offender to take physical and psychological treatment, counseling, or education.
+
+### Article 33
+
+The assessment(s) referred to in Paragraphs 1, and 3 to 6 of Article 31 of this Act, and in the preceding Article, shall be conducted by the assessment team(s) set up by the competent authority of the responsible special municipality or county (city). However, an assessment of an adult inmate serving his imprisonment term shall be conducted by the assessment team(s) set up by the prison authority. An assessment of a juvenile inmate or a juvenile receiving correctional education shall be conducted by the assessment team(s) set up by the correctional schools.
+
+Regulations governing the composition of the assessment team(s) referred to in the preceding Paragraph, the content, standard(s), and procedure(s) of assessment(s) referred to in Paragraphs 1, 3, and 4 of Article 31 of this Act, and the content, standard(s), procedure(s), and durations of physical and psychological treatment, counseling, or education referred to in Paragraphs 1, 3, and 4 of Article 31 of this Act, and other relevant matters, shall be formulated by the central competent authority after consulting the competent authorities for the administration of legal affairs and law enforcement.
+
+### Article 34
+
+A probation officer may adopt one or more of the following measures as a treatment for an Offender placed on probation supervision:
+
+\1. a probation officer may conduct interviews with an Offender, pay visits to an Offender, and take supplementary measures such as group activities or questionnaire surveys;
+
+\2. if a probation officer observes any fact strongly indicating a probability of an Offender to further commit any offenses or the need for the reinforcement of counseling and probation, a probation officer may conduct intensive interviews with and frequently pay visits to the said Offender. A probation officer also may, if necessary, seek help from the police agencies for sending personnel to regularly or irregularly visit the said Offender;
+
+\3. if a probation officer observes any fact that seems to suggest that an Offender is using drugs, a probation officer may order the said Offender to take a urine test;
+
+\4. if a probation officer observes that an Offender has no permanent residence or that the residence of the said Offender is not suitable for the enforcement of probation, a probation officer may, after reporting the situation to and obtaining permission granted by a competent prosecutor, order the said Offender to reside at a designated residence;
+
+\5. if a probation officer observes that an Offender is in the habit of committing crimes at certain times or any fact strongly indicating a probability of the said Offender to further commit any offenses, a probation officer may, after reporting the situation to and obtaining permission granted by a competent prosecutor, order the said Offender to refrain from leaving his residence during the monitoring period without prior permission;
+
+\6. a probation officer may, after reporting the situation to and obtaining permission granted by a competent prosecutor, conduct a lie detector test on an Offender;
+
+\7. a probation officer may, after reporting the situation to and obtaining permission granted by a competent prosecutor, place an Offender under monitoring through technical equipment;
+
+\8. if a probation officer observes that an Offender has a fixed crime pattern or any fact strongly indicating a probability of the said Offender to further commit any offenses, a probation officer may, after reporting the situation to and obtaining permission granted by a competent prosecutor, order the said Offender to refrain from staying close to certain locations or people;
+
+\9. a probation officer may refer an Offender to relevant institutions or organizations to obtain appropriate treatment; or
+
+\10. any other necessary treatment.
+
+A juvenile protection officer may adopt one or more of the measures set forth in the preceding Paragraph, except for those prescribed in Subparagraphs 4 to 8 of the preceding Paragraph, provided that the measure(s) adopted by the said juvenile protection officer shall not in any way be detrimental to the principles of juvenile protection, as a treatment to a juvenile taking physical and psychological treatment, counseling, or education pursuant to Paragraph 6 of Article 31 of this Act.
+
+Regulations governing the carrying out, procedure(s), period(s), frequency, testing institution(s), and substances under test, and other relevant matters of a urine test referred to in Subparagraph 3 of Paragraph 1 of this Article, as well as regulations governing the responsible agencies (organizations), personnel, carrying out, procedure(s), and other relevant matters of a lie detector test referred to in Subparagraph 6 of Paragraph 1 of this Article, or of monitoring through technical equipment referred to in Subparagraph 7 of Paragraph 1 of this Article, shall be formulated by the competent authorities for the administration of legal affairs and law enforcement after consulting other relevant agencies.
+
+### Article 35
+
+Following a notice by a competent prosecutors office to a police agency notifying of that an Offender placed on probation supervision and monitored through technological equipment has deliberately dismantled, damaged, concealed, or blocked the technical equipment for monitoring the said Offender, a judicial police officer or a judicial policeman may force the said Offender to go to the competent prosecutors office or any place designated by a competent prosecutor. The competent prosecutors office will send personnel to restore the technical equipment for monitoring the said Offender, and other relevant agencies will follow up on relevant matters according to the law.
+
+### Article 36
+
+If an assessment team referred to in Article 33 of this Act conducts an assessment on an Offender taking physical and psychological treatment, counseling, or education in accordance with Paragraphs 1 and 4 of Article 31 of this Act, and finds that the said Offender is at risk of recidivism, the competent authority of the responsible special municipality or county (city) may submit relevant assessment reports to a competent prosecutor for the said prosecutor to file a petition (to the competent court), in accordance with Article 91-1 of the Criminal Code, for a court order to subject the said Offender to compulsory treatment or to remain taking compulsory treatment.
+
+### Article 37
+
+If an assessment team of a correctional institution conducts an assessment on an Offender (after the said Offender has taken physical and psychological treatment, counseling, or education, but before the said Offender’s serving of his imprisonment term in full) and finds that the said Offender is at risk of recidivism while Article 91-1 of the Criminal Code is not applicable to the said Offender, the said correctional institution may submit relevant assessment reports to a competent prosecutor for the said prosecutor to file a petition (to the competent court) for a court order admitting the said Offender to a medical institution or any other designated institutions to receive compulsory treatment.
+
+If an assessment conducted on an Offender after the said Offender has taken physical and psychological treatment, counseling, or education in accordance with Paragraphs 1 and 4 of Article 31 of this Act finds that the said Offender is at risk of recidivism, while Article 91-1 of the Criminal Code is not applicable to the said Offender, a competent prosecutor or the competent authority of the responsible special municipality or county (city) shall submit relevant assessment reports and file a petition to the competent court for a court order admitting the said Offender to a medical institution or any other designated institutions to receive compulsory treatment.
+
+The competent authority of the responsible special municipality or county (city) shall, following the complete serving of imprisonment term of an Offender subject to compulsory treatment by an order issued by a court in accordance with (either of) the two preceding Paragraphs or following an Offender’s receipt of an aforesaid compulsory treatment order, transfer the said Offender to the place of compulsory treatment to receive treatment. The competent authority of the responsible special municipality or county (city) may, when necessary, coordinate relevant agencies to assist with the abovementioned transfer of the said Offender.
+
+### Article 38
+
+The duration of (an order of) compulsory treatment referred to in the preceding Article shall be less than five (5) years. If an assessment conducted on an Offender subject to the aforesaid compulsory treatment before the expiry of the duration of (an order of) compulsory treatment referred to in the preceding Article finds it necessary to subject the said Offender to remain taking compulsory treatment due to no significant decrease of the said Offender’s risk of recidivism, a competent prosecutor or the competent authority of the responsible special municipality or county (city) may file a petition to the competent court for an order to extend the duration of the abovementioned compulsory treatment. The first extension (of the duration of the said compulsory treatment) shall be less than three (3) years, and each subsequent extension shall be less than one (1) year. However, if a competent prosecutor or the competent authority of the responsible special municipality or county (city) finds it unnecessary to subject the said Offender to remain taking compulsory treatment, the said prosecutor or the said competent authority might file a petition to the court for an order to terminate the said compulsory treatment.
+
+If any of the circumstances prescribed in Paragraph 1 or Paragraph 2 of the preceding Article occurs after the abovementioned termination of compulsory treatment for an Offender, a competent court may issue an order admitting the said Offender to a suitable institution to remain taking compulsory treatment.
+
+The duration of compulsory treatment referred to in the preceding Paragraph shall be combined with the duration of compulsory treatment enforced before the abovementioned termination of compulsory treatment.
+
+During the duration or extended duration of compulsory treatment referred to in the three preceding Paragraphs, an assessment of an Offender for determining whether subjecting the said Offender to remain taking compulsory treatment is necessary shall be conducted at least once every year.
+
+The responsible compulsory treatment institution shall, at least three months prior to the expiry of duration or extended duration of compulsory treatment referred to in Paragraph 1 of this Article, notify a subject of compulsory treatment, and a competent prosecutor or the competent authority of the responsible special municipality and county (city), of the outcome of compulsory treatment and finding of assessments.
+
+After receiving a notification referred to in the preceding Paragraph, a subject of compulsory treatment may file a petition to the competent court for an order to terminate compulsory treatment.
+
+If the competent authority of the responsible special municipality and county (city), following the said competent authority’s receipt of a notification referred to in Paragraph 5 of this Article, finds it unnecessary to subject a subject of compulsory treatment to remain taking compulsory treatment, or if the said competent authority receives a court order, referred to in the proviso of Paragraph 1 of this Article or the preceding Paragraph, terminating the said compulsory treatment, the said competent authority should hold a transition meeting on the arrangement of physical and psychological treatment, counseling, or education for the said subject of compulsory treatment, as well as matters related to the registration and reporting of the said subject of compulsory treatment, and also should provide enrollment (into school), employment, family support, and other care services to the said subject of compulsory treatment.
+
+### Article 39
+
+Regulations governing the petitions, terminations, extensions, responsible agencies (organizations), treatment institutions, implementation procedure(s), method(s), sources of funding, the composition of an assessment team, and other relevant matters in connection with compulsory treatment referred to in the three preceding Articles shall be formulated by the competent authorities for the administration of legal affairs and law enforcement after consulting the central competent authority.
+
+### Article 40
+
+Unless this Act provides otherwise, the Code of Criminal Procedure applies mutatis mutandis to the petitions, terminations, extensions, and court orders referred to in Articles 37 and 38 of this Act.
+
+If any of the following occurs to an Offender who has not retained a defense counsel, a court shall appoint a public defender or a lawyer to defend the said Offender, and Paragraphs 2 and 4 of Article 31 of the Code of Criminal Procedure apply mutatis mutandis:
+
+\1. an Offender is unable to make a complete statement due to his physical or mental disability; or
+
+\2. any other circumstances where a court finds it necessary to appoint a defense counsel for an Offender.
+
+Article 35 of the Code of Criminal Procedure shall apply mutatis mutandis to the circumstances referred to in the preceding Paragraph.
+
+When a court receives a petition referred to in Articles 37 and 38 of this Act, the said court shall, unless apparently unnecessary, designate a date, summon the respective Offender(s), and notify the petitioner(s), defense counsel(s), and assistant(s).
+
+On the date referred to in the preceding Paragraph, a petitioner may be present in court to state his opinion. However, if a court finds it necessary, a petitioner shall be present in court to state the grounds for his petition or present necessary evidence.
+
+A court shall provide the presenting Offender, presenting defense counsel(s), and presenting assistant(s) with an opportunity to state their opinions. However, this does not apply to those who have been legally summoned, those who fail to appear without justification, or those who state their reluctance to be present.
+
+### Article 41
+
+If any of the circumstances set forth in Paragraph 1 of Article 31 of this Act occurs to an Offender who commits an offense prescribed in Article 221, Article 222, Article 224-1, Paragraph 1 of Article 225, Article 226, Article 226-1, Subparagraph 2 of Paragraph 2 of Article 332, Subparagraph 2 of Paragraph 2 of Article 334, Subparagraph 1 of Paragraph 2 of Article 348, or any other special laws of the Criminal Code, the said Offender shall regularly report to the police agencies, as well as register with and update the police agencies information such as his identification, enrollment (into school), employment, vehicle registration information, and other related information. The duration for the abovementioned reporting and registration is seven (7) years.
+
+If any of the circumstances set forth in Paragraph 1 of Article 31 of this Act occurs to an Offender who commits an offense prescribed in Article 224, Paragraph 2 of Article 225, Article 227, or Article 228 of the Criminal Code, the preceding Paragraph applies to the said Offender. The duration for the abovementioned reporting and registration is five (5) years.
+
+The two preceding Paragraphs do not apply to one who has been deported or ordered to leave the territory after committing a crime or who was under eighteen (18) years old when committing a Sexual Assault Crime.
+
+An Offender referred to in Paragraph 1 or Paragraph 2 of this Article shall bear with any visit regularly or irregularly conducted by the police agencies during the duration of reporting and registration of the said Offender. Moreover, the said Offender shall update any changes to any information registered with the police agencies within seven (7) days following the occurrence of any changes to the said information.
+
+The preceding Paragraph applies mutatis mutandis to one who is convicted guilty of committing a Sexual Assault Crime by a final judgment rendered by a foreign court or by a court in the mainland China area, Hong Kong, or Macau, but has no final judgment rendered by a court with competent jurisdiction following a retrial for the said Sexual Assault Crime held in the Republic of China.
+
+### Article 42
+
+An Offender placed on deferred prosecution for a Sexual Assault Crime with a ruling of deferred prosecution that has become final shall, during the period that the said Offender is taking physical and psychological treatment, counseling, or education, regularly report to the police agencies, as well as register with and update the police agencies information such as his identification, enrollment (into school), employment, vehicle registration information, and other related information.
+
+An Offender referred to in the preceding Paragraph shall bear with any visits regularly or irregularly conducted by the police agencies during the duration of reporting and registration of the said Offender. Moreover, the said Offender shall update any changes to any information registered with the police agencies within seven (7) days following the occurrence of any changes to the said information.
+
+The two preceding Paragraphs do not apply to an Offender who was under eighteen (18) years old when committing a Sexual Assault Crime.
+
+### Article 43
+
+To safeguard the public interest and the safety of society, the items registered during the durations of registration and reporting referred to in the two preceding Articles may be accessed by particular personnel.
+
+Regulations governing the procedure(s) and manner(s) of registration and reporting, as well as visit frequency, as referred to in the two preceding Articles, and the scope, content, responsible agencies, qualification and criteria of personnel with authority to access, access procedure(s), and other compliance requirements, as referred to in the two preceding Paragraph, shall be formulated by the central competent authority for the administration of police administrative affairs after consulting other respective central competent regulatory authorities.
+
+## Chapter 5 Penal Provisions
+
+### Article 44
+
+An Offender who has been notified to appear at a designated place on a designated date to take compulsory treatment referred to in Paragraph 1 or Paragraph 2 of Article 37 of this Act but fails to appear on time shall be subject to imprisonment of no more than one(1) year, detention, or in lieu thereof or in addition thereto a fine of one hundred thousand New Taiwan dollars (NT$ 100,000).
+
+### Article 45
+
+Anyone in violation of the confidentiality requirement prescribed in Paragraph 2 of Article 11 of this Act shall be subject to a fine between sixty thousand New Taiwan dollars (NT$ 60,000) and six hundred thousand New Taiwan dollars (NT$ 600,000).
+
+### Article 46
+
+A competent regulatory authority shall impose a fine between sixty thousand New Taiwan dollars (NT$ 60,000) and six hundred thousand New Taiwan dollars (NT$ 600,000) on one who engages in any of the following misconducts without justification, and also shall order the said person to correct the said misconduct(s) within a period designated by the said competent regulatory authority; provided that, if the said person fails to correct the said misconduct(s) within the period designated by the said competent regulatory authority, the said competent regulatory authority might impose fines on the said person consecutively per violation, and also may order the said person to impose restrictions on access to certain content:
+
+\1. a violation of Paragraph 1 of Article 13 of this Act by a failure to spontaneously restrict the browsing of, or remove, any crime-related webpage materials;
+
+\2. a violation of Paragraph 2 of Article 13 of this Act by a failure to keep any crime-related webpage materials or any personal data or Internet usage records of a suspect for one hundred eighty (180) days, or by a failure to provide any of the abovementioned information or data to judicial or police agencies for investigations;
+
+\3. a violation of Paragraph 2 of Article 7 of this Act (which requires the mutatis mutandis application of Paragraph 1 of Article 13 of this Act) by a failure to spontaneously restrict the browsing of, or remove, any crime-related webpage materials; or
+
+\4. a violation of Paragraph 2 of Article 7 of this Act (which requires the mutatis mutandis application of Paragraph 2 of Article 13 of this Act) by a failure to keep any crime-related webpage materials or any personal data or Internet usage records of a suspect for one hundred eighty (180) days, or by a failure to provide any of the abovementioned data to judicial or police agencies for investigations.
+
+### Article 47
+
+Anyone in violation of the confidentiality requirement prescribed in Paragraph 1 of Article 15, or Paragraph 2 or 3 of Article 7 of this Act (which requires the mutatis mutandis application of Paragraph 1 of Article 15 of this Act), shall be subject to a fine between sixty thousand New Taiwan dollars (NT$ 60,000) and six hundred thousand New Taiwan dollars (NT$ 600,000).
+
+### Article 48
+
+A competent regulatory authority shall impose a fine between sixty thousand New Taiwan dollars (NT$ 60,000) and six hundred thousand New Taiwan dollars (NT$ 600,000) on a broadcaster, or a television company, that is in violation of Paragraph 1 or Paragraph 3 of Article 16, or Paragraph 2 or Paragraph 3 of Article 7 of this Act (which requires the mutatis mutandis application of Paragraph 1 or Paragraph 3 of Article 16 of this Act), and also shall order the said broadcaster or the said television company to correct the said misconduct(s) within a period designated by the said competent regulatory authority; provided that, if the said broadcaster or the said television company fails to correct the said misconduct(s) within the abovementioned designated period, the said competent regulatory authority may impose fines on the said broadcaster or the said television company consecutively per violation.
+
+A competent regulatory authority shall impose a fine between sixty thousand New Taiwan dollars (NT$ 60,000) and six hundred thousand New Taiwan dollars (NT$ 600,000) on the person(s) in charge of an entity or an organization of any publicity materials, publications, Internet sources, or any other types of media, other than those mentioned in the preceding Paragraph, that is in violation of Paragraph 1 or Paragraph 3 of Article 16, or Paragraph 2 or Paragraph 3 of Article 7 of this Act (which requires the mutatis mutandis application of Paragraph 1 or Paragraph 3 of Article 16 of this Act), and may confiscate any items mentioned in Article 16 of this Act, or order the said entity or the said organization to remove, take down, or adopt any other necessary measure for, certain content within a period designated by the said competent regulatory authority; provided that, if the said entity or the said organization fails to comply with the abovementioned order of the said competent regulatory authority within the abovementioned designated period, the said competent regulatory authority may impose fines on the person(s) in charge of the said entity or the said organization consecutively per violation until the said entity or the said organization fully complies with the abovementioned order of the said competent regulatory authority.
+
+In the case where a Victim is dead, a competent regulatory authority may opt not to impose a fine prescribed in (either of) the two preceding Paragraphs, if the said competent regulatory authority, after taking into account and balancing the benefits of maintenance of law and order, maintenance of peace of mind among the public, clarification of misleading information, prevention of problem escalation, as well as other public interests of the society, finds the reporting or disclosure in dispute necessary.
+
+Anyone, other than those mentioned in Paragraph 1 or Paragraph 2 of this Article, who violates Paragraph 4 of Article 16, or Paragraph 2 or Paragraph 3 of Article 7 of this Act (which requires the mutatis mutandis application of Paragraph 4 of Article 16 of this Act), without justification, shall be subject to a fine between twenty thousand and one hundred thousand New Taiwan dollars.
+
+If there is no person in charge of publicity material, a publication, an Internet source, or any other type of media, or if the person in charge (of the said publicity material, the said publication, the said Internet source, or the said other type of media) is not in a position to supervise the conduct of the responsible perpetrator, the fine prescribed in Paragraph 2 of this Article shall be imposed on the responsible perpetrator.
+
+### Article 49
+
+Anyone who violates Paragraph 1 of Article 14 of this Act shall be subject to a fine between ten thousand and fifty thousand New Taiwan dollars imposed by the competent authority of the responsible special municipality or county (city).
+
+### Article 50
+
+The competent authority of the responsible special municipality or county (city) shall impose a fine between ten thousand and fifty thousand New Taiwan dollars on an Offender referred to in Paragraph 1 or Paragraph 4 of Article 31 of this Act, an Offender placed on deferred prosecution for Sexual Assault Crime with a ruling of deferred prosecution that has become final, or a convicted defendant subject to (the application of) Paragraph 1 of Article 7 of this Act (which requires the mutatis mutandis application of Paragraph 1 of Article 31, and Paragraph 1 or Paragraph 2 of Article 42 of this Act), any of which that engages in any of the following conducts, and shall order the said Offender or the said convicted defendant to perform full compliance (with the orders or requirements mentioned in the respective provisions of this Act) within a period designated by the said competent authority:
+
+\1. a failure or a refusal, without justification, by an Offender or a convicted defendant, who has been notified by the competent authority of the responsible special municipality or county (city), to present himself to take an assessment or take physical and psychological treatment, counseling, or education; or a failure by the said Offender or the said convicted defendant to spend sufficient hours on taking physical and psychological treatment, counseling, or education; or
+
+\2. a failure of full compliance with Paragraph 1, Paragraph 2, or Paragraph 4 of Article 41, or Paragraph 1 or Paragraph 2 of Article 42 of this Act, by an Offender or a convicted defendant who fails to regularly report to the police agencies, regularly register and update information with the police agencies, or bear with the visits conducted by the police agencies.
+
+Anyone who shall bear with the visits conducted by the police agencies pursuant to Paragraph 5 of Article 41 of this Act (which requires the mutatis mutandis application of Paragraph 4 of Article 41 of this Act) shall be subject to the fine(s) prescribed in the preceding Paragraph if the said person engages in any conducts prescribed in Subparagraph 2 of the preceding Paragraph.
+
+An abovementioned Offender or an abovementioned convicted defendant who has been ordered, under either of the two preceding Paragraphs, to perform full compliance (with the orders or requirements mentioned in the respective provisions of this Act) within a period designated by the abovementioned competent authority, but fails to perform his full compliance in time as ordered, shall be subject to imprisonment for up to one (1) year, detention, or in lieu thereof or in addition thereto a fine up to one hundred thousand New Taiwan dollars (NT$ 100,000).
+
+Matters prescribed in Articles 31, 32, 41, and 42 of this Act shall nonetheless be enforced or carried out against an Offender or a convicted defendant following that the said Offender or the said convicted defendant served his imprisonment term in full and/or paid his fine(s) in full, imposed on him in accordance with (any of) the three preceding Paragraphs.
+
+## Chapter 6 Supplemental Provisions
+
+### Article 51
+
+The competent authority of the responsible special municipality or county (city) shall notify a competent prosecutor immediately after imposing any disposition upon any of the following persons under Paragraph 1 of the preceding Article:
+
+\1. an Offender who is on parole, on probation, or whose imprisonment term has been commuted to community service;
+
+\2. a defendant convicted guilty of committing a crime prescribed in Paragraph 1 of Article 25 of the Sexual Harassment Prevention Act, or Paragraph 1 of Article 319-2 of the Criminal Code, who is on parole, on probation, or whose imprisonment term has been commuted to community service; or
+
+\3. an Offender placed on deferred prosecution for a Sexual Assault Crime with a ruling of deferred prosecution that has become final.
+
+A competent prosecutor may, following his receipt of a notification referred to in the preceding Paragraph, notify the warden of the original prison (hosting the said Offender or the said convicted defendant) to report to the Ministry of Justice for the revocation of the parole of the said Offender or the said convicted defendant, file a petition to a competent court for the revocation of the probation of the said Offender or the said convicted defendant, or sua sponte revoke the deferred prosecution or community service of the said Offender or the said convicted defendant.
+
+### Article 52
+
+If a defendant or an Offender convicted guilty by a final judgment, referred to in Article 44 or Paragraph 3 of Article 50 of this Act, has fled or hidden, and has been designated in a circular order to arrest, a competent police agency may publish the personally identifiable information of the said defendant or the said Offender on the website(s) of the competent police agency or newspapers, or circulate the said information to the public by any other means. The competent police agency shall cease to publish or circulate the personally identifiable information of the said defendant or the said Offender if the said defendant or the said Offender is arrested, is dead, or the publication or circulation of such information is no longer necessary.
+
+The preceding Paragraph does not apply to a defendant or an Offender who was under eighteen (18) years old when committing the crime(s).
+
+### Article 53
+
+This Act shall apply mutatis mutandis to and will be enforced by military law enforcement agencies handling cases involving a Sexual Assault Crime committed by an active military serviceman during wartime.
+
+### Article 54
+
+Anyone who has been subject to compulsory treatment before the amendments to Articles 36 to 40 of this Act shall remain taking compulsory treatment after the amendments to Articles 36 to 40 of this Act have come into effect.
+
+In the case of the circumstances prescribed in the preceding Paragraph, a competent prosecutor of the original competent prosecutors office or the competent authority of the responsible special municipality or county (city) shall, within six (6) months after the amendments to Articles 36 to 40 of this Act have come into effect, file a petition, in accordance with Paragraph 1 of Article 38 of this Act or Paragraph 2 of Article 91-1 of the Criminal Code, to the competent court (the last court that decided on the crime-related facts of the case) for a court order setting the duration of compulsory treatment.
+
+A petition referred to in the preceding Paragraph will be viewed as a petition filed for the grant of the first extension in accordance with the latter part of Paragraph 1 of Article 38 of this Act or the latter part of Paragraph 2 of Article 91-1 of the Criminal Code, if the said compulsory treatment has been carried out for more than five (5) years. A petition referred to in the preceding Paragraph will be viewed as a petition filed for the grant of the second extension, if the said compulsory treatment has been carried out for more than eight (8) years.
+
+Under any of the following circumstances, the competent court (the last court that decided on the crime-related facts of the case) shall make a ruling pursuant to Paragraph 1 or Paragraph 2 of Article 38 of this Act, or Paragraph 2 or Paragraph 3 of Article 91-1 of the Criminal Code, and the preceding Paragraph shall apply:
+
+\1. a petition has been filed, after the amendments to Articles 36 to 40 of this Act have come into effect, for a court order to subject an Offender to remain taking compulsory treatment, whereas, before the amendments to Articles 36 to 40 of this Act have come into effect, the said Offender has obtained a court order granted to terminate the compulsory treatment for the said Offender then; or
+
+\2. in the case of the circumstances prescribed in Paragraph 1 or 2 of this Article, a court has, after the amendments to Articles 36 to 40 of this Act have come into effect, granted an order to terminate the compulsory treatment for an Offender, whereas, a petition has been filed for a court order to subject the said Offer to remain taking compulsory treatment.
+
+### Article 55
+
+The Enforcement Rules for the Act shall be formulated by the central competent authority.
+
+### Article 56
+
+Except for Article 13 of this Act, which shall come into effect six (6) months after its promulgation, the rest of the Act shall come into effect on the date of the promulgation of the rest of the Act.
+
+## History
+
+1.January 22, 1997, (86) Presidential Order Hua-Zong-Yi-Yi-Zi No. 8600016 230 made and promulgated all 20 Articles. This Act shall take effect on the date of promulgation.
+
+2.May 15, 2002, (91) Presidential Order Hua-Zong-Yi-Yi-Zi No. 09100095540 amended and promulgated Article 3.
+
+3.June 12, 2002, Presidential Order Hua-Zong-Yi-Yi-Zi No. 09100116860 amended and promulgated Article 6-1 and Article 6-2.
+
+4.February 05, 2005, Presidential Order Hua-Zong-Yi-Yi-Zi No. 09400017721 amended and promulgated all 25 Articles. The Act shall come into force after six months of its promulgation.
+
+5.January 13, 2010, Presidential Order Hua-Zong-Yi-Yi-Zi No. 09900005581 amended and promulgated Article 11 and Article 25. The amendment shall take effect on November 23, 2009.
+
+6.November 09, 2011, Presidential Order Hua-Zong-Yi-Yi-Zi No. 10000246201 amended and promulgated Article 4, Articles 7~9, Articles12~14, Article 20, Article 21, Article 23 and Article 25; Article 22-1 and Article 23-1 were futher added; Article 5 were further deleted. The amendment shall take effect on January 1, 2012.
+
+7.Presidential Order Hua Zong Yi Yi Zi No. 10400149621 dated December 23, 2015 is given for the addition of Articles 13-1, 15-1, 16-1 and 16-2; and revision of Articles 2, 3, 8, 13, 17, 20, 22-1 and 25.
+
+8.Presidential Order Hua Zong Yi Yi Zi No. 11200010191 dated February 15, 2023 amended and promulgated Sexual Assault Crime Prevention Act.

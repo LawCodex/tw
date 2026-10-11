@@ -1,0 +1,301 @@
+---
+title: "Rural Regeneration Act"
+title_zh: "農村再生條例"
+identifier: "M0110017"
+type: act
+law_level: "法律"
+category: "行政＞農業部＞農村發展及水土保持目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2010-08-04
+last_amended: 2010-08-04
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0110017"
+retrieved: 2026-10-12
+---
+
+# Rural Regeneration Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-agriculture/M0110017-rural-regeneration-act.md](../../../zh/laws/ministry-of-agriculture/M0110017-rural-regeneration-act.md)) is authoritative.
+
+## CHAPTER 1 General Provisions
+
+### Article 1
+
+The Rural Regeneration Act is enacted to facilitate the rural sustainability, revitalization and regeneration, to improve production infrastructure, to conserve rural ecology and culture, to upgrade quality of life, and to construct a new rural prosperity and beauty.
+
+### Article 2
+
+For the purposes of implementing the Act, the term “competent authority” denotes the Ministry of Agriculture at the central government, the municipal government, and the county or city government at county or city levels.
+
+### Article 3
+
+For the purposes of implementing the Act, the following terms are defined as follows:
+
+\1. Rural community: Rural villages and settlements with a certain scale and their neighboring areas related to the community integrated development; and aboriginal tribe area shall be included.
+
+\2. Rural regeneration plan: a community development plan for rural sustainable development, revitalization and regeneration,which is based on the community demands and proposed by the local community organization or association.
+
+\3. Rural regeneration and development zone: a land area designated by the municipal government and county or city government through a plan prepared and submited to the central competent authority for approval in order to facilitate land revitalization management and meet rural development demand.
+
+### Article 4
+
+The policy implementation of rural regeneration and revitalization shall comply with following principles:
+
+\1. Centering on holistic construction of existing rural community with a supplementary measure for individual housing modification.
+
+\2. Implementing a comprehensive planning and construction, which integrates the agricultural production, industrial cultural, natural ecology and spatial re-use.
+
+\3. Creating incentives for collective living and constructing rural communities with modern qualities of life and traditional characters.
+
+### Article 5
+
+The central competent authority shall direct the overall resources of rural planning and construction with reference to the regional policy of agricultural development and to coordinate all constructions and projects of rural communities proposed by various governmental departments.
+
+### Article 6
+
+The central competent authority shall prepare a policy guidance of rural regeneration, and submit to Executive Yuan for approval; its amendment procedure is the same.
+
+### Article 7
+
+In meeting the needs to implement the same rural sustainable development and revitalization, the central competent authority shall establish a rural regeneration fund of one hundred and fifty billion New Taiwan Dollars within budgetary period of ten years after the Act is enacted.
+
+The sources of the said rural regeneration fund includes:
+
+\1. governmental input of annual budgets,
+
+\2. donations,
+
+\3. interest revenues of the rural regeneration fund, and
+
+\4. other revenues.
+
+The expenditure of rural regeneration fund shall on following purposes:
+
+\1. Implementation-related expenses of the integrated environmental improvement, public facility construction, individual housing modification, industrial revitalization, cultural conservation and revitalization, and ecological preservation,
+
+\2. Implementation-related expenses of the policy guidance of rural regeneration, mass plan of rural regeneration, annual action plan of rural regeneration, and plan preparation and reviewing of the rural regeneration and development zone,
+
+\3. Subsidization to the maintenance and modification of traditional building and nieghboring areas with historical cultural and environmental landscape characters,
+
+\4. Expenses for conservation, promotion, application and advertisement of rural heritages, cultural assets and industrial cultures, which are worth to preserve,
+
+\5. Implementation-related expenses of rural survey and analysis, and improvement, planning and construction of rural production infrastructures and service functions of individual rural community,
+
+\6. Expenses for promoting recreational agriculture and rural tourism,
+
+\7. Implementation-related expenses of manpower training and cultivation for the planning, construction, leadership and sustainable management of rural community, and advertisements of rural regeneration and revitalization,
+
+\8. Administration and general service expenses, and
+
+\9. Other expenses related to rural regeneration and revitalization.
+
+## CHAPTER 2 Rural Planning and Regeneration
+
+### Article 8
+
+The competent authorities at the municipal and the city/county levels shall consult with local government at township level to prepare a mass plan of rural regeneration for their jurisdiction areas, and submit to the central competent authority for approval.
+
+Preparation of the above mass plan of rural regeneration shall hold a public reading, and a public hearing if necessary.
+
+### Article 9
+
+Local organizations and associations within rural community shall discuss each other and prepare a regeneration plan of rural community according to residential needs of community, and recommend a eligible registered organization or association as community organization representative (thereafter referred to as the community organization representative) to submit the rural regeneration plan to the competent authorities at municipal and county/city levels for approval.
+
+When there are disputes against the community organization representative or more than two rural regeneration plans, proposed within the same community area before the plan is approved, the competent authorities at the municipal and the city/county levels shall assist the community to reorganize or decide by vote.
+
+The aforementioned rural regeneration plan of paragraph 1 shall include holistic environmental improvement of rural community, public facility construction, individual housing modification, industrial revitalization, cultural preservation and reuse, ecological conservation, land use zoning, vision of public facilities deployment and subsequent management/maintenance, fiscal plan,and other items proposed by the community for developing local distinguishing identities.
+
+### Article 10
+
+When received the application of article 9,the competent authorities at the municipal and the city/county levels shall make announce ment in a public way that plan allows viewing and expressing their opinions; the public opinions shall be included and referred in the consideration for approval.
+
+Regulations governing the application approval procedure, time and location for public reading, dispute disposing, reviewing procedure, implementation method, management and maintenance, inspection method, subsidization standard and other necessary items shall be formulated by the central competent authority.
+
+The competent authorities at all levels shall grant a subsidy priority to the rural regeneration plans approved by the article 9 and paragraph 2 of this article (thereafter referred to as approved rural regeneration plan), which are enclosed with a community covenant.
+
+### Article 11
+
+The competent authorities at the municipal and the city/county levels shall formulate annual action plan of rural regeneration in accordance with the mass plan of rural regeneration stated by article 8 and the approved rural regeneration plan, and submit to the central competent authority for subsidy application and setting their implementation items and priority.
+
+The said subsidy application shall not include the costs of land acquirement.
+
+### Article 12
+
+The subsidy of competent authorities at all levels to the holistic environmental improvement of rural community and public facilities construction stated in the paragraph 3 of article 9 may include following categories:
+
+\1. reconstruction of traditional rural roads and dilapidated irrigation facilities within rural community,
+
+\2. care and other service facilities of rural community,
+
+\3. piped water and facilities for reusing water resources,
+
+\4. water/soil conservation and disaster prevention facilities,
+
+\5. traditional building, cultural heritage, ponds and ecological conservation facilities,
+
+\6. Facilities of spatial reuse, image shaping, environmental greening and landscape maintenance facilities,
+
+\7. sidewalk, bikeway, community road, waterway and parking lot,
+
+\8. park, green area, square, sport, cultural and landscape recreation facilities,
+
+\9. sewage, waste collection, and resource recycling facilities
+
+\10. internet and information infrastructures, and
+
+\11. other facilities designated by the central competent authority.
+
+### Article 13
+
+The subsidy of competent authorities at all levels to the individual housing modification, stated in paragraph 3 of article 9, shall comply with following principle:
+
+\1. Subsidy to housing construction or modification shall be limited to the legal houses.
+
+\2. Application of subsidization items shall be limited to the ones facilitating the holistic landscape improvement of rural community, and the housing modification for internal structure shall not be included in the subsidies.
+
+\3. Subsidy priority shall be assigned to the items reducing concrete facilities and implementing ecological engineering.
+
+\4. Subsidy priority shall be assigned to the houses with the design ideas of green architecture and low carbon emission.
+
+\5. Subsidy priority shall be assigned to the eligible owners who demolish their houses located in conservation zone and other building prohibition zone stated by law, and move to live in the rural community.
+
+\6. subsidy priority shall be assigned to the eligible people who demolish their farmhouse dotted in rural area and move to live in the rural community.
+
+The regulations on applicant eligibility, necessary certificates, application procedures, subsidization standard, permission condition and procedure, inspection mechanism and other related regulation shall be formulated by the central competent authority.
+
+### Article 14
+
+The competent authorities at all levels may subsidize to the industrial vitalization stated in the paragraph 3 of article 9, but the subsidy shall be limited to the agriculture-related sectors.
+
+### Article 15
+
+The competent authorities at the municipal and the city/county levels may prepare a plan of regeneration and development area for land use zoning control and public facility allocation within the rural regeneration plan areas, in accordance with its land use feature and the regeneration plan.
+
+### Article 16
+
+The competent authorities at the municipal and the city/county levels shall hold a public hearing as preparing the plan of rural regeneration and development area stated in the article 15. But it is necessary to hold a legislative hearing as required by more than half of the whole adult residents who registered in the community area of rural regeneration and development plan. Related opinions and proceedings of legislative hearing shall be submitted together with book and map of the plan of rural regeneration and development area to the central competent authority for approval.
+
+The regulations on preparation and change procedure of the plan of rural regeneration and development area, public hearing procedure, time and location of public reading, necessary certificates, areas, conditions, reviewing, approving and other related regulations shall be formulated by the central competent authority.
+
+### Article 17
+
+Land uses within the rural regeneration and development areas shall be managed in accordance with the content of the plan of rural regeneration and development area.
+
+The regulations on land use controls within the rural regeneration and development areas, acknowledge standard, land use density, architecture landscape, management and inspection manner, reviewing procedure and other related regulations shall be formulated by the central competent authority in concert with the concerned central authorities of building and construction and land administration.
+
+### Article 18
+
+The competent authorities at all levels shall encourage, in accordance with the holistic development requirements of rural community, to extensively plant trees within the area of rural community, and establish green belt with ecological and buffering functions.
+
+### Article 19
+
+The public lands within rural community area owned by governments at all levels and the lands within rural community area owned by Farmer Association, Fishman Association, Agricultural Irrigation Association and state-run enterprises may be reused and revitalized in accordance with the rural regeneration plan.
+
+### Article 20
+
+In order to manage and maintain the public facilities, buildings and landscapes of the approved rural regeneration plan, the community organization representative may commonly promulgate a community covenant.
+
+### Article 21
+
+The community covenant of article 20 shall be governed byfollowing provisions and submit to the competent authorities at the municipal and the city/county levels for reference; its amendment procedure is same:
+
+\1. public facilities: it is required to get agreements of their entire owners, representatives or managers.
+
+\2. buildings: it is required to get entire agreements of owners related to the buildings.
+
+\3. landscape: it is required to get agreements of its entire owners related to the landscape.
+
+The successor of building owners aforementioned in the preceding paragraph shall request to read or photocopy the community covenant before accepting the succession, and act in accordance with the rights and obligations written in the community covenant after accepting the succession.
+
+The preparation and change procedure of community covenant, exemplar document, time and location of public reading, resolution manner of convention, dispute disposing, procedure of submitting to the competent authorities at the municipal and the city/county levels for reference, and other related regulations shall be further formulated by the central competent authority.
+
+### Article 22
+
+Once the community covenant is granted by the competent authorities at the municipal and the city/county levels for future reference, to the violators of community covenant, the community organization representative shall, in advance, advise the violators to correct their wrong doing against the community covenant. If the wrong doing involve other related law provisions, the community organization representative may request the related authorities to dispose with their laws.
+
+### Article 23
+
+For implementing the construction of rural community, the central competent authority shall establish inspection and guidance institution, and may reward to the individuals, organizations or institutes with outstanding performance in implementing the construction of rural community.
+
+The regulations on the reward shall be formulated by the central competent authority.
+
+### Article 24
+
+The central competent authority shall carry out a general survey and analysis to current rural development, and establish evaluation indicators for the rural quality of life.
+
+The central competent authority may, according to the survey and analysis of preceding paragraph, enforce the improvement, planning and construction of rural production infrastructures and living functions of individual rural community.
+
+## CHAPTER 3 Rural Culture and Characters
+
+### Article 25
+
+The competent authorities at the municipal and the city/county levels may subsidize to maintenance or modification costs of buildings with historic cultural value and buildings and their space with distinguish features merging with neighboring environment and landscape.
+
+### Article 26
+
+The competent authorities at the municipal and the city/county levels shall carry out a survey on the rural heritage, cultural asset and industrial culture of rural communities located within their jurisdiction area, and conserve, promote, utilize and advertise them in a proper manner.
+
+### Article 27
+
+The competent authorities at all levels shall develop recreation agriculture and rural tourism with reference to agricultural features, landscape resources, rural development features and ecological and culture assets.
+
+### Article 28
+
+The competent authorities at all levels shall produce advertising materials of rural community construction, cultural asset, industrial culture and distinguishing landscape and ecology for the public and schools at all levels, and extensively subsidize all relevant advertising and educational activities.
+
+### Article 29
+
+The competent authorities at the municipal and the city/county levels may prepare a reuse plan of the unused school spaces located within rural community, and promote urban/rural exchange and rural experience.
+
+### Article 30
+
+The competent authorities at all levels shall accelerate the manpower training and cultivation of rural planning, construction, leader and sustainable management, and the policy promotion for the rural vitalization and regeneration.
+
+The central competent authority shall prepare annual manpower training plan of rural regeneration, and request the competent authorities at the municipal and the city/county levels to carry out the plan.
+
+In implementing the annual empowerment and training plan of preceding paragraph 1, the competent authorities at all levels shall, with reference to individual community features and needs, create the training courses of various degrees for rural community separately, and carry out serially.
+
+Local organization and institute of rural community shall complete the training courses of manpower training plan, before eligible to prepare the rural regeneration plan of article 9.
+
+### Article 31
+
+The competent authorities at the municipal and the city/county levels shall, in accordance with the promotion and enforcement of rural regeneration plan, assist the local organization to operate, and establish reward and performance evaluation system.
+
+## CHAPTER 4 Other Provisions
+
+### Article 32
+
+The provisions of article 9 to article14 and article 18 to 22 may, with agreement of related municipal government or county/city governments, apply to rural settlements located within the areas of city plan and national park as long as the rural regeneration is considered needed by the consultation result of the central competent authority with other competent authorities concerned. Required expenditure on the approved rural regeneration may be sponsored by the rural regeneration fund.
+
+### Article 33
+
+In the area of rural regeneration plan located in city plan or national park, land use remains controlled under the Urban Plan Act and National Park Act.
+
+### Article 34
+
+The competent authorities at the municipal and the city/county levels may directly change the annual action plan of rural regeneration when natural disaster occurs and causes extensive damages to rural communities, which should not be subject to the provision stated in the paragraph 1 of article 11 and submitted to the central competent authority for reference.
+
+### Article 35
+
+To the dilapidated area within rural community extensively retarding community landscape, sanitation and land use, the competent authorities at the municipal and the city/county levels may directly carry out environmental greening and building maintenance or modification when the residential address and whereabouts of landowner or building-owner is unknown, and there is no disputation raised during 3-month period of declaration bulletined by the competent authorities at the municipal and the city/county levels.
+
+### Article 36
+
+In order to protect rural quality of life and production safety, the hazardous waste dumping in agricultural production area and land-use behavior damaging to rural developments shall be prohibited in pursuance with relevant laws of land use management and environmental protection.
+
+### Article 37
+
+The implementation rules of this Act shall be established by the central competent authority.
+
+### Article 38
+
+This Act shall come into effect as of the date of promulgation.
+
+## History
+
+1.Promulgated on August 4, 2010.
+
+The announcement was made on July 27, 2023 by the Executive Yuan Order tai-gui-zi No. 1125014346. The relevant matters set out in Article 2, Subparagraph 3 of Paragraph 1 Article 3, Article 5, Article 6, Paragraph 1 of Article 7, Paragraph 1 of Article 8, Paragraph 2,3 of Article 10, Paragraph 1 of Article 11, Article 12, Paragraph 1,2 of Article 13, Article 14, Article 16, Paragraph 2 of Article 17, Article 18, Paragraph 3 of Article 21, Article 22, Article 23, Article 24, Article 27, Article 28, Paragraph 1,2,3 of Article 30, Article 32, Article 34, Article 37 pertaining to “ the Council of Agriculture of the Executive Yuan” shall be handled by “Ministry of Agriculture” as governing body, effective August 1, 2023.

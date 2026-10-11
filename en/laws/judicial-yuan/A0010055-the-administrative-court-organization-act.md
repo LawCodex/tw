@@ -1,0 +1,506 @@
+---
+title: "The Administrative Court Organization Act"
+title_zh: "行政法院組織法"
+identifier: "A0010055"
+type: act
+law_level: "法律"
+category: "司法＞院本部＞組織目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1932-11-17
+last_amended: 2022-06-22
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=A0010055"
+retrieved: 2026-10-12
+---
+
+# The Administrative Court Organization Act
+
+> Translation. The Chinese text ([zh/laws/judicial-yuan/A0010055-the-administrative-court-organization-act.md](../../../zh/laws/judicial-yuan/A0010055-the-administrative-court-organization-act.md)) is authoritative.
+
+## Chapter 1 General Provisions
+
+### Article 1
+
+The Administrative Court governs matters concerning administrative trials.
+
+### Article 2
+
+The Administrative Court consists of the following two levels:
+
+\1. The High Administrative Court.
+
+\2. The Supreme Administrative Court.
+
+Unless otherwise stipulated, the High Administrative Court referred to in the Act indicates a High Administrative Litigation Division and a District Administrative Litigation Division of the High Administrative Court.
+
+### Article 3
+
+Trials in the High Administrative Court are conducted by a collegial panel of three judges. However, the review of summary proceedings, traffic adjudication proceedings and detention sanction proceedings at a District Administrative Litigation Division are conducted by a single judge.
+
+Trials in the Supreme Administrative Court, unless otherwise prescribed by law, are conducted by a collegial panel of five judges.
+
+### Article 4
+
+In a collegial trial, the Division-Chief Judge shall be the Presiding Judge; in the absence of the Division-Chief Judge, the most senior judge of the same division, or the eldest of the judges of the same seniority, shall act as the Presiding Judge.
+
+In a single judge trial, the said judge shall assume the duty and authority of the presiding judge.
+
+### Article 5
+
+The number of personnel required for each level of Administrative Court shall be determined in accordance with the provisions of the appended schedules one and two.
+
+To cope with work-loads, the Judicial Yuan may prescribe various staffing schedules for the High Administrative Court in accommodation of the manpower requirements within the allowance of total allotment of Division-Chief Judges, Judges, Judicial Affair Officers, Clerks, Interpreters, Process Servers, Clerk Assistants, Court Attendants, and Bailiffs as prescribed in the Appendix Schedule One.
+
+## Chapter 2 The High Administrative Court
+
+### Article 6
+
+Each province, municipality, and special district shall have a High Administrative Court. However, for regions with a small jurisdiction or light work-load, one High Administrative Court may be shared among several provinces, municipalities, and special districts; for regions with a vast jurisdiction or heavy work load, the number of High Administrative Courts may be increased. The divisions or changes of jurisdiction areas of a High Administrative Court shall be prescribed by the Judicial Yuan.
+
+### Article 7
+
+The cases under the jurisdiction of a High Administrative Litigation Division of the High Administrative Court are as follows:
+
+\1. Ordinary proceedings of litigation cases initiated by objection to the judgment on an administrative appeal or equivalent to the judgment on an administrative appeal deemed by the law in accordance with the main text in the first Subparagraph of Article 104-1 of the Administrative Litigation Act, unless otherwise stipulated by the law.
+
+\2. Review of urban plans initiated in accordance with Article 237-18 of the Administrative Litigation Act.
+
+\3. Appeals initiated by objection to the judgment of the first trial by a District Administrative Litigation Division of the High Administrative Court.
+
+\4. Appeals against rulings initiated by objection to the judgment by a District Administrative Litigation Division of the High Administrative Court.
+
+\5. Other cases under the jurisdiction of a High Administrative Litigation Division of the High Administrative Court as specified by the law.
+
+The cases under the jurisdiction of a District Administrative Litigation Division of the High Administrative Court are as follows:
+
+\1. Ordinary proceedings of litigation cases initiated by objection to the judgment on an administrative appeal or equivalent to the judgment on an administrative appeal deemed by the law in accordance with the proviso in the first Subparagraph of Article 104-1 of the Administrative Litigation Act.
+
+\2. Cases applicable by the small claims proceeding under the Administrative Litigation Act.
+
+\3. Traffic adjudication cases.
+
+\4. Detention sanction cases.
+
+\5. Other cases under the jurisdiction of a District Administrative Litigation Division of the High Administrative Court as specified by the law or designated by the Judicial Yuan.
+
+### Article 8
+
+A High Administrative Court shall have one President, which is served concurrently by a Judge, who is in charge of the overall administration of the court.
+
+The President of the High Administrative Court as described in the preceding Paragraph shall be selected from those who have the job qualifications of a judge in the Supreme Administrative Court, a judge in the Supreme Court or a prosecutor of the Supreme Prosecutors Office, who also has the leadership ability.
+
+### Article 9
+
+The High Administrative Court shall establish High Administrative Litigation Divisions and District Administrative Litigation Divisions. The number of divisions is determined by the case load. If necessary, a professional court may be established.
+
+Each division shall have one Division Chief Judge, to be served concurrently either by the judge who serves as the President on a concurrent basis or by any of the rest of the judges. The Division Chief Judge shall oversee the divisional affairs.
+
+### Article 10
+
+The High Administrative Court shall have judges, judges-in-probation and judges-in-training, to handle the matters related to trials at High Administrative Litigation Divisions or District Administrative Litigation Divisions according to the divisions they are appointed or selected for.
+
+To cope with varying workloads, the Judicial Yuan, when necessary, may transfer judges, judges-in-probation, or judges-in-training of the District Court or its branch to the High Administrative Litigation Divisions of the High Administrative Court, with an allotment of one to three judges for each court division, to assist the judges with trial proceedings, substantive analysis, information collection and analysis, and drafting of judgments.
+
+When necessary, the High Administrative Court may have judicial assistants to help with the management of trial proceedings, procedural analysis, and information collection and analysis. The positions of judicial assistant are to be filled with professional personnel in accordance with relevant applicable laws, or by transferring other judicial personnel from courts of every level or administrative courts, or by temporarily transferring appropriate personnel from other agencies.
+
+The years that a judge, a judge-in-probation or a judge-in-training has served on the High Administrative Litigation Divisions of the High Administrative Court shall be counted towards his seniority as a judge, a judge-in-probation, or a judge-in-training.
+
+For those who have a professional qualification, their service years as a judicial assistant shall be counted towards the seniority of their professional practices.
+
+The regulations governing personnel selections of judicial assistants shall be prescribed by the Judicial Yuan.
+
+### Article 10-1
+
+A High Administrative Court shall have an Office of the Judicial Affairs Officers. The Judicial Affairs Officer shall have a recommendation rank from 7th to 9th grade. If there are two or more Judicial Affairs Officers, one Chief Judicial Affairs Officer will be set up, whose position is a recommendation rank from9th grade to a selection rank of 10th grade.
+
+The Judicial Affairs Officer as prescribed in the preceding Paragraph must have professional qualifications in finance, tax or accounting.
+
+For those who have the qualifications to practice law, the duration of time serving as Judicial Affairs Officers shall accrue towards the seniority of legal practice.
+
+### Article 10-2
+
+Judicial Affairs Officers are in charge of the following affairs:
+
+\1. Data collection, analysis and offering of professional opinions in taxation, economics, finance and accounting for administrative litigation cases.
+
+\2. Participating in trial proceedings in accordance with the law.
+
+\3. Affairs as assigned by other legal provisions.
+
+The scope and date governing each preceding Paragraph that is to be handled by Judicial Affairs Officers shall be prescribed by the Judicial Yuan.
+
+## Chapter 3 Supreme Administrative Court
+
+### Article 11
+
+The Supreme Administrative Court is located in the venue of the central government.
+
+### Article 12
+
+Cases under the jurisdiction of the Supreme Administrative Court are as follows:
+
+\1. Appeal cases that are filed or lodged against the rulings of the High Administrative Litigation Divisions of the High Administrative court.
+
+\2. Other cases provided by law that are under the jurisdiction of the Supreme Administrative Court.
+
+### Article 13
+
+The Supreme Administrative Court shall have one President, who is named by special appointment and who also serves as a Judge, and is in charge of the overall administration of the court.
+
+The president of the Supreme Administrative Court as prescribed in the preceding Paragraph shall be selected from candidates who possess one of the following qualifications, and who also have the required leadership ability:
+
+\1. Has served as a Justice of the Judicial Yuan, the President of the Supreme Administrative Court, the President of the Supreme Court, the Prosecutor General of the Supreme Prosecutors Office, or the President of the Disciplinary Court.
+
+\2. Has served as a judge in an Administrative Court, a judge in the Supreme Administrative Court, a judge in the Supreme Court, or as a prosecutor in the Supreme Prosecutors Office, or as the President in a High Administrative Court, the President in a High Court, or as the Chief Prosecutor in a High Prosecutors Office for a total of five years.
+
+\3. Has served as a selection rank judge in an Administrative Court, or a selection rank judicial judge for more than ten years, or has served as a selection rank judge in an Administrative Court, or a selection rank judicial judge and selection rank judicial administrative personnel for a total of more than ten years.
+
+### Article 14
+
+The Supreme Administrative Court shall have court divisions for case trials, the number of which shall be dependent on the case load.
+
+Each division of the Supreme Administrative Court shall have one Division-Chief Judge, to be served concurrently either by the judge who serves as the President on a concurrent basis or by any of the rest of the judges. The Division-Chief Judge shall oversee the divisional affairs
+
+### Article 15
+
+Each division of the Supreme Administrative Court shall have five judges.
+
+To cope with the work load, the Judicial Yuan may transfer judges, judges-in-probation or judges-in-training from High Administrative Courts, High Courts, or every level of lower courts thereof to the Supreme Administrative Court, with one to five judges for each division court, to assist the presiding judge with trial proceedings, substantive analysis, information collection and analysis, and drafting of judgments.
+
+When necessary, the Supreme Administrative Court may have judicial assistants to assist with the management of trial proceedings, procedural analysis, information collection and analysis. The position of a judicial assistant is to be filled with professional personnel in accordance with relevant applicable laws of contract-based employment, or by transferring other judicial personnel from courts of every level or administrative courts, or by temporarily transferring appropriate personnel from other agencies.
+
+The years that a judge, a judge-in-probation or a judge-in-training has served on the Supreme Administrative Court shall be counted towards his seniority of a judge, a judge-in-probation, or a judge-in-training.
+
+For those who have a professional qualification, their service years as a judicial assistant shall be counted towards the seniority of their professional practices.
+
+The regulations governing personnel selections of a judicial assistant shall be prescribed by the Judicial Yuan.
+
+### Article 15-1
+
+The Supreme Administrative Court shall establish a Grand Chamber to adjudicate legal disputes.
+
+### Article 15-2
+
+When any of the supreme administrative courts reviews a trial case, if the judgment-based legal opinion is deemed, after a review, different from the antecedent legal opinion for the judgment, reasons should be stated in a ruling, and the case should be submitted to the Grand Chamber for adjudication.
+
+Before making a ruling for a case as mentioned in the preceding paragraph, the said supreme administrative court should confer with the opinions of other courts with letters of consultation. The consulting court shall reply in writing within 30 days; if no reply is received within 30 days, it is deemed to maintain the antecedent legal opinion for the judgment. Only after one of the consulting courts asserts a stand to maintain the antecedent legal opinion, can the court then make a ruling for the case, as mentioned in the preceding paragraph.
+
+### Article 15-3
+
+When any of the supreme administrative courts reviews a trial case, if the judgment-based legal opinion is deemed, after a review, significant in general principle, reasons should be stated in a ruling, and the case should be submitted to the Grand Chamber for adjudication.
+
+### Article 15-4
+
+During a trial in a panel of the Supreme Administrative Court, if there are legal opinions in which the parties consider significant enough to sway the judgment, are dissenting with the antecedent judgment opinions, or are significant in general principle, the parties may indicate the following information in a written statement, and file a motion with the court that accepted the case to submit said case with a ruling to the Grand Chamber for judgment.
+
+\1. Legal provisions involved;
+
+\2. The judgment that derives from dissenting opinions, or the specific contents of the legal opinion that are significant in general principle;
+
+\3. The impact of the said dissenting opinions, or the opinions of general significance, on the outcome of the judgment;
+
+\4. The legal opinions and reasons held by the movant.
+
+The parties should retain an agent ad litem to file a motion, as mentioned in the preceding paragraph.
+
+Any one of the panels of the Supreme Administrative Court may rule to reject the motion if it deems that the motion is not in compliance with legal procedures, or if it should not be legally permitted.
+
+### Article 15-5
+
+The court submitting the case may state reasons in a ruling and withdraw the submitted case prior to the conclusion of oral arguments in the Grand Chamber, if and when the status of the said legal dispute has rendered it unnecessary.
+
+Before the Grand Chamber announces its judgment, it is possible to state the reasons in a ruling and withdraw the submitted case, if and when there is no need to unify the opinions about the legal dispute concerned.
+
+### Article 15-6
+
+The adjudicating of legal disputes in the Grand Chamber shall be conducted by a collegial panel of nine judges, and the president of the Supreme Administrative Court shall assume the position of the presiding judge.
+
+The collegial panel of judges of the Grand Chamber is composed of one judge as assigned by the court submitting the case, and seven judges elected by ballot.
+
+Each panel of the Supreme Administrative Court should have at least one judge as an elected judge of the Grand Chamber, as mentioned in the preceding paragraph.
+
+### Article 15-7
+
+The term of office for elected judges, as mentioned in the second Paragraph of the preceding Article, is two years. The candidates for elected judges and substitutes are selected by a secret ballot in a judge meeting, from the entire board of judges, with priority given to the number of votes from high to low, and in compliance with the method as described in the provisions of the third Paragraph of the preceding Article.
+
+If the president is absent, or is not available to serve as the presiding judge for any reason, the vacancy shall be filled by a substitute judge, as mentioned in the preceding Paragraph, and the most senior division chief judge in terms of experience of the Grand Chamber shall serve as the presiding judge; if no division chief judge is available, the most senior court judge in terms of experiences shall fill the vacancy; if more than one judge has the same seniority based on experience, then the judge with the most seniority, based on age, shall serve in the position. If an elected judge of the Grand Chamber is absent or not available to serve as the judge for the Grand Chamber, the vacancy shall be filled by a substitute judge, as mentioned in the preceding Paragraph.
+
+If the judge assigned by the court submitting the case, as mentioned in the second Paragraph of the preceding Article, is absent or is not available to serve as a judge of the Grand Chamber, the court submitting the case shall assign another court judge to serve in the position.
+
+When there is a change of judges due to a reelection in the Grand Chamber, the legal dispute under review by the Grand Chamber shall remain with the same Grand Chamber until the review has reached its conclusion. If a judge of the said Grand Chamber is absent or not available to serve in the Grand Chamber, the position shall be filled by a substitute judge, who was selected at the time when the legal dispute was submitted to the Grand Chamber.
+
+If the recusal at the judgment of the Grand Chamber by a judge of the Grand Chamber who was previously involved in the judgment of the case submitted by the court before the rehearing will result in absence of any judges from the panel of the Supreme Administrative Court previously in charge of the case in the Grand Chamber, the recusal will not be necessary.
+
+The request for recusal of a judge in the Grand Chamber shall be ruled by a collegial panel of the Grand Chamber.
+
+When the aforesaid ruling prohibits the judge whose recusal is requested from participating, the candidate for substitution shall be based on the stipulations in the second Subparagraph and the third Subparagraph or the substitute judge will be appointed. The substitute shall end on the judgment day of the case for which the recusal is requested.
+
+When the President or a judge of the Grand Chamber is absent, the substitute judge shall serve until the end of the original tenure.
+
+When the presiding judge or any judge of the Grand Chamber is unable to serve due to circumstances, the substitute judge or the appointee shall serve the tenure of the substitute judge or the appointee's duty for the Grand Chamber last until the conclusion of the circumstances. However, the substitute judge shall serve until the expiry of the original tenure if the remaining tenure is less than three months.
+
+### Article 15-8
+
+When adjudicating legal disputes, the Grand Chamber should conduct oral arguments.
+
+The parties should retain an agent ad litem to perform the oral arguments, as mentioned in the preceding Paragraph.
+
+On the date of oral arguments, as referred to in the first Paragraph, if one of the parties has not retained an agent ad litem, or if the agent ad litem is not present, adjudication shall be decided after the agent ad litem who is present makes his/her statement. If agents ad litem of both parties are not present, the oral arguments will not be conducted.
+
+When the Grand Chamber deems it necessary, the Court may ex officio, or on a motion by the parties, their agents, or defense attorneys, select experts or scholars of specific professional legal issues to present their legal opinions in writing, or make statements during oral arguments.
+
+The persons, who present statements as described in the preceding Paragraph, shall disclose the following information:
+
+\1. Whether or not, during the preparation or submission of relevant professional opinions or information, they have a delegation or cooperation relationship with the parties, interested parties, or their agents.
+
+\2. Whether or not, during the preparation or submission of relevant professional opinions or information, they have received monetary remuneration, or financial assistance, or its equivalent price or value, from the parties, interested parties, or their agents.
+
+\3. The identities of other people who provided monetary remuneration or assistance, and its price or value.
+
+### Article 15-9
+
+When adjudicating a legal dispute, the Grand Chamber should document the main text of and reasons for the ruling, and the said ruling should be pronounced within 30 days of the conclusion of arguments.
+
+Judges’ minority opinions, which are different from the majority opinions formed during the review period, after being recorded in the review book and submitted as a written record of the different opinions (minority report) prior to the pronouncement of a ruling, should be promulgated along with the ruling.
+
+### Article 15-10
+
+The ruling of a Grand Chamber is legally binding on cases submitted by the submitting courts.
+
+### Article 15-11
+
+Unless otherwise prescribed by this Act, the provisions of Administrative Litigation Procedure Act, and/or other relevant regulations that are not contradictory to the normative nature of Grand Chambers, shall also apply.
+
+### Article 16
+
+(deleted)
+
+### Article 16-1
+
+The applicability of precedent cases compiled by the Supreme Administrative Court prior to the enactment of the amendment of this Act, on December 7, 2018, should be suspended, if the full text of the judgment is not available for reference.
+
+The precedents, in which the applicability has not been suspended prior to the stipulation of the preceding paragraph, have the same effect as the Supreme Administrative Court judgments that have not been selected as precedents.
+
+Within three years after the implementation of the amended Act on December 7, 2018, if there is doubt, that the precedents, or resolutions, on which the final and binding judgment of the people's case is based, are contradictory to the Constitution, the people may file a motion for Constitutional interpretations pursuant to the provisions of Article 5 Paragraph 1 Subparagraph 2 of the Judicial Yuan Justices Reviewing Cases Act.
+
+## Chapter 4 Qualifications and Benefits of a Judge
+
+### Article 17
+
+(Deleted)
+
+### Article 18
+
+(Deleted)
+
+### Article 19
+
+The selection and review process of Judges for an Administrative Court shall take into account the candidates' experience and knowledge in the administrative law profession.
+
+Once a candidate is appointed as a judge of an Administrative Court, annual on-the-job training must be organized to promote the administrative law and its related professionalism, and to improve his adjudicative quality.
+
+### Article 20
+
+Unless otherwise provided for in this Act, the Judicial Personnel Ordinance, and other provisions of the law relating to the protection and remuneration for judiciary judges shall apply mutatis mutandis to the protection and remuneration for the judges of an Administrative Court.
+
+## Chapter 5 The Allocation of Clerks
+
+### Article 21
+
+A High Administrative Court shall have a Clerk Division, and shall be staffed with: a Chief Clerk with a job ranking of recommendation rank 9th grade or selection rank 10th to 11th grade, whose job function is to take charge of administrative affairs according to the instructions of the President; 1st Clerks with a recommendation rank 8th to 9th grade; 2nd Clerks with a recommendation rank 6th to 7th grade; and 3rd Clerks with an elementary rank 4th to 5th grade.
+
+The Clerk Division may be divided into sections to manage business; each section may be divided into units when necessary. The Section Chief position shall be served by the 1st Clerk concurrently, and the Unit Chief by either 1st Clerk or 2nd Clerk concurrently. Neither function will have separate positions established.
+
+The total combined number of 1st and 2nd Clerks in the preceding paragraph shall not exceed half of the total number of 1st, 2nd and 3rd Clerks of the same administrative court.
+
+### Article 22
+
+The Supreme Administrative Court shall have a Clerk Office, and shall be staffed with: a Chief Clerk with a selection rank 11th to 13th grade, whose job function is to take charge of administrative affairs according to the instructions of the President; 1st Clerks with a recommendation rank 8th to 9th grade; 2nd Clerks with a recommendation rank 6th to 7th grade; and 3rd Clerks with an elementary rank 4th to 5th grade.
+
+The Clerk Office may be divided into sections to manage business; each section may be divided into units when necessary. The Section Chief position shall be served by the 1st Clerk concurrently, and the Unit Chief by either 1st Clerk or 2nd Clerk concurrently. Neither function will have separate positions established.
+
+The total combined number of 1st and 2nd Clerks in the preceding paragraph shall not exceed half of the total number of 1st, 2nd and 3rd Clerks of the same administrative court.
+
+## Chapter 6 The Allocation of Other Personnel
+
+### Article 23
+
+Each level of Administrative Court may be staffed with Interpreters, and Technical Specialists with an elementary rank of 3rd to 5th grade; Process Servers with an elementary rank of 3rd to 5th grade; and Clerk Assistants and Court Attendants with an elementary rank of 1st to 3rd grade.
+
+Current employees of Administrative Court, who were retained in accordance with past employee management regulations, but with no qualifications for civil servant employment, may remain as Clerk Assistants and Court Attendants as prescribed in the preceding Paragraph until such employment comes to an end.
+
+### Article 24
+
+Each level of Administrative Court shall have Bailiffs with elementary rank of 3rd to 5th grade; a Chief Bailiff with an elementary rank of 5th grade or a recommendation rank of 6th to 7th grade; a Deputy Chief Bailiff with an elementary rank of 4th to 5th grade or a recommendation rank of 6th grade;
+
+### Article 25
+
+A High Administrative Court shall have a Personnel Office, which will be staffed with a Chief Officer with a recommendation rank of 9th grade to a selection rank of 10th grade, and Officers with an elementary rank of 5th grade or a recommendation rank of 6th to 7th grade, whose job function is to administer personnel matters pursuant to the law.
+
+The Supreme Administrative Court shall have a Personnel Office, which will be staffed with a Chief Officer with a selection rank of 10th grade, and Officers with an elementary rank of 5th grade or a recommendation rank of 6th to 7th grade, whose job function is to administer personnel matters pursuant to the law.
+
+### Article 26
+
+A High Administrative Court shall have an Accounting Office and a Statistics Office, each of which will be staffed with a Chief Officer with a recommendation rank of 9th grade to a selection rank of 10th grade, and Officers with an elementary rank of 5th grade or a recommendation rank of 6th to 7th grade, whose job function will be to administer matters relating to annual calculations, accounting, and statistics pursuant to the law.
+
+The Supreme Administrative Court shall have an Accounting Office and a Statistics Office, each of which will be staffed with a Chief Officer with a selection rank of 10th grade, and Officers with an elementary rank of 5th grade or a recommendation rank of 6th to 7th grade, whose job function will be to administer matters relating to annual calculations, accounting, and statistics pursuant to the law.
+
+### Article 27
+
+A High Administrative Court shall have an Internal Affairs Office, which will be staffed with a Chief Officer with a recommendation rank of 9th grade to a selection rank of 10th grade, and Officers with an elementary rank of 5th or a recommendation rank of 6th to 7th grade, whose job function is to administer matters relating to internal affairs pursuant to the law.
+
+The Supreme Administrative Court shall have an Internal Affairs Office, which will be staffed with a Chief Officer with a selection rank of 10th grade, and Officers with an elementary rank of 5th grade or a recommendation rank of 6th to 7th grade, whose job function is to administer matters relating to internal affairs pursuant to the law.
+
+### Article 28
+
+A High Administrative Court shall have an Information Technology Office, which shall be staffed with a Chief Officer with a recommendation rank of 9th grade to a selection rank of 10th grade; Designers with a recommendation rank of 6th to 8th grade; Programmers with a recommendation rank of 7th grade; and Assistant Programmers with an elementary rank of 4th to 5th grade, where 1/2 of the personnel may be ranked with a recommendation rank of 6th grade, whose duties are to administer affairs of information technology.
+
+The Supreme Administrative Court shall have an Information Technology Office, which shall be staffed with a Chief Officer with a selection rank of 10th grade; Designers with a recommendation rank of 6th to 8th grade; Programmers with a recommendation rank of 7th grade; and Assistant Programmers with an elementary rank of 4th to 5th grade, where 1/2 of the personnel may be ranked with a recommendation rank of 6th grade, whose duties are to administer affairs of information technology.
+
+## Chapter 7 The Judicial Year and the Allocation of Assignments
+
+### Article 29
+
+A judicial year shall start on January 1 and end on December 31 of the same year.
+
+### Article 30
+
+The Judicial Yuan shall prescribe the administrative procedures and regulations for each level of Administrative Court.
+
+### Article 31
+
+All levels of administrative courts shall establish judge meetings.
+
+Unless otherwise stipulated, Chapter 4 of the Judges Act shall apply to the composition of a judge meeting, convening times, matters to resolve and procedure of resolutions.
+
+### Article 32
+
+The President shall act as chairman of the meeting prescribed in the preceding Article. The resolutions of the meeting shall be passed with majority votes. The chairman shall decide whether a resolution should be passed in the event of a tie.
+
+### Article 33
+
+If it is necessary to change the pre-determined allocation of assignments, order of rotation, or sitting sequence of Judges in collegial trials because of an event, and an increase or decrease in the number of Judges, or other changes are required, the President may make a decision regarding the adjustment after consulting with the Division-Chief Judges and Judges.
+
+## Chapter 8 The Opening and Adjournment of a Court Session and its Order
+
+### Article 34
+
+The Presiding Judge shall have the authority to direct a court session and a trial.
+
+### Article 35
+
+In the event an agent ad litem acts or speaks inappropriately during the course of a trial, the Presiding Judge may give warnings or restrain such a person from representing on the trial day.
+
+### Article 36
+
+During a court session, the Presiding Judge shall have the authority to maintain court order.
+
+### Article 37
+
+The Presiding Judge may prohibit a person who is obstructing a court order or engaging in other inappropriate behavior from entering the courtroom, or order such a person to leave the courtroom. If necessary, the Presiding Judge may order the person to be detained until the court session is adjourned.
+
+The orders as described in the preceding Paragraph shall not be challenged.
+
+The provisions in the preceding two Paragraphs shall apply mutatis mutandis when the Presiding Judge is performing duties outside of court.
+
+### Article 38
+
+Persons who violate an order given by the Presiding Judge, Commissioned Judge or Assigned Judge while he is intending to maintain court order, resulting in the obstruction of court proceedings, and continues to refuse to comply upon warning, shall be subject to imprisonment, or detention for no more than three months, or a fine of no more than nine thousand New Taiwan dollars.
+
+### Article 39
+
+When giving an order pursuant to Article 35 or 37, the Presiding Judge shall provide grounds in the record.
+
+### Article 40
+
+Rules governing the Presiding Judge as described in this Chapter shall apply mutatis mutandis to the Commissioned Judge or Assigned Judge.
+
+## Chapter 9 Supervision over Judicial Administration
+
+### Article 41
+
+Supervision of administration for each level of Administrative Court is prescribed as follows:
+
+\1. The Judicial Yuan President supervises all levels of Administrative Court.
+
+\2. The Supreme Administrative Court President supervises that Supreme Administrative Court.
+
+\3. A High Administrative Court President supervises that High Administrative Court.
+
+### Article 42
+
+Persons with the supervision authority pursuant to the preceding Article may impose the following restrictions over supervised personnel:
+
+\1. Give orders to bring attention to matters concerning job duties.
+
+\2. Give warnings to personnel on subjects concerning poor performance, committing ultra vires or misconducts.
+
+### Article 43
+
+In the event of a severe violation of Subparagraph 2 of the preceding Article or failure to heed a warning by a supervised personnel, the supervising officer may apply the Civil Servant Discipline Act in disciplinary action.
+
+### Article 44
+
+Provisions in this Chapter shall not affect the independent exercising of judicial powers.
+
+## Chapter 10 Supplementary Provisions
+
+### Article 45
+
+The Judicial Yuan shall prescribe the rules governing courtroom settings and sit-in on the Administrative Court.
+
+### Article 46
+
+The Judicial Yuan shall prescribe the time limit for Administrative trial adjudication.
+
+### Article 47
+
+Issues not addressed herein shall be governed by the Court Organization Act and other applicable laws relating to personnel management.
+
+### Article 48
+
+This Act is effective on the date of promulgation.
+
+The Judicial Yuan shall mandate the enforcement date of the amended Articles of this Act.
+
+## Attachments
+
+- [Appendix One：Staff Quota of High Administrative Courts.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008612)
+- [Appendix One：Staff Quota of High Administrative Courts.doc](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008613)
+- [Appendix Two：Staff Quota of the Supreme Administrative Court.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008614)
+- [Appendix Two：Staff Quota of the Supreme Administrative Court.doc](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008615)
+
+## History
+
+\1. Promulgated on November 11, 1932
+
+\2. Amended on November 6, 1936
+
+\3. Amended on July 25, 1942
+
+\4. Amended on April 16, 1945
+
+\5. Amended on October 30, 1945
+
+\6. Amended on March 24, 1948
+
+\7. Amended on December 12, 1975
+
+\8. Amended on November 11, 1994
+
+\9. Amended on February 3, 1999
+
+\10. Amended on May 23, 2001
+
+\11. Amended on November 23, 2011
+
+\12. By Presidential Order Hua-Tsung (I)-Yi-Tzu No 10800001281 on January 4, 2019, the provision of Article 3 is amended and promulgated; Articles 15-1 to 15-11, and 16-1 are added; and the provision of Article 16 is deleted; the enactment date shall be prescribed by the Judicial Yuan.
+
+Promulgated by order of the Judicial Yuan Yuan-Tai-Ting-Si-Yi (I)-Tzu No. 1080000418 on January 14, 2019, and to be enacted on July 4, 2019.
+
+\13. Amended on June 10, 2020
+
+\14. Amended on June 22, 2022

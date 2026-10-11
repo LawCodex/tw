@@ -1,0 +1,585 @@
+---
+title: "Veterinary Drugs Control Act"
+title_zh: "動物用藥品管理法"
+identifier: "M0130015"
+type: act
+law_level: "法律"
+category: "行政＞農業部＞動植物防檢疫目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1971-08-16
+last_amended: 2016-11-09
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0130015"
+retrieved: 2026-10-12
+---
+
+# Veterinary Drugs Control Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-agriculture/M0130015-veterinary-drugs-control-act.md](../../../zh/laws/ministry-of-agriculture/M0130015-veterinary-drugs-control-act.md)) is authoritative.
+
+## Article 1
+
+This Act is enacted to enhance the quality of veterinary drugs, to enhance animal health, and to promote the development of the livestock industry.
+
+## Article 2
+
+Competent authorities as referred to in this Act: At the central government level: the Council of Agriculture, Executive Yuan; at the special municipal level: the government of the special municipality; and at the county/city level: the government of thecounty/city.
+
+## Article 3
+
+The term "veterinary drug" as used in this Act refers to one of the following substances in the form of raw materials, preparations, or over the counter drugs:
+
+\1. Biologics manufactured following the principles of microbiology, immunology, or molecular biology specifically for preventing and treating animal diseases.
+
+\2. Antibiotics specifically for preventing and treating animal diseases.
+
+\3. Diagnostics promulgated and designated by the central competent authority specifically for the diagnosis of animal diseases.
+
+\4. Veterinary drugs other than those described in the preceding 3 Subparagraphs specifically for preventing and treating diseases or for enhancing or modulating physiological functions in animals.
+
+## Article 3-1
+
+The term "preparations" as used in this Act refers to veterinary drugs which are processed and compounded from raw materials into a specific pharmaceutical form and dosage.
+
+Categories of preparations shall be promulgated by the central competent authority.
+
+Preparations are classified into veterinary drugs to be prescribed by veterinarians (or veterinary assistants) and non-prescription veterinary drugs.
+
+Regarding prescription drugs specified in the preceding Paragraph, their categories, terms of purchase and sale, methods of use, information to be included on prescriptions, storage procedures, record-keeping requirements for sales, and other matters requiring compliance shall be prescribed by the central competent authority.
+
+## Article 3-2
+
+The term "new drugs" as used in this Act refers to preparations which are determined by the central competent authority with new ingredients, new combinations, new indications, new routes of administration, new pharmaceutical forms, or new method of administration and dosage.
+
+## Article 4
+
+The term "counterfeit veterinary drugs" as used in this Act refers to veterinary drugs which are found to fall within any of the following circumstances after testing:
+
+\1. The veterinary drugs are manufactured without prior approval;
+
+\2. The veterinary drugs are packed or alternated with the products of others;
+
+\3. The duration of validity marking or label of the veterinary drugs has been altered or replaced;
+
+\4. The active ingredients of the veterinary drugs are inconsistent with the ingredients thereof previously approved or
+
+\5. The veterinary drugs have failed to affix the seal of approval as specified in Article 18.
+
+## Article 5
+
+The term "banned veterinary drugs" as used in this Act refers to veterinary drugs which are found to fall within any of the following circumstances:
+
+\1. The veterinary drugs which are prohibited, by an order promulgated by the central competent authority, from manufacturing, dispensing, importing, exporting, selling or displaying; or
+
+\2. The veterinary drugs which are imported without prior approval. However,veterinary drugs, excluding biologics as specified in Paragraph 1 of Article 3 can be exempt if they are brought in by tourists or members of transport service staff for personal use in their own pets, and complies with regulations pertaining to specific drug categories, pharmaceutical forms, and quantities.
+
+The regulations pertaining to specific categories, pharmaceutical forms, and quantities specified in Subparagraph 2 of the preceding Paragraph shall be promulgated by the central competent authority in conjunction with the Ministry of Finance.
+
+## Article 6
+
+The term "substandard veterinary drug" as used in this Act refers to the approved veterinary drugs which are found to fall within any of the following circumstances after testing:
+
+\1. The quality, quantity, or potency of the active ingredients contained in the veterinary drugs are inconsistent with those previously approved;
+
+\2. The whole or part of the veterinary drugs are contaminated or degraded;
+
+\3. The main indication of the veterinary drug is inconsistent with that previously approved; or
+
+\4. The main indication of the veterinary drug is inconsistent with that previously approved;
+
+The standards specified in Subparagraph 1 of the preceding Paragraph shall be prescribed by the central competent authority.
+
+## Article 7
+
+The term "veterinary drug manufacturers" as used in this Act refers to entities engaged in manufacturing and processing of veterinary drugs, wholesaling and exporting their own products, and importing raw materials for their own use.
+
+The criteria, procedure, regulations, and other matters of compliance for veterinary drug manufacturers applying to import raw materials for self-use shall be prescribed by the central competent authority.
+
+Raw materials for self-use which have already been imported shall not be transferred or resold except being approved by the central competent authority.
+
+## Article 8
+
+The term "veterinary drug dealers" as used in this Act refers to entities engaged in wholesaling, retailing, importing, and exporting veterinary drugs.
+
+## Article 9
+
+The term "labels" as used in this Act refers to the identification articles used to specify, in words, pictures, or symbols, on the container or package of veterinary drugs.
+
+## Article 10
+
+The term "package insert" as used in this Act refers to the instruction sheets appended to veterinary drugs.
+
+## Article 11
+
+The term "seal of approval" as used in this Act refers to the seal affixed by the competent authority to veterinary biologics following verification and testing.
+
+## Article 12
+
+To apply for product registration and license to manufacture or import veterinary drugs, one shall submit documents (about ingredients, functionality, essential manufacturing process, assay, and relevant information or certificates) along with samples (of the label, package insert and drug) and fees (for the license and testing) to the central competent authority. One must not begin to manufacture or import the veterinary drug until the license is issued.
+
+Regulations for product registration, review process, license-related matters (the change, renewal, reissuance, replacement, annulation, and other items to comply with thereof), and rules to follow as referred to in the preceding paragraph shall be prescribed by the central competent authority.
+
+The central competent authority may cite Good Manufacturing Practice (GMP) for veterinary drugs as a criterion for the issuance or renewal of manufacture/import licenses. The Good Manufacturing Practice (GMP) for veterinary drugs is to be prescribed by the central competent authority.
+
+The review criteria and procedure for a made-for-export-only manufacture license may be simplified and made less onerous; however, the veterinary drug thus produced must not be sold domestically or used for other purposes.
+
+Before a new veterinary drug is approved for product registration , it shall be subject to safety and efficacy tests conducted by the central competent authority itself or an accredited agency delegated by the said authority; the applicant for product registration shall bear the cost of such tests; the testing methodology is to be prescribed by the central competent authority.
+
+## Article 12-1
+
+A veterinary drug license shall contain the following information:
+
+\1. License number;
+
+\2. Name of the veterinary drug;
+
+\3. Names and addresses of the manufacturer and/or importer;
+
+\4. Name and address of the person in charge;
+
+\5. Name and address of the manufacturing factory;
+
+\6. Pharmaceutical form and packaging;
+
+\7. Name and the amount of each active ingredient;
+
+\8. Indications; and
+
+\9. Other information required by the central competent authority.
+
+## Article 12-2
+
+The label and package insert of a veterinary drug shall contain the following information as approved:
+
+\1. It is for animal use;
+
+\2. Name and address of the manufacturer/importer;
+
+\3. Drug name and license number;
+
+\4. Name and level of each active ingredient, route of administration, and dosage;
+
+\5. Indications,
+
+\6. Side effects, contradiction, and other signs to watch for;
+
+\7. Withdrawal period;
+
+\8. Manufacture date and lot number;
+
+\9. Shelf life or expiration date; and
+
+\10. Other information required.
+
+Some of the entries listed in the preceding subparagraphs may be omitted if so promulgated and approved by the central competent authority.
+
+## Article 12-3
+
+(Deleted)
+
+## Article 12-4
+
+Regarding fees charged by competent authorities for license documents, testing, inspection, and other charges according to this Act, the fee-charging standards shall be prescribed by the central competent authority.
+
+## Article 13
+
+Once approved for registration, a manufactured or imported veterinary drug must not change the entries on its registration unless so approved by the central competent authority.
+
+## Article 14
+
+A license to manufacture or import veterinary drugs is valid for a maximum of five years; entities intending to continue to manufacture or import shall apply with the central competent authority for renewal two to six months before the expiration date; such renewal may not exceed five years each; licenses are rendered invalid if no renewal is sought on the expiration date or the renewal is denied; such invalidated licenses are to be promulgated by the central competent authority in a government gazette.
+
+During the valid period of a license described in the preceding Paragraph, the central competent authority may, for the protection of animal and human health or other major concerns, reevaluate the specific licensed veterinary drug and restrict its usage and scope; if necessary, a license referred to in the preceding Paragraph may be annulled.
+
+For the review of importation license application, renewal, reevaluation referred to in the preceding Paragraph, or for actual needs, the central competent authority may send personnel to the specific veterinary drug' s overseas manufacturing factory for verification; expenses incurred shall be governed by relevant regulations, and be borne by the entity importing the veterinary drug concerned.
+
+## Article 14-1
+
+The central competent authority shall reject the application for product registration, license renewal or change to registration if false information or document has been submitted by the applicant (the veterinary drug manufacturer or importer); in case an approval has been granted, the specific veterinary drug license shall be revoked.
+
+In case of the circumstances indicated in the preceding Paragraph, the central competent authority shall ignore any follow-up application by the entity for a period of two years starting from the date of application rejection or license revocation.
+
+## Article 14-2
+
+When there is a concern for animal or human health over a veterinary drug whose license has been annulled or revoked, the central competent authority may order the veterinary drug manufacturer or dealer to recall or destroy the said veterinary drug by a set deadline.
+
+## Article 14-3
+
+With prior approval of the central competent authority, sample veterinary drugs from trial production by academic research institutes or veterinary drug manufacturers may be exempt from seeking product registration and/or license; an exclusive label issued by the central competent authority shall be affixed to the container of sample drug indicating that it has been approved for trial production and it must not be used for other purposes.
+
+Field study of a sample veterinary drug mentioned in the preceding Paragraph shall not start until approval of the central competent authority is obtained.
+
+Regulations for the sample veterinary drug mentioned in Paragraph 1 (its application procedure, required documents, criteria for approval, the trial production facility, and how to affix the label) and regulations for the field study mentioned in the preceding Paragraph (application procedure, required documents, criteria for approval) and rules to follow are to be prescribed by the central competent authority.
+
+## Article 15
+
+When there is an outbreak, or a threat of outbreak, of a notifiable animal infectious disease, the central competent authority may take emergent measures to order or approve (without lengthy reviews) the manufacture or importation of veterinary biologics.
+
+## Article 16
+
+Veterinary drugs shall be produced in a facility exclusively for making drugs for animal use. However, a facility approved by the central competent authority for trial production stipulated in Paragraph 1 of Article 14-3 may be exempt from this requirement.
+
+A veterinary drug factory shall be set up in compliance with establishment standards for veterinary drug factories, and conduct factory registration in compliance with relevant regulations.
+
+Standards for establishing veterinary drug factories in the preceding Paragraph are to be prescribed by the central competent authority in collaboration with the central industry regulatory authority.
+
+## Article 16-1
+
+A veterinary drug manufacturer shall obtain the central competent authority's approval before giving or taking consignment to make veterinary drugs.
+
+Qualification and criteria to give or take the said drug-making consignment in the preceding Paragraph, the approval procedure, and relevant regulations are to be prescribed by the central competent authority.
+
+## Article 17
+
+A facility making veterinary biologics shall have veterinarians on staff, whereas a facility making antibiotics or regular veterinary drugs shall have pharmacists on staff to supervise drug production.
+
+## Article 18
+
+After veterinary biologics are produced or have cleared the customs with all tariffs paid, the manufacturer or importer shall apply to special municipal or county (city) competent authorities for batch-by-batch sample testing; such a drug may not be sold until it has passed sample testing and inspection and is secured with the seal of approval by personnel dispatched from the relevant competent authority.
+
+Regulations governing the inspection in the preceding Paragraph are to be prescribed by the central competent authority.
+
+## Article 18-1
+
+The special municipal or county (city) competent authority shall notify the applicant if the drug has failed the test stipulated under the preceding Article; the applicant may pay a retest fee to apply for a retesting within fourteen days of the notice. The application for a retesting can only applied once.
+
+If the original applicant fail to apply for reinspection within the time limit specified in the preceding Paragraph for disqualified veterinary drugs, the special municipal or county (city) competent authority may dispatch personnel to supervise the destruction of the drugs, or require the original importer to return the dugs by a specific deadline.
+
+## Article 19
+
+A veterinary drug dealer shall initiate business registration only after a veterinary drug dealer license is obtained from the special municipal or county (city) competent authority.
+
+The license in the preceding Paragraph is valid for a maximum of five years; an entity intending to continue to sell the drugs shall apply with the special municipal or county (city) competent authority for renewal within two to six months before the expiration date; such renewal may not exceed five years each time; a license becomes invalid if no renewal is sought on the expiration date or the renewal is denied.
+
+Regarding veterinary drug dealer license in the preceding 2 Paragraphs , regulations governing the license (qualification and criteria for application; issuance, replacement, reissuance, renewal, annulation, mandatory entries of the license), changes to business registration, facilities required at the business venue, and other rules to follow are to be prescribed by the special municipal or county (city) competent authority.
+
+A veterinary drug displayed or sold by the dealer shall originate from dealer or manufacturer of a veterinary drug that can verify the sources.
+
+## Article 19-1
+
+Presentation, promotion and advertisement of a veterinary drug is to be performed by veterinary drug manufacturers or dealers only.
+
+The presentation, promotion, and advertisement of a veterinary drug in the preceding Paragraph must not claim, suggest or, insinuate ingredients or efficacy that are false or exaggerated beyond the scope of the drug's product registration.
+
+Non-veterinary drugs must not be presented, promoted, or advertised as capable of preventing or treating animal diseases or enhancing or regulating animal physiological functions.
+
+Interviews, news reports, or promotions – that suggest or insinuate the efficacy of preventing or treating animal diseases or enhancing or regulating animal physiological functions – are deemed as advertisements defined in the preceding 3 Paragraphs. 19-1.1 to 19-1.3.
+
+## Article 20
+
+A veterinary drug shall have the label affixed onto it and be accompanied with the package insert. However, specific drugs – for which the central competent authority's approval is sought and obtained to use other options for labeling and package insert – may be exempt from this requirement.
+
+## Article 21
+
+A veterinary drug dealer must not repack veterinary drugs into smaller sizes. However, veterinary drugs imported in large packs are exempt if they are approved by the central competent authority before and comply with the following provisions:
+
+\1. to be repackaged by a registered veterinary drug factory;
+
+\2. to be sold under the original brand name;
+
+\3. indicating the name and address of the repacker besides the labeling and package insert required under Article 12-2; and
+
+\4. to be sealed with a label specifically for repacked goods.
+
+The special municipal or county (city) competent authority shall dispatch personnel to supervise the repackaging indicated in the preceding Paragraph.
+
+## Article 22
+
+When hiring a salesperson, the employer (a veterinary drug manufacturer or dealer) shall register the employee with the special municipal or county (city) competent authority and revise the registered information whenever there is a change.
+
+A veterinary drug salesperson must not promote products not manufactured or distributed by his or her employer, peddle products out of a street stand, break the seal of veterinary drugs, repack the goods, or make false claims for promotion purposes.
+
+## Article 23
+
+Veterinary drugs used for samples or complimentary gifts – though imported with approval – must not be sold for a price.
+
+Veterinary drugs with existing import licenses or under import control must not be named on an import application under the pretense of samples or gifts.
+
+Rules governing samples and gifts in Paragraph 1 are to be prescribed by the central competent authority.
+
+## Article 24
+
+Veterinary drugs approved for manufacturing shall require export licenses if to be shipped abroad; the veterinary drug manufacturer shall file the application for an export license with the central competent authority in advance.
+
+## Article 25
+
+The special municipal or county (city) competent authority shall dispatch personnel to inspect the premises and equipment of a veterinary drug manufacturer – regarding its manufacturing process, apparatus, quality control, and record-keeping – on a regular basis.
+
+When necessary, the central competent authority may dispatch personnel to conduct spot-checking within the scope set in the preceding Paragraph.
+
+When the competent authority arrives to conduct an inspection or spot-checking, the veterinary drug manufacturer must not refuse without due cause.
+
+If the special municipal or county (city) competent authority decides there is still rooms for improvement after the inspection described in Paragraph 1, it shall inform the entity to rectify the issues before a set deadline; failure to rectify may result in a report to the central competent authority seeking an order to suspend the entity's production of part or all veterinary drugs at the factory. Continued production – despite a suspension order – may result in a report to the central competent authority seeking annul the entity's veterinary drug manufacture license.
+
+## Article 26
+
+The competent authority may dispatch personnel to the premises of an entity – a veterinary drug manufacturer or dealer, veterinarian care facility, or a user of veterinary drugs – and may obtain samples at the original price for quality inspection.
+
+The competent authority may dispatch personnel to animal farms (of livestock, poultry, and aquaculture) and feed factories to audit the use of veterinary drugs, and may conduct biopsies on some animals.
+
+Regarding the sampling, audit, and biopsy in the preceding 2 Paragraphs, the entities (veterinary drug manufacturers and dealers, veterinary care facilities, farms of livestock, poultry, and aquaculture) must not evade, obstruct, or refuse such requests.
+
+After the competent authority's inspection and/or testing, if an entity (a veterinary drug manufacturer or dealer, veterinary care facility, farm of livestock, poultry or aquaculture, or feed manufacturer) is found to have used veterinary drugs not compliant with this Act, the entity may be ordered to provide relevant information. The entity must not evade, obstruct, refuse the order, or provide false information.
+
+## Article 27
+
+Veterinary drug inspectors shall identify themselves with an identification badge/paper when performing tasks described in Paragraphs 1 and 2 of Article 25 and Paragraph 1 of Article 26.
+
+## Article 28
+
+Regarding suspicious counterfeit, banned, or substandard veterinary drugs pending sampling verification, the competent authority shall seal them off for the related entity to sign an affidavit to take them into custody.
+
+The samples taken in the preceding Paragraph shall be subject to verification and disposal as soon as possible – no later than two months after the date the suspicious drug is uncovered.
+
+## Article 29
+
+Regarding substandard veterinary drugs uncovered under this Act, if it is manufactured domestically and – upon inspection – can be modified and manufactured usable, the special municipal or county (city) competent authority shall dispatch personnel to supervise the original manufacturer to modify the drug before a set deadline. If the drugs concerned is imported with approval, the authority shall have it sealed and put in custody while the central competent authority orders the importer to initiate a goods-for-return process with the original overseas manufacturer.
+
+## Article 30
+
+Besides disposing of dubious veterinary drugs – deemed counterfeit, banned, or substandard after audit or testing – as specified in this Act, the party involved shall be dealt with as follows:
+
+\1. Regarding the entity that manufactures, imports, or repackages counterfeit/banned veterinary drugs or the one that provides licenses for others to do so, the original license-issuing agency may annul all the entity's veterinary drug licenses or dealership licenses.
+
+\2. Regarding the entity that displays or stockpiles counterfeit/banned veterinary drugs to sell or has the intent to sell, the special municipal or county (city) competent authority is to publicize the name and address of the entity, the name and address of the person in charge, names of the drugs, and specifics of the offense. For a repeat offender, the original license-issuing agency may annul all the entity's veterinary drug licenses or dealership licenses.
+
+\3. Regarding the entity that deals with (manufactures, imports or repackages; displays or stockpiles to sell or intent to sell substandard veterinary drugs, the special municipal or county (city) competent authority is to publicize the name and address of the entity, the name and address of the person in charge, names of the drugs and specifics of the offense. Regarding a major or repeat offender, the original license-issuing agency may annul each specific veterinary drug license or dealership license.
+
+## Article 31
+
+Whistleblowers shall be rewarded for offering information to uncover counterfeit, banned, and substandard veterinary drugs. Regulations governing the rewards are to be prescribed by the central competent authority.
+
+## Article 32
+
+Regarding the usage of veterinary drugs (target animal, purpose, route of administration, dosage, withdrawal period, and precautions to take), users shall abide by usage regulations prescribed by the central competent authority.
+
+## Article 32-1
+
+Raw materials for veterinary drugs shall only be supplied or sold to veterinary drug manufacturers making drugs containing such a material.However, raw materials for veterinary drugs imported with the central competent authority's approval may be sold to a veterinary drug dealer to be resold to a veterinary drug manufacturer making drugs containing such a material; each batch of material can be resold only once.
+
+## Article 32-2
+
+For categories of veterinary drugs which are promulgated by the central competent authority, veterinary drug manufacturers and importers shall compile and submit data (drug type, quantity produced or imported, quantity sold, and customer names) to special municipal or county (city) competent authorities for the record by the end of January and July each year, and also retain the data for three years.
+
+By the end of February and August each year, special municipal or county (city) competent authorities shall summarize and submit the data prescribed in the preceding Paragraph to the central competent authority.
+
+## Article 32-3
+
+Animal farmers (of livestock, poultry, and aquaculture) and feed manufacturers must not use any of the following preparations or drugs on animals or in animal feed:
+
+\1. Counterfeit veterinary drugs described in Subparagraphs 1, 2, or 4 of Article 4,
+
+\2. Banned veterinary drug,
+
+\3. Preparations for animal use but of dubious origin, with exceptions to those stipulated in the preceding 2 Subparagraphs,
+
+\4. Preparations for human use, or
+
+\5. Raw materials for veterinary or human drugs.
+
+In either of the following situations, the animal or product must not be moved, assigned to a third party, or supplied for slaughtering, food processing, or human food.
+
+\1. An animal (livestock, poultry, or aquaculture) found to contain specific banned veterinary drugs in a premarket test, or
+
+\2. Other than the situation mentioned in the preceding Subparagraph, an animal (livestock, poultry, or aquaculture) or animal product (milk, egg, or edible parts thereof) that fails to meet the standards for veterinary drug residues in a premarket test.
+
+An animal described in the preceding Paragraph may be retested by the special municipal or county (city) competent authority if such an application is filed. For animals in described in the Subparagraph 1 of preceding Paragraph , one shall apply for retesting within a certain time limit. Regarding animals for which no retesting is sought within the time limit or those fail the retest, the special municipal or county (city) competent authority shall order the (livestock, poultry, or aquaculture) farmer to dispose of – by rendering, composting, destruction, or necessary measure – the animal within seven days.
+
+The owner of animals/products described in either situation in Paragraph 2 shall clearly mark the animal/product for easy differentiation.
+
+Regulations for the "specific banned veterinary drugs" as stipulated in Subparagraph 1 of Paragraph 2, "time limit" as stipulated in Paragraph 3, and "marking method" as stipulated in the preceding Paragraph shall be promulgated by the central competent authority.
+
+The fee for retesting as stipulated in Paragraph 3 shall be compliant with relevant regulations and to be borne by the specific (livestock, poultry, or aquaculture) farmer.
+
+## Article 33
+
+A person making or importing counterfeit/banned veterinary drugs – except for the one described in Subparagraph 2, Paragraph 1 of Article 5– shall be sentenced to imprisonment more than one year but less than seven years, and a fine of not more than NT$4.5 million shall be imposed.
+
+If the offense specified in the preceding Paragraph results in the death of a person, the offender shall be sentenced to life imprisonment or imprisonment for not less than seven years; if it causes serious injury, the offender shall be sentenced to imprisonment for more than three years but less than ten years.
+
+Those who commit the offense specified in Paragraph 1 due to negligence shall be sentenced to imprisonment for not more than three years, detention, or fined no more than NT$ 500,000.
+
+The person/entity having attempted the act in Paragraph 1 is subject to penalty.
+
+## Article 34
+
+(Deleted)
+
+## Article 35
+
+A person handling counterfeit or banned veterinary drugs – repacking, selling, transporting, holding for oneself or others, brokering, assigning to a third party, or displaying/caching with intent to sell – shall be sentenced to imprisonment for more than six months but less than five years , and may also be fined no more than NT$5 million.
+
+If the offense specified in the preceding Paragraph results in the death of a person, the offender shall be sentenced to imprisonment for not less than seven years; if it causes serious injury, the offender shall be sentenced to imprisonment for more than 1 years but less than 7 years.
+
+Those who commit the offense specified in Paragraph 1 due to negligence shall be sentenced to imprisonment for not more than 2 years, detention, or fined no more than NT$300,000.
+
+The person/entity having attempted the act in Paragraph 1 is subject to penalty.
+
+## Article 36
+
+A person manufacturing or importing substandard veterinary drugs is subject to a fine of more than NT$60,000 but less than NT$300,000.
+
+The person handling substandard veterinary drugs – repacking, selling, transporting, holding for oneself or others, brokering, assigning to a third party, or displaying/caching with intent to sell – is subject to a fine of more than NT$30,000 but less than NT$150,000.
+
+## Article 37
+
+(Deleted)
+
+## Article 38
+
+(Deleted)
+
+## Article 39
+
+Any individual in one of the following situations shall be subject to a fine of more than NT$ 200,000 but less than NT$ 1,000,000:
+
+\1. Violation of Paragraph 1 of Article 14-3 by using trial-produced sample veterinary drugs for other purposes.
+
+\2. Violation of Paragraph 2 of Article 14-3 by proceeding to field study without the central competent authority's approval.
+
+\3. Violation of Paragraphs 1 and 2 of Article 19-1 by conducting drug presentation, promotion, or advertisement without approval.
+
+\4. Violation of Paragraph 3 of Article 19-1 by branding, promoting, or advertising non-veterinary drugs for animal use.
+
+\5. Violation of Paragraph 1 of Article 32-3 when a feed manufacturer uses the drugs or preparations listed there on animals or in animal feed.
+
+A second violation within one year of Paragraph 1 of Article 32-3 by a feed manufacturer when he or she uses drugs or prepared formulations listed in Subparagraphs 1 to 4 of the Paragraph concerned on animals or in animal feed, the feed manufacturer is subject to a fine of more than NT$1.5 million but less than NT$7.5 million.
+
+If the offense specified in Subparagraphs 1, 2, and 5 of Paragraph 1 or Paragraph 2 causes harm to human health, the offender shall be sentenced to imprisonment for less than seven years, and a fine of more than NT$2.5 million but less than NT$10 million may be imposed.
+
+For an offender who violates the provisions of Subparagraph 5 of Paragraph 1 or Paragraph 2, the competent authority shall publicize the name and address of the entity, the name of the person in charge, and the specifics of the offense.
+
+## Article 40
+
+If any of the following circumstances occur, a fine of more than NT$ 90,000 but less than NT$ 450,000 shall be imposed:
+
+\1. Violation of Paragraph 4 of Article 3-1 by someone other than a livestock, poultry, or aquaculture farmer, namely failure to follow rules about prescription drug in Paragraph 4 of Article 3-1 – sales terms, usage, entries and retention of prescription records, and/or mandatory sales data.
+
+\2. Violation of Paragraph 3 of Article 7 by assigning or reselling for-self-use material to a third party without approval.
+
+\3. Violation of Paragraph 4 of Article 12 by selling for-export-only veterinary drug on the domestic market, or using it for other purposes.
+
+\4. Violation of Article 13 by making statements different from those in original drug registrations.
+
+\5. Violation of Articles 14-2, 20, 24, and Paragraph 3 of Article 25, or a non-farmer violating Paragraph 3 of Article 26.
+
+\6. Violation of Paragraph 1 of Article 14-3 by failing to affix the exclusive label issued by the central competent authority on the container of trial-produced sample veterinary drug.
+
+\7. Violation of regulations – about the exclusive sample drug label and field study venue – stipulated according to Paragraph 3 of Article 14-3.
+
+\8. Violation of standards – for the structure, environment, equipment, utility, and measures of a facility (factory or venue for operation, inspection, or storage) – stipulated according to Paragraph 3 of Article 16.
+
+\9. Violation of Paragraph 1 of Article 16-1 by giving drug-making assignment to, or taking such assignment from, another veterinary drugs manufacturer without the approval of the central competent authority.
+
+\10. Violation of Article 17 by failing to hire in-house veterinarians or pharmacists as required.
+
+\11. Violation of Paragraph 1 of Article 19 by engaging in the business without a license.
+
+\12. Violation of regulations stipulated according to Paragraph 3 of Article 19 to govern the license (seeking change to and placement thereof), salespeople (issuance of ID badges and wearing/presenting regulation), major event notification (business termination, resumption or suspension), drug management technician (qualifications and training), business venue (environment and equipment), drug handling (storage, transport, manipulation, record-keeping, duty of disclosure, notification of adverse events), and sales data submission.
+
+\13. Violation of Paragraph 4 of Article 19 by displaying or selling veterinary drugs of dubious origin – not from a legitimate veterinary drug dealer or manufacturer – or without any proof of origin.
+
+\14. Violation of Paragraph 1 of Article 21 by repacking veterinary drugs into smaller portions.
+
+\15. Violation of Paragraph 1 of Article 23, or regulations stipulated in Paragraph 3 of Article 23 to govern samples and complimentary gifts such as marking, access to a logbook, record keeping, and retention.
+
+\16. Non-farmers' violation of regulation stipulated according to Article 32 to govern drug usage (target animal, purpose, route of administration, dosage, withdrawal period, and precautions to take), user qualifications, access to a logbook, record keeping, and retention.
+
+\17. Violation of Article 32-1 or Paragraph 1 of Article 32-2.
+
+Those who commit the offense in violation of Article 14-2 as described under Subparagraph 5 of the preceding Paragraph and cause harm to human health shall be sentenced to imprisonment for less than seven years, and a fine of more than NT$2.5 million but less than NT$10 million may be imposed.
+
+The person violating Paragraph 4 of Article 26 by evading, obstructing, or refusing to provide information, or providing false information, about the source of veterinary drugs that contravene this Act, is subject to a fine of more than NT$30,000 but less than NT$150,000.
+
+## Article 40-1
+
+Any farmers of poultry, livestock, or aquatic animals in one of the following situations shall be subject to a fine of more than NT$ 60,000 but less than NT$300,000:
+
+\1. Violation of Paragraph 1 of Article 32-3 by using drugs or preparations stipulated in Subparagraphs 1 to 4, Paragraph 1 of Article 32-3 on animals or in animal feed.
+
+\2. Violation of Subparagraph 1, Paragraph 2 of Article 32-3 by moving, assigning to a third party, or supplying (for slaughter, food processing, or human food) the animal.
+
+\3. Violation of Section Paragraph 3 of Article 32-3 by failing to follow the special municipal or county (city) competent authority's order to do disposal (rendering, compost, destruction or other action) within seven days.
+
+An animal farmer's repeat offense of Paragraph 1 of Article 32-3 within one year by using the drug or preparation stipulated in Subparagraphs 1 to 4, Paragraph 1 of Article 32-3 on animal or in animal feed is subjected to a fine of more than NT$500,000 but less than NT$2.5 million.
+
+Those who commit the offense as stipulated in Subparagraphs 1 and 2 of Paragraph 1 or the preceding Paragraph and cause harm to human health shall be sentenced to imprisonment for less than seven years, and a fine of more than NT$2.5 million but less than NT$10 million may be imposed.
+
+For an offender who violates the provisions of Subparagraph 1 of Paragraph 1 or Paragraph 2, the competent authority shall publicize the name and address of the entity, the name of the person in charge, and the specifics of the offense.
+
+## Article 40-2
+
+An animal farmer (of livestock, poultry, or aquaculture) in any of the following situations is subject to a fine of more than NT$30,000 but less than NT$150,000:
+
+\1. Violation of regulations stipulated according to Paragraph 4 of Article 3-1 to govern sales condition and usage of prescription drugs, or retention of prescription records.
+
+\2. Violation of Paragraph 3 of Article 26.
+
+\3. Violation of regulations stipulated according to Article 32 to govern drug usage (target animal, purpose, route of administration, dosage, withdrawal period, and precautions to take), user qualifications, access to a logbook, record keeping, and retention.
+
+\4. Violation of Subparagraph 5, Paragraph 1 of Article 32-3 by using raw materials chemical compound materials (for veterinary or human drugs)on animals or in animal feed.
+
+\5. Violation of Subparagraph 2, Paragraph 2 of Article 32-3 by moving, assigning to a third party, or supplying (for slaughter, food processing, or human food) the animal or product.
+
+\6. Violation of Paragraph 4 of Article 32-3 by failing to mark the dubious animal/product in the manner promulgated by the central competent authority.
+
+For an offender who violates the provisions of Subparagraphs 1 to 4 of the preceding Paragraph, the competent authority shall publicize the name and address of the entity, the name of the person in charge, and the specifics of the offense.
+
+## Article 41
+
+A person in any of the following situations is subject to a fine of more than NT$100,000 but less than NT$500,000:
+
+\1. Violation of Article 12-2 by failing to list preapproved entries on the label or package insert.
+
+\2. Failure to follow central competent authority's order issued according to Article 15 without due cause.
+
+\3. Violation of Paragraph 1 of Article 22 by performing sales/promotional tasks without having registered with the local competent authority, or in violation of Paragraph 2 of Article 22.
+
+\4. Violation of Paragraph 1 of Article 28 by refusing to sign the affidavit to take custody.
+
+## Article 42
+
+If an individual commits any offense from Articles 33 to 38 while performing job duty on behalf of another party – as the representative of a juridical person, or as the agent, employee, or hired help of a juridical person or natural person – besides punishing the responsible individual for the specific offense, the (underlying) juridical person or natural person is also subject to the corresponding fine.
+
+## Article 43
+
+Substandard veterinary drugs uncovered under this Act – if not modified or returned by a deadline set according to Article 29 – may be confiscated for destruction.
+
+## Article 44
+
+In the event of refusal to remit fines imposed under this Act, the matter shall be referred to the court for compulsory enforcement.
+
+## Article 45
+
+(Deleted)
+
+## Article 46
+
+Fines stipulated in this Act are to be imposed by the special municipal or county (city) competent authority
+
+## Article 47
+
+The Enforcement Rules of this Act shall be prescribed by the central competent authority.
+
+## Article 48
+
+This Act takes effect on the date of its promulgation.
+
+## History
+
+1.Promulgated on August 16, 1971
+
+2.Article 2, 15, 19, 22, 25, 26, 29, 30 and 46 were amended and promulgated on June 19, 2002.
+
+3.Article 3-1, 3-2, 7, 12, 12-1 to 12-4, 16, 16-1, 18, 18-1, 23, 24, 32, 32-1 to 32-3, 40 and 41 were amended and promulgated on December 18, 2002.
+
+4.Article 34, 37, 38 and 45 were deleted; article 26, 32-3, 33, 35, 36, 39, 40 and 41 were amended and promulgated on December 3, 2008.
+
+5.Article 12-3 was deleted; Articles 12, 14, 26, 33, 35, 36, 40 and 43 were amended and promulgated on January 23, 2013; Articles 14-1 and 14-2 were added and promulgated on January 23, 2013.
+
+6.Articles 1, 3, ,3-1, 5, 12-2, 14, 16, 16-1, 19, 20, 21, 24, 32-1 to 33, 39, 40 to 43 were amended and promulgated on November 9, 2016; Articles 14-3, 19-1, 40-1, and 40-2 were added and promulgated on November 9, 2016.
+
+The announcement was made on July 27, 2023 by the Executive Yuan Order tai-gui-zi No. 1125014346. The relevant matters set out in Article 2, Paragraph 3 of Article 3, Paragraphs 2,4 of Article 3-1, Article 3-2, Subparagraph 1 of Paragraph 1, Paragraph 2 of Article 5, Paragraph 2 of Article 6, Paragraphs 2,3 of Article 7, Article 11, Paragraphs 1,2,3,5 of Article 12, Subparagraph 9 of Article 12-1, Paragraph 2 of Article 12-2, Article 12-4, Article 13, Article 14, Article 14-1, Article 14-2, Article 14-3, Article 15, Paragraphs 1,3 of Article 16, Article 16-1, Paragraph 2 of Article 18, Paragraph 3 of Article 19, Article 20, Paragraph 1 of Article 21, Paragraph 3 of Article 23, Article 24, Paragraphs 2,3,4 of Article 25, Paragraphs 1,2,4 of Article 26, Paragraph 1 of Article 28, Article 29, Article 31, Article 32, Article 32-1, Article 32-2, Paragraph 5 of Article 32-3, Subparagraph 2 of Paragraph 1, Paragraph 4 of Article 39, Subparagraphs 6,9 of Paragraph 1 of Article 40, Paragraphs 4 of Article 40-1, Subparagraph 6 of Paragraph 1, Paragraph 2 of Article 40-2, Subparagraph 2 of Article 41, Article 47 pertaining to“Council of Agriculture, Executive Yuan”shall be handled by“Ministry of Agriculture”as governing body, effective August 1, 2023.

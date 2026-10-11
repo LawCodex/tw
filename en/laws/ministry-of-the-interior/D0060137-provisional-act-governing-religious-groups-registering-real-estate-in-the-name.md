@@ -1,0 +1,221 @@
+---
+title: "Provisional Act Governing Religious Groups Registering Real Estate in the Name of a Natural Person"
+title_zh: "宗教團體以自然人名義登記不動產處理暫行條例"
+identifier: "D0060137"
+type: act
+law_level: "法律"
+category: "行政＞內政部＞宗教及禮制目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2022-06-08
+last_amended: 2026-06-08
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0060137"
+retrieved: 2026-10-12
+---
+
+# Provisional Act Governing Religious Groups Registering Real Estate in the Name of a Natural Person
+
+> Translation. The Chinese text ([zh/laws/ministry-of-the-interior/D0060137-provisional-act-governing-religious-groups-registering-real-estate-in-the-name.md](../../../zh/laws/ministry-of-the-interior/D0060137-provisional-act-governing-religious-groups-registering-real-estate-in-the-name.md)) is authoritative.
+
+## Article 1
+
+This Act is hereby enacted to improve the development of religious groups by clarifying ownership of real estate registered by religious groups in the name of a natural person.
+
+## Article 2
+
+The term “competent authority” referred to in this Act shall respectively mean the Ministry of the Interior in the central government, the municipal governments in the municipalities, and the county (city) governments in the counties (cities).
+
+## Article 3
+
+The term “religious group” in this Act refers to any entity that meets one of the following requirements:
+
+\1. a religious foundation, a religious corporation, or a temple that has completed its temple registration; or
+
+\2. a temple that has not yet been registered as such.
+
+A “temple” as provided in subparagraph 2 of the preceding paragraph is limited to that which has a temple preparatory office consisting of no fewer than three (3) initiating individuals and, at the time of the entry into force of this Act, meets one of the following conditions:
+
+\1. It has constructed an entire building dedicated to religious activities;
+
+\2. It has presented a plan for undertaking a temple establishment that had been approved by the competent authority; or
+
+\3. The name of said temple preparatory office has been annotated by the real estate registration authority in accordance with the provisions of Article 104, Paragraph 2 of the Regulations of the Land Registration.
+
+## Article 4
+
+The term “real estate” in this Act refers to that which has been registered in the name of a natural person and, at the time of the entry into force of this Act, meets one of the following conditions:
+
+\1. It was acquired by a religious group out of its own funds;
+
+\2. It was received by a religious group by donation; or
+
+\3. Its ownership by a religious group is sufficiently evidenced by a contract or another equivalent document.
+
+The provisions of this Act shall not apply to a piece of real estate that meets one of the following conditions:
+
+\1. It has been prohibited by law or otherwise to be registered as owned by a religious group. The foregoing shall not apply to arable land; or
+
+\2. Its ownership has been annotated in accordance with Paragraph 2, Article 104 of the Regulations of the Land Registration.
+
+## Article 5
+
+A religious group may, within six years from the date of implementation of this Act, apply to the competent authority for examination and approval of its ownership of the real estate referenced in Paragraph 1 of the preceding article. An application that is not made within the foregoing time limit will not be accepted.
+
+## Article 6
+
+An application prescribed by the preceding article shall be made by the person in charge or representative of the religious group concerned and shall be supported by the following documents or materials:
+
+\1. an application form;
+
+\2. the relevant temple registration certificate or legal person registration certificate; for a temple that has not yet been registered as such, the agreement between all the initiating individuals constituting the relevant temple preparatory office;
+
+\3. a paper that supports the applicable qualification of the said person in charge or of the representative of the relevant applicant religious group;
+
+\4. a contract, a notarial deed (or deed of attestation) or another document or material that sufficiently supports the applicant religious group's effective ownership of the real estate;
+
+\5. the relevant real estate list and the land registration transcripts; the latter may be waived if accessible in the computer database;
+
+\6. an agreement indicating the consent of the person under whose name the relevant real estate is registered or the consent of all the heirs of such person; in the case where the relevant real estate is registered jointly under the names of multiple persons, the consent of the majority of the joint owners, holding among them the majority of the total shares of the said real estate; or, in any event, where the joint owners who among them collectively hold more than two-thirds of the total share of the said real estate give their consent, the consent of those joint owners, irrespective of their proportion of the total joint owners; and
+
+\7. other documents or materials designated by the competent authority.
+
+The agreement stipulated in Subparagraph 2 of the preceding paragraph shall specify the following matters:
+
+\1. the name of the temple preparatory office;
+
+\2. the names and signatures of all the initiating individuals;
+
+\3. the representative designated by all the initiating individuals;
+
+\4. the manner and procedures for the designation of a successor in the event of the death or change of an initiating individual or the designated representative;
+
+\5. the manner of disposition, where arable land is under registration restrictions during the preparatory period of setting up a temple; and
+
+\6. the conditions and procedures for the dissolution of the preparatory office and the manner of disposition of the real estate after the said dissolution.
+
+Where an application is made in accordance with Paragraph 1, Subparagraph 6 of this article, a transcript of the household registration annotating the deceased's death, a transcript of the current household registration of all the heirs, and the inheritance system table shall additionally be submitted.
+
+## Article 7
+
+Where, after receiving the application, the competent authority finds the accompanying documentation to be incomplete but amendable, it shall notify the applicant to make supplements and corrections within three months.
+
+## Article 8
+
+Where, after reviewing the application, the competent authority finds that the accompanying documents and materials meet the requirements, it shall publish the application and notify either the persons in whose names the real estate is registered or all the heirs of such persons. The publication period shall be not shorter than one (1) month.
+
+The publication prescribed in the preceding paragraph shall state the following matters:
+
+\1. the land registration number or the construction number of the real estate;
+
+\2. documents or materials that in compliance with the provisions of Paragraph 1 of Article 4;
+
+\3. the publication period; and
+
+\4. other matters that should be published.
+
+The publication made in accordance with Paragraph 1 of this article shall be published on the notice board and website of the competent authority, the township (town, city, district) office where the real estate is located, and the premises of religious groups concerned; where it is necessary, it may be additionally published in other appropriate places or in other appropriate ways.
+
+## Article 9
+
+A person under whose name the real estate is registered, an heir of such a person, or an interested party may, within the publication period under Paragraph 1 of Article 8, file an objection with the competent authority supported by documentation including a qualification certificate, an objection letter, and any other relevant evidential materials.
+
+An objection will not be accepted under any of the following circumstances:
+
+\1. where the objection is not raised within the publication period under Paragraph 1 of Article 8; or
+
+\2. where the supporting documentation supplied in accordance with Paragraph 1 of this article is incomplete and the objector, having been notified to make supplements and corrections within ten (10) days, fails to do so or the supplementary submission thus made nonetheless fails to meet the relevant requirements.
+
+## Article 10
+
+After receiving an objection, the competent authority shall handle it in accordance with the following provisions:
+
+\1. Within twenty (20) days after the expiration of the publication period, serve the applicant(s) with the objection letter to require them to submit a response in writing supported by evidence or materials within three (3) months from the date of the service of such a notice.
+
+\2. Within twenty (20) days from the date of receiving the applicant's response, serve the objector(s) with the response of the applicant(s) to require them to indicate whether there is still any objection within one (1) month from the date of service of such a notice.
+
+\3. Where the objector indicates within the period specified in the preceding paragraph that objections remain, the competent authority shall notify the applicant(s) and the objector(s) to file a lawsuit with the court within three (3) months.
+
+Where the applicant(s) or the objector(s) file a lawsuit in accordance with the provisions of Subparagraph 3 of the preceding paragraph, they shall, within ten (10) days from the date of filing the lawsuit, submit to the competent authority copies of the complaint together with evidential materials.
+
+Where the applicant(s) or the objector(s) file a lawsuit in accordance with the provisions of Paragraph 1, Subparagraph 3 of this article or a dispute over the ownership of the relevant real estate is otherwise pending before a court, the competent authority shall suspend its examination and verification over the ownership of the said real estate.
+
+Where the grounds for suspension prescribed in the foregoing paragraph have ceased to exist, the competent authority shall continue the processing of its examination and verification.
+
+## Article 11
+
+Under any of the following circumstances, the competent authority shall reject the application, and state the reasons for rejection:
+
+\1. where the application documentation is found incomplete and the applicant(s), having been notified to make supplements and corrections, fail to do so within the time limit or the supplementary submission thus made nonetheless fails to meet the relevant requirements;
+
+\2. where there are factual circumstances sufficient to lead to a conclusion that the documents or materials provided for in Article 6 or the evidence or materials provided for in Paragraph 1, Subparagraph 1 of the preceding article are forged, altered or false;
+
+\3. where the applicant(s) fail to submit a response in accordance with the provisions of Paragraph 1, Subparagraph 1 of the preceding article;
+
+\4. where neither the applicant(s) nor the objector(s) file a lawsuit in accordance with the provisions of Paragraph 1, Subparagraph 3 of the preceding article, or the applicant(s), having filed a lawsuit, withdraw such a lawsuit afterwards; or
+
+\5. where a final judgment of the court or any equivalent document finds that the applicant(s) do not have legally valid grounds for acquiring the ownership of the relevant real estate.
+
+## Article 12
+
+Under any of the following circumstances, the competent authority shall instruct the real estate registration authority to undertake registration of a name change or restricted registration:
+
+\1. where there is no objection raised upon the expiry of the publication period specified in Paragraph 1 of Article 8;
+
+\2. where the objector(s) fail to indicate that objections remain in accordance with the provisions of Paragraph 1, Subparagraph 2 of Article 10;
+
+\3. where the objector(s), having filed a lawsuit in accordance with Paragraph 1, Subparagraph 3 of Article 10, withdraw such a lawsuit afterwards;
+
+\4. where a final judgment of the court or any equivalent document finds that the applicant(s) do have legally valid grounds for acquiring ownership of the relevant real estate.
+
+Where the competent authority makes an instruction in accordance with the provisions of the preceding paragraph, it shall notify the applicant(s), the person under whose name the relevant real estate is registered, and all the heirs of such a person.
+
+## Article 13
+
+The instructed registration of name change or restricted registration prescribed in Paragraph 1 of Article 12 shall be undertaken in accordance with the following provisions:
+
+\1. To instruct a registration of name change: Where the applicant is a religious foundation, a religious corporation, or a temple that has completed its temple registration, and has registered a piece of real estate under the name of a natural person, and in the absence of circumstances that by law would prevent acquisition of the real estate, the real estate shall be registered under the name of the applicant.
+
+\2. To instruct a restricted registration: Where the applicant is a temple that has yet to be registered as a temple, or it is found that it owns a piece of real estate that is arable land or it is found that, though it has purchased or accepted donation of such real estate, the registration of said real estate has yet to be transferred under the applicant’s name, the said real estate shall be put under a restricted registration, noting that as a result of examination and verification, its ownership is found to belong to this religious group.
+
+A restricted registration made in accordance with Subparagraph 2 of the preceding paragraph shall become invalid upon the expiration of the implementation period of this Act. The competent authority shall instruct the real estate registration authority to cancel the relevant restricted registration on the register upon the expiration of the implementation period of this Act.
+
+As regards real estate that is put under a restricted registration in accordance with Subparagraph 2 of the preceding paragraph, where there is any of the following circumstances a religious group may apply to the real estate registration authority for the following registrations:
+
+\1. Where a temple preparatory office has purchased or accepted donation of a piece of real estate which was registered under the name of a natural person, and in the absence of circumstances that by law would prevent acquisition of the real estate, such an entity may, after it completes its temple registration, present its temple registration certificate to apply for a name change registration to register the said real estate under the name of the temple.
+
+\2. The relevant religious group may apply to transfer the real estate that is put under a restricted registration to the religious group to whom the restricted registration notes the ownership is attributed.
+
+## Article 14
+
+The transfer of ownership of a piece of real estate that is put under a restricted registration in accordance with Paragraph 1, Subparagraph 2 of the preceding article is prohibited, and the establishment of surface rights, agricultural rights, real estate easements, mortgages, and pawn rights on such a piece of real estate is also prohibited. However, with regard to transfer of ownership, the following exceptions shall apply:
+
+\1. where a piece of arable land, with the consent of the person(s) under whose name(s) said arable land is registered and with the consent of the religious group to whom the restricted registration notes ownership is attributed, is sold or exchanged with another person to enable its registration in accordance with the law as land owned by a religious group.
+
+\2. where the said piece of real estate is subject to expropriation, section expropriation or negotiated price purchase by law.
+
+\3. inheritance.
+
+Prior to applying to the real estate registration authority in accordance with the provisions of the Subparagraph 1 of the preceding paragraph for a transfer of ownership, a religious group shall report to the competent authority to instruct the cancellation of the original restricted registration.
+
+## Article 15
+
+Under any of the following circumstances subsequent to completion of registration of a name change or restricted registration, the competent authority shall instruct the real estate registration authority to cancel the name change registration or restricted registration:
+
+\1. where there are factual circumstances sufficient to conclude that the application documents or materials are forged, altered or false;
+
+\2. where a final judgment of the court or any equivalent document finds that the applicant(s) do not have legally valid grounds for acquiring ownership of the real estate concerned.
+
+## Article 16
+
+This Act shall come into force on the date of its promulgation and shall be in force for ten years.
+
+## History
+
+1.Promulgated by Presidential Order No. Hwa-Zong-Yi-11100048101 on June 8, 2022
+
+2.Amended on August 7, 2024
+
+3.Amended on June 8, 2026

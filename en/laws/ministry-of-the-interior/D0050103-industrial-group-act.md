@@ -1,0 +1,555 @@
+---
+title: "Industrial Group Act"
+title_zh: "工業團體法"
+identifier: "D0050103"
+type: act
+law_level: "法律"
+category: "行政＞內政部＞合作及人民團體目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1974-12-28
+last_amended: 2021-01-27
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0050103"
+retrieved: 2026-10-12
+---
+
+# Industrial Group Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-the-interior/D0050103-industrial-group-act.md](../../../zh/laws/ministry-of-the-interior/D0050103-industrial-group-act.md)) is authoritative.
+
+## Chapter 1 General Principles
+
+#### Article 1
+
+The purpose of industrial group is to coordinate the relationship among industries, enhance common benefits, promote industrial improvement and enhance economic development.
+
+#### Article 2
+
+An industrial group is a judicial person.
+
+#### Article 3
+
+The classification of industrial groups is as follows:
+
+A. Industrial trade association.
+
+\1. Provincial (or municipal) industrial trade association.
+
+\2. Industrial trade of special zones association.
+
+\3. National industrial trade association.
+
+\4. League of industrial trade association.
+
+B. Industrial association:
+
+\1. County or city industrial association
+
+\2. Provincial or municipal industrial association
+
+\3. National federation of industries
+
+The organizations of provincial or municipal industrial trade associations are subject to not being in special zones.
+
+provincial or municipal industrial groups, county or city industrial groups should each take the district name to which it belong before the group’s name; while industrial groups in special zones should each take the special zone’ name before the name of the industrial group; national industrial groups should each take the Republic of China before the name of the group; specific industrial trade associations and league of industrial trade associations should take the names of specific industries before the organizations’ names.
+
+#### Article 4
+
+The tasks of Industrial Groups are as follows:
+
+A. The investigation, statistics, research, improvement and development of both domestic and overseas industries.
+
+B. The investigation of raw material source and assistance in preparation, etc.
+
+C. The investigation and statistics of production, marketing, and promotion of members’ products.
+
+D. The connection, development of technical cooperation.
+
+E. The maintenance of members’ legal rights.
+
+F. The investigation of members’ business situation.
+
+G. The exhibition and display of members’ products.
+
+H. The collection of basic data, dynamic investigation and registration of members and member representatives.
+
+I. The application, alteration, changes of members’ business licenses and membership qualification certificates and some other services.
+
+J. The investigation and settlement of conflicts between trades and the coordination and settlement of labor-management disputes.
+
+K. The research and promotion of productivities, skill training of industry practitioners and organizing of seminars and symposiums.
+
+L. Holding public welfare projects for members.
+
+M. Providing entrusted services to units, groups and members.
+
+N. Coordinative propelling, investigation and proposal of governmental economic policies and industrial decrees.
+
+O. Participation into social movement.
+
+P. Other obligatory tasks or services stipulated in other relevant decrees.
+
+#### Article 5
+
+The competent authorities of county or city industrial associations are county governments or city governments; the competent authorities of industrial trade associations and industrial associations in municipalities directly under central government are the relevant municipality government; the competent authorities of provincial industrial of trade associations and industrial associations, industrial trade in special zones, national industrial trade associations, league of industrial trade associations and national federation of industries is ministry of the Interior.
+
+Businesses of the above-mentioned industrial groups are subject to guidance and supervision of the relevant purpose enterprise competent authorities.
+
+#### Article 6
+
+The site of each industrial group should be in the locus of the competent authorities and that of industrial groups in special zones should be decided by the relevant competent authorities; a Industrial group may establish offices with approval of the competent authorities.
+
+## Chapter 2 Industrial Trade Association
+
+### Section One: Establishment
+
+#### Article 7
+
+An industrial trade association should be established in a district with at least five licensed factories of the same trade, but the establishment of national industrial board of trade is not subject to the number of licensed factories.
+
+#### Article 8
+
+Criteria of dividing different trades of industrial groups are determined and revised by Ministry of Economic Affairs and Ministry of the Interior; the division of organizing districts of industrial boards of trade in special zones is determined and adjusted by Ministry of the Interior and Ministry of Economic Affairs together.
+
+#### Article 9
+
+Only one industrial trade association of the same trade should be allowed in a district. Exception is given to those that have been established before the adjustment of administrative districts.
+
+#### Article 10
+
+As for industry with more than two trades, Ministry of the Interior and Ministry of Economic Affairs jointly determine which industrial trade association it should join, those conforming to Article 7 after joining an industrial trade association should also join another industrial trade association at the same time.
+
+Those out of special zones have to get approval of both Ministry of the Interior and Ministry of Economic Affairs to join the industrial trade association in the near special zones.
+
+#### Article 11
+
+The establishment and organizing of industrial trade association should be reported to relevant competent authorities for approval and should be under guidance and supervision of the competent authorities; and the articles of association, scroll of members and member representatives, resumes of staff should be reported to relevant authorities for files
+
+The articles of association of industrial trade associations, scroll of members and member representatives, resumes of staff should be handed over to the target business competent authorities of the same level for future reference.
+
+#### Article 12
+
+The articles of association of industrial trade association should contain the following items:
+
+A. Name.
+
+B. Purpose.
+
+C. District.
+
+D. Address.
+
+E. Duties.
+
+F. Organization.
+
+G. Membership qualification and procedures of joining in and withdrawing from industrial trade association.
+
+H. The rights and obligations of members
+
+I. Number of member representatives and criteria of electing member representatives.
+
+J. The number, authorities, office term, election and dismission of directors and supervisors.
+
+K. Meetings.
+
+L. Funds and accounting.
+
+M. Enactment and amendment of articles of association.
+
+### Section Two: Membership
+
+#### Article 13
+
+All licensed publicly-operated and nongovernmental-run factories must join in the relevant industrial trade associations within one month after establishment except for  ordnance factories of national defense; multi-occupation enterprises should join all the relevant industrial trade associations respectively.
+
+All member enterprises or factories of industrial trade associations have to send their member representatives to attend meetings convened by industrial trade associations.
+
+#### Article 14
+
+Factories are not allowed to withdraw from industrial trade associations unless they stop business, move out of the districts of industrial trade associations or suffer punishment of permanent shutout.
+
+#### Article 15
+
+The articles of association of trade associations should state clearly the number of representatives of each member factory in proportion to the level of its membership dues, and the quotas of the number of representatives are limited to one to seven.
+
+#### Article 16
+
+Member representatives must be adult and they shall be principals, managers or current staff of the member factories.
+
+#### Article 17
+
+Any of the following mentioned personnel is not eligible for member representative:
+
+A. Those who commit crimes and are in execution of verdict.
+
+B. Those who are deprived of public rights and not yet restored related rights.
+
+C. Those who have been placed under custodianship and such custodianship has not yet been withdrawn.
+
+D. Those who announce bankruptcy and not yet restored related rights.
+
+If member representatives have any of the above-mentioned situations, their representative qualification will become invalid automatically and the vacancies are to be filled by newly appointed member representatives.
+
+#### Article 18
+
+Member representatives have the rights to vote, elect, be elected and the right of recall, each representative has only one ballot.
+
+#### Article 19
+
+In case that member representatives cannot attend the general meetings in person, they have to entrust other member representatives in written form to deputize theirs rights and duties. Each member representative can only deputize one absent representative, and the number of member representatives deputizing another absent representative should not exceed half of the representatives present.
+
+### Section Three: Staff
+
+#### Article 20
+
+Directors and supervisors of industrial trade association are elected in general meetings by member representatives among them, and then a board of directors, board of supervisors should be established, specific regulations as follows:
+
+\1. A Provincial (municipal) industrial trade associations should have no more than twenty-one directors.
+
+\2. An industrial trade associations in special zone should not have more than twenty-seven directors.
+
+\3. A national industrial trade association should have no more than thirty-three directors.
+
+\4. The number of supervisors of an industrial trade associations should not exceed one third of the number of directors.
+
+\5. Alternate directors and supervisors of industrial trade associations should be elected, and the number of alternate directors and backup supervisors should not exceed one third of the number of directors and supervisors respectively.
+
+When there are more than three directors or supervisors in an industrial trade association, standing directors or standing supervisors should be elected, the number of standing directors and standing supervisors should not exceed one third of the number of directors and supervisors respectively; the chairperson of directors should be elected from the standing directors, the chairperson of directors should be elected from directors if there is no standing directors.
+
+#### Article 21
+
+The board of directors and the board of supervisors should carry out their authorities and duties respectively in compliance with decisions and rules adopted in general meetings.
+
+#### Article 22
+
+The chairperson of the directors must be resident in R.O.C. and he must be of R.O.C. nationality.
+
+At least two thirds of directors, supervisors, standing directors and standing supervisors must be of R.O.C. nationality with residences in P.R.C. respectively.
+
+#### Article 23
+
+The office term of directors and supervisors is three years; the number of those serving two terms uninterruptedly should not exceed half of the total number in office. The maximum serving terms of chairperson of directors is six years.
+
+#### Article 24
+
+Directors and supervisors are unpaid positions.
+
+#### Article 25
+
+In case of any of the following situations, directors and supervisors should be dismissed immediately; the vacancies are to be filled by alternate directors and supervisors respectively:
+
+A. Disqualification of member representatives.
+
+B. Reasonable resignation approved by the board of directors or board of supervisors
+
+C. Dismission and recall of positions in accordance with the Act.
+
+D. The factories or enterprises member representatives delegate withdraw from industrial trade association.
+
+#### Article 26
+
+Industrial trade associations employ and dismiss staff according to the articles of association and carry out routine work under orders of the chairperson of directors; the employment and dismission of staff of industrial trade associations should be reported by the chairperson of directors to the boards of directors for approval and then submitted to relevant competent authorities for check and reference.
+
+### Section Four: Meetings
+
+#### Article 27
+
+The general meetings are organized and convened by chairperson of directors, include the following meetings:
+
+A. Regular meetings that meet at least once a year, the date of meeting is determined by the board of directors.
+
+B. Extraordinary meetings convened when the board of directors consider necessary or requested by at least one fifth of member representatives.
+
+When the meetings could not be convened on time, the competent authorities should appoint one director to convene the meetings.
+
+#### Article 28
+
+The general meetings should be notified fifteen days before the date of meetings; emergent or extraordinary meetings are not subject to notification of fifteen days if the member representatives are able to attend them on time, all the meetings should be guided and supervised by appointed personnel of competent authorities.
+
+#### Article 29
+
+The resolutions adopted and approved by half of the present representatives in general meetings, the general meeting is valid only when attended by more than half of the member representatives will take effect, but any of the following resolutions will take effect only when two thirds of member representatives attend the meeting and approved by at least two thirds of member representatives present.
+
+A. Amendment of the articles of association.
+
+B. Punishment of members and member representatives.
+
+C. Dismission of directors and supervisors.
+
+D. Decision of liquidation and appointment of personnel in charge of liquidation.
+
+#### Article 30
+
+In case the number of member representatives exceeds three hundred, preliminary meetings should be convened in sub-districts and a certain number of member representatives in proportion to representative numbers should be elected from each sub-district to attend general meeting.
+
+#### Article 31
+
+The board of directors and the board of supervisors should hold meetings at least once a season respectively, alternate directors and supervisors have to attend these meetings as nonvoting delegates.
+
+#### Article 32
+
+The resolutions adopted in directors' meetings or supervisors' meetings take effect under the circumstance that at least half of directors or supervisors attend the meeting and half of the directors or supervisors present vote for the resolutions; the resignation of directors or supervisors is effective only under the circumstance that half of directors or supervisors attend the meeting and more than two thirds of the directors or supervisors present vote for the resignation.
+
+### Section Five: Fund
+
+#### Article 33
+
+The income of an industrial trade association includes the following:
+
+A. Admission fee stipulated in the articles of association of industrial trade association and paid by members when joining.
+
+B. Annual membership dues stipulated in the articles of association of industrial trade association and paid monthly in proportion to capital, producing tools, staff number or products quantity of member factories; in case members purchase clubs, add producing equipment or hold exhibitions, an increased membership due should be charged accordingly with approval of competent authorities.
+
+C. Operating fee collected in accordance with resolutions made in general meetings.
+
+D. Entrusted income.
+
+E. Funds and its interests.
+
+#### Article 34
+
+Multi-occupation members that join more than two industrial trade associations should pay their membership dues to each industrial trade association in proportion to the capital, producing tools, staff number or products quantity that belong to the relevant trade for which they join in the industrial trade association.
+
+#### Article 35
+
+Members should periodic report their capital situations, producing tools, staff numbers, products quantity and other important data to the industrial trade association so that their membership dues may be easily and correctly calculated.
+
+#### Article 36
+
+Each member should at least bear one share of operating fee and no more than 50 shares will not be allowed, when necessary, an increase of membership dues may be charged upon resolutions made in general meetings, the total amount of operating fee and amount of each share are determined at general meetings and reported to competent authorities, and the competent authorities deliver the report to target business competent authorities for approval.
+
+#### Article 37
+
+The above-mentioned operating fees are not refundable when members withdraw from industrial trade association.
+
+#### Article 38
+
+The budget and financial statement of industrial trade associations should be compiled in annual reports, submitted to the board of supervisors for check, announced at general meeting for approval and finally submitted to competent authorities for future reference.
+
+#### Article 39
+
+Enterprises run by industrial trade association should have separate accounts, and the statements of annual financial situations should be submitted to board of supervisors for check, then announced at general meeting and finally submitted to competent authorities for future reference.
+
+#### Article 40
+
+When industrial trade association dissolved, personnel in charge of the liquidation work are to be appointed in accordance with resolutions made at general meeting; in case of no liquidators are available, the trade associations or stakeholders assume the task of applying for local court to decide the appointment of liquidators.
+
+#### Article 41
+
+Liquidation of the industrial trade associations and enterprises run by it should be made separately, personnel in charge of the liquidation work are to be elected in the general meetings.
+
+### Section Six: League of industrial trade associations
+
+#### Article 42
+
+When three industrial trade associations of a same trade exist in a province or a municipal or in a certain area, a national league of industrial trade associations should be established with the approval of the competent authorities.
+
+For special industrial groups, the national league may be established accordingly with the approval of the competent authorities.
+
+#### Article 43
+
+The funds of national leagues of industrial trade associations should be borne by their member groups by paying one tenth to two tenth of their annual membership dues, specific criteria should be stipulated in the articles of association).
+
+#### Article 44
+
+Temporary operating fees of national league of industrial trade associations should be approved at general meetings if necessary.
+
+#### Article 45
+
+The member representatives of national leagues of industrial trade associations should be appointed by the member groups in proportion to the expenses shared by them.
+
+#### Article 46
+
+The board of directors and the board of supervisors of each national league of industrial trade associations should be established, the directors and supervisors will be elected from among its member representatives present in general meeting, regulations are as follows:
+
+A. No more than thirty-three directors of each league are allowed.
+
+B. The number of supervisors should not be more than one third of that of directors.
+
+C. Alternate directors and supervisors should be elected from among member representatives, the number should not exceed one third of the number of directors and supervisors respectively.
+
+When there are more than three directors or supervisors, standing directors and supervisors should be elected, the number of standing directors or supervisors cannot exceed one third of the number of directors or supervisors respectively; a chairperson  of directors should be elected from among the standing directors, there are no standing directors are available, the chairperson of directors should be elected from among the directors.
+
+#### Article 47
+
+When it is necessary for a national league of industrial trade associations to demand its member groups to carry out consolidated actions, the implementation of consolidated actions should be approved at general meeting and submitted to target business competent authorities for approval.
+
+#### Article 48
+
+In addition to prescriptions in this section of chapter two, relevant prescriptions in other sections of this chapter are also practicable to national league of industrial trade associations.
+
+## Chapter 3 Industrial Association
+
+#### Article 49
+
+County or city industrial associations should be organized by at least five licensed factories of the same trade that cannot join an industrial trade association. When there are only less than five factories, they should join in an industrial association of the near county or city.
+
+#### Article 50
+
+Industrial association of municipalities directly under central government is organized by the following:
+
+A. Licensed factories that cannot join an industrial trade association.
+
+B. Industrial trade associations in municipalities directly under central government.
+
+#### Article 51
+
+Provincial industrial associations are organized by the following:
+
+A. County or city industrial associations
+
+B. Provincial industrial trade associations.
+
+#### Article 52
+
+For multi-occupation factory, if one of its industries cannot join in a local industrial trade association, it should join in a local industrial association to become a member.
+
+#### Article 53
+
+A factory that has already joined in an industrial trade association should, if necessary, affiliate a local municipality or county or city industrial association.
+
+#### Article 54
+
+National Federation of Industries should be organized if fifty of any of the following mentioned groups exist.
+
+A. Provincial or municipal industrial associations.
+
+B. All Industrial trade association in a certain area without national league of the industrial trade association.
+
+C. National industrial trade association.
+
+D. National leagues of industrial trade association
+
+#### Article 55
+
+Funds of industrial association are from the following sources:
+
+A. Fees collected from group members, paid yearly by these group members as per one tenth to two tenth of their annually collected membership dues, criteria should be stipulated in the articles of association.
+
+B. Fees collected from individual factory members, paid by these individual members as per the lowest membership dues of group members, criteria should be stipulated in the articles of association; in case that an industrial association has only individual factory members, the funds are to be collected as per subparagraph A and subparagraph B of Article 33.
+
+#### Article 56
+
+The number of representatives of general meeting of industrial association is stipulated as follows:
+
+A. Representatives elected from group members in proportion to the funds the groups pay to industrial associations, criteria should be stipulated in in the articles of association of the industrial association.
+
+B. One representative who is manager or principal of the individual factory members; the number of directors or supervisors elected from individual factory members should not exceed one third of the number of total directors or supervisors of the industrial association. For industrial association with only individual factory members, the number of representative of general meeting is as per Article 15; the number and appointment of directors and supervisors are as per Article 57.
+
+#### Article 57
+
+There should be directors and supervisors elected from among representatives of general meetings, a board of director and a board of supervisors should then be established and the enforcement rules are as follows:
+
+A. A county or a city industrial association should have no more than fifteen directors.
+
+B. A provincial or a municipal industrial association should have no more than twenty-seven directors.
+
+C. National Federation of Industries should have no more than forty-five directors.
+
+D. The number of supervisors of industrial association of all levels should not exceed one third that of directors.
+
+E. Alternate directors and supervisors should be elected and the number of them should not exceed one third of that of directors and supervisors respectively.
+
+If more than three directors or three supervisors exist in an industrial association, standing directors and standing supervisors should be elected, and the number of standing directors or standing supervisors should not exceed one third of that of directors or supervisors respectively, a chairperson of directors is to be elected from among standing directors, the chairperson of directors should be elected from among directors if no standing directors are available.
+
+#### Article 58
+
+In addition to prescriptions stated in Chapter 3, the relevant prescriptions in Chapter 2 are also applicable to industrial association.
+
+## Chapter 4 Supervision
+
+#### Article 59
+
+If any factory don’t affiliate to the relevant industrial trade associations or the industrial associations in due time stipulated in the articles of association, it should make up membership dues since the second month of its establishment when it affiliate to the industrial board association or industrial association.
+
+Industrial group holds the responsibility of reporting those factories that don’t join the relevant industrial groups even six months after due time to competent authorities to notify those factories to affiliate to the relevant industrial group in a limited period.
+
+Those factories that don’t affiliate to the relevant industrial trade associations or industrial associations should be reported to competent authorities for punishment of compelled shutout after resolutions made in meetings of the board of directors.
+
+Industrial groups should report those factories that don’t affiliate to the relevant industrial groups in due time in accordance with the Act to competent authorities to press them to join in the relevant industrial groups in a limited period, those that still don’t join in the relevant industrial groups six months after due time are to be punished as per prescriptions of Article 63.
+
+#### Article 60
+
+Those that don’t pay membership fee in accordance with articles of association are to be punished as per the following procedures:
+
+A. Persuasion for those of three months late fee.
+
+B. Warning for those of six months late fee and don’t pay membership fee even after persuasion.
+
+C. Suspension the membership of those of nine months late fee who have been warned but haven’t paid, the suspended factories can’t attend any meetings of the industrial groups and can’t enjoy all the rights of members.
+
+#### Article 61
+
+After one year of shutout, if a factory still can’t resume its business, the relevant industrial trade associations or industrial associations should report it to competent authorities for check and investigation, and cancel its membership.
+
+#### Article 62
+
+If directors and supervisors of industrial groups break the articles of association or commit jobbery when executing their duties, and one tenth of the member representatives put forward the phenomena, and the phenomena of breaking the Industrial Group Act or committing jobbery are testified by two thirds of the representatives present at general meeting where two thirds of the member representatives are in attendance, the Act-breaking or jobbery-committing directors and supervisors should be punished by competent authorities as per the relevant Acts.
+
+#### Article 63
+
+In any case that an industrial group violates decrees, oversteps the scope its powers or hampers a commonweal affair, the competent authorities should punish it as per the following steps:
+
+A. Warning
+
+B. Nullify its resolutions adopted in general meetings..
+
+C. Suspend partial or all of its tasks.
+
+D. Withdraw its directors and supervisors.
+
+E. Reorganization.
+
+F. Dissolution.
+
+After the dissolution of industrial group, another new industrial group has to be organized immediately.
+
+Authorities of lower level should report the punishment of the above subparagraphs from D to F to upper competent authorities for approval; the relevant local competent authorities may execute the punishment of the above subparagraphs from A to C.
+
+#### Article 64
+
+Any industrial group is not allowed to run lucrative business.
+
+#### Article 65
+
+Any industrial group is not in a position to persuade its members to donate money without resolutions made at general meeting and approval from competent authorities.
+
+## Chapter 5 Supplementary Provisions
+
+#### Article 66
+
+If national industrial groups cannot convene general meetings normally in the event of fatal national accidents, the absent directors and supervisors are to be filled by member representatives of lower level industrial groups that are able to attend the general meetings with approvals from competent authorities, and relevant prescriptions of Article 23 of the Act apply to the serving term of these new directors and supervisors.
+
+#### Article 67
+
+Mining industries may organize mining industrial trade associations or join in industrial associations in accordance with the Act; the Ministry of the Interior together with the Ministry of Economic Affairs determine the classification of mining industries and the division of organizing districts, and the classification and division are subject to being adjusted when necessary.
+
+#### Article 68
+
+Industrial groups established before the implementation of the Act shall reshuffle the organizational structure in accordance with the Act after the expiration of serving term of their directors and supervisors.
+
+#### Article 69
+
+The enforcement rules concerning the implementation of the Act are to be enacted by Ministry of the Interior together with Ministry of Economic Affairs.
+
+#### Article 70
+
+This Act takes effect as of the date of promulgation.
+
+The articles of this Act amended on 12th May of 2009 of the Republic of China take effect on 23rd November of 2009.
+
+## History
+
+\1. 70 articles were enacted and promulgated on Dec. 28, 1974. as decree President (63) Tai Tung (I) Yi Tzu No. 5903.
+
+\2. Article 5 was revised and promulgated on Dec. 11, 2002. as decree President Hua Tsung (I) Yi Tzu No. 09100239050.
+
+\3. The full text of Article 17 and 70 are amended and promulgated on November 23, 2009 by President Order Hua-Tsung (1)-Yi-Tzu No.09800134311 on 27 May 2009.
+
+\4. Article 9 was revised and promulgated on Dec. 5, 2018. as decree President Hua Tsung (I) Yi Tzu No. 10700131011.
+
+\5. Article 16 amended by President Order Hua-Tsung (1)-Yi-Tzu No. 11000006151 on January 27, 2021

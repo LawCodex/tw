@@ -1,0 +1,607 @@
+---
+title: "Agricultural Development Act"
+title_zh: "農業發展條例"
+identifier: "M0020001"
+type: act
+law_level: "法律"
+category: "行政＞農業部＞綜合規劃目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1973-09-03
+last_amended: 2016-11-30
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0020001"
+retrieved: 2026-10-12
+---
+
+# Agricultural Development Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-agriculture/M0020001-agricultural-development-act.md](../../../zh/laws/ministry-of-agriculture/M0020001-agricultural-development-act.md)) is authoritative.
+
+## Chapter I General Provisions
+
+### Article 1
+
+The Agricultural Development Act (hereinafter referred to as the “Act”) is enacted to ensure the sustainable development of agriculture, to address agricultural internationalization and liberalization, to promote appropriate and fair farmland use, to adjust the structures of agricultural industries, to stabilize the agricultural production and marketing, to advance the income and welfare of farmers and to promote the living standards of farmers. Other applicable laws shall govern matters not provided herein.
+
+### Article 2
+
+To implement the Act, the term “competent authority” denotes the Council of Agriculture, the Executive Yuan at the central government, the city government, and the county or municipal government at the county or municipality level.
+
+### Article 3
+
+To implement the Act, the terms used are defined as follows:
+
+1.Agriculture: Refers to the use of natural resources and agricultural materials and technology to engage in production, processing, marketing, and leisure practices of farming, forestry, fishery, and animal husbandry.
+
+2.Agricultural products: Articles that are produced from agricultural operations.
+
+3.Farmers: Refers to natural persons who directly engage in agricultural operations.
+
+4.Family farm: A farm that is engaging in agricultural operations based on a common living household unit.
+
+5.Leisure agriculture: A farm operation that applies landscapes of the countryside, ecosystem, and environmental resources, integrates production and the other agricultural operations of farming, forestry, fishery and animal husbandry, and cultures of rural villages and lives of peasant families to provide agricultural activities to citizens for their leisure with an aim to promote the experiences of agriculture and rural villages.
+
+6.Leisure farm: A farm that is operated for leisure agriculture.
+
+7.Farmers’ organization: Refers to a farmers association, fishermen association, agricultural cooperative, or irrigation association that is organized according to the Farmers Association Act, the Fishermen Association Act, the Agricultural Cooperative Act, and the General Provisions of the Organization of Irrigation Associations.
+
+8.Agricultural corporation: A company that engages in agricultural production or agricultural experimentation and research activities.
+
+9.Agricultural research and experiment institute: An institute, school or agricultural juristic person that engages in agricultural research and experiment.
+
+10.Agricultural land: A land that is designated as non-urban land or as land that is in the scope of urban agricultural zones or reserved zones, which is used for the following purposes by relevant laws:
+
+(1)Used for agricultural operations of farming, forestry, fishery, animal husbandry, and conservation.
+
+(2)Used for farmhouses, barns, storage and warehousing facilities, sun drying yards, packing houses, farm roads, irrigation, drainage systems, and other farming uses that are considered an integral part of agricultural operations.
+
+(3)Used for warehouses, freezing/chilling facilities, agricultural machinery centers, sites of silk production or breeding silkworms, packing houses, and inspection stations that are directly provided for agricultural purposes, and the properties of land used are owned by farmers’ organizations or cooperative farms.
+
+11.Arable land: An agricultural or a grazing land that is attributed to specialized agricultural operation zone, general agricultural zones, slope land conservation zones, and forestry zones as delimited in terms of the Regional Planning Act.
+
+12.Agricultural use: Refers to the use of agricultural lands by relevant laws is provided for agricultural operations of farming, forestry, fishery, livestock husbandry, and conservation and is established for agricultural operation facilities or farmhouses. Whereas the land is not actually used for farming, forestry, fishery, and livestock husbandry operations due to fallow, recuperation, and suspension or uncontrollable forces of the lands by relevant laws, it is also within the scope of the definition.
+
+13.Specialized agricultural production zone: A zone that is established by relevant laws regulating the types of agricultural production/products, where production, processing, storage, and marketing systems are set up.
+
+14.Lease of agricultural land: An act of leasing part or the whole of the landowners’ agricultural lands to other parties for agricultural operation purposes.
+
+15.Contract farming: An act of commissioning other parties to engage in only part or the whole of the farming production operations of self-operating family farms.
+
+16.Agricultural Production and Marketing Group: An agricultural group that is voluntarily formed and managed by farmers whose lands are adjacent or close to each other or those who engage in the same type of agricultural industries.
+
+17.Marketing of agricultural products: Refers to operations of agricultural products that include collection, classification, grading, packaging, storage, freezing/chilling, processing, inspection, transportation, and trading.
+
+18.Agricultural extension: An act of applying the means of agricultural communications, human resource development, and administration services, taking advantage of agricultural resources to provide farmers with lifelong education opportunities and enable them to utilize local resources for developing local industries.
+
+### Article 4
+
+The related government authorities at each level shall prepare annual administration plans and budgets listing the related projects and actively promote the effective implementation of the Act.
+
+The central government shall subsidize the said budgets of the preceding paragraph when necessary.
+
+### Article 5
+
+Competent authorities shall improve information facilities and personnel to promote informatization for agricultural operations, conduct statistical analyses on agricultural resources and also production and marketing practices, and guide farmers and farmers’ organizations to create an environment for agricultural information application and strengthen information collection mechanism.
+
+Local governments at the township level shall appoint officials to conduct surveys and statistical analyses on agricultural resources and production and marketing practices. The said information shall be submitted to the respective competent authorities for further analysis and processing.
+
+### Article 6
+
+Competent authorities may appoint officials to take necessary measures to perform special duties such as protecting agricultural resources, salvaging disasters, and controlling blight, pests, and diseases of plants, livestock, or aquatic creatures.
+
+### Article 7
+
+Various types of farmers’ organizations may jointly establish nationwide unions by relevant laws to strengthen their organizational functions and protect farmers' rights and interests.
+
+## Chapter 2: Utilization and Management of Agricultural Lands
+
+### Article 8
+
+Competent authorities may formulate general plans for utilization of agricultural lands and establish an adequate mode of use on the basis of the natural environments of agricultural lands, social and economical factors, technical conditions and farmers’ vulnerability, and in coordination with the use of any piece of agricultural land as delimited pursuant to the land-use zoning regulations stipulated in the Regional Planning Act and the Urban Planning Law.
+
+The districts established pursuance to the general planning for the use of agricultural land of the preceding paragraph shall undergo a general review at least every five years, and necessary modifications shall be carried out in accordance with the changes of local developments.
+
+### Article 8-1
+
+On agricultural lands, applications to construct temporary facilities related to agricultural production using materials such as bamboos wood, rice, straw, plastic materials, angle iron, steel wire fabrics or other materials without a fixed foundation are exempt from applying for building permits. Special municipalities or county /city governments may take into consideration the needs of local agricultural practices and enact regulations to review the setting-up of temporary facilities without a fixed foundation in relation to agricultural production on agricultural lands.
+
+Prior application for the uses of fixed foundation agricultural facilities are required for constructing such facilities on agricultural lands, and then application for building permit for such construction is required in terms of relevant laws. Nevertheless, facilities with an area of 45 square meters or less and have only one floor are exempt from requiring a building permit. Agricultural lands may be exempted from acquiring building permit if prior to the implementation of this revised Act of January 13, 2003, the fixed foundation agriculture facilities have already been built on agricultural lands, the surface area of each facility is not more than 250 square meters and the facilities are safe for uses.
+
+The provisions regulating the uses of the agricultural facilities as stated in the preceding paragraph, the types, areas and heights of construction, application procedures and other items to be complied with, are to be formulated by the central competent authority in concert with the relevant authorities.
+
+The competent authorities may establish standard designs for agricultural facilities that are mostly demanded by farmers and can enhance the values added to farming practices. Those persons who adopt such design may be exempted from the design, supervision and construction of architects or construction from construction firms.
+
+### Article 9
+
+In maintaining the needs of agricultural development, the central competent authority shall coordinate overall development principles of territory plan, regulate the total amount of agricultural lands in demand and the quantity of agricultural lands of change, and comment and criticize such practices regularly.
+
+### Article 9-1
+
+In order to promote the development of rural areas and ensure effective utilization of agricultural land resources and maintenance of production environment, the competent authority at the city/county level in concert with the relevant authorities may, based on the plans of local agricultural land resources and the needs of the developments of rural areas as a whole as well as the approval of the agricultural landowners, plan and exploit the agricultural lands through re-division of lands land re-division or levy of subdivision and section.
+
+The central competent authority shall hold a consultation conference to enact about the planning, coordination, practice and other related aspects of foregoing agricultural land utilization and exploitation.
+
+### Article 10
+
+The delimitation or change of agricultural lands to non-agricultural purposes shall not affect the integrity of agricultural production environments and shall be subject to the prior approval of the competent authorities. Requirements and procedures for the aforesaid change shall be subject to the governance of applicable laws which are yet to be drafted.
+
+Matters with respect to the delimitation or change of agricultural lands to non-agricultural purposes prior to the taking effect of the applicable laws as stated in the preceding paragraph shall be governed by existing laws and regulations.
+
+### Article 11
+
+Deleted.
+
+### Article 12
+
+The change of land use as stated in the first paragraph of Article 10 shall be subject to the payment of a feedback fund based on its business nature of the land in use. The said fund shall then be submitted to the Agriculture Development Fund established by the central competent authority pursuant to Article 54 for the purposes of agricultural development and farmers’ welfare.
+
+The payment and use of the monetary or in-kind donation of feedback nature or contribution for the change of land use as already stipulated in the respective laws of the business on the said land shall be proceeded pursuant to the governing law. In cases where the land is categorized as agricultural land, the exemption of payment is only applicable to those persons who had already made the payment prior to the taking effect of this revised Act of January 4, 2000; and in all other cases, authorities concerned shall allocate half of the payment collected, both monetary and in-kind, for the purpose as stipulated in the preceding paragraph.
+
+The regulations of the payment, appropriation, allocation and the standard of payment of the feedback funds, monetary and in-kind fund, as stated in the first two paragraphs, shall be formulated by the central competent authority in concert with other authorities concerned.
+
+The change of land use pursuant to the first paragraph of Article 10 may be exempted from the payment of feedback fund if any of the following is satisfied:
+
+1.Government projects of public construction or welfare facilities.
+
+2.Government projects of development of rural areas or facilities of farmers’ welfare.
+
+3.Infrastructure or facilities in areas notified by the Ministry of Economic Affairs as land subsidence, or in designated remote areas or on offshore islands by the central competent authority.
+
+### Article 13
+
+In promoting farmland consolidation, the competent authority of land administration shall formulate overall planning in concert with the agricultural and water conservancy authorities and shall coordinate in implementing the said plan.
+
+### Article 14
+
+Deleted.
+
+### Article 15
+
+The competent authorities shall formulate overall planning for catchment management in concert with the relevant authorities. It shall also coordinate and promote the construction and maintenance of such agricultural infrastructures and public facilities, such as soil and water conservation, watershed protection management and flood erosion control, windbreaks, agricultural lands improvement, fishing ports, agricultural access roads, agricultural water supply, irrigation, and drainage.
+
+### Article 16
+
+An arable land shall not be divided if each of the divided area is less than point two five hectares. Exceptions are as follows.
+
+1.In the merging with a piece of adjacent arable land through purchase, division for the purpose of merger is allowed. Two or more than two pieces of adjacent lands of the same ownership are allowed for division or merger if the total number of lands under registration after the act remains the same.
+
+2.A land which is partially changed to non-arable land pursuant to governing laws and the unchanged part with co-ownership but separated management may be divided.
+
+3.An arable land which is inherited by legal successors after the enactment of this Act of January 4, 2000 may be divided as single ownership.
+
+4.A Co-owned arable land before the enactment of this Act of January 4, 2000 may be divided as single ownership.
+
+5.The land governed by the “37.5% Arable Land Rental Reduction Act” may be divided and owned separately by the leaser and the lessee, provided both parties agree to terminate the lease agreement through land division.
+
+6.Non-agricultural land consolidation region are to be changed to serve as farm irrigation/drainage waterways.
+
+7.Other lands that are deemed necessary for the implementation of land or agricultural policies, or for the purposes of national development, and such necessity is approved by the central competent authority, may then be divided.
+
+An owner of a co-owned land, who undertakes to acquire the title of single ownership of the land after the division of the land as stated in Items 3 and 4 of the preceding paragraph, shall obtain the other co-owner(s)’ agreement(s) or a court order first. The number of the sub-divided lands may not exceed the total number of the co-owners.
+
+### Article 17
+
+Agricultural lands which were acquired with self-owned capital or without any capitals and registered under the name of a natural person by existing registered temples, churches, churches which have been established in accordance with relevant laws, religion funds or farmers’ organizations prior to the enactment of this revised Act, may re-register the ownership under the name of the temple, the church or the church which have been established in accordance with relevant laws, the religion fund or the farmers’ organization within one year of the date of implementation of this revised Act of January 13, 2003.
+
+### Article 18
+
+Farmers, who acquire agricultural lands after the enactment of this revised Act of January 4, 2000 and do not possess a farmhouse for their own use, may apply for the construction of individual farmhouses or concentrated townhouses on their own agricultural land with the approval of the competent authorities at the county or municipality level provided that the construction does not affect agricultural production environment and the development of rural villages.
+
+The agricultural land of the preceding paragraph shall be ensured for agricultural use; farmhouses which are built on self-owned agricultural land may be transferred only after five years of the construction. Exceptions are such that the transfer is due to inheritance or courthouse auctions.
+
+Farmers, who had acquired agricultural lands prior to the enactment of this revised Act of January 4, 2000 and do not possess a farmhouse for their own use, may apply for the construction of a farmhouse in accordance with related construction laws and regulations of land use. This is also applicable to farmers who had shared ownership of arable lands prior to the enactment of this revised Act of January 4, 2000, have divided the land as single ownership after the enactment of this revised Act of January 4, 2000 and do not possess a farmhouse for their own use.
+
+The builder of the farmhouse described in the first and the preceding paragraph shall be the owner of the land where the farmhouse is situated. The farmhouse as well as the land where it is situated shall be jointly transferred or jointly mortgaged. Agricultural lands having already been applied for the construction of a farmhouse shall not be permitted for re- application of construction.
+
+The regulations with respect to farmer’s eligibility, maximum floor area, land coverage of the farmhouse, capacity rate, maximum foundation area and height, permission conditions, application procedures, construction methods, withdrawal or annulment of permission and other related regulations shall be formulated by the Ministry of Interior in concert with the central competent authority.
+
+The competent authorities shall provide rewards of encouragement for building farmhouses as an integral part of concentrated townhouses and shall provide necessary assistance. The measures of the said rewards and assistance shall be drafted by the central competent authority.
+
+### Article 19
+
+In ensuring the maintenance of the agricultural production environment and avoiding the ground water and the soil pollution from adversely impacting on the health of the nationals, agricultural land which is used as waste treatment field/plant or polluting factory shall be subject to environmental impact assessment pursuant to the Environmental Impact Assessment Law.
+
+The competent environment authorities shall provide with overall inspection and establish a data bank containing census survey information of all waste treatment fields/plants and polluting factories situated on agricultural lands. The establishers/planners/executors of these waste treatment fields/plants and factories shall install a ground water monitoring system around the waste treatment fields/plants and polluting factories, and regularly inspecting the ground water and the soil for any pollution. In the event of pollution, the owners shall be restrained from land use. They shall subsequently compensate, remove the pollutants, rehabilitate and rebuild the environment pursuant to laws and regulations with respect to cleaning polluted soil and ground water.
+
+### Article 20
+
+Agricultural land lease agreements which were/are signed after the implementation of this revised Act of January 4, 2000 shall be governed by this Act; and the 37.5% Arable Land Rental Reduction Act shall not be applicable. Matters not provided in this Act shall be governed by the Land Act, the Civil Code, or other applicable laws.
+
+Lessor and lessee, who had signed the lease contract in accordance with the 37.5% Arable Land Rental Reduction Act, or the Land Act and other applicable laws or regulations prior to the implementation of this revised Act of January 4, 2000, shall be governed by the respective law with respect to the rights and obligations, renewal, amendment and termination of the agreement, except when both parties have agreed otherwise.
+
+The written commission agreements which were concluded before the implementation of this revised Act of January 4, 2000 shall not be subject to the regulations of the 37.5% Arable Land Rental Reduction Act. The rights and obligations shall be subject to the commission agreement throughout the duration of the contract; matters not regulated in the agreement shall be governed by this Act.
+
+### Article 21
+
+The duration, rent and the method of rental payment of agricultural land lease agreements, which were/are concluded after the implementation of this revised Act of January 4, 2000, are mutually agreed upon by the lessor and the lessee, they shall not be subject to the limitation clause as stipulated in Articles 110 and 112 of the Land Act. A lease period exceeding one year without concluding any written agreement shall not be subject to Article 422 of the Civil Code.
+
+The lease relationship of the aforesaid agricultural land lease agreement with the prescribed period of lease shall be extinguished upon the expiration of the prescribed period, and shall not subject to Article 451 of the Civil Code and Articles 109 and 114 of the Land Act. In the event where the parties concerned agree to terminate the lease agreement before the expiry date of the prescribed period, the lease relationship shall be extinguished at the time of termination. The other party shall be noticed of the said termination six months prior to the termination; in cases where the prescribed period of the agreement is shorter than six months, the other party shall be noticed 15 days prior to the date of the termination.
+
+Where there is no provision with regard to the prescribed period in the agricultural land lease agreement, both parties to the agreement may terminate the agreement at any time, provided that a six-month prior notice is made to the other party.
+
+### Article 22
+
+The termination of lease relationship of agricultural land lease contracts as concluded after the implementation of this revised Act of January 4, 2000, upon the lessor’s retrieval of arable land, is not subject to the regulations with respect to compensation paid by the lessor to the lessee in Articles 11, 63 and 77 of the Equalization of Land Rights Act, Article 29 of the Farmland Readjustment Act and Article 27 of the Industrial Upgrading Promotion Act.
+
+### Article 22-1
+
+In promoting circulation of agricultural lands and effective utilization, the competent authorities may guide farmers’ organizations in conducting agency practices such as trade, lease and commission of agricultural lands, and encourage them with rewards.
+
+## Chapter 3: Agricultural Production
+
+### Article 23
+
+The central competent authority shall formulate national agricultural production and marketing policies and plans, and supervise the implementation of the said polices and plans.
+
+The central competent authority shall formulate national agricultural production and marketing policies and plans, and supervise the implementation of the said polices and plans.
+
+### Article 24
+
+The central competent authority may, in concert with other authorities concerned, designate specific agricultural products or processed products to assist the stakeholders with the establishment of respective industrial development fund where it is deemed necessary.
+
+The management and utilization of the fund as stated in the preceding paragraph shall be guided and supervised by the central competent authority in concert with other authorities concerned.
+
+### Article 25
+
+The competent authorities shall, in concert with various authorities concerned, plan agricultural production zones on the basis of the distribution of agricultural resources, the production environment and the needs of development; and depending on the market demand, provide guidance in the establishment of specialized agricultural zones of an adequate scale to planning and implementing the planned production, manufacture, storage and marketing.
+
+In Specialized agricultural zones, government-designated public facilities are eligible for subsidization or loan applications.
+
+### Article 25-1
+
+In order to develop agricultural technology, the competent authority may provide guidance in establishing agricultural technology zones; the establishment, management and guidance of the zones shall be regulated by a specific law.
+
+### Article 26
+
+Farmers, who voluntarily and jointly undertake agricultural practices in compliance with the specific requirements as stipulated by the competent authorities, may form Agricultural Production and Marketing Groups for management. On the basis of the operation status, the competent authority may provide guidance, rewards and subsidization.
+
+The provisions regulating requirements for establishing an Agricultural Production and Marketing Group, application procedures, appraisal methods, guidance, rewards, subsidization and other items with are to be enacted by the central competent authority.
+
+### Article 27
+
+The central competent authority shall respectively promulgate standard specifications of agricultural materials of the seed and seedling of plants, breeding animals, fertilizers, feeds, agro-pesticides and veterinary drugs, as well as establish the criteria for the factories/plants establishment, in order to conduct the inspection of the said materials accordingly.
+
+In order to elevate the quality level of agricultural products and processed products and maintain the rights and interests of consumers, the central competent authority shall implement the certification and accreditation system for the certification marks of the related products.
+
+### Article 28
+
+The central competent authority shall formulate plans for agricultural mechanization development, guide farmers or farmers’ organizations in purchasing and utilizing the agricultural machinery and further assist in loan applications or subsidization for the aforementioned purposes.
+
+### Article 29
+
+The central competent authority shall formulate plans for agricultural mechanization development, guide farmers or farmers’ organizations in purchasing and utilizing the agricultural machinery and further assist in loan applications or subsidization for the aforementioned purposes.
+
+Electricity fee for powering agricultural operation is not calculated in terms of progressive increment, and during the suspension period of power use, basic electricity fee is to be exempted.
+
+The scope and standard of the use of electricity, gasoline and water for powering agricultural operation shall be formulated by the Executive Yuan.
+
+### Article 30
+
+The competent authorities shall incentivize and support the expansion of operation scale of family farms, and shall prepare funds for subsidization or loan applications.
+
+The expansion of operation scale as stated in the preceding paragraph, operation scale may be expanded through organizing Agricultural Production and Marketing Groups, leasing arable lands, contract farming or other modes of farming.
+
+### Article 31
+
+The penalty for illegal use of arable land shall be under the regulations of Regional Planning Act. The registration of transferring ownership of arable land shall be under the regulations of Land Act or Civil Code.
+
+### Article 32
+
+Special municipalities or county /city governments shall strengthen the investigation and prohibition against violations of agricultural land-use regulations, and shall cooperate with the investigation unit, which is established for this purpose in accordance with related land regulations.
+
+In order to strengthen the investigation of violations of arable land use, the central competent authority may provide rewards of encouragement for impeachment of such regulations.
+
+### Article 33
+
+Private juristic persons are prohibited from taking arable lands, with the exception of farmers’ organizations, agricultural corporations or agricultural research and experiment institutes taking lands pursuant to Article 34 of this Act with permission.
+
+### Article 34
+
+Farmers’organizations, agricultural corporations, or agricultural research and experiment institutes in compliance with technology-intensive or capital-intensive standards and categorization, after receiving permission through application, may take arable lands. Technology-intensive or capital-intensive standards and categorization shall be formulated and promulgated by the central competent authority.
+
+Farmers’organizations, agricultural corporations, or agricultural research and experiment institutes applying for taking arable lands shall submit operation and exploitation plans as well as other required documentation to the competent authorities at the county or municipality level of the land location; the said government will then submit the application to the central competent authority for permission and the issuance of the certification of the approval. The applicant then takes the certification to register the transfer of the land ownership.
+
+The central competent authority shall base its approval on factors such as the state of agricultural development at the land location, the categorization of the application, as well as the operation and exploitation plans, and it shall limit the site location, the size, and the usage of the arable land, and the highest amount of mortgage on the land.
+
+Regulations governing the said transfer permission application of the arable land taken by farmers’ organizations, agricultural corporations, or agricultural research and experiment institutes shall be formulated by the central competent authority.
+
+### Article 35
+
+Farmers’organizations, agricultural corporations, or agricultural research and experiment institutes taking arable lands pursuant to the preceding article are prohibited from changing operation and exploitation plans at will or laying the land idle, unless the aforesaid acts are approved by the central competent authority.
+
+### Article 36
+
+Farmers’organizations, agricultural corporations, or agricultural research and experiment institutes taking arable lands by permission pursuant to Article 34 are prohibited from (changing the use of the land) using the land for other purposes. An exception can be adopted for operating projects, which apply for changing land usage based on corresponding regulations.
+
+### Article 37
+
+Agricultural lands in use for agricultural purposes may apply for exemption of the land value incremental tax when they are transferred to natural persons.
+
+The arable lands of agricultural use that are transferred to farmers’ organizations, agricultural corporations and agricultural research and experiment institutes in accordance with Articles 33 and 34, and are accorded with the needs of agricultural development, specific scales and other conditions, may apply for exemption of the land value incremental tax upon the approval of the competent authorities at the county or municipality level.
+
+The said land taker exempted from the land value incremental tax as stated in the last two paragraphs, shall pay the land value incremental tax at next transfer, if within the period of his/her land ownership the land is found not used for agricultural purposes by the authorities concerned and not restored for agricultural uses within the period of limitation set by the authorities concerned, or if the land is restored for agricultural use within the official period of limitation but is found used for other purposes again later.
+
+The said land taker not using the land for agricultural purposes shall combine the land given to or taken from his/her spouse for the imposition of land value incremental tax.
+
+### Article 38
+
+The agricultural land in use for agricultural purposes thereon when taken by inheritors or legatees, the values of the said land and crops shall be exempted from estate duty and exempted from farmland tax for ten years from the year of taking of the estate. The inheritors or legatees shall re-pay the tax which was exempted before if within five years from the date of inheritance or acceptance they do not continue engaging the land for agricultural purposes, and do not restore agricultural uses of the land within the period of limitation as stipulated by the authorities concerned, or have restored the land for agricultural use within the period of limitation as stipulated by the authorities concerned but are found later used for other purposes again. It is however inapplicable upon the death of the inheritors or legatees, or the expropriation or changing of the land in accordance with the laws.
+
+In the event that the agricultural land in use for agricultural purposes thereon are given to the inheritors as gifts pursuant to Article 1138 of the Civil Code, the values of the said land and crops shall be exempted from bestow tax and exempted from farmland tax for ten years from the year of acceptance of the estate. The donees shall re-pay the tax which was exempted before if within five years from the date of acceptance they do not continue engaging the land for agricultural purposes and do not restore agricultural uses of the land within the period of limitation as stipulated by the authorities concerned, or have restored the land for agricultural use within the period of limitation as stipulated by the authorities concerned but are found later used for other purposes again. Such a rule is inapplicable upon the death of the donees, or the expropriation or changing of the land in accordance with the laws.
+
+In the event pursuant to the first paragraph where there are more than one inheritor who all agree to have one inheritor to inherit the land and compensate other inheritors in cash, the competent authorities shall assist with the application of a 20-year land loan.
+
+### Article 38-1
+
+The building site in the urban area, no matter when it has been converted from agricultural land by law, can be applied for exemption of the land value incremental tax or estate duty or bestow tax according to the Article 37, paragraph 1 and Article 38, paragraph 1 or 2. The applicants applying for the tax exemption as mentioned above have to submit 2 documents which are issued by urban planning and agricultural departments separately to tax revenue. The document, which is issued by the urban planning department, has to recognize fitting for one of the condition mentioned below, and the other one, which is issued by agricultural department, has to certificate of being in agricultural use.
+
+1.Due to the detail plan has not been completed the building site can not be used as it has been planed.
+
+2.Although the detail plan has been completed, concerning stipulations limit its development by ways of land consolidation or zoned expropriation, the building site still can not be used as it has been planed before the plans of land consolidation or zoned expropriation are put into practice.
+
+Agricultural land which has been converted into not agricultural use before August 3rd 1983 can be applied for exemption of land value incremental tax according to the preceding paragraph under the situation of local government’s agreement.
+
+### Article 39
+
+The applicants applying for land value incremental tax exemption, or the exemptions of estate duty, bestow tax and farmland tax pursuant to the preceding two articles, shall submit the certificate of agricultural use of agricultural land to the tax revenues.
+
+The regulations with respect to the acknowledgement standard of taking- agricultural land for agricultural use, the certificate of agriculture use of agricultural land as stated in the preceding paragraph, issuance procedures and other requirements shall be formulated by the central competent authority in concert with other authorities concerned.
+
+### Article 40
+
+Agricultural lands engaged in agricultural purposes with the approval of the land value incremental tax application or with the exemptions of estate duty, bestow tax, or farmland tax shall be subject to regular or random inspections and shall be monitored and supervised by the competent authorities at the county or municipality level in concert with other authorities concerned. In the event of non-compliance of agricultural use pursuant to Articles 37 and 38, the violator shall be subject to the governance of the first paragraph of Article 69 in addition to re-pay the tax, which was exempted before.
+
+### Article 41
+
+In the event of family farms purchasing or exchanging arable lands at the same or an adjacent site to expand the operation area or to facilitate agricultural operations, provided that the total area of the land of the acquired plus the surface area of the original arable land is less than five hectares, the additional part of land shall be exempted from farmland tax for five years. With respect to the funds required for the purchase of the land or for necessary compensation in cash, the competent authority shall assist in applying for a 20-year loan.
+
+### Article 42
+
+Agricultural school or college graduates, who are in need of capitals for purchasing arable lands and directly engaging in agricultural production, shall be assisted by the competent authorities for applying for a 20-year loan.
+
+### Article 43
+
+The central competent authority shall, in concert with other authorities concerned, formulates provisions regulating the eligibility of applicants, the period, interests, the amount and other related matters of the said loan as stated in the first paragraph of Article 30, the third paragraph of Article 38, Article 41 and the preceding provision.
+
+## Chapter 4: Agricultural Marketing, Prices and Trade
+
+### Article 44
+
+In maintaining the balance between agricultural production and marketing as well as reasonable prices of agricultural products, the competent authorities may organize domestic and international promotion activities or designate agricultural products to be produced and purchased with guaranteed prices by contract as concluded between parties of supply and demand.
+
+### Article 45
+
+In response to prices fluctuations of domestic and international agricultural products and in order to stabilize the production and marketing of agricultural products, the government shall designate important agricultural products for the establishment of a stabilization fund either by the government or private sectors. The rules and regulations for the establishment, custody and utilization of the said fund shall be formulated by the central competent authority in concert with other authorities concerned.
+
+### Article 46
+
+Co-operative supply and marketing, direct supply for factories or exports by farmers or farmers' organizations shall be deemed the first transaction on the wholesale market and shall be entitled to the exemption of stamp duties and business taxes pursuant to the applicable tax laws.
+
+### Article 47
+
+Farmers shall be exempted from stamp duties and business taxes for selling self-produced agricultural products.
+
+### Article 47-1
+
+Farms and agricultural cooperatives legally registered with the competent authority by farmers shall be exempted from profit-seeking enterprise income tax for selling self-produced primary agricultural products.
+
+The primary agricultural products of the preceding paragraph shall be prescribed by the central competent authority in concert with the Ministry of Finance.
+
+The regulations with respect to qualifications, conditions, contents, procedures, documents to be presented, and other related matters of the registrations of farms and agricultural cooperatives in the first paragraph shall be prescribed by the central competent authority.
+
+The implementation period of profit-seeking enterprise income tax exemption in the first paragraph shall be within 5 years from the amendment on November 11, 2016.
+
+The Executive Yuan may, in 6 months before the exemption period expired, decide to extend or terminate the exemption period based on actual situation.
+
+### Article 48
+
+The central competent authority may, in concert with other authorities concerned, implement planned production and marketing of agricultural products or processed agricultural products of all kinds respectively, and shall coordinate the conflicting interests of each of agricultural industries of production, manufacturing, and marketing.
+
+### Article 49
+
+The competent authorities may, or upon the application of farmers' organizations or agricultural product processing industries, divide raw material supply zones into separate areas for raw materials purchase by contract. The said divided raw material supply zones may be changed by the competent authorities in accordance with the actual demand and supply.
+
+Undivided raw material supply zones shall be subject to the allocation of raw materials by the competent authorities in concert with other authorities concerned.
+
+### Article 50
+
+The competent authorities shall, in concert with other authorities concerned, assist farmers or farmers’ organizations in implementing the alignment of production, manufacture, storage and marketing, and shall encourage the establishment of factories on the industrial land of rural villages or within industrial zones to facilitate farmers’ employment and raw material supply.
+
+### Article 51
+
+With respect to export of agricultural products and processed agricultural products, a convention can be covenanted to maintain the order of export.
+
+With respect to export of agricultural products and processed agricultural products, a convention can be covenanted to maintain the order of export.
+
+In respect of any raw and packaging materials required for processing agricultural products for export, and for materials imported to pack previously stated products, the tariff duties and commodity taxes that must be levied may be refunded by applying to the regulations of “the Customs Act” and “the Commodity Tax Act” after the end items are exported.
+
+### Article 52
+
+The competent authorities of trade shall seek the central competent authority’s consent prior to granting import approval to agricultural products subject to import restrictions.
+
+The competent authority of finance, in concert with the central competent authority first, shall then promulgate the product, quantity, allocation methods and allocation periods of quota, before implementing tariff rate quota on agricultural products.
+
+In the event that the importation of agricultural products or processed agricultural products has caused or is likely to cause damage to domestic agriculture, the central competent authority shall meet with related central authorities concerned to formulate necessary measures, to establish a relief fund in the amount of NT$100 billion, and to adjust industrial structures or adopt safeguard measures, or to provide subsidization or relief measures for those deemed damaged or likely to be damaged sectors. The said relief measures for agricultural products damaged from importation as well as regulations with respect to the revenues and expenditures, the custody and the utilization of the said relief fund for agricultural products damaged from importation shall be formulated by the Executive Yuan.
+
+The source of the aforementioned fund as stated in the preceding paragraph may, in addition to the government allocated budget to make up the deficiency in three years, include the surplus from selling agricultural products or processed agricultural products that are subject to restricted-importation measures and tariff rate quota as approved by the government, as well as the income from selling the right to import of the said products.
+
+### Article 53
+
+In maintaining the order of production and marketing and ensuring fair trade of imported agricultural products, the central competent authority may, in concert with the competent authorities of finance and trade, adopt tariff rate quota measures, special safeguard and other measures in accordance with applicable regime; or shall designate an agency responsible for importation matters, if necessary.
+
+In the event that the exporting country of agricultural trade designates an agency handling export matters of a certain agricultural product to Taiwan, the central competent authority may, in concert with the competent authorities of trade, designate or establish a counterpart agency to handle the importation of the agricultural products of the exporting country.
+
+## Chapter 5: Farmers Welfare and Rural Village Development
+
+### Article 54
+
+In meeting the needs for future agricultural development, the government shall establish an agricultural development fund of NT$150 billion to promote farmers’ welfare and agricultural development. The sources of the said agricultural development fund, in addition to donations, shall be secured to fulfill the set amount through government budget planning in 12 years.
+
+The said donations, with the certification from the competent authorities, may be exempted from income tax or be listed as expenditure of the concurrent year in pursuance with the provisions of the Tax Law.
+
+The agricultural development fund established by the central competent authority shall be used for the purposes of improving farmers’ welfare or agricultural development. The regulations for the revenue and expenditure, the custody and the utilization of the said fund shall be formulated by the Executive Yuan.
+
+### Article 55
+
+In ensuring the sustainability of agricultural production resources and to reduce the impact of imported agricultural products on domestic agriculture, the competent authorities shall encourage with rewards environment-friendly activities such as fallowing or reforesting on agricultural lands.
+
+### Article 56
+
+The central government shall establish an Agriculture Finance Planning Commission to plan for and review agricultural financial policies and the agricultural financial system. The regulations for the establishment of the said commission shall be formulated by the Executive Yuan.
+
+The central competent authority shall, in accordance with the said policies of the preceding paragraph, formulate agricultural loan program, in respect to the raising and allocation of funds for agricultural loans, and shall establish a guidance system for financing loan.
+
+### Article 57
+
+In order to assist farmers in obtaining capitals required to practice farming, the government shall establish an agricultural credit guarantee system and provide rewards or subsidy.
+
+### Article 58
+
+The government shall initiate an agricultural insurance program to secure farmers' income, to stabilize rural communities and to make full use of agricultural resources.
+
+Before the agricultural insurance program is enacted into law, the central competent authority shall establish regulations in accordance with which agricultural insurance program by districts, categorization and stage may be implemented on a trial basis. All farmers within the same district and business operation line may participate in the program. Farmers' organizations may be commissioned to handle the said insurance program.
+
+The commissioned farmers’ organization handling the insurance program shall receive rewards and have the assistance or support from the government.
+
+### Article 59
+
+In response to the impact of agricultural internationalization and liberalization, elderly farmers shall be encouraged to retire from farming while young professional farmers undertake to participate in agricultural production system so as to enhance agricultural competitiveness and accelerate agricultural restructuring.
+
+### Article 60
+
+In the event that agricultural production suffers damages from natural disasters, the government shall provide cash relief, subsidization or low-rate loans and reduce/exempt farmland tax pursuant to applicable laws to assist farmers in resuming production in a quick manner.
+
+The regulations for the said cash relief, subsidization or low-rate loans shall be formulated by the central competent authority.
+
+The fund needed for the cash relief, subsidization or low-rate loans of the first paragraph shall be made available from a natural disaster mitigation fund for agriculture established by the central competent authority. The regulations for the revenues and expenditures, the custody and the utilization of the said fund shall be formulated by the Executive Yuan.
+
+### Article 61
+
+In order to improve the living environment of rural villages, the government needs to appropriate funds to strengthen the infrastructure of rural villages, to promote the renovation of rural communities, as well as the medical care system, and leisure and cultural facilities of rural villages so as to enhance the living environment of modern rural villages.
+
+The renovation of rural communities may be carried out through land zone re-division, or land section expropriation to increase modern public facilities in rural villages and to expand the scope of rural communities.
+
+### Article 62
+
+In preserving agricultural production and the living environment of rural villages, the competent authorities shall undertake necessary measures to prevent both the pollution of agricultural production to the environment and the pollution of non-agricultural sectors to agricultural production, rural village environment, water resources, land and air.
+
+### Article 63
+
+The authorities superintended in the level of city or county/municipality, in accordance with regional agricultural features, landscape resources, ecosystem and cultural heritage, shall schematize agricultural regions for leisure purposes that should be submitted to the central competent authority for sanction.
+
+The establishment of leisure farms shall be examined by the competent authorities at the county or municipality level. After this examination, the application should be submitted for the reception of approval by the central competent authority.
+
+The central competent authority is in charge of enacting regulations about  leisure agricultural areas stated in the first paragraph such as the defining conditions, procedures, assisting construction, minimum area, granting conditions, permit issuing and abolishment, land usage, managing constructing behavior and other items should be complied with.
+
+## Chapter 6: Agricultural Research and Extension
+
+### Article 64
+
+In order to upgrade agricultural science and technology level and promote the transformation of agricultural industries, the competent authorities shall supervise and request their respective affiliated agricultural research and experiment institutes to strengthen agricultural research and experiment and the industrial and academic cooperation for promoting the development of agricultural industrial technologies.
+
+In implementing the industrialization of the research and development results for the development of agricultural industry, the central competent authority shall strengthen the management and application of intellectual property rights by regulations and shall promote the establishment of the incubation centers.
+
+The regulation of establishment and counseling for the incubation centers as stated in the preceding paragraph shall be formulated by the central competent authority.
+
+### Article 65
+
+To meet the needs of agricultural development, the central authorities shall, in concert with the central authorities of education and technology, formulate agricultural research, education and extension plans with respect to agricultural experiment, research, education, training and extension, for the purpose of ensuring and increase agricultural competitiveness.
+
+Budgets shall be prepared by the central authority for awarding scholarship to youngsters who wish to engage in agricultural business for helping them study in agricultural schools and colleges; and agricultural training shall be strengthened in order to enhance the standards of agricultural science and technology and agricultural management.
+
+Agricultural extension as conducted by the competent authorities shall be listed as the expenditure of agricultural extension in the budget.
+
+### Article 66
+
+In expanding the scale of farm operation and encouraging farmers to change their career paths, the competent authorities shall, in concert with the competent vocational training authorities, provide vocational training for farmers who resign from farming, and assist them in seeking a new career.
+
+### Article 67
+
+In strengthening agricultural extension and perfecting the functions of all designated agencies, the competent authorities shall appoint specialized units or staffs of agricultural extensions to organize agricultural extension activities, and may, if necessary, commission agricultural schools and colleges, farmers' organizations, agricultural corporations, agricultural organizations, and corporations or organizations concerned and communities to organize the same and to provide necessary guidance, supervision and appraisal.
+
+Regulations for the agricultural extension activities shall be formulated by the central competent authority.
+
+### Article 67-1
+
+Persons who provide the services of agricultural extensions may collect fees.
+
+### Article 67-2
+
+In strengthening the extension and utilization of the efforts from agricultural experimentation and research and establishing lifelong learning systems for farmers, the competent authorities shall build up an integral system of agricultural extensions and consolidate the developments such as the training of farming practices, improvement of living, guidance for youngsters, transmission of information and development of rural villages.
+
+The central competent authority should appoint a professional unit, to plan and engage in the developments such as agricultural extensions, education and training of professional manpower in agriculture and information transmission.
+
+### Article 68
+
+The competent authorities shall reward those persons who contribute to the development of agriculture through agricultural experimentation, research, education and extension. The regulations for granting the said rewards shall be formulated by the central competent authority.
+
+## Chapter 7: Penalty
+
+### Article 69
+
+The penalty provisions of the Regional Planning Act or the Urban Planning Law shall be imposed on the violators of agricultural land use provided by the land use regulations of the Regional Planning Act or the Urban Planning Law.
+
+Non-compliance with Article 36 or arbitrary land use changes of the arable lands taken by farmers’ organizations, agricultural corporations, or agricultural research and experiment institutes pursuant to the Act, shall be subject to the preceding paragraph; the heads of the said farmers’ organizations, agricultural corporations, and agricultural research and experiment institutes shall be fined a minimum of sixty thousand and up to three hundred thousand New Taiwan Dollars.
+
+### Article 70
+
+A person who establishes a leisure farm and operates leisure agriculture without permission by relevant laws shall be fined a minimum of sixty thousand and up to three hundred thousand New Taiwan Dollars and ordered to correct the offense within a prescribed period; penalties shall be imposed by stage for violators who do not correct within the prescribed period.
+
+### Article 71
+
+The land use or operation plans of leisure farms are changed arbitrarily without permission from the competent authorities, notification shall be made for corrections within a prescribed period as determined by the competent authorities at the county or municipality level; for violators who do not correct within the limited period, a fine of a minimum of sixty thousand and up to three hundred thousand New Taiwan Dollars shall be imposed by stage. In the event of serious offenses, its permit to register may be revoked.
+
+### Article 72
+
+Farmers’organizations, agricultural corporations, or agricultural research and experiment institutes in violation of Article 35 in that changing operation and exploitation plans without approval or laying the arable land idle shall be fined a minimum of thirty thousand up to one hundred and fifty thousand New Taiwan Dollars and be ordered to make corrections within a prescribed period; penalties shall be imposed by stage for violators who do not correct within the prescribed period.
+
+### Article 73
+
+The competent authorities shall impose the fines of the Act.
+
+### Article 74
+
+The fines imposed by the Act must be paid within a prescribed period. Fines in default are subject to compulsory execution by the court of law.
+
+## Chapter 8: Supplementary Provisions
+
+### Article 75
+
+The competent authorities at each level shall charge review fees, registration fees, or certification fees to the applicant when handling applications or registration and issuance of certification pursuant to the Act. The central competent authority shall formulate the standard for charging the said fees.
+
+### Article 76
+
+The central competent authority shall establish the implementation rules of the Act.
+
+### Article 77
+
+This Act shall come into effect as of the date of promulgation.
+
+## History
+
+1.Promulgated on September 3, 1973.
+
+2.Amendment to Articles 3, 20, 21, 23, 24 and addition of Articles 21-1, 26-1 promulgated on January 30, 1980.
+
+3.Amendment to all Articles promulgated on August 1, 1983.
+
+4.Amendment to Article 2 promulgated on January 6, 1986.
+
+5.Amendment to all Articles promulgated on January 26, 2000.
+
+6.Amendment to Articles 12, 18, 25, 71 promulgated on January 30, 2002.
+
+7.Amendment to Articles 3, 5, 8, 16, 17, 20~22, 26, 27, 30~32, 36, 37, 39, 43, 52, 54, 55, 63~65, 67, 69, 74, 77 and addition of Articles 8-1, 9-1, 22-1, 25-1, 67-1, 67-2 and deletion of Articles 11, 14 on February 7, 2003.
+
+8.Amendment to Articles 31, 39 promulgated on January 10, 2007.
+
+9.Amendment to Article 27 promulgated on January 29, 2007.
+
+10.Article 38-1 inserted, the revised Act President Hua-tzong Yi-tzu-09900331471 and promulgated, November 8, 2010
+
+11.Article 47-1 inserted﹐the revised Act President Hua-tzong Yi-tzu-10500146901 and promulgated, November 30, 2016
+
+The announcement was made on July 27, 2023 by the Executive Yuan Order tai-gui-zi No. 1125014346. The relevant matters set out in Article 3, Subparagraph 21 of Paragraph 1 of Article 4, Paragraph 1~6,8 of Article 5, Paragraph 1 of Article 7, Paragraph 2 , 4 of Article 8, Article 9, Article 10, Paragraph 2 of Article 12, Paragraph 1 of Article 15, Subparagraph 3 of Paragraph 1,2 of Article 20-1, Paragraph 2 of Article 22, Paragraph 1 of Article 22-1, Paragraph 1,2 of Article 25, Paragraph 3 of Article 25-1, Paragraph 2 of Article 25-3, Paragraph 2 of Article 26, Paragraph 3 of Article 33, Subparagraph 1,2,3,4 of Article38, Article 39, Paragraph 3,4 of Article 40, Article 41, Article 42, Paragraph 1 of Article 43, Article 44, Article 45, Article 46, Paragraph 5 of Article 46-1, Paragraph 1 of Article 47, Article 47-5, Article 49, Preamble of Article 49-1, pertaining to “ the Council of Agriculture of the Executive Yuan” shall be handled by “Ministry of Agriculture” as governing body, effective August 1, 2023.

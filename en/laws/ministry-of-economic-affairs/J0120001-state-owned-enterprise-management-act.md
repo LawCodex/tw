@@ -1,0 +1,257 @@
+---
+title: "State-Owned Enterprise Management Act"
+title_zh: "國營事業管理法"
+identifier: "J0120001"
+type: act
+law_level: "法律"
+category: "行政＞經濟部＞國營事業目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1949-01-20
+last_amended: 2023-01-19
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0120001"
+retrieved: 2026-10-12
+---
+
+# State-Owned Enterprise Management Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-economic-affairs/J0120001-state-owned-enterprise-management-act.md](../../../zh/laws/ministry-of-economic-affairs/J0120001-state-owned-enterprise-management-act.md)) is authoritative.
+
+## Chapter Ⅰ General Provisions
+
+### Article 1
+
+The management of state-owned enterprises shall comply with the provisions of the State-Owned Enterprise Management Act (hereinafter the “Act”).
+
+### Article 2
+
+The purpose of establishing state-owned enterprise is to develop national capital, promote economic development, and improve enhance the well-being of the people.
+
+### Article 3
+
+State-owned enterprise as referred to in this Act are of the following types:
+
+\1. Enterprises which are solely owned by the State;
+
+\2. Enterprises jointly owned by the State and private individuals, established in accordance with special business organization laws;
+
+\3. Enterprises, which, in accordance with the Company Law, are jointly owned by the State and private individuals, and in which the State holds more than 50% of the capital.
+
+Those enterprises, which, in accordance with separate contracts, are jointly owned by the State and foreigners shall be governed by such contracts.
+
+The chairperson or general manager and president of the enterprises, which the state holds less than 50% of the shares,are appointed by the government.Those chairpersons and presidents on behalf of the state shares may be requested to report to and to be interrogated by the Legislative Yuan, concerning budget and operation examined by the shareholders congress.
+
+### Article 4
+
+State-owned enterprise shall be operated in a manner befitting a business so that they may be able to support themselves, achieve continued development, and increase the national income without incurring losses. However, enterprises established for demonstration purposes or for other reasons specified by government are not subject to the provisions of this law.
+
+### Article 5
+
+The National Treasury is responsible for appropriating the funding necessary for government’s investment in national enterprises. If stocks are to be issued in accordance with applicable regulations, such stocks shall be held in custody by the National Treasury.
+
+### Article 6
+
+Unless otherwise specified in applicable regulations, the rights and responsibilities of state-owned enterprise shall be the same as those of private enterprises of similar categories.
+
+### Article 7
+
+The competent authorities responsible for overseeing state-owned enterprises are prescribed in the various laws governing organization of the ministries, committees, or agencies of the Executive Yuan.
+
+### Article 8
+
+The competent authorities shall have the following functions:
+
+\1. To establish, consolidate, reorganize, and dissolve the subordinate state-owned enterprise
+
+\2. To approve the operating plans and guidelines of the subordinate state-owned enterprise
+
+\3. To appoint and remove important persons of the subordinate state-owned enterprise
+
+\4. To set up the administrative framework of the subordinate state-owned enterprise
+
+\5. To inspect and evaluate the operations of the subordinate state-owned enterprise
+
+\6. To make the financial plans for the subordinate state-owned enterprise.
+
+Where special regulations exist, the aforementioned appointment and removal of important persons referred to in paragraph 3 shall be governed by such regulations.
+
+### Article 9
+
+Chief managerial agencies may be established as appropriate for the purpose of administering the following state-owned enterprise:
+
+\1. State-owned enterprise of the same nature
+
+\2. Enterprises with closely related operations
+
+### Article 10
+
+The competent authorities shall submit the regulations regarding the organizations of state-owned enterprises to the Executive Yuan, which, in turn, shall refer to the Legislative Yuan for review and approval.
+
+## Chapter Ⅱ Finance
+
+### Article 11
+
+State-owned enterprise shall prepare budgets based on the business establishment or expansion plans approved by the competent authorities and shall determine the amount of capital required. The budgets, once approved, shall be appropriated either in one lump sum or in installments by the National Treasury.
+
+### Article 12
+
+State-owned enterprise shall  prepare the budget proposals before the beginning of each fiscal year. The budget proposals shall be submitted to the competent authorities for approval.
+
+### Article 13
+
+State-owned enterprises shall turn over its profits to the National Treasury after the year-end audit. Enterprises, which, in accordance with Article 4, are established for demonstration purposes or other reasons as specified by the government may request subsidies from the competent authorities in the event losses are incurred.
+
+### Article 14
+
+State-owned enterprise shall control their expenditures, and the Executive Yuan shall set standards for determining the pay scale and non-salary benefits of state-run enterprise employees. No expenses beyond these established standards shall be permitted.
+
+### Article 15
+
+State-owned enterprise with the approval of the government way issue specific usage corporate bonds exempt from the restrictions of  the restrictions of Article 247, Paragraph 2 of Article 249, and Paragraph 2 of Article 250 of the Company Act. The specific usage and annual total issued amount of the bonds shall be submitted to Legislative Yuan for approval through the budget process.
+
+If the proceeds realized from the issue of corporate bonds are applied for usage other than that stipulated, the responsible person of the state-owned enterprise shall be sentenced to an imprisonment under two years.
+
+### Article 16
+
+The Directorate-General of Budget, Accounting and Statistics shall, in a manner befitting a business enterprise, establish accounting systems for state-owned enterprises in coordination with the competent authorities.
+
+### Article 17
+
+The revenue and the expenditures of state-owned enterprise shall be post-audited by the auditing agencies. For enterprises of significant scale, the auditing agencies may assign auditors to conduct on-site audits.
+
+## Chapter Ⅲ Operations
+
+### Article 18
+
+State-owned enterprises or chief managerial agencies shall prepare and submit their annual operating plans to the competent authorities for approval before the beginning of each fiscal year.
+
+### Article 19
+
+State-owned enterprises shall be responsible for the sale of their own products. If joint sales are deemed necessary, the competent authorities shall prescribe the procedures thereof.
+
+### Article 20
+
+The rates charged by public utilities shall be calculated in accordance with the formulas prepared either by state-owned enterprise or by chief managerial agencies. Such formulas, together with any changes thereof, shall be submitted to the Legislative Yuan for approval.
+
+### Article 21
+
+Unless otherwise authorized by the competent authorities, state-owned enterprise shall not purchase equipment or facilities deemed irrelevant to their operations.
+
+### Article 21-1
+
+Where a state-owned enterprise constructs or operates, outside a port or wharf area, the loading and unloading facilities and other special facilities for the specifically selected goods, the state-owned enterprise shall submit it to and acquire approval of the competent authority in consultation with the Ministry of Transportation and Communications.
+
+The area for the loading and unloading facilities and other special facilities for the specifically selected goods constructed or operated outside a port or wharf area by a state-owned enterprise shall be drafted by the state-owned enterprise, and shall be submitted to and delimited by the competent authority in consultation with the Ministry of Interior Affairs and relevant authorities.
+
+Article 13, Article 15, Article 16, Articles 18 to 22, Articles 24 to 29, Article 31, Article 32, Articles 34 to 40, Article 54 and Article 75 of the Commercial Port Law shall apply mutatis mutandis to ship entry and exit, safety management, port management and pollution prevention of the loading and unloading facilities and other special facilities provided in Paragraph 1 of this Article.
+
+In order to maintain public order within the area provided in Paragraph 2 of this Article and to handle violation of the provisions of the Commercial Port Law applicable mutatis mutandis under the preceding Paragraph, where assistance of a port police force is necessary, the state-owned enterprise may request approval of the competent authority in consultation with the Ministry of Interior Affairs for applying mutatis mutandis of Paragraph 1 of Article 5 of the Commercial Port Law.
+
+### Article 21-2
+
+Anyone who violates the relevant provisions of the Commercial Port Law applicable mutatis mutandis under Paragraph 3 of the preceding Article shall be punished, based on the nature of the violation, by the competent authority in accordance with Articles 61 to 64, Subparagraphs 1 to 4 of Article 65, Subparagraphs 2, 4 of Paragraph 1, Paragraph 2 of Article 66, Subparagraphs 1 to 3, 5 to 8, 10, 11 of Article 67, Article 69 and Article 71 of the Commercial Port Law.
+
+### Article 22
+
+State-owned enterprise shall obtain authorization from the competent authorities before signing contracts involving large transactions or long-term trading.
+
+The criteria for determining the size of a transaction or the length of trading shall be prescribed by the competent authorities.
+
+### Article 23
+
+( deleted )
+
+### Article 24
+
+The competent authorities or chief managerial agencies shall take in charge when collectively procuring the raw materials and/or equipment required by state-owned enterprises is deemed more adequate.
+
+### Article 25
+
+During the trading or constructing processes, state-owned enterprises shall follow all bidding and contracting procedures in accordance with the regulations prescribed by the competent authorities. Related auditing procedures are prescribed in Article 17.
+
+### Article 26
+
+State-owned enterprise shall adopt the most efficient measures and systems to manage their security facilities, employee training and technical administration.
+
+### Article 27
+
+Employees of state-owned enterprises may elect representatives to represent them in meetings to discuss matters relating to production plans.
+
+### Article 28
+
+Technical collaboration between state-owned enterprise and foreign countries shall be authorized by the competent authorities.
+
+### Article 29
+
+The competent authorities shall according to the nature of each individual corporation, establish a set of criteria for evaluating the performance of state-owned enterprises.
+
+### Article 30
+
+State-owned enterprise which are considered as the compulsory responsibility of the State and which make no profit during the initial stage of operation shall not be evaluated by the criteria of profit/loss in a certain period.
+
+## Chapter Ⅳ Personnel3
+
+### Article 31
+
+Except for special technical or important managerial employee, state-owned enterprise shall recruit their employees through open examinations.
+
+The examination shall be held as a written examination in principle. The examination method, qualifications, subjects, grading , admission criteria and other matters shall be determined by the competent authority of the state-owned enterprise.
+
+The projects, positions and qualifications required of the special technical or important managerial employee shall be established by the state-owned enterprises, reported to the competent authority, and published on the website.
+
+### Article 32
+
+The personnel of state-owned enterprise who have been employed before the implementation of this Act shall be evaluated in accordance with their work experience, seniority, and job performance in order for them to be considered for job promotions and transfers.
+
+### Article 33
+
+The appointment, performance evaluation, retirement, indemnity, severance and other personnel management matters related to state-owned enterprise employees shall be proposed by the competent authorities and submitted to the Executive Yuan for approval unless otherwise provided by law.
+
+### Article 34
+
+The competent authorities may appoint trustees and supervisors for state-owned enterprise which do not have corporate status if this is deemed appropriate by the Executive Yuan.
+
+### Article 35
+
+The director, auditor, trustee, and supervisor of one state-run enterprise shall not concurrently hold the same position in another state-run enterprise, except for the purpose of merger or establishment of holding companies. Under such exceptional circumstances, the director and trustee of one state-run enterprise may concurrently hold the same position in other state-run enterprise, as well as hold the positions of auditor and supervisor. The director, auditor, trustee, and supervisor who hold the same in another state-run enterprise may be elected as the chairperson, vice chairperson of the board, or other equal positions.
+
+At least one fifth of the directors, trustees of one state-run enterprise who represent state capital shall be recommended by the relevant labor union.
+
+The labor union may replace the recommended directors and trustees who are deemed incompetent.
+
+### Article 36
+
+Apart from the requirements of Article 13 of the Civil Servant Service Law, the employees of state-owned enterprise shall not be engaged by or invest in enterprises of a similar nature.
+
+### Article 37
+
+To prevent favoritism, Article 26 of the Civil Servant Appointment Law shall apply mutatis mutandis to all personnel appointments of state-owned enterprise.
+
+## Chapter Ⅴ Supplementary Provisions
+
+### Article 38
+
+This Act shall go into force upon the date of its promulgation.
+
+The effective date of the amended Articles of the Law shall be set by Executive Yuan.
+
+## History
+
+\1. Enacted and promulgated by the President on January 20, 1949
+
+\2. Article 23 and 38 of this law were amended on January 7, 1998.
+
+\3. Article 35 of this law was amended on July 19, 2000.
+
+\4. Article 35 of this law was amended on June 19, 2002.
+
+\5. Article 3 of this law was amended on January 9, 2008.
+
+\6. Article 15, 31, 33 and 37 of this law were amended on December 28, 2011.
+
+7.Article 21-1 and 21-2 of this law were amended on January 19, 2023 by Presidential Decree
+
+Effective on February 20, 2023 as determined by the Executive Yuan

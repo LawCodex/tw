@@ -1,0 +1,283 @@
+---
+title: "Nationality Act"
+title_zh: "國籍法"
+identifier: "D0030001"
+type: act
+law_level: "法律"
+category: "行政＞內政部＞戶政目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1929-02-05
+last_amended: 2024-05-24
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0030001"
+retrieved: 2026-10-12
+---
+
+# Nationality Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-the-interior/D0030001-nationality-act.md](../../../zh/laws/ministry-of-the-interior/D0030001-nationality-act.md)) is authoritative.
+
+## Article 1
+
+Acquisition, loss, restoration, and revocation of the nationality of the Republic of China (hereinafter referred to as the R.O.C.) shall be subject to the provisions of this Act.
+
+## Article 2
+
+A person shall have the nationality of the R.O.C. under any of the conditions provided by the following Subparagraphs:
+
+\1. His/her father or mother was a national of the R.O.C. when he/she was born.
+
+\2. He/she was born after the death of his/her father or mother, and his/her father or mother was a national of the R.O.C. at the time of death.
+
+\3. He/she was born in the territory of the R.O.C., and his/her parents cannot be ascertained, or both were stateless persons.
+
+\4. He/she has undergone the naturalization process.
+
+The provisions of Subparagraphs 1 and 2 of the preceding Paragraph shall also apply to those under the age of 20 at the time of the amendment and implementation of this Act on February 9, 2000.
+
+## Article 3
+
+A foreign national or stateless person who currently has a domicile within the territory of the R.O.C. and who meets the requirements of the following subparagraphs may apply for naturalization:
+
+\1. He/she has legally resided within the territory of the R.O.C. for more than 183 days each year for at least five consecutive years.
+
+\2. He/she has the legal competencecapacity to act in accordance with the laws of the R.O.C. and his/her own state.
+
+\3. He/she has no bad conduct or criminal records as certified by the Police Clearance Certificate.
+
+\4. He/she possesses enough property or professional skills to support himself/herself or lead a stable life.
+
+\5. He/she possesses basic proficiency in the national language of the R.O.C. and basic knowledge of the rights and obligations of R.O.C. nationals.
+
+The “no bad conduct” prescribed in Subparagraph 3 of the preceding Paragraph shall be determined by the Ministry of the Interior based on the procedures, mechanisms under periodic review, and other methods to be complied with as discussed by invited experts, scholars, and social justice personnel.
+
+The standards for recognition, testing, exemption, fee charging, and other matters to be complied with related to the “basic proficiency in the national language of the R.O.C. and basic knowledge of the rights and obligations of R.O.C. nationals” as prescribed in Subparagraph 5 of Paragraph 1 shall be determined by the Ministry of the Interior.
+
+## Article 4
+
+A foreign national or stateless person who currently has a domicile within the territory of the R.O.C., meets the conditions prescribed in Subparagraphs 2 to 5 of Paragraph 1 of Article 3, and has legally resided within the territory of the R.O.C. for more than 183 days each year for at least three consecutive years may apply for naturalization if any of the following circumstances apply:
+
+\1. If married to an R.O.C. national, he/she is not required to meet the conditions prescribed in Subparagraph 4 of Paragraph 1 of Article 3.
+
+\2. He/she has divorced an R.O.C. national due to domestic violence and has not since remarried, or his/her R.O.C. national spouse has died and he/she has not remarried. He/she demonstrate that he/she remains in contact with family members of their deceased spouse. However, those who had been married to an R.O.C. national for at least two years before the spouse’s death are exempted from the requirement concerning contact with family members.
+
+\3. He/she supports his/her children who possess R.O.C. nationality and are legally incompetent or have limited legal competence, exercises rights and obligations on behalf of such children, and meets and interacts with them in person.
+
+\4. He/she has at least one parent who is or was an R.O.C. national.
+
+\5. An R.O.C. national has adopted him/her.
+
+\6. He/she was born in the territory of the R.O.C.
+
+\7. He/she is the guardian or assistant of an R.O.C. national.
+
+A foreign national or stateless person who is an unmarried minor, has legally resided in the territory of the R.O.C. for less than three years, and does not meet the conditions prescribed in Subparagraphs 2, 4, and 5 of Paragraph 1 of Article 3 may apply for naturalization if any of the following circumstances apply:
+
+\1. His/her (adoptive) father or (adoptive) mother is an R.O.C. national.
+
+\2. He/she is currently under the guardianship of a social welfare authority or social welfare institution.
+
+## Article 5
+
+A foreign national or stateless person who currently has a domicile within the territory of the R.O.C. and who meets the conditions prescribed in Subparagraphs 2 to 5 of Paragraph 1 of Article 3 may apply for naturalization if any of the following circumstances apply:
+
+\1. He/she was born within the territory of the R.O.C., and his/her father or mother was also born within the territory of the R.O.C.
+
+\2. He/she has legally resided within the territory of the R.O.C. for more than ten consecutive years.
+
+\3. He/she is a high-level professional recommended by the central authorities in charge of the relevant industries who has contributed to the interests of the R.O.C. and has been jointly reviewed and approved by social justice personnel invited by the Ministry of the Interior and relevant agencies. Additionally, he/she must have legally resided within the territory of the R.O.C. for more than 183 days each year for at least two consecutive years or must have legally resided within the territory of the R.O.C. for more than five consecutive years.
+
+The criteria for identifying high-level professionals as prescribed in the Subparagraph 3 of the preceding Paragraph, the review procedures, methods, and other relevant matters shall be determined by the Ministry of the Interior.
+
+## Article 6
+
+A foreign national or stateless person who has made special contributions to the R.O.C. but does not meet the requisites provided in the Subparagraphs of Paragraph 1 of Article 3 can also apply for naturalization.
+
+Permission for naturalization as prescribed in the preceding Paragraph shall be determined by the Ministry of the Interior following approval by the Executive Yuan.
+
+Applicants for naturalization as prescribed in Paragraph 1 are exempt from the fees for the nationality permit certificate.
+
+## Article 7
+
+Unmarried minor children (under18) of a naturalized person may apply for accompanying naturalization.
+
+## Article 8
+
+A foreign national or stateless person who applies for naturalization byArticles 3 to 7 shall file the application with the Ministry of the Interior and acquire the the R.O.C.’ s nationality from the date of permission.
+
+## Article 9
+
+A foreign national applying for naturalization shall provide a certificate of loss of original nationality within one year from the day of permission for naturalization or from the day of reaching the age at which he/she may renounce nationality under the laws of his/her original country.
+
+A foreign national who fails to provide a certificate of loss of original nationality within the prescribed period shall be subject to revocation of permission for naturalization. However, an application for a deadline extension may be filed if the inability to submit said certificate is due to legal or administrative restrictions of his/her original country as verified by the Ministry of Foreign Affairs.
+
+Foreign nationals shall not be allowed to reside in Taiwan before submitting a certificate of loss of original nationality as prescribed in the preceding two Paragraphs.
+
+A foreign national may be exempted from submitting a certificate of loss of original nationality if any of the following circumstances apply:
+
+\1. He/she applies for naturalization under Subparagraph 3 of Paragraph 1 of Article 5.
+
+\2. He/she applies for naturalization under Paragraph 1 of Article 6.
+
+\3. He/she cannot obtain a certificate of loss of original nationality for reasons not attributable to himself/herself.
+
+## Article 10
+
+A naturalized foreign national or stateless person shall have no right to hold the following government offices:
+
+\1. President, vice president.
+
+\2. Legislator.
+
+\3. Premier, vice premier, or minister without portfolio of the Executive Yuan; president, vice president, or grand justices of the Judicial Yuan; president, vice president, or members of the Examination Yuan; president, vice president, members, or auditor-general of the Control Yuan.
+
+\4. Personnel specially appointed or designated.
+
+\5. Deputy minister of each Ministry.
+
+\6. Ambassador extraordinary and plenipotentiary, minister extraordinary and plenipotentiary.
+
+\7. Vice-minister of the Overseas Affairs Community Council.
+
+\8. Other government offices shall be compared with personnel holding selected ranks above the thirteenth grade.
+
+\9. General officer of the army, navy, or air force.
+
+\10. Local government office position elected by the people.
+
+The restrictions in the preceding Paragraph shall be lifted after ten years from the date of naturalization, however,  if otherwise provided by any other act, the provisions of that act shall prevail.
+
+## Article 11
+
+Nationals of the R.O.C. under any of the following conditions may lose their nationality of the R.O.C. with the permission of the Ministry of the Interior:
+
+\1. Incapable persons or persons lacking legal capacity who are under the guardianship or care of their foreign father, mother, adoptive father, or adoptive mother shall acquire the same nationality as their foreign (or foreign adoptive) parents as necessary to reside with them outside the R.O.C.
+
+\2. The spouses of foreigners.
+
+\3. Those with legal capacity by the laws of the R.O.C. who voluntarily acquire foreign nationality. However, those subject to the order of commencement of assistance must obtain the consent of their assistant.
+
+The minor children of individuals who lose their nationality of the R.O.C. as prescribed in the preceding Paragraph may also lose their nationality of the R.O.C. concurrently with the permission of the Ministry of the Interior.
+
+The minor children mentioned in the preceding Paragraph who were married before the amendments to the provisions of this Act came into force on December 29, 2020, shall be entitled to the pre-amendment provisions of the Act after the implementation of the amendments to the Act until they reach 18.
+
+## Article 12
+
+For a person who applies to lose his/her nationality in accordance with the preceding Paragraph, under any of the following conditions, the Ministry of the Interior shall not permit the loss of nationality:
+
+\1. A male, starting from January 1 of the year after the year in which he reached the age of 15, who is not exempted from military service and has not fulfilled his military service. However,R.O.C.(Taiwan) nationals residing overseas who were born overseas, and have no household registration in the R.O.C. or moved overseas before December 31 of the year  they reached 15 shall be excluded.
+
+\2. He/she is in active military service.
+
+\3. He/she currently holds office as a government official of the R.O.C.
+
+## Article 13
+
+Under any of the following conditions, a national who meets the provisions of Article 11 shall not lose his/her nationality:
+
+\1. He/she is a criminal defendant under investigation or trial.
+
+\2. He/she was sentenced to fixed-term imprisonment, and the sentence has not been completely served.
+
+\3. He/she is a civil defendant.
+
+\4. He/she is the subject of a court judgment or administrative order, and the judgment or order has not been fully executed yet.
+
+\5. He/she was pronounced bankrupt, and his/her rights were not restored.
+
+\6. He/she must pay overdue tax or arrears of tax penalty.
+
+## Article 14
+
+For a person who loses the nationality of the R.O.C. in accordance with Article 11, when he/she has not acquired the nationality of another country, his/her loss of nationality may be withdrawn with the permission of the Ministry of the Interior.
+
+## Article 15
+
+For a person who loses the nationality of the R.O.C. in accordance with Article 11, if he/she now has a domicile in the territory of the R.O.C. and meets the requisites provided in Subparagraphs 3 and 4 of Paragraph 1 of Article 3, he/she may apply for restoring his/her nationality of the R.O.C.
+
+The preceding Paragraph shall not apply to naturalized persons and their children who naturalized concurrently and lost the nationality of the R.O.C.
+
+## Article 16
+
+Minor children of a person who has restored his/her nationality of the R.O.C. may apply for concurrently restoring their nationality of the R.O.C.
+
+## Article 17
+
+A person who applies for restoring his/her nationality of the R.O.C. in accordance with Articles 15 and 16 shall apply with the Ministry of the Interior and shall have his/her nationality of the R.O.C. restored from the date of approval.
+
+## Article 18
+
+A person who has restored the nationality of the R.O.C. has no right to hold the government offices provided in the Subparagraphs of Paragraph 1 of Article 10 within three years from the date of restoration of the nationality. However, if otherwise provided by another act, the provisions of that act shall prevail.
+
+## Article 19
+
+In addition to revoking the permission for naturalization under Paragraph 1 of Article 9, the Ministry of the Interior may also revoke naturalization or loss or restoration of R.O.C. nationality within two years of discovering any circumstances that do not conform with this Act. However, naturalization, loss, or restoration of R.O.C. nationality may not be revoked if more than five years have passed since it took effect.
+
+The time restriction on revocation, as described in the preceding Paragraph does not apply to persons who, per a judicial court ruling, have been found to have become naturalized R.O.C. nationals by colluding to conclude a fraudulent marriage or adoption.
+
+Before revoking naturalization or loss or restoration of nationality, the Ministry of the Interior shall convene a review panel to accord the person concerned an opportunity to state his/her views. However, this shall not apply to the revocation of approval of naturalization in any of the following circumstances:
+
+\1. Under Article 2, it has been determined that the person concerned possesses R.O.C. nationality.
+
+\2. It has been determined by a final ruling of a judicial court that the person concerned has become a naturalized R.O.C. national by colluding to conclude a fraudulent marriage or adoption.
+
+The review panel referred to in the preceding paragraph shall comprise representatives of competent authorities, impartial individuals, experts, and scholars selected and appointed by the Ministry of the Interior. Neither gender shall constitute less than one-third of the review panel members, and impartial persons, experts, and scholars shall not constitute less than half of the review panel members.
+
+The formation, review criteria, procedures, and other matters of the review panel referred to in Paragraph 3 shall be prescribed by the Ministry of the Interior.
+
+## Article 20
+
+A national of the R.O.C. who acquires the nationality of another country shall have no right to hold government offices of the R.O.C. Suppose he/she already holds a government office, the relevant authority shall discharge him/her from the government office. In that case a legislator shall be discharged by the Legislative Yuan, government service personnel elected by the people of a municipality, high land indigenous districts of a particular municipality, county (city), or township (city) shall be discharged by the Executive Yuan, the Ministry of the Interior, a municipal government, or a county government, respectively; a village chief shall be discharged by the township (city, district) office, but those listed in the following Subparagraphs shall not be subject to this restriction if provided by the competent authorities:
+
+\1. Presidents of public universities; teachers at public schools of all levels who concurrently serve as administrative governors; directors, vice directors, and researchers (including those who concurrently serve as academic research governors) of research organizations (bodies); and directors, vice directors, and contracted professionals (including part-time supervisors) of social education or cultural bodies established with the approval of the competent administrative authority in charge of education or cultural authorities.
+
+\2. Personnel in public-operated utilities other than those who take primary decision-making responsibility for the operational policy.
+
+\3. Non-governor positions focusing on technology research and design who are regularly engaged through contracts by various authorities.
+
+\4. Commissioners without paid positions who are engaged through selection for consultation only in accordance with organizational law by the competent authority for overseas community affairs.
+
+\5. Where otherwise provided by other acts.
+
+Persons in Subparagraphs 1 to 3 of the preceding paragraph shall be limited to talents with expertise or special skills that are difficult to find in the R.O.C. and who occupy positions not involving state secrets.
+
+The public offices of Subparagraph 1 do not include teachers, lecturers, research personnel, and professional technical personnel who do not concurrently serve as administrative governors at all levels of public schools.
+
+If a national of the R.O.C. who concurrently has the nationality of another country wants to hold a government office limited by nationality as determined by this Article, he/she shall handle the waiver of the other country’s nationality before taking office and complete the loss of that country’s nationality and the acquisition of certification documents within one year from the date of taking office. However, if otherwise provided by another act, the provisions of that act shall prevail.
+
+## Article 21
+
+(Deleted)
+
+## Article 22
+
+The Ministry of the Interior shall enact the enforcement rules of this Act.
+
+## Article 23
+
+This Act shall come into force from the date of promulgation.
+
+The amendments to this Act’s articles made on December 29, 2020, shall come into force on January 1, 2023.
+
+## History
+
+1.The Nationality Act, comprising a total of 20 articles, was formulated and promulgated by the National Government of the Republic of China on February 5, 1929.
+
+2.The complete text of 23 articles was amended and promulgated on February 9, 2000, by Presidential Order (2000) Hua-Zong-(1)-Yi-Zi No. 8900032920. The amendments shall come into force immediately upon promulgation.
+
+3.Article 20 was amended and promulgated on June 20, 2001, by Presidential Order (2001) Hua-Zong-(1)-Yi-Zi No. 9000118960.
+
+4.Articles 3–6 were amended and promulgated, and Article 21 was deleted on June 15, 2005, by Presidential Order Hua-Zong-(1)-Yi-Zi No. 09400088881.
+
+5.Articles 10 and 20 were amended and promulgated on January 27, 2006, by Presidential Order Hua-Zong-(1)-Yi-Zi No. 09500011641.
+
+6.Articles 3, 4, 9, 11, and 19 were amended and promulgated on December 21, 2016, by Presidential Order Hua-Zong-(1)-Yi-Zi No.10500160001.
+
+7.Articles 2, 3, 11, and 23 were amended and promulgated on January 27, 2021, by Presidential Order Hua-Zong-(1)-Yi-Zi No.11000006141. The amendments shall come into force on January 1, 2023.
+
+8.Article 10 was amended and promulgated on December 15, 2021, by Presidential Order Hua-Zong-(1)-Yi-Zi No.11000111441.
+
+9.Articles 4–7, 9, and 20 were amended and promulgated on May 24, 2024, by Presidential Order Hua-Zong-(1)-Yi-Zi No. 11300042371.

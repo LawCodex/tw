@@ -1,0 +1,595 @@
+---
+title: "Marine Pollution Control Act"
+title_zh: "海洋污染防治法"
+identifier: "O0040026"
+type: act
+law_level: "法律"
+category: "行政＞海洋委員會＞海洋資源目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2000-11-01
+last_amended: 2023-05-31
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0040026"
+retrieved: 2026-10-12
+---
+
+# Marine Pollution Control Act
+
+> Translation. The Chinese text ([zh/laws/ocean-affairs-council/O0040026-marine-pollution-control-act.md](../../../zh/laws/ocean-affairs-council/O0040026-marine-pollution-control-act.md)) is authoritative.
+
+## Chapter 1 General Principles
+
+### Article 1
+
+This Act is formulated to control marine pollution, protect the marine environment, maintain the marine ecology, safeguard public health and sustainably use marine resources.
+
+### Article 2
+
+This Act shall apply to the intertidal zones, internal waters, territorial seas, contiguous zones, exclusive economic zones and waters superjacent to the continental shelf under the jurisdiction of the Republic of China (R.O.C.).
+
+This Act shall also apply to those circumstances in which the discharge of hazardous substances in marine areas outside the areas designated in the foregoing paragraph causes pollution within the areas designated in the foregoing paragraph.
+
+### Article 3
+
+The competent authority referred to in this Act is the Ocean Affairs Council, at the central government level, the municipal government in special municipalities and the county or city government in counties or cities.
+
+The enforcement authority referred to in this Act is the Coast Guard Authority.
+
+The assisting enforcement authorities referred to in this Act are the military, customs or other agencies assisting in the performance of interdiction, evidence collection and enforcement.
+
+The central competent authority shall complete the delineation of jurisdictions of the marine area scope of the special municipality, county or city competent authority.
+
+### Article 4
+
+The terms used in this Act are defined as follows.
+
+\1. "Hazardous substance" is a substance designated in accordance with the International Maritime Dangerous Goods Code determined by the United Nations International Maritime Organization or in accordance with Annex III of the International Convention for the Prevention of Pollution from Ships.
+
+\2. "Maritime project" is engagement in natural resource exploration, mining, conveyance, construction, the laying of roads, lines or other infrastructure, repairing, dredging, channel dredging, salvaging, burying, land reclamation, beach nourishment, power generation or other projects within the areas designated in Paragraph 1 of the Article 2.
+
+\3. "Oil" is crude oil, heavy fuel oil, lubricating oil, light fuel oil, kerosene, naphtha , or other oils or mixtures containing oil that have been officially announced by the central competent authority.
+
+\4. "Marine environment quality standards" are target values determined for the purpose of protecting the nation’s marine environment in its entirety.
+
+\5. "Marine facility" is a stationary manmade structure installed by a maritime project.
+
+\6. "Emission" is the discharge, spillage or leakage of wastewater or sewage, oil, waste, hazardous substances or other substances that have been officially announced by the central competent authority.
+
+\7. "Marine environment control standards" are zone and stage target values determined for the purpose of achieving marine environment quality standards.
+
+\8. "Shipwreck" refers to the failure, sinking, grounding, collision, fire, or explosion of a ship or any other unusual accident involving a ship, cargo, crew or passenger.
+
+\9. "Marine dumping" is the dumping of the use of ships, aircraft, marine facilities or other facilities to transport substances for dumping, emission or disposal at sea.
+
+\10. "Polluting act" is an act that, through the direct or indirect introduction of substances or energy into the marine environment, causes or is capable of causing harm to humans, property, natural resources or ecology.
+
+\11. "Marine litter" is any persistent, manufactured or processed solid materials discarded, disposed of or abandoned in the marine and coastal environment.
+
+\12. "Marine incineration" is the use of a ship or marine facility to incinerate oil or other substances.
+
+\13. “Shipowner” is the owner, lessee, agent and operator of a ship.
+
+### Article 5
+
+The enforcement authority shall perform interdiction, collection of evidence or enforcement referral tasks implemented pursuant to this Act.
+
+The competent authority and enforcement authority may request the assistance of enforcement authorities in the performance of tasks designated in the foregoing paragraph.
+
+### Article 6
+
+Competent authorities, enforcement authorities and assisting enforcement authorities may dispatch personnel bearing identification documents to enter ports and other premises and to board ships and marine facilities to inspect or appraise marine pollution matters and order the provision of relevant information. Those being inspected shall not avoid, obstruct, or refuse.
+
+Competent authorities, enforcement authorities and assisting enforcement authorities shall, in those circumstances that involve military secrets, issue orders in conjunction with the local military authority when issuing orders for the provision of information pursuant to the foregoing paragraph.
+
+The central competent authority in conjunction with the Ministry of Defense shall determine regulations for inspections and appraisals of procedures, methods,and other related matters involving military affairs pursuant to Paragraph 1.
+
+### Article 7
+
+Competent authorities and enforcement authorities may designate or commission relevant agencies, organizations or juridical persons organized or groups to perform tasks related to marine pollution control, marine pollution monitoring, marine pollution disposal, marine environment protection and related research and training.
+
+The central competent authority shall publish a National White Paper on marine pollution control, which shall be regularly reviewed and amended in the light of developments at home and abroad.
+
+## Chapter 2 Basic Measures
+
+### Article 8
+
+The central competent authority shall consider marine conditions in the determination of marine environment categories and marine environment quality standards.
+
+To protect the marine environment or meet the needs of the industry competent authority for special marine environments, the central competent authority may, in accordance with marine environment categories, marine environment quality standards and the characteristics of the marine environment, delineate marine control zones, determine marine environment control standards, issue official announcements and perform implementation after the determination of zone implementation plans and pollution control measures based on these zones and standards.
+
+The pollution control measures in the foregoing paragraph shall cover the discharge of pollution, the use of toxicants or chemicals to catch or kill aquatic organisms and other acts that cause marine pollution that the central competent authority has officially announced and prohibited.
+
+### Article 9
+
+Competent authorities shall, in accordance with marine environment categories, install marine environment monitoring stations or facilities in their respective marine jurisdictions, officially publish monitoring results at regular intervals and adopt appropriate control measures. When necessary, each industry competent authority may notice restrict the use of a marine area.
+
+Interfering with or damaging monitoring stations or facilities installed by competent authorities pursuant to the foregoing paragraph shall be prohibited.
+
+All categories of port management authorities and enterprises shall evaluate the use of the port zones under their jurisdiction, conduct water quality and sediment testing in the port zones and adopt measures in accordance with this Act and other related regulations to prevent, eliminate and mitigate pollution in the port zones under their jurisdiction. When necessary, the special municipality, county or city competent authorities and relevant agencies shall cooperate to adopt appropriate control measures.
+
+All categories of port industry competent authorities shall provide guidance for pollution abatement in the port zones under their jurisdiction.
+
+The central competent authority in consultation with each industry competent authority shall determine the marine environment monitoring items, monitoring stations or facility installation standards and sampling analysis methods in Paragraph 1 and the regulations of water quality and sediment testing of all categories of ports and other relevant matters in Paragraph 3.
+
+### Article 10
+
+The Executive Yuan may establish a major marine pollution incident handling task force to handle major marine pollution incidents. The central competent authority may establish a marine pollution incident handling work group to handle general marine pollution incidents.
+
+The central competent authority shall draft major marine pollution emergency response plans for marine pollution in severe circumstances to handle major marine pollution emergencies and shall submit these plans to the Executive Yuan for approval. To deal with marine pollution emergencies within the scope of their jurisdictions, special municipality, county or city competent authorities shall formulate a marine pollution emergency response plan and submit it to the central competent authority for future reference.
+
+The emergency response plans in the foregoing paragraph shall provide for a division of tasks, a notification system, a monitoring system, training, facilities, handling measures and other related matters.
+
+### Article 11
+
+The central competent authority shall levy marine pollution control fees on the following targets:
+
+\1.	Operators who engage in marine dumping with the permission of the central competent authority;
+
+\2.	Importers who receive or transport crude oil or other substances designated publicly by the central competent authority in the intertidal zones, internal waters or territorial waters of the R.O.C.;
+
+\3.	Operators of maritime projects or users of marine facilities up to the scale announced by the central competent authority.
+
+The central competent authority shall, in consultation with relevant government agencies, prescribe the timing of the imposition of the foregoing marine pollution control fees, the items to be levied, the rates to be levied, the payers, the manner of levy, the payment deadlines, the remission and other matters to be observed.
+
+### Article 12
+
+The central competent authority may create a Marine Pollution Control Fund. The sources of the Fund are as follows:
+
+\1.	Marine pollution control fees;
+
+\2.	Income from the reimbursement of emergency measures, clean-up and disposal costs incurred by the relevant government agencies seeking compensation as stipulated in this Act;
+
+\3.	Interests accrued on the Fund;
+
+\4.	Other relevant incomes.
+
+### Article 13
+
+The Marine Pollution Control Fund shall be dedicated exclusively to national marine pollution control, emergency measures, clean-up, disposal and other related marine pollution control work, and it shall be used for the following purposes:
+
+\1.	Costs incurred by the relevant government agencies in adopting emergency measures and performing clean-up and disposal work in the event of pollution of the sea or the threat of pollution of the sea;
+
+\2.	Costs incurred in carrying out marine environmental quality monitoring and damage surveys in the event of marine pollution;
+
+\3.	Costs incurred in purchasing marine pollution control and response equipment and materials;
+
+\4.	Costs incurred by the relevant government agencies in claiming compensation and being involved in litigation under this Act;
+
+\5.	Employment of personnel required to carry out marine pollution control and fee collection work;
+
+\6.	Grants and incentives for marine pollution control research and technology development;
+
+\7.	Other expenses related to marine pollution control work.
+
+### Article 14
+
+The authorities in charge of terrestrial surface water bodies and surface water bodies other than the sea adjacent to the waters specified in Paragraph 1, Article 2 shall adopt measures to prevent, eliminate or reduce the pollution of the sea by waste materials.
+
+### Article 15
+
+Those engaged in oil conveyance, maritime projects, marine dumping, or other activities for which there is a concern of pollution reaching the scale announced by the central competent authority shall first submit an emergency response plan sufficient to prevent and handle marine pollution and a letter of financial guarantee or liability insurance policy for the compensation of pollution damages. They may engage in such activities only after receiving approval from the central competent authority.
+
+The central competent authority shall determine the content and format of the emergency response plan in the foregoing paragraph.
+
+The central competent authority in consultation with the Financial Supervisory Commission shall determine the amount of the letter of financial guarantee or the maximum compensation liability of the liability insurance policy in Paragraph 1.
+
+Competent authorities may demand that the businesses in Paragraph 1 or other marine-related enterprises provide pollution handling equipment and professional technical personnel to assist with handling when an emergency pollution incident occurs in the sea. The marine polluter shall bear responsibility for all necessary expenses. When necessary, the Marine Pollution Control Fund may be used first to pay expenses and subsequently be reimbursed from seeking compensation from the marine polluter.
+
+### Article 16
+
+The marine polluter shall bear responsibility for the clean-up of marine environment pollution. When necessary, the industry competent authority or competent authority may first adopt emergency measures and may perform clean-up and disposal work on behalf of the polluter. The polluter shall bear responsibility for all expenses generated by emergency measures or clean-up and disposal work.
+
+Those that cause the production of pollution due to one of the circumstances in one of the following subparagraphs shall not be punished.
+
+\1. Fleeing a disaster or insuring the safety of a ship, an aircraft, a seawall or another major structure;
+
+\2. Acts involving national defense, natural disasters, war or other acts performed in accordance with regulations or orders;
+
+\3. Acts performed with the permission of the central competent authority to prevent, eliminate or mitigate pollution, protect the environment or to meet special research needs.
+
+The central competent authority shall determine regulations for clean-up and disposal work and other binding matters of marine pollution in Paragraph 1.
+
+### Article 17
+
+Industry competent authorities shall inspect all kinds of marine facilities, fishery facilities and other artificial structures that are permitted to be put in place, laid or deployed within the areas prescribed in Paragraph 1, Article 2, and shall require the formulation and implementation of decommissioning plans.
+
+The industry competent authority may order improvement within a certain time limit for those who fail to implement the decommissioning plan in accordance with the preceding paragraph upon the expiry of the permit or for those who engage in the acts of the preceding paragraph without permission. If the improvement is not effected by the end of the period, the facilities or artificial structures shall be considered marine litter and may be cleaned up and disposed of on behalf of the owner at the owner's expense.
+
+If the owner as described in the preceding paragraph is unknown or cannot be notified, the improvement order, clean-up and disposal shall be carried out by public notice.
+
+## Chapter 3 The Prevention of Pollution from Pollution Sources on Land
+
+### Article 18
+
+Those who fail to receive the permission of the central competent authority may not discharge wastewater or sewage into the following areas adjacent to the sea.
+
+\1. Nature reserves or geoparks;
+
+\2. National parks or national nature parks;
+
+\3. Wildlife preserves or major wildlife habitats;
+
+\4. Aquatic organism propagation and conservation areas;
+
+\5. Other areas that the central competent authority has officially announced as being in need of special protection.
+
+The central competent authority in consultation with the relevant industry competent authorities shall determine regulations for applications for permission, conditions, review procedures, cancellation, a change in the content of discharge permits, the suspension of use of facilities, the maintenance and referencing of discharge records, and other binding matters for discharge permits for wastewater or sewage in the foregoing paragraph.
+
+### Article 19
+
+Those who engage in any of the following acts that result in serious pollution of the sea or threaten to do so shall immediately adopt measures to prevent, eliminate or mitigate such pollution and shall without delay notify the competent authority and the industry competent authority:
+
+\1. Marine discharge;
+
+\2. Coastal discharge;
+
+\3. Transfer, stacking or disposal of waste;
+
+\4. Storage of goods or construction materials from construction sites;
+
+\5. Storage of chemicals;
+
+\6. Transportation of oil or chemicals;
+
+\7. Harbor operations;
+
+\8. Other acts announced by the central competent authority as having the potential to cause pollution.
+
+The competent authority may order the marine polluter in the foregoing paragraph to adopt necessary response measures, and when necessary, the competent authority may directly adopt response measures and performing clean-up and disposal work. The marine polluter at issue shall bear responsibility for all expenses generated by response measures, clean-up and disposal.
+
+## Chapter 4 The Prevention of Pollution from Maritime Projects and Marine Facilities
+
+### Article 20
+
+Those who use marine facilities to engage in the exploration or extraction of oil, the conveyance of oil or chemical substances, or the discharge of wastewater or sewage reaching the scale announced by the central competent authority shall first submit marine pollution control plans that state specifically the contents of marine pollution control tasks, marine monitoring and response measures, and other matters designated by the central competent authority and receive approval from the central competent authority before they may engage in such activities.
+
+Those who have obtained permission from the authority of the foregoing paragraph to engage in the exploration or extraction of oil or the conveyance of oil shall continuously perform marine monitoring and regularly report monitoring records to the competent authority, and shall maintain records of exploration, extraction or conveyance when using marine facility.
+
+### Article 21
+
+Wastewater or sewage, oil, waste, hazardous substances or other polluting substances that have been designated and officially announced by the central competent authority may not be discharged, leaked or dumped into the sea. However, those who receive permission from the central competent authority may discharge oil, wastewater or sewage into the sea. Records of discharges shall be maintained.
+
+The records in the rear section of Paragraph 2 of the foregoing article and in the foregoing paragraph shall be maintained, reported and kept on file for at least ten years pursuant to the regulations of the central competent authority.
+
+The central competent authority in consultation with the industry competent authority shall determine regulations for applications for permission, conditions, review procedures, cancellation, a change in discharge permission, the suspension of use facilities, which shall be filed for future reference, and other binding matters for the discharge of oil, wastewater or sewage into the sea in the proviso in Paragraph 1 of this article.
+
+### Article 22
+
+Those who use marine facilities or engage in maritime projects that cause serious marine pollution or the concern of serious pollution shall promptly adopt measures to prevent, eliminate or mitigate pollution and shall promptly notify the competent authorities and industry competent authorities.
+
+The competent authority may order the marine polluter in the foregoing paragraph to adopt necessary response measures, and when necessary, the competent authority may directly adopt response measures and performing clean-up and disposal work. The marine polluter at issue shall bear responsibility for all expenses generated by response measures, clean-up and disposal.
+
+## Chapter 5 The Prevention of Pollution from the Disposal of Waste at Sea
+
+### Article 23
+
+Those who engage in marine dumping may engage in such activities only after receiving permission from the central competent authority.
+
+The central competent authority in consultation with the industry competent authority shall determine regulations for applications, conditions, review procedures, cancellation, the performance of marine dumping work procedures, changes in permission and other binding matters for the permission in the foregoing paragraph.
+
+### Article 24
+
+The central competent authority shall announce categories A, B and C for the dumping of substances in the sea based on the impact on the marine environment.
+
+Category A substances may not be dumped in the sea. The time period and quantity for dumping and the working procedures of Category B substances shall be permitted by the central competent authority. Category C substances may be dumped only during the time period and within the total quantity limits permitted by the central competent authority.
+
+### Article 25
+
+Marine dumping shall be performed in zones designated by the central competent authority.
+
+The central competent authority shall delineate and officially announce the marine dumping zones in the foregoing paragraph based on marine environment categories, marine environment quality standards and marine water quality conditions.
+
+The managers of ships, aircraft or marine facilities that engage in marine dumping shall maintain marine dumping records and regularly report these records to the central competent authority and accept checking. The inspected person shall not evade, hinder or refuse the inspection.
+
+### Article 26
+
+Those who cause serious marine pollution or the concern of serious pollution due to engagement in marine dumping shall promptly adopt measures to prevent, eliminate or mitigate pollution and shall promptly notify the competent authorities and industry competent authorities.
+
+The competent authority may order the marine polluter in the foregoing paragraph to adopt necessary response measures, and when necessary, the competent authority may directly adopt response measures and performing clean-up and disposal work. The marine polluter at issue shall bear responsibility for all expenses generated by response measures, clean-up and disposal.
+
+### Article 27
+
+Where appropriate, with regard to the dumping of ships, aircraft, marine facilities and other manmade structures in the sea, the provisions of Articles 23 to 26 shall apply.
+
+With regard to the needs of the fishing industry, an application for permission from the central fishery competent authority is required before the construction of artificial fishing reefs or other fishery facilities. The central competent authority in conjunction with the central fishery competent authorities and central shipping administration authority shall determine regulations for the applications, conditions, review procedures, cancellation of construction, inspection of facilities, management, pollution control, and other binding matters for the permission.
+
+### Article 28
+
+Marine incineration at sea shall not be carried out except in cases of emergency posing a serious threat to human health, personal safety or the marine environment and with the consent of the central competent authority.
+
+## Chapter 6 The Prevention of th Pollution of the Sea by Ships
+
+### Article 29
+
+When necessary, the port management authority or enforcement authority may, in conjunction with the competent authority, examine the marine pollution prevention certificates or verification documents, Shipboard Oil Pollution Emergency Plan, operation manuals, Oil Record Book, Cargo Record Book, Garbage Record Book and other designated documents of each authority. The inspected person shall not evade, hinder or refuse the inspection.
+
+### Article 30
+
+The wastewater or sewage, oil, waste and other polluting substances of a ship shall remain on board, be emitted into onshore reception facilities with the exception of those circumstances in which they may in accordance with the law be emitted into the sea, and shall be cleared and disposed of in accordance with the Waste Disposal Act and other relevant acts and regulations.
+
+All categories of port management authorities and enterprises shall install reception facilities for the pollutants in the foregoing paragraph and perform necessary disposal work depending on the needs of management and may collect handling expenses. Port management authorities and enterprises shall draft collection standards for handling expenses and submit them to the industry competent authority for approval.
+
+All categories of port management authorities and enterprises shall keep records of and retain the quantities of pollutants received and disposed of in the ports under their jurisdiction, and they shall report the previous year’s records to the central competent authority by April 15 annually.
+
+### Article 31
+
+Ships shall be equipped with pollution prevention equipment and may not pollute the sea.
+
+Ships loading, unloading or transporting oil, chemical goods or other cargo that might cause pollution of the sea shall adopt appropriate emission prevention measures.
+
+### Article 32
+
+For those circumstances in which the construction, repair, demolition, salvage, or tank or cargo hold cleaning and washing of a ship cause marine pollution or the concern of pollution, the following measures shall be adopted, and polluting substances shall be cleaned up.
+
+\1. Appropriate equipment for the containment or removal of floating oil on the surface of the waters surrounding work areas shall be set up.
+
+\2. Appropriate reception facilities in work areas for waste oils, wastewater or sewage, waste and other hazardous substances shall be provided.
+
+\3. The emission into the sea of oils, waste oils, wastewater or sewage, waste, residue and hazardous substances shall be provided.
+
+\4. Other measures designated by the central competent authority shall be adopted.
+
+### Article 33
+
+When a ship suffers a shipwreck or another accident that causes marine pollution or the concern of pollution, the shipmaster and shipowner shall promptly adopt measures to prevent, eliminate or mitigate pollution and shall promptly notify the shipping administration authority , port management authority, enterprises and special municipality, county or city competent authority.
+
+For the circumstance in the foregoing paragraph, the competent authority may order the shipmaster and shipowner to adopt necessary response and handling measures, and when necessary, the competent authority may directly adopt handling response measures. The owner of the ship at issue shall bear responsibility for all expenses generated by response and handling measures.
+
+### Article 34
+
+The competent authority may direct a foreign flag ship to berth at a port in the R.O.C. and prohibit it from sailing, setting sail or requesting its repositioning until it has paid off the fine or provided sufficient collateral when a foreign ship carrier that has not established a branch office by law in the R.O.C. has been fined for violating this Act. The same shall apply to any ships that, after setting sail, re-enter the territorial waters of the R.O.C.
+
+For the circumstance in the foregoing paragraph, the port management authority and enterprises shall assist in the planning of the berth, the berthing of the ship and the forbidding of the ship's departure from the port. Where necessary, the competent authority may instruct the executive agency to compel the ship to moor in a designated seat.
+
+## Chapter 7 Liability and Remedy
+
+### Article 35
+
+For the costs incurred in adopting emergency measures and performing clean-up and disposal work, relevant government agencies may claim compensation under this Act, including the following:
+
+\1.	The costs of taking measures to prevent, monitor, remove or mitigate marine pollution;
+
+\2.	The costs of carrying out marine or coastal environment improvement and monitoring;
+
+\3.	The costs of conducting marine quality monitoring and damage surveys in the event of marine pollution;
+
+\4.	The costs of sampling and analyzing oil products and pollutants;
+
+\5.	The costs of cleaning up and disposing of marine litter arising from marine pollution incidents;
+
+\6.	The review, consultation and travel expenses of domestic and overseas experts;
+
+\7.	The costs of overtime, travel, meals, postage, fuel, hire of vehicles, and rental of accommodation, etc., for personnel carrying out emergency measures, clean-up and disposal work.
+
+### Article 36
+
+The shipowner shall bear liability for compensation for the damage caused by the pollution of the sea by a ship.
+
+The shipowner of a ship with a gross tonnage of over 400 tons or of an oil tanker or chemical tanker with a gross tonnage of over 150 tons shall purchase liability insurance or provide a guarantee based on the gross tonnage of the ship and may neither suspend nor terminate the insurance or guarantee.
+
+The central competent authority in consultation with the Financial Supervisory Commission shall determine the amount of the liability insurance coverage or guarantee in the foregoing paragraph.
+
+### Article 37
+
+Claimants for compensation for marine pollution damage may seek compensation directly from the liability insurer or seek to secure the guarantee as compensation.
+
+### Article 38
+
+The competent authority may order a foreign flag ship that has not established a branch office by law in the R.O.C. to berth at a port in the nation, prohibit it from sailing, setting sail or requesting its repositioning, and forbid the departure of the owner and important crew of the ship in case of default in or in case of nonperformance of the liability for damages and costs arising from the violation of this Act. The same shall apply to any ships that, after setting sail, re-enter the territorial seas of the R.O.C., except where sufficient collateral has been provided.
+
+For the circumstance in the foregoing paragraph, the port management authority and enterprises shall assist in the planning of the berth, the berthing of the ship and the forbidding of the ship's departure from the port. Where necessary, the competent authority may instruct the executive agency to compel the ship to moor in a designated seat.
+
+Where the amount of guarantee provided under the proviso set out in Paragraph 1 is not sufficient to cover the costs incurred by the relevant government agencies in adopting emergency measures and performing clean-up and disposal work, as well as the amount of damages, the shipowner shall replenish the collateral within the time limit notified by the competent authority.
+
+### Article 39
+
+The competent authority and each industry competent authority may seek compensation for all expenses generated by emergency measures, clean-up and disposal set forth in this Act. The right to seek compensation for expenses shall take precedence over collateral rights, retention rights and creditor rights.
+
+To secure the creditor rights of compensation for damage, the compensation sought by the competent authority and each industry competent authority for all expenses generated by emergency measures, clean-up and disposal, the fines for those fined pursuant to this Act, and the benefits returning from demands of Article 63, the competent authority and each industry competent authority may enforce provisional seizure of debtor property to the court or the administrative court.
+
+## Chapter 8 Penal Provisions
+
+### Article 40
+
+Those who violate the preceding paragraph of Article 24, Paragraph 2 or Article 27, Paragraph 1, applied to the preceding paragraph of Article 24, Paragraph 2, with regard to dumping the Category A substances announced in Paragraph 1 of Article 24 or Article 27, Paragraph 1, applied to Article 24, Paragraph 1 in the sea or who engage in marine incineration of hazardous substances in violation of the provisions of Article 28 shall be punished by a maximum of three years imprisonment, and may be fined NT$1 million to NT$5 million..
+
+If serious marine pollution results from the commission of an offense specified in the preceding paragraph, the punishment shall be a maximum of seven years imprisonment, and a fine of NT$30 million to NT$100 million may be imposed.
+
+An attempt to commit a crime outlined in Paragraph 1 of this article shall be punishable hereunder.
+
+### Article 41
+
+Those who violate Article 18, Paragraph 1 and fail to receive permission to discharge wastewater or sewage into areas adjacent to the sea shall be punished by a maximum of five years imprisonment and may be fined a maximum of NT$100 million.
+
+### Article 42
+
+Those who violate Article 20, Paragraph 1 and fail to receive permission to use marine facilities to engage in the exploration or extraction of oil, the conveyance of oil or chemical substances, or the discharge of wastewater or sewage shall be punished by a maximum of five years imprisonment and may be fined NT$300,000 to NT$30 million.
+
+### Article 43
+
+Those who have application or reporting obligations pursuant to this Act and who knowingly apply or report false information or keep false records of their operations shall be punished by a maximum of three years imprisonment, detention and/or a fine of NT$300,000 to NT$5million.
+
+### Article 44
+
+Those who fail to comply with an order to suspend work issued by the competent authority pursuant to Article 48, Article 50 or Article 55 shall be punished by a maximum of two years imprisonment, detention and/or a fine of NT$500,000 to NT$10 million.
+
+### Article 45
+
+The statutory responsible person of a juridical person or supervisor who violated Article 40 to Article 44 shall be subject to the punishment prescribed for such an offense by increasing the penalty up to one half.
+
+For those circumstances in which a statutory responsible person of a juridical person or an agent, employee or other working personnel of a juridical person or natural person, due to the performance of business activities violates, Article 40 to Article 44, in addition to the perpetrator being punished pursuant to the regulations of each article violated, said juridical person or natural person shall also be fined up to pursuant to the regulations of each article violated.
+
+### Article 46
+
+Employers may not discharge, transfer, reduce in wage or otherwise taken any adverse sanction against its dedicated enterprise or an employee for disclosing an action that violates this Act to the competent authority or judicial authority, becomes a witness in a litigation process or refuses to participate in an action that violates this Act.
+
+Adverse sanction of employers as prescribed in the preceding paragraph shall be null and void.
+
+If an employee or stakeholder is penalized by the employer for a reason prescribed in Paragraph 1, the employer has the duty to prove whether the violation is true.
+
+If an employee or stakeholder who participated in actions violating the provisions of this Act and under criminal responsibility discloses such action to the competent authority or judicial authority, assisting the authority to uncover the violation of the employer, the penalty for this person shall be reduced or exempted.
+
+### Article 47
+
+Those who violate Article 15, Paragraph 1 and engage in oil conveyance, maritime projects, marine dumping or other activities that might cause marine pollution without a permit shall be fined NT$300,000 to NT$100 million.
+
+Those who fail to assist in the handling of an emergency pollution incident pursuant to Article 15, Paragraph 4 shall be fined NT$500,000 to NT$50 million.
+
+### Article 48
+
+Those who violate Article 31, Paragraph 2 or Article 32 shall be fined according to the following amount based on the size of the ship and may be ordered to make improvements within a limited time period. Those who fail to make improvements by the deadline may be fined per violation. In severe circumstances, orders may be issued for the suspension of work.
+
+\1. Ships with a gross tonnage of over 400 tons and oil tankers or chemical tankers with a gross tonnage of over 150 tons: NT$1 million to NT$30 million.
+
+\2. Ships that do not reach the scale of the preceding subparagraph: NT$300,000 to NT$3 million.
+
+### Article 49
+
+Those who violate Article 38 Paragraph 3 and fail to supplement the collateral within the time limit notified by the competent authority shall be fined NT$600,000 to NT$30 million and may be ordered to do so by a deadline, failing which, the penalty may be imposed per violation.
+
+### Article 50
+
+Those in one of the following circumstances shall be fined NT$300,000 to NT$30 million and may be ordered to make improvements within a limited time period. Those who fail to make improvements by the deadline may be fined per violation. In severe circumstances, orders may be issued for the suspension of work.
+
+\1. The failure to adopt measures to prevent, eliminate or mitigate pollution pursuant to Article 19, Paragraph 1, Article 22, Paragraph 1, Article 26, Paragraph 1, Article 27, Paragraph 1 applied to Article 26, Paragraph 1 or Article 33, Paragraph 1.
+
+\2. The failure to comply with an order of the competent authority pursuant to Article 19, Paragraph 2, Article 22, Paragraph 2, Article 26, Paragraph 2, Article 27, applied to Article 26, Paragraph 2 or Article 33, Paragraph 2.
+
+### Article 51
+
+Those in one of the following circumstances shall be fined NT$300,000 to NT$30 million.
+
+\1. The violation of Article 23, Paragraph 1 or Article 27 Paragraph 1 applied to Article 23, Paragraph 1, dumping Category B or C substances announced in accordance with Article 24, Paragraph 1 into the sea without permission.
+
+\2. The violation of Article 23, Paragraph 2 or Article 27, Paragraph 1 applied to Article 23, Paragraph 2 regarding marine dumping working procedures or the contents of the marine dumping permit.
+
+\3. The violation of Article 25, Paragraph 1 or Article 27, Paragraph 1 applied to Article 25, Paragraph 1 implementing marine dumping in nondesignated zones.
+
+### Article 52
+
+Those who violate Article 30, Paragraph 1 and emit wastewater or sewage, oil, waste and other polluting substances into the sea shall be fined according to the following amount based on the size of the ship and may be ordered to make improvements within a limited time period. Those who fail to make improvements by the deadline may be fined per violation.
+
+\1. Ships with a gross tonnage of over 400 tons and oil tankers or chemical tankers with a gross tonnage of over 150 tons: NT$300,000 to NT$30 million.
+
+\2. Ships that do not reach the scale of the preceding subparagraph: NT$30,000 to NT$3 million.
+
+### Article 53
+
+Those who violate pollution control measures that have been officially announced pursuant to Article 8, Paragraph 2 or violate Article 21, Paragraph 1 shall be fined NT$200,000 to NT$20 million and may be ordered to make improvements within a limited time period. Those who fail to make improvements by the deadline may be fined per violation.
+
+### Article 54
+
+Those in one of the following circumstances shall be fined NT$100,000 to NT$10 million and shall be ordered to clean up pollution. Those who fail to clean up pollution by the deadline shall be fined per violation.
+
+\1. Those who fail to clean up pollution pursuant to the preceding section of Article 16, Paragraph 1.
+
+\2. The violation of engaging in marine incineration pursuant to Article 28.
+
+### Article 55
+
+Those in one of the following circumstances shall be fined NT$100,000 to NT$10 million and shall be ordered to make improvements within a limited time period. Those who fail to make improvements by the deadline shall be fined per violation. In severe circumstances, orders may be issued for the suspension of work.
+
+\1. Those who fail to perform the permitted emergency response plan pursuant to Article 15, Paragraph 1.
+
+\2. The violation of the provisions regarding the methods of marine pollution clean-up and disposal work in the regulations determined pursuant to Article 16, Paragraph 3.
+
+\3. The violation of discharging wastewater or sewage into areas adjacent to the sea without permission pursuant to Article 18, Paragraph 1.
+
+\4. The violation of the provisions regarding discharge permits with regard to a change in contents, the suspension of facility use, and the maintenance or referencing of discharge records in the regulations determined pursuant to Article 18, Paragraph 2.
+
+\5. Those who fail to perform the permitted marine pollution control plans pursuant to Article 20, Paragraph 1.
+
+\6. The violation of the provisions regarding discharge permits with regard to a change in contents or a referencing of suspension of facility use in the regulations determined pursuant to Article 21, Paragraph 3.
+
+\7. The violation of the provisions regarding construction, facility checks, management or pollution controls in the regulations determined pursuant to Article 27, Paragraph 2
+
+### Article 56
+
+Those who violate the regulations pursuant to Article 36, Paragraph 2 in regard to failing to purchase liability insurance or provide a guarantee based on the gross tonnage of the ship, or suspending or terminating insurance or guarantee shall be fined NT$600,000 to NT$3 million.
+
+### Article 57
+
+Those who fail to issue notifications pursuant to Article 19, Paragraph 1, Article 22, Paragraph 1, Article 26, Paragraph 1, Article 27, Paragraph 1 applied to Article 26, Paragraph 1 or Article 33, Paragraph 1 shall be fined NT$300,000 to NT$1.5 million.
+
+### Article 58
+
+Those who evade, obstruct or refuse an inspection, appraisal, order, check or examination performed pursuant to Article 6, Paragraph 1, Article 25 Paragraph 3, Article 27 Paragraph 1 applied to Article 25, Paragraph 3 or Article 29 shall be fined NT$300,000 to NT$1.5 million, and may be fined per violation and subject to the compulsory enforcement of the inspection, appraisal, check or examination.
+
+### Article 59
+
+Those who violate the official announcement of the restriction on the use of a marine area pursuant to the rear section of Article 9, Paragraph 1 or those who violate the same Article, Paragraph 2 by interfering with or damaging a monitoring station or facility shall be fined NT$200,000 to NT$1 million and may be ordered to make improvements within a limited time period. Those who fail to make improvements by the deadline may be fined per violation.
+
+### Article 60
+
+Those in one of the following circumstances shall be fined NT$200,000 to NT$1 million and may be ordered to make improvements within a limited time period. Those who fail to make improvements by the deadline may be fined per violation.
+
+\1. The failure to monitor or report pursuant to the front section of Article 20, Paragraph 2.
+
+\2. The failure to maintain or report records pursuant to the rear section of Article 20, Paragraph 2 or Article 21, Paragraph 2.
+
+\3. The failure to maintain or report records pursuant to the front section of Article 25, Paragraph 3 or Article 27, Paragraph 1 applied to the front section of Article 25, Paragraph 3.
+
+### Article 61
+
+Those who fail to pay fees within the limited time period pursuant to the regulations of Article 11, Paragraph 2 shall pay, in addition to said fees, interest that shall accrue daily based on the fixed annual interest rate for a one-year time deposit with the Directorate General of the Postal Remittances and Savings Bank on the day of the payment deadline. Those who have still failed to make payments 90 days after the payment deadline shall be fined NT$6,000 to NT$300,000.
+
+### Article 62
+
+The amount of fines for those fined pursuant to this Act shall be determined in accordance with the pollution characteristics and the circumstances of the violation.
+
+The central competent authority shall determine the fine determination criteria in the foregoing paragraph.
+
+### Article 63
+
+For those who benefited from violating this Act, apart from being fined certain amounts pursuant to the regulations of this Act, the fine may be increased to the extent appropriate within the scope of the benefit gained.
+
+A person who, having made another person liable for penalty in consequence of an act in breach of duty under administrative law committed by him or her for the benefit of said person, has received no penalty him- or herself although he or she has gained benefits in property as a result of such act may be demanded to have such benefits in property returned to a certain extent within the scope of the value of the benefits that he or she has gained.
+
+If a person is liable for penalty by reason of his or her commission of an act in breach of duty under administrative law but another person who, although he or she has gained benefits in property as a result of such act, has received no penalty therefor, the latter may be demanded to have such benefits in property returned to a certain extent within the scope of the value of the benefits that he or she has gained.
+
+The demand for returning of benefits under the three preceding paragraphs shall be made in the form of an administrative disposition to be delivered by the competent agency imposing the sanction. The benefit mentioned before must include conspicuous benefits and inconspicuous benefits. Inconspicuous benefits are the costs that should have been incurred but were avoided. The central competent authority shall determine the method to calculate the amount of the returning benefit.
+
+### Article 64
+
+The public may address detailed facts or submit proof to inform the competent authority.
+
+If the competent authority or enforcement authority verifies that the information is true and impose fines, as the fines reach specific amounts, the authority may allot a specific percentage of the actual collected fines as a reward for the informants.
+
+The competent authority shall keep the identity of the informant confidential.
+
+The regulations governing the jurisdiction of the complaints received by the competent authority, the processing time period, confidentiality, the reward to informant and other matters to be complied with mentioned in the three preceding paragraphs shall be prescribed by the central competent authority.
+
+## Chapter 9 Supplementary Provisions
+
+### Article 65
+
+Competent authorities shall collect such official fees as review fees and certificate fees for the review of, permitting for and issuance of permits for all applications accepted pursuant to this Act. The central competent authority in consultation with the relevant authorities shall determine the collection regulations for fees.
+
+### Article 66
+
+When a perpetrator violates this Act or related orders determined pursuant to the authorization of this Act and the competent authority is negligent in enforcement, victims or public interest groups may notify the competent authority in writing of the details of the negligent enforcement. For those competent authorities that have still failed to carry out enforcement in accordance with the law within sixty days of the receipt of the written notification, the victims or public interest groups may name the competent authority at issue as a defendant and directly file a lawsuit to an administrative court based on the negligent behavior of the competent authority in fulfilling its enforcement duties to seek a ruling ordering the competent authority to carry out enforcement.
+
+When issuing a verdict on the lawsuit in the foregoing paragraph, the administrative court pursuant to its authority may order the defendant competent authority to pay the appropriate lawyer fees, detection and appraisal fees and other litigation costs to plaintiffs who have made specific contributions to the prevention of marine pollution.
+
+### Article 67
+
+For matters that involve international transactions, the central competent authority may adopt and implement the rules, regulations, guidelines, standards, recommendations and programs set forth under the relevant international conventions or agreements and their protocols.
+
+### Article 68
+
+The central competent authority shall determine the enforcement rules of this Act.
+
+### Article 69
+
+This Act shall take effect on the date of promulgation, except for the effect date of Article 11 and Article 17, which is to be decided by the Executive Yuan.
+
+## History
+
+1.Promulgated by presidential order Tzong-Tung-Hwa-Tzong-1-Yi-Tzu No. 8900260410 on November 1, 2000.
+
+2.Revisions to Articles 13, and 33 promulgated by Presidential Order Tzong-Tung-Hwa-Tzong-1-Yi-Tzu No. 10300085201 on June 4, 2014.
+
+3.Total 69 Article were amended and promulgated by Presidential Order Hua Zong Yi.jing.Zi No. 11200045451 on 31 May 2023, These amendments shall take effect from the date of promulgation, with the exception of Articles 11 and 17, for which the Executive Yuan shall set the date that it takes effect.

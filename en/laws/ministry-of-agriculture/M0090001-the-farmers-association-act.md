@@ -1,0 +1,831 @@
+---
+title: "The Farmers Association Act"
+title_zh: "農會法"
+identifier: "M0090001"
+type: act
+law_level: "法律"
+category: "行政＞農業部＞農民輔導目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1930-12-30
+last_amended: 2021-02-03
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0090001"
+retrieved: 2026-10-12
+---
+
+# The Farmers Association Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-agriculture/M0090001-the-farmers-association-act.md](../../../zh/laws/ministry-of-agriculture/M0090001-the-farmers-association-act.md)) is authoritative.
+
+## Chapter 1: General Provisions
+
+### Article 1
+
+A Farmers’ Association shall operate for the purposes of safeguarding farmers’ rights and interests, enhancing farmers’ knowledge and skills, boosting the modernization of agriculture, increasing crop yields, improving farmers’ livelihood, and developing the rural economy.
+
+### Article 2
+
+A Farmers’ Association is a juridical person.
+
+### Article 3
+
+The competent authorities for Farmers’ Associations are the Ministry of Agriculture at the central level, municipal governments at the special municipality level, and county (city) governments at the county (city) level. However, the business operations of Farmers’ Associations shall be subject to the guidance and supervision of the respective competent authorities.
+
+## Chapter 2: Tasks
+
+### Article 4
+
+The tasks of a Farmers’ Association are as follows:
+
+1.Safeguarding farmers’ rights and interests, disseminating information on farming-related laws and regulations, and mediating farming-related disputes.
+
+2.Rendering assistance in improvement of land and farm water conservancy, soil and water conservation, and forest development.
+
+3.Promoting superior seeds and fertilizers.
+
+4.Rendering instruction and demonstration of farming production, propagating superior crop varieties, and enhancing the management of specialized agricultural zones.
+
+5.Handling matters related to awards for agricultural extension, training, and production.
+
+6.Conducting matters related to farming mechanization and improvement of labor efficiency.
+
+7.Guiding and promoting joint operations, commissioned operations, development of family farms, and contract farming services.
+
+8.Marketing, transporting, warehousing, processing, manufacturing, exporting and importing agricultural and livestock products, and operating related wholesale and retail markets.
+
+9.Importing, exporting, processing, manufacturing, allocating and selling materials for farming production, and supplying and marketing daily necessities to members.
+
+10.Operating agricultural warehouses and businesses for members’ common utilization.
+
+11.Providing financial services for members.
+
+12.Accepting entrustment to conduct agricultural insurance services.
+
+13.Accepting entrustment to assist farmers’ insurance affairs and farmhouse construction.
+
+14.Engaging in rural cooperative and social service businesses.
+
+15.Promoting rural side occupations and rural industries.
+
+16.Providing cultural, medical & health, welfare, and relief services in rural areas.
+
+17.Improving farmland utilization.
+
+18.Engaging in the prevention and relief of agricultural disasters.
+
+19.Acting as an agent for the public treasury and accepting assignments entrusted by the government or public/private organizations.
+
+20.Operating agricultural tourism and rural leisure businesses.
+
+21.Handling affairs as specially approved by the competent authorities.
+
+Tax exemptions for business conducted by Farmers’ Associations pursuant to the preceding paragraph shall be subject to the relevant provisions of the Agricultural Development Act and the Cooperatives Act. The scope of tax exemption shall be determined by the Executive Yuan.
+
+A Farmers’ Association shall include the undertaking of the tasks prescribed in Paragraph 1 in its annual plans
+
+### Article 5
+
+For conducting business listed in the preceding article, a Farmers’ Association at any level may, with approval from the competent authority, establish a joint management organization to conduct the business jointly, and may thereby conduct transactions directly with individual members. Such joint management organization will be a juridical person, the organizational and operational regulations of which shall be established by the central competent authority.
+
+A Farmers’ Association shall establish a credit department to conduct financial services for its members. Except as otherwise provided for in this Act, the credit department shall be governed by the central competent authorities in accordance with the relevant provisions of the Banking Act. Subject to approval from the central competent authorities, the credit department of a Farmers’ Association may accept deposits from non-members.
+
+Approvals for the establishment and discontinuation of a Farmers’ Association credit department and its branches, suspension of operations, resumption of business and reorganization, standards for equipment and personnel, professional qualifications of directors, the scope and limitations of business operations, internal financing rules, various risk control ratios, and the use of surplus funds shall be governed by regulations established by the respective central competent authorities.
+
+The credit department of a Farmers’ Association shall establish an internal auditing system, and the regulations for its implementation shall be established by the relevant central competent authority.
+
+Agricultural banks shall be responsible for giving guidance on the operations of Farmers’ Association credit departments and for facilitating their funding. Regulations thereon shall be established by the relevant central competent authority in consultation with the Central Bank.
+
+Regulations on the handling of overdue loans, accounts receivable, and non-performing loans by Farmers’ Association credit departments shall be established by the relevant central competent authority.
+
+A Farmers’ Association may establish an insurance department to accept commissions for handling agricultural insurance business and to assist in matters related to insurance for farmers.
+
+To conduct the business referred to in the preceding Article, five or more Farmers’ Associations at any level may jointly invest in the formation of a company limited by shares. If such investment constitutes a major investment, it shall not be subject to the limitation prescribed in Paragraph 3 of Article 128 of the Company Act. Regulations governing review of the contributions or investments therein shall be prescribed by the relevant central competent authority.
+
+## Chapter 3: Establishment and Merger
+
+### Article 6
+
+Farmers’ Associations are divided into three levels as follows:
+
+1.Township (including urban and rural township), county-administered city, and district Farmers’ Associations.
+
+2.County-level city and special municipality Farmers’ Associations.
+
+3.A National Farmers’ Association.
+
+After the amendment of this Act comes into force on January 19, 2012, the Provincial, special municipality, and county (city) Farmers’ Associations shall promptly establish a National Farmers’ Association in accordance with the provisions of this Act. Once the National Farmers’ Association is established, the Provincial Farmers’ Association shall be merged into it.
+
+Before the National Farmers’ Association is established, the superior Farmers’ Association of county (city) Farmers’ Associations is the Provincial Farmers’ Association.
+
+### Article 6-1
+
+At or below the township/city/district level, farming task forces may be established in accordance with actual needs to serve as grassroots units for implementing Farmers’ Association operations. When necessary, these may also be divided into work teams.
+
+### Article 7
+
+A Farmers’ Association at any level shall have its administrative district as its organizational district, and its name shall be prefixed with the name of that district. As a rule, only one Farmers’ Association may be organized within one such district. However, in accordance with actual need, the central competent authority may order that district Farmers’ Associations within the same special municipality merge with the special municipality Farmers’ Association, or that township/city/district Farmers’ Associations within a county/city merge with the county/city Farmers’ Association, or that several township/city/district Farmers’ Associations merge to form a Farmers’ Association, the name of which shall be decided by the competent authority.
+
+The premises of a Farmers’ Association, unless otherwise approved, shall be located in the same place as the corresponding level of government and township /city/district office is located.
+
+### Article 7-1
+
+A township/city/district Farmers’ Association or county (city) Farmers’ Association that was established prior to the county (city) restructuring as a special municipality or merging with a special municipality or other county (city) to restructure as a special municipality on December 25, 2010, shall before June 25, 2012 proceed in the following manner:
+
+1.Where the county (city) was restructured as a special municipality: County (city) Farmers’ Associations and township (city) Farmers’ Associations that have not changed their organizational district shall be directly renamed as special municipality Farmers’ Associations and district Farmers’ Associations.
+
+2.Where the county (city) merged with a special municipality or another county (city) to restructure as a special municipality: A Farmers’ Association with lower-level Farmers’ Associations as its members shall reorganize into a special municipality Farmers’ Association; a primary-level Farmers’ Association which has not changed its organizational district shall be renamed as a district Farmers’ Association.
+
+A county (city) Farmers’ Association that fails to proceed as prescribed in Subparagraph 2 of the preceding paragraph shall be ordered to merge by the competent authority of the special municipality.
+
+Where a Farmers’ Association proceeds as prescribed in Paragraph 1, the term of the originally appointed or elected personnel may continue until the end of their current term.
+
+A Farmers’ Association renamed as a district Farmers’ Association in accordance with Paragraph 1 Subparagraph 2 may keep the same number of directors and supervisors as it had before the renaming.
+
+After the amended provisions of this Act take effect on January 19, 2012, the next term of the elected personnel of Kinmen County Farmers’ Association and Lienchiang County Farmers’ Association shall be extended for one year.
+
+### Article 8
+
+When a township, city or district has at least fifty individuals eligible for Farmers’ Association membership, they may initiate the organization of a primary-level Farmers’ Association.
+
+A township, city or district in which three or more Farmers’ Associations have been established, or that has received approval from the central competent authority, may organize a superior Farmers’ Association.
+
+The National Farmers’ Association shall be jointly initiated and organized by the Provincial Farmers’ Association, special municipality Farmers’ Associations, and county (city) Farmers’ Associations.
+
+A lower-level Farmers’ Association shall be a member of its superior Farmers’ Association, and shall receive guidance therefrom. Regulations therefor shall be established by the central competent authority.
+
+### Article 9
+
+Initiating the formation of a Farmers’ Association shall be subject to the approval of the competent authority before convening a meeting of the initiators, at which preparatory members shall be appointed to form a preparatory committee.
+
+During the preparation and establishment period, the initiators shall apply to the competent authority to assign personnel to guide and supervise elections and other related procedures.
+
+### Article 10
+
+Within seven days after the general meeting for its establishment, a Farmers’ Association shall submit its articles of association, list of members (representatives), and resumes of directors and supervisors to the competent authority for issuance of its registration certificate and official seal.
+
+### Article 11
+
+The articles of association of a Farmers’ Association shall specify the following:
+
+1.Name.
+
+2.Purposes.
+
+3.District.
+
+4.Address.
+
+5.Tasks.
+
+6.Organization.
+
+7.Membership admission, withdrawal, and expulsion.
+
+8.The rights and obligations of members.
+
+9.The number, authority, term, election, and removal of member representatives, directors, and supervisors.
+
+\10. The appointment, dismissal, and duties of the general manager.
+
+11.Meetings.
+
+12.Membership admission fees and membership dues.
+
+13.Funds and accounting.
+
+14.Procedures for amending the articles of association.
+
+### Article 11-1
+
+Farmers’ Associations may, after jointly applying to and receiving approval from the competent authority of the special municipality or county (city), proceed with a merger in the following ways:
+
+1.All township/city/district Farmers’ Associations within a special municipality or county (city) merging with the special municipality or county (city) Farmers’ Association to form a single Farmers’ Association.
+
+2.Two or more township/city/district Farmers’ Associations within a special municipality or county (city) merging to form a single Farmers’ Association.
+
+A Farmers’ Association shall complete the re-election of elected personnel and the reappointment of a general manager within six months after receiving approval from the competent authority of the special municipality or county (city) as referred to in the preceding paragraph. Their term of office or appointment shall last until the expiration of the current term.
+
+### Article 11-2
+
+Before applying to merge under the provisions of Paragraph 1 of the preceding Article, the Farmers’ Associations shall jointly form a merger preparation committee to produce a merger plan and agreement, which, after being be submitted to their respective boards of directors for review, and along with their respective balance sheets, profit and loss statements, income and expenditure calculation statements, profit and loss allocation statements, cash flow statements, and property inventories, duly audited and certified by CPAs and inspected by their boards of supervisors, shall be submitted to their respective General Assemblies of Members (Representatives) for a resolution as prescribed in Article 37.
+
+The merger plan and agreement referred to in the preceding paragraph shall state the following particulars:
+
+1.The merger plan: To include the method of merger, economic benefit assessment, an overview of the organizational district after the merger, a business development plan, financial forecasts for the next three years, the expected progress, and a feasibility analysis.
+
+2.The merger agreement:
+
+(1)The names of each Farmers’ Association before the merger, the name of the Farmers’ Association after the merger, and the organizational district.
+
+(2)The evaluation of the assets and liabilities of the Farmers’ Association.
+
+(3)Provisions for protecting the rights and interests of the Farmers’ Association members, numerical allocation of elected personnel, and handling the rights and interests of appointed and hired personnel.
+
+(4)The articles of association for the Farmers’ Association after the merger.
+
+When a resolution as referred to in Paragraph 1 is made by a General Assembly of Members (Representatives), the Farmers’ Association shall, within ten days after the resolution is passed, publicly announce the content of the resolution and the particulars required to be stated in the merger agreement, and shall place the announcement thereof at the Farmers’ Association and all of its offices for at least seven consecutive days, and shall also place the announcement thereof in newspapers and on a website or websites designated by the competent authority of the special municipality or county (city) for at least five consecutive days. The announcement shall specify a period of not less than thirty days for objections. Members who disagree with the merger must submit a written objection to the Farmers’ Association within the designated period. If objections are raised by one-third or more of the total members, the original resolution shall become invalid. Members who do not raise objections within the designated period shall be deemed to have consented.
+
+Within ten days after the adoption of a resolution as referred to in Paragraph 1, the Farmers’ Association shall notify creditors in writing of the content of the resolution and the particulars required to be stated in the merger agreement. The notification shall state that creditors may submit written objections within a specified period of not less than thirty days, claiming that the merger would harm their rights and interests.
+
+If the Farmers’ Association fails to fulfill the requirements for period and content of public announcement as specified in Paragraph 3, or fails to fulfill the requirements for period, method, and content of notification to creditors as specified in the preceding paragraph, or fails to settle or provide appropriate security for the claims of creditors who raised objections within the specified period as stipulated in the preceding paragraph, the merger shall not be effective against such creditors.
+
+### Article 11-3
+
+When a Farmers’ Association submits a merger application to the competent authority of a special municipality or county (city) in accordance with Paragraph 1 of Article 11-1, it shall append the following documents:
+
+1.The merger plan and merger agreement.
+
+2.The minutes of its General Assembly of Members (Representatives).
+
+3.Proof that the content of the resolution and the particulars required to be stated in the merger agreement have been publicly announced, documentation of notifications, and the handling of objections, as stipulated in Paragraphs 3 and 4 of the preceding Article.
+
+4.A list of members.
+
+5.Its balance sheet, profit and loss statement, income and expenditure statement, profit and loss appropriation account, cash flow statement, and pro forma consolidated financial statements, audited and certified by a CPA.
+
+6.Other documents as required by the special municipality or county (city) competent authorities.
+
+### Article 11-4
+
+After the merger, the newly merged Farmers’ Association shall inherit the rights and obligations of the pre-merger associations; and the membership of the pre-merger associations shall be transferred to the merged association.
+
+### Article 11-5
+
+After the merger, the newly merged Farmers’ Association shall apply to the competent authority for establishment or modification of registration; and the competent authority shall simultaneously revoke the registration of the pre-merger associations.
+
+### Article 11-6
+
+When the merged Farmers’ Association applies for the registration of changes, transfers, or assignments of immovable property, registrable movable property, intellectual property rights, and various secured rights previously owned by the pre-merger associations, it may do so by submitting the letter of approval for the merger issued by the competent authority, along with other relevant documents, to the registration authority. No registration fees shall be charged, and stamp duty and deed tax arising from the merger shall be exempt. Additionally, the following provisions shall apply:
+
+1.Transfer of securities shall be exempt from securities transaction tax.
+
+2.The transfer of goods or services shall be outside the scope of business tax.
+
+3.When the land owned by the pre-merger associations is transferred, the transfer of land ownership shall be processed after the current value has been reviewed and confirmed in accordance with the Land Tax Act. The land value increment tax payable shall be deferred and recorded, and the merged Farmers’ Association shall pay it in full when the land is transferred again. In the event of bankruptcy or dissolution, the recorded land value increment tax shall have priority in repayment.
+
+4.When land acquired by the pre-merger Farmers’ Associations under Article 33 of the Agricultural Finance Act, which applies mutatis mutandis Article 76 of the Banking Act, is transferred to the post-merger Farmers’ Association as a result of the merger, the land value increment tax shall be exempt.
+
+5.Any goodwill generated by the merger may be amortized over a period of fifteen years when filing income tax.
+
+6.Any expenses arising from the merger may be recognized over a period of ten years when filing income tax.
+
+7.Any losses incurred from the sale of non-performing loans due to the merger may be recognized as a loss over a period of fifteen years when filing income tax.
+
+Where a Farmers’ Association has become a special municipality or district Farmers’ Association in accordance with Paragraph 1 of Article 7-1, its exemption from registration fees and related tax exemptions shall be processed in accordance with the provisions of the preceding paragraph.
+
+## Chapter 4: Membership
+
+### Article 12
+
+Any adult citizen of the Republic of China who has established household registration in the organizational area of a Farmers’ Association, is actively engaged in farming, and meets one of the conditions set out in the following subparagraphs may, after passing an eligibility review, join a primary-level Farmers’ Association in that organizational district as a member:
+
+1.Is an owner-farmer.
+
+2.Is a tenant farmer.
+
+3.Has graduated from an agricultural school or has authored works or developed inventions related to agriculture, and is currently engaged in agricultural extension work.
+
+4.Is an employee of a legally registered farm, forestry, or animal husbandry operation, and is actively engaged in agricultural work.
+
+Regulations for determining membership qualifications, required documentation, review procedures, and other matters requiring compliance by those applying for membership of a Farmers’ Association as referred to in the preceding paragraph shall be established by the central competent authority.
+
+Members who joined a Farmers’ Association with the status of employed agricultural workers before the enforcement of the amendments to this Act on January 20, 2001, and who continue to engage in agricultural work, may remain as members.
+
+Those who have been members of a Farmers’ Association for less than six months do not have the right to vote or the right to stand for election as prescribed by this Act.
+
+### Article 13
+
+Any adult citizen of the Republic of China who has established household registration in the organizational area of a Farmers’ Association, but does not meet the conditions specified in the preceding Article, may join the Farmers’ Association as an individual associate member.
+
+Any legally registered agricultural cooperative, company, business, or factory may join the local Farmers’ Association as a group associate member.
+
+Individual associate members and group associate members, except for being eligible for election as supervisors, do not have the right to vote or stand for election. However, they shall enjoy the same rights as regular members in all other respects.
+
+### Article 14
+
+Farmers’ Association membership is limited to only one person per household.
+
+### Article 15
+
+A superior Farmers’ Association is composed of its subordinate Farmers’ Associations as its members. The representatives of a subordinate Farmers’ Association to participate in the superior Farmers’ Association shall be elected by the General Assembly of Members (Representatives) of the subordinate Farmers’ Association, with the number of representatives determined by the competent authority. The chairperson of a subordinate Farmers’ Association shall automatically serve as a representative to the General Assembly of the superior Farmers’ Association.
+
+Among the representatives of members in Farmers’ Associations at all levels, at least two-thirds shall be owner-farmers, tenant farmers, or employed farmers.
+
+The term of office for representatives is four years, and they may be re-elected for consecutive terms.
+
+Member representatives are not permitted to concurrently serve as leaders or deputy leaders of farming task forces, nor as appointed or hired staff of the Farmers’ Association.
+
+Member representatives of Farmers’ Associations at all levels shall register as candidates before the election; unregistered individuals shall not be permitted to participate as election candidates.
+
+### Article 15-1
+
+A Farmers’ Association member who has held membership for six months or more may register as a candidate for member representative. However, a member to whom any of the following situations applies is ineligible to register, and if they have registered, their registration shall be withdrawn or revoked:
+
+1.Having unpaid debt owed to the Farmers’ Association, including for property, membership dues, business funds, or agricultural promotion expenses, or having guaranteed debt to the Farmers’ Association that remains unpaid after the due date.
+
+2.Meeting the circumstances specified in any subparagraph of Article 18.
+
+3.Subsequent to the termination of the Period of Mobilization for the Suppression of Communist Rebellion, having committed an offense against internal or external security of the state, with sentence having been confirmed.
+
+4.Having by final judgment been made subject to the rehabilitative disposition of compulsory work or to reformatory education for hooliganism, with the judgment pending execution, or execution not completed, or execution completed within the past five years. Having by final judgment been made subject to other rehabilitative disposition, with the judgment pending execution, or execution not completed.
+
+5.Having been convicted of corruption under the Criminal Code or its special laws, or convicted of a crime under the Organized Crime Prevention Act, with sentence having been confirmed.
+
+6.Having been convicted and sentenced to a penalty no lower than imprisonment, with the sentence having been confirmed, for a crime of vote bribery, acceptance of bribe, obstruction of voting or election campaigning, intermediary vote buying, or abusing official position as opportunity or means to commit embezzlement, fraud, breach of trust, or forgery. However, this shall not apply where such sentence has been suspended or converted to a fine and paid in full.
+
+7.Having been convicted and sentenced to a penalty no lower than imprisonment for an offense other than those specified in the preceding four paragraphs, with the penalty pending execution or execution not completed. However, this shall not apply where such sentence has been suspended or is for a term of imprisonment of less than six months and may be converted to a fine.
+
+8.Having been restricted from using negotiable instruments and the term of the restriction not having ended.
+
+9.Having been deprived of civil rights and those rights not yet reinstated.
+
+### Article 16
+
+Those who meet one of the following circumstances shall be ineligible for membership of a Farmers’ Association:
+
+1.Having been declared bankrupt and not yet discharged from bankruptcy.
+
+2.Having been declared under guardianship and the guardianship not yet revoked.
+
+3.Having been expelled from membership under the provisions of this Act.
+
+### Article 17
+
+A member of a Farmers’ Association who violates the provisions of this Act, or fails to comply with the association’s articles of association or a resolution of the General Assembly, and directly causes significant harm to the Farmers’ Association, shall be expelled.
+
+### Article 18
+
+A member of a Farmers’ Association who meets any of the following circumstances shall cease membership:
+
+1.Death.
+
+2.Meeting the circumstances specified in either subparagraph 1 or subparagraph 2 of Article 16.
+
+3.Loss of nationality of the Republic of China.
+
+4.Relocation of residence outside the organizational district of their original Farmers’ Association.
+
+5.Expulsion.
+
+## Chapter 5: Officers and Employees
+
+### Article 19
+
+A Farmers’ Association shall have directors and supervisors, who shall form a Board of Directors and a Board of Supervisors, respectively. The directors and supervisors shall be elected by the members (representatives), and their number shall be determined in accordance with the following provisions:
+
+1.A township/city/district Farmers’ Association shall have nine directors.
+
+2.A county (city) Farmers’ Association shall have nine to fifteen directors.
+
+3.The Provincial (city) Farmers’ Association shall have fifteen to twenty-one directors.
+
+4.The National Farmers’ Association shall have twenty-one to twenty-seven directors.
+
+5.The number of supervisors of a Farmers’ Association shall be one-third the number of its directors.
+
+6.A Farmers’ Association shall have alternate directors and supervisors, the numbers of whom shall not exceed half of the numbers of directors and supervisors.
+
+At least two-thirds of the directors and supervisors of a Farmers’ Association at any level shall be owner-farmers, tenant farmers, or employed farmers.
+
+The directors and supervisors of a Farmers’ Association shall each elect one person from among themselves as the chairperson of the board and the standing supervisor, respectively. However, directors and supervisors of a superior Farmers’ Association may not concurrently serve as directors or supervisors of a subordinate Farmers’ Association.
+
+### Article 20
+
+Candidates for directors and supervisors of a Farmers’ Association shall be limited to members of the primary-level Farmers’ Association to which they belong. However, candidates for directors and supervisors of a superior Farmers’ Association shall not be limited to representatives attending from subordinate Farmers’ Associations.
+
+Candidacy for director or supervisor of a Farmers’ Association shall be registered prior to the election, and no unregistered candidate shall be eligible to run for election.
+
+### Article 20-1
+
+A member of a Farmers’ Association who meets the following requirements may register their candidacy for election as a director or supervisor of the Farmers’ Association:
+
+1.Having been a member for two years or more.
+
+2.Having graduated from junior high school or above, or having graduated from primary school and having previously held a position as director, supervisor, members’ representative, general manager, or leader or deputy leader of a farming task force for a minimum of one term.
+
+3.Having actively engaged in farming so as to meet the requirements set forth by the central competent authority.
+
+Regulations on the verification, review procedure, and other matters requiring compliance, to determine that a candidate for director or supervisor of a Farmers’ Association meets the requirements of active engagement in farming, as referred to in subparagraph 3 of the preceding paragraph, shall be prescribed by the central competent authority.
+
+### Article 20-2
+
+A member of a Farmers’ Association who meets one of the following circumstances may not register as a candidate for director or supervisor of the Farmers’ Association. If already registered, the registration shall be withdrawn or revoked, and the same shall apply to those who have already been elected:
+
+1.Having an unpaid debt owed to the Farmers’ Association, including for property, membership dues, business funds, or agricultural extension expenses; or (since January 1, 2001) having a record of loan principal or interest payments in arrears for one year or longer at a Farmers’ Association or other financial institution; or having guaranteed a debt to the Farmers’ Association and, after being notified to repay, failing to do so for one year or longer.
+
+2.Meeting one of the circumstances specified in Subparagraphs 2 to 9 of Article 15-1.
+
+3.Having, within the past four years, been dismissed from an elected, appointed, or employed position in a Farmers’ Association due to a confirmed criminal conviction.
+
+4.Having, within the past five years, been the responsible person of a legal entity at the time of its bankruptcy declaration.
+
+### Article 21
+
+Directors and supervisors of a Farmers’ Association shall serve without compensation and shall not concurrently hold any position as appointed or employed personnel of a Farmers’ Association, or as leader or deputy leader of a farming task force, or hold a position in any other organization or enterprise that competes with the Farmers’ Association, and shall not operate any profit-seeking business that competes with the Farmers’ Association.
+
+### Article 22
+
+The term of office for directors and supervisors of a Farmers’ Association shall be four years, and they may be re-elected for one additional term. However, the number of re-elected individuals shall not exceed half of the total number of directors and supervisors.
+
+Within seven days after the election to replace directors and supervisors whose terms of office have expired, as referred to in the preceding paragraph, resumes of the directors and supervisors, along with a list of any increase or decrease in membership, shall be submitted to the competent authority for recordation.
+
+### Article 22-1
+
+Elections to replace the out-going elected officers of a Farmer’s Association shall be completed thirty days prior to the expiration of the term of office of the out-going officers or on a date specified by the competent authority.
+
+Elected officers of a Farmers’ Association shall assume office on the prescribed date. For those elected through a rerun or supplementary election, or if for any reason the election cannot be completed and the office assumed within the prescribed time, the term of office shall still be counted from the prescribed date.
+
+### Article 23
+
+A farming task force shall have one leader and one deputy leader, both elected by members. Their term of office shall be four years, and they may be elected for consecutive terms. In the event of a vacancy in the position of leader, the deputy leader shall succeed to the position, and the term of office shall continue until the original leader’s term expires.
+
+A Farmers’ Association member who has been a member for six months or more may register as a candidate for leader or deputy leader of a farming task force. However, those who meet the circumstances specified in any of the subparagraphs of Article 15-1 may not register such candidacy, and if already registered, the registration shall be withdrawn or revoked.
+
+Candidacy for leader or deputy leader of a farming task force shall be registered prior to the election, and no unregistered candidate shall be eligible to run for election.
+
+### Article 23-1
+
+When a Farmers’ Association holds elections for two or more positions at the same time, applications to register as a candidate shall be limited to registering candidacy for one position only. If a person registers as a candidate for two or more positions at the same time, the registrations shall be invalid.
+
+A person who has applied to register as a candidate may not withdraw their registration after the registration period has ended. A person who withdraws their registration before the registration period ends may not reapply to register for the same candidacy.
+
+### Article 24
+
+Elected officers of a Farmers’ Association who violate the law or breach the association’s charter, or whose actions in other ways harm the rights, interests, or reputation of the association, may be recalled by a resolution of the General Assembly of Members (Representatives).
+
+### Article 25
+
+A Farmers’ Association shall have one general manager, appointed from among qualified personnel selected by the central or special municipality competent authority. The term of appointment shall not exceed the term of the current board of directors. The next board of directors may continue the appointment, provided that the general manager has received an A-grade performance evaluation.
+
+The appointment of a general manager shall be made within sixty days after the establishment of the Board of Directors. If the appointment is not made within this period, the superior Farmers’ Association may directly select a qualified person to act as an interim general manager. For the National Farmers’ Association or Provincial (city) Farmers’ Association, the central competent authority may select a qualified person to act as interim general manager. The term of this acting position shall continue until a new general manager is lawfully appointed.
+
+The appointment of the general manager of a Farmers’ Association shall be made by a resolution approved by at least half of all directors. Dismissal of the general manager shall require a resolution approved by at least two-thirds of all directors.
+
+### Article 25-1
+
+Any Republic of China citizen who meets the following requirements may register as a candidate for the general manager of a Farmers’ Association:
+
+1.The general manager of the National Farmers’ Association or a special municipality Farmers’ Association shall possess the following qualifications:
+
+(1)Graduated from a university or independent college, or passed the senior civil service examination, and has served for at least three years in an equivalent recommended rank position at a government agency, school, agricultural or financial institution, or farmers’ organization.
+
+(2)Graduated from a junior college or above, and has served for at least five years in an equivalent recommended rank position at a government agency, school, agricultural or financial institution, or farmers’ organization.
+
+(3)Graduated from a senior or vocational high school or passed the general civil service examination, and has served for at least seven years in an equivalent recommended rank position at a government agency, school, agricultural or financial institution, or farmers’ organization.
+
+2.The general manager of a county (city) or township/city/district Farmers’ Association shall possess the following qualifications:
+
+(1) Graduated from a university or independent college, or passed the senior civil service examination, and has served for at least two years in an equivalent delegated rank position at a government agency, school, agricultural or financial institution, or farmers’ organization.
+
+(2)Graduated from a junior college or above, and has served for at least four years in an equivalent delegated rank position at a government agency, school, agricultural or financial institution, or farmers’ organization.
+
+(3)Graduated from a senior or vocational high school or passed the general civil service examination, and has served for at least six years in an equivalent delegated rank position at a government agency, school, agricultural or financial institution, or farmers’ organization.
+
+3.The new general manager of a Farmers’ Association at any level may not be above fifty-five years old at the time of appointment.
+
+A currently serving general manager who does not meet the qualifying conditions specified in the preceding paragraph shall not be subject to the limitations specified therein. However, if said person will reach the specified retirement age within one year after the end of their current term of appointment, they may not register as a candidate for the next term of appointment of the general manager.
+
+If a candidate for the position of general manager, after being assessed as qualified by the central or special municipality competent authority, is found not to have met the qualifying conditions specified in Paragraph 1 prior to appointment, the central or special municipality competent authority shall revoke their qualification. The same shall apply to those already appointed.
+
+Before the merger of the Provincial Farmers’ Association into the National Farmers’ Association, the candidacy qualifications for the position of its general manager are the same as for special municipality Farmers’ Associations.
+
+### Article 25-2
+
+A person to whom one of the following situations applies may not register as a candidate for the position of general manager of a Farmers’ Association. If the person has already registered or been appointed, the registration or appointment shall be withdrawn or revoked:
+
+1.Not being a citizen of the Republic of China.
+
+2.Having an unpaid debt owed to the Farmers’ Association, including for property, membership dues, business funds, or agricultural extension expenses; or (since January 1, 2001) having a record of loan principal or interest payments in arrears for one year or longer at a Farmers’ Association or other financial institution; or having guaranteed a debt to the Farmers’ Association and, after being notified to repay, failing to do so for more than one year.
+
+3.Meeting one of the circumstances specified in Subparagraphs 3 to 9 of Article 15-1.
+
+4.Meeting one of the circumstances specified in Subparagraphs 1 and 2 of Article 16.
+
+5.Having, within the past four years, been dismissed from an elected, appointed, or employed position in a Farmers’ Association due to a confirmed criminal conviction.
+
+6.Having, within the past five years, been the responsible person of a legal entity at the time of its bankruptcy declaration.
+
+### Article 25-3
+
+The general manager of a Farmers’ Association shall, within ten days of appointment, provide a guarantee to the Farmers’ Association either in the form of letters of guarantee from at least two guarantors who own immovable property, or as employee fidelity insurance.
+
+The amount of the immovable property or insurance as referred to in the preceding paragraph shall be prescribed by the central competent authority.
+
+### Article 26
+
+Appointed and employed personnel of a Farmers’ Association other than the general manager shall be appointed or hired by the general manager from persons who have passed the unified examinations of Farmers’ Associations, and shall be subject to instruction and supervision by the general manager.
+
+Unified examinations and training for personnel appointed or employed under the preceding paragraph shall be conducted by the Provincial Farmers’ Association or special municipality Farmers’ Associations under the supervision and guidance of the central competent authority or the special municipality competent authority. After the merger of the Provincial Farmers’ Association into the National Farmers’ Association, the unified examinations and training shall be conducted by the National Farmers’ Association under the supervision and guidance of the central competent authority.
+
+### Article 27
+
+The general manager and other appointed or employed personnel of a Farmers’ Association shall serve in full-time positions and may not concurrently engage in any commercial or industrial business, hold any paid position in a public or private organization, or serve as an elected representative at any level. If they stand for election to public office, being elected and assuming office shall be deemed as resignation, terminating their position in the Farmers’ Association.
+
+### Article 27-1
+
+Persons who are spouses, blood relatives within the second degree of kinship, or relatives by marriage within the first degree of kinship, shall not simultaneously serve as the chairperson, standing supervisor, or general manager of the same Farmers’ Association.
+
+Where the circumstances referred to in the preceding paragraph apply, the subsequent election or appointment shall be deemed invalid.
+
+## Chapter 6: Division of Powers and Responsibilities
+
+### Article 28
+
+The supreme authority of a Farmers’ Association shall be vested in its General Assembly of Members (Representatives). During the recess of the General Assembly, the Board of Directors shall plan and execute business operations in accordance with the resolutions of the General Assembly, while the Board of Supervisors shall oversee the association’s business operations and financial matters.
+
+### Article 29
+
+The exercise of powers by members (representatives), directors, and supervisors of a Farmers’ Association shall be limited to during meetings.
+
+### Article 30
+
+Members (representatives), directors, and supervisors of a Farmers’ Association shall each have one vote when attending a duly convened meeting. In the event that a resolution violates the law or the association’s articles of association, causing harm to the Farmers’ Association, those responsible shall be liable for compensation. However, those who raise an objection at the time of the resolution, with such objection recorded in the minutes of the meeting, shall be exempt from liability.
+
+Any resolution on a major matter at a Farmers’ Association meeting shall be conducted in writing with names recorded.
+
+### Article 31
+
+The general manager of a Farmers’ Association shall execute tasks in accordance with the resolutions of the Board of Directors and shall be accountable to the Board of Directors.
+
+### Article 32
+
+The general manager of a Farmers’ Association who, in the course of exercising the tasks of their office, violates the law or the association’s articles of association, resulting in harm to the Farmers’ Association, shall be liable for compensation.
+
+In the event that property received and held in custody by a Farmers’ Association is damaged due to a cause other than force majeure, the general manager and relevant personnel shall be jointly and severally liable for compensation.
+
+## Chapter 7: Meetings
+
+### Article 33
+
+The General Assembly of Members (Representatives) shall have regular meetings and extraordinary meetings, both convened by the Chairperson of the Board of Directors.
+
+The regular meetings shall be convened once annually by Farmers’ Associations at all levels. The extraordinary meetings shall be convened at the request of at least one-third of members (representatives), or when deemed necessary by the Board of Directors.
+
+If an extraordinary meeting is requested as referred to in the preceding paragraph and the Chairperson fails to convene it within ten days, the originators of the request may apply to the competent authority for approval to convene a meeting by order.
+
+When convening a General Assembly of a primary-level Farmers’ Association presents genuine difficulties due to the large size of membership, representatives may be elected by farming task forces to convene a General Assembly of Representatives, which shall exercise the powers of the General Assembly.
+
+Prior to its merger into the National Farmers’ Association, all meetings of the Provincial Farmers’ Association shall be convened in accordance with the provisions of Paragraphs 1 to 3.
+
+### Article 34
+
+Meetings of the Board of Directors of a Farmers’ Association shall be convened by the board’s Chairperson, and meetings of the Board of Supervisors shall be convened by the Standing Supervisor, each serving as the chairperson of their respective meetings. The frequency of such meetings shall be stipulated in the articles of association of the Farmers’ Association.
+
+### Article 35
+
+A farming task force shall hold a task force meeting at least once annually, convened and chaired by the task force leader.
+
+### Article 36
+
+The General Assembly of Members (Representatives), and meetings of the Board of Directors and the Board of Supervisors, unless otherwise provided by this Act, shall require the attendance of half or more of the members required to attend such meetings in order to commence, and resolutions shall be adopted only with the approval of half or more of those present.
+
+Except for the appointment of the general manager, if meetings as referred to in the preceding paragraph are convened twice without meeting the requirement of attendance by half or more of the members required to attend, the meeting may commence at the third time of convening with one-third or more of the members in attendance. However, this provision shall not apply if the required number of members in attendance is three or fewer.
+
+### Article 37
+
+The adoption of resolutions on the following matters at the General Assembly of Members (Representatives) of a Farmers’ Association shall require the attendance of two-thirds or more of all members (representatives) and the approval of two-thirds or more of those present:
+
+1.Adoption or amendment of the articles of association.
+
+2.Expulsion of members.
+
+3.Recall of elected personnel.
+
+4.Fundraising.
+
+5.Disposal of property.
+
+6.Other significant matters related to the rights and obligations of members.
+
+## Chapter 8: Funds
+
+### Article 38
+
+The funds of a Farmers’ Association shall consist of the following:
+
+1.Membership admission fees: A one-time fee paid by members upon joining, the standards for which shall be determined by a resolution of the General Assembly of Members (Representatives) and submitted to the competent authority for approval.
+
+2.Annual membership dues: Paid annually by members in accordance with standards determined by a resolution of the General Assembly of Members (Representatives) and submitted to the competent authority for approval. However, lower-level Farmers’ Associations shall allocate 20% of their income from annual membership dues to their superior Farmers’ Association.
+
+3.Business funds: Limited to use for conducting various types of business. The method(s) of raising such funds shall be approved by the General Assembly of Members (Representatives) and reported to the competent authority for recordation.
+
+4.Agricultural extension fund-raising income: Limited to exclusive use for agricultural extension activities, and required to be reported to the competent authority for recordation.
+
+5.Agricultural financial institutions: A portion of the net annual profits of agricultural financial institutions shall be allocated to fund the guidance and extension activities of Farmers’ Associations at all levels, and this portion shall not be less than ten percent.
+
+6.Government subsidies: The central and local government budgets shall allocate funds to subsidize the agricultural extension activities of Farmers’ Associations.
+
+7.Surpluses from various Farmers’ Association business operations and income from government-entrusted activities: These shall be handled in accordance with the profit and loss accounts of the Farmer’s Association’s business operations.
+
+8.Other revenues.
+
+### Article 39
+
+The accounting for the economic, financial, insurance, and extension businesses of a Farmers’ Association shall be separately and independently maintained. Annual budgets and final accounts shall be prepared and reported to the General Assembly of Members (Representatives) and submitted to the competent authority for recordation.
+
+### Article 40
+
+After the annual final accounts of a Farmers’ Association, the surpluses from each type of business, minus the allocation of reserves for each business, shall be allocated to the total surplus of the Farmers’ Association.
+
+The total surplus of the Farmers’ Association, minus coverage of past loss, shall be distributed in accordance with the following provisions:
+
+1.Fifteen percent (15%) shall be allocated to the statutory reserve.
+
+2.Five percent (5%) shall be allocated to the public welfare fund.
+
+3.Not less than sixty-two percent (62%) shall be allocated to agricultural extension, training, and cultural and welfare activities.
+
+4.Eight percent (8%) shall be allocated to the expenses related to agricultural extension, mutual assistance, and training between Farmers’ Associations at various levels.
+
+5.Not more than ten percent (10%) shall be allocated as remuneration for directors, supervisors, and staff.
+
+Regulations for the custody and utilization of the statutory reserve as referred to in Subparagraph 1 of the preceding paragraph, the public welfare fund as referred to in Subparagraph 2 of the preceding paragraph, and the expenses as referred to in Subparagraph 4 of the preceding paragraph, shall be prescribed by the central competent authority.
+
+The ratio of the surplus from each type of business required to be allocated as reserve for that business, as referred to in Paragraph 1, shall be determined by the central competent authority in consultation with the central competent authority of each subject business.
+
+## Chapter 9: Supervision
+
+### Article 41
+
+When a Farmers’ Association neglects its tasks, acts counter to the public interest, or exceeds the scope of its tasks, the competent authority may issue a warning.
+
+### Article 42
+
+When a resolution of a Farmers’ Association violates a law or regulation, is contrary to the public interest, or exceeds the association’s purposes or tasks, the competent authority may order its withdrawal.
+
+### Article 43
+
+When a Farmers’ Association seriously violates its purposes or tasks, the competent authority may order its dissolution or revoke its registration.
+
+After the dissolution or revocation of registration, the Farmers’ Association shall be reorganized immediately.
+
+### Article 44
+
+When a lower-level competent authority issues an order in accordance with Article 42 or Article 43, it shall obtain approval from the superior competent authority.
+
+### Article 45
+
+When a Farmers’ Association is poorly managed, incurs significant losses, or has other major troubles, the competent authority, when deeming it necessary and with the approval of the central competent authority, may suspend the powers of the member representatives, directors, and supervisors, and impose reorganization. After the reorganization, new elections shall be held immediately.
+
+### Article 46
+
+If a director, a supervisor, or the general manager of a Farmers’ Association violates the law or the Farmers’ Association’s articles of association, or engages in action that severely harms the Farmers’ Association, the competent authority may, with approval from the superior competent authority, or the superior authority may directly, suspend their powers and remove them from office.
+
+### Article 46-1
+
+A member of the elected, appointed, or employed personnel of a Farmers’ Association who is detained or wanted in connection with a criminal case shall have their powers suspended.
+
+A member of the elected, appointed, or employed personnel of a Farmers’ Association who receives a confirmed sentence of imprisonment for six months or more shall be dismissed from their position. However, this shall not apply if such person receives a suspended sentence or a sentence of imprisonment for six months or less that may be converted to a fine.
+
+A member of the elected, appointed, or employed personnel of a Farmers’ Association whose powers were suspended under the pre-amended provisions of this Article prior to enforcement of the amendment shall be subject to the amended provisions of this Article from the date that the amendment comes into effect.
+
+Personnel whose powers have been suspended under the provisions of Paragraph 1 may apply for the resumption of their powers if they are released from detention or cease to be wanted prior to the expiration of their term of office.
+
+If a member of the elected, appointed, or employed personnel of a Farmers’ Association loses their eligibility as a candidate for election or appointment, they shall be dismissed from their position by the competent authority or its superior competent authority.
+
+### Article 47
+
+When a Farmers’ Association is dissolved, the competent authority shall appoint a liquidator. The liquidator shall have the authority to represent the Farmers’ Association in executing matters related to its liquidation.
+
+In the event that a Farmers’ Association is declared bankrupt, the depositors of the credit department shall have priority of claim to repayment from the assets of the credit department.
+
+### Article 47-1
+
+A person who commits any of the following acts in an election of a Farmers’ Association shall be subject to imprisonment for a term of up to three years and may also be fined up to ninety thousand New Taiwan dollars (90,000 NTD):
+
+1.A person with the right to vote who requests, agrees to take, or accepts property or other improper benefit in exchange for not exercising their right to vote or exercising it in a certain way.
+
+2.A person who offers, agrees to provide, or delivers property or other improper benefit to a person with the right to vote in exchange for not exercising their right to vote or exercising it in a certain way.
+
+3.A person who proposes, agrees to provide, or delivers property or other improper benefit to a candidate in exchange for the candidate abandoning their campaign or engaging in certain campaign activities.
+
+4.A candidate who requests, agrees to take, or accepts property or other improper benefit in exchange for abandoning their campaign or engaging in certain campaign activities.
+
+Where an offense as described in the preceding paragraph has been committed, any items provided for use in the commission of the offense or in preparation for the commission of the offense, any items derived from the offense, and any proceeds of the offense shall be confiscated, regardless of whether they belong to a person who committed the offense.
+
+### Article 47-2
+
+If, from the date of candidacy registration for the election of its directors, any of the following actions is committed in connection with the appointment of the general manager of a Farmers’ Association, the offender shall be subject to imprisonment for a term of up to three years and may also be fined up to ninety thousand New Taiwan dollars (90,000 NTD):
+
+1.A director or director candidate requests, agrees to take, or accepts property or other improper benefit in exchange for favoring or not favoring an appointment.
+
+2.A person offers, agrees to provide, or delivers property or other improper benefit to a director or director candidate in exchange for their favoring or not favoring an appointment.
+
+3.A person offers, agrees to provide, or delivers property or other improper benefit to a qualified candidate for appointment as general manager in exchange for their declining to accept the appointment.
+
+4.A qualified candidate for appointment as general manager requests, agrees to take, or accepts property or other improper benefit in exchange for declining to accept the appointment.
+
+A person who prepares to commit an offense as described in the preceding paragraph shall be subject to imprisonment for a term of up to one year.
+
+Where an offense as described in the two preceding paragraphs has been committed, any items provided for use in the commission of the offense or in preparation for the commission of the offense, any items derived from the offense, and any proceeds of the offense shall be confiscated, regardless of whether they belong to a person who committed the offense.
+
+### Article 47-3
+
+A person who uses violence, coercion, or other unlawful means to interfere with another person’s candidacy, cause them to give up their candidacy, or obstruct their free exercise of election rights shall be subject to imprisonment for a term of up to five years and may also be fined up to one hundred and fifty thousand New Taiwan dollars (150,000 NTD).
+
+The same applies to a person who uses violence, coercion, or other unlawful means to interfere with the registration, selection, or appointment of a general manager.
+
+Attempted offenses under the preceding two paragraphs shall also be punishable.
+
+### Article 47-4
+
+A candidate who commits an offense as described in Paragraph 1 of Article 47-1 or Paragraph 1 of the preceding article shall have their candidacy revoked; if they have already been elected, their election shall be rendered invalid.
+
+A qualified candidate for appointment as general manager who commits an offense as described in Paragraph 1 of Article 47-2 or Paragraph 2 of the preceding article shall have their candidacy revoked; if they have already been appointed, their appointment shall be revoked.
+
+A person who has at any time committed an offense as described in Paragraph 1 of Article 47-1, Paragraph 1 of Article 47-2, or Article 47-3 shall not be eligible for candidacy in an election of a Farmers’ Association or for appointment as the general manager of a Farmers’ Association.
+
+The provisions of the preceding three paragraphs shall not apply where the situation described in the proviso to Paragraph 2 of Article 46-1 applies.
+
+### Article 47-5
+
+Where a Farmers’ Association, in conducting the business of its credit department, fails to comply with the mandatory or prohibitory provisions of a regulation issued by the central competent authority of the subject business under mandate of this Act, or fails to act as required thereby, the central competent authority of the subject business shall impose a fine of between six hundred thousand and three million New Taiwan dollars (600,000-3,000,000 NTD).
+
+## Chapter 10: Supplementary Provisions
+
+### Article 48
+
+In order to furnish guidance in agricultural technology and other agricultural improvement work, a Farmers’ Association may consult with local institutions connected to agricultural improvement, extension, finance, and education to request the assignment of professional personnel for assistance.
+
+### Article 49
+
+Share capital already received by a Farmers’ Association prior to the amendment of this Act coming into force shall be uniformly transferred to the business fund of the Farmers’ Association, and may be inherited. The regulations for this shall be prescribed by the central competent authority.
+
+### Article 49-1
+
+Personnel management regulations, financial management regulations, general manager selection regulations, election and recall regulations, and evaluation regulations for Farmers’ Associations at all levels shall be prescribed by the central competent authority. The scope and content thereof shall be as follows:
+
+1.Personnel management regulations: Personnel evaluation, authorized staff size, job grades and employment qualifications, salaries, appointment and resignation/dismissal, performance evaluation rewards and penalties, severance, retirement, compensatory payments and services, and other matters requiring compliance.
+
+2.Financial management regulations: Accounting procedures, budget and final accounts preparation and review, asset management, financial auditing, authority and responsibilities of accounting personnel, and other matters requiring compliance.
+
+3.General manager selection regulations: Candidate registration, qualification review, selection procedures, evaluation items and scoring standards, and other matters requiring compliance.
+
+4.Election and recall regulations: Types of elections and recall, candidate registration, qualification review procedures, voting and ballot counting, election results and requirements for establishment of recall, and other matters requiring compliance.
+
+5.Evaluation regulations: Evaluation items, scoring standards, performance assessment, rewards and penalties, and other matters requiring compliance.
+
+### Article 49-2
+
+The procedures for Farmers’ Association election and recall litigation and the appointment and dismissal of the general manager, except as pertaining to the rules of provisional disposition, shall be subject mutatis mutandis to the rules of the Code of Civil Procedure.
+
+### Article 50
+
+The enforcement rules for this Act shall be established by the central competent authority.
+
+### Article 51
+
+This Act shall come into force from the date of promulgation.
+
+Amendments to this Act promulgated on May 5, 2009 shall come into force on November 23, 2009.
+
+## History
+
+1.Promulgated on December 30, 1930
+
+2.Amended on May 21, 1937
+
+3.Amended on June 14, 1943
+
+4.Amended on December 28, 1948
+
+5.Amended on June 12, 1974
+
+6.Amendment to Articles 4, 15, 25, 40 promulgated on January 28,1981
+
+7.Amendment to Articles 15, 23 and addition of Articles 47-1, 47-2, 47-3, 47-4 promulgated on January 14, 1985
+
+8.Amendment to Articles 5, 7, 8, 12, 15, 21, 23, 26, 35, 36, 40, 47-3, 49 and addition of Articles 15-1, 20-1, 20-2, 23-1, 25-1, 25-2, 46-1, 49-1, 49-2 promulgated on June 24, 1988
+
+9.Amendment to Article 27 promulgated on August 2, 1991
+
+10.Amendment to Article 13 promulgated on December 5, 1994
+
+11.Amendment to Articles 20-2, 25-2, 46-1 promulgated on June 30, 1999
+
+12.Amendment to Articles 3, 25, 26, 33, 50 promulgated on July 19, 2000
+
+13.Amendment to Articles 4, 5, 12, 13, 15-1, 20-1, 23, 25, 25-2, 40, 43, 46, 46-1,47-2, 47-4, 49-1, 49-2 and addition of Articles 25-3, 27-1, 47-5 promulgated on January 20, 2001
+
+14.Amendment to Article 20-1 promulgated on June 23, 2004
+
+15.Amendment to Articles 25, 46-1 promulgated on June 20, 2007
+
+16.Amendment to Article 8 promulgated on August 6, 2008
+
+17.Amendment to Article 27 promulgated on January 23, 2009
+
+18.Amendment to Article 16,51 promulgated on May 27,2009
+
+19.Amendment to Articles 6, 8, 19, 25-1, 26, 33 and addition of Articles 6-1, 7-1, 11-1, 11-2, 11-3, 11-4, 11-5, 11-6 promulgated on January 30, 2012
+
+20.Amendment to Article 15-1,16,18,20-2,25-2 promulgated on June 4 ,2014
+
+21.Amendment to Article 47-1,47-2,47-3 promulgated on November 30 ,2016
+
+22.Amendment to Article 12,13 promulgated on February 3 ,2021
+
+The announcement was made on July 27, 2023 by the Executive Yuan Order tai-gui-zi No. 1125014346. The relevant matters set out in Article 3, Subparagraph 21 of Paragraph 1 of Article 4, Paragraph 1~6,8 of Article 5, Paragraph 1 of Article 7, Paragraph 2 , 4 of Article 8, Article 9, Article 10, Paragraph 2 of Article 12, Paragraph 1 of Article 15, Subparagraph 3 of Paragraph 1,2 of Article 20-1, Paragraph 2 of Article 22, Paragraph 1 of Article 22-1, Paragraph 1,2 of Article 25, Paragraph 3 of Article 25-1, Paragraph 2 of Article 25-3, Paragraph 2 of Article 26, Paragraph 3 of Article 33, Subparagraph 1,2,3,4 of Article38, Article 39, Paragraph 3,4 of Article 40, Article 41, Article 42, Paragraph 1 of Article 43, Article 44, Article 45, Article 46, Paragraph 5 of Article 46-1, Paragraph 1 of Article 47, Article 47-5, Article 49, Preamble of Article 49-1, pertaining to “ the Council of Agriculture of the Executive Yuan” shall be handled by “Ministry of Agriculture” as governing body, effective August 1, 2023.

@@ -1,0 +1,881 @@
+---
+title: "Mental Health Act"
+title_zh: "精神衛生法"
+identifier: "L0020030"
+type: act
+law_level: "法律"
+category: "行政＞衛生福利部＞心理健康目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1990-12-07
+last_amended: 2022-12-14
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0020030"
+retrieved: 2026-10-12
+---
+
+# Mental Health Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-health-and-welfare/L0020030-mental-health-act.md](../../../zh/laws/ministry-of-health-and-welfare/L0020030-mental-health-act.md)) is authoritative.
+
+## Chapter 1 General Principles
+
+### Article 1
+
+This Act is specifically formulated to promote the mental health of the people, prevent and treat mental illnesses, protect the rights and interests of patients, and support and assist patients to live equally in the community.
+
+### Article 2
+
+The competent authority referred to in this Act is the Ministry of Health and Welfare at the central level, and the special municipality or county (city) government at the local level (hereinafter referred to as the local competent authority).
+
+### Article 3
+
+The terms used in this Act are defined as follows:
+
+\1. Mental illness: Refers to an illness that manifests abnormality in thinking, emotion, perception, cognition, behavior, and other mental states, resulting in functional impairment in adapting to life and requiring medical treatment and care. However, those with antisocial personality disorder are not included.
+
+\2. Specialist physician: Refers to a psychiatric specialist who has been qualified and certified by the central competent authority pursuant to the Physician Act.
+
+\3. Patient: Refers to a person suffering from a mental illness.
+
+\4. Severe patient: Refers to a patient who presents a mental state that is detached from reality, resulting in an inability to handle one’s own affairs, as diagnosed and confirmed by a specialist physician.
+
+\5. Community Mental Health Rehabilitation: Refers to the rehabilitation and treatment of patients’ functional abilities related to work, work attitudes, psychological reconstruction, social skills, ability to manage daily life, and other functions in the community in order to assist patients in gradually adapting to social life.
+
+\6. Community treatment: Refers to the treatment of patients in the community, including home-based treatment, community mental health rehabilitation, outpatient treatment, and other forms of treatment in order to prevent the deterioration of the patient’s condition.
+
+\7. Community support: Refers to the use of community resources to provide patients with housing, placement, schooling, employment, maintenance care, access to medical care, social participation, independent living, and other support measures and assistance that patients need in community life.
+
+\8. Psychiatric institutions: Medical institutions that have a psychiatric department.
+
+\9. Mental health rehabilitation institutions: An institution that provides residential or day-based community mental health rehabilitation services.
+
+\10. Mental health care institution: Refers to a medical institution, nursing home, psychotherapy clinic, psychological counseling clinic, occupational therapy clinic, mental health rehabilitation institution, and social work agency that provides mental health care services to patients.
+
+The scope of the mental illness in Subparagraph of the preceding Paragraph is as follows:
+
+\1. Psychosis.
+
+\2. Neurosis.
+
+\3. Substance use disorder.
+
+\4. Other mental illnesses recognized by the central competent authority.
+
+### Article 4
+
+The central competent authority oversees the following matters:
+
+\1. Planning, formulation and campaign of policies, laws and regulations, and protocols for promoting mental health;
+
+\2. Planning, formulation and campaign of policies, laws and regulations, protocols for mental illness prevention, and treatment and resource deployment;
+
+\3. Planning and promotion of patient economic security, social assistance, welfare services, long-term care, and community support services;
+
+\4. Planning, formulation and campaign of policies, laws and regulations, and protocols to safeguard the rights and interests of patients;
+
+\5. Supervision and coordination on the performance of the local competent authorities in matters concerning patient’s access to medical care and the protection of their rights and interests;
+
+\6. Awards and planning for the patient services provided by local competent authorities;
+
+\7. Planning for the training of professionals related to patient services;
+
+\8. Planning and promotion of patient protection services;
+
+\9. Planning and promotion of patient family support services;
+
+\10. Collection, establishment, compilation, statistics, and management of patient data;
+
+\11. Supervision and accreditation of various mental health care institutions;
+
+\12. Investigation, research, and statistics of national mental health and mental illness;
+
+\13. Other planning and promotion related to people’s mental health promotion and mental illness prevention and treatment, as well as patient services and the protection of patient rights and interests.
+
+The central competent authority shall publish a national mental health report every four years, which shall include the matters listed in the subparagraphs of the preceding Paragraph.
+
+### Article 5
+
+The local competent authority is in charge of the following matters within its jurisdiction:
+
+\1. Planning, campaign, and implementation of protocols for promoting mental health;
+
+\2. Planning, campaign, and implementation of mental illness prevention, treatment, and resource deployment;
+
+\3. Implementation of patient economic security, social assistance, welfare services, long-term care and community support services;
+
+\4. Implementation of the policies, laws and regulations, and protocols formulated by the central government for mental health promotion, mental illness prevention and treatment, patient services, and patient rights and interests protection;
+
+\5. Planning, formulation, campaign, and implementation of policies, autonomous regulations, and protocols for the protection of patient rights and interests;
+
+\6. Planning and implementation of training for professionals related to patient services;
+
+\7. Implementation of patient protection services;
+
+\8. Execution of patient family support services;
+
+\9. Execution of mandatory hospitalization and mandatory community treatment for patients;
+
+\10. Collection, establishment, compilation, statistics, and management of patient data;
+
+\11. Supervision and assessment of various types of mental health care institutions;
+
+\12. Other planning and supervision related to mental health promotion, mental illness prevention and treatment, patient services, and the protection of patient rights and interests.
+
+When local competent authorities handle the operations referred to in the preceding Paragraph, they shall integrate health, social administration, education, labor administration, police administration, firefighting services, and other related resources as needed.
+
+### Article 6
+
+The central education authority shall plan, promote, and supervise school mental health promotion, mental illness prevention, treatment and related campaigns, protection of students’ right to education, equitable allocation of educational resources and facilities, and the establishment of a friendly and supportive learning environment.
+
+The education authorities at all levels shall plan and implement mental health promotion and mental illness prevention and treatment in schools at all levels. Such efforts shall be tailored to the specific psychological needs of students, teachers, and staff and provide separate services, including mental health promotion, consultation, psychological guidance and counseling, crisis management, referral to medical services, resource linkage, suicide prevention, substance abuse prevention and treatment, or other related mental health services.These initiatives shall be reasonably and appropriately adjusted without causing disproportionate or excessive burdens in order to establish a supportive and friendly learning environment and to ensure the right to education.
+
+The central education authority, in consultation with the central competent authority, shall determine the content of the mental health education curriculum for schools below the senior high level.
+
+### Article 7
+
+The central labor authority shall plan, promote, and supervise workplace mental health promotion, mental illness prevention and treatment, protection of patient employment and labor rights and interests, and establishment of a friendly and supportive work environment.
+
+Competent labor authorities at all levels shall promote workplace mental health promotion and mental illness prevention and treatment, provide vocational rehabilitation, vocational training, employment services, and reasonable accommodation measures for patients with stable conditions to assist them in stabilizing employment, and reward or subsidize employers for providing employment opportunities.
+
+### Article 8
+
+The interior authority shall plan, promote, and supervise the psychological guidance mechanisms for the policemen, firefighters, and substitute service draftees and separately provide mental health promotion, consultation, psychological guidance and counseling, crisis management, medical referrals, resource linkage, suicide prevention, substance abuse prevention and treatment, or other services related to mental health based on their mental health needs.
+
+The authority in the preceding Paragraph shall, when necessary, assist in escorting for access to medical care the persons suspected of having the condition specified in Subparagraph 1 of Paragraph 1 of Article 3 and maintaining order in the execution of mandatory community treatment and the personal safety of on-site personnel.
+
+### Article 9
+
+The justice authority shall plan, promote, and supervise the crime victims’ mental health promotion, medical care access assistance and referral services, detaining environment improvement of the mentally ill detainees, reasonable accommodation of correctional measures, crisis management, suicide prevention, medical care access assistance, post-release transition services, and the transitional services and rehabilitation protection of persons subject to criminal custody.
+
+### Article 10
+
+The national defense authority shall plan, promote, and supervise the mental health promotion and mental illness prevention and treatment of military personnel, and separately provide mental health promotion, consultation, psychological guidance and counseling, crisis management, medical referrals, resource linkage, suicide prevention, substance abuse prevention and treatment, or other services related to mental health based on their mental health needs.
+
+### Article 11
+
+The financial authority may consider the nature of mental health care institutions and grant them appropriate tax exemptions or reductions in accordance with the law.
+
+The authority referred to in the preceding Paragraph may consider the severity of the patient’s condition and the economic situation of their family to grant appropriate reduction or exemption of the due tax and fee in accordance with the law.
+
+### Article 12
+
+The financial supervisory authority shall plan, promote, and supervise financial institutions to ensure the provision of commercial insurance, property trust services, and equal rights and interests in financial services to patients.
+
+### Article 13
+
+The cultural authority shall guide, reward, and promote people’s mental health promotion and patients’ spiritual life enrichment, participation in art and cultural activities, and creation related to art and culture.
+
+### Article 14
+
+The communication authority shall supervise radio, television, and other media under its jurisdiction in accordance with the law to avoid discrimination against patients.
+
+### Article 15
+
+All agencies, schools, institutions, juridical persons, and groups shall strengthen the advancement of activities that promote employees’ mental health.
+
+### Article 16
+
+With the head of the central competent authority as the convener, the authority shall invite mental health professionals, legal experts, patients, patients’ families, and the representatives of patient rights and interests advocacy groups and industry competent authorities to conduct consultation meetings on the following matters:
+
+\1. Policies, systems, and protocols for mental health promotion;
+
+\2. Policies, systems, and protocols for mental illness prevention and treatment;
+
+\3. Resource planning for mental health promotion and mental illness prevention and treatment;
+
+\4. Research, development, and international exchange for mental health promotion as well as mental illness prevention and treatment;
+
+\5. Special treatment modalities for mental illness;
+
+\6. Integration, planning, coordination, and promotion of patient rights and interests protection;
+
+\7. Planning and promotion of patient and family support services;
+
+\8. Integration, supervision, and coordination of government agencies’ implementation of mental health services;
+
+\9. Other matters related to mental health promotion as well as mental illness prevention and treatment.
+
+At least one-third of the representatives shall be patients, patients’ families, or representatives of patient rights and interests advocacy groups referred to in the preceding Paragraph, and the number of members of a single gender shall not be less than two-fifths of the total number of members.
+
+### Article 17
+
+With the head of the local competent authority as the convener, the authority shall invite mental health professionals, legal experts, patients, patients’ families, the representatives of patient rights and interests advocacy groups, and bureaus and departments to conduct consultation meetings on the following matters in its jurisdiction:
+
+\1. Mental health promotion;
+
+\2. Mental illness prevention and treatment;
+
+\3. Research projects for mental health promotion and mental illness prevention and treatment;
+
+\4. Planning and network connections for mental health service resources and the establishment of mental health care institutions;
+
+\5. Complaint cases regarding patient rights and interests protection;
+
+\6. Promotion of patient and family support services;
+
+\7. Coordination, supervision, and integration of the implementations of mental health services by various bureaus and departments;
+
+\8. Other matters related to mental health promotion and mental illness prevention and treatment.
+
+At least one-third of the representatives shall be patients, patients’ families, or representatives of patient rights and interests advocacy groups referred to in the preceding Paragraph, and the number of members of a single gender shall not be less than two-fifths of the total number of members.
+
+### Article 18
+
+In order to handle the relevant matters stipulated in this Act, the central and local competent authorities shall appoint full-time personnel, and the various industry competent authorities shall assign dedicated personnel. The number of personnel shall be adjusted according to business increase or decrease.
+
+If the local competent authorities have difficulties funding the business referred to in the preceding Paragraph, the central government shall provide subsidies, and the subsidized funds shall be utilized for this purpose.
+
+## Chapter 2 Mental Health Service System
+
+### Article 19
+
+According to the distribution of population, medical care resources, and mental health resources and considering the unique characteristics of indigenous or remote areas, the central competent authority may divide the areas of responsibility, establish regional networks of mental health promotion, mental illness prevention, and medical care services, and formulate and implement corresponding plans.
+
+According to the service demand of persons with psychosis and the conditions of community support resources distribution within its jurisdiction, the competent authority may actively establish community support resources for persons with psychosis.
+
+### Article 20
+
+Based on the severity of their illness, whether they pose a danger of harm, patient needs, and other relevant factors, mental health care and support services for patients shall be provided and implemented by adopting the following approaches:
+
+\1. Outpatient service;
+
+\2. Emergency service;
+
+\3. Full-day hospitalization;
+
+\4. Day care service;
+
+\5. Community mental health rehabilitation;
+
+\6. Home-based treatment;
+
+\7. Community support service;
+
+\8. Case management service;
+
+\9. Other forms of care and support services.
+
+The forms and defining standards of home-based treatment referred to in Subparagraph 6 in the preceding paragraph shall be established by the central competent authority.
+
+### Article 21
+
+In accordance with actual needs, governments at all levels may establish or reward private sectors that establish mental health care institutions in order to provide relevant care services to patients.
+
+As designated by the competent authority, the mental health care institutions referred to in the preceding Paragraph may provide treatment and life rehabilitation services for persons with substance use disorders. The regulation governing the designation forms, management, and other matters to be complied with shall be established by the central competent authority.
+
+Medical personnel and social workers who handle mental health care affairs commissioned, rewarded, or subsidized by competent authorities at all levels in institutions, juridical persons, or organizations may register for practice in accordance with their respective professional and technical personnel laws.
+
+Those who have not established a mental health care institution in accordance with the law or have not been commissioned, subsidized, or managed by the governing bodies at all levels shall not provide accommodation or treatment services to patients. However, the above restriction shall not apply to disability welfare institutions, elderly welfare institutions, and long-term care service institutions if the purpose of their establishment involves the provision of mental health care services.
+
+### Article 22
+
+A mental health rehabilitation institution shall designate one person as its responsible person and may employ medical personnel or social workers as needed.
+
+The medical personnel referred to in the preceding Paragraph shall register for practice in accordance with respective medical personnel laws and regulations. Social workers shall register for practice in accordance with the Social Worker Act.
+
+Relevant personnel in mental health rehabilitation institutions shall create records when practicing duties. If the records are created and stored in electronic format, the personnel may be exempt from creating additional written forms.
+
+The central competent authority shall conduct accreditation of mental health rehabilitation institutions. The local competent authority shall periodically supervise and assess the operations of mental health rehabilitation institutions within its jurisdiction.
+
+Mental health rehabilitation institutions shall not evade, obstruct, or refuse accreditation, supervision, and assessments referred to in the preceding Paragraph.
+
+When necessary, the accreditations, supervision, and assessments referred to in Paragraph 4 may be commissioned to relevant organizations or institutions.
+
+The establishment or expansion of mental rehabilitation institutions shall require an application for a permit from the local competent authority. The conditions and procedures for application permissions, qualifications of applicants and responsible parties, review procedures and criteria, restrictions, and management; the method and content of producing business records as mentioned in Paragraph 3; as well as the methods for evaluation, supervision, assessment, and other compliance matters indicated in Paragraph 4 shall be determined by the central competent authority.
+
+### Article 23
+
+Community support services for patients shall be planned and carried out in accordance with the principle of diversified and continuous services.
+
+For constructing a sound community support mechanism to meet the needs of patients, local competent authorities shall provide full-day, daycare, home-based, community-based, or other community support services through their own efforts or by commissioning, subsidizing, or rewarding institutions, juridical persons, or organizations.
+
+Local competent authorities shall provide the families of patients with mental health education, emotional support, respite services, hotline services, and other supportive services.
+
+Where other laws provide the same or more favorable provisions on community support services for patients, those provisions shall take precedence.
+
+The central competent authority shall announce the contents and implementation methods of community support services.
+
+### Article 24
+
+The central competent authority shall reward or subsidize institutions, juridical persons, or organizations to engage in services related to patient community support and rehabilitation.
+
+The regulation governing qualification conditions, service content, operation methods, management, rewards, subsidies, and other related matters of the service institutions, juridical persons or organizations, and their service personnel shall be established by the central competent authority in conjunction with the central labor authority and the central education authority.
+
+### Article 25
+
+If institutions that provide patient care services face opposition from residents in any form, local competent authorities shall assist them in removing the obstacles.
+
+### Article 26
+
+Local competent authorities may conduct assessments of patient needs and provide services by themselves or commission relevant professional institutions, juridical persons, or organizations to do so. If necessary, they may refer patients to appropriate institutions, legal persons, or organizations for services. For patients reported in accordance with Paragraph 3 of Article 45, community treatment and support services shall be provided.
+
+To strengthen the functions of care and support for patients, local competent authorities shall establish a community support system by combining health, social affairs, civil affairs, education, or labor agencies and holding regular liaison meetings.
+
+### Article 27
+
+Local competent authorities shall establish a patient solicitude mechanism for patients who are reported or notified to the authorities by the medical institutions under their jurisdiction and provide assertive community solicitude, visits, and other services.
+
+If patients referred to in the preceding Paragraph are missing, their families or protectors shall be notified. If necessary, local competent authorities may request assistance from relevant agencies in search of the missing patients.
+
+The scope of patients covered, the methods of service provision, the criteria for solicitude and visits, search assistance, and other related matters specified in the preceding two Paragraphs shall be determined by the central competent authority.
+
+### Article 28
+
+Local competent authorities shall, based on the population size and mental health needs and resources in their jurisdiction, have the community mental health center handle patient case management, mental health promotion, education and training, counseling, referral services, resource development, network connections, suicide prevention, mental illness prevention and treatment, post-disaster mental reconstruction, and other mental health services.
+
+Patient case management at community mental health centers, as mentioned in the preceding Paragraph, includes both discharged patients with psychosis as per Paragraph 3 of Article 33 and patients with psychosis who have received treatment at designated psychiatric institutions as per Paragraph 3 of Article 48.
+
+Community mental health centers referred to in Paragraph 1 shall have staff such as psychologists, nurses, occupational therapists, social workers, and other related professionals. The central competent authority shall establish regulations governing the content of services provided, the composition of personnel, training and certification methods, and other relevant matters.
+
+## Chapter 3 Patient Protection and Safeguarding Their Rights and Interests
+
+### Article 29
+
+The following actions towards patients are prohibited:
+
+\1. Abandonment;
+
+\2. Physical and mental abuse;
+
+\3. Leaving patients incapable of caring for their own living in an environment prone to danger and harm;
+
+\4. Forcing or deceiving patients to get married;
+
+\5. Other actions of crime or misconduct towards or by exploiting patients.
+
+### Article 30
+
+During patients’ treatment or hospitalization, psychiatric institutions shall inform patients and their families or protectors about their illness conditions, treatment policies, prognosis aspects, reasons for hospitalization, entitled rights, and other related matters.
+
+In the case where the patient referred to in the preceding Paragraph is not a severe patient, their family members may be informed only after obtaining the patient’s consent.
+
+### Article 31
+
+If mental health care institutions need to restrict the living space or movement for medical, rehabilitation, or safety reasons, such restrictions must comply with relevant legal regulations and be applied only to the minimum extent necessary.
+
+### Article 32
+
+To meet the medical needs of patients or to prevent emergency incidents of violence, suicide, or self-harm, medical institutions may physically restrain patients or restrict their movement freedom within specific protective facilities after informing patients. Such institutions shall assess the patients periodically, and such restraint and restriction shall not exceed the necessary duration of time.
+
+To prevent emergency incidents of violence, suicide, or self-harm, mental health care institutions and emergency medical rescue personnel other than medical institutions may physically restrain patients after informing patients and immediately escort them for access to medical treatment.
+
+The regulation governing physical restraint or restriction of movement freedom referred to in the previous two Paragraphs shall not be performed by using criminal restraint instruments or other unjustified means; its specific procedures, types of restraint equipment, duration of restraint, and the matters to be complied with shall be established by the central competent authority.
+
+In cases that it is not possible to inform the patient as stipulated in Paragraphs 1 and 2 due to emergency or special circumstances, the patient shall be informed afterward.
+
+### Article 33
+
+When the condition of an inpatient in a psychiatric institution has stabilized or recovered to the extent that there is no need for further hospitalization, the institution shall assist the patient in handling discharge procedures and notify their family or protectors. The patient shall not be detained without justifiable reasons.
+
+Before a patient is discharged from a psychiatric institution, the institution shall assist the patient in jointly formulating a discharge preparation plan and providing relevant assistance. In the case of severe patients, the institution shall notify the local health authority to send staff to participate in the plan formulation and consult with the protectors.
+
+For patients diagnosed with psychosis, psychiatric institutions shall notify the local competent authorities of their household registration or place of domicile (residence) before discharge for the authorities to provide case management services. Within three days after discharge, the institution shall inform the local competent authorities of the plan’s contents to provide community treatment, community support, and referral or linkage to various services.
+
+For patients who do not fall under the provisions in the preceding Paragraph but have a service need, psychiatric institutions may apply the provisions mutatis mutandis after the patients’ consent.
+
+### Article 34
+
+For those who are diagnosed as severe patients by a specialist physician, a protector shall be designated, and the specialist physician shall issue a medical certificate to the protector. The protector shall safeguard the rights and interests of the severe patient, taking into account their will and best interests.
+
+The protector referred to in the preceding Paragraph shall be the patient’s legal representative, guardian, or assistant after soliciting the opinion of the severe patient. If none of the aforementioned individuals are available, the protector shall be nominated through mutual recommendation among the patient’s spouse, parents, family members, or individuals who have a special and close relationship with the patient.
+
+If a severe patient does not have a protector, the competent local authority of the patient’s registered household shall separately select an appropriate individual, institution, juridical person, or organization to serve as the protector. If the registered household is unknown, the protector shall be selected by the competent local authority of the patient’s place of domicile (residence) or current location.
+
+The regulation governing the notification procedures of protectors, compilation of their list, training courses, support services, and other related matters shall be established by the central competent authority.
+
+### Article 35
+
+In the medical certificate referred to in Paragraph 1 of the preceding Article, the valid period of one to three years shall be recorded.
+
+Before the expiration of the period referred to in the preceding Paragraph, if the severe patients or their protectors believe that their condition has stabilized and a specialist physician has diagnosed and recognized that they are no longer severe patients, the institution where the diagnosing physician practices shall immediately notify the protector and report to the local competent authority.
+
+Before the expiration of the medical certificate for severe patients, the protector shall assist the patient in obtaining a diagnosis from a specialist physician to confirm their status as severe patients. If the diagnosis is not confirmed upon expiration, the diagnosis certificate shall no longer be valid.
+
+### Article 36
+
+If the condition of a severe patient is critical and there is an immediate danger to their life or body unless immediately given protection or access to medical treatment, the protector or family members shall take immediate emergency measures. If emergency measures cannot be taken immediately, the local competent authority may take emergency measures on their own or commission an institution, juridical person, or organization to do so.
+
+The costs of the emergency measures referred to in the preceding Paragraph shall be borne by the severe patient, spouse, first-degree blood relatives, or those who have a contractual obligation to provide care. If necessary, the local competent authority may make an advance payment.
+
+After making the payment referred to in the preceding Paragraph, the local competent authorities may issue a written administrative sanction to notify the party responsible for bearing the costs to return the amount within 60 days, along with copies of the expense documents, calculation sheets, and the application procedure through which the cost may be reduced or waived. If the party fails to return the amount within the time limits, the local competent authority may take administrative enforcement actions in accordance with the law.
+
+In cases where a patient is in critical condition, and there is an immediate danger or likelihood of danger to their life or body unless immediate protection or access to medical care is provided, provisions of the preceding three Paragraphs shall apply mutatis mutandis.
+
+The regulation governing the methods, procedures, expense bearing, conditions that expenses may be reduced or waived, and other relevant matters of the emergency measures referred to in the four preceding Paragraphs shall be established by the central competent authority.
+
+In cases where the expenses may be reduced or waived, when necessary, the review mechanism under Paragraph 5 of Article 41 of the Senior Citizens Welfare Act may be applied mutatis mutandis.
+
+### Article 37
+
+The personality rights and legitimate rights and interests of patients shall be respected and protected, and discrimination shall be prohibited. With respect to their rights and interests in medical treatment, schooling, examinations, employment, and community living, they shall not be subject to unfair treatment on the grounds of their having a mental illness.
+
+### Article 38
+
+Promotional materials, publications, broadcasts, television, the Internet, or other media reports shall not use discriminatory terms or descriptions related to mental illness. Moreover, they shall not report information inconsistent with the facts or mislead the audience with information that may result in discrimination against patients, protectors, family members, personnel, institutions, juridical persons, or organizations that serve patients.
+
+When a patient or someone suspected of having the condition specified in Subparagraph 1 of Paragraph 1 of Article 3 is involved in a legal issue, and if the court has not determined that the cause of the legal issue is due to the patient’s illness or disability; no promotional materials, publications, broadcasts, television, the Internet, or other media, agencies, institutions, juridical persons, and organizations may attribute the cause of the legal issue to the person’s state of illness or disability.
+
+If broadcasting or television industries violate the provisions of the first Paragraph, the central competent authority shall convene a meeting of the industry competent authorities, experts and scholars, non-governmental organizations, and media representatives to review the facts.
+
+No one is allowed to make public statements that discriminate against patients or make improper insinuations about others having a mental illness.
+
+### Article 39
+
+Without consent by a patient, audio, video, or film recording of the patient is prohibited, and the name or domicile (residence) of the patient may not be reported either. In the case of a severe patient, the consent of their guardian must be obtained.
+
+Within the necessary scope to ensure patient safety, mental health care institutions may install monitoring devices without being limited by the provisions of the preceding Paragraph, but the patients shall be informed. For severe patients, their protectors or family members shall also be informed.
+
+### Article 40
+
+Hospitalized patients shall enjoy the right to personal privacy, free communication, and visitation. Psychiatric institutions may not restrict these rights except for the patients’ illnesses, conditions, or medical needs.
+
+When mental health care institutions arrange for patients to provide services to meet care and training needs, the institutions shall give appropriate rewards to the patients.
+
+### Article 41
+
+The expenses for emergency placement, mandatory hospitalization, and treatment received by severe patients in accordance with relevant provisions of this Act shall be borne by the central competent authority.
+
+The central competent authority shall bear the expenses for mandatory community treatment received by severe patients according to relevant provisions of this Act, which the National Health Insurance does not cover.
+
+The central competent authority shall establish the standards for the expenses referred to in the preceding two Paragraphs.
+
+### Article 42
+
+If there is sufficient factual evidence for recognizing that mental health care institutions, other institutions or organizations, and their staff that implement community treatment or community support have violated patient’s rights or there is a risk of such infringement, the patients or their protectors, persons specified in Paragraph 2 of Article 34, relevant caregivers, and registered patient rights and interests advocacy groups may lodge a complaint in writing to the local competent authority of where the institutions or organizations are located.
+
+The local competent authority shall investigate and deal with the contents of the lodged complaint referred to in the preceding Paragraph and notify the complainant of the results of the handling.
+
+### Article 43
+
+In cases of urgent need incurred by patients’ illness and as deemed necessary by a specialist physician, after obtaining consent in accordance with the provisions of Article 44, psychiatric institutions may administer the following treatment modalities:
+
+\1. Electroconvulsive therapy;
+
+\2. Other special treatment modalities announced by the central competent authority.
+
+### Article 44
+
+Before implementing the treatment modalities referred to in the preceding Article, the psychiatric institution shall exercise due care in good faith, explain the procedures, and obtain written consent in accordance with the following provisions:
+
+\1. For adult patients, their consent shall be obtained. However, those subject to guardianship or assistantship declarations shall be provided with information in a manner that they can understand, and the consent of their guardians or assistants shall be obtained.
+
+\2. If the patients are minors below the age of seven, consent by their proxy as designated by law is required.
+
+\3. The consent of both the patient and their proxy, as designated by law, is required for minors between seven and fourteen years old.
+
+\4. Consent shall be obtained if the patients are minors over the age of fourteen. However, if the patients themselves are incompetent, the consent of their proxy as designated by law is required.
+
+If patients are unable to exercise their right of consent as stipulated in the preceding Paragraph, the situation shall be handled in accordance with the stipulations of the Medical Care Act, the Patient Right to Autonomy Act, and other relevant laws.
+
+When legal guardians or assistants are providing consent pursuant to the proviso of Subparagraph 1 of Paragraph 1, they shall respect the wills of the person under guardianship or assistance.
+
+When the proxy, as designated by law, makes a consent pursuant to Subparagraphs 2 to 4 of Paragraph 1, the best interests of children and juveniles shall be given priority, and their opinions shall be weighed based on their level of mental maturity.
+
+## Chapter 4 Assistance with Medical Care, Reporting, and Follow-up Support
+
+### Article 45
+
+Protectors or family members of patients or persons suspected to have the condition specified in Subparagraph 1 of Paragraph 1 of Article 3 shall assist said patients or persons in getting access to medical care or consult with the community mental health center.
+
+When the local competent authority becomes aware of the persons referred to in the preceding Paragraph or their freedom is unduly restricted, it shall proactively assist them.
+
+Medical institutions shall report to the local competent authorities the data of those who are diagnosed by specialist physicians as severe patients.
+
+The regulation governing the methods and contents of the report, the information construction of reported cases, disposition, follow-up solicitude, and other matters to be complied with as referred to in the preceding Paragraph shall be established by the central competent authority.
+
+### Article 46
+
+If correctional authorities, rehabilitation disposition facilities, and other institutions or facilities intended for detention and reformation have a patient or a person suspected of having the condition specified in Subparagraph 1 of Paragraph 1 of Article 3, the said authorities, institutions, or facilities shall provide medical care or escort and assist them in seeking medical care and carry out the measures in a compulsory manner if necessary.
+
+In cases where there are persons specified in the preceding Paragraph staying in the social welfare institutions and other institutions or facilities that shelter or place people for long-term living and residence, the institutions or facilities shall assist them in accessing medical care.
+
+### Article 47
+
+Upon the discharge of the patients who have records of receiving mental illness treatment and are diagnosed by a specialist physician as needing continuous treatment, the authorities, institutions, or facilities referred to in the preceding Article shall refer or transfer the patients to the local competent authorities of where they reside (live) for providing them with community treatment and community support services.
+
+The regulation governing the methods, contents, information construction of cases, disposition, follow-up solicitude, and other matters to be complied with, as referred to in the preceding Paragraph, shall be established by the central competent authority.
+
+### Article 48
+
+When discovering individuals who are suspected of having the condition specified in Subparagraph 1 of Paragraph 1 of Article 3 during the course of performing their duties, medical personnel, social workers, educational personnel, police officers, firefighters, judicial personnel, immigration administration personnel, household registration personnel, village (neighborhood) officers, and other personnel who carry out community support services may notify the local competent authority to assist in medical care, solicitude, or community support services.
+
+When the police or firefighting agencies are performing their duties, if they find that a person suspected to have the condition specified in Subparagraph 1 of Paragraph 1 of Article 3 is in danger of harming others or themselves, and that danger to their life or body will not be rescued, or danger to others’ life or body will not be prevented unless the person is restrained, the departments shall notify the local competent authority to ascertain and respond immediately whether the person is a patient with psychosis as stipulated in Subparagraph 1 of Paragraph 2 of Article 3. If it is ascertained that the person is a patient with psychosis, the departments shall promptly escort the person to the nearest appropriate medical institution to receive medical care. If the person’s identity cannot be ascertained or their status as a patient with psychosis cannot be confirmed, the local competent authority shall dispatch personnel to the scene to handle the situation jointly. If it is not possible to arrive on-site or on time, the local competent authority shall use technology equipment with mutual voice or image transmission functions to handle the situation. If the competent authority deems it necessary for the person to receive medical treatment, they shall promptly escort the person to the nearest appropriate medical institution for treatment unless otherwise stipulated by law.
+
+If a person is diagnosed as a patient after being escorted to receive medical care in accordance with the preceding Paragraph and handled appropriately by the medical institution, the person shall be transferred to a psychiatric institution designated by the local competent authority (hereinafter referred to as designated psychiatric institution) for continued treatment.
+
+Regarding the designated psychiatric institution referred to in the preceding Paragraph, the regulation governing the method of designation, qualification condition, management, scope of designated business, specialist physician designation, subsidies for safety maintenance expenses, and other compliance matters shall be established by the central competent authority.
+
+To ensure the safety of the escorted persons while performing duties, the personnel escorting them to receive medical care may inspect their bodies and belongings and use appropriate restraint devices if necessary.
+
+### Article 49
+
+The local competent authority shall integrate its subordinate health, police, firefighting, and other relevant departments and establish a 24-hour emergency psychiatric disposition mechanism within its jurisdiction to deal with the matters specified in the preceding Article.
+
+The regulation governing the disposition mechanism, personnel, procedure, entrustment, and other matters specified in the preceding Paragraph shall be prescribed by the central competent authority.
+
+### Article 50
+
+When the prosecutor’s office handles homicide or injury cases and identifies that the defendant or suspect is suspected of having the condition specified in Subparagraph 1 of Paragraph 1 of Article 3, they shall process the case in accordance with the relevant regulations and assist the individual in obtaining medical care when necessary.
+
+### Article 51
+
+As the health, police, and firefighting departments of governments at all levels set up designated hotlines for external services to facilitate the emergency measure provisions to protect people’s lives and safety, they may request the telecommunication enterprises’ cooperation to provide various information of caller ID, whereabouts, or the location detected by telecommunication network positioning. However, this shall be limited to what can be provided, given the performance of the telecommunication enterprises’ telecommunication networks.
+
+If the departments referred to in the preceding Paragraph receive calls indicating that there is a risk of harm to oneself or others, they may contact telecommunication enterprises to provide the caller’s user information needed for rescue operations, and the telecommunication enterprises shall not refuse such requests.
+
+The term “user information” mentioned in the preceding Paragraph refers to the telecommunication user’s name or title, identification document number, address, and information related to the telecommunications number, and such information shall be limited to what is stored by the telecommunication enterprises.
+
+Personnel who handle the matters specified in the preceding three Paragraphs shall keep the process procedure and the information contents they acquired confidential and shall not disclose them.
+
+### Article 52
+
+When a patient leaves a mental health care institution without permission, the institution shall immediately notify his or her family or protector. If the patient’s whereabouts are unknown, the institution shall immediately notify the local competent authority and the police department to actively assist in searching for them.
+
+If the police department finds the patient who has left the institution without permission, as specified in the preceding Paragraph, it shall notify the original institution to bring the patient back and assist in sending them back if necessary.
+
+## Chapter 5 Mandatory Community Treatment and Hospitalization
+
+### Article 53
+
+The Central Competent Authority’s Mandatory Mental Illness Community Treatment Review Committee (hereinafter referred to as the Review Committee) shall review matters related to mandatory community treatment for mental illness.
+
+Members of the Review Committee referred to in the preceding Paragraph include specialist physicians, registered nurses, occupational therapists, psychologists, social workers, representatives of patient rights and interests advocacy groups, legal experts, and other relevant professionals.
+
+While convening a review meeting, the Review Committee may notify the involved parties or interested parties of the review case to attend to present explanations or actively dispatch personnel to visit and investigate the involved parties or interested parties.
+
+The Review Committee shall assist designated psychiatric institutions in submitting a petition for mandatory hospitalization or extended mandatory hospitalization of severe patients to the court and assist the court in arranging administrative matters for review.
+
+The regulation governing the composition of the Review Committee, its review procedures, and other matters to be complied with shall be established by the central competent authority.
+
+### Article 54
+
+If a protector, staff member of a community mental health center, or a specialist physician finds that a severe patient is not following medical advice, which is causing an unstable health condition or a risk of declining function, and the specialist physician deems it necessary for the patient to receive community treatment, the local competent authority of the patient’s domicile or residence and the community mental health center must work together with the protector to help the patient access community treatment.a
+
+If the severe patient refuses to undergo community treatment and a specialist physician assigned by the local authorities deems community treatment necessary, but the patient is unable to make a decision, the designated psychiatric facility must promptly complete the mandatory community treatment basic information and reporting forms. It shall also include the opinions of the patients and their protectors, along with relevant diagnosis certificates, and seek permission from the Review Committee for mandatory community treatment. The decision of whether mandatory community treatment is approved shall be served to the severe patients and their protectors.
+
+The duration of mandatory community treatment shall not exceed six months.
+
+The applications referred to in Paragraph 2 may be filed using electronic transmissions, facsimile, or other technology equipment.
+
+### Article 55
+
+If a specialist physician designated by the local competent authority diagnoses that an extension of the period specified in Paragraph 3 of the preceding Article is necessary, the designated psychiatric institution shall apply to the Review Committee for an extension of mandatory community treatment no later than 30 days before the expiration of the period.
+
+The duration of the mandatory community treatment extension referred to in the preceding Paragraph shall not exceed 1 year.
+
+### Article 56
+
+If a severe patient meets any of the following conditions during mandatory community treatment, the institution or organization implementing mandatory community treatment shall immediately cease the mandatory community treatment and notify the local competent authority:
+
+\1. The illness condition has improved to the extent that continuing mandatory community treatment is not necessary;
+
+\2. Except for the circumstances stipulated in Article 73 that mandatory community treatment may continue, the prescribed period of mandatory community treatment has expired;
+
+\3. The court granted the petition or appeal to cease mandatory community treatment.
+
+If mandatory community treatment was ordered by a court ruling pursuant to Paragraph 1 of Article 71 and the situation specified in Subparagraph 1 of the preceding Paragraph arises, the ruling shall be deemed revoked, and the execution thereof shall be ceased.
+
+### Article 57
+
+The mandatory community treatment items are as follows, and several items may be combined:
+
+\1. Pharmaceutical therapy;
+
+\2. Testing of pharmaceutical concentrations in blood or urine;
+
+\3. Screening for alcohol or other addictive substances;
+
+\4. Psychotherapy;
+
+\5. Rehabilitation treatment;
+
+\6. Other measures that can prevent deterioration of the patient’s illness condition or improve their ability to adapt to daily life.
+
+When the local competent authority implements the treatment referred to in the preceding Paragraph, it may seek the assistance of the police or fire department to execute the following matters if necessary:
+
+\1. Police department: Assist in the mandatory community treatment of severe patients, maintain order at the scene, and ensure the personal safety of personnel involved;
+
+\2. Fire department: Transport severe patients to the institution or organization designated to implement the mandatory community treatment to receive treatment.
+
+During the mandatory community treatment period, if a severe patient fails to receive treatment regularly as instructed by the central competent authority, the local competent authority may seek assistance from the police or fire department when necessary in accordance with the stipulations specified in the preceding Paragraph.
+
+For the patients specified in the preceding Paragraph, the designated psychiatric institution may initiate emergency placement in accordance with Paragraphs 2 to 4 of Article 59 and evaluate whether to apply for mandatory hospitalization.
+
+The provisions of Subparagraphs 1 and 2 of Paragraph 2 of Article 60, shall not apply during the emergency placement referred to in the preceding Paragraph.
+
+### Article 58
+
+The institution or organization implementing mandatory community treatment may collaborate with other mental health-related institutions or organizations as necessary to implement mandatory community treatment.
+
+The central competent authority shall establish regulations governing the qualifications, management, and other matters to be complied with by the institutions or organizations responsible for mandatory community treatment, as referred to in the preceding Paragraph.
+
+### Article 59
+
+Regarding severe patients harming others or themselves or having the danger of harm, whom specialist physicians have diagnosed to have the necessary full-day admission, their protectors shall assist the severe patients in going to psychiatric institutions for hospitalization arrangements.
+
+When the severe patients referred to in the preceding Paragraph refuse to accept full-day hospitalization, the local competent authorities may designate psychiatric institutions to enforce emergency placement and assign them to at least two specialist physicians designated by the local competent authorities for mandatory examination. However, in offshore islands or remote areas, the mandatory examination may be conducted by only one specialist physician.
+
+If the mandatory examination specified in the preceding Paragraph meets the criteria for emergency or special circumstances announced by the central competent authority, it may be conducted through equipment with mutual sound and image transmission functions.
+
+After the mandatory examination, if it is determined that full-day hospitalization is still necessary and the severe patients refuse or are unable to express their decision, the designated psychiatric institution must promptly complete the mandatory hospitalization basic information and reporting sheets. It shall also include the opinions of the severe patients and their guardians, along with other relevant diagnosis certificates, and petition the court for a ruling on mandatory hospitalization.
+
+### Article 60
+
+The period for emergency placement specified in Paragraph 2 of the preceding Article shall be seven days, during which the protection of the rights and interests of the severe patients shall be ensured, and necessary treatment shall be provided. The mandatory examination shall be completed within three days from the date following the emergency placement.
+
+If any of the following situations arises, the designated psychiatric institution shall immediately cease emergency placement and notify the local competent authority:
+
+\1. After mandatory examination, it was determined that mandatory hospitalization is not necessary;
+
+\2. There is no need for further emergency placement because the severe patient agrees to receive full-day hospitalization treatment or his or her illness condition has improved;
+
+\3. The court rejected the petition for mandatory hospitalization;
+
+\4. The court recognized that the petition or appeal to cease emergency placement is valid.
+
+If the situation described in Subparagraph 2 of the preceding Paragraph arises and the designated psychiatric institution has already filed a petition for the court’s ruling on mandatory hospitalization, it shall immediately notify the court that has jurisdiction, and the notification shall be deemed as a withdrawal of the petition for mandatory hospitalization.
+
+The regulation governing the procedures, documents that shall be prepared, and other matters to be complied with for emergency placement shall be established by the central competent authority.
+
+### Article 61
+
+Suppose severe patients whom a designated psychiatric institution has referred to the court for a decision on compulsory hospitalization subsequently consent to receive hospital treatment during the referral period and then request discharge, but the designated psychiatric institutions determine that the patients still meet the conditions outlined in Paragraph 1 of Article 59 and that there is a necessity to continue the hospital treatment, which the patients refuse. In that case, the designated psychiatric institutions shall initiate the compulsory hospitalization referral process again and will no longer permit the patients to transition to voluntary hospitalization.
+
+### Article 62
+
+During the period of emergency placement, if a severe patient has no appointed lawyer as a legal agent, the designated psychiatric institution shall report to the central competent authority to provide necessary legal aid.
+
+The central competent authority may entrust the Legal Aid Foundation or other private organizations to handle the report reception and aid services specified in the preceding Paragraph.
+
+### Article 63
+
+The court shall not impose a mandatory hospitalization period exceeding sixty days for each ruling.
+
+If two or more specialist physicians designated by the local competent authority examine the severe patients and confirm that it is necessary to extend the period of mandatory hospitalization for them, the designated psychiatric institutions shall petition the court for a ruling on the extension of the mandatory hospitalization period no later than fourteen days before the expiration of mandatory hospitalization.
+
+The number of court ruling petition referred to in the preceding Paragraph shall be limited to one time, and the extended period of mandatory hospitalization shall not exceed sixty days.
+
+### Article 64
+
+If there are any of the following conditions during the period of mandatory hospitalization of a severe patient, the designated psychiatric institution handling the mandatory hospitalization shall immediately cease the mandatory hospitalization and notify the original court of the ruling and the local competent authority:
+
+\1. The illness condition has improved, and continued mandatory hospitalization is no longer necessary;
+
+\2. The prescribed mandatory hospitalization period expired, and there is no situation stipulated in Article 73 where the mandatory hospitalization may continue;
+
+\3. The court finds that the petition to cease mandatory hospitalization is valid;
+
+\4. The appeal court revokes the ruling for mandatory hospitalization or finds that the reason for ceasing mandatory hospitalization is valid.
+
+When a severe patient falls under the circumstances in Subparagraph 1 of the preceding Paragraph, the court’s ruling for mandatory hospitalization is deemed revoked and shall cease to be executed.
+
+### Article 65
+
+Emergency placement and the petitions for mandatory hospitalization and extension of mandatory hospitalization shall be handled by the designated psychiatric institutions commissioned by the local competent authorities.
+
+### Article 66
+
+During the period of an emergency placement, mandatory hospitalization, or mandatory community treatment, the severe patients or their protectors may petition the court for a ruling to cease the emergency placement, mandatory hospitalization, or mandatory community treatment.
+
+When the petition and appeal of the affairs referred to in the preceding Paragraph are filed by the severe patients or their protectors, they shall be exempt from court cost, and the provisions provided by Paragraph 4 of Article 77-23 of the Code of Civil Procedure shall apply mutatis mutandis.
+
+Public interest organizations related to patient rights and interests advocacy, which are recognized by the central competent authority, may conduct case supervision on matters of mandatory hospitalization, mandatory community treatment, and emergency placement. If said organizations discover any inappropriate circumstances, they shall immediately notify the relevant competent authorities to take improvement measures.Considering the autonomy, equality, and interests in the protection of severe patients, said organizations may petition the court for a ruling to cease mandatory hospitalization, mandatory community treatment, or emergency placement.
+
+### Article 67
+
+The first instance court related to the mandatory hospitalization of severe patients, the cessation of emergency placement, and the cessation of mandatory community treatment stipulated in this Act shall be conducted by a collegiate panel consisting of one judge as the presiding judge and two expert lay judges.
+
+As the court proceeding with the affairs referred to in the preceding Paragraph ends, the court shall immediately deliberate and announce its ruling. The following stipulations shall be observed during deliberation:
+
+\1. The expert lay judges and the judge shall participate in the whole court procedure.
+
+\2. During the deliberation, the expert lay judges comprising the specialist physician and the representative of the patient rights and interest advocacy groups, and the judge shall state their opinions in sequence.
+
+\3. The decision of deliberations shall be made based on the majority of opinions.
+
+### Article 68
+
+The expert lay judges shall include one psychiatrist designated by the central authority and one representative from a patient advocacy group.
+
+Individuals who have either one of the following situations, including being disqualified from serving as judges under the Judges Act, having had their physician certificate or practice license canceled or revoked, or having been subject to disciplinary measures, may not serve as expert lay judges.
+
+The expert lay judges shall be recommended by the central competent authority, selected by the Judicial Selection Committee of the Judicial Yuan, and submitted to the President of the Judicial Yuan for appointment for a term of three years.
+
+The regulations governing the qualifications, recommendation procedures, number of expert lay judges, and other relevant matters shall be established by the Judicial Yuan after conferring with the Executive Yuan.
+
+The regulation governing the expert lay judges’ selection procedures, taking oath, code of ethical conduct, expense payment, and other relevant matters shall be established by the Judicial Yuan.
+
+### Article 69
+
+The expert lay judges shall exercise their functions and powers independently in accordance with the law and without any interference. Unless otherwise provided by law, their functions and powers are the same as those of judges.
+
+The expert lay judges shall perform their duties fairly and honestly in accordance with the law, shall not act in a way detrimental to judicial justice and credibility, and shall not disclose secrets from the deliberation and other secrets known in the course of performing their duties.
+
+If expert lay judges are in one of the circumstances stipulated in Paragraph 1 of Article 42 and various Subparagraphs of Paragraph 1 of Article 43 of the Judges Act, or there are specific facts and evidence that are sufficient to determine that it could be difficult to expect the performance of their duties to be fair, the President of the Judicial Yuan may, with the consent of the Judicial Selection Committee, discharge their duties.
+
+### Article 70
+
+If a severe patient does not have a non-litigious agent, the court may appoint a lawyer as their legal agent if deemed necessary.
+
+If a severe patient does not have a legal agent referred to in the preceding Paragraph, or if the court deems it necessary to do so during court proceedings, a guardian ad litem may be designated for the patient. The national treasury may pay the guardian ad litem’s remuneration.
+
+### Article 71
+
+If the court finds that a petition for mandatory hospitalization or extension of mandatory hospitalization does not meet the extent that the criteria of such hospitalization require, but there are reasons for mandatory community treatment, it may rule for mandatory community treatment either on the petition or on its own initiative.
+
+Any appeal against the court ruling pursuant to the preceding Paragraph, Paragraph 4 of Article 59, Paragraph 2 of Article 63, and Paragraph 1 or 3 of Article 66, may be filed within ten days after the ruling has been served; there shall be no further appeal against the appeal court’s ruling.
+
+The written form of the court ruling referred to in the preceding Paragraph may be replaced in the way that the court clerk records in the transcript the main text, facts, and the gist of reasons announced by the judge. If the ruling is appealed, the court shall rectify the written form of the ruling within ten days.
+
+### Article 72
+
+In cases where there is technology equipment with mutual sound and image transmission functions both at the whereabouts of the severe patient and the court, which allows the court to conduct the proceedings directly, the court may use such equipment for the proceeding.
+
+### Article 73
+
+During the periods of petitioning for a court ruling and appealing, the designated psychiatric institution may continue to carry out emergency placement, mandatory hospitalization, or mandatory community treatment of the severe patient. However, the preceding measures shall not apply during the period of appeals against the following court rulings:
+
+\1. The cessation of mandatory community treatment, emergency placement, or mandatory hospitalization.
+
+\2. Rejection of the petition for mandatory hospitalization.
+
+\3. Rejection of the petition for the extension of mandatory hospitalization.
+
+### Article 74
+
+In affairs where the expert lay judges participate in the proceedings, except as otherwise specifically stipulated in this Act, the provisions of the Family Act, the Court Organization Act, the Juvenile and Family Court Organization Act, and other laws shall apply.
+
+The regulation governing the operating procedures, documents to be prepared, and other matters to be complied with for designated psychiatric institutions in the affairs referred to in the preceding Paragraph shall be jointly established by the Executive Yuan and the Judicial Yuan.
+
+### Article 75
+
+When necessary, the central and local competent authorities may scrutinize the practices of emergency placement, mandatory hospitalization, and mandatory community treatment performed by the designated psychiatric institutions or order them to provide reports of relevant practices. The designated psychiatric institutions shall not refuse.
+
+The central and local competent authorities may entrust relevant institutions or associations to review the reports and scrutinize the practices referred to in the preceding Paragraph.
+
+### Article 76
+
+Specialist physicians who fall under the following circumstances specified in either one of the following subparagraphs shall neither conduct the diagnosis as specified in Paragraph 2 of Article 54 and Paragraph 1 of Article 55 nor the examination as specified in Paragraph 2 of Article 59 and Paragraph 2 of Article 63:
+
+\1. They themselves are patients who receive diagnosis or examination;
+
+\2. They themselves are the patients’ protectors or interested parties.
+
+## Chapter 6 Penalty Provisions
+
+### Article 77
+
+Psychiatric facilities found in violation of Article 43 or Article 44 shall face fines ranging from NT$60,000 to NT$300,000 imposed by the central competent authority. In the case of severe violations, business suspension for no less than one month and no more than one year may be additionally imposed.
+
+### Article 78
+
+Broadcasts and television businesses that violate the provisions of Paragraphs 1 or 2 of Article 38 shall be fined no less than NT$60,000 and no more than NT$600,000 by the industry competent authorities. Said businesses shall be ordered to make corrections within a certain period. For those who fail to correct the situation within the specified period, fines may be imposed per instance until compliance is achieved.
+
+In cases that promotional materials, publications, the Internet, or other media businesses not specified in the preceding Paragraph violate the provisions of Paragraphs 1 or 2 of Article 38, the industry competent authority shall impose a fine of no less than NT$60,000 and no more than NT$600,000 on the responsible persons. Said authority shall confiscate the items stipulated in Paragraphs 1 or 2 of the same Article, order the person to remove the content, take down the items, or take other necessary measures within a specified deadline. If the responsible person fails to perform within the specified period, fines may be imposed per instance until compliance is achieved.
+
+Agencies, institutions, juridical persons, or organizations other than those specified in the preceding Paragraphs violate the provisions of Paragraph 2 of Article 38 without justifiable reasons shall be fined no less than NT$20,000 and no more than NT$100,000 and may be ordered to remove the content, take down the items, or take other necessary measures within a specified period of time. If they fail to perform within the specified period, fines may be imposed per instance until compliance is achieved.
+
+If there is no responsible person for the promotional materials, publications, the Internet, or other media business, or the responsible person does not have a supervisory relationship with the person who committed the act, the penalty specified in Paragraph 2 shall be imposed on the person who committed the act.
+
+The industry competent authority of the Internet, publications, promotional materials, or other media business specified in Paragraph 2 refers to the municipality or county (city) government where the company or business of the person committing the act or responsible person is located.
+
+### Article 79
+
+In cases where entities violate the provisions of Paragraph 4 of Article 21, their responsible persons shall be fined no less than NT$60,000 and no more than NT$300,000, and the names of such persons shall be publicly announced. The entities shall also be ordered to make corrections within a specified deadline.
+
+During the specified correction deadline referred to in the preceding Paragraph, no additional patients shall be accommodated. Violators shall be subject to a further fine of no less than NT$60,000 and no more than NT$300,000, which may be imposed per instance.
+
+If the corrections required in accordance with the provisions of the preceding Paragraph are not made by the deadline, when necessary, additional sanctions, including the disconnection of the water supply, electricity, or other energy necessary for operation, shall be imposed. In addition, the responsible person shall be fined no less than NT$100,000 and no more than NT$500,000 and ordered to transfer and place the accommodated patients within one month. If the responsible person is unable to do so, the local competent authority shall assist, and the responsible person shall cooperate. Failure to cooperate shall result in compulsory measures and a fine of no less than NT$200,000 and no more than NT$1,000,000.
+
+### Article 80
+
+Anyone who violates any of the Subparagraphs of Article 29 shall be subject to a fine of no less than NT$60,000 and no more than NT$300,000, and the violator’s name may be publicly announced.
+
+If the patient’s protector or personnel of a mental health care institution violates any of the Subparagraphs of Article 29, in addition to being subject to the penalties prescribed in the preceding Paragraph, the local competent authority shall order them to attend guidance and education programs of no less than four hours and no more than fifty hours, which are conducted by the social administration authority, and necessary fees for which shall be charged. The local competent authority shall establish self-government regulations regarding the collection of such fees.
+
+Those who refuse to participate in the guidance and education programs prescribed in the preceding Paragraph or fail to complete the required hours shall be subject to a fine of no less than NT$3,000 and no more than NT$30,000. If they still refuse to participate after being notified again, they may be fined per instance until compliance is achieved.
+
+### Article 81
+
+Under any of the following circumstances, a fine of no less than NT$30,000 and no more than NT$150,000 shall be imposed, and corrections be made within a specified deadline. In cases of failure to do so within the specified deadline or severe violations, a penalty of business suspension for one month to one year or revocation of operation license shall be imposed:
+
+\1. A mental health care institution designated to provide treatment and life reconstruction services for substance use disorders violates the management provisions in the regulation stipulated in Paragraph 2 of Article 21;
+
+\2. A mental health rehabilitation institution receives an audit pursuant to Paragraph 4 of Article 22 and is determined as inadequate or violates Paragraph 5 of the same Article by evading, obstructing, or refusing the audit or violates the provisions regarding restriction conditions prescribed in the regulation stipulated in Paragraph 7 of the same Article;
+
+\3. If a psychiatric institution executes emergency placement or mandatory hospitalization without following the procedures set forth in Paragraph 2 or Paragraph 4 of Article 59, Paragraph 2 of Article 63, or fails to discontinue mandatory hospitalization in accordance with the provisions of Article 64;
+
+\4. A psychiatric institution executes mandatory community treatment without following the diagnosis or procedures prescribed in Paragraph 2 of Article 54, Paragraph 1 of Article 55, or an institution or organization carrying out mandatory community treatment fails to cease mandatory community treatment in accordance with the provisions of Article 56;
+
+\5. A mental health care institution violates the provisions of Article 32.
+
+### Article 82
+
+Under any of the following circumstances, a fine of no less than NT$30,000 and no more than NT$150,000 shall be imposed:
+
+\1. A psychiatric institution violates the provisions of Paragraph 1 of Article 33 by unjustifiably detaining patients who have stabilized from illness conditions or recovered from their illness;
+
+\2. Violations of provisions for the protection of patient rights and interests in Article 37, Article 39, or Paragraph 1 of Article 40;
+
+\3. A medical institution violates the provisions in Paragraph 3 of Article 45 by failing to report information on severe patients to the local competent authority;
+
+\4. A mental health care institution violates the provisions of Paragraph 1 of Article 52 by failing to notify the patient’s family or protector when a patient who is undergoing full-day hospitalization leaves the institution without permission or by failing to notify the local competent authority and the police department when a patient’s whereabouts are unknown.
+
+### Article 83
+
+Anyone who violates the provisions of Paragraph 4 of Article 51 by divulging information that should be kept confidential shall be fined no less than NT$20,000 and no more than NT$100,000.
+
+### Article 84
+
+In cases of violating the provisions of Paragraphs 1 or 2 of Article 46 by failing to provide medical treatment or assistance to access treatment, fines of no less than NT$6,000 and no more than NT$30,000 shall be imposed on the representative or person in charge.
+
+### Article 85
+
+If a mental health care institution violates relevant provisions of this Act, in addition to penalties imposed in accordance with Articles 77, 81, or 82, fines shall also be imposed on the person committing the act in accordance with the provisions of respective Articles.
+
+### Article 86
+
+For private mental health care institutions, the fines stipulated in this Act shall be imposed on the responsible physician or person in charge. If the individual responsible for the act in a private mental health care facility is the same person facing a concurrent penalty, no extra penalties shall be imposed.
+
+### Article 87
+
+Unless otherwise specified, fines, suspension of business, and revocation of business licenses stipulated in this Act shall be imposed by the local competent authority.
+
+## Chapter 7 Supplementary Provisions
+
+### Article 88
+
+For those who were compulsorily hospitalized in accordance with stipulations prior to the enforcement of the amended provisions of this Act on November 29, 2022, if designated psychiatric institutions recognize the necessity of continuing their mandatory hospitalization, the institutions shall petition to the court within two months from the effective date of the amendment for the continuation of their mandatory hospitalization.
+
+If the court deems the petition mentioned in the previous Paragraph to be valid, the sixty days mandatory hospitalization period shall include the time of mandatory hospitalization before the amended statutes of this Act were enforced on November 29, 2022.
+
+### Article 89
+
+The competent authority may request relevant agencies, schools, institutions, legal persons, organizations, or individuals to provide the necessary data required for handling the operations of this Act; the requested party must cooperate in providing the data.
+
+Regarding the data obtained in accordance with the stipulations in the preceding Paragraph, the competent authority shall fulfill its duty of care as a good administrator in conducting a thorough data security audit. In addition, the competent authority shall comply with the stipulations of the Personal Data Protection Act in data storage, processing, and utilization.
+
+### Article 90
+
+The enforcement rules of this Act shall be formulated by the central competent authority and submitted to the Executive Yuan in consultation with the Judicial Yuan for approval.
+
+### Article 91
+
+The enforcement date of this Act shall be two years from the date of its promulgation, except for Chapter 5 and Subparagraphs 3 and 4 of Article 81, the enforcement date of which shall be determined by the Executive Yuan in conjunction with the Judicial Yuan.
+
+## History
+
+1.Formulated and promulgated in 52 articles under Presidential Decree (79) Hua Tsung (1) Yi Tzu No. 7007 on December 7th, 1990
+
+2.Amended Articles 2, 9, 11, 13, 15 and promulgated under Presidential Decree (89) Hua Tsung (1) Yi Tzu No. 8900177700 on July 19th, 2000
+
+3.Amended Article 43 and added Articles 23-1 and 30-1 and promulgated under Presidential Decree Hua Tsung (1) Yi Tzu No. 09100119170 on June 12th, 2002
+
+4.Amended and promulgated in 63 articles under Presidential Decree Hua Tsung (1) Yi Tzu No. 09600085861 on July 4th, 2007; Effective starting from one year after promulgation
+
+5.Amended Articles 4 and promulgated under Presidential Decree Hua Tsung (1) Yi Tzu No. 10900003931 on January 15th, 2020
+
+6.Amended and promulgated in 91 articles under Presidential Decree Hua Tsung (1) Yi Tzu No. 11100105921 on December 14th, 2022.The enforcement date of this Act shall be two years from the date of its promulgation, except for Chapter 5 and Subparagraphs 3 and 4 of Article 81, the enforcement date of which shall be determined by the Executive Yuan in conjunction with the Judicial Yuan.

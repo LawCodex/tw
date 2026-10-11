@@ -1,0 +1,649 @@
+---
+title: "Compulsory Automobile Liability Insurance Act"
+title_zh: "強制汽車責任保險法"
+identifier: "G0390060"
+type: act
+law_level: "法律"
+category: "行政＞金融監督管理委員會＞保險目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1996-12-27
+last_amended: 2022-06-15
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0390060"
+retrieved: 2026-10-12
+---
+
+# Compulsory Automobile Liability Insurance Act
+
+> Translation. The Chinese text ([zh/laws/financial-supervisory-commission/G0390060-compulsory-automobile-liability-insurance-act.md](../../../zh/laws/financial-supervisory-commission/G0390060-compulsory-automobile-liability-insurance-act.md)) is authoritative.
+
+## Chapter 1 General Rules
+
+#### Article 1
+
+(Legislative Purpose)
+
+This Act is specifically stipulated in order to ensure prompt basic coverage for the injured parties in automobile traffic accidents that result in injury or loss of life and to maintain roadway traffic safety.
+
+#### Article 2
+
+(Scope of Application)
+
+Compulsory automobile liability insurance ("this insurance") shall be subject to the provisions of this Act; the Insurance Act will govern with respect to any matters not addressed for herein.
+
+#### Article 3
+
+(Competent Authority)
+
+The competent authority under this Act is the Financial Supervisory Commission.
+
+#### Article 4
+
+(Parties to Provide Relevant Information)
+
+In order to investigate claim adjustments, actuarial statistics, and compensation in relation to automobile traffic accidents covered by this insurance, the competent authority may request insurers, the police, traffic supervisory and other agencies or organizations involved with this insurance to provide relevant information.
+
+#### Article 5
+
+(Definition of Automobile)
+
+In this Act, "automobile" means an automobile as provided in Article 2, subparagraph 10 of the Highway Act, or any other motorized machinery driven on a road.
+
+"Motorcycle," as used in Articles 38 and 49, is also an automobile as defined in Article 2, subparagraph 10 of the Highway Act.
+
+In addition to the vehicles mentioned in the two preceding paragraphs, the term "automobile" also encompasses specified overland motorized vehicles that do not run on rails and serve a transport function. The range of vehicles included in this category, as well as the automobile categories for which insurance contracts are required, will be prescribed and announced by the competent authority in coordination with the central authority for transportation and communications.
+
+#### Article 5-1
+
+A mini electric two-wheel vehicle, as defined in Article 69, Paragraph 1, Subparagraph 1, Item 3 of the Road Traffic Management and Penalty Act, shall be considered an "automobile" under this Act; the party responsible for insurance must establish a contract for this insurance as required. If a mini electric two-wheel vehicle does not have an insurance contract, the highway supervisory authority will not process applications for registration, replacement, or issuance of a license plate.
+
+For mini electric two-wheel vehicles that were inspected, applied for safety type approval, and received a certificate of approval before the implementation of Article 71-1, Paragraph 4 of the Road Traffic Management and Penalty Act, the responsible party shall establish a contract for this insurance within two years of the implementation of the aforementioned provisions. They must then apply for registration and receive a license plate in accordance with the Penalty Act.
+
+If the responsible party fails to establish a contract for this insurance as required, any automobile traffic accident caused by the mini electric two-wheel vehicle will not be covered by this insurance.
+
+#### Article 6
+
+(Establishment of Insurance Contract)
+
+Owners of automobiles for which an insurance contract is required must establish such a contract in accordance with this Act. This requirement also applies to military-use automobiles during non-wartime periods.
+
+If the owner of an automobile, as described in the preceding paragraph, has not established a contract for this insurance, the registered owner with the highway supervisory authority shall be presumed to be the responsible party for insurance.
+
+For an automobile described in paragraph 1, the user or manager will be considered the responsible party for insurance if any of the following conditions apply:
+
+1.The license plate has been returned, surrendered for cancellation, or revoked.
+
+2.The owner is unknown.
+
+3.The owner is unable to manage or use the automobile due to reasons attributable to the automobile's user or manager.
+
+With respect to this insurance, the responsible party must maintain the validity of the insurance contract, and prior to the termination of that contract or when an insurer refuses to insure pursuant to the provisions of Article 18, Paragraph 1, the responsible party must enter into a new insurance contract in accordance with the provisions of this Act.
+
+#### Article 7
+
+(Claiming Insurance Benefits or Compensation)
+
+Where an injured party suffers injury or loss of life as the result of an automobile traffic accident, regardless of whether the injuring party is at fault, a claimant may claim insurance benefits from an insurer or compensation from the Motor Vehicle Accident Compensation Fund ("the Compensation Fund") in accordance with the provisions of this Act.
+
+#### Article 8
+
+(Definition of Insurer)
+
+In this Act, "insurer" refers to an insurance enterprise to which the competent authority has granted permission to provide this insurance.
+
+With respect to applications by insurance enterprises for permission as referenced in the preceding paragraph, regulations governing qualification requirements, required documentation, conditions for revocation of permission, and other matters for compliance shall be adopted by the competent authority in conjunction with the central competent authority for transportation and communications.
+
+#### Article 9
+
+(Definition of Proposer and Insured)
+
+In this Act, "proposer" means a party that applies to an insurer to establish a contract for this insurance pursuant to Article：6 and bears an obligation to pay insurance premiums.
+
+In this Act, "insured" means a proposer to whom an insurer extends coverage and any person using or managing the insured automobile with the proposer's consent.
+
+#### Article 10
+
+(Definition of Injuring Party and Injured Party)
+
+In this Act, "injuring party" means any person who, through the use or management of an automobile, causes an automobile traffic accident.
+
+In this Act, "injured party" means a person who suffers injury or loss of life as the result of an automobile traffic accident.
+
+#### Article 11
+
+(Definition of Claimant)
+
+In this Act, "claimant" means any of the following persons that may claim insurance benefits from an insurer or compensation from the Compensation Fund:
+
+1.In the case of a person who has suffered injury as the result of an automobile traffic accident, it shall be the injured party himself.
+
+2.In the case of a person who has suffered loss of life as the result of an automobile traffic accident, it shall be the survivors of the injured party, in the following order:
+
+(1) parents, children, and spouse;
+
+(2) grandparents;
+
+(3) grandchildren;
+
+(4) siblings.
+
+When there are several persons at the same position in the order, insurance benefits or compensation will be distributed equally among them according to their number.
+
+When, upon the death of an injured party, there are no claimants as provided in paragraph 1, subparagraph 2, persons paying the funeral and interment expenses of the deceased may, within the limit of [actual] funeral and interment expenses, claim benefits from an insurer or compensation from the Compensation Fund. Any sum remaining after deduction of the funeral and interment expenses from the insurance benefits shall belong to the Compensation Fund. When, upon the death of an injured party, there are neither claimants as provided in paragraph 1, subparagraph 2 nor persons paying for the funeral and interment expenses, insurance benefits shall be returned to the ownership of the Compensation Fund.
+
+Items included under funeral and interment expenses under the preceding paragraph, and their amounts, will be prescribed and announced by the competent authority.
+
+#### Article 12
+
+(Definition of Insured Automobile and Uninsured Automobile)
+
+In this Act, "insured automobile" means an automobile for which the establishment of this insurance contract in accordance with the provisions of this Act is required. After ten days from the insurer's receipt of an insurance proposal, if the insurer has not expressed any intention of either commitment or refusal to provide insurance, the automobile indicated in the proposal shall be deemed an insured automobile.
+
+The automobile recorded on the insurance card for this insurance ("insurance card") shall be presumed to be the insured automobile.
+
+In this Act, "uninsured automobile" means an automobile for which establishment of a contract for this insurance in accordance with the provisions of this Act is required but for which none has been established.
+
+#### Article 13
+
+(Definition of Automobile Traffic Accident)
+
+In this Act, "automobile traffic accident" means an accident in which an automobile is used or managed in such a manner as to cause injury or loss of life to a passenger or to a third party outside the vehicle.
+
+#### Article 14
+
+(Time Limitations on Claims for Insurance Benefits)
+
+A claimant's right to claim insurance benefits from an insurer shall be extinguished if not exercised within two years of the time when he learns of the occurrence of damage and the existence of the insurer, or within ten years of the date of the occurrence of the automobile traffic accident.
+
+When a claimant has claimed against an insurer for insurance benefits prior to the end of the period of prescription referenced in the preceding paragraph, the period from the time the claim becomes effective until the notice of the insurer's decision on insurance benefits is received shall not be counted against the period of prescription.
+
+When there is an interruption in the period of prescription for a claimant's right to claim insurance benefits from an insurer, or when the period has not ended, or when a given time period is not counted against the period of extinctive prescription as referenced in the preceding paragraph, such event shall, within the limit of the insured amount, have the same effect with regard to the claimant's right to claim damages from the insured. When there is an interruption in the period of prescription for a claimant's right to claim damages from an insured, or when the period has not ended, such event shall have the same effect with regard to the claimant's right to claim insurance benefits from the insurer.
+
+The provisions of the preceding three paragraphs apply mutatis mutandis to all matters relating to the right to claim compensation from the Compensation Fund arising out of this Act, with the exception that the beginning of the period of extinctive prescription for the right of claim is governed by the following provisions:
+
+1.In cases where an accident vehicle cannot be traced, the period is counted from the time it is known that there is damage and it is confirmed that the at-fault automobile cannot be traced.
+
+2.In cases where an accident vehicle is an uninsured automobile, the period is counted from the time it is known that there is damage and it is confirmed that the at-fault automobile is uninsured.
+
+3.In cases where an accident vehicle is an insured automobile that was used or managed without the consent of the insured, the period is counted from the time it is known that damage has occurred and it is confirmed that the insured automobile was used or managed without consent.
+
+4.In cases where an accident vehicle is one for which establishment of a contract for this insurance is not required, the period is counted from the time it is confirmed that damage has occurred and that the injuring automobile is one for which establishment of a contract for this insurance is not required.
+
+#### Article 15
+
+(Proposer Renewal Notification)
+
+An insurer shall notify a proposer to renew the insurance 30 days prior to the expiry of the policy period. If an insurer fails to provide such notification and an insured peril occurs within 30 days after the expiry of the original policy period, the insurer shall still be liable for payment of insurance benefits, provided the proposer completes renewal procedures and extends the beginning of the policy period retroactively to the expiry of the original policy period.
+
+## Chapter 2 Insurance Contract
+
+### Section 1 Execution of the Contract
+
+#### Article 16
+
+(Establishment of an Insurance Contract before Issuance or Reissuance of a License Plate)
+
+When applying for issuance of a license plate or a temporary pass, or prior to the expiry of the policy period for this insurance contract, the owner of any automobile for which establishment of this contract is required shall, for each such automobile, apply to an insurer to establish this contract.
+
+A highway supervisory authority cannot issue or reissue a license plate or temporary pass, register changes, or inspect an automobile under the following conditions, except for title transfers of vehicles currently suspended from use:
+
+1.If a required insurance contract has not been established.
+
+2.If this insurance contract became effective less than 30 days ago, although this does not apply to applications for temporary license plates or passes.
+
+#### Article 17
+
+(Matters Required to Be Represented for Establishing Insurance Contract)
+
+A proposer shall make truthful representations in regard to the following matters when applying to establish this insurance contract
+
+1.the automobile category;
+
+2.the nature of its use;
+
+3.the automobile license plate number, engine serial number, and vehicle identification number (VIN)
+
+4.the name, sex/gender, date of birth, domicile, and national ID number of the party with the duty to insure. For an automobile owner that is an incorporated or unincorporated body or agency: its name, the government uniform invoice number on the profit-seeking enterprise registration certificate or the uniform invoice number issued by the tax authority, the locations of its places of business or offices, and the name of its representative.
+
+#### Article 18
+
+(Conditions of Refusing Coverage)
+
+An insurer may not refuse to insure, except when a proposer has failed to make premium payments or has violated the duty of truthful representation under the preceding article.
+
+When an insurer intends to refuse coverage as provided in the preceding paragraph it shall make a written expression of intention within 10 days of receiving the insurance proposal; when it has provided no such written expression by the end of that period, it will be deemed to have agreed to extend insurance coverage.
+
+#### Article 19
+
+(Obligation to Deliver Insurance Documents)
+
+Upon the establishment of this insurance contract, the insurer shall issue a document containing the policy provisions and an insurance card to the proposer.
+
+Within four working days after establishing a contract for this insurance, the approved particulars shall be transmitted by the insurer to the agencies (organizations) designated by the competent authority and the central competent authority for transportation and communications, respectively.
+
+When the insured, the policy period, the insured automobile, or the insurance card number listed on the insurance card is changed, the proposer shall notify the insurer to update such information.
+
+#### Article 20
+
+(Conditions for Insurer to Terminate an Insurance Contract)
+
+An insurer may not rescind an insurance contract.
+
+An insurer may not terminate an insurance contract, except under one of the following conditions:
+
+1.The proposer has violated the duty of truthful representation under Article：17.
+
+2.The proposer has not made premium payments as stipulated.
+
+Prior to terminating an insurance contract as provided in the preceding paragraph, an insurer shall notify the proposer in writing to make rectification within 10 days after its receipt of the notice; if the proposer makes rectification at any time prior to receipt of a notice of termination of the contract, the insurer may not terminate the contract.
+
+When an insurance contract is terminated, the insurer shall give notice within three days to the highway supervisory authority with jurisdiction over the insured automobile, and to the agencies or organizations designated by the competent authority and the central competent authority for transportation and communications, respectively.
+
+The insurer shall return to the proposer any unearned premium for the period after termination of the contract; the insurance contract shall be deemed to be in effect prior to return of the premium.
+
+#### Article 21
+
+(Conditions for  Proposer to Terminate an Insurance Contract)
+
+A proposer may not rescind an insurance contract.
+
+A proposer may not terminate an insurance contract, except under one of the following conditions:
+
+1.The license plate of the insured automobile has been surrendered for cancellation, revoked, deregister, or surrendered for suspension of use of vehicle.
+
+2.The insured automobile is reported as scrapped.
+
+3.Ownership of the insured automobile is transferred and the party with the duty to insure after transferal has already established a contract for this insurance, resulting in duplication of insurance.
+
+After an insurance contract has been terminated as provided in the preceding paragraph, where premiums have already been paid the insurer shall return the unearned premium for the period after termination; where premiums have not been paid the proposer shall pay any due premium prior to termination.
+
+#### Article 22
+
+(Revocation of a Duplicate Contract with the Later Date of Effect)
+
+When a proposer establishes a duplicate insurance contract, either the proposer or the insurer issuing the later-dated contract may revoke the contract with the later effective date. This provision also applies if an automobile traffic accident occurs.
+
+The right of revocation referenced in the preceding paragraph shall be exercised, at earliest, at the time duplication of insurance occurs, and prior to the expiry of the policy period of the insurance contract with the earlier date of effect.
+
+When an insurance contract is revoked, the insurer shall return the premium to the proposer, minus any expenses incurred to maintain the validity of the insurance.
+
+#### Article 23
+
+(Transfer of Ownership)
+
+When ownership of an insured automobile is transferred, procedures for establishing a contract for this insurance or for modification thereof shall first be completed, provided that this restriction does not apply to transfer of title to a vehicle currently suspended from use; prior to completion thereof, a highway supervisory authority may not process title transfer registration.
+
+#### Article 24
+
+(Modification and Notification of Insurance Contract)
+
+Any notice given to an insurer by a proposer, insured, or claimant, and any application by a proposer for modification of an insurance contract, shall be made in writing; the same applies to any notice given by an insurer to a proposer, insured, or claimant, and to any agreement by an insurer to modification of an insurance contract.
+
+### Section 2 Coverage of Insurance
+
+#### Article 25
+
+(Payment of Insurance Benefits)
+
+Upon the occurrence of an automobile traffic accident involving an insured automobile, an insurer shall be liable for payment of insurance benefits to claimants as provided herein.
+
+An insurer shall pay insurance benefits within 10 working days from the day after all relevant evidentiary documents have been submitted by the insured or a claimant; the content of those evidentiary documents shall be prescribed and announced by the competent authority in consultation with related agencies or organizations.
+
+If, for reasons attributable to itself, the insurer fails to make payment within the time limit given in the preceding paragraph, it shall pay default interest at the rate of 10 percent per annum from the day after the time limit for payment has ended.
+
+A claimant's right to claim insurance benefits as provided in paragraph 1 and insurance benefits not yet collected by a claimant may not be attached, assigned, or provided as collateral security.
+
+#### Article 26
+
+(Policy Period of Insurance)
+
+The policy period of this insurance shall be determined by the competent authority in conjunction with the central competent authority for transportation and communications on the basis of practical need.
+
+#### Article 27
+
+(Types and Amounts of Insurance Benefits)
+
+Benefits payable under this insurance are:
+
+1.personal injury medical expense benefits;
+
+2.disability benefits;
+
+3.death benefits.
+
+Standards for the tiers, amounts, and approval procedures for the benefits referenced in the preceding paragraph shall be determined by the competent authority in conjunction with the central competent authority for transportation and com- munications based on actual social and economic conditions.
+
+When the standards under the preceding paragraph are amended and an automobile traffic accident occurs after the date the amendment takes effect, the insurer shall handle insurance benefits in accordance with the amended provisions.
+
+#### Article 28
+
+(Conditions of Insurer not Liable for Insurance Benefits)
+
+An insurer is not liable for payment of insurance benefits when an automobile traffic accident involving an insured vehicle occurs as a result of either of the following actions by the injured party or other claimant:
+
+1.The accident was caused by a deliberate act.
+
+2.The accident was caused by a criminal act.
+
+When there are multiple claimants and a deliberate or criminal act, as described in the preceding paragraph, has been committed by one or more of them, the insurer shall deduct the portion payable to those individuals and pay the remaining amount to the other claimants.
+
+#### Article 29
+
+(Conditions for  Insurer to Be Subrogated to the Claimant's Right of Claim against the Insured)
+
+When an automobile traffic accident involving an insured vehicle occurs as a result of any of the following actions by the insured, the insurer shall remain liable for the payment of insurance benefits as provided herein. However, the insurer may exercise the right of subrogation to the claimant’s right of claim against the insured, up to the amount of benefits paid:
+
+1.Driving the automobile after consuming alcohol or similar substances, resulting in a breath or blood alcohol concentration exceeding the standard set by applicable road traffic laws or regulations.
+
+2.Driving after using intoxicants, hallucinogens, narcotics, or other controlled substances, as confirmed by a test.
+
+3.Causing the accident through a deliberate act.
+
+4.Engaging in a criminal act or evading lawful arrest.
+
+5.Violating Article 21 or Article 21-1 of the Act Governing Management of Roadway Traffic and Administration of Sanctions.
+
+The insurer’s right of subrogation, as described above, shall be extinguished if not exercised within two years from the date the insurer pays the insurance benefits.
+
+#### Article 30
+
+(Provisions Regarding an Insurer Subrogated to the Claimant's Right of Claim not to be Bound by a Settlement, Waiver of rights, or Other Agreement between a Claimant and an Insured)
+
+An insurer shall not be bound by any settlement, waiver of rights, or other agreement between a claimant and an insured that was made without the consent of the insurer and would impede the exercise of insurer's right of subrogation to a claim by the claimant against the insured as referenced in the preceding article.
+
+### Section 3 Claim of Insurance Benefits
+
+#### Article 31
+
+(Deduction of Insurer’s Liability)
+
+In the event of an automobile traffic accident involving an insured vehicle, where the insured has already made a partial payment for damages, the insurer shall be liable for payment of insurance benefits only for the remaining amount up to the coverage limit specified herein, after deducting the compensation already paid by the insured. However, if the claimant and the insured have agreed that no such deduction is to be made, such agreement shall take precedence.
+
+If the insured makes an advance payment for damages as described above, the insurer shall reimburse the insured for the amount paid, up to the coverage limit specified herein. This provision shall not apply in cases where the agreement specified in proviso of the preceding paragraph dictates otherwise.
+
+#### Article 32
+
+(Deduction of  Claim for Damages)
+
+Insurance benefits paid by an insurer as provided herein will be deemed part of the damages payable by the insured and may be deducted by the insured when subject to a claim for damages.
+
+#### Article 33
+
+(Insurer Subrogation Right)
+
+If an automobile traffic accident is caused by a third party other than the insured, the insurer may, upon payment of insurance benefits, be subrogated to the insured's right to claim against the third party. However, the amount recoverable through such subrogation shall not exceed the total amount of insurance benefits paid.
+
+The insurer shall not have the right of subrogation if the third party mentioned in the preceding paragraph is the insured's or claimant's spouse, head of family, other family member, blood relative within the fourth degree, or relative by marriage within the third degree, unless the accident was caused by the deliberate intent of such third party.
+
+#### Article 34
+
+(Procedure of Traffic Accident Involving an Insured Automobile)
+
+When an automobile traffic accident involving an insured automobile occurs, it shall be handled in accordance with the following provisions:
+
+1.The insured or the injuring party shall immediately escort the injured party to a local or nearby medical facility for emergency treatment, or shall request another person to do so. This requirement does not apply if it is clearly impossible to provide rescue under the circumstances prevailing at the time of the accident.
+
+2.The insured or injuring party shall immediately report the accident to the local civilian or military police authorities for handling, and shall notify the insurer in writing within five days. A claimant may also give written notification directly to the insurer.
+
+3.The insured, the injuring party, and claimants shall cooperate with the insurer in providing human evidence, physical evidence, and other related information and documentation.
+
+The insurer shall remain liable for the payment of insurance benefits even if the insured, the responsible party, or the claimant fails to fulfill their obligations as specified in the preceding paragraph. However, if any of these parties cause the insurer to incur damages due to deliberate intent or negligence, they shall be held liable for such damages.
+
+#### Article 35
+
+(Claimant’s Right Against the Insurer for Provisional Payment of Insurance Benefits)
+
+When an automobile traffic accident results in loss of life, a claimant may make a claim against the insurer for provisional payment in an amount equivalent to one-half of the insurance benefits by presenting evidentiary documents.
+
+When an automobile traffic accident results in disability, a claimant may make a claim against the insurer for provisional payment of the insurance proceeds based on a disability tier already determined by the insurer, by submitting evidentiary documents.
+
+The insurer shall make payment within 10 working days from the day after a claimant presents evidentiary documents as provided in either of the preceding two paragraphs. If, for reasons attributable to itself, the insurer fails to make payment within the prescribed time limit, it shall pay default interest at the rate of 10 percent per annum beginning from when the prescribed time limit expires.
+
+When a provisional payment of insurance proceeds by an insurer exceeds the amount of insurance benefits actually payable, the insurer may claim for return of the excess portion by the claimant.
+
+#### Article 36
+
+(Procedure of a Single Automobile Traffic Accident Involving Multiple Insured Automobiles)
+
+When a single automobile traffic accident involves multiple automobiles, the matter shall be handled in accordance with the following provisions:
+
+1.When each accident vehicle is an insured automobile, a claimant may claim for payment of insurance benefits jointly and severally by each insurer that is required to bear the obligation to pay benefits.
+
+2.When each accident vehicle is an automobile as set forth in Article：40, paragraph 1, the claimant may claim for compensation from the Compensation Fund.
+
+3.When some of the accident vehicles are insured automobiles and some are automobiles as set forth in Article：40, paragraph 1, a claimant may claim for payment of insurance benefits or compensation jointly and severally by each insurer that is required to bear the obligation to pay benefits and by the Compensation Fund;
+
+Apportionment of liability among the insurers or among the insurers and the Compensation Fund as referenced in the preceding paragraph shall be proportional to the number of accident vehicles for which each is required to bear liability for insurance benefits or compensation payments.
+
+#### Article 37
+
+(Prohibition for Insurer Reject to Pay Benefits due to Claimant Hold Other Insurance)
+
+When a claimant claims insurance benefits in accordance with the provisions of this Act, the insurer may not reject or reduce payment of benefits on the grounds that the claimant holds another type of insurance in addition to this insurance.
+
+## Chapter 3 Motor Vehicle Accident Compensation Fund
+
+#### Article 38
+
+(Establishment of the Compensation Fund)
+
+The Compensation Fund shall be established in order to ensure prompt basic coverage for all the injured parties in automobile traffic accidents under this Act, and to ensure the soundness of this insurance system. The Compensation Fund shall maintain separate accounts for automobiles, motorcycles, and mini electric two-wheel vehicle as a basis for calculation of fees.
+
+The Compensation Fund shall be an incorporated foundation; its articles of incorporation and regulations governing management of the fund shall be adopted by the competent authority in conjunction with the central competent authority for transportation and communications.
+
+#### Article 39
+
+(Sources of the Compensation Fund)
+
+Sources of the Compensation Fund are as follows:
+
+1.Contributions to the Compensation Fund included in premiums for this insurance;
+
+2.Income obtained through subrogation to claims as provided in Article：42, paragraph 2;
+
+3.Interest generated by the Fund;
+
+4.Income obtained as provided in Article：11, paragraph 3;
+
+5.Other revenues.
+
+#### Article 40
+
+(Requirements  of Claiming for Compensation from the Compensation Fund)
+
+When an automobile traffic accident occurs and a claimant is unable, for one of the following reasons, to claim insurance benefits from an insurer in accordance with this Act, the claimant may claim for compensation from the Compensation Fund within the limit of the insured amount provided for herein:
+
+1.An accident vehicle cannot be traced;
+
+2.An accident vehicle is an uninsured automobile;
+
+3.An accident vehicle is an insured automobile that was used or managed without the consent of the insured;
+
+\4. All or any of the vehicles involved in the accident are not subject to the requirement of having a contract for this insurance,
+
+In cases where there is uncertainty regarding the use or management of the automobile without the insured's consent, as specified in subparagraph 3 of the preceding paragraph, the insurer shall make a provisional payment of insurance proceeds pending the resolution of such doubt.
+
+When each of the accident vehicles is an automobile for which establishment of a contract for this insurance is not required as given in paragraph 1, subparagraph 4, the drivers of such vehicles may not apply to the Compensation Fund for compensation.
+
+When, after payment of compensation by the Compensation Fund as provided in paragraph 1, subparagraph 1, it is found that the accident vehicle is an insured automobile under this insurance, the Compensation Fund may claim against its insurer for return of the compensation.
+
+When an insurer returns compensation to the Compensation Fund in accordance with the preceding paragraph, it will be deemed to have paid insurance benefits to the claimant as provided herein.
+
+When a claimant in respect of an automobile traffic accident applies for compensation from the Compensation Fund as provided in paragraph 1, then the provisions of Article：25, paragraphs 2 through 4, and Articles 27, 28, 35, and 37 shall apply mutatis mutandis. However, that the payment of compensation for personal injury medical expense benefits through the mutatis mutandis application of Article：27 shall not include the amount of benefits paid by National Health Insurance.
+
+#### Article 41
+
+(Provisions Applied Mutatis Mutandis to an Automobile Traffic Accident Involving an Uninsured Automobile or an Automobile not Required to Establish an Insurance Contract)
+
+The provisions of Article：34 shall apply mutatis mutandis when an automobile traffic accident occurs involving an uninsured automobile or an automobile for which establishment of a contract for this insurance is not required.
+
+#### Article 42
+
+(Compensation from the Compensation Fund)
+
+Compensation paid by the Compensation Fund as provided in Article：40 will be deemed part of the damages payable by the party liable for damages, and may be deducted by that party when subject to a claim for damages.
+
+After paying compensation, the Compensation Fund may be subrogated to the claimant's right of claim against the party liable for damages, provided that the amount claimable thereby may not exceed the amount of compensation paid.
+
+The right of claim under the preceding paragraph shall be extinguished if not exercised within two years of the date on which compensation is paid by the Compensation Fund.
+
+When the party liable for damages is a claimant's spouse, head of family, other family member, blood relative within the fourth degree, or relative by marriage within the third degree, the Compensation Fund shall have no right of subrogation, provided that this restriction shall not apply when the circumstances set forth under any of the subparagraphs listed under Article：29, subparagraph 1 apply to the party liable for damages.
+
+#### Article 43
+
+(Provisions Regarding the Compensation Fund Subrogated to the Claimant's Right of Claim not Bound by a Settlement, Waiver of rights, or Other Agreement between a Claimant and a Party Liable for Damages)
+
+The Compensation Fund shall not be bound by any settlement, waiver of rights, or other agreement between a claimant and a party liable for damages when such agreement was made without the consent of the Compensation Fund and would impede exercise of the Compensation Fund's right of subrogation to a claim by the claimant against the party liable for damages.
+
+When a claimant has received damages from a liable party, the Compensation Fund shall deduct the amount of such damages from its own compensation payment. If the deductible amount is not deducted, the Compensation Fund may seek reimbursement of the compensation paid, up to the amount of the deductible.
+
+## Chapter 4 Supervision of the Insurance Companies
+
+#### Article 44
+
+(Factors of the Premium Structure)
+
+The premium structure of this insurance shall be based on the following factors:
+
+1.expected losses;
+
+2.the business expenses of the insurer;
+
+3.[contributions to] the Stabilization Fund;
+
+4.contributions to the Compensation Fund;
+
+5.overhead associated with actuarial calculation of rates, research and development, public information services, information transmission, and other expenses necessary to ensure the soundness of this insurance.
+
+The proportions, amounts, and content of the items set forth in the preceding subparagraphs shall be prescribed and announced by the competent authority in conjunction with the central competent authority for transportation and communications.
+
+#### Article 45
+
+(Formulation of Premium Rates)
+
+The premium rates of this insurance shall be formulated by the competent authority in coordination with the central authority for transportation and issued upon approval by a rate review committee comprised of impartial representatives of social justice.
+
+The formulation of premium rates under the preceding paragraph may be entrusted to an appropriate professional institution.
+
+In setting insurance premiums, consideration shall in principle be given to both personal and vehicular factors, provided that one or the other may be selected for use in view of actual societal circumstances.
+
+Insurers shall calculate and collect premiums on the basis of the premium rates issued by the competent authority in conjunction with the central competent authority for transportation and communications as provided in paragraph 1.
+
+The competent authority may engage a professional institution to provide public information services on premiums and other relevant matters.
+
+#### Article 46
+
+(Keeping Accurate Records on the Insurance Coverage and Correctly Handling Claims Adjustment)
+
+An insurer providing this insurance must maintain accurate records of the coverage offered and handle claims adjustments properly. The competent authority shall adopt regulations outlining the required details for insurance coverage, claims adjustment procedures, notification methods under Article 15, and other compliance matters.
+
+#### Article 47
+
+(Insurer’s Obligation to Establish Independent Account Books)
+
+An insurer shall establish independent accounting to record the operational and financial status of this insurance.
+
+The premium of this insurance which belongs to the expected losses referenced in Article 44, paragraph 1, subparagraph 1 shall be used exclusively for purposes of claims under this insurance and for setting aside of the various reserves. The difference between the expected losses and actual losses shall be set aside as special reserve, and may not be withdrawn, transferred, or used for any other purpose, except adjustment of premium rates, raising of insured amounts, covering a pure premium loss, or treatment pursuant to the regulations adopted under paragraph 3.
+
+Regulations governing accounting treatment, the reporting of operational and financial information, the provisioning, custody, utilization, withdrawal, and transfer of the various reserves, and other matters for compliance by an insurer when handling this insurance shall be adopted by the competent authority in consultation with the central competent authority for transportation and communications.
+
+#### Article 47-1
+
+(Restrictions on Applying for Attachment of, or Exercising any Other Right Against, any Asset Relevant to the Insurance by a Creditor)
+
+A creditor of an insurer may not apply for attachment of, or exercise any other right against, any asset relevant to the insurance, unless on the basis of a creditor's right obtained pursuant to this Act.
+
+The items and scope of relevant assets referred to in the preceding paragraph shall be specified in the regulations mentioned in paragraph 3 of the preceding article.
+
+## Chapter 5 Penalty
+
+#### Article 48
+
+(Penal Provisions)
+
+An administrative fine of not less than NT$3 million and not more than NT$15 million shall be imposed by the competent authority for violation of Article 8, paragraph 1 by an insurance enterprise.
+
+An administrative fine of not less than NT$200,000 and not more than NT$1 million shall be imposed by the competent authority for violation of Article 18, paragraph 1 or Article 20 by an insurer.
+
+An administrative fine of not less than NT$600,000 and not more than NT$3 million shall be imposed by the competent authority for violation by an insurer of Article 45, paragraph 4 or Article 47, paragraph 1 or 2, or violation of the regulations to be adopted pursuant to Article 47, paragraph 3 governing the following matters as they relate to this insurance: accounting treatment; the reporting of operational and financial information; and the provisioning, custody, utilization, withdrawal, and transfer of the various reserves.
+
+An administrative fine of not less than NT$60,000 and not more than NT$300,000 shall be imposed by the competent authority for violation by an insurer of Article 15; violation of Article 19, paragraph 1 or 2; violation of the regulations to be adopted pursuant to Article 46 governing accurate keeping of records on insurance coverage and handling of claims adjustment; or violation of the Article 15 provisions regarding notification.
+
+When issuing a disposition pursuant to the preceding four paragraphs, the competent authority may order the violator to make rectification within a specified period; when the insurer fails to make rectification by the end of the period, the competent authority may issue an administrative fine for each successive instance of failure, and may also render the following dispositions based on the severity of the violation:
+
+1.Order the violator to dismiss managers or staffers from their positions.
+
+2.Dismiss directors or supervisors from their positions or suspend them from execution of the duties of those positions for a specified period.
+
+3.Suspend the writing of new business for this insurance for a specified period.
+
+4.Void or revoke the insurer's permission to provide this insurance.
+
+#### Article 49
+
+(Penal Provisions)
+
+The penalty for a party with the duty to insure who fails to establish a contract for this insurance as provided herein, or fails to establish another such contract prior to the expiry of the policy period for this insurance, shall be as below:
+
+1.When the violation is discovered at a roadside check by the highway supervisory authority or by the police when performing traffic duties, or reported by the highway supervisory authority or police together with a violation of the Road Traffic Management and Penalty Act, an administrative fine will be imposed by the highway supervisory authority. For an automobile, an administrative fine of not less than NT$3,000 and not more than NT$15,000 shall be imposed; for a motorcycle, an administrative fine of not less than NT$1,500 and not more than NT$ 3,000 shall be imposed; and for a mini electric two-wheel vehicle, an administrative fine of not less than NT$750 and not more than NT$1,500 shall be imposed.
+
+2.When an uninsured automobile causes an accident, the highway supervisory authority will impose an administrative fine of not less than NT$9,000 and not more than NT$32,000.
+
+Administrative fines under the preceding paragraph may be paid in installments. The central competent authority for transportation and communications in conjunction with the competent authority shall adopt regulations governing related matters including the conditions for applying, numbers of installments, and handling of failure to pay by the deadline.
+
+#### Article 50
+
+(Procedures for Payment of the Administrative Fine)
+
+Certificates for this insurance shall be inspected by highway supervisory authorities during roadside checks and by the police when engaged in traffic duties; instances where this insurance has not been taken out as required shall be reported.
+
+When the highway supervisory authority or police reports a person for violation of the Road Traffic Management and Penalty Act, the instance where the person has not taken out this insurance as required shall be reported at the same time.
+
+Upon receipt of a notice of a violation of this insurance, a party with the duty to insure shall within 15 days appear at the designated location to receive a decision; when said party has failed to appear by the end of that period, the highway supervisory authority may issue a default decision, provided that when the party with the duty to insure acknowledges that the facts of the violation are as stated in the notice, said party may directly pay the administrative fine imposed by the highway supervisory authority at the designated site without waiting for a decision, and the case will then be closed.
+
+#### Article 51
+
+(Compulsory Execution)
+
+Prior to the payment of an administrative fine issued pursuant to this Act, a highway supervisory authority will not process any license re-issuance, register an alteration [of registered particulars], or handle inspection for an automobile for which establishment of a contract for of this insurance is required.
+
+Compulsory execution procedures will be initiated in accordance with the law for failure to pay the administrative fine referenced in the preceding paragraph within the prescribed period.
+
+#### Article 51-1
+
+Where a party with the duty to insure fails to establish another contract for this insurance as provided herein within six months after the expiry of the original policy period, the competent authority may forward the case to highway supervisory authority to revoke the vehicle registration of party’s automobile.
+
+## Chapter 6 Addendum
+
+#### Article 52
+
+(Enforcement Rules)
+
+Enforcement rules for this Act will be adopted by the competent authority in conjunction with the central competent authority for transportation and communications.
+
+#### Article 53
+
+(Date of Enforcement)
+
+Except for articles amended on May 30, 2022 where the date of implementation will be determined by the Executive Yuan, this Act shall be implemented from the date of promulgation.
+
+## History
+
+1.Full text of 50 articles enacted and promulgated on December 27, 1996 per Presidential Order No. Hua-Zong-(I)-Yi-8500301850
+
+Issued 22 October 1997 per Order No. (86)-Taiwan-Finance-40498 of the Executive Yuan; for implementation from January 1, 1998
+
+Purchase of compulsory automobile liability insurance by motorcycle owners to be implemented from January 1, 1999
+
+2.Full text of 53 articles amended and promulgated on February 5, 2005 per Presidential Order No. Hua-Zong-I-Yi-09400017821; for implementation from the date of promulgation
+
+3.Amended on May 19, 2010
+
+4.Articles 16 and 23 amended and promulgated on January 6, 2016 per Presidential Order No. Hua-Zong-I-Yi-10400154131
+
+5.Article 3, 5, 19, 22, 27, and 35 amended and promulgated on January 20, 2021 per Presidential Order No. Hua-Zong-I-Jing-11000003451
+
+6.Articles 38, 49, 50 and 53 amended, and Articles 5-1 and 51-1 added per Presidential Order No. Hua-Zong-I-Jing-11100049751 dated June 15, 2022

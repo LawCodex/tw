@@ -1,0 +1,1003 @@
+---
+title: "Certified Public Accountant Act"
+title_zh: "會計師法"
+identifier: "G0400067"
+type: act
+law_level: "法律"
+category: "行政＞金融監督管理委員會＞證券暨期貨管理目  "
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1945-06-30
+last_amended: 2018-01-31
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0400067"
+retrieved: 2026-10-12
+---
+
+# Certified Public Accountant Act
+
+> Translation. The Chinese text ([zh/laws/financial-supervisory-commission/G0400067-certified-public-accountant-act.md](../../../zh/laws/financial-supervisory-commission/G0400067-certified-public-accountant-act.md)) is authoritative.
+
+## Chapter 1 General Principles
+
+#### Article 1
+
+(Legislative Intent)
+
+This Act is enacted to establish a professional system for certified public accountants (CPAs) and safeguard the quality of the profession, so as to ensure that CPAs play their proper professional role in the economic sphere.
+
+#### Article 2
+
+(Mission of CPAs)
+
+The mission of CPAs is to improve the quality of their practice, improve their professional skills, and promote economic development.
+
+#### Article 3
+
+(Competent Authority)
+
+The competent authority under this Act is the Financial Supervisory Commission.
+
+#### Article 4
+
+(Attestation)
+
+The term "attest" or "attestation" as used in this Act means a CPA, acting pursuant to laws or regulations of the competent authority with the relevant jurisdiction, carrying out an audit, review, secondary review, or special audit, preparing an opinion based thereon, and affixing their signature or seal to the opinion.
+
+#### Article 5
+
+(Qualifications of CPAs)
+
+A citizen of the Republic of China (ROC) who has passed the CPA examination, holds a CPA certificate, and possesses the qualifications of a CPA may practice as a CPA.
+
+A person who has duly acquired a CPA certificate before this Act has come into force may continue to practice as a CPA.
+
+#### Article 6
+
+(Disqualifications of CPAs)
+
+A person to whom any of the following circumstances applies may not practice as a CPA:
+
+\1. Has previously received a final and unappealable sentence to a punishment of not less than one year of imprisonment for fraud, breach of trust, embezzlement, forgery of documents, or occupational crime. Notwithstanding the foregoing, this provision does not apply if three years have already passed since service of the term was completed or pardon was received after partial service of the prison term, or if the sentence is pronounced suspended.
+
+\2. Has been declared by a court to be under guardianship or assistance and that declaration has not been voided.
+
+\3. Has been declared bankrupt and their rights have not yet been reinstated.
+
+\4. Has been discharged from public service as a result of a disciplinary sanction and five years have not yet passed since the date when the disciplinary sanction became final and unappealable.
+
+\5. Has been dismissed from public service as a result of disciplinary sanction and the period during which they are barred from reappointment has not yet expired.
+
+\6. Has been sanctioned by being expelled from practice as provided for in this Act.
+
+If any of the above circumstances applies to a person already practicing as a CPA, their CPA certificate will be voided or revoked. Notwithstanding the foregoing, however, if the CPA certificate has been voided or revoked as a result of any of the circumstances under subparagraphs 1 through 5 of the preceding paragraph, they may still apply for a CPA certificate under this Act once the cause ceases to exist.
+
+#### Article 7
+
+(Application for CPA Certificate)
+
+A person who wishes to apply for a CPA certificate shall submit an application and documentary proof of qualifications in applying to the competent authority for issuance thereof.
+
+#### Article 8
+
+(Establishment or Joining of CPA Firm)
+
+The holder of a CPA certificate may practice nationwide as a CPA only after they have established or joined a CPA firm, applied to the competent authority for practice registration, and joined, as a practicing member, at least the provincial or municipal certified public accountants association ("CPA association") where the head office (or branch) of their CPA firm is located; the CPA association may not refuse membership to such a person.
+
+Provincial and municipal CPA associations shall forward the membership information of their members to the National Federation of CPA Associations of the R.O.C. (NFCPAA) for registration and recordation.
+
+#### Article 9
+
+(Responsibility of CPAs)
+
+A practicing CPA at a CPA firm may not serve simultaneously as a co-located practitioner, partner, shareholder, or employee of another CPA firm.
+
+#### Article 10
+
+(Collecting Remuneration)
+
+A CPA engaged to handle a case may collect reasonable remuneration, at a rate agreed upon with the client.
+
+When deciding on the amount or rate of remuneration, a CPA shall give overall consideration to manpower and time requirements as well as the degree of risk involved in a given case, and may not use improper means to solicit business.
+
+Rules governing the matters to be taken into overall consideration and the improper means referred to in the preceding paragraph shall be drafted by each CPA association and filed with the competent authority for review and approval. The same applies in the event of an amendment.
+
+#### Article 11
+
+(Performing Professional Services in Accordance with Laws and Regulations)
+
+A CPA shall perform professional services in accordance with the laws and regulations of each competent authority with the relevant jurisdiction.
+
+A CPA engaged to provide auditing and attestation of a financial report shall do so in accordance with the regulations for auditing and attestation prescribed by the competent authority, except as otherwise provided for by law.
+
+The regulations for auditing and attestation referred to in the preceding paragraph shall specify matters related to the audit procedures to be carried out by the CPA, the audit working papers, the audit report, and other matters to be observed.
+
+## Chapter 2 Practice Registration
+
+#### Article 12
+
+(Application for Practice Registration)
+
+The holder of a CPA certificate may not apply to the competent authority for practice registration unless they have at least two years of experience as an assistant in attestation work at a CPA firm.
+
+The competent authority shall prescribe regulations governing CPA practice registration eligibility requirements, application documents, registration procedures, registration items, public disclosure of registration materials, and other matters to be observed.
+
+The competent authority may designate a subordinate agency to implement the registration matters referred to in paragraph 1, or it may have them implemented by another government agency or private-sector organization.
+
+One who, before the 29 December 2017 amendments to this Act come into force, has finished their pre-professional training but has not yet applied for practice registration or has started their pre-professional training but has not yet finished may still, within one year from the date the amendments come into force, apply for practice registration under the provisions from before the coming into force of the amendments.
+
+#### Article 13
+
+(CPAs Required to Pursue Continuing Professional Education)
+
+A CPA who has obtained practice registration shall pursue continuing professional education. Regulations governing the minimum course hours of continuing professional education, the subjects to be covered, the institutions in charge of such education, the fees to be charged, the procedures for handling violations of rules, and other related matters shall be drafted by the NFCPAA and reported to the competent authority for finalization and promulgation.
+
+If a CPA who has obtained practice registration is not in compliance with the provisions of the preceding paragraph in relation to the subjects to be covered or minimum hours of attendance in continuing professional education courses, the NFCPAA shall notify the CPA to make up for the required attendance within three months. If the required attendance has not been made up within the prescribed time period, a request shall be filed with the competent authority to suspend the CPA from CPA practice. If the required attendance is duly made up within one year of the date of suspension, they may ask the NFCPAA to file a request with the competent authority to reinstate them for CPA practice.
+
+#### Article 14
+
+(Causes for Voidance or Revocation of Practice Registration)
+
+If any of the following circumstances applies to a CPA, the competent authority shall void or revoke their practice registration:
+
+\1. Death.
+
+\2. The CPA is not practicing the CPA profession as a member of a CPA association.
+
+\3. The CPA fails to join a CPA association within two months after the date of obtaining practice registration; or the CPA fails to rejoin a CPA association within two months after the date of leaving a CPA association.
+
+\4. Any one of the first six subparagraphs under paragraph 1 of Article 6 applies, and the competent authority has voided or revoked the CPA's certified public accountant certificate.
+
+\5. The CPA has been suspended from practice pursuant to the provisions of paragraph 2 of the preceding article, and one year has passed without them being reinstated for practice.
+
+\6. The CPA was a citizen of the ROC, but has lost their ROC citizenship.
+
+If the registration of a CPA has been voided or revoked pursuant to the provisions of any of subparagraphs 2 through 6 of the preceding paragraph, they may still apply for practice registration under the provisions of this Act once the cause ceases to exist.
+
+## Chapter 3 CPA Firms
+
+### Section 1 Organization and personnel
+
+#### Article 15
+
+(Types of CPA Firms)
+
+CPA firms are classified into four types, as follows:
+
+\1. Sole practitioner CPA firm.
+
+\2. Co-location CPA firm.
+
+\3. Joint CPA firm.
+
+\4. Incorporated CPA firm.
+
+#### Article 16
+
+(Establishment of CPA Firm Branches)
+
+A CPA firm may establish branches. A branch of a CPA firm shall be headed by a practicing CPA. One practicing CPA shall head no more than one branch, and the total number of branches established by a CPA firm may not exceed the number of practicing CPAs at that firm.
+
+Unless otherwise approved by the competent authority, the branches established in accordance with the provisions of the preceding paragraph shall number no more than one branch in any special municipality, county, or county-level city.
+
+#### Article 17
+
+(Registration)
+
+A CPA firm and its branches shall register with the NFCPAA.
+
+Rules governing the particulars to be registered by a CPA firm and its branches shall be drafted by the NFCPAA and filed with the competent authority for review and approval. The same applies in the event of an amendment.
+
+If a registered particular as referred to in the preceding paragraph has been changed, the change shall be registered with the NFCPAA within ten days from the date of its occurrence.
+
+#### Article 18
+
+(Qualifications of CPA Assistants and Reporting of Employment Status)
+
+An assistant who helps a CPA carry out attestation work shall possess one of the following qualifications:
+
+\1. Has passed the CPA examination.
+
+\2. Has graduated from an educational institution at the level of junior college or above, and has completed a combined total of at least ten credits of coursework in subjects related to accounting, auditing, taxation, or computer science.
+
+\3. Has passed a senior or junior civil service examination for accounting or auditing officials.
+
+\4. Has graduated from a senior vocational school for commerce and worked in the field of accounting or auditing for two or more years.
+
+Within ten days after the end of each half fiscal year, any hiring or dismissal of assistants involved in attestation work shall be reported by a CPA firm to the NFCPAA for recordation.
+
+#### Article 19
+
+(Performing of Inspections)
+
+To safeguard the interests of the general public and promote the good of society, the competent authority may dispatch personnel to inspect the operations and operations-related financial condition of an approved CPA firm that provides attestation services to public companies. A CPA firm may not avoid, impede, or refuse to cooperate with such an inspection.
+
+### Section 2 Sole Practitioner, Co-Location, and Joint CPA Firms
+
+#### Article 20
+
+(Establishment of CPA Firms)
+
+A CPA may act individually in establishing a sole practitioner CPA firm, or two or more CPAs may act together either as co-located practitioners in organizing a co-location CPA firm or as partners in organizing a joint CPA firm, to engage in CPA practice.
+
+A person joining a co-location or joint CPA firm shall possess the qualifications of a registered CPA.
+
+CPAs who establish a joint CPA firm shall include the words "joint CPA firm" in the firm's name.
+
+A sole practitioner or co-location CPA firm may not use a name that would cause persons to misidentify it as a joint or incorporated CPA firm.
+
+Sole practitioner CPA firms, co-location CPA firms, and joint CPA firms may, as operations require, carry professional liability insurance.
+
+The term "co-location CPA firm" in paragraph 1 means a form of business that is run together by co-located practitioners who accept business separately and assume liabilities separately.
+
+#### Article 21
+
+(Required Conditions for Establishment of CPA Firm)
+
+A CPA who establishes a CPA firm in accordance with the provisions of the preceding article shall satisfy each of the following conditions:
+
+\1. Holds the qualifications of a CPA with practice registration.
+
+\2. Has not been sanctioned by suspension from practice, or the period of suspension from practice has expired and the CPA's practice registration was not voided or revoked.
+
+#### Article 22
+
+(Required Content of CPA Firm Partnership Contract)
+
+CPAs establishing a joint CPA firm shall enter into a partnership contract expressly setting forth the following matters:
+
+\1. The name of the firm.
+
+\2. The full name and occupational title of the firm's responsible person.
+
+\3. A description of the practice to be handled by the firm.
+
+\4. The full names of the partners.
+
+\5. The authorized capital, and each partner's capital contribution.
+
+\6. The ratios for sharing of profits and losses among the partners.
+
+\7. The distribution of voting rights.
+
+\8. The procedures for adoption of resolutions at partners' meetings.
+
+\9. The procedures for entry and withdrawal of partners, grounds for withdrawal, and related rights and obligations.
+
+\10. The procedures for merger and dissolution, and grounds for dissolution.
+
+\11. The ownership of working papers and related documents, and procedures for borrowing and inspection thereof.
+
+\12. The date on which the contract is entered into.
+
+A stipulation regarding sharing of profits and losses as set forth in subparagraph 6 of the preceding paragraph may not provide for exemption from the liability set forth in Article 681 of the Civil Code.
+
+#### Article 22-1
+
+(Requirements Regarding Name and Co-Location Contract of Co-Location CPA Firm)
+
+CPAs who establish a co-location CPA firm shall include the words "co-location CPA firm" in the firm's name.
+
+CPAs who establish a co-location CPA firm shall enter into a co-location contract.
+
+A co-location CPA firm established before the 29 December 2017 amendments to this Act come into force shall achieve compliance with the preceding two paragraphs within one year from the date the amendments come into force.
+
+#### Article 23
+
+(Joint CPA Firms Exempted from Application of Relevant Provisions of Civil Code)
+
+A joint CPA firm is not subject to the provisions of the Civil Code set forth in Article 673, paragraph 2 of Article 674, Article 683, the proviso in subparagraph 1 of Article 687, or Article 688.
+
+### Section 3 Incorporated CPA firms
+
+#### Article 24
+
+(Incorporated CPA Firms)
+
+CPAs may establish an incorporated CPA firm to engage in CPA practice.
+
+A person joining an incorporated CPA firm as a shareholder shall possess the qualifications of a CPA with practice registration.
+
+CPAs who establish an incorporated CPA firm shall include the words "incorporated CPA firm" in the firm's name.
+
+The minimum capital of an incorporated CPA firm shall be prescribed by the competent authority.
+
+#### Article 25
+
+(Conditions for Establishment of Incorporated CPA Firm)
+
+To be established, an incorporated CPA firm shall meet the following conditions:
+
+\1. Has at least three shareholders who possess the qualifications of a CPA with practice registration.
+
+\2. Has capital equal to or greater than the minimum capital prescribed by the competent authority pursuant to the provisions of paragraph 4 of the preceding article.
+
+A CPA may not serve as a promoter of an incorporated CPA firm if they have been sanctioned by suspension from practice and the period of suspension has not yet expired, or if their practice registration has been voided or revoked.
+
+#### Article 26
+
+(Application for Registration of Incorporated CPA Firm)
+
+To establish an incorporated CPA firm, the promoters referred to in subparagraph 1 of paragraph 1 of the preceding article shall unanimously agree on and adopt articles of incorporation and then apply to the competent authority for approval of registration, submitting application documents, the articles of incorporation, documentary proof of compliance with the provisions of the preceding article and Article 31, and any other documents that the competent authority may require.
+
+After the establishment of an incorporated CPA firm has been registered, if there is any change to the firm's name, address, capital, chairperson, or a director, or in the event of merger, dissolution, suspension of business operations, resumption of business operations, establishment of a branch, or any other matter prescribed by the competent authority, the competent authority shall be contacted within ten days of the date when the matter occurs in order to amend the registration or apply for registration.
+
+The particulars of a registration as set forth in the preceding paragraph shall be made public by the competent authority.
+
+After the establishment of an incorporated CPA firm has been registered, any particular that is required to be registered but has not been registered, and any registered particular that has been amended but has not been registered as amended, shall not be effective as against third parties.
+
+#### Article 27
+
+(Registration of Incorporated CPA Firm)
+
+Within 30 days of the date on which the competent authority approves the registration of its establishment, an incorporated CPA firm shall register with the NFCPAA. If the latter registration is not duly carried out, the competent authority may revoke its approval of the establishment registration.
+
+#### Article 28
+
+(Required Content of Articles of Incorporation of Incorporated CPA Firm)
+
+The articles of incorporation of an incorporated CPA firm shall expressly set forth the following items:
+
+\1. The name of the firm.
+
+\2. A description of the practice to be handled by the firm.
+
+\3. Authorized capital.
+
+\4. The beginning and ending dates of the accounting year.
+
+\5. The ratios or bases for distribution of profits and losses.
+
+\6. The number of directors.
+
+\7. The distribution of voting rights.
+
+\8. Types of meetings, procedures for convocation thereof, and method for adoption of resolutions.
+
+\9. The procedures for entry and withdrawal of shareholders, grounds for withdrawal, and related rights and obligations.
+
+\10. The ownership of working papers and related documents, and procedures for borrowing and inspection thereof.
+
+\11. The procedures for merger, dissolution, and liquidation, and grounds for dissolution.
+
+\12. The date on which the articles of incorporation are adopted.
+
+Any amendment to the articles of incorporation of an incorporated CPA firm shall be put up for a vote of the shareholders and approved by at least two-thirds of the voting rights, and shall also be reported within ten days of the amendment to the competent authority for recordation.
+
+An incorporated CPA firm shall have at least three directors, who shall select one person from among their number to serve as chairperson, and the chairperson shall serve as the representative of the incorporated CPA firm.
+
+#### Article 29
+
+(Incorporation Registration and Rectification)
+
+After its incorporation has been registered, if an incorporated CPA firm fails to meet any of the conditions set forth under Article 25, paragraph 1, the competent authority may order it to make rectification within a prescribed time period. If rectification is not made, the competent authority may revoke its approval of the registration.
+
+#### Article 30
+
+(Affixing of Seals to Attestation Work)
+
+The practice of an incorporated CPA firm may not be undertaken by any party other than the firm's shareholders.
+
+When a shareholder of an incorporated CPA firm carries out attestation work, the incorporated CPA firm shall affix its seal to the work, which shall further be signed or sealed by the CPA who has carried out the attestation work.
+
+A seal affixed pursuant to the preceding paragraph shall have been registered with the NFCPAA.
+
+#### Article 31
+
+(Carrying of Professional Liability Insurance)
+
+An incorporated CPA firm shall carry professional liability insurance.
+
+The minimum coverage of the professional liability insurance that an incorporated CPA firm is required under the preceding paragraph to carry, and the manner in which it is implemented, shall be prescribed by the competent authority through regulations, taking into account such matters as the amount of capital, number of shareholders, and the size and nature of the practice of individual firms.
+
+If the professional liability insurance carried by an incorporated CPA firm does not comply with the provisions of the regulations referred to in the preceding paragraph, the competent authority may either order the firm to suspend all or part of its practice for up to six months, or revoke its approval of the firm's registration.
+
+#### Article 32
+
+(Use of Funds)
+
+An incorporated CPA firm may not lend enterprise funds to another party; its enterprise funds may only be used for the following purposes:
+
+\1. For deposit with bank.
+
+\2. Purchase of government or financial bonds.
+
+\3. Purchase of treasury bills, negotiable certificates of deposit, and commercial paper.
+
+\4. Other purposes approved by the competent authority.
+
+An incorporated CPA firm may not provide guarantees, endorse negotiable instruments, or provide property for use as collateral by another party.
+
+#### Article 33
+
+(Annual Financial Report)
+
+An incorporated CPA firm shall file its annual financial report with the competent authority within six months after the end of each accounting year.
+
+Regulations governing the content and preparation of the financial reports referred to in the preceding paragraph and other matters to be observed shall be prescribed by the competent authority.
+
+#### Article 34
+
+(Distribution of Earnings)
+
+When distributing earnings, an incorporated CPA firm shall set aside ten percent as legal reserve. Notwithstanding the foregoing, however, this requirement does not apply if the amount set aside as legal reserve already reaches the total authorized capital amount.
+
+The legal reserve referred to in the preceding paragraph may not be used for any purpose other than to cover the losses of the incorporated CPA firm or to be set aside as equity capital.
+
+#### Article 35
+
+(Causes for Withdrawal of Shareholder)
+
+A shareholder of an incorporated CPA firm shall withdraw from the firm under any of the following circumstances:
+
+\1. Death.
+
+\2. A cause for withdrawal as set forth in the articles of incorporation.
+
+\3. Withdrawal in accordance with the provisions of Article 37, paragraph 2.
+
+\4. A request for withdrawal is put to a vote by the entire body of all other shareholders and approved by at least two-thirds of the voting rights, provided that if the provisions of the articles of incorporation require a higher majority, those provisions shall govern.
+
+\5. The shareholder loses their qualifications to practice as a CPA.
+
+#### Article 36
+
+(Causes for Dissolution of Incorporated CPA Firm)
+
+An incorporated CPA firm shall be dissolved under any of the following circumstances:
+
+\1. A cause for dissolution as set forth in the articles of incorporation.
+
+\2. The firm merges with another incorporated CPA firm.
+
+\3. Bankruptcy.
+
+\4. The competent authority voids or revokes its approval of the firm's registration.
+
+\5. The firm fails to commence operations within six months after its incorporation, or it commences operations but subsequently suspends them of its own accord for six months or longer, and the competent authority orders dissolution.
+
+With respect to the time periods set forth in subparagraph 5 of the preceding paragraph, if there is a legitimate reason, an application may be filed with the competent authority for an extension.
+
+#### Article 37
+
+(Resolution Procedures for Merger)
+
+An incorporated CPA firm may merge with another incorporated CPA firm upon a vote by the shareholders with approval by at least two-thirds of the voting rights. Notwithstanding the foregoing, if the provisions of the articles of incorporation require a higher majority, those provisions shall govern.
+
+A shareholder who does not approve a merger referred to in the preceding paragraph may withdraw.
+
+An application shall be filed with the competent authority to register the survival, extinguishment, or consolidation of an incorporated CPA firm after a merger under paragraph 1.
+
+#### Article 38
+
+(Provisions Applicable Mutatis Mutandis to Incorporated CPA Firms)
+
+An incorporated CPA firm is an incorporated association established in accordance with the provisions of this Act for the purpose of providing professional CPA services, and for the purpose of engaging in the professional services set forth under this Act.
+
+The provisions of Articles 73 to 75, 79 to 97, and 99 of the Company Act apply mutatis mutandis to incorporated CPA firms.
+
+## Chapter 4 Professional Services and Liabilities
+
+#### Article 39
+
+(Scope of Professional Services of CPAs)
+
+A CPA may perform the following types of professional services:
+
+\1. Attestation of financial reports or other financial information.
+
+\2. Services related to accounting system design, management or tax consultancy, auditing, verification, arrangement, liquidation, appraisal, financial analysis, asset valuation, or property trust.
+
+\3. To serve as an inspector, liquidator, bankruptcy administrator, arbitrator, will executor, reorganization manager, reorganization supervisor, or as another type of trustee.
+
+\4. To serve as an agent in cases involving taxation, or to perform attestation of income tax returns filed by profit-seeking enterprises.
+
+\5. To serve as an agent in cases involving industrial and commercial registration or trademark registration and in cases relevant to such registrations.
+
+\6. To serve as an agent for administrative appeal cases involving any of the professional services under the preceding five subparagraphs, or to serve as an agent for tax-related administrative litigation under the Code of Administrative Procedure.
+
+\7. To perform various assurance services, including ongoing auditing, assurance on system reliability, and assurance on investment performance.
+
+\8. To perform services otherwise related to accounting, auditing, and taxation matters.
+
+#### Article 40
+
+(Legal Liability for Acts in Performance of Professional Services)
+
+A CPA shall be legally liable for any act the CPA does in the performance of professional services.
+
+A CPA who is helped in the performance of attestation work by an assistant shall faithfully fulfill the duty to manage and oversee the assistant's work.
+
+#### Article 41
+
+(Duty of Loyalty in Professional Services)
+
+A CPA may not commit any misconduct, or violate or neglect any required professional duties, in the course of their practice.
+
+#### Article 42
+
+(Damages for Breach of Duty of Loyalty)
+
+A CPA shall be liable to compensate any appointing party, client, audited entity, or interested party for any damage incurred as a result of any of the circumstances contemplated in the preceding article.
+
+Except for providing attestation services to a public company, the CPA's liability for damages under the preceding paragraph, if incurred as a result of negligence, shall be limited to no more than ten times the total amount of the professional fees received for that year from the appointing party, client, or audited entity.
+
+If a circumstance under paragraph 1 applies to a shareholder of an incorporated CPA firm, the shareholder shall be liable jointly and severally with the incorporated CPA firm for the damages.
+
+If the incorporated CPA firm does not carry professional liability insurance as required by the competent authority, all the shareholders shall be jointly and severally liable for damages with the incorporated CPA firm for that portion of damages corresponding to the insurance coverage shortfall.
+
+An incorporated CPA firm that pays damages under paragraph 3 is entitled to claim recovery from the shareholder.
+
+#### Article 43
+
+(Competent Authority May Make Inquiries about Attestations Made in Professional Services)
+
+If the competent authority with the relevant jurisdiction has any doubt regarding the attestation made by a CPA in the performance of professional practice, it may inquire of the CPA concerned or request to review any attestation-related documents and audit working papers, and the CPA may not refuse or avoid cooperation with the inquiry or request.
+
+If the attestation-related documents and audit working papers of the preceding paragraph are possessed by a CPA firm pursuant to a contract or to its articles of incorporation, the CPA firm shall furnish the same to the CPA to make them available for the inquiry or review by the competent authority with the relevant jurisdiction.
+
+Before taking over an audit from another CPA, the successor CPA shall solicit the views of the predecessor CPA, who shall provide a true and factual response in keeping with their professional position. The successor CPA may request working papers from the predecessor CPA to review them for the audit that they have taken over.
+
+#### Article 44
+
+(Restrictions on Service as Civil Servant or as Responsible Person of Government-Owned Business Entity)
+
+No CPA may serve as a civil servant, or as a director, supervisor, or managerial officer of a government-owned business entity, unless the CPA's practice registration has been canceled upon application. However, the CPA may reapply for practice registration once the cause for cancellation ceases to exist.
+
+#### Article 45
+
+(Restrictions on Departing Civil Servant Serving as CPA)
+
+For two years after separation from a civil service position in which the work involved any of the matters set out in subparagraph 1, 4, or 5 of Article 39 during the two years prior to separation from service, a civil servant may not provide services relating to any such matter when practicing as a CPA in the district where they served as a civil servant.
+
+#### Article 46
+
+(Conduct Prohibited by CPAs)
+
+A CPA may not engage in any of the following conduct:
+
+\1. Permit others to practice under their name.
+
+\2. Practice under the name of another CPA.
+
+\3. Accept employment from a non-CPA to perform CPA services.
+
+\4. Take advantage of one's position as a CPA to engage in improper industrial or commercial competition.
+
+\5. Perform practice related to matters in connection with which one is an interested party.
+
+\6. Use the title of CPA to act as a guarantor in matters beyond the scope of CPA services.
+
+\7. Purchase real or personal property under their management as a CPA.
+
+\8. Solicit, agree to accept, or accept unlawful benefit or compensation.
+
+\9. Solicit business by improper means.
+
+\10. Advertise for promotional purposes not related to commencement of business, office relocation, merger, accepting client engagements, or introduction of the CPA firm.
+
+\11. Disclose confidential information obtained in the performance of professional services without the permission of the appointing agency, client, or audited entity.
+
+\12. Engage in other conduct that could tarnish the reputation of CPAs, as specified by the competent authority.
+
+Rules governing the content and scope of advertising related to the accepting of client engagements or introduction of the CPA firm, as referred to in subparagraph 10 of the preceding paragraph, shall be drafted by the NFCPAA and filed with the competent authority for review and approval.
+
+The provisions of subparagraphs 7 through 12 of paragraph 1 apply mutatis mutandis in the case of an incorporated CPA firm.
+
+#### Article 47
+
+(Circumstances Under Which CPA May Not Perform Attestation of Financial Reports)
+
+A CPA to whom any of the following circumstances applies may not accept an engagement to perform attestation of financial reports:
+
+\1. The CPA is currently employed by the client or audited entity to perform routine work for which they receive a fixed salary, or currently serves as a director or supervisor thereof.
+
+\2. The CPA has previously served for the client or audited entity as a director, supervisor, managerial officer, or an employee with material influence over attestation, and has been separated from the position for less than two years.
+
+\3. The CPA is a spouse, lineal relative, direct relative by marriage, or a collateral relative within the second degree of kinship of any responsible person or managerial officer of the client or audited entity.
+
+\4. The CPA, or the spouse or a minor child thereof, has a relationship of investment or sharing of financial interest with the client or audited entity.
+
+\5. The CPA, or the spouse or a minor child thereof, has lent or borrowed funds to or from the client or audited entity. However, this does not apply if the client is a financial institution and the borrowing or lending is part of a normal business relationship.
+
+\6. The CPA provides management consulting or other non-attestation services that affect their independence.
+
+\7. The CPA fails to comply with regulations, as prescribed by the competent authority with relevant jurisdiction, governing CPA rotation, handling accounting matters on behalf of clients, or other matters that affect their independence.
+
+If any of subparagraphs 1, 2, 4, or 5 under paragraph 1 applies to a practicing CPA at a CPA firm, its other practicing CPAs also may not accept an engagement to perform attestation of the financial reports.
+
+If any of subparagraphs 4 through 6 under paragraph 1 applies to the relationship between an incorporated CPA firm and a client or an audited entity, its shareholders may not accept an engagement perform attestation of the financial reports.
+
+#### Article 48
+
+(Circumstances Prohibited in the Performance of Attestation of Financial Reports or Other Financial Information)
+
+A CPA who accepts an engagement to perform attestation of financial reports or other financial information may not engage in any of the following conduct:
+
+\1. Knowing that an audited entity's financial report or other financial information is directly prejudicial to the interests of an interested party, and concealing such circumstance or issuing a false or improper attestation report.
+
+\2. The CPA, because of failure to exercise due professional care, fails to point out that a financial report or other financial information provided by a client or audited entity has not been prepared in accordance with laws and regulations or generally accepted accounting principles or practices, thereby causing people to misunderstand matters of material significance.
+
+\3. The CPA fails to abide by applicable laws and regulations or generally accepted auditing standards, thereby issuing a false or improper attestation report on a financial report or other financial information that contains material falsehoods or errors.
+
+\4. In issuing an attestation report, the CPA fails to abide by laws and regulations or generally accepted auditing principles and to prepare working papers.
+
+\5. The CPA fails to issue an attestation report with an appropriate opinion reached in accordance with laws and regulations or generally accepted auditing principles.
+
+\6. Because of improper intent or negligence in duty by the CPA, the financial report or other financial information attested by the CPA is prejudicial to the interests of a client, audited entity, or interested party.
+
+#### Article 49
+
+(Circumstances in Which CPA Shall Refuse to Attest)
+
+A CPA who accepts an engagement to perform attestation of a financial report shall refuse to attest under any of the following circumstances:
+
+\1. The client or audited entity intends to have the CPA provide false or improper attestation.
+
+\2. The audited entity intentionally fails to provide necessary data.
+
+\3. It is otherwise impossible to provide fair and thorough attestation due to concealment or fraud by the audited entity.
+
+When a CPA providing attestation service with respect to the financial report of a public company refuses to attest pursuant to the provisions of the preceding paragraph, the CPA shall promptly provide written notice to the client's directors and supervisors or supervisory unit with functions equivalent to those of supervisors, and shall also provide a copy of the notice to the competent authority with the relevant jurisdiction. The supervisors or the supervisory unit with functions equivalent to those of supervisors shall, by the day next following receipt of such notice, provide written notice to the competent authority with the relevant jurisdiction.
+
+A CPA who refuses to attest pursuant to the provisions of paragraph 1 may still demand the remuneration originally agreed upon.
+
+## Chapter 5 Professional Associations
+
+#### Article 50
+
+(Regions Where CPA Associations are Required to Be Established)
+
+CPAs shall organize provincial and municipal CPA associations. The provincial and municipal CPA associations shall organize the NFCPAA where the seat of the central government is located.
+
+Provincial and municipal CPA associations shall be established where the seats of the provincial and municipal governments are located. However, this limitation does not apply if a provincial or municipal competent authority for civic organizations approves the establishment of such an association in another locality.
+
+#### Article 51
+
+(Provincial and Municipal CPA Associations)
+
+A provincial or municipal CPA association shall be founded by nine or more CPAs who are in business within the administrative district of the province or municipality. If there are fewer than nine CPAs in a province or municipality, the CPAs there shall either join the association in a neighboring province or municipality, or establish an association jointly with the CPAs in a neighboring province or municipality.
+
+#### Article 52
+
+(National Federation of CPA Associations [NFCPAA])
+
+The NFCPAA shall be initiated and organized by the provincial and municipal CPA associations.
+
+The provincial and municipal CPA associations shall join as members of the NFCPAA.
+
+#### Article 53
+
+(Competent Authority for CPA Associations)
+
+The competent authority for civic organizations shall serve as the competent authority for CPA associations. However, the entities forming the membership thereof shall operate under the direction and supervision of the competent authority for CPAs as set out in Article 3.
+
+#### Article 54
+
+(Convening of CPA Association General Assemblies and NFCPAA General Congress)
+
+The provincial and municipal CPA associations shall each convene a general assembly once per year, and may as necessary convene extraordinary assemblies. An extraordinary assembly shall be convened upon the request of one-fifth or more of the members, or when the board of supervisors issues a letter of convocation.
+
+The NFCPAA shall convene a general congress once every two years, and may as necessary convene extraordinary general congresses.
+
+#### Article 55
+
+(Required Content of CPA Association Articles of Association)
+
+The articles of association of a provincial or municipal CPA association shall expressly set forth the following items:
+
+\1. Its name, district, and location.
+
+\2. The number of directors and supervisors, their powers and terms of office, and the manner of their election and dismissal.
+
+\3. Rules of procedure for general assemblies and meetings of the board of directors and board of supervisors.
+
+\4. Matters relating to joining or leaving membership.
+
+\5. Membership fees.
+
+\6. Rules on suspension of membership rights when a member violates the association's articles of association or other rules adopted by the association.
+
+\7. Other necessary matters regarding the handling of association affairs.
+
+#### Article 56
+
+(Preparatory Procedures for Convening of General Assembly)
+
+A provincial or municipal CPA association shall convene a meeting of its board of directors and its board of supervisors 10 days before the convening of a general assembly. Five days before the assembly, it shall send a letter inviting the provincial or municipal competent authority for civic organizations and competent authority for CPAs to dispatch an observer(s) to attend the assembly and provide direction or oversight of elections.
+
+#### Article 57
+
+(Information CPA Association is Required to File with Competent Authorities)
+
+A provincial or municipal CPA association shall file the following information with the provincial or municipal competent authority for civic organizations and competent authority for CPAs:
+
+\1. Articles of association of the CPA association.
+
+\2. A membership register, and matters relating to joining or withdrawing from membership.
+
+\3. The number of persons elected as directors and supervisors, and their names.
+
+\4. The times and locations of meetings of the general assembly or board of directors and board of supervisors, and minutes of the meetings.
+
+\5. Motions and resolutions.
+
+The filings of the preceding paragraph shall be forwarded by the provincial or municipal competent authority for civic organizations to the central competent authority for civic organizations for review and recordation.
+
+#### Article 58
+
+(Sanctions for Violation of Laws or Regulations or Articles of Association by CPA Association)
+
+If a provincial or municipal CPA association violates a law or regulation or the articles of association of the CPA association, the provincial or municipal competent authority for civic organizations may impose any one of the following sanctions:
+
+\1. A warning.
+
+\2. Nullification of its resolution(s).
+
+\3. Arrangement.
+
+When the provincial or a municipal CPA association undergoes arrangement, it may be dissolved and reorganized.
+
+The sanctions set out in paragraph 1, subparagraphs 1 and 2 may also be imposed by the competent authority for CPAs.
+
+#### Article 59
+
+(Establishment of CPA Professional Liability Assessment Committee)
+
+The NFCPAA shall establish a CPA professional liability assessment committee to provide assessments of CPA professional liability upon request.
+
+Rules governing the organizational structure and functions of the CPA professional liability assessment committee referred to in the preceding paragraph, and its performance of assessments, shall be prescribed by the NFCPAA in provisions that form part of its articles of association.
+
+#### Article 60
+
+(Articles of Association Shall Set Out Organizational Structure and Procedures)
+
+The NFCPAA shall set out provisions in its articles of association governing the organizational structure and procedures of functional committees for practice reviews, professional ethics, discipline, public policy, international affairs, professional education, and member dispute mediation.
+
+The provisions of Articles 55 to 58 apply mutatis mutandis to the NFCPAA.
+
+## Chapter 6 Disciplinary Matters
+
+#### Article 61
+
+(Causes for Disciplinary Proceedings)
+
+A CPA to whom any of the following circumstances applies shall be subject to disciplinary proceedings:
+
+\1. Has received a final and unappealable sentence for a crime, and the charge merits a determination that the reputation of CPAs has been harmed.
+
+\2. Has been sanctioned by a tax collection authority for evading taxes, or for helping or instigating another person to do so, if the situation is severe.
+
+\3. Has committed an error or omission in attestation of a financial report or an income tax return filed by a profit-seeking enterprise, if the situation is severe.
+
+\4. Has received an administrative sanction for a violation of another applicable law or regulation, if the situation is severe and is sufficient to affect the reputation of CPAs.
+
+\5. Has committed a violation of the articles of association of a CPA association, if the situation is severe.
+
+\6. Has committed another violation of this Act, if the situation is severe.
+
+#### Article 62
+
+(Disciplinary Actions and Sanctions)
+
+Disciplinary actions and sanctions against CPAs are as follows:
+
+\1. An administrative fine of not less than NT$120,000 and not greater than NT$1.2 million.
+
+\2. A warning.
+
+\3. A reprimand.
+
+\4. Suspension from practice for not less than two months and not more than two years.
+
+\5. Expulsion from practice.
+
+#### Article 63
+
+(Procedures for Disciplinary Proceedings)
+
+If circumstances set out in any of the subparagraphs of Article 61 exist with respect to a CPA, the competent authority with the relevant jurisdiction or the NFCPAA may report the pertinent facts and evidence to the CPA Discipline Committee to request disciplinary action.
+
+An interested party who discovers that circumstances set out in any of the subparagraphs of Article 61 exist with respect to a CPA may also report the pertinent facts and evidence to the competent authority with the relevant jurisdiction or to the NFCPAA, for forwarding to the CPA Discipline Committee for disciplinary action.
+
+#### Article 64
+
+(Disciplinary Proceeding Handling Entity and Response by Respondent CPA)
+
+If a CPA is subject to disciplinary proceedings, the matter shall be handled by the CPA Discipline Committee.
+
+If a CPA is reported for disciplinary action, the CPA Discipline Committee shall notify the CPA and order the latter to submit a response or appear before the Committee to provide a statement within 20 days from the day following service of the notification; if they fail to submit a response or appear before the Committee to provide a statement within that time period, a resolution may be adopted ex parte.
+
+A CPA who submits a response in accordance with the provisions of the preceding paragraph shall send a copy of the written response to the NFCPAA or the competent authority with the relevant jurisdiction (whichever one originally referred the matter for disciplinary action).
+
+#### Article 65
+
+(Disciplinary Matters Requiring Filing of Information)
+
+When the CPA Discipline Committee discovers a suspected crime in the course of handling a disciplinary matter, it shall file an information.
+
+#### Article 66
+
+(Rehearing of Resolution of Disciplinary Proceedings)
+
+If the person subject to disciplinary proceedings disagrees with the resolution of the CPA Discipline Committee, within 20 days from the day following service of the written resolution, they may petition the CPA Disciplinary Rehearing Committee for a rehearing.
+
+#### Article 67
+
+(Organization and Procedural Regulations of CPA Discipline Committee and CPA Disciplinary Rehearing Committee)
+
+The organization and procedural regulations of the CPA Discipline Committee and the CPA Disciplinary Rehearing Committee shall be prescribed by the competent authority.
+
+The members of the CPA Discipline Committee and the CPA Disciplinary Rehearing Committee of the preceding paragraph shall be hired by the competent authority from among the following three types of persons, each of which shall comprise one-third of committee membership:
+
+\1. Representatives of CPA associations.
+
+\2. Scholars or fair and impartial persons with expertise in law or accounting.
+
+\3. Representatives of relevant administrative agencies.
+
+Regulations to govern hiring of the committee members referred to in subparagraph 2 of the preceding paragraph shall be separately prescribed by the competent authority.
+
+#### Article 68
+
+(Public Announcement of Resolution of Disciplinary Proceedings)
+
+After a disciplinary action or sanction against a CPA becomes final, the CPA Discipline Committee or the CPA Disciplinary Rehearing Committee may publicly announce the results of its resolution and publish its resolution in a government gazette.
+
+## Chapter 7 Penal Provisions
+
+#### Article 69
+
+(Penalty for Performing Attestation Without CPA Qualifications)
+
+A person who, without having obtained CPA qualifications, performs themself or employs a practicing CPA to perform attestation of financial reports as contemplated in Article 39, subparagraph 1 or attestation of income tax returns filed by profit-seeking enterprises as contemplated in Article 39, subparagraph 4, shall be punished by imprisonment for not more than five years, detention, and/or a criminal fine of not less than NT$600,000 and not more than NT$3 million.
+
+#### Article 70
+
+(Penalty for Lending CPA Seal and Certificate or Firm Logo)
+
+A CPA who lends their CPA seal or certificate or firm logo for use by a person lacking CPA qualifications shall be punished by an administrative fine of not less than NT$600,000 and not more than NT$3 million, and shall also be ordered to cease the behavior within a prescribed period of time. If the behavior has not been ceased within the prescribed time period, or if after being ceased the violation is repeated, the CPA shall be punished by imprisonment for not more than three years, detention, and/or a criminal fine of not less than NT$600,000 and not more than NT$3 million.
+
+#### Article 71
+
+(Penalty for Performing CPA Services Without CPA Qualifications)
+
+A person lacking CPA qualifications who advertises, solicits business, or performs CPA services while assuming the title of a CPA, CPA firm, accounting firm, or another title that could easily cause others to mistakenly believe they are dealing with a CPA firm, and who is ordered to cease the behavior within a specified period but fails to do so, or who after ceasing the behavior subsequently repeats the violation, shall be punished by an administrative fine of not less than NT$300,000 and not more than NT$1.5 million, and shall also be ordered to cease the behavior within a prescribed period of time. If the behavior has not been ceased within the prescribed time period, or if after being ceased the violation is repeated, the person shall be punished by imprisonment for not more than two years, detention, and/or a criminal fine of not less than NT$400,000 and not more than NT$2 million.
+
+#### Article 72
+
+(Penalty for Performing CPA Services Without Completing Practice Registration or Joining CPA Association)
+
+A person who holds a CPA certificate but fails to complete practice registration or join a CPA association and begins performing CPA services shall be punished by an administrative fine of not less than NT$120,000 and not more than NT$600,000, and shall also be ordered to make rectification within a prescribed period of time. If rectification is not made within the prescribed time period, the person shall be punished by an administrative fine of not less than NT$240,000 and not more than NT$1.2 million, and shall also be ordered to make rectification within a prescribed period of time. If rectification is not made within the second prescribed time period, their CPA certificate will be revoked.
+
+#### Article 73
+
+(Penal Provisions)
+
+A CPA firm to which any one of the following circumstances applies shall be punished by an administrative fine of not less than NT$10,000 and not more than NT$50,000, and shall be ordered to make rectification within a prescribed time period. If rectification is not made within the prescribed time period, administrative fines of not less than NT$120,000 and not more than NT$600,000 shall be imposed for each instance of violation until such time as rectification is made:
+
+\1. The CPA firm fails to complete registration or amendment registration in accordance with the provisions of Article 17, paragraph 1 or 3.
+
+\2. The CPA firm fails to amend its registration or apply for registration in accordance with the provisions of Article 26, paragraph 2.
+
+\3. The CPA firm's articles of incorporation do not include all the items set out in Article 28, paragraph 1, or an amendment to the articles of incorporation is not reported for recordation as required in Article 28, paragraph 2.
+
+A CPA firm to which any one of the following circumstances applies shall be punished by an administrative fine of not less than NT$120,000 and not more than NT$600,000, and shall be ordered to make rectification within a prescribed time period. If rectification is not made within the prescribed time period, fines shall be imposed for each instance of violation until such time as rectification is made:
+
+\1. The firm violates Article 19 by avoiding, impeding, or refusing to cooperate with an inspection by the competent authority.
+
+\2. The firm violates Article 20, paragraph 4 or Article 22-1, paragraph 1, or fails to take action as specified in Article 22-1, paragraph 1 within the period set in Article 22-1, paragraph 3, and is ordered by the competent authority to cure the violation within a prescribed time period but the violation remains uncured upon expiration of that period.
+
+\3. The firm violates Article 32, paragraph 1 or 2 by lending funds to another party, or by providing guarantees, endorsing negotiable instruments, or providing property for use as collateral by others, or it allocates its funds in a manner that violates paragraph 1 of the same article.
+
+\4. The firm fails to file its annual financial report as required in Article 33, paragraph 1, or in its content or manner of preparation the annual report violates the provisions of the regulations prescribed by the competent authority pursuant to paragraph 2 of the same article.
+
+#### Article 74
+
+(Penal Provisions)
+
+An incorporated CPA firm shall be subject to an administrative fine of not less NT$500,000 and not more than NT$10 million under any of the following circumstances:
+
+\1. Practice is performed by a party other than a shareholder, in violation of Article 30, paragraph 1.
+
+\2. The firm violates Article 34, paragraph 1 or 2 and is ordered by the competent authority to cure the violation within a prescribed time period but the violation remains uncured upon expiration of that period.
+
+\3. The firm fails to faithfully fulfill the duty to perform management and oversight, thereby allowing a shareholder, by violating Article 48 or 49, to materially harm the interests of an interested party or the public.
+
+#### Article 75
+
+(Penal Provisions)
+
+An incorporated CPA firm that violates Article 19, 30, 32, 33, or 34 shall be punished in accordance with the provisions of this Act and may also be subject to any of the following sanctions as merited by the severity of the circumstances:
+
+\1. A warning.
+
+\2. A prohibition from accepting new business for not more than six months, applying to the whole or part of its business.
+
+\3. A suspension of the whole or part of its business for not more than six months.
+
+\4. Voidance or revocation of approval of the firm's registration.
+
+A shareholder of an incorporated CPA firm who violates this Act in the performance of CPA services shall be disciplined in accordance with the provisions of this Act, and the incorporated CPA firm may also, as merited by the severity of the circumstances, be subject to the sanctions set out in subparagraph 1, 2, or 3 of the preceding paragraph.
+
+## Chapter 8 Supplementary Provisions
+
+#### Article 76
+
+(Taking of CPA Examination and Permission to Practice for Foreign Nationals)
+
+A foreign national may take a CPA examination in accordance with the law of the ROC.
+
+A foreign national who passes the examination of the preceding paragraph and obtains a CPA certificate shall obtain permission from the competent authority before engaging in CPA practice in the ROC.
+
+#### Article 77
+
+(Foreign National Engaging in CPA Practice Shall Comply with ROC Laws and Regulations)
+
+A foreign national who has received permission to engage in CPA practice in the ROC shall comply with the CPA-related laws and regulations of the ROC and the articles of association of the appropriate CPA association.
+
+Anyone who violates the preceding paragraph shall be disciplined in accordance with the law, and the competent authority may also void or revoke their CPA certificate.
+
+#### Article 78
+
+(Deadline for Application for Continued Practice by CPAs Qualified for Registration Before the Coming into Force of the Amended Act)
+
+A CPA who, prior to the coming into force of this Act as amended on 27 November 2007, already qualified for registration under the pre-amendment provisions, may not continue CPA practice unless they submit the relevant documentation and applies to the competent authority for registration within one year from the date the amended Act comes into force.
+
+#### Article 79
+
+(Deadline for Submission to Competent Authority of Information on CPAs Registered Before the Coming into Force of the Amended Act)
+
+An organization that handled CPA registration prior to the coming into force of this Act as amended on 27 November 2007 shall prepare a list of registered CPAs and registration information within three months from the date the amended Act comes into force and submit the information to the competent authority.
+
+#### Article 80
+
+(Deadline for Entry into Partnership Contract by Non-Partnership Joint CPA Firms Established Before the Coming into Force of the Amended Act)
+
+An entity that established a non-partnership joint CPA firm prior to the coming into force of this Act as amended on 27 November 2007 shall enter into a partnership contract within two years from the date the amended Act comes into force and convert to a partnership joint account firm. Such an entity that fails to convert within that time period shall be deemed a co-location CPA firm.
+
+#### Article 81
+
+(Date the Act Comes into Force)
+
+This Act shall come into force from the date of promulgation.
+
+The amendments to this Act shall come into force from the date of promulgation, with the exception of the 10 June 2009 amendment, which shall come into force from 23 November 2009.
+
+## History
+
+\1. Full text of 43 articles enacted and promulgated on 30 June 1945 by the ROC government
+
+\2. Article 6 amended and promulgated on 10 May 1947 by the ROC government
+
+\3. Full text of 42 articles amended and promulgated on 12 May 1951 by presidential order
+
+\4. Article 2 amended and promulgated on 20 October 1958 by presidential order
+
+\5. Full text of 48 articles amended and promulgated on 22 August 1963 by presidential order
+
+\6. Full text of 51 articles amended and promulgated on 26 May 1977 by presidential order
+
+\7. Amended and promulgated per 5 December 1983 Presidential Order No. (72)- Taiwan-President-(I)-Yi-6688
+
+\8. Articles 47 and 51 amended and promulgated per 7 May 1997 Presidential Order No. (86)-ROC-President-(I)-Yi-8600104800
+
+Article 47 amended and promulgated per 10 December 2001 Executive Yuan Order No. (90)-Taiwan-Finance-071000; for enforcement from 1 January 2002
+
+\9. Articles 3, 5, 6, 11, 13, 28, 31, 35, 36, 37, 41, 45, 47, 48, and 50 amended and promulgated on 21 November 2001 per Presidential Order No. (90)-ROC-President-(I)-Yi-9000224670
+
+\10. Article 8 amended and promulgated per 29 May 2002 Presidential Order No. ROC-President-I-Yi-09100108360
+
+\11. Full text of 81 articles amended and promulgated per 26 December 2007 Presidential Order No. ROC-President-I-Yi-09600175591; for enforcement from the date of promulgation
+
+\12. Articles 6 and 81 amended and promulgated per 10 June 2009 Presidential Order No. ROC-President-I-Yi-09800145161; for enforcement from 23 November 2009
+
+\13. Article 3 amended and promulgated per 4 February 2015 Presidential Order No. ROC-President-I-Yi-10400012381
+
+\14. Articles 8, 13, and 81 amended and promulgated per 20 April 2016 Presidential Order No. ROC-President-I-Yi-10500032521
+
+\15. Article 6 amended and promulgated per 14 December 2016 Presidential Order No. ROC-President-I-Yi-10500154251
+
+\16. Articles 6, 12 to 14, and 73 amended and promulgated and Article 22-1 added per 31 January 2018 Presidential Order No. ROC-President-I-Yi-10700009761

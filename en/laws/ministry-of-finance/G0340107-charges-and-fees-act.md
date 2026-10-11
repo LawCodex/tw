@@ -1,0 +1,197 @@
+---
+title: "Charges And Fees Act"
+title_zh: "規費法"
+identifier: "G0340107"
+type: act
+law_level: "法律"
+category: "行政＞財政部＞國庫目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2002-12-11
+last_amended: 2017-06-14
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0340107"
+retrieved: 2026-10-12
+---
+
+# Charges And Fees Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-finance/G0340107-charges-and-fees-act.md](../../../zh/laws/ministry-of-finance/G0340107-charges-and-fees-act.md)) is authoritative.
+
+## Article 1
+
+This Act is enacted to establish a sound levying system of charges and fees, ensure fairness of financial burden, cause an effective utilization of public resources, and better protect the rights and interests of the people.
+
+## Article 2
+
+Charges and fees payable to all government levels and their subordinate agencies or schools (hereinafter collectively referred to as “the Agency/School”) shall be levied in compliance with this Act. Regarding matters not specifically provided for in this Act, other laws shall apply.
+
+When special regulations apply to the charges and fees levied by a court, the provisions contained in this Act do not apply.
+
+## Article 3
+
+The competent authorities referred to in this Act shall be the Ministry of Finance at the level of the central government, the municipal government at the level of municipality, the county/city government at the level of county/city, and the city/township government at the level of city/township.
+
+## Article 4
+
+The executive authorities in charge of the concerned matters referred to in this Act shall mean the Agency/School which is in charge of the matters set forth in each subparagraph of Articles 7 and 8 and sets the standards of charges and fees under applicable laws; where no specific standards are provided for in the applicable laws, the agencies collecting the charges and fees shall be the executive authorities in charge of the concerned matters.
+
+The collecting agency referred to in this Act shall mean government agencies and schools that deal with the collection of charges and fees.
+
+## Article 5
+
+The government agencies in charge of the collection of charges and fees as stipulated under this Act may, depending on practical needs, appoint a subordinate agency, or consign another government agency or a private organization to carry out such implementation.
+
+## Article 6
+
+The charges and fees are categorized as administrative fees and user charges.
+
+## Article 7
+
+When providing the following services for the interest of a certain party, the Agency/School shall collect administrative fees; however, the foregoing provision shall not apply if the services are provided for public purpose:
+
+\1. Review, assessment, inspection, audit, validation, survey, validation survey, certification, notarization, authentication, validating inspection, screening inspection, authenticating inspection, experiment, chemical screening, calibration, alignment, measurement, quantifiable measuring, designation, inspection validation, assessment validation, authentication validation, qualification, quarantine, surveying, re-surveying, pricing assessment, witnessing, monitoring, authentication sealing, authenticated transporting, assessing negotiation, recognition, review assessment, concession and permit.
+
+\2. Registration, entitlement registration and encumbrance imposition.
+
+\3. Issuance of identification card, certificate, statement of authenticity, certificate of authenticity, ownership deed, license, professional license, passport, visa, license plate, household registry, street number plate, permit, concession permit, registration permit and usage permit.
+
+\4. Examination, assessment, validation, screening, screening examination, and testing.
+
+\5. Regulations and permits regarding certain conduct or activity to protect the public interest.
+
+\6. The issuance of special permits for the allocation of quotas, frequencies, or other restricted quantities or amounts.
+
+\7. Any other matters for which collection of administrative fees is required under applicable laws and regulations.
+
+## Article 8
+
+When providing or offering any of the following to a certain party for his/her/its use, the Agency/School shall collect user charges:
+
+\1. Public roadways, facilities, equipment, and premises.
+
+\2. Signs, data (information), transcripts, photocopies, duplicates, gazettes, publications, statements, introductory literature, and drawings.
+
+\3. The transcription, mailing or transmission of data (information), or the perusal of a file.
+
+\4. Any other category for which user charges are required under other laws.
+
+## Article 9
+
+Persons that are obligated to pay charges and fees are as follows:
+
+\1. Those who file their applications with the Agency/School for services set forth in Article 7 or use services/items set forth in Article 8.
+
+\2. Those who are notified by the Agency/School pursuant to applicable law and regulations to pay charges and fees.
+
+## Article 10
+
+The executive authorities in charge of the concerned matters shall set or adjust the standards of charges and fees under the following principles and shall refer the same together with the cost information to the corresponding level of competent authority in charge of the fees for its approval. The announcement of such standards shall be made after such standards and cost information are referred to the corresponding level of the people’s representative body for its review and record:
+
+\1. Administrative fees shall be set based on the direct costs of goods and materials, wages and salaries, and other costs, and by taking indirect costs into consideration.
+
+\2. User charges shall be set based on the costs of development, procurement, operation, maintenance, improvement, management, and other related factors, and by taking market factors into consideration.
+
+Where the foregoing standards are pertaining to control, approval, encumbrance, or provision of educational and cultural facilities or when there are special circumstances in existence, these characteristics or objectives shall also be taken into consideration.
+
+## Article 11
+
+The executive authorities in charge of the concerned matters shall review the standards of charges and fees on a routine basis by taking the following factors into consideration:
+
+\1. Trends in the fluctuations of costs and expenses.
+
+\2. Changes in the consumer price index.
+
+\3. Other factors.
+
+The foregoing routine review shall be made at least once every three years.
+
+## Article 12
+
+For any of the following, the executive authority in charge of the concerned matters may waive or reduce the amount of the charges and fees, or suspend the collection of the charges and fees:
+
+\1. The promotion of matters or education undertaken by the Agency/School.
+
+\2. Assistance provided by the Agency/School for another Agency/School.
+
+\3. Additional charges and fees incurred by victims of places suffering from significant disasters.
+
+\4. Charges and fees incurred in providing rescue or aid for any emergencies or accidents.
+
+\5. Issuance of identification documents for the elderly, the physically or psychologically handicapped, low-income households, and students.
+
+\6. Charges and fees made under international treaties, agreements, or reciprocity.
+
+\7. Charges and fees that can be waived, reduced, or suspended under other applicable laws.
+
+## Article 13
+
+For any of the following, the competent authority in charge of the concerned matters may waive or reduce the amount of the charges and fees, or suspend the collection of the charges and fees:
+
+\1. There are matters to be dealt with to maintain social order, workplace security, or financial, economic, and banking stability.
+
+\2. The collection of charges and fees is incompatible with the present needs, or the benefits arising from the collection of charges and fees are uneconomical.
+
+\3. There exist factors of public interest or special circumstances.
+
+## Article 14
+
+The collection of charges and fees shall be made when the person obligated to pay such charges and fees files his/her/its application for the matters set forth in Article 7 or for the use of the services set forth in Article 8. However, if charges and fees are due when the matters or services applied for are concluded or provided, or the payment of such charges and fees is notified by the Agency/School pursuant to applicable laws and regulations, the time limit for payment shall be set by the executive authority in charge of the concerned matter.
+
+## Article 15
+
+Unless otherwise provided for in other applicable laws, where a person obligated to pay charges and fees, for which a time limit has been set, fails to make the payment by the time limit due to an act of God, disaster, or force majeure, he/she/it may file, within 10 days of extinction of such causes, an application with the collecting agency for an extension of the payment, together with conclusive evidence.
+
+## Article 16
+
+Where a person obligated to pay charges and fees, for which a time limit for the payment is set and such charges and fees reach a certain amount, fails to make the payment by the time limit, he/she/it may file, within such time limit, an application with the collecting agency for making the payment in two to six installments, provided that an interval between successive installments shall not be in excess of two months.
+
+The amount referred to in the preceding paragraph shall be set by the executive authority in charge of the concerned matters.
+
+Where the payment by installments is approved, interest accruing on a daily basis at the interest rate applied by the Bureau of Postal Remittance for a one-year time deposit shall be collected together with the installment payment.
+
+Where a person obligated to make the payment for charges and fees fails to make any installment payment by the time limit, the collecting agency shall, within 15 days of the date following the time limit, give the person a written notice requiring him/her/it to make the payment for the balance of all the charges and fees within 10 days thereof. If the person still fails to make the payment by the time limit, an application for compulsory execution for such payment shall be filed under applicable laws.
+
+## Article 17
+
+Where the collection of the charges and fees with a time limit for their payment is not made within 5 years from the date following the time limit, the collection shall not be made. However, where an application for compulsory execution has been filed for the collection, a declaration for participation in the distribution of the debtor’s bankruptcy estate has been made, or a declaration or claim has been filed by the expiry of 5 years, the collection shall be made, provided, however, that the collection shall not be made if the compulsory execution proceeding is not concluded or if the distribution is not made under the bankruptcy proceeding within 5 years after the expiry of the initial 5 years for the collection.
+
+Where the charges and fees to be collected are in any of the cases referred to in Article 15, or Paragraph 1 or Paragraph 4 of the preceding article, the time limit for the collection referred to in the preceding paragraph shall commence from the date following the expiry of the revised time limit.
+
+## Article 18
+
+Where the amount paid by the person obligated to pay the charges and fees is in excess of the amount actually due or is in error, he/she/it may file, within 5 years of the payment date of the charges and fees, an application together with conclusive evidence for a refund.
+
+The refund referred to in the preceding paragraph shall be made together with interest calculated, from the payment date to the date on which the refund application is approved by the collecting agency, on a daily basis at the interest rate applied by the Bureau of Postal Remittance for a one-year time deposit.
+
+## Article 19
+
+Where the Agency/School fails to complete, by the time period prescribed by laws, the processing of an application filed by the person obligated to pay charges and fees for the matters set forth in Article 7 or for the use of the services set forth in Article 8, the person obligated to pay the charges and fees may file an application for a refund, provided, however, that the refund shall not be made if the failure to complete the processing is caused by factors attributable to the person obligated to pay the charges and fees.
+
+The refund referred to in the preceding paragraph shall be made together with interest calculated, from the payment date to the date on which the refund application is approved by the collecting agency, on a daily basis at the interest rate applied by the Bureau of Postal Remittance for a one-year time deposit.
+
+## Article 20
+
+Unless otherwise provided for in applicable laws, the Agency/School is entitled to impose an overdue fine calculated at 1% of the amount due for every two days of delay. Where the overdue period lasts for 30 days or more, an application for compulsory execution shall be filed under applicable laws.
+
+The charges and fees referred to in the preceding paragraph shall be collected with interest calculated, from the day following the payment due date to the date of payment, on a daily basis at the interest rate prescribed in Paragraph 3 , Article 16.
+
+## Article 21
+
+Where a municipal government, county/city government, or township government is found to be in breach of Article 7 or Article 8 by their failure to collect the charges and fees due, their superior government, subject to actual circumstances, is entitled to reduce or eliminate funding at its discretion.
+
+The primary superintendent of the Agency/School shall be punished if the Agency/School is found to have violated Article 7 or Article 8 by failing to collect the charges and fees due, or Article 11 by failing to make the routine review, and has not rectified the violation by the time limit set forth in the rectification notice given by the superior authority.
+
+## Article 22
+
+This Act shall be enforced as of the date of promulgation.
+
+## History
+
+1.Promulgated on Dec 11, 2002
+
+2.Article 12 amended and promulgated on May 25, 2016
+
+3.Article 20 amended and promulgated by Presidential Decree Hua-tzung-1-Yi No. 10600073231 on June 14, 2017.

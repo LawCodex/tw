@@ -1,0 +1,133 @@
+---
+title: "The Regulation on Allowances for Elected Representatives and Subsidies for Chiefs of Village"
+title_zh: "地方民意代表費用支給及村里長事務補助費補助條例"
+identifier: "D0020039"
+type: act
+law_level: "法律"
+category: "行政＞內政部＞民政目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2000-01-26
+last_amended: 2024-06-19
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0020039"
+retrieved: 2026-10-12
+---
+
+# The Regulation on Allowances for Elected Representatives and Subsidies for Chiefs of Village
+
+> Translation. The Chinese text ([zh/laws/ministry-of-the-interior/D0020039-the-regulation-on-allowances-for-elected-representatives-and-subsidies-for.md](../../../zh/laws/ministry-of-the-interior/D0020039-the-regulation-on-allowances-for-elected-representatives-and-subsidies-for.md)) is authoritative.
+
+## Article 1
+
+The Regulation on Allowances for Elected Representatives and Subsidies for Chiefs of Village is enacted in accordance with the provisions of Article 52, Paragraph 3 and Article 61, Paragraph 3 of the Local Government Act.
+
+## Article 2
+
+“Elected Representatives” as used in this Regulation refer to the Speaker of the Special Municipality Council, the Deputy Speaker of the Special Municipality Council, and the councilor of the Special Municipality Council; the Speaker of County (City) Council, the Deputy Speaker of County (City) Council, and the councilor of the County (City) Council; and the Chairman of County (Township, City) council, the Vice-chairman of County (Township, City) council and representatives of county (Township, City) council.
+
+## Article 3
+
+The monthly research expenses to be paid to Elected Representatives shall not exceed the following standards:
+
+Article 3(1): the Speaker of the Special Municipality Council: Refer to the monthly salary and public expenses for the Mayor of the Special Municipality.
+
+Article 3(2): the Deputy Speaker of the Special Municipality Council: Refer to the monthly salary, professional allowance and supervision allowance for the Deputy Mayor of the Special Municipality.
+
+Article 3(3): the councilor of the Special Municipality Council: Refer to the salary, professional allowance and supervision allowance for the head of Special Municipality Government Level 1 organizations.
+
+Article 3(4): the Speaker of County (City) Council: Refer to the salary, professional allowance and supervision allowance for County (City) Mayor.
+
+Article 3(5): the Deputy Speaker of County (City) Council: Refer to the salary, professional allowance and supervision allowance for the County (City) Deputy Mayor.
+
+Article 3(6): the councilor of the County (City) Council: Refer to the salary, professional allowance and supervision allowance for County (City) government Level 1 organizations’ appointed 11th ranking supervisors.
+
+Article 3(7): the Chairman of County (Township, City) council: Refer to the salary, professional allowance and supervision allowance for the Mayor of County (Township, City).
+
+Article 3(8): the Vice-chairman of County (Township, City) council: Refer to the salary, professional allowance and supervision allowance for the Deputy Mayor of the County-administered City.
+
+Article 3(9): County (Township, City) Elected Representatives: Refer to the Level 1 salary, professional allowance and supervision allowance for County (Township, City) offices’ 8th ranking senior supervisors.
+
+The term "professional allowance" as used in the preceding paragraph refers to the professional allowance for general public servants.
+
+## Article 4
+
+During the period when Elected Representatives are meeting in accordance with the law, allowances for attendance, transportation and meals shall not exceed the following standards:
+
+Article 4(1): Attendance allowance: NT$1000 per person per day.
+
+Article 4(2): Transportation allowance: NT$1000 per person per day.
+
+Article 4(3): Meal allowance: NT$450 per person per day.
+
+## Article 5
+
+Due to the nature of service of an Elected Representative, respective local public organizations shall make budgets to pay for the Representatives’ health checkup fees, insurance premiums, public servant expenses, Chinese New Year bonuses and expenses for overseas investigation trip.
+
+Respective local public organizations may make budgets to pay for special allowance funds for the Speaker of the Special Municipality Council, the Deputy Speaker of the Special Municipality Council, the Speaker of County (City) Council, the Deputy Speaker of County (City) Council, the Chairman of County (Township, City) council, and the Vice-chairman of County (Township, City) council.
+
+Please refer to the annex for maximum budgets standard allowed for expenses set out in the preceding two paragraphs.
+
+## Article 6
+
+Special Municipal Councils and County (City) Councils may make subsidy budgets for their councilors to hire assistants. With regards to Special Municipal Councils, the total amount of subsidy for councilors’ assistants shall not exceed NT$320,000 per month for each Councilor of Special Municipality Council. With regards to County (City) Councils, the total amount of subsidy for councilors’ assistants shall not exceed NT$160,000 per month for each Councilor of County (City) Council. The subsidy budget for councilors’ assistants shall be adjusted according to the general adjustment range when various annual bonuses for civil servants nationwide are adjusted. The adjusted total assistant subsidy and implementation date shall be announced by the Ministry of the Interior.
+
+For assistants hired with the assistant subsidy as described in the preceding paragraph, each councilor of Special Municipality Council shall hire at least six assistants, and each councilor of County (City) Council shall hire at least two assistants. All assistants mentioned in this clause shall advance and dismiss together with the councilors. The councilors may hire assistants on a daily salary basis, and the total monthly expenses accumulated on their daily salary shall not exceed one-fourth of the total assistant subsidy as described in the preceding paragraph.
+
+The provisions of the Labor Standards Act apply to all assistants hired with the assistant subsidy in the preceding paragraph. With regards to all assistants’ labor insurance premiums, national health insurance premiums, labor retirement reserves, overtime pay, overtime pay without vacations, severance pay, and occupational accident compensation which shall be borne by the employer in accordance with laws and regulations, the Councils shall make budgets to support the expenditure within no more than 20% of the total amount stipulated in Paragraph 1, and may award the Lunar New Year bonus according to the amount of the year-end work bonus received by the military, public and educational personnel.
+
+The Councils shall establish an internal control system governing the total amount of assistant subsidy as described in Paragraphs 1, the allocation of assistant subsidy and the employment relationship between councilor and assistant as described in Paragraph 2, and the payment of various expenses listed in Paragraph 3.
+
+## Article 7
+
+Chiefs of village shall be subsidized by County (Township, City, District) offices through the chief of village affairs subsidy in the amount of NT$50,000 per month per village. The chief of village affairs subsidy will be increased by another 20% per month in the village (li) of the aboriginal ethnic areas. In addition, the chief of village affairs subsidy shall be adjusted according to the general adjustment range when various annual bonuses for civil servants nationwide are adjusted. The adjusted total assistant subsidy and implementation date shall be announced by the Ministry of the Interior.
+
+Due to the nature of the services performed, County (Township, City, District) offices shall make budgets to pay for insurance premiums and an optional health checkup fees for chiefs of village; the standard allowance shall be the same as that for local elected representatives.
+
+The budget for the insurance premium in the preceding paragraph made by the County (Township, City, District) office shall include the injury insurance for the chief of village worth at least NT$5 million.
+
+Unless the chief of village fails to take out the insurance or under-insures the full amount of the injury insurance for a valid reason, when the insurance premium is paid in the current year, the bill shall include the insurance premium for the insured amount of the injury insurance of more than NT$5 million.
+
+The County (Township, City, District) offices shall make budgets to award additional village affairs subsidy to chiefs of village (li) on Lunar New Year holiday in accordance with Regulations on Year-end Work Bonuses for military, public and educational personnel. The amount is calculated based on the amount of village affairs subsidy in Paragraph 1. This expenditure is paid from the budget made by the Ministry of the Interior.
+
+## Article 7-1
+
+A village (li) chief who has served for six terms and has reached the age of 65, shall be awarded consolation payments and commendations. The amount of consolation payments and the method of payment shall be prescribed by the Ministry of the Interior.
+
+## Article 8
+
+The payment of allowances for Elected Representatives and the subsidy items and standards for chiefs of village shall be in accordance with this Regulation; if not provided for in this Regulation, no budget shall be prepared for payment.
+
+## Article 9
+
+The expenses stipulated in this Regulation shall be included in the budgets made by the local government in accordance with the provisions of Article 70, Paragraph 2 of the Local Government Act and Article 37, Paragraphs 1 and 2 of the Act Governing the Allocation of Government Revenue and Expenditures.
+
+## Article 10
+
+This Regulation shall come into force on the date of promulgation, except for Article 7, Paragraphs 1 and 3, which were promulgated on July 8, 2009 and enforced on January 1, 2010; and Article 7, Paragraphs 3 to 5, which were promulgated on April 25, 2018 and enforced on December 25, 2018; and Articles amended and promulgated on May 4, 2022 were enforced on December 25, 2022; and Articles amended on June 4, 2024 shall come into force on January 1, 2025.
+
+## Attachments
+
+- [Annex.odt](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008635)
+
+## History
+
+1.Promulgated according to the terms of Regulation number 8900021160 of 26 January 2000,
+
+2.Article 6 of Regulation number 09500069801 (as amended) of 17 May 2006,
+
+3.Article 5 of Regulation number 09600087271 (as amended) of 11 July 2007,
+
+4.Article 6 of Regulation number 09800135141 (as amended) of 27 May 2009,
+
+5.Article 7 of Regulation number 09800166481 (as amended) of 8 July 2009,and
+
+6.Articles 7 and 10 revised and promulgated on Apr. 25, 2018 pursuant to Order No. 2018-Huazongyiyi-10700042971
+
+7.Annex of Article 5 of Regulation number 10800062231 (as amended) of 19 June 2019.
+
+8.Article 7 and 10 revised and promulgated on May 4, 2022 pursuant to Order No. 2022-Huazongyiyi-11100037491
+
+9.Articles 3, 5 to 7 and 10 were Amend and promulgated, and Article 7-1 was added on June 19, 2024 and be effective on January 1, 2025.

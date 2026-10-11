@@ -1,0 +1,527 @@
+---
+title: "Referendum Act"
+title_zh: "公民投票法"
+identifier: "D0020050"
+type: act
+law_level: "法律"
+category: "行政＞中央選舉委員會＞公投行政目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2003-12-31
+last_amended: 2025-12-03
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0020050"
+retrieved: 2026-10-12
+---
+
+# Referendum Act
+
+> Translation. The Chinese text ([zh/laws/central-election-commission/D0020050-referendum-act.md](../../../zh/laws/central-election-commission/D0020050-referendum-act.md)) is authoritative.
+
+## Chapter 1 General Principles
+
+#### Article 1
+
+This Act is enacted in accordance with the principle of popular sovereignty enshrined in the Constitution and for the purpose of ensuring citizens' exercise of their direct civil rights. Matters not provided for herein shall be governed by other applicable laws.
+
+Referendums concerning indigenous rights shall be conducted in accordance with the Indigenous Peoples Basic Law.
+
+#### Article 2
+
+The term "referendum" as used in this Act refers to both national and local referendums.
+
+In addition to those stipulated in the Constitution, this Act shall apply to the following matters for national referendums:
+
+\1. Referendums on laws.
+
+\2. Initiatives on legislative principles.
+
+\3. Initiatives or referendums on major policies.
+
+This Act shall apply to the following matters for local referendums:
+
+\1. Referendums on local self-government ordinances.
+
+\2. Initiatives on legislative principles for local self-government ordinances.
+
+\3. Initiatives or referendums on major policies regarding local autonomy.
+
+No referendum proposal may be submitted on matters related to budgeting, taxation, salaries, and personnel affairs.
+
+#### Article 3
+
+The competent authority for national referendums is the Central Election Commission, which shall direct and supervise municipal and county (city) election commissions in conducting such referendums.
+
+The competent authority for local referendums is the respective municipal or county (city) government.
+
+During the referendum period, election commissions at each level may request the assistance of personnel from government agencies and public schools at the corresponding level to handle related affairs. The requested government agencies, public schools, and their assigned personnel shall not refuse such requests without justifiable reasons.
+
+#### Article 4
+
+A referendum shall be conducted by way of universal, equal, direct, and secret ballot.
+
+#### Article 5
+
+The funds required for conducting a referendum shall be appropriated by the central government, municipal governments, and county (city) governments in accordance with the law.
+
+#### Article 6
+
+The calculation of any period provided for in this Act shall be governed mutatis mutandis by the provisions set forth in Paragraph 2 of Article 4 and Article 5 of the Public officials Election And Recall Act.
+
+## Chapter 2 Proposer, Joint Signer and Voter
+
+#### Article 7
+
+Unless otherwise provided for in the Constitution, citizens of the Republic of China who have reached the age of 18 and have not been declared incompetent shall have the right to vote in referendums.
+
+#### Article 8
+
+A person entitled to vote in a referendum who has resided in the Republic of China, the respective special municipality, or the respective county (city) for at least six consecutive months may serve as a proposer, joint signer, or voter of a national, special municipality, or county (city) referendum proposal, respectively.
+
+A proposer's age and period of residence shall be calculated up to the date on which the proposal is submitted; a joint signer's age and period of residence shall be calculated up to the date on which the joint signature list is submitted; and a voter's age and period of residence shall be calculated up to the day preceding the polling day. All calculations shall be based on household registration data.
+
+In the event of a re-vote, a voter's age and period of residence as referred to in the preceding paragraph shall still be calculated up to the day preceding the original polling day.
+
+## Chapter 3 Procedure of Referendum
+
+### Section 1 National Referendums
+
+#### Article 9
+
+Unless otherwise provided for, a referendum proposal shall be submitted by the lead proposer, who shall submit a written proposal, a statement of reasons, and the original and a copy of the proposer list to the competent authority.
+
+There shall be only one lead proposer as referred to in the preceding paragraph. The main text of the proposal shall be limited to 100 words, and the statement of reasons shall be limited to 2,000 words. Any excess portion beyond the word limits shall not be publicized or published in the referendum bulletin.
+
+The main text of the proposal shall be concise, clear, and objectively neutral; the statement of reasons shall be consistent with the main text in clarifying the grounds and position of the referendum.
+
+The competent authority shall establish regulations governing the format, word count calculation, grammar, and other related matters for the main text and statement of reasons.
+
+The proposer list referred to in Paragraph 1 shall be completed in the specified format, with each proposer's signature or seal, National ID card number, and registered address affixed. The list shall be bound into volumes, separated by special municipality, county (city), and township (city/district).
+
+The competent authority shall establish an electronic system for the lead proposer to solicit proposals and joint signatures. The methods and implementation date for proposal submission, joint signature collection, and examination procedures shall be prescribed by the competent authority.
+
+Electronic proposals and joint signatures shall be submitted in the form of electronic records.
+
+Each referendum proposal shall address only one issue.
+
+#### Article 10
+
+For matters prescribed in Paragraph 2 of Article 2, the number of proposers of a referendum proposal shall be no less than one ten-thousandth of the total electorate in the most recent Presidential Election.
+
+The competent authority shall not accept a referendum proposal if any of the following apply: the proposal documents do not comply with the provisions of Paragraphs 1 and 2 of the preceding article; the proposal documents are not bound into volumes, separated by special municipality, county (city), and township (city/district) as required by Paragraph 5 of the preceding article; or the number of proposers is less than the number stipulated in the preceding paragraph.
+
+Upon receiving a referendum proposal or a corrected proposal, the competent authority shall complete its review within sixty days. If, after review, any of the following circumstances is identified, the competent authority shall state the reasons and notify the lead proposer to make necessary corrections within thirty days. Only one correction is permitted. If the necessary corrections are not made within the specified period or if the proposal still fails to meet the relevant provisions after correction, the proposal shall be rejected:
+
+\1. The proposal does not fall under the applicable matters for national referendums as specified in Article 2.
+
+\2. The proposal violates the regulations stipulated in the regulations prescribed in Paragraph 4 of the preceding article.
+
+\3. The proposal does not comply with the provisions stipulated in Paragraph 2 of Article 1 or Paragraph 8 of the preceding article.
+
+\4. The content of the proposal contains matters specified in Article 32.
+
+\5. The true intent of the proposal cannot be understood from the content of the proposal.
+
+If, pursuant to the provisions of the preceding paragraph, the competent authority orders corrections to be made, it shall first hold a hearing to clarify relevant disputes and assist the lead proposer in making the necessary corrections.
+
+If the competent authority determines that a referendum proposal complies with the relevant provisions, it shall request the household registration authorities to verify the proposers within fifteen days.
+
+The household registration authorities shall verify the proposer list against household registration data and shall invalidate a proposer if any of the following circumstances apply:
+
+\1. The proposer does not meet the eligibility requirements set forth in Paragraph 1 of Article 8.
+
+\2. The proposer's name, National ID card number, or registered address is recorded incorrectly or is unclear.
+
+\3. The proposer list lacks the proposer's signature or seal.
+
+\4. The proposer's signature is forged.
+
+If, after verification, the number of proposers does not meet the requirement stipulated in Paragraph 1, the competent authority shall notify the lead proposer to add additional proposers within thirty days. Only one such addition is permitted. If the specified number is still not reached after the addition or if the lead proposer does not add more proposers within the specified period, the proposal shall be rejected.
+
+If a proposal referred to in the preceding paragraph meets the relevant provisions, the competent authority shall, depending on the nature of the proposal, request the relevant legislative and administrative agencies to submit a position paper within forty-five days of receiving the official request letter. The position paper shall state the legal effect of passing or failing to pass the referendum proposal. If a position paper is not submitted within the specified period, the relevant agency shall be deemed to have waived its right to submit one. The position paper shall be limited to 2,000 words. Any excess portion beyond this limit shall not be publicized or published in the referendum bulletin.
+
+If a proposal referred to in the preceding paragraph meets the relevant provisions, the competent authority shall notify the lead proposer to obtain a joint signature list format or an authentication code for the electronic joint signature system from the competent authority within ten days in order to collect joint signatures. If the lead proposer fails to obtain the said format or authentication code within the specified period, the proposal shall be deemed to have been abandoned.
+
+#### Article 11
+
+With the consent of at least one-half of the total number of proposers, the lead proposer may file a written application to withdraw a referendum proposal before the competent authority issues a notice for joint signature collection.
+
+#### Article 12
+
+For matters prescribed in Paragraph 2 of Article 2, the number of joint signatories shall be no less than 1.5% of the total electorate in the most recent Presidential Election.
+
+The lead proposer of a referendum shall, within six months of the day following the date of receiving the joint signature list format or the authentication code for the electronic joint signature system, submit the original and a copy of the joint signature list, or the electronic record thereof, to the competent authority at one time. Failure to submit the list within the specified period shall be deemed a withdrawal of the proposal.
+
+The joint signature list referred to in the preceding paragraph shall be completed in the specified format, with each joint signer's signature or seal, National ID card number, and registered address affixed. The list shall be bound into volumes, separated by special municipality, county (city), and township (city/district), and submitted to the competent authority.
+
+If a referendum proposal is deemed to have been withdrawn under Paragraph 2 above or Paragraph 9 of Article 10, the original proposers may not resubmit a proposal on the same matter within two years from the date of withdrawal.
+
+#### Article 13
+
+After receiving the list of combined signatories, if it is found upon examination that the number of combined signatories is less than that prescribed in preceding paragraph 1, or the roster is not bound into books by municipal, county, and township (city/district) governments specified in Paragraph 3 of preceding Article, the competent authority shall not process the documentation; if it meets the requirements, a written notification shall be sent to the household administration to complete the examination within sixty days.
+
+The household registration authorities shall verify the joint signature list against household registration data and shall invalidate a joint signature if any of the following circumstances apply:
+
+\1. The joint signer does not meet the eligibility requirements set forth in Paragraph 1 of Article 8.
+
+\2. The joint signer's name, National ID card number, or registered address is recorded incorrectly or is unclear.
+
+\3. The joint signature list lacks the joint signer's signature or seal.
+
+\4. The joint signer's signature is forged.
+
+After verifying the joint signature list, if the competent authority finds that the number of joint signatures meets the requirement stipulated in Paragraph 1 of the preceding Article, it shall, within ten days, announce that the referendum proposal is established and assign a number to the proposal. If the number of joint signatures does not meet the requirement, the competent authority shall notify the lead proposer to collect additional signatures within thirty days. Only one such collection is permitted. If the required number is still not reached after the additional collection or if the lead proposer does not collect additional signatures within the specified period, the competent authority shall announce that the referendum proposal is not established.
+
+#### Article 14
+
+If the Executive Yuan deems it necessary to hold a referendum on any matter stipulated in Subparagraph 3 of Paragraph 2 of Article 2, it may submit the main text and the statement of reasons to the competent authority for the referendum after obtaining the consent of the Legislative Yuan. The provisions of Article 13, Paragraph 1 of Article 17, and Article 19 shall not apply.
+
+After the Executive Yuan submits a referendum proposal to the Legislative Yuan, the Legislative Yuan shall make a decision within fifteen days. If the proposal is submitted during a recess, the Legislative Yuan shall convene a meeting within fifteen days and make a decision within thirty days.
+
+If the Legislative Yuan rejects the Executive Yuan's proposal, the Executive Yuan may not resubmit a proposal on the same matter within two years from the date of rejection.
+
+#### Article 15
+
+After a referendum proposal submitted by the Legislative Yuan in accordance with the Constitution has been announced for six months, the Legislative Yuan shall refer the proposal to the competent authority for implementation within ten days.
+
+If the Legislative Yuan deems it necessary to hold a referendum on any matter stipulated in Subparagraph 3 of Paragraph 2 of Article 2, it may, after the main text and the statement of reasons are adopted in a plenary session, refer the proposal to the competent authority for implementation within ten days. The provisions of Articles 9 through 13, Subparagraph 3 of Paragraph 1 of Article 17, and Article 19 shall not apply.
+
+If the plenary session of the Legislative Yuan rejects a proposal submitted by the Legislative Yuan, the Legislative Yuan may not resubmit a proposal on the same matter within two years from the date of rejection.
+
+#### Article 16
+
+If the nation is under threat of external force and ,which render national sovereignty at risk of change, the President may, by a resolution of the Executive Yuan Council, submit matters concerning national security to a referendum.
+
+The provisions of Articles 9 through 13, the provision regarding the time periods stipulated in Paragraph 1 of Article 17, and the provisions of Paragraph 3 of Article 17, Article 19, and Article 23 shall not apply to the referendum referred to in the preceding paragraph.
+
+#### Article 17
+
+The competent authority shall, ninety days prior to the referendum date, issue a public notice containing the following information:
+
+\1. The date of the referendum and the voting hours.
+
+\2. The serial number, main text, and statement of reasons of the referendum proposal.
+
+\3. The position papers submitted by government agencies regarding the referendum proposal.
+
+\4. The scope and method for exercising referendum rights.
+
+\5. The dates and rules governing the presentation of opinions and debates by representatives of opposing sides of the referendum issue on nationwide radio and television channels.
+
+The competent authority shall, at public expense, provide time slots on nationwide free-to-air television channels for representatives of opposing sides of the referendum issue to present their opinions or engage in debates. Designated television stations shall not refuse such requests. The relevant regulations shall be prescribed by the competent authority.
+
+At least five sessions of the presentations or debates referred to in the preceding paragraph shall be held on nationwide free-to-air television channels.
+
+The presentations or debates shall be webcast, and the video and audio recordings thereof shall be made available to the public on the competent authority's website.
+
+#### Article 18
+
+The competent authority shall compile and print a referendum bulletin containing the information publicized under the preceding Article and other relevant regulations on voting. The bulletin shall be delivered to every household in the referendum voting districts two days prior to the polling day, posted at appropriate locations, and published online.
+
+#### Article 19
+
+If, before the public notice of an initiative or a referendum on a law is issued, the competent authority is informed that the purpose of the initiative or referendum has been achieved through the legislative process, the competent authority shall immediately halt the referendum process and notify the lead proposer of the proposal.
+
+#### Article 20
+
+After a referendum proposal is announced as established, the proposers and those opposed to the proposal may, upon obtaining approval, establish offices to promote their respective positions and may raise funds for related activities. However, they may not accept donations from any of the following. Regulations governing the approval and management of such offices shall be prescribed by the Central Election Commission:
+
+\1. Foreign organizations, juristic persons, or individuals, or organizations or juristic persons whose members are primarily foreign nationals.
+
+\2. Individuals, juristic persons, organizations, or other institutions in the People's Republic of China, or juristic persons, organizations, or other institutions whose members are primarily citizens of the Mainland Area.
+
+\3. Residents, juristic persons, organizations, or other institutions in Hong Kong or Macau, or juristic persons, organizations, or other institutions whose members are primarily residents of Hong Kong or Macau.
+
+\4. Public enterprises or incorporated foundations that receive government subsidies.
+
+The fundraiser referred to in the preceding paragraph shall establish an income and expenditure ledger, designate an accountant to be responsible for bookkeeping and safekeeping, and, within thirty days of the polling day, submit a financial statement signed by the fundraiser and the accountant to the Central Election Commission.
+
+Supporting documents for the income and expenditures of the campaign funds shall be retained for six months after the submission of the financial statement. However, if a lawsuit is filed, such documents shall be retained for three months after a final judgment is rendered.
+
+If the Central Election Commission has reason to believe that a financial statement contains any falsification, it may request the fundraiser to submit relevant supporting documents.
+
+The Central Election Commission shall, within forty-five days of receiving a financial statement, compile the reported data and publish it in the Government Gazette.
+
+The offices referred to in Paragraph 1 may not be set up in government agencies, schools, legally established organizations, locations designated as polling stations or ballot counting stations, or other public places, except for the offices of political parties at all levels and the offices of social groups, professional groups, and political groups established under the Civil Associations Act.
+
+The competent authority shall prescribe regulations governing the establishment of referendum offices and staffing thereof.
+
+#### Article 21
+
+A referendum ballot shall contain the serial number of the referendum proposal, the main text of the proposal, and "Agree" and "Disagree" boxes. Voters shall use the tool provided by the election commission to mark their choices.
+
+After marking the ballot, voters may not show their marked choices to others.
+
+#### Article 22
+
+If any of the following occurs at a referendum polling station or ballot counting station, the chief administrator shall, together with the chief supervisor, order the person concerned to leave:
+
+\1. The person wears stickers, clothing, or other items bearing text, symbols, or images related to the referendum; makes noise; causes a disturbance; attempts to influence others to vote or not to vote; and disobeys instructions to stop.
+
+\2. The person carries weapons or dangerous objects into the station.
+
+\3. The person engages in any other improper conduct and disobeys instructions to stop.
+
+When a person is ordered to leave a referendum polling station or ballot counting station for any of the reasons mentioned in the preceding paragraph, the referendum ballot held by that person shall be retrieved, and the incident shall be recorded in the voter list under the name of the voter concerned. Serious incidents shall be reported to the election commission.
+
+#### Article 23
+
+The competent authority shall hold the referendum between three and six months after the announcement that the referendum proposal has been established. If a nationwide election takes place within this period, the referendum shall be held on the same day.
+
+The referendum day shall be a holiday.
+
+#### Article 24
+
+The provisions of Articles 17 through 23, 57 through 62, 64, and 66 of the Public officials Election And Recall Act shall apply mutatis mutandis to the compilation, public inspection, correction, voting, ballot counting, and determination of valid and invalid ballots for national referendum proposals.
+
+If a referendum and a national election are held on the same day, separate voter lists shall be compiled for the referendum and the election.
+
+#### Article 25
+
+The competent authority may conduct a national referendum by absentee voting. The methods for conducting a national referendum by absentee voting shall be prescribed by separate law.
+
+### Section 2 Local Referendum
+
+#### Article 26
+
+A local referendum proposal shall be submitted to the municipal or county (city) government.
+
+Matters relating to local referendums not provided for in this Act shall be prescribed by the respective special municipalities and counties (cities) by self-government ordinances.
+
+If there is any doubt as to whether a referendum proposal pertains to a matter of local self-governance, the municipal or county (city) government shall request a ruling from the Executive Yuan.
+
+#### Article 27
+
+With the exception of the competent authority, the provisions of Articles 17 through 24 shall apply mutatis mutandis to the announcement of a local referendum, the printing of referendum ballots, the compilation, public inspection, and correction of the voter list, the compilation and printing of the referendum bulletin, the suspension of a referendum, the establishment of offices, fundraising, voting, ballot counting, and the determination of valid and invalid ballots.
+
+#### Article 28
+
+The number of proposers and joint signatories, the documents required for submitting a local referendum proposal, the examination procedure, and the organization of presentations or debates shall be prescribed by the respective special municipalities and counties (cities) by self-government ordinances.
+
+## Chapter 4 Result of Referendum
+
+#### Article 29
+
+A referendum proposal shall be passed if the number of valid votes in favor of the proposal exceeds the number of valid votes against the proposal, and the number of valid votes in favor of the proposal constitutes at least one-fourth of the total number of eligible voters.
+
+A referendum proposal shall be rejected if the number of valid votes in favor of the proposal is less than the number of valid votes against the proposal, or if the number of valid votes in favor of the proposal fails to reach the threshold stipulated in the preceding paragraph.
+
+#### Article 30
+
+If a referendum proposal is passed, the election commission shall announce the results of the referendum within seven days of the completion of voting, and the following shall apply:
+
+\1. For referendums on laws or self-government ordinances, the original laws or ordinances shall cease to be effective on the third day following the date of the announcement.
+
+\2. For initiatives on legislative principles for laws or self-government ordinances, the Executive Yuan, municipal government, or county (city) government shall, within three months, draft a bill for the relevant law or ordinance and submit it to the Legislative Yuan, municipal council, or county (city) council for review. The Legislative Yuan, municipal council, or county (city) council shall complete the review process before the adjournment of the next session.
+
+\3. For referendums on major policies, the President or the competent authority shall take the actions necessary to implement the content of the referendum proposal.
+
+\4. For referendums held under the Constitution, the Legislative Yuan shall consult the President to promulgate.
+
+The Legislative Yuan's review of the bill stipulated in Subparagraph 2 of the preceding paragraph shall not be subject to the restrictions stipulated in Article 13 of the Law Governing the Legislative Yuan’s Power.
+
+If there is any doubt as to whether a law or self-government ordinances enacted by the Legislative Yuan, municipal council, or county (city) council pursuant to Subparagraph 2 of Paragraph 1 contravenes the legislative principles of an initiative, the lead proposer of the initiative may petitions to the Judicial Yuan for interpretation.
+
+Legislative principles established through an initiative shall not be changed by legislative bodies. No law or self-government ordinances enacted pursuant to such principles shall be amended or repealed within two years of its implementation.
+
+No law identical to a law or self-government ordinances repealed through a referendum shall be enacted within two years of the repeal.
+
+For major policies established through an initiative or referendum, administrative agencies shall not change the administrative measures related to the initiative or referendum within two years.
+
+#### Article 31
+
+If a referendum proposal is rejected, the competent authority shall announce the results of the referendum within seven days of the completion of voting and notify the lead proposer.
+
+#### Article 32
+
+No proposal on the same matter may be resubmitted within two years of the date on which the competent authority announces the results of the referendum.
+
+The competent authority shall determine whether a proposal addresses the same matter as a previously rejected proposal.
+
+## Chapter 5 Penal Provisions
+
+#### Article 33
+
+Any person who, with the intent to obstruct a referendum, uses violence or duress against a civil servant performing his/her lawful duties shall be sentenced to imprisonment for not more than five years.
+
+A person who commits the offense specified in the preceding paragraph and thereby causes the death of a civil servant shall be sentenced to life imprisonment or imprisonment for not less than seven years; if serious injury is inflicted, the offender shall be sentenced to imprisonment for not less than three years but not more than ten years.
+
+#### Article 34
+
+Any person who commits the offense specified in the preceding Article as part of an unlawful assembly shall be sentenced to imprisonment for not more than three years, detention, or a fine of not more than NT$300,000 if he/she is an accessory. The ringleader and any person who commits the act of violence or duress shall be sentenced to imprisonment for not less than three years but not more than ten years.
+
+If the offense specified in the preceding paragraph results in the death of a civil servant, the ringleader and any person who commits the act of violence or duress shall be sentenced to life imprisonment or imprisonment for not less than seven years. If serious injury is inflicted, the offender shall be sentenced to imprisonment for not less than five years but not more than twelve years.
+
+#### Article 35
+
+Any person who uses violence, duress, or other unlawful means to prevent another person from proposing, withdrawing, jointly signing, or voting on a referendum proposal, or forces another person to propose, withdraw, jointly sign, or vote on a referendum proposal shall be sentenced to imprisonment for not more than five years.
+
+An attempt to commit the offense specified in the preceding paragraph is punishable.
+
+#### Article 36
+
+Any person who solicits, agrees to give, or gives a bribe or other illegitimate benefit to a voter in exchange for a promise that the voter will not vote or will vote in a particular way shall be sentenced to imprisonment for not less than three years but not more than 10 years and may also be fined not less than NT$1 million but not more than NT$10 million.
+
+A person who prepares to commit the offense specified in the preceding paragraph shall be sentenced to imprisonment for not more than one year.
+
+Any bribe prepared or used, or agreed to be given or given, for the purpose of committing the offense specified in Paragraph 1, whether it belongs to the offender or not, shall be confiscated.
+
+A person who commits the offense specified in Paragraph 1 or 2 shall have his/her sentence reduced or commuted if he/she surrenders to the authorities within six months of committing the offense. If such surrender leads to the apprehension of the proposer as the principal offender or an accomplice, the person who surrendered shall be exempt from punishment.
+
+A person who commits the offense specified in Paragraph 1 or 2 shall have his/her sentence reduced if he/she confesses during the investigation. If such confession leads to the apprehension of the proposer as the principal offender or an accomplice, the person who confessed shall have his/her sentence reduced or commuted.
+
+#### Article 37
+
+Any person who commits any of the following acts shall be sentenced to imprisonment for not less than one year but not more than seven years and may also be fined not less than NT$1 million but not more than NT$10 million:
+
+\1. Under the pretense of making a donation to a group or organization within a referendum voting district, soliciting, agreeing to give, or giving a bribe or other illegitimate benefit to a member of the group or organization in exchange for a promise that the member will not propose, withdraw, jointly sign, or vote on a referendum proposal, or will propose, withdraw, jointly sign, or vote on a referendum proposal in a particular way.
+
+\2. Soliciting, agreeing to give, or giving a bribe or other illegitimate benefit to a proposer or joint signer of a referendum proposal in exchange for a promise that the proposer or joint signer will not propose, withdraw, jointly sign, or vote on a referendum proposal, or will propose, withdraw, jointly sign, or vote on a referendum proposal in a particular way.
+
+Anyone who plans to commit the crime prescribed in the preceding Paragraph shall be condemned to fixed-term imprisonment of not more than one year.
+
+The bribes prepared or quested, agreed to offer or delivered by the criminal, whether owned by the criminal or not, shall be confiscated.
+
+#### Article 38
+
+Any person who, for profit, brokers any of the acts specified in Paragraph 1 of Article 36 or Paragraph 1 of the preceding Article shall be sentenced to imprisonment for not less than three years but not more than ten years and may also be fined not less than NT$1 million but not more than NT$10 million.
+
+An attempt to commit the offense specified in the preceding paragraph is punishable.
+
+#### Article 39
+
+If, during the course of a referendum, any of the following acts is committed as part of an unlawful assembly, any person present who aids or abets the act shall be sentenced to imprisonment for not more than one year, detention, or a fine of not more than NT$100,000. The ringleader and any person who commits the act shall be sentenced to imprisonment for not more than five years:
+
+\1. A person who participates in an open assembly at which surrounding a referendum proposer or joint signer, or his/her workplace or residence.
+
+\2. A person who participates in an open assembly at which using violence, duress, or other unlawful means to obstruct a referendum proposer or joint signer from carrying out referendum-related activities.
+
+#### Article 40
+
+Any person who, with the intent to obstruct or disrupt the voting or ballot counting of a referendum, withholds, destroys, conceals, replaces, or seizes a ballot box, ballot paper, voter list, voting report, ballot counting report, ballot counting statistics, or voting tool shall be sentenced to imprisonment for not more than five years.
+
+#### Article 41
+
+Any person who removes a received ballot paper from the polling place shall be sentenced to imprisonment for not more than one year, detention, or a fine of not more than NT$15,000.
+
+#### Article 42
+
+Any person who, within 30 meters of a polling station, makes noise, causes a disturbance, or attempts to influence others to vote or not to vote, and continues to do so after being warned by security personnel, shall be sentenced to imprisonment for not more than one year, detention, or a fine of not more than NT$15,000.
+
+#### Article 43
+
+Any person who violates the provisions of Paragraph 2 of Article 21 or engages in any of the acts specified in the subparagraphs of Paragraph 1 of Article 22 and refuses to leave after being ordered to do so shall be sentenced to imprisonment for not more than two years, detention, or a fine of not more than NT$200,000.
+
+#### Article 44
+
+Any person who places anything other than a referendum ballot or election ballot into a ballot box, or intentionally tears up a received ballot paper, shall be fined not less than NT$5,000 but not more than NT$50,000.
+
+#### Article 45
+
+A fundraiser shall verify donations that fall under Subparagraphs 1 through 3 of Paragraph 1 of Article 20 before accepting them. If a donation violates the relevant regulations, the fundraiser shall turn over the donation to the authority in charge of receiving financial statements within two months of receiving the donation. Failure to do so within the specified period shall be punishable by imprisonment for not more than five years.
+
+A fundraiser shall verify donations that fall under Subparagraph 4 of Paragraph 1 of Article 20 before accepting them. If a donation violates the relevant regulations, the fundraiser shall return the donation within one month. If the donation is not returned within the specified period or cannot be returned, the fundraiser shall turn over the donation to the authority in charge of receiving financial statements within two months of receiving the donation. Failure to do so shall be punishable by a fine of not less than NT$200,000 but not more than NT$1 million, and the fundraiser may be ordered to pay the fine within a specified period. If the fine is not paid within the specified period, consecutive fines may be imposed.
+
+The provisions of the preceding two paragraphs shall not apply to fundraisers who have fulfilled their obligation to verify donations.
+
+A fundraiser who accepts a donation in violation of Paragraph 1 of Article 20 shall be fined twice the amount of the donation, up to a maximum of NT$1 million.
+
+A fundraiser who violates Paragraph 2 of Article 20 by failing to file a financial statement as required, or who violates Paragraph 4 of Article 20 by failing to submit supporting documents for income and expenditures, shall be fined not less than NT$100,000 but not more than NT$500,000 and shall be given a deadline to file the statement or submit the supporting documents. If the statement is not filed or the documents are not submitted by the deadline, consecutive fines may be imposed.
+
+A fundraiser who intentionally falsifies any information regarding the income or expenditures of the campaign funds shall be fined not less than NT$500,000 but not more than NT$2,500,000.
+
+Any person who violates the provisions of Paragraph 6 or the regulations prescribed under Paragraph 7 of Article 20 regarding the establishment of offices and the restrictions on the number of offices shall be fined not less than NT$100,000 but not more than NT$1 million.
+
+#### Article 46
+
+If an offense specified in this Chapter is prescribed a more severe penalty in other laws, such provisions shall apply.
+
+If the personnel handing referendum affairs commit any of the crimes prescribed in this Chapter intentionally by using the power, opportunity or method on duty, the punishment shall be increased by a half.
+
+If a person commits any of the crimes prescribed in this Chapter and is thus sentenced to fixed-term imprisonment or heavier punishment, he/she shall also be deprived of citizen’s rights.
+
+## Chapter 6 Dispute and Lawsuit of Referendum
+
+#### Article 47
+
+The court with jurisdiction over a referendum lawsuit shall be determined as follows:
+
+\1. For a national referendum lawsuit, the court of first instance shall be the High Administrative Court with jurisdiction over the location of the central government. For a local referendum lawsuit, the court of first instance shall be the High Administrative Court with jurisdiction over the location where the referendum-related act took place. If the location spans or is scattered across the jurisdictional areas of multiple High Administrative Courts, all of the High Administrative Courts concerned shall have jurisdiction.
+
+\2. Appeal referendum lawsuit that are filed or lodged against a judgment rendered by a High Administrative Court in a referendum lawsuit shall be heard by the Supreme Administrative Court.
+
+#### Article 48
+
+If any of the following circumstances exists, a public prosecutor or the lead proposer of a referendum proposal may, within fifteen days of the date on which the results of the referendum are announced, file a lawsuit with the court with jurisdiction to invalidate the referendum, naming the relevant election commission as the defendant:
+
+\1. The election commission at any level conducts the referendum illegally in a manner that could have affected the results of the referendum.
+
+\2. Violence, duress, or other unlawful means is used against the lead proposer, any person entitled to vote in the referendum, or any personnel involved in the referendum process for the purpose of obstructing the promotion of the referendum, the free exercise of voting rights, or the performance of duties, in a manner that could have affected the results of the referendum.
+
+\3. Any act in violation of Article 36, Article 37, or Paragraphs 1 and 2 of Article 146 of the Criminal Code is committed in a manner that could have affected the results of the referendum.
+
+A final judgment invalidating a referendum under the preceding paragraph shall not be affected by a not guilty verdict in a criminal case involving the same facts.
+
+#### Article 49
+
+If a court renders a final judgment invalidating a referendum, the referendum shall be null and void, and a new referendum shall be held on a specified date. If only part of the referendum was conducted illegally, that part shall be invalid, and a new vote shall be held on a specified date for the invalidated portion. However, this shall not apply if it is clear that the invalidated portion did not affect the results of the referendum.
+
+If the results of the referendum change after the re-vote specified in the preceding paragraph, Article 30 shall apply.
+
+#### Article 50
+
+If the number of votes for or against a referendum proposal is misrepresented in a manner that could have affected the results of the referendum, a public prosecutor or the lead proposer of the referendum proposal may, within fifteen days of the date on which the results of the referendum are announced, file a lawsuit with the court with jurisdiction to confirm whether the referendum proposal was passed or rejected, naming the relevant election commission as the defendant.
+
+If a court renders a final judgment in a lawsuit to confirm whether a referendum proposal was passed or rejected, and the judgment changes the original results of the referendum, the competent authority shall, within seven days of receiving the judgment, take the actions stipulated in Articles 30 and 31.
+
+#### Article 51
+
+If a voter discovers any fact that would render the referendum or the results thereof invalid, he/she may, within seven days of the date on which the results of the referendum are announced, submit evidence to a public prosecutor for prosecution.
+
+#### Article 52
+
+No retrial may be requested for a referendum case. The court hearing the case shall render a judgment within six months.
+
+#### Article 53
+
+If the competent authority rejects a referendum proposal, determines that the joint signature requirement has not been met, or fails to make a decision within the statutory period, the lead proposer may file an administrative lawsuit in accordance with the law.
+
+The procedures for referendum lawsuits shall be governed by the Administrative Procedure Act, except as otherwise provided for in this Act.
+
+A High Administrative Court may delegate the preservation of evidence to a District Court.
+
+The provisions of Paragraph 3 of Article 116 of the Code of Civil Procedure may apply mutatis mutandis to the preservation of evidence.
+
+## Chapter 7 Supplementary Provisions
+
+#### Article 54
+
+The fines stipulated in this Act shall be imposed by the competent authorities. If a fine is not paid within the specified period after notification, the case shall be referred to the judicial authorities for compulsory enforcement in accordance with the law.
+
+#### Article 55
+
+The Enforcement Rules of this Act shall be prescribed by the competent authority.
+
+#### Article 56
+
+This Act shall come into force on the date of its promulgation.
+
+## History
+
+\1. The full text of 64 Articles promulgated by President Order Hua-Tsung (1)-Yi-Tzu No.09200242031 on 31 December 2003
+
+\2. Amendment of Referendum Act revises Articles 7, 42 and 64, promulgated with ROC President 1 Yi 09500075651 Note on May 30th, 2006
+
+\3. Article 7, 64 amended and promulgated by President Order Hua-Tsung (1) Yi-Tzu No.09800134341 on May 27 ,2009
+
+\4. Article 35 amended and promulgated by President Order Hua-Tsung (1) Yi-Tzu No.09800150521 on June 17 ,2009
+
+\5. Amendment of Referendum Act revises the full text of 56 Articles, promulgated with ROC President 1 Yi 10600159281 Note on January 3rd, 2018
+
+\6. The amendment of Articles 9, 10, 12, 13, 17 and 23 of the,” Referendum Act”
+
+Promulgated on the 21st June 21 of the 108th Year, Republic of China
+
+\7. Article 23 amended and promulgated by President Order Hua-Tsung (1) Yi-Tzu No.11400124051 on December 3 ,2025

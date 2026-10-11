@@ -1,0 +1,335 @@
+---
+title: "Act on Transactions in Markets of Agricultural Products"
+title_zh: "農產品市場交易法"
+identifier: "M0030070"
+type: act
+law_level: "法律"
+category: "行政＞農業部＞農糧目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1981-08-05
+last_amended: 2026-02-04
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0030070"
+retrieved: 2026-10-12
+---
+
+# Act on Transactions in Markets of Agricultural Products
+
+> Translation. The Chinese text ([zh/laws/ministry-of-agriculture/M0030070-act-on-transactions-in-markets-of-agricultural-products.md](../../../zh/laws/ministry-of-agriculture/M0030070-act-on-transactions-in-markets-of-agricultural-products.md)) is authoritative.
+
+## Chapter 1 General Principles
+
+### Article 1
+
+This Act has been enacted to establish and maintain order in the marketing of agriAultural products, to regulate demand and supply, and to promote transactional justice.
+
+Any matters not covered by this Act shall be governed by other applicable legislation.
+
+### Article 2
+
+Competent authorities as defined by this Act: at the central government level: the Council of Agriculture, Executive Yuan, hereinafter referred to as the Central Competent Authority; at the special municipality level, the respective special municipal governments; at the county or city level, the respective county or city governments.
+
+### Article 3
+
+The following definitions apply in this Act:
+
+1.Agricultural product: any vegetable, fruit, livestock, or fishery product, or any other product from agriculture, forestry, fishery, or animal husbandry, as well as its processed product as designated by the Central Competent Authority;
+
+2.Agricultural wholesale market: an organization that assembles and performs daily or periodic transactions of agricultural products;
+
+3.Farmer: A natural person directly engaged in the production of agricultural products as defined by this Act;
+
+4.Farmers’ organization: any legally organized farmers’ association, fishermen’s association, cooperative for agricultural production and marketing, or cooperative farm;
+
+5.Supplier: anyone who provides agricultural products to agricultural wholesale markets;
+
+6.Purchaser: anyone who purchases agricultural products from agricultural wholesale markets;
+
+7.Distributor: anyone who purchases agricultural products from agricultural producers or agricultural wholesale markets and ships and trades them in other markets;
+
+8.Wholesaler: anyone who purchases agricultural products from an agricultural wholesale market and sells them to retailers or institutional consumers in the same market;
+
+9.Retailer: a businessperson or entity that sells agricultural products to consumers;
+
+10.Agricultural corporation: a company engaged in agricultural production as defined by this Act.
+
+### Article 4
+
+The Central Competent Authority shall, in accordance with national guidelines for agriculture production and marketing, formulate national plans for the production, marketing, and international trade of agricultural products. Local competent authorities shall devise annual programs for implementing the production and marketing plans.
+
+### Article 5
+
+The Central Competent Authority shall monitor and report on international circumstances in agriculture production and marketing, as well as international market prices of agricultural products. Special municipal, county, or city governments shall monitor and report on domestic circumstances of agriculture production and marketing, along with domestic market prices of agricultural products.
+
+### Article 6
+
+No one shall engage in the monopolization of the trade in agricultural products, price manipulation, or intentional deception regarding the quality or quantity of products to gain an unfair advantage or disrupt the orderly conduct of market transactions.
+
+Additionally, no one shall deliberately disseminate rumors or false information that could impact the prices of traded agricultural products or the orderly conduct of market transactions.
+
+## Chapter 2 Joint Marketing
+
+### Article 7
+
+Joint marketing of agricultural products may be performed by a farmers’ organization, taking two forms as following:
+
+1.Wholesaling, which involves supplying for the purpose of reselling or processing;
+
+2.Retailing, which involves supplying directly to consumers.
+
+In cases where farmers' organizations lack joint marketing arrangements for certain agricultural products or administrative divisions, farmers or agricultural production and marketing groups may independently undertake such efforts, with the government providing active assistance and guidance.
+
+### Article 8
+
+Farmers’ organizations engaged in joint marketing and distribution adjustments must receive assistance and guidance from respective central and local competent authorities. The regulations governing these organizations’ assistance and guidance, incentives, joint marketing organization, training, distribution adjustments, production and marketing forms, cessation of operations, and monitoring shall be formulated by the Central Competent Authority.
+
+Agricultural products undergoing joint marketing by farmers’ organizations should be given priority at agricultural wholesale markets.
+
+The aforementioned joint marketing may be executed through contracted production or supply between a farmers’ organization, its members, and agricultural wholesale markets.
+
+Respective competent authorities shall award farmers’ organizations that exhibit outstanding performance in joint marketing.
+
+### Article 9
+
+Farmers' organizations may impose necessary expenses for joint marketing on participating agricultural producers; the fee- charging standards shall be reported to special municipal, county, or city competent authorities for approval.
+
+To apportion accidental losses incurred during joint marketing of agricultural products, farmers' organizations may devise a method to collect mutual aid funds from the proceeds payable to the agricultural producers; this method is subject to the submission to and approval by special municipal, county, or city competent authorities.
+
+### Article 10
+
+The land required for packing houses used by farmers’ organizations for joint marketing shall be regarded as agricultural land.
+
+The land referred to in the preceding paragraph shall be used exclusively for packing houses for the joint marketing of agricultural products, and the house tax thereon shall be reduced by 50 percent.
+
+### Article 11
+
+Farmers or farmers’ organizations engaged in joint marketing are exempted from stamp duties and business taxes when selling their agricultural products.
+
+## Chapter 3 Wholesaling
+
+### Article 12
+
+Agricultural wholesale markets are deemed public utilities, and their establishment, as well as the scope of their business operations, shall be planned by respective competent authorities and may be funded through government budgets.
+
+The plans proposed by local competent authorities are subject to submission to and approval by the Central Competent Authority.
+
+### Article 13
+
+Entities eligible to operate agricultural wholesale markets are limited to the categories outlined in the following subparagraphs:
+
+1.Farmers’ organizations.
+
+2.Legal persons jointly funded by farmers’ organizations.
+
+3.Legal persons jointly funded by farmers’ organizations and government agencies/institutions or township/city offices.
+
+4.Legal persons jointly funded by farmers and distributors of agricultural products.
+
+5.Legal persons funded by government agencies/institutions or township/city offices.
+
+6.Legal persons funded jointly by government agencies/institutions or township/city offices, farmers’ organizations or farmers, and distributors of agricultural products.
+
+Entities operating agricultural wholesale markets shall not be for profit; their organization, except for the category in Subparagraph 1 in the previous paragraph, is subject to the provisions of a Company Limited by Shares under the Company Act, mutatis mutandis. However, legal persons under the categories in Subparagraphs 2, 3, 5, and 6 are exempted from the requirements for the number and qualifications of founders specified in Article 128 of the Company Act.
+
+Agricultural wholesale markets operated by entities under Subparagraphs 1 and 2 in Paragraph 1 shall be given priority. Those operated by entities under Subparagraph 4 in Paragraph 1 are not eligible for benefits specified in Articles 12, 15, and 17, including funds, land access, and tax reduction.
+
+### Article 14
+
+The establishment of an agricultural wholesale market requires the submission of a proposal to the special municipal, county, or city competent authority for approval before commencement.
+
+After establishment, the operating entity may initiate operations only after registering with and obtaining permits from the local competent authority. Operations shall not be halted or canceled without prior approval of the local competent authority, except in cases of force majeure.
+
+The local competent authority may revoke approval for establishing an agricultural wholesale market if the entity deviates from the approved proposal, except when such deviation is approved based on valid reasons. Regulations governing personnel, financial, and business management, as well as utilization and management of market cash balance, purchaser transaction suspension durations, cancellation of purchaser’s permits, and other relevant matters are stipulated by the Central Competent Authority.
+
+### Article 15
+
+Public land required for agricultural wholesale markets shall be provided by the government on a priority basis by way of lease, sale at the promulgated price, or other forms of cooperation. Where private land is required, the special municipal, county, or city competent authority shall facilitate purchase, initiate legal procedures for land expropriation, arrange for leasing, or acquire such land through other forms of cooperation; agricultural land as specified by law may also be utilized.
+
+Private land leased or acquired through other forms of cooperation under the preceding paragraph shall be limited to land owned by state-run enterprises and shall be subject to the approval of the Central Competent Authority; the term of use shall not be less than twenty years.
+
+The land referred to in Paragraph 1 shall be used exclusively for the establishment and operation of agricultural wholesale markets; any change in its use requires prior approval from the competent authority.
+
+### Article 16
+
+In cases where the lands, buildings, and/or facilities utilized by an agricultural wholesale market are provided by the government or a farmers’ organization, the usage fee shall be determined by the special municipal, county, or city competent authority within the cap set by the Central Competent Authority.
+
+### Article 17
+
+Agricultural wholesale markets receive a 50% deduction on house tax, land value tax, or farmland tax for lands and buildings.
+
+### Article 18
+
+Anyone falling within any of the following subparagraphs is eligible to register as a supplier to agricultural wholesale markets:
+
+1.Farmers.
+
+2.Farmers’ organizations.
+
+3.Agricultural corporations.
+
+4.Agricultural producers approved by the special municipal, county, or city competent authority.
+
+5.Distributors.
+
+6.Importers of agricultural products.
+
+Suppliers falling under Subparagraphs 2 to 6 in the preceding paragraph are required to maintain transaction records. When necessary, the special municipal, county, or city competent authority may request access to those records, and the supplier shall not refuse or interfere with such requests.
+
+Farmers not registered as suppliers under Subparagraph 1 may supply their agricultural products to an agricultural wholesale market using their personal identification card. Agricultural wholesale markets are prohibited from setting a minimum supply amount for individual farmers.
+
+### Article 19
+
+Anyone applying to become a purchaser at an agricultural wholesale market shall submit a specified amount of performance bond to the market and shall obtain a purchaser’s permit.
+
+The specific amount of the performance bond shall be determined by each agricultural wholesale market, subject to the submission to and approval by the local competent authority.
+
+### Article 20
+
+Suppliers or purchasers in an agricultural wholesale market are prohibited from engaging in both purchase and supply businesses within the same market.
+
+### Article 21
+
+The initial wholesale transaction of agricultural products shall take place in the local agricultural wholesale market unless the following exceptions apply:
+
+1.Products involved in joint marketing by a farmers’ organization for direct supply to export or processing.
+
+2.Products retailed by farmers.
+
+3.In areas where an agricultural wholesale market is not yet established.
+
+4.Farmers designated or approved by a project of the special municipal, county, or city competent authority for direct supply to export or processing.
+
+### Article 22
+
+Anyone purchasing agricultural products from farmers in districts without an established agricultural wholesale market must carry a distributor’s permit, subject to inspection by the competent authority when deemed necessary.
+
+To obtain the distributor’s permit referred to in the preceding paragraph, an application shall be made to the special municipal, county, or city competent authority, with no set cap on the number of permitted distributors.
+
+Details related to the distributor’s permit, including application procedures, criteria and required capital amount, validity periods, and available supports and incentives, shall be prescribed by regulations established by the Central Competent Authority for assistance, guidance, and management.
+
+### Article 23
+
+To ensure a stable product supply, agricultural wholesale markets may establish supply contracts, marketing programs with guaranteed prices, financing arrangements, or other applicable measures based on actual needs.
+
+### Article 24
+
+In the initial wholesale transaction of agricultural products, when the agricultural wholesale market issues sales vouchers on behalf of farmers or farmers’ organizations, they shall be exempted from stamp duties and business taxes.
+
+### Article 25
+
+Transaction modes of agricultural wholesale markets include auctioning, price negotiation, price marking, and bidding. Suppliers may specify the lowest transaction price.
+
+### Article 26
+
+Suppliers are, in principle, responsible for grading and packaging agricultural products sold at an agricultural wholesale market. The market may assume this responsibility for products not graded or packaged by suppliers, with associated fees deducted from the payment for the products.
+
+Regulations concerning grading and packaging standards, periodic inspections, incentives for improvement, and the purchase and usage of packing containers for agricultural products shall be established by the Central Competent Authority.
+
+### Article 27
+
+Agricultural wholesale markets may impose a management fee on both suppliers and purchasers, with the fee-charging standards subject to review and approval by the Central Competent Authority.
+
+### Article 28
+
+Agricultural wholesale markets offering grading, packaging, sorting, refrigerating, freezing, ice making, storage, transportation, electric slaughtering, or other related facilities may charge users fees based on fee-charging standards reviewed and approved by the special municipal, county, or city competent authority.
+
+### Article 29
+
+Operators of agricultural wholesale markets must obtain approval from the competent authority to engage in other businesses. The operations and accounting of such businesses shall be independent, and the competent authority may conduct inspections at any time.
+
+### Article 30
+
+Agricultural wholesale markets shall publicly announce today’s transaction prices and quantities for its own transactions and those of other important markets, at a prominent location within the market.
+
+### Article 31
+
+For unsatisfactory operation of an agricultural wholesale market, the special municipal, county, or city competent authority may issue an order for improvement or rectification. When necessary, the local competent authority may request the Central Competent Authority to mandate the market’s reorganization, merger by operation of the law, or cancellation of the operation permit.
+
+## Chapter 4 Retailing
+
+### Article 32
+
+Any retail market engaged in agricultural product marketing shall register with the special municipal, county, or city competent authority.
+
+### Article 33
+
+Farmers or farmers’ organizations may enter into contracts with retailers or retailers’ organizations to supply agricultural products required by the latter in districts where no agricultural wholesale market has been established yet.
+
+### Article 34
+
+Special municipal, county, and city competent authorities shall assist, guide, and manage the retailing of agricultural products to safeguard public health, ensure production- marketing coordination, and promote fair pricing and profitability.
+
+## Chapter 5 Penal Provisions
+
+### Article 35
+
+Anyone violating the provisions specified in Paragraph 1, Article 14 shall be subjected to a fine of more than NT$300,000 but less than NT$30,000,000, and their permits shall be cancelled if applicable.
+
+Anyone violating the provisions specified in Paragraph 1, Article 6 shall be subjected to a fine of more than NT$60,000 but less than NT$300,000, and their permits shall be cancelled if applicable.
+
+Anyone violating the provisions specified in Paragraph 2, Article 6, in a manner that disrupts the orderly marketing of agricultural products, shall be subjected to a fine of more than NT$60,000 but less than NT$300,000.
+
+### Article 36
+
+Anyone violating the provisions specified in Article 20, Paragraph 1 of Article 22, Article 29, or Article 32 shall be subjected to a fine of more than NT$6,000 but less than NT $30,000, and their permits may be canceled if applicable.
+
+### Article 37
+
+Anyone falling under any of the following situations shall be subjected to a fine of more than NT$3,000 but less than NT $18,000, and their permits may be canceled if applicable:
+
+1.Violating the provisions specified in Paragraph 2, Article 18.
+
+2.Violating the provisions specified in Article 21.
+
+3.Allowing others to use their distributor’s permit or purchaser’s permit.
+
+### Article 38
+
+Penalties stipulated in the Act shall be imposed by the special municipal, county, or city competent authority after conducting an investigation.
+
+### Article 39
+
+Anyone who refuses to pay the fines stipulated in this Act will be transferred to the court for compulsory execution.
+
+## Chapter 6 Supplementary Provisions
+
+### Article 40
+
+(Deleted)
+
+### Article 41
+
+(Deleted)
+
+### Article 42
+
+The enforcement rules of this Act shall be established by the Central Competent Authority.
+
+### Article 43
+
+The effective date of this Act shall be determined by the Executive Yuan through an order.
+
+## History
+
+\1. Promulgated on August 5, 1981.
+
+\2. Amendment to Article 3, Article 13, Article 18 and Article21 promulgated on December 12, 1983.
+
+\3. Amendment to Article 2 promulgated on June 9, 1986.
+
+\4. Amendment to Article 2, Article 5, Article 9, Article 14, Article 16, Article 18, Article 21, Article 28 and Article 31 promulgated on May 17,1990.
+
+\5. Amendment to Article 8, Article 14, Article 19, Article 22, Article 26, Article 31, and Article 35~ Article 37 promulgated on June 19,2002.
+
+\6. Amendment to Article 7 and Article 19 promulgated on June 14,2006.
+
+\7. Amendment to Article 13 promulgated on November 28,2012.
+
+\8. Amendment to Article 6 and Article 35 promulgated on July 17, 2019.
+
+Following Executive Yuan Order Tai-Gui-Zi No. 1125014346issued on July 27, 2023, authority over matters in thefollowing provisions of the Act that previously fell underthe jurisdiction of the Council of Agriculture, ExecutiveYuan, was transferred to the Ministry of Agriculture onAugust 1, 2023: Article 2; Paragraph 1 of Article 3;Article 4; Article 5; Paragraphs 1 and 4 of Article 8;Paragraph 12; Subparagraphs 3, 5, and 6 under Paragraph 1of Article 13; Paragraph 3 of Article 14, Paragraph 2 ofArticle 15; Article 16; Paragraphs 1 and 3 of Article 22;Paragraph 2 of Article 26; Article 27; Article 29; Article31; and Article 42.
+
+9.Amendments to Article 6, Article 10, Article 15, and Article 35 promulgated on February 4, 2026, by Presidential Order Hua-Zong-Yi-Jing-Zi No. 11500011061; the effective date shall be prescribed by order of the Executive Yuan. By Executive Yuan Order Yuan-Tai-Nong-Zi No. 1151005251 issued on March 3, 2026, these amendments shall take effect on March 10, 2026.

@@ -1,0 +1,207 @@
+---
+title: "Enforcement Act of the Code of Civil Procedure"
+title_zh: "民事訴訟法施行法"
+identifier: "B0010002"
+type: act
+law_level: "法律"
+category: "司法＞院本部＞民事目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1932-05-14
+last_amended: 2023-11-29
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=B0010002"
+retrieved: 2026-10-12
+---
+
+# Enforcement Act of the Code of Civil Procedure
+
+> Translation. The Chinese text ([zh/laws/judicial-yuan/B0010002-enforcement-act-of-the-code-of-civil-procedure.md](../../../zh/laws/judicial-yuan/B0010002-enforcement-act-of-the-code-of-civil-procedure.md)) is authoritative.
+
+## Article 1
+
+The Amended Code referred to in this Enforcement Act refers to the Code of Civil Procedure and the subsequent amendments promulgated and coming into force after the amendment on January 9th, 1968. The Previous Code referred to herein refers to the Code of Civil Procedure effective prior to the coming into force of the Amended Code of Civil Procedure and other laws regarding civil procedure.
+
+## Article 2
+
+Except as otherwise provided in this Enforcement Act, the Amended Code shall govern all matters that occurred before it came into force, provided that no effect operative under the Previous Code shall be affected.
+
+## Article 3
+
+The regulations governing service of litigation papers by postal service institutions shall be prescribed jointly by the Judicial Yuan and the Executive Yuan.
+
+## Article 4
+
+In actions initiated prior to the coming into force of the Amended Code, the court which has jurisdiction by operation of the Amended Code or the Previous Code shall have jurisdiction over such action.
+
+## Article 4-1
+
+For actions initiated prior to the coming into force of amended provisions governing a summary proceeding in the Code of Civil Procedure, the date of which is prescribed by the tenth paragraph of Article 12 of this Enforcement Act, the jurisdiction of the court and the adjudicating procedures shall be decided as follows:
+
+(1) By the provisions after the amendment, where the court has not entered a final and binding judgment; and
+
+(2) By the provisions before the amendment, where the court has entered a final and binding judgment.
+
+## Article 4-2
+
+The pre-amendment provisions relevant to Article 447 of the Amended Code shall continue to apply to actions which were, in accordance with the provision of the second paragraph of Article 12 of this Act as amended and promulgated, already pending in the second instance prior to the coming into force of the provisions of the said article as provided in the Amended Code, and until the second instance proceeding of such actions is concluded.
+
+## Article 4-3
+
+The pre-amendment provisions relevant to Article 469-1 and Article 470 of the Amended Code shall continue to apply to actions on which, in accordance with the provision of the second paragraph of Article 12 of this Act as amended and promulgated, the court of second instance has entered a judgment prior to the coming into force of the provisions of the said articles as provided in the Amended Code.
+
+## Article 4-4
+
+Where the payment order is finalized after the promulgation and enforcement of the Demand Proceeding Part of the Taiwan Code of Civil Procedure in accordance with the sixth paragraph of Article 12 of this Act, the amended Code shall apply.
+
+Where the payment order is finalized before the promulgation and enforcement of the Demand Proceeding Part of the Taiwan Code of Civil Procedure in accordance with the sixth paragraphof Article 12of this Act, the debtor may still initiate a rehearing action in accordance with the second paragraph of Article 521 of the pre-amended Taiwan Code of Civil Procedure.
+
+In cases as provided in the preceding paragraph, where the debtor finds that the evidence provided by the creditor in accordance with the Demand Proceeding is forged or altered, or where the debtor provides evidence that may gain a more favorable judgment, the debtor may still initiate a rehearing action with the court that has jurisdiction over the payment order, and the original application for issuance of a payment order shall be deemed as the initiation of an action.
+
+The rehearing action referred to in the preceding paragraph shall be initiated within two years after the promulgation and enforcement of the Demand Proceeding Part of the Taiwan Code of Civil Procedure in accordance with the sixth paragraphofArticle 12 of this Act, and shall not be subject to the provisions of Article 500 of the same code. The said action may be initiated after the promulgation and enforcement of this Act, and within two years after a person, who has limited legal capacity, or is legally incompetent, comes to adulthood.
+
+The provisions of the preceding two paragraphs shall not apply to the debt that the debtor has already paid.
+
+## Article 4-5
+
+Regarding the amended Article 254 of the Code of Civil Procedure, the provisions before the amendment shall apply where the court has issued a certificate evidencing the initiation of an action before the amendment becomes effective pursuant to the seventh paragraph of Article 12 of this Enforcement Act.
+
+In the case of the preceding paragraph, the defendant or interested persons may object pursuant to the provisions before the revision of the seventh paragraph of Article 254 of the Code of Civil Procedure, provided that the claim is not based on rights in rem, satisfies the proviso of the ninth paragraph of Article 254 of the Code of Civil Procedure, or satisfies the eleventh paragraph of Article 254 of the Code of Civil Procedure.
+
+## Article 4-6
+
+Regarding the amended second paragraph of Article 133, fifth paragraph of Article 149, Article 249-1, third and fourth paragraphs of Article 444, and Article 449-1 of the Code of Civil Procedure, the provisions before the amendment shall apply where an action has been pending in a court but before the closing of the court instance when the amended provisions become effective pursuant to the tenth paragraph of Article 12 of this Enforcement Act.
+
+## Article 4-7
+
+Where a ruling made pursuant to the first paragraph of Article 114 of the Code of Civil Procedure becomes final and binding before the amended Article 114-1 of the Code of Civil Procedure comes into effect pursuant to the eleventh paragraph of Article 12 of this Enforcement Act, an aided party may make an application pursuant to the amended first paragraph of Article 114 of the Code of Civil Procedure within three months from the date when the amended provision becomes effective.
+
+The preceding paragraph shall not apply to the extent that the aided party has reimbursed litigation expenses.
+
+## Article 5
+
+Where the Amended Code has provided a new period of time for a relevant act of litigation to be conducted, and such act must be conducted upon the coming into force of the Amended Code, such newly provided period shall start to run from the day when the Amended Code comes into force. Notwithstanding, in cases where the presiding judge has designated a time period by a ruling in accordance with the provisions of the Previous Code, and such period has started to run prior to the coming into force of the Amended Code, such period shall prevail.
+
+## Article 6
+
+In cases where a period fixed by the applicable law in accordance with the provisions of the Previous Code prior to the coming into force of the Amended Code has started to run, such period shall be governed by the Previous Code.
+
+## Article 7
+
+The interruption, suspension, and cessation of litigation proceeding as referred to prior to the coming into force of the Amended Code shall mean respectively automatic stay, stay by a ruling, and stay by consent provided in the Code.
+
+## Article 7-1
+
+(Repealed.)
+
+## Article 8
+
+Where the amount provided in Article 466 is increased after the Amended Code has come into force, an appeal may still be taken from a judgment entered prior to the coming into force of the Amended Code if such appeal is permitted under the laws and regulations in effect prior to such increase.
+
+## Article 9
+
+In cases where an appellant has an attorney acting as his/her advocate, or the indications of the pleadings show that he/she is clearly aware of the existence of a defect in the required preconditions for appeal, the court may disregard the rectification proceeding provided in the second paragraph of Article 442 and the proviso of the first paragraph of Article 444 of the Code.
+
+## Article 10
+
+The Judicial Yuan shall, taking the actual circumstances into consideration, determine the jurisdictional boundaries of the court as provided in Article 162 of the Code.
+
+## Article 11
+
+In cases where a rehearing action or an action to revoke a judgment of abridgement of rights is prevented by war from being initiated within five years, the provisions of the third paragraph of Article 500 and the third paragraph of Article 552 do not apply.
+
+## Article 12
+
+Where the payment order is finalized after the promulgation and enforcement of the Demand Proceeding Part of the Code of Civil Procedure amended on June 15th, 2015, are implemented, the amended Code shall apply; where the payment order is finalized before the implementation, the debtor may still initiate a rehearing action in accordance with the second paragraph of Article 521 of the pre-amended Code of Civil Procedure.
+
+In cases as provided in the preceding paragraph and the latter paragraph, where the debtor finds that the evidence provided by the creditor in accordance with the Demand Proceeding is forged or altered or where the debtor provides evidence that may gain a more favorable judgment, the debtor may still initiate a rehearing action with the court that has jurisdiction over the payment order. The original application for issuing a payment order shall be deemed as initiating an action.
+
+The rehearing action referred to in the preceding paragraph shall be initiated within two years after promulgating and enforcing the Demand Proceeding Part of the Code of Civil Procedure. It shall not be subject to the provisions of Article 500 of the same Code. The said action may be initiated after the promulgation and enforcement of this Act and within two years after a person who has limited legal capacity or is legally incompetent comes to adulthood.
+
+The provisions of the preceding two paragraphs shall not apply to the debt that the debtor has already paid.
+
+## Article 13
+
+Regarding the amended Article 254 of the Code of Civil Procedure on May 26th, 2017, the provisions before the amendment shall apply where the court has issued a certificate evidencing the initiation of an action before the amendment becomes effective under the seventh paragraph of Article 12 of this Enforcement Act.
+
+In the case of the preceding paragraph, the defendant or interested persons may object under the provisions before the revision of the seventh paragraph of Article 254 of the Code of Civil Procedure, provided that the claim is not based on rights in rem, satisfies the proviso of the ninth paragraph of Article 254 of the Code of Civil Procedure, or satisfies the eleventh paragraph of Article 254 of the Code of Civil Procedure.
+
+## Article 14
+
+For actions initiated prior to the implementation of amended provisions governing a summary proceeding in the Code of Civil Procedure amended on December 30th, 2020, the jurisdiction of the court and the adjudicating procedures shall be decided as follows:
+
+(1) By the provisions after the amendment, where the court has not entered a final and binding judgment; and
+
+(2) By the provisions before the amendment, where the court has entered a final and binding judgment.
+
+## Article 15
+
+Regarding the amended second paragraph of Article 133, fifth paragraph of Article 149, Article 249-1, third and fourth paragraphs of Article 444, and Article 449-1 of the Code of Civil Procedure on December 30th, 2010, the provisions before the implementation shall apply where an action has been pending in a court but before the closing of the court instance.
+
+## Article 16
+
+Where a ruling made under the first paragraph of Article 114 of the Code of Civil Procedure becomes final and binding before the implementation of the amended Article 114-1 of the Code of Civil Procedure on May 31st, 2021, an aided party may make an application under the amended first paragraph of Article 114 of the Code of Civil Procedure within three months from the date when the amended provision becomes effective.
+
+The preceding paragraph shall not apply to the extent that the aided party has reimbursed litigation expenses.
+
+## Article 17
+
+The pre-amendment provisions relevant to Article 447 of the Amended Code on January 14th, 2003, shall continue to apply to actions that were already pending in the second instance prior to the implementation of the provisions of the said article as provided in the Amended Code, and until the second instance proceeding of such actions is concluded.
+
+## Article 18
+
+The pre-amendment provisions relevant to Article 469-1 and Article 470 of the Amended Code on January 14th, 2003, shall continue to apply to actions on which the court of the second instance has entered a judgment prior to the implementation of the provisions of the said articles as provided in the Amended Code.
+
+## Article 19
+
+Regarding the amended Paragraph 2 of Article 77-2, Paragraph 2 of Article 77-19, and Paragraph 2 of Article 77-22 of the Code of Civil Procedure on November 14th,  2023, shall continue to apply to actions which were already pending prior to the implementation of the provisions of the said article as provided in the Amended Code; before the implementation of Paragraph 1 and Paragraph 3 of Article 91, if the court has not fixed the amount of litigation expenses in its award, and the award is enforceable, the provisions prior to the amended Code shall still apply.
+
+## Article 20
+
+When Paragraph 2 of Article 90 of the Code of Civil Procedure, as amended on November 14th, 2023, comes into effect, if an action is concluded without a decision exceeding the fixed period of twenty days, the amended provisions shall not apply.
+
+## Article 21
+
+The provisions of Paragraph 5 of Article 77-1 of the Code of Civil Procedure, as amended on November 14th, 2023, shall not apply to judgments made before the implementation of the Code.
+
+The provisions of Paragraph 5 of Article 77-1 of the Code of Civil Procedure, as amended on November 14th, 2023, shall not apply to judgments made before the implementation of the Code.
+
+## Article 22
+
+This Enforcement Act shall come into effect from the day the Amended Code comes into effect.
+
+The amended provisions of the Code of Civil Procedure and this Enforcement Act shall come into effect on the date of promulgation unless there are other dates for implementation.
+
+The date for the Amended Code of January 14th, 2003, to come into effect shall be determined by the Judicial Yuan.
+
+Article 45-1, Article 50, Article 56, Article 69, Article 77-19 of the Code of Civil Procedure amended on June 12th, 2009, Article 571, Article 571-1, Articles 596 to 624-8 and Chapter III of Part IX, shall come into effect on and from November 23rd, 2009.
+
+The Code of Civil Procedure, amended on May 22nd, 2018, shall come into effect six months after the date of promulgation.
+
+The Code of Civil Procedure, amended on November 23rd, 2021, shall come into effect on and from January 4th, 2022.
+
+## History
+
+\1. Promulgated on February 1, 1935
+
+Effective from July 1, 1935
+
+\7. As amended on June 25, 2003
+
+\10. Amended on July 1, 2015
+
+\11. Amended on June 14, 2017
+
+\12. Amended on June 13, 2018
+
+\13. Amended on November 28, 2018
+
+\14. Amended on January 20, 2021
+
+\15. Amended on June 16, 2021
+
+\16. Amended on December 8, 2021
+
+\17. Amended on November 29, 2023

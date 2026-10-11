@@ -1,0 +1,277 @@
+---
+title: "Lobbying Act"
+title_zh: "遊說法"
+identifier: "D0020062"
+type: act
+law_level: "法律"
+category: "行政＞內政部＞民政目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2007-08-08
+last_amended: 2007-08-08
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0020062"
+retrieved: 2026-10-12
+---
+
+# Lobbying Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-the-interior/D0020062-lobbying-act.md](../../../zh/laws/ministry-of-the-interior/D0020062-lobbying-act.md)) is authoritative.
+
+## Article 1
+
+This Act is designated to create an open and transparent procedure for lobbying in order to prevent the transference of undue benefits and to assure democratic participation.
+
+## Article 2
+
+The term lobbying mentioned in this Act refers to oral or written communication directly with the lobbied party or its designee that a lobbyist intends to affect the lobbied party or its agency regarding the formulation, enactment, passage, modification or annulment of laws, government policies or legislation.
+
+The term “lobbyist” used in this Act is defined as follows:
+
+\1. An individual, a legal person, an organization permitted to be established or to file for registration, or a group constituted for a special purpose with a representative.
+
+\2. An individual or a profit-seeking legal person for profit commissioned to lobby.
+
+The term “lobbied party” mentioned in this Act is defined as follows:
+
+\1. President, vice president.
+
+\2. Legislators of representative bodies at various levels.
+
+\3. The chief and the deputy chief of special municipality, county/city and township/city.
+
+\4. Persons specified in Paragraph 1 of Article 2 of Political Appointees Pension Statues.
+
+## Article 3
+
+The Ministry of the Interior is designated as the competent authority of this Act.
+
+## Article 4
+
+As set forth in Subparagraph 1 of Paragraph 2 of Article 2, any individual, legal person, organization permitted to be established or to file for registration, or group constituted for a special purpose with a representative that has no standing in matters such as the formulation, enactment, passage, modification or annulment of laws, government policies or legislation shall be prohibited from lobbying.
+
+Designated lobbyists are limited to natural persons who possess specialized credentials obtained through advanced professional and technical examinations and who are currently working in their specialized field, and for profit-seeking legal persons with professional lobbying work listed in their articles of incorporation.
+
+## Article 5
+
+This Act does not apply to the following:
+
+\1. Civil servants engaged in official duties in accordance with the law.
+
+\2. Personnel accredited or dispatched by foreign governments or intergovernmental organizations engaged in official duties
+
+\3. People or organizations that address their opinion via application, petition, pleading and statement of opinion.
+
+## Article 6
+
+If the lobbyist is a legal person or an organization, it shall designate representatives to engage in lobbying, and the number of representatives shall not exceed ten persons.
+
+## Article 7
+
+Foreign governments, legal persons and organizations shall commission ROC lobbyists to engage in lobbying in accordance with this Act.
+
+Foreign governments, legal persons, organizations and natural persons shall not lobby the matters related to national defense, foreign affairs and Mainland affairs concerned with national security or national secrets.
+
+## Article 8
+
+People, legal persons, organizations or other institutions from Mainland China shall not lobby in person or commission other lobbyists to do so; the same stipulation also applies to residents, legal persons, organizations or other institutions from Hong Kong or Macau.
+
+## Article 9
+
+During the process of lobbying, lobbyists shall not employ force, intimidation or other unjustifiable means, and shall not offer, promise or give a bribe or other undue benefits to a lobbied party.
+
+## Article 10
+
+For a three-year period after leaving office, persons specified in Paragraph 3 of Article 2 shall not lobby organizations where they served within a five-year period prior to leaving office, either on behalf of themselves or organizations to which they belong, nor shall they commission other lobbyists to do so. This provision does not apply to legislators of representative bodies at various levels.
+
+## Article 11
+
+Those meeting any of the following conditions shall not be commissioned or be assigned to serve as a lobbyist:
+
+\1. Where the person has committed sedition or treason after the Period of National Mobilization for Suppression of the Communist Rebellion and is sentenced to fixed-term imprisonment without probation.
+
+\2. Where the person has committed any crime prescribed in the Punishment of Corruption Act and is sentenced to fixed-term imprisonment without probation.
+
+\3. Where the person has committed any crime prescribed in the Organized Crime Prevention Act and is sentenced to fixed-term imprisonment without probation.
+
+\4. Where the person has committed a criminal offense involving fraud, misappropriation or breach of trust under the Criminal Code and is sentenced to fixed-term imprisonment without probation.
+
+## Article 12
+
+Legislators of representative bodies at various levels shall not lobby for an enterprise run by themselves or related parties when their total invested shares have exceeded 10%, nor shall they commission other lobbyists to do so.
+
+The scope of related parties of legislators of representative bodies at various levels set forth in preceding paragraph is defined as follows:
+
+\1. Spouses or family members living with legislators of representative bodies.
+
+\2. Second-degree relatives of legislators of representative bodies.
+
+\3. Publicly-funded assistants of legislators of representative bodies
+
+\4. Trustees of trust property of the legislators of representative bodies or their spouses.
+
+\5. The legislators of representative bodies or persons specified in Subparagraphs 1 and 2 who act as the responsible person, director, supervisor or manager of a profit-seeking business.
+
+## Article 13
+
+Prior to engaging in lobbying and for each case, lobbyists shall register the following information with the lobbied government organizations:
+
+\1. Individuals:
+
+(1) Name, date of birth, domicile and residence, ID number, telephone number or any other contact information; those who served as civil servants, as set forth in Paragraph 3 of Article 2, shall write down the name, title and term of office of all agencies in which they served in the five-year period prior to leaving office.
+
+(2) The name and title of the lobbied party.
+
+(3) The purpose and content of lobbying.
+
+(4) The term of lobbying.
+
+(5) The estimated expenditure of lobbying.
+
+(6) An explanation of the relationship to the formulation, enactment, passage, modification or annulment of laws, government policies or legislation and a provision of the documents.
+
+(7) For designated lobbyists, the documents of designation, certificates of qualification from professional or technical examinations, the registration number of professional certificates, agreed compensation and information sufficient to identify the designator.
+
+2.Legal persons or organizations:
+
+(1) The name of the legal person or organization, the registration, permit or filing certificate, the head office, and the name, date of birth, domicile and residence, and ID number of its representative or responsible person as well as a telephone number or other methods of contact.
+
+(2) The name, date of birth, domicile and residence, and ID number of each lobbying representative, as well as a telephone number or other methods of contact, as set forth in Article 6; those who have served as civil servants as set forth in Paragraph 3 of Article 2 shall provide the name, title and term of office of all agencies in which they served within the five years prior to leaving office.
+
+(3) The name and title of the lobbied party.
+
+(4) The purpose and content of lobbying.
+
+(5) The term of lobbying.
+
+(6) The estimated expenditure of lobbying.
+
+(7) An explanation of the relationship with the formulation, enactment, passage, modification or annulment of laws, government policies or legislation and a provision of the documents.
+
+(8) For designated lobbyists, the documents of designation, the articles of incorporation of the profit-seeking legal person, the agreed upon compensation and information sufficient to identify the designator.
+
+Any change in the items detailed in the preceding paragraph shall be filed as an application for a change in registration within five days of the initial date of the change.
+
+A termination of registration of lobbying application shall be filed no later than ten days after the date the registered lobbying activity is terminated.
+
+If an extension of the term of lobbying is found necessary, the extension shall be filed as a change in registration application within ten days prior to the expiration of the lobbying term.
+
+If the registration items detailed in the preceding four paragraphs do not conform to legal procedures, the agency of the lobbied party shall stipulate a date by which the lobbyist must correct all deficient items.
+
+The competent authority shall determine the format of the applications referenced in Paragraphs 1 to 3.
+
+## Article 14
+
+The lobbied government agency shall assign a responsible unit or persons to accept the registration of lobbying.
+
+## Article 15
+
+In the event that a lobbyist engages in forms of lobbying restricted by this Act, the lobbied government agency shall reject the registration and shall provide written notice of the rejection to the lobbyist; the lobbied party shall refuse the lobbying.
+
+The lobbied party shall refuse any legally permitted lobbying that is not registered in accordance with this Act. However, if the refusal cannot be made in a timely manner, the lobbied party or lobbied government agency shall provide notice to the lobbyist of the date by which the registration must be rectified.
+
+## Article 16
+
+The lobbied party shall notify the agency's responsible unit or person following items for registration within seven days of a lobbying interaction:
+
+\1. The lobbyist.
+
+\2. The lobbying time, place and method.
+
+\3. The content of lobbying.
+
+## Article 17
+
+The lobbyist shall compile a financial report detailing all financial transactions that relate to lobbying and shall file this report contemporaneously with the termination of registration application before May 31 each year.
+
+The lobbyist shall retain for five years all financial statements related to the financial report detailed in the preceding paragraph.
+
+## Article 18
+
+The lobbied governmental agency shall retain the registration items detailed in Article 13 and Article 16 and the financial report detailed in Paragraph 1 of the preceding article. Each quarter the reports shall be published on the internet, in a government bulletin or in another publication This does not apply to registration items prohibited from publication in accordance with other laws.
+
+The registration and financial reports detailed in the preceding paragraph shall be retained for five years.
+
+## Article 19
+
+Any person may browse, transcribe, photocopy or photograph the registration and financial reports detailed in the preceding article; the competent authority shall determine the implementation and fee structure.
+
+## Article 20
+
+When a lobbied government agency holds a public hearing that relates to the cause for lobbying for which a lobbyist is registered and occurs during the registered term of lobbying, the lobbyist should be notified to be present at the hearing.
+
+## Article 21
+
+In any of the following circumstances, the lobbyist shall be imposed a penalty between NTD500,000 and NTD2,500,000:
+
+\1. Undertaking lobbying activities while knowingly in violation of the restrictions set forth in Paragraph 1 or Paragraph 2 of Article 4.
+
+\2. Undertaking lobbying activities while in violation of regulations in Articles 10, 11 or Paragraph 1 of Article 12.
+
+## Article 22
+
+In any of the following circumstances, the lobbyist shall be imposed a penalty between NTD200,000 and NTD1,000,000:
+
+\1. Conducting lobbying activities registered in accordance with Paragraph 1 or Paragraph 2 of Article 13, where the application for registration or for registration change has been knowingly filed with false information.
+
+\2. Failing to file in accordance with regulations set forth in Paragraph 1 of Article 17 or knowingly filing false information.
+
+If the violation in the preceding paragraph is material, then the lobbied government agency may refuse the registration of said lobbyist for one year.
+
+## Article 23
+
+In any of the following circumstances, a penalty between NTD100,000 and NTD500,000 shall be imposed:
+
+\1. Violation of regulations set forth in Paragraph 2 or Paragraph 3 of Article 13 by failing to file applications for changes in registration or termination of registration.
+
+\2. Violation of the proviso in Paragraph 2 of Article 15 and subsequent failure to rectify the registration by the notified date.
+
+\3. Failure to give notice in accordance with Article 16.
+
+## Article 24
+
+Should a lobbyist fail to retain financial reports in accordance with Paragraph 2 of Article 17, a penalty between NTD50,000 and NTD250,000 shall be imposed.
+
+## Article 25
+
+If a lobbyist who receives punishment in accordance with Paragraph 1 of Article 22 or Article 23 for failure to file a financial report, an application for changes in registration, or an application for termination of registration, or for failure to rectify a registration by the specified date, is ordered to address the issue and fails to do so by the specified date, a fine shall be imposed for each violation. This penalty also applies to any lobbyist who is ordered to correct an application for registration or for registration change that has been knowingly filed with false information and fails to do so by the specified date.
+
+## Article 26
+
+If the proceeds or compensation received by the lobbyist should exceed the highest penalty amount set forth in the preceding five articles, the extent of the lobbyist’s proceeds or compensation may be taken into consideration, and penalties may be increased.
+
+## Article 27
+
+If the lobbyist is an organization not a legal person, then the penalty for violating this Act shall be imposed upon its representative.
+
+## Article 28
+
+Penalties imposed by this Act shall not constitute a disclaimer of legal liabilities pursuant to other laws.
+
+## Article 29
+
+The lobbied government agency shall provide enough evidence to warrant the penalties regulated by this Act and shall submit the amount of the penalty to the following agencies to administer punishment:
+
+\1. Punishments for those who serve as the president, vice president, legislator or persons specified in Paragraph 1 of Article 2 of Political Appointees Pension Statues shall be administered by the Control Yuan.
+
+\2. The competent authority shall be responsible for circumstances other than what is set forth in the preceding Subparagraph.
+
+The Control Yuan and the competent authority may also voluntarily conduct an investigation to determine the amount of the penalty under this Act.
+
+## Article 30
+
+Regulations governing the implementation of this Act shall be enacted by the competent authority.
+
+## Article 31
+
+This Act will take effect one year after promulgation.
+
+## History
+
+\1. Presidential Order
+
+Hua -Tsung -Yi-Yi Tzu No. 09600101841
+
+8th August, 2007

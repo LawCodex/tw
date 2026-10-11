@@ -1,0 +1,129 @@
+---
+title: "Organization Act of the Ministry of Transportation and Communications"
+title_zh: "交通部組織法"
+identifier: "K0000001"
+type: act
+law_level: "法律"
+category: "行政＞交通部＞組織目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1926-11-03
+last_amended: 2023-06-07
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0000001"
+retrieved: 2026-10-12
+---
+
+# Organization Act of the Ministry of Transportation and Communications
+
+> Translation. The Chinese text ([zh/laws/ministry-of-transportation-and-communications/K0000001-organization-act-of-the-ministry-of-transportation-and-communications.md](../../../zh/laws/ministry-of-transportation-and-communications/K0000001-organization-act-of-the-ministry-of-transportation-and-communications.md)) is authoritative.
+
+## Article 1
+
+The Executive Yuan establishes the Ministry of Transportation and Communications (hereinafter referred to as the “Ministry”) to administer affairs pertaining to transportation administration, transportation and communication infrastructure, and industry of the nation.
+
+## Article 2
+
+The Ministry shall be in charge of the following matters:
+
+1.The policy drafting, project planning, supervising, and managing of railway, mass rapid transit, and highway construction.
+
+2.The policy drafting, planning, supervising and managing of public transportation, and motor vehicle administration.
+
+3.The supervision of tourism development planning, publicity and promotion, resource development and operation counseling management.
+
+4.The policy drafting, constructing and drafting of legislation for maritime and air transportation; the developing, planning, supervising, and managing of commercial ports, airports, and free trade zones.
+
+5.The policy planning, coordinating, supervising and managing of intelligent transportation technology innovation, data application, information service, and cyber security; guiding and promoting digital transformation in transportation.
+
+6.The planning, supervising and managing of postal services, businesses regarding savings, remittances, and life insurance.
+
+7.The policy planning, coordinating, supervising, and managing of traffic safety; the researching and developing of business regarding transportation.
+
+8.The supervision of meteorological monitoring and forecasting operations; promotion of climate change adaptation and greenhouse gas reduction policies in transportation and communications.
+
+9.The supervision of the subordinate agencies (institutes) in handling meteorological operations, tourism, highways, national highways, railways, civil aviation, maritime, ports, and studies on transportation.
+
+10.Other matters concerning transportation and communications.
+
+## Article 3
+
+The Ministry shall have one politically appointed Minister; two Political Deputy Ministers who shall be equivalent to civil servants ranking Senior Grade 14; and one Administrative Deputy Minister who shall be a civil servant ranking Senior Grade 14.
+
+## Article 4
+
+The Ministry shall have one Chief Secretary who shall be a civil servant ranking Senior Grade 12.
+
+## Article 5
+
+The subordinate agencies of the Ministry and their functions are as follows:
+
+1.Tourism Administration: Formulating, planning and drafting tourism policies, and executing matters pertaining to tourism of the nation.
+
+2.Central Weather Administration: Planning and executing matters pertaining to meteorological monitoring, forecasting, development, and management.
+
+3.Highway Bureau: Executing highway constructing, maintaining, supervising, and transportation managing.
+
+4.Freeway Bureau: Executing national freeways construction, widening, maintenance, traffic management and control.
+
+5.Railway Bureau: Executing railway construction, reconstruction, operation supervising, and developing affiliated stations.
+
+6.Civil Aviation Administration: Executing matters related to civil aviation industry management, aviation security, airports operations and management, flight safety oversight, and management of aviation free trade zones.
+
+7.Maritime and Port Bureau: Executing supervision of the shipping industry, vessels, seafarers, and port authorities, managing free trade zones at commercial ports, and ensuring navigation safety.
+
+## Article 6
+
+The rank, grade and staff quotas of positions at the Ministry shall be separately set out by the staff establishment table.
+
+## Article 7
+
+The implementation date of this Act shall be determined by the decree of the Executive Yuan.
+
+## History
+
+1.Formulated and promulgated by the National Government on November 3, 1926.
+
+\2. Amended and promulgated by the National Government on July 4, 1927.
+
+\3. Amended and promulgated by the National Government on August 4, 1927.
+
+\4. Amended and promulgated by the National Government on November 16, 1927.
+
+\5. Amended and promulgated by the National Government on December 8, 1928.
+
+\6. Amended and promulgated by the National Government on February 3, 1930.
+
+\7. Amended and promulgated by the National Government on February 21, 1931.
+
+\8. Amended and promulgated by the National Government on January 14, 1938.
+
+\9. Amended and promulgated by the National Government on March 8, 1938.
+
+\10. Amended and promulgated by the National Government on July 30, 1938.
+
+\11. Amended and promulgated by the National Government on July 14, 1943.
+
+\12. Amended and promulgated by the National Government on June 7, 1946.
+
+\13. Amended and promulgated for the full text of 29 articles by Presidential Order on December 1, 1982.
+
+\14. Amended and promulgated for Article 20 to Article 23; added for Article 23-1 by Presidential Order on January 13, 1995.
+
+\15. Added and promulgated for Article 22-1 by Presidential Order No. 8700119490 on June 17, 1998.
+
+\16. Amended and promulgated for Article 21 and 29; added for Article 18-1 and 26-1 by Presidential Order No. 09100018910 on January 30, 2002, and implemented on January 31, 2002 by Order No. 091000724 of the Executive Yuan on February 26, 2002.
+
+\17. Amended and promulgated for Article 6 and 21; revoked for Article 13 by Presidential Order No. 09100137780 on July 10, 2002, and implemented on January 1, 2003 by Order No. 0910060323 of the Executive Yuan on December 5, 2002.
+
+\18. Amended and promulgated for Article 6 and 21; revoked for Article 12 by Presidential Order No. 09600087291 on July 11, 2007, and implemented on July 17, 2006 by Order No. 09600179751 of the Executive Yuan on September 4, 2007.
+
+\19. Amended and promulgated for Article 20 by Presidential Order No. 10600072501 on June 14, 2017, and implemented on July 14, 2017 by Order No. 10600511091 of the Executive Yuan on July 14, 2017.
+
+\20. Revoked and promulgated for Article 18-1 by Presidential Order No. 10600140501 on November 22, 2017, and implemented on June 8, 2018 by Order No. 10700402721 of the Executive Yuan on June 4, 2018.
+
+\21. Amended and promulgated for Article 6 by Presidential Order No. 11100003381 on January 19, 2022, and implemented on August 27, 2022 by Order No. 11120010981 of the Executive Yuan on August 8, 2022.
+
+\22. Amended and promulgated for the full text of 7 articles by Presidential Order No. 11200046891 on June 7, 2023, and implemented on September 15, 2023 by Order No. 11220013051 of the Executive Yuan on July 20, 2023.

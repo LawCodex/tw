@@ -1,0 +1,195 @@
+---
+title: "Open University Establishment Act"
+title_zh: "空中大學設置條例"
+identifier: "H0030020"
+type: act
+law_level: "法律"
+category: "行政＞教育部＞終身教育目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1985-06-28
+last_amended: 2014-01-22
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=H0030020"
+retrieved: 2026-10-12
+---
+
+# Open University Establishment Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-education/H0030020-open-university-establishment-act.md](../../../zh/laws/ministry-of-education/H0030020-open-university-establishment-act.md)) is authoritative.
+
+## Article 1
+
+In order to utilize the communication media to offer distance learning courses and to provide the public with further and continuing education, so as to provide flexible and diversified learning channels and to realize a lifelong learning society for all, the open universities are hereby established and this Act is enacted.
+
+## Article 2
+
+In this Act the term “competent authority” refers to: the Ministry of Education in the central government; the government of the special municipality in the special municipality.
+
+## Article 3
+
+Open universities are divided into national and special municipal ones. The National Open University shall be established by the central competent authority after examining the nationwide situation; for those established in the special municipalities, the competent authorities of the special municipalities shall report to the central competent authority for approval of the establishment.
+
+## Article 4
+
+An open university uses one or a combination of more than one type of broadcast media, such as radio, television, and the Internet, to implement teaching supplemented by face-to-face instruction, written guidance and other appropriate teaching methods.
+
+## Article 5
+
+An open university shall have a president responsible for the overall management and development of university affairs, and represents the university externally. The qualifications, appointment, term of office, and reappointment of the president shall be in accordance with the Act Governing the Appointment of Educators and the relevant provisions of the University Act.
+
+An open university may appoint one or more vice presidents, who shall assist the president in the promotion of the university affairs, and shall be appointed by the president; the number, qualifications, and term of office of the vice presidents shall be stipulated in each open university’s by-laws.
+
+## Article 6
+
+An open university is divided into faculties, and if necessary may establish graduate schools offering master’s degree courses further to undergraduate programs; it may also establish its affiliated junior college division; the establishment, change, or discontinuance of its departments, graduate schools, and affiliated junior college division shall be reported to the central competent authority for approval in the case of National Open University, or reported to the competent authorities of the special municipalities to forward to the central competent authority for approval in the case of special municipal open universities.
+
+An open university may establish interdepartmental credit programs or degree programs. The definition, establishment conditions, procedures, and evaluation shall be governed by the relevant provisions of the University Act.
+
+The regulations governing the key criteria, approval procedures, and other mandatory requirements for the establishment, change, or closure of an open university and its departments, graduate schools, and its affiliated junior college division, shall be formulated by the central competent authority.
+
+## Article 7
+
+Each open university department shall have a director to handle departmental affairs, as well as degree-program directors to deal with degree-program affairs. Each department of any affiliated junior college division shall have a director appointed for its overall management. The method of appointing directors of open university departments, junior college division departments and degree-programs, shall be done in accordance with the Junior College Act and the relevant provisions of the University Act. The term of office, procedures for reappointment and dismissal of directors, as well as other matters to be complied with, shall be stipulated in the open university’s by-laws.
+
+## Article 8
+
+An open university may establish various administrative units or convene various meetings; the names of administrative units, the tasks of meetings, the duties, the divisions of labor, the qualifications of chief executives and members, as well as other matters to be complied with, shall be done in accordance with the relevant provisions of the University Act, and shall be stipulated in the open university’s by-laws.
+
+## Article 9
+
+An open university may establish a learning center in different regions; there shall be a full-time or part-time director of the center, who shall be appointed by the president and shall be responsible for matters relating to the center. His/her qualifications, term of office, procedures for reappointment and dismissal, as well as other matters to be complied with, shall be stipulated in the open university’s by-laws. A certain number of staff members shall also be appointed for each center.
+
+The study centers in each region are staffed by teachers appointed by the open university to be responsible for teaching and also for providing students with academic guidance and life counseling.
+
+Public schools at all levels may be asked to assist in providing the space and facilities needed by the open university without jeopardizing the teaching, research, or normal operation of the university.
+
+## Article 10
+
+An open university shall set up university council meetings to decide on important matters of university affairs. Matters related to the university council meetings shall be done in accordance with the relevant provisions of the University Act, and shall be stipulated in the open university’s by-laws.
+
+## Article 11
+
+An open university shall stipulate regulations governing full-time teachers’ teaching, research, guidance and instruction, services, and the design and production of teaching programs.
+
+## Article 12
+
+An open university shall regularly conduct self-evaluation on teaching, research, services, guidance and instruction, school administration, and student participation; the evaluation requirements shall be formulated by each open university.
+
+In order to promote the development of open universities, the central competent authority shall form an evaluation team or commission an academic organization or professional evaluation agency to conduct regular evaluations of open universities and announce the results, which shall be used as a reference for the government’s arrangement of education funding, as well as for the university’s adjustment of development scale.
+
+Each open university shall establish a faculty evaluation system to evaluate the effectiveness of faculty members in teaching, research, guidance and instruction, and services, which shall serve as an important reference for faculty members’ promotion, reappointment, long-term appointment, suspension, non-renewal, and rewards; the evaluation methods, procedures, and specific measures shall be implemented after consideration and approval by the university council.
+
+## Article 13
+
+Students of open universities may not apply for deferment from military service or call-up at a later date.
+
+## Article 14
+
+Students of open universities are categorized into full-time degree students and non-degree students.
+
+Full-time degree students who have their status as students and are eligible to study for the following degrees, may be admitted through open recruitment procedures:
+
+\1. Graduates of a public or registered private senior high school, or school of an equivalent level, or who have attained the equivalent educational level, may be admitted to study for an associate degree or a bachelor degree program.
+
+\2. Those who have obtained a bachelor degree, or have attained an equivalent educational level, may be admitted to study for a master degree program.
+
+Assessment of an “equivalent educational level” referred to in the previous paragraph must be undertaken in accordance with the provisions set out in the Standards for Recognition of Equivalent Educational Levels for University Admission or the Standards for Recognition of Equivalent Academic Ability for Junior College Admission.
+
+Non-degree students aged 18 or above, regardless of their educational background, may register to take associate degree or bachelor degree programs, and those who have completed forty credits with a passing grade shall be deemed to have attained an educational level equivalent to that referred to in Paragraph 2, Subparagraph 1.
+
+## Article 15
+
+Each open university shall organize an admissions committee to handle the admissions process.
+
+The “student recruitment” referred to in the previous paragraph may be conducted by means of examination, special achievement-based and screening-based admission, recommendation and screening-based admission, or application-based admission; the relevant regulations shall be formulated by each open university and reported to the central competent authority for approval in the case of National Open University, or reported to the competent authorities of the special municipalities to forward to the central competent authority for approval in the case of special municipal open universities.
+
+The number of full-time degree students enrolled in associate and bachelor degree programs each academic year at an open university shall be reported to the central competent authority for inspction within one month after the academic year starts in the case of National Open University, or reported to the competent authorities of the special municipalities to forward to the central competent authority for inspection in the case of special municipal open universities.
+
+The number of full-time degree students enrolled in master degree programs each academic year at an open university shall be reported to the central competent authority for approval in the case of National Open University, or reported to the competent authorities of the special municipalities to forward to the central competent authority for approval in the case of special municipal open universities.
+
+## Article 16
+
+An open university may enroll non-permanent residents, foreigners, residents of Hong Kong and Macao, and people from Mainland China who have obtained permission to reside in Taiwan as full-time degree and non-degree students; the regulations on enrollment, guidance and instruction, and other related matters shall be formulated by the open university, and shall be reported to the central competent authority for approval in the case of National Open University, or reported to the competent authorities of the special municipalities to forward to the central competent authority for approval in the case of special municipal open universities.
+
+The aforementioned non-permanent residents, foreigners, residents of Hong Kong and Macao and people from Mainland China, are not allowed to apply for change of residence or extension of residence on the grounds of studying at the open university.
+
+## Article 17
+
+Each open university shall adopt the credit system.
+
+The total number of credits required for full-time students to graduate with a degree at each level of study, as well as the related regulations, are as follows:
+
+\1. Associate degree: the total number of credits required shall not be less than 80 credits.
+
+\2. Bachelor’s degree: The total number of credits required shall not be less than 128 credits.
+
+\3. Master’s degree: the number of credits required, as well as other assessments to be passed in order to obtain the degree, shall be stipulated by the open university and shall be reported to the central competent authority for inspection in the case of National Open University, or reported to the competent authorities of the special municipalities to forward to the central competent authority for inspection in the case of special municipal open universities.
+
+The 40 study-credits specified in Article 14, Paragraph 4, may be included in the total number of credits required for graduation of associate and bachelor degrees at the discretion of the open university.
+
+## Article 18
+
+Full-time degree students who have completed the total number of required credits or the credits stipulated in the degree program, who have met the requirements of the examination for obtaining a degree at each level, and who have passed the examination, will be issued a graduation certificate by their open universities and will be awarded a degree in accordance with the Degree Conferral Act. Students who have not completed the total number of required credits or the credits stipulated in the degree program may be issued a credit certificate for the subjects in which they have passed the examination.
+
+Full-time degree students who have completed the credits specified in the credit program and passed the examinations will be issued a credit certificate by the open university.
+
+## Article 19
+
+Non-degree students will be issued a credit certificate if they pass all the subjects they have studied. When such students are subsequently admitted as full-time degree students through open recruitment, they are entitled to be exempted from taking the subjects for which they have already obtained credits.
+
+## Article 20
+
+Each open university shall stipulate the following matters in its academic regulations, including matters related to students undertaking double majors and degree programs, transferring to another region, or suspending from school; as well as students’ grade evaluation, credit requirements for graduation, credit transfers and waivers, summer programs, assessment and recognition of foreign academic credentials, and academic credentials issued in Hong Kong, Macau or Mainland China, dual enrollment status; studying for a degree in another domestic or foreign university, and other matters related to students’ status.
+
+The principles, procedures, and other mandatory requirements associated with the assessment and recognition of foreign academic credentials, and academic credentials issued in Hong Kong, Macao or Mainland China referred to in the previous paragraph shall be done in accordance with the provisions of the Regulations Regarding the Assessment and Recognition of Foreign Academic Credentials for Institutions of Higher Education, the Regulations Governing the Examination and Recognition of Educational Records from Hong Kong and Macao, and the Regulations Governing the Recognition of Educational Records from Mainland China.
+
+## Article 21
+
+The rules of study, student rewards and penalties of the open university shall be formulated by the open university, reported to the central competent authority for inspection in the case of National Open University, and reported to the competent authority of the special municipality to forward to the central competent authority for inspection.
+
+## Article 22
+
+The names of compulsory subjects, the number of credits, the method of teaching each subject, the length of each lecture broadcast, and the number of lectures per credit hour shall be determined by the open university, reported to the central competent authority for inspection in the case of National Open University, and reported to the competent authority of the special municipality to forward to the central competent authority for inspection.
+
+## Article 23
+
+Open universities may conduct extension education in accordance with the relevant provisions of the University Act and the Junior College Act.
+
+## Article 24
+
+The organization regulations and staffing tables of an open university shall be formulated by each university. The organization regulations shall be implemented after approval by the central competent authority in the case of National Open University; in the case of special municipal open university, the organization regulations shall be implemented after they are reported to the competent authority of the special municipality to forward to the central competent authority for approval. The National Open University shall submit its staffing tables to the central competent authority for approval before implementing them; special municipal open universities shall handle related matters in accordance with the regulations of the special municipal competent authorities.
+
+## Article 25
+
+The academic ranks, appointments, qualifications and procedures required for teachers of open universities shall be handled in accordance with the University Act and the relevant provisions of the Act Governing the Appointment of Educators.
+
+In addition to the provisions of the Teachers’ Act, an open university may, based on the needs of teaching and academic research development, stipulate the rights and obligations of teachers, as well as the provisions for the dismissal, suspension, or non-renewal of employment, which shall be incorporated into the university’s bylaws, and shall be implemented and incorporated into the employment contract after consideration and approval by the university council.
+
+## Article 26
+
+In order to enhance the effectiveness of education, each open university shall have student representatives elected to attend the university council meetings, as well as other meetings related to studies, life, rewards and punishments regulations; the proportion of student representatives attending the university council meetings shall not be less than one-tenth of the total number of the university council members.
+
+Each open university shall advise and assist students to form a student union and other related self-governing organizations, and also establish a student appeal system.
+
+Matters related to the rights and interests of the students in association with the matters referred to in the previous two paragraphs shall be handled in accordance with the relevant provisions of the University Act and shall also be stipulated in each open university’s by-laws.
+
+Each open university may deal with group insurance for its students; the regulations governing the insurance period, scope of cover, cost, payment method, payment standards, rights and obligations, and other related matters shall be determined by the open university. In the event that a student needs to make an insurance claim, the university should take the initiative to assist in the process.
+
+The items, purposes, and amounts of fees collected from students by the any open university shall not exceed the regulations of the central competent authority.
+
+## Article 27
+
+Except for the provisions of Articles 6 and 7 pertaining to affiliated junior college divisions, which went into effect on August 1st, 2014, this Act shall come into force on the date of promulgation.
+
+## History
+
+1.Presidential order (74) Hua.Zong(Yi)Yi.Zi No. 3163 promulgated June 28, 1985: complete text of 26 articles
+
+2.Presidential order (84) Hua.Zong(Yi)Yi.Zi No. 5891 issued August 9, 1995: amendment of the title and the complete text of 26 articles (the original title was: the National Open University Establishment Act)
+
+3.Presidential order (89) Hua.Zong(Yi)Yi.Zi No. 8900011890 issued January 19, 2000: amendment of Articles 2 and 3.
+
+4.Presidential order Hua.ZongYi.Yi.Zi No. 10300008951 issued January 22, 2014: amendment of complete text of 27 articles, effective from the date of promulgation, with the exception of the provisions of Articles 6 and 7, pertaining to affiliated junior college divisions, which take effect on August 1, 2014.

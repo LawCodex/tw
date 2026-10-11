@@ -1,0 +1,115 @@
+---
+title: "Compulsory Education Act"
+title_zh: "強迫入學條例"
+identifier: "H0070002"
+type: act
+law_level: "法律"
+category: "行政＞教育部＞國民及學前教育目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1944-07-18
+last_amended: 2019-04-17
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=H0070002"
+retrieved: 2026-10-12
+---
+
+# Compulsory Education Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-education/H0070002-compulsory-education-act.md](../../../zh/laws/ministry-of-education/H0070002-compulsory-education-act.md)) is authoritative.
+
+## Article 1
+
+This Act complies with Article 2, Paragraph 2 of the Primary and Junior High School Act.
+
+## Article 2
+
+Nationals between 6 and 15 years of age (hereafter referred to as “school-age nationals”) shall receive compulsory education according to this Act.
+
+## Article 3
+
+To implement compulsory education, municipalities and counties (cities) shall establish a compulsory education committee comprising the mayor of each municipality, county governors (city mayors); the heads of the competent education, civil affairs, finance, accounting and statistics, police, and social affairs departments and offices; and the head of each township, and district. The municipal city mayors or county governors shall serve as the chairpersons.
+
+## Article 4
+
+To implement compulsory education, cities, townships, and districts shall establish a compulsory education committee comprising the mayor or head of each city, township, and district and supervisors of the civil affairs, finance,household registration, health, and social affairs departments and offices, and the principals of primary and junior high schools. The mayor or head of each city, township, and district shall serve as the chairperson.
+
+## Article 5
+
+The compulsory education committee of each city, township, and district is responsible for promoting and monitoring the enrollment of school-age nationals.
+
+## Article 6
+
+Parents or guardians of school-age nationals have the obligation of ensuring the enrollment of their children or wards, and cooperate with the school to implement family education; institutions or individual persons who care for or are entrusted with the guardianship of school-age nationals have the same obligation.
+
+## Article 7
+
+Before the end of May each year,local household registration authority shall complete surveys and compile a register of the six-year-old    school-age nationals who are due to enroll in primary school. Before June 15 this register shall be sent to the appropriate education administration authority for the school district. Before July 15, each city, township, and district office shall notify the nationals listed in the register to enroll in the school district designated in the notification.
+
+Household registration authority shall if necessary assist local primary schools to conduct the surveys  and  registering  of  names referred to in the receding paragraph.
+
+## Article 8
+
+Before the end of May each year, primary schools shall compile and submit a list of students due to graduate to the competent education authority for further distribution. Before July 15, the nationals listed shall be notified to enroll in a junior high school in their school district.
+
+## Article 8-1
+
+Primary and junior high schools shall notify the competent education administration authority if they discover students being absent from school for 3 days or more without leave or without clear reason, or discover that transferred students have not yet reported to their new school to enroll. The students shall be counseled and resume attending school.The regulations governing submitting a report and return-to-school counseling shall be prescribed by the Ministry of Education.
+
+## Article 9
+
+In cases of school-age nationals who are required to enroll in school but have not done so, or who have enrolled but dropout, or who have long-term absences, schools shall submit a report to the city, township, or district compulsory education committee to dispatch personnel for a home visit. The students shall be advised to enroll in a school or to resume attending school. The local municipal or county (city) government shall be notified of cases in which students discontinue education, are unable to enroll, or have had long-term absences because of financial concerns or family incidents, and shall in accordance with social welfare acts, or using specific relief strategies, provide assistance to resolve their difficulties.
+
+With the exception of those in the circumstance set out in Articles 12 and 13, and those who have had special grounds approved by a city, township, or district compulsory education committee, if the parents or guardians still refuse to enroll or resume school after persuasion, the school shall report to the township (town, city, or district) compulsory education committee to issue a written warning and set a time limit for enrollment or continued enrollment.
+
+Persons who fail to adhere to the warning and comply with the deadline for enrollment or continued enrollment shall be fined NT$ 100 or less by the city, township, or district offices, and shall be required to enroll or continue enrollment of their children or wards within a limited period.This penalty shall be continued until enrollment or continued enrollment is implemented.
+
+## Article 10
+
+(Deleted)
+
+## Article 11
+
+As designated in this Act, compulsory enforcement by a court shall be implemented in cases of failure to pay the specified fine in due time.
+
+## Article 12
+
+School-age nationals who are disabled or whose health status precludes enrollment may be granted delayed enrollment if supporting evidence from public medical institutions is provided; however, enrollment is required once their health has been restored.
+
+## Article 13
+
+School-age nationals with physical or mental disabilities shall be placed in schools and provided with special education after being identified by the Special Education Students Identification and Educational Placement Committee of municipal and county (city) competent education administrative authorities. Nationals identified as requiring enrollment to be delayed may postpone enrollment for a maximum period of one year. The city, township, or district compulsory education committee shall also be notified.
+
+The regulations governing the criteria, procedures, and implementation of matters associated with the assessment of delayed enrollment referred to in the preceding paragraph shall be prescribed by the municipal  or  county  (city) competent education authority.
+
+## Article 14
+
+The municipal or county (city) competent authorities governing educational administration shall initiate an investigation of students from remote areas who cannot commute to school daily; schools shall provide accommodation, board, transportation, or other effective measures for said students.
+
+## Article 15
+
+In the case of school-age nationals whose household registration changes because of household relocation, the student’s new household registration authority shall provide the local compulsory education committee with a copy of the notification to undertake compulsory enrollment or school transfer.
+
+## Article 16
+
+The enforcement rules for this Act shall be prescribed by the Ministry of Education.
+
+## Article 17
+
+This Act is effective from the day of promulgation.
+
+## History
+
+\1. Promulgated on July 18, 1944.
+
+\2. Amendment to Articles 3, 4, 5 and 8, promulgated on February 17, 1945.
+
+\3. Amendment to Articles 1~17, promulgated on May 12, 1982.
+
+\4. Deletion of Article 10, amendment to Articles 6, 9, 13 of Compulsory Education Act per Presidential Decree No. Hua-Zong-Yi-Zi-09300156891 dated January 15, 2003.
+
+\5. Addition of Article 8-1, amendment to Articles 3, 4, 9 of Compulsory Education Act per Presidential Decree No. Hua-Zong-Yi-Zi-10000266441 dated November 30, 2011.
+
+\6. Amendment to Articles 12, 14 of the Compulsory Education Act per residential Decree No. Hua-Zong-Yi-Zi-10800037901 dated April 17, 2019.

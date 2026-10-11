@@ -1,0 +1,241 @@
+---
+title: "Political Archives Act"
+title_zh: "政治檔案條例"
+identifier: "A0030312"
+type: act
+law_level: "法律"
+category: "行政＞國家發展委員會＞通用目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2019-07-24
+last_amended: 2023-12-27
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=A0030312"
+retrieved: 2026-10-12
+---
+
+# Political Archives Act
+
+> Translation. The Chinese text ([zh/laws/national-development-council/A0030312-political-archives-act.md](../../../zh/laws/national-development-council/A0030312-political-archives-act.md)) is authoritative.
+
+## Article 1
+
+This Act is enacted in order to： (a) establish a system for access to political archives that is in line with the spirit of transitional justice while paying due attention to the privacy concerns of parties to the subject matter of archives； (b) promote historical research and transitional justice education focusing on such topics as authoritarian systems, national general mobilization, martial law, the period of national mobilization in suppression of communist rebellion, and the February 28 Incident； (c) disclose truths and spur social reconciliation； and (d) administer acquisition, organization, and preservation of political archives, access thereto, and related research and education.
+
+## Article 2
+
+The competent authority of this Act is the National Development Council.
+
+Acquisition, organization, and preservation of political archives, and access thereto, shall be administered by the National Archives Administration, National Development Council (hereinafter referred to as the NAA). Research, publishing, exhibition, and education outreach activities pertaining to political archives shall be implemented by the Ministry of Culture in consultation with related government agencies (institutions).
+
+## Article 3
+
+In this Act, the following terms are defined as follows：
+
+1.Political archives： This term means records or other files and documents dating to the period from 15 August 1945 to 6 November 1992 that are related to the February 28 Incident, mechanisms of mobilization in suppression of the communist rebellion, and martial law mechanisms, and are maintained in custody by government agencies (institutions), political parties, affiliated organizations, and party-owned entities； this also applies to records from agencies (institutions) that have been dissolved.
+
+2.A party to the subject matter of archives： This term means a person mentioned in political archives who has been arrested, subject to an investigation or inquiry, prosecuted, named in an arrest warrant, placed on trial, subject to compulsory enforcement, or otherwise mistreated by a public authority.
+
+3.Government agency (institution)： This term means an agency at the central or any local level or non-departmental public body, and any individual, legal person, or organization that the government has commissioned to exercise public authority, and any experimental (testing), research, cultural and educational, or medical institution, foundation, or state-owned enterprise established by an agency at any level.
+
+4.Private documents： This term means private correspondence, diaries, wills, manuscripts, photographs, audio recordings, video recordings, and electronic records, as well as other documents and unpublished works unrelated to the exercise of public authority, that are included among political archives； provided, however, that the above does not include documents sent to or from a government agency (institution), or evidence pertaining to an inquiry, litigation, or a supervision case.
+
+## Article 4
+
+Within six months from the date on which this Act enters into force, government agencies (institutions) shall complete the inventorying of political archives, and shall catalog them and duly submit the catalogs to the NAA. This deadline may be extended if necessary, but the period of extension shall not exceed six months.
+
+When the NAA conducts a review to determine the status of political archives owned and administered by government agencies (institutions), the NAA shall do so by inspecting the records catalog or the content of the records. When necessary, scholars or experts may be invited to take part.
+
+When records owned and administered by government agencies (institutions) are reviewed by the NAA and determined to be political archives, they shall be transferred within a prescribed time period to the NAA for management as archives； prior to such transfer, they shall be properly maintained and made available for public access in accordance with the provisions of this Act.
+
+Where the political archives of the preceding paragraph contain classified national security information as referred to in Article 12 of the Classified National Security Information Protection Act, the transfer of the originals shall be postponed until after their declassification； provided, however, that any state secrets involving classified national security intelligence sources or assets shall be removed before reproductions of the rest of the records are returned to the file folder to be transferred, and a note shall be made in the archives catalog to explain what was done and to provide access.
+
+After expiry of the period set out in paragraph 1, government agencies (institutions) shall still be required to continue inventorying political archives and submitting the catalogs to the NAA. When the NAA deems it necessary it may conduct a special acquisition project.
+
+Where an inventory as referred to in the preceding paragraph involves any archives, records, or documents produced later than 6 November 1992, any content therein that pertains to any incident or mechanism set out in subparagraph 1 of Article 3 above shall be submitted to the NAA along with catalogs, and the NAA may concurrently determine them as political archives. With respect to records or documents possessed by a political party, affiliated organization, or party-owned entity, the same applies when those have been reported to a competent authority, been investigated thereby, and been determined by that authority to be political archives.
+
+## Article 5
+
+Before political archives owned and administered by government agencies (institutions) are transferred to the NAA, the following matters shall be carried out：
+
+1.Classify and arrange the records, and carry out a two-level description at the item and file level.
+
+2.Review the declassification or downgrading of classified records.
+
+3.Organize and bind records, and check the readability of the storage medium.
+
+4.Electronically store the records in observance of the required format and naming principles.
+
+5.The item-level description shall be used to refer to records access categories.
+
+If part of the records are not to be made available for access, the government agencies (institutions) shall indicate the legal basis for this decision, and disclose the requirements for provision of access, and the number of years from the date of creation after which public access is required.
+
+With regard to the review of declassification or downgrading of classified records, as mentioned in subparagraph 2 of the preceding paragraph, records that have been classified for more than 30 years without any expressly set date or conditions for declassification shall be declassified, and declassification shall not be avoided for any of the following purposes：
+
+1.To conceal violations of law or administrative error；
+
+2.To prevent embarrassment to a person, juridical person, or organization, or agency(institution)； or
+
+3.To prevent or delay the provision of archival content that must be made public.
+
+The agency that originally classified the archives, and its superior agency, shall complete the review within six months of completion of the inventory process required by paragraph 1 of the preceding paragraph. If the review is not completed within six months, the archives shall be deemed declassified from the day after the passage of six months.
+
+After completion of a review,  if records are still deemed to contain classified national security information as referred to in Article 12 of The Classified National Security Information Protection Act, the agency that made the original classification shall report the matter to its superior agency to seek its consent for a requirement that the records be declassified after the passage of a maximum of 40 years； provided, however, that if the agency that made the original classification conducts a review prior to the declassification date, discovers any of the following circumstances, and there remains a need to prolong the classification, the agency shall on each such occasion report to the competent authority of the National Intelligence Work Act  and request, providing facts and reasons, that the competent authority shall summit it, via that agency's superior agency to consent to prolonging of the classification, with each prolonging of the classification to last no longer than three years from the date of the superior agency's consent：
+
+1.Records contain information pertaining to the identities of intelligence personnel and intelligence support personnel who once collected intelligence on the mainland area, and disclosure of the records could jeopardize the lives, health, or freedom of said personnel；
+
+2.Records contain information pertaining to international intelligence service arrangements and cooperation, and disclosure of the records could seriously affect national security and foreign relations；
+
+3.Records contain information pertaining to intelligence service arrangements and collection of sensitive intelligence, and disclosure of the records could seriously affect the safety of intelligence service in the mainland area.
+
+For records that are classified, within six months from the day following the date on which the amendment to this Act enters into force, agency that originally classified them shall, acting in accordance with the provisions of paragraph 2 and paragraph 4, shall conduct renewed discussions on whether to declassify or downgrade them. Any records for which renewed discussions regarding declassification or downgrading have not been completed by the close of the six-month period shall be deemed declassified from the day following the end of that period.
+
+Electronic files created pursuant to subparagraph 4 of paragraph 1 shall be provided along with the records upon transfer.
+
+## Article 6
+
+When political archives possessed by a political party, affiliated organization, and party-owned entity are reviewed by the Transitional Justice Commission (hereinafter referred to as the TJC) and determined to be archives, they shall be transferred within a prescribed time period to the NAA for management, and the TJC, the NAA, and the political party, affiliated organization, and party-owned entity that possesses the records shall make a record of the matter based on the records review list.
+
+The TJC shall inform the relevant agencies of the determination referred to in the preceding paragraph.
+
+After the TJC has been dissolved pursuant to the law, the review and determination of the transfer of political archives possessed by a political party, affiliated organization, and party-owned entity to archives shall be conducted by the competent authority. Scholars, experts and impartial citizens may be invited to conduct such reviews.
+
+When records are determined to be political archives but the political party, affiliated organization, or party-owned entity possessing them refuses to transfer them for management as archives, the refusing party shall be fined not less than NT$1,000,000 and not more than NT$5,000,000, and consecutive fines may be imposed for each successive violation.
+
+## Article 7
+
+When handling the organization and preservation of political archives, the NAA shall carry out the following matters：
+
+\1. Arrange and describe the archives, and correct catalogs.
+
+2.Inspect the state of the archives' preservation, grade their degree of damage, and repair as necessary.
+
+\3. Digitize and store the archives.
+
+4.Periodically review the declassifying or downgrading classified archives.
+
+\5. Take the initiative to inform parties to the subject matter of archives, or heirs thereof, when they are entitled to apply for the return of private documents； and
+
+\6. Other necessary matters.
+
+Political archives for which the classification period has expired or the conditions for declassification have been fulfilled shall be automatically declassified； political archives that have been classified for 30 years shall be deemed declassified unless the government agency (institution) that originally transferred them demonstrates that there is a legal basis for setting an express date or conditions for declassification.
+
+After political archives are declassified, the NAA shall publicly announce the reason for declassification, send a copy of the announcement to the government agency (institution) that originally transferred them, and take necessary declassification measures, the Classified National Security Information Protection Act and any other declassification provisions governing the processing of documents do not apply.
+
+Political archives to which no level of classification has been assigned, or which have already been declassified, shall not be classified or reclassified.
+
+With regard to applications for the return of private documents (referred to above in subparagraph 5, paragraph 1), rules governing administrative procedures and other compliance requirements shall be prescribed by the NAA.
+
+## Article 8
+
+A party to the subject matter of archives may apply for access to political archives pertaining to his or her case； when a party to the subject matter of archives is deceased, the party's spouse or heirs provided in Article 1138 of the Civil Code may apply for access.
+
+Where someone has applied to access political archives under the provisions of the preceding paragraph, the NAA shall make them available for viewing, hand-copying, or duplicating at a designated location, except under one of the following circumstances：
+
+1.It is permitted by the provisions of this Act to declare the political archives to be classified； or
+
+2.A party to the subject matter of archives, or an heir thereof, has stated that he/she is unwilling to disclose private documents.
+
+Where political archives that someone has applied to access under the provisions of paragraph 1 involve matters of personal privacy, the NAA shall make them available for viewing or hand-copying at a specified location, and shall make them available for duplication if the portion(s) involving matters of personal privacy are separately treated to ensure that any viewer will be unable to identify a specific individual, provided, this shall not apply if the person in question is deceased or consents to their duplication.
+
+Political archives of the preceding two paragraphs to which the circumstances listed in subparagraph 2, paragraph 2 of this article or the main text of the preceding paragraph apply shall be made publicly available for viewing, hand-copying, or duplicating no later than 70 years from the date of their creation.
+
+The basis for calculation of the time periods set out in paragraph 2 and the main text of paragraph 4 of Article 5, paragraph 2 of Article 7, and the preceding paragraph shall be the date of creation of the earliest-dated document in the entire case.
+
+For any given political archives, the NAA shall prepare and publicly announce a name index of the parties to the subject matter of the archives. When an intelligence agency uses public security, crime prevention, or security control measures to collect or obtain — without the consent of the parties to the subject matter of the political archive — information regarding those parties' family relationships, spousal relationships, sexual relationships, personal notes, or other highly private matters, and when the archive contains contact information or information that could be used to identify the parties, then prior to public announcement of the names index, the NAA shall request the household registration authorities to conduct a check and take the initiative to notify the parties of the following matters (provided that where notification would clearly be difficult the NAA may instead issue a public announcement, and six months after mailing of notification or the issuing of a public announcement the NAA shall publish the names index)：
+
+1.The parties may apply in accordance with the provisions of paragraph 1 to view, hand-copy, or duplicate the archive；
+
+2.The parties may apply in accordance with the provisions of paragraph 7 to include a supplementary opinion in the archive； and
+
+3.The parties may express opinions in accordance with the provisions of subparagraph 2, paragraph 2 of Article 9.
+
+A party to the subject matter of the archive, or an heir thereof, who believes that either the content of the archive or a statement made in materials pertaining to that party is erroneous or incomplete may furnish relevant documentary evidence and apply to include a supplementary opinion in the archive.
+
+When government agencies issue a public announcement in accordance with the following provisions, it shall send a copy of the public announcement to inform the NAA； the public announcement shall become as archives and be provided for public access：
+
+1.A person has received the redressing of a judicial wrong or an administrative wrong pursuant to the provisions of the Act on Promoting Transitional Justice；
+
+2.A person has received compensation and had his/her reputation restored pursuant to the provisions of the February 28 Incident Disposition and Compensation Act；
+
+3.A person has received compensation and had his/her reputation restored pursuant to the provisions of the Compensation Act for Wrongful Trials on Charges of Sedition and Espionage during the Martial Law Period； or
+
+4.A person has had his/her rights restored pursuant to the provisions of the Act Governing the Recovery of Damage of Individual Rights during the Period of Martial Law.
+
+A party to the subject matter of archives or his/her heir may mandate a third party to handle the applications provided for in paragraph 1 and paragraph 7 above.
+
+## Article 9
+
+When someone other than the party to the subject matter of archives applies to view, hand-copy, or duplicate political archives, provision of the archives shall be subject to the following requirements：
+
+1.Political archives that came into existence over 30 years shall comply with paragraphs 2 and 3 of Article 8； provided, however, that a political archive that involves highly private matters of parties as referred to in paragraph 6 of Article 8 and has not yet been in existence for 70 years shall be handled in accordance with the provisions of paragraph 2.
+
+2.Political archives that came into existence less than 30 years shall comply with paragraph 2 of Article 8； content that involves matters of personal privacy shall not be provided unless the persons in question give consent, in which case the NAA may provide the archives for viewing, hand-copying, or duplicating at a designated location.
+
+Political archive as referred to in the proviso of subparagraph 1 of the preceding paragraph may be provided for viewing, hand-copying, or duplicating unless any of the following circumstances exist (in which case the NAA shall provide the archive after removing the parts that involve highly private matters of the parties to the archive)：
+
+1.The party to the subject matter of archives is deceased；
+
+2.The party to the subject matter of archives has provided written consent for provision of archives； or
+
+3.The applicant has obtained the consent of the party to the subject matter of archives’ written consent for provision.
+
+When reproductions of political archives obtained by an applicant involve matters of personal privacy and consent has not been obtained from the party to the subject matter, the archives shall not be reproduced, distributed, broadcasted, delivered, publicly displayed, or made available in any other way to persons for their viewing； political archives shall be possessed, handled, and used in accordance with applicable legal provisions.
+
+The time periods referred to in paragraph 1 shall be calculated upon the basis set out in paragraph 5 of Article 8； where there are circumstances that preclude the provision of political archives, the maximum period following which they must be made available for viewing, hand-copying, or duplicating shall be calculated in the manner set out in paragraphs 4 and 5 of Article 8.
+
+## Article 10
+
+When government agencies (institutions) seek to retrieve political archives, the NAA shall make them available for viewing, hand-copying, or duplicating unless a circumstance set out in subparagraph 2, paragraph 2 of Article 8 applies or their provision is prohibited by the provisions of paragraph 2 of Article 9； when government agencies (institutions) seek to retrieve the classified political archives, it shall do so only after obtaining the consent of the government agencies (institutions) that originally transferred them.
+
+Where there are circumstances that preclude the provision of political archives, the maximum period which they must be made available for viewing, hand-copying, or duplicating shall be calculated in the manner set out in paragraphs 4 and 5 of Article 8.
+
+Government agencies (institutions) that is empowered to retrieve archives may retrieve them in accordance with the applicable legal provisions to the exclusion set out in paragraph 1 above do not apply.
+
+## Article 11
+
+The full names, aliases, code names, and job titles of civil servants, witnesses, informants, and information sources set out in political archives shall be made available for viewing, hand-copying, or duplicating, the provisions of Article 8 of the National Intelligence Work Act do not apply.
+
+## Article 12
+
+Before the NAA makes an access decision regarding an application submitted in accordance with the provisions of Articles 8 through 10 above, it may provide written notification to the government agencies (institutions) that transferred the archives and any other relevant government agencies (institutions) so that they may express an opinion, and any government agencies (institutions) that receives the notification shall express an opinion within 10 days of its receipt of notification； if no opinion is expressed within 10 days, the government agencies (institutions) shall be deemed to have no opinion.
+
+A person who applies to view, hand-copy, or duplicate political archives that are urgently needed in order to seek redressing of a judicial wrong, indemnification, or compensation, or to prevent harm to personality rights, may explain the reasons in writing and request that his/her application receive priority treatment.
+
+## Article 13
+
+Fee standards for applications to view, hand-copy, or duplicate political archives shall be prescribed by the NAA.
+
+When a party to the subject matter of archives applies to access political archives related to a matter in which he/she was involved, the fee shall be waived one time for each archive related to that person's case； when the party to the subject matter of an archive is deceased, the same shall apply to the party's spouse or heirs provided in Article 1138 of the Civil Code.
+
+## Article 14
+
+When the provision of access to political archives is a matter of dispute, the NAA may invite relevant government agencies (institutions), representatives of civic groups, experts, and impartial citizens—excluding all the persons referred to in Article 11—to review the matter.
+
+The dispute handling procedures set out in the preceding paragraph and other tasks that must be performed shall be prescribed by the NAA.
+
+## Article 15
+
+Information learned in the course of managing, reviewing, applying for access to, or retrieving a political archive shall be used in accordance with all applicable protection provisions set forth in the law.
+
+Any violation of the preceding paragraph shall be subject to punishment pursuant to applicable laws.
+
+## Article 16
+
+When political archives in the custody of government agencies (institutions), political parties, affiliated organizations, or party-owned entities are destroyed, damaged, concealed, or rendered useless, a sentence of up to five years imprisonment shall be imposed.
+
+An attempt to commit an offense specified in the preceding paragraph is punishable.
+
+## Article 17
+
+This Act shall come into force from the date of promulgation.
+
+Amendments to this Act shall come into force on February 28, 2024.
+
+## History
+
+1.The full text of 17 articles enacted and promulgated on July 27, 2019, by Hua-Zong-(1)-Yi-Zi No.10800074211 Order of the President；shall come into force from the date of promulgation.
+
+2.Articles 4, 5, 7, 8, 9, 10, 11, and 17 amended and promulgated on December 27, 2023, by Hua-Zong-(1)-Yi-Zi No. 11200113031 Order of the President；shall come into force on February 28, 2024.

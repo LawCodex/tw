@@ -1,0 +1,499 @@
+---
+title: "Customs Import Tariff"
+title_zh: "海關進口稅則"
+identifier: "G0350051"
+type: act
+law_level: "法律"
+category: "行政＞財政部＞關務目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1928-12-07
+last_amended: 2026-01-28
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0350051"
+retrieved: 2026-10-12
+---
+
+# Customs Import Tariff
+
+> Translation. The Chinese text ([zh/laws/ministry-of-finance/G0350051-customs-import-tariff.md](../../../zh/laws/ministry-of-finance/G0350051-customs-import-tariff.md)) is authoritative.
+
+## 1
+
+1 Customs import tariff
+
+Contents of Each Chapter
+
+Sec. I LIVE ANIMALS; ANIMAL PRODUCTS
+
+Ch. 1 Live animals
+
+Ch. 2 Meat and edible meat offal
+
+Ch. 3 Fish and crustaceans, mollusks and other aquatic invertebrates
+
+Ch. 4 Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included
+
+Ch. 5 Products of animal origin, not elsewhere specified or included
+
+Sec. II VEGETABLE PRODUCTS
+
+Ch. 6 Live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage
+
+Ch. 7 Edible vegetables and certain roots and tubers
+
+Ch. 8 Edible fruit and nuts; peel of citrus fruit or melons
+
+Ch. 9 Coffee, tea, mate and spices
+
+Ch. 10 Cereals
+
+Ch. 11 Products of the milling industry; malt; starches; inulin; wheat gluten
+
+Ch. 12 Oil seeds and oleaginous fruit; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder
+
+Ch. 13 Lac; gums, resins and other vegetable saps and extracts
+
+Ch. 14 Vegetable plaiting materials; vegetable products not elsewhere specified or included
+
+Section III ANIMAL OR VEGETABLE FATS AND OILS AND THEIR CLEAVAGE PRODUCTS; PREPARED EDIBLE FATS; ANIMAL OR VEGETABLE WAXES
+
+Ch. 15 Animal or vegetable fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes
+
+Section IV PREPARED FOODSTUFFS; BEVERAGES, SPIRITS AND VINEGAR; TOBACCO AND MANUFACTURED TOBACCO SUBSTITUTES
+
+Ch. 16 Preparations of meat, of fish or of crustaceans, molluscs or other aquatic invertebrates
+
+Ch. 17 Sugars and sugar confectionery
+
+Ch. 18 Cocoa and cocoa preparations
+
+Ch. 19 Preparations of cereals, flour, starch or milk; pastrycooks' products
+
+Ch. 20 Preparations of vegetables, fruit, nuts or other parts of plants
+
+Ch. 21 Miscellaneous edible preparations
+
+Ch. 22 Beverages, spirits and vinegar
+
+Ch. 23 Residues and waste from the food industries; prepared animal fodder
+
+Ch. 24 Tobacco and manufactured tobacco substitutes; products, whether or not containing nicotine, intended for inhalation without combustion; other nicotine containing products intended for the intake of nicotine into the human body
+
+Section V MINERAL PRODUCTS
+
+Ch. 25 Salt; sulphur; earths and stone; plastering materials, lime and cement
+
+Ch. 26 Ores, slag and ash
+
+Ch. 27 Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes
+
+Section VI PRODUCTS OF THE CHEMICAL OR ALLIED INDUSTRIES
+
+Ch. 28 Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes
+
+Ch. 29 Organic chemicals
+
+Ch. 30 Pharmaceutical products
+
+Ch. 31 Fertilisers
+
+Ch. 32 Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints and varnishes; putty and other mastics; inks
+
+Ch. 33 Essential oils and resinoids; perfumery, cosmetic or toilet preparations
+
+Ch. 34 Soap, organic surface-active agents, washing preparations, lubricating preparations, artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, "dental waxes" and dental preparations with a basis of plaster
+
+Ch. 35 Albuminoidal substances; modified starches; glues; enzymes
+
+Ch. 36 Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations
+
+Ch. 37 Photographic or cinematographic goods
+
+Ch. 38 Miscellaneous chemical products
+
+Section VII PLASTICS AND ARTICLES THEREOF; RUBBER AND ARTICLES THEREOF
+
+Ch. 39 Plastics and articles thereof
+
+Ch. 40 Rubber and articles thereof
+
+Section VIII RAW HIDES AND SKINS, LEATHER, FURSKINS AND ARTICLES THEREOF; SADDLER AND HARNESS; TRAVEL GOODS, HANDBAGS AND SIMILAR CONTAINERS; ARTICLES OF ANIMAL GUT (OTHER THAN SILK-WORM GUT)
+
+Ch. 41 Raw hides and skins (other than furskins) and leather
+
+Ch. 42 Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)
+
+Ch. 43 Furskins and artificial fur; manufactures thereof
+
+Section IX WOOD AND ARTICLES OF WOOD; WOOD CHARCOAL; CORK AND ARTICLES OF CORK; MANUFAC TURES OF STRAW, OF ESPARTO OR OF OTHER PLAITING MATERIALS; BASKETWARE AND WICKERWORK
+
+Ch. 44 Wood and articles of wood; wood charcoal
+
+Ch. 45 Cork and articles of cork
+
+Ch. 46 Manufactures of straw, of esparto or of other plaiting materials; basketware and wickerwork
+
+Section X PULP OF WOOD OR OF OTHER FIBROUS CELLULOSIC MATERIAL; RECOVERED (WASTE AND SCRAP) PAPER OR PAPERBOARD; PAPER AND PAPERBOARD AND ARTICLES THEREOF
+
+Ch. 47 Pulp of wood or of other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard
+
+Ch. 48 Paper and paperboard; articles of paper pulp, of paper or of paperboard
+
+Ch. 49 Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans
+
+Section XI TEXTILES AND TEXTILE ARTICLES
+
+Ch. 50 Silk
+
+Ch. 51 Wool, fine or coarse animal hair; horsehair yarn and woven fabric
+
+Ch. 52 Cotton
+
+Ch. 53 Other vegetable textile
+
+Ch. 54 Man-made filaments
+
+Ch. 55 Man-made staple fibres
+
+Ch. 56 Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof
+
+Ch. 57 Carpets and other textile floor coverings
+
+Ch. 58 Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery
+
+Ch. 59 Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use
+
+Ch. 60 Knitted or crocheted fabrics
+
+Ch. 61 Articles of apparel and clothing accessories, knitted or crocheted
+
+Ch. 62 Articles of apparel and clothing accessories, not knitted or crocheted
+
+Ch. 63 Other made up textile articles; sets; worn clothing and worn textile articles; rags
+
+Section XII FOOTWEAR, HEADGEAR, UMBRELLAS, SUN UMBRELLAS, WALKING-STICKS, SEAT-STICKS, WHIPS, RIDING-CROPS AND PARTS THEREOF; PREPARED FEATHERS AND ARTICLES MADE THERE WITH; ARTIFICIAL FLOWERS; ARTICLES OF HUMAN HAIR
+
+Ch. 64 Footwear, gaiters and the like; parts of such articles
+
+Ch. 65 Headgear and parts thereof
+
+Ch. 66 Umbrellas, sun umbrellas, walking-sticks, seat-sticks, whips, riding-crops, and parts thereof
+
+Ch. 67 Prepared feathers and down and articles made of feathers or of down; artificial flowers; articles of human hair
+
+Section XIII ARTICLES OF STONE, PLASTER, CEMENT, ASBESTOS, MICA OR SIMILAR MATERIALS; CERAMIC PRODUCTS; GLASS AND GLASSWARE
+
+Ch. 68 Articles of stone, plaster, cement asbestos, mica or similar materials
+
+Ch. 69 Ceramic products
+
+Ch. 70 Glass and glassware
+
+Section XIV NATURAL OR CULTURED PEARLS, PRECIOUS OR SEMI-PRECIOUS STONES, PRECIOUS METALS, METALS CLAD WITH PRECIOUS METAL AND ARTICLES THEREOF; IMITATION JEWELLERY; COIN
+
+Ch. 71 Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin
+
+Section XV BASE METALS AND ARTICLES OF BASE METAL
+
+Ch. 72 Iron and steel
+
+Ch. 73 Articles of iron or steel
+
+Ch. 74 Copper and articles thereof
+
+Ch. 75 Nickel and articles thereof
+
+Ch. 76 Aluminium and articles thereof
+
+Ch. 78 Lead and articles thereof
+
+Ch. 79 Zinc and articles thereof
+
+Ch. 80 Tin and articles thereof
+
+Ch. 81 Other base metals; cermets; articles thereof
+
+Ch. 82 Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal
+
+Ch. 83 Miscellaneous articles of base metal
+
+Section XVI MACHINERY AND MECHANICAL APPLIANCES; ELECTRICAL EQUIPMENT; PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS, TELEVISION IMAGE AND SOUND RECORDERS AND REPRODUCERS, AND PARTS AND ACCESSORIES OF SUCH ARTICLES
+
+Ch. 84 Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof
+
+Ch. 85 Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles
+
+Section XVII VEHICLES, AIRCRAFT, VESSELS AND ASSOCIATED TRANSPORT EQUIPMENT
+
+Ch. 86 Railway or tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds
+
+Ch. 87 Vehicles other than railway or tramway rolling-stock, and parts and accessories thereof
+
+Ch. 88 Aircraft, spacecraft, and parts thereof
+
+Ch. 89 Ships, boats and floating structures
+
+Section XVIII OPTICAL, PHOTOGRAPHIC, CINEMATOGRAPHIC, MEASURING, CHECKING, PRECISION, MEDICAL OR SURGICAL INSTRUMENTS AND APPARATUS; CLOCKS AND WATCHES; MUSICAL INSTRUMENTS; PARTS AND ACCESSORIES THEREOF
+
+Ch. 90 Optical, photographic, cinematographic, measuring, checking, precision, medical or surgical instruments and apparatus; parts and accessories thereof
+
+Ch. 91 Clocks and watches and parts thereof
+
+Ch. 92 Musical instruments; parts and accessories of such articles
+
+Section XIX ARMS AND AMMUNITION; PARTS AND ACCESSORIES THEREOF
+
+Ch. 93 Arms and ammunition; parts and accessories thereof
+
+Section XX MISCELLANEOUS MANUFACTURED ARTICLES
+
+Ch. 94 Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated name-plates and the like; prefabricated buildings
+
+Ch. 95 Toys, games and sports requisites; parts and accessories thereof
+
+Ch. 96 Miscellaneous manufactured articles
+
+Section XXI WORKS OF ART, COLLECTORS' PIECES AND ANTIQUES
+
+Ch. 97 Works of art, collectors' pieces and antiques
+
+Ch. 98 Tariff quota goods
+
+## 2
+
+2 General Rules For The Interpretation Of The Customs Import Tariff
+
+Classification of goods in the nomenclature shall be governed by the following principles:
+
+\1. The titles of Sections, Chapters and sub-Chapters are provided for ease of reference only; for legal purposes, classification shall be determined according to the terms of the headings and any relative Section or Chapter Notes and, provided such headings or notes do not otherwise require, according to the following provisions.
+
+\2. (a) Any reference in a heading to an article shall be taken to include a reference to that article incomplete or unfinished, provided that, as presented, the incomplete or unfinished article has the essential character of the complete or finished article. It shall also be taken to include a reference to that article complete or finished (or falling to be classified as complete or finished by virtue of this Rule), presented unassembled or disassembled.
+
+(b) Any reference in a heading to a material or substance shall be taken to include a reference to mixtures or combinations of that material or substance with other materials or substances. Any reference to goods of a given material or substance shall be taken to include a reference to goods consisting wholly or partly of such material or substance. The classification of goods consisting of more than one material or substance shall be according to the principles of Rule 3.
+
+\3. When by application of Rule 2 (b) or for any other reason, goods are, prima facie, classifiable under two or more headings, classification shall be effected as follows:
+
+(a) The heading which provides the most specific description shall be preferred to headings providing a more general description. However, when two or more headings each refer to part only of the materials or substances contained in mixed or composite goods or to part only of the items in a set put up for retail sale, those headings are to be regarded as equally specific in relation to those goods, even if one of them gives a more complete or precise description of the goods.
+
+(b) Mixtures, composite goods consisting of different materials or made up of different components, and goods put up in sets for retail sale, which cannot be classified by reference to 3 (a), shall be classified as if they consisted of the material or component which gives them their essential character, insofar as this criterion is applicable.
+
+(c) When goods cannot be classified by reference to 3 (a) or 3 (b), they shall be classified under the heading which occurs last in numerical order among those which equally merit consideration.
+
+\4. Goods which cannot be classified in accordance with the above Rules shall be classified under the heading appropriate to the goods to which they are most akin.
+
+\5. In addition to the foregoing provisions, the following rules shall apply in respect of the goods referred to therein :
+
+(a) Camera cases, musical instrument cases, gun cases, drawing instrument cases, necklace cases and similar containers, specially shaped or fitted to contain a specific article or set of articles, suitable for long-term use and presented with the articles for which they are intended, shall be classified with such articles when of a kind normally sold therewith. this rule does not, however, apply to containers which give the whole its essential character.
+
+(b) Subject to the provisions of Rule 5 (a) above, packing materials and packing containers presented with the goods therein shall be classified with the goods if they are of a kind normally used for packing such goods. however, this provision is not binding when such packing materials or packing containers are clearly suitable for repetitive use.
+
+\6. For legal purposes, the classification of goods in the subheadings of a heading shall be determined according to the terms of those subheadings and any related Subheading Notes and, mutatis mutandis, to the above Rules, on the understanding that only subheadings at the same level are comparable. For the purposes of this rule the relative Section and Chapter Notes also apply, unless the context otherwise requires.
+
+## 3
+
+3 General Rules Of The Customs Import Tariff
+
+\1. The classification of articles in tariff lines of the Nomenclature is governed by the Sections and the Chapters and the notes thereof, the description of tariff lines and General Rules for the Interpretation of the Customs Import Tariff. Additionally, it may also refer to the “Harmonized Commodity Description and Coding System Explanatory Notes” compiled by the Customs Cooperation Council, and to other relevant documents.
+
+\2. Ⅰ. Customs duty shall be collected by Customs either on an ad valorem basis or on a specific basis, in accordance with the Customs Import Tariff.
+
+Ⅱ. The rates of this Nomenclature are provided for in three columns. The first column applies to goods imported from WTO members or from countries or areas that have reciprocal treatment with the Republic of China. The second column applies to specified goods imported from specified Least Developed Countries, developing countries or areas, or from those countries or areas which have signed a Free Trade Agreement, or an Economic Cooperation Agreement with the Republic of China. When there is no suitable rate in the first and second columns for the imported goods, the rate in the third column shall apply.
+
+Ⅲ. If imported goods are subject to both the rates in the first and second columns, the lower one shall apply.
+
+Ⅳ. Countries or areas subject to application of the rates in the first or second columns, unless they have signed a treaty, Free Trade Agreement or Economic Cooperation Agreement with the Republic of China, the Executive Yuan shall then notify the Legislative Yuan for review, shall be listed by the Ministry of Finance (hereinafter referred to as the MOF) after consulting with other government agencies concerned and be reported to the Executive Yuan for approval. The Executive Yuan shall then notify the Legislative Yuan of its approval. The List of Least Developed Countries referred to in Paragraph 2 shall be identified in accordance with the Criteria for the Identification of the LDCs set up by the United Nations.
+
+2-1. When a treaty, Free Trade Agreement, or Economic Cooperation Agreement signed with another country or area has been terminated or withdrawn by a declaration from one or both of the parties, all or part of the goods imported from that country or area shall cease to be governed by the tariff rates in the second column and the additional notes thereof, which shall be announced by the MOF after consulting with other government agencies concerned and then reporting to the Executive Yuan for approval. The Executive Yuan shall then notify the Legislative Yuan of its approval.
+
+\3. For items subject to conditional duty reduction or exemption, the qualifying conditions are specified separately in the Additional Notes of the relevant Chapters. If verification by the competent authority is needed, it may be done by a subordinate agency, or by any other government agency authorized by the authority.
+
+\4. Ⅰ. For products that are subject to tariff quotas, the allocation of quantities and the tariff rates within the quotas shall be governed by the Additional Notes of the relevant Chapters or the rules prescribed in Chapter 98 of this Customs Import Tariff. The tariff rates for quantities exceeding the quotas are the rates prescribed in Chapters 1 to 97.
+
+Ⅱ. The countries or areas subject to tariff quotas will be listed by the MOF after consulting with other government agencies concerned and be reported to the Executive Yuan for approval. The Executive Yuan shall then notify the Legislative Yuan of its approval.
+
+\5. Except for the products that are subject to tariff quotas, dutiable miscellaneous articles carried by incoming passengers, except for personal effects, and miscellaneous articles imported by postal parcels, are dutiable at a rate of 5% ad valorem.
+
+\6. If the application of tariff classification and rate of this Customs Import Tariff is not the same as the application of the condition and the rate prescribed by the treaty, agreement or Economic Cooperation Agreement as ratified and promulgated by our government, the lowest applicable rate will be adopted.
+
+\7. The duty amount according to the Customs Import Tariff shall be calculated in New Taiwan Dollars.
+
+## Attachments
+
+- [CustomsImportTariff2008.12.30.ods](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004277)
+- [Customs Import Tariff 2008.12.30.xls](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000000645)
+- [CustomsImportTariff2013.11.27.ods](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004278)
+- [Customs Import Tariff 2013.11.27.xls](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002177)
+- [CustomsImportTariff2014.01.22.ods](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004279)
+- [Customs Import Tariff 2014.01.22.xls](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002324)
+- [CustomsImportTariff2015.07.01.ods](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004280)
+- [Customs Import Tariff 2015.07.01.xls](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002794)
+- [CustomsImportTariff2015.12.09.ods](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004281)
+- [Customs Import Tariff 2015.12.09.xls](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003044)
+- [Customs Import Tariff 2016.05.18.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003199)
+- [Customs Import Tariff 2016.12.30.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003472)
+- [Customs Import Tariff 2017.11.22 (10600141621).pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003880)
+- [Customs Import Tariff 2017.11.22 (10600141761).pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003881)
+- [Customs Import Tariff 2017.12.27 (10600157001).pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003882)
+- [Customs Import Tariff 2018.05.30 (10700057301).pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004124)
+- [Customs Import Tariff 2018.11.28 (10700128021).pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000005014)
+- [Customs Import Tariff 2019.07.24 (10800075641).PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000005660)
+- [Customs Import Tariff 2021.12.15.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007095)
+- [Customs Import Tariff 2022.05.11.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007248)
+- [Customs Import Tariff 2023.06.21.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008128)
+- [Customs Import Tariff 2023.11.29.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008394)
+- [Customs Import Tariff 2024.08.14.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008656)
+- [Customs Import Tariff 2025.06.04.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009215)
+- [Customs Import Tariff 2026.01.28.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009559)
+
+## History
+
+1.Established and published on December 7, 1928 and promulgated on February 21, 1929
+
+2.As amended on January 14, 1931
+
+3.As amended on June 30,1934
+
+4.As amended on June 14, 1937
+
+5.As amended on April 13, 1948
+
+6.As amended on August 2, 1948
+
+7.As amended on December 30, 1948
+
+8.As amended on July 26, 1949
+
+9.As amended on August 20, 1949
+
+10.As amended on September 28, 1949
+
+11.As amended on January 20, 1950
+
+12.As amended on January 30, 1950
+
+13.As amended on May 30, 1950
+
+14.As amended on January 15, 1955
+
+15.As amended on August 19, 1959
+
+16.As amended on September 2, 1965
+
+17.As amended on August 24, 1971
+
+18.As amended on July 22, 1972
+
+19.As amended on August 23, 1973
+
+20.As amended on July 9, 1974
+
+21.As amended on December 28, 1974
+
+22.As amended on June 22, 1975
+
+23.As amended on June 28, 1976
+
+24.As amended on March 15, 1977
+
+25.As amended on July 19, 1977
+
+26.As amended on January 14, 1978
+
+27.As amended on January 14, 1978
+
+28.As amended on July 28, 1978
+
+29.As amended on July 6, 1979
+
+30.As amended on August 30, 1980
+
+31.As amended on July 10, 1982
+
+32.As amended on January 25, 1984
+
+33.As amended on January 22, 1985
+
+34.As amended on January 30, 1986
+
+35.As amended on January 16, 1987
+
+36.As amended on February 6, 1988
+
+37.As amended on December 30, 1988
+
+38.As amended on August 7, 1989
+
+39.As amended on December 30, 1991
+
+40.As amended on July 12, 1995
+
+41.As amended on May 30, 1997
+
+42.As amended on June 17, 1998
+
+43.As amended on October 11, 2001
+
+44.As amended on December 21, 2001
+
+45.As amended on December 31, 2002
+
+46.As amended on June 11, 2003
+
+47.As amended on June 25, 2003
+
+48.As amended on December 17, 2003
+
+49.As amended on February 05, 2005
+
+50.As amended on June 21, 2006
+
+51.As amended on February 14, 2007
+
+52.As amended on January 30, 2008
+
+53.As amended on December 30, 2008
+
+54.As amended on June 15, 2010
+
+55.As amended on September 01, 2010
+
+56.As amended on November 28, 2012
+
+57.As amended on November 27, 2013
+
+58.As amended on January 22, 2014
+
+59.As amended on July 01, 2015
+
+60.As amended on December 09, 2015
+
+61.As amended on May 18, 2016
+
+62.As amended on December 30, 2016
+
+63.As amended on November 22, 2017
+
+64.As amended on December 27, 2017
+
+65.As amended on May 30, 2018
+
+66.As amended on November 28, 2018
+
+67.As amended on July 24, 2019
+
+68.As amended on December 15, 2021
+
+69.As amended on May 11, 2022
+
+70.As amended on June 21, 2023
+
+71.As amended on November 29, 2023
+
+72.As amended on August 14, 2024
+
+73.As amended on June 4, 2025
+
+74.As amended on January 28, 2026

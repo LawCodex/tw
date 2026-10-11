@@ -1,0 +1,181 @@
+---
+title: "Act for Investment by Overseas Compatriots"
+title_zh: "華僑回國投資條例"
+identifier: "J0040001"
+type: act
+law_level: "法律"
+category: "行政＞經濟部＞投資目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1955-11-19
+last_amended: 1997-11-19
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0040001"
+retrieved: 2026-10-12
+---
+
+# Act for Investment by Overseas Compatriots
+
+> Translation. The Chinese text ([zh/laws/ministry-of-economic-affairs/J0040001-act-for-investment-by-overseas-compatriots.md](../../../zh/laws/ministry-of-economic-affairs/J0040001-act-for-investment-by-overseas-compatriots.md)) is authoritative.
+
+## Article 1
+
+Matters relating to the encouragement, protection, and administration of domestic investments by overseas compatriots shall be governed by this Act.
+
+## Article 2
+
+The term “Competent Authority” as used in this Act refers to the Ministry of Economic Affairs.
+
+The Competent Authority may authorize subordinate agencies or commission other institutions or organizations to administer the investments set forth in this Act.
+
+## Article 3
+
+Overseas compatriots making domestic investments in accordance with this Act are hereinafter referred to as “investors” or the “investor.”
+
+## Article 4
+
+Investments as referred to in this Act shall be as follows:
+
+\1.	Holding shares issued by a Republic of China(“ROC”) company, or making capital contributions to an ROC company;
+
+\2.	Establishing a sole proprietorship or a partnership in the territory of the ROC;
+
+\3.	Providing loan(s) to the invested business referred to in the preceding two paragraphs for a period exceeding one (1) year.
+
+## Article 5
+
+If the investor holds, in an aggregate, more than one third (1/3) of the total shares issued by an enterprise in which the investor invests, or if an investor contributes, in an aggregate, more than one third (1/3) of the total capital amount of an enterprise in which the investor invests, the reinvestment to be made by the invested enterprise shall be subject to the Competent Authority’s approval.
+
+## Article 6
+
+Investments made in accordance with this Act consist of the following types of capital contributions:
+
+\1.	Cash;
+
+\2.	Machinery and equipment or raw materials for own use;
+
+\3.	Patent rights, trademark rights, copyrights, technical know-how or other intellectual property rights;
+
+\4.	Other property in which the investor may invest under the Competent Authority’s approval.
+
+## Article 7
+
+The investor is prohibited from investing in the following industries:
+
+\1.	Those which may negatively affect national security, public order, good morals, or national health;
+
+\2.	Those which are prohibited by the law.
+
+The investor, who applies to invest in an industry in which investment is restricted by law or by an order given under the applicable law, shall obtain an approval thereof or a consent thereto from the competent authority in charge of the industry in question.
+
+The industries prohibited under paragraph 1 above and restricted under paragraph 2 above shall be prescribed and reviewed on a regular basis by the Executive Yuan.
+
+## Article 8
+
+The investor who makes an investment in accordance with this Act is required to fill out an investment application form, attach the investor’s investment plans and relevant documents, and submit it to the Competent Authority for approval. The same shall apply if the investor’s investment plan changes.
+
+The format of the investment application form in the preceding paragraph shall be prescribed by the Competent Authority.
+
+The Competent Authority shall make its decision on an investment application case within one (1) month after completion of the application procedures, or if the application is also subject to the approval of the competent authority in charge of the relevant end enterprise, within two (2) months thereafter.
+
+Regulations governing investors’ investments in securities shall be stipulated by the Executive Yuan.
+
+## Article 9
+
+The investor shall have the investor’s approved capital contribution remitted in full into the ROC within the prescribed time limit, and shall submit a report on the receipt of the contribution amount to the Competent Authority for examination.
+
+If the investor fails to implement the investor’s investment, in whole or in part, after being granted an approval to make an investment under this Act, within the prescribed time limit, the approval of the investor’s unimplemented investment shall be revoked upon expiration of the prescribed time limit. However, for justifiable cause, the investor may, prior to the expiration, apply to the Competent Authority for an extension of the prescribed time limit.
+
+After implementing the investor’s investment, the investor shall request the Competent Authority to verify the total amount of the investor’s investment.
+
+Regulations of the verification shall be prescribed by the Competent Authority.
+
+## Article 10
+
+In case the investor intends to transfer the investor’s investment already implemented by the investor to an industry other than those prohibited from investment under paragraph 1 of Article 7 hereof, the investor shall apply to the Competent Authority for cancellation of the investor’s original investment and for approval of the investor’s new investment.
+
+In case the investor intends to assign the investor’s investment, the assignor and the assignee shall jointly apply to the Competent Authority for approval of the assignment.
+
+## Article 11
+
+The investor shall be entitled to foreign exchange settlement under this Act. This entitlement is not transferable, except to the legitimate heir of the assignee of the investor’s investment, or to other authorized foreign nationals or overseas compatriots to whom the investor has assigned the investor’s investment.
+
+## Article 12
+
+The investor may apply for foreign exchange settlement against the interests accrued on the investor’s annual income, or against the profit surplus distributed to the investor from the investor’s investment.
+
+When the investor is approved to transfer the investor’s shares, to withdraw or decrease the investor’s investment, the investor may apply for foreign exchange settlement, in a lump sum, against the total amount of the investor’s investment as approved. The foregoing clause is also applicable to the capital gain realized from the investor’s investment.
+
+The investor’s application for foreign exchange settlement against the payment of the principal and interest of the investor’s loan investment shall be governed by the agreed terms and conditions approved by the Competent Authority.
+
+## Article 13
+
+In case the government expropriates or acquires an invested enterprise for national defense reasons, the investor thereof whose investment is less than 45% of the total capital amount of the invested enterprise shall be entitled to reasonable compensation.
+
+The compensation under the preceding paragraph shall be permitted for foreign exchange settlement.
+
+## Article 14
+
+In case the investor’s investment accounts for 45% or more of the total capital amount of the enterprise in which the investor invests, the invested enterprise shall not be subject to expropriation or acquisition as long as the said capital contribution rate of the investor remains unchanged for a period of twenty (20) years after the commencement of business of the invested enterprise.
+
+If the investor’s investment is made in conjunction with a foreign national who makes the investment under the Act for Investment by Foreign Nationals, and if their aggregate amount of investment accounts for 45% or more of the total capital amount of the invested enterprise, the provisions referred to in the preceding paragraph shall, mutatis mutandis, apply thereto.
+
+## Article 15
+
+The preferential measures regarding the imposition of inheritance tax on the amount of the investor’s investment as approved by the Competent Authority after the investor’s implementation of the investor’s capital contribution shall be prescribed by the Executive Yuan.
+
+## Article 16
+
+Where an invested enterprise is organized as a company under the Company Act, the investor thereof may be exempt from the restrictions on the investor’s domicile in the ROC and on the amount of capital contributions under paragraph 1 of Article 98, paragraph 2 of Article 108, paragraph 1 of Article 128, paragraph 5 of Article 208, and paragraph 1 of Article 216 of the Company Law.
+
+The provisions of paragraph 4 of Article 156 of the Company Act requiring issuance of stock certificates to the public, and the provisions of Article 267 of the same Law requiring setting aside a certain percentage of new shares (issued as a result of capital increase by cash) for subscription by employees of the invested enterprise shall not apply to an investor’s investment if such investment accounts for 45% or more of the total capital of the enterprise in which the investor invests.
+
+If the investor’s investment is made in conjunction with a foreign national who makes the investment under the Act for Investment by Foreign Nationals, and if their aggregate investment amount accounts for 45% or more of the total capital amount of the invested enterprise, the provisions referred to in the preceding paragraph shall, mutatis mutandis, apply thereto.
+
+## Article 17
+
+Except as otherwise provided for in other laws, the enterprise in which the investor has invested hereunder shall be accorded the same rights and obligations to which an enterprise operated by ROC nationals is entitled.
+
+## Article 18
+
+The provisions of this Act shall apply to overseas compatriots who make investments in Taiwan, and to their enterprises established in Taiwan prior to the enforcement of this Act in accordance with the Regulation for the Encouragement of Investment in Productive Enterprises by Overseas Compatriots and Chinese Residents in Hong Kong and Macao, the Regulations Governing the Importation of Commodities with Self-provided Foreign Exchange by Overseas Compatriots for the Purpose of Making Investment in Productive Enterprises, and the Regulations Governing Overseas Compatriots Investment.
+
+## Article 19
+
+Unless otherwise provided for in this Act, if the investor violates the provisions of this Act, or fails to perform any matters approved by the Competent Authority, the Competent Authority may deal with the situation in the following manner:
+
+\1.	Revoke the investor’s right of foreign exchange settlement against the investor’s profit or interest earned in a prescribed period of time;
+
+\2.	Revoke the approval for the investor’s investment and the investor’s rights under this Act.
+
+## Article 20
+
+An overseas compatriot who fails to make an investment in accordance with this Act before the amendment to this Act comes into force, may within one (1) year from the enforcement of this amended Act, apply to the Competent Authority for registration for the application of this amended Act to the investor’s prior investment.
+
+The procedure of registration referred to in the preceding paragraph shall be prescribed by the Competent Authority.
+
+## Article 21
+
+This Act shall become effective as of its date of promulgation.
+
+## History
+
+1.Promulgated on November 19, 1955
+
+2.Amended on March 26, 1960
+
+3.Amended on January 08, 1968
+
+4.Amended on July 18, 1979
+
+5.Amended on May 09, 1980
+
+6.Amended on May 11, 1983
+
+7.Amended on June 02, 1986
+
+8.Amended on May February 26, 1989
+
+9.Amendment and promulgated by President on November 19, 1997.

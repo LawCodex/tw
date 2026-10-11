@@ -1,0 +1,169 @@
+---
+title: "Securities Transaction Tax Act"
+title_zh: "證券交易稅條例"
+identifier: "G0340078"
+type: act
+law_level: "法律"
+category: "行政＞財政部＞賦稅目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1965-06-19
+last_amended: 2025-01-02
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0340078"
+retrieved: 2026-10-12
+---
+
+# Securities Transaction Tax Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-finance/G0340078-securities-transaction-tax-act.md](../../../zh/laws/ministry-of-finance/G0340078-securities-transaction-tax-act.md)) is authoritative.
+
+## Article 1
+
+Trading of securities, with the exceptions of government-issued bonds, shall be subject to securities transaction tax in accordance with the provisions of this Act.
+
+The securities described above refer to bonds issued by governments of all levels, shares and corporate bonds issued by companies, and other securities offered to the public with government approval.
+
+## Article 2
+
+Sellers of securities shall pay securities transaction tax for each transaction at the following rates based on the transaction amount:
+
+1.0.3% for shares or share certificates embodying the right to shares issued by companies.
+
+2.0.1% for corporate bonds and other securities approved by the government.
+
+## Article 2-1
+
+In order to increase trading in the bond market, help enterprises raise money, and promote the development of the capital markets, the securities transaction tax levied on corporate bonds and finance bonds shall be suspended during the period from January 1, 2010 to December 31, 2026.
+
+In order to promote the operation of listed or OTC-listed exchange-traded funds(ETF) mainly invested in bonds, the levy on securities transaction tax on the beneficial certificates of those funds publicly offered and issued by the securities investment trust enterprises shall be suspended during the period from January 1, 2017 to December 31, 2026. However, this provision does not apply to the beneficial certificates of an ETF that tracks, simulates, or replicates a multiple of the performance of an index or a multiple of the inverse performance of an index.
+
+The funds of the preceding paragraph are restricted to investment in government bonds, common corporate bonds, financial debentures, bonds with repurchase or resale agreements, bank deposits, and interest rate futures contracts.
+
+## Article 2-2
+
+In the case when a buy order and a sell order for a listed or OTC-listed stock are of the same kind and equal quantity, and are executed on the spot market through the same brokerage account on the same day during the period from April 28, 2017 to December 31, 2027, or in the case a securities firm buys and sells listed or OTC-listed stock of the same kind and equal quantity through the same account on the same day during the period from April 28, 2018 to December 31, 2027, the securities transaction tax shall be levied at the rate of 0.15% based on the transaction amount for each sell order, instead of applying the provisions set out in Subparagraph 1, Article 2.
+
+Transaction qualified for the tax rate described in the preceding paragraph shall be conducted according to the regulations and directions governing day trades of securities by the Financial Supervisory Commission, Taiwan Stock Exchange, and Taipei Exchange.
+
+## Article 2-3
+
+Issuers with the call (put) warrants approved by the competent authority, who sell stocks from the warrant hedging account for quotation obligation and risk management purposes, and whose daily transaction amounts fall within the necessary hedging range, shall be taxed at the rate of 0.1%. This tax rate will apply instead of the provisions set out in Subparagraph 1, Article 2 and the preceding article, within five years from the effective date of this article. However, when selling the underlying stocks to the warrant holder at the contracted exercise price, they shall be subject to the tax rate specified in Subparagraph 1, Article 2 or the preceding article.
+
+Regulations governing the requirements for fulfilling quotation obligations and risk management purposes, the criteria for determining the scope, the necessary scope for hedging, internal control, and other related matters referred to in the preceding paragraph shall be prescribed by the Ministry of Finance (hereinafter referred to as the MOF) in consultation with the Financial Supervisory Commission.
+
+## Article 3
+
+Securities transaction tax shall be collected by the collecting agent on the date of trade settlement according to the specified tax rate and paid to the national treasury on the following day along with a filled payment slip.
+
+The collecting agent shall give the securities seller a receipt for the securities transaction tax collected. The receipt can be in the form of a monthly account reconciliation statement when the collecting agent is a securities underwriter.
+
+Securities transaction tax shall be paid to the national treasury by the securities dealer who sells its own securities on the following day along with a completed payment slip. The provisions as provided in Paragraph 1 herein do not apply.
+
+The collecting agent and the securities dealer specified in the former paragraph shall produce a list daily, which documents the names and addresses of sellers of securities, name, quantity, unit price and total price of securities sold, tax and transaction details of the warrant hedging accounts prescribed in Paragraph 1 of the preceding article, and submit the statement to the competent tax authority by the fifth day of the month following the month that the transactions occurred.
+
+## Article 4
+
+The securities transaction tax collecting agent as provided in this Act shall be as follows:
+
+1.In the case where securities are sold by securities underwriters, the underwriters handling such transactions will be the collecting agent.
+
+2.If the securities may be sold by securities brokers approved by the competent authority to engage in securities trading in stock exchanges on behalf of customers, the securities broker will be the collecting agent.
+
+3.If the securities are transferred directly by the holder to the transferee, the securities transferee shall be the collecting agent. If securities are auctioned by the court, the securities transferee shall be the auction winner.
+
+The securities transferee in the preceding paragraph cannot apply to change the collecting agent of the trade if the transferee has collected the tax in accordance the relevant provisions and paid the tax.
+
+## Article 5
+
+The local competent tax authority may inspect the books and the volume and prices of transactions of the collecting agents and the securities dealers, and whenever necessary, may conduct investigations of any related public and private organizations, or individuals, or may ask them to provide relevant documents for inspection, and such organizations and individuals may not circumvent, interfere with, or refuse the request.
+
+## Article 6
+
+Prior to distributing dividends, the securities issuer shall make public announcements in advance to notify the bearer shareholders to make registration, and produce a statement which indicates the names, addresses, Citizen's ID No. of bearer shareholders and amount of dividend to be distributed, and submit the statement to the competent tax authority.
+
+At the time securities holders carry out registration for distribution of dividends or transfer, the securities issuer shall examine proof of securities transaction tax payment by the previous holder, and report to the competent tax authority if it is found that securities transaction tax has not been paid.
+
+The securities issuer shall be held liable for repaying taxes if it fails to report non-payment of securities transaction tax as described above.
+
+## Article 7
+
+For an individual who informs or reports a case of non-collection or under-collection of securities transaction tax by a collecting agent, or evasion of tax by a securities seller in a fraudulent or other illicit manner, and the case is found to be genuine, the tax authority shall reward the informant with twenty percent (20%) of the fine received and keep the identity of the informant confidential.
+
+The reward provision in this article does not apply to an informant who is a public servant or who has participated in the tax evasion.
+
+## Article 8
+
+A collecting agent that fulfills its collection obligations in compliance with the established procedure and time limit is entitled to a reward equal to one thousandth of the tax collected by said agent, up to NT$24 million each year.
+
+## Article 9
+
+A collecting agent or a securities dealer who fails to file the securities transaction list or files a fraudulent list to the competent tax authority in violation of Paragraph 4, Article 3 shall be subject to a non-reporting surcharge of NT$1,500 to NT$3,000.
+
+## Article 9-1
+
+If a collecting agent fails to fulfill its obligation to collect securities transaction tax or under-collects the tax in violation of Paragraph 1, Article 3, the competent tax authority may order said agent to pay any back taxes and impose a fine equal to 1 to 10 times the amount of uncollected tax.
+
+## Article 9-2
+
+If a securities dealer fails to pay the tax payable, or the voluntary payment of tax falls short or has been under-reported in violation of Paragraph 3, Article 3, the securities dealer is required to make supplemental payment thereof and shall be subject to a fine equal to 1 to 10 times the amount of tax evaded.
+
+## Article 10
+
+A buyer or seller of securities who evades securities transaction tax in a fraudulent or illicit manner in violation of this Act shall be imposed a fine equal to 20 times the amount evaded.
+
+The aforesaid fine will be doubled in the case of a collecting agent who commits the same kind of act.
+
+## Article 11
+
+A collecting agent or a securities dealer who fails to surrender the securities transaction tax collected within the time limit as stipulated in Paragraphs 1 and 3, Article 3 shall be subject to a belated surcharge.
+
+## Article 12
+
+Taxpayers who receive a payment notice from the tax authority according to this Act for the payment of taxes, belated surcharge, non-reporting surcharge, or fines, shall pay the amount within ten (10) days after the date the payment notice is received.
+
+## Article 13
+
+（deleted）
+
+## Article 14
+
+（deleted）
+
+## Article 15
+
+The format of statements and forms provided in this Act will be specified by the MOF.
+
+## Article 16
+
+This Act shall be implemented upon promulgation. However, the amendments of Articles 2-3 and 3 on April 21, 2023 shall become effective six months after the promulgation.
+
+## History
+
+1.Full text (16 articles) promulgated on 19 June 1965 by Presidential Decree.
+
+2.Amendment to Article 2 promulgated on 27 November 1978 by Presidential Decree.
+
+3.Amendments to Articles 2, 8 and 9 promulgated on 30 December 1989 by Presidential Decree.
+
+4.Amendment to Article 2 promulgated on 30 January 1993 by Presidential Decree.
+
+5.Deletion of Article 14 promulgated on 30 July 1993 by Presidential Decree.
+
+6.Amendment to Article 2-1 promulgated on 30 December, 2009 by Presidential Decree.
+
+7.Article 3 to 5, 9, 9-1, 9-2 and 11 amended, and Article 13 deleted on 29 December 2010 by Presidential Decree No. Hua-Tsung-1-Yi 09900353421.
+
+8.Amendment to Article 2-1 promulgated on 30 December, 2016 by Presidential Decree No. Hua-Tsung-1-Yi 10500165221.
+
+9.Amendment to Article 2-2 promulgated on 26 April, 2017 by Presidential Decree No. Hua-Tsung-1-Yi 10600050391.
+
+10.Amendment to Article 2-2 promulgated on 27 April, 2018 by Presidential Decree No. Hua-Tsung-1-Yi 10700047611.
+
+11.Amendments to Article 2-2 and 3 promulgated on 29 December, 2021 by Presidential Decree No. Hua-Tsung-1-Jing 11000116321.
+
+12.Amendments to Article 2-3, 3, 11, and 16 promulgated on 10 May, 2023 by Presidential Decree No. Hua-Tsung-1-Jing 11200038311.(Article 2-3 and 3 amended on 21 April 2023 shall become effective six months after the promulgation)
+
+13.Amendments to Article 2-2 and 12 promulgated on 2 January, 2025 by Presidential Decree No. Hua-Tsung-1-Jing 11300128651.

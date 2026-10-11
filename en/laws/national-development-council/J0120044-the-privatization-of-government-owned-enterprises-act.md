@@ -1,0 +1,173 @@
+---
+title: "The Privatization of Government-Owned Enterprises Act"
+title_zh: "公營事業移轉民營條例"
+identifier: "J0120044"
+type: act
+law_level: "法律"
+category: "行政＞國家發展委員會＞國營經濟事業目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1953-01-26
+last_amended: 2003-01-15
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0120044"
+retrieved: 2026-10-12
+---
+
+# The Privatization of Government-Owned Enterprises Act
+
+> Translation. The Chinese text ([zh/laws/national-development-council/J0120044-the-privatization-of-government-owned-enterprises-act.md](../../../zh/laws/national-development-council/J0120044-the-privatization-of-government-owned-enterprises-act.md)) is authoritative.
+
+## Article 1
+
+This Act is enacted to facilitate the privatization of government-owned enterprises, to exert the market mechanism, and to enhance the operational efficiency of enterprises.
+
+## Article 2
+
+The privatization of government-owned enterprises, either in whole or in part, shall comply with this Act. Matters not covered by this Act shall be governed by other laws and regulations.
+
+## Article 3
+
+The term "government-owned enterprise" as used in this Act shall refer to the following enterprises:
+
+\1. Any enterprise either solely owned by any government or jointly operated by governments at various levels;
+
+\2. Any enterprise jointly invested in and operated by the government and private individuals where the capital of the government exceeds 50%;
+
+\3. Any enterprise jointly invested in by the government and government-owned enterprises of the preceding two subparagraphs, or by government-owned enterprises of the preceding two subparagraphs, where the aggregate invested capital exceeds 50% of the capital of the invested enterprise.
+
+## Article 4
+
+The term "the competent authority in charge of the enterprises" as used in this Act shall refer to the competent authority in charge of the concerned enterprises.
+
+## Article 5
+
+Where the competent authority in charge of the enterprises, in view of the situation, consider that there is no more necessity to operate a government-owned enterprise by the government, such government-owned enterprise may be privatized after its privatization plan is submitted to the Executive Yuan for approval.
+
+## Article 6
+
+The privatization of a government-owned enterprise shall be effected by the competent authority in charge of the enterprises in the following manners:
+
+\1. Sale of shares;
+
+\2. Auction sale of assets;
+
+\3. Formation of a private-owned enterprise by joint venture with private individuals by way of contribution in kind;
+
+\4. Merger of companies with the surviving enterprise being a private-owned enterprise;
+
+\5. Cash capital increase.
+
+In privatizing a government-owned enterprise in the manners provided in the preceding paragraph, the competent authority in charge of the enterprises may, after submitting to the Executive Yuan for approval, effect the privatization by negotiation with a specific counter-party which is selected through public invitation.  The contents of negotiation shall be submitted to the Legislative Yuan for recordation.
+
+In the event that a non-incorporated government-owned enterprise transfers its public use property, which is necessary for its business operation, according to paragraph 1, upon the privatization of that enterprise, it shall not be subject to the restrictions of Article 28 of the National Property Act.
+
+## Article 7
+
+In privatizing a government-owned enterprise under Article 6, a price appraisal committee shall be formed by the competent authority in charge of the enterprises in conjunction with relevant authorities to evaluate and decide the price.
+
+## Article 8
+
+Upon the date when a government-owned enterprise is privatized, the employees who are willing to be transferred shall be so transferred; provided, however, that if it is otherwise agreed upon by the new and former employers upon the time of restructuring or transferring the enterprise, such agreement shall prevail.
+
+Upon the date when a government-owned enterprise is privatized, the employees who are not willing to be transferred, or who are not transferred because of the proviso of the preceding paragraph, shall complete the severance procedures. Severance pay shall be paid to such employees and shall be calculated in accordance with the criteria for payment of pensions under the Labor Standards Act, without being subject to the restrictions of age and service seniority. An additional six-month salary at the salary rates applicable to them at the time of the privatization, and an additional one-month wage in lieu of the one month advance notice, shall be paid.  To those employees to whom the provisions of the Labor Standards Act are not applicable, the foregoing may be applied mutatis mutandis.
+
+For the employees retained in employment after the privatization of a government-owned enterprise, the original enterprise may, on the date of their transfer, settle the account of their benefits with respect to their respective service seniority based on the payment criteria set forth in the preceding paragraph, but the six-month salary and the wage in lieu of the one month advance notice shall not be paid.  Where any of such retained employees are laid off within five years from the date of the privatization of the government-owned enterprise, the severance pay shall be paid to employees according to the salary rate at the time of the transfer to the private owned enterprise or at the time of  the employment termination, whichever is more beneficial to employees, plus a six month salary based on the employee's salary rate at the time of the transfer to the private owned enterprise and the wage in lieu of the one month advance notice.
+
+For the employees who are laid off under the preceding paragraph and who meet the retirement conditions, it shall be additionally handled according to the retirement regulations.  For the employees who complete the severance procedures according to paragraph 2, or are laid off according to the preceding paragraph, should they suffer any loss of the old age pension payable to them under the civil servant insurance program or the old age benefits under the labor insurance program, their losses of such benefits shall be compensated.  For the employees who are transferred to and retained by a private owned enterprise privatized from a government-owned enterprise, if they incur any loss of service seniority with respect to their insurance period originally covered under the civil servant insurance program as a result of switching their insurance enrollment to the labor insurance program, they shall be compensated mutatis mutandis.  Any reduction or loss of other rights or interests which are originally available shall also be compensated.
+
+The regulations governing the compensations set forth in the preceding paragraph shall be drawn up by the competent authority in charge of the enterprises and submitted to the Executive Yuan for approval.
+
+The government shall bear the expenses required for the payment of the six-month salary and the compensation for various damages and losses payable under this Article.
+
+Those employees who have completed the procedures of severance according to paragraph 2, or have been laid off according to paragraph 3, and then are employed by other government-owned enterprises, the provisions of the six-month salary payment, the wage in lieu of one-month advance notice, and the compensation for damages and losses of rights and interests, shall no longer apply.  In calculating and settling the service seniority and severance pay, the aggregate service seniority with the former and latter government-owned enterprises, which is on a two-units-for-one-year basis, shall not be longer than fifteen years.
+
+For the employees retained in employment after the privatization of a government-owned enterprise, the compulsory military service seniority shall be included; for those who were still employed on June 5, 1998, the compulsory military service seniority shall be included and settled corresponding to the settlement for the service seniority of civil servants, and the salary standard of settling the severance pay at the time of privatization shall be used as the calculation standard for supplementing the units for the compulsory military service seniority; provided, however, that at the time of privatization, if the service seniority already exceeds thirty years, the compulsory military service seniority shall not be included for calculation.
+
+## Article 9
+
+Upon the date when a government-owned enterprise is privatized, the expenses and interest originally set aside and contributed to the public service pension fund according to the laws and regulations relating to the retirement of civil servants, shall be settled and cleared by the fund management agency.  If there is any surplus, it shall be appropriated to the enterprise; if there is any deficit, it shall be returned to the fund by the enterprise.
+
+## Article 10
+
+In the event the employees who have received compensation payment under the civil servant insurance program or the labor insurance program and then participate in such insurance programs again and claim for old age pension or old age benefits, the insuring agencies shall withhold the original compensation payment and shall not be subject to the restrictions of Article 29 of the Labor Insurance Act which entail that the compensation payment shall not be transferred, offset, seized or used as a security; provided, however, that if the old age pension or old age benefits that is claimed is less than the original compensation payment, only the amount that is claimed shall be withheld.
+
+The amount withheld by the insuring agencies pursuant to the preceding paragraph shall be returned to the original competent authority in charge of the enterprises.
+
+## Article 11
+
+A government-owned enterprise shall conduct employees' job-transfer training, second career training or employment counseling before it is privatized.  Where necessary, the competent authority in charge of the enterprises or the labor competent authority shall assist therein.
+
+For the employees who are laid off within five years after a government-owned enterprise is privatized, the labor competent authority shall conduct job- transfer training or employment counseling.
+
+## Article 12
+
+When a government-owned enterprise is privatized through selling its shares, a specific amount of shares shall be set aside for the employees to subscribe on a favorable term and preemptive basis.  Regulations governing such matters shall be drawn up by the competent authority in charge of the enterprises and submitted to the Executive Yuan for approval.
+
+## Article 13
+
+In privatizing a government-owned enterprise according to Article 6, the competent authority in charge of the enterprises may, as it deems necessary to coordinate the economic policies and market situation, submit to the Executive Yuan for approval, and shall not be subject to the restrictions of paragraph 1 of Article 25, Article 26, Article 52, and paragraph 1 of Article 86 of the Budget Act, and Article 7 and Article 66 of the National Property Act.  The net balance of income and expenses may be included in the auditing of that current fiscal year or a supplementary budget shall be made.
+
+## Article 14
+
+Where the shareholdings of an enterprise held by the government does not exceed 50%, Article 6, Article 7, Article 13, and Article 15 shall apply mutatis mutandis to the transfer of such government-held shares.
+
+## Article 15
+
+The funds obtained by the government from privatizing a government-owned enterprise shall be handed over to the national treasury as a financial resource for capital expenditures, except that part of the funds may first be appropriated for a special fund.
+
+The regulations governing appropriation and use of special fund in the preceding paragraph shall be prescribed by the Executive Yuan.  The uses of the special fund shall be as follows:
+
+\1. To pay the additional six-month salary and the compensation for various losses provided in paragraph 6 of Article 8 and the fees and expenses borne by the government for privatization.
+
+\2. To finance the shortage caused by the payments made by such government-owned enterprises for privatization.
+
+\3. To finance the shortage caused by the payments to a government-owned enterprise's employees laid off as a result of any special project prior to privatization and/or in connection with the winding-up of the government-owned enterprise.
+
+\4. To finance the government's capital plan expenditure.
+
+The funds paid and appropriated for the special fund under paragraph 1 of this Article shall not be subject to the restrictions of paragraph 1 of Article 25, paragraph 1 of Article 86, and Article 89 of the Budget Act.
+
+## Article 16
+
+In the event that a non-incorporated government-owned enterprise restructures itself, in part or in whole, into a government-owned company for the purpose of privatization, the budget of the original enterprise may continue to be used.
+
+The government-owned shares in the government-owned company under the preceding paragraph may be transferred after the registration of incorporation of that company, shall not be subject to the restrictions of paragraph 2 of Article 163 of the Company Act.
+
+## Article 17
+
+Where a government-owned enterprise, which is of public utility or national defense nature, is privatized, the competent authority in charge of the enterprises may order the enterprise to issue preferred shares for subscription at par value by the competent authority in charge of the enterprises, entitling it to exercise the rights set forth in paragraph 2 within a specific period of time.
+
+An enterprise which issues preferred shares shall obtain consent from the shareholder of the preferred shares prior to conducting the following acts:
+
+\1. Changing the name of the enterprise;
+
+\2. Changing its business scope;
+
+\3. Transferring its business or assets in whole or in substantial part.
+
+Any resolution adopted by the enterprise in violation of the preceding paragraph shall be null and void.
+
+The preferred shares issued according to this Article shall not be transferred; provided, however, that after the expiration of the specific period of time provided in paragraph 1, such preferred shares shall be redeemed at par value and cancelled by the enterprise.
+
+## Article 18
+
+The enforcement rule of this Act shall be prescribed by the Executive Yuan.
+
+## Article 19
+
+This Act shall come into force from the date of promulgation.
+
+## History
+
+1.The full text containing 9 Articles was enacted on January 20, 1953 by the Legislative Yuan
+
+The full text was promulgated on January 26, 1953 by the President
+
+2.The Amendments were promulgated on June 19, 1991 as per the President's order No. Hwa-Tsong-1-Yi-Tse 3048
+
+3.The Amendments were promulgated on November 29, 2000 as per the President's order No. Hwa-Tsong-1-Yi-Tse 8900288480
+
+4.The Amendments were promulgated on January 15, 2003 as per the President's order No. Hwa-Tsong-1-Yi-Tse 0920006900

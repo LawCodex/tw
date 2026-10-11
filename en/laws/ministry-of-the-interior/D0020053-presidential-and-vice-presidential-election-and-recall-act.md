@@ -1,0 +1,1175 @@
+---
+title: "Presidential and Vice Presidential Election and Recall Act"
+title_zh: "總統副總統選舉罷免法（新 84.08.09 制定）"
+identifier: "D0020053"
+type: act
+law_level: "法律"
+category: "行政＞內政部＞民政目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1995-08-09
+last_amended: 2026-08-19
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0020053"
+retrieved: 2026-10-12
+---
+
+# Presidential and Vice Presidential Election and Recall Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-the-interior/D0020053-presidential-and-vice-presidential-election-and-recall-act.md](../../../zh/laws/ministry-of-the-interior/D0020053-presidential-and-vice-presidential-election-and-recall-act.md)) is authoritative.
+
+## Chapter 1 General Principles
+
+#### Article 1
+
+This Act is enacted pursuant to Article 46 of the Constitution and Paragraph 1 of Article 2 of the Additional Articles of the Constitution.
+
+Election and recall of the president and vice president shall be governed by the provisions of this Act.
+
+#### Article 2
+
+The election and recall of the president and vice president shall be implemented by way of a common, fair, direct, and secret vote, unless otherwise specified.
+
+#### Article 3
+
+The electoral districts for the election of the president and vice president shall be the free area of the Republic of China.
+
+#### Article 4
+
+The age and length of residence of voters and candidates shall be calculated up to the day before election day and shall be based on household registration data unless otherwise specified.
+
+The length of residence specified in the preceding paragraph shall be calculated from the date of household registration.
+
+In the case of a new vote, the calculation shall be made according to the original election day.
+
+#### Article 5
+
+In this Act, the calculation of the periods designated for election and recall shall be made in accordance with the provisions of the Administrative Procedure Code, unless otherwise specified. If the last day of such a period is Saturday, Sunday, a national holiday, or any other rest day, the period shall only be prolonged if government agencies stop working due to a natural disaster.
+
+In this Act, a date that is a stipulated number of days before election day shall be calculated by starting on the day before election day and counting backwards the stipulated number of days; a date that is a stipulated number of days after election day shall be calculated by starting on the day after election day and counting forwards the stipulated number of days; the start date of a period that begins a stipulated number of days before election day shall be calculated by starting on the day before election day and counting backwards to one day before the stipulated number of days.
+
+If election or recall applications are filed by mail with the government agency in charge of the election, the date of application shall be the date when the said government agency receives the application.
+
+#### Article 5-1
+
+The day of the election or recall of the president and vice president shall be a holiday.
+
+## Chapter 2 Government Agencies of Election and Recall
+
+#### Article 6
+
+The election and recall of the president and vice president shall be superintended by the Central Election Commission and implemented by the special municipality and county(city) election commissions under the direction and supervision of the Central Election Commission. However, proposals for the recall of the president and vice president and by-elections of the vice president shall be conducted by the Legislative Yuan.
+
+Election commissions at all levels shall perform their authorities justly and in accordance with law.
+
+#### Article 7
+
+The Central Election Commission shall handle the following affairs:
+
+\1. Issuance of public notice of elections and recalls
+
+\2. Procedures and planning for matters related to elections and recalls
+
+\3. Candidate registration applications
+
+\4. Examination of candidate qualifications
+
+\5. Public education related to elections and recalls
+
+\6. Organizing televised broadcasts of candidates expressing their political views and informational briefings about recalls
+
+\7. Supervision of elections and recalls
+
+\8. Examination of the outcome of elections and recalls
+
+\9. Issuance of certificates verifying that a person has been elected
+
+\10. Campaign expense subsidies for candidates
+
+\11. Other matters related to elections and recalls
+
+#### Article 8
+
+(deleted)
+
+#### Article 9
+
+The special municipality and county (city) election commissions shall respectively be responsible for the following affairs:
+
+\1. Setting up and managing polling stations and ballot counting stations
+
+\2. Printing election and recall ballots
+
+\3. Supervising public notice of the list of qualified voters
+
+\4. Printing election bulletins
+
+\5. Implementing public education on elections and recalls
+
+\6. Supervision of elections and recalls
+
+\7. Other matters related to elections and recalls
+
+Special municipality and county (city) election commissions shall direct and supervise township (city/district) offices in the handling of the following election and recall affairs:
+
+\1. Issuance of public notice of the list of qualified voters
+
+\2. Set-up and management of polling stations and ballot counting stations
+
+\3. Selection of polling station and ballot counting station workers
+
+\4. Distribution of ballots for elections and recalls
+
+\5. Distribution of election bulletins and voting information notices
+
+\6. Public education on the laws and regulations governing elections and recalls
+
+\7. Other matters related to elections and recalls
+
+#### Article 10
+
+During the period designated for election and recall, election commissions at any level may enlist the service of employees from any level of government to handle the related affairs.
+
+## Chapter 3 Election
+
+### Section 1 Electors
+
+#### Article 11
+
+Any citizen in the free area of the Republic of China who has reached twenty years of age shall have the right of suffrage.
+
+#### Article 12
+
+A person who has the right of suffrage as specified in the preceding article and who meets any of the following conditions is a qualified voter:
+
+\1. They have been living in the free area of the Republic of China for not less than six consecutive months.
+
+\2. They once lived in the free area of the Republic of China for not less than six consecutive months, are now living in a foreign country while holding a valid passport issued by the Republic of China, and have, during the prescribed period, completed their voting registration with the household registration office in the location where they registered their final domicile prior to moving to a foreign country.
+
+Regulations governing the examination of registration applications from citizens of the Republic of China who live in a foreign country and are returning to exercise their right to vote, as specified in Subparagraph 2 of the preceding paragraph, shall be formulated separately by the Central Election Commission, jointly with the Ministry of Foreign Affairs, and the Overseas Chinese Affairs Commission.
+
+#### Article 13
+
+Qualified voters shall cast their vote at the polling station for the location where their domicile is registered unless otherwise specified.
+
+Qualified voters who return from a foreign country to exercise their right to vote shall cast their vote at the polling station for the location where the voter registered their final domicile prior to moving to a foreign country.
+
+A person working at a polling station located in the special municipality or county(city) where their domicile is registered may cast their vote either at the location where they are working or the polling station for the location where their domicile is registered. Additionally, if the election for president and vice president is held on the same day as an election for other public officials, the polling station where they are working must be located within the electoral district where they have the right to vote in elections for other public officials.
+
+#### Article 14
+
+When casting their vote, qualified voters shall present their national identification (ID) card to receive a ballot, unless otherwise specified.
+
+Qualified voters who have returned from a foreign country to exercise their right to vote shall receive a ballot by presenting their valid passport issued by the Republic of China.
+
+To receive a ballot, the qualified voter shall affix their signature, seal or fingerprint on the list of qualified voters. A fingerprint affixed by a voter on the said list shall be certified by the accompanying seals affixed by one administrator and one supervisor.  If a person’s name is not on the list of qualified voters or their name is not identical to the name listed, that person shall not receive a ballot. However, if a discrepancy between the name on the said list and the name recorded on their national identification (ID) card is due to an obvious clerical error or a surname change related to marriage or divorce, the person shall receive the ballot once the matter is jointly verified by the chief administrator and the chief supervisor.
+
+After receiving a ballot, qualified voters shall cast their vote by themselves. However, voters who cannot cast their vote by themselves due to a disability, but who are able to express their will shall, upon their request, have a family member or companion accompany them to provide assistance or cast the vote on behalf of and according to the will of the voter. In the absence of a family member or companion and at the request of the voter, one administrator and one supervisor may together provide assistance or cast the vote on behalf of and according to the will of the voter.
+
+The Central Election Commission shall formulate regulations to prevent persons from casting multiple votes or impersonating a qualified voter.
+
+#### Article 15
+
+Qualified voters shall arrive at polling stations during the hours specified for voting; voters who arrive after the specified time shall not be admitted to the polling station. However, if a voter has arrived at the polling station during the hours specified for voting but has not yet voted, they shall still be permitted to vote.
+
+When an election for president and vice president and an election or recall of civil servants, or a referendum are held on the same day at the same polling location, qualified voters shall only enter and vote at the polling station once and shall not be permitted to re-enter the polling station to cast another vote.
+
+### Section 2 List of Electors
+
+#### Article 16
+
+Unless otherwise specified, the list of qualified voters shall be compiled by the township (city/district) household registration office according to the household registration data and shall include such information as serial number, name, gender, date of birth and domicile address. All persons whose household is already registered twenty days before election day and who, in accordance with relevant provisions, is a qualified voter shall be included on the said list. Qualified voters who change their domicile within twenty days of election day shall cast their vote at the polling station for the location of their previous domicile.
+
+The list of qualified voters who have returned from a foreign country to exercise their right to vote shall be compiled by the household registration office for the location where the voter registered their final domicile prior to moving to a foreign country.
+
+The compiled list of qualified voters shall only be used by election commissions, township (city/district) offices and household registration offices in accordance with the provisions of this Act, and shall not be provided to any external parties by transcription, copying, photography, recording or any other means.
+
+#### Article 17
+
+If the election for president and vice president is being held on the same day as an election for other public officials, a combined list of qualified voters may be compiled.
+
+#### Article 18
+
+After the list of qualified voters is compiled, the list shall be submitted by the household registration office to the township (city/district) offices, which will then forward it to the special municipality or county (city) election commission for future reference township (city/district) offices shall issue public notice that the list is available to be read and may be examined on-site by voters; if a voter finds any error or omission on the list, they may apply during the reading period for a correction.
+
+When conducting the examination referenced in the preceding paragraph, the voter shall present their national identification card, and examining the information of the cardholder themselves and the persons in their household.
+
+#### Article 19
+
+After the reading period for the list of qualified voters, the township (city/district) offices shall send the original list and the applications for correction to the household registration office for examination and correction.
+
+After public notice and correction, and when the list of qualified voters is finalized, special municipality and county (city) election commissions shall issue public notice of the number of qualified voters.
+
+### Section 3 Candidates
+
+#### Article 20
+
+A qualified voter who has lived in the free area of the Republic of China for not less than six consecutive months, has registered their domicile in the Republic of China for not less than fifteen years, and has reached forty years of age may apply to be registered as a candidate for president or vice president.
+
+Persons whose Republic of China citizenship has been restored or was acquired through naturalization, persons from the mainland China area, and residents of Hong Kong and Macao who are permitted to enter Taiwan shall not be permitted to register as a candidate for president or vice president.
+
+#### Article 21
+
+Candidates for president and vice president shall prepare the forms and the deposit stipulated by the Central Election Commission and shall file the registration application with the Commission by joint signature. If the registration application is not filed by joint signature the forms or deposit are not in accordance with the relevant provisions, or the application is not filed during the prescribed period, it shall not be accepted.
+
+The candidates referenced in the preceding paragraph shall be recommended by a political party or through a joint-signature petition.
+
+If the qualifications of one or both candidates in a pair of candidates for president and vice president are found to not meet the requirements, the pair of candidates shall not be registered.
+
+#### Article 22
+
+Candidates for president and vice president who register with the Central Election Commission by means of political party recommendation shall provide a political party recommendation letter that is stamped with the seal issued to the political party by the Ministry of the Interior. If two or more political parties jointly recommend one pair of candidates, a recommendation letter stamped with the political parties' seals in the order of recommendation shall be submitted together with the application. One political party shall not be permitted to recommend two or more pairs of candidates, and if it should attempt to do so, the application filed later shall not be accepted.
+
+Political parties referenced in the preceding paragraph shall meet one of the following requirements:
+
+\1. In the most recent election for president and vice president, candidates recommended by the political party received not less than 5% of the total number of valid votes. If two or more political parties jointly recommend one pair of candidates for president and vice president, the number of votes allocated to each political party shall be calculated by dividing the number of votes received by the candidates by the number of recommending political parties.
+
+\2. Prior to public notice for the election, in the most recent national election for legislators-at-large and legislators residing overseas or election for regional and indigenous legislators, the political party received not less than 5% of the total vote.
+
+#### Article 23
+
+Those who are applying to be registered as candidates for president and vice president by way of joint-signature petition shall, within five days after public notice for the election is issued, file an application with the Central Election Commission to be a prospective candidate by way of joint-signature petition apply for petition forms in the correct format, and pay a deposit of NT$1 million.
+
+After receiving the applications specified in the preceding paragraph and at a determined time, the Central Election Commission shall issue public notice of the applicants for candidacy by way of joint-signature petition, notify the prospective candidate by way of joint-signature petition to complete the joint-signature petition within forty-five days from the day after the public notice is issued, and to mail a written request to process the joint-signature petition documents submitted by prospective candidate or their proxy to the special municipality or county (city) election commission within the period for joint-signature petitions. However, in the case of a by-election or a new election, the documents shall be accepted within twenty-five days from the day after public notice is issued.
+
+Citizens of the free area of the Republic of China who are twenty years of age by the day public notice of the election is issued may sign the joint-signature petitions referenced in the preceding paragraph.
+
+If during the period prescribed in Paragraph 2, the number of petition signatures reaches 1.5% of the total qualified voters for the  most recent election for president and vice president, the Central Election Commission shall, at a determined time, issue public notice of the success of the joint-signature petition, grant the prospective candidate a certificate of completion of the joint-signature petition, and return the deposit. If the number of signatures on the joint-signature petition does not reach a half of the number prescribed, the deposit shall not be returned.
+
+The prospective candidate or their proxy shall, during the period prescribed for collecting signatures, print the register of joint-signature petition signatures and affidavits in the format specified by the Central Election Commission. When signing a joint-signature petition, the signer shall produce a photocopy of their national identification (ID) card. A person who signs a petition shall only sign one petition for one pair of prospective candidates, and if they sign petitions for two or more pairs of prospective candidates, all signatures shall be null and void.
+
+After receiving the joint-signature petition documents referenced in the preceding paragraph, special municipality and county (city) election commissions shall perform a selective examination of the documents and report the results to the Central Election Commission. Under any of the following circumstances, the signature of a petition signer shall be removed:
+
+\1. The petition signer is not in accordance with the provisions of Paragraphs 3 or 5
+
+\2. The name, date of birth, or identification number of the petition signer is illegible on the photocopy of their national identification (ID) card
+
+\3. The petition signer has not signed their name or affixed their seal on the register of joint-signature petition signatures
+
+\4. The signature of the joint-signature petition signer has been forged
+
+The joint-signature petition documents referenced in the preceding paragraph shall be kept for three months after the ballots are counted. If a lawsuit regarding the election is filed during the retaining period, the period shall be prolonged to expire three months after the final judgement.
+
+Regulations governing joint-signature petitions and examination of signatures shall be determined by the Central Election Commission.
+
+#### Article 23-1
+
+If a prospective candidate for president dies during the period prescribed for collecting signatures, the Central Election Commission shall issue public notice that the joint-signature petition for that pair of prospective candidates for president and vice president has been terminated; if a prospective candidate for vice president dies during the period prescribed for collecting signatures, the joint-signature petition shall remain valid and the presidential nominee shall, within three days, submit an application to the Central Election Commission for the replacement of the prospective candidate for vice president and continue to solicit signatures for the joint-signature petition.
+
+If a prospective candidate for president dies after completing their joint-signature petition, but before applying for registration as a candidate, that pair of prospective candidates for president and vice president shall not apply for registration as candidates. If the prospective candidate for vice president dies after completing their joint-signature petition, but before applying for registration as a candidate, the prospective candidate for president of that pair shall put forward another prospective candidate for vice president, and then apply for registration as candidates for president and vice president by way of joint-signature petition.
+
+#### Article 24
+
+Those who are applying to be registered with the Central Election Commission as candidates for president and vice president by way of joint-signature petition shall submit their certificate of completion of the joint-signature petition together with the application.
+
+#### Article 25
+
+If the election for president and vice president is held on the same day as an election for other public officials, and a person is registered as a candidate in two or more elections, that person’s registration in the election for other public officials shall be null and void, and the deposit shall not be returned.
+
+#### Article 26
+
+Persons for whom any of the following circumstances apply shall not be registered as a candidate for president or vice president:
+
+\1. The person has committed the offense of sedition or the offense of treason after the period of National Mobilization in Suppression of Communist Rebellion, and has received a final conviction and sentence.
+
+\2. The person has committed the offense of corruption and has received a final conviction and sentence.
+
+\3. The person has received a final conviction and sentence for committing any offense prescribed in Paragraphs 1 or 2 of Article 84, Article 85, Paragraph 1 of Article 86, Paragraph 1of Article 87, Article 88, or Paragraphs 1, 6, or 7 of Article 89, for violating the Public Officials Election and Recall Act by committing any offense detailed in Paragraphs 1 or 2  of Article 97, Article 98, Paragraph 1 of Article 99, Paragraphs 1 or 2  of Article 100, Paragraphs 1, 6, or 7 of Article 101, Paragraph 1 of Article 102, or Article 103, for violating the Criminal Code by committing any offense detailed in Articles 142 or 144, or for violating the Criminal Code by committing any offense detailed in Article 143 as a qualified voter in the election of the speaker or deputy speaker of a special municipality or county (city) council, the chairperson or vice chairperson of a township (city) or an indigenous district council.
+
+\4. The person has received a final conviction and sentence for violating the National Security Act by committing any offense detailed in Paragraphs 1 to 4 of Article 7, Paragraphs 1 to 3 of Article 8, or Paragraphs 1 or 2 of Article 12, for violating the Classified National Security Information Protection Act by committing any offense detailed in in Paragraphs 1, 2, or 4 of Article 32, Paragraphs 1, 2, or 4 of Article 33, or Paragraphs 1 to 4 of Article 34, for violating the National Intelligence Work Act by committing any offense detailed in Paragraphs 1 to 4 of Article 30, Article 30-1, or Article 31, or for violating the Anti-Infiltration Act by committing any offense detailed in Article 3, Article 4, Paragraph 3 of Article 5, Article 6 or Article 7.
+
+\5. The person has received a final conviction and sentence for committing any offense detailed in the Organized Crime Prevention Act.
+
+\6. The person has received a final conviction and sentence for violating the Narcotics Hazard Prevention Act by committing any offense detailed in Articles 4 to 9, Paragraphs 1 or 2 of Article 12 or the attempt thereof, Article 13, Paragraphs 1 or 2 of Article 14, or Article 15, for violating the Controlling Guns, Ammunition and Knives Act by committing any offense detailed in Article 7, Paragraphs 1 to 5 of Article 8, Article 12, or Article 13, for violating the Money Laundering Control Act by committing any offense detailed in Articles 14 or 15, or for violating the Criminal Code by committing any offense detailed in Article 302-1 or 339-4, or for violating the Fraud Crime Hazard Prevention Act. However, an indigenous person who is solely guilty of the unauthorized manufacture, transfer, transportation, loan or possession of a homemade hunting rifle, its major component parts or ammunition, shall not be guilty of such an offense unless convicted prior to the effective date of the Controlling Guns, Ammunition and Knives Act, as amended on May 22, 2020.
+
+\7. The person has received a final conviction and sentence for any of the offenses specified in the preceding six subparagraphs and has been granted probation.
+
+\8. The person has committed an offense other than those specified in Subparagraphs 1 to 6, the minimum penalty for the said offense is imprisonment for a term of not less than seven years, and they have been convicted and sentenced to a fixed term of imprisonment of more than ten years.
+
+\9. The person has committed an offense other than those specified in Subparagraphs 1 to 6, has received a final conviction and sentence of a fixed term of imprisonment or higher, has not yet served their sentence, not yet discharged their sentence, is on probation, or the sentence cannot be enforced due to the expiration of the statute of limitations.
+
+\10. The person has received a sentence of death penalty, life imprisonment or fixed-term imprisonment of more than ten years and the conviction is not yet final.
+
+\11. The person has received a final conviction and has been sentenced to rehabilitative disposition, but has either not yet served their sentence or not yet discharged their sentence.
+
+\12. The person has declared bankruptcy or has commenced liquidation proceedings due to court order and has not yet recovered their property rights.
+
+\13. The person was removed from office due to a disciplinary action.
+
+\14. The person, in accordance with law, was dismissed or has been suspended and the suspension period has not yet expired.
+
+\15. The person has been deprived of civil rights, and the said rights have not yet been restored.
+
+\16. The person is subject to an order of custodial protection or assistantship that has not yet been rescinded.
+
+#### Article 27
+
+The following persons shall not be permitted to apply to be registered as a candidate for president or vice president:
+
+\1. Members of the armed forces who are on active duty
+
+\2. Personnel handling election affairs
+
+\3. Persons with a foreign nationality
+
+\4. Persons who, under the provisions of other laws, are prohibited from registering as a candidate
+
+Active-duty members of the armed forces who were mustered from the reserves, have not yet been sworn into military service, or were mustered from education, service, or military drills shall not be included under Subparagraph 1 of the preceding paragraph.
+
+If the final decision of a court declares an election to be void due to any reason prescribed in Subparagraphs 2 and 3 of Paragraph 1 of Article 104, the elected candidates shall not be permitted to apply for registration as a candidate for president or vice president in the by-election.
+
+#### Article 28
+
+After public notice of the list of candidates for president and vice president is issued, if it is discovered that any of the following circumstances applied to a candidate before the public notice was issued or shall apply before the election, the Central Election Commission shall cancel the registration of the candidate before the election; if the candidate has already been elected, a lawsuit that challenges the validity of the election shall be filed in accordance with the provisions of Article 105:
+
+\1. The said person does not meet the requirements specified in Article 20.
+
+\2. Any of the subparagraphs of Article 26 applies to the said person.
+
+\3. In accordance with the provisions of Paragraphs 1 and 3 of the preceding article, the said person is not permitted to register as a candidate.
+
+\4. In accordance with the provisions of Paragraph 1 of Article 78, the said person is not permitted to register as a candidate.
+
+#### Article 29
+
+If the death of one of the candidates for president occurs after the deadline for registration and prior to election day, the Central Election Commission shall immediately issue public notice to stop the election and shall determine a date for a new election.
+
+When a new election is to be held in accordance with the provisions of the preceding paragraph, certificates of completion of a joint-signature petition issued to candidates for president and vice president prior to the issuance of public notice to stop the election shall still apply to the new election.
+
+#### Article 30
+
+Persons who are registered as a candidate for president or vice president shall not be permitted to withdraw their registration.
+
+Once a political party recommends candidates for president and vice president, the political party shall not be permitted to withdraw the recommendations.
+
+#### Article 31
+
+When registering as candidates for president and vice president, each pair of candidates shall remit a deposit of NT$15 million.
+
+The deposit specified in the preceding paragraph shall be returned within thirty days after the list of electees is issued by public notice. However, deposits shall not be returned to the candidates who receive less than 5% of the total votes.
+
+Fines levied in accordance with the provisions of Paragraph 2 of Article 113 shall be deducted directly from the deposit specified in the preceding paragraph, after which any remaining balance shall be returned.
+
+#### Article 32
+
+The deposit specified in Paragraph 1 of Article 23 and Paragraph 1of the preceding article shall be paid in cash or through a promissory note issued by a financial institution, certified check or Giro business check; cash payments made using coins shall not be accepted.
+
+#### Article 33
+
+The Central Election Commission shall determine and issue public notice of the qualifications for registry as a candidate; those who does not meet these qualifications shall not be registered as a candidate. The Central Election Commission shall inform each pair of candidates that the public drawing of lots to determine the number assigned to each pair of candidates included on the list of candidates shall take place three days prior to public notice of the finalized list.
+
+If there is only one pair of candidates, that pair shall be assigned number one and the lottery specified in the preceding paragraph shall not take place.
+
+The drawing of lots to determine numbers assigned to the candidates shall be conducted under on-site supervision. One candidate from each pair shall be in attendance and shall personally draw one of the lots. If neither candidate is able to attend and personally draw one of the lots, a proxy who has power of attorney for the pair of candidates may draw one of the lots in their stead. If a pair of candidates is not in attendance and has not sent a proxy to act in their stead, or are in attendance, have been summoned three times, and still fail to draw one of the lots, the Central Election Commission shall draw one of the lots on behalf of the pair of candidates.
+
+### Section 4 Public Notice for Election
+
+#### Article 34
+
+Election commissions shall issue public notices pursuant to the schedule detailed in the following provisions:
+
+\1. Public notice of the election shall state the type of election, the electoral districts, and the date and hours of the vote, and shall be issued one hundred twenty days before the term of the current president and vice president expires. This shall not apply to public notices for new elections, new votes, or by-elections.
+
+\2. Public notice of the registration of candidates shall be issued fifty days before election day, and the period designated for registration shall be not less than five days. Public notice of the registration of candidates for by-elections and new elections shall be issued thirty-five days before election day, and the period designated for registration shall not be less than three days.
+
+\3. Public notice of the list of qualified voters shall be issued fifteen days before election day, and the period of the public notice shall not be less than three days.
+
+\4. Public notice of the list of candidates shall be issued one day before the start of campaign activities.
+
+\5. Public notice of the number of qualified voters shall be issued three days before election day.
+
+\6. Public notice of the list of electees shall be issued within seven days after election day.
+
+#### Article 35
+
+The vote for the election of president and vice president shall be completed thirty days before the term of the current president and vice president expires. This shall not apply to the date by which votes for new elections, new votes, or by-elections shall be completed.
+
+### Section 5 Election and Recall Activities
+
+#### Article 36
+
+The periods designated for presidential and vice-presidential election campaign and recall campaign activities shall be twenty-eight days.
+
+The periods stipulated in the preceding paragraph shall be counted backwards from the day before election day; election campaign and recall campaign activities shall be conducted between the hours of 7:00 a.m. and 10:00 p.m.
+
+#### Article 37
+
+(deleted)
+
+#### Article 38
+
+The maximum amount of campaign funds allowed for a single pair of candidates shall be prescribed by the Central Election Commission and shall be issued by public notice on the same day the public notice of the election is issued.
+
+The maximum campaign fund amount referenced in the preceding paragraph shall be the sum of NT$100 million plus the product of 70% of the total population of the free area of the Republic of China multiplied by the basic amount of NT$20.
+
+The maximum campaign fund amount shall be rounded to the nearest NT$1000.
+
+The total population of the free area of the Republic of China referenced in Paragraph 2 refers to the total population calculated in the household registration statistics data from the final day of the month that is six months prior to the month when voting shall take place.
+
+#### Article 39
+
+(deleted)
+
+#### Article 40
+
+A pair of candidates may list as itemized deductions on their income tax declaration for the election year any campaign expenses, less any accepted donations, that do not exceed the maximum campaign fund amount prescribed in Article 38 and that were paid during the period beginning on the day public notice of the election is issued and ending thirty days after election day.
+
+#### Article 41
+
+If a pair of candidates receives not less than one-third of the total votes, the candidate pair shall receive a campaign expense subsidy of NT$30 per vote. However, the campaign subsidy shall not exceed the maximum amount of campaign funds allowed for a single pair of candidates.
+
+The political party that recommended the pair of candidates shall collect the subsidy; if one pair of candidates is jointly recommended by two or more political parties, the political parties shall jointly sign the receipt and jointly collect the subsidy.
+
+The campaign expense subsidy amount referenced in Paragraph 1 shall be calculated by the Central Election Commission within thirty days of the day after public notice of the list of electees is issued. The Central Election Commission shall inform the pair of candidates that were co-signatories to the registration or the recommending political party that within three months they must prepare a receipt for and collect the subsidy from the Central Election Commission.
+
+Candidates or political parties that do not collect the campaign expense subsidy by the specified time shall be urged by the Central Election Commission to collect the subsidy within three months. Subsidies that are not collected by that time shall be regarded as abandoned.
+
+Fines levied in accordance with the provisions of Paragraph 2 of Article 113 shall be deducted directly from the subsidy specified in Paragraph 1, after which any remaining balance shall be returned.
+
+If a candidate who has collected a campaign expense subsidy has received a final conviction and sentence for violating Article 84, Paragraph 1 of Article 86, Subparagraph 1 of Paragraph 1 of Article 87, or Paragraph 1 of Article 89, or if the election win has been declared null and void by court decision due to a violation of Subparagraph 3 of Paragraph 1 of Article 104, the election commission, after receipt of the final decision of the court, shall provide written notice to the candidate that any campaign expense subsidy amount that they have collected or deducted must be returned within thirty days, and that failure to do so shall result in the matter being handed over for enforcement.
+
+#### Article 42
+
+A pair of candidates may establish campaign offices during the period designated for election campaign activities. If more than one campaign office is established, the candidates shall be in charge of the principal office and shall designate specific personnel to take charge of the other offices. The addresses of the offices and the names of those in charge shall be registered with the Central Election Commission.
+
+Candidate campaign offices shall not be established in government agencies or institutions, schools, legally-established civil associations, places frequently used as polling stations or ballot counting stations, or any other public place. However, this shall not apply to the offices for political party committees.
+
+#### Article 43
+
+After public notice of an election is issued or an established recall is declared, commissioners, supervisors, and employees of election commissions at all levels, and the personnel handling election affairs in township (city/district) offices shall not engage in any of the following:
+
+\1. Make a public speech or a sign a recommendation in order to promote a candidate or the support or opposition of a recall campaign
+
+\2. Publicly lend support for or declare a position regarding a candidate or the support or opposition of a recall campaign
+
+\3. Promote a candidate or the support or opposition of a recall campaign during a press conference or an interview with the media
+
+\4. Print and distribute or hang materials promoting a candidate or the support or opposition of a recall campaign
+
+\5. Hang or erect advertisements such as slogans, billboards, flags, or banners to promote a candidate or the support or opposition of a recall campaign
+
+\6. Promote a candidate or the support or opposition of a recall campaign via radio, television, internet, or other media
+
+\7. Participate in a demonstration, fundraising activity, or canvass for a candidate or the support or opposition of a recall campaign
+
+#### Article 44
+
+The Central Election Commission shall compile the assigned candidate number, photograph, name, date of birth, gender, birthplace, registration method, educational background, experience, and political views of each pair of candidates, as well as relevant election and voting regulations and shall publish both print and audio versions of the election bulletin.
+
+The educational background and experience referenced in the preceding paragraph shall be a maximum of 300 words. Only graduates of universities registered with or recognized by the competent authority in charge of education shall be recognized as university graduates. Candidates must submit documentary evidence of their educational background at the time of registration, or their educational background shall not be published in the election bulletin.
+
+The candidate data detailed in Paragraph 1 shall be submitted to the Central Election Commission at the time of registration.
+
+The content of the political views referenced in Paragraph 1 may contain text and graphics, and all candidates shall be allowed fair access to the election bulletin.  Regulations governing the preparation, format, and printing of the election bulletin and other related matters shall be determined by the Central Election Commission.  Candidates whose content violates provisions of Article 49 shall be notified by the Central Election Commission that the content must be modified by a specified time; if it is not revised by the specified time or if after revision the content still fails to comply with regulations, any portion that is not in compliance shall not be published in the election bulletin.
+
+Candidates are responsible for their own personal data. Personal data known or proved to be false by the Central Election Commission shall not be published in the election bulletin. In the column labeled method of registration, candidates recommended by political parties shall fill in the name of the  recommending political party followed by  "recommendation"; if a pair of candidates for president and vice president is recommended  by two or more political parties, the names of the political parties shall be listed in the same order as in the political party recommendation letter; candidates who register by way of joint-signature petition, shall fill in “joint-signature petition”.
+
+Two days before election day, the election bulletin shall be delivered to each household in the electoral district, published on the website of the Central Election Commission, and disseminated in other appropriate ways.
+
+#### Article 45
+
+The Central Election Commission shall provide, at public expense, presidential and vice-presidential candidates with time to express their political views on national broadcast television. Each pair of candidates shall be provided not less than thirty minutes each time; the participation of the designated television stations shall be compulsory. Regulations governing implementation shall be determined by the Central Election Commission.
+
+With the consent of two or more pairs of candidates, an individual or association may hold a debate on national broadcast television; television stations shall accept such a debate and may apply for a subsidy from the Central Election Commission. Regulations governing the application procedures, subsidy amount, criteria and other related matters shall be determined by the Central Election Commission.
+
+The televised presidential debates specified in the preceding paragraph shall be held no more than three times; during each debate, each candidate shall be allowed no more than thirty minutes. The televised debate for vice president shall be conducted in the same manner, but shall be held only once.
+
+Candidates shall be personally responsible for the political views they present, and the content of the debates specified in Paragraphs 1 and 2.
+
+#### Article 46
+
+Broadcast television stations shall provide airtime, for which they shall be compensated, to political parties  that have recommended or registered candidates, to candidates who are engaged in campaign promotion activities, to the primary person who proposed a recall, to the person who is subject to recall, and for promotion of the support or opposition of a recall campaign; this matter shall be handled in a fair and just manner.
+
+Public broadcast television stations, non-profit broadcast radio stations, and broadcast or cable television stations shall not broadcast advertisements that are for election campaigns or that promote the support or opposition of a recall campaign.
+
+When discussing elections, discussing matters related to a recall campaign, reporting the news, or inviting to participate in a program a candidate, the primary person who proposed a recall, or the person subject to recall in a program the conduct of the broadcast television stations shall be fair and just and there shall not be differential treatment without legitimate reasons.
+
+If a broadcast television station violates a provision of the preceding three paragraphs, such violations may be reported to the election commission within one month of the broadcast by providing material evidence of the violation, such as a video or audio recording.
+
+#### Article 46-1
+
+During the periods designated for presidential and vice-presidential election campaign and recall activities, civil servants in agencies at any level of the central or local government shall not participate in election campaign or recall campaign promotion activities.
+
+#### Article 47
+
+Advertisements for election campaigns or recall campaigns that are published in newspapers, magazines, or on the internet, are broadcast on television, or are disseminated through other forms of media shall specify who has broadcast or published the advertisement, who has paid for it, and any other relevant information.
+
+The Central Election Commission shall determine what must be specified, the content, the format, and other matters that must be observed for election campaign and recall campaign advertisements detailed in the preceding paragraph.
+
+#### Article 47-1
+
+Newspapers, magazines, broadcast television stations, internet service providers and other media that publish the election campaign and recall campaign advertisements specified in the preceding article shall verify that publishing commissions are not directly or indirectly accepted from individuals, juridical persons, organizations or institutions included in the following items:
+
+\1. Foreign citizens, foreign juridical persons, foreign associations and other foreign institutions, as well as juridical persons, associations and other institutions with membership mainly composed of foreign citizens, foreign juridical persons, foreign associations or other foreign institutions
+
+\2. Citizens, juridical persons, associations and other institutions of the People’s Republic of China, as well as juridical persons, associations and other institutions with membership mainly composed of citizens, juridical persons, associations or other institutions of the People’s Republic of China
+
+\3. Residents, juridical persons, associations and other institutions of Hong Kong or Macao, as well as juridical persons, associations and other institutions with membership mainly composed of residents, juridical persons, associations or other institutions of Hong Kong or Macao
+
+Newspapers, magazines, broadcast television stations, internet service providers and other media entrusted to publish election campaign and recall campaign advertisements shall verify that the entrusting party does not fall under the circumstances of the preceding subparagraphs and shall retain a certificate issued by the entrusting party stating that the said party does not fall under the circumstances of the preceding subparagraph.
+
+#### Article 47-2
+
+Newspapers, magazines, broadcast television stations, internet service providers and other media shall retain complete records of commissioned election campaign and recall campaign advertisements, including the targeted audience and conditions and the certificate detailed in Paragraph 2 of the preceding article; such records shall be retained for a period of four years from the time the advertisement is broadcast or published.
+
+The Central Election Commission shall determine the items, content and procedures for other matters that must be observed as part of the retained records detailed in the preceding paragraph.
+
+#### Article 47-3
+
+From the date public notice of an election is issued or an established recall campaign is declared until the day before election day, if a prospective candidate, candidate, person subject to recall, or the primary person who proposed a recall is aware that there is a deepfake of their own voice or likeness that has been broadcast on television or published on the internet they may request an investigation by submitting a  completed application form and paying the required fee.
+
+The term deepfake that is used in the preceding paragraph refers to the use of digital composites or other technological methods used to create a form that convincingly performs speech and actions that are not those of the actual person.
+
+If a prospective candidate, candidate, person subject to recall, or the primary person who proposed a recall requests the police investigated detailed in Paragraph 1 and the voice or likeness are found to be a deepfake, they should submit the investigation dossier along with a written request to the broadcasting businesses, internet platform provider, or internet application service provider so that they may address, in accordance with Paragraph 4, the broadcast or published of the speech or likeness, and inform the Central Election Commission.
+
+Within two days from the date of receipt of the request detailed in the preceding paragraph, the television station, internet hosting service or internet application service provider shall comply with the following provisions:
+
+\1. Broadcast television stations shall stop broadcasting the voice and likeness.
+
+\2. Internet hosting services and internet application service providers shall restrict browsing and remove or take down the voice and likeness.
+
+Broadcast television stations, Internet hosting services and internet application service providers shall, within six months from the date of receipt of the request referenced in Paragraph 3, retain the electronic records or webpage data of the voice or likeness that was broadcast or published, as well as the data of the entrusted broadcaster or publisher and their internet usage record data; in the event of litigation, the retention shall be extended to three months after the judgment is finalized.
+
+Regulations governing the request for investigation referenced in Paragraph 1 and related matters, including eligibility, procedures, forms, the format of video and audio files, fees, the content that shall be included in the investigation dossier issued by the police shall be determined by the Ministry of the Interior.
+
+#### Article 48
+
+Candidates, the primary person who proposed a recall, and the person subject to recall shall personally sign text and pictures used as promotional materials for election campaigns or recall campaigns. During the period designated for election campaign or recall campaign activities, a political party may print and distribute text and pictures used as promotional materials for candidates that the party has  recommended for office and for members of the party who have proposed a recall or are subject to recall; the name of the political party shall be listed on the promotional materials; if two or more political parties jointly recommend one pair of candidates, the names of all the recommending political parties shall be listed on the promotional materials. The promotional material shall only be posted in the candidate campaign offices, the offices of the political party or parties, and on campaign promotion vehicles.
+
+Promotional materials specified in the preceding paragraph that are printed before the period designated for election campaign or recall campaign activities begins and that are intended to be distributed after the start of the said period shall be regarded as printed during the period designated for election and recall activities.
+
+Advertisements for election campaigns or recall campaigns in the form of slogans, billboards, flags, or banners shall list the name of the political party or person who has hung or erected the said advertisements. Such advertisements shall not be hung or erected on roads or bridges, in parks, government agencies or institutions, schools, other public facilities, or their grounds. However, this shall not apply to locations designated through public notice by the municipal or county (city) government as for use by candidates, the primary person who proposed a recall, the person subject to recall, persons who have recommended a candidate or political parties with members who have proposed a recall or are subject to recall.
+
+Access to locations designated through public notice by the municipal or county (city) government shall be provided in a fair and just manner; regulations governing the use and management of such locations shall be determined by the municipal or county (city) government.
+
+Advertisements shall not be hung or erected in a manner that disrupts public safety or the flow traffic and shall be removed by the candidates within seven days after election day. Violations shall be handled in accordance with relevant laws and regulations.
+
+The Central Election Commission shall notify the competent authority or unit of the municipal or county (city) government to handle, in accordance with regulations, violations of the provisions of Paragraph 1 and Paragraph 3 governing posting promotional materials and hanging or erecting advertisements.
+
+#### Article 49
+
+The discourse of candidates and their campaign staff regarding the election campaign and the discourse of the primary person who proposed a recall, the person who is subject to recall, and those assisting in recall campaign activities shall not contain any of the following:
+
+\1. Incitation of others to commit the offense of sedition or the offense of treason.
+
+\2. Incitation of others to destroy the social order through insurrection.
+
+\3. Violation of the provisions of any other criminal laws
+
+#### Article 50
+
+The following is prohibited for all political parties and all individuals:
+
+\1. Publicly campaigning, electioneering, or engaging in recall campaign activities before 7:00 a.m. or after 10:00 p.m. on any day during the period designated for election and recall activities. This shall not apply to activities that do not disturb local residential life or do not have an antisocial impact.
+
+\2. Campaigning, electioneering, or engaging in recall campaign activities on the election day.
+
+\3. Hindering the election campaign or recall campaign activities of other political parties or candidates.
+
+\4. Inviting foreign citizens or residents of China, Hong Kong or Macau to engage in the behaviors prescribed in the subparagraphs of Article 43. This shall not apply if the invited person is a candidate, the spouse of the person subject to recall or if either as described in Subparagraph 2 of Article 43 the person has publicly lent support or declared a position or as described in Subparagraph 7 of Article 43 the person has participated in a demonstration or canvassing as described, but has not publicly made a speech in support.
+
+#### Article 51
+
+Political parties and candidates that use loudspeakers for campaign or recall activities shall not use the speakers to make noise. Violations shall be handled by the competent authority for environmental protection or police agencies in accordance with the provisions of relevant laws.
+
+#### Article 52
+
+From the day public notice of an election is issued or an established recall campaign is declared until ten days before election day, any political party or person who distributes public-opinion survey data related to a candidate, a person subject to recall, or an election campaign or recall campaign shall clearly indicate the organization responsible, the person in charge, when the survey was conducted, the sampling method, the size of the rating scale, sample size, margin of error, and source of funding.
+
+During the period specified in the preceding paragraph, election campaign or recall campaign survey data that does not contain the items in the preceding paragraph and any other election campaign or recall campaign information that resembles a public-opinion poll shall not be permitted to be published, reported, disseminated, the subject of commentary, or quoted. This shall not apply to political parties with a candidate in the election, candidates, persons who proposed a recall, persons subject to recall who have made their own estimations.
+
+From ten days before election day until the polls close, no political party or person shall be permitted to report, disseminate, comment on, or quote from the materials detailed in the preceding two paragraphs.
+
+### Section 6 Voting and Ballot Counting
+
+#### Article 53
+
+Polling stations for the presidential and vice-presidential election shall be set up in government agencies or institutions, schools, public places or other appropriate places on the basis of the distribution of voters.
+
+The locations of the polling stations specified in the preceding paragraph shall be equipped with barrier-free facilities. If such choices are not available, the stations shall use appropriate auxiliary equipment and tools to provide assistance to persons with physical disabilities so that they may cast their ballots. The election commission shall appropriately increase the number of workers available to assist persons with physical disabilities according to the level of barrier-free access available in the stations.
+
+Polling stations shall only admit qualified voters, children under the age of 6 who are in the care of a voter, the family member or companion accompanying a qualified voter as specified in Paragraph 4 of Article 14, and workers with credentials issued by an election commission. This shall not apply to prosecutors who, by law, require access to polling stations for the performance of their duties.
+
+After the polls close, polling stations shall immediately transform into ballot counting stations and shall publicly count the ballots. After all ballots have been counted, the chief administrator and the chief supervisor of the ballot counting station shall announce the result of the ballot count as it appears on the vote and ballot count report form and shall immediately post it at the entrance of the ballot counting station, sign duplicate copies of the vote and ballot count report form, provide the signed copies to the political parties that recommended candidates and the representatives of candidates registered by way of joint-signature petition; each political party or representative shall only receive one copy.
+
+After the polls have closed and all ballots have been counted, the chief administrator of the polling and ballot counting station and the chief supervisor shall jointly separate, package and seal the surplus ballots, valid ballots, invalid ballots, and the list of qualified voters, then sign their name or affix their seal across the sealed opening and transfer the sealed items to the township/city or district office, which shall forward them to the special municipality or county (city) election commission for safekeeping.
+
+The ballots referenced in the preceding paragraph shall only be unpacked when prosecutors or the court exercise their legal right to do so.
+
+After all ballots have been counted, the ballots and the list of qualified voters referenced in Paragraph 5 shall be retained for the period stipulated below:
+
+\1. Residual ballots shall be retained for one month.
+
+\2. Valid ballots and invalid ballots shall be retained for six months.
+
+\3. The list of qualified voters shall be retained for six months.
+
+If a lawsuit is filed during the retaining period detailed in the preceding paragraph, the retaining period for the portion relating to the lawsuit shall be prolonged and shall expire three months after the final judgement.
+
+#### Article 54
+
+The election commission shall dispatch one chief administrator of the polling and ballot counting station and several administrative staff members to handle polling and ballot counting.
+
+The chief administrator specified in the preceding paragraph shall be a current civil servant or public-school teacher. Not less than one-third of the administrative staff members specified in the preceding paragraph shall be current civil servants or public-school teachers who are selected based on recommendations solicited from government agencies and public schools at all levels. The government agencies and public schools asked to provide recommendations and the government agency personnel, and school faculty and staff given such assignments shall not be permitted to refuse.
+
+The special municipality or county (city) election commission shall request security personnel for the polling and ballot counting stations from the local police agencies.
+
+#### Article 55
+
+Each polling and ballot counting station shall have one chief supervisor and several subordinate supervisors to supervise polling and ballot counting. There shall be at least two supervisors for each polling and ballot counting station, but if there is only one pair of candidates, there shall only be one supervisor.
+
+The chief supervisor shall be a current or former civil servant or public-school teacher who is selected by the election commission based on recommendations solicited from government agencies and public schools at all levels. The government agencies and public schools asked to provide recommendations and the government agency personnel, and school faculty and staff given such assignments shall not be permitted to refuse.
+
+The supervisors shall be recommended pursuant to the following methods and dispatched by the election commission through examination:
+
+\1. Each pair of candidates shall recommend one candidate for the position of supervisor. If a pair of candidates was recommended by a political party, that political party shall recommend the candidate for the position of supervisor. If two or more parties jointly recommend a pair of candidates, they shall be treated as one party and the party listed first on the political party recommendation letter shall be responsible for the recommendation.
+
+\2. For the recall of the president or vice president, recommendations shall be equally divided between the political party of the primary person who proposed the recall and the person subject to recall. If the primary person who proposed the recall belongs to two or more political parties, nominations may be made by any of the parties, and if the person subject to recall was recommended by a political party, that political party shall make the recommendation.
+
+If the recommendations are not sufficient to provide two supervisors for each polling station, the election commission may select persons from the following list to fill the vacancy:
+
+\1. Impartial members of local society
+
+\2. Staff of government agencies or institutions, associations, and schools
+
+\3. Students in colleges and universities who have reached legal age
+
+Regulations governing eligibility, recommendation procedures, and rules governing their duties shall be determined by the Central Election Commission.
+
+#### Article 55-1
+
+Polling and ballot counting workers shall receive remuneration, which shall be adjusted according to cost of living; the basis of the amount shall be set by the Central Election Commission and reported to the Executive yuan for approval.
+
+#### Article 56
+
+The workers of the polling and ballot counting stations shall attend the lectures and training held by the election commissions.
+
+#### Article 57
+
+Commissioners, supervisors, and staff of the election commissions at all levels, personnel handing election affairs in township/city or district offices, and polling and ballot counting station workers who die, become disabled, or are injured in the performance of their duties may apply for compensation in accordance with the provisions relevant to their position.
+
+For those in the preceding paragraph who cannot apply for compensation based on their position, compensation shall be paid by the Central Election Commission. The recipient of the compensation, base amount, procedures for dispensing compensation and other related matters shall be prescribed by the Central Election Commission.
+
+#### Article 58
+
+Ballots shall be printed, distributed and used by special municipality and county (city) election commissions. The ballots shall include the assigned candidate number, name, registration method, and photos of each presidential and vice-presidential candidate pair. Candidates recommended by political parties shall have the name of each recommending political part followed by “recommendation” listed in the column labeled method of registration; if a presidential and vice-presidential candidate pair is recommended by two or more political parties, the names of the political parties shall be listed in the same order as in the political party recommendation letter; candidates who registered by way of joint-signature petition shall have “joint-signature petition” listed.
+
+The ballots specified in the preceding paragraph shall be printed by the special municipality and county (city) election commissions in the format determined by the Central Election Commission and under the on-site supervision of supervisory committee members; the ballots shall be handed to the chief administrator of each polling station one day before election day. The chief administrator and chief supervisor shall jointly count and check the received ballots.
+
+#### Article 59
+
+Qualified voters shall vote by using a voting marker prepared by the election commission to select one pair of candidates by marking the circular symbol in the column labeled “select”.
+
+After selecting a pair of candidates, the elector shall not show the ballot to any other person.
+
+Special municipality and county (city) election commissions shall have the voting marker specified in Paragraph 1 made according to the specifications determined by the Central Election Commission.
+
+#### Article 60
+
+Ballots shall be regarded as invalid under any of the following circumstances:
+
+\1. The ballot used is not a ballot made and distributed by the election commission.
+
+\2. The ballot does not contain one pair of candidates selected in accordance with the provisions of Paragraph 1 of the preceding Article.
+
+\3. The circular symbol is marked in such a way that it cannot be identified which group has been selected.
+
+\4. The circular symbol has been altered.
+
+\5. The ballot is signed, affixed with a seal or fingerprint, or has any added text or symbols.
+
+\6. The ballot is torn and not complete.
+
+\7. The ballot is contaminated in such a way that it cannot be identified which pair has been selected.
+
+\8. The voting marker prepared by the election commission was not used.
+
+The invalid ballots specified in the preceding paragraph shall be at the joint determination of the chief administrator of the ballot counting station and the chief supervisor; any dispute shall be decided through a vote by the supervisors. If there is a tie between the positive and negative votes, the ballot shall be regarded as valid.
+
+#### Article 61
+
+Within the polling station or ballot counting station, the following conduct shall result in removal by the chief administrator and chief supervisor:
+
+\1. Making noise or causing a disturbance to induce others to vote or not to vote and refusing to desist
+
+\2. Carrying weapons or hazardous articles into the station
+
+\3. Wearing or displaying flags, badges, objects or clothing of political parties, political groups, or candidates and refusing to desist
+
+\4. Disrupting the counting of ballots or obstructing others observing the ballot count and refusing to desist
+
+\5. Committing any other misconduct and refusing to desist
+
+If a voter commits any of the acts specified in the preceding paragraph, the ballot cast by the said voter shall be withdrawn and the facts shall be recorded under their name on the list of qualified voters. For serious incidents, a written report shall be submitted to the election commission.
+
+Only persons performing official duties shall be permitted to carry mobile phones or equipment with photographic capabilities into a polling station. This restriction shall not apply to mobile devices that have been powered off.
+
+Photographic equipment shall not be used inside of a polling station to scrutinize the ballot selections of voters.
+
+#### Article 62
+
+If a natural disaster or force majeure occurs prior to or on election day, or is predicted to do so, and causes any polling station or ballot counting station to be unable to conduct voting or count ballots, the special municipality or county (city) election commission shall report this to the Central Election Commission and seek approval to set an alternate date for voting and counting ballots, or the special municipality or county (city) election commission shall directly change the location of voting and ballot counting and shall report this to the Central Election Commission for future reference.
+
+If the polling stations and ballot counting stations specified in the preceding paragraph, where voting cannot be conducted or ballot counting cannot be carried out, reach a number that exceeds or is predicted to exceed one-third of the total polling stations and ballot counting stations in a special municipality or county (city), the respective election commission shall report this to the Central Election Commission and shall change the date for voting and ballot counting in the affected special municipalities or counties (cities). If voting cannot be conducted or ballot counting cannot be carried out in more than one-third of the national total of polling stations and ballot counting stations in special municipalities and counties (cities), the Central Election Commission shall directly change the date for voting and ballot counting.
+
+The date of the rescheduled voting and ballot counting shall be issued by public notice three days prior to the said date.
+
+The Central Election Commission shall determine the measures governing the handling of natural disasters or forces majeures that occur prior to election day or on the day designated for voting and ballot counting.
+
+If the election commission issues public notice of the date of the newly rescheduled election during the period designated for election campaign activities, the said period shall be prolonged until the day before the rescheduled election. However, if the length of time from the day public notice of the rescheduled election is issued until the day before the election is longer than the original period designated for election campaign activities, the new period shall be recalculated based on the day before the rescheduled election day.
+
+### Section 7 Result of Election
+
+#### Article 63
+
+The pair of candidates that receives the most votes shall be elected; if two or more pairs of candidates receive the same number of votes, a new vote shall be held within thirty days from the polling day.
+
+If there is only one pair of candidates, they shall only be elected if they receive the votes of not less than 20% of the total number of voters. If said pair fails to be elected, the new vote shall be completed within three months from election day.
+
+If a presidential candidate elected in accordance with the provisions of the preceding two paragraphs dies before public notice of the list of electees is issued, the Central Election Commission shall announce the vice president-elect as the president-elect, and the office of the vice president shall be deemed to be vacant.
+
+#### Article 63-1
+
+If the difference between number of votes received by the candidates with the highest and second highest number of votes is within 0.3% of the total number of valid ballots, within seven days after election day and in accordance with Article 110, the candidates with the second highest number of votes may submit a petition to a court with proper jurisdiction for the list of qualified voters and ballots at all or a portion of the polling stations to be sealed. The recount of the ballots at sealed polling stations shall be completed within forty days and the result of the recount shall be reported to the Central Election Commission. According to the result of the ballot recount that was overseen by the court with proper jurisdiction and within seven days, the Central Election Commission shall re-examine the outcome of the election. If public notice has already been issued for the election of a candidate who according to the result of the re-examination has not been elected, the notice shall be rescinded; if public notice has not already been issued for the election of a candidate who was actually elected, public notice of the outcome of the election shall be re-issued.
+
+The petitioner referenced in the preceding paragraph shall clearly indicate in writing the polling stations where there shall be a recount of the ballots and shall pay a deposit of a fixed amount. The said amount shall be calculated as NT$3 per ballot cast at the polling station.
+
+The location of the ballot recount shall be selected by the court with proper jurisdiction, and the list of qualified voters and each ballot from the sealed polling station shall be individually confirmed.
+
+The court with proper jurisdiction that is handling the recount shall notify each candidate, or their designated personnel, to be present for the recount of the ballots and shall enlist assistance from the special municipality or county (city) election commission, township (city/district) offices, or polling station workers.
+
+If the result of the ballot recount does not alter the result of who was elected, the deposit shall not be returned. If the result of the recount alters the result of who was elected, the deposit shall be returned.
+
+If a person files a lawsuit related to the election, and the list of qualified voters and ballots from a polling station is sealed in accordance with the provisions of Paragraph 1, that person shall not be permitted to apply for a recount of the ballots.
+
+The expenses required for the ballot recount specified in Paragraph 1 shall be paid from the budget of the Central Election Commission.
+
+#### Article 64
+
+In the case of the death of a candidate for vice president, if the candidate for president from that pair of candidates is elected president, the office of the vice president shall be regarded as vacant.
+
+If either the president-elect or the vice president-elect dies before taking office, or if the election is ruled invalid before they take office, the relevant office shall be regarded as vacant.
+
+If both the offices of president and vice president are regarded as vacant because both the president-elect and vice president-elect died before taking office or the election is ruled invalid before they take office, voting for the new election shall be completed within three months from the day of their deaths or from the day the Central Election Commission receives the decision from the court.
+
+#### Article 65
+
+The electees shall take office on the day the term of office of the current president and vice president expires. Even if electees who were elected through a new election or a new vote fail to take office on the day the term of office of the current president and vice president expires, their term of office shall still be calculated from that date.
+
+#### Article 66
+
+The certificate verifying that a person has been elected president or vice president shall be issued by the Central Election Commission. The certificate verifying that a person has been elected vice president through by-election shall be issued by the Legislative Yuan.
+
+#### Article 67
+
+If the election of a candidate is determined to be invalid, in accordance with the facts established by the final decision handed down by a court with proper jurisdiction, and the number of votes received by the said candidate is sufficient to affect the outcome of the election, the Central Election Commission shall re-examine the outcome in accordance with the facts established by the said final decision. If public notice has already been issued for the election of a candidate who according to the result of the re-examination has not been elected, the notice shall be rescinded; if public notice has not yet been issued for the election of a candidate who was actually elected, public notice of the outcome of the election shall be re-issued. This shall not apply to the provisions governing a new election.
+
+The electee in the preceding paragraph who had public notice of their election re-issued shall serve until the original term of office of the president and vice president expires.
+
+### Section 8 By-election of Vice President
+
+#### Article 68
+
+In the case of vacancy of the office of the vice president, the president shall within three months nominate candidates for the by-election carried out by the Legislative Yuan.
+
+#### Article 69
+
+A vice president elected by the Legislative Yuan through by-election shall take office within twenty days after being elected.
+
+## Chapter 4 (Deleted)
+
+### Section 9 Recall
+
+#### Article 70
+
+If a proposal for the recall of the president or vice president is raised by members of the Legislative Yuan equaling not less than one quarter of the total members and is approved by not less than two-thirds of the total members, the Legislative Yuan shall announce that the recall proposal is established. However, a president or vice president who has been in office for less than one year shall not be recalled.
+
+Within 10 days after the recall proposal specified in the preceding paragraph is announced, the Legislative Yuan shall transfer to the Central Election Commission the proposal, together with a statement containing the reasons for recall, and a statement of defense raised by the person subject to recall.
+
+#### Article 71
+
+The Central Election Commission shall, within twenty days from the day after receiving the statement detailing the reasons for recall and the statement of defense transferred from the Legislative Yuan, issue public notice of the following matters:
+
+\1. The date and hours of the vote for recall
+
+\2. The statement detailing the reasons for recall
+
+\3. The statement of defense
+
+#### Article 72
+
+During the campaign period of the recall, the Central Electoral Commission shall hold a publicly televised recall meeting, at which the leading person who proposed the recall and the person subject to recall shall personally appear or shall appoint a representative to appear and to make a statement. However, this meeting may be waived with the consent of both the person who proposed the recall and the person subject to recall.
+
+The Central Election Commission shall determine the number of occurrences, time, procedures, and other related matters for the publicly televised recall meeting specified in the preceding paragraph.
+
+#### Article 73
+
+The Central Election Commission shall hold the recall vote within sixty days from the day after receipt of the statement detailing the reasons for the recall and the statement of defense transferred from the Legislative Yuan. If other votes or elections are to be held during this same period, voting for all shall take place at the same time.
+
+If the person subject to recall dies, leaves office, or resigns before election day, the Central Election Commission shall issue public notice of the termination of the recall.
+
+#### Article 74
+
+The ballots for the recall of president and vice president shall be printed separately. However, if the president and the vice president are subject to the same recall transferred from the Legislative Yuan, the ballots shall be printed with the president and the vice president listed in conjunction.
+
+On the ballots for recall shall be printed two columns, “Agree to Recall” and “Do Not Agree to Recall”, and the voter shall use the voting marker prepared by the election commission to make their selection.
+
+After the selection is made, the voter shall not show the ballot to others.
+
+#### Article 75
+
+The provisions set forth in this Act that govern voters, the list of qualified voters, voting, and ballot counting shall apply mutatis mutandis to the voters, the list of voters, and voting and ballot counting for a recall.
+
+#### Article 76
+
+A recall proposal shall be adopted when more than half of the total voters in the free area of the Republic of China have voted, and more than half of the valid ballots agree to recall.
+
+#### Article 77
+
+Within seven days after the polls for the recall vote have closed, the Central Election Commission shall issue public notice to announce the result of the vote. If the recall proposal is adopted, the person subject to recall shall be removed from office on the day the public notice is issued.
+
+#### Article 78
+
+If a recall proposal is adopted, the person subject to recall shall not be permitted to be a candidate for president or vice president within four years from the day they are removed from office; this provision shall also apply if the person subject to recall resigns after the recall is declared established.
+
+If a recall proposal is rejected, no more recall proposals shall be raised against the same person within the term of office of the aforesaid person.
+
+## Chapter 5 Penalty for Encumbering Election or Recall
+
+#### Article 79
+
+Whoever violates any provision of Subparagraph 1 of Article 49 shall be sentenced to a fixed term of imprisonment of not less than seven years; whoever violates any provision of Subparagraph 2 of Article 49 shall be sentenced to a fixed term of imprisonment of not less than five years; whoever violates any provision of Subparagraph 3 of Article 49 shall be punished in accordance with penal provisions in the relevant laws.
+
+#### Article 80
+
+Whoever takes advantage of a campaign, electioneering, or petitioning in order to gather a mob or damage social order through insurrection shall be sentenced to a fixed term of imprisonment of not less than seven years, and the persons who plan or carry out such actions shall be sentenced to life imprisonment or a fixed term of imprisonment of not less than ten years.
+
+Any attempt to commit any offense specified in the preceding paragraph shall also be punished.
+
+#### Article 81
+
+Whoever hinders civil servants who are performing their official duties in accordance with law in in order to intentionally harm an election or recall shall be sentenced to a fixed term of imprisonment of not more than five years.
+
+Whoever commits any offense specified in the preceding paragraph that results in the death of a civil servant shall be sentenced to life imprisonment or a fixed term of imprisonment of not less than seven years; whoever causes severe injury to a civil servant shall be sentenced to a fixed term of imprisonment of not less than three years and not more than ten years.
+
+#### Article 82
+
+The onsite accomplices of persons who gather a mob and commit any offense specified in the preceding Article shall be sentenced to a fixed term of imprisonment or penal servitude of not more than three years or shall be imposed a fine of not more than NT$300,000, and the persons who plan or carry out such actions and the persons who commit violent acts as coercion shall be sentenced to a fixed term of imprisonment of not less than three years and not more than ten years.
+
+If an offense specified in the preceding paragraph results in the death of a civil servant, the persons who plan or carry out such actions and persons who commit violent acts as coercion shall be sentenced to life imprisonment or a fixed term of imprisonment of not less than seven years; persons who cause severe injury to a civil servant shall be sentenced to a fixed term of imprisonment of not less than five years and not more than twelve years.
+
+#### Article 83
+
+(deleted)
+
+#### Article 84
+
+Whoever bribes, or delivers or arranges to deliver property or other undue benefits to a candidate or a person qualified to be a candidate so that they will agree to abandon their campaign or take part in certain campaign activities shall be sentenced to a fixed term of imprisonment of not less than three years and not more than ten years, and shall be imposed a fine of not less than NT$2,000,000 and not more than NT$20 million.
+
+Candidates or persons qualified to be candidates who demand a bribe, accept a bribe, or accept other undue benefits in order to abandon their campaign or to take part in certain campaign activities shall also be punished in accordance with the provisions of the preceding paragraph.
+
+Whoever plans to commit any offense specified in the preceding two paragraphs shall be sentenced to a fixed term of imprisonment of not more than one year.
+
+Any bribe or property that is prepared by, delivered by, or arranged to be delivered by a person who violates any provision of the previous paragraph or Paragraph 1 shall be confiscated regardless of whether the said bribe or property belongs to the person who commits the offense.
+
+#### Article 85
+
+Whoever commits any of the following acts of violence or coercion, or who uses other illegal means, shall be sentenced to a fixed term of imprisonment of not more than five years:
+
+\1. Hindering the campaign of another candidate or compelling them to abandon their campaign
+
+\2. Hindering others who are signing a joint-signature petition for a prospective candidate in accordance with law
+
+\3. Hindering others who raise or agree with a recall proposal, or compelling others to raise or agree with a recall proposal
+
+Any attempt to commit any offense specified in the preceding paragraph shall also be punished.
+
+#### Article 86
+
+Whoever induces a qualified voter to abstain from voting or to exercise their right to cast their vote for an agreed-upon purpose through bribery or through delivery of or arrangements to deliver property or other undue benefits shall be sentenced to a fixed term of imprisonment of not less than three years and not more than ten years and shall be imposed a fine of not less than NT$1,000,000 and not more than NT$10 million.
+
+Persons planning to commit any offense specified in the preceding paragraph shall be sentenced to a fixed term of imprisonment of not more than one year.
+
+Any bribe or property that is prepared, delivered, or arranged to be delivered shall be confiscated regardless of whether the said bribe or property belongs to the person who commits the offense.
+
+Whoever commits an offense specified in Paragraphs 1 or 2 and who surrenders within six months from the event shall have their penalty reduced or shall not be subject to penalty; the aforementioned person shall not be subject to penalty if a candidate is found to be a principal offender or an accomplice thereupon.
+
+Whoever commits any offense specified in Paragraphs 1 or 2 and confesses during the course of the investigation shall have their sentence reduced; the aforementioned person shall have their sentence reduced or shall not be subject to penalty if a candidate is found to be a principal offender or an accomplice thereupon.
+
+#### Article 87
+
+Whoever commits any of the following acts shall be sentenced to a fixed term of imprisonment of not less than one year and not more than seven years, and shall be imposed a fine of not less than NT$1,000,000 and not more than NT$10,000,000:
+
+\1. Inducing members of an association or institution to abstain from voting or exercise their right to cast their vote for an agreed-upon purpose through bribery or through delivery of or arrangements to deliver property or other undue benefits disguised as a donation
+
+\2. Inducing a signer of a joint-signature petition to sign or not sign for a certain prospective candidate through bribery or through delivery of or arrangements to delivery property or other undue benefits
+
+\3. Inducing a person who proposed or agreed to a recall to not raise or agree to the recall proposal, or to raise or agree to a certain recall proposal through bribery or through delivery of or arrangements to delivery property or other undue benefits
+
+Whoever plans to commit any offense specified in the preceding paragraph shall be sentenced to a fixed term of imprisonment of not more than one year.
+
+Any bribe or property that is prepared, delivered, or arranged to be delivered shall be confiscated regardless of whether the said bribe or property belongs to the person who commits the offense.
+
+#### Article 88
+
+Whoever commits any offense specified in Paragraphs 1 and 2 of Article 84, Paragraph 1 of Article 86, or any subparagraph of Paragraph 1 of the preceding Article for personal gain shall be sentenced to a fixed term of imprisonment of not less than three years and not more than ten year and shall be imposed a fine of not less than NT$1,000,000 and not more than NT$10 million.
+
+Any attempt to commit any offense specified in the preceding paragraph shall also be punished.
+
+#### Article 88-1
+
+Whoever gambles on the outcome of an election or recall in a public place or a place open to the public shall be sentenced to a fixed term of imprisonment of not more than six months, short-term detention, or shall be imposed a fine of not more than NT$100,000.
+
+This shall also apply to gambling on the outcome of an election or recall via telecommunication equipment, electronic communication, the internet, or using any other similar means.
+
+The provisions of the preceding two paragraphs shall not apply to gambling on items provided for temporary amusement.
+
+Whoever provides a venue for engaging in gambling or convene other to engage in gambling with the intention of making a profit on the outcome of an election or recall shall be sentenced to a fixed term of imprisonment of not more than five years and shall be imposed a fine of not more than NT$500,000.
+
+#### Article 89
+
+From the day public notice of internal nominations for president and vice president within political parties is issued through the period specified for candidate nomination, persons internally nominated by a political party who commit any offense specified in Paragraphs 1 or 2 of Article 84 shall be punished in accordance with the provisions of that Article; whoever commits any offense against a qualified voter specified in Paragraph 1 of Article 86 shall be punished in accordance with the provisions of that Article.
+
+Persons planning to commit any offense specified in the preceding paragraph shall be sentenced to a fixed term of imprisonment of not more than one year.
+
+Any bribe or property that is prepared, delivered, or arranged to be delivered shall be confiscated regardless of whether said the bribe or property belongs to the person who commits the offense.
+
+Whoever commits any offense specified in Paragraphs 1 or 2 and who surrender within six months from the event shall have their penalty reduced or shall not be subject to penalty; the aforementioned person shall not be subject to penalty if the principal offender or an accomplice is found thereupon.
+
+Whoever commits an offense specified in Paragraphs 1 or 2 and confess during the course of the investigation shall have their sentence reduced; the aforementioned person shall have their sentence reduced or shall not be subject to penalty if a principal offender or an accomplice is found thereupon.
+
+Whoever commits any offense specified in Paragraph 1 for personal gain shall be punished in accordance with the preceding Article.
+
+Any attempt to commit any offense specified in the preceding paragraph shall also be punished.
+
+The provisions of Article 100 shall apply mutatis mutandis to the internal nomination of candidate for president and vice president within political parties.
+
+Political parties shall issue public notice of the matters related to its internal nominations and specify the hours, procedures, and eligibility of candidates and person qualified to vote within the political party in accordance with the provisions prescribed in Paragraph 1. Political parties shall submit the public notice of internal nomination matters to the Ministry of Interior for future reference within five days.
+
+#### Article 90
+
+Whoever intentionally disseminates rumors or spread falsehoods by text, picture, audio, video, speech, or by any other means for the intentional purpose of causing a candidate to be elected or to not be elected, or causing the recall of a person subject to recall to pass or to be rejected and thus causing harm to the public or others shall be sentenced to a fixed term of imprisonment of not more than five years.
+
+Whoever commits any offense in the preceding paragraph by disseminating, broadcasting or distributing by any other means deep-fake voice, image, or electronic recordings of candidates in the election, the primary persons who propose a recall, or persons subject to recall shall be sentenced to a fixed term of imprisonment of not more than seven years.
+
+The term of imprisonment shall be aggravated by a half for persons who commit any offense in the preceding two paragraphs for personal gain and a fine may be imposed of not less than NT$2 million and not more than NT$10 million.
+
+#### Article 90-1
+
+The heads of central and local government agencies at all levels, their agents, and persons under their instruction who violate Article 46 shall be sentenced to a fixed term of imprisonment of not more than three years.
+
+Persons who have received a final conviction and sentence for committing an offense specified in the preceding paragraph shall be responsible for expenses incurred by the agency to which they belong; if two or more persons jointly commit an offense specified in the preceding paragraph, they shall be jointly liable.
+
+#### Article 91
+
+Whoever violates Paragraph 2 of Article 59 or Paragraph 3 of Article 74, or who commits any act specified in any subparagraph of Paragraph 1 of Article 61 and who does not leave when ordered shall be sentenced to a fixed term of imprisonment or penal servitude of not more than two years, or shall be imposed a fine of not more than NT$200,000.
+
+#### Article 92
+
+If any of the following occurs during an election or recall, those present who aid or abet such actions shall be sentenced to a fixed term of imprisonment or penal servitude of not more than one year, or shall be imposed a fine of not more than NT$100,000; persons who plan or carry out the following shall be condemned to a fixed term of imprisonment of not more than five years:
+
+\1. A mob assembles and surrounds the government agency workplace, office, or residence of persons who have signed a joint-signature petition, are a prospective candidate by way of joint-signature petition, are subject to recall, are the proposed a recall, or agreed with a recall.
+
+\2. A mob assembles and uses violence, coercion or other illegal means to harm persons who have signed a joint-signature petition, are a prospective candidate by way of joint-signature petition, are a candidate, are subject to recall and are performing their duties, proposed a recall, or agreed with and are carrying out a recall
+
+#### Article 93
+
+Whoever removes their ballot for an election or recall from the polling station shall be sentenced to a fixed term of imprisonment or penal servitude of not more than one year or shall be imposed a fine of not more than NT$15,000.
+
+Whoever causes a disturbance or pressures others to vote or not vote within thirty meters of a polling station and who continue to do so after being warned by security personnel shall be sentenced to a fixed term of imprisonment or penal servitude of not more than one year, or shall be imposed a fine of not more than NT$15,000.
+
+#### Article 93-1
+
+Whoever violates any provision of Paragraph 3 of Article 61 shall be imposed a fine of not less than NT$30,000 and not more than NT$300,000.
+
+Whoever violates any provision of Paragraph 4 of Article 61 shall be sentenced to a fixed term of imprisonment of not more than five years and shall be imposed a fine of not more than NT$500,000.
+
+#### Article 94
+
+Whoever for the purpose of harming or disturbing voting or ballot counting withholds, destroys, conceals, replaces or seizes ballot boxes, ballots for an election or recall, the list of qualified voters, voting report forms, ballot counting report forms, ballot counting statistics, or markers used for voting shall be sentenced to a fixed term of imprisonment of not less than five years.
+
+#### Article 95
+
+(deleted)
+
+#### Article 96
+
+Whoever violates ate any provision of Article 42, Article 43, Paragraphs 1 or 3 of Article 48, or Article 72 shall be imposed a fine of not less than NT$100,000 and not more than NT$1 million.
+
+Broadcast television stations that violate Paragraphs 1, 2, or 3 of Article 46 shall be imposed a fine of not less than NT$200,000 and not more than NT$2 million.
+
+Whoever violates any provision of Paragraph 2 of Article 47 regarding the matters or contents to be specified in advertisements, or provisions of Paragraph 5 of Article 47-3 shall be imposed a fine of not less than NT$200,000 and not more than NT$2 million or twice the cost of the advertisement.
+
+Whoever violates any provision of Article 47-1 or Paragraphs 1 or 2 of Article 47-2 regarding the content and items of retained records of advertisements shall be imposed a fine of not less than NT$200,000 and not more than NT$10 million, or twice the cost of the advertisement.
+
+Whoever violates Paragraph 4 of Article 47-3 and who fails to stop broadcasting, restrict browsing, or remove or take down a website shall be imposed a fine of not less than NT$200,000 and not more than NT$10 million and shall be ordered to rectify the situation within a certain period of time. If the situation is not rectified within the specified period, the penalty shall be successively imposed.
+
+Penalties for persons who violate any provision of Article 50 or Article 52 shall be imposed in accordance with the following provisions; in addition, penalties for persons who violate Article 50 and refuse to desist shall be imposed successively:
+
+\1. Political parties, candidates, the primary person who proposed a recall, persons subject to recall, persons in their employ, or their agents: a fine of not less than NT$200,000 and not more than NT$2 million
+
+\2. Persons other than those mentioned in the preceding subparagraph: a fine of not less than NT$100,000 and not more than NT$1 million
+
+Agents or persons in the employ of candidates, the primary person who proposed a recall, or persons subject to recall who violate any provision of Article 42, Paragraphs 1 or 2 of Article 48, Article 50, or Article 52 shall be imposed a penalty alongside the candidate, primary person who proposed a recall, or person subject to recall.
+
+Political parties, juridical persons, and unincorporated associations that violate any provision of Paragraph 1 or 3 of Article 48 shall, in accordance with Paragraph 1, be imposed a penalty alongside their representative or agents; those that violate any provision of Article 50 or Article 52 shall, in accordance with Paragraph 6, be imposed a penalty alongside their representatives or agents.
+
+Whoever, in violation of Subparagraph 2 of Article 50,  commissions a campaign or recall advertisement to be disseminated by a newspaper, magazine, broadcast television station, internet service provider or other media provider, or who commissions a newspaper to disseminate promotional materials shall be imposed a penalty alongside the person who accepted the commission, in accordance with the provisions of Paragraph 6. If the commission was made or accepted by a political party, juridical person or unincorporated association, its representatives or agents shall be punished.
+
+Whoever places anything other than a ballot for election or recall into a voting box, or who intentionally tears up their ballot shall be imposed a fine of not less than NT$5,000 and not more than NT$50,000.
+
+#### Article 97
+
+Persons who surrender within three months of committing an offense prescribed in Paragraph 2 of Article 84 or Paragraph 1 of Article 143 of the Criminal Code shall not be subject to penalty; persons who surrender after the said three-month period shall have their penalty reduced or shall not be subject to penalty; persons who confess during an investigation or trial shall have their penalty reduced.
+
+Whoever maliciously implicates other people or fabricates details as part of the confession specified in the preceding paragraph shall be punished in accordance with the provisions governing false accusations in the Criminal Code.
+
+#### Article 98
+
+If a candidate recommended by a political party receives a final conviction and sentence for committing any offense prescribed in Articles 80 to 82, Paragraphs 1 or 2 of Article 84, Subparagraph 1 of Paragraph 1 of Article 85 or the attempt thereof, Paragraph 1 of Article 86, Subparagraph 1 of Paragraph 1 of Article 87, or Article 94, or for violating the Criminal Code by committing any offense prescribed in Article 142 or Articles 145 or 147, the recommending political party shall be imposed a fine of not less than NT$5 million and not more than NT$50 million. This shall also apply to persons who have been internally nominated by a political party and have received a final conviction and sentence for committing any offense prescribed in Paragraphs 1 or 2 of Article 84.
+
+If a candidate recommended by a political party targets another candidate or a person who has been internally nominated by a political party when violating the Criminal Code by committing any offense prescribed in Article 271, Article 277, Article 278, Article 302, Article 302-1, Article 304, Article 305 or Articles 346 to 348 or its special laws and has received a final conviction and sentence, they shall be punished in accordance with the provisions of the preceding paragraph.
+
+#### Article 99
+
+If an offense specified in this Chapter is prescribed a more severe penalty in other laws, such provisions shall apply.
+
+Workers handing election and recall affairs who make use of the power, opportunities, or manner of their position to intentionally commit any offense specified in this Chapter shall have their penalty increased by a half.
+
+Whoever commits any offense prescribed in this chapter or the offense of interference with voting prescribed in Chapter 6 of the Specific Offenses of the Criminal Code shall be sentenced to a fixed term of imprisonment and shall be deprived of their civil rights.
+
+#### Article 100
+
+For the election or recall of the president and vice president, the Prosecutor-General of the Supreme Prosecutors Office shall direct prosecutors at all levels to divide the area into districts to inspect and investigate, to actively report criminal cases that relate to the disruption of the election or recall, to accept accusations, complaints, and confessions made by government agencies, associations or individuals, to investigate immediately, and to handle all matters necessary for such cases.
+
+Prosecutors shall command the judicial police to conduct the investigation of the cases referenced in the preceding paragraph according to the provisions of the Code of Criminal Procedure and the Judicial Police Dispatching Act.
+
+#### Article 101
+
+The court hearing the case for an offense prescribed in this Chapter or the offense of interference with voting prescribed in Chapter 6 of the Special Offenses of the Criminal Code shall be concluded within six months.
+
+## Chapter 6 Election and Recall Lawsuits
+
+#### Article 102
+
+If a government agency handling election or recall violates the law and in doing so influences the result of the election or recall, prosecutors, candidates, the person subject to recall or the primary person who proposed the recall may, within fifteen days after the list of electees or the result of the recall is issued by public notice, file a lawsuit that challenges the validity of the said election or recall with a court with proper jurisdiction against the government agency handling the election or recall.
+
+#### Article 103
+
+If a lawsuit is filed that challenges the validity of an election or recall, and the court has made a final determination that the said election or recall is invalid, a date shall be determined for a new election or recall to be held; if the law was violated only in part of an election or recall, that part shall be invalid and a date shall be determined for a new vote to be held for the said invalidated part.
+
+#### Article 104
+
+Under any of the following circumstances, the government agency handling an election or recall, prosecutors, or candidates may, within sixty days after public notice of the list of electees is issued, file a lawsuit against an electee that challenges the validity of the election with a court with proper jurisdiction a court of proper jurisdiction:
+
+\1. The number of votes assigned to the electee is inaccurate to the point that the result of the election is likely to be affected.
+
+\2. The electee has used violence, coercion, or other illegal means to prevent other candidates, persons with the right to vote, or election workers from campaigning, freely exercising their right to vote, or performing their duty.
+
+\3. The electee has committed an act prescribed in this Act in Article 84, Paragraph 1 of Article 86, Subparagraph 1 of Paragraph 1 of Article 87, or Paragraph 1 of Article 90, or prescribed in the Criminal Code in Paragraph 1 or 2 of Article 146.
+
+A final determination that an election is invalid under any of the circumstances prescribed in the subparagraphs of the preceding paragraph shall not be affected by a verdict of not guilty for a criminal case related to the same matter.
+
+#### Article 105
+
+If any of the circumstances prescribed in the subparagraphs of Article 28 apply to an electee, the government agency handling the election or recall, prosecutors, or candidates may, prior to the expiration of the term of office of the electee, file a lawsuit against the electee that challenges the validity of the election with a court with proper jurisdiction.
+
+#### Article 106
+
+If a lawsuit was filed that challenges the validity of an election and the court has made a final determination that the said election is invalid, the election of the electee shall be invalid; such an electee who has already taken office shall be removed from office on the day of the said final determination.
+
+#### Article 107
+
+The determination that the election or the election of the electee is invalid shall not affect the actions taken by the original electee in the performance of their duty after taking office.
+
+#### Article 108
+
+Under any of the following circumstances, the election commission, prosecutors, the person subject to recall, or the primary person who proposed the recall may, within sixty days after public notice of the result of the election is issued, file a lawsuit against the primary person who proposed the recall or the person subject to recall that challenges the adoption or rejection of the recall proposal with a court with proper jurisdiction:
+
+\1. The number of votes for adoption or rejection is inaccurate to the point that the result is likely to be affected.
+
+\2. The person subject to recall or the person who proposed the recall has used assault, intimidation, or other illegal means to prevent persons with the right to vote or election workers from freely exercising their right to vote or perform their duty.
+
+\3. The person subject to recall or the person who proposed the recall has committed an act prescribed in Paragraph 1 of Article 146 of the Criminal Code.
+
+\4. The person subject to recall or the person who proposed the recall has committed an act prescribed in Paragraph 1 of Article 86 that is likely to affect the result of the vote.
+
+\5. The person subject to recall has committed an act prescribed in Subparagraph 3 of Paragraph 1 of Article 87.
+
+If a lawsuit challenges the rejection of a recall proposal and the court determines that the rejection is invalid, the rejection of the recall proposal shall be invalid, and a new vote shall be held at a specified time.
+
+If the adoption of the recall proposal is determined to be invalid, the person subject to recall shall resume their original position. This shall not apply to persons who cannot resume their original position.
+
+#### Article 109
+
+If a voter discovers any factor that shall render invalid an election, the election of a person, a recall, or the adoption or rejection of a recall proposal, they may, within seven days after public notice of the list of electees or the result of the recall is issued, report the matter and submit any material evidence of the said factor to prosecutors or the election commission.
+
+#### Article 110
+
+Lawsuits pertaining to election and recall shall be exclusively under the jurisdiction of the high court at the seat of the Central Government.
+
+#### Article 111
+
+An election court shall be formed to hear election and recall lawsuits by using a panel of judges, and such lawsuits shall be adjudicated before other lawsuits. Election and recall lawsuits shall be adjudicated conclusively in the second instance, and no lawsuit for retrial may be filed. Such cases shall be concluded by the accepting court within six months.
+
+When hearing election and recall lawsuits, the court shall use its power to investigate any necessary material evidence.
+
+#### Article 112
+
+Unless otherwise provided for in this Act, the Code of Civil Procedure shall apply mutatis mutandis to the legal process for election and recall lawsuits. This shall not apply to provisions governing the validity of abandonment, admission, confession during litigation, or no dispute of the facts in a lawsuit.
+
+## Chapter 7 Supplementary Provisions
+
+#### Article 113
+
+The fines prescribed in this Act and in Paragraph 1 of Article 14 of the Organized Crime Prevention act shall be imposed by the election commission.
+
+If a candidate or political party is notified of a fine specified in the preceding paragraph and fails to remit payment within the specified time frame, the election commission shall deduct the fine directly from the deposit specified in Article 31 that is paid by the candidate or political party, or from the subsidy specified in Article 41 that is apportioned to candidates and political parties for campaign expenditures.
+
+#### Article 114
+
+Within the period beginning the day candidate registration concludes and ending the day after election day, the National Security Bureau shall coordinate with relevant government agencies to ensure the safety of the candidates for president and vice president within the free area of the Republic of China. The National Security Bureau shall determine the regulations governing procedures for ensuring candidate safety.
+
+#### Article 115
+
+If public notice of an election has been issued or a recall proposal has been forwarded to the Central Election Commission before this Act is amended and enforced, the provisions in effect prior to the amendment shall apply.
+
+#### Article 116
+
+The rules of enforcement for this act shall be determined by the Ministry of the Interior in conjunction with the Central Election Commission.
+
+#### Article 117
+
+This Act shall come into force on the date of promulgation.
+
+The amended articles revised on May 5, 2006, came into force on July 1, 2006, while the amended articles revised on May 12, 2009, came into force on November 23, 2009.
+
+## History
+
+\1. The full text of 107 Articles enacted and promulgated by President Order Hua-Tsung-Yi-Yi-Tzu No.5889 on 9 August 1995
+
+\2. Amended and promulgated by President Order Hua-Tsung-Yi-Yi-Tzu No.0920020109 on 29 October 2003
+
+\3. Article 93-1 supplemented and Article 61 amended by President Order Hua-Tsung-Yi-Yi-Tzu No.09300063971 on 7 April 2004
+
+\4. Articles 11, 86, 89, and 117 amended and promulgated by President Order Hua-Tsung-Yi-Yi-Tzu No. 09500075911 on 30 May 2006
+
+\5. Article 55 amended and promulgated by President Order Hua -Tsung -Yi-Yi -Tzu No.09600102811 on 8 August 2007
+
+\6. Article 60 amended and promulgated and Article 63-1 supplemented by President Order Hua-Tsung-Yi-Yi-Tzu No. 09700002510 on January 16 2008
+
+\7. Article 11, 26 ,117 amended and promulgated by President Order Hua-Tsung (1) Yi-Tzu No.09800134391 on May 27 2009
+
+\8. Articles 40、84、86、87、89、93-1 amended and promulgated, and Article 37、39、83、95 deleted by President Order Hua-Tsung (1) Yi-Tzu No. 10600047261 on April 19 2017
+
+\9. Articles 57、116 amended and promulgated by President Order Hua-Tsung (1) Yi-Tzu No. 10700131031 on December 5 2018
+
+\10. Articles 14、53、61 amended and promulgated by President Order Hua-Tsung (1) Yi-Tzu No. 10900046691 on May 6 2020
+
+\11. Articles 100 amended and promulgated by President Order Hua-Tsung (1) Yi-Tzu No. 11000111431 on December 15 2021
+
+\12. The name of Chapter 4,Articles8 deleted,and the names Section 9 of Chapter 3,Article 5-1,23-1,46-1,47-1～47-3,55-1,88-1,90-1 supplemented and the names Chapter 3, the names Section 5 of Chapter 3,Articles 1,5,6,7,9,11,15,16,18,22,23,25～27,31,32,36,41,43～46,47,48～52,53～55,60,62,63,63-1,72,73,90,92,93-1,96,98,104,106,108,111,113 amended and promulgated by President Order Hua-Tsung (1) Yi-Tzu No. 1120050141 on June 9 2023.
+
+\13. Articles 26 amended and promulgated by President Order Hua-Tsung-I-Yi Tzu No. 11500078911 on August 19,2026.

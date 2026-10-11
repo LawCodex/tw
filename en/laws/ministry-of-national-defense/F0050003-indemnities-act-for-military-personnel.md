@@ -1,0 +1,441 @@
+---
+title: "Indemnities Act for Military Personnel"
+title_zh: "軍人撫卹條例"
+identifier: "F0050003"
+type: act
+law_level: "法律"
+category: "行政＞國防部＞保險撫卹目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1949-01-07
+last_amended: 2023-06-09
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=F0050003"
+retrieved: 2026-10-12
+---
+
+# Indemnities Act for Military Personnel
+
+> Translation. The Chinese text ([zh/laws/ministry-of-national-defense/F0050003-indemnities-act-for-military-personnel.md](../../../zh/laws/ministry-of-national-defense/F0050003-indemnities-act-for-military-personnel.md)) is authoritative.
+
+## Article 1
+
+The indemnity of the Military Personnel is based on this Act.
+
+## Article 2
+
+The Military Personnels mentioned in this Act refer to the Ranking Officers, Non Commissioned Officers, or Enlisted Soldiers of the Armed Forces.
+
+## Article 3
+
+For military personnel who are entitled to compensation in case of injury or death, the indemnity order and the compensation shall be issued and disbursed by the Ministry of National Defense, unless it is otherwise provided in this Act.
+
+The rules for paying military personnel compensations are as follows:
+
+1.In case of death: Death compensation will be paid with survivors of the deceased military personnel as the beneficiary.
+
+2.In case of disability: Disability compensation will be paid with the disabled military personnel as the beneficiary.
+
+## Article 4
+
+The sequence of the bereaved family members claiming the compensation is as follows:
+
+Subparagraph 1  Parents, spouses, children. But the spouses are limited only to those who are not remarried.
+
+Subparagraph 2  Grandparents, grandchildren, widowed daughter-in-laws and widower son-in-laws. But the widowed daughter-in-laws and widower son-in-laws are limited only to those who are not remarried.
+
+Subparagraph 3  Siblings (brothers and sisters): being limited only to those minors, or adults that are not able to support their own living due to disability.
+
+Subparagraph 4  Parents of the spouses, grandparents of the spouses, being limited only to those who are not supported by anybody.
+
+If more than one members of the bereaved family stated above are on the same sequence and are unable to compromise, the compensation will be equally divided; If someone gives up his/her rights or losing his /her rights of claiming the compensation due to the law, the compensation should be claimed by the remaining bereaved family members.
+
+## Article 5
+
+The types of death and casualty are as follows:
+
+\1. Die in combat.
+
+\2. Die while on duty.
+
+\3. Die due to illness or accident.
+
+\4. Become disabled in combat.
+
+5.Become disabled while on duty.
+
+6.Become disabled due to illness or accident.
+
+## Article 6
+
+Military personnel having one of the following situations are considered as “die in combat”:
+
+1.Die while executing a war mission.
+
+2.Die while executing a mission in enemy zone.
+
+3.Die while avoiding being captured or refusing to surrender after being captured.
+
+4.Die while executing a mission in an extraordinary incident.
+
+The disability resulting from any of the situations described in the preceding paragraph shall be considered as “become disabled in combat.”
+
+If a military personnel is hit by ammunition or weapon during a live-fire exercise, or attacked by mobs or thugs while taking the risk in executing a mission and dies or becomes disabled as a result, the military personnel is considered as “die or become disabled in combat.”
+
+## Article 7
+
+Military personnel having one of the following situations are considered as “die while on duty”:
+
+1.Die as a result of performing official duties.
+
+2.Die as a result of protecting public security or saving public property.
+
+3.Die as a result of performing relief operation in a public disaster.
+
+4.Die due to an accident or sudden onset of illness in a military camp.
+
+5.Die due to an accident or sudden onset of illness while traveling to or from a military camp and there is a causal relationship between the performance of duty and the accident or the sudden illness.
+
+6.Die as a result of danger or illness arising out of the official duty.
+
+7.Die as a result of unyielding diligence in the performance or work or overwork.
+
+The disability resulting from any of the situations described in the preceding paragraph shall be considered as “become disabled while on duty.” However it shall not apply to disability described in Subparagraph 4 or 5 of the preceding paragraph that is caused by chronic illnesses.
+
+## Article 8
+
+Military personnel who die of illness during active-duty service under a situation other than any of those described in Paragraph 1 of the preceding article are considered as “die of illness”; those who die as a result of an accident outside a military camp under a situation other than any of those described in Paragraph 1 of the preceding article are considered as “die of an accident.”
+
+Disability resulting from any of the situations described in the preceding paragraph is considered as “become disabled due to illness or accident.”
+
+A military personnel who commits suicide and dies while in active-duty service will be compensated as “die of illness.” However, military personnel who commit suicide related to a crime will not be entitled to any compensation.
+
+## Article 9
+
+The standard of indemnity for a death caused by an acute illness is as follows:
+
+Subparagraph 1  Those who were wounded in a battle and died within 3 years due to reoccurrence of the wound. will be compensated according to the indemnity standard of dying in a Battle; but if they died due to reoccurrence of the wound 3 years after they , will be compensated according to the indemnity standard of Dying while on Duty.
+
+Subparagraph 2  Those who were injured while on duty and died due to reoccurrence of the wound within 3 years, will be compensated according to the indemnity standard of Died while on Duty; But if they died over 3 years due to reoccurrence of the wound, will be compensated according to the indemnity standard of Died of sickness.
+
+Personnels who were wounded in a battle or while on duty, and died due to acute wounds when their Military Personnel identity of the Active Service no longer exist, will also be compensated according to the rules stated in the previous item. However those who have already received their retirements can no longer be compensated; For those receiving retirement pension or supporting funds will not be released of their annual compensation.
+
+not be entitled for an indemnity.
+
+Those personnels stated above will not be compensated 5 years later since they lose their identities Military Personnel.
+
+## Article 10
+
+Those who have missedmissing in action or while on duty for a year on the ground, and six months in the sea and on the air, and could not be located, will be compensated as dying in action or died while on duty.
+
+Missing Personnels, aside from those stated in the previous item, pronounced dead by the court, will be compensated as dying in an accident. However missing persons that are wanted for a case will not be compensated.
+
+After processing the indemnity for the previous two items, and found not dead, their dead indemnity orders should be cancelled, but the compensations that were released need not return. However for those tried to escape or not to report after they have returne, and keep on claiming the compensations, not only should they return the money they have received, they will also be investigated and punished according to the law, and those personnel who have neglected their duty will also be punished.
+
+## Article 11
+
+When a Military Personnel dies, he/she is entitled of one time compensation according to the following rules:
+
+Subparagraph 1  Dying in a battle: Those serving less  than 30 years one  counted as 30 years, and will be given 37.5 basic points. Serving for more than 30 years, those will be given 41.25 basic points.
+
+Subparagraph 2  Dying while on duty:Those serving less than 15 years is counted as 15 years, will be given 21.875 basic points. Serving for more than 15 years, will add 0.625 basic point for every exceeding year, for a maximum of 34.375 basic points. If it is less than 1 year, they will be given 0.052 basic point per month, Less than one month is counted as one month.
+
+Subparagraph 3  Dying of sickness or in an accident: Those serving less than 10 years are counted as 10 years, and will be given 15 basic points. Those serving for more than 10 years, will be added 0.5 basic point till every exceeding year, for a maximum of 27.5 basic points. If it is less than 1 year, they will be given 0.042 basic point per month. Less than one month is counted as one month.
+
+## Article 12
+
+Military Personnels who dies and have one of the following situations, should  be released  with one time additional basic points of compensation:
+
+Subparagraph 1-  Dying due to engaging in a battle or executing a special dangerous mission while on duty.
+
+Subparagraph 2-  Dying as a martyr or possessing a special achievement or being ordered for a commendation.
+
+Subparagraph 3-  Having an outstanding achievement because of a war or in the National Defense military constructions.
+
+The standard of an additional basic point for the one time compensation stated above is determined by the Executive Yuan.
+
+## Article 13
+
+When any military personnel dies, the military personnel will be compensated with a 5 base amounts of annual compensation. The rules for the duration of such compensation are as follows:
+
+Subparagraph (1)
+
+The military personnel who died in a battle, the compensation shall be paid for 20 years.
+
+Subparagraph (2)
+
+The military personnel who died in the line of duty, the compensation shall be paid for 15 years.
+
+Subparagraph (3)
+
+The military personnel who died of sickness or in an accident and had served less than 3 years, the compensation shall be paid for 3 years; if the military personnel had served 3 years, the compensation shall be paid for 4 years.
+
+Thereafter, the duration of compensation shall be increased by 1 year for every additional 2 years of service. If the additional service years are less than 2 years, the duration of compensation shall be increased by 1 month for every additional 2 months of service; if the additional service months are less than 2 months, it shall be counted as 2 months; the maximum duration of compensation is 12 years.
+
+If the surviving family members under Subparagraph (1) or (2) of the preceding paragraph are parents or spouse of the deceased, and the surviving family members under Subparagraph (3) of the preceding paragraph are the parents of an only son (daughter) or the spouse with no children, the annual compensation shall be paid for life.
+
+If the duration of annual compensation stated in the Paragraph (1) has expired, and the children claiming the compensation are still minor, the compensation may be extended until the children reach adulthood; or if the children claiming the compensation are adults but still in school and their school education is not interrupted; or if they are physically or mentally disabled and unable to earn a living, the compensation may be extended until they obtain a bachelor degree or the reasons for extended compensation cease to exist.
+
+If the children claiming the compensation under the preceding paragraph are minor, each minor child shall receive additionally monthly compensation in accordance with the old age basic guaranteed pension payment standards set forth in the National Pension Act until the children reach adulthood. For military personnel who died in a battle, in exercise training or in a disaster relief, each minor child shall receive additional compensation every month; the payment standards shall be prescribed by the Ministry of National Defense and submitted to the Executive Yuan for approval.
+
+The annual compensation approved before the amendment and enforcement this Act on January 1, 1997 shall still be processed in accordance with the provisions in effect when the military personnel died. However, if the surviving family members have a situation stated in Paragraph (2) or Paragraph (3), they may receive the compensation based on the original payment standard for life, or until they reach adulthood, or they obtain a bachelor degree or the reasons for extended compensation cease to exist.
+
+If the annual compensation received by surviving family members after the enforcement of the Act amended on May 23, 2023 is below the payment standard for Second Grade Staff Sergeant in Volunteered Service, the annual compensation shall be increased to make up the difference.
+
+## Article 14
+
+Personnels who are on an Air duty and submarine missions, and dies in a battle or while on duty, are entitled for an additional 7 basic points each tear to their annual compensations.
+
+The above stated personnel will not be released of one lump sum compensation stated in Subsection-1, Item-1 of Article-12.
+
+## Article 15
+
+After the death of a military personnel and before the bereaved family members receive the indemnity,they  can give up to apply for the one lump sum compensation and the annual compensation according to the rules stated in Artile-11 and Article-13, as they wish, and change the indemnity to a standard of giving 1.5 basic points for every year of serving in the Active Service and be release in one lump sum compensation, using the computation of the maximum of 35 years, with a total of 53 basic points, If it is less than 1 year, a basic point of 0.125 will be given for every one month. and if it is  less than one month, it is counted as one month. For those who have died after serving for 20 years,  if their bereaved family members are their parents, spouses, minor children or adult children who are mentally or physically disabled and not able to support their own living they can give up applying for the annual compensation according to the rules stated in Article -13,
+
+and change to receive 1/2 of Retirement Pension according to the regulations stated in the Arm Forces Ranking Officers Non Commissioned Officers Military Service Act.
+
+For military Personnels that have a situation stated in Article -6 or Article-7, if  their bereaved family members  chose to claim one lump sum compensation, an additional basic points resulted from the standard computations based on the rules stipulated in Subsection-1 or Subsection-2 of Article-11 and deduct Subsection-3, will be released; For those with a situation stated in Article -12, and additional one lump sum compensation will be released to the bereaved family members in accordance with that regulation.
+
+Bereaved family members of the deceased who are going to  claimed one lump sum compensation and the annual compensation according to Article -11 and Article-13, respectively, or have chosen to claim one lump sum compensation or 1/2 of the retirement pension according to the regulations in Item-1, should decide carefully when processing the application; otherwise, once the indemnity has been reviewed and approved by the Ministry of National Defense, it can not be changed.
+
+## Article 16
+
+The levels of disability are as follows:
+
+\1. Level 1 disability.
+
+\2. Level 2 disability.
+
+\3. Level 3 disability.
+
+\4. Severe functional disability.
+
+\5. Mild functional disability.
+
+If the disability condition of a military personnel worsened or a disabled military personnel is injured again after his/her level of disability has been determined as described in the preceding paragraph, the level of disability may be changed after re-examination.
+
+Those applying for re-examination to determine the level of disability according to the preceding paragraph shall be limited to active service military personnel. However if the disability of a military personnel is on record as “become disabled in combat or while on duty” and the disability condition worsened due to the same reason, the provisions of the preceding paragraph still apply within 5 years from the date the military personnel no longer has the status of active service military personnel.
+
+The standards for determining the level of disability described in Paragraph 1 hereof shall be prescribed by the Ministry of National Defense.
+
+## Article 17
+
+Military personnel who become disabled due to an injury will be compensated according to the following rules, starting from the date the disability level has been approved:
+
+1.Become disabled in combat:
+
+(1)Level 1 disability will be compensated with 5 base points per year for life.
+
+(2)Level 2 disability will be compensated with 4 base points per year for 10 years.
+
+(3)Level 3 disability will be compensated with 3 base points per year for 5 years.
+
+(4)Severe functional disability will be compensated one time with 4 base points; mild functional disability will be compensated one time with 3 base points.
+
+2.Become disabled while on duty:
+
+(1)Level 1 disability will be compensated with 4 base points per year for life.
+
+(2)Level 2 disability will be compensated with 3 base points per year for 10 years.
+
+(3)Level 3 disability will be compensated with 2 base points per year for 5 years.
+
+(4)Severe functional disability will be compensated one time with 3 base points; mild functional disability will be compensated one time with 2 base points.
+
+3.Become disabled due to illness or accident:
+
+(1)Level 1 disability will be compensated with 3 base points per year for 15 years.
+
+(2)Level 2 disability will be compensated with 2 base points per year for 8 years.
+
+(3)Level 3 disability will be compensated one time with 3 base points.
+
+(4)Severe functional disability will be compensated one time with 2 base points; mild functional disability will be compensated one time with 1 base point.
+
+For air crew and submarine crew who become disabled due to the reasons described in Subparagraph 1 or 2 of Paragraph 1 hereof while serving air or submerged mission, and are approved as having Level 3 disability or above, their annual compensation according to the subparagraphs of Paragraph 1 hereof will be added with 7 base points.
+
+After this Act is amended and enacted on March 29, 2011, disability indemnity will be disbursed in accordance with the standards enforced at the time compensation is actually claimed. For military personnel who receive living support allowance instead of compensation prior to the amendment of this Act, compensation will be disbursed according to the original standards.
+
+Personnel whose condition falls under Item (4) of Subparagraph 1, Item (4) of Subparagraph 2, Item (3) or (4) of Subparagraph 3 of Paragraph 1 hereof will not be issued an Indemnity Order.
+
+## Article 18
+
+Unless there are other regulations in this Act, otherwise the computation of the basic point regulated in this Act is based on double of the last basic salary of the Military Personnel. The annual compensation should be adjusted together with the basic salary of the existing Military Personnels of the same rank.
+
+## Article 19
+
+The methods of disbursing the indemnity are as follows:
+
+1.The one-time death compensation, one-time lump sum compensation and one-time disability compensation under this Act will be paid in one lump sum in accordance with the standards prevailing on the date of death or disability being recorded on the Wounded and Death report of the Ministry of National Defense.
+
+\2. The first annual compensation and disability compensation under this Act will be paid pro rata starting from the next month following the incident until December 31 of the same year.The annual compensation and disability compensation thereafter will be paid starting from January on a yearly basis until the end of the indemnity period. The beneficiary does not have the option to request such payment in advance or request a lump sum payment.
+
+When the survivors of a deceased military personnel claim death indemnity in accordance with Paragraph 2 of Article 10 herein, the compensation will be paid on the month the court declaration of death has been finalized.
+
+## Article 20
+
+The number of years of Military Service mentioned in this Article, unless there are other regulations instituted in this Act, otherwise the processing of the Retirement Separation Payment is base on the Armed Forces Ranking Officers Non Commissioned Officers Military Service Act and its Enforcement Regulations.
+
+If a Military Personnel was enlisted in a military service before the enforcement of the New Retirement Compensation Act of January 1st 1997 (hereinafter known as the Retirement Compensation New Act), and died after the enforcement, the number of years of service before and after the implementation are combined and calculated together. and  compensated will be released in accordance with the regulations of the Retirement Compensation New Act.
+
+The Indemnity cases filed before the enforcement of the Amendment of this Act are processed in accordance with the regulations before the enforcement of the Amendment.
+
+## Article 21
+
+The compensations for military personnel shall be paid from the Pension and Compensation Fund jointly set up and allocated by the government and the military personnel (referred to as the “PCF” hereunder), and the government performs the ultimate guarantee obligation for the payment of compensation. However, one-time death compensation and annual compensation paid in accordance with Article (11), and Paragraphs (1), (2) and (3) of Article (13) shall be paid from the PCF based on the years of service and pension contribution as a percentage of the approved years of compensation payment, while the rest shall be paid from the budget allocated by the competent authority which the military personnel belongs to. The annual compensation or one-time death compensation for the nonactive service military personnel under the Paragraph (2) of Article (9); the additional onetime death compensation under Article (12); the additional compensation under Paragraph (4) of Article (13), the annual compensation under Paragraph (5) of Article (13) and the additional annual compensation under Paragraph (6) of Article (13); the additional annual compensation under Article (14); the one-time death compensation under Paragraph (2) of Article (15); the disability compensation under Article (17), and the additional compensation under Article (23) shall be paid from the budget allocated by the competent authority which the military personnel belongs to.
+
+The allocation, management, and utilization of the PCF under the preceding paragraph shall be handled in accordance with the prevailing regulations.
+
+For deceased military personnel who are not qualified for compensations stated in this Act, their legal heirs may apply for the compensation from competent authority, and after the approval is granted by the competent authority, the case shall be forwarded to the Compensation Fund Management Board (referred to as the “Fund Management Board” hereunder) for refund of the retirement contributions previously made by the military personnel plus an interest calculated based on annual interest rate for savings account offered by the Bank of Taiwan.
+
+## Article 22
+
+The number of years of military service after the enforcement of the new stipulated retirement compensation of the volunteered military personnel who are entitled for a compensation stated in this Act, unless there are other regulations stipulated in this Act, otherwise it is calculated base on the actual number of months they have paid to the Retirement Compensation Fund. The number of years of service of those who have not paid to the Retirement Compensation Fund as required, or the number of years of service of those who have applied a refund of their payments, or those who have been paid of their Retirement Separations, can not be counted.
+
+The number of years of service that they are required to pay the retirement compensation fund of those volunteered military personnel who have previously served as Ministers with Portfolio, Civil Servants, Education Personnel of Public and Private Schools, after the enforcement of the newly instituted Retirement Compensation, should reallocate their payments for the fund (with interest), that have not been claimed, when they were transferred to serve as volunteers, before combining their number of yeas of service.
+
+The number of years of service of those volunteered military personnel who have previously served as Public Officials, Public Own Entity Personnel that allowed to be combined after the enforcement of the newly instituted Retirement Compensation, can apply for a make-up payment for the retirement compensation fund through their servicing organizations within 3 months starting from the day they were transferred to serve as Military Officers, those who have exceeded the 3 months limit, must add an overdue interest before combining their number of years of service.
+
+The required make up payments for the retirement compensation fund stated in the previous item, should be deposited into the retirement compensation fund's account with the total interest converted from the payment standard of the same rank of the same period's military personnel compared by the Fund's Management Organization according to the number of years of service, and grades.
+
+## Article 23
+
+The additional compensation derived from the negotiated compensation of the promoted rank (complimented) of the deceased Military Personnel is paid by the belonging organization from its allocated budget. However, if the approved compensation of his former rank is better, the compensation should be paid base on his former rank.
+
+## Article 24
+
+The basic point  of compensation payment for the Ranking Officers, Non Commissioned Officers, Enlisted Soldiers in a Mandatory Service, is calculated according to the standard of the same rank personnel in a Volunteered Service. However if the basic salary does not reach the standard of the Second Grade Sergeant in a Volunteered Service, the computation should be based on the standard of the Second Grade Sergeant.
+
+Personnels stated in the previous item who are not required to pay for the fund. If the dies and died during their military service, the required compensation funds will be paid by the belonging organization from the budget allocated for the funds.
+
+If the basic salary has not reach that of Second Grade Sergeant, is calculated according to the standard of the Second Grade Sergeant, the basic point of the compensation payment of the Non Commissioned Officers, and  Enlisted Soldiers in the Volunteered Service,
+
+## Article 25
+
+Those personnels who have received General, Temporary, Education, Duty or Inspection Mobilizations and dies after being mobilized into the camp, will be compensated  according to the regulations stipulated in the previous article.
+
+If the personnels mentioned above are employees of government organization, public schools or state  owned entity, they can only select and claim the compensation based on their civil servant's position or that of military personnel.
+
+## Article 26
+
+When a person with a military position is injured or dies, and his compensation is processed by other organization, the Ministry of National Defense will no longer negotiate for a compensation.
+
+## Article 27
+
+The review of injury/death compensation cases is done by the Ministry of National Defense. If necessary, the injury/death circular order can be released through the belonging organization.
+
+When the injured/death circular order mentioned above is released, and the beneficiary thinks that the approved kind of injured/death does not match, he/she can apply for review with the approving organization within 6 months starting from the next day the injured/death circular order is received.
+
+## Article 28
+
+For the purpose of carrying out the basic guidelines of self-reliant defense, this Act is enacted for combining abilities from the government and the private sectors to achieve the prior goal of domestic weapons and equipment research and development (R&D), production, manufacture and logistic support.
+
+The development of  Defense Industry shall be accorded to this Act. If the relevant provisions of other acts are more favorable than those set forth in this Act, the acts with favorable provisions shall prevail.
+
+## Article 29
+
+The right of claim for compensations and the unclaimed compensation shall not be used as an object of attachment, assignment, offset or provided as security.
+
+The recipients of compensation may open an account at a financial institution for the deposit of compensation. The funds in such an account may not be used as the object of attachment, offset and compulsory enforcement or provided as security.
+
+If there are circumstances where a recipient receives any compensation payment by making a false claim or receives excess payment, the paying or disbursing agency shall recover any amount it has verified as having been falsely claimed or received in excess without being subject to the restrictions referred to in preceding 2 paragraphs.
+
+## Article 30
+
+During the  period of an annual compensation being claimed, the rights that a beneficiary has are ruled in accordance with the relevant laws.
+
+## Article 31
+
+The beneficiary of a compensation who has one of the following situations will lose his/her rights of compensation claim:
+
+Subparagraph 1- Losing the citizenship of the Republic of China.
+
+Subparagraph 2- Confirmed to have committed treason, or intrusion crime, after the martial law was lifted.
+
+Subparagraph 3- Weing stripped off of his civil rights for life.
+
+Subparagraph 4- Death.
+
+Subparagraph 5- Spouse, widow or widower of the deceased remarries..
+
+## Article 32
+
+The rights, of claim for the compensation  of a beneficiary A compensation beneficiary who has been stripped off of his civil rights and has not been restored. will be stopped, until the reason had been abolished.
+
+## Article 33
+
+The rights to apply for pensions and to request payment of each instalment of the pension shall be extinguished if they are not exercised within ten years from the moment when the rights may be exercised. However, if such rights are not exercised due to force majeure, the limitation starts from the moment when the rights may be exercised.
+
+A person who cannot request or continue to request payment of the pension due to force majeure prescribed in the preceding Paragraph, unless otherwise prescribed in other laws, the rights to request or continue to request payment of the pension may be reserved and the pension will be released according to the standard of payment at the moment when actually requested.
+
+## Article 34
+
+The loss, stop or abolishmemt of duration of compensation rights stipulated in the above 3 articles, is limited only to the person himself, and the rights of other bereaved family members are not affected.
+
+## Article 35
+
+When a Ranking Officer, Non Commissioned Officer, Enlisted Soldier in a Volunteer Service dies due to sickness or in an accident, he/she will be compensated in accordance with this Act.
+
+## Article 36
+
+In order to take of the daily life of those personnels who fought with the national soldiers in Mainland China during the beginning period when Taiwan was recovered, the Ministry of National Defense can release compensations to them.
+
+The applicable areas, targets, release conditions, limitations, standard amount, regulations of claims and processing procedures of the compensation stated in the above item, are instituted by the Ministry of National Defense and submitted to the Executive Yuan for approval.
+
+## Article 37
+
+If a military personnel has any of the following situations, the agency the personnel belongs to should disburse assistance allowance in view of its annual budget and the personnel’s living conditions:
+
+1.A commissioned officer, non-commissioned officer or standing soldier in mandatory service who has suspended service due to an illness and becomes disabled or dies within 1 year from the date the service suspension takes effect due to the same reason.
+
+2.Any personnel who is called to active duty, discharged or relieved of call to active duty becomes ill, injured or dies on their way back home.
+
+\3. A cadet of a military school on government salary becomes ill, injured or dies.
+
+4.A personnel appointed or employed by the military to whom the Labor Standards Act does not apply becomes ill, injured or dies.
+
+5.The survivors of a military personnel in Taiwan who have made compensation claim according to this Act, disabled personnel or the surviving spouse of a military personnel who is determined by the Ministry of National Defense to have nobody to depend on.
+
+The assistance allowance items, applicable areas, targets, disbursement conditions and restrictions, standard amount, regulations regarding claims and processing procedures of the assistance allowance described in the preceding paragraph shall be proposed by the Ministry of National Defense together with relevant agencies and submitted to the Executive Yuan for approval.
+
+## Article 38
+
+Military personnels who die during their active service, should be compensated with a funeral supporting fund. The required funds are budgeted and paid by the belonging organization. The standard of payment is instituted by the Ministry of National Defense and submitted to the Executive Yuan for approval.
+
+## Article 39
+
+The Enforcement Regulations of this Act are instituted by the Ministry of National Defense.
+
+## Article 40
+
+This Act shall be put into practice from the date of promulgation.
+
+The amended Articles of this Act promulgated on June 3, 2009 was enforced on November 23, 2009; the amended articles promulgated on January 20, 2021 was enforced on January 1, 2023; the enforcement date for articles amended on May 23, 2023 shall be determined by the Executive Yuan.
+
+## History
+
+1.Promulgated on January 7, 1949
+
+2.Amended on May 11, 1967
+
+3.Amended on March 27, 1991
+
+4.Amended on October 2, 1996
+
+5.Amended on December 27, 2002
+
+6.Amended on June 03, 2009
+
+7.The amended Article 17 were promulgated by the Presidential Decree hua-zong-yi-yi-zi No. 10000067831 on 13 April 2011.
+
+8.Order No. 10500040031 of May 11, 2016 Revised publication of sections 7 and 33
+
+9.President of the Republic of China on May 22, 2019, President Hua Yi Yi Zi No. 10800050741 Order to amend clauses 3, 5 to 8, 16, 17, 19, 21, 29 and 37
+
+10.President Hua Zong Yi Zi No. 11000003601 of January 20th, 100th year of the Republic of China
+
+Amendment and promulgation of Articles 28 and 40; and shall come into force on January 1, 2012
+
+11.The amendment of Article (13), Article (21), and Article (40) of the Indemnities Act for Military Personnel is hereby promulgated on June 9, 2023

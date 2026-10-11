@@ -1,0 +1,219 @@
+---
+title: "Supplementary and Continuing Education Act"
+title_zh: "補習及進修教育法"
+identifier: "H0080002"
+type: act
+law_level: "法律"
+category: "行政＞教育部＞終身教育目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1944-10-07
+last_amended: 2017-06-14
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=H0080002"
+retrieved: 2026-10-12
+---
+
+# Supplementary and Continuing Education Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-education/H0080002-supplementary-and-continuing-education-act.md](../../../zh/laws/ministry-of-education/H0080002-supplementary-and-continuing-education-act.md)) is authoritative.
+
+## Article 1
+
+The mission of supplementary and continuing education shall be to supplement the citizens’ general knowledge about life, raise the level of educational attainment, disseminate practical skills, foster the development of sound citizenship, and spur social progress.
+
+## Article 2
+
+In this Act the term “education administration authority” refers to: the Ministry of Education in the central government; the government of the special municipality in the special municipality; the county（city）government in the county（city）.
+
+## Article 3
+
+Supplementary and continuing education can be categorized into three types: supplementary  compulsory education, continuing education, and short-term supplementary education; supplementary compulsory education is provided to those who are over the age of schooling and have not yet received nine years of compulsory education; those who have already received nine years of compulsory education may receive continuing education; and those who wish to improve their life skills may receive short-term supplementary education.
+
+## Article 4
+
+Supplementary compulsory education is implemented in the elementary schools and supplementary compulsory education schools attached to secondary schools. Supplementary compulsory schools are divided into junior and senior divisions. The junior division is equivalent to the first three grades of elementary school, and the duration of study ranges from six months to one year; the senior division is equivalent to the last three grades of elementary school, and the duration of study ranges from one year and a half to two years. The supplementary compulsory schools attached to secondary schools are equivalent to secondary schools, and the duration of study shall be no less than three years.
+
+## Article 5
+
+Continuing education is provided by schools above the senior high school level that have continuing education schools attached to them. There are three levels of such schools: supplementary advanced education schools affiliated with senior high schools and senior vocational schools; supplementary advanced education schools affiliated with junior colleges; and supplementary advanced education schools affiliated with universities. Supplementary advanced education schools at each level shall be affiliated only with schools in the same category and at the same level or above.
+
+The establishment of supplementary advanced education schools should be strengthened in remote areas.
+
+## Article 6
+
+Short-term supplementary education, provided by schools, institutions, organizations or private parties, is divided into two categories: non-academic short-term tutorial classes and academic short-term tutorial classes; the duration of study ranges from one month to one year and a half.
+
+## Article 7
+
+Supplementary compulsory education, and supplementary advanced education at the senior high school and senior vocational school levels, may be conducted in the form of in-situ supervision, on-site tutoring, or further study as needed; teachers’ qualifications, curricula and teaching materials, assessment of academic performance, duration of study, management of student registrations, awarding, revocation, or cancellation of certificates, and other related matters shall be implemented by the central education administration authority in conjunction with the relevant competent authorities.
+
+## Article 8
+
+Part-time supplementary advanced education, at the senior vocational school level, may be provided to junior high school graduates who do not continue their schooling, until such students reach the age of 18; the implementation method shall be prescribed by the central education administration authority.
+
+## Article 9
+
+The establishment, change, or closure of supplementary compulsory education school, supplementary advanced education school, or short-term tutorial center, shall be governed by the following provisions:
+
+\1. In the case of supplementary education schools affiliated with elementary and junior high schools, the approval of a designated educational authority at the appropriate level shall be required.
+
+\2. In the case of supplementary advanced education schools affiliated with senior high or senior vocational schools, the approval of the designated educational authority at the appropriate level shall be required.
+
+\3. In the case of supplementary advanced education schools affiliated with institutions of education at the level of junior college or higher, the approval of the central designated educational authority shall be required.
+
+\4. In the case of short-term tutorial centers, the approval of a designated educational authority in the appropriate special municipality, county, or county-level city shall be required. The central designated educational authority shall adopt regulations to provide for the following: the conditions and procedures for the establishment, amendment of registration, closure, and accreditation of such centers; their names, subject areas and curricula, and durations of study; their facilities and management; the eligibility requirements for their responsible persons, faculty, and staff; the standards for and method of collecting and refunding fees; the number of students per class and procedures for the protection of students’ rights; inspections, assessments, guidance, and awards for such centers; the conditions for revoking their establishment; and other matters for compliance. Related regulations for the management of such centers shall be adopted by the designated educational authority of the appropriate special municipality, county, or county-level city in accordance with the aforementioned regulations of the central designated authority.
+
+The protection of students’ rights and interests as stipulated in subparagraph 4 of the preceding paragraph includes that short-term tutorial centers shall enter into a written contract with students to specify their rights and obligations, and that the central educational administrative authority shall formulate a standard contract template to govern the format and content of the contract, as well as the matters required for and prohibited from inclusion in the written contract.
+
+When the name of a responsible person or a faculty or staff member is involved in the recruitment of students or in a written contract by a short-term tutorial center, or in any advertising or promotion of the center done using its premises, the media, or by any other means, the person’s real name shall be disclosed without exception, in addition to the registered name of the center, and no falsehood or misrepresentation is permitted. The same requirement shall apply to the person in charge and all staff members when they engage in work duties, external recruitment of students, or advertising.
+
+Before hiring or employing any faculty or staff member, a short-term tutorial center shall submit to the competent educational administrative authority of the special municipality, county（or city）basic information, including the relevant name list, diplomas and certificates documenting education and professional experiences, photocopies of identity documents, as well as a certificate of criminal record issued by the police within the last three months. If the faculty or staff member to be hired or employed is a foreign national, when initially applying for the work permit for the first time, the center shall also attach a certificate of good conduct certificate issued by the country of issuance of the foreign national’s passport. The competent educational administrative authority shall take the initiative to verify the documentation and may send personnel to conduct a check. The same procedure shall apply when there is any change to a faculty or staff member.
+
+The competent educational administrative authority of the special municipality or county（city）may send personnel bearing identification documents to enter the short-term tutorial center to inspect the conditions and procedures of its establishment, floors and area, facilities, equipment and management, service personnel, subject area programs and content, the method and standards for refunding fees, the number of students per class, and the protection of students’ rights and interests, and other compliance matters as prescribed under this Act and local government ordinances, and order the center to provide relevant information or documentary proof. The short-term tutorial center may not evade, impede or refuse such inspection.
+
+Teaching and non-teaching staff of short-term tutorial centers shall have their contract terminated or be dismissed from employment for any of the following reasons:
+
+\1. The person who has committed sexual assault, sexual harassment, or sexual exploitation, and whose sentence has been determined or whose case is wanted for prosecution.
+
+\2. The person has committed sexual assault, or has committed sexual harassment, sexual bullying, or conduct injurious to the rights and interests of a child or youth, of a serious nature and the circumstances have been investigated and verified by the competent educational authority of the special municipality or county（city）.
+
+\3. The person has committed sexual harassment, sexual bullying, or acts against the rights and interests of children and adolescents that were not of a serious nature, the competent educational administrative authority of the special municipality and county（or city）shall determine that it is necessary for the person to have the contract terminated or be dismissed from employment, and shall, in consideration of the circumstances of the case, prohibit the employment of the employees or dismissal from the center for a period of one to four years.
+
+If the person in charge of a short-term tutorial center has one of the cases described in the preceding paragraphs, the competent educational administrative authority of the special municipality or county（city）shall revoke the short-term tutorial center’s registration.
+
+A person to whom the circumstances set out in Paragraph 6, Subparagraphs 1 or 2, or in Article 14, Paragraph 1, Subparagraph 8 and 9 of the Teachers’ Act pertain is not permitted to serve as the person in charge of a short-term tutorial center or a faculty or other staff member. The same restriction applies to any person to whom the circumstances referred to in Paragraph 6, Subparagraph 3 or who has been involved in any case of sexual harassment or sexual bullying, as referred to in the latter part of Article 14, Paragraph 2 of the Teachers’ Act pertain, for a period of one to four years from the determination or resolution regarding the case.
+
+Before hiring or employing teaching and non-teaching staff, a short-term tutorial center shall carry out inquiries with the competent educational administrative authority in the special municipality, county（or city）to find out whether any of the circumstances referred to in the preceding paragraph have occurred.
+
+When a personnel member of the short-term tutorial center becomes aware in the course of carrying out their work duties that the person in charge or any faculty or staff member has been involved in circumstances referred to in any of the subparagraphs of Paragraph 6 toward a student, the staff member shall report the case to the competent educational administrative authority in the special municipality, county（or city）, in addition to filing any reports required in accordance with any other relevant laws and regulations.
+
+The central competent social welfare authority shall establish a database of persons who have been subject to a penalty imposed by the competent social welfare authority at any level, in accordance with the provisions of Article 20 of the Sexual Harassment Prevention Act or Article 97 of the Protection of Children and Youths Welfare and Rights Act, and shall assist the competent educational administrative authority in the special municipality, county（or city）to carry out relevant inquiries.
+
+Regulations governing the determinations, reporting, information collection, inquiries made before and during employment, information processing and use, and other matters relating to the circumstances referred to in Paragraph 6 and from Paragraph 8 to the preceding paragraph that has compliance requirements shall be formulated by the central educational administrative authority in consultation with other relevant competent authorities.
+
+If a short-term tutorial center violates any provision of Paragraphs 3 to 5, 9 or 10, the competent educational administrative authority in the special municipality, county（or city）shall impose an administrative fine of not less than NT$50,000 and not more than NT$250,000 on the person in charge of the short-term tutorial center, and may order the center to take corrective action within a prescribed time period. If the violation is not corrected within the prescribed time period, consecutive fines shall be imposed for each successive failure to correct the violation. When necessary, that competent authority may order the center to halt its recruitment of students, or revoke the short-term tutorial center’s registration.
+
+## Article 10
+
+Supplementary compulsory education schools and supplementary advanced education schools at all levels may conduct classes on a daily, non-daily, or weekend basis. Course content shall be designed to meet the educational requirements of the students and the needs of society.
+
+## Article 11
+
+The teaching subjects, the number of teaching hours（sessions）per week, curriculum standards, equipment standards, graduation requirements, and the rules governing practicum coursework for supplementary compulsory education schools and supplementary advanced education schools at all levels shall be prescribed by the central education administration authority.
+
+## Article 12
+
+Supplementary and continuing education may also be provided by correspondence, radio, television, computer network, etc., in addition to the regular teaching methods.
+
+## Article 13
+
+There shall be no restrictions on admission for supplementary education compulsory schools affiliated with elementary schools. Admission requirements for supplementary education compulsory schools affiliated with junior high schools, and for supplementary advanced education schools at all levels, shall be limited to requiring that entrants possess prescribed academic qualifications, or have passed an equivalency examination, or have attained an equivalent level of education.
+
+Enrollment in any supplementary education compulsory school or a supplementary advanced education school at all levels shall be done via entrance examination, recommendation and screening-based admission, registration and placement, distribution, or guaranteed enrollment, and the pertinent guidelines shall be adopted separately by each school.
+
+The central educational administrative authority shall prescribe the following particulars regarding the equivalency tests referred to in paragraph 1: the scope of the tests; the organization to administer the tests; the number of tests to be held each year, and the time of each test; the subjects to be tested; eligibility requirements; issuance, voidance, and revocation of certificates; and other related matters. The same authority shall also prescribe equivalency criteria.
+
+## Article 14
+
+When students of supplementary advanced education schools applying for deferred enrollment, whose application shall be processed in accordance with the Military Service Act and its related regulations.
+
+## Article 15
+
+Any student who completes, with passing grades, courses at a supplementary compulsory education school or a supplementary advanced education school which is affiliated with a senior high school or senior vocational school, the student shall be permitted to graduate, and shall receive a graduation certificate from the school. This certificate shall confer the same education level, as that attained by graduating from a [regular] school, in the same category and at the same level.
+
+Any student who completes with passing grades the prescribed course credits at a supplementary advanced education school at the level of junior college or higher shall be allowed to graduate, and shall receive a graduation certificate（or diploma）from the school. This graduation certificate（or diploma）shall confer the same status as that attained by graduating from a [regular] school in the same category and at the same level.
+
+## Article 16
+
+A student who, at any level of supplementary compulsory education school or supplementary advanced education school, completes the main coursework taught in the same grade level, in a [regular] school, in the same category and at the same level, and receives passing grades, may apply to transfer into an appropriate class at a regular school in the same category and at the same level. However, where admission is subject to age restrictions, these restrictions shall apply.
+
+## Article 17
+
+Supplementary compulsory education schools and supplementary advanced education schools at all levels shall have one principal, who shall take the overall responsibility for all school affairs. The principal of the [regular] school, with which a supplementary compulsory school or supplementary advanced education school is affiliated, may serve concurrently as principal of the affiliated supplementary school.
+
+Supplementary compulsory education schools and supplementary advanced education schools at each level shall have one assistant principal, who shall assist the principal in handling school affairs. The position of assistant principal shall be taken as a concurrent assignment by a person working full-time as an instructor at [the regular] school.
+
+Each supplementary compulsory education school and supplementary advanced education school at all levels shall prepare a staffing table in accordance with staffing standards adopted by the competent educational administrative authorities at each level.
+
+## Article 18
+
+Teachers of supplementary education compulsory schools and supplementary advanced education schools shall be hired by the school principal in accordance with the law. Administrative staff shall be hired via one of the following two procedures:（1）selected by the principal from among staff currently employed [at the regular school] to serve concurrently at the supplementary school; or（2）hired in accordance with acts governing the hiring of personnel.
+
+For supplementary compulsory education schools and supplementary advanced education schools at all levels, regulations governing [regular] schools in the same category and at the same level shall be applied in determining the qualifications, compensation, and benefits of teaching and administrative and staff.
+
+## Article 19
+
+Schools at the level of junior colleges（and above）may, based on their actual needs, establish their own supplementary advanced education courses equivalent to the level of coursework, select qualified students, and give them certificates of credits for each subject upon completion of the study and passing grades. When a student transfers into a school from another school at the same level, the school accepting the transfer student shall consider recognizing previously completed course credits where the names of the subjects and the number of credits for those subjects are the same in the department admitting the student as in the student’s previous school.
+
+## Article 20
+
+Schools at the level of junior colleges（and above）shall provide extension education programs for their departments and sections（groups）of a similar nature, to meet the needs of the community.
+
+## Article 21
+
+Supplementary compulsory education schools at all levels are exempted from tuition fees and are allowed to charge other fees as they deem appropriate; supplementary education schools at all levels are allowed to charge fees comparable to those charged by schools of the same level and of the same kind, and the standards of such fees shall be prescribed by the competent educational administrative authorities at each level; the fees charged by schools above the junior college level for the purpose of providing promotional education are subject to the approval of the competent central educational administrative authorities.
+
+## Article 22
+
+Private schools for supplementary education and continuing education shall be established and operated in accordance with the provisions of this Act. Where not provided for in this Act, they shall be governed by the Private Schools Act and other relevant laws and regulations
+
+## Article 23
+
+Short-term tutorial centers may recruit and admit foreign students; the conditions and methods of enrollment, management, and other matters to be observed shall be determined by the central competent educational authority in conjunction with the relevant competent authorities.
+
+## Article 24
+
+Where a party recruits and accepts students to attend a short-term tutorial center or a center similar to a short-term tutorial center without applying for accreditation in accordance with the law, the competent educational administration authority of the special municipality or county（city）shall order the center to close immediately and shall issue public notice of suspension of its operations; the equipment and facilities used shall be confiscated; and the person in charge shall be subject to a fine of not less than 50,000 and not more than 250,000 NT dollars; and the person who fails to stop the operation of the tutorial center despite the imposition of the fine may be subject to consecutive fines according to the number of days of the operation of the tutorial center.
+
+If the fines imposed in accordance with the preceding provisions are not paid by the due date, the fines shall be transferred to the competent educational administration authority of the special municipality or county（city）for compulsory enforcement.
+
+## Article 25
+
+If a short-term tutorial center is poorly operated, violates this Act or related regulations, or violates the conditions of its establishment permit, the competent educational authority of the special municipality or county（city）may, depending on the circumstances, impose the following penalties:
+
+\1. Rectification.
+
+\2. To rectify and improve the situation within a certain period of time.
+
+\3. Cease enrollment.
+
+4.Dismissal of the case.
+
+## Article 26
+
+Prior to the implementation of the amendments to this Act, schools established under this Act to provide independent supplementary and continuing shall follow the provisions applying to schools of the same level and category in handling registration updates and related matters.
+
+## Article 27
+
+The Enforcement Rules for this Act shall be determined by the central competent educational authority.
+
+## Article 28
+
+This Act shall enter into force from the date of promulgation.
+
+## History
+
+1.Promulgated on October 07, 1944
+
+2.Amended on July 12, 1976
+
+3.Amended on June 09, 1982
+
+4.Amended on January 15, 1997
+
+5.Amended on May 21, 1997
+
+6.Amended on June 16, 1999
+
+7.Amended on June 12, 2002
+
+8.Amended on July 10, 2002
+
+9.Amended on June 23, 2004
+
+10.Article 9 amended and promulgated per 30 January 2013 Presidential Order No. Hua-Zong-1- Yi- 10200017751
+
+11.Amendment on June 14, 2017. Presidential Order No. Hua-Zong-1-Yi-Zi 10600073311 promulgated 14 June 2017: Amendment of Article 9

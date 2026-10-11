@@ -1,0 +1,537 @@
+---
+title: "Resource Circulation Promotion Act"
+title_zh: "資源循環推動法"
+identifier: "O0050049"
+type: act
+law_level: "法律"
+category: "行政＞環境部＞資源循環目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2002-07-03
+last_amended: 2026-06-17
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0050049"
+retrieved: 2026-10-12
+---
+
+# Resource Circulation Promotion Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-environment/O0050049-resource-circulation-promotion-act.md](../../../zh/laws/ministry-of-environment/O0050049-resource-circulation-promotion-act.md)) is authoritative.
+
+## Chapter I General Principles
+
+#### Article 1
+
+This Act is specifically enacted to conserve natural resources, promote resource circulation, reduce the generation of waste, mitigate environmental burdens, and establish a circular society oriented toward sustainable development.
+
+#### Article 2
+
+The term “competent authority” in this Act refers to the Ministry of Environment at the central government level, the municipal government in special municipalities and the county or city government in counties or cities.
+
+#### Article 3
+
+The terms used in this Act are defined as follows:
+
+I. “Recycled resources” refers to materials that have lost their original usefulness, are economically and technologically feasible to circulate, and may be reused or recycled as announced or approved by this Act.
+
+II. “Circular utilization” refers to the act of reusing or recycling renewable resources.
+
+III. “Reuse” refers to the act of making direct, repeated use of renewable resources in their original form or using renewable resources after restoring some or all of their original functionality.
+
+IV. “Recycling” refers to the act of making renewable resources functional by altering the original form of materials, or combining them with other materials, so that they may serve as materials, fuel, fertilizers, animal feed, fillers, soil enhancers, or for other uses recognized by the relevant central industry competent authorities.
+
+V. “Enterprise” refers to companies, proprietorships, organizations, non-corporate bodies, and other entities as designated by the central competent authority, that are engaged in production, manufacturing, transportation, sales, education, research, training, engineering and construction or service activities.
+
+VI. “Recycled products” refers to a product made using at least a certain proportion of renewable resources as raw materials.
+
+#### Article 4
+
+Priority consideration shall be given to reducing waste generation during the use of materials to achieve resource sustainability insofar as is economically and technologically feasible. Priority consideration shall be given to the reuse, recycling, energy recovery, and appropriate disposal, in that order, of materials that have lost their original utility. However, methods that yield optimal overall environmental benefit based on lifecycle considerations shall not be subject to this restriction.
+
+#### Article 5
+
+Enterprises shall comply with the following principles when engaging in industrial activities in order to reduce resource consumption, control waste generation, and promote resource circulation:
+
+I. Employ cleaner production technology.
+
+II. Adopt necessary measures to reduce waste generation when using raw materials.
+
+III. After raw materials lose their original utility, enterprises shall implement circular utilization thereof on their own or provide such materials for circular utilization. Materials that cannot be circularly utilized shall be subject to energy recovery or appropriate disposal.
+
+IV. To prevent articles and containers from becoming waste, enterprises engaged in the manufacture and sales of articles or containers shall be responsible for increasing the usable life of such articles and containers and implementing repair services. Such enterprises shall also conduct product research, development, and design, and indicate the types of materials used, in a manner conducive to resource circulation.
+
+V. Online transaction platform service providers shall establish and implement relevant management mechanisms to encourage and guide enterprises or individuals using their platforms for transactions to implement packaging reduction and promote resource circulation.
+
+#### Article 6
+
+Citizens shall reduce the consumption of resources, suppress the generation of waste, extend the useful life of products to the greatest extent possible, and use products or services that promote circular utilization of resources.
+
+#### Article 7
+
+The competent authority and the industry competent authority may delegate to their subordinate agencies (institutions), entrust, or commission other agencies (institutions), legal persons, or organizations to handle matters prescribed under this Act, including inspection, review, promotion, training, guidance, evaluation, incentives, subsidies, and related research.
+
+#### Article 8
+
+The competent authority or the industry competent authority may dispatch personnel carrying identification documents to enter public or private premises to conduct inspections, as prescribed under this Act, regarding the manufacturing, importation, sales, and use of resource circulation-related products, items, packaging, and containers, as well as the provision of services and execution of construction work. Inspections may also cover the handling of recycled resources and the implementation of innovative experiments, or may order the provision of relevant information. The party subject to inspection shall not evade, obstruct, or refuse such inspection.
+
+For the purpose of conducting the inspections referred to in the preceding paragraph, the competent authority or the industry competent authority may request relevant agencies (institutions), legal persons, or organizations to provide assistance or furnish necessary information.
+
+## Chapter II Duties and Responsibilities of Government Authorities
+
+#### Article 9
+
+The relevant central authorities shall promote resource circulation, and the allocation of their respective powers and responsibilities shall be as follows:
+
+I. Resource circulation matters in the energy, manufacturing, and commercial sectors: administered by the Ministry of Economic Affairs; coordinated by the respective central industry competent authorities.
+
+II. Resource circulation matters in science parks: administered by the National Science and Technology Council; coordinated by the respective central industry competent authorities.
+
+III. Resource circulation matters in the transportation sector: administered by the Ministry of Transportation and Communications; coordinated by the respective central industry competent authorities.
+
+IV. Resource circulation matters in the agricultural sector: administered by the Ministry of Agriculture; coordinated by the respective central industry competent authorities.
+
+V. Resource circulation matters in the construction sector: administered by the Ministry of the Interior; coordinated by the respective central industry competent authorities.
+
+VI. Resource circulation matters in the engineering sector: administered by the respective central industry competent authorities for engineering; coordinated by the respective central industry competent authorities.
+
+VII. Resource circulation matters in the environmental sector: administered by the Ministry of Environment; coordinated by the respective central industry competent authorities.
+
+VIII. Resource circulation matters in the green finance sector: administered by the Financial Supervisory Commission and the Ministry of Environment; coordinated by the respective central industry competent authorities.
+
+IX. Technological research and development and promotion matters relating to resource circulation: administered by the National Science and Technology Council and the Ministry of Environment; coordinated by the respective central industry competent authorities.
+
+X. Resource circulation matters in the health and welfare sector: administered by the Ministry of Health and Welfare; coordinated by the respective central industry competent authorities.
+
+XI. Other resource circulation matters: designated by the Executive Yuan upon submission by the central competent authority.
+
+#### Article 10
+
+The industry competent authority shall provide guidance to enterprises in planning and introducing source reduction and resource circulation promotion mechanisms, and shall cultivate talent for research and development in resource circulation technologies and promote education and outreach.
+
+#### Article 11
+
+The central competent authority shall, based on the national environmental conditions and resource circulation objectives, and with reference to international developments, domestic circumstances, and the division of responsibilities set forth in Article 9, in consultation with the central industry competent authorities, formulate a National Resource Circulation Plan (hereinafter referred to as the “Circulation Plan”). The Circulation Plan shall be submitted to the Executive Yuan for approval, implemented accordingly, made publicly available, and reviewed at least once every five years.
+
+The central competent authority and the central industry competent authorities shall promote resource circulation in accordance with the Circulation Plan set forth in the preceding paragraph. The central competent authority shall consolidate the implementation status of each central industry competent authority and prepare an annual Resource Circulation Implementation Report, which shall be submitted to the Executive Yuan for approval prior to being made publicly available.
+
+The special municipality, county or city competent authority shall formulate a Resource Circulation Action Plan (hereinafter referred to as the “Action Plan”) in accordance with the Circulation Plan referred to in Paragraph 1. The Action Plan shall be submitted to the central competent authority for approval, implemented accordingly, made publicly available, and reviewed at least once every five years.
+
+The special municipality, county or city competent authority shall prepare an annual report on the implementation of the Action Plan, which shall be made publicly available.
+
+#### Article 12
+
+For the purpose of exercising the authority set forth in Paragraphs 1 through 3 of the preceding article, the central competent authority shall establish a Resource Circulation Promotion Council (hereinafter referred to as the “Promotion Council”), which shall be responsible for convening and supervising relevant ministries and agencies in conducting deliberation, coordination, assessment, integration, formulation, and promotion of the resource circulation policies and measures referred to in the preceding article.
+
+The Promotion Council shall have one convener, to be concurrently served by the Minister of Environment. The term of office for members shall be two years. Members shall consist of representatives from relevant government agencies, scholars, experts, and environmental protection organizations. Representatives from government agencies shall be officials at the deputy-head level or above. Scholars, experts, and representatives of environmental protection organizations shall account for no less than one-half of the total membership, and representatives of environmental protection organizations shall account for no less than one-fourth of the total membership of the Promotion Council.
+
+Minutes of meetings of the Promotion Council shall be made publicly available, provided, however, that matters involving state secrets or trade secrets shall not be subject to such requirement.
+
+## Chapter III Circulation and Sustainable Management
+
+### Section 1 Eco-design
+
+#### Article 13
+
+To enhance the sustainability of products and construction work, improve resource-use efficiency, and extend service life, the central competent authority shall formulate eco-design principles for products and construction work, which shall include the following elements:
+
+I. Use of single materials or materials that are easily decomposable, dismantlable, or conducive to resource circulation.
+
+II. Use of a specified ratio or quantity of recycled aggregates or materials.
+
+III. Ease of repair, upgradability, or enhanced durability.
+
+IV. Prohibition or restriction on the use of environmentally hazardous substances.
+
+V. On-site sorting at source in construction work to reduce waste generation.
+
+VI. Other designs that conserve energy and resource consumption and reduce waste throughout the life cycle.
+
+The central competent authority shall prescribe eco-design regulations with respect to the contents, items, and other related matters of the eco-design principles referred to in the preceding paragraph.
+
+The central industry competent authorities shall, in accordance with the eco-design principles set forth in Paragraph 1, review the relevant laws and regulations under their respective jurisdictions and provide guidance to enterprises for compliance therewith.
+
+#### Article 14
+
+Where the central competent authority designates and publicly announces that certain categories or scales of products shall comply with designated items under the eco-design regulations, the manufacturers and importers of such products shall, within the period prescribed in the public announcement, submit product eco-design documentation to the central competent authority to apply for approval of compliance with the eco-design regulations and issuance of a Circular Label.
+
+For products not subject to the designation and public announcement referred to in the preceding paragraph, manufacturers and importers thereof may voluntarily comply with the eco-design regulations and submit product eco-design documentation to the central competent authority to apply for approval of compliance with the eco-design regulations and issuance of a Circular Label.
+
+Where products designated and publicly announced pursuant to Paragraph 1 are required to use a specified ratio or quantity of recycled aggregates or recycled materials, the manufacturers and importers thereof shall submit data including the sources of recycled aggregates or recycled materials, total amount used, product output, and sales volume, which shall be verified through a verification method or by a verification institution recognized by the central competent authority before being submitted to the central competent authority for recordation.
+
+Regulations governing the application procedures under Paragraphs 1 and 2, performance specifications and evaluation and verification mechanisms for eco-design regulations, principle items to be complied with, required contents of product eco-design documentation, review procedures, labels, approved matters, modifications, inspections, random sampling inspections, revocation, submission of data for recordation referred to in the preceding paragraph, and other compliance matters shall be prescribed by the central competent authority.
+
+#### Article 15
+
+The central competent authority may designate and publicly announce construction work of a certain scale for which the project executing agency of a construction project or the project initiator shall comply with the designated items under the eco-design regulations during the planning, design, and construction stages.
+
+Each central industry competent authority for engineering shall, in accordance with the designated items referred to in the preceding paragraph, review the relevant provisions concerning construction design, construction techniques, and operational standards for construction work.
+
+### Section 2 Source Reduction
+
+#### Article 16
+
+The central competent authority may designate and publicly announce targets and methods for the reuse of articles or their packaging and containers. Manufacturers, importers, or sellers thereof shall, within the period prescribed in the public announcement, submit a reuse plan to the central competent authority for approval and shall submit implementation results to the central competent authority for recordation.
+
+For articles or their packaging and containers not subject to the designation and public announcement referred to in the preceding paragraph, manufacturers, importers, or sellers thereof may voluntarily submit a reuse plan to the central competent authority for approval and submit implementation results to the central competent authority for recordation.
+
+Regulations governing the required particulars to be included in the reuse plan referred to in the preceding two paragraphs, required application documents, review procedures, approved matters, administration, modifications, revocation, submission of implementation results for recordation, and other compliance matters shall be prescribed by the central competent authority.
+
+#### Article 17
+
+The central competent authority may designate and publicly announce targets and methods for the reduction of articles or their packaging and containers. Designated enterprises shall, within the period prescribed in the public announcement, submit a reduction plan to the central competent authority for approval and shall submit implementation results to the central competent authority for recordation.
+
+For articles or their packaging and containers not subject to the designation and public announcement referred to in the preceding paragraph, manufacturers, importers, or sellers thereof may voluntarily submit a reduction plan to the central competent authority for approval and submit implementation results to the central competent authority for recordation.
+
+Regulations governing the required particulars to be included in the reduction plan referred to in the preceding two paragraphs, required application documents, review procedures, approved matters, administration, modifications, revocation, submission of implementation results for recordation, and other compliance matters shall be prescribed by the central competent authority.
+
+#### Article 18
+
+Where any article or its packaging or container falls under any of the following circumstances, the central competent authority may prohibit or restrict its manufacture, import, sale, or use; enterprises engaged in the manufacture, import, sale, or use thereof that are subject to such restrictions shall regularly submit relevant data on business volume, production volume, import volume, sales volume and sales recipients, usage volume, and sources of raw material supply to the central competent authority for recordation:
+
+I. Excessive consumption of energy or resources
+
+II. Containing components that are not readily biodegradable over the long term
+
+III. Containing hazardous substances
+
+IV. Likely to present difficulties in recycling or interfere with recycling systems
+
+V. Likely to cause serious environmental pollution
+
+The methods and scope of prohibitions or restrictions applicable to the articles or their packaging or containers referred to in the preceding paragraph, the determination criteria for the circumstances set forth in each subparagraph, submission of data for recordation, and other compliance matters shall be publicly announced by the central competent authority.
+
+The special municipality, county or city competent authority may, based on differing environmental governance conditions, prescribe self-government ordinances or control measures more stringent than the public announcements referred to in the preceding paragraph, with respect to the regulated entities, regulated items, implementation periods, reduction measures, or methods restricting the use of articles or their packaging or containers, and shall submit the same to the central competent authority for approval.
+
+Where any article or its packaging or container fails to conform to the public announcements referred to in Paragraph 2, or where the self-government ordinances or control measures referred to in the preceding paragraph apply, the special municipality, county or city competent authority may order the manufacturer, importer, seller, or enterprise using the product to remove the product from shelves, destroy it, re-export it, or take other appropriate actions.
+
+#### Article 19
+
+The central competent authority may designate and publicly announce reduction targets, spatial ratios, number of layers, and the types and quantities of materials used in the transport or retail packaging of designated articles. Manufacturers, transport operators, and sellers thereof shall comply with the matters specified in such public announcements.
+
+The enterprises referred to in the preceding paragraph shall submit reports on reduction implementation results to the central competent authority for recordation. The procedures for recordation, methods and deadlines for submission of reduction implementation reports, the required particulars to be included therein, and other compliance matters shall be publicly announced by the central competent authority.
+
+Where importers import articles designated and publicly announced pursuant to Paragraph 1, the packaging used at the time of sale of such articles shall comply with the provisions set forth in such public announcements.
+
+#### Article 20
+
+The central competent authority may designate and publicly announce objectives and methods for the extended use of designated articles. Enterprises engaged in the manufacture, import, or sale of such articles shall implement the designated methods set forth below and establish the necessary facilities. Implementation results thereof shall be submitted to the central competent authority for recordation:
+
+I. Provision of collection services for used articles
+
+II. Refill and reuse
+
+III. Provision of rental, deposit refund, or buy-back services
+
+IV. Provision of repair services and establishment of repair stations
+
+V. Provision of a specified warranty period
+
+VI. Other methods approved by the central competent authority
+
+Regulations governing the methods for establishment of necessary facilities referred to in the preceding paragraph, submission of implementation results for recordation regarding extended use of articles, and other compliance matters shall be prescribed by the central competent authority.
+
+### Section 3 Sustainable Consumption
+
+#### Article 21
+
+Enterprises that manufacture, import, sell, or provide the following products or services may apply to the central competent authority for approval to use the Circular Label and shall use the Circular Label on their products, packaging, or service locations in accordance with the approved conditions:
+
+I. Circular products: Products that promote resource circulation by incorporating materials conducive to resource circulation, a specified proportion of recycled materials, or conformity with the eco-design regulations.
+
+II. Circular services: Services that promote resource circulation by enabling the reuse or extended use of articles or their packaging and containers.
+
+Regulations governing the application conditions for the use of the Circular Label referred to in the preceding paragraph, required documents, review procedures, approved matters, administration of use and labeling, modifications, inspections, random sampling inspections, revocation, and other compliance matters shall be prescribed by the central competent authority.
+
+Enterprises engaged in the manufacture, import, sale, or provision of products or services that have not been approved by the central competent authority for the use of the Circular Label shall not unauthorizedly use, alter, or improperly use the Circular Label referred to in Paragraph 1.
+
+#### Article 22
+
+The central competent authority may designate and publicly announce certain articles or their packaging or containers for which manufacturers, importers, or sellers shall disclose and label the following information in accordance with the deadlines and methods specified in such public announcements:
+
+I. The materials used, including the percentage of recycled materials (including recycled aggregates)
+
+II. The packaging materials and their weight
+
+III. Repairability, durability, and methods of repair
+
+IV. Methods of recycling, disassembly, and reuse
+
+V. Recycling classification labels
+
+VI. Where a unique product identification code is used, enterprises shall dynamically update traceability and quality verification information.
+
+VII. Other matters designated by the central competent authority.
+
+For articles or their packaging or containers not designated and publicly announced under the preceding paragraph, manufacturers, importers, or sellers thereof may voluntarily disclose and label the information set forth in each subparagraph of the preceding paragraph.
+
+Regulations governing the methods for calculating information relating to the articles or their packaging or containers referred to in the preceding two paragraphs, assessment methods for repairability and durability, label designs, contents and methods of disclosure and labeling, management, and other compliance matters shall be prescribed by the central competent authority.
+
+#### Article 23
+
+Enterprises engaged in the manufacture, import, or sale of products, or the provision of services, may apply to the central competent authority for the right to use the Eco-label. Enterprises that pass the review conducted by the central competent authority and are issued certificates therefor shall affix the Eco-label to their products, packaging, or service locations.
+
+Enterprises that obtain the right to use the Eco-label pursuant to the preceding paragraph shall submit to the central competent authority for recordation, information concerning the use of the Eco-label, product output, sales volume, and other relevant information. Where necessary, the central competent authority may conduct random sampling inspections of products.
+
+Regulations governing the application conditions for the right to use the Eco-label referred to in the preceding two paragraphs, required documents, review procedures, classification, labeling, use, administration, modifications, inspections, random sampling inspections, revocation, submission of information, and other compliance matters shall be prescribed by the central competent authority.
+
+#### Article 24
+
+Enterprises that have not obtained the right to use the Eco-label, and are engaged in the manufacture, import, sale, or provision of services, shall not engage in any of the following acts:
+
+I. Unauthorized use of the Eco-label on products, packaging, or any other documents or information accessible to consumers.
+
+II. Unauthorized use of the Eco-label, certificates, certificate numbers, or related wording for labeling, promotion, advertising, or any other public representations.
+
+III. Alteration or falsification of Eco-label certificates or label designs.
+
+IV. Any other acts deemed by the central competent authority to constitute improper use of the Eco-label.
+
+## Chapter IV Operational Management of Recycled Resources
+
+#### Article 25
+
+The central competent authority shall publicly announce the categories of recycled resources eligible for reuse.
+
+Regulations governing the collection, transport, and storage methods, facility standards, reuse standards, record-keeping, administration, and other compliance matters concerning the reuse of recycled resources shall be prescribed by the central competent authority.
+
+The central industry competent authority shall publicly announce the categories of recycled resources eligible for recycling.
+
+Regulations governing the collection, transport, and storage methods, facility standards, recycling standards, record-keeping, administration, and other compliance matters concerning the recycling of recycled resources shall be prescribed by the central industry competent authority.
+
+For items not publicly announced as recycled resources, enterprises may submit reuse or recycling plans and apply to the central competent authority or the central industry competent authority, respectively, for approval as recycled resource items.
+
+The required particulars to be included in the reuse or recycling plans referred to in the preceding paragraph shall be publicly announced by the central competent authority or the central industry competent authority, respectively.
+
+#### Article 26
+
+Where recycled resources consist of discarded articles, packaging, or containers, the central competent authority may designate the manufacturers, importers, sellers, or using enterprises thereof to jointly establish or join an existing Producer Responsibility Organization (hereinafter referred to as a “PRO”) to assume the financial and operational responsibilities for the collection, clearance, and circular utilization of such recycled resources.
+
+The central competent authority may designate that the PRO referred to in the preceding paragraph shall, in accordance with designated circular utilization targets, methods, and necessary facilities, formulate a circular utilization plan and submit such plan to the central competent authority for review within the prescribed time period, and shall implement the plan in accordance with the approval granted by the central competent authority.
+
+The PRO shall regularly report the status of circular utilization in accordance with the data transmission methods designated by the central competent authority.
+
+The circular utilization targets, methods, and facility establishment requirements to be complied with by the PRO referred to in Paragraph 2, the required contents of the circular utilization plan, and the reporting methods and frequency referred to in the preceding paragraph shall be prescribed by the central competent authority.
+
+Where recycled resources consist of articles, packaging, or containers generated from business activities, the review and approval of the circular utilization plan referred to in Paragraph 2, as well as the supervision and evaluation of the implementation status of such plan, shall be conducted by the central industry competent authority.
+
+#### Article 27
+
+Recycled products shall comply with national standards. Where no national standards exist, the central industry competent authority may publicly announce the applicable standards.
+
+The assistance and incentive measures set forth in Chapter 5 shall not apply to recycled products that fail to comply with the standards referred to in the preceding paragraph.
+
+#### Article 28
+
+To effectively facilitate the circular utilization of domestic recycled resources, the central competent authority may restrict or prohibit the import or export of recycled resources. Where the import or export of recycled resources is subject to restriction, such import or export shall not be conducted unless a permit has been obtained from the special municipality, county or city competent authority.
+
+Regulations governing the restriction or prohibition on the import or export of recycled resources referred to in the preceding paragraph, as well as the qualifications for permit applications, required documents, review procedures, permit matters, permit validity periods, revocation, and other compliance requirements, shall be prescribed by the central competent authority.
+
+#### Article 29
+
+Enterprises designated and publicly announced by the central competent authority shall, in accordance with the format, items, content, and frequency prescribed by the central competent authority, report to the central competent authority, via electronic transmission over the Internet, the status of the generation, storage, collection and transport, reuse, recycling, import, export, transit, or transshipment of recycled resources. However, where approval is granted by the central competent authority, reporting may be made by means other than Internet transmission.
+
+#### Article 30
+
+Recycled resources that are not circularly utilized in accordance with applicable regulations shall be deemed waste and shall be recycled, cleared, and disposed of in accordance with the Waste Disposal Act.
+
+Where recycled resources can no longer be reused or recycled, they shall be cleared and disposed of in accordance with the Waste Disposal Act.
+
+#### Article 31
+
+Where recycled resources are deemed as waste and publicly announced as such pursuant to the Waste Disposal Act, the collection, storage, and payment of recycling, clearance, and disposal fees thereof shall be governed by the Waste Disposal Act.
+
+## Chapter V Assistance and Incentive Measures
+
+#### Article 32
+
+Government agencies, public schools, state-owned enterprises or institutions, military entities, and non-departmental public bodies shall give priority to the procurement of the following products or services, and the central competent authority shall conduct performance evaluations on such procurement:
+
+I. Eco-label products
+
+II. Circular products or circular services approved for the use of the Circular Label pursuant to Article 21
+
+III. Other environmentally preferable products and products or services with green attributes
+
+Regulations governing the categories of products or services subject to prioritized procurement under the preceding paragraph, performance evaluation operations, and other related matters shall be prescribed by the central competent authority.
+
+The competent authority and each industry competent authority shall conduct education and outreach activities relating to technologies for product recycling and extended use, as well as prioritized procurement of the products or services referred to in Paragraph 1.
+
+Where private enterprises or organizations give priority to the procurement of the products or services referred to in Paragraph 1 and demonstrate outstanding performance, the central competent authority may grant awards or incentives.
+
+#### Article 33
+
+To promote resource circulation, where an enterprise voluntarily provides services relating to source reduction, reuse, extended use, or other services conducive to resource circulation with respect to articles or their packaging or containers, and demonstrates outstanding performance, the central competent authority may grant awards or subsidies.
+
+#### Article 34
+
+Where enterprises or individuals demonstrate outstanding performance in the development of technologies, talent cultivation, practical implementation, and management relating to eco-design, source reduction, sustainable consumption, reuse, or recycling, the central competent authority may grant awards or subsidies.
+
+To promote the development of the resource circulation industry, expenditures incurred by enterprises for research and development, talent cultivation, and equipment procurement relating to circular utilization and circular sustainability management may be eligible for tax incentives or tax reductions and exemptions in accordance with relevant tax laws, the Statute for Industrial Innovation, or other applicable laws.
+
+The competent authority may, in consideration of the needs of remote areas, Indigenous regions, and offshore islands, formulate guidance or subsidy plans.
+
+Regulations governing the conditions, methods, review procedures, revocation, and other related matters concerning the awards or subsidies under Paragraph 1 of this Article, Paragraph 4 of Article 32, and the preceding Article shall be prescribed by the central competent authority.
+
+#### Article 35
+
+The central competent authority may coordinate with relevant authorities, financial institutions, and credit guarantee institutions to accord priority in providing financing channels and credit guarantees to enterprises investing in various resource circulation measures under this Act.
+
+#### Article 36
+
+To promote resource circulation, attract technologies and talents, and encourage the research, innovation, and development of domestic environmental protection industry technologies, the competent authority or the industry competent authority may, in accordance with the land demands of resource circulation industries in various regions, plan and establish dedicated zones for environmental science and technology or resource circulation.
+
+Where the dedicated zones and land for environmental science and technology or resource circulation referred to in the preceding paragraph involve amendments to urban planning, the competent authority may prepare a feasibility planning report and, jointly with the urban planning competent authority, process such amendments pursuant to Article 27 of the Urban Planning Act. Where non-urban land use is involved, the competent authority shall process the matter in accordance with the relevant provisions of the Spatial Planning Act and the Regional Planning Act.
+
+Where the dedicated zones and land referred to in the preceding paragraph have been approved for amendment or use by the competent authorities for urban planning, spatial planning, or regional planning, and such land is publicly owned, they may be allocated or leased to developers and shall not be subject to the restrictions prescribed in Article 25 of the Land Act.
+
+Where the dedicated zones and land referred to in Paragraph 2 are no longer used for purposes of environmental science and technology or resource circulation, the competent authority or the industry competent authority may notify the land administration authority to terminate the lease, and shall also notify the competent authorities for urban planning, spatial planning, and regional planning to process the matter in accordance with the Urban Planning Act, the Spatial Planning Act, and the Regional Planning Act.
+
+When planning and developing industrial parks, the competent authority may, based on the land demands for resource circulation in the area, require industrial park developers to reserve land for resource circulation purposes.
+
+#### Article 37
+
+For the purpose of promoting the development of resource circulation technologies or digital governance technologies, an enterprise may submit a Resource Circulation Innovative Experiment Plan to the central competent authority for approval to conduct a resource circulation innovative experiment, and shall submit the implementation results to the central competent authority for recordation.
+
+When reviewing an Innovative Experiment Plan, the central competent authority shall take into consideration its innovativeness, necessity, feasibility, risk control measures, and environmental impacts. The central competent authority may, upon approving the Innovative Experiment Plan, impose ancillary conditions relating to the experimental period, scope, scale, methods, monitoring, reporting, return of awards or subsidies, improvement within a specified period, suspension of the experiment, revocation of approval, and other ancillary conditions, all of which shall be incorporated into the approved matters. The enterprise shall implement the experiment in accordance with the approved contents.
+
+After consulting with relevant central and local authorities, the central competent authority may approve the exclusion, during the experimental period of the innovative experiment, of the application of all or part of the following laws and regulations. However, the scope of such exclusion shall be limited to what is necessary and proportionate for achieving the purpose of the experiment, and shall not exclude mandatory provisions concerning human health, public safety, or other significant environmental risks, nor provisions governing civil or criminal liability or emergency measures that administrative authorities are required by law to undertake:
+
+I. Articles 25 and 27 of this Act;
+
+II. Article 12, Article 14, Paragraph 1 of Article 18, Subparagraph 1 of Paragraph 1 of Article 31, Article 36, Paragraph 1 of Article 39, and Paragraph 1 of Article 41 of the Waste Disposal Act.
+
+After approving an Innovative Experiment Plan, the central competent authority shall disclose on a designated website the name of the enterprise, the content, duration, scope, provisions excluded from application, and other related information concerning the innovative experiment. The same shall apply where the Innovative Experiment Plan is extended, modified, revoked, or rescinded.
+
+Regulations governing the application, review, approval, administration, modification, extension, submission and recordation of implementation results, information disclosure, risk control, monitoring, reporting, return of rewards or subsidies, improvement within a specified period or suspension of experiments, revocation or rescission of approvals, and other compliance matters concerning the Resource Circulation Innovative Experiment Plans referred to in the preceding four paragraphs, shall be prescribed by the central competent authority.
+
+## Chapter VI Penal Provisions
+
+#### Article 38
+
+Any person falling under any of the following circumstances shall be subject to a fine of not less than NT$6,000 and not more than NT$300,000 imposed by the central competent authority, and shall be notified to make improvements within a specified period. Failure to complete such improvements within the prescribed period shall result in penalties being imposed consecutively for each violation:
+
+I. Failure to apply, within the period prescribed in the public announcement under Paragraph 1 of Article 14, for approval of a product as complying with the eco-design regulations.
+
+II. Where a manufacturer or importer of designated products violates the regulations prescribed pursuant to Paragraph 4 of Article 14 with respect to approved matters, modifications, inspections, random sampling and testing, or submission of information for recordation.
+
+Where the executing agency of a construction project or the initiator of the project violates the provisions of the public announcement prescribed pursuant to Paragraph 1 of Article 15 regarding designated items under the eco-design regulations, a fine of not less than NT$60,000 and not more than NT$300,000 shall be imposed. Where construction has not yet commenced, the offender shall additionally be notified to submit an improvement plan within a specified period. Failure to implement such a plan in accordance with the approved schedule and contents within the prescribed period shall result in penalties being imposed consecutively for each violation. Where necessary, an order for suspension of construction may be imposed.
+
+#### Article 39
+
+Any person falling under any of the following circumstances shall be subject to a fine of not less than NT$60,000 and not more than NT$300,000 where the violator is a manufacturer or importer, and a fine of not less than NT$1,200 and not more than NT$60,000 where the violator is a seller or using enterprise, and shall be notified to make improvements within a specified period. Failure to complete such improvements within the prescribed period shall result in penalties being imposed consecutively for each violation:
+
+I. Violation of the provisions of the public announcement prescribed pursuant to Paragraph 2 of Article 18 regarding methods or scope of prohibition or restriction, or submission of information for recordation.
+
+II. Violation of stricter self-government ordinances or control measures prescribed by the special municipality, county or city competent authority pursuant to Paragraph 3 of Article 18.
+
+III. Failure to comply with a disposition imposed by the special municipality, county or city competent authority pursuant to Paragraph 4 of Article 18.
+
+#### Article 40
+
+Any person falling under any of the following circumstances shall be subject to a fine of not less than NT$12,000 and not more than NT$150,000 imposed by the competent authority or the industry competent authority, and shall be notified to make improvements within a specified period. Failure to complete such improvements within the prescribed period shall result in penalties being imposed consecutively for each violation. Where the circumstances are serious, an order for suspension of work or business for a period of not less than one month and not more than one year may be imposed:
+
+I. Evading, obstructing, or refusing inspections conducted by the competent authority or the industry competent authority pursuant to Paragraph 1 of Article 8, or refusing an order requiring the provision of relevant information.
+
+II. Violation of the regulations prescribed pursuant to Paragraph 2 or Paragraph 4 of Article 25 regarding methods of collection, transportation, and storage, facility standards, reuse or recycling specifications, record-keeping, or management.
+
+III. Violation of the regulations prescribed pursuant to Paragraph 2 of Article 28 regarding restrictions, prohibitions, permit matters, or permit validity periods.
+
+IV. Violation of the reporting requirements under Article 29.
+
+#### Article 41
+
+Any person falling under any of the following circumstances shall be subject to a fine of not less than NT$10,000 and not more than NT$150,000 imposed by the central competent authority, and shall be notified to make improvements within a specified period. Failure to complete such improvements within the prescribed period shall result in penalties being imposed consecutively for each violation:
+
+I. Violation of the regulations prescribed pursuant to Paragraph 2 of Article 21 regarding approved conditions for the Circular Label, management of use and labeling, modifications, inspections, or random sampling and testing.
+
+II. Violation of Paragraph 3 of Article 21 by unauthorized use, alteration, or improper use of the Circular Label.
+
+III. Where a manufacturer, importer, or seller of designated articles or their packaging or containers fails to disclose or label information within the period prescribed pursuant to Paragraph 1 of Article 22, or violates the regulations prescribed pursuant to Paragraph 3 of the same Article regarding the contents or methods of disclosure or labeling.
+
+IV. Violation of the regulations prescribed pursuant to Paragraph 3 of Article 23 regarding labeling, use, management, modifications, inspections, random sampling and testing, or submission of information relating to the Eco-label.
+
+V. Commission of any of the acts prescribed in the subparagraphs of Article 24.
+
+#### Article 42
+
+Any person falling under any of the following circumstances shall be subject to a fine of not less than NT$6,000 and not more than NT$150,000, and shall be notified to make improvements within a specified period. Failure to complete such improvements within the prescribed period shall result in penalties being imposed consecutively for each violation:
+
+I. Where a manufacturer or importer of designated articles or their packaging or containers violates the publicly announced targets, methods, or deadlines prescribed pursuant to Paragraph 1 of Article 16 regarding reuse, or violates the regulations prescribed pursuant to Paragraph 3 of the same Article regarding approved conditions, management, modifications, or submission of implementation results for recordation.
+
+II. Violation of the publicly announced reduction targets, methods, or deadlines prescribed pursuant to Paragraph 1 of Article 17, or violation of the regulations prescribed pursuant to Paragraph 3 of the same Article regarding approved conditions, management, modifications, or submission of implementation results for recordation.
+
+III. Where a manufacturer or transporter violates the publicly announced packaging reduction targets, spatial ratios, number of layers, or the types and quantities of materials used prescribed pursuant to Paragraph 1 of Article 19, or violates the publicly announced requirements prescribed pursuant to Paragraph 2 of the same Article regarding the reporting methods, deadlines, or required particulars of reports on reduction implementation results; or where an importer violates Paragraph 3 of the same Article.
+
+IV. Where a manufacturer or importer violates the publicly announced targets or methods for extended use prescribed pursuant to Paragraph 1 of Article 20, or violates the regulations prescribed pursuant to Paragraph 2 of the same Article regarding methods for establishing necessary facilities or submission of implementation results for recordation concerning the extended use of articles.
+
+#### Article 43
+
+Any person who violates the regulations prescribed pursuant to Paragraph 5 of Article 37 regarding approved conditions, modifications, management, deadlines for submission of implementation results, or submission for recordation shall be subject to a fine of not less than NT$6,000 and not more than NT$150,000 imposed by the central competent authority, and shall be notified to make improvements within a specified period. Failure to complete such improvements within the prescribed period shall result in penalties being imposed consecutively for each violation.
+
+#### Article 44
+
+Any person falling under any of the following circumstances shall be subject to a fine of not less than NT$1,200 and not more than NT$60,000, and shall be notified to make improvements within a specified period. Failure to complete such improvements within the prescribed period shall result in penalties being imposed consecutively for each violation:
+
+I. Where a seller of designated articles or their packaging or containers violates the publicly announced targets, methods, or deadlines regarding reuse prescribed pursuant to Paragraph 1 of Article 16, or violates the regulations prescribed pursuant to Paragraph 3 of the same Article regarding approved conditions, management, modifications, or submission of implementation results for recordation.
+
+II. Where a seller violates the publicly announced packaging reduction targets, spatial ratios, number of layers, or the types and quantities of materials used prescribed pursuant to Paragraph 1 of Article 19, or violates the publicly announced requirements prescribed pursuant to Paragraph 2 of the same Article regarding the reporting methods, deadlines, or required particulars of reduction implementation results.
+
+III. Where a seller violates the publicly announced targets or methods for extended use prescribed pursuant to Paragraph 1 of Article 20, or violates the regulations prescribed pursuant to Paragraph 2 of the same Article regarding methods for establishing necessary facilities or submission of implementation results for recordation concerning the extended use of articles.
+
+#### Article 45
+
+Where an enterprise that voluntarily discloses and labels information concerning articles or their packaging or containers pursuant to Paragraph 2 of Article 22 violates the regulations prescribed pursuant to Paragraph 3 of the same Article regarding the content or methods of disclosure or labeling, the central competent authority shall impose a fine of not less than NT$1,200 and not more than NT$60,000, and shall notify such enterprise to make improvements within a specified period. Failure to complete such improvements within the prescribed period shall result in penalties being imposed consecutively for each violation.
+
+#### Article 46
+
+The term “serious circumstances” as referred to in Article 40 means any of the following circumstances:
+
+I. A person who violates Paragraph 1 of Article 8, Paragraph 2 or Paragraph 4 of Article 25, the regulations prescribed pursuant to Paragraph 2 of Article 28, or Article 29, and who, after having twice been ordered within one year to make improvements within a specified period, continues to violate the same provision.
+
+II. Failure to circularly utilize recycled resources in accordance with Paragraph 2 or Paragraph 4 of Article 25, resulting in serious environmental pollution.
+
+III. Submission of false or inaccurate application, reporting, or record-keeping documents.
+
+IV. Other circumstances as determined by the competent authority or the industry competent authority.
+
+#### Article 47
+
+Unless otherwise provided in this Act, the penalties prescribed herein shall be imposed by the special municipality, county or city competent authority.
+
+#### Article 48
+
+Regulations governing the criteria for the imposition of administrative fines and other related matters under this Act shall be prescribed by the central competent authority.
+
+## Chapter VII Supplementary Provisions
+
+#### Article 49
+
+The competent authority or the industry competent authority shall collect review fees, certificate fees, or other regulatory fees for the review of applications submitted pursuant to this Act.
+
+The fee standards referred to in the preceding paragraph shall be prescribed by the central competent authority or the central industry competent authority.
+
+#### Article 50
+
+Where any of the circumstances specified in Article 38, Article 39, Subparagraphs 2 and 4 of Article 40, Subparagraphs 1 through 3 and Subparagraph 5 of Article 41, Article 42, or Article 44 occurs, the competent authority may disclose, on a website designated by the central competent authority, the name, address, and details of the violations committed by the non-compliant enterprise.
+
+#### Article 51
+
+The Enforcement Rules of this Act shall be prescribed by the central competent authority.
+
+#### Article 52
+
+This Act shall enter into force on the date of promulgation, provided that Article 14 and Paragraph 1 of Article 38 shall enter into force two years after the date of promulgation.
+
+## History
+
+\1. Original 31 articles promulgated by presidential order Hwa-Tsung-Yi-Yi-Tzu No. 09100133700 on July 3, 2002.
+
+\2. Revisions to Article 6 promulgated by presidential order Hwa-Tsung-Yi-Yi-Tzu No. 09800010901 on January 21, 2009.
+
+The transactions described in Subparagraph 5 of Article 2, Article 3, Paragraph 1 of Article 4, Article 5, Article 7, Article 8, the preamble of Paragraph 1 and Subparagraph 4 and Paragraph 2 of Article 11, Subparagraph 4 of Paragraph 2 and Paragraph 3 of Article 12, Article 13, Paragraph 1 of Article 14, Paragraphs 1,2,4,5,6 of Article 15, Paragraph 1 of Article 16, Article 17, Article 18, Paragraphs 1,3 of Article 21, Paragraphs 2,3 of Article 22, Article 23, Paragraphs 1,2,4,5 of Article 24, the preamble, Subparagraphs 2,5,7 of Paragraph 1 and Paragraph 2 of Article 26, Subparagraph 4 of Article 27, Paragraph 1 of Article 29 and Article 30 were conducted by the Environmental Protection Administration of the Executive Yuan, and transferred to the Ministry of Environment from August 22, 2023 in accordance with the Order No. Yuan-Tai-Gui-Kui-Zi No. 1121028221 issued by the Executive Yuan on August 18, 2023.
+
+\3. The amendments to all 52 Articles were promulgated by Presidential Order Hua-Tsung (I)-Yi-Tzu No. 11500056451 on June 17, 2026. Pursuant to Article 52, Article 14 and Paragraph 1 of Article 38 shall come into force two years after the date of promulgation, while all other provisions shall come into force on the date of promulgation.
+
+(Former title: Resource Recycling Act; New title: Resource Circulation Promotion Act.)

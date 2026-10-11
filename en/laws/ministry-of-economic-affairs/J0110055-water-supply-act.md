@@ -1,0 +1,1007 @@
+---
+title: "Water Supply Act"
+title_zh: "自來水法"
+identifier: "J0110055"
+type: act
+law_level: "法律"
+category: "行政＞經濟部＞水利目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1966-11-17
+last_amended: 2026-01-05
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0110055"
+retrieved: 2026-10-12
+---
+
+# Water Supply Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-economic-affairs/J0110055-water-supply-act.md](../../../zh/laws/ministry-of-economic-affairs/J0110055-water-supply-act.md)) is authoritative.
+
+## Chapter 1 General Provisions
+
+### Article 1
+
+This Act is enacted for the purposes of promoting the rational development of water supply enterprises and enhancing the effective management of their operations for a sufficient supply of quality water, improving the living environments of people, and promoting industrial and business development.
+
+For matters not provided herein, other applicable laws shall govern.
+
+### Article 2
+
+The authority-in-charge of the water supply enterprises as referred to herein shall be water authority at the central level; the municipal governments at the special municipality level, and the county or city governments at the county or city level.
+
+Where the service area of a water supply enterprise covers two or more administrative areas, the authority-in-charge shall be the upper level authority.
+
+### Article 3
+
+The following matters shall fall under the jurisdiction of central authority-in-charge:
+
+1.The legislation of rules or regulation governing the development, operation, management and supervision of water supply enterprises.
+
+2.The planning of national development of water supply enterprises and the supervision of their implementation.
+
+3.The supervision and guidance of municipal, county  and city water supply enterprises.
+
+4.The planning and administration of municipal, county or city water supply enterprises that serve two or more administrative areas.
+
+5.The districting of water service areas.
+
+6.The guidance for matters regarding cross-area water supply and the stipulation of criteria and other related measures for stoppage of water supply and water rationing.
+
+7.Other national matters regarding water supply enterprises.
+
+### Article 4
+
+The following matters shall fall under the jurisdiction of municipal authority-in-charge:
+
+\1. The legislation of rules or regulations governing water supply enterprises within the municipality.
+
+\2. The planning and implementation of the proposal of water supply enterprises within the municipality.
+
+\3. The administration of water supply enterprises operated by public utilities within the municipality.
+
+\4. The supervision and guidance of water supply enterprises operated by public utilities and private entities within the municipality.
+
+\5. The approval of matters regarding service areas of water supply enterprises.
+
+\6. Other matters regarding water supply enterprises designated by the municipal or central authority-in-charge.
+
+### Article 5
+
+The following matters shall fall under the jurisdiction of authority-in-charge at the county, city or bureau level:
+
+The planning and implementation of the proposal of water supply enterprises within the county, city or bureau.
+
+\2. The planning and implement of the proposal of water supply enterprises within the county, city or bureau.
+
+\3. The administration of water supply enterprises operated by public utilities within the county, city or bureau.
+
+\4. The supervision and guidance of water supply enterprises operated by public utilities within the townships or towns.
+
+\5. The supervision and guidance of water supply enterprises operated by private entities within the county, city or bureau
+
+\6. Other matters regarding water supply enterprises within the county, city or bureau.
+
+### Article 6
+
+The central and municipal authority-in-charge may establish an exclusive agency to assist in the development, administration, and supervision of water supply enterprises.
+
+### Article 7
+
+Water supply enterprises are public utilities. It should be operated by a public entity in principle but may be operated by private entities with authorized approval.
+
+### Article 8
+
+A water supply enterprise operated by the public utility shall be organized as a juristic person or an enterprise established by the government as determined by the authority-in-charge and operated as a business to facilitate its development.
+
+### Article 9
+
+The water supply enterprises operated by private entities shall be incorporated as a company limited by shares according to law.
+
+### Article 10
+
+The quality of water supplied by water supply enterprises shall be clear, colorless, odorless, tasteless, having proper pH, and not containing chemical compounds, microorganisms, mineral substances, or radioactive materials exceeding the stipulated allowance level; the water quality standards shall be stipulated by the central authority-in-charge in consultation with the central environment protection authority and central public health authority.
+
+### Article 11
+
+For the purpose of protecting water sources, a water supply enterprise may apply to the water authority pursuant to the Water Act, or may, based on factual need, request the authority-in-charge in consultation with other related administrative agencies to designate and announce a water quality and quantity protection area, and to ban or restrict the following activities that would harm the water quality or quantity pursuant to this Act or relevant laws:
+
+\1. Indiscriminate deforestation or excessive land development.
+
+2.Alteration of river course that affects the self-cleaning ability of water.
+
+\3. Sand and gravel excavating, prospecting or mining that leads to water source pollution.
+
+\4. Discharging wastewater from mines, factories, or households that exceeds the stipulated standards or the quantity stipulated by related authority.
+
+\5. Factories with high potential for pollution.
+
+\6. Building landfills or incinerators, or dumping, placement, or discarding garbage, ash, rock, soil, sludge, human or animal excrement and urine, waste oil, waste chemical compound, animal carcasses or other substances which will be sufficient to pollute the water sources.
+
+\7. Raising pigs in the catchments of upstream of important public water intakes stipulated by the environmental protection authority; breeding other livestock or domestic fowls for the purpose of profit.
+
+\8. Breeding livestock or domestic fowls for the purpose of profit.
+
+\9. Construction or expansion of golf course.
+
+\10. Development of nuclear energy or other energies, or construction of storage or treatment facilities for radioactive waste.
+
+\11. Other activities stipulated and announced by the central authority-in-charge in consultation with other related authorities as sufficiently harmful to the quality or quantity of water.
+
+The subparagraphs of the preceding paragraph do not apply to activities that are considered necessary for the living of residents or local public works and approved by the authority-in-charge.
+
+### Article 12
+
+The local authority-in-charge may, after consulting the appropriate government agencies, notify the owner or user of existing buildings or land in the water quality and quantity protection area mentioned in the foregoing article that are deemed harmful to the quality or quantity of water, to remove, improve or change the current use within a specified period. The water supply enterprise shall compensate the aforesaid owner or user for loss incurred thereof.
+
+Where the parties cannot reach an agreement on the amount of compensation, the authority-in-charge will decide.
+
+### Article 12-1
+
+The land value increment tax, gift tax and estate tax imposed on land located in a water quality and quantity protection area that is designated as a water sources district under the urban planning procedure shall be reduced or exempted based on the extent of restriction placed on the use of land.
+
+The districts and criteria that are applicable to reduction or exemption pursuant to Paragraph 1 hereof shall be stipulated by the central authority-in-charge together with the Ministry of Finance, the Ministry of the Interior, and the Council of Indigenous Peoples, and approved by the Executive Yuan.
+
+### Article 12-2
+
+Drawing surface water or ground water in a water quality and quantity protection area shall pay the central authority-in-charge catchment conservation and compensation fees, unless the water is supplied in a non-profit manner for domestic use or public use in the protection area. If the water is supplied for industrial use or public use by a public utility, said public utility may add a 5% to 15% surcharge to its water bills after obtaining approval from the central authority-in-charge;if the water is supplied for agricultural use, the central authority-in-charge and the central agriculture authority should prepare budget for subsidy, and together stipulate regulations of objects and manner of subsidy.
+
+The central authority-in-charge shall, in consultation with relevant government agencies, prescribe the items, calculation, and rates of aforesaid catchment conservation and compensation fees, as well as manner of collection, payment formalities, payment period, actions in case of non-payment or under-payment, method for computing yield, and other regulations by the source of water and the purpose of use, respectively.
+
+The catchment conservation and compensation fees in the first paragraph hereof may be placed under water resources related funds managed by the central authority-in-charge and used exclusively on water resources conservation and environmental conservation infrastructure projects, public welfare of residents in water quality and quantity protection areas, and compensation for landowners whose land use is restricted. Activities that may draw on the catchment conservation and compensation fees include:
+
+\1. Management and maintenance of facilities for water resources conservation, drainage, eco-tourism, and other hydraulic facilities;
+
+\2. Resident employment counseling, advisory service for local businesses relating to water resources conservation for public interest, education grant and scholarship, health care, electricity fees, water fee compensation for domestic use and non-profit purpose, and water resources conservation relevant local public construction such public welfare activities;
+
+\3. Compensation for landowners or related right holders whose land is subject to restricted use due to delimitation of water quality and quantity protection area;
+
+\4. Subsidy for taxation in areas of indigenous peoples;
+
+\5. Reserve fund for emergency use;
+
+\6. Expenditure relating to the collection of catchment conservation and compensation fees;
+
+\7. Necessary activities relating to the use of catchment conservation and compensation fees; and
+
+\8. Other matters relating to public interest of residents, water resources education, research and conservation.
+
+The compensation in subparagraph 3 of the preceding paragraph shall be dispensed in consideration of the current status of land use, use area and degree of restriction with an administrative contract entered between the authority-in-charge and the landowner or related right holder.The compensation shall give precedence to the owners or right holders of private land, and the criteria for dispensing the compensation and specimen of the administrative contract shall be prescribed by the central authority-in-charge together with the Council of Indigenous Peoples and relevant Ministries or Councils.The administrative contract shall specify purposes of land use by the landowner or related right holder and penalty clauses for breach of contract.
+
+The account management board of water quality and quantity protection area shall distribute funds for the purposes as set forth in subparagraph 1 to 5, 7 and 8 of the preceding paragraph to all townships (towns, cities, districts) proportionally over the land areas and population of residences. However, the funds shall give precedence to townships where the indigenous peoples live.
+
+Households in water quality and quantity protection area are entitled to receive a 50% reduction of their water bills, provided the water is for domestic use and non-profit purposes . The amount of reduction thereof will be covered by the catchment conservation and compensation fees. The simple water supply facilities shall be applied as soon as possible to areas of indigenous peoples in the protection area without running water supply system.
+
+For a township (town, city, district) office crossing over two protection areas, the management board of each protection area shall use the catchment conservation and compensation fees upon agreement after negotiation and review.
+
+### Article 12-3
+
+Water resources related funds shall set up an account for each water quality and quantity protection area with a management board established for managing and utilizing the funds in the account. The account management board shall be composed of representatives from relevant central authorities, local authorities in the water quality and quantity protection area as well as its supply areas, people’s representative bodies, local residents and reputable citizens. The directions for the establishment of account management team shall be prescribed by the water resources funds management committee.
+
+The local resident representatives on the account management board for water quality and quantity protection area involving the areas of indigenous peoples shall comprise a number of indigenous people according to their percentage of population in the protection area; the water resources conservation and compensation fees collected shall also be spent on the areas of indigenous peoples by proportion.
+
+The local construction fees levied to assist the water sources districts prior to the promulgation of the revised Act on June 30, 2004 shall continue to be levied as a surcharge to the water bill before the collection of water resources conservation and compensation fees; the Regulations for Assisting Local Construction in Taipei Water Sources Districts shall continue to apply.
+
+After the collection of water resources conservation and compensation fees, the local constructions fee originally levied to assist the water sources districts under the Act will be placed under the management account for the water sources district.
+
+### Article 12-4
+
+Water quality and quantity protection areas that fit in one of the following descriptions shall return assigned water resources conservation and compensation fees to the water resources related funds managed by the central authority-in-charge. The central authority-in-charge shall submit the returned fees to designated authority-in-charges of county, city, or municipality governments related to the water quality and quantity protection areas to co-ordinate and handle water resources conservation matters:
+
+1.The balance of the annual funds allocated to regional offices that has not been implemented for more than five years.
+
+\2. Fees returned through the agreement of the account management board.
+
+Under the agreement of its account management board, water resources conservation and compensation fees of a water quality and quantity protection area can be applied to all administrative areas of the same village where part of the village is located in the water quality and quantity protection area. However, this is limited to public construction matters for water resources conservation.
+
+### Article 13
+
+The central authority-in-charge may, in view of the distribution of water sources, constructions and social-economic conditions, draw up areas for the purpose of water supply.
+
+The drawn water service areas pursuant to Paragraph 1 hereof may be revised or altered by the central authority-in-charge based on factual needs.
+
+### Article 14
+
+The central authority-in-charge may provide guidance to the consolidation of two or more water supply enterprises in one water service area. If no agreement on the consolidation plan can be reached, the central authority-in-charge may order the consolidation by administrative decree.
+
+### Article 15
+
+(Deleted)
+
+### Article 16
+
+The term “tap water” as referred to herein shall mean sanitary public water supplied through pipes or other facilities.
+
+### Article 17
+
+The term “water supply enterprise” as referred to herein shall mean a business that operates a water supply business pursuant to this Act.
+
+### Article 17-1
+
+The term “simple water supply enterprise” as referred to herein shall mean an organization, group or business entity that develops its own water source or lawfully obtains a water right, and sets up and manages on its own a simple water supply and treatment system to meet water supply needs.
+
+### Article 18
+
+The term ”person-in-charge of a water supply enterprise” as referred to herein shall mean the persons as defined in relevant regulations for a publicly operated water supply enterprise; or the persons as defined in the Company Act for a privately operated water supply enterprise.
+
+### Article 19
+
+The term “exclusive operation right” as referred to herein shall mean the right to operate a water supply enterprise in a specific water service area with the approval of the authority-in-charge.
+
+### Article 20
+
+The term ”water supply equipment” as referred to herein shall mean equipment for water collection, storage, diversion, treatment, conveyance, and distribution.
+
+### Article 21
+
+The term “self-use water supply equipment” as referred to herein shall mean water supply equipment exclusively for own use and yielding more than 30 cubic meters of water per day.
+
+The term “yield” mentioned in Paragraph 1 hereof shall mean the capacity of equipment to output water.
+
+### Article 22
+
+The term “users” as referred to herein shall mean persons who use water in accordance with the operating rules of the water supply enterprises.
+
+### Article 23
+
+The term ”service equipment” as referred to herein shall mean equipment installed by users for receiving the supply of water, including intake pipes, water meters, connection pipes, switches, bypasses, pipes connecting to  sanitary  ware, water slug, valves, and pump facilities.
+
+The term “pump facilities” as referred to in the preceding paragraph shall mean pump equipment, water basin (service reservoir), control room, connection pipes, switches and water slugs, which are termed collectively user’s pump and water-receiving facilities installed by users from the outlet side of main water meter up to the building for connecting to water supply when the water supply enterprise is unable to supply water pursuant to Article 61 of this Act.
+
+## Chapter 2 Exclusive Operation Right
+
+### Article 24
+
+An entity that intends to operate a water supply enterprise shall apply to the water authority pursuant to the Water Act, for water right registration, and obtain approvals for constructing, renovating, or dismantling hydraulic structures related to water right or water source.
+
+The application pursuant to Paragraph 1 hereof shall be examined and forwarded by the authority-in-charge of water supply enterprises.
+
+### Article 25
+
+Within one year from being granted the water right, an entity intending to operate a water supply enterprise shall submit an application together with the construction and operation plans to the county (city) authority-in-charge for approval of exclusive operation right by the central authority-in-charge. Only after obtaining the certificate of exclusive operation right can the entity commence the water supply works. If the construction work is located in a municipality, the applicant shall submit the documents to the municipal authority-in-charge for approval.
+
+The municipal authority-in-charge shall file the approval of exclusive operation right pursuant in the preceding paragraph with the central authority-in-charge for approval for reference. If there are two or more private entities applying for exclusive operation right in the same area, the central or the municipal authority-in-charge may notify all private entities concerned to settle the matter within a specified period. Where no agreement is reached, the dispute shall be decided by the central or the municipal authority-in-charge.
+
+The required information to be stated in the construction and operation plans pursuant to Paragraph 1 hereof shall be stipulated by the central and the municipal authority-in-charge, respectively.
+
+### Article 26
+
+When rejecting the application of exclusive operation right, the central or the municipal authority-in-charge shall notify the water conservancy authority to revoke the water right of the applicant.
+
+### Article 27
+
+The certificate of exclusive operation right shall state the following information:
+
+\1. The name and location of the water supply enterprise;
+
+\2. The person-in-charge of the water supply enterprise;
+
+\3. The registration number of water right certificate;
+
+\4. The water service area;
+
+\5. Major water supply equipment;
+
+\6. Capital; and
+
+\7. Other required information.
+
+The information on the certificate pursuant to the preceding paragraph shall not be changed without the approval of the central or the municipal authority-in-charge. A new certificate of exclusive operation right shall be issued if there is any change to the certificate.
+
+### Article 28
+
+The duration of exclusive operation right is 30 years from the date of grant.
+
+### Article 29
+
+For the purpose of standardizing the application, approval, and revocation of exclusive operation right, the central authority-in-charge may promulgate the regulations governing the exclusive operation right of water supply enterprises.
+
+### Article 30
+
+After an entity that intends to operate a water supply enterprise has been granted the certificate of exclusive operation right and in any of the following circumstances relating to the implementation of construction and operation plans pursuant to Paragraph 1 of Article 25 herein, the central authority-in-charge will revoke its exclusive operation right as informed by the county (city) authority-in-charge, unless the entity has been granted an extension by the central or the municipal authority-in-charge by showing reasonable causes; the revocation of exclusive operation right will be effected by the municipal authority-in-charge if the circumstance occurs in the municipality:
+
+\1. The work has not commenced in three months after the approved date of commencement;
+
+\2. The work has not been finished in one year after the approved date of completion; or
+
+\3. Water supply has not begun in three months after the approved date of water service.
+
+### Article 31
+
+After finishing the construction of facilities, an entity that intends to operate a water supply enterprise shall not start operation until it has passed the inspection of central authority-in-charge and received the business license. An entity who submitted the application to municipal authority-in-charge shall not start operation until it has passed the inspection of municipal authority-in-charge and received the business license.
+
+Water right and water source related hydraulic structures that require application to the authority in charge of water work for approval pursuant to the Water Act shall be inspected by the same authority.
+
+### Article 32
+
+Unless approved by the central or the municipal authority-in-charge, a water supply enterprise shall not cease business. A water supply enterprise that has been approved to cease business shall turn in its business license to the central or the municipal authority-in-charge for cancellation within thirty (30) days after the approval.
+
+### Article 33
+
+The delivery main pipeline of a water supply enterprise may pass through water service areas served by other water supply enterprises with the approval of the authority-in-charge.
+
+### Article 34
+
+Except under the following circumstances, a water supply enterprise shall not supply water beyond its designated area:
+
+\1. Having the approval of the authority-in-charge to supply water to another water supply enterprise.
+
+\2. Upon the order of the authority-in-charge to supply water to national defense industry.
+
+\3. Having the approval of the authority-in-charge to supply water to residents who live in areas without tap water and request water supply.
+
+\4. When another water supply enterprise in adjacent areas stops water supply due to a disaster or other emergency events and can not repair the equipments in time, that urgent and temporary water supply is necessary.
+
+### Article 35
+
+The transfer of a water supply enterprise is subject to the approval of the central or the municipal authority-in-charge, and effected by the issue of a new certificate of exclusive operation right.
+
+### Article 36
+
+The exclusive operation right shall not be the subject of hypothecation or any other rights except for transfer.
+
+### Article 37
+
+(Deleted)
+
+### Article 38
+
+A public water supply enterprise shall apply for renewal of exclusive operation right one year before the expiry of right; the authority-in-charge may take over a private water supply enterprise upon the expiry of its exclusive operation right by notifying said enterprise of its decision two years before the expiration date.
+
+For a private water supply enterprise that the authority-in-charge decides to take over after the expiry of its exclusive operation right, the authority-in-charge may set a date for take-over, and negotiate or determine the purchase price according to Article 40 herein.
+
+If the authority-in-charge did not notify a private water supply enterprise of its decision to take over according to the provisions above, the authority-in-charge should grant approval if said water supply enterprise applies for renewal of exclusive operation right.
+
+The exclusive operation right may be renewed for a period of ten years each time.
+
+### Article 39
+
+A private water supply enterprise that does not intend to continue the operation after the expiry of its exclusive operation right shall submit its intention to the central authority-in-charge through the county (city) authority-in-charge two years before the expiry; the water supply enterprises in a municipality shall submit their intention to the municipal authority-in-charge.
+
+After receiving the intention under Paragraph 1 hereof, the central or the municipal authority-in-charge should proceed to plan the transfer to a public utility or offer it to the public for take-over. Where the matter is handled by the municipal authority-in-charge, the municipal authority-in-charge shall report the process to the central authority-in-charge for approval for reference.
+
+### Article 40
+
+Where a private water supply enterprise is to be transferred to the government and the parties concerned cannot reach an agreement on the purchase price, the government and the private entity will each appoint two experts, who in turn will jointly recommend another expert to form a five-person valuation commission to determine the price by the following methods:
+
+\1. Appraise the price based on the total existing assets of the water supply enterprise.
+
+\2. Appraise the price based on the start-up costs of the water supply enterprises, and the prices of all assets bought and improvements made during the operation period less the prices of scrapped equipment, allowance for depreciation, reserves set aside, and user provident fund.
+
+When no agreement can be reached on the appointment of the fifth expert pursuant to Paragraph 1 hereof, the experts appointed by both parties will each name two or more experts in equivalent amount applying by the government and the private entity for the court of the judicial district to choose.
+
+### Article 41
+
+The real property and water supply equipment managed or owned by a water supply enterprise shall not be disposed or hypothecated without the prior approval of the central or the municipal authority-in-charge.
+
+Any disposal or hypothecation that violates Paragraph 1 hereof shall be invalidated.
+
+## Chapter 3 Construction and Equipment
+
+### Article 42
+
+The central and the municipal authority-in-charge shall stipulate the engineering standards for the facilities of the water supply enterprises, separately.
+
+The engineering standards for hydraulic structures relating to water rights and water sources that require approval from the water authority pursuant to the Water Act shall be approved by the water authority.
+
+### Article 43
+
+A water supply enterprise shall be equipped with the following facilities:
+
+\1. The water intake equipment shall have the power to draw the necessary volume of raw water.
+
+\2. The water storage equipment shall have necessary capacity to ensure a sufficient supply of raw water during the drought season.
+
+\3. The water diversion equipment shall be installed with a proper water pump, aqueduct, and other equipment to transport the necessary raw water.
+
+\4. The water purification equipment shall be installed with proper sedimentation tanks, filtering tanks, disinfecting, water quality monitoring, and other water treatment systems.
+
+\5. The water conveyance equipment shall be installed with a proper water pump, pipes, and other equipment to convey the necessary clean water
+
+\6. The water distribution equipment shall be installed with a proper service reservoir, water pump, distribution pipelines, and other distribution equipment.
+
+### Article 44
+
+A water supply enterprise shall constantly examine and record the quality and quantity of water from its source.
+
+### Article 45
+
+A water supply enterprise shall record daily the quality control of water, the operations of water supply equipment, the volume and the pressure of water supply for future inspection.
+
+### Article 46
+
+A water supply enterprise shall install fire hydrants for the purpose of public safety. The central and the municipal authorities-in-charge, in consultation with the fire services authority will stipulate the installation standards.
+
+The local governments of city, county or township where the fire hydrants are located shall reasonably subsidize the installation of fire hydrants.
+
+### Article 47
+
+The water conveyance and distribution pipelines of the water supply system shall not be connected with other lines.
+
+### Article 48
+
+To prevent breakdown of water supply, a water supply enterprise shall be equipped with proper backup system and rigorously adopt applicable measures to reduce the possibilities and time of water supply interruption.
+
+### Article 49
+
+A water supply enterprise shall regularly inspect all the equipment and record the results of inspection. The central and the municipal authority-in-charge shall stipulate the measure for inspection separately.
+
+### Article 50
+
+The service equipment of water users shall be installed in accordance with the established standards. Water service to users shall not begin until the aforementioned equipment has been found qualified by the water supply enterprise or by a professional organization designated by the water supply enterprise.
+
+The central authority-in-charge shall stipulate the standards for service equipment.
+
+### Article 51
+
+A water supply enterprise, based on engineering needs, may use the rivers, ditches, bridges, culverts, protecting embankments, roads and so on without interfering with their original usage after consulting with the authority-in-charge.
+
+### Article 52
+
+When necessary, a water supply enterprise in its service area or municipality, county (city) government in the areas under the jurisdiction may lay pipes or other equipments under private or public land. The water supply enterprise shall notify the land owner or user in advance, then proceed to restoring the land to its original condition after the completion of construction.
+
+### Article 53
+
+A water supply enterprise shall choose the least damage-inducing locations and invasive approaches to the use of public or private land pursuant to article 52. Any resulting damage shall be compensated to the extent of loss.
+
+When disputes arise regarding the issues of locations, approaches, and compensation in the preceding paragraph, the following subjects: Land owner or the user may apply to the municipality, county (city) authority-in-charge for resolution.
+
+The discretionary standards of compensation and dispute in the preceding paragraph is enacted by the central authority-in-charge.
+
+Once compensation payment or deposit is approved as described in paragraph 2, the land owner or the user can not refuse a water supply enterprise or municipal or county (city) government use to the water service. A water supply enterprise may also request the assistance of the municipal or county (city) government to be authorized to use the water service .
+
+### Article 54
+
+A water supply enterprise may be entitled to compensation if the pipes or other equipments installed under public road or designated land in urban planning zone according to Articles 51 and 52 herein must be relocated or removed due to a change of urban planning. The amount of compensation will be agreed upon by the parties concerned through negotiation, or by the authority-in-charge if no such agreement is reached.
+
+### Article 55
+
+When a water supply enterprise discovers that the water it supplies is not sanitary, it shall issue warnings on the local newspapers or announce it by other means. The water supply enterprise shall also extensively notify the related parties and remedy the situations at the same time. If the sanitary problem is serious enough to harm the health of users, the water supply enterprise shall promptly report it to the municipal or country (city) authority for permission to stop the water supply.
+
+Any person who discovers that tap water is not sanitary or harmful to the human health should promptly notify the water supply enterprise to take actions.
+
+### Article 56
+
+The planning, design, supervision, and appraisal of an engineering work of water supply enterprises that is above certain scale as designated by the central authority-in-charge shall be certified by lawfully registered professional hydraulic engineers or professional engineers in related fields. Notwithstanding the foregoing, water supply works initiated by a government agency or a public water supply enterprise may be certified by lawfully qualified professional hydraulic engineers or professional engineers in related fields working for the agency or enterprise.
+
+The specialties of professional engineers in related fields will be announced by the central authority-in-charge in consultation with the central professional engineer authority.
+
+### Article 57
+
+The chief engineer and engineers employed by a water supply enterprise must be registered professional engineers. Other construction, management, testing, and operating personnel of a water supply enterprise shall possess professional skills and knowledge and have passed specific examinations.
+
+The central authority-in-charge shall stipulate the measures for the exanimations pursuant to Paragraph 1 hereof.
+
+## Chapter 4 Operation
+
+### Article 58
+
+A water supply enterprise shall draw up operating rules, and announce and implement the rules after obtaining approval from the authority-in-charge. Any amendment of the operating rules shall be filed with the authority-in-charge for approval.
+
+The operating rules pursuant to Paragraph 1 hereof shall contain the conditions of supply water and the agreements between the water supply enterprise and users.
+
+### Article 59
+
+The pricing of water supply shall take into account the quality of water and a reasonable profit after deducting the costs from the income. The calculation formula and detail items shall be stipulated by the authority-in-charge; those stipulated by the municipal, county or city authority-in-charge shall be submitted to the central authority-in-charge for approval.
+
+Detailed pricing of water supply or any water rate adjustment proposed by a water supply enterprise shall be approved by the authority-in-charge; the proposal approved by the municipal, county or city authority-in-charge shall be filed with the central authority-in-charge for future reference.
+
+If it is negative growth of units used by a user compared to the same period in previous year, the water supply enterprise may give a discount to the user depending on profit or loss of the enterprise. The authority-in-charge shall establish the procedures altogether with water supply enterprise.
+
+The reasonable profit pursuant to Paragraph 1 hereof shall be assessed based on the fair value of investment, the interest rate of local banks, and local profit level.
+
+### Article 60
+
+The central authority-in-charge shall organize a water rate review commission comprised of representatives from government agencies, consumer groups, scholars and experts to take charge of water rate adjustment. The organizational charter of the commission shall be prescribed by the central authority-in-charge.
+
+### Article 60-1
+
+(Deleted)
+
+### Article 61
+
+A water supply enterprise, unless with just reasons, shall not refuse the request of water supply in its service area.
+
+When residents apply to access to tap water supply, the fee of external service equipment for the service may budgeted annually by the government subsidy and priority is given to low-income households. Likewise, for users of simple water facilities.
+
+Subsidy regulations in the preceding paragraph shall be prescribed by the central authority-in-charge.
+
+Any person whose request for water service is rejected may apply to the authority-in-charge for intervention.
+
+### Article 61-1
+
+Water supply to the user’s pump and water-receiving facilities described in Article 23 herein shall not start until the ownership or the right of superficies of the private land on which the facilities are installed has been registered under the user.
+
+Water shall not be supplied until the consent of the private landowner whose land is installed with connection pipes of the user’s pump and water-receiving facilities as provided in the preceding paragraph is obtained and the installation is completed.
+
+The public land on which the user’s pump and water-receiving facilities are installed should obtain the management office's permit or consent.
+
+If the land used by the user's pump and water-receiving facilities is an established planned road and is excavated and buried with the permission of the road authority, the user is not required to obtain ownership or establish superficies rights, and may perform necessary maintenance and updates.
+
+If the land used by the user's pump and water-receiving facilities does not belong to the user, but has been used for more than ten years from the date of water supply by the water supply enterprise, the user is deemed to have superficies over the land, and necessary maintenance and updates may be carried out before the land ownership is obtained with the approval of the municipality, county (city) authority-in-charge and assuring of restoration of the original condition after the completion of the maintenance and updates by the enterprise.
+
+Users shall choose the least damage-inducing locations and invasive approaches to the use of other people’s land. Any resulting damages shall be compensated to the extent of loss.
+
+When disputes arise regarding the issues of locations, approaches, and compensations in the preceding paragraph, the following subjects: tap water user, land ownership or the user may apply to the municipality, county (city) of authority-in-charge for resolution.
+
+Approved compensation in the paragraph 6 shall herein apply to the discretionary standards of paragraph 3 of Article 53.
+
+The pump and water-receiving equipment described in paragraph 1 may be managed by a water supply enterprise. The water supply enterprise may charge for improvement fees, operating and maintenance fees as well as all other necessary expenses. The water supply enterprise shall provide and summarize a list of service schedule fees and submit a duplicate copy to the authority-in-charge for future reference.
+
+### Article 61-2
+
+Where intake pipes for receiving the supply of water cannot be constructed without making use of lands of others or where they can only be constructed through the incurring of excessive expenses, the user is entitled to construct the said pipes under the lands.
+
+Where lands of established planned roads or private lands but used as existing public highways, roads or laneways, under which intake pipes for receiving the supply of water are installed with construction permissions given by the municipal or county (city) authority-in-charge, users are free from obtaining agreements or superficies from owners and may carry out necessary maintenance and upgrades.
+
+Where lands of others, private or public, under which intake pipes for receiving the supply of water are installed, the place and method of construction causing the least injury to such lands shall be chosen and compensation, if any, shall be made.
+
+When disputes arise regarding the issue of choice of place, method and compensation provided in the preceding paragraph, the tap water user, land ownership or the user may apply to the municipal, county or city authority-in-charge for an administrative resolution or initiate a mediation to the township, town, city (district) office’s mediation committee. If the mediation cannot be successful, the parties shall bring the case before the judicial authorities within 30 days after receiving the certificate of failure of the mediation issued by the committee.
+
+Lands of established planned roads or private lands but used as existing public highways, roads or laneways, concerning compensation provided in the preceding paragraph, are applicable to the discretionary standard provided in Paragraph 3, Article 53.
+
+Once the administrative resolution applied to the municipal, county or city authority-in-charge by the land ownership or the user as provided in Paragraph 4 is approved, and the compensation responded to the applicant by the tap water user is granted or is lodged with a court, the land ownership or the user cannot refuse the use of the tap water user, the water supply enterprise or the municipal, county or city authority-in-charge. The tap water user and the water supply enterprise can also request the municipal, county or city authority-in-charge to remove obstruction and use the land.
+
+### Article 62
+
+A water supply enterprise shall supply water to users on a continuous basis. The water supply enterprise shall publicly announce the districts and time of service interruption in advance and report it to the local authority-in-charge if water supply will be suspended in part or in whole due to a disaster, emergency measures or construction. If the suspension of water supply is an unprepared event, the water supply enterprise may report it to the local authority-in-charge afterwards for future  reference.In case of special circumstances that a water supply enterprise must suspend water supply continuously for over 12 hours or supply water only during fixed hours, it shall obtain the approval from the local authority-in-charge and make public announcement beforehand.
+
+Users are not entitled to any compensation for the interruption of water service pursuant in the preceding paragraph.
+
+### Article 63
+
+A water supply enterprise should make best efforts to install water meters and charge water by units where one unit is one cubic meter. The water supply enterprises may set up the basic units per month after obtaining approval from the authority-in-charge.
+
+A water supply enterprise may charge users for the installation of water meters pursuant in the preceding paragraph.
+
+### Article 64
+
+A water supply enterprise may charge users who do not have water meters installed by other methods as approved by the authority-in-charge. The water supply enterprises may also set up the minimum rates per month for those users.
+
+### Article 65
+
+A water supply enterprise may charge individual users subsidy fees up to one half of the cost incurred from adding or installing new distribution main pipes for those users residing in areas without main pipelines.
+
+### Article 66
+
+In case of water supply pursuant to subparagraph 3 of Article 34 herein, the water supply enterprise may collect a surcharge after obtaining the approval of authority-in-charge.
+
+### Article 67
+
+A water supply enterprise shall not charge the fire water, and shall give rate discount to the use of water for other public purposes. The measure for rate discount shall be stipulated by the local authority-in-charge.
+
+### Article 68
+
+A water supply enterprise may dispatch its employees in uniform and with identification to inspect the equipment of users, record the volume of water consumption or collect water payments during daylight hours. The users may not refuse those actions unless with just reasons.
+
+### Article 69
+
+Where it is necessary for a water supply enterprise to look into and handle cases of water theft or illegal use of water, it may proceed according to the provisions pursuant to Article 68 and request the assistance of local military police or police at any time.
+
+### Article 70
+
+A water supply enterprise may suspend water service to users under any of the following circumstances:
+
+\1. The user engaged in water theft with concrete evidence shown.
+
+\2. The equipment installed by user or the way of installation failed to meet the requirements upon inspection and the situation was not remedied during a given period.
+
+\3. The user refused inspection pursuant to Article 68 or 69 herein without due causes.
+
+\4. The user’s payment is two months in arrears after being given the notice.
+
+\5. The user refused the installation of a water meter.
+
+\6. The user violated Article 47 herein and failed to remedy the situation as requested.
+
+The water supply enterprise shall restore water supply to the user after the cause of service suspension pursuant in the preceding paragraph ceases to exist.
+
+### Article 71
+
+For the act of water theft, a water supply enterprise may seek indemnification from the offender in an amount equal to three months to one year of water fees in view of the equipment installed, the hours of water service, and the local conditions of water supply.
+
+### Article 72
+
+Users may ask the water supply enterprise to check the service equipment or water meters that fail or do not work properly, or check unclean water supply.
+
+Except for breakdown or inaccuracy of water meters, or unclean water supply, the water supply enterprises may charge the users for services rendered under the preceding paragraph.
+
+## Chapter 5 Self-use Water Supply Equipment
+
+### Article 73
+
+Persons who plan to install water supply equipment for self-use may not start the construction until they have submitted the application and construction plan to the local authority-in-charge for registration and approval.
+
+Persons who have installed water supply equipment for self-use before the promulgation of this Act shall submit the documents to register within 6 months from the promulgation of this Act.
+
+### Article 74
+
+After finishing the construction of self-use water supply equipment, users shall request the local authority-in-charge to make inspection and forward the request to the water authority to examine hydraulic structures relating to water rights and water sources. Water supply to the aforementioned equipment shall not begin until the user has been issued a certificate for the equipment.
+
+### Article 75
+
+If there are any changes to major items registered for the self-use water supply equipment, its owner shall update the registration with the local authority-in-charge in one month from the date of change.
+
+### Article 76
+
+In addition to emergency water supply in the event of a disaster or emergency, surplus water from self-use water supply equipment may be supplied for the following purposes, subject to the approval of the local authority-in-charge:
+
+\1. Temporary water supply to areas without tap water under the request of residents.
+
+\2. Sold to local water supply enterprises for water supply.
+
+### Article 77
+
+The quality of tap water from self-use water supply equipment shall meet the standards prescribed in Article 10 herein.
+
+### Article 78
+
+The owner of self-use water supply equipment shall appoint a manager or act as the manager if no such appointment is made.
+
+### Article 79
+
+Articles 47, 51, 56, and 86 herein are applicable to self-use water supply equipment.
+
+## Chapter 6 Supervision and Guidance
+
+### Article 80
+
+The authority-in-charge shall order the stoppage of water supply construction or operation that did not apply for approval in compliance with this Act.
+
+### Article 81
+
+The management of a water supply enterprise and its personnel requiring to possess specific qualifications pursuant to Article 57 shall be reported to the authority-in-charge for future reference within fifteen days from the date of taking office or dismissal.
+
+### Article 82
+
+The authority-in-charge may order a poorly run water supply enterprise to improve its operation within a given period; if the water supply enterprise fails to comply, the authority-in-charge may write up a supervision plan for approval by its superior and then proceed with the monitoring activities and help the water supply enterprise reorganize its business and continue the water supply.
+
+The supervision provided in the preceding paragraph will stop after the water supply enterprise has completed the reorganization to the satisfaction of the authority-in-charge.
+
+### Article 83
+
+Where a water supply enterprise refuses the supervision of the authority-in-charge or refuses to carry out reorganization, or is uncooperative during the supervision period that causes failure in the implementation of supervision plan, the authority-in-charge may regard the water supply enterprise as lacking the intent to continue operation and take actions pursuant to Article 39 herein.
+
+### Article 84
+
+Where the quality of water supplied by a water supply enterprise does not meet the established standards, the authority-in-charge shall demand remedial actions, or order the suspension of water supply if the situation is of serious nature.
+
+### Article 85
+
+Where the main equipment of a water supply enterprise does not meet the established requirements, the authority-in-charge shall demand its repair or replacement in a given period, or order the discontinuation of its use if there is a hazard concern.
+
+### Article 86
+
+The authority-in-charge may inspect the facilities, water quality, water quantity, water pressure equipment, and the books of a water supply enterprise and ask for related data and records.
+
+The water authority may inspect hydraulic structures relating to water rights and water sources pursuant to the Water Act at any time. And a water supply enterprise may not refuse such inspections.
+
+### Article 87
+
+Water supply enterprises shall file monthly and annual reports with the authority-in-charge.
+
+The central authority-in-charge shall stipulate the format and the methods of report preparation.
+
+### Article 88
+
+When a water supply enterprise expands, replaces, or dismantles its main equipment, it shall submit detailed engineering plans to the authority-in-charge for approval. Plans for hydraulic structures relating to water rights and water sources under the Water Act shall be forwarded to the water authority for approval.
+
+### Article 89
+
+In addition to complying with other laws and regulations, the issuing of bonds or capital increase/decrease by a water supply enterprise shall be reported to the central authority-in-charge for approval.
+
+### Article 90
+
+A water supply enterprise shall not charge users any fees other than those specified in its approved operating rules. In case of violation, the authority-in-charge shall order the water supply enterprise to refund the overcharge to users.
+
+### Article 91
+
+For the purpose of promoting public health and safety, the authority-in-charge may order plants, restaurants, hotels, and other public places in its water service areas to hook up tap water.
+
+### Article 92
+
+Upon discovering activities in violation of Article 47 herein, the authority-in-charge may order the offender to rectify the situation or force the dismantling of connection.
+
+### Article 93
+
+Water pipe installation contractors shall be registered with the local municipal or county (city) government and join the relevant water pipe engineering industry association before starting business. The mechanics of water pipe installation contractors shall not start to work until having passed the examination and received a certificate.
+
+When applying for water supply from the water supply enterprise for the installation project between the water meter and the water slug of the water supply equipment of tap water users, the contractors should attach the membership certification form issued by the relevant water pipe engineering industry association. However, this does not apply to those installed by the water supply enterprise, entrusted by the water supply enterprise, or if there is no association in the offshore island area.
+
+The measure regulations for examining the mechanics of water pipe installation contractors shall be stipulated by the central authority-in-charge.
+
+### Article 93-1
+
+A water pipe installation contractors shall hang its registration certificate at a conspicuous spot in its office and the work manual issued shall only be used for verification by engineering units.
+
+The material used by water pipe installation contractors shall meet appropriate and applicable standards.
+
+The municipal or county (city) government at where the water pipe installation contractor is registered will issue warning if the contractor violates the provisions in Paragraph 1 and Paragraph 2 herein.
+
+### Article 93-2
+
+If a water pipe installation contractor has any of the following conditions, the municipal or county (city) government at where the contractor is registered shall impose the penalty of business suspension for no less than six months and no more than two years:
+
+\1. Receiving warning three times or more in one year for violation of Article 93-1;
+
+\2. Taking on projects in violation of the regulations for classification of contractors or employing full-time technician or mechanics in violation of the regulations for classification and qualifications;
+
+\3. Failing to apply for change of registration in violation of the regulations specified in Article 93-6 herein; or
+
+\4. Violating the management regulations specified in Article 93-6 in construction execution plan related matters and the violation is of serious nature.
+
+### Article 93-3
+
+If a water pipe installation contractor has any of the following conditions, the municipal or county (city) authority-in-charge shall annul its business permit:
+
+\1. Losing the ability to carry on business or having suspended for more than two years without applying for resumption of business within a prescribed period;
+
+\2. Receiving the penalty of business suspension and not turning in its permit, work manual, or work permit of technicians to the authority-in-charge within a prescribed period after being notified so;
+
+\3. Receiving the penalty of business suspension two or more times within two years and receiving the penalty of business suspension for a cumulative duration of three years or longer;
+
+\4. Selling or lending others the business permit, or using other’s business permit; or
+
+\5. Engaging in bid rigging.
+
+Water pipe installation contractor who had its business permit annulled pursuant in the preceding paragraph may not reapply pursuant to Paragraph 1, Article 93 in three years.
+
+### Article 93-4
+
+If the technician of a water pipe installation contractor does not carry his work permit on the job, the local authority-in-charge at where the permit is registered shall issue a warning.
+
+### Article 93-5
+
+If the technician of a water pipe installation contractor has been warned three or more times, altering his work permit or letting others use it, the local authority-in-charge at where the permit is registered shall impose a penalty of work stoppage for no less than two months and no more than six months.
+
+The technician of a water pipe installation contractor who has received the penalty of work stoppage two or more times will have his work permit be annulled by the authority-in-charge and cannot be hired by a water pipe installation contractor within one year.
+
+### Article 93-6
+
+The regulations governing the qualifications, criteria, and procedure for permit application by water pipe installation contractor, classification of water pipe installation contractor, as well as employment, qualifications of technical personnel, and other requirements shall be stipulated by the central authority-in-charge.
+
+### Article 94
+
+For the purpose of quickly restoring water supply, a water supply enterprise that sustains severe damages force majeure may ask the central government or local government for a loan of materials or funds.
+
+### Article 95
+
+The local government, military, military police and policeman have the responsibility to protect all facilities of water supply enterprises at any time.
+
+## Chapter 6-1 Water Conservation
+
+### Article 95-1
+
+When juristic persons, groups and individuals sell the water equipment, sanitary ware or other equipment designated by the central authority-in-charge for domestic, a Water Efficiency Label shall be labeled on such equipment or ware.
+
+The issuance, labeling, expiration, extension, revocation, cancelation, examination of sale and installation, and other regulations of a Water Efficiency Label pursuant in the preceding paragraph shall be stipulated by the central authority-in-charge.
+
+The type, scope, and effective date of the water equipment, sanitary ware or other equipment labeled with a Water Efficiency Label pursuant to Paragraph 1 hereof shall be announced by the central authority-in-charge.
+
+### Article 95-2
+
+The central authority-in-charge shall encourage the private participation in the research and development of water-saving technologies and stipulate the related incentives.
+
+## Chapter 7 Penal Provisions
+
+### Article 96
+
+Any person who interferes with water conservation or circulation, or pollutes water in a water quality and quantity protection area and ignores the instruction of the authority to discontinue the act shall be punished with a sentence of imprisonment of no more than one year, detention, or a fine of no more than five hundred yuan.
+
+### Article 97
+
+Any person who steals, or damages, or by other means, endangers the normal functionalities of essential water supply equipment specified under Articles 43 herein shall be punished with a sentence of imprisonment of no more than five years, detention, or a fine of no more than NT$1,000,000, or a combination thereof.
+
+If the damage or theft under the preceding paragraph causes disasters, the punishment of the offender shall be increased by a half. If the aforesaid act causes the death of others, the offender shall be punished with a sentence of imprisonment of more than five years and less than 12 years, or fined up to NT$10,000,000, or a combination thereof. If the act leads to severe injury to others, the offender shall be punished with a sentence of imprisonment of more than three years and less than 10 years, or fined up to NT$5,000,000, or a combination thereof.
+
+Any attempt to the offense under paragraph 1 shall be punished.
+
+### Article 97-1
+
+Any person who steals, or damages, or by other unlawful means endangers the undersea water pipelines of water supply enterprises or the normal functionalities of the essential facilities or equipment of water collection, storage, diversion, treatment, conveyance, and distribution of water supply enterprises related to public safety herein shall be punished with a sentence of imprisonment of more than one year and less than seven years, or fined up to NT$10,000,000, or a combination thereof.
+
+Any person who commits the offense specified in the preceding paragraph with the intention of endangering national security or social stability shall be punished with a sentence of imprisonment of more than three years and less than 10 years, or fined up to NT$50,000,000, or a combination thereof.
+
+If the damage or theft under the preceding two paragraphs causes disasters, the punishment of the offender shall be increased by a half. If the aforesaid act causes the death of others, the offender shall be punished with a sentence of life imprisonment or imprisonment of more than seven years, or fined up to NT$100,000,000, or a combination thereof. If the act leads to severe injury of others, the offender shall be punished with a sentence of imprisonment of more than five years and less than 12 years, or fined up to NT$80,000,000, or a combination thereof.
+
+Any person who damages due to negligence, or by other unlawful means endangers the normal functionalities of the undersea water pipelines of water supply enterprises herein shall be punished with a sentence of imprisonment of no more than six months, detention, or a fine of no more than NT$2,000,000, or a combination thereof.
+
+Any attempt of the offenses under paragraph 1 and paragraph 2 shall be punishable by law.
+
+Tools, vessels, or other machinery and equipment used in the crimes described in paragraphs 1 to 3 and the preceding paragraph shall be confiscated, regardless of whether they belong to the offender or not. Items confiscated by a court may be auctioned or sold depending on the circumstances of the case, or disposed of in one of the following ways with special approval:
+
+\1. Retained for public use free of charge.
+
+\2. Discarded.
+
+\3. Otherwise suitably disposed of.
+
+Regarding the essential facilities and equipment for water collection, storage, diversion, treatment, conveyance, and distribution of water supply enterprises related to public safety as specified in paragraph 1, the central authority-in-charge shall, after discussion with the relevant agencies and water supply enterprises and deliberation of factors including scale, water supply volume, location, the degree of impact on people’s lives, health, and property safety, and impacts on the economy and industry, announce the scope thereof. The same shall apply for amendments made.
+
+### Article 97-2
+
+Any person jeopardizes the normal functionalities of core information and communications systems of the facilities or equipment specified in paragraph 1 of the preceding article by any of the following means shall be punished with a sentence of imprisonment of more than one year and less than seven years, or fined up to NT$10,000,000, or a combination thereof:
+
+I.Entering the accounts and passwords, cracking the protection measures of computers, or exploiting loopholes in computer systems to hack into the computers or related equipment without justifiable reason.
+
+1.Entering the accounts and passwords, cracking the protection measures of computers, or exploiting loopholes in computer systems to hack into the computers or related equipment without justifiable reason.
+
+2.Interfering with the computers or relevant equipment via computer programs or other electromagnetic means without justifiable reason.
+
+3.Acquiring, deleting, or changing the electromagnetic records of the computers or relevant equipment without justifiable reason.
+
+Any person who commits the offenses specified in the preceding two paragraphs with the intention of endangering national security or social stability shall be punished with a sentence of imprisonment of more than three years and less than 10 years, or fined up to NT$50,000,000, or a combination thereof.
+
+If the damage under the preceding three paragraphs causes disasters, the punishment of the offender shall be increased by a half. If the aforesaid act causes the death of others, the offender shall be punished with a sentence of life imprisonment or imprisonment of more than seven years, or fined up to NT$100,000,000, or a combination thereof. If the act leads to severe injury of others, the offender shall be punished with a sentence of imprisonment of more than five years and less than 12 years, or fined up to NT$80,000,000, or a combination thereof.
+
+Any attempt to the offenses under paragraph 1 to paragraph 3 shall be punished.
+
+### Article 98
+
+The following activities are considered water theft and subject to a sentence of imprisonment of no more than five years, detention, or a fine of no more than five hundred yuan.
+
+\1. Taking water from the water supply network without the permission of water supply enterprise.
+
+\2. Bypassing the water meter by connecting private pipes to water supply network.
+
+\3. Vandalizing or modifying the structure of water meter, or rendering the water meter to fail or inaccurate.
+
+\4. Taking water from fire hydrant without the permission of water supply enterprise, except for the purpose of extinguishing fire.
+
+### Article 98-1
+
+If the water equipment, sanitary ware or other equipment sold for domestic is not labeled with a Water Efficiency Label pursuant to Paragraph 1 of Article 95-1, the juristic persons, groups and individuals shall be punished with a fine of no less than NT$40,000 and no more than NT$200,000 and ordered to improve its operation within a given period; if the juristic persons, groups and individuals fails to comply, the authority-in-charge may fine the juristic persons, groups and individuals per violation.
+
+### Article 99
+
+Any person who builds water supply facilities or operates a water supply enterprise without the approval of authority-in-charge by application according to this Act shall be punished with a fine of no less than one thousand yuan and no more than three thousand yuan.
+
+### Article 100
+
+Any person who violates Article 47 herein and fails to take remedial actions within a prescribed period as notified by the authority-in-charge or the water supply enterprise shall be punished with a fine of no more than one thousand yuan.
+
+### Article 101
+
+A water supply enterprise shall be punished with a fine of no more than one thousand yuan if its water does not meet the standards stipulated in Article 10 herein.
+
+The person-in-charge of a water supply enterprise, his/her representative, or employee in charge of water quality control who is aware that the water quality supplied is below the standard stipulated in Article 10 herein but continues to supply the water to users and causes diseases shall be punished with a sentence of imprisonment of no more than five years.
+
+Any person who supplies water below the standards stipulated in Article 10 hereof due to negligence shall be punished with a sentence of imprisonment of no more than two years, detention, or a fine of no less than five hundred and no more than one thousand yuan.
+
+### Article 102
+
+A water supply enterprise that violates the provisions of Article 32, Article 39 or Article 62 hereof by stopping operation or water supply at its own discretion shall be punished with a fine of no less than two thousand yuan and no more than six thousand yuan.
+
+The person-in-charge of a water supply enterprise, his/her representative, or an employee who intentionally violates the provisions of Article 32 or Article 62 by stopping water supply that leads to public endangerment or hazardous events will be sentenced to no more than five-year imprisonment. Those who cause suspension of water supply out of negligence which leads to public endangerment or hazardous events will be sentenced no more than two-year imprisonment, community service, and be fined no more than two thousand yuan.
+
+### Article 103
+
+A water supply enterprise that disobeys the order of the authority-in-charge issued according to Article 85 herein shall be punished with a fine of no more than three thousand yuan.
+
+### Article 104
+
+A water supply enterprise that charge users fees beyond those specified in its approved operating rules shall be punished with a fine that is three times of the overcharge.
+
+A water supply enterprise that charges users fees not according to the approved water rates or basic unit, or charges users additional fees shall be punished with a fine which is three times of the overcharge.
+
+### Article 105
+
+A water supply enterprise having any of the conditions below shall be punished with a fine of no more than three thousand yuan:
+
+\1. Violating Article 31 herein by running a water supply enterprise without authorized approval.
+
+\2. Violating Article 33 herein by breaching the exclusive operation right of other water supply enterprises.
+
+\3. Violating Article 34 herein by supplying water to areas outside its water service area.
+
+\4. Violating Article 35 herein by transferring the exclusive operation right to others without approval.
+
+\5. Violating Article 41 herein by disposing or hypothecating real property or a water supply facility.
+
+### Article 106
+
+A water supply enterprise having any of the conditions below shall be punished with a fine of no more than five hundred yuan:
+
+\1. Violating Paragraph 2 of Article 27.
+
+\2. Non-complying with Paragraph 1 of Article 57 in employment.
+
+\3. Violating Paragraph 1 of Article 61 by refusing water service.
+
+\4. Non-complying with Article 81 in reporting to the authority-in-charge for future reference.
+
+\5. Violating Article 86 by refusing inspection.
+
+\6. Non-complying with Article 87 in report filing.
+
+\7. Violating Article 88 by doing something without authorized approval.
+
+People installing water supply equipment for self-use will be penalized in accordance with the preceding paragraph if they violate any of Article 73 through Article 75.
+
+### Article 107
+
+For anyone who violates Paragraph 1 of Article 93 herein in water pipe installation work or a water pipe installation contractor who has had a business permit annulled pursuant to Article 93-3, the authority-in-charge will order suspension of business and impose a fine of no more than three hundred yuan.
+
+A water pipe installation contractor who receives the penalty of business suspension for violating subparagraph 2 of Article 93-2 shall be fined no more than three hundred yuan.
+
+### Article 108
+
+Anyone who is not a qualified pipe technician but employed by a contractor or whose license has been annulled according to Paragraph 2 of Article 93-5 shall be fined no more than one hundred yuan in addition to being barred from engaging in water pipe installation work.
+
+### Article 109
+
+People who fail to pay the fine imposed pursuant to this Act will be turned over to the court for compulsory enforcement.
+
+## Chapter 8 Supplementary Provisions
+
+### Article 110
+
+Articles 9, 43, 46 and 59 herein do not apply to simple water supply enterprises that supply less than 3,000 cubic meters of water a day, whereas the municipal or county (city) authority-in-charge will stipulate separate autonomous regulations for simple water supply enterprises.
+
+Article 57 herein does not apply to simple water supply enterprises depicted in the preceding paragraph that supply less than 300 cubic meters of water a day.
+
+A simple water supply enterprise as depicted in the preceding two paragraphs may have a water supply enterprise manage or take over its water supply system after its owner or the representative of its management committee has applied for and obtained the consent of said water supply enterprise.
+
+### Article 110-1
+
+The water supply enterprise may charge the simple water supply enterprise operation and maintenance fees and all other necessary expenses during the management period. The water supply enterprise will set the fee schedule for the aforesaid purpose and file it with the authority-in-charge for future reference.
+
+The owner or the management committee of the simple water supply enterprise shall hand over gratuitously its water supply system facilities, plant, and water right deed in an itemized manner to the water supply enterprise for use and management during the management period.
+
+For a simple water supply enterprise depicted in the preceding paragraph whose water supply system is taken over, its owner or management committee shall hand over gratuitously the ownership to its water supply system facilities and plants in an itemized manner to the water supply enterprise.
+
+If a simple water enterprise depicted in the preceding two paragraphs has used the land for its facilities for more than ten years, the registration for transfer of superficies rights or ownership is waived. In such an event, the water supply enterprise that takes over may use the land gratuitously and is deemed to own the superficies rights.
+
+Following the amendment of the Act on January 5, 2007, newly established simple water supply enterprises that supply more than 100 cubic meters a day shall apply for management or take-over by a water supply enterprise in areas where it has laid main pipes and commence water supply after the application has been approved and its system has been incorporated into the water supply system.
+
+### Article 111
+
+Water supply enterprises operating prior to the promulgation of this Act shall be in compliance with this Act in one year after the promulgation.
+
+### Article 112
+
+The central authority-in-charge will stipulate the enforcement rules of this Act.
+
+### Article 113
+
+This Act will be enforced on the date of promulgation.
+
+## History
+
+1.Promulgated on November 17, 1966
+
+2.Addition of Article 12-1 promulgated on June 29, 1995.
+
+3.Amendment to Article 50 promulgated on May 21, 1997.
+
+4.Amendment to Articles 2 ~ 4, 6, 10, 11, 12-1, 13, 14, 25 ~ 27, 30 ~ 32, 35, 38, 39, 42, 46, 49, 55, 58~ 60, 81, 107, 108, 110, and 112, addition of Articles 93-1 ~ 93-6, and deletion of Articles 15 & 37 promulgated on December 18, 2002.
+
+5.Addition of Articles 12-2, 12-3, and 60-1, amendment to Articles 12-1, 41, 50, 56, 59, 60, and 93 promulgated on June 30, 2004.
+
+6.Amendment to Article 12-3 promulgated on May 18, 2005
+
+7.Addition of Article 110-1 and amendment to Article 110 of the Water supply Act per Presidential Decree No. Hua-Zong-Yi-Yi-Zi-096000009761 dated January 24, 2007.
+
+8.Addition of Articles 17-1, and 61-1, amendment to Articles 23 promulgated on January 21, 2009.
+
+9.Amendment to Article 12-2 and 59 of the Water Supply Act per Presidential Decree No. Hua-Zhong-Yi-Yi-Zi-09900019961 dated January 27, 2010.
+
+10.Amendment to Article 12-2 of the Water Supply Act per Presidential Decree No. Hua-Zhong-Yi-Yi-Zi- 09900146521 dated June 15, 2010.
+
+11.Amendment to Article 61 on December 19, 2012 by Presidential Decree No. Hua-Zhong-Yi-Yi-Zi- 10100279751.
+
+12.Addition of Articles 12-4, amendment to Article 12-2, 52, 53, and 61-1 on January 16, 2013 by Presidential Decree No. Hua-Zhong-Yi-Yi-Zi- 10200007551.
+
+13.Amendment to Article 93 on January 29, 2014 by Presidential Decree No. Hua-Zhong-Yi-Yi-Zi- 10300011811.
+
+14.Amendment to Articles 12-1, 12-2 & 50, addition of Chapter 6-1 and Articles 95-1, 95-2 & 98-1, and deletion of Articles 60-1 promulgated on May 4, 2016 by Presidential Decree No. Hua-Zhong-Yi-Yi-Zi- 10500037371.
+
+15.Addition of Articles 61-2 on December 4, 2019 by Presidential Decree No. Hua-Zhong-Yi-Yi-Zi- 10800130961.
+
+16.Addition of Articles 61-1 on February 3, 2021 by Presidential Decree No. Hua-Zhong-Yi-Yi-Zi- 11000008921.
+
+17.Amendment to Articles 8, 97 and Addition of Articles 97-1 and 97-2 on June 28, 2023 by Presidential Decree No. Hua-Zhong-Yi-Jing-Zi- 11200054071
+
+18.Amendment to Articles 97-1 on Jan 5, 2026 by Presidential Decree No. Hua-Zhong-Yi-Jing-Zi- 11400135101.

@@ -1,0 +1,1567 @@
+---
+title: "Local Government Act"
+title_zh: "地方制度法"
+identifier: "A0040003"
+type: act
+law_level: "法律"
+category: "行政＞內政部＞民政目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1999-01-25
+last_amended: 2025-12-03
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=A0040003"
+retrieved: 2026-10-12
+---
+
+# Local Government Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-the-interior/A0040003-local-government-act.md](../../../zh/laws/ministry-of-the-interior/A0040003-local-government-act.md)) is authoritative.
+
+## Chapter 1. General Provisions
+
+##### Article 1
+
+This Act is enacted in accordance with Article 118 of the Constitution of the Republic of China and Paragraph 1, Article 9 of the Additional Articles of the Constitution of the Republic of China.
+
+Local governments shall comply with the provisions of this Act. Matters not provided for hereunder shall be governed by other applicable laws.
+
+##### Article 2
+
+The terms used in this Act are defined as follows:
+
+\1. Local self-governing body: A legal entity that carries out local self-government in accordance with this Act. The Provincial Government is a branch of the Executive Yuan and there are no province-level local self-governing bodies.
+
+\2. Self-government matters: Matters for which local self-governing bodies may independently formulate and implement legislation, in accordance with the Constitution and provisions of this Act, and matters over which such bodies hold legal jurisdiction and for which such bodies formulate and implement policy.
+
+\3. Commissioned matters: Matters that are outside the jurisdiction of a local self-governing body that are carried out by the aforementioned body under the direction and supervision of a higher level of government, in accordance with law and with regulations and guidelines from higher levels of government.
+
+\4. To approve: A higher level of government or a competent authority reviews and makes a determination on a report submitted by a subordinate government or agency, so as to render the matter legally valid.
+
+\5. To submit for recordation: A subordinate government authority or agency, acting in the capacity prescribed by law, concludes a matter over which it exercises full authority and submits a report to a higher level of government or a competent authority.
+
+\6. To be dismissed: A civil servant is dismissed in accordance with the Public Functionaries Discipline Act, or a public official is recalled in accordance with the Public Officials Election and Recall Act, or has been relieved of their authority or removed from their position in accordance with this Act.
+
+##### Article 3
+
+Local governments are subdivided into provinces and special municipalities.
+
+Provinces are subdivided into counties and cities (hereafter referred to as counties/cities); counties are subdivided into townships, and county-administered cities (hereafter referred to as townships/cities).
+
+Special municipalities and cities are subdivided into districts.
+
+Townships, county-administered cities, and districts are subdivided into villages. Villages are subdivided into neighborhoods.
+
+##### Article 4
+
+A region with a population of one million and two hundred fifty thousand (1,250,000) or greater that has special requirements for its political, economic, cultural, and metropolitan development may establish a special municipality.
+
+Articles 34, 54, 55, 62, 66, 67, and other provisions relevant to special municipalities shall apply mutatis mutandis to counties with populations of two million (2,000,000) or greater that have not yet changed into special municipalities.
+
+A region with a population from five hundred thousand (500,000) to not more than one million and two hundred fifty thousand (1,250,000) that occupies a major political, economic, and cultural role may establish a city.
+
+A region with a population from one hundred thousand (100,000) to not more than five hundred thousand (500,000) that possesses thriving industrial and commercial development, adequate financial resources for local self-government, convenient transportation, and comprehensive public facilities may establish a county-administered city.
+
+Paragraphs 1, 3 and 4 shall not apply to special municipalities, cities, and county-administered cities established prior to the promulgation of this Act.
+
+##### Article 5
+
+Provinces shall establish a provincial government and provincial consultative council.
+
+Special municipalities shall establish councils and governments of the special municipality; counties/cities shall establish county/city councils and governments; townships/cities shall establish township/city councils and offices; these are the legislative and administrative bodies, respectively, of special municipalities, counties/cities, and townships/cities.
+
+Districts in special municipalities and cities shall have district offices.
+
+Villages shall have village offices.
+
+##### Article 6
+
+Names of existing provinces, special municipalities, counties/cities, townships/cities, districts, and villages shall be retained.
+
+Changes to the aforementioned names shall be carried out in accordance with the following provisions:
+
+\1. Provinces: The Ministry of the Interior shall submit the proposed changes to the Executive Yuan for approval.
+
+\2. Special municipalities: The government of the special municipality shall submit the proposed changes to the council of the special municipality for adoption, after which such changes shall be submitted to the Executive Yuan for approval.
+
+\3. Counties/cities: The county/city government shall submit the proposed changes to the county/city council for adoption, after which the Ministry of the Interior shall submit such changes to the Executive Yuan for approval.
+
+\4. Townships/cities and villages: The township/city office shall submit the proposed changes to the township/city council for adoption, after which such changes shall be submitted to the county government for approval.
+
+\5. Districts and villages in special municipalities or cities: The government of the special municipality or city government shall submit the proposed changes to the council of the special municipality or city council for approval.
+
+The preceding paragraph shall apply mutatis mutandis to townships that are compliant with Paragraph 4 of Article 4 and changes into county-administered cities.
+
+##### Article 7
+
+The establishment, abolition, or adjustment of provinces, special municipalities, counties/cities, townships/cities, and districts shall be carried out in accordance with law.
+
+Counties/cities shall be changed into special municipalities or merged with other county/city administrative districts or special municipalities in accordance with this Act.
+
+Regulations governing the organization of and adjustment to villages and neighborhoods shall be separately formulated by the special municipalities and counties/cities.
+
+##### Article 7-1
+
+In line with the need for sensible national land planning and balanced development of different regions, when the Ministry of the Interior plans to change a county/city into a special municipality or to form a new special municipality by merging a county/city with other counties/cities or special municipalities input shall be solicited from the governments of the relevant special municipalities and counties/cities prior to submitting the plan to the Executive Yuan for approval.
+
+When a county/city is to be changed into a special municipality, the county/city government shall formulate the plan for the change. After approval by the county/city council, the Ministry of the Interior shall submit the plan to the Executive Yuan for approval.
+
+When a special municipality is to be formed by merging a county/city with other counties/cities or special municipalities, the governments of the aforementioned entities shall jointly formulate a plan for the merger; after receiving approval from the councils of the counties/cities and special municipalities, the plan shall be submitted by the Ministry of the Interior to the Executive Yuan for approval.
+
+The Executive Yuan shall make a decision within six (6) months of receipt of such plans from the Ministry of the Interior.
+
+The Ministry of the Interior shall announce both the plan and the timetable for such changes within thirty (30) days from the day after the date of receipt of the official letter of approval from the Executive Yuan.
+
+##### Article 7-2
+
+The aforementioned plans for changing a county/city into a special municipality shall indicate the following:
+
+\1. The name of the new special municipality.
+
+\2. Any historical developments.
+
+\3. The scope, population, and areas of the administrative districts before and after the change into a special municipality.
+
+\4. The name, population and areas of townships/cities and villages changed into districts and villages before and after the change.
+
+\5. The boundaries on a topographic map of the administrative regions before and after the change and the results of joint inspections of the boundaries.
+
+\6. The result of the assessment of the impact of the change on local politics, finance, economics, culture, urban development, and transportation.
+
+\7. The location of the council of the special municipality  and government of the special municipality after the change.
+
+\8. The plans of the relevant agencies (institutions) and schools of the former special municipalities, counties/cities, townships/cities and districts with regard to changes in organizational structure, professional reorganization, re-allocation of personnel, transfer of assets, and compliance with self-government laws and regulations.
+
+\9. The guidelines of the relevant agencies (institutions) and schools of the former special municipalities, counties/cities, townships/cities and districts with regard to budget formulation and implementation after the change.
+
+\10. Other issues relevant to the change in status.
+
+##### Article 7-3
+
+The administrative districts of special municipalities formed in accordance with Article 7-1 shall be consolidated in accordance with the provisions of relevant laws and regulations.
+
+## Chapter 2. Provincial Government and Provincial Consultative Council
+
+##### Article 8
+
+Provincial governments shall carry out the following under the supervision of the Executive Yuan:
+
+\1. Supervision of self-government matters in counties/cities.
+
+\2. Administrative affairs of the provincial government.
+
+\3. Other duties as prescribed by law or as commissioned by the Executive Yuan.
+
+##### Article 9
+
+Provincial governments shall exercise power through a provincial commission composed of nine (9) members. A governor shall be appointed from among these specially appointed members who, when handling provincial government affairs, shall serve concurrently both as the governor and as a member of the commission. The other members of the commission shall serve without remuneration, shall be nominated by the Premier and shall be appointed by the President.
+
+##### Article 10
+
+The provincial consultative council provides counsel and recommendations for reform that are related to provincial government affairs.
+
+##### Article 11
+
+Members of the provincial consultative council shall serve a three-year term and shall not receive remuneration. The number of council members shall be determined by the Executive Yuan on the basis of the area and constituent population of the jurisdiction and the needs of the provincial government operations. The council shall be composed of not less than five (5) and not more than twenty-nine (29) members; a chairperson who shall be in charge of council affairs shall be appointed from among the members of the council. Council members shall be nominated by the Premier and shall be appointed by the President.
+
+##### Article 12
+
+The Executive Yuan shall incorporate the budgets of provincial governments and provincial consultative councils into the general budget of the central government; budget formulation and implementation shall be handled in accordance with the Budget Act, Financial Statement Act, National Treasury Act, and other relevant laws.
+
+##### Article 13
+
+The organizational regulations of provincial governments and provincial consultative councils shall be formulated by the Executive Yuan.
+
+## Chapter 3. Local Self-government
+
+### Section 1. Local Self-governing bodies and the Rights and Duties of Constituents
+
+##### Article 14
+
+Special municipalities, counties/cities, and townships/cities are local self-governing bodies that carry out self-government matters in accordance with this Act and commissioned matters commissioned by higher levels of government.
+
+##### Article 15
+
+A national of the Republic of China is considered to be a constituent of the special municipality, county/city, and township/city in which their household is registered.
+
+##### Article 16
+
+The rights of the constituents of special municipalities, counties/cities, and townships/cities are as follows:
+
+\1. The right to elect and recall local public officials in accordance with law.
+
+\2. The right to propose initiatives and referendums regarding self-government matters in accordance with law.
+
+\3. The right to use local public facilities.
+
+\4. The right to enjoy local education and culture, social welfare, medical treatment, and sanitation services in accordance with law and self-government laws and regulations.
+
+\5. The right to request that local government information be made public in accordance with law.
+
+\6. Other rights as bestowed by law and by self-government laws and regulations.
+
+##### Article 17
+
+The duties of the constituents of special municipalities, counties/cities, and townships/cities are as follows:
+
+\1. The duty to abide by self-government laws and regulations.
+
+\2. The duty to pay local government taxes and levies.
+
+\3. Other duties as required by law and by self-government laws and regulations.
+
+### Section 2. Self-government Matters
+
+##### Article 18
+
+The self-government matters of special municipalities are as follows:
+
+\1. Matters related to organization and administration:
+
+(1) Election and recall of public officials in the special municipality.
+
+(2) Establishment and management of special municipality organizations.
+
+(3) Administration of household registration in the special municipality.
+
+(4) Administration of land registration in the special municipality.
+
+(5) Press administration in the special municipality.
+
+\2. Financial matters:
+
+(1) Management of special municipality income, expenditures, and finances in the special municipality.
+
+(2) Taxes and levies in the special municipality.
+
+(3) Public debts in the special municipality.
+
+(4) Management and disposition of special municipality properties.
+
+\3. Matters related to social services:
+
+(1) Social welfare in the special municipality.
+
+(2) Charity businesses and social assistance in the special municipality.
+
+(3) Guidance for civil associations in the special municipality.
+
+(4) Guidance for religious affairs in the special municipality.
+
+(5) Establishment and management of cemeteries and burial facilities in the special municipality.
+
+(6) Arbitration in the special municipality.
+
+\4. Matters related to education, culture, and sports:
+
+(1) Provision and management of pre-school education, school education at all levels, and social education in the special municipality.
+
+(2) Cultural activities in the special municipality.
+
+(3) Sports activities in the special municipality.
+
+(4) Cultural asset preservation in the special municipality.
+
+(5) Rites, traditions, and literature in the special municipality.
+
+(6) Establishment, operations, and administration of social education, physical education, and cultural institutions in the special municipality.
+
+\5. Matters related to labor administration:
+
+(1) Labor relations in the special municipality.
+
+(2) Occupational safety and health of laborers in the special municipality.
+
+\6. Matters related to urban planning and construction:
+
+(1) Formulation, review, and implementation of urban planning in the special municipality.
+
+(2) Construction administration in the special municipality.
+
+(3) Residential affairs in the special municipality.
+
+(4) Construction and administration of underwater facilities in the special municipality.
+
+(5) Construction and administration of parks and green spaces in the special municipality.
+
+(6) Disposal of construction waste in the special municipality.
+
+\7. Matters related to economic services:
+
+(1) Guidance for and management of agriculture, forestry, fishery, and livestock  in the special municipality.
+
+(2) Nature conservation in the special municipality.
+
+(3) Guidance for and administration of industrial and commercial sectors in the special municipality.
+
+(4) Consumer protection in the special municipality.
+
+\8. Matters related to water resources:
+
+(1) Regulation and management of rivers in the special municipality.
+
+(2) Conservation and management of watersheds in the special municipality.
+
+(3) Construction and management of flood control systems and drainage systems in the special municipality.
+
+(4) Surveys of basic water resources in the special municipality.
+
+\9. Matters related to sanitation and protection of the environment:
+
+(1) Sanitation management in the special municipality.
+
+(2) Protection of the environment in the special municipality.
+
+\10. Matters related to transportation and tourism:
+
+(1) Planning, construction and management of roads in the special municipality.
+
+(2) Traffic planning, operations, and management in the special municipality.
+
+(3) Tourism in the special municipality.
+
+\11. Matters related to public safety:
+
+(1) Police administration and enforcement in the special municipality.
+
+(2) Planning and implementation of disaster prevention and disaster rescue operations in the special municipality.
+
+(3) Civil defense in the special municipality.
+
+\12. Matters related to operations and management of businesses:
+
+(1) Joint operation of enterprises in the special municipality.
+
+(2) Public utilities and publicly-owned enterprises in the special municipality.
+
+(3) Enterprises jointly operated with other  local self-governing bodies.
+
+\13. Other matters as required by law.
+
+##### Article 19
+
+The self-government matters of counties/cities are as follows:
+
+\1. Matters related to organization and administration:
+
+(1) Election and recall of public officials in the county/city.
+
+(2) Establishment and management of county/city organizations in the county/city.
+
+(3) Administration of household registration in the county/city.
+
+(4) Administration of land registration in the county/city.
+
+(5) Press administration in the county/city.
+
+\2. Financial matters:
+
+(1) Management of county/city income, expenditures, and finances in the county/city.
+
+(2) Taxes and levies in the county/city.
+
+(3) Public debts in the county/city.
+
+(4) Management and disposition of county/city properties.
+
+\3. Matters related to social services:
+
+(1) Social welfare in the county/city.
+
+(2) Charity businesses and social assistance in the county/city.
+
+(3) Guidance for civil associations in the county/city.
+
+(4) Guidance for religious affairs in the county/city.
+
+(5) Establishment and management of cemeteries and burial facilities in the county/city.
+
+(6) Arbitration in the county/city.
+
+\4. Matters related to education, culture, and sports:
+
+(1) Provision and management of pre-school education, school education at all levels, and social education in the county/city.
+
+(2) Cultural activities in the county/city.
+
+(3) Sports activities in the county/city.
+
+(4) Cultural asset preservation in the county/city.
+
+(5) Rites, traditions, and literature in the county/city.
+
+(6) Establishment, operations, and management of social education, physical education, and cultural institutions in the county/city.
+
+\5. Matters related to labor administration:
+
+(1) Labor relations in the county/city.
+
+(2) Occupational safety and health of laborers in the county/city.
+
+\6. Matters related to urban planning and construction:
+
+(1) Formulation, review, and implementation of urban planning in the county/city.
+
+(2) Construction administration in the county/city.
+
+(3) Residential affairs in the county/city.
+
+(4) Construction and administration of underwater facilities in the county/city.
+
+(5) Construction and administration of parks and green spaces in the county/city.
+
+(6) Disposal of construction waste in the county/city.
+
+\7. Matters related to economic services:
+
+(1) Guidance for and management of agriculture, forestry, fishery, livestock in the county/city.
+
+(2) Nature conservation in the county/city.
+
+(3) Guidance for and administration of industrial and commercial sectors in the county/city.
+
+(4) Consumer protection in the county/city.
+
+\8. Matters related to water resources:
+
+(1) River regulation and management in the county/city.
+
+(2) Watershed conservation and management in the county/city.
+
+(3) Construction and management of flood control systems and drainage systems in the county/city.
+
+(4) Surveys of basic water resources in the county/city.
+
+\9. Matters related to sanitation and protection of the environment:
+
+(1) Sanitation management in the county/city.
+
+(2) Protection of the environment in the county/city.
+
+\10. Matters related to transportation and tourism:
+
+(1) Planning, construction, and management of roads in the county/city.
+
+(2) Traffic planning, operations, and management in the county/city.
+
+(3) Tourism in the county/city.
+
+\11. Matters related to public safety:
+
+(1) Police enforcement in the county/city.
+
+(2) Planning and implementation of disaster prevention and disaster rescue operations in the county/city.
+
+(3) Civil defense in the county/city.
+
+\12. Matters related to operations and management of businesses:
+
+(1) Joint operation of enterprises in the county/city.
+
+(2) Public utilities and publicly-owned enterprises in the county/city.
+
+(3) Public productive enterprises in the county/city.
+
+(4) Enterprises jointly operated with other local self-governing bodies.
+
+\13. Other matters as required by law.
+
+##### Article 20
+
+The self-government matters of townships/cities are as follows:
+
+\1. Matters related to organization and administration:
+
+(1) Election and recall of public officials in the township/city.
+
+(2) Establishment and management of township/city organizations.
+
+(3) Press administration in the township/city.
+
+\2. Financial matters:
+
+(1) Management of township/city income, expenditures, and finances in the township/city.
+
+(2) Taxes and levies in the township/city.
+
+(3) Public debts in the township/city.
+
+(4) Management and disposition of township/city properties.
+
+\3. Matters related to social services:
+
+(1) Social welfare in the township/city.
+
+(2) Charity businesses and social assistance in the township/city.
+
+(3) Establishment and management of cemeteries and burial facilities in the township/city.
+
+(4) Arbitration in the township/city.
+
+\4. Matters related to education, culture, and sports:
+
+(1) Provision and management of social education in the township/city.
+
+(2) Cultural activities in the township/city.
+
+(3) Sports activities in the township/city.
+
+(4) Rites, traditions, and literature in the township/city.
+
+(5) Establishment, operations, and management of social education, physical education, and cultural institutions in the township/city.
+
+\5. Matters related to environmental sanitation:
+
+Waste handling and disposal in the township/city.
+
+\6. Matters related to construction, transportation, and tourism:
+
+(1) Construction and management of roads in the township/city.
+
+(2) Construction and administration of parks and green spaces in the township/city.
+
+(3) Traffic planning, operations, and management in the township/city.
+
+(4) Tourism in the township/city.
+
+\7. Matters related to public safety:
+
+(1) Planning and implementation of disaster prevention and disaster rescue operations in the township/city.
+
+(2) Civil defense in the township/city.
+
+\8. Matters related to operations and management of businesses:
+
+(1) Public utilities and publicly-owned enterprises in the township/city.
+
+(2) Public productive enterprises in the township/city.
+
+(3) Enterprises jointly operated with other local self-governing bodies.
+
+\9. Other matters as required by law.
+
+##### Article 21
+
+Self-government matters of special municipalities, counties/cities, or townships/cities that involve other special municipalities, counties/cities, or townships/cities shall be carried out through joint collaboration between the respective local self-governing bodies. When necessary, a common, higher-level competent authority for such matters shall coordinate the collaboration of the aforementioned bodies or shall appoint one of the bodies to carry out the matter within a specified period of time.
+
+##### Article 22
+
+(deleted)
+
+##### Article 23
+
+Special municipalities, counties/cities, and townships/cities shall take responsibility for and diligently carry out self-government matters in accordance with law.
+
+##### Article 24
+
+Administrative organizations for enterprises jointly operated by multiple special municipalities, counties/cities, or townships/cities shall be established through approval by the relevant councils.
+
+When the aforementioned joint enterprise involves matters under the jurisdiction of the relevant councils, said matters shall be decided by a council engaged by the relevant councils.
+
+##### Article 24-1
+
+Multiple special municipalities, counties/cities, or townships/cities may jointly establish organizations for regional collaboration, enter into agreements or administrative contracts, or by other means collaborate to address inter-jurisdictional matters, promote area resources, or improve the well-being of area residents; such activities shall be reported to the common, higher-level competent authority for recordation.
+
+Approval from the relevant special municipality, county/city, or township/city councils shall be required for matters in the preceding paragraph that are under the jurisdiction of the aforementioned councils.
+
+Special municipalities, counties/cities, or townships/cities shall formulate (promulgate) or amend relevant self-government laws and regulations related to matters in the first paragraph that involve the transfer or revision of jurisdiction.
+
+The common, higher-level competent authority shall prioritize funding and any other necessary assistance for cross-jurisdictional construction plans and matters in the first paragraph involving regional collaboration that are proposed by special municipalities, counties/cities, or townships/cities.
+
+##### Article 24-2
+
+When multiple special municipalities, counties/cities, or townships/cities jointly enter into an administrative contract in accordance with Paragraph 1 of the preceding article, the following shall be indicated in the contract, as warranted:
+
+\1. The organizations or agencies that are parties to the administrative contract.
+
+\2. The scope matters and methods of collaboration.
+
+\3. The basis for the allocation of expenses.
+
+\4. The period of collaboration.
+
+\5. The preconditions that must be met in order for the contract to take effect and the date when the contract will take effect.
+
+\6. The procedure for handling any breaches of the contract.
+
+\7. Other issues relevant to the rights and obligations of the concerned parties.
+
+##### Article 24-3
+
+Special municipalities, counties/cities and townships/cities shall fulfill all obligations in accordance with the agreement. In the event of disputes, the issue may be reported to the common, higher-level competent authority for resolution or may be handled in accordance with the judicial process.
+
+### Section 3. Self-government Laws and Regulations
+
+##### Article 25
+
+Special municipalities, counties/cities, and townships/cities may formulate self-government laws and regulations in accordance with law or upon authorization from higher levels of government. Self-government laws and regulations passed by the local legislative body and promulgated by the administrative body shall be called self-government ordinances; those formulated and promulgated by the local administrative body shall be called self-government regulations.
+
+##### Article 26
+
+The names of the local self-governing bodies shall be affixed to self-government ordinances; in special municipalities, ordinances shall be called special municipality ordinances and regulations. In counties/cities, ordinances shall be called county/city regulations; in townships/cities, ordinances shall be called township/city regulations.
+
+Administrative fines or other forms of administrative penalties may be imposed for violations of special municipality ordinances and regulations or county/city regulations that fall under the administration of local self-government matters and that are not otherwise provided for by law. If an administrative fine is not paid within the time allowed, enforcement of the penalty may be transferred in accordance with relevant laws.
+
+The administrative fines stipulated in the preceding paragraph shall not exceed one hundred thousand New Taiwan Dollars (NT$100,000) and may be successively imposed. Other administrative penalties shall be limited to suspension of work, suspension of business, suspension of licenses, and restriction or prohibition of specific actions within a specified time period.
+
+After self-government ordinance is approved by the local legislative body, if any penal provisions are included in the ordinance, the ordinance shall be separately submitted to the Executive Yuan and the relevant central competent authorities for approval and promulgation. Unless otherwise provided for by law or by county regulations, special municipality ordinances and regulations shall be submitted to the relevant central competent authorities and forwarded to the Executive Yuan for recordation. After promulgation, county/city regulations shall be submitted to the relevant central competent authorities for recordation, and township/city regulations shall be submitted to the county government for recordation.
+
+##### Article 27
+
+Self-government regulations governing the self-government matters of governments of special municipalities, county/city governments, and township/city offices shall be formulated in accordance with their legal authority and powers vested by law, ordinances and regulations promulgated in accordance with law, and the authorization of self-government ordinances.
+
+The names of local self-governing bodies shall be affixed to self-government regulations, which may be called regulations, rules, or standards based on their nature.
+
+Unless otherwise provided for by law or by ordinances and regulations promulgated in accordance with law, self-government regulations formulated by special municipalities, counties/cities and townships/cities shall, after promulgation, be submitted to the Executive Yuan, relevant central competent authorities, and county governments, respectively, for recordation and to the respective local legislative bodies for future reference.
+
+##### Article 28
+
+The following issues shall be determined by self-government ordinances:
+
+\1. Issues to be approved by the local legislative body as provided by law or by self-government ordinances.
+
+\2. Issues that create, deprive, or restrict the rights and duties of residents of local self-governing bodies.
+
+\3. Issues related to the organizations of the local self-governing bodies, as well as the organizations of enterprises and agencies operated by local self-governing bodies.
+
+\4. Other significant matters that, according to resolution of the local legislative body, shall be determined by self-government ordinances.
+
+##### Article 29
+
+In accordance with the legal authority and powers vested by law and with central government laws and regulations promulgated in accordance with law, governments of special municipality, county/city governments, and township/city offices shall formulate regulations for matters commissioned by a higher level of government.
+
+The regulations on commissioned matters shall be promulgated after they are submitted for approval to the commissioning agency. The provisions on the naming of self-government regulations shall apply mutatis mutandis to the naming of the regulations on commissioned matters.
+
+##### Article 30
+
+Self-government ordinances that contravene the Constitution, laws, regulations promulgated in accordance with law, or self-government ordinances of higher-level self-governing bodies shall be nullified.
+
+Self-government regulations that contravene the Constitution, laws, regulations promulgated in accordance with law, self-government ordinances of higher-level self-governing bodies, or self-government ordinances of the self-governing body concerned shall be nullified.
+
+Regulations on commissioned matters that contravene the Constitution, laws, or central government regulations and executive orders shall be nullified.
+
+If ordinances or regulations are nullified on the basis of conflicts detailed in Paragraph 1 and Paragraph 2, the Executive Yuan, relevant central competent authorities, or the county government, respectively, shall provide written notice of such conflicts. If regulations are nullified on the basis of the conflicts detailed in Paragraph 3, the commissioning agency shall provide written notice that the regulations have been nullified.
+
+If there is doubt as to whether a self-government law or regulation conflicts with the Constitution, laws, regulations promulgated in accordance with law, self-government ordinances of higher-level local self-governing bodies, or the self-government ordinances of the local self-governing body concerned, a motion may be filed for interpretation by the Judicial Yuan.
+
+##### Article 31
+
+The local legislative body may formulate self directions.
+
+Unless otherwise provided for by law or by self-government ordinances, self directions shall be promulgated by the local legislative body and submitted to the relevant higher level of government for recordation.
+
+Self directions that contravene the Constitution, laws, central government regulations promulgated in accordance with law, or higher-level self-government laws and regulations shall be nullified.
+
+##### Article 32
+
+After approval by the local legislative body, self-government ordinances shall be submitted to the respective local administrative body to be promulgated within thirty (30) days unless a motion is filed for reconsideration in accordance with Article 39, a motion is filed with a higher level of government to invalidate the statute in accordance with Article 43, a motion is filed for interpretation by the Judicial Yuan, or unless otherwise provided for by law.
+
+Self-government laws and regulations and regulations on commissioned matters that, according to regulations, require approval from other agencies shall be announced or promulgated within thirty (30) days after the letter of approval is sent to the relevant local administrative body.
+
+If approval from a higher level of government or a commissioning agency is required for self-government laws and regulations and regulations on commissioned matters, the approving agency shall make a decision within one (1) month; the laws and regulations shall be deemed approved after said period of time expires, and shall be announced or promulgated by the submitting entity. This provision shall not apply when regulations that are complex or have major implications require a longer review period, and the approving agency has provided written notice of the grounds for the longer review period.
+
+Self-government laws and regulations  and regulations on commissioned matters shall take effect on the third day after their announcement or promulgation; however, when a specific date of enforcement is provided, the regulations shall take effect on the enforcement date.
+
+If the local administrative body fails to announce or promulgate self-government laws and regulations or regulations on commissioned matters as stipulated in Paragraph 1 and Paragraph 2, the aforementioned regulations shall take effect on the third day after the expiration of the time period, and shall be announced or promulgated by the local legislative body. However, regulations approved by a higher level of government or a commissioning agency shall be announced or promulgated by the approving entity.
+
+### Section 4. Local Government Organizations
+
+#### Subsection 1. Local Legislative Bodies
+
+##### Article 33
+
+In accordance with law, councilors of a special municipality, county/city councilors, and township/city representatives shall be elected to a four-year term by the residents of the special municipality, county/city, or township/city and may be re-elected for consecutive terms.
+
+The number of councilors of a special municipality, county/city councilors, and township/city representatives shall be stipulated in the organizational rules of the local legislative bodies on the basis of the finances and local circumstances of the special municipality, county/city, or township/city and in accordance with the following provisions:
+
+\1. Councilors of a special municipality:
+
+(1) District councilors: In special municipalities where the total population less the indigenous population does not exceed two million (2,000,000), the total number of district councilors shall not exceed fifty-five (55); if the population exceeds two million (2,000,000), the total number of district councilors shall not exceed sixty-two (62).
+
+(2) Indigenous councilors: In special municipalities where the plain-land indigenous population not less than two thousand (2,000), there shall be councilors elected by the plain-land indigenous population. In special municipalities where the mountain indigenous population not less than two thousand (2,000) or where mountain indigenous townships existed prior to the change to a special municipality, there shall be councilors elected by the mountain indigenous population.
+
+\2. County/city councilors:
+
+(1) District councilors: In counties/cities where the total population less the indigenous population does not exceed ten thousand (10,000), the total number of district councilors shall not exceed eleven (11). If the population does not exceed two hundred thousand (200,000), the total number of district councilors shall not exceed nineteen (19). If the population does not exceed four hundred thousand (400,000), the total number of district councilors shall not exceed thirty-three (33). If the population does not exceed seven hundred thousand (700,000), the total number of district councilors shall not exceed forty-three (43). If the population does not exceed one million and six hundred thousand (1,600,000), the total number of district councilors shall not exceed fifty-seven (57). If the population exceeds one million and six hundred thousand (1,600,000), the total number of district councilors shall not exceed sixty (60). If, in accordance with item two (2), there are no indigenous councilors to be elected, the indigenous population shall be counted in the total population.
+
+(2) Indigenous councilors: In counties/cities where the total plain-land indigenous population is not less than one thousand five hundred (1,500), there shall be councilors elected by the plain-land indigenous population. In counties/cities with mountain indigenous townships or where the mountain indigenous population is not less than one thousand five hundred (1,500), there shall be councilors elected by the mountain indigenous population. In counties/cities without mountain indigenous townships, and where neither the total mountain indigenous population nor the total plain-land indigenous population exceeds one thousand five hundred (1,500), if the total indigenous population is not less than two thousand (2,000), there shall be councilors elected by the indigenous population.
+
+(3) In counties/cities with offshore island townships and where the population is not less than two thousand five hundred (2,500), councilors elected by the offshore island township population shall be among the number of county/city councilors prescribed in the preceding two (2) items.
+
+\3. Township/city representatives:
+
+(1) In counties/cities where the total population does not exceed one thousand (1,000), the total number of township/city representatives shall not exceed five (5). If the total population does not exceed ten thousand (10,000), the total number of representatives shall not exceed seven (7). If the total population does not exceed fifty thousand (50,000), the total number of representatives shall not exceed eleven (11). If the total population does not exceed one hundred and fifty thousand (150,000), the total number of representatives shall not exceed nineteen (19). If the total population exceeds one hundred and fifty thousand (150,000), the total number of representatives shall not exceed thirty-one (31).
+
+(2) In counties/cities where the total plain-land indigenous population not less than one thousand five hundred (1,500), representatives elected by the plain-land indigenous population shall be among the total number of township/city representatives prescribed in the preceding item.
+
+The electorate of councilors of a special municipality who are to be elected by the indigenous population shall be composed of the indigenous population within their administrative district. The electoral districts shall be divided according to the proportions of the plain-land indigenous population and mountain indigenous population, or according to the divisions of the electoral district within the administrative district.
+
+After the article amended on July 16, 2024, takes effect, if the number of county/city district councilors calculated in accordance with Paragraph 2 exceeds the number elected on November 26, 2022, except for offshore island counties where the population exceeds the population on May 31, 2022 by no less than five thousand (5,000), and other counties/cities where the population exceeds the population on May 31, 2022 by no less than forty thousand (40,000), the number of district councilors elected on November 26, 2022 shall be maintained.
+
+If an electoral district has three (3) or more seats up for election for councilors of a special municipality, county/city councilors, or township/city representatives, one (1) among the elected shall be of either gender. If the number of seats to be elected exceeds three (3), one (1) seat shall be reserved for either gender for every additional three (3) seats.
+
+If the number of seats to be elected by the mountain indigenous population or plain-land indigenous population in a special municipality council or a county/city council is three (3) or more, one (1) among the elected shall be of either gender. If the number of seats to be elected exceeds three(3), one(1) seat shall be reserved for either gender for every additional three (3) seats. If the number of seats to be elected by the plain-land indigenous population in a township/city council is three (3) or more, one (1) among the elected shall be of either gender. If the number of seats to be elected exceeds three(3), one (1) seat shall be reserved for either gender for every additional three (3) seats.
+
+Councilors of a special municipality, county/city councilors, and township/city representatives elected in accordance with Paragraph 1 shall take the oath of office on the day the term of the previous session ends. The oath-taking ceremonies shall be convened by the Executive Yuan, the Ministry of the Interior, and the county/city governments, respectively. The elected councilors and representatives shall nominate one (1) among themselves to preside over the ceremony; the nomination meeting shall be presided over by a senior councilor or representative. If there are senior councilors or representatives with identical years of experience, the one more senior in age shall preside.
+
+The provisions of Paragraphs 5 and 6, as amended on November 21, 2025, shall apply to councilors of special municipalities, county/city councilors, and township/city representatives who shall take office on or after December 25, 2030.
+
+##### Article 34
+
+In addition to the inaugural meeting for each council session, councils of special municipality, county/city councils, and township/city councils shall convene a scheduled meeting once every six (6) months. The speaker/chairperson shall convene such meetings. If the speaker/chairperson fails to convene the meeting in accordance with law, the meeting shall be convened by the deputy speaker/vice chairperson. If the deputy speaker/vice chairperson likewise fails to convene the meeting in accordance with law, the meeting shall be convened by a councilor or representative nominated by more than one-half of the total number of their fellow councilors or representatives. Each session, including legal holidays and recess, shall be arranged in accordance with the following:
+
+\1. The duration of the council of a special municipality session shall not exceed seventy (70) days.
+
+\2. If the total number of county/city councilors does not exceed forty (40), the session shall not exceed thirty (30) days; if the total number of councilors exceeds forty (40), the session shall not exceed forty (40) days.
+
+\3. If the total number of township/city representatives does not exceed twenty (20), the session shall not exceed twelve (12) days; if the total number of representatives exceeds twenty (20), the session shall not exceed sixteen (16) days.
+
+For the scheduled meetings to review the annual general budget specified in the preceding paragraph, if the council session expires while issues are unresolved or if it is otherwise necessary, the session may be extended by a council resolution proposed by the mayor of the special municipality, magistrate/mayor of the county/city, or mayor of the township/city, by the speaker/chairperson or by not less than one-third of the total number of councilors or representatives. Extended sessions in special municipalities shall not exceed ten (10) days, and extended sessions in counties/cities or townships/cities shall not exceed five (5) days; the extended session shall not be used for interpellation.
+
+Councils of the special municipality, county/city councils, or township/city councils, may convene an extraordinary session due to one of the following:
+
+\1. A request from the mayor of the special municipality, magistrate/mayor of the county/city, or mayor of the township/city.
+
+\2. A request from the speaker/chairperson or from not less than one-third the number of councilors or representatives.
+
+\3. In the event of circumstances detailed in Paragraph 4, Article 39.
+
+The extraordinary sessions specified in the preceding paragraph shall be convened by the speaker/chairperson within ten (10) days. Including legal holidays and recesses, extraordinary sessions of councils of the special municipality shall not exceed ten (10) days per session, and shall not exceed eight (8) sessions within twelve (12) months; extraordinary sessions of county/city councils shall not exceed five (5) days per session, and shall not exceed six (6) sessions within twelve (12) months; extraordinary sessions of township/city councils shall not exceed three (3) days per session, and shall not exceed five (5) sessions within twelve (12) months; this provision does not apply in the event of circumstances detailed in Paragraph 4, Article 39.
+
+##### Article 35
+
+The duties of councils of the special municipality are as follows:
+
+\1. To resolve the ordinances and regulations of the special municipality.
+
+\2. To resolve the budget of the special municipality.
+
+\3. To resolve the special taxes, temporary taxes, and surtaxes of the special municipality.
+
+\4. To resolve the disposal of properties of the special municipality.
+
+\5. To resolve organizational self-government ordinances for the special municipality government and businesses owned by the special municipality.
+
+\6. To resolve proposals made by the government of the special municipality.
+
+\7. To review the auditor's reports on the final accounts of the special municipality.
+
+\8. To resolve proposals made by the councilors of the special municipality.
+
+\9. To take petitions from citizens.
+
+\10. To carry out other duties as prescribed by law.
+
+##### Article 36
+
+The duties of the county/city councils are as follows:
+
+\1. To resolve the regulations of the county/city.
+
+\2. To resolve the budget of the county/city.
+
+\3. To resolve the special taxes, temporary taxes, and surtaxes of the county/city.
+
+\4. To resolve the disposal of properties of the county/city.
+
+\5. To resolve organizational self-government ordinances for the county/city government and businesses owned by the county/city.
+
+\6. To resolve proposals made by the county/city government.
+
+\7. To review the auditor's reports on the final accounts of the county/city.
+
+\8. To resolve proposals made by county/city councilors.
+
+\9. To take petitions from citizens
+
+\10. To carry out other duties as prescribed by law or by regulations promulgated by higher-level government agencies
+
+##### Article 37
+
+The duties of the township/city councils are as follows:
+
+\1. To resolve the local government regulations of the township/city.
+
+\2. To resolve the budget of the township/city.
+
+\3. To resolve the temporary taxes of the township/city.
+
+\4. To resolve the disposal of properties of the township/city.
+
+\5. To resolve organizational self-government ordinances for the county/city and businesses owned by the township/city.
+
+\6. To resolve proposals made by the township/city offices.
+
+\7. To review the auditor's reports on the final accounts of the township/city.
+
+\8. To resolve proposals made by township/city representatives.
+
+\9. To take petitions from citizens.
+
+\10. To carry out other duties as prescribed by law or by regulations promulgated by higher-level government agencies.
+
+##### Article 38
+
+Governments of the special municipality, county/city governments, and township/city offices shall implement the resolutions adopted by the council of the special municipality, county/city council, or township/city council, respectively. If there is a delay or there is inappropriate implementation, the council of the special municipality, county/city council, or township/city council shall invite the respective government or office to explain the reasons; when necessary, such issues shall be reported to the Executive Yuan, Ministry of the Interior, and county government, which shall then invite relevant agencies to jointly consult on the resolution of the issue.
+
+##### Article 39
+
+If the government of a special municipality determines that there will be difficulties implementing the resolutions in Subparagraphs 1 to 6 and Subparagraph 10 of Article 35, the government of the special municipality shall explain the reasons for such difficulties and return the resolution to the council of the special municipality for reconsideration within thirty (30) days of receipt of such resolutions. If there are difficulties implementing the resolutions in Subparagraphs 8 and 9, the government of the special municipality shall provide written explanation of the reasons for such difficulties to the council of the special municipality.
+
+If a county/city government determines that there will be difficulties implementing the resolutions in Subparagraphs 1 to 6 and Subparagraph 10 of Article 36, the county/city government shall explain the reasons for such difficulties and return the resolution to the county/city council for reconsideration within thirty (30) days of receipt of such resolutions. If there are difficulties implementing the resolutions in Subparagraphs 8 and 9, the county/city government shall provide written explanation of the reasons for such difficulties to the county/city council.
+
+If a township/city office determines that there will be difficulties implementing the resolutions in Subparagraphs 1 to 6 and Subparagraph 10 of Article 37, the township/city office shall explain the reasons for such difficulties and return the resolution to the township/city council for reconsideration within thirty (30) days of receipt of such resolutions. If there are difficulties implementing the resolutions in Subparagraphs 8 and 9, the township/city office shall provide written explanation of the reasons for such difficulties to the township/city council.
+
+Issues submitted by the government of a special municipality, county/city government, or township/city office to their respective council for reconsideration shall be resolved within fifteen (15) days of receipt. If this occurs during a recess, the council shall convene an extraordinary session within seven (7) days and arrive at a resolution within three (3) days of the meeting. If a resolution is not made within the specified period, the original resolution shall be nullified. If two-thirds of the councilors or representatives in attendance during the reconsideration process uphold the original resolution, the government of the special municipality, county/city government, or township/city office shall immediately accept the upheld resolution; this provision shall not apply in the event of the circumstances in Paragraph 5, Article 40 or Paragraphs 1 to 3, Article 43.
+
+If a budget for a special municipality, county/city or township/city is submitted for reconsideration and the original resolution has been nullified, the council of the special municipality, county/city council, or township/city council shall pass a resolution based on the original proposal by the government of the special municipality, county/city government, or township/city office; the resolution passed shall not be the same as the original resolution, and the relevant administrative body shall not file further motions for reconsideration.
+
+##### Article 40
+
+Governments of the special municipality shall submit the general budget proposal of the special municipality to the council of the special municipality three (3) months prior to the start of the fiscal year; county/city governments and township/city offices shall submit the general budget proposal of the county/city or township/city to their respective council two (2) months prior to the start of the fiscal year. Councils of the special municipality, county/city councils, and township/city councils shall complete the review of the budget one (1) month prior to the start of the fiscal year, and the governments of the special municipality, county/city governments, and township/city offices shall announce the budget fifteen (15) days prior to the start of the fiscal year.
+
+Councils of the special municipality, county/city councils, and township/city councils shall not propose increases in the budgets submitted by governments of the special municipality, county/city governments, or township/city offices.
+
+If a review of the general budget proposal of a special municipality, county/city, or township/city cannot be completed within the period specified in Paragraph 1, the budget shall be implemented in accordance with the following:
+
+\1. Income shall be determined on the basis of the standards of the previous year and the actual amount.
+
+\2. Expenditures:
+
+(1) The budget for new capital expenditures and new account headings shall only be used after the review process for the budget for the current year is completed.
+
+(2) The account headings in the preceding item may be used on the basis of authorized existing programs or budget implementation during the previous year.
+
+\3. The budget shall include income and expenditures to fulfill other legal obligations.
+
+\4. The budget shall include loans to be executed in response to the budget allocation requirements of the preceding three subparagraphs.
+
+If the review of the general budget proposal of a special municipality, county/city, or township/city is not completed within three (3) months after the start of the fiscal year, the government of the special municipality, county/city government, or township/city office may submit the un-reviewed portion of the original general budget proposal to the Executive Yuan, Ministry of the Interior, or county government, which shall then invite consultation from relevant agencies and make a determination within one (1) month. If a determination is not made within said period, the Executive Yuan, Ministry of the Interior, or county government shall make a determination at their discretion.
+
+The provision in the preceding paragraph shall apply mutatis mutandis if after reconsideration of the general budget proposal of a special municipality, county/city, or township/city, the original resolution is upheld or the budget is to be re-decided by resolution in accordance with Paragraph 5 of the preceding article, if the resolution on annual revenue and annual expenditure violates relevant laws, regulations promulgated in accordance with law, or the scope of its authority, or if the resolution makes it difficult to maintain the budget required to implement government policies and expenses as required by law and to cancel continued expenditures determined during the previous year.
+
+##### Article 40-1
+
+The general budget proposal for the first year after the change of status to a special municipality shall be submitted by the government of the special municipality to the council of the special municipality before Jan. 31 of that year. The council of the special municipality shall complete the budget review within two (2) months of receipt of the general budget proposal. The government of the special municipality shall announce the general budget within fifteen (15) days of the completion of the budget review; Paragraph 1 of the preceding article shall not apply.
+
+If the special municipality fails to submit the general budget proposal at the beginning of the fiscal year, pursuant to the preceding paragraph, or if the general budget proposal is not approved, budget implementation shall be as follows:
+
+\1. The income shall be determined based on formulated standards and the actual income amount.
+
+\2. Apart from the budget for new capital expenditures, the budget required to implement government policies may be allocated on a regular basis and used as necessary.
+
+\3. Income shall be determined based on the actual income amount, and an expenditure amount shall be allocated to fulfill actual legal and contract obligations.
+
+\4. The budget shall include loans to be executed in response to the budget allocation requirements of the preceding three subparagraphs.
+
+All income and expenditures indicated in the preceding paragraph shall be included in the general budget proposal for the first year.
+
+##### Article 41
+
+The review of the general budget proposal of special municipalities, counties/cities, and townships/cities shall focus on the amount of annual expenditure, budget surplus and deficit, project performance, and priorities. The annual revenue shall focus on the revised or forecast revenue, and its review should focus on the budget sources. The annual expenditure shall focus on the revised or forecast expenditure, and its review should be based on agencies, affairs, and funds.
+
+The additional conditions or time limits for a legal budget shall govern, unless not permitted by law or self-government laws and regulations.
+
+Additional resolutions attached to the budget proposal adopted by the council of a special municipality, county/city council, or township/city council shall be enforced by the government of the special municipality, county/city government, or township/city office in accordance with law.
+
+##### Article 42
+
+The final accounting statement for the budget of a special municipality or county/city shall be submitted to the relevant auditing agency within four (4) months of the end of the fiscal year. Within three (3) months of receipt of the final accounting statement, the auditing agency shall finish the review thereof, prepare a final audit amount table, and submit a final accounting review report to the council of the special municipality or county/city council. The auditing agency shall submit the final audit amount table to the government of the special municipality or county/city government for public announcement. When reviewing the final accounting statements of the special municipality or county/city, the council of the special municipality or county/city council may invite the heads of the auditing agency to be present and to provide explanation.
+
+The final accounting report of a township/city shall be submitted to the township/city council for review within six (6) months of the end of the fiscal year, and shall be announced by the township/city office.
+
+##### Article 43
+
+Resolutions on self-government matters adopted by councils of the special municipality that contravene the Constitution, laws, or regulations promulgated in accordance with law shall be nullified; resolutions on commissioned matters that contravene the Constitution, laws, or central government regulations shall be nullified.
+
+Resolutions on self-government matters adopted by county/city councils that contravene the Constitution, laws, or regulations promulgated in accordance with law shall be nullified; resolutions on commissioned matters that contravene the Constitution, laws, or central government regulations shall be nullified.
+
+Resolutions on self-government matters adopted by township/city councils that contravene the Constitution, laws, central government regulations promulgated in accordance with law, or county self-government ordinances shall be nullified; resolutions on commissioned matters that contravene the Constitution, laws, central government regulations, county self-government ordinances, or county self-government regulations shall be nullified.
+
+The Executive Yuan shall provide written notification of the nullified resolutions detailed in preceding three paragraphs to the councils of the special municipality, except for resolutions on general budget proposals, which shall be handled in accordance with Paragraph 5, Article 40; the relevant central competent authorities shall provide written notification to county/city councils of nullified resolutions; the county government shall provide written notification of nullified resolutions to township/city councils.
+
+If there is doubt as to whether a resolution on self-government matters as stipulated in Paragraph 1 to Paragraph 3 contravenes the Constitution, laws, central government regulations promulgated in accordance with law, or county local government ordinances, a motion may be filed for interpretation by the Judicial Yuan.
+
+##### Article 44
+
+Councils of the special municipality and county/city councils shall have a speaker and a deputy speaker, while township/city councils shall have a chairperson and vice chairperson; the aforementioned shall be elected or recalled by open ballot by councilors of the special municipality, county/city councilors, or township/city representatives, respectively. However, those who are in office for less than one (1) year shall not be subject to recall.
+
+The speaker or chairperson shall represent their respective councils in external affairs and administer the internal affairs of the councils.
+
+##### Article 45
+
+The election for the speaker and deputy speaker of councils of the special municipality and county/city councils and the election for the chairperson and vice chairperson of township/city councils shall be carried out immediately after the councilors or representatives take their oath of office, and shall be attended by greater than half the total number of councilors or representatives; the councilor or representative who garners more than half of the votes present shall be elected. If the election does not produce a winner, a second election shall be carried out immediately, and the councilor or representative with the highest number of votes shall be elected. If there are an equal number of votes, lots shall be drawn to decide the winner. The same applies to supplementary elections.
+
+If the number of councilors or representatives present for the election stipulated in the preceding paragraph is insufficient, the time for the next election shall be determined immediately and the councilors and representatives shall be notified accordingly. During the third election, if the number of councilors or representatives in attendance is not less than one-third the total number of councilors or representatives, the election may be carried out by using the actual number of councilors or representatives in attendance; the person with the highest number of votes shall become the winner. If there is an equal number of votes, lots shall be drawn to decide the winner. The second and third elections shall be carried out on the day the councilors or representatives take their oath of office.
+
+Upon their election, the speaker, deputy speaker, chairperson, and vice chairperson shall immediately take the oath of office in accordance with the provisions of the Oath Act.
+
+The election as stipulated in Paragraph 1 and the oath taking as stipulated in the preceding paragraph shall be moderated by the chair appointed in accordance with Paragraph 7, Article 33.
+
+##### Article 46
+
+The recall of the speaker or deputy speaker of the council of a special municipality or a county/city council, and the recall of a chairperson or vice chairperson of a township/city council shall be carried out in accordance with the following provisions:
+
+\1. The motion for recall shall contain a full explanation of the grounds for recall and shall be signed by not less than one-third of the total number of councilors or representatives. The motion shall be prepared in original and duplicate copies, which shall be separately submitted to the Executive Yuan, Ministry of the Interion and the county government.
+
+\2. Within seven (7) days of receipt of the motion stipulated in the preceding subparagraph, the Executive Yuan, Ministry of the Interior, and county government shall forward duplicate copies to the relevant councils to be forwarded within five (5) days to the office holder that is to be recalled. If there is to be a rebuttal, within seven (7) days of receipt of the motion, the office holder that is to be recalled shall submit a written rebuttal to the Executive Yuan, Ministry of the Interior, and county government, which shall in turn photocopy the motion for recall and the written rebuttal for forwarding to the councilors and representatives. The motion for recall may be photocopied and forwarded separately after said period.
+
+\3. Within twenty-five (25) days of receipt of the motion for recall, the Executive Yuan, Ministry of the Interior, and county government shall convene a meeting to vote on the recall; the councilors and representatives in attendance shall vote on the recall through open ballots.
+
+\4. The review of the motion for recall shall be attended by greater than half the total number of councilors and representatives, and the recall shall be effective only when approved by not less than two-thirds of those in attendance.
+
+\5. If the motion for recall is denied, no further motion for recall shall be filed within the term of office of the office holder to be recalled.
+
+If the speaker or chairperson is the subject of the recall, the deputy speaker or vice chairperson shall chair the vote on the recall stipulated in Subparagraph 3 of the preceding paragraph. If the deputy speaker or the vice chairperson is the subject of a recall, the speaker or the chairperson shall act as the chair. If the speaker and deputy speaker or chairperson and vice chairperson are both the subjects of the recall, the councilors or representatives in attendance shall nominate a person from among themselves to act as the chair.
+
+Prior to its submission to the council, the motion for recall stipulated in Paragraph 1 may be rescinded with the approval of not less than two-thirds of the number of the original signees. After being submitted to the council, the motion for recall shall be rescinded only with the approval of all signees and only if the chair ensures there are no objections from any councilor or representative in attendance.
+
+##### Article 47
+
+In addition to the provisions in the preceding three articles, provisions governing the election and recall of the speaker and deputy speaker of councils of the special municipality and county/city councils, and the election and recall of the chairperson and vice chairperson of township/city councils shall be stipulated in the organizational rules of councils of the special municipality, county/city councils, and township/city councils.
+
+##### Article 48
+
+Mayors of special municipalities, magistrates/mayors of counties/cities, and mayors of townships/cities shall present their administration report during the regular session of the councils of the special municipality, county/city council, or township/city council. The heads of first-level agencies and subordinate first-level agencies of governments of the special municipality and the heads of first-level agencies and subordinate agencies of county/city governments and township/city offices shall present reports on affairs under their jurisdiction.
+
+During council sessions, councilors of the special municipality, county/city councilors and township/city councilors shall have the right to interpellate the aforementioned heads of units and agencies on the affairs under their jurisdiction. Policy implementation and operations shall be interpellated separately; during the interpellation on operations, the heads of relevant competent authorities on operations shall attend and shall respond to the interpellation.
+
+##### Article 49
+
+If it is necessary to clarify specific issues, the heads of units and agencies stipulated in Paragraph 1 of the preceding article may be invited to attend and to provide explanation during sessions of the council of the special municipality, county/city council, or township/city council.
+
+If it is necessary to clarify specific issues, heads of relevant agencies or units with authority over operations, apart from the mayor of the special municipality, magistrate/mayor of the county/city, or mayor of the township/city, may be invited to attend and explain issues during subcommittee meetings of the council of the special municipality, county/city council, or township/city council.
+
+##### Article 50
+
+Outside of council meetings, councilors of special municipality, county/city councilors, and township/city representatives shall not be held accountable for statements made and votes cast in relation to council affairs during sessions of the council of the special municipality, county/city council, or township/city council; this provision does not apply to clearly unlawful statements made on matters unrelated to council affairs.
+
+##### Article 51
+
+Except for persons in flagrante delicto or wanted criminals, councilors of the special municipality, county/city councilors, and township/city representatives shall not be arrested or detained without consent from the council of the special municipality, county/city council, or township/city council.
+
+##### Article 52
+
+Councilors of the special municipality, county/city councilors, and township/city representatives may receive allowances for necessary expenditures, such as research allowances. When the councilors/representatives are in session, they may receive allowances for attendance, transportation, meals and accommodation.
+
+When attending council meetings convened in violation of Paragraph 4, Article 34, councilors and representatives shall not receive allowances for attendance, transportation, or meals and accommodation in accordance with the preceding paragraph, nor shall other payment items or standards be formulated for the payment of such allowances.
+
+The items and standards for the payment of allowances stipulated in Paragraph 1 shall be stipulated separately in accordance with law. No additional allowances shall be paid to councilors or representatives unless they are in accordance with law.
+
+##### Article 53
+
+Councilors of the special municipality, county/city councilors, and township/city representatives shall not hold concurrent positions as a civil servant, full-time faculty member in private or public school at any level, or any other popularly elected positions in the civil service, nor shall they hold any concurrent positions or job titles in the respective government of the special municipality, county/city government, or township/city office or their subordinate agencies and enterprises, unless otherwise provided by law or central government regulations promulgated in accordance with law.
+
+Elected councilors of the special municipality, county/city councilors, and township/city representatives subject to the aforementioned restrictions on concurrent positions shall resign from their positions prior to taking office. Upon taking office, those who fail to resign their previous positions shall be construed as having resigned their original positions; the Executive Yuan, Ministry of the Interior, or county government shall inform the institution where the elected official works that their position or authority must be terminated or that they must be dismissed from employment. This provision shall likewise apply to those found in similar situations after taking office.
+
+##### Article 54
+
+Organizational rules for the councils of the special municipalities shall be formulated by the Ministry of the Interior and submitted to the Executive Yuan for approval. Organizational self-government ordinances for the councils of the special municipality shall be formulated by the councils of the special municipalities in accordance with such rules and submitted to the Executive Yuan for approval.
+
+Organizational rules for county/city councils shall be formulated by the Ministry of the Interior and submitted to the Executive Yuan for approval. Organizational self-government ordinances for county/city councils shall be formulated by county/city councils in accordance with such rules and submitted to the Ministry of the Interior for approval.
+
+Organizational rules for township/city councils shall be formulated by the Ministry of the Interior and submitted to the Executive Yuan for approval. Organizational self-government ordinances for township/city councils shall be formulated by township/city councils in accordance with such rules and submitted to the county government for approval.
+
+Organizational regulations for the newly created councils of the special municipality shall be formulated by the Executive Yuan; organizational regulations for newly created county/city councils shall be formulated by the Ministry of the Interior; organizational regulations for newly created township/city councils shall be formulated by the county governments.
+
+Provisions on personnel management within the organizational rules, organizational regulations, and organizational self-government ordinances for the councils of the special municipality, county/city councils, and township/city councils shall not contravene the personnel management laws and regulations promulgated by the central government. Upon approval, the agencies in charge shall submit such provisions to the Examination Yuan for recordation.
+
+#### Subsection 2. Local Administrative Bodies
+
+##### Article 55
+
+Special municipalities shall have a mayor who shall represent the special municipality in external affairs and administer the affairs of the special municipality. The mayor shall be popularly elected to a term of four (4) years and may be re-elected to a second term. Special municipalities shall have three (3) deputy mayors who shall assist the mayor in handling municipal affairs; deputy mayors shall hold positions equivalent to Grade 14. The deputy mayors are appointed by the mayor, and the appointment shall be submitted to the Executive Yuan for recordation.
+
+Governments of special municipalities shall have one(1) secretary general, who shall be appointed and dismissed by the mayor in accordance with the Civil Service Employment Act, and three (3) deputy secretaries general, who shall be appointed and dismissed by the mayor in accordance with law. Except for heads of the departments of budget, accounting and statistics, personnel, police, and government ethics, who shall be appointed and dismissed in accordance with specific laws governing personnel administration, heads of first-level units and subordinate first-level agencies shall hold positions equivalent to Grade 13 and shall be appointed and dismissed by the mayor.
+
+Deputy mayors and heads of units and agencies who hold positions equivalent to Grade 13 shall resign their positions when the mayor completes their term, resigns, is dismissed, or in the event of the mayor’s death.
+
+Mayors elected in accordance with Paragraph 1 shall take their oath of office on the day the term of the previous administration ends.
+
+The provisions of Paragraphs 1 and 2, as amended on November 21, 2025, shall take effect on January 1, 2026.
+
+##### Article 56
+
+County/city governments shall have a magistrate/mayor, who shall represent the county/city in external affairs and administer the affairs of the county/city and shall oversee the self-government of townships/cities under their jurisdiction. The magistrate/mayor shall be popularly elected to a term of four (4) years and may be re-elected to a second term. The county/city government shall have two (2) deputy magistrates/deputy mayors who shall assist the magistrate/mayor in handling county/city affairs and shall hold a position equivalent to Grade 13. The deputy magistrates/deputy mayors shall be appointed by the magistrate/mayor and the appointment shall be submitted to the Ministry of the Interior for recordation.
+
+County/city governments shall have a secretary general, who shall be appointed and dismissed by the magistrate/mayor in accordance with the Civil Service Employment Act, and a deputy secretary general, who shall be appointed and dismissed by the magistrate/mayor in accordance with law. Excluding the heads of the departments of budget, accounting and statistics, personnel, police, taxation, and government ethics, who shall be appointed and dismissed in accordance with specific laws governing personnel administration, one half of the total heads of first-level units and subordinate first-level agencies may be employed by the magistrate/mayor as political appointees with positions equivalent to Grade 12. The remaining half of the heads of first-level units and subordinate first-level agencies shall be appointed and dismissed by the magistrate/mayor in accordance with law.
+
+Deputy magistrates/deputy mayors and heads of departments and agencies who hold positions equivalent to Grade 12 shall resign their positions when the magistrate/mayor completes their term, resigns, is dismissed, or in the event of the magistrate/mayor’s death.
+
+Magistrates/mayors elected pursuant to Paragraph 1 shall take their oath of office on the day the term of the previous administration ends.
+
+The provisions of Paragraphs 1 and 2, as amended on November 21, 2025, shall take effect on January 1, 2026.
+
+##### Article 57
+
+Township/city offices shall have a mayor who shall represent the township/city in external affairs and administer affairs of the township/city. The mayor of the township/city shall be popularly elected for a term of four (4) years and may be re-elected to a second term. A city with a population of not less than three hundred thousand (300,000) may have a deputy mayor who shall assist the mayor in handling municipal affairs and shall be employed as a confidential staff member, or shall be appointed to a position equivalent to Grade 10. Deputy mayors employed as confidential staff members shall resign their position when the mayor completes their term, resigns, is dismissed, or in the event of the mayor’s death.
+
+Mayors of mountain indigenous townships shall be persons of mountain indigenous ancestry. Acting mayors of mountain indigenous townships appointed in accordance with the procedures of Article 82 shall also be persons of mountain indigenous ancestry.
+
+Where the population of a township/city is not less than twenty thousand (20,000), the township/city shall have one (1) chief secretary, who shall be appointed and dismissed by the township/city mayor in accordance with the Civil Service Employment Act. Except for heads of the departments of budget, accounting and statistics, personnel, and government ethics, who shall be appointed and dismissed in accordance with specific acts on personnel administration, heads of first-level units shall be appointed and dismissed by the mayor of the township/city in accordance with law.
+
+Mayors of townships/cities elected pursuant to Paragraph 1 shall take their oath of office on the day the term of the previous administration ends.
+
+##### Article 58
+
+District offices of special municipalities and cities shall have a chief administrator, who shall be appointed by the mayor in accordance with law. The chief administrator is authorized by the mayor to handle district affairs and supervise their subordinates.
+
+If a district in a special municipality is created due to a change in the status of township/city within the special municipality, the mayor of the township/city who is in office the day before the change in status will be employed by the mayor of the special municipality as a confidential staff member to serve as the district’s chief administrator; the term of office shall be four (4) years starting from the day the change in status of the township/city takes effect. A mayor of a township/city shall not be appointed to the position if any of the following cases applies:
+
+\1. The office holder is accused of having committed offenses stipulated in Subparagraphs 1 and 2, Paragraph 1, Article 78.
+
+\2. The office holder is accused of having committed vote-buying offenses stipulated in the President and Vice President Election and Recall Law, Public Officials Election and Recall Law, Farmers’ Association Act or Fishermen’s Association Act, and a prosecution has been brought.
+
+\3. The office holder has served for two (2) successive terms.
+
+\4. The office holder is merely acting as a deputy in accordance with law.
+
+A chief administrator who is employed as a confidential staff member in accordance with the preceding paragraphs shall be removed from office if any of the following cases applies:
+
+\1. The office holder is barred from holding the position for reasons indicated in Subparagraph 1 or Subparagraph 2 of the preceding paragraph, or Paragraph 1, Article 79.
+
+\2. The office holder is being held under detention or is wanted in accordance with criminal procedures.
+
+If a district within a special municipality is created due to a change in the status of a mountain indigenous township within the municipality, the district chief administrator shall be a person of mountain indigenous ancestry.
+
+##### Article 58-1
+
+If a district is created due to a change in the status of a township/city, the township/city representatives who were in office the day before the change in status, except for those whose authority has been suspended in accordance with law, will be appointed by the mayor of the special municipality as advisors on the district’s administrative affairs. The term of office of the advisors shall be four (4) years starting from the day the change in status of the township/city takes effect. The advisors shall not be reappointed once their term expires.
+
+The duties of the advisors are as follows:
+
+\1. To provide consultation on district administrative affairs.
+
+\2. To provide recommendations on district administrative reform.
+
+\3. To provide consultation on the planning of district administrative affairs.
+
+\4. To fulfill other responsibilities provided for by law.
+
+The chief administrator shall convene the advisors for meetings on a regular basis.
+
+The advisors shall not receive remuneration; stipends shall be duly paid for meeting attendance and transportation may be allowed.
+
+The appointment of an advisor shall be terminated if any of the following cases applies:
+
+\1. The advisor is held under detention or is wanted in accordance with criminal procedures.
+
+\2. Any item of Paragraph 1 under Article 79 applies.
+
+##### Article 59
+
+Villages shall have a chief of village, who, upon the instruction and under the supervision of the mayor of the township/city or chief administrator, shall handle village affairs and carry out commissioned tasks. The chief of village shall be popularly elected for a term of four (4) years and may be re-elected for a second term.
+
+During the election for a chief of village, if there are no registered candidates after two (2) calls for the registration of candidates, the township/city office or the district office may select a chief of village from the eligible village residents; the term of office shall be only for the current term.
+
+Chiefs of village elected in accordance with Paragraph 1 shall take office on the day the term of the previous administration ends.
+
+##### Article 60
+
+Villages may convene meetings of the village residents or meetings on local construction projects. The implementation procedures of such meetings shall be formulated by the special municipalities and counties/cities.
+
+##### Article 61
+
+Mayors of special municipalities, magistrates/mayors of counties/cities and mayors of townships/cities shall receive remuneration and pension benefits; should death occur during the performance of their duties or due to illness, surviving family members shall be compensated.
+
+Remuneration, pension benefits, and compensation for the aforementioned office holders shall be in accordance with law.
+
+Mayors of special municipalities, magistrates /mayors of counties /cities, and mayors of townships/cities shall not be paid salary during the period of suspension from office pursuant to Paragraph 1, Article 78 of this Act, or Paragraph 1, Article 117 of the Public Officials Election and Recall Act. After they are reinstated pursuant to Paragraphs 2 and 4, Article 78 of this Act, or Paragraph 2, Article 117 of the Public Officials Election and Recall Act, or upon the expiration of their term of office, if a court has rendered a final judgment of not guilty, or if a prosecutor has issued a final decision of non-prosecution due to insufficient evidence of a crime, their base salary shall be retroactively paid.
+
+Chiefs of village shall not receive remuneration. The township/city office or district office shall formulate a budget to subsidize the affairs of the chiefs of village; the subsidized items and standards for subsidy shall be in accordance with law.
+
+##### Article 62
+
+Organizational rules for governments of the special municipalities shall be formulated by the Ministry of the Interior and submitted to the Executive Yuan for approval. Organizational self-government ordinances for the governments of the special municipality shall be formulated by the governments of the special municipalities in accordance with such rules; after approval by the council of the special municipality, the ordinance shall be submitted to the Executive Yuan for recordation. Governments of special municipalities shall formulate organizational regulations for their subordinate agencies and schools.
+
+Organizational rules for county/city governments shall be formulated by the Ministry of the Interior and submitted to the Executive Yuan for approval. Organizational self-government ordinances for county/city governments shall be formulated by county/city governments in accordance with such rules; after approval by the county/city council, the ordinance shall be submitted to the Ministry of the Interior for recordation. County/city governments shall formulate organizational regulations for their subordinate agencies and schools.
+
+First-level units of the aforementioned county/city governments shall be called “bureaus”; subordinate first-level agencies shall be called “offices”; second-level units and the first-level units of subordinate first-level agencies shall be called “sections,” with the exception of the units in charge of budget, accounting and statistics, personnel, and government ethics. Branch units established due to operational requirements and first-level units of police and fire authorities may be named differently.
+
+Organizational rules for township/city offices shall be formulated by the Ministry of the Interior and submitted to the Executive Yuan for approval. Organizational self-government ordinances for township/city offices shall be formulated by township/city offices in accordance with such rules; after approval by the township/city council, the ordinance shall be submitted to the county government for recordation. Township/city offices shall formulate organizational regulations for their subordinate agencies and schools.
+
+Organizational regulations for governments of newly created special municipalities shall be formulated by the Executive Yuan; organizational regulations for governments of newly created counties/cities shall be formulated by the Ministry of the Interior; organizational regulations for offices of newly created townships/cities shall be formulated by the county governments.
+
+Provisions on personnel management within the organizational rules, organizational regulations, and organizational self-government ordinances for the governments of the special municipality, county/city governments, township/city offices, and their subordinate agencies and schools shall not contravene the personnel management laws and regulations promulgated by the central government. Upon approval, the agencies in charge shall submit such provisions to the Examination Yuan for recordation.
+
+### Section 5. Local Finance
+
+##### Article 63
+
+The types of income collected by special municipalities are as follows:
+
+\1. Income from taxes.
+
+\2. Income from construction project profits.
+
+\3. Income from fines and compensations.
+
+\4. Income from charges and fees.
+
+\5. Income from trust management.
+
+\6. Income from properties.
+
+\7. Income from operational profits and enterprise earnings.
+
+\8. Income from subsidies.
+
+\9. Income from donations and contributions.
+
+\10. Income from local government taxes.
+
+\11. Other sources of income.
+
+##### Article 64
+
+The types of income collected by counties/cities are as follows:
+
+\1. Income from taxes.
+
+\2. Income from construction project profits.
+
+\3. Income from fines and compensations.
+
+\4. Income from charges and fees.
+
+\5. Income from trust management.
+
+\6. Income from properties.
+
+\7. Income from operational profits and enterprise earnings.
+
+\8. Income from subsidies and assistance.
+
+\9. Income from donations and contributions.
+
+\10. Income from local government taxes.
+
+\11. Other sources of income.
+
+##### Article 65
+
+The types of income collected by townships/cities are as follows:
+
+\1. Income from taxes.
+
+\2. Income from construction project profits.
+
+\3. Income from fines and compensations.
+
+\4. Income from charges and fees.
+
+\5. Income from trust management.
+
+\6. Income from properties.
+
+\7. Income from operational profits and enterprise earnings.
+
+\8. Income from subsidies.
+
+\9. Income from donations and contributions.
+
+\10. Income from local government taxes.
+
+\11. Other sources of income.
+
+##### Article 66
+
+National taxes and special municipality and county/city taxes shall be allocated to special municipalities, counties/cities, and townships/cities in accordance with the provisions of the Act Governing the Allocation of Government Revenues and Expenditures.
+
+##### Article 67
+
+The incomes and expenditures of special municipalities, counties/cities, and townships/cities shall be carried out in accordance with the provisions of this Act and the Act Governing the Allocation of Government Revenues and Expenditures.
+
+The scope and collection of local taxes shall be in accordance with the provisions of the Act Governing Local Tax Regulations.
+
+Regulations governing the scope and collection of charges and fees by local governments shall be in accordance with the provisions of the Charges and Fees Act; the local legislative bodies may pass resolutions to collect charges and fees not otherwise provided for by law.
+
+##### Article 68
+
+Special municipalities and counties/cities may issue government bonds, take out loans, or use the budget surplus from the previous years to offset deficits in budget revenues and expenditures. Townships/cities may take out loans or use the budget surplus from the previous years to offset deficits in budget revenues and expenditures.
+
+The outstanding proportion of the aforementioned loans taken out by special municipalities, counties/cities, and townships/cities shall be in accordance with the provisions of the Public Debt Act.
+
+##### Article 69
+
+To ensure balanced development of the local governments, higher levels of government shall provide subsidies to local governments with lesser financial capabilities and may receive assistance funds from local governments with greater financial capabilities.
+
+If a local government at any level fails to collect income that it is entitled by law to collect, the higher levels of government may reduce the amount of subsidy at their discretion. For local governments that have achieved results in generating other sources of income, higher levels of government may increase the amount of subsidy at their discretion.
+
+The subsidies stipulated in Paragraph 1 shall include the subsidy item, recipient, subsidy percentage, and handling guidelines. The guidelines on the allocation of subsidies shall be formulated separately by the Executive Yuan and county governments.
+
+##### Article 70
+
+To distinguish between central and local government expenses, it shall be clearly established which expenses are to be fully shouldered by the central government, which expenses are to be shared by the central government and the local self-governing bodies, and which expenses are to be fully shouldered by the local self-governing bodies. The central government shall not transfer the burden of its own expenses to the local self-governing bodies.
+
+When carrying out self-government matters, special municipalities, counties/cities, and townships/cities shall formulate budget using their own financial resources as priority.
+
+The criteria for distinguishing the expenses stipulated in Paragraph 1 shall be formulated in accordance with relevant laws.
+
+##### Article 71
+
+Unless otherwise provided for by law, the criteria for the planning, formulation, and common expenses of the general budgets, additional budgets, and special budget of special municipalities, counties/cities, and townships/cities shall be in accordance with guidelines formulated by the Executive Yuan that govern the formulation of budgets by central and local governments.
+
+If a local government fails to act in accordance with the aforementioned budget formulation guidelines, the Executive Yuan or county government shall reduce the amount of subsidy after taking into account the prevailing situation.
+
+##### Article 72
+
+If self-government laws and regulations formulated or amended by special municipalities, counties/cities, or townships/cities result in a decrease in income, alternate sources of income shall be planned simultaneously. When an increase in financial expenses is required, sources of funds shall be planned beforehand or corresponding sources of income shall be stipulated in the self-government laws and regulations.
+
+##### Article 73
+
+Counties/cities and townships/cities shall expend their efforts on public productive enterprises; the guidelines for the subsidy and administration thereof shall be formulated by the Ministry of the Interior.
+
+##### Article 74
+
+Special municipalities, counties/cities, and townships/cities shall set up treasuries with an administrative body determined by the government of the special municipality, county/city government, or township/city office; the treasuries shall be created upon approval from the council of the special municipality, county/city council, or township/city council.
+
+## Chapter 4. Relationship Between Central and Local Governments
+
+##### Article 75
+
+If a provincial government violates the Constitution, laws, central government regulations, or exceeds its scope of authority while carrying out the matters stipulated in Article 8, the relevant central competent authorities shall report such violations to the Executive Yuan to revoke, change, terminate, or discontinue such actions.
+
+If a government of the special municipality violates the Constitution, laws, or central government regulations promulgated in accordance with law while carrying out self-government matters, the relevant central competent authorities shall report such violations to the Executive Yuan to revoke, change, terminate, or discontinue such actions.
+
+If a government of the special municipality violates the Constitution, laws, central government regulations, or exceeds its scope of authority while carrying out commissioned matters, the relevant central competent authorities shall report such violations to the Executive Yuan to revoke, change, terminate, or discontinue such actions.
+
+If a county/city government violates the Constitution, laws, or central government regulations promulgated in accordance with law while carrying out self-government matters, the relevant central competent authorities shall report such violations to the Executive Yuan to revoke, change, terminate, or discontinue such actions.
+
+If a county/city government violates the Constitution, laws, central government regulations, or exceeds its scope of authority while carrying out commissioned matters, the commissioning agency shall revoke, change, terminate, or discontinue such actions.
+
+If a township/city office violates the Constitution, laws, central government regulations promulgated in accordance with law, or county self-government ordinances while carrying out self-government matters, the county government shall revoke, change, terminate, or discontinue such actions.
+
+If a township/city office violates the Constitution, laws, central government regulations, county local government ordinances, or county self-government regulations, or exceeds its scope of authority while carrying out its commissioned matters, the commissioning agency shall revoke, change, terminate, or discontinue such actions.
+
+If there is doubt as to whether the self-government matters stipulated in Paragraph 2, Paragraph 4, or Paragraph 6 violate the Constitution, laws, central government regulations promulgated in accordance with law, or county local government regulations, a motion may be filed for interpretation by the Judicial Yuan. Prior to interpretation by the Judicial Yuan, the implementation of such matters shall not be revoked, changed, terminated, or discontinued.
+
+##### Article 76
+
+If a special municipality, county/city, or township/city does not fulfill its legal obligations and as a result seriously undermines public interest or impedes the normal operations of local government affairs, and if such actions can be carried out by a proxy, the Executive Yuan, relevant central competent authorities, or county government shall separately instruct the special municipality, county/city, or township/city to fulfill its legal obligations within a specified period and may themselves act as proxy in the event of continuous inaction beyond the specified period; however, in urgent situations, the Executive Yuan, relevant central competent authorities, or county government may handle the matter directly.
+
+If a special municipality, county/city, or township/city finds the aforementioned disposition difficult to comply with, the special municipality, county/city, or township/city shall file a complaint within the specified period. The Executive Yuan, relevant central competent authorities, or county government may, taking into account the prevailing circumstances, revise or revoke the original disposition.
+
+Before deciding to engage a proxy, the Executive Yuan, relevant central competent authorities, or county government shall inform the agencies that are to be proxied, as well as other agencies relevant to the self-government body. After the notification by the agency in charge of the proxy, the matter shall be transferred to the proxy agency until its completion.
+
+Expenses for the proxy shall be shouldered by the agencies that are proxied. If the local agencies refuse to shoulder such expenses, higher levels of government may deduct the amount of the expenses from subsequent annual subsidies.
+
+If a special municipality, county/city, or township/city believes that the disposition to use a proxy is unlawful, the issue shall be handled in accordance with administrative remedy procedures.
+
+##### Article 77
+
+If there are disputes over authority between the central government, special municipalities, and counties/cities, such disputes shall be resolved by the Legislative Yuan. If there are disputes over self-government matters between counties and townships/cities, such disputes shall be resolved by the Ministry of the Interior in consultation with the relevant central competent authorities.
+
+If there are disputes over authority between special municipalities or between special municipalities and counties/cities, such disputes shall be resolved by the Executive Yuan. If there are disputes over authority between counties/cities, such disputes shall be resolved by relevant central competent authorities. If there are disputes over authority between townships/cities, such disputes shall be resolved by the county government.
+
+##### Article 78
+
+If any of the following applies to a mayor of a special municipality, magistrate/mayor of a county/city, mayor of a township/city, or chief of village, the Executive Yuan, Ministry of the Interior, county government, township/city office or district office shall suspend their office and Article 3 of the Public Functionaries Discipline Act shall not be applicable:
+
+\1. The office holder is accused of sedition or treason, or of being in violation of the Anti-Corruption Act or the Organized Crime Prevention Act, and has been sentenced to imprisonment by a court of first instance; those in violation of the provisions in the Anti-Corruption Act that prohibit seeking personal profit should have been sentenced to not less than imprisonment by the court of appeals.
+
+\2. Apart from the aforementioned, the office holder has been accused of crimes punishable by the death penalty, life imprisonment or a minimum of not less than five (5) years imprisonment, and has been convicted by a court of first instance.
+
+\3. The office holder is being held in custody or is wanted in accordance with criminal procedures.
+
+If the verdict of the office holder suspended from office in accordance with Subparagraph 1 or Subparagraph 2 is changed to “not guilty,” or if the office holder suspended from office in accordance with Subparagraph 3 is no longer wanted or is released, they may be allowed to resume office before the expiration of their term.
+
+Provisions of Paragraph 1 shall not apply to an office holder suspended from office in accordance with Paragraph 1 who is subsequently elected to the same office in accordance with law and who has taken office.
+
+An office holder suspended from office in accordance with Paragraph 1 who has been adjudicated guilty shall be allowed to resume office before the expiration of their term unless they should be relived from office in accordance with Article 79.
+
+Prior to the promulgation of this Act, mayors of special municipalities, magistrates/mayors of counties/cities, and mayors of townships/cities suspended from office for grounds other than Paragraph 1 shall be allowed to resume office before the expiration of their term.
+
+##### Article 79
+
+If any of the following applies to a councilor of a special municipality or mayor of a special municipality, the Executive Yuan shall either relieve them of their duties or relieve them of their post; if any of the following applies to a county/city councilor or magistrate/mayor of a county/city, the Ministry of the Interior shall either relieve them of their duties or relieve them of their post; if any of the following applies to a township/city representative or mayor of a township/city, the county government shall either relieve them of their duties or relieve them of their post; the relevant council of the special municipality, county/city council, or township/city council shall also be notified. If any of the following applies to a chief of village, the township/city office or district office shall relieve them of their post. When necessary, supplementary elections shall be carried out in accordance with law:
+
+\1. When the court has declared the election win to be invalid, or when the court declares the election invalid, thus undermining the eligibility of the winner.
+
+\2. When the office holder is accused and convicted of sedition, treason, or corruption.
+
+\3. When the office holder has committed offenses listed in the Organized Crime Prevention Act and is convicted and sentenced to imprisonment.
+
+\4. When the office holder has committed a crime other than the offenses set forth in the preceding two subparagraphs, and has been convicted and sentenced to imprisonment without probation, and a fine or community service is not imposed in lieu of imprisonment.
+
+\5. When the office holder is subject to rehabilitative disposition or reformatory education; however, this provision shall not apply to those subject to protective probation.
+
+\6. When the office holder’s household registration has been transferred outside of the administrative district for not less than four months.
+
+\7. When the office holder’s civil rights have been deprived and have not been restituted.
+
+\8. When the office holder is required by the court to be under guardianship or assistance and the court order has not been revoked.
+
+\9. When there are events that call for the office holder to be relieved of their duties or to be relieved of their post in accordance with this Act.
+
+\10. When there are other events that call for the office holder to be relieved of their duties or their post under other applicable laws.
+
+If the original term has yet to expire and the election agency has yet to announce a supplementary election, the decision to relieve an office holder of their duties or their post shall be revoked if any of the following cases applies:
+
+\1. The office holder is relieved of their duties or relieved of their post in accordance with Subparagraphs 2 to 4 in the preceding paragraph, and a verdict of “not guilty” is rendered during retrial or extra-ordinary appeal.
+
+\2. The office holder is relieved of their duties or relieved of their post in accordance with Subparagraph 5 in the preceding paragraph, and the rehabilitative disposition is revoked in accordance with law or reformatory education is rescinded after a new judgement.
+
+\3. The office holder is relieved of their duties or relieved of their post in accordance with Subparagraph 8 in the preceding paragraph, and the office holder successfully petitions the court to revoke its declaration that the office holder is under guardianship or assistance.
+
+##### Article 80
+
+A mayor of a special municipality, magistrate/mayor, mayor of a township/city, or chief of village who is unable to carry out their duties for a continuous period of not less than one (1) year due to serious illness or who is unable to carry out their duties for not less than six (6) months due to cause shall be discharged from their position in accordance with the procedures of Paragraph 1 of the preceding Article. Councilors of special municipalities, county/city councilors, and township/city representatives who fail to attend regular council meetings for two (2) sessions shall likewise be discharged from their positions.
+
+##### Article 81
+
+When a councilor of a special municipality, county/city councilor, or township/city representative resigns, is dismissed, or dies and the number of vacancies is not less than three-tenths of the total number of councilors or representatives or the number of vacancies within the same electoral district is not less than one half of the total, a supplementary election shall be held; however, no supplementary election shall be held if the remaining term of office is not more than two (2) years and the number of vacancies is not less than one-half of the total.
+
+Councilors of special municipalities, county/city councilors, and township/city representatives elected during the supplementary election shall only serve the remaining term of office.
+
+Resignations of councilors of special municipalities, county/city councilors, or township/city representatives in Paragraph 1 shall be submitted in writing to the council of the special municipality, county/city council, or township/city council. The resignation shall become effective once the letter of resignation is submitted to the council.
+
+##### Article 82
+
+If a mayor of a special municipality, magistrate/mayor, mayor of township/city, or chief of village resigns, is removed from office, or in the event of their death, the Executive Yuan shall appoint an acting mayor of the special municipality; the Ministry of the Interior shall request that the Executive Yuan to appoint an acting magistrate/mayor; the county government shall appoint an acting mayor of township/city; the township/city office shall appoint an acting chief of village.
+
+If a mayor of a special municipality is suspended from their position, the deputy mayor shall become the acting mayor. If the position of the deputy mayor is vacant or if the deputy mayor is unable become the acting mayor, the Executive Yuan shall appoint an acting mayor. If a magistrate/mayor is suspended from their position, the deputy magistrate/mayor shall become the acting magistrate/mayor. If the position of the deputy magistrate/mayor is vacant or if the deputy magistrate/mayor is unable become the acting magistrate/mayor, the Ministry of the Interior shall request that the Executive Yuan to appoint an acting magistrate/mayor. If a mayor of township/city is suspended from their position, the county government shall appoint an acting mayor; if there is a deputy mayor, the deputy mayor shall become the acting mayor. If a chief of village is suspended from their position, the township/city office shall appoint an acting chief of village.
+
+The acting mayor of a special municipality, magistrate/mayor, mayor of a township/city, or chief of village detailed in the preceding two (2) paragraphs shall not be the spouse, former spouse, relative by blood within the fourth degree or relative by marriage within the third degree of kinship of the original office holder.
+
+If a mayor of a special municipality, magistrate/mayor, mayor of township/city, or chief of village resigns, is removed from office, or in the event of their death, a supplementary election shall be completed within three (3) months from the day of such event. However, if the remaining term is not more than two (2) years, no supplementary election shall be held. The acting mayor of the special municipality, magistrate/mayor, mayor of a township/city, or chief of village shall serve until the expiration of the current term of office.
+
+The winner of the aforementioned supplementary election shall take their oath of office within ten (10) days from the announcement of the successful election. The term of office shall be until the expiration of the current term and shall be counted as one term of office.
+
+The resignations stipulated in Paragraph 1 shall be carried out in writing. Mayors of special municipalities shall tender their resignation with and receive approval from the Executive Yuan; magistrates/mayors shall tender their resignation with the Ministry of the Interior, which shall in turn submit the resignation to the Executive Yuan for approval; mayors of the township/city shall tender their resignation with and receive approval from the county government;  chiefs of village shall tender their resignation with and receive approval from the township/city office or the district office. Resignations shall take effect on the day the resignation is approved.
+
+##### Article 83
+
+When the term of office for a councilor of the special municipality, mayor of the special municipality, county/city councilor, magistrate/mayor, township/city representative, a mayor of the township/city, or chief of village expires or when such an office becomes vacant and thus in need of an election or supplementary election, such an election or supplementary election may be postponed under extraordinary circumstances.
+
+The aforementioned postponement of the election or supplementary election of a councilor of the special municipality, mayor of the special municipality, county/city councilor, or magistrate/mayor shall be carried out upon approval by the Executive Yuan or Ministry of the Interior, respectively.
+
+In accordance with Paragraph 1, the aforementioned postponement of the election or supplementary election of a township/city representative, mayor of the township/city, or chief of village shall be carried out upon approval by the respective special municipality or county/city government.
+
+When an election is postponed in accordance with the preceding three paragraphs, the current term of office shall be lengthened on the basis of the prevailing circumstances. If the office should become vacant during the lengthened term, no supplementary election shall be held.
+
+##### Article 83-1
+
+The tenure of the following local public officials shall be adjusted to end on Dec. 25, 2014:
+
+\1. Magistrates/mayors whose terms end on Dec. 20, 2013.
+
+\2. County/city councilors and mayors of township/city whose terms end on March 1, 2014.
+
+\3. Township/city representatives and chiefs of village whose terms end on Aug. 1, 2014.
+
+\4. Chiefs of village in Taipei City whose terms end on Jan. 16, 2015.
+
+## Chapter 4-1. Mountain Indigenous Districts of Special Municipalities
+
+##### Article 83-2
+
+Districts of special municipalities that have been converted from mountain indigenous townships shall be referred to as mountain indigenous districts of special municipalities (hereafter referred to as mountain indigenous districts). Mountain indigenous districts shall be local self-governing bodies and shall have a district council and a district office, which are the legislative and administrative bodies, respectively, of the mountain indigenous districts. The district councils and district offices shall carry out self-government matters in accordance with this Act as well as commissioned matters from higher levels of government.
+
+Unless otherwise provided for by law, provisions of this Act relevant to townships/cities shall apply mutatis mutandis to self-government matters and matters commissioned by higher levels of government. Provisions of this Act governing the relationship between counties and townships/cities shall apply mutatis mutandis to the relationship between special municipalities and mountain indigenous districts.
+
+##### Article 83-3
+
+The self-government matters of mountain indigenous districts are as follows:
+
+\1. Matters related to organization and administration:
+
+(1) Election and recall of public officials in the mountain indigenous district.
+
+(2) Establishment and management of mountain indigenous district organizations.
+
+(3) Press administration in the mountain indigenous district.
+
+\2. Financial matters:
+
+(1) Management of income, expenditures, and finances in the mountain indigenous district.
+
+(2) Management and disposition of properties in the mountain indigenous district.
+
+\3. Matters related to social services:
+
+(1) Social welfare in the mountain indigenous district.
+
+(2) Charity businesses and social assistance in the mountain indigenous district.
+
+(3) Establishment and management of cemeteries and burial facilities in the mountain indigenous district.
+
+(4) Arbitration in the mountain indigenous district.
+
+\4. Matters related to education, culture, and sports:
+
+(1) Provision and management of social education in the mountain indigenous district.
+
+(2) Cultural activities in the mountain indigenous district.
+
+(3) Sports activities in the mountain indigenous district.
+
+(4) Rites, traditions, and literature in the mountain indigenous district.
+
+(5) Establishment, operations, and management of social education, physical education, and cultural institutions in the mountain indigenous district.
+
+\5. Matters related to environmental sanitation:
+
+Waste handling and disposal in the mountain indigenous district.
+
+\6. Matters related to construction, transportation, and tourism:
+
+(1) Construction and management of roads in the mountain indigenous district.
+
+(2) Construction and administration of parks and green spaces in the mountain indigenous district.
+
+(3) Traffic planning, operations, and management in the mountain indigenous district.
+
+(4) Tourism in the mountain indigenous district.
+
+\7. Matters related to public safety:
+
+(1) Planning and implementation of disaster prevention and disaster rescue operations in the mountain indigenous district.
+
+(2) Civil defense in the mountain indigenous district.
+
+\8. Matters related to operations and management of businesses:
+
+(1) Public utilities and publicly-owned enterprises in the mountain indigenous district.
+
+(2) Public productive enterprises in the mountain indigenous district.
+
+(3) Enterprises jointly operated with other local self-governing bodies.
+
+\9. Other matters as required by law.
+
+##### Article 83-4
+
+When a mountain indigenous township is to be converted into a mountain indigenous district, such changes in status shall take effect on the day the term of the current mayor of the special municipality expires, and the districts and townships of the mountain indigenous township that exist prior to the change in status shall become the administrative districts of the resulting mountain indigenous district. The electoral districts for the election of the first session of councilors and chief administrator shall be the administrative districts in the districts and townships that existed prior to the change in status. The election shall be completed ten (10) days before the change in status, and the stipulation of Article 87-1, Paragraph 3 regarding the announcement of electoral districts and the stipulation of Article 87-1, Paragraph 4 regarding taking office on the day the change in status become effective shall apply mutatis mutandis.
+
+##### Article 83-5
+
+Prior to the formulation (promulgation) of self-government laws and regulations for mountain indigenous districts, the self-government laws and regulations relevant to existing special municipalities shall apply.
+
+If a mountain indigenous township is directly converted into a mountain indigenous district and it is necessary to continue to apply the previous self-government laws and regulations, such self-government laws and regulations may continue to be applied for two (2) years after an announcement by the mountain indigenous district office.
+
+##### Article 83-6
+
+The special municipality shall formulate (promulgate) self-government laws and regulations for the allocation, transfer and adjustment of the mountain indigenous district agency (institution) personnel, assets and other rights and obligations. However, when a mountain indigenous district is converted from a mountain indigenous township, the personnel, assets, and other rights and obligations of the former mountain indigenous township shall be maintained.
+
+The date for adjusting the allocation of government revenues and expenditures for the mountain indigenous district shall be determined by the Executive Yuan in consultation with the special municipality government. Prior to the adjustment, budget implementation of the relevant agencies (institutions) shall continue to be based on the budget previously formulated by the special municipality.
+
+The general budget for a mountain indigenous district during the first year after its change in status shall be submitted by the district office to the district council before January 31 of that year. The district council shall complete the budget review within one (1) month of receipt of the general budget proposal. The district office shall announce the general budget within fifteen (15) days of the completion of the budget review. If the district office fails to submit the general budget proposal at the beginning of the fiscal year or if the general budget is not approved, Paragraph 2 of Article 40-1 shall apply mutatis mutandis to budget implementation.
+
+If personnel transferred in accordance with Paragraph 1 are current civil servants who have either passed a civil service examination or are transferred in accordance with the Placement of Professionals and Technologists as Civil Servants Act, Paragraphs 6 to 9 of Article 87-3 shall apply mutatis mutandis to the transfer.
+
+If personnel transferred in accordance with Paragraph 1 have passed the civil servant examinations and are still undergoing practical training, such transfer shall be construed as a transfer to other agencies for a continuation of their practical training. The restrictions that apply to such transfers shall be loosened in a manner similar to the transfers indicated in the preceding paragraph.
+
+##### Article 83-7
+
+The financial resources required for the implementation of local self-government in mountain indigenous districts shall be calculated and subsidized by the special municipality in accordance with the following factors; furthermore, the level of general centrally-funded tax revenues available to each mountain indigenous township prior to the reorganization shall be maintained:
+
+\1. Self-government matters in mountain indigenous districts as stipulated in Article 83-3.
+
+\2. The average of the total annual general budget expenditures for each mountain indigenous township in the three years preceding the reorganization into a special municipality, minus the average amount of additional subsidies from the higher-level government, as well as the funds for matters transferred to the special municipality after reorganization.
+
+\3. Where, in any given year, the actual amount of general centrally-funded tax revenues allocated to a special municipality exceeds the notified allocation, the special municipality shall, in the following year or in subsequent years, appropriately increase subsidies to each mountain indigenous district in proportion to the increase
+
+\4. Other relevant factors.
+
+The subsidy items, procedures for subsidy, methods of subsidy, and other relevant matters shall be determined by the special municipality in consultation with the mountain indigenous districts.
+
+##### Article 83-8
+
+The provisions of Article 58 and Article 58-1 shall not apply to mountain indigenous districts.
+
+## Chapter 5. Supplementary Provisions
+
+##### Article 84
+
+The Public Functionary Service Act shall apply to mayors of the special municipality, magistrates/mayors, and mayors of the township/city. In the event of unlawful actions, neglect of duties, or other acts of negligence, provisions on the disciplinary sanction of political appointees shall apply mutatis mutandis.
+
+##### Article 85
+
+Remuneration of civil servants of provincial governments, provincial consultative councils, councils of the special municipality, governments of the special municipality, county/city councils, county/city governments, township/city councils, and township/ city offices shall be in accordance with the Civil Servant Remuneration Act and central government laws and regulations.
+
+##### Article 86
+
+A judicial person may be formed to handle assets acquired by villages during the Japanese occupation or properties donated by the private sector.
+
+##### Article 87
+
+After the promulgation of this Act, relevant laws and regulations shall be formulated (amended) accordingly. Prior to the formulation and/or amendment of the relevant laws and regulations, existing laws and regulations that do not contravene this Act shall remain in effect. Laws and regulations applicable to townships/cities shall apply mutatis mutandis to mountain indigenous districts.
+
+##### Article 87-1
+
+If a county/city is changed into a special municipality or merged with other counties/cities or special municipalities to form a new special municipality, the change shall take effect on the day that the term of the incumbent mayor of said special municipality expires. The term of office of county/city councilors, magistrates/mayors, township/city representatives, mayors of the township/city, and chiefs of village shall be adjusted to expire on the day the change is to take effect, and no election shall take place.
+
+The election for the first session of councilors of the special municipality, mayors of the special municipality, and chiefs of villages the change into a special municipality has taken effect, the electoral districts shall be the administrative districts as indicated in the approved plan for changing into a special municipality, and the election shall be completed ten (10) days before the day the change is to take effect.
+
+For the aforementioned election of councilors of the special municipality, administrative districts may be further subdivided into electoral districts. Councilors to be elected by the indigenous population shall be elected by electoral districts formed by the indigenous population within the administrative districts. The division of electoral districts for the election of councilors of the special municipality shall be announced six (6) months before the county/city becomes a special municipality, and the provisions stated in Paragraph 1, Article 37 of the Public Officials Election and Recall Act shall not apply.
+
+After the change into a special municipality, the first session of councilors of the special municipality, the mayor of the special municipality, and chiefs of villages shall take office on the day the county/city becomes a special municipality.
+
+##### Article 87-2
+
+If a county/city is changed into a special municipality or merged with other counties/cities or special municipalities to form a new special municipality, the self-government laws and regulations of the former special municipalities, counties/cities, and townships/cities shall be abolished by the new special municipal government; if it is necessary to continue to apply the old self-government laws and regulations, after approval and announcement by the government of  new special municipal, application of such laws and regulations may continue for two (2) years.
+
+##### Article 87-3
+
+If a county/city is changed into a special municipality or merged with other counties/cities or special municipalities to form a new special municipality, the personnel, assets, liabilities, as well as other rights and obligations of the relevant agencies (institutions) and schools of the former special municipality, county/city, and townships/cities shall be transferred in full to the new special municipality.
+
+If a county/city is changed into a special municipality or merged with other counties/cities or special municipalities to form a new special municipality, the date for the adjustment of the centrally allocated government revenues and expenditures shall be determined by order of the Executive Yuan.
+
+If a county/city is changed into a special municipality or merged with other counties/cities or special municipalities to form a new special municipality, the total amount of the centrally allocated tax revenue and grants to be received by the other special municipalities or counties/cities shall not be less than the total amount received prior to the formation of the new special municipality.
+
+Before the centrally allocated government revenues and expenditures stated in Paragraph 2 are adjusted, budget implementation at the relevant agencies (institutions) and schools in the new special municipality shall proceed in accordance with the original budget as formulated by the former special municipality, county/city, or townships/cities prior to their change into a special municipality.
+
+After a county/city is changed into a special municipality, regulations in place at the former special municipality or county/city shall continue to apply before the relevant laws and central regulations are amended.
+
+After a county/city is changed into a special municipality, if the personnel who are current civil servants who have passed a civil service examination are transferred in accordance with Paragraph 1 are transferred to the competent authority or one of its subordinate agencies where they were formerly assigned or appointed, to a school or agency where they are eligible for placement, to the examination agency or one of its subordinate agencies where they formerly applied for placement, to an agency other than a school, or to a school, such personnel may be exempt from the regulations against transfers as stipulated in the Civil Service Examinations Act, Civil Service Employment Act, and other relevant regulations on civil service examinations.
+
+Future transfers of the aforementioned personnel shall be limited to the relevant job positions in agencies where those who have passed a civil service examination are eligible for placement, in the examination agency where they have applied for placement, or in the destination agency’s competent authority or its subordinate agencies.
+
+If there are restrictions on re-transfer of personnel within a certain time period immediately after a prior transfer, as stipulated in the Civil Service Examinations Act, a civil servant may only be transferred to other agencies after such time period has expired.
+
+Personnel who are transferred in accordance with the Placement of Professionals and Technologists as Civil Servants Act during the time period within which transfer is restricted shall be exempt from the Act’s restriction on the destination agency; however, such personnel may be transferred to other agencies only after their combined years of service in their original agency, destination agency, and their subordinate agencies is not less than three years.
+
+##### Article 88
+
+This Act shall come into force starting from the date of promulgation.
+
+The articles amended on June 14, 2007, shall take effect starting Jan. 1, 2007, while the articles amended on May 12, 2009, shall take effect starting Nov. 23, 2009. Chapter 4-1 and Article 87 of this Act, both amended on Jan. 14, 2014, shall take effect at a date determined by the Executive Yuan.
+
+## History
+
+1.Promulgated and enforced by President Order Hua-Tsung-I-Yi Tzu No. 8800017850 on Jan. 25, 1999.
+
+2.Article 57 amended and Promulgated by President Order Hua-Tsung-I-Yi Tzu No. 09400091911 on Jun. 22, 2005.
+
+3.Article 26 amended and Promulgated by President Order Hua-Tsung-I-Yi Tzu No. 09400192911 on Nov. 30, 2005.
+
+4.Article 56 amended and Promulgated by President Order Hua-Tsung-I-Yi Tzu No. 09400199361 on Dec. 14, 2005.
+
+5.Article 4 and Article 7 amended and promulgated by Presidential Order Hua-Tsung-I-Yi Tzu No. 09600064131 dated May 23, 2007.
+
+6.Article 56 and Article 62 amended and promulgated by Presidential Order Hua-Tsung-I-Yi Tzu No. 09600087261 dated July 11, 2007.
+
+Article 9 and Article 88 amended and promulgated by Presidential Order Hua-Tsung-I-Yi Tzu No. 09600088111 dated July 11, 2007.
+
+7.Articles 7-1, 7-2, and 87-1 to 87-3 added, and Article 7 amended and promulgated by Presidential Order Hua-Tsung-I-Yi Tzu No. 09800097671 dated April 15, 2009.
+
+8.Articles 79 and 88 amended and promulgated by Presidential Order Hua-Tsung-I-Yi Tzu No. 09800134361 dated May 27, 2009.
+
+9.Article 7-3, Article 24-1 to Article 24-3, Article 40-1, Article 58-1, and Article 83-1 added; Article 21,Article 33, Article 48, Article 55, and Article 58 amended and promulgated by President Order Hua-Tsung-I-Yi Tzu No. 09900022441 dated Feb. 3, 2010.
+
+10.Chapter 4-1, Article 83-2 to Article 83-8 added; Article 22 deleted, Article 6, Article27, Article 45, Article 55 to Article 57, Article 62, Article 77, Article 82, Article 83, Article 87 and Article 88 amended and promulgated by President Order Hua-Tsung-I-Yi Tzu No. 10300013731 dated Jan. 29, 2014.
+
+11.Article 79 amended and Promulgated by President Order Hua-Tsung-I-Yi Tzu No. 10400013421 on Feb. 4, 2015.
+
+12.Article 4 amended and promulgated by Presidential Order Hua-Tsung-I-Yi Tzu No. 10400070751 dated June 17, 2015.
+
+13.Article 44 and Article 46 amended and promulgated by Presidential Order Hua-Tsung-I-Yi Tzu No. 10500063141 dated June 22, 2016.
+
+14.Article 57, 78 and 82 amended and promulgated by Presidential Order Hua-Tsung-I-Yi Tzu No.11100043831 dated May 25, 2022.
+
+15.Article 33 amended and promulgated by Presidential Order Hua-Tsung-I-Yi Tzu No.11300070101 dated August 7, 2024.
+
+16.Articles 33, 55 to 57, 61, and 83-7 amended and promulgated by Presidential Order Hua-Zong-Yi-Zi No. 11400124071 dated December 3, 2025.

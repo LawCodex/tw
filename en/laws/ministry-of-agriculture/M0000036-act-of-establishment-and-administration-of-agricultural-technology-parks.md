@@ -1,0 +1,425 @@
+---
+title: "Act of Establishment and Administration of Agricultural Technology Parks"
+title_zh: "農業科技園區設置管理條例"
+identifier: "M0000036"
+type: act
+law_level: "法律"
+category: "行政＞農業部＞農業科技園區目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2004-04-07
+last_amended: 2026-02-04
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0000036"
+retrieved: 2026-10-12
+---
+
+# Act of Establishment and Administration of Agricultural Technology Parks
+
+> Translation. The Chinese text ([zh/laws/ministry-of-agriculture/M0000036-act-of-establishment-and-administration-of-agricultural-technology-parks.md](../../../zh/laws/ministry-of-agriculture/M0000036-act-of-establishment-and-administration-of-agricultural-technology-parks.md)) is authoritative.
+
+## Chapter 1 General Principles
+
+### Article 1
+
+The Act is enacted to ensure sustainable management of agriculture through developing agricultural technology, attracting agricultural talents, facilitating cluster formations of the agricultural technology industry, and accelerating the transformation of the agricultural industry.
+
+### Article 2
+
+The establishment and administration of an Agricultural Technology Park (hereinafter referred to as the “Park”) shall be governed by the provisions of the Act. In case where the provisions of other relevant laws are more favorable to the development of agricultural technology than those contained herein, the most favorable ones shall apply.
+
+### Article 3
+
+The competent authority of the Act shall be the Council of Agriculture,Executive Yuan.
+
+### Article 4
+
+Definitions of the terms used in the Act are as follows:
+
+1.Agricultural Technology: refers to the biological or other relevant technology that may, deemed by the competent authority, advance the industrial development and increase the efficiency in the research and development, improvement, production, and processing of agricultural products.
+
+2.Park Enterprises: refers to the enterprises approved to reside in the Park to engage in the development, research, production, manufacture, provisions of services of agricultural technology or other relevant businesses.
+
+3.Amenity Businesses: refers to the businesses providing accommodation, food and beverages, shopping, entertainment, and other services in the Park.
+
+4.Park Organizations: refers to the Park businesses, incubation centers, research institutions, and amenity businesses residing in the Park.
+
+## Chapter Two Establishment and Administration
+
+### Article 5
+
+The competent authority may designate an appropriate location for the establishment of the Park and submit to the Executive Yuan for its approval.
+
+### Article 6
+
+Incubation centers and research institutions may apply for their establishment in the Park.
+
+### Article 7
+
+The competent authority shall establish a Park Administration (hereinafter referred to as the “Administration”) in the Park to administer and provide various services in the Park. The organization of the Administration shall be further prescribed by the laws.
+
+The Administration shall take charge of the following affairs in the Park:
+
+1.Drafting policies, strategies, and relevant measures and plans of the Park development;
+
+2.Financial planning, allocating, and auditing;
+
+3.Affairs regarding the research, innovation, development, and promotion of agricultural technology;
+
+\4. Advertising and bringing in investment and businesses;
+
+5.Affairs concerning the examination and approval of applications for the establishment or revocation of operations of the Park Enterprises;
+
+6.Determining schedules for the Park Enterprises to submit their annual operational reports;
+
+7.Providing the operation-related guidance and services for the Park Enterprises;
+
+8.Inspection of the Park Enterprises’ business statuses;
+
+9.Affairs concerning the business operation of industrial and commercial associations;
+
+10.Affairs concerning the administration and revenues of government properties;
+
+11.Affairs concerning the construction and administration of public facilities;
+
+12.Planning, developing, and administering amenity areas;
+
+13.Affairs concerning the construction, leasing, and planning of factory buildings, relevant research and production facilities, and amenity facilities;
+
+14.Affairs concerning technical service facilities for general uses;
+
+15.Affairs concerning the establishment, operation or administration of storage and transport units and bonded warehouses;
+
+16.Affairs concerning the information management, network utilization, and information development in the Park;
+
+17.Planning for and promoting environmental protection in the Park;
+
+18.Forwarding relevant certificates, licenses, and permits to competent authorities for approvals regarding the establishment or expansion of the Park Enterprises, incubation centers, and research institutions;
+
+19.Affairs concerning implementing measures to prevent smuggling;
+
+20.Other relevant administrative affairs and services in the Park; and
+
+21.Other affairs delegated in accordance with the laws or by the superior authorities.
+
+The management of the following affairs by the Administration shall be delegated or mandated by the competent authorities of the target Park Enterprises concerned:
+
+1.Product inspections, and the animal and plant disease and pest control and quarantine;
+
+2.The certificate issuance of tax deduction or exemption certificates;
+
+3.The license issuance of industrial and commercial registrations and power use certificates for agricultural purposes;
+
+4.The pollution control;
+
+5.The land use restrictions and construction administration; and
+
+6.The issuance of commodity export/import endorsements and certificates of country of origin, and dealing with other import/export trading affairs.
+
+### Article 8
+
+The respective competent authorities or relevant institutions in charge of related matters may, in coordination and collaboration with the Administration, establish branches or designate personnel to deal with the following matters within the Park:
+
+1.Tax collection;
+
+2.Customs matters;
+
+3.Postal and telecommunication activities;
+
+4.Power supply, water supply, and other public utility matters;
+
+5.Financial matters;
+
+6.Police and fire control activities;
+
+7.Land administration;
+
+8.Registration of seedling enterprises; and
+
+9.Other official affairs in connection with government agencies.
+
+### Article 9
+
+To manage the Park and its public facilities and to maintain the environmental quality of the Park, the Administration may charge the Park Organizations an administrative fee. A service fee or relevant necessary fees may be charged in order to handle the affairs as set forth in the preceding two articles and Article 20.
+
+Fee-charging Standards set forth in the preceding paragraph shall be prescribed by the competent authority.
+
+### Article 10
+
+The Administration may establish an operation fund. The sources of the fund shall be the follows:
+
+1.Administrative fees, service fees, and other relevant fees;
+
+2.Government allocated funding according to budget procedures; and
+
+3.Income gained from the utilization and revenues of properties in accordance with the laws.
+
+The operation fund referred to in the preceding paragraph shall be used as follows:
+
+1.Affairs concerning the development, expansion, improvement, maintenance, expropriation, and management of the Park;
+
+2.Affairs concerning any operating services in the Park; and
+
+3.Other relevant affairs concerning the business development of the Park.
+
+Regulations governing the income and expenditure, safekeeping, and utilization of the operation fund referred to in Paragraph 1 hereof shall be prescribed by the Executive Yuan.
+
+## Chapter Three Acquisition and Utilization of Land and Buildings
+
+### Article 11
+
+The Administration may apply for any government owned plots of land in the Park to be transferred to the Administration for its use in accordance with the laws. The Administration may request any plots of privately owned land in the Park to be:
+
+1.expropriated with compensation in accordance with the laws;
+
+2.The land owner may establish superficies or lease the land to the Administration to develop and utilize; or
+
+3.jointly developed by the owner and the Administration in accordance with the development plan of the competent authority.
+
+At least 30% of the total acquired land developed in the Park shall be dedicated for public facility uses and at least 10% as green land.
+
+The Park Organizations may, if required, lease a plot or plots of land in the Park from the Administration. In addition to rent, the Park Organizations shall share the construction cost and expenses of public facilities. The rent payable under this Article shall not be subject to the restrictions in Article 105 of the Land Act.
+
+Notwithstanding the limitations in Paragraph 3 of Article 440 of the Civil Code and Subparagraph 4 of Article 103 of the Land Act, if a Park Organization leases a plot or plots of land as set forth in the preceding paragraph to construct a building or buildings and the total amount of the overdue rent exceeds the amount of four months’ rent, the Administration may terminate the lease agreement and repossess the plot(s) of land.
+
+### Article 12
+
+A Park Enterprise, an incubation center or a research institution may, having submitted its plans to and obtained approval of the Administration, build factory buildings and relevant research and production facilities in the Park; or the buildings or facilities may be built by the Administration and then leased to the Park Enterprises, incubation centers or a research institutions.
+
+The factory buildings and relevant research and production facilities built by the Park Enterprises, incubation centers, or research institutions as referred to in the preceding paragraph shall be leased or sold to the Park Enterprises, incubation centers and research institutions that have been approved by the Administration only. The sale or rent prices of these buildings and facilities shall be submitted to the Administration for approval. The rent payable under this Article shall not be subject to the restrictions in Article 97 of the Land Act.
+
+### Article 13
+
+If one of the following circumstances occurs, the Administration may notify in writing and request a Park Enterprise, an incubation center or a research institution to make improvements or vacate from their premises in the Park within 30 days of the date of the notice. If it fails to comply as requested, the Administration may expropriate, repossess or dispose of their premises:
+
+1.Providing their factory buildings and relevant research and production facilities in the Park to an unapproved park enterprise, incubation center, or research institution;
+
+2.Factory buildings and relevant research and production facilities are not used for the approved purposes of residency;
+
+3.Overpricing the sale values or rent of the factory buildings and relevant research and production facilities in the Park; and
+
+4.Those whose approval of residency are revoked and shall vacate from the Park in accordance with Paragraph 3 of Article 19, Article 32, or Paragraph 2 of Article 34, hereof.
+
+Where the Administration expropriates or compulsorily repossesses or disposes of the factory buildings and relevant research and production facilities pursuant to the preceding paragraph, the Administration may determine a deadline and order the original owner to remove all the items stored in the said factory buildings and other structures, or the Administration shall remove the items for the owner. Expenses and damages incurred from the removal shall be borne by the original owner.
+
+With regard to the factory buildings and relevant research and production facilities referred to in Paragraph 1 hereof, the procedures and methods of expropriation and the regulations of compulsory repossession and disposals of the premises shall be prescribed by the competent authority.
+
+### Article 14
+
+A portion of the Park may be designated as amenity areas providing accommodation, food and beverages, shopping, entertainment, and other services and shall be developed and managed by the Administration in accordance with the schedule of the Park development. Employee accommodation shall be leased to the staff working in the Park Enterprises and Park Organizations only.
+
+Besides amenity areas referred to in the preceding paragraph, the Park Enterprises may, having obtained approval of the Administration, build additional amenity facilities for their staff’s uses.
+
+## Chapter Four Requirements, Procedures, and Administration of Residency
+
+### Article 15
+
+A Park Enterprise shall be a company limited by shares or one of its branch offices established and organized in accordance with the Company Act or an equivalent foreign company recognized by the government of the Republic of China, and shall meet at least one of the following requirements:
+
+1.The Park Enterprise shall have the capacity for the research and development of agricultural technology, and have integrated product development plans;
+
+2.The Park Enterprise shall have the capacity for attracting and developing local talents in their processes of production or research and development of agricultural technology;
+
+3.The Park Enterprise shall establish a research and development department in agricultural technology; its investment into the research and development department must reach a certain percentage of the total revenue of the company; and the Park Enterprise shall have certain research equipment and facilities, as may be required by the Administration;
+
+4.The products of agricultural technology of a Park Enterprise shall have the potential for further development and innovation;
+
+5.Relevant agricultural technology researched, developed or applied by the Park Enterprise has been patented domestically or overseas; or
+
+6.The operation of the Park Enterprise shall comply with domestic agricultural policies and development, and shall contribute significantly to domestic economic or agricultural developments.
+
+If a Park Enterprise is not a company or a branch in the form as set forth in the preceding paragraph, it shall complete the company or branch registration with the Administration within six (6) months from the day of approval.
+
+### Article 15-1
+
+Where a local agricultural technology park, prior to the enforcement of the amendment to this Article, has been approved by the competent authority and submitted to the Executive Yuan for approval pursuant to Article 5 to be incorporated under the administration of the competent authority, the Park Enterprises originally approved for residency prior to such incorporation may continue to reside in the Park in accordance with the qualifications and conditions for residency originally approved, and shall not be subject to the restrictions in the preceding Article regarding the organizational form of Park Enterprises.
+
+Where a Park Enterprise referred to in the preceding paragraph is a natural person or a sole proprietorship, and an inheritance occurs to such natural person or to the responsible person of such sole proprietorship, or where a gift is made to a spouse or a lineal descendant by blood within the second degree, an heir or donee applying for residency in the Park shall likewise not be subject to the restrictions in the preceding Article regarding the organizational form of Park Enterprises.
+
+The heir or donee referred to in the preceding paragraph applying for residency in the Park shall be limited to one person.
+
+Where a Park Enterprise originally approved for residency referred to in Paragraph 1 is a natural person or a sole proprietorship, and where, after the Park has been incorporated under the administration of the competent authority and prior to the enforcement of the amendment to this Article, any inheritance or gift as set forth in Paragraph 2 occurs, the preceding two paragraphs shall also apply.
+
+### Article 16
+
+A park enterprises, incubation centers, and research institutions applying for Park residency shall complete an application form and attach a business plan and other required documents to submit to the Administration. The Administration shall notify the applicant of its evaluation results within three (3) months upon receipt of the application.
+
+The required documents referred to in the preceding paragraph shall be prescribed by the competent authority.
+
+The business plan referred to in Paragraph 1 hereof shall contain business activities and a summary of the core technologies of the applicant, and other items prescribed by the competent authority.
+
+The Park Enterprise, incubation center, or research institution shall submit to the Administration for approval for any changes in its business activities or its summary of the core technologies after it has started its operation.
+
+If the documents or items contained thereof submitted by the Park Enterprises, incubation centers, or research institutions in accordance with Paragraph 1 hereof are incomplete, the Administration shall describe the reasons and determine a deadline for rectification. The Administration shall reject any incomplete application that has not been rectified as requested to the satisfaction of the Administration within the deadline.
+
+### Article 17
+
+The Park Enterprises shall pay surety pursuant to the regulations prescribed by the Administration within two (2) months of the date of approval for residency in order to ensure the implementation of the business plans.
+
+If, after three (3) years from the date of approval for residency and according to the review conducted by the Administration, a Park Enterprise fails to operate in accordance with its business plan, the surety referred to in the preceding paragraph may not be refunded. The surety shall be refunded, with no interest, to those that operate in accordance with their business plans.
+
+A Park Enterprise that fails to implement its business plan within the prescribed deadline specified in the preceding paragraph due to a justifiable reason may apply to the Administration for an extension of the deadline. The Administration may, after a review of a successful application, grant an extension of three (3) years, and may grant a further extension of another three (3) years, if necessary. The total prescribed period allowed for implementing a business plan shall not exceed nine (9) years.
+
+### Article 18
+
+Regulations for the establishment of the Amenity Businesses and research institutions; deadlines (and its extensions) of the implementation of the business plan, or changes in the business plan of a Park Enterprise, an incubation center, and a research institution; the amount of a surety payable by a Park Enterprise; and other relevant administrative affairs, shall be stipulated by the competent authority.
+
+### Article 19
+
+With regard to those Park Enterprises that fail to complete the company or branch registrations in accordance with Paragraph 2 of Article 15 hereof, or fail to pay the surety in accordance with Paragraph 1 of Article 17, hereof, the Administration shall revoke the approval of residency.
+
+With regard to those Park Enterprises, incubation centers and research institutions that fail to start the implementation of the business plans on or before the prescribed deadline or fail to carry out its activities in accordance with the business plans, the Administration shall revoke the approval of residency.
+
+The Administration shall order those whose approval of residency is revoked to vacate from the Park.
+
+## Chapter Five Measures to Promote the Development of the Park
+
+### Article 20
+
+If required for research, development and export purposes, the Administration may establish greenhouses, animal farms, experimental farms, low-temperature preservation storage and transport centers, or other related facilities, equipment, and exclusive isolation facilities for animal, plant or microorganism transgenic products for the Park Enterprises, incubation centers or research institutions to utilize.
+
+### Article 21
+
+The competent authority may designate a bonded area in the Park and submit for approval of the Executive Yuan to provide the convenience of bonding operations for the Park Enterprises.
+
+Regulations for the processing and management of bonded goods, self-inspection of inbound and outbound goods, making consolidated monthly reports, Customs clearance, procedures for recovering taxes on goods that have been internally sold to duty-levying areas, and other required matters within the bonded area referred to in the preceding paragraph shall be prescribed by the competent authority after consulting with the Ministry of Finance.
+
+### Article 22
+
+The customs tariffs, commodity tax, and business tax shall be exempted for self-use machines and equipment imported from abroad by the Park Enterprises in the bonded area referred to in the preceding article. However, the customs tariffs, commodity tax, and business tax shall be collected for those transported to duty-levying areas within five (5) years from the importation.
+
+The customs tariffs, commodity tax, and business tax shall be exempted for raw materials, materials, fuels, semi-finished products, samples, and finished products approved for trading purposes imported from abroad by the Park Enterprises within the bonded area referred to in the preceding article. However, the customs tariffs, commodity tax, and business tax shall be collected, in accordance with the regulations governing imported goods, for those transported to duty-levying areas.
+
+For export of products or services by the Park Enterprises within the bonded area referred to in the preceding article, the business tax rate is zero (0) and commodity tax shall be exempted therefor. However, in the case that the Park Enterprises transport products, wastes or scraps to duty-levying areas, the customs tariffs, commodity tax, and business tax shall be collected, in accordance with the regulations governing imported goods, for those transported to duty-levying areas, except in the case that the products still cannot be produced in the domestic duty-levying area, the customs tariffs, commodity tax, and business tax shall be collected according to the raw materials or parts used therefor. Business tax shall be collected for the services provided in a duty-levying area.
+
+In the event of special causes requiring that bonded goods of the Park Enterprises within the bonded area referred to in the preceding article be temporarily stored in a duty-levying area, the storage shall be carried out after it has been approved by the Administration and the Park Enterprises have provided Customs with an appropriate guarantees pursuant to the Customs Act. The bonded goods shall be transported back in the time limit prescribed by Customs.
+
+The Park Enterprises shall complete customs clearance, without having to complete the formalities for exemption, guarantees, accounting, and payment of surety, in accordance with the relevant provisions of the Customs Act, for the imported goods that are exempted from duties as prescribed in Paragraphs 1 and 2 hereof.
+
+### Article 23
+
+The Park Enterprises shall complete customs clearance, in accordance with the relevant provisions of the Customs Act, for exporting and importing goods.
+
+Applications for import or export permits may be exempted for the goods referred to in the preceding paragraph, except for those that endorsements or approvals are required by the competent authority for international trade.
+
+The self-use machines, equipment, raw materials, materials, fuels, semi-finished products, and samples sold by sellers of in duty-levying areas for the Park Enterprises in the bonded area for their own use shall be treated as exported goods.
+
+In the case that the goods referred to in the preceding paragraph are re-transported to duty-levying areas, the customs tariffs, commodity tax, and business tax shall be collected, in accordance with the regulations governing imported goods.
+
+### Article 24
+
+(Deleted)
+
+### Article 25
+
+The Administration may select adequate educational or training organizations or academic research institutions to provide services for the purposes of professional education and training, the research and development of new technology, technicians exchange programs, and/or instruments and equipment information exchanges, as may be required by the Park Enterprises, incubation centers or research institutions, on a reciprocal basis.
+
+### Article 26
+
+A Park Enterprise may establish one or more satellite farms outside of the Park for the purpose of massive production.
+
+The Administration may set aside a budget to assist farmers’ organizations in providing guidance for relevant agricultural production and marketing groups to participate in the management of satellite farms.
+
+### Article 27
+
+In order to promote the exportation of agricultural technology products, the competent authority may submit for approval of the Executive Yuan to allow the Park Enterprises of exportation to apply for low-rate loans.
+
+## Chapter Six Obligations of the Park Enterprises
+
+### Article 28
+
+In the case that the Park Enterprises transfer the ownership or make a change in the uses of the bonded goods that have been approved for exportation to a duty-levying area, the Park Enterprises shall, within thirty (30) days of the date of the transfer of ownership or the change in the uses of the bonded goods, make supplementary payment of customs tariffs, commodity tax, and business tax in accordance with the original type of such bonded goods. In the case of failure to make supplementary payment for such duties in accordance with the relevant provisions, the provisions of the Customs Act shall apply.
+
+The Park Enterprises, which make applications for importing non-bonded goods under the name of bonded goods and then voluntarily apply for supplementary payment of duties and dues beyond the time limit as specified in the relevant provisions, shall, in addition to being liable to payment of such duties and dues, be subject to imposition of a delinquency surcharge in an amount to be calculated at the daily rate equal to 0.05% of the amount of the outstanding duties and dues for the period from the date following the date on which the imported raw materials are released by Customs to the date of full payment of the duties and dues. However, if the Customs authority discovers the false importation, the Park Enterprises shall, in addition to being liable to supplementary payment of the duties and dues and delinquency surcharge, be dealt with in accordance with the Customs Anti-smuggling Act.
+
+### Article 29
+
+The Park Enterprises shall prepare truthful accounts of the goods entering and exiting the Park, including quantities and prices of the machinery, equipment, raw materials, materials, fuels, semi-finished products, and finished goods approved for trading purposes, regardless of whether they are domestically sourced or imported by the Park Enterprises. If any of the goods stated in the accounts are damaged or lost, the Park Enterprises may submit a report with justified reasons to the Administration for the deletion from the accounts of entries of the goods. After the Administration and Customs or tax collection administrations have jointly verified the report and agreed to exempt the goods from duties, the recorded entries of the goods will be allowed to be deleted from the accounts.
+
+If necessary, the Administration, in cooperation with Customs or tax collection administrations, may send their officers to audit the accounts and the goods as referred to in the preceding paragraph.
+
+### Article 30
+
+After the end of every fiscal year, the Park Enterprises shall, within the deadline prescribed by the Administration, submit their annual operating reports and financial statements to the Administration for the record.
+
+If the capital of a Park Enterprise reaches the amount specified in Paragraph 2 of Article 20 of the Company Act, the financial statements referred to in the previous paragraph shall be certified by a certified public accountant (CPA) in advance.
+
+### Article 31
+
+With regard to animal, plant or microorganism transgenic products and their manufacturing processes, the Park Enterprises, incubation centers, and research institutions shall comply with the relevant laws and regulations to ensure the ecological safety of the environments inside and outside of the Park.
+
+## Chapter Seven Penal Provisions
+
+### Article 32
+
+If any Park Enterprise, incubation center, or research institution builds factory buildings and relevant research and production facilities in the Park without approval in violation of Paragraph 1 of Article 12 hereof, the Administration shall order such an entity to vacate from the Park by a prescribed deadline and impose an administrative fine of not less than one hundred thousand New Taiwan Dollars (NT$100,000) and not more than five hundred thousand New Taiwan Dollars (NT$500,000).
+
+### Article 33
+
+If any Park Enterprise, incubation center, or research institution violates Paragraph 4 of Article 16 hereof, the Administration shall order such an entity to rectify the violation by a prescribed deadline and impose an administrative fine of not less than one hundred thousand New Taiwan Dollars (NT$100,000) and not more than five hundred thousand New Taiwan Dollars (NT$500,000). If the rectification is completed on or before the deadline, the Administration may additionally revoke its approval of residency.
+
+### Article 34
+
+If any Park Enterprise fails to submit annual operating reports or financial statements on or before the prescribed deadline, or if the financial statements are not certified by a CPA in advance in violation of Article 30 hereof, the Administration shall order such an entity to submit the documents or rectify the certification by a prescribed deadline. If the said Park Enterprise fails to comply with the order on or before the deadline, the Administration shall impose an administrative fine of not less than thirty thousand New Taiwan Dollars (NT$30,000) and not more than one hundred and fifty thousand New Taiwan Dollars (NT$150,000). Repeated fines may be imposed.
+
+If the Park Enterprise is fined pursuant to the previous paragraph for two (2) consecutive years, the Administration may additionally revoke its approval of residency.
+
+### Article 35
+
+If a Park Enterprise violates Paragraph 2 of Article 14 hereof and provides the amenity facilities built thereunder for non-staff members’ uses, the Administration shall order the Park Enterprise to rectify the violation by a prescribed deadline. An administrative fine of not more than one hundred thousand New Taiwan Dollars (NT$100,000) shall be imposed on those who fail to rectify the violation on or before the deadline.
+
+### Article 36
+
+If a Park Enterprises violates any provisions of relevant regulations, as promulgated pursuant to Paragraph 2 of Article 21 hereof, related to the processing and management of bonded goods, self-inspection of inbound and outbound goods, making consolidated monthly reports, customs clearance, procedures for recovering taxes on goods that have internally sold to duty-levying areas, or in conducting any other required matters, Customs may issue a warning and order the Park Enterprise to rectify the breach by a prescribed deadline or impose an administrative fine of no less than six thousand New Taiwan Dollars (NT$6,000) and no more than thirty thousand New Taiwan Dollars (NT$30,000). Repeated fines may be imposed. If the breach is still not rectified after being punished three (3) times, Customs may suspend whole or part of the Park Enterprise’s bonded-goods operations for a period of no more than six (6) months.
+
+### Article 37
+
+If a Park Enterprise, incubation center, or research institution fails to submit its sale and rent prices to the Administration for approval under Paragraph 2 of Article 12 hereof, the Administration shall order it to rectify the submission for approval and impose an administrative fine of no less than six thousand New Taiwan Dollars (NT$6,000) and no more than thirty thousand New Taiwan Dollars (NT$30,000).
+
+### Article 38
+
+The Administration and Customs may, from time to time, send their officers to make random checks or recheck the Park Enterprises’ self-inspection of inbound and outbound goods, or monthly declarations handled by bonded operation personnel of the Park Enterprises. In case that it has been found that the personnel did not carry out the operation truthfully or within a prescribed time limit, Customs may issue a warning and request the Park Enterprises to rectify their operations by a prescribed time limit. If the breach is still not rectified after being consecutively warned three (3) times, Customs may send a report to the Administration for approval to suspend the Park Enterprises’ privileges of self-inspection of inbound and outbound goods, and of monthly declaration for a period of no more than one (1) year. For material violations, Customs may send a report to the Administration for approval to revoke the Park Enterprises’ privileges of self-inspection of inbound and outbound goods, and of monthly declaration.
+
+### Article 39
+
+The Customs Anti-smuggling Act and other relevant laws shall apply to any Park Enterprises who are involved in the smuggling, duty evasions or other violations of the laws in connection with their imported or exported goods.
+
+### Article 40
+
+A delinquency surcharge shall be additionally imposed on those Park Enterprises that fail to pay the administration fees on or before the prescribed deadline. A surcharge will be imposed at the rate of one percent (1%) of the late payment every two (2) days after the deadline until the amount reaches fifteen percent (15%) of the amount payable.
+
+### Article 41
+
+In the case that a fine, imposed under this Act and required to be paid by a prescribed deadline, has not been paid on or before the deadline, the case shall be transferred to a procedure of compulsory execution in accordance with the laws.
+
+## Chapter Eight Supplementary Provisions
+
+### Article 42
+
+For the purpose of developing local agriculture, the municipal or county (city) governments may select a specific agricultural technology industry sector that has competitive advantages and market demands, and designate an appropriate location to establish a local agricultural technology park.
+
+The competent authority may provide subsidies for the public facilities of the local agricultural technology park referred to in the preceding paragraph.
+
+The establishment and administration affairs of the local agricultural technology park referred to in Paragraph 1 hereof shall be handled by the municipal or county (city) governments in accordance with the relevant laws and regulations of local self-government.
+
+### Article 43
+
+The enforcement regulation of the Act shall be prescribed by the competent authority.
+
+### Article 44
+
+The Act shall be enforced as of the date of promulgation.
+
+## History
+
+1.Full text of 44 articles enacted and promulgated per Presidential Order Hua-Tsung-Yi-Yi-Tzu No. 09300067411 on April 7, 2004; and enforced as of the day of promulgation.
+
+2.Amendment to Articles 30 and 34 promulgated per Presidential Order Hua-Tsung-Yi-Yi-Tzu No. 09800118821 on May 13, 2009.
+
+3.Amendments to Articles 11, 14, 17, and 40 promulgated; Article 24 deleted per Presidential Order Hua-Tsung-Yi-Yi-Tzu No. 10500037391 on May 4, 2016; Article 24.
+
+The announcement was made on July 27, 2023 by the Executive Yuan Order tai-gui-zi No. 1125014346. The relevant matters set out in Article 3,Subparagraph 1 of Article 4, Article 5,Paragraph 1 of Article 7, Paragraph 2 of Article 9, Subparagraph 3 of Paragraph 1 of Article 11, Paragraph 3 of Article 13, Paragraph 2,3 of Article 16, Article 18, Article 21, Article 27, Paragraph 2 of Article 42, Article 43 pertaining to " the Council of Agriculture of the Executive Yuan" shall be handled by "Ministry of Agriculture"as governing body, effective August 1, 2023；The relevant matters set out in Article 7, Article 8, Paragraph 1 of Article 9, Paragraph 1 of Article 10, Paragraph 1,3,4 of Article 11, Article 12, Paragraph 1,2 of Article 13, Article 14, Paragraph 2 of Article 15, Paragraph 1,4,5 of Article 16, Article 17, Article 19, Article 20, Paragraph 4 of Article 22, Article 25, Paragraph 2 of Article 26, Article 29, Paragraph 1 of Article 30, Article 32, Article 33, Article 34, Article 35, Article 37, Article 38, pertaining to " the Agricultural Technology Park Administration of the Council of Agriculture of the Executive Yuan" shall be handled by "the Agricultural Technology Park Administration Center of Ministry of Agriculture" as governing body, effective August 1, 2023.
+
+4.Addition of Article 15-1 promulgated per Presidential Order Hua-Tsung-Yi-Ching-Tzu No. 11500011021 on February 4, 2026.

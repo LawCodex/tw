@@ -1,0 +1,183 @@
+---
+title: "Public Welfare Lottery Issue Act"
+title_zh: "公益彩券發行條例"
+identifier: "G0380187"
+type: act
+law_level: "法律"
+category: "行政＞財政部＞國庫目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1995-07-05
+last_amended: 2016-11-09
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0380187"
+retrieved: 2026-10-12
+---
+
+# Public Welfare Lottery Issue Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-finance/G0380187-public-welfare-lottery-issue-act.md](../../../zh/laws/ministry-of-finance/G0380187-public-welfare-lottery-issue-act.md)) is authoritative.
+
+## Article 1
+
+This Act is enacted to ensure the issuance, management, and supervising surplus utilization of the Public Welfare Lottery so as to promote public welfare.
+
+## Article 2
+
+The Competent Authority of this Act shall be the Ministry of Finance.
+
+## Article 3
+
+The types and total amount of Public Welfare Lottery to be issued shall be approved by the Competent Authority.
+
+## Article 4
+
+Public Welfare Lottery shall be issued by a bank (hereinafter referred to as the issuing institute) appointed by the Competent Authority. The Competent Authority shall set up regulations regarding the lottery’s issuance, sales, promotion, drawings, payments of prizes, and management.
+
+With the approval of the Competent Authority, the issuing institute may delegate an appropriate organization (hereinafter referred to as the Delegated Organization) to operate the affairs of issuing, selling, promoting, drawing, paying prizes, and managing.
+
+## Article 5
+
+The prize payout ratio of the Public Welfare Lottery shall not exceed 75% of the total amount of lottery tickets issued unless otherwise approved by the Competent Authority.
+
+## Article 6
+
+The surplus of Public Welfare Lottery mentioned by the Act shall mean the total amount for which lottery tickets have been sold less the sum of the amount paid out in prizes, administration expenses and other lottery activities expenses. Administration expenses shall not exceed 15% of the total lottery sales amount.
+
+The surplus of Public Welfare Lottery shall be used by the government only for the national pension system, the national health insurance program’s safety reserve and social welfare expenses, whilst the social welfare expenses should be limited to social insurance, welfare services, social assistances, national employment,   medical care, and other  social welfare expenses that have been allocated and granted according to the Act Governing the Allocation of Government Revenues and Expenditures.
+
+In order to supervise the distribution and utilization of the surplus of Public Welfare Lottery, the Competent Authority shall establish a Public Welfare Lottery Supervising Committee that consists of representatives from the central government, municipal governments, and county (city) governments, related scholars, and representatives of social welfare communities; wherein representatives from governments shall not be more than one-half of the total representatives. Major decisions of the committee are executable only after being sanctioned by more than half of the attending committee members, in which the number of attending committee members must be more than two-thirds of that of the total committee members.
+
+Surplus granted to municipal governments and county (city) governments according to Paragraph 2 above must be exclusively used for the purpose of social welfare as stipulated in the paragraph, and the status of utilization thereof must be published on a seasonal basis. The Competent Authority must publish the status of surplus utilization on the Internet regularly, and the regulations for publishing and establishing the Public Welfare Lottery Supervising Committee of the preceding paragraph shall be drafted by the Competent Authority and then submitted to the Executive Yuan for approval.
+
+## Article 6-1
+
+The tasks of the Supervising Committee mentioned in Paragraph 3, Article 6 are as follows:
+
+Determine the surplus of Public Welfare Lottery.
+
+Supervise the allotment of the surplus of Public Welfare Lottery.
+
+Supervise and assess the utilization of the surplus of Public Welfare Lottery of each allocated agency.
+
+Supervise other major issues related to the allotment of the surplus of Public Welfare Lottery.
+
+The Competent Authority may inform the issuing institute to postpone or detain grants until improvement is made if the agency that received the surplus did not follow the decision of the Supervising Committee or if it violated Paragraph 2, Article 6. Under severe cases, the Competent Authority could recover the grants and regulate the safe-keeping and usage of the grants.
+
+The Competent Authority joins the competent authority of Social Welfare to regulate the measures of surplus utilization and assessment.
+
+## Article 6-2
+
+When an agency that receives surplus draws up anticipated revenue, 90% of the actual allocated surplus in June of the previous fiscal year shall be used as a basis.
+
+## Article 6-3
+
+Each agency that receives surplus shall place the revenues in funds or in a statement of revenue and expenditure.
+
+An agency that places surplus in a statement of revenue and expenditure shall open a special savings account in the government treasury or its commissioned institution.
+
+## Article 7
+
+Within 15 days after the end of every month, the issuing institute shall submit a monthly report that includes an income statement, statements of prize disbursements, distribution of surplus and administration expenses to the Competent Authority for perusal.
+
+## Article 8
+
+People with disabilities, indigenous peoples, and low-income single-parent families who are capable of working shall be given first priority for lottery retailer licenses. Retailers employing five individuals or more shall hire at least one person from any of these groups—people with disabilities, indigenous persons, or members of a low-income single-parent family—who is capable of working.
+
+## Article 9
+
+Executives or employees of the issuing institute, the Delegated Organization and retailer establishments shall not sell lottery tickets or pay prizes to any person under 18 years of age.
+
+## Article 10
+
+Anyone who has access to the names and addresses of winners of the lottery shall keep that information confidential except otherwise provided by law.
+
+Violators of the preceding paragraph shall be responsible for damages to a winner, upon the winner’s request.
+
+## Article 11
+
+Winners shall redeem prize money with the winning tickets and their IDs (or other form of identification) within three months after the relevant drawing. If no claim is made within that period, the prize money shall be deemed as unclaimed prize money, and reverted to the surplus.
+
+Prizes, that are below a threshold specified by the Competent Authority, may be paid without ID or other kinds of identification.
+
+The winners shall not ask for prize payments to be stopped on the grounds that lottery tickets are lost, stolen or mutilated. The provisions of the proviso of Paragraph 1, Article 720; Article 725 and Article 727 of the Civil Code shall not be applicable.
+
+## Article 12
+
+Prize money should be paid in one payment. A prize can be awarded in installments if the amount exceeds what is specified by the Competent Authority.
+
+## Article 13
+
+No prize money shall be paid for winning lottery tickets which have been damaged beyond recognition by fire, water, oil, stain or other means.
+
+## Article 14
+
+The Competent Authority may dispatch personnel or delegate a professional organization to audit the operation and financial statements of the issuing institute, the delegated organization and retailers at any time, or have them submit required information within the time period prescribed by the Competent Authority.
+
+## Article 15
+
+(deleted)
+
+## Article 16
+
+The following situations shall result in penalties of at least NT$50,000 and not more than NT$250,000:
+
+\1. The prize payout ratio exceeds the percentage referred to in the provision of Article 5.
+
+\2. The administration expense exceeds the percentage referred to in the provision of Paragraph 1, Article 6.
+
+## Article 17
+
+The following situations shall result in penalties of at least NT$30,000 and not more than NT$150,000:
+
+\1. Violating Article 7 by not submitting reports before the deadline.
+
+\2. Violating Article 8 by not hiring at least one handicapped or aboriginal person who is capable of working.
+
+\3. Violating Article 9; Paragraph 1, Article 10; or Article 12.
+
+\4. Violating Paragraph 1, Article 11 by paying prizes after the end of the three-month period or not reverting the unclaimed prize money to the surplus.
+
+\5. Violating Article 14 by refusing an audit, not submitting required information within the time period prescribed by the Competent Authority, or submitting false information.
+
+\6. Violating the regulations set up by the Competent Authority in accordance with Paragraph 1, Article 4.
+
+In the case of a violation of Article 9, money from selling tickets to people under 18 years of age and the amount of money equal to the prize paid to people under 18 years of age shall revert to the surplus.
+
+In case of violation of Subparagraph 4, Paragraph 1, the amount of money equal to the prize paid or unclaimed prize money shall revert to the surplus.
+
+## Article 18
+
+A violator who has been fined according to the provisions of Article 16 or Article 17 can be ordered to comply within the time period prescribed by the Competent Authority. If a violator fails to do so without proper reason, the penalty will be increased by one to five times the original penalty and the violator could be subjected to the following punishments:
+
+\1. A restriction on the number of issues, the quantity of lottery tickets or the number of retailers.
+
+\2. Being forbidden from issuing or selling lottery tickets.
+
+\3. Restrictions on the number of issues sold and the quantity of tickets sold or the cancellation of the retailer’s licenses.
+
+## Article 19
+
+(deleted)
+
+## Article 20
+
+Once lottery tickets have been issued, in case there are major events that negatively affect the social order or moral ethic, the Competent Authority may, with the approval of the Legislative Yuan, stop issuing lottery tickets.
+
+## Article 21
+
+This Act shall become effective on the date of promulgation.
+
+## History
+
+1.A total of 21 Articles of the Act was promulgated on July 5, 1995 by Zong Tong Hua Zong (1) Yi Zi No.4488 order
+
+2.Amendments to Articles 4, 6~9, 12, 14, 16~18, 20 and the deletion of Article 15 were promulgated on June 28, 1999 by Zong Tong Hua Zong (1) Yi Zi No.8800148630 order
+
+3.Amendments to Articles 1, 6, 8, 10; added new Articles 6-1~6-3; and the deletion of Article 19 were promulgated on March 21, 2007 by Zong Tong Hua Zong (1) Yi Zi No.09600034691 order
+
+4.Amendment to Article 6 was promulgated on May 28, 2008 by Zong Tong Hua Zong (1) Yi Zi No.09700061921 order
+
+5.Amendment to Article 4 was promulgated on November 9, 2016 by Zong Tong Hua Zong (1) Yi Zi No.10500136271 order

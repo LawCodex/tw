@@ -1,0 +1,351 @@
+---
+title: "Slopeland Conservation And Utilization Act"
+title_zh: "山坡地保育利用條例"
+identifier: "M0110006"
+type: act
+law_level: "法律"
+category: "行政＞農業部＞農村發展及水土保持目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1976-04-29
+last_amended: 2019-01-09
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0110006"
+retrieved: 2026-10-12
+---
+
+# Slopeland Conservation And Utilization Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-agriculture/M0110006-slopeland-conservation-and-utilization-act.md](../../../zh/laws/ministry-of-agriculture/M0110006-slopeland-conservation-and-utilization-act.md)) is authoritative.
+
+## Chapter 1 General Provisions
+
+### Article 1
+
+This Act governs the conservation and utilization of slopeland. Issues not addressed by this Act are governed by other laws.
+
+### Article 2
+
+In this Act, the term " competent authority" denotes the Council of Agriculture, Executive Yuan at the central level, municipality at the special municipal level, and county/city government at the county/city level.
+
+Matters pertaining to the administration and construction of slopeland are handled by the Ministry of the Interior in conjunction with the central competent authority. Matters pertaining to the mandated management and operation of state-owned slopeland are handled by the Ministry of Finance in conjunction with the central competent authority.
+
+### Article 3
+
+In this Act, the term "slopeland" denotes public and private land which the central or special municipality competent authority has identified using criteria of natural terrain, requirements of the administrative regions, and requirements for conservation and utilization but not including national forests, experimental forest, protection forest. These lands will have been approved and publicly announced by the Executive Yuan upon application of the central or special municipality competent authority, and must conform to either of the following:
+
+1.The land must have an elevation of more than 100 meters: or
+
+2.The land’s elevation is less than 100 meters, however, it has a slope 5% or more.
+
+### Article 4
+
+In this Act, the term "public slopeland" denotes slopeland owned by the nation, a special municipality, county/city, or village/town/city.
+
+### Article 5
+
+In this Act, the term "conservation and utilization of slopeland" denotes the conservation and utilization of water and soil by means of their natural features, applied engineering, agronomic or vegetative measures. These soil and water conservation and maintain measures are intended to avoid soil erosion, landslide, debris-flow and other disasters, to protect the ecology and landscape, and to conserve water resources as well as to ensure the cost-effective utilization of water and soil.
+
+### Article 6
+
+Slopeland shall, pursuant to the Regional Planning Law or City Planning Law, be designated as specific areas or zoned as land for various purposes, according to the natural terrain, geological conditions, vegetation conditions, conservation of the ecological system and resources, usable scope and other factors pertaining to such slopeland.
+
+The soil and water conservation plan for designation of the above areas or zoning of the land for various purposes, as well as any revisions thereof, will be devised in phases by the special municipality or county/city competent authority as necessary, and promulgated and implemented upon the approval of the central competent authority.
+
+### Article 7
+
+(Deleted)
+
+### Article 8
+
+Public slopeland which has not been subject to cadastral survey or general land registration shall be subject to regular survey and general registration.
+
+### Article 9
+
+Any operator, user or owner of slopeland operating or utilizing the land for the following purposes shall treat and maintain soil and water conservation of the entirety of the land which it operates or utilizes:
+
+1.Operating or utilizing land for agricultural or animal husbandry purposes;
+
+2.Operating, utilizing or logging land for forestry purposes;
+
+3.Repairing, building or maintaining for reservoir or road;
+
+4.Prospecting mineral deposits, mining, exploiting or piling soil and gravel, or establishing relevant ancillary facilities;
+
+5.Developing land for housing construction;
+
+6.Developing or operating land for park, forest recreation park, recreation land, athletic facility, or military training camp;
+
+7.Developing or operating land for cemetery;
+
+8.Treating solid waste; and
+
+9.Developing or using slopeland for other purposes.
+
+### Article 10
+
+Unauthorized reclamation, cultivation or occupancy of public or otherwise owned slopeland is not permitted. Development, operation or utilization of such land for the purposes specified in subparagraphs 1 to 9 of the preceding Article, is also not permitted.
+
+### Article 11
+
+Where it is necessary to ensure the conservation and utilization of slopeland, the soil and water conservation treatment and maintenance of such land shall be performed in the manner designated by the special municipality or county/city competent authority.
+
+### Article 12
+
+Any operator, user or owner of slopeland shall perform and maintain soil and water conservation works in accordance with Soil and Water Conservation Technical Specifications and specified time period as prescribed by the competent authority.
+
+The maximum time period for the aforementioned soil and water conservation treatment and maintenance shall not exceed three years. Constant maintenance must follow such conservation, for the purpose of sustaining its benefits. In the event of damage, immediate repair or reconstruction must be carried out.
+
+The competent authority maintains the right to inspect the soil and water conservation treatment and maintenance as specified in the preceding two paragraphs at any time.
+
+### Article 12-1
+
+A certificate of conformance will be issued to land suitable for agricultural or animal husbandry purposes for which the soil and water conservation of such land has been completed and confirmed. Such land will be deemed in conformance upon inspection by officers dispatched by the special municipality or county/city competent authority.
+
+A certificate of conformance will be issued to land suitable for forestry purposes in cases in which the survival rate of such land has been determined to be 70% or above three years after the afforestation of such land has been confirmed. Such land will be deemed in conformance upon inspection by officers dispatched by the special municipality or county/city competent authority.
+
+### Article 13
+
+For the purpose of enhancing the utilization or expanding the operation of slopeland, the government reserves the right to designate areas for rezoning or partial exchange, or to assist farmers in purchasing such land, and to counsel farmers on cooperation in operation, joint operation or mandated operation of the land.
+
+### Article 14
+
+For the purpose of conserving and utilizing slopeland or constructing public facilities, the government may condemn or recover the following types of land:
+
+1.Private land;
+
+2.Land for sale for which the land price remains outstanding; and/or
+
+3.Land for lease.
+
+The government will provide compensation for cases in which special improvements or ground objects exist on any of the land mentioned in the preceding paragraph, and will return the land price paid in the event that the land is for sale.
+
+### Article 15
+
+The competent authority shall adopt emergency treatments to restrict any development and utilization of slopeland which are likely to cause calamity or to damage public facilities. The costs entailed by such emergency treatments will be borne by the operator, user or owner of such land.
+
+In addition, the operator, user or owner shall be liable to pay damages for the calamity or damage mentioned in the preceding paragraph.
+
+### Article 15-1
+
+The special municipality or county/city competent authority shall, subject to the need of administrative districts and the need for control of conservation and utilization, designate patrol/inspection areas, which will be responsible for reporting, restraining and clamping down on any violation of slopeland utilization regulations.
+
+## Chapter 2 Agricultural Use
+
+### Article 16
+
+Slopeland which is available for agricultural purposes shall be classified by the limits on its permitted scope of use. Slopeland shall be defined by the central or special municipality competent authority as land suitable for agricultural, animal husbandry or forestry purposes or as land subject to strengthened conservation. No land operator or user may exceedingly utilize the land for purposes.
+
+Results of the definition mentioned in the preceding paragraph shall be posted in a public notice by the special municipality or county/city competent authority in the village/town/city district office of the relevant location for not less than 30 days.
+
+The land classification standards for permissible slopeland use, as mentioned in the first paragraph, will be established by the central competent authority.
+
+Land that has been defined by the central or special municipality competent authority as land suitable for forestry purposes shall still be subject to afforestation and to any necessary soil and water conservation treatment and maintenance, if such land has already been reclaimed and cultivated.
+
+### Article 17
+
+The competent authority shall devise an overall plan for the development of slopeland which has been designated pursuant to first paragraph, Article 6 if such land is suitable for agricultural development. The competent authority shall further formulate a detailed soil and water conservation plan with respect to such land and counsel farmers on ways in which to implement the plan.
+
+The competent authority may assist the operator, user or owner of slopeland that has the potential for agricultural development in implementing soil and water conservation, in improving their conditions for agricultural operation and in applying for loans or subsidies to help offset the required costs of such development. Slopeland with an area of 50 hectares or above will take priority over smaller areas.
+
+For slopeland located within national parks, designated scenic areas and water quality and quantity protection areas, the competent authority shall first obtain the consent of the authority responsible for specific business when it carries out the tasks specified in the preceding two paragraphs.
+
+### Article 18
+
+Land suitable for agricultural, animal husbandry or forestry purposes that remains undeveloped will be developed in accordance with the applicable provisions of the Agricultural Development Act.
+
+### Article 19
+
+Youth who aspire to engage in agriculture and are equipped with a plan of operation may develop or be assigned public slopeland in accordance with the Agricultural Development Act.
+
+### Article 20
+
+The total area of public slopeland suitable for agricultural, animal husbandry, and forestry purposes that is to be leased or sold to farmers shall not exceed 20 hectares per household to rent or purchase. In some cases, due to terrain constraints, that area may be increased by up to, but not more than 10%.
+
+The lease of any area rented prior to the enforcement of this Act in excess of the limit prescribed in the preceding paragraph will not be renewed upon expiration.
+
+Regulations governing the lease and sale of public slopeland will be drafted by the Ministry of the Interior in conjunction with the relevant authorities, and then submitted to the Executive Yuan for approval.
+
+### Article 21
+
+Public slopeland that is neither leased nor sold is tax-exempt.
+
+### Article 22
+
+Where the slopeland sold is rendered unavailable for utilization in whole or in part by force majeure, the land value [tax] on the unavailable portion may be reduced or exempt from the date of filing, subject to the approval of the central or special municipality competent authority as sought by the buyer.
+
+### Article 23
+
+A slopeland buyer may defer its payment of land value for the current period in question if the land it purchases is struck by a grave calamity. Verification of such calamity is subject to the confirmation of the buyer's report upon investigation by the special municipality or county/city competent authority. However, after the expiration of the originally scheduled full land price payment period, the deferred installments should be paid sequentially..
+
+A slopeland lessee will be entitled to rental reduction or exemption for a given period, if the slopeland it rents is struck by a grave calamity as mentioned in the preceding paragraph. Verification of such calamity is subject to the confirmation of the lessee's report upon investigation by the special municipality or county/city competent authority.
+
+### Article 24
+
+(Deleted)
+
+### Article 25
+
+The operator, user or owner of slopeland that is utilized exceeding prescribed limits will be requested by the special municipality or county/city competent authority to rectify the situation within a specified time period. Failure to conform to restrictions within said time limit will subject the operator, user or owner to the punishments mentioned in Article 35 as well as to the following:
+
+1.Where the slopeland for lease, for sale, or registered with tillage is publicly owned, the right to rent, purchase or tillage will be terminated or revoked, and the land will be recovered for other disposal. In the event that the land is for sale, the land price paid will not be returned.
+
+2.Where the slopeland being loaned or allocated for utilization is publicly owned, it will be recovered by the authority originally owning or managing the land.
+
+3.Where the slopeland is privately owned, utilization thereof will be suspended.
+
+The operator, user or owner of the land described in any of the subparagraphs above will be given a time limit to harvest or dispose of the ground objects, if any, existing on such land. Failure to so harvest or dispose of said objects within the specified time period will entitle the competent authority to directly clear such objects without paying any compensation.
+
+### Article 26
+
+No public slopeland rented in accordance with this Act may be subleased. Any act of sublease by the lessee will be invalid and will entitle the competent authority to revoke the lessee's leasehold and to recover the land for other disposal without making any compensation for any special improvements and ground objects on the land.
+
+The competent authority will terminate the lease and recover the land for other disposal from the lessee if the lessee becomes deceased without leaving any inheritor, becomes incapable of farming on its own, or is no longer able to continue to rent the land by reason of relocation or change of career. Under such circumstances, the lessee may either be given a specified time period to harvest or dispose of any ground objects existing on the land, or the competent authority may determine the price of such objects for the new lessee/buyer to assume in compensation. All special improvements owned by the original lessee will also be handled in the manner described above.
+
+### Article 27
+
+A buyer purchasing slopeland in accordance with this Act shall not assign or lease the land until it has paid off the land price and acquired title to the land. Otherwise, such act of assignment or lease will be invalid, and the competent authority will revoke the buyer’s right to purchase the land and will recover said land for re-disposal, without returning the land price paid or making compensation for any special improvements or ground objects existing on the land.
+
+The competent authority will recover the land for other disposal from the buyer of the land if the buyer, prior to paying off the land price and acquiring title to the land, becomes deceased without leaving any inheritor, becomes incapable of farming on its own, or is unable to continue to purchase the land by reason of relocation or change of career. The land price paid will be returned in a lump sum under such circumstances, unless said buyer becomes deceased without leaving any inheritor, in which event the Civil Code will govern; the second paragraph of the preceding Article will be followed with respect to any special improvements or ground objects on such land.
+
+No buyer shall transfer the land it purchases if such land is suitable for forestry purposes, unless it first completes afforestation as required after it pays off the land price and acquires title to the land. If the land is suitable for agricultural or animal husbandry purposes, the assignee to which the land will be transferred must be capable of farming on its own.
+
+### Article 28
+
+The central or special municipality competent authority may set up a slopeland development fund for the purposes of promoting the development, conservation and utilization of slopeland using the following resources:
+
+1.Appropriations granted by the government according to budgetary procedure.
+
+2.Proceeds from logging released state- or special municipality-owned forest land.
+
+3.The land price for rental or sale of nation- or special municipality-owned forest land or field land whose management is mandated to the local government, less the management fee and the tillage tax payable on the lease.
+
+4.Other revenues.
+
+Regulations governing the revenue and expenditure, custody and application of the fund mentioned in the preceding paragraph will be established by the Executive Yuan.
+
+### Article 29
+
+In order to conform to the requirements of application to the slopeland development fund specified in the preceding Article, the central competent authority may, in conjunction with banks and cooperatives designated by the Ministry of Finance, devise an annual credit facility plan to provide loans according to the development plan for each district.
+
+## Chapter 3 Non-Agricultural Use
+
+### Article 30
+
+(Deleted)
+
+### Article 30-1
+
+Anyone violating the first paragraph of Article 12 by unauthorized development while engaging in the operation or use of land pursuant to subparagraphs 3 to 9 of Article 9will be subject to the applicable provisions of the Soil and Water Conservation Act. In addition, such person is prohibited from applying for development of said land for two years from the initial date of punishment.
+
+### Article 31
+
+The reservoir or road competent authorities shall budget outlays for the performance and maintenance of soil and water conservation. The authority responsible for specific business shall supervise the maintenance of private reservoirs or roads.
+
+### Article 32
+
+Slopeland within a watershed area shall be conserved and utilized in accordance with the relevant watershed management plan； when constructing reservoirs, such activities should be prioritized for implementation within the construction plans.
+
+### Article 32-1
+
+Any road repair, logging, prospecting of mineral deposits, mining, exploitation or piling of soil and gravel, development of land for housing construction, development or operation of recreational facilities and cemeteries, treatment of solid waste, and other development or utilization activities in the reservoir watershed shall be subject to the prior approval of the relevant administrative authority, as well as the prior approval of the authority responsible for specific business.
+
+The administrative authority or institution mentioned in the preceding paragraph denotes the reservoir authority or an authority or institution designated by the central or special municipality competent authority.
+
+The administrative authority or institution mentioned in the first paragraph may dispatch officers to conduct inspection at any time. If the safety of the reservoir is likely to be jeopardized, said authority may request that the authority responsible for specific business issue a notice of work suspension to the operator, user or owner of the slopeland. Work may not resume until protection has been strengthened and confirmed to be in conformance upon inspection.
+
+## Chapter 4 Incentives and Penalties
+
+### Article 33
+
+The competent authority will grant monetary rewards to those persons who successfully report on and enforce the conservation, utilization and management of slopeland, as well as to those persons who inform the authorities of the violation of slopeland utilization regulations after punishment has been administered to the offenders.
+
+Regulations governing the provision of incentives in the preceding paragraph will be established by the central competent authority.
+
+### Article 34
+
+Any violation of Article 10 is punishable by a term of imprisonment of not less than six months and not more than five years, and may additionally be punishable by a fine of not more than 600,000 New Taiwan Dollars.
+
+The above term of imprisonment will be increased by 50% if the violation under the first paragraph results in calamity. The violation, if causing death to another, will be punishable by a term of imprisonment of not less than five and not more than twelve years, and may additionally be punishable by a fine of not more than 1,000,000 New Taiwan Dollars. If causing grave injury, said violation will be punishable by a term of imprisonment of not less than three and not more than ten years, and may additionally be punishable by a fine of not more than 800,000 New Taiwan Dollars.
+
+The violation under the first paragraph, if committed out of negligence to the extent that calamity results, will be punishable by imprisonment not more than one year and may additionally be punishable by a fine of not more than 600,000 New Taiwan Dollars.
+
+An attempt to commit an offense specified in the first paragraph is punishable.
+
+All reclaimed and cultivated objects, work objects and work materials, as well as machines and tools used in the event of an offense under this article will be confiscated, regardless of whether they belong to the offender.
+
+### Article 35
+
+A fine of not less than 60,000 and not more than 300,000 New Taiwan Dollars will be imposed for cases in which:
+
+1.No soil and water conservation plan has been formulated, as is required by law, or a soil and water conservation plan has been implemented without having been approved, or that is not in accordance with the approved version;
+
+2.A violation of the first paragraph, Article 25 has not been rectified within the specified time period.
+
+Where, with respect to either of the above circumstances, no rectification has been made within the specified time period, or the rectification made does not conform to the items specified for rectification, punishment may be administered for each instance until rectification has been duly made. Work suspension may be ordered, facilities, machines and tools may be confiscated and the work objects completed may be subjected to compulsory demolition and cleared, at the expense of the operator, user or owner.
+
+An act under either of the subparagraphs of the first paragraph resulting in the washaway of soil and water, in damage to soil and water conservation treatment and maintenance facilities, or in calamity, is punishable by a term of imprisonment of not less than six months and not more than five years, and may additionally be punishable by a fine not more than 600,000 New Taiwan Dollars. If such act causes death to another, it is punishable by a term of imprisonment of not less than three and not more than ten years, and may additionally be punishable by a fine not more than 800,000 New Taiwan Dollars. If such act causes grave injury, it is punishable by a term of imprisonment of not less than one and not more than seven years, and may additionally be punishable by a fine not more than 600,000 New Taiwan Dollars.
+
+### Article 35-1
+
+If an offense under Article 34 or the third paragraph of Article 35 is committed in the course of the performance of business, the perpetrator who is the responsible person of a legal entity or the agent, employee, a staff member of an individual or a legal entity will be punished in accordance with the relevant provision, additionally, the legal entity or the individual shall also be punished by the fine described in each such Article.
+
+### Article 36
+
+The fine prescribed in the preceding Article will be imposed by the special municipality or county/city competent authority. The matter will be referred to court for compulsory enforcement in cases in which no payment has been made within the specified time period, of which the offender has been notified.
+
+## Chapter 5 Supplementary Provisions
+
+### Article 37
+
+Indigenous reservation lands located within the slopeland, unless prescribed by law for the prohibition of privately owned, shall guide the indigenous people to acquire the leasehold, or acquire ownership gratis.
+
+If the ownership of indigenous reservation lands acquired by indigenous people transferred, the transferee shall be indigenous people.
+
+Private indigenous reservation lands may be assigned to the government under one of the following situations:
+
+1.To establish undertakings stated in Article 3 and the first paragraph of Article 4 of the Land Expropriation Act, and owners apply for simultaneous expropriation according to Article 8 of the same Act; or
+
+2.Land use demand verified by the central indigenous authority for the prevention of disasters, response to the occurrences of disasters, and the recovery and reconstruction after the disasters; or
+
+3.The indigenous reservation lands used as payment for estate tax and gift tax accepted by the tax authority; or
+
+4.The auctions of indigenous reservation lands are not concluded in the execution of monetary obligation under public law.
+
+The indigenous reservation lands acquired by the government according to the subparagraph 3 and subparagraph 4 of the preceding paragraph, except the government agencies make the appropriation by law, the transferee of the transfer shall be indigenous people.
+
+Rental income of the national indigenous reservation lands may be used for management of indigenous reservation lands, economic development and infrastructure construction of indigenous peoples’ regions, and expense of indigenous peoples’ autonomy. Such rental income shall not be subject to the restrictions under Article 7 of the National Property Act.
+
+Regulations governing the qualifications and procedures of acquirement of indigenous reservation land ownership, development, utilization and lease, management and utilization of rental income, and other guidance and management related matters, shall be determined by the central indigenous authority.
+
+### Article 38
+
+The enforcement rules of this Act will be established by the central competent authority.
+
+### Article 39
+
+This Act will be enforced as of the date of its promulgation.
+
+## History
+
+1.Promulgated by Presidential Order on April 29, 1976
+
+2.Amendment by Presidential Order No. Hwa-Tzong-1-Yi-Zi-0119 on January 10, 1986.
+
+3.Amendment by Presidential Order No. Hwa-Tzong-1-Yi-Zi-8600284230 on January 7, 1998.
+
+Amendment by Order of Executive Yuan No. Tai-88-Nung-Zi-25352 on June 30, 1999.
+
+4.Amendment to Articles 2-4, 6, 11, 16, 22 and 28 by Presidential Order No. Hwa-Tzong-1-Yi-Zi-8900118400 on May 17, 2000.
+
+5.Addition of Articles 12-1 and 32-1, and amendment to Articles 12 and 16 by Presidential Order No. Hwa-Tzong-1-Yi-Zi-09100120580 on June 12, 2002.
+
+6.Amendment by Presidential Order No. Hwa-Tzong-1-Yi-Zi-09500085901 on June 14, 2006.
+
+7.Amendment to Article 34 by Presidential Order No. Hwa-Tzong-1-Yi-Zi-10500147001 on November 30, 2016.
+
+8.Amendment to Article 37 by Presidential Order No. Hwa-Tzong-1-Jing-Zi-10800003861 on January 9, 2019.
+
+The announcement was made on July 27, 2023 by the Executive Yuan Order tai-gui-zi No. 1125014346. The relevant matters set out in Article 2, Article 3, Paragraph 2 of Article 6, Paragraph 1,3 of Article 12, Paragraph 1 of Article 15, Paragraph 1,3,4 of Article 16, Article 17, Article 22, Paragraph 2 of Article 25, Paragraph 1 of Article 28, Article 29, Paragraph 2 of Article 32-1, Article 33, Article 38 pertaining to “ the Council of Agriculture of the Executive Yuan” shall be handled by “Ministry of Agriculture” as governing body, effective August 1, 2023.

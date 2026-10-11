@@ -1,0 +1,85 @@
+---
+title: "The Bureau of Labor Insurance, Ministry of Labor Organization Act"
+title_zh: "勞動部勞工保險局組織法"
+identifier: "N0000035"
+type: act
+law_level: "法律"
+category: "行政＞勞動部＞組織目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2014-01-29
+last_amended: 2014-01-29
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0000035"
+retrieved: 2026-10-12
+---
+
+# The Bureau of Labor Insurance, Ministry of Labor Organization Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-labor/N0000035-the-bureau-of-labor-insurance-ministry-of-labor-organization-act.md](../../../zh/laws/ministry-of-labor/N0000035-the-bureau-of-labor-insurance-ministry-of-labor-organization-act.md)) is authoritative.
+
+## Article 1
+
+The Ministry of Labor shall establish the Bureau of Labor Insurance to administer labor insurance and other peripheral affairs (hereinafter referred to as BLI) .
+
+## Article 2
+
+BLI shall be in charge of the following matters:
+
+1.The labor insurance system operations planning, data gathering/analysis, actuarial estimates, Proposals for amendments to relevant regulations and other comprehensive planning.
+
+2.Labor insurance enrollment, insurance withdrawal, insurance wage adjustment, audit, insurance data management and other insurance enrollment operations.
+
+3.Premium calculation, payment receipt and unpaid premium processing.
+
+4.Labor insurance benefits payout review and payout approval operations.
+
+5.Accepting the appointment of employment insurance, labor pension receipt/payout, overdue wages collection and disbursement operations as required by law.
+
+6.Accepting the consignment of other business operations as required by law.
+
+7.Overseeing other labor insurance-related matters.
+
+## Article 3
+
+BLI shall have one Director-General at senior grade 13, and two Deputy Directors-General at senior grade 12.
+
+## Article 4
+
+BLI shall have one Chief-Secretary at senior grade 11.
+
+## Article 5
+
+The official ranks, grades, and headcounts of personnel at the BLI shall be regulated by a separate Personnel Establishment Table.
+
+The total number of BLI headcounts is 1,915 persons, whom are excluded from the scope of staffing by the Act Governing the Total Number of Personnel Headcounts of Central Government Agencies.
+
+## Article 6
+
+Prior to the implementation of the act, matters concerning the existing administration personnel holding the civil servant hiring qualification in commensurate to the official ranks and pension administration are to be defined by a set of separate measures by the Examination Yuan in consultation with the Executive Yuan. However, in the instance where the remunerations dispensed for the personnel whose official ranks having been reviewed and finalized by the Ministry of Civil Service, prior to the implementation of the act, should fall below the remunerations prior to the induction of the act, the differential is to be supplanted at an individual's own will, and the differential is also offset alongside the remuneration adjustment, and during the period in which the differential is collected, an individual may not collect the living subsidy; when choosing not to collect the differential, an individual may file for the living subsidy according to the applicable rules.
+
+The foresaid personnel are exempt from the restrictions bound by the Examination Law of Public Functionaries, Civil Service Employment Act's relevant special examination, and special appointment and transfer regulations. However, in the subsequent retransfer, it is limited to positions of the initial examining agency, its subordinate agency or within BLI.
+
+Prior to the implementation of the act, the existing administration personnel not holding the civil servant hiring qualification may still be eligible to regulations of the former laws and regulations who may continue be hired until the time of resignation or retirement.
+
+Prior to the implementation of the act, the business assistants and operations assistants the administration hires are to be enlisted and continue to serve in their former positions following the induction of the act, and are also eligible to regulations of the former laws and regulations until the time of resignation or retirement.
+
+Prior to the implementation of the act, the janitorial workers and employees under the administration classification will continue be hired according to the janitorial personnel management guideline, and whose remuneration is to be processed in commensurate to regulations of said guideline. In the instance where the remuneration dispensed should fall below the remuneration prior to the induction of the act, the differential is to be supplanted at an individual's own will, and the differential s also offset alongside the remuneration adjustment, and during the differential collection period, an individual may not file for the living subsidy; when choosing not to collect the differential, an individual may also file for the living subsidy according to the applicable rules.
+
+The term remuneration adjustment referred in par 1 and 5 refer to remuneration adjustment as a result of the nationwide armed forces servicemen, civil servants, teachers' pay adjustment, job duty readjustment (promotion), or advance or promotion of the annual performance review (evaluation).
+
+## Article 7
+
+BLI has set up special funds to process relevant operations.
+
+## Article 8
+
+The effective date of this Act shall be decreed by the Executive Yuan.
+
+## History
+
+1.The full text of 8 articles of the Act were enacted and promulgated by the Presidential Order of Hua-Tsung (1) Yi No. 10300010791 on January 29, 2014. Date of implementation to be determined by an Executive Yuan order.
+
+Implemented on February 17, 2014 by the Executive Yuan Order of Yuan Shou Fa No. 1031300100 on February 13,2014.

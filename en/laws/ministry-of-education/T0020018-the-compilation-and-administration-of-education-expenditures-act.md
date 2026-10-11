@@ -1,0 +1,171 @@
+---
+title: "The Compilation and Administration of Education Expenditures Act"
+title_zh: "教育經費編列與管理法"
+identifier: "T0020018"
+type: act
+law_level: "法律"
+category: "行政＞教育部＞教育通用目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2000-12-13
+last_amended: 2016-01-06
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=T0020018"
+retrieved: 2026-10-12
+---
+
+# The Compilation and Administration of Education Expenditures Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-education/T0020018-the-compilation-and-administration-of-education-expenditures-act.md](../../../zh/laws/ministry-of-education/T0020018-the-compilation-and-administration-of-education-expenditures-act.md)) is authoritative.
+
+## Article 1
+
+This Act is enacted to ensure the sound development of education and to enhance the effectiveness of education budgets, in accordance with Paragraph 2, Article 5 of the Educational Fundamental Act.
+
+The compilation and management of education budgets shall be governed by this Act. Matters that are not addressed by this Act shall be governed by other applicable laws.
+
+## Article 2
+
+Education budgets in the Act refer to the funds designated for education that are allocated to the central or local competent authorities, or to the educational institutions and public schools under the jurisdiction, as specified in the government budget.
+
+"Competent authorities" in the Act refers to the Ministry of Education at the central government level; Education Bureau of the municipality and county (city) governments.
+
+## Article 3
+
+The central, the municipality and county (city) governments (hereinafter referred to as "governments of all levels") shall ensure, guarantee, and promote the steady growth of national education budgets within the financial capacity of the country.
+
+The total education budgets for governments of all levels shall be at least 23% of the average net budget revenues from the previous three years.
+
+The increased education budgets resulting from the implementation of the provisions of the preceding paragraph, amended on January 1, 2012, shall primarily be used for promoting and implementing the 12-year Basic Education program.
+
+The net budget revenue referred to in Paragraph 2 pertains to the revenue of governments of all levels, excluding any government borrowings or surplus appropriations from previous fiscal years. Double-listed revenue items shall be deducted when preparing the final accounts of the budget and any special budgets.
+
+Self-financing resources of the municipality and county (city) governments are defined as their annual gross revenue, excluding subsidies from higher-level governments. Within their financial capacity, priority shall be given to education budgets to meet basic educational needs. These governments' own budgets for education shall increase annually, except when self-financing resources is diminished.
+
+## Article 3-1
+
+Any increase in the income tax levied on the salaries of teaching and other staff at public and private preschools, elementary, and junior high schools by the central government, in accordance with the law, shall not be included in the total amount when calculating the 23% stipulated in Paragraph 2 of the previous article. Any additional government income derived from such taxation shall be placed in a separate special fund and used exclusively to enhance the quality of early childhood education, care services, and elementary and secondary education.
+
+## Article 4
+
+The municipality and county (city) governments shall make education budgets of compulsory education the priority in its compilation of budget in accordance with Paragraph 10, Article 10 of the Amendments to the ROC Constitution.
+
+If, in administering national compulsory education, the municipality and county (city) governments fulfill any of the following criteria, the designated authority of the central competent educational authority shall appropriate grants in recognition of:
+
+1.As stipulated in Article 16, they have undergone evaluation and been found to have outstanding performance.
+
+2.They have registered a significantly high annual growth rate in the percentage of education budgets for the final accounting of their annual education budgets.
+
+3.As stipulated in Paragraph 1 of Article 16 of the National Education Law and Paragraph 1 of Article 18 of the Act Governing the Allocation of Government Revenues and Budgets, they have levied a supplementary tax to fund the budgets required for administering national compulsory education.
+
+## Article 5
+
+To promote balanced educational development across all regions, governments of all levels shall prioritize subsidies for education budgets in remote and special areas in accordance with the Educational Fundamental Act.
+
+To ensure the sustainable development of education in remote and special areas and to preserve local native languages, local governments may propose sustainable education plan in remote and special areas and localized pedagogical approach school development plan. These plans, once approved as special projects, will be subsidized by the central government.
+
+## Article 6
+
+To ensure education for indigenous peoples, persons with disabilities, and other disadvantaged groups, and to support their educational development, governments of all levels shall allocate inclusive education budgets in accordance with the Indigenous Peoples Education Act, the Special Education Law, and other relevant laws and regulations.
+
+## Article 7
+
+To foster a balanced development of both public and private education, the government shall actively encourage the establishment of private schools by private sectors, and provide appropriate financial assistance and incentives. Priority support and incentives shall be directed towards private schools with robust scholarship and bursary programs for their students.
+
+## Article 8
+
+Education subsidies from the central government to local governments are categorized into general education subsidies and special education subsidies:
+
+1.General education subsidies are allocated for education budgets of municipality and county (city) governments. They may be utilized across various education budgets categories in any manner as long as they contribute to achieving a balanced allocation of education resources.
+
+2.Special education subsidies are earmarked for specific purposes aligned with the intent of such subsidies.
+
+## Article 9
+
+The Executive Yuan shall establish an Education Budgets Committee, entrusted with the following responsibilities:
+
+1.Formulating education budgets criteria.
+
+2.Calculating the basic education budgets requirements for governments of all levels.
+
+3.Determining the respective share of the overall education budgets to be allocated to governments of all levels.
+
+The Education Budgets Committee shall consist of 13 to 17 members, including scholars, experts, and representatives from the municipality and county (city) governments, the Directorate General of Budget, Accounting and Statistics (Executive Yuan), the Ministry of Finance, the central competent educational authority, and associated agencies. Scholars and experts shall comprise no less than one-third of the committee's membership. The committee’s composition and meeting related matters shall be prescribed by the Executive Yuan.
+
+## Article 10
+
+The Standard Education Budgets Committee of the Executive Yuan shall develop criteria for calculating education budgets, taking into account factors such as local population, student demographics, level, type, size, and location of all public and private schools and other educational institutions, as well as their education quality indicators and unit costs per student, among other contributing factors of educational costs. The Committee shall utilized these criteria to calculate basic needs for education budgets for governments of all levels; shall calculate the respective shares of education budgets of governments of all levels in light of their financial capacity; and then, shall report to the Executive Yuan for approval.
+
+Competent authorities of governments of all levels shall compile their annual education budgets in accordance with the approved basic needs and their allocated shares as described in proceeding paragraph. Education budgets compiled by governments of all levels may not be less than their approved basic needs for education expenditures.
+
+The central government shall compile budget for its general grants to the municipality and county (city) governments in accordance with the basic needs for education budgets of the municipality, and county (city) governments, with shares of expenditures of the municipality, and county (city) governments deducted.
+
+If the municipality and county (city) governments violated the regulations outlined in Article 3 or Article 8 during the previous year, in calculation of the current year’s education budgets, the self-funded share of education expenditures shall be increased, or its general education subsidy reduced.
+
+The actual amount of the increase or reduction referred to in the previous Paragraph will be determined by the Educational Budgets Committee of the Executive Yuan.
+
+The municipality and county (city) governments shall not be subject to an increase in the self-funded share of calculated education expenditures, as described in Paragraph 1, due to its having levied supplementary taxes in accordance with Item 3 in Paragraph 2 of Article 4.
+
+## Article 11
+
+Except for those expenditures required for maintaining the necessary operations of the central competent educational authority and those of educational institutions and public schools under the central competent educational authority, categorical grants for public and private educational endeavors will be subject to be reviewed by the Review Committee for the Allocation of Education Budget under the central competent educational authority upon the legislative approval of its education budget.
+
+The aforementioned committee comprises 13 to 17 members, including scholars, experts, impartial, upright members of society, and representatives from the central competent educational authority and other relevant agencies. Members of scholars, experts, and impartial individuals must constitute at least half of the total seats on this committee. Review items, procedures and regulations for establishing this committee shall be formulated by the central competent authority.
+
+## Article 12
+
+Educational institutions and both public and private schools under the jurisdiction of the municipality and county (city) governments shall develop mid-term and long-term education development plans. These plans must undergo review and approval by the governing competent authority before being submitted to the Education Review Committee established in accordance with Paragraph 1 of Article 10 of the Educational Fundamental Act.
+
+Upon approval by the aforesaid Education Review Committee, proposed budgets for educational institutions and public schools under the jurisdiction of the municipality and county (city) governments shall be made in accordance with the approved basic needs and shares of expenditures of that government stipulated in Paragraph 1 of Article 10 of this Act to serve as the basis for compiling annual education budget by the governing competent authority.
+
+## Article 13
+
+To manage their education revenues and spendings or expenditures for education, the municipality and county (city) governments shall establish a Local Education Development Budgets, to be administered as a dedicated account. Monies for education budgets self-funded by local governments, general education subsidies, and special education subsidies shall be included in the fund. At the end of each year, any surplus shall be remain in the fund for use in subsequent years. Regulations regarding the revenues and budgets, safekeeping, and utilization of such funds shall be formulated by the respective municipality and county (city) governments.
+
+## Article 14
+
+Schools under the jurisdiction of governments of all levels may establish a School Development Fund, and the regulations for which shall formulated by the designated governing authority, unless otherwise specified.
+
+## Article 15
+
+Governing competent authorities of all levels shall supervise the finances of public and private schools and other educational institutions in accordance with relevant laws and regulations.
+
+Public and private schools and other educational institutions shall regularly prepare financial reports detailing their revenues and budgets. These reports shall be submitted to the governing competent authority for public disclosure.
+
+Governing competent authorities of all levels may dispatch personnel or commission a certified public accountant to audit the financial reports and revenues and budgets of public and private schools and other educational institutions in accordance with relevant laws and regulations, and may make public announcement of the audit outcomes. Any violation of regulations in the preceding paragraph or other laws and regulations shall be handled in accordance with relevant laws and regulations and made known to the public.
+
+The central competent educational authority may suspend categorical grants for public and private schools or other educational institutions as described in the preceding paragraph for a period of one year to three years, depending on the seriousness of such violations. This regulation also applies to the municipality and county (city) governments in the administration of public and private schools or other educational institutions under its jurisdiction.
+
+Formats of the financial reports and means of their public announcements as described in Paragraphs 2 and 3 of this Article shall be formulated by the central competent educational authority.
+
+## Article 16
+
+Competent authorities at all levels shall develop an evaluation system for public and private schools or other educational institutions to enhance the efficiency of education budgets.
+
+The aforesaid evaluation may be entrusted to a pertinent academic group. However, prior to the evaluation, public announcements regarding the review items should be made, and the outcomes of the evaluation should be disclosed afterward. Approaches, procedures, grants, assistance, and other relevant matters concerning the evaluation shall be formulated by competent authorities at all levels.
+
+## Article 17
+
+Governments of all levels shall publish all items, along with their respective monetary amounts, of their education budget, local education development fund, and school development fund on the Internet after the completion of the final accounting of their annual financial statement.
+
+## Article 18
+
+This Act shall come to effect within one year from its promulgation.
+
+This Act was amended on March 29, 2011; the effective date of the amended articles is to be determined by the Executive Yuan.
+
+The amendments to articles in this Act, promulgated on December 18, 2015, shall take effect from the day of promulgation.
+
+## History
+
+1.Promulgated pursuant to Hau-Zong-Yi-Yi No. 8900295700 on December 13, 2000.
+
+2.Addition of Articles 3-1, amendment to Article 18 of The Compilation and Administration of Education Expenditures Act per Presidential Decree No. Hua-Zong- Yi-Yi-Zi- 10000067811 dated April 13, 2011.
+
+\3. Amended promulgated pursuant to Zong-Tung (100) Hau-Zong-Yi-Yi No.10000291451 on December 28, 2011, with a total of 18 articles.
+
+\4. Amended promulgated pursuant to Zong-Tung (102) Hau-Zong-Yi-Yi No.10200225071 on December 11, 2013, with a total of 18 articles.
+
+\5. Amended promulgated pursuant to Zong-Tung (105) Hau-Zong-Yi-Yi No.10400154121 on January 6, 2016, with a total of 18 articles.

@@ -1,0 +1,551 @@
+---
+title: "Teachers’ Act"
+title_zh: "教師法"
+identifier: "H0020040"
+type: act
+law_level: "法律"
+category: "行政＞教育部＞師資培育及藝術教育目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1995-08-09
+last_amended: 2019-06-05
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=H0020040"
+retrieved: 2026-10-12
+---
+
+# Teachers’ Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-education/H0020040-teachers-act.md](../../../zh/laws/ministry-of-education/H0020040-teachers-act.md)) is authoritative.
+
+## Chapter 1 General Provisions
+
+### Article 1
+
+This Act has been formulated to clearly set out teachers’ rights and obligations, to safeguard their careers and livelihood, to elevate teachers’ professional status, and to protect students’ right to learn.
+
+### Article 2
+
+In this Act the term “Competent Authority” refers to the Ministry of Education at the central government level; the municipal government at the municipal level; and the county or city government at the county or city level respectively.
+
+When Military and Police Academies and Reformatory Schools deal with matters pertaining to Full-time Teachers in accordance with the provisions of this Act, the “Competent Authority” referred to in this Act means their respective competent authorities, except regarding the assessment and accreditation of qualifications.
+
+### Article 3
+
+This Act applies to Full-time Teachers within the staff complement of a public educational institution or a registered private educational institution who receive remuneration on a monthly basis and who have obtained teacher qualifications in accordance with the law.
+
+The provisions of this Act shall apply to Full-time Teachers at Military and Police Academies and Reformatory Schools who were appointed in accordance with the provisions of this Act and the Statute Governing the Appointment of Educators, unless otherwise stipulated in law.
+
+### Article 4
+
+Matters pertaining to the assessment and accreditation of teachers’ qualifications, and teachers’ appointment, dismissal, non-renewal of appointment, suspension, severance with pay, rights and obligations, teacher organizations, appeals and remedies shall be handled in accordance with the provisions of this Act.
+
+## Chapter 2 Assessment and Accreditation of Qualifications
+
+### Article 5
+
+Teacher qualifications are acquired in two ways: through assessment and through accreditation. The assessment system is used for teachers at schools at senior secondary and lower levels; the accreditation system is used for teachers at junior colleges and at higher level educational institutions.
+
+### Article 6
+
+The assessment of the qualifications of teachers for schools at senior secondary and lower levels is prescribed in separate legislation; the Central Competent Authority shall issue a Teacher’s Certificate to each teacher who passes the assessment.
+
+### Article 7
+
+The accreditation of the qualifications of teachers at junior colleges and institutions of higher education is divided into two stages: a review by the educational institution, and a Central Competent Authority review. If a teacher passes the educational institution review, the educational institution shall report this to the Central Competent Authority and request it to conduct a review. The Central Competent Authority shall issue a Teacher’s Certificate to each teacher who passes its review. The Central Competent Authority may, however, issue a Teacher’s Certificate directly to a teacher who has passed the review by the educational institution, if the review process has been approved by the Central Competent Authority.
+
+### Article 8
+
+The regulations governing the accreditation of the qualifications of teachers at junior colleges and institutions of higher education shall be prescribed by the Central Competent Authority.
+
+## Chapter 3 Appointment
+
+### Article 9
+
+The appointment of teachers at schools at senior secondary and lower levels is divided into initial appointments, appointment renewals, and long-term appointments. A teacher shall be appointed by the principal after being assessed and approved by a Teacher Evaluation Committee, unless any of the following situations pertains:
+
+1.The person is a publicly funded student who has been assigned to that school in accordance with the provisions of Teacher Education Act.
+
+2.The person was a principal who is once again taking an appointment as a teacher in accordance with Primary and Junior High School Act or Senior High School Education Act.
+
+When a Teacher Evaluation Committee referred to in the preceding paragraph is formed it shall include teachers’ representatives, representatives of the school’s administrative personnel, and one representative of the parent’s association, and the number of teachers’ representatives who do not hold a part-time administrative role or who are not also on the school’s board is not permitted to comprise less than half of the committee; this restriction does not apply, however, if the number of teachers is less than half of the total number of board members.
+
+When the Teacher Evaluation Committee at a school at senior secondary or lower level deals with a situation referred to in Subparagraph 7 and Subparagraph 10 of Paragraph 1 of Article 14, or Subparagraphs 1 to 4 of Paragraph 1 of Article 15, the school shall separately appoint external scholars and experts to serve as additional committee members, until the number of teachers’ representatives who do not hold a part-time administrative role or who are not also on the school’s board or who constitute less than half of the total committee.
+
+The regulations governing the responsibilities, composition, terms of office, official discussions, recusal, and other related matters pertaining to the Teacher Evaluation Committee s referred to in the preceding three paragraphs shall be prescribed by the Central Competent Authority.
+
+### Article 10
+
+The appointment of teachers to schools at senior secondary and lower levels is restricted to people who have a Teacher’s Certificate.
+
+The initial appointment of a teacher at a senior secondary or lower level school shall be for one year; the first appointment renewal shall be for one year, and subsequent renewals shall be for two years each time. A teacher whose teaching performance has been and is good or excellent who has had three or more appointment renewals may be given a long-term appointment after being assessed by a Teacher Evaluation Committee and at least two-thirds of the committee support the appointment. The length of each long-term appointment shall be determined by the Teacher Evaluation Committee of each school, with seven years being the maximum term available.
+
+The appointment of teachers at junior colleges and teachers at institutions of higher education, and their appointment terms, shall be handled in accordance with the provisions of the University Act and of the Junior College Act respectively.
+
+### Article 11
+
+When a school at senior secondary or lower level adjusts its departments, sections, or courses, or when such a school reduces the number of programs, suspends operations, or is going to close down, if there are suitably Qualified Teachers who would like to continue teaching and the school has other work duties that are suitable for such teachers to be assigned to, the school shall give priority to counselling them and revising those teachers work duties; if there are no other work duties at the school which can be assigned to such teachers, the school or the Competent Authority shall give priority to counselling those teachers and informing them about available transfers to another school.
+
+The appointment of a teacher who is by the senior secondary or lower level school or by the Competent Authority in accordance with the provisions of the preceding paragraph has been given priority assistance to counselling and information about the available position to transfer to there shall not be approved if the teacher is found by the Teacher Evaluation Committee of the school of any of the situations referred to in the subparagraphs of Article 30.
+
+### Article 12
+
+When a junior college or an institution of higher education adjusts its departments, graduate institutes, sections, divisions, or courses, or reduces the number of programs, suspends operations, or is going to close down, if there are suitably Qualified Teachers who would like to continue teaching and for whom there is other suitable work can be arranged, the educational institution shall give priority to counselling those teachers and assisting them find a transfer, and the Competent Authority concerned shall assist the college or institution to do so.
+
+If a teacher at a junior college or an institution of higher education was given priority assistance to transfer, in accordance with the provisions of the preceding paragraph, and a check by a Teacher Evaluation Committee finds that any of the following situations pertain to that person it may decline to approve that person’s appointment:
+
+1.The person is still currently involved in dismissal or non-renewal of appointment disciplinary procedures regarding a situation referred to in Paragraph 1 of Article 14, Paragraph 1 of Article 15, or the subparagraphs of Paragraph 1 of Article 16.
+
+2.The person is still currently involved in suspension of appointment disciplinary procedures, or is undergoing a period of suspension because of their involvement in a situation referred to in Article 18, Article 21, or Paragraph 1 or 2 of Article 22.
+
+3.The person is still currently involved in severance with pay disciplinary procedures because of their involvement in a situation referred to in Subparagraph 2 or Subparagraph 3 of Paragraph 1 of Article 27.
+
+### Article 13
+
+A teacher is not permitted to be dismissed, denied renewal of appointment, or suspended unless one of the situations referred to in Articles 14 to 16, 18, 19, 21, or 22 pertains to that teacher.
+
+## Chapter 4 Dismissal, Non-renewal of Appointment, Suspension, and Severance
+
+### Article 14
+
+A teacher to whom any one of the following situations pertains shall be dismissed and the person permanently ineligible for reappointment as a teacher:
+
+1.The person has been found guilty of a criminal offense against the internal or external security of the State, committed after the Period of National Mobilization for Suppression of the Communist Rebellion, and convicted with no further right of appeal.
+
+2.The person has been found guilty of corruption while employed in civil service and convicted with no further right of appeal.
+
+3.The person has been found guilty of a crime as defined in Article 2, Paragraph 1 of Sexual Assault Crime Prevention Act and convicted with no further right of appeal.
+
+4.An educational institution’s Gender Equity Education Committee or another appropriate committee set up in accordance with the law has investigated and confirmed that the person has committed a sexual assault.
+
+5.An educational institution’s Gender Equity Education Committee or another appropriate committee set up in accordance with the law has investigated and confirmed that the person has committed sexual harassment or sexual bullying, and that it is necessary for that person to be dismissed and permanently ineligible for reappointment as a teacher.
+
+6.The person has been penalized in accordance with the provisions of Child and Youth Sexual Exploitation Prevention Act, or the provisions of Article 20 or Article 25 of Sexual Harassment Prevention Act and the Gender Equity Education Committee of the educational institution has confirmed that the person has been subject to such punishment, and that it necessary for that person to be dismissed and permanently ineligible for reappointment as a teacher.
+
+7.The person has been penalized in accordance with the provisions of Article 97 of Protection of Children and Youths Welfare and Rights Act by the competent social welfare authority at each level, and the Teacher Evaluation Committee of the educational institution has confirmed this, and it is necessary for that person to be dismissed and permanently ineligible for reappointment as a teacher.
+
+8.The teacher became aware that an incident of suspected sexual assault has occurred on the campus the teacher is employed but did not report the matter in accordance with the provisions of Gender Equity Education Act, thereby leading to a subsequent sexual assault on campus; or forged, altered, destroyed, or concealed evidence of any sexual assault incident committed by any other persons, and any such failure to report or forging, altering, destroying or concealing of evidence has been investigated and verified by the educational institution or the authorities concerned.
+
+9.The person has forged, altered, or destroyed evidence of any other persons committing a dangerous offence on campus involving narcotics or hazardous drugs on campus, and this has been investigated and verified by the educational institution or the authorities concerned.
+
+10.The person has inflicted corporal punishment on or bullied one or more students, causing severe physical or mental injury.
+
+11.The person has acted in violation of any pertinent laws or regulations, and the matter has been investigated and verified by the educational institution or the authorities concerned, and it is necessary for that person to be dismissed and permanently ineligible for reappointment as a teacher.
+
+A teacher to whom any of the situations referred to in Subparagraphs 1 to 3 of the preceding paragraph pertain shall be dismissed without the disciplinary action having to be deliberated by a Teacher Evaluation Committee, and without it having to be reported to the Competent Authority to be reviewed and approved, and the matter is not subject to the provisions of Paragraph 1 of Article 20 of University Act or the provisions of Paragraph 1 of Article 27 of Junior College Act.
+
+If any of the situations referred to in Subparagraphs 4 to 6 of Paragraph 1 pertains to a teacher, the matter does not have to be deliberated by a Teacher Evaluation Committee, and after the disciplinary measure has been reported to and approved by the Competent Authority, the educational institution shall dismiss the teacher, and the matter is not subject to the provisions of Paragraph 1 of Article 20 of University Act or the provisions of Paragraph 1 of Article 27 of Junior College Act.
+
+An educational institution shall dismiss a teacher to whom any of the situations referred to in Subparagraph 7 or Subparagraph 10 of Paragraph 1 pertains after a Teacher Evaluation Committee meeting attended by at least two-thirds of its members has deliberated the matter and at least half of the members in attendance supported a resolution to do so, and after this disciplinary measure has then been reported to and approved by the Competent Authority. An educational institution shall dismiss a teacher to whom any of the situations referred to in the provisions of Subparagraphs 8, 9, or 11 pertains after a Teacher Evaluation Committee meeting attended by at least two-thirds of its members has deliberated the matter and at least two-thirds of the members in attendance supported a resolution to do so, and after the disciplinary measure has then been reported to and approved by the Competent Authority.
+
+### Article 15
+
+A teacher shall be dismissed and the educational institution shall formally decide on one to four years ineligible for reappointment as a teacher, if any one of the following situations pertains:
+
+1.An educational institution’s Gender Equity Education Committee or another appropriate committee set up in accordance with the law has investigated and confirmed that the person committed sexual harassment, or sexual bullying, and that it is necessary to dismiss the person.
+
+2.The person has been penalized in accordance with the provisions of the Child and Youth Sexual Exploitation Prevention Act, or the provisions of Article 20 or Article 25 of Sexual Harassment Prevention Act, and the Gender Equity Education Committee of the educational institution has confirmed this, and it is necessary to dismiss the person.
+
+3.The person has inflicted corporal punishment on or bullied one or more students, causing severe physical or mental injury and it is necessary to dismiss the person.
+
+4.The person has been penalized in accordance with the provisions of Article 97 of the Protection of Children and Youths Welfare and Rights Act by the competent social welfare authority at each level, and the Teacher Evaluation Committee of the educational institution has confirmed this, and it is necessary to dismiss the person.
+
+5.The person has acted in violation of any pertinent laws or regulations, and the matter has been investigated and verified by the educational institution or by the authorities concerned, and it is necessary to dismiss the person.
+
+An educational institution shall dismiss a teacher to whom any of the situations referred to in Subparagraphs 1 or 2 of the preceding paragraph pertains, after a Teacher Evaluation Committee meeting attended by at least half of its members has deliberated the matter and at least half of the members in attendance supported a resolution to do so, and after the disciplinary measure has then been reported to and approved by the Competent Authority.
+
+An educational institution shall dismiss a teacher to whom any of the situations referred to in the provisions of Subparagraph 3 or Subparagraph 4 of Paragraph 1 pertains, after a Teacher Evaluation Committee meeting attended by at least two-thirds of its members has deliberated the matter and at least half of the members in attendance supported a resolution to do so, and after the disciplinary measure has then been reported to and approved by the Competent Authority. An educational institution shall dismiss a teacher to whom a situation referred to in the provisions of Subparagraph 5 pertains, after a Teacher Evaluation Committee meeting attended by at least two-thirds of its members has deliberated the matter and at least two-thirds of the members in attendance supported a resolution to do so, and after the disciplinary measure has then been reported to and approved by the Competent Authority.
+
+### Article 16
+
+An educational institution shall dismiss or deny renewal of appointment to a teacher to whom any of the situations referred to in the following subparagraphs pertains after that teacher was appointed, after a Teacher Evaluation Committee has deliberated the matter and passed a resolution supporting the disciplinary measure, and after the disciplinary measure has then been reported to and approved by the Competent Authority; if the circumstances warrant severance with pay, the matter shall be dealt with in accordance with the provisions of Article 27:
+
+1.There are concrete facts of underperformance in teaching or incompetence at work.
+
+2.There is a serious breach of agreement.
+
+If either of the situations referred to in the preceding subparagraphs pertains to a teacher, a Teacher Evaluation Committee shall deliberate the matter at a meeting attended by at least two-thirds of its members and at least two-thirds of the members present need to be in agreement to pass a resolution regarding the disciplinary action. If, however, the situation referred to Subparagraph 1 of the preceding paragraph pertains to a teacher at a senior secondary or lower level school, the school shall apply to the Competent Authority to have the matter investigated and verified by its Teachers’ Professional Review Committee. After this the matter shall be deliberated by a Teacher Evaluation Committee with at least half of its members present and at least half of the members present must be in agreement to pass a resolution regarding the disciplinary action.
+
+### Article 17
+
+Each Competent Authority shall set up a Teachers’ Professional Review Committee to assist senior secondary or lower level schools deal with cases of any of the circumstances referred to in Subparagraph 1 of Paragraph 1 of the preceding article, or in Paragraph 2 of Article 26, by accepting applications from schools regarding cases, or cases that have been referred to its Teachers’ Professional Review Committee to deliberate, in accordance with Paragraph 2 of Article 26.
+
+Each Teachers’ Professional Review Committee shall have eleven to nineteen members who each serve for a term of two years. The head of the Competent Authority shall select and appoint (assign) the members from among representatives of the administrative authority, educational scholars, legal experts, scholars and experts on children’s and youth welfare, representatives of national or local principals’ associations, representatives of national or local parents’ associations, and representatives nominated by national or Local Teachers Associations. The number of committee members of any one gender is not permitted to be less than one-third of the total number of committee members.
+
+The regulations governing the formation and operations of the Teachers’ Professional Review Committee referred to in Paragraph 1 shall be prescribed by the Central Competent Authority.
+
+A summary of the report made by each Teachers’ Professional Review Committee when a case is concluded shall be made available for the public to read.
+
+### Article 18
+
+If a teacher’s conduct constitutes a violation of any pertinent laws or regulations, and the educational institution or the authority concerned has investigated and confirmed that the violation occurred, and the nature of the violation does not warrant dismissal of the teacher but it is necessary to suspend them, the educational institution’s Teacher Evaluation Committee may examine and consider the circumstances of the case, and it may pass a resolution to suspend the teacher for a period of between six months and three years, and the educational institution shall impose the suspension decided on, after a Teacher Evaluation Committee meeting attended by at least two-thirds of its members has deliberated the matter and at least two-thirds of the members in attendance support a resolution to do so, and after the disciplinary measure has then been reported to and approved by the Competent Authority.
+
+During the period of the suspension referred to in the preceding paragraph, a teacher is not permitted to apply for retirement or severance with pay, nor to undertake any teaching in any educational institution.
+
+### Article 19
+
+A person to whom any of the following situations pertains is not permitted to be appointed as a teacher; if such a person has already been appointed, the educational institution shall dismiss them:
+
+1.Any situation referred to in any of the subparagraphs of Paragraph 1 of Article 14.
+
+2.Any situation referred to in any of the subparagraphs of Paragraph 1 of Article 15 that occurred during the period of one to four years formally decided on.
+
+If any of the situations referred to in any of the subparagraphs of Paragraph 1 of the preceding article pertains to a teacher, during the suspension period of between six months and three years, another educational institution is not permitted to appoint them as a teacher; if such a person has already been appointed, the educational institution shall dismiss them.
+
+A teacher referred to in either of the two preceding paragraphs who has already been appointed is a person who has been reported as having a criminal record in accordance with the provisions of Paragraph 1 of Article 20, shall be dismissed without the dismissal having to be deliberated by a Teacher Evaluation Committee and without it having to be reported to and approved by the Competent Authority, and the matter is not subject to the provisions of Paragraph 1 of Article 20 of University Act or the provisions of Paragraph 1 of Article 27 of Junior College Act. A teacher who has never been reported as having a criminal record in accordance with the provisions of Paragraph 1 of Article 20 shall be dismissed, in accordance with the provisions of Article 14 or the provisions of Article 15.
+
+With the exception of any teacher who has committed a sexual assault; sexual harassment, or sexual bullying which constituted a breach of the pertinent ordinances and the circumstances are serious; and with the exception of any teacher who has caused severe physical or mental injury to one or more students as a result of subjecting them to corporal punishment or bullying, any teacher who before the June 27, 2013 amendments to this Act took effect was investigated and verified by the authorities concerned to have behaved inappropriately in a way that impairs the professional dignity and status of teachers , and was therefore dismissed or did not have their appointment renewed, may once again be appointed as a teacher after a period of at least four years from the date of effect of their dismissal or the non-renewal of their appointment.
+
+### Article 20
+
+If any of the situations referred to in Paragraph 1 of Article 14, Paragraph 1 of Article 15, Paragraph 1 of Article 18, and Paragraph 1 and 2 of the preceding article pertains to a teacher, the Competent Authority at each level and educational institutions at all levels shall undertake related reporting, collection of information, and checks in accordance with the regulations governing.
+
+Before appointing any teacher, educational institutions shall check whether any of the circumstances referred to in the provisions of Paragraphs 1 and 2 of the preceding article pertain to the person; educational institutions shall also conduct checks of the teachers already appointed on a regular basis.
+
+When assisting educational institutions to undertake the checking referred to in the preceding paragraph, the competent authorities at each level may use the database of persons who have been subject to an administrative penalty that was compiled by the central competent social welfare authority, in accordance with the provisions of Child and Youth Sexual Exploitation Prevention Act, of Article 20 of Sexual Harassment Prevention Act, or of Article 97 of the Protection of Children and Youths Welfare and Rights Act.
+
+The regulations governing the reporting, and the collection, checking, handling, and use of information referred to in the three preceding paragraphs, and other related matters shall be prescribed by the Central Competent Authority.
+
+### Article 21
+
+A teacher to whom any of the following situations pertains shall be mandatory temporary suspension of appointment, as a matter of course:
+
+1.The person is subject to an arrest warrant or has been taken into custody, in accordance with criminal case procedures.
+
+2.The person has been deprived of their civil rights in accordance with a final and irrevocable criminal case ruling.
+
+3.The person has been given a custodial sentence in accordance with a final and irrevocable criminal case ruling and is currently in prison.
+
+### Article 22
+
+Within one month from the day that an educational institution where a teacher works becomes aware of a teacher’s being involved in any of the situations referred to in the following subparagraphs, after its Teacher Evaluation Committee has reviewed the matter and given approval, that educational institution shall, without having to report the matter to the Competent Authority and receive its approval, temporarily suspend the teacher for a period of up to six months and wait for the results of an investigation. When necessary, the period of suspension may be extended after the Teacher Evaluation Committee has reviewed the need for an extension and given approval. A maximum of two extensions is permitted and each extension is not permitted to exceed three months. If the investigation verifies that the circumstances did occur, after reporting the matter to the Competent Authority the educational institution shall suspend the teacher, without the disciplinary action having to be deliberated by the Teacher Evaluation Committee, until the Competent Authority has reviewed and approved the disciplinary action, and the educational institution then dismisses the teacher:
+
+1.Situations referred to in Subparagraphs 4 to 6 of Paragraph 1 of Article 14.
+
+2.Situations referred to in Subparagraph 1 or 2 of Paragraph 1 of Article 15.
+
+If a teacher has been involved in any of the situations referred to in the following subparagraphs, and the educational institution where the teacher works considers that it is necessary for that teacher initially to be suspended and an investigation to be conducted, after its Teacher Evaluation Committee has reviewed the matter, and given approval, and without having to report the matter to the Competent Authority and receive its approval, the educational institution shall temporarily suspend the teacher for a period of up to three months and wait for the results of an investigation. When necessary, the period of suspension may be extended one time only after the Teacher Evaluation Committee has reviewed the need for an extension and given approval, and such an extension is not permitted to exceed three months. If the investigation verifies that the situation did occur, after it has reported the matter to the Competent Authority, the educational institution may suspend the teacher after its Teacher Evaluation Committee has deliberated and is in agreement, until the Competent Authority has reviewed and approved the disciplinary action, and the educational institution then dismisses the teacher:
+
+1.Situations referred to in Subparagraphs 7 to 11 of Paragraph 1 of Article 14.
+
+2.Situations referred to in Subparagraphs 3 to 5 of Paragraph 1 of Article 15.
+
+Decisions regarding the situations referred to in the preceding two paragraphs shall be made by the Teacher Evaluation Committee at a meeting attended by at least half of its members with at least half of the members present supporting the decision.
+
+### Article 23
+
+During the period of suspension of a teacher, the educational institution where they work shall reserve their position; if the Appointment Agreement period expires during the final suspension period, the educational institution shall renew that teacher’s appointment.
+
+The educational institution shall reinstate a teacher who has been suspended in accordance with the provisions of Article 18, or of Paragraph 1 or 2 of the preceding article, after the period of suspension expires. That teacher shall report for duty at the educational institution the day after the period of suspension expires.
+
+If a teacher has been suspended in accordance with the provisions of Paragraph 1 or Paragraph 2 of the preceding article, and the reason for the suspension has ceased to exist, before the suspension period has fully expired, the teacher may apply to have their appointment reinstated.
+
+An educational institution shall reinstate the appointment of a teacher who applies to be reinstated in accordance with the provisions of the preceding paragraph after a Teacher Evaluation Committee deliberates the matter at a meeting attended by at least half of its members and at least half of the members present give agreement.
+
+If a teacher was suspended in accordance with the provisions of Article 21 after the reason for the suspension has ceased to exist, except in cases when the educational institution imposed the suspension in accordance with the provisions of Paragraph 2 of the preceding article, the educational institution shall reinstate the teacher after the reason for the suspension has ceased to exist. The teacher shall report for duty on the day after the day that the reason ceased to exist.
+
+If a teacher who has been suspended in accordance with this Act does not report for duty on the day after the period of suspension expires in accordance with the provisions of Paragraph 2, or does not report for duty on the day after the reason ceased to exist in accordance with the provisions of the preceding paragraph, or does not apply for reinstatement of their appointment within three months after the reason for the suspension has ceased to exist in accordance with the provisions of Paragraph 3, the educational institution shall be responsible for  inquiring why and reminding the teacher to return. A teacher shall be regarded as being suspended until that person has been reinstated and has reported for duty. A teacher who does not report for duty at their educational institution within thirty days after receiving an inquiry and reminder notice shall be regarded as having resigned, unless their not reporting for duty was for some reason that is not attributable to that teacher.
+
+### Article 24
+
+If a teacher has been dismissed, denied renewal of appointment, or suspended initiates remedy procedures in accordance with the law and the original dismissal, denial of renewal, or suspension decision has subsequently been revoked or lost its effectiveness for some other reason, unless it may impose other disciplinary sanctions in accordance with the law, the educational institution shall notify the teacher that their appointment has been reinstated, without its Teacher Evaluation Committee having to deliberate the matter.
+
+A teacher whose appointment has been reinstated in accordance with the provisions of the preceding paragraph shall report for duty within thirty days after they receive the reinstatement of appointment notice; a teacher who does not report for duty within this period shall be regarded as having resigned, unless their not reporting for duty was for some reason that is not attributable to that teacher.
+
+The educational institution shall reassign teaching duties to a teacher whose appointment has been reinstated in accordance with the provisions of Paragraph 1, or the provisions of Paragraphs 2, 3, or 5 of the preceding article.
+
+### Article 25
+
+A teacher who is suspended in accordance with Paragraph 1 of Article 18, or Subparagraph 2, or Subparagraph 3 of Article 21 will not have any remuneration payments made during the period of suspension.
+
+A teacher who is suspended in accordance with Paragraph 1 of Article 21, Paragraph 1 of Article 22, or Paragraph 6 of Article 23 shall not have any remuneration payments made during the period of suspension; when the reason for the suspension ceases to exist, a teacher who has not been dismissed or had not a suspension imposed as an administrative disposition, and who has had their appointment reinstated shall be paid their full basic salary (and any seniority salary) in arrears for the period of the suspension.
+
+A teacher who is suspended in accordance with Paragraph 2 of Article 22 shall be paid half of their basic salary (and any associated seniority salary) during the period of suspension; a teacher who has not been dismissed or had not a suspension imposed as an administrative disposition after an investigation is conducted, and who has had their appointment reinstated, shall be paid half of their basic salary (and any associated seniority salary) in arrears for the period of the suspension.
+
+### Article 26
+
+When an educational institution’s Teacher Evaluation Committee, Gender Equity Education Committee, or other relevant committee formed in accordance with law passes a resolution to dismiss a teacher or deny renewal of that teacher’s appointment in accordance with the provisions of Articles 14 to 16, or passes a resolution to impose a suspension on a teacher in accordance with the provisions of Article 18, unless other provisions of this Act apply, the educational institution shall report the matter to the Competent Authority for its approval within ten days from the day that the resolution was passed, and at the same time it shall notify the party or parties involved of its decision notify in writing of the reasons.
+
+If a teacher at a senior secondary or lower level school is involved in any situation referred to in the provisions of Articles 14 to 16, or of Article 18, and a Teacher Evaluation Committee at the school has not been convened in accordance with regulations, or has not deliberated the case, or has not passed a resolution, when the Competent Authority considers that the case might involve a breach of the law, it shall notify in writing of the reasons and return the case to the school to deliberate or reconsider the case; if the school then fails to deliberate or reconsider the case within a specified period, the Competent Authority may notify in writing of the reasons and refer the case directly to its Teachers’ Professional Review Committee to deliberate, and it may investigate which of the school’s associated personnel bear responsibility.
+
+The Teachers’ Professional Review Committee referred to in the preceding paragraph shall base its resolutions on the nature of each particular case, and the proportion of the committee’s members that must be in attendance at a meeting to deliberate a case and the proportion of votes that must be cast to pass a resolution shall be the same as the proportions required when a Teacher Evaluation Committee at a school deals with a matter. Its resolutions shall be regarded as equivalent to resolutions passed by a school’s Teacher Evaluation Committee.
+
+If a teacher at a junior college or an institution of higher education is involved in any situation referred to in Articles 14 to 16, or in Article 18, and a Teacher Evaluation Committee at the educational institution has not been convened in accordance with regulations, or has not deliberated, or passed a resolution regarding the situation, when the Competent Authority considers that the case might involve a breach of the law, it shall give a detailed explanation of its reason and return the case to the educational institution to deliberate or reconsider. If the case is not duly reviewed or reconsidered within a specified period, the Competent Authority may investigate which of the school’s associated personnel bear responsibility.
+
+If a teacher’s term of appointment expires while the person is still currently involved in disciplinary procedures, the educational institution shall temporarily continue their appointment.
+
+### Article 27
+
+A teacher to whom any of the situations referred to in the following subparagraphs pertains may be dismissal with severance, after a Teacher Evaluation Committee has reviewed the matter and given approval, and after the disciplinary measure has been reported to and approved by the Competent Authority:
+
+1.There is no longer any work available for the person in their current position because of adjustments to departments, graduate institutes, sections, divisions, or courses, or because the educational institution is reducing the number of programs, suspending operations, or closes down, and there is no other suitable work to which the person can be transferred.
+
+2.The person is unsuitable for employment in their current position and there is other suitable work to which the person can be transferred; or a hospital that meets the hospital assessment standards set by the central competent heath authority has certified that the person is physically too weak to perform their work.
+
+3.The person is subject to a guardianship or assistance order which has not been revoked.
+
+A teacher who is eligible for retirement to whom any of the situations referred to in the preceding paragraph pertains and whose severance with pay has been approved may apply for retirement in accordance with the regulations within one month after the date their severance was determined, and the originally approved date of effect of their severance with pay shall be the date of effect of their retirement.
+
+### Article 28
+
+From the date that an educational institution becomes aware of a teacher’s being involved in any of the situations referred to in Paragraph 1 of Article 14 or Paragraph 1 of Article 15 onwards, the educational institution is not permitted to approve that teacher’s retirement or severance with pay.
+
+If an educational institution first becomes aware of a teacher’s being involved in any of the situations referred to in Paragraph 1 of Article 14, or Paragraph 1 of Article 15 after that teacher has resigned, the educational institution shall still formally dismiss that teacher and shall undertake reporting in accordance with the provisions of Article 20.
+
+### Article 29
+
+The regulations governing the procedures for and matters related to the dismissal, non-renewal of appointment, suspension, or severance with pay of a teacher at a senior secondary or lower level school in accordance with this Act shall be prescribed by the Central Competent Authority.
+
+### Article 30
+
+A teacher at a senior secondary or lower level school to whom any situation referred to in any of the following subparagraphs pertains is not permitted to apply for a transfer:
+
+1.The person is still being investigated, or currently involved in dismissal or non-renewal of appointment disciplinary procedures regarding any of the situations referred to in Paragraph 1 of Article 14, Paragraph 1 of Article 15, or in the subparagraphs of Paragraph 1 of Article 16.
+
+2.The person is still being investigated, currently involved in non-renewal of appointment disciplinary procedures, or in a period of suspension regarding any of the situations referred to in Paragraph 1 of Article 18, Article 21, or Paragraph 1 or Paragraph 2 of Article 22.
+
+The person is still being investigated, or is currently involved in severance with pay disciplinary procedures regarding any of the situations referred to in Subparagraph 2 or Subparagraph 3 of Paragraph 1 of Article 27.
+
+## Chapter 5 Rights and Obligations
+
+### Article 31
+
+A teacher who accepts appointment to a position enjoys the following rights, in accordance with the related ordinances and the provisions of the rules and regulations of the educational institution:
+
+1.To put forward suggestions for new approaches or changes to the educational institution’s teaching and administration.
+
+2.To enjoy rights to and protection of remuneration, benefits, retirement, bereavement compensation, severance with pay, and insurance.
+
+3.To participate in in-service further training, research, and academic exchange activities.
+
+4.To join teacher organizations, and participate in other activities held in accordance with ordinances and regulations.
+
+5.A teacher who considers that some measure taken by the Competent Authority or the educational institution that the teacher has personally been subject to is illegal or inappropriate, and that it constitutes a violation of their rights and interests, may lodge an appeal in accordance with the law.
+
+6.To enjoy professional autonomy in their teaching and student counseling in accordance with ordinances and the educational institution’s rules and regulations.
+
+7.Unless ordinances stipulate otherwise, a teacher may refuse to engage in work tasks or activities assigned by the Competent Authority or by the educational institution that are outside the scope of teaching and learning related work or activities.
+
+8.When a teacher becomes involved in a lawsuit as a result of performing their duties in accordance with the law, the educational institution where they teach shall assist them to engage a lawyer to defend them and provide legal assistance.
+
+9.All other rights they are entitled to enjoy in accordance with this Act or other laws.
+
+The regulations governing the assistance for any teacher who becomes involved in a work-related lawsuit referred to in Subparagraph 8 of the preceding paragraph shall be prescribed by the Central Competent Authority; any teacher who becomes involved in a lawsuit as a result of some intentional act or gross negligence shall not be provided with assistance; if the educational institution where they worked has already assisted the person with expenses for a lawsuit, it shall issue the person an order in writing to reimburse the educational institution within a period specified.
+
+### Article 32
+
+In addition to complying with ordinances and fulfilling their appointment contract obligations, teachers have the following duties:
+
+1.To comply with the terms of their Appointment Agreement and uphold the reputation of the educational institution.
+
+2.To actively protect students’ rights to education.
+
+3.To implement adaptive teaching and learning activities, in accordance with the related ordinances and the teaching program put in place by the educational institution.
+
+4.To advise and discipline students, to guide their appropriate growth and nurture their development of a sound personality.
+
+5.To engage in teaching-related research and further training.
+
+6.To strictly fulfill the responsibilities that go with their position, always act on the basis of conscience, and promote the honor and dignity of teaching, and professionalism.
+
+7.To participate in the academic and administrative work, and social education activities of the educational institution, in accordance with the related ordinances.
+
+8.To not disclose any student’s personal or family information, unless required to do so in accordance with law.
+
+9.To serve as a class teacher or academic advisor.
+
+10.To fulfill other duties, which must be fully complied with in accordance with the provisions of this Act and other laws.
+
+Regulations governing the matters referred to in Subparagraph 4 and Subparagraph 9 of the preceding paragraph shall be discussed and agreed on by the governing council of each educational institution.
+
+### Article 33
+
+Teachers holding an appointment at an educational institution at any level shall proactively and vigorously engage in further training and research related to knowledge and skills pertinent to their teaching.
+
+Teachers engaging in in-service further training may take paid leave, or leave without pay with their position guaranteed; the expenses for teachers’ further training and research may be provided for by the educational institution or the Competent Authority for the educational institution through budget allocations.
+
+To raise the quality of education and encourage teachers at educational institutions at all levels to engage in further training and research, the Central Competent Authority shall plan professional development systems providing teachers with a multifaceted range of further training and research; the regulations governing matters related to their mode and incentives shall be prescribed by the Central Competent Authority.
+
+Each Competent Authority of schools at senior secondary or lower level shall establish a Teachers’ Consulting and Guidance Support System to assist teachers provide consulting and guidance; the associated regulations shall be prescribed by the Competent Authority concerned.
+
+### Article 34
+
+If a teacher acts in violation of the provisions of any of the subparagraphs of Paragraph 1 of Article 32, the educational institution that appointed the teacher shall refer the matter to its Teacher Evaluation Committee to discuss and appraise and then the educational institution in accordance with the provisions of related ordinances.
+
+### Article 35
+
+Teachers may request personal leave in accordance with the regulations, for marriage, funerals, illness, childbirth, and other legitimate reasons. Official leave shall be given to teachers who have a statutory duty to testify regarding a sexual assault, or sexual harassment and bullying case.
+
+The regulations governing the categories of leave, the number of days of leave, procedures for requesting leave, handling of the determination of rights and responsibilities and of breaches of regulations, and other matters relating to the leave that teachers may request referred to in the preceding paragraph shall be prescribed by the Central Competent Authority.
+
+### Article 36
+
+Teachers’ remuneration shall be prescribed in separate legislation.
+
+### Article 37
+
+When a teacher transfers between a public educational institution and a private educational institution, that teacher’s years of service for which no retirement payment, bereavement compensation, resignation payment, or severance pay has yet been approved and paid shall be counted in aggregate.
+
+### Article 38
+
+Teachers’ retirement, bereavement compensation, resignation, severance, and insurance is governed by separate legislation.
+
+## Chapter 6 Teacher organizations
+
+### Article 39
+
+There are three levels of teacher organizations: the Institutional Level Teachers Associations, at educational institutions; the Local Teachers Associations, at the municipal, and county (city) level; and the National Teachers Associations, at the central level.
+
+If an educational institution has fewer than twenty classes, it may work with other educational institutions to set up an inter-district (-township, -town) educational institution teachers association.
+
+To establish a teachers’ organization at any level, an application shall be made to the appropriate Competent Authority in accordance with the provisions of Civil Associations Act.
+
+Each Local Teachers Associations shall consist of at least half of the educational Institutional Level Teachers Associations in its district to be allowed to be established. A National Teachers Associations shall have at least half of the Local Teachers Associations as members to be allowed to be established.
+
+### Article 40
+
+The teacher organizations at each level have the following basic responsibilities:
+
+1.Safeguard teachers’ professional dignity and autonomy.
+
+2.Reach agreements with authorities at all levels on teachers’ appointment and work regulations.
+
+3.Study and help solve all kinds of education related problems.
+
+4.Oversee the management, operation, and payments made from the resignation payment fund organization.
+
+5.Assign representatives to join the statutory organizations that handle teacher appointments, appeals, and other teacher related matters.
+
+6.Formulate teachers’ autonomous agreements.
+
+### Article 41
+
+An educational institution is not permitted to restrict teachers’ joining teacher organizations or their holding a post in a teachers’ organization.
+
+An educational institution is not permitted to refuse to appoint a teacher, dismiss a teacher, or take any other unfavorable action against a teacher because of that teacher’s joining a teachers’ organization, holding a post in a teachers’ organization, or participating in its activities.
+
+## Chapter 7 Appeals and Remedies
+
+### Article 42
+
+A teacher who considers that some measure taken by an educational institution or by the Competent Authority that the teacher has personally been subject to is illegal or inappropriate, and that it constitutes a violation of their rights and interests, may lodge an appeal, and a further appeal, with a Teacher Appeal Review Committee at each level.
+
+A teacher who considers that their rights and interests have been damaged as a result of an educational institution or the Competent Authority not taking action within the statutory period to handle an application submitted by that teacher may also lodge an appeal; if the ordinances do not stipulate a period, the period shall be deemed to be two months from the date that the educational institution or the Competent Authority accepted the application.
+
+An appeal shall be lodged in writing within thirty days from the day after the day that the person receives notification or is informed about the measure; any further appeal shall be lodged within thirty days from the day after the day that a written Appeal Review Decision is sent.
+
+The standard period referred to in the preceding paragraph shall be the date that a Teacher Appeal Review Committee accepts a written appeal or written further appeal.
+
+### Article 43
+
+The members of each Teacher Appeal Review Committee shall comprise teachers, impartial upright members of society, scholars and experts, representatives of local teacher organizations, and representatives of the Competent Authority or educational institution that set up the Teacher Appeal Review Committee; the number of teachers on the committee who do not hold a part-time administrative post is not permitted to be less than two-thirds of the full committee.
+
+In municipalities and counties (cities), the teachers’ organization representatives referred to in the preceding paragraph shall be recommended by the teacher organizations in their respective municipality, or county (city). In junior colleges and institutions of higher education, the teachers’ organization representatives shall be recommended by the teachers’ organization of each educational institution. If an educational institution does not have a teachers’ organization, the teachers’ organization representatives shall be recommended by another educational institution at an equivalent education level, or by a municipal or county (city) teachers’ organization. The teachers’ organization representatives on a central level Teacher Appeal Review Committee shall be recommended by a National Teachers Associations.
+
+The regulations governing the composition, recusal, review procedures and methods, of Teacher Appeal Review Committee s, and other matters related to such committees shall be prescribed by the Central Competent Authority; the directions to be used by military and police schools and Reformatory Schools may be prescribed by their respective competent authorities.
+
+If the composition of any Teacher Appeal Review Committee at any level is inconsistent with the provisions of Paragraph 1 and Paragraph 2, that teacher grievance review committee shall complete a revision of its composition within one year from the date that the May 10, 2019 amendments took effect.
+
+### Article 44
+
+Teachers’ appeal procedures are divided into appeals and further appeals, each at two levels, as follows:
+
+1.For teachers at junior colleges and institutions of higher education: appeals are divided into institution level appeals, and central level 2 appeals.
+
+2.For teachers at senior secondary or lower level schools: appeals are divided into municipal, county (city), and central level appeals. However, all appeals for schools under the jurisdiction of the Central Competent Authority are central level 1 appeals, and an appeal lodged by such a school is deemed a further appeal.
+
+A teacher who is dissatisfied with the decision of any appeal may lodge a further appeal. If the educational institution or the Competent Authority is dissatisfied with the result of an appeal, it too may lodge a further appeal.
+
+After lodging an appeal or further appeal in accordance with this Act, a teacher is not permitted to also lodge an administrative appeal in accordance with Administrative Appeal Act; if an administrative appeal is lodged before the conclusion of an appeal or further appeal procedure, within ten days the agency that accepted lodgment of that administrative appeal shall transfer the case to the Teacher Appeal Review Committee with jurisdiction and shall notify the teacher concerned. If an administrative appeal is lodged at the same time it shall be handled in the same way.
+
+If a teacher lodges an administrative appeal in accordance with the Administrative Appeal Act and then lodges an appeal in accordance with this Act, the Teacher Appeal Review Committee that accepted the appeal shall halt its review until that teacher has retracted the administrative appeal or the administrative appeal has been determined and then continue its review. If the original measure was an administrative disposition, the committee shall make a decision not to proceed with the appeal.
+
+Any cases still pending before the May 10, 2019 amendments to this Act take effect shall subsequently be finalized using procedures in accordance with the provisions of this Act after the amendments took effect.
+
+If any original measure was by nature an administrative disposition, any further appeal decision shall be regarded as equivalent to an administrative appeal decision; if the appellant is dissatisfied with a further appeal decision, the person may initiate administrative litigation in accordance with the law.
+
+### Article 45
+
+After final determination regarding a case, that determination is binding on each agency and the educational institution concerned; the educational institution or Competent Authority that took the original measure shall handle the matter in accordance with the Appeal Review Decision and the Competent Authority shall duly oversee the determination is indeed implemented.
+
+If an educational institution fails to handle a matter in accordance with the provisions of the preceding paragraph, the Competent Authority may investigate where the responsibility lies in accordance with pertinent laws and regulations and use this as the basis for partial or full reductions or the cancellation of incentives, or subsidies to the educational institution, or other measures.
+
+### Article 46
+
+Appeal Review Decision made by municipal, county (city), and central Teacher Appeal Review Committee s shall be proactively be made public. If, however, other laws stipulate otherwise, the matter shall be handled in accordance with their provisions.
+
+The making public of appeal decisions referred to in the preceding paragraph shall not include any natural person’s personal details, except for the full name of the individual and shall not include their ID number, passport number, or any other information sufficient to identify the individual.
+
+## Chapter 8 Supplementary Provisions
+
+### Article 47
+
+The assessment and accreditation of the qualifications of part-time teachers at educational institutions at all levels shall be undertaken in accordance with the provisions of this Act.
+
+The regulations governing the rights; obligations; qualifications; appointment; termination of agreements; suspension of agreements implement and related reporting, collection of information, checking; and other matters pertaining to Part-time Teachers, and Substitute Teachers shall be prescribed by the Central Competent Authority.
+
+The qualifications of teachers of professional and technical subjects, and nursing teachers who teach health and nursing courses at educational institutions at all levels shall be handled in accordance with the provisions of the Statute Governing the Appointment of Educators.
+
+### Article 48
+
+The relevant ordinances and regulations that apply to teachers apply, mutatis mutandis, to matters pertaining to the dismissal, appeals, further training, remuneration, benefits, retirement, severance with pay, and bereavement compensation of the nursing teachers referred to in Paragraph 3 of the preceding article.
+
+The Competent Authority may handle the transfers of nursing teachers who hold qualifications to teach health and nursing and who have been assigned by the Competent Authority to be teachers of health and nursing. The regulations governing their transfer shall be prescribed by the Central Competent Authority.
+
+### Article 49
+
+The provisions of all articles of this Act shall apply, mutatis mutandis, to the following preschool teacher related matters:
+
+1.Teachers at public preschools: the appointment, dismissal, non-renewal of appointment, suspension, severance with pay, teacher organizations, appeals, remedies, and other management related matters.
+
+2.Teachers at private preschools which were already applying this Act, mutatis mutandis, before December 31, 2011: matters related to their appointment, further training, research, resignation, severance with pay, teacher organizations, and appeals.
+
+### Article 50
+
+The principal of an educational institution at any level may apply, mutatis mutandis, the provisions governing teachers’ appeal to lodge an appeal.
+
+### Article 51
+
+The Central Competent Authority shall invite representatives of the National Teacher Organizations to participate in the formulation of each of the regulations and ordinances that this Act authorizes the Central Competent Authority to prescribe.
+
+### Article 52
+
+The enforcement rules of this Act shall be prescribed by the Central Competent Authority.
+
+### Article 53
+
+The date of effect of this Act shall be determined by the Executive Yuan.
+
+## History
+
+\1. Promulgated on August 09, 1995.
+
+\2. Amendment to Article 35 promulgated on July 19, 2000.
+
+\3. Amendment to Articles 3,11,17, addition of Articles 14-1~14-3,15-1,18-1, and 36-1 promulgated on January 15, 2003.
+
+\4. Addition of Article 35-1 promulgated on May 24, 2006.
+
+\5. Amendment to Articles 14,39 of the Teachers’ Act per Presidential Decree No. Hua-Zong-Yi-Yi-Zi-09800292191 dated November 25, 2009 and taking effect on November 23, 2009.
+
+\6. Amendment to Articles 14-3 of the Teachers’Act per Presidential Decree No. Hua-Zong-Yi-Yi-Zi-09900317081 dated November 24, 2010.
+
+\7. Amendment to Articles 35-1 of the Teachers’Act per Presidential Decree No. Hua-Zong-Yi-Yi-Zi-10000291411 dated December 28, 2011.
+
+\8. Amendment to Articles 14 of the Teachers’Act per Presidential Decree No. Hua-Zong-Yi-Yi-Zi- 10000299661 dated January 4, 2012.
+
+\9. Amendment to Articles 18-1 of the Teachers’Act per Presidential Decree No. Hua-Zong-Yi-Yi-Zi- 10200012401 dated January 23, 2013.
+
+\10. Amendment to Articles 14 of the Teachers’Act per Presidential Decree No. Hua-Zong-Yi-Yi-Zi- 10200131131 dated July 10, 2013.
+
+\11. Presidential Decree No. Hua-Zong-Yi-Yi-Zi-10200232681 issued December 25, 2013: Amendment to Article 35-1 of the Teachers’ Act.
+
+\12. Amendment to Articles 14 and 16 of the Teachers’Act per Presidential Decree No. Hua-Zong-Yi-Yi-Zi- 10300000681 dated January 8, 2014.
+
+\13. Amendment to Articles 17 of the Teachers’Act per Presidential Decree No. Hua-Zong-Yi-Yi-Zi- 10300008931 dated January 22, 2014.
+
+\14. Amendment to Articles 36 of the Teachers’Act per Presidential Decree No. Hua-Zong-Yi-Yi-Zi- 10300093321 dated June 18, 2014.
+
+\15. Amendment to Articles the Teachers'Act per Presidential Decree No. Hua-Zong-Yi-Yi-Zi- 10800055651 dated June 05, 2019.

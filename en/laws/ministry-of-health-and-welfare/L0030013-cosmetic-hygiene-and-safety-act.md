@@ -1,0 +1,419 @@
+---
+title: "Cosmetic Hygiene and Safety Act"
+title_zh: "化粧品衛生安全管理法"
+identifier: "L0030013"
+type: act
+law_level: "法律"
+category: "行政＞衛生福利部＞食品藥物管理目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1972-12-28
+last_amended: 2018-05-02
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0030013"
+retrieved: 2026-10-12
+---
+
+# Cosmetic Hygiene and Safety Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-health-and-welfare/L0030013-cosmetic-hygiene-and-safety-act.md](../../../zh/laws/ministry-of-health-and-welfare/L0030013-cosmetic-hygiene-and-safety-act.md)) is authoritative.
+
+## Chapter 1 General Provisions
+
+### Article 1
+
+This Act is enacted to maintain the hygiene and safety of cosmetics in order to safeguard national health.
+
+### Article 2
+
+For purposes of this Act, the term "competent authority" shall mean the Ministry of Health and Welfare at the central government level, the municipal governments at the municipal level, and the county/city governments at the county/city level.
+
+### Article 3
+
+The terms used in this Act are defined as follows:
+
+\1. "Cosmetics" means products applied intended for application to the external parts of the human body, teeth, or oral cavity mucous membranes, and used to moisturize hair and skin, stimulate the sense of smell, improve body odors, change appearance, or cleanse the body. However, this is not applicable to those that are regarded as drugs in accordance with other laws or regulations.
+
+\2. "Cosmetics business" means a business engaged in the manufacture, import, or sale of cosmetics.
+
+\3. "Product information file" means a collection of documents containing data about the quality, safety, and functions of cosmetics.
+
+\4. "Cosmetics ingredient" means a single chemical entity or mixture contained in cosmetics.
+
+\5. "Label" means a marking object used to bear words, graphics, or symbols for affixation on the container or package of a cosmetic.
+
+\6. "Leaflet" means an instruction sheet accompanying a cosmetic.
+
+The scope and categories of cosmetics as defined in Subparagraph 1 of the preceding paragraph shall be publicly announced by the central competent authority.
+
+## Chapter 2 Manufacturing, Import, and Management of Factories
+
+### Article 4
+
+Cosmetics categories and cosmetics manufacturers or importers of a certain scale that are specified by the central competent authority as per public announcement shall complete product notification and establish product information file prior to the supply, sale, giveaway, public display, or consumer trial offer of cosmetics. The same shall apply to modifications.
+
+Regulations governing the certain scale, the items, contents, procedures, modifications, validity period, revocation, and rescission of product notification, and other matters to be observed with regard to the preceding paragraph shall be prescribed by the central competent authority.
+
+Regulations governing the certain scale, the items, contents, modifications, methods for establishment and maintenance, retention period, location, qualification of signatory for the safety report of product information file, and other matters to be observed with regard to Paragraph 1 shall be prescribed by the central competent authority.
+
+### Article 5
+
+Manufacturers or importers of specific purpose cosmetics designated by the public announcement of central competent authority, an application for registration shall be filed with the central competent authority. No manufacturing or import shall be allowed until a license is approved and issued.
+
+Licensed cosmetics of the preceding paragraph shall not modify any of the originally registered particulars without approval of the central competent authority. However, this restriction does not apply to particulars that may be voluntarily modified per public announcement by the central competent authority.
+
+The import of specific purpose cosmetics shall be exempted from application for registration of Paragraph 1 if one of the following conditions applies. Furthermore, the supply, sale, public display, consumer trial offer, or transfer to other uses of said cosmetics shall be forbidden:
+
+\1. Import for personal use, the quantity of which complies with public announcement of the central competent authority;
+
+\2. Import for the application for registration of Paragraph 1 or for use in research and trial, through special permission of the central competent authority.
+
+For the import of specific purpose cosmetics for personal use of the preceding Subparagraph 1 that exceed the quantity specified in public announcement, their excess portion shall be ordered a return or destruction within a specified time limit by the customs.
+
+Prior to the enforcement of this Act as amended on April 10, 2018, for the manufacturing or import with a license of cosmetics containing medical or poisonous drugs whose license validity term expires within five years following the enforcement of this Act as amended on April 10, 2018, and where it is necessary to continue the manufacturing or import, an application for extension may be filed within three months before the expiration of validity term and an application for registration in accordance with Paragraph 1 may be exempted.
+
+Regulations governing the issuance, modifications, revocation, and rescission of licenses with regard to Paragraph 1 and Paragraph 2, the application procedure for special permission with regard to Subparagraph 2 of Paragraph 3, the license extension with regard to Paragraph 5, and other matters to be observed shall be prescribed by the central competent authority.
+
+The provisions of Paragraph 1 and Paragraph 2 shall cease to apply starting five years after the date of enforcement of this Act as amended on April 10, 2018.
+
+### Article 6
+
+Cosmetics shall not contain mercury, lead, or other ingredients banned for use as per public announcement of the central competent authority. However, this restriction does not apply to residual traces contained therein that are inevitable due to contemporary technical or professional standards, provided that such traces pose no hazard to human health.
+
+The central competent authority may restrict the use of cosmetics ingredients to prevent and avoid causing allergies, irritations, depigmentation, and conditions harmful to human health.
+
+For the ingredients banned and residual traces in Paragraph 1, and the restriction for use of ingredients or other conditions that pose an impact to the hygiene and safety of the preceding paragraph, their composition, content, applied body part, usage method, and other matters to be observed shall be publicly announced by the central competent authority.
+
+Cosmetics businesses shall not subject animals to testing when conducting safety evaluation of cosmetics or cosmetic ingredients, unless one of the following conditions applies and has been approved by the central competent authority:
+
+\1. The ingredient is widely used, and its function cannot be replaced by other ingredients;
+
+\2. Those that require animal testing to be conducted, having evaluation data that demonstrate the potential for harming human health.
+
+Cosmetics in violation of the provisions in the preceding Paragraph shall not be provided for sale.
+
+Regulations governing the application procedure for using animals as test subjects and other requirements with regard to Paragraph 4 shall be prescribed by the central competent authority.
+
+### Article 7
+
+The outer packaging or containers of cosmetics shall conspicuously label the following information:
+
+\1. Product name;
+
+\2. Usage of products;
+
+\3. Usage and storage instructions;
+
+\4. Net weight, volume, or amount;
+
+\5. Full ingredient names. For specific purpose cosmetics, the content of specific purpose ingredients contained therein shall be labeled separately;
+
+\6. Precautions for use;
+
+\7. Name, address, and telephone number of manufacturer or importer; country of origin of imported product;
+
+\8. Manufacturing date and shelf life, or manufacturing date and expiration date, or shelf life and expiration date;
+
+\9. Lot number;
+
+\10. Other information required to be labeled as per public announcement from the central competent authority.
+
+The information to be labeled as specified in the preceding paragraph shall be provided in Chinese or internationally common symbols. However, the information of Subparagraph 5 may be labeled in English.
+
+For the information of each subparagraph in Paragraph 1, if it cannot be labeled due to the surface area of outer packaging or container being too small or other special circumstances, said information shall be stated on the label, in the leaflet, or by other means.
+
+The format and method of labeling and other matters to be observed with regard to the preceding three paragraphs shall be publicly announced by the central competent authority.
+
+Sellers of cosmetics shall not alter or modify the labels, leaflets, outer packaging, or containers of cosmetics for sale.
+
+### Article 8
+
+Manufacturing facilities for cosmetics shall comply with the Establishment Standards for Cosmetics Manufactory. Unless otherwise specified by a joint public announcement from the central competent authority and central industry authority, factory registration shall be completed.
+
+For cosmetics categories that are specified by the central competent authority as per public announcement, their manufacturing facilities for cosmetics shall comply with cosmetic Good Manufacturing Practice Regulations. The facilities are subject to on-site inspection by the central competent authority.
+
+The provisions of the preceding paragraph may be applied mutatis mutandis to foreign manufacturing facilities.
+
+The standards referred to in Paragraph 1 shall be formulated jointly by the central competent authority and central competent industry authority. The regulations referred to in Paragraph 2 shall be formulated by the central competent authority.
+
+### Article 9
+
+Licensed pharmacists or personnel with professional skills in the field of cosmetics shall be hired and stationed at the factory to supervise the formulation and manufacturing of cosmetics.
+
+The qualifications, training, responsibilities of personnel with professional skills in the field of cosmetics, and other matters to be observed with regard to the preceding paragraph shall be prescribed by the central competent authority.
+
+## Chapter 3 Advertising and Logistics Management
+
+### Article 10
+
+The contents of the labeling, promotion, and advertisement of cosmetics shall not be deceptive or exaggerated.
+
+Cosmetics shall not be so labeled, promoted, or advertised as having medical efficacy.
+
+A mass media enterprise being commissioned to publish or broadcast a cosmetics advertisement shall maintain the particulars of its principal, including name, national identification card number or establishment registration document number of company, business, corporation or group, domicile or address, telephone number, etc., for six months from the date of such advertisement, and shall not evade, obstruct, or refuse when requested by the competent authority for such particulars.
+
+Regulations for the determination criteria of deceptive or exaggerated contents referred to in Paragraph 1, medical efficacy referred to in Paragraph 2, promotion or advertisement contents and methods, and other matters to be observed shall be prescribed by the central competent authority.
+
+### Article 11
+
+Cosmetics businesses shall establish and maintain data on direct supply sources and destinations of products. However, this provision shall not apply to data on products directly sold to consumers.
+
+Regulations governing the scope, items, contents, methods for establishment and maintenance, retention period of data, and other matters to be observed with regard to the preceding paragraph shall be prescribed by the central competent authority.
+
+### Article 12
+
+Cosmetics businesses shall report the serious adverse effects generated by cosmetics under conditions of normal or reasonable use, or the findings when product could possibly pose a hazard to hygiene and safety or a risk of harm, and handle them in accordance with the provisions of Article 10 of the Consumer Protection Act.
+
+Serious adverse effects mentioned in the preceding paragraph shall refer to one of the following conditions:
+
+\1. Death;
+
+\2. Life-threatening;
+
+\3. Temporary or permanent disability/incapacity;
+
+\4. Congenital anomaly/birth defect of fetus/infant;
+
+\5. Resulting in hospitalization of users for treatment.
+
+Regulations on reporting population, methods, contents, deadlines, and other matters to be observed with regard to Paragraph 1 shall be prescribed by the central competent authority.
+
+## Chapter 4 Sampling Check, Test, and Control
+
+### Article 13
+
+Competent authorities may dispatch personnel to enter the premises of cosmetics businesses to conduct sampling checks of their facilities, product information files, data on product supply sources and destinations, relevant records and documents, or sampling tests of cosmetics or their raw materials used. Cosmetics businesses shall give their cooperation, and shall not evade, obstruct, or refuse.
+
+In conducting sampling tests referred to in the preceding paragraph, the competent authorities shall sample amounts not to exceed quantities sufficient for conducting sampling tests and shall provide dockets to the cosmetics business.
+
+In carrying out their official duties for conducting sampling checks or sampling tests, the personnel shall present evidentiary documents in relation to the performance of their duties.
+
+### Article 14
+
+In order to enhance border control for cosmetics imports, the central competent authority may make public announcement about certain cosmetics categories or items that could possibly pose a hazard to hygiene and safety and may only be imported after sampling checks and sampling tests show compliance.
+
+Regulations governing the methods, techniques, items, scope of sampling checks and sampling tests, and other matters to be observed with regard to the preceding paragraph shall be prescribed by the central competent authority.
+
+### Article 15
+
+Competent authorities shall immediately initiate investigations and may order cosmetics businesses to suspend the manufacture, import, or sale, or order their products to be withdrawn from the market or to be sealed and stored if the cosmetics businesses are suspected to have violated the provisions of this Act or the cosmetics have one of the following conditions:
+
+\1. Expiration date exceeded;
+
+\2. Source unclear;
+
+\3. Other conditions sufficiently harmful to human health.
+
+When competent authorities conduct investigations as specified in the preceding paragraph or other sampling checks or sampling tests referred to in this Act, they may order cosmetics businesses to provide testing specifications, testing methods, and testing reports of original manufacturers, as well as information, samples, reference standards, and relevant data necessary for testing. Cosmetics businesses shall give their cooperation, and shall not evade, obstruct, or refuse.
+
+Penalties shall be rescinded and products shall be unsealed in the absence of any conditions specified in Paragraph 1 after investigations.
+
+### Article 16
+
+Cosmetics businesses shall not supply, sell, give away, publicly display, or offer consumer trial cosmetics that are in violation of the provisions if one of the following conditions applies:
+
+\1. Violation of Paragraph 1 of Article 4;
+
+\2. Violation of the regulations prescribed pursuant to Paragraph 2 or Paragraph 3 of Article 4, pertaining to the provisions of items, contents, modifications, or methods for establishment and maintenance, retention period, and location of product notification or information file that could possibly pose a hazard to hygiene and safety as determined by competent authorities;
+
+\3. Violation of Paragraph 1 or Paragraph 2 of Article 5;
+
+\4. Violation of Paragraph 1 or the public announcement made pursuant to Paragraph 3 of Article 6;
+
+\5. Violation of Paragraph 1, Paragraph 2, Paragraph 3, or Paragraph 5, or the public announcement made pursuant to Paragraph 4 of Article 7;
+
+\6. Violation of Paragraph 1 of Article 8 in failing to apply for factory registration;
+
+\7. Violation of the Establishment Standards for Cosmetics Manufactory specified in Paragraph 1 or the Good Manufacturing Practice Regulations specified in Paragraph 2 of Article 8, and said violation could possibly pose a hazard to hygiene and safety as determined by competent authorities;
+
+\8. Violation of the labeling provisions specified in Paragraph 1 or Paragraph 2 of Article 10;
+
+\9. Product notification or product license revoked or rescinded by the central competent authority.
+
+The same shall apply to cosmetics that have exceeded expiration date, are of unclear source, or pose other hazards to hygiene and safety as per public announcement of the central competent authority.
+
+### Article 17
+
+Cosmetics manufacturers or importers shall immediately notify sellers and recall non-compliant products from the market within a time period specified by competent authorities if one of the following conditions applies:
+
+\1. Violation of Paragraph 1 or the regulations prescribed pursuant to Paragraph 2 or Paragraph 3 of Article 4, pertaining to the provisions of items, contents, modifications, or methods for establishment and maintenance, retention period, and location of product notification or information file, and failure to make corrections within the time limit specified by competent authorities;
+
+\2. Violation of Paragraph 1, Paragraph 2, or Paragraph 3 of Article 5, and failure to make corrections within the time limit specified by competent authorities;
+
+\3. Violation of Paragraph 1 or the public announcement made pursuant to Paragraph 3 of Article 6;
+
+\4. Violation of Paragraph 1, Paragraph 2, Paragraph 3, or Paragraph 5, or the public announcement made pursuant to Paragraph 4 of Article 7;
+
+\5. Violation of Paragraph 1 of Article 8 in failing to apply for factory registration;
+
+\6. Violation of the Establishment Standards for Cosmetics Manufactory specified in Paragraph 1 of Article 8 or the Good Manufacturing Practice Regulations specified in Paragraph 2, and said violation could possibly pose a hazard to hygiene and safety as determined by competent authorities;
+
+\7. Violation of the labeling provisions specified in Paragraph 1 or Paragraph 2 of Article 10;
+
+\8. Product notification or product license revoked or rescinded by the central competent authority.
+
+The same shall apply to cosmetics that are of unclear source or pose other hazards to hygiene and safety as per public announcement of the central competent authority.
+
+Sellers shall cooperate with manufacturers and importers in the recall of cosmetics with regard to the preceding two paragraphs.
+
+Regulations for cosmetics that shall be recalled, their classification, handling methods, implementation methods for recall operations, deadlines for completion, contents of protocol and report, record retention, and other matters to be observed with regard to Paragraph 1 and Paragraph 2 shall be prescribed by the central competent authority.
+
+### Article 18
+
+Non-compliant cosmetics shall be confiscated and destroyed if one of the following conditions applies:
+
+\1. Violation of Paragraph 1 or the regulations prescribed pursuant to Paragraph 2 or Paragraph 3 of Article 4, pertaining to the provisions of items, contents, modifications, or methods for establishment and maintenance, retention period, and location of product notification or information file, and said violation poses a hazard to hygiene and safety as determined by competent authorities;
+
+\2. Violation of Paragraph 1, Paragraph 2, or Paragraph 3 of Article 5, and said violation poses a hazard to hygiene and safety as determined by competent authorities;
+
+\3. Violation of Paragraph 1 or the public announcement made pursuant to Paragraph 3 of Article 6;
+
+\4. Violation of Paragraph 1, Paragraph 2, Paragraph 3, and Paragraph 5, or the public announcement made pursuant to Paragraph 4 of Article 7, and said violation poses a hazard to hygiene and safety as determined by competent authorities;
+
+\5. Violation of Paragraph 1 or Paragraph 2 of Article 8, and said violation poses a hazard to hygiene and safety as determined by competent authorities;
+
+\6. Violation of Paragraph 1 of Article 9, and said violation poses a hazard to hygiene and safety as determined by competent authorities;
+
+\7. Violation of Paragraph 1 or Paragraph 2 of Article 10, and said violation poses a hazard to hygiene and safety as determined by competent authorities;
+
+\8. Product notification or product license revoked or rescinded by the central competent authority.
+
+The same shall apply to cosmetics that have exceeded expiration date, are of unclear source, or pose other hazards to hygiene and safety as per public announcement of the central competent authority.
+
+### Article 19
+
+The competent authority shall keep strictly confidential the particulars of, and may at its discretion grant reward to, anyone informing against cosmetics, labels, promotional materials, advertisements, or cosmetics businesses that are found to have violated the provisions of this Act.
+
+Regulations for the reward of informing with regard to the preceding paragraph shall be prescribed by the central competent authority.
+
+## Chapter 5 Penal Provisions
+
+### Article 20
+
+Those in violation of Paragraph 1 or the regulations prescribed pursuant to Paragraph 4 of Article 10, pertaining to the provisions of promotion or advertisement contents and methods, shall be imposed a fine ranging from NT$40,000 to NT$200,000; violation of Paragraph 2 of the same article shall be imposed a fine ranging from NT$600,000 to NT$5,000,000. In case of severe violation, the business may be ordered to terminate business operations or revoke all or part of the items listed in the registration of its company, business, or factory.
+
+Violators of cosmetics promotion or advertisement specified in Paragraph 1 or Paragraph 2, or the regulations prescribed pursuant to Paragraph 4 of Article 10, pertaining to the provisions of contents and methods, shall be fined successively until the violation is corrected or the publication or broadcast is terminated.
+
+Severe violation of the provisions pertaining to promotion or advertisement specified in Paragraph 1 or Paragraph 2 of Article 10 shall not only be penalized in accordance with the preceding two paragraphs, the competent authorities shall also order the termination of supply, sale, giveaway, public display, or consumer trial offer of the advertised products.
+
+Violators of the provisions pertaining to advertisement specified in the preceding paragraph shall publish or broadcast a corrective advertisement of the same length and in the same space and time slot as the original advertisement at a specified frequency within 30 days after receipt of the sanction order. Said corrective advertisement shall state an official apology and correct false information.
+
+Violators of the preceding two provisions who continue to supply, sell, give away, publicly display, or offer consumer trial, or fail to publish or broadcast a corrective advertisement shall be imposed a fine ranging from NT$120,000 to NT$2,000,000.
+
+### Article 21
+
+Media businesses in violation of Paragraph 3 of Article 10 shall be imposed a fine ranging from NT$60,000 to NT$300,000 and may be fined successively.
+
+### Article 22
+
+Cosmetics businesses shall be imposed a fine ranging from NT$20,000 to NT$5,000,000 and may be fined successively if one of the following conditions applies. In case of severe violation, the businesses may be subject to a suspension of business operations for not less than one month nor greater than one year, or ordered to revoke all or part of the items listed in the registration of their company, business, or factory, or to revoke or rescind notifications or licenses for the said cosmetics.
+
+\1. Violation of Paragraph 1 or the public announcement made pursuant to Paragraph 3 of Article 6;
+
+\2. Violation of Paragraph 1 of Article 8;
+
+\3. Violation of Paragraph 2 of Article 8, with corrections not made after being ordered to make corrections within a specified time limit.
+
+In case of revocation of notifications or licenses for cosmetics of the preceding paragraph, re-notification or re-application for registration of said products shall not be permitted within one year.
+
+### Article 23
+
+Cosmetics businesses shall be imposed a fine ranging from NT$10,000 to NT$1,000,000 and may be fined successively if one of the following conditions applies. In case of severe violation, the businesses may be subject to a suspension of business operations for not less than one month nor greater than one year, or ordered to revoke all or part of the items listed in the registration of their company, business, or factory, or to revoke or rescind notifications or licenses for the said cosmetics.
+
+\1. Violation of Paragraph 1 of Article 4;
+
+\2. Provision of false information in product notification or information file referred to in Paragraph 1 of Article 4;
+
+\3. Violation of the regulations pertaining to items, contents, modifications, or methods for establishment and maintenance, retention period, and location of product notification or information file prescribed pursuant to Paragraph 2 or Paragraph 3 of Article 4, with corrections not made after being ordered to to make corrections within a specified time limit;
+
+\4. Violation of Paragraph 1, Paragraph 2, or Paragraph 3 of Article 5;
+
+\5. Provision of false information during the application for registration specified in Paragraph 1 or Paragraph 2 of Article 5;
+
+\6. Violation of Paragraph 4 or Paragraph 5 of Article 6;
+
+\7. Violation of Paragraph 1, Paragraph 2, Paragraph 3, or Paragraph 5, or the public announcement made pursuant to Paragraph 4 of Article 7;
+
+\8. Violation of Paragraph 1 of Article 9;
+
+\9. Provision of false data on sources or destinations as specified in Paragraph 1 of Article 11;
+
+\10. Violation of Paragraph 1 of Article 13;
+
+\11. Violation of Paragraph 2 of Article 15;
+
+\12. Violation of Article 16 by supplying, selling, giving away, publicly displaying violating cosmetics or offering consumer trial.
+
+In case of revocation of notifications or licenses for cosmetics of the preceding paragraph, re-notification or re-application for registration of said products shall not be permitted within one year.
+
+### Article 24
+
+Cosmetics businesses shall be imposed a fine ranging from NT$10,000 to NT$1,000,000 and may be fined successively if one of the following conditions applies and failing to make corrections within a specified time limit after being ordered to do so. In case of severe violation, the businesses may be suspended from operating for not less than one month nor greater than one year, or ordered to revoke all or part of the items listed in the registration of their company, business, or factory, or to revoke or rescind notifications or licenses for the said cosmetics.
+
+\1. Violation of Paragraph 1 or the regulations pertaining to scope, items, contents, methods for establishment and maintenance, and retention period of data as prescribed pursuant to Paragraph 2 of Article 11;
+
+\2. Violation of Paragraph 1 or the regulations pertaining to reporting methods, contents, or deadlines as prescribed pursuant to Paragraph 3 of Article 12;
+
+\3. Violation of Paragraph 1 or Paragraph 2 for failing to notify sellers or recall within time limit, or violation of Paragraph 3 or the regulations pertaining to handling methods, implementation methods for recall operations, deadlines for completion, contents of protocol and report, or record retention as prescribed pursuant to Paragraph 4 of Article 17.
+
+In case of revocation of notifications or licenses for cosmetics of the preceding paragraph, re-notification or re-application for registration of said products shall not be permitted within one year.
+
+### Article 25
+
+In case of violation specified in the preceding five articles, the competent authorities may, based on the circumstances of the offense, the extent of harm, and the scope of impact, make public the names and addresses of businesses, products, and conditions of the violation.
+
+### Article 26
+
+The penalties prescribed in this Act, with the exception of revocation or rescission of notifications or licenses for cosmetics that shall be imposed by the central competent authority, shall be imposed by municipal or county/city competent authorities for the remaining penalties. The central competent authority may impose the penalties if deemed necessary.
+
+### Article 27
+
+The revocation of all or part of the items listed in the registration of company, business, or factory as specified in this Act shall be forwarded for execution by the competent industry or commerce authority or its competent government authority after the termination of business operations has been ordered and confirmed by municipal or county/city competent authorities.
+
+## Chapter 6 Supplementary Provisions
+
+### Article 28
+
+Competent authorities may authorize subordinate agencies or commission relevant institutions/organizations, corporations, or groups to carry out inspections, sampling checks or sampling tests of cosmetics and cosmetics businesses, or to issue manufacturing and sale certificates.
+
+The central competent authority may carry out accreditation of the commissioned institutions/organizations, corporations, or groups in the preceding paragraph. The accreditation tasks may be authorized to subordinate agencies or commissioned to relevant institutions/organizations, corporations, or groups.
+
+Regulations governing the qualifications and requirements for organizations, corporations, or groups to undertake commission or accreditation, the procedures of tasks for commission or accreditation, and other relevant matters of those commissioned with regard to the preceding two paragraphs shall be prescribed by the central competent authority.
+
+### Article 29
+
+Cosmetics businesses may submit applications of manufacturing and sale certificate or GMP compliance certificate to the central competent authority for the cosmetics they have notified or acquired licenses, or for cosmetics manufacturing facilities that comply with the cosmetic Good Manufacturing Practice Regulations as determined by the central competent authority.
+
+Regulations governing the application criteria, review procedures and standards, validity term, revocation, return, cancellation, and other matters to be observed with regard to the issuance of certificates in the preceding paragraph shall be prescribed by the central competent authority.
+
+### Article 30
+
+Cosmetics businesses shall pay the fees for cosmetics notification, applications for registration, applications for inspection of compliance with the cosmetic Good Manufacturing Practice Regulations, applications for sampling checks and sampling tests on border importation of cosmetics, and applications for certificates that are made in accordance with this Act.
+
+### Article 31
+
+The enforcement rules of this Act shall be prescribed by the central competent authority.
+
+### Article 32
+
+The date for enforcement of this Act shall be set by the Executive Yuan, with the exception of Paragraph 4 through Paragraph 6 of Article 6, and Subparagraph 6 of Paragraph 1 of Article 23, which shall be enforced from November 9, 2019.
+
+## History
+
+\1. Full text formulated and promulgated by the Government of the Republic of China on December 28, 1972
+
+\2. Text of Article 19 amended and promulgated on April 4, 1979 on president order.
+
+\3. Full text including 35 articles amended and promulgated by the Government of the Republic of China on May 27, 1985
+
+\4. Text of Article 3, 6, 7, 16, 23, 27~30 amended, article 23-1 added and promulgated by the Government of the Republic of China on May 27, 1991
+
+\5. Text of Article 2, 13, 16, 23~26 amended and promulgated on December 22, 1999 on presidential order (88) Huatsung (1) number 8800303410
+
+\6. Text of Article 9, 13, 23-1, 24, 30, 31 amended, 26-1, 33-1 added and promulgated on June 12, 2002 on presidential order (92) Huatsung (1) number 09100119210
+
+\7. Text of Article 27, 35 amended, article 23-2 added and promulgated on November 9, 2016 on presidential order (105) Huatsung (1) number 10500136181
+
+\8. Amended on May 2, 2018

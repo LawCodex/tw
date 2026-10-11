@@ -1,0 +1,125 @@
+---
+title: "The Logging Ban Compensation for Lands Reserved for Indigenous Peoples Act"
+title_zh: "原住民保留地禁伐補償條例"
+identifier: "D0130032"
+type: act
+law_level: "法律"
+category: "行政＞原住民族委員會＞土地管理目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2016-01-06
+last_amended: 2024-06-24
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0130032"
+retrieved: 2026-10-12
+---
+
+# The Logging Ban Compensation for Lands Reserved for Indigenous Peoples Act
+
+> Translation. The Chinese text ([zh/laws/council-of-indigenous-peoples/D0130032-the-logging-ban-compensation-for-lands-reserved-for-indigenous-peoples-act.md](../../../zh/laws/council-of-indigenous-peoples/D0130032-the-logging-ban-compensation-for-lands-reserved-for-indigenous-peoples-act.md)) is authoritative.
+
+## Article 1
+
+This Act is hereby established for the purpose of managing logging ban compensation for lands reserved for indigenous peoples, and in turn achieve the purposes of homeland security, water resource conservation, green and healthy environment, nature and ecological conservation, response to climate changes and natural disaster mitigation.
+
+## Article 2
+
+The competent authority mentioned in this Act refer to the Council of Indigenous Peoples.
+
+The executive authorities mentioned in this Act refer to the Forestry Bureau of Council of Agriculture, Executive Yuan, at the central level, and the municipality and county/city governments at local levels.
+
+The authorities with jurisdiction mentioned in this Act refer to the township (city or district) offices where the lands reserved for indigenous peoples are situated.
+
+## Article 3
+
+Indigenous landowner or indigenous people with legal access to the land may apply for the logging ban compensation when one of the following conditions occurs on lands reserved for indigenous peoples:
+
+\1. delineated as no logging area.
+
+\2. 20-year reforestation reward period expired.
+
+Budget for the logging ban compensation shall be provided by the competent authority and executed by local authorities.
+
+## Article 4
+
+An application for logging ban compensation shall be completed by the applicant with the following documents on an annual basis, and submitted to local authorities with jurisdiction of lands reserved for indigenous peoples; upon a preliminary review of the application by authorities with jurisdiction, an exploratory survey shall be conducted by local executive authorities to verify that the land has a 70% coverage of bamboo or trees without excessive cultivation or logging, and application will be approved following confirmation that compensation is in order:
+
+\1. Identity document, land registration transcript, cadastral map transcription. But documents that can be requested and verified online need not be attached.
+
+\2. If the applicant is not the landowner, a charge certificate or land lease must be submitted.
+
+If the aforementioned applicant is a registered indigenous user of lands reserved for indigenous peoples at various township (city or district) offices, or the inheritor of such land, a land registration transcript need not be attached.
+
+If, due to restricted access or encouraged uses, land with the same parcel number is eligible for both logging ban compensation and other rewards, compensations or subsidies granted by other central government agencies in the same year, choose one to apply only.
+
+The eligibility of the aforementioned indigenous people with legal access, and regulations concerning the subject, procedure, duration, standard for determination and other items pertaining to the compensation application review for Item 1, shall be enacted by the competent authority upon consulting the central forestry administrative authority.
+
+## Article 5
+
+Lands reserved for indigenous peoples are delineated and promulgated as no logging areas according to one of the following terms:
+
+\1. Legally designated as forestry land or eligible for control as forestry land.
+
+\2. Legally delineated as a conservation area or water resource area.
+
+\3. Legally delineated as the domain of a national park .
+
+\4. Other considerations determined by the competent authority as necessary for a logging ban.
+
+## Article 6
+
+The logging ban compensation issued pursuant to this Act is as follows:
+
+NT$20,000 per hectare in 2016.
+
+NT$30,000 per hectare per year starting 2017.
+
+NT$60,000 per hectare per year starting 2025.
+
+For areas smaller than one hectare, the compensation specified in the preceding paragraph shall be prorated based on the actual area size, rounded to four decimal places.
+
+The compensation specified in Paragraph 1 shall be adjusted every two years starting in 2025 by the central competent authority based on the consumer price index growth rate (obtained by comparing the consumer price index of the current year to that of the year before the last adjustment was made) published by the central accounting authority. However, no adjustments shall be made if the growth rate is zero or negative.
+
+## Article 7
+
+Once the logging ban compensation is issued, local executive authorities should revoke the logging ban compensation and request that the recipient repay such compensation received that year in proportion to the months passed if one of the following events occur:
+
+\1. Unauthorized removal, taking or destruction of bamboo and wood, lowering the coverage rate to below 70%. Reasons including plant diseases and insect pests, natural disasters and other conditions the recipient cannot be held accountable for are not included.
+
+\2. Other rewards, compensations or subsidies granted by other central government agencies for restricted access or encouraged uses given to lands reserved for indigenous peoples with the same parcel number or divided from such land.
+
+\3. The recipient loses ownership or legal access after the logging ban compensation is received.
+
+\4. The applicant loses the identity of indigenous peoples.
+
+## Article 8
+
+Should the recipient lose ownership or legal access to the private lands reserved for indigenous peoples after the logging ban compensation is received, the logging ban compensation may be collected in proportion per month per area after the legal representation agrees to the logging ban and notify the authority with jurisdiction in writing.
+
+The aforementioned regulation applies to people with legal access to public lands reserved for indigenous peoples.
+
+## Article 9
+
+The competent authority should establish an information management system for logging ban compensations.
+
+The central executive authority should conduct regular inventory and monitoring of forestry resources.
+
+Local executive authorities should investigate the scope of areas with logging bans and establish a database for logging ban compensations.
+
+## Article 10
+
+Executive authorities must conduct campaigns of logging ban compensations every year, provide technique guidance for forestry maintenance to indigenous peoples and recommendations for pest control, and consult indigenous peoples on their views of applications for logging ban compensations.
+
+## Article 11
+
+The Act shall come into force as from the date of its promulgation.
+
+## History
+
+1.Promulgated on January 6, 2016
+
+2.Amended on December 31, 2019
+
+3.Amended Article 6 on June 24, 2024

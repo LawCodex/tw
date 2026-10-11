@@ -1,0 +1,701 @@
+---
+title: "The Act Governing Electronic Payment Institutions"
+title_zh: "電子支付機構管理條例"
+identifier: "G0380237"
+type: act
+law_level: "法律"
+category: "行政＞金融監督管理委員會＞銀行目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2015-02-04
+last_amended: 2023-01-19
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0380237"
+retrieved: 2026-10-12
+---
+
+# The Act Governing Electronic Payment Institutions
+
+> Translation. The Chinese text ([zh/laws/financial-supervisory-commission/G0380237-the-act-governing-electronic-payment-institutions.md](../../../zh/laws/financial-supervisory-commission/G0380237-the-act-governing-electronic-payment-institutions.md)) is authoritative.
+
+## Chapter 1 General Provisions
+
+#### Article 1
+
+This Act is enacted to promote the sound operations and development of electronic payment institutions, to ensure safe and convenient funds transfer services, and to protect consumer rights and interests.
+
+#### Article 2
+
+The competent authority under this Act shall be the Financial Supervisory Commission.
+
+#### Article 3
+
+The terms used in the Act are defined as follows:
+
+\1. Electronic payment institution: An electronic payment institution refers to an institution approved by the competent authority to operate businesses specified in Paragraph 1 and Paragraph 2 of Article 4.
+
+\2. Contracted institution: A contracted institution refers to an institution which signs a contract with an electronic payment institution that allows users to use electronic payment accounts or stored value cards to pay for actual transactions.
+
+\3. User: A user refers to an individual or an entity that signs a contract with an electronic payment institution for using an electronic payment account or stored value card to transfer payment funds or store the value.
+
+\4. Electronic payment account: An electronic payment account refers to a payment instrument that accepts the registration and account opening by users to keep track of their payment funds transfer and stored value through a network or electronic payment platform and uses electronic equipment to convey the receipt/payment information via connection.
+
+\5. Stored value card: A stored value card refers to payment instrument issued in the form of a chip, card, certificate, or other physical or non-physical form, with data storage or computing functions, that uses electronic, magnetic, optical, or other technology to store monetary value.
+
+\6. Collecting and making payments for actual transactions as an agent: This business refers to the acceptance of funds transferred by the payer based on an actual transaction and the transfer of the payment for the actual transaction to the payee after certain conditions are met, upon the expiry of a certain period, or based on the payer’s instructions.
+
+\7. Accepting stored value funds: This business refers to the acceptance of funds deposited by the payer in advance and the use of an electronic payment account or a stored value card for multiple purposes of payments.
+
+\8. Domestic or international small-amount remittances: This business refers to the use of an electronic payment account or a stored value card for funds transfer below a certain amount in accordance with payment instructions made by the payer that are not based on actual transactions.
+
+\9. Payment funds refer to an amount of money made within the following scope:
+
+(1) Funds collected or paid by the institution as an agent: Funds collected or paid for actual transactions by the institution as an agent and payments collected or made in domestic or international small-amount remittances services.
+
+(2) Stored value funds: Funds collected for operating stored value funds businesses.
+
+\10. Multiple purposes of payments: The payments refer to the stored value funds in an electronic payment account or a stored value card which may be used to pay for products or services provided by individuals or entities other than the electronic payment institution, for payments of government entities, and for other payments approved by the competent authority. However, the following conditions are not included:
+
+(1) Cases where the stored value funds can only be used to pay for transportation, which has been approved by the competent authority of transportation in charge.
+
+(2) Product (service) gift certificate that can only be used to request a person designated by the issuer for the delivery or supply of a product or service.
+
+(3) The stored value card issued by, or the electronic payment account opened by, all levels of government agencies, whose stored value funds are pre-deposited by that government agency as the payer.
+
+#### Article 4
+
+The items of business operated by electronic payment institutions shall be approved by the competent authority respectively in accordance with the scope specified below:
+
+\1. Collecting and making payments for actual transactions as an agent.
+
+\2.  Accepting stored value funds .
+
+\3. Domestic or international small-amount remittances.
+
+\4. Buying or selling foreign currencies and currencies issued by Mainland China, Hong Kong, or Macao (hereinafter referred to as foreign currencies) related to the businesses stipulated in the preceding three subparagraphs.
+
+An electronic payment institution may engage in the following associated and derived businesses as approved by the competent authority:
+
+\1. Provide contracted institutions with integrated service of payment-related information communication.
+
+\2. Provide contracted institutions with terminal devices sharing.
+
+\3. Provide information communication between users and between users and contracted institutions.
+
+\4. Provide electronic invoice systems and related value-added services.
+
+\5. Provide custody of payments for product (service) gift certificates or tickets and assist in services related to their issuance, sales, and settlement.
+
+\6. Provide reward points integration and redemption for payments collected or made for actual transactions as an agent.
+
+\7. Provide storage segmentations in a stored value card or applications for others’ use.
+
+\8. Provide the planning, establishment, maintenance, or consulting services for information systems and equipment related to businesses specified in the preceding paragraph and Subparagraph 1 to Subparagraph 7.
+
+\9. Other businesses approved by the competent authority.
+
+Where the items of business operated by electronic payment institutions require the approvals from other government authorities in charge, such approvals must be obtained before applying for the approval of the competent authority.
+
+Non-electronic payment institutions may, with the approval of the competent authority, engage in international small-amount remittances services with migrant workers as defined in Subparagraph 8 to Subparagraph 11, Paragraph 1, Article 46 of the Employment Service Act. The conditions and procedures for approval application, reasons for approval abolishment, qualifications of the responsible persons, limitations on the amount of  remittance, business management, business inspection and payment of fees, and other matters to be complied with shall be prescribed by the competent authority in consultation with the Central Bank and the Ministry of Labor.
+
+#### Article 5
+
+Non-licensed electronic payment institutions may not engage in businesses described in Paragraph 1 of the preceding article except for any of the following circumstances:
+
+\1. Where it is otherwise stipulated in this Act or other laws;
+
+\2. Where the institution operates businesses specified in Subparagraph 1, Paragraph 1 of the preceding article, the total balance of funds collected and made by the institution as an agent under its custody does not exceed a designated amount, and the institution does not engage in businesses specified in Subparagraph 2 or Subparagraph 3, Paragraph 1 of the preceding article.
+
+The methods of calculation and the designated amount of the total balance of funds collected and made as an agent specified in Subparagraph 2 of the preceding article shall be prescribed by the competent authority.
+
+Where conditions specified in Subparagraph 2, Paragraph 1 apply, the institution shall, within six months after the date that the total balance of funds collected and made as an agent under its custody exceeds the designated amount specified by the competent authority, apply for approval from the competent authority to operate as an electronic payment institution.
+
+The competent authority may, for the purpose of verifying the conditions specified in the proviso in Subparagraph 10 of Article 3, request specific natural persons, juridical persons, or groups to provide related information within a specified period or notify them to answer questions at the office of the competent authority. Where necessary, it may also request banks and other financial institutions to provide their deposit and other related information.
+
+#### Article 6
+
+Electronic payment institutions shall operate businesses in accordance with the following requirements:
+
+\1. Businesses that involve foreign exchange shall be handled in accordance with regulations of the Central Bank.
+
+\2. The actual transactions specified in Subparagraph 1, Paragraph 1, Article 4 may not involve transactions prohibited by other laws or regulations.
+
+\3. Only the institution that operates businesses under Subparagraph 1, Paragraph 1 of Article 4 may operate businesses under Subparagraph 2 or Subparagraph 3, Paragraph 1 of Article 4.
+
+\4. The clearing of inter-institution payments for operating electronic payment institutions businesses must be processed through an institution that operates inter-institution payment clearing businesses as specified in Paragraph 1 of Article 8. However, where the clearing involves cross-border payments, it may be processed through methods approved by the competent authority in consultation with the Central Bank.
+
+#### Article 7
+
+An electronic payment institution must be organized as a company limited by shares; Except for institutions approved by the competent authority to engage concurrently in other businesses, it shall engage exclusively in businesses provided under Subparagraphs of Paragraph 1 and Paragraph 2, Article 4.
+
+#### Article 8
+
+Except for conditions prescribed in the proviso in Subparagraph 4 of Article 6, an institution that operates inter-institution payment clearing services must be a licensed financial information service provider that operates inter-institution funds transfer clearing services as specified in Paragraph 1, Article 47-3 of the Banking Act.
+
+The financial information service provider prescribed in the preceding paragraph must maintain the sound operation of its information system. It shall eliminate any obstacle and maintain its system and related equipment as soon as possible. Where necessary, it shall adopt appropriate backup measures to minimize the impact of the system obstacle.
+
+Where the financial information service provider prescribed in Paragraph 1 must suspend the transmission, exchange, or processing operations due to an information system obstacle, it shall, except where there is a legitimate reason, notify the connected institutions, the competent authority, and the Central Bank in advance.
+
+## Chapter 2 Application and Approval
+
+#### Article 9
+
+The minimum paid-in capital of an electronic payment institution shall be NT$500 million except for any of the following circumstances:
+
+\1. Where the electronic payment institution does not operate businesses specified in Subparagraph 2 and Subparagraph 3, Paragraph 1, Article 4, the minimum paid-in capital shall be NT$100 million.
+
+\2. Where the electronic payment institution does not operate businesses specified in Subparagraph 3, Paragraph 1, Article 4, the minimum paid-in capital shall be NT$300 million.
+
+The competent authority may adjust the minimum paid-in capital in the preceding paragraph in view of socioeconomic circumstances and actual needs.
+
+The minimum paid-in capital in Paragraph 1 hereof shall be subscribed in full by the promoters at the time of incorporation.
+
+Where the paid-in capital of an electronic payment institution is below the adjusted amount stipulated by the competent authority pursuant to Paragraph 2 hereof, the competent authority shall order the institution to increase its capital within a specified time period; the competent authority may order the institution to suspend the business should the institution fail to complete the capital increase within the specified time period.
+
+#### Article 10
+
+An electronic payment institution shall not engage in businesses not approved by the competent authority.
+
+For electronic payment institutions that engage exclusively in related businesses (referred to as "specialized electronic payment institutions" hereunder), the competent authority will state the business items they may engage in on their business license, and shall indicate so on the business license if any of the business items involve cross-border operation.
+
+#### Article 11
+
+To apply for approval to engage exclusively in businesses under the subparagraphs of Paragraph 1 and Paragraph 2, Article 4 herein, the promoters or responsible persons shall submit the following documents to the competent authority:
+
+\1. Application form;
+
+\2. The roster of the promoters or directors and supervisors, and supporting documents;
+
+\3. The minutes of promoters' meeting or board of directors meeting;
+
+\4. A statement of the sources of funds;
+
+\5. The articles of incorporation;
+
+\6. A business plan describing the scope of businesses, principles and directions of business operations and specific implementation programs, market prospects, and risk and benefit analysis;
+
+\7. Profiles of general manager or the designated general manager;
+
+\8. Business bylaws and description of business procedures;
+
+\9. Agreements or templates therefor between relevant parties involved in the electronic payment business regarding their respective rights and obligations;
+
+\10. Description of information system and security management operations adopted for operating the electronic payment institution business;
+
+\11. Description of CPA-certified clearing and settlement mechanism for the business transactions of electronic payment institutions;
+
+\12. Description of CPA-certified payment safeguard mechanism and the legal opinion or certification report of the trust agreement, performance guarantee agreement, or templates therefor reviewed by an attorney or certified by a CPA;
+
+\13. A budget assessment certified by a CPA as sufficient to maintain the appropriate operation of the information system and businesses in the next five years; and
+
+\14. Other documents as required by the competent authority.
+
+The business bylaws referred to in Subparagraph 8 of the preceding paragraph shall state the following items:
+
+\1. Organization structure and responsibilities of departments;
+
+\2. Personnel allocation, management, and training;
+
+\3. Internal control system and internal audit system;
+
+\4. Internal control and audit system for anti-money laundering and counter-terrorism financing;
+
+\5. Identity verification mechanism for users and contracted institutions;
+
+\6. Accounting systems;
+
+\7. Business operation principles and policies;
+
+\8. Consumer protection measures and dispute settlement procedures;
+
+\9. Operational manual and division of powers and responsibilities; and
+
+\10. Other items as required by the competent authority.
+
+Where banks and Chunghwa Post Co., Ltd. (referred to as "Chunghwa Post" hereunder) apply for approval to concurrently operate the businesses under the subparagraphs of Paragraph 1 and Paragraph 2, Article 4 herein, they shall submit documents prescribed under Subparagraph 1, Subparagraph 5, Subparagraph 6, Subparagraph 8 to Subparagraph 11, Subparagraph 13, and Subparagraph 14 of Paragraph 1 hereof and the meeting minutes of their board of directors to the competent authority.
+
+Where the bylaws, procedures, or the rights and obligations between the relevant parties regarding the business operated by an electronic payment institution differ from the contents of the business plan originally approved by the competent authority, and such difference has material impact on consumer rights and interests, the electronic payment institution shall submit the documents prescribed in Subparagraph 6, Subparagraph 8, and Subparagraph 9, Paragraph 1 to apply for approval from the competent authority
+
+The competent authority shall consult the Central Bank before granting approval under Paragraph 1, Paragraph 3, and the preceding paragraph; in cases involving foreign exchange businesses, it shall obtain the Central Bank’s consent before approving it.
+
+#### Article 12
+
+Where an application for approval pursuant to Paragraph 1, Paragraph 3, or Paragraph 4 of the preceding article has any of the following situations, the competent authority may reject the application:
+
+\1. The minimum paid-in capital does not conform to the provision set forth in Paragraph 1 and Paragraph 2, Article 9.
+
+\2. The content of the application documents contains false or untrue information.
+
+\3. The applicant fails to correct within the period specified by the competent authority to correct relevant matters.
+
+\4. The business plan lacks specifics, or its implementation is apparently difficult.
+
+\5. The applicant lacks the professional expertise to operate the business, which makes business operations difficult.
+
+\6. There is a national security concern.
+
+\7. There are other concerns that the applicant will be unable to operate its business soundly.
+
+#### Article 13
+
+A specialized electronic payment institution shall, within six (6) months after obtaining the approval, submit the following documents to the competent authority to apply for the issuance of a business license:
+
+\1. An application for a business license;
+
+\2. Documents evidencing company registration;
+
+\3. CPA audit report certifying that the capital has been paid in full;
+
+\4. Roster of shareholders;
+
+\5. Roster of directors and minutes of the board of directors meeting; roster of managing directors and minutes of the board of managing directors meeting, if the institution has managing directors;
+
+\6. Roster of supervisors and the minutes of supervisors' meeting; and
+
+\7. Other documents as required by the competent authority.
+
+Before the deadline for application prescribed in the preceding paragraph expires, the institution may apply for the extension, provided it has justified reasons. Such extension may not exceed three (3) months and is limited to one (1) time.
+
+Where a specialized electronic payment institution fails to apply for a business license within the period provided in Paragraph 1 or the preceding paragraph hereof, the competent authority may revoke its approval.
+
+After a specialized electronic payment institution has obtained a business license, if its application is found containing false information of a serious nature, the competent authority shall revoke the granted approval and business license and order the institution to turn in its business license within a specified period. The competent authority shall cancel the business license if the institution fails to turn in the license within the specified period.
+
+A specialized electronic payment institution shall commence business operation within six (6) months after the competent authority grants the business license. However, it may extend the deadline for commencing business operation, provided the extension has justified reasons and is approved by the competent authority. Such extension may not exceed six (6) months and is limited to one (1) time.
+
+Where a specialized electronic payment institution fails to commence business operations within the period prescribed in the preceding paragraph, the competent authority may revoke the granted approval and business license and order the institution to turn in its business license within a specified period. The competent authority may cancel the business license if the institution fails to turn in the license within the specified period.
+
+Where the matters stated in the business license of a specialized electronic payment institution change, the institution shall obtain the approval of the competent authority and apply for the renewal of business license.
+
+#### Article 14
+
+An electronic payment institution shall notify the competent authority in writing within three (3) business days from the date it commences operation.
+
+#### Article 15
+
+A foreign institution may not operate the business prescribed in the subparagraphs of Paragraph 1, Article 4 herein within the Republic of China unless it has applied and obtained approval to incorporate an electronic payment institution according to this Act.
+
+Where an institution collaborates with or assists a foreign institution to engage in activities inside the Republic of China associated with any businesses specified in Paragraph 1, Article 4 herein, it shall obtain the approval of the competent authority. Where an institution obtains the competent authority’s approval, if it subsequently collaborates with or assists additional foreign institutions from the same country or region to engage in activities inside the Republic of China associated with any businesses specified in Paragraph 1, Article 4 herein, it shall report the competent authority and the Central Bank for records within five (5) business days from the date it commences operation.
+
+Regulations governing the institutions to be approved by the competent authority  and their qualifications, required documentation for application or reporting for records, the scope and  modes of collaborating with or assisting  foreign institutions in engaging in activities inside the Republic of China associated with any business prescribed in Paragraph 1, Article 4 herein, operations management and other compliance matters shall be prescribed by the competent authority in consultation with the Central Bank.
+
+A Mainland Area institution applying for approval to incorporate an electronic payment institution and any person collaborating with or assisting a payment institution in the Mainland Area to engage in activities inside the Republic of China associated with any business prescribed in Paragraph 1, Article 4 herein shall follow the provisions in Article 72 and Article 73 of the Act Governing Relations between the People of the Taiwan Area and the Mainland Area.
+
+The competent authority shall assist domestic electronic payment institutions in developing foreign collaboration businesses.
+
+## Chapter 3 Supervision and Administration
+
+### Section 1 Specialized Electronic Payment Institutions
+
+#### Article 16
+
+The balance of stored value funds deposited by each user and the amount of the domestic and international small-amount remittance made by each user with a specialized electronic payment institution shall be prescribed by the competent authority in consultation with the Central Bank.
+
+Where necessary, the competent authority may limit the transaction amount of businesses prescribed in Paragraph 1, Article 4 herein operated by specialized electronic payment institutions, and the amounts of limit shall be determined by the competent authority in consultation with the Central Bank.
+
+#### Article 17
+
+A specialized electronic payment institution shall deposit the funds received from users into a dedicated deposit account in the same currency opened by it with a financial institution and accurately record the amounts of payment and transfer of funds in payment accounts.
+
+The financial institution prescribed in the preceding paragraph shall manage the deposit, transfer, withdrawal, and utilization of funds deposited by a specialized electronic payment institution and periodically report the relevant data of the dedicated deposit account to the competent authority.
+
+Regulations governing restrictions on the opening of dedicated deposit accounts prescribed in the first paragraph hereof, its management, operating methods, and other compliance matters shall be prescribed by the competent authority.
+
+#### Article 18
+
+Except when court judgments or other regulations provide otherwise, a specialized electronic payment institution shall carry out the transfer of payments according to the payment instructions agreed by users in advance or instantly without any delay, and nor shall it accept a request from a third party for the suspension of payment or remittance, or other similar requests.
+
+#### Article 19
+
+When a user intends to withdraw the funds or a specialized electronic payment institution remits funds to a contracted institution, the specialized electronic payment institution shall not pay by cash and shall transfer the funds into a same-currency deposit account of the user or contracted institution in a financial institution. However, where the competent authority has other regulations, such regulations shall apply.
+
+When a user intends to store value in a foreign currency, the specialized electronic payment institution shall transfer the stored value funds from the deposit account of the user's deposit account in a financial institution or the electronic payment account of the same electronic payment institutions, or methods approved by the competent authority in consultation with the Central Bank.
+
+#### Article 20
+
+A specialized electronic payment institution shall deposit a sufficient amount of reserve when its received NTD and foreign currency funds combined reach a certain amount. Regulations governing the certain amount, percentage for depositing the reserve, method of deposit, adjustment, audit, and other compliance matters shall be prescribed by the Central Bank in consultation with the competent authority.
+
+#### Article 21
+
+Specialized electronic payment institutions shall entrust to a trustee in full or obtain a full performance guarantee from a bank for the stored value funds, deducting the required deposited reserve, and funds collected/paid as an agent.
+
+A specialized electronic payment institution shall appoint an accountant to conduct quarterly audits of the state of compliance with the preceding paragraph and submit the accountant's audit report to the competent authority for record within one (1) month after the end of each quarter.
+
+The term " entrust to a trustee" referred to in Paragraph 1 hereof means entering into a trust deed with the financial institution where it opens the dedicated deposit account to designate the dedicated deposit account as a trust account.
+
+The mandatory and prohibitory provisions to be included in the trust agreement shall be prescribed by the competent authority.
+
+The provisions of the trust agreement referred to in Paragraph 3 hereof which violate the mandatory and prohibitory provisions announced by the competent authority are invalid. Mandatory provisions announced by the competent authority that are not included in the trust agreement shall still constitute a part of the agreement.
+
+The term "full performance guarantee from a bank" referred to in Paragraph 1 hereof means entering into a full performance guarantee agreement with a bank where the bank undertakes the performance guarantee responsibility for the specialized electronic payment institution towards its users.
+
+A specialized electronic payment institution shall complete the contract renewal or enter a new contract two (2) months before the expiration of the trust agreement or the performance guarantee agreement and report by letter to the competent authority for record.
+
+A specialized electronic payment institution that fails to conform to the preceding paragraph shall not accept new users’ registration, enter into contracts with contracted institutions, or accept more funds from existing users.
+
+#### Article 22
+
+A specialized electronic payment institution may not draw or instruct the financial institution at which it opens its dedicated deposit account to draw on the payment funds, except for any of the following circumstances:
+
+\1. To transfer funds according to the payment instruction of a user.
+
+\2. Users withdrawing funds or transferring funds to a contracted institution.
+
+\3. To utilize payment funds in accordance with Paragraph 2 or Paragraph 3 hereof and to dispense or collect profits or other revenue derived thereof.
+
+A specialized electronic payment institutions may utilize the payment funds or instruct the financial institution at which it opens its dedicated deposit account to utilize it up to a certain percentage in any of the following manners:
+
+\1. Bank deposits.
+
+\2. Purchase government bonds.
+
+\3. Purchase treasury bills or bank negotiable certificates of deposit.
+
+\4. Purchase other financial products approved by the competent authority.
+
+The financial institution at which the dedicated deposit account is opened shall dispense the profits or other revenue derived from the trust property, less costs, necessary expenses, and loss, to the specialized electronic payment institution according to the trust agreement in the year of income generation.
+
+A specialized electronic payment institution shall set aside a certain percentage of the profits or other revenues derived from the utilization of payment funds and deposit them in a dedicated account opened with the financial institution at which the dedicated deposit account is opened to pay back users or use it for other purposes prescribed by the competent authority.
+
+The certain percentage referred to in Paragraph 2 hereof and the preceding paragraph shall be prescribed by the competent authority.
+
+When the total value of payment funds utilized by a specialized electronic payment institution in accordance with Paragraph 2 hereof, as assessed according to the generally accepted accounting principles, falls below the original paid-in amount, the institution shall immediately make up the shortfall.
+
+A specialized electronic payment institution shall appoint an accountant to conduct audits of the state of compliance with Paragraph 1, Paragraph 2, Paragraph 4 hereof, and the preceding paragraph every half business year, and submit the accountant's audit report to the competent authority for record in two (2) months after the end of every half business year.
+
+The claims of the users and contracted institutions over their payment funds shall have precedence over the claims of other creditors of the specialized electronic payment institutions.
+
+#### Article 23
+
+For onshore businesses conducted by specialized electronic payment institutions, the payments between contracted institutions shall be settled and cleared in NTD.
+
+For cross-border businesses, businesses specified in Subparagraph 4, Paragraph 1, Article 4 hereof, or related activities approved by the competent authority in accordance with Paragraph 2, Article 15 operated by specialized electronic payment institutions, the payments between onshore users and contracted institutions may be settled and cleared in NTD or foreign currency, whereas offshore payments shall be collected, paid, settled, and cleared in foreign currency.
+
+Specialized electronic payment institutions that operate businesses specified in the preceding paragraph and the subparagraphs of Paragraph 1 and Paragraph 2, Article 4 involving exchanges between different currencies shall disclose the exchange rates offered by the bank which they use as reference and the names of cooperating banks on their websites.
+
+#### Article 24
+
+If deemed necessary, the competent authority may limit the multiple of the total balance of funds received by specialized electronic payment institutions to the institution's paid-in capital or net worth.
+
+When the multiple of the total balance of funds received by a specialized electronic payment institution to the institution's paid-in capital or net worth does not meet the limitation set forth by the competent authority pursuant to the preceding paragraph, the competent authority may order the institution to increase capital or reduce the total balance of funds received within a specified period, and other dispositions or restrictions.
+
+#### Article 25
+
+Specialized electronic payment institutions shall establish a user and contracted institution identity verification mechanism and retain the data obtained in the identification process. The user and contracted institution identification process shall adopt a risk-based approach and include a review of beneficial owners.
+
+The retention period for data obtained in the user and contracted institution identification process referred to in the preceding paragraph shall be at least five (5) years after the termination of the business relationship.
+
+Regulations governing the manner of establishment and process for user and contracted institution identification mechanism referred to in Paragraph 1 hereof, its management, the scope of data obtained in the user and contracted institution identification process prescribed in the preceding paragraph, and other related matters shall be prescribed by the competent authority in consultation with the Ministry of Justice and the Central Bank.
+
+#### Article 26
+
+Specialized electronic payment institutions shall retain necessary transaction records, including the user's stored value card numbers, electronic payment account numbers, transaction items, dates, amounts, and currencies. The same applies to any uncompleted transactions.
+
+The necessary transaction records referred to in the preceding paragraph shall be retained for at least five (5) years after the termination or completion of the transaction. Other regulation that requires a longer retention period shall apply.
+
+The regulations on matters such as the scope and method of retaining necessary transaction records shall be prescribed by the competent authority in consultation with the Ministry of Justice, the Ministry of Finance, and the Central Bank.
+
+The tax authority or the customs may, out of business needs, request a specialized electronic payment institution to provide necessary transaction records prescribed in Paragraph 1 hereof and data obtained in the user and contracted institution identification process provided in Paragraph 1 of the preceding article, which the specialized electronic payment institution may not refuse. The regulations governing the scope of the necessary transaction records or data, methods of provision, the determination of the refusal to provide information, and other related matters shall be prescribed by the Ministry of Finance in consultation with the competent authority.
+
+#### Article 27
+
+The reporting of currency transactions exceeding a certain amount or suspicious money laundering transactions by specialized electronic payment institutions and the exemption from confidentiality obligations and penalties for violating the reporting regulations of specialized electronic payment institutions and related personnel shall follow the regulations under the Money Laundering Control Act.
+
+#### Article 28
+
+A specialized electronic payment institution shall obtain the approval of the competent authority to incorporate overseas branch institution. The competent authority shall consult the Central Bank and obtain the consent before granting the approval.
+
+#### Article 29
+
+Specialized electronic payment institutions shall establish mechanisms for handling customer complaints and dispute settlement.
+
+#### Article 30
+
+The terms and conditions of the standard contract prepared by a specialized electronic payment institution for its electronic payment business shall comply with the mandatory and prohibitory provisions contained in the standard form contract promulgated by the competent authority. The protection of user rights and interests therein shall not be less than those contained in the template of the standard form contract for electronic payment businesses prescribed by the competent authority.
+
+#### Article 31
+
+Specialized electronic payment institutions shall keep the transaction data and other related information of the users and contracted institutions confidential unless other laws or the competent authority provides otherwise.
+
+#### Article 32
+
+A specialized electronic payment institution shall ensure the privacy and security of the transaction data and maintain the accuracy of data transmission, exchange, or processing.
+
+A specialized electronic payment institution shall establish an information system that meets certain requirements. The standards for information system and security management procedure guidelines of its businesses shall be prepared by the trade association specified in Paragraph 1 of Article 44 or the Bankers Association of the Republic of China ("Bankers Association"), and reported to the competent authority for approval; the same applies to their amendments.
+
+#### Article 33
+
+A specialized electronic payment institution shall establish an internal control and audit system; regulations governing the objectives, principles, policies, operating procedures, qualification requirements for internal auditors, the scope of internal control audits undertaken by appointed certified public accountants, and other compliance matters shall be prescribed by the competent authority.
+
+#### Article 34
+
+Specialized electronic payment institutions shall report the data related to their businesses in accordance with the rules prescribed by the competent authority and the Central Bank.
+
+Specialized electronic payment institutions shall periodically submit detailed schedule of their account operations to the financial institutions at which they open their dedicated deposit account for these institutions to check the deposit, transfer, drawing and utilization of the payment funds.
+
+#### Article 35
+
+A specialized electronic payment institution shall prepare the business report and CPA-audited and certified financial report or other financial documents designated by the competent authority within four (4) months after the end of a fiscal year, and report the same to the competent authority and announce them in fifteen (15) days after those reports have been passed in the board of directors' meeting.
+
+#### Article 36
+
+Rules governing the business management and operating mode of specialized electronic payment institutions, user and contracted institution management, ways for users’ payment instructions, procedures for processing electronic payment accounts or stored value cards involving users’ suspiciously illegal or obviously irregular transactions, applications for permission to set up offshore branch institutions and their management, conditions for mandatory public issuance of stock, business outlets, outsourcing operations, restrictions on investment, approval and reporting of material financial, business, and operational matters, and other compliance matters shall be prescribed by the competent authority in consultation with the Central Bank.
+
+The guidelines for the qualification requirements for the responsible persons of specialized electronic payment institutions, restrictions on concurrent posts, training, and other compliance matters shall be prescribed by the competent authority.
+
+A person failing to meet the qualification requirements set forth in the guidelines prescribed in the preceding paragraph may not serve as a responsible person of a specialized electronic payment institution; where such person has taken the position, he/she shall be discharged.
+
+#### Article 37
+
+The competent authority may at any time appoint a designee or entrust an appropriate institution to examine the business, finance, or other relevant matters of a specialized electronic payment institution or order the specialized electronic payment institution to submit financial reports, inventory of property, or other relevant information and reports within a specified period.
+
+If necessary, the competent authority may designate or request the specialized electronic payment institution to appoint professional experts or technical personnel to inspect the items, reports or information subject to examination according to the preceding paragraph and submit a report to the competent authority. The expenses thus incurred shall be borne by the inspected institution.
+
+#### Article 38
+
+If a specialized electronic payment institution violates laws or regulations, or its articles of incorporation, or engages in activities suspected to hinder sound operation, the competent authority may order it to correct or improve within a specified period and may, depending on the severity of the circumstances, take the following disciplinary actions:
+
+\1. Revoke the resolutions adopted at the shareholders' meetings, board of directors' meetings or other statutory meetings;
+
+\2. Repeal the approval for all or part of the businesses of the specialized electronic payment institution;
+
+\3. Order the specialized electronic payment institution to relieve its managers or employees of their offices;
+
+\4. Discharge its directors or supervisors or suspend them from their duties for a certain period;
+
+\5. Order the specialized electronic payment institution to set aside a certain amount of reserves or increase its capital; and
+
+\6. Take other necessary disciplinary actions.
+
+If the competent authority discharges a director or supervisor of a specialized electronic payment institution pursuant to Subparagraph 4 of the preceding paragraph, it shall notify the competent authority of company registration to cancel the registration of such director or supervisor.
+
+The two preceding paragraphs shall apply mutatis mutandis to non-electronic payment institutions that operate international small-amount remittances and related foreign currency trading businesses prescribed in Subparagraph 4, Article 4 as approved by the competent authority and violate laws or regulations, or the articles of incorporation, or engage in activities suspected to hinder sound operations.
+
+#### Article 39
+
+Where the accumulated loss of a specialized electronic payment institution exceeds one-half (1/2) of its paid-in capital, the institution shall promptly report the financial statements and reasons for the loss to the competent authority in writing.
+
+The competent authority may require the specialized electronic payment institution in prescribed in the preceding paragraph to replenish its capital within a specified period or restrict its business operations; the competent authority may order the specialized electronic payment institution to cease its operation if the institution fails to replenish its capital within the specified period.
+
+#### Article 40
+
+If the business or financial conditions of a specialized electronic payment institution deteriorate significantly so that it is unable to pay its debts or that the interests of users might be adversely affected, the competent authority may notify the relevant authorities or institutions to prohibit the specialized electronic payment institution, its responsible persons, or employees from transferring, delivering, hypothecating or exercising other rights against their property, request immigration authorities to prohibit the responsible persons or employees from leaving the country with a letter, or order the specialized electronic payment institution to transfer its businesses to other electronic payment institutions.
+
+When a specialized electronic payment institution is unable to continue its operation due to dissolution business cessation, business suspension, approval revocation or abolition, or ordered dissolution, it shall contact other electronic payment institution(s) to acquire its business, subject to the approval of the competent authority.
+
+Where a specialized electronic payment institution fails to follow the provisions in the preceding paragraph, the competent authority shall designate other electronic payment institution(s) to acquire its businesses.
+
+#### Article 41
+
+To prevent specialized electronic payment institutions from damaging the rights and interests of consumers by failing to entrust the funds to a trustee or obtain full performance guarantee from a bank, specialized electronic payment institutions shall set aside funds to establish a sinking fund.
+
+When a specialized electronic payment institution runs into financial difficulty, thereby becoming insolvent and breaching its contract, the sinking fund may, in the capacity of a third person, repay the consumers and, from the time of making repayment, assume the rights of the consumers within the extent of repayment.
+
+Regulations governing the organization, management, repayment, and other matters of the sinking fund shall be prescribed by the competent authority.
+
+Each specialized electronic payment institution shall set aside a certain percentage of its business revenue to the sinking fund; the certain percentage shall be prescribed by the competent authority in consideration of the economic and business conditions and the affordability of each specialized electronic payment institution.
+
+### Section 2 Dual-status Electronic Payment Institutions
+
+#### Article 42
+
+Article 16, Article 18, Article 19, Paragraph 8 of Article 22, Paragraph 1 and Paragraph 2 of Article 23, Article 25, Article 26, Article 29 to Article 32, Paragraph 1 of Article 34, Paragraph 1 of Article 36, Article 37, Paragraph 1 and Paragraph 2 of Article 38, Article 40, and Article 41 shall apply mutatis mutandis to banks and Chunghwa Post that concurrently operate the businesses prescribed in the subparagraphs of Paragraph 1 and Paragraph 2, Article 4 herein.
+
+#### Article 43
+
+Banks and Chunghwa Post that concurrently operate the business under Subparagraph 2, Paragraph 1 of Article 4 herein shall set aside reserves from the stored value funds in accordance with the Banking Act or other relevant laws or regulations; the stored value funds are insured subjects under the Deposit Insurance Act.
+
+## Chapter 4 Trade Association
+
+#### Article 44
+
+Electronic payment institutions shall join a trade association designated by the competent authority or the Electronic Payment Committee of the Bankers Association of the Republic of China before commencing operation.
+
+The charter of the trade association designated by the competent authority and bylaws and meeting rules governing of the Electronic Payment Committee of the Bankers Association referred to in the preceding paragraph shall be submitted to the competent authority for approval. The same applies to their subsequent amendments
+
+The businesses of the trade association designated by the competent authority referred to in Paragraph 1 hereof shall be subject to the guidance and supervision of the competent authority.
+
+#### Article 45
+
+The trade association designated by the competent authority or the Electronic Payment Committee of the Bankers Association shall undertake the following activities to promote the sound operations of members and uphold the reputation of the industry:
+
+\1. Assist the competent authority in promoting and studying policies and laws and regulations related to electronic payment institution businesses;
+
+\2. Prepare and periodically review the bylaws for common businesses or self-disciplinary pacts and report them to the competent authority for record; the same applies to their subsequent amendments.
+
+\3. Provide necessary guidance to members with respect to the electronic payment business they operate or mediate disputes therebetween; and
+
+\4. Undertake other matters designated by the competent authority.
+
+Electronic payment institutions shall observe the business bylaws and self-disciplinary pacts referred to in Subparagraph 2 of the preceding paragraph.
+
+## Chapter 5 Penal Provisions
+
+#### Article 46
+
+Non-licensed electronic payment institutions that engage in operating the businesses prescribed in Subparagraphs 2, Paragraph 1 of Article 4 herein shall be punishable by imprisonment for not less than three (3) years and not more than ten (10) years and, in addition thereto, a fine of not less than NT$20,000,000 and not more than NT$500,000,000.
+
+Those that fail to apply to the competent authority for approval in accordance with Paragraph 3 of Article 5 herein or have applied for approval according to rules but were rejected by the competent authority and still operate the businesses prescribed in Subparagraph 1, Paragraph 1 of Article 4 herein shall be punishable by imprisonment for not more than five (5) years and, in addition thereto, a fine of not more than NT$100,000,000.
+
+Should a representative, agent, employee, or other professional of a juridical person commit the offenses prescribed in the preceding two paragraphs in the operation of their businesses, the juridical person’s acting responsible person(s) shall be punished, and the juridical person shall be subject to the fines prescribed in the preceding two paragraphs.
+
+#### Article 47
+
+When a specialized electronic payment institution violates Paragraph 1 of Article 21 or Paragraph 1 of Article 22 herein, its acting responsible person(s) shall be punishable by imprisonment for not more than seven (7) years and, in addition thereto, a fine of not more than NT$500,000,000.
+
+In cases described in the preceding paragraph, its acting responsible person(s) shall be punished, and the specialized electronic payment institution shall be subject to the fine prescribed in the preceding paragraph.
+
+#### Article 48
+
+Violation of Paragraph 2 of Article 15 herein by collaborating with or assisting foreign institutions to engage in activities inside the Republic of China associated with any business under Paragraph 1 of Article 4 herein without the approval of the competent authority shall be punishable by imprisonment for not more than three (3) years, detention or in lieu thereof, or in addition thereto, a fine of not more than NT$5,000,000.
+
+Should a representative, agent, employee, or other professional of a juridical person commit the offenses prescribed in the preceding paragraph in operating their businesses, the juridical person’s acting responsible person(s) shall be punished, and the juridical person shall be subject to the fines prescribed in the preceding paragraph.
+
+#### Article 49
+
+Those who spread rumors or employ fraud to damage the credit of an electronic payment institution shall be punishable by imprisonment for not more than three (3) years, detention or in lieu thereof, or in addition thereto, a fine of not more than NT$5,000,000.
+
+#### Article 50
+
+Any of the following offenses shall be subject to a fine of not less than NT$500,000 and not more than NT$10,000,000:
+
+\1. Violation of Subparagraph 1 and Subparagraph 2 of Article 25, or Article 42 to which Paragraph 1 and Paragraph 2 of Article 25 apply mutatis mutandis, or violation of the regulations governing the manner of establishment, process, and management of the identification mechanism for users and contracted institutions prescribed pursuant to Paragraph 3 of Article 25, or Article 42 herein to which Paragraph 3 of Article 25 applies mutatis mutandis.
+
+\2. Violation of Subparagraph 1 and Subparagraph 2 of Article 26, or Article 42 to which Paragraph 1 and Paragraph 2 of Article 26 apply mutatis mutandis, or violation of the regulations governing the scope or methods for retaining necessary transaction records prescribed pursuant to Paragraph 3 of Article 26 or Article 42 to which Paragraph 3 of Article 26 applies mutatis mutandis.
+
+#### Article 51
+
+Any of the following offenses shall be subject to a fine of not less than NT$600,000 and not more than NT$3,000,000:
+
+\1. Violation of Subparagraph 2 to 4 of Article 6 herein.
+
+\2. Violation of Article 7 by not exclusively operating the businesses under subparagraphs of Paragraph 1 and Paragraph 2, Article 4 herein.
+
+\3. Violation of Paragraph 1 of Article 10 herein.
+
+\4. Violation of regulations prescribed pursuant to Paragraph 3 of Article 15 herein, governing methods or the operation management of collaborating with or assisting foreign institutions to engage in activities inside the Republic of China associated with businesses under Paragraph 1, Article 4 herein.
+
+\5. Violation of the amounts prescribed by the competent authority in accordance with Paragraph 1 of Article 16, or Article 42 herein to which Paragraph 1 of Article 16 applies mutatis mutandis, or violation of the limits set by the competent authority in accordance with Paragraph 2 of Article 16, or Article 42 herein to which Paragraph 2 of Article 16 applies mutatis mutandis.
+
+\6. Violation of Paragraph 1 of Article 17, or violation of regulations prescribed pursuant to Paragraph 3 of Article 17, governing the opening restrictions, management, or operating methods related to dedicated deposit accounts.
+
+\7. Violation of Article 18 or Article 42 herein to which Article 18 applies mutatis mutandis by delaying the transfer of payment funds or accepting requests from a third party for suspending the payment or remittance, or other similar requests.
+
+\8. Violation of Article 19 or Article 42 herein to which Article 19 applies mutatis mutandis.
+
+\9. Violation of Paragraph 7 or Paragraph 8 of Article 21 by not completing contract renewal or entering a new contract, or reporting by letter to the competent authority for records within the specified period, or by accepting the registration of new users, entering into contracts with contracted institutions, or accepting more payment funds from existing users.
+
+\10. Violation of Paragraph 4 or Paragraph 6 of Article 22 herein.
+
+\11. Violation of Paragraph 1 of Article 23, Article 42 herein to which Paragraph 1 of Article 23 applies mutatis mutandis, or violation of Paragraph 2 of Article 23, Article 42 herein to which Paragraph 2 of Article 23 applies mutatis mutandis by failing to receive, pay, clear, or settle offshore funds in foreign currency.
+
+\12. Violation of Article 31 or Article 42 herein to which Article 31 applies mutatis mutandis.
+
+\13. Violation of Paragraph 1 of Article 32 or Article 42 herein to which Paragraph 1 of Article 32 applies mutatis mutandis.
+
+\14. Violation of Article 33 herein by not establishing an internal control and audit system, or not implementing it vigorously.
+
+\15. Violation of Article 34 or Article 42 herein to which Paragraph 1 of Article 34 applies mutatis mutandis.
+
+\16. Violation of Article 35.
+
+\17. Violation of regulations prescribed pursuant to Paragraph 1 of Article 36 or Article 42 herein to which Paragraph 1 of Article 36 applies mutatis mutandis, governing the business management and operating mode, user and contracted institution management, ways for users’ payment instructions, procedures for processing electronic payment accounts or stored value cards involving suspiciously illegal or obviously irregular transactions, management of offshore branch institutions, conditions for mandatory public issuance of stock, business outlets, outsourcing operation, restrictions on investment, and approval or reporting of significant financial, business, and operational matters.
+
+\18. Violation of guidelines prescribed pursuant to Paragraph 2 of Article 36, governing the qualification requirements and restrictions on concurrent posts for responsible persons by a responsible person of a specialized electronic payment institution.
+
+\19. Violation of Paragraph 1 of Article 41 or Article 42 herein to which Paragraph 1 of Article 41 applies mutatis mutandis by not setting aside funds.
+
+Where the concurrent post prescribed in Subparagraph 18 of the preceding paragraph is appointed by a specialized electronic payment institution, the penalized entity shall be the specialized electronic payment institution.
+
+#### Article 52
+
+Where the responsible person or employee of an electronic payment institution commits any of the following acts when the competent authority, pursuant to Article 37 or Article 42 to which Article 37 applies mutatis mutandis, appoints a designee or entrusts an appropriate institution, or designates professional experts or technical personnel to examine or inspect its business, finance or other relevant matters, or order the electronic payment institution to submit financial reports, inventory of property, or other relevant information and reports within a specified period, the responsible person or employee shall be subject to a fine of not less than NT$600,000 and not more than NT$3,000,000:
+
+\1. Refusing to be examined;
+
+\2. Concealing or destroying account books or documents related to business or financial conditions;
+
+\3. Refusing to reply or providing false information to inquiries made by the examiner or inspector without justifiable reasons; or
+
+\4. Failing to submit financial reports, inventory of property or other relevant information or reports within the specified period, or providing inaccurate or incomplete information, or failing to pay inspection fees within the prescribed period.
+
+#### Article 53
+
+Any of the following offenses shall be subject to a fine of not less than NT$200,000 and not more than NT$1,000,000:
+
+\1. Violation of regulations governing the qualifications of responsible persons, limitations on the amount of remittances, business management, and business inspection by those approved by the competent authority to operate businesses prescribed in Paragraph 4 of Article 4.
+
+\2. Violation of Paragraph 4 of Article 5 by refusing to provide information or failing to answer questions at the office of the competent authority after receiving a notice.
+
+\3. Violation of Paragraph 4 of Article 11 herein.
+
+\4. Violation of Paragraph 7 of Article 13 herein.
+
+\5. Violation of Article 14 herein.
+
+\6. Violation of Paragraph 2 of Article 21 herein.
+
+\7. Violation of Paragraph 7 of Article 22 herein.
+
+\8. Violation of Paragraph 3 of Article 23 herein.
+
+\9. Violation of Article 28 herein.
+
+\10. Violation of Article 30 or Article 42 herein to which Article 30 applies mutatis mutandis by providing protections for user rights and interests that are less than those contained in the template of the standard form contract for electronic payment institution business prescribed by the competent authority.
+
+\11. Violation of Paragraph 1 of Article 39 herein.
+
+\12. Violation of Paragraph 1 of Article 44 by operating without joining a trade association.
+
+#### Article 54
+
+Where an electronic payment institution violates Article 20 herein by not depositing sufficient amount of reserve, the Central Bank may charge the institution, on the portion of the shortfall, a penalty interest at the lowest accommodation rate announced by the Central Bank plus five percent (5%) interest per annum; where the violation is of a serious nature, the Central Bank may impose a fine of not less than NT$200,000 and not more than NT$1,000,000.
+
+Where an electronic payment institution violates Paragraph 4 of Article 26 or Article 42 to which Paragraph 4 of Article 26 applies mutatis mutandis by refusing to provide necessary transaction records or information without a legitimate reason, the tax authorities or the customs may impose a fine of not less than NT$200,000 and not more than NT$1,000,000 and order it to provide such records or information within a specified period. Where it fails to provide the records or information within a specified period, it may be fined consecutively for each violation.
+
+#### Article 55
+
+Any act to be fined under this Act may be exempted if it is of a trivial nature or if the individual was ordered to make improvements within a specified period and the improvements have been completed.
+
+#### Article 56
+
+For electronic payment institutions that have been penalized in accordance with this Act but fail to take corrective actions within the specified period as ordered by the competent authority or the Central Bank, the competent authority or the Central Bank may mete out penalties each time a violation occurs. Where the violation is of a serious nature, the competent authority or the Central Bank may order the electronic payment institution to replace its responsible persons within a specified period, cease its business, or abolish its approval.
+
+## Chapter 6 Supplementary Provisions
+
+#### Article 57
+
+To promote financial inclusion and develop financial technology, persons, not limited to electronic payment institutions, may apply for the innovative experiment of electronic payment institution businesses pursuant to the Financial Technology Development and Innovative Experimentation Act, not limited to electronic payment institutions.
+
+The innovative experiments referred to in the preceding paragraph may be exempted from the requirements of the Act within the period and scope approved by the competent authority.
+
+The competent authority shall make reference to the situation of the innovative experiments specified in Paragraph 1 for reviewing the appropriateness of the Act and relevant financial laws.
+
+#### Article 58
+
+Electronic stored value card issuers that have been approved by the competent authority before the promulgation of the amendments to the Act on December 25, 2020 are deemed to have obtained approval under Paragraph 1, Article 11 hereof.
+
+Before the promulgation of the amendments to the Act on December 25, 2020, if an electronic payment institution approved by the competent authority in accordance with this Act or an electronic stored value card issuer approved to be incorporated in accordance with the Act Governing Issuance of Electronic Stored Value Cards does not meet the regulations specified in this Act, it shall submit a modified business plan that meets the relevant provisions of this Act and a self-evaluation report to the competent authority for records within six (6) months of the promulgation of the amendment.
+
+Before the promulgation of the amendments to the Act on December 25, 2020, if a non-bank electronic stored value card issuer or a specialized electronic payment institution approved by the competent authority undergoes changes to the matters stated on its business license, it shall submit an application, the original business license, and other documents specified by the competent authority and apply for changing its business license from the competent authority within six (6) months of the promulgation of the amendment.
+
+#### Article 59
+
+When the competent authority receives the application for records pursuant to Paragraph 2 of the preceding article and finds that the applicant's business management or operating method does not meet the regulations specified in this Act, the competent authority shall order the applicant to make adjustment within a specified period.
+
+#### Article 60
+
+The date of enforcement shall be decided by the Executive Yuan.
+
+## History
+
+\1. Promulgated on February 4, 2015
+
+\2. Articles 53 deleted and articles 58 amended and promulgated on June 14, 2017
+
+\3. Articles 3-1 amended on January 31, 2018
+
+\4. A part or all parts of the provisions of the Act have not taken effect. Scheduled effective date: July 1, 2021. All 60 articles after the amendment promulgated on January 27, 2021 shall be effective on July 1, 2021.
+
+\5. Article 11, 38 amended and promulgated per January 19, 2023 Presidential Order No. Hua-Zong-Yi-Jing- 11200004641; for implementation from March 1, 2023

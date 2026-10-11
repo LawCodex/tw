@@ -1,0 +1,357 @@
+---
+title: "Act for the Recruitment and Employment of Foreign Professionals"
+title_zh: "外國專業人才延攬及僱用法"
+identifier: "A0030295"
+type: act
+law_level: "法律"
+category: "行政＞國家發展委員會＞通用目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2017-11-22
+last_amended: 2025-09-24
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=A0030295"
+retrieved: 2026-10-12
+---
+
+# Act for the Recruitment and Employment of Foreign Professionals
+
+> Translation. The Chinese text ([zh/laws/national-development-council/A0030295-act-for-the-recruitment-and-employment-of-foreign-professionals.md](../../../zh/laws/national-development-council/A0030295-act-for-the-recruitment-and-employment-of-foreign-professionals.md)) is authoritative.
+
+## Article 1
+
+This Act is enacted for the purpose of enhancing the recruitment and employment of foreign professionals, as a means of raising national competitiveness.
+
+## Article 2
+
+Foreign professionals who engage in professional work or seek employment in the Republic of China (hereinafter referred to as the State) are governed by this Act. Matters not covered by this Act shall be governed by the Employment Service Act, the Immigration Act, and other relevant laws and regulations.
+
+## Article 3
+
+The competent authority for this Act is the National Development Council.
+
+Matters stipulated in this Act that involve the powers and responsibilities of the central competent authorities shall be handled by the authority concerned.
+
+## Article 4
+
+Terms used in this Act are defined as follows:
+
+1.“Foreign professional”means a foreign national who may engage in professional work in the State.
+
+2.“Foreign specialist professional” means a foreign professional who possesses specific expertise needed by the State in science & technology, digital economy, the economy, education, culture & the arts, sports, finance, law, architectural design, national defense, environmental protection, biotechnology, and other fields, as announced by the central competent authorities, or who have been recognized by the competent authority in consultation with the relevant competent authority as possessing specific expertise.
+
+3.“Foreign senior professional” means a senior professional needed by the State as prescribed in the Immigration Act.
+
+4.“Professional work” means the following work:
+
+(1) Work as specified in subparagraphs 1 to 3, 5 and 6, paragraph 1 of Article 46 of the Employment Service Act.
+
+(2) Work as specified in subparagraphs 1 and 3, paragraph 1 of Article 48 of the Employment Service Act.
+
+(3) Full-time foreign language teachers in short-term tutorial schools registered in accordance with the Supplementary Education Act (hereinafter referred to as short-term tutorial schools), or possessing specialized knowledge or skills, and designated as short-term tutorial schools’ teachers by the central competent authorities in consultation with the Ministry of Education.
+
+(4) Teachers of a subject other than a foreign language in a special class established by the Ministry of Education for enrolling the children of foreign professionals, foreign specialist professionals, and foreign senior professionals; as well as teachers employed by public and private senior high school level or below that implement bilingual education programs, teaching in either language or non-language areas such as arts, activities, and other fields or subjects related to their area of expertise, and assisting in relevant teaching activities, teacher workshops, and training.
+
+(5) Work in teaching academic subject or foreign language courses, teacher training, curriculum development, and activity promotion, as specified in the Enforcement Act for School-based Experimental Education, the Act Governing the Commissioning of the Operation of Public Schools at Senior High School Level or Below to the Private Sector for Experimental Education, and the Enforcement Act for Non-school-based Experimental Education at Senior High School Level or Below.
+
+## Article 5
+
+Except as otherwise provided in this Act, an employer hiring a foreign professional to engage in professional work in the State as referred to in subparagraph 4 of Article 4 shall apply for a permit to the Ministry of Labor, submitting the relevant documents therewith, and comply with the Employment Service Act in said application. However, for employment to engage in professional work as referred to in subparagraph 3, paragraph 1 of Article 46 of the Employment Service Act and in items 4 and 5, subparagraph 4 of Article 4, the employer shall apply for a permit to the Ministry of Education, submitting the relevant documents therewith.
+
+The job qualifications and review criteria for the employment of foreign professionals to engage in the professional work referred to in item 3, subparagraph 4 of Article 4 shall be prescribed by the Ministry of Labor in consultation with the central competent authorities.
+
+Regulation on job qualifications, review criteria, permit application, permit revocation, employment supervision, and other matters relating to the employment of foreign professionals to engage in professional work as referred to in the proviso to paragraph 1 shall be prescribed by the Ministry of Education.
+
+Supervision of the employment of foreign professionals under paragraph 1 to engage in the professional work referred to in items 4 and 5, subparagraph 4 of Article 4, except as otherwise provided in this Act, shall be handled according to the Employment Service Act pertaining to those engaging in the work referred to in subparagraphs 1 to 6, paragraph 1 of Article 46 of that Act.
+
+## Article 6
+
+A foreign national who has obtained a master’s or higher degree from a domestic or foreign college /university, or who has obtained a bachelor’s or higher degree from one of the world’s top 1,500 universities as announced by the Ministry of Education, is not required to have a specified period of work experience to be employed in the State to engage in specialized or technical work as referred to in subparagraph 1, paragraph 1 of Article 46 of the Employment Service Act, provided that they have obtained the requisite qualifications for engaging in such work, comply with the specified manners and conditions for engaging in such work, and comply with relevant laws and regulations prescribed by the central competent authorities.
+
+## Article 7
+
+A foreign professional, foreign specialist professional or foreign senior professional who meets one of the circumstances listed below is not required to apply for a permit to engage in professional work in the State:
+
+\1. To be employed as a consultant or researcher by any level of government or its subordinate academic research agencies (institutes).
+
+\2. To be employed by public or registered private colleges / universities for lecturing or academic research as approved by the Ministry of Education.
+
+A foreign professional, foreign specialist professional, or foreign senior professional, their spouse, minor children, or children having reached the age of majority or above who lack self-care ability due to physical or mental disability, having obtained permanent residency approved by the National Immigration Agency, Ministry of the Interior (hereinafter referred to as the NIA), is not required to apply to the Ministry of Labor or Ministry of Education for a permit to engage in work in the State.
+
+## Article 8
+
+The approved employment of a foreign specialist professional to engage in professional work shall be for a term of up to five years. When there is need to continue the employment beyond the expiry of that term, the employer may apply for an extension, of up to five years each time.
+
+Where a foreign specialist professional as referred to in the preceding paragraph has obtained residence approval from the NIA, their Alien Resident Certificate shall be valid for a term of up to five years starting from the next day following the date of said approval. When there is a need for their residence to continue beyond the expiry of that term, an application for extension may be made to the NIA before the current term of residence expires, and an extension of up to five years may be granted each time. Where such foreign specialist professional’s spouse, minor children, or children having reached the age of majority or above who lack self-care ability due to physical or mental disability, have obtained residence approval from the NIA, the same conditions shall apply to the term , and term of extension, of their Alien Resident Certificates.
+
+## Article 9
+
+A foreign specialist professional who plans to engage in professional work in the State may apply directly to the NIA for a four-in-one Employment Gold Card that combines work permit, resident visa, Alien Resident Certificate and re-entry permit. Before the NIA approves the issuance of an Employment Gold Card, it shall conduct reviews jointly with the Ministry of Labor and the Ministry of Foreign Affairs. However, a foreign specialist professional who applies for an Employment Gold Card when having already entered the State shall be exempted from applying for a resident visa when applying for an Employment Gold Card.
+
+An Employment Gold Card as referred to in the preceding paragraph shall be for a term of one to three years. Before expiry of the card, an application for extension may be made subject to specified conditions, for up to three years each time.
+
+Regulations on the application procedure, review, specific conditions for extension, and other matters pertaining to the Employment Gold Card, as referred to in the preceding two paragraphs, shall be prescribed by the Ministry of the Interior in consultation with the Ministry of Labor and the Ministry of Foreign Affairs.
+
+The NIA will impose a charge for an Employment Gold Card application under paragraph 1 or extension application under paragraph 2, the fee schedule for which shall be prescribed by the Ministry of the Interior in consultation with the Ministry of Labor and the Ministry of Foreign Affairs.
+
+## Article 10
+
+A foreign professional who works as an artist may apply directly to the Ministry of Labor for a permit to engage in artistic work in the State. Such a work permit shall be for a maximum term of three years, and when necessary, an application for extension may be made for up to three years each time.
+
+Regulation on work qualifications, review criteria, application for and revocation of the permit, employment supervision, and other relevant matters shall be prescribed by the Ministry of Labor in consultation with the Ministry of Culture.
+
+## Article 11
+
+A foreign national who, within the preceding five years, has obtained a bachelor’s or higher degree from one of the world’s top 200 universities as announced by the Ministry of Education may apply directly to the Ministry of Labor for a permit to engage in professional work in the State. Such a work permit shall be for a maximum term of two years and may not be extended or renewed.
+
+When a foreign national as referred to in the preceding paragraph has obtained residency approval from the NIA, their Alien Resident Certificate shall be valid for a term of up to two years starting from the next day following the date of approval.
+
+Regulation on work qualifications, review criteria, application for and revocation of the permit, employment supervision, and other relevant matters shall be prescribed by the Ministry of Labor in consultation with the competent authority.
+
+## Article 12
+
+A foreign national who has obtained an associate degree or higher in the State may, during their post-graduation extension of residency as a new graduate with approval from the NIA, engage in work in the State without applying for a work permit.
+
+## Article 13
+
+A foreign professional who plans to engage in professional work in the State, and who needs an extensive period of time to seek employment, may apply to an overseas mission of the Ministry of Foreign Affairs for a six-month visitor visa, valid for three months, for multiple entry, to stay for up to a maximum period of six months in total.
+
+A foreign professional who obtains a visitor visa under the preceding paragraph may not reapply for a visitor visa under the same paragraph within three years starting from the date of expiry of the total term of their stay.
+
+The number of persons to whom visitor visas are issued under paragraph 1 shall be announced annually by the Ministry of Foreign Affairs jointly with the Ministry of the Interior and in consultation with the competent authority and the central competent authorities, in light of the demand for such personnel and the status of application.
+
+Regulation on the conditions, procedure, review and other relevant matters pertaining to applications under paragraph 1 shall be prescribed by the Ministry of Foreign Affairs jointly with the Ministry of the Interior and in consultation with the central competent authorities, in light of demand for such personnel.
+
+## Article 14
+
+A foreign professional who engages in remote work by digital means, not providing services to businesses or employers within the State, and who meets specific conditions as announced by the competent authority, may apply, along with their spouse, minor children, and children having reached the age of majority or above who lack self-care ability due to physical or mental disability, to the Ministry of Foreign Affairs or an overseas mission thereof for a visitor visa, valid for six months, for multiple entries, to stay for up to a maximum period of six months, and without endorsement prohibiting extension or setting other limitations. After entering the State, if continuation of stay beyond the expiration of the visa is needed, the holder may, before the visa expires and without being required to leave the State, apply to the NIA for an extension thereof, for a total stay of up to six months at a time. The maximum total period of each stay shall be two years.
+
+## Article 15
+
+The spouse of a foreign specialist professional or a foreign senior professional, having been approved by the NIA to reside in the State as a dependent relative, may apply directly to the Ministry of Labor for a permit to engage in work in the State. The term of the work permit may not extend beyond the spouse’s dependent residency period.
+
+Where a foreign professional who engages in professional work in the State, a foreign specialist professional, or a foreign senior professional has been approved by the NIA for permanent residency, their child who has reached the age of majority or above may apply directly to the Ministry of Labor for approval to engage in work in the State, provided such child is determined by the NIA to have met one of the requirements listed below:
+
+\1. Having legally accumulated ten years of residence in the State, and resided in the State for 270 days or more in each of those years.
+
+\2. Having entered the State under the age of 14, and resided in the State for 270 days or more each year.
+
+\3. Having been born in the State, legally accumulated ten years of residence in the State, and resided in the State for 183 days or more in each of those years.
+
+Where an employer hires a spouse or child having reached the age of majority as referred to in the preceding two paragraphs to engage in work, such employer shall not be subject to the limitations prescribed in paragraphs 1 and 3 of Article 46, Article 47, Article 52, paragraphs 3 and 4 of Article 53, subparagraph 5 of Article 57, subparagraph 4 of Article 72, and Article 74 of the Employment Service Act, and shall be exempt from payment of the employment security fees as prescribed in Article 55 of that Act.
+
+Paragraph 2 may apply to children of a foreign professional, foreign specialist professional or foreign senior professional who entered the State under the age of 16 prior to January 1, 2023. Such children are not subject to the limitation of having entered the State under the age of 14 as stipulated in subparagraph 2 of that paragraph.
+
+## Article 16
+
+A foreign professional or foreign specialist professional who enters the State with a visa exemption or holds a visitor visa and who, having obtained a work permit or with exemption from obtaining a work permit, engages in professional work in the State, may apply directly to the NIA for residency, and if approved, shall be issued with an Alien Resident Certificate.
+
+Where a foreign professional who engages in professional work in the State, or a foreign specialist professional, has obtained residency or permanent residency approved by the NIA, their spouse, minor children, or children having reached the age of majority or above who lack self-care ability due to physical or mental disability, having entered the State with a visa exemption or holding a visitor visa, may apply directly to the NIA for residency, and if approved, shall be issued with an Alien Resident Certificate.
+
+## Article 17
+
+Where a foreign professional who engages in professional work in the State, or a foreign specialist professional who has obtained an Alien Resident Certificate under paragraph 2 of Article 8 or an Employment Gold Card under Article 9, before the term of their residency or Employment Gold Card expires, still has a need to reside, they and their spouse, minor children, or children having reached the age of majority or above who lack self-care ability due to physical or mental disability who have been approved to reside by the NIA, may apply to the NIA for an extension of residency.
+
+Where an application for extension of residency as referred to in the preceding paragraph is approved, and an Alien Resident Certificate issued, the Alien Resident Certificate shall be for a term of six months starting from the next day following the expiry of the original Alien Resident Certificate or Employment Gold Card; if needed, before the　extension expires, they may apply again for one further extension, for a total extension of residency up to a maximum of one year.
+
+## Article 18
+
+A foreign professional who engages in professional work in the State, and who has legally and continuously resided in the State for five years, having resided for an average of 183 days or more each year, may apply to the NIA for permanent residency if they meet the following requirements:
+
+\1. Having reached the age of majority or above.
+
+\2. Having no bad conduct, and no criminal records as certified by the Police Clearance Certificate.
+
+\3. Having sufficient assets or skills to be self-supporting.
+
+\4. Having met the national interests of the State.
+
+Periods of residence in the State approved by the NIA for reasons set out in any of the following subparagraphs shall not count towards the period of continuous residence in the State as referred to in the preceding paragraph:
+
+\1. Attending school in the State.
+
+\2. Approved to reside under subparagraph 3, paragraph 1 of Article 23, subparagraphs 1 or 2 of Article 26, or subparagraphs 5 to 8, paragraph 4 of Article 31 of the Immigration Act.
+
+\3. Approved to engage in the State in the work listed in subparagraphs 8 to 10, paragraph 1 of Article 46 of the Employment Service Act.
+
+\4. Approved to reside as a dependent relative of a person as referred to in the three preceding subparagraphs.
+
+A foreign specialist professional who resides in the State due to obtaining a specialist professional work permit under paragraph 1 of Article 8 or an Employment Gold Card under Article 9, and who meets the requirements set out in all the subparagraphs of paragraph 1, may apply to the NIA for permanent residency having met one of the circumstances listed below:
+
+\1. Having legally and continuously resided in the State for three years, residing for an average of 183 days or more each year.
+
+\2. Meeting certain conditions announced by the Ministry of the Interior, and having legally resided in the State for one year with a stay of 183 days or more.
+
+If a foreign professional or foreign specialist professional has attended, and obtained an associate degree or higher from a junior college or university in the State, the degree may be counted toward the period of residence in the State as referred to in paragraph 1 and the preceding paragraph, in accordance with the following provisions:
+
+\1. Foreign professional: A doctoral degree obtained counts as three years, a master’s degree counts as two years, and a bachelor’s or associate degree counts as one year. The four may not be aggregated.
+
+\2. Foreign specialist professional: A doctoral degree obtained counts as two years, a master’s degree counts as one year. The two may not be aggregated.
+
+An application for permanent residency under paragraph 1 or paragraph 3 shall be made within two years after the expiry of the period of residence and stay.
+
+The standards for the determination of not having bad conduct, the procedures, and other relevant matters as stipulated in subparagraph 2, paragraph 1 and subparagraph 1, paragraph 1 of Article 19 shall be prescribed by the Ministry of the Interior.
+
+## Article 19
+
+After a foreign professional who engages in professional work in the State has been approved for permanent residency by the NIA, their spouse, minor children, or children having reached the age of majority or above who lack self-care ability due to physical or mental disability, having legally and continuously resided in the State for five years, and resided for an average of 183 days or more each year, may apply to the NIA for permanent residency if they meet the following requirements:
+
+\1. Having no bad conduct, and no criminal records as certified by the Police Clearance Certificate.
+
+\2. Having met the national interests of the State.
+
+After a foreign specialist professional has been approved for permanent residency by the NIA, their spouse, minor children, or children having reached the age of majority or above who lack self-care ability due to physical or mental disability, who meets the requirements set out in each subparagraph of the preceding paragraph and who meets one of the circumstances listed below, may apply to the NIA for permanent residency:
+
+\1.  As a dependent of a person approved for permanent residency under subparagraph 1, paragraph 3 of Article 18: having legally and continuously resided in the State for three years, residing for an average of 183 days or more each year.
+
+\2. As a dependent of a person approved for permanent residency under subparagraph 2, paragraph 3 of Article 18: having legally resided in the State for one year, residing for 183 days or more.
+
+Where the permanent residence permit of a foreign professional or foreign specialist professional as referred to in the preceding two paragraphs is withdrawn or revoked in accordance with subparagraphs 1 to 3 and 8 of Article 33 of the Immigration Act, the permanent residence permits of their spouse, minor children, or children having reached the age of majority or above who lack self-care ability due to physical or mental disability, shall be withdrawn or revoked together therewith.
+
+An application for permanent residency under paragraph 1 or paragraph 2 shall be made within two years after the end of the period of residence and stay.
+
+## Article 20
+
+Where a foreign specialist professional or foreign senior professional has been approved for residency or permanent residency by the NIA, their lineal ascendants may apply to the Ministry of Foreign Affairs or one of its overseas missions for a visitor visa, valid for one year, for multiple entry, for a stay of up to six months, without annotation of a restriction disallowing extension or other limitation. After their entry to the State, in case of a need to continue the stay, then prior to the expiry of the term of stay, an application may be made to the NIA for an extension, without their being required to leave the State. The total length of each stay is limited to a maximum of one year.
+
+Where a lineal ascendant, as referred to in the preceding paragraph, has completed a one-year term of stay and there is a need to continue the stay, provided the lineal ascendant has obtained medical and full-coverage hospitalization insurance for the duration of the stay, an application may be made to the NIA for an extension prior to the expiry of the term of stay.  Such an extension may be granted without the lineal ascendant being required to leave the State and shall not be subject to the limitation of a maximum total stay of one year as referred to in the preceding paragraph.
+
+## Article 21
+
+Where a foreign professional, foreign specialist professional, or foreign senior professional, or their spouse, minor children, or children having reached the age of majority or above who lack self-care ability due to physical or mental disability, after obtaining approval for permanent residency from the NIA, are away from the State for five years or more without re-entering, the NIA may revoke their permanent residence permit and cancel their Alien Permanent Resident Certificate.
+
+## Article 22
+
+Starting from 2018, if a foreign specialist professional who has no household registration in the State, who is approved to reside in the State for the purpose of work for the first time, and who meets specified conditions, engages in professional work, or has obtained an Employment Gold Card under Article 9 and during the term of the Employment Gold Card is employed to engage in professional work, then for five years counting from the tax year in which they first meet the conditions of residing in the State for 183 full days of the year and having a salary income more than three million NT dollars, half of the part of their salary income above three million NT dollars in each such tax year in which they reside in the State for 183 full days will be excluded from the assessment of individual income tax, and subparagraph 1, paragraph 1 of Article 12 of the Income Basic Tax Act does not apply.
+
+Regulation on the specified conditions referred to in the preceding paragraph, the procedure for seeking application, the requisite documentary proof, and other relevant matters shall be prescribed by the Ministry of Finance in consultation with related authorities.
+
+## Article 23
+
+A foreign professional, foreign specialist professional, or foreign senior professional who meets one of the circumstances listed below, and their spouse, minor children, or children having reached the age of majority or above who lack self-care ability due to physical or mental disability, having obtained documentary proof of residence, shall participate in National Health Insurance as insured persons, without being subject to the requirement of having completed six months of residence in the State as prescribed in subparagraph 1 of Article 9 of the National Health Insurance Act:
+
+\1. They are hired to engage in professional work.
+
+\2. They are foreign specialist professionals or foreign senior professionals who are qualified to be insured persons as employers or self-employed business owners under item 4, subparagraph 1, paragraph 1 of Article 10 of the National Health Insurance Act.
+
+## Article 24
+
+Foreign professionals and foreign specialist professionals who engage in professional work shall be included in the retirement pension system under the Labor Pension Act. However, this shall not apply to those who obtained employment before the amendment to this Act, promulgated on August 29, 2025 takes effect and are still serving in the same business entity, if, within six months from the date of enforcement of said amendment to this Act, they submit to their employer a written declaration of their option to remain in the retirement pension system under the Labor Standards Act.
+
+Those who have once submitted to their employer in accordance with the proviso of the preceding paragraph a written declaration of their option to remain in the retirement pension system under the Labor Standards Act, may not thereafter change their option and opt instead for inclusion in the retirement pension system under the Labor Pension Act.
+
+For those included in the retirement pension system under the Labor Pension Act as provided for in paragraph 1, their service seniority prior to their inclusion in said system is governed by Article 11 of that Act.
+
+The employer shall complete pension contribution filing procedures with the Bureau of Labor Insurance, Ministry of Labor, for foreign professionals and foreign specialist professionals who are subject to the retirement pension system under the Labor Pension Act. For those referred to in the proviso to paragraph 1 who fail to declare within the period specified therein to remain in the retirement pension system under the Labor Standards Act, the employer shall file pension contributions no later than fifteen days after the expiration of that period.
+
+The preceding four paragraphs shall not apply to foreign professionals and foreign specialist professionals as referred to in paragraph 1 who were already covered by the Labor Pension Act prior to the enforcement of the amendment to this Act dated August 29, 2025, or who had made to their employer according to law a declaration to remain in the retirement pension system under the Labor Standards Act. Such professionals shall still be subject to the relevant provisions.
+
+A permanent resident who, at the time of the enforcement of the amendment to this Act promulgated on August 29, 2025, has not declared to their employer to remain in the retirement pension system under the Labor Standards Act in accordance with the proviso to paragraph 1 prior to its enforcement, or in accordance with paragraph 2 of Article 8-1 of the Labor Pension Act, may still so declare to their employer within six months from the date of enforcement of the said amendment, provided that the declaration period under the aforementioned proviso has not expired. If the permanent resident fails to make such declaration by this deadline, their pension contributions shall be filed by the employer retroactively effective from the date of their permanent residency approval.
+
+## Article 25
+
+Foreign professionals, foreign specialist professionals, and foreign senior professionals who are employed to engage in work in the State and have been approved for permanent residency by the NIA shall, except as otherwise provided in this Act, be subject to the Employment Insurance Act.
+
+Where a person referred to in the preceding paragraph is approved for permanent residency by the NIA after commencing employment, their employer shall declare their participation in employment insurance as of the date on which permanent residency is approved.
+
+Where a person referred to in paragraph 1 obtained permanent residency prior to the enforcement of the amendment to this Act dated August 29, 2025, and remains employed, their employer shall declare their participation in employment insurance as of the date the amendment to this Act comes into force.
+
+For those declared as participants in employment insurance in accordance with the preceding two paragraphs, the insurance coverage shall take effect from the date on which the declaration is required to be made by their employer. However, if the employer fails to make the declaration on the required date, then, in addition to the penalty prescribed in Article 38 of the Employment Insurance Act, the insurance coverage shall take effect from the day following the date of declaration.
+
+A person who has participated in employment insurance in accordance with the preceding four paragraphs may, during a period of receiving unemployment benefits or a vocational training living allowance, claim additional benefits or allowance in accordance with paragraph 1 of Article 19-1 of the Employment Insurance Act, provided that they have dependents in the State as defined in paragraph 2 of the same Article.
+
+A person who has participated in employment insurance in accordance with paragraphs 1 to 4 and whose permanent residency has been withdrawn or revoked by the NIA shall lose their entitlement to related employment insurance benefits. However, this restriction shall not apply if the permanent residence permit is withdrawn or revoked as a result of restoration, acquisition, or concurrent possession of the nationality of the State.
+
+The preceding six paragraphs do not apply to those referred to in paragraph 1 who, prior to the enforcement of the amendment to this Act dated August 29, 2025, were already subject to the Employment Insurance Act.
+
+## Article 26
+
+A foreign professional, foreign specialist professional or foreign senior professional who is employed, within the authorized staffing structure, as a full-time, qualified, paid teacher and researcher of a public school in the State, or who is employed, within the authorized staffing structure, as a full-time, qualified, paid researcher of a government agency or an academic research agency (institute) thereof, may opt for either a lump-sum pension payment or monthly pension payments if their retirement is governed, mutatis mutandis, by the retirement provisions of the Act Governing Retirement, Severance, and Bereavement Compensation for the Teaching and Other Staff Members of Public Schools (hereinafter referred to as the Retirement Compensation Act) and if they have obtained approval for permanent residency from the NIA; if their retirement is instead, mutatis mutandis, governed by the Act Governing Retirement, Severance, and Bereavement Compensation Under the Individual Account System for the Teaching and Other Staff of Public Educational Institutions, that Act shall apply.
+
+Where a person who already drew a monthly pension under the Retirement Compensation Act, mutatis mutandis, as referred to in the preceding paragraph has their permanent residence permit withdrawn or revoked by the NIA, their right to claim monthly pension shall be forfeited. However, this restriction shall not apply if the permanent residence permit is withdrawn or revoked as a result of restoration, acquisition, or concurrent possession of the nationality of the State.
+
+## Article 27
+
+Foreign professionals, foreign specialist professionals, or foreign senior professionals who are employed,  within the authorized staffing structure, as full-time, qualified, paid teachers, of the bilingual departments of public experimental senior high schools located in science parks within the State shall have matters related to their retirement, severance, bereavement compensation, and resignation-related refunds governed, mutatis mutandis, by the regulations applicable to public school teachers.
+
+Those who are subject to the mutatis mutandis application of the Retirement Compensation Act in accordance with the preceding paragraph, and who have been approved for permanent residency by the NIA, may opt to receive either a lump-sum pension payment or monthly pension payments. Where a person who opted to draw monthly pension payments has their permanent residence permit withdrawn or revoked by the NIA, their right to claim the payments shall be forfeited. However, this restriction shall not apply if the permanent residence permit is withdrawn or revoked as a result of restoration, acquisition, or concurrent possession of the nationality of the State.
+
+## Article 28
+
+Foreign professionals, foreign specialist professionals, and foreign senior professionals, as well as their spouses, minor children, and children having reached the age of majority or above who lack self-care ability due to physical or mental disability, having obtained permanent residency from the NIA and having legally and cumulatively resided in the State for ten years, residing for 183 days or more each year, may apply for a disability evaluation and needs assessment with the special municipality or county (city) government if they suffer from structural or functional impairments of the body that result in significant deviation from or loss of normal function, thereby affecting their ability to perform daily activities and participate in social life. Those who have been evaluated and assessed in accordance with Articles 6 and 7 of the People with Disabilities Rights Protection Act by a professional team set forth in Article 5 of that Act, shall, mutatis mutandis, be eligible to access the services set forth in Articles 50 and 51 of that Act.
+
+Periods of residency in the State approved by the NIA that meet any of the circumstances set forth in the following subparagraphs shall not be included in the cumulative period of residence in the State as referred to in the preceding paragraph:
+
+\1. Attending school in the State.
+
+\2. Having been approved for residency in accordance with subparagraph 3, paragraph 1 of Article 23, subparagraphs 1 and 2 of Article 26, or subparagraphs 5 to 8, paragraph 4 of Article 31 of the Immigration Act.
+
+\3. Having been approved for residency as a dependent of a person referred to in the preceding two subparagraphs.
+
+For those whose permanent residence permits are withdrawn or revoked by the NIA on the grounds in paragraph 1, the service provided, mutatis mutandis, pursuant to Articles 50 and 51 of the People with Disabilities Rights Protection Act shall be terminated. However, this restriction shall not apply if the permanent residence permit is withdrawn or revoked as a result of restoration, acquisition, or concurrent possession of the nationality of the State.
+
+The application procedures, documentary requirements, and other matters pertaining to the services referred to in paragraph 1 shall be prescribed by the Ministry of Health and Welfare in consultation with related agencies.
+
+## Article 29
+
+Foreign professionals, foreign specialist professionals, and foreign senior professionals, as well as their spouses, minor children, and children having reached the age of majority or above who lack self-care ability due to physical or mental disability, having obtained permanent residency from the NIA and having legally and cumulatively resided in the State for ten years, residing for 183 days or more each year, may apply with the long-term care management center or the special municipality or county (city) government, provided they meet one of the following conditions and lack physical or mental capacity. For disabilities assessed and recognized as eligible for long-term care services in accordance with Articles 8 and 8-1 of the Long-Term Care Services Act, and after the approval of the level of long-term care needs and the amount of long-term care services according to the degree of disability, the services shall be provided, mutatis mutandis, in accordance with the method stipulated in paragraph 4 of Article 8-1 of the Long-Term Care Services Act:
+
+\1. Aged 65 or over.
+
+\2. Having been evaluated and assessed in accordance with Articles 6 and 7 of the People with Disabilities Rights Protection Act by a professional team set forth in Article 5 of that Act, and the results comply with the Act.
+
+Periods of residency in the State approved by the NIA that meet any of the circumstances set forth in the following subparagraphs shall not be included in the cumulative period of residence in the State as referred to in the preceding paragraph:
+
+\1. Attending school in the State.
+
+\2. Having been approved for residency in accordance with subparagraph 3, paragraph 1 of Article 23, subparagraphs 1 and 2 of Article 26, or subparagraphs 5 to 8, paragraph 4 of Article 31 of the Immigration Act.
+
+\3. Having been approved for residency as a dependent of a person referred to in the preceding two subparagraphs.
+
+Those who have obtained the qualifications specified in paragraph 1 but whose permanent residence permit is withdrawn or revoked by the NIA shall lose their right to, mutatis mutandis, access the services provided under paragraph 4 of Article 8-1 of the Long-Term Care Services Act. However, this restriction shall not apply if the permanent residence permit is withdrawn or revoked as a result of restoration, acquisition, or concurrent possession of the nationality of the State.
+
+The application procedures, documentary requirements, content concerning the services and other matters as referred to in paragraph 1 shall be prescribed by the Ministry of Health and Welfare in consultation with related agencies.
+
+## Article 30
+
+Residents of Hong Kong or Macau engaging in professional work or seeking employment in the Taiwan Area are subject, mutatis mutandis, to Article 5, Article 6, paragraph 1 of Article 7, Articles 8 to 13, Article 17, Articles 22 to 24, and paragraph 1 of Article 27. Matters concerning their entry, stay and residence shall be handled by the Ministry of the Interior in accordance with the Act Governing Relations with Hong Kong and Macau and its related provisions.
+
+The foreign spouses, minor children, and children having reached the age of majority or above who lack self-care ability due to physical or mental disability, of residents of Hong Kong or Macau as referred to in the preceding paragraph are subject, mutatis mutandis, to paragraph 2 of Article 8, paragraph 2 of Article 16, Article 17, and Article 23.
+
+## Article 31
+
+A national of the State who concurrently holds foreign nationality and has no household registration in the State, and who meets one of the following circumstances, is not required to apply for a permit to engage in work in the State:
+
+\1. A foreign national having acquired nationality of the State by naturalization.
+
+\2. Having been approved for residency by the NIA in accordance with subparagraph 1 or 4, paragraph 1 of Article 9 of the Immigration Act, and having a father or mother who is or was a national of the State residing in the Taiwan Area with household registration.
+
+A national of the State who concurrently holds foreign nationality and has no household registration in the State, except as referred to in the preceding paragraph, and who comes to the State as holder of a foreign passport to engage in professional work or to seek employment, is governed by this Act pertaining to foreign professionals.
+
+## Article 32
+
+Where a foreign professional, foreign specialist professional, or foreign senior professional has acquired nationality of the State by naturalization, their spouse, children, or lineal ascendants are subject, mutatis mutandis, to paragraph 2 of Article 8, Article 15, paragraph 2 of Article 16, Article 17, and Articles 19 to 21 of this Act and paragraph 5 of Article 25 of the Immigration Act.
+
+## Article 33
+
+The date of enforcement of this Act shall be prescribed by the Executive Yuan.
+
+## History
+
+1.Enacted and promulgated by President Order Hua-Tsung (1)-Yi-Tzu No.10600140481 on Nov. 22, 2017
+
+The Act was set to be effective since Feb. 8, 2018 by the Executive Yuan Order Yuan-Tai-Jiao-Zi No. 1070002554 on Jan. 29, 2018.
+
+2.The amended Articles 7 and 14-17 are promulgated by President Order Hua-Tsung (1)-Jing-Tzu No. 11000006231 on Jan. 27, 2021; the effective date shall be set by the Executive Yuan.
+
+The amendment was set to be effective since Jan. 1, 2023 by the Executive Yuan Order Yuan-Tai-Jiao-Zi No. 1100004559 on Feb. 23, 2021.
+
+3.Amendments to all 27 Articles promulgated by President Order Hua-Tsung (1)-Jing-Tzu No.11000060901 on July 7, 2021; the effective date shall be set by the Executive Yuan.
+
+The amendment was set to be effective since Oct. 25, 2021 by the Executive Yuan Order Yuan-Tai-Jiao-Zi No. 1100032400 on Oct. 19, 2021.
+
+4.Amendments to all 33 Articles promulgated by President Order Hua-Tsung (1)-Jing-Tzu No.11400095401 on September 24, 2025; the effective date shall be set by the Executive Yuan.
+
+The amendment was set to be effective since June 30, 2026 with respect to the latter part of Subparagraph 4, Item 4 of Article 4, and Articles 28 and 29, and since January 1, 2026 for the remaining provisions, by the Executive Yuan Order Yuan-Tai-Jiao-Zi No.1141030485 on November 18, 2025.

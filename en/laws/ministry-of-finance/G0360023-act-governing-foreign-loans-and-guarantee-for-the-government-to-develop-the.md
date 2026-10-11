@@ -1,0 +1,87 @@
+---
+title: "Act Governing Foreign Loans and Guarantee for the Government to Develop the Economy and Society"
+title_zh: "政府發展經濟社會向國外借款及保證條例"
+identifier: "G0360023"
+type: act
+law_level: "法律"
+category: "行政＞財政部＞國庫目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1967-05-15
+last_amended: 1982-06-16
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0360023"
+retrieved: 2026-10-12
+---
+
+# Act Governing Foreign Loans and Guarantee for the Government to Develop the Economy and Society
+
+> Translation. The Chinese text ([zh/laws/ministry-of-finance/G0360023-act-governing-foreign-loans-and-guarantee-for-the-government-to-develop-the.md](../../../zh/laws/ministry-of-finance/G0360023-act-governing-foreign-loans-and-guarantee-for-the-government-to-develop-the.md)) is authoritative.
+
+## Article 1
+
+Foreign loans sought by the government or affiliated enterprises or profit-making entities in support of excelling the economic and social development that require the Treasury to act as promissory or guarantor would be stipulated under this Act.
+
+Foreign loans sought by privately owned development and financial organizations or major economic infrastructure projects that require the Treasury to act as guarantor, and a favorable resolution by the Executive Yuan Council, would be eligible to stipulations as cited under this Act.
+
+## Article 2
+
+Following the favorable resolution of foreign loans or guarantees by the Executive Yuan Council, the Minister of Finance is to act on behalf of the Treasury in entering a loan or guarantee contract with the lending institution, with loan utilization and principal/interest repayment being stipulated in the contract.
+
+## Article 3
+
+The Minister of Finance may, when necessary and approved by the Executive Yuan, appoint a proxy in writing to act on the Minister's behalf to sign the loan or guarantee contract.
+
+## Article 4
+
+The definition of loan and warranty contract includes issuing bonds and related bank drafts as would be stipulated under this contract.
+
+## Article 5
+
+Before the Minister of Finance is set to issue guarantees as stipulated under this Act, pertinent competent government authorities are required to conduct an investigation on the borrower's loan utilization plan and repayment capability, and to continue to monitor the state of loan utilization following the guarantee issuance; those found less than credible shall not be given a guarantee.
+
+The Executive Yuan is to prescribe the regulations concerning supervision of loans sought by privately owned development and financial institutions and loans in support of major economic infrastructure development projects.
+
+## Article 6
+
+Of loans that are secured or guaranteed as per the Act provided herein, the balance of the unpaid principal of the loan should not exceed the sum of Nine Billion and Five Hundred Million US Dollars (US$9,500,000,000), or an equivalent value in any other foreign currency as converted at the exchange rate established on initial funding date.
+
+## Article 7
+
+Of loans that are secured or guaranteed as per this Act, after the loan or guarantee contract has been finalized, the Executive Yuan shall submit the contract to the Legislative Yuan for recordation.
+
+Of loans and guarantees that are related to government fiscal budgets, the competent government authorities are to include such loan plans in the annual budget review submission, which, however, does not affect the finalization of a loan agreement.
+
+## Article 8
+
+The interest derived by creditors from loans or guarantees in accordance with this Act is exempt from income tax.
+
+## Article 9
+
+Of foreign loans sought by private development and financial institutions that require the Treasury to act as guarantor, the grand total of the unpaid loan may not exceed ten times of its net value.
+
+The net value as referred to in the preceding paragraph shall pertain to the sum of capitalization free of deficits and corporate reserves not specifically designated for debt repayment.
+
+If foreign loans sought by state-owned financial institutions or private development/financial institutions and guaranteed by the Treasury are to be loaned out subsequently, the interest rates may not exceed the rates at which state-owned financial institutions lend to state-owned enterprises.
+
+## Article 10
+
+The Act shall come into force on the date of promulgation.
+
+## History
+
+1.Full text of ten Articles established and promulgated per the Order of President No.1853 issued on May 15, 1967.
+
+2.Article 2 amended and promulgated per the Order of President No.2517 issued on January 5,1973.
+
+3.Article 6 amended and promulgated per the Order of President No.2582 issued on June 5,1973.
+
+4.Article 1, Article 5 and Article 6 amended and promulgated per the Order of President No.3263 issued on April 22,1975.
+
+5.Article 6 amended and promulgated per the Order of President No.3203 issued on May 24,1977.
+
+6.Article 6 amended and promulgated per the Order of President No.3599 issued on December 5,1979.
+
+7.Article 6 amended and promulgated per the Order of President issued on June 16 ,1982.

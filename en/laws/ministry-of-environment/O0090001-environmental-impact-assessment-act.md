@@ -1,0 +1,393 @@
+---
+title: "Environmental Impact Assessment Act"
+title_zh: "環境影響評估法"
+identifier: "O0090001"
+type: act
+law_level: "法律"
+category: "行政＞環境部＞綜合規劃目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1994-12-30
+last_amended: 2025-11-28
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0090001"
+retrieved: 2026-10-12
+---
+
+# Environmental Impact Assessment Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-environment/O0090001-environmental-impact-assessment-act.md](../../../zh/laws/ministry-of-environment/O0090001-environmental-impact-assessment-act.md)) is authoritative.
+
+### Chapter 1 General Principles
+
+#### Article 1
+
+This Act is enacted to prevent and mitigate the adverse impact of development activity on the environment in order to achieve the goal of environmental protection. Matters not regulated by this Act shall be subject to the provisions of other applicable laws.
+
+#### Article 2
+
+The competent authority referred to in this Act means the Environmental Protection Administration, Executive Yuan, at the central government level, the municipal government in special municipalities and the county or city government in counties or cities.
+
+#### Article 3
+
+Competent authorities at all levels shall establish an Environmental Impact Assessment Review Committee (hereinafter referred to as "the Committee") to review matters related to environmental impact assessment reports.
+
+Terms for the members of the Committee in the preceding paragraph shall be two years, and the number of experts and scholars among them shall not be less than two-thirds of the total number of committee members. When the industry competent authority is the developer, industry competent authority members shall abstain from voting.
+
+The Environmental Protection Administration, Executive Yuan, shall draft the organizational rules of the Committee established by the central competent authority and shall submit said rules to the Executive Yuan for approval and promulgation.
+
+Special municipality competent authorities shall draft the organizational rules of the Committees established by special municipality competent authorities and submit said rules to the authorized agency for approval and promulgation.
+
+County or city competent authorities shall draft the organizational rules of the Committees established by county or city competent authorities and shall submit said rules to the authorized agency for approval and promulgation.
+
+#### Article 4
+
+Terms used in this Act are defined as follows.
+
+Ⅰ. "Development activity" refers to activities designated in Article 5. The scope of development activity includes its planning, implementation, and post-completion use.
+
+Ⅱ. "Environmental impact assessment" denotes an environmental management plan based on scientific, objective and comprehensive surveys, forecasting, analyses and evaluations conducted prior to project implementation in order to determine the degree and scope of the potential impact of development activity or government policy on the environment (including the living environment, natural environment and social environment), economy, culture and ecology, and the public explanation and review of such a plan. The environmental impact assessment work includes the first-stage, second-stage environmental impact assessment and review, tracking and assessment procedures.
+
+#### Article 5
+
+Environmental impact assessments shall be conducted for the following development activities that are deemed to have a potential adverse impact on the environment.
+
+Ⅰ. The establishment of a factory or the development of an industrial park
+
+Ⅱ. The development of a road, railway, mass rapid transit system, harbor or airport
+
+Ⅲ. Soil and gravel adoption, prospecting, or mining
+
+Ⅳ. The development of water storage, water supply, flood control or drainage projects
+
+Ⅴ. The development or use of land for agriculture, forestry, fisheries or livestock
+
+Ⅵ. The development of recreational areas, scenic areas, golf courses or sports fields
+
+Ⅶ. The development of cultural, educational or medical facilities
+
+Ⅷ. New urban construction or high-rise buildings, or renewal of old urban districts
+
+Ⅸ. The construction of environmental protection projects
+
+Ⅹ. The development of nuclear energy or other types of energy or the construction of radioactive waste storage or treatment facilities
+
+ⅩⅠ. Other activities officially announced by the central competent authority
+
+The central competent authority in consultation with the relevant agencies shall, within one year after the promulgation and implementation of this Act, determine and submit to the Legislative Yuan to be filed for future reference determination standards, specific items and environmental impact assessment working standards for those development activities for which environmental impact assessments are required to be conducted as per the preceding paragraph.
+
+When one of the following circumstances applies with respect to the installation of a photovoltaic power generation system, an environmental impact assessment shall be required:
+
+Ⅰ. The site is located in a national scenic area, or in a designated geologic heritage geologically sensitive area, or in a landslide and land subsidence geologically sensitive area.
+
+Ⅱ. The site is located in a wildlife refuge or a major wildlife habitat.
+
+Ⅲ. The site is located in an important wetland.
+
+Ⅳ. The site is located in a nature preserve approved and announced under the Taiwan Coastal Area Natural Environment Protection Plan.
+
+Ⅴ. The site is located on agricultural land in a special agricultural zone.
+
+Ⅵ. The site is located on land subsidized or incentivized by the government for afforestation, which is national land, public land, state-owned enterprise land, or public enterprise land.
+
+Ⅶ. The site is located on a slopeland with the installed or cumulative installed capacity reaching 10 MW or greater, or the installed or cumulative installed area reaching 5 hectares or greater.
+
+Ⅷ. The installation involves a floating solar power generation system with the installed or cumulative installed capacity reaching 10 MW or greater, or the installed or cumulative installed area reaching 5 hectares or greater.
+
+Ⅸ. The installed or cumulative installed capacity reaches 40 MW or greater, or the installed or cumulative installed area reaches 40 hectares or greater.
+
+Ⅹ. When the application for installation under Items Ⅶ to Ⅸ meets one of the following conditions, the requested installed or cumulative installed area shall be combined for calculation, to determine the number required under the respective item:
+
+A. Application for installation or cumulative installation on land under the same land number.
+
+B. Application for installation or cumulative installation on land under the adjacent land number, or separated only by public facilities, such as roads, channels, and drainage canals.
+
+C. Application for installation or cumulative installation on land with a horizontal distance between boundaries less than 20 meters.
+
+The preceding photovoltaic power generation systems do not include the following circumstances:
+
+I. Rooftop photovoltaic power generation systems.
+
+Ⅱ. Photovoltaic power generation systems that constitute ancillary facilities of another development project and are confirmed as such by the respective industry competent authority.
+
+Ⅲ. Photovoltaic power generation systems for self-use with an installation area of 100 square meters or less.
+
+## Chapter 2 Assessment, Review and Supervision
+
+#### Article 6
+
+For those development activities for which environmental impact assessments are required pursuant to the preceding article to be conducted, the developer, when planning, shall, in accordance with environmental impact assessment working standards, conduct the first-stage environmental impact assessment and prepare an environmental impact statement.
+
+The following items shall be recorded in the environmental impact statement in the preceding paragraph.
+
+Ⅰ. The name and business address or office address of the developer
+
+Ⅱ. The name, domicile, residence and identification number of the statutory responsible person
+
+Ⅲ. The signatures of those who conducted comprehensive assessments of the environmental impact statement and those who wrote impact items for the environmental impact statement
+
+Ⅳ. The name of the development activity and the development site
+
+Ⅴ. The purpose and content of the development activity
+
+Ⅵ. All related plans and current environmental conditions within the area that could possibly be impacted by the development activity
+
+Ⅶ. A forecast of the environmental impacts that could possibly be caused by the development activity
+
+Ⅷ. Environmental protection strategies and alternative plans
+
+Ⅸ. The budget required for the implementation of environmental protection work
+
+Ⅹ. A summary chart of strategies for the prevention and mitigation of the adverse impact of the development activity on the environment
+
+#### Article 7
+
+When applying for permission for a development project, the developer shall submit an environmental impact statement to the industry competent authority, which shall then forward the environmental impact statement to the competent authority for review.
+
+The competent authority shall, within fifty days of the receipt of the environmental impact statement in the preceding paragraph, complete a review conclusion and issue an official announcement, and shall notify the industry competent authority and developer. However, in special circumstances, the extension of the review period shall be limited to fifty days.
+
+If the competent authority concludes the review in the preceding paragraph that it is not necessary to conduct a second-stage environmental impact assessment and obtains permission, the developer shall hold a public briefing meeting.
+
+#### Article 8
+
+For those circumstances in which it is deemed in the review conclusion in the preceding article that the second-stage environmental impact assessment is required to be conducted due to concern of a significant impact on the environment, the developer shall perform the following matters.
+
+Ⅰ. Distribute the environmental impact statement to relevant agencies
+
+Ⅱ. Display or post the environmental impact statement at an appropriate location near the development site; this time period may not be less than thirty days
+
+Ⅲ. Publish in newspapers the name of the developer, the development site and the location where the review conclusion and the environmental impact statement are displayed or posted
+
+The developer shall hold a public briefing meeting after the expiration of the time period for displaying or posting in the preceding paragraph.
+
+#### Article 9
+
+Those relevant government agencies in the preceding article or local residents that have opinions regarding the explanation of the developer shall present their opinions in writing to the developer within fifteen days after the public briefing meeting and send copies to the relevant agencies and the industry competent authority.
+
+#### Article 10
+
+The competent authority shall, after the public briefing meeting, invite together the industry competent authority, relevant agencies, groups, scholars, experts and representatives of local residents in order to define the scope of assessment.
+
+Matters for the definition of the scope in the preceding paragraph are as follows.
+
+Ⅰ. The confirmation of a feasible alternative plan
+
+Ⅱ. The confirmation of items for which environmental impact assessments are required to be conducted; determination of survey, forecasting, analysis and evaluation methods
+
+Ⅲ. Other matters related to the implementation of the environmental impact assessment
+
+#### Article 11
+
+The developer shall prepare a draft environmental impact assessment report based on a deliberation of the opinions of the competent authority, the industry competent authority, relevant agencies, scholars, experts, groups and local residents, and present the draft environmental impact assessment report to the industry competent authority.
+
+The draft environmental impact assessment report in the preceding paragraph shall record the following items.
+
+Ⅰ. The name and business address or office address of the developer
+
+Ⅱ. The name, residence or domicile, and identification number of the statutory responsible person
+
+Ⅲ. The signatures of those who conducted comprehensive assessments of the environmental impact assessment report and those who wrote impact items for the environmental impact assessment report
+
+Ⅳ. The name and site of the development activity
+
+Ⅴ. The purpose and content of the development activity
+
+Ⅵ. Current environmental conditions, primary and secondary areas that could possibly be impacted by the development activity and all related plans
+
+Ⅶ. Forecasting, analysis and evaluation of environmental impacts
+
+Ⅷ. Strategies for the mitigation or prevention of adverse environmental impacts
+
+Ⅸ. Alternative plan
+
+Ⅹ. Comprehensive environmental management plan
+
+ⅩⅠ. Handing of the opinions of relevant agencies
+
+ⅩⅡ. Handing of the opinions of local residents
+
+ⅩⅢ. Conclusions and recommendations
+
+ⅩⅣ. The budget required for the implementation of environmental protection work
+
+ⅩⅤ. Summary chart of strategies for the prevention and mitigation of the adverse impact of development activity on the environment
+
+ⅩⅥ. Reference bibliography
+
+#### Article 12
+
+The industry competent authority shall, in conjunction with the competent authority, members of the Committee and other relevant agencies, invite together experts, scholars, groups and local residents to conduct an on-site inspection and hold a public hearing within thirty days after receiving the draft environmental impact assessment report; records of the on-site inspection and public hearing shall be maintained and submitted to the competent authority within thirty days after the on-site inspection and public hearing.
+
+The time periods in the preceding paragraph may be extended when necessary.
+
+#### Article 13
+
+The industry competent authority shall submit the on-site inspection records, public hearing records and draft environmental impact assessment report in the preceding article to the competent authority for review.
+
+The competent authority shall complete a review conclusion and send the review conclusion to the industry competent authority and the developer within sixty days; the developer shall revise the draft environmental impact assessment report in accordance with the review conclusion in order to complete an environmental impact assessment report which shall be sent to the competent authority for authorization in accordance with the review conclusion.
+
+After authorization by the competent authority of the environmental impact assessment report in the preceding paragraph, the environmental impact assessment report and a summary of the review conclusion shall be officially announced and published in the official register of the competent authority. However, in special circumstances, the extension of the review period shall be limited to sixty days.
+
+#### Article 13-1
+
+For those circumstances in which, after an environmental impact statement or draft environmental impact assessment report has been accepted by the competent authority, it is determined when reviewing that corrections are required to be made, the competent authority shall list in detail all information required for making corrections and notify the developer to make corrections within a limited time period. For those developers that fail to make corrections within the limited time period or whose corrections fail to comply with competent authority regulations, the competent authority shall notify the industry competent authority in writing to reject the application for development activity permission and send a copy to the developer.
+
+The developer may apply to extend or withdraw from the review process prior to the expiration of the time period for making corrections in the preceding paragraph.
+
+#### Article 14
+
+The industry competent authority may not grant permission for a development activity prior to the completion of an environmental impact statement review or the authorization of an environmental impact assessment report; permission granted in violation of this regulation shall be invalid.
+
+The industry competent authority may not grant permission for development activity to those developers that the competent authority determines through review shall not be granted permission to implement development activities. However, the developer may submit an alternate plan to the competent authority for a new review.
+
+The alternative plan submitted by the developer pursuant to the preceding paragraph may not conflict with the original reason the competent authority determined that permission shall not be granted if the development activity is replanned based on the original location.
+
+#### Article 15
+
+For those circumstances in which two or more development activities are to be implemented at the same time and on the same site, assessments may be jointly conducted.
+
+#### Article 16
+
+The contents of the original application of an approved environmental impact statement or final environmental impact assessment report may not be modified without the approval of both the competent authority and the industry competent authority.
+
+The standards for determining whether an environmental impact assessment needs to be conducted again for approval, as mentioned in the preceding paragraph, shall be specified in the Enforcement Rules of this Act.
+
+#### Article 16-1
+
+When a developer starts development activity more than three years after the approval of its environmental impact statement or environmental impact assessment report and the acquisition of development activity permission granted by the industry competent authority, the developer shall submit an analysis of the difference between current environmental conditions and environmental conditions at the time its development activity permission was granted and a strategy evaluation report to the competent authority for review. Development activity may not start prior to the completion of the review by the competent authority.
+
+#### Article 16-2
+
+In the event that the competent authority of the target project revokes the development license document after the release of the conclusion of the environmental impact statement, the assessment statement or the report on difference analysis of the current environmental situation and review countermeasures, the review conclusion shall lose its validity.
+
+Provisions in the preceding paragraph shall apply to the environmental impact statement, assessment statement or report on difference analysis of the current environmental situation and review countermeasures that were released before the revision of the Act.
+
+#### Article 17
+
+The developer shall implement development activity strictly in accordance with the environmental impact statement, the content of the environmental impact assessment report and the review conclusion.
+
+#### Article 18
+
+During the implementation of the development activity and when using the development after completion of the development activity, the implementation of the environmental impact statement, environmental impact assessment report and review conclusion shall be tracked by the industry competent authority and supervised by the competent authority; when necessary, the developer may be ordered to regularly submit environmental impact survey reports.
+
+The developer shall, when preparing the environmental impact survey report in the preceding paragraph, investigate and analyze the differences between the pre- and post-development activity environments and evaluate these differences by comparing them with the forecasted results of the environmental impact statement and the environmental impact assessment report.
+
+When the competent authority discovers adverse effects on the environment, it shall instruct the developer to propose countermeasures within a time limit and implement them after approval by the competent authority.
+
+#### Article 19
+
+When environmental impact assessment cases are being tracked by the industry competent authority or supervised by the competent authority, the industry competent authority or the competent authority may exercise police powers. When necessary, the military or civilian police within the jurisdiction may be consulted to assist.
+
+### Chapter 3 Penal Provisions
+
+#### Article 20
+
+Those that knowingly report false information in documents submitted pursuant to Article 7, Article 11, Article 13 or Article 18 shall be punished by a maximum of three years imprisonment, detention and/or a fine of a maximum of NT$30,000.
+
+#### Article 21
+
+For those circumstances in which a developer fails to comply with an order to suspend development activity issued by the industry competent authority pursuant to this Act, the statutory responsible person shall be punished by a maximum of three years imprisonment, detention, and may be fined a maximum of NT$300,000.
+
+#### Article 22
+
+Those developers that, prior to receiving the authorization of the competent authority pursuant to Article 7 or Article 13, directly pursue a development activity in Article 5, Paragraph 1 shall be fined NT$300,000 to NT$1.5 million; for such a developer, the competent authority shall notify the industry competent authority to issue an order for the suspension of the implementation of the development activity. When necessary, the competent authority may directly issue an order for the suspension of the implementation of the development activity; for those that fail to comply with such an order, the statutory responsible person shall be punished by a maximum of three years imprisonment, detention and may be fined a maximum of NT$300,000.
+
+#### Article 23
+
+For one of the following circumstances, violators shall be fined NT$300,000 to NT$1.5 million and ordered to make improvements within a limited time period; those that have still failed to make improvements by the deadline shall be issued consecutive daily fines.
+
+Ⅰ. The violation of Article 7, Paragraph 3, Article 16-1 or Article 17
+
+Ⅱ. The violation of Article 18, Paragraph 1 through a failure to submit an environmental impact survey report or the violation of Article 18, Paragraph 3 through a failure to submit response strategies or a failure to carry out strict implementation in accordance with response strategies
+
+Ⅲ. The violation of Article 28 through a failure to submit response strategies or a failure to carry out strict implementation in accordance with response strategies
+
+For those severe circumstances in the preceding paragraph, the competent authority may notify the industry competent authority to order the suspension of the implementation of the development activity. When necessary, the competent authority may directly order the suspension of the implementation of the development activity; for those that fail to comply with an order, the statutory responsible person shall be punished by a maximum of three years imprisonment or detention, and may be fined a maximum of NT$300,000.
+
+Those developers that are unable to complete improvements by the improvement deadline in Paragraph 1 due to natural disaster or other force majeure shall continue to make improvements after the reason ends and shall, within 30 days, apply to the competent authority for the approval of a starting date for the remaining time period by submitting a written explanation of cause and relevant verification documents.
+
+The severe circumstances referred to in Paragraph 2 means one of the following.
+
+Ⅰ. Those circumstances in which the developer causes extensive public nuisance or serious destruction of natural resources
+
+Ⅱ. Those circumstances in which the developer does not implement development activities in accordance with the review conclusion of the competent authority or the commitments of the environmental impact statement or environmental impact assessment report, thereby endangering human health or agricultural, forestry, fisheries or livestock resources
+
+Ⅲ. Those circumstances in which the developer still fails to complete improvements after 30 days of consecutive daily fines issued by the competent authority
+
+Those developers that have been ordered to suspend the implementation of a development activity by the competent authority pursuant to Paragraph 2 shall submit the implementation results of their improvement plan to the competent authority for checking prior to the resumption of the implementation of the development activity; this also applies to those developers that have been ordered to make improvements within a limited time period by the competent authority and that report the suspension of the implementation of the development activity of their own volition. Those developers for whom checking reveals a failure to comply with standards may not resume the implementation of the development activity.
+
+In order to prevent the expansion of the degree or scope of environmental impact during the time period for the suspension of the implementation of a development activity in the preceding paragraph, the competent authority shall, in conjunction with the relevant agencies, require that the developer carry out restoration and improvements and emergency response measures in accordance with relevant laws and regulations. The competent authority may request the industry competent authority in writing to cancel the permission of those that fail to comply with this requirement.
+
+The central competent authority shall determine the starting date, temporary suspension dates, termination date, improvement completion verification checks and other binding matters for the daily consecutive fines referred to in Paragraph 1 and Paragraph 4.
+
+When the developer violates this Act or related orders determined pursuant to the authorization of this Act and the competent authority is negligent in implementation, victims or public interest groups may notify the competent authority in writing of the details of the negligent implementation.
+
+For those competent authorities that have still failed to carry out implementation in accordance with the law within sixty days after receipt of the written notification, the victims or public interest groups may name the competent authority at issue as a defendant and directly file a lawsuit with an administrative court based on the negligent behavior of the competent authority in fulfilling its implementation duties in order to seek a ruling ordering the competent authority to carry out implementation.
+
+When issuing a verdict on the lawsuit in the preceding paragraph, the administrative court in accordance with its authority may order the defendant competent authority to pay the appropriate lawyer fees, detection and appraisal fees and other litigation costs to plaintiffs that have made specific contributions to the prevention and mitigation of the adverse impact of the development activity on the environment.
+
+The central competent authority shall determine the format of the written notification in Paragraph 8.
+
+#### Article 23-1
+
+Developers which have been punished and notified to make improvements within a limited time period pursuant to this Act shall submit an improvement completion report or improvement completion verification documents to the competent authority for checking by the deadline.
+
+Those developers that fail to perform pursuant to the preceding paragraph shall be regarded as having failed to complete improvements.
+
+#### Article 24
+
+For fines issued pursuant to this Act, those that have been notified to make payments within a limited time period and have still failed to make payments by the deadline shall be referred a court for compulsory enforcement.
+
+### Chapter 4 Supplementary Provisions
+
+#### Article 25
+
+The central competent authority in conjunction with the Ministry of National Defense shall separately determine the environmental impact assessment process for those development activities that involves military secrets or emergency national defense construction projects.
+
+#### Article 26
+
+The central competent authority shall separately determine the environmental impact assessment process for government policy for which there is concern of environmental impact.
+
+#### Article 27
+
+The competent authority may collect review fees for the review of environmental impact statements, draft environmental impact assessment reports, environmental impact assessment reports and environmental impact survey reports submitted by a developer pursuant to Article 7, Article 11, Article 13 or Article 18.
+
+The competent authority shall separately determine fee collection regulations for the preceding paragraph.
+
+#### Article 28
+
+For a development activity that has already been implemented but has not been completed prior to the implementation of this Act, the competent authority may, when it deems necessary, order the developer to conduct a survey and analysis of environmental impact and to submit response strategies which it shall strictly implement after competent authority approval.
+
+#### Article 29
+
+For those developers that have already completed an environmental impact statement or environmental impact assessment report and for which a review conclusion has been prepared following review, but have not implemented the development activity in accordance with the review conclusion prior to the implementation of this Act, the competent authority and relevant competent authority shall order the developer to proceed pursuant to the relevant regulations of Article 18; the developer may not refuse this order.
+
+#### Article 30
+
+Local residents may delegate to a representative, in writing, the right to act on their behalf in accordance with this Act.
+
+#### Article 31
+
+The central competent authority shall determine the Enforcement Rules of this Act.
+
+#### Article 32
+
+This Act shall take effect on the date of promulgation.
+
+## History
+
+\1. Original 32 articles promulgated by presidential order on December 30, 1994.
+
+\2. Revisions to Articles 2 and 3 promulgated by presidential order on December 22, 1999.
+
+\3. Revisions to Articles 14 and 23 and additions of Articles 13-1, 16-1 and 23-1 promulgated by presidential order on June 12, 2002.
+
+\4. Revisions to Articles 12 through 14 and 23 promulgated by presidential order on January 8, 2003.
+
+\5. Additions of Articles 16-2 promulgated by presidential order on May 3, 2023.
+
+The transactions described in: Article 2; Paragraphs 1 and 3 of Article 3; Subparagraph 11 of Paragraph 1, and Paragraph 2 of Article 5; Article 7; Article 9; Paragraph 1 of Article 10; Paragraph 1 of Article 11; Paragraph 1 of Article 12; Article 13; Paragraph 1 of Article 13-1; Paragraphs 2 and 3 of Article 14; Paragraph 1 of Article 16; Article 16-1; Paragraphs 1 and 3 of Article 18; Article 19; Article 22; Paragraph 2, Paragraph 3, Subparagraphs 2 and 3 of Paragraph 4, Paragraphs 5, 6, 7, 8, 9 and 11 of Article 23; Paragraph 1 of Article 23-1; Article 25; Article 26; Article 27; Article 28; Article 29; and, Article 31 were conducted by the Environmental Protection Administration of the Executive Yuan, and transferred to the Ministry of Environment as of August 22, 2023 in accordance with the Order No. Yuan-Tai-Gui-Kui-Zi No. 1121028221 issued by the Executive Yuan on August 18, 2023.
+
+\6. Revisions to Article 5 promulgated by presidential order on November 28, 2025.

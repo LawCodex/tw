@@ -1,0 +1,263 @@
+---
+title: "Food Administration Act"
+title_zh: "糧食管理法"
+identifier: "M0030037"
+type: act
+law_level: "法律"
+category: "行政＞農業部＞農糧目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1997-05-30
+last_amended: 2019-07-17
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0030037"
+retrieved: 2026-10-12
+---
+
+# Food Administration Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-agriculture/M0030037-food-administration-act.md](../../../zh/laws/ministry-of-agriculture/M0030037-food-administration-act.md)) is authoritative.
+
+## Article 1
+
+This Act is enacted to regulate food demand and supply, stabilize food prices, improve food quality, and protect the interests of producers and consumers. Matters not covered by this Act shall be governed by other applicable laws.
+
+## Article 2
+
+For the purposes of this Act, "Competent Authority" refers to the Council of Agriculture, Executive Yuan.
+
+## Article 3
+
+For the purposes of this Act, the term “food” includes rice, wheat, flour, mixed grains containing more than 50% rice content, as well as certain coarse grains and processed rice products that are publicly announced to be regulated by the Competent Authority.
+
+## Article 4
+
+Definitions of terms used in this Act are as follows:
+
+\1. Rice: Paddy, brown rice, milled rice, broken rice, and related rice products.
+
+\2. Public food stock: Food owned by the government.
+
+\3. Food dealers: Profit-seeking enterprises, farmers’ associations, or cooperatives registered as food dealers pursuant to this Act.
+
+\4. Public food stock agents: Food dealers commissioned by the Competent Authority to handle the acquisition, safekeeping, processing, and distribution of public food stock.
+
+\5. Food business activities: Business activities such as the purchase, sale, brokerage, warehousing, processing, importation, and exportation of food.
+
+Market sale: the act of offering merchandise for a price in a public place to unspecified people.
+
+## Article 5
+
+The Competent Authority shall devise annual plans that encompass food production and marketing, food self-sufficiency, and the establishment and promotion for Taiwan's food brands to stabilize food supply, ensure national food security, and promote farmers' income and national agriculture.
+
+## Article 5-1
+
+For the security and stability of the food supply, the Competent Authority shall stockpile rice based on the average domestic consumption of the preceding year. This stockpile must be maintained at a level no lower than the safety rice stock level sufficient for a designated period, as determined by an order promulgated by the Executive Yuan.
+
+## Article 6
+
+The Competent Authority shall conduct surveys and compile statistics on the production, consumption, costs, and prices of major foods. Additionally, it shall establish information on farming households and cultivated land. This information will serve as the basis for planning the production, marketing, and management of foods.
+
+The information on farming households and cultivated land mentioned in the preceding paragraph shall include farming households' household registration records, land cadastre, information on actual cultivators, and cultivation records. The household registration, land cadastre, and tax information necessary for filing can be required of the household registration, land administration, and tax authorities, respectively. Farming households are responsible for declaring information on the actual cultivators and cultivation records.
+
+## Article 7
+
+Food shall be freely imported and exported. However, restrictions may be imposed to ensure national food security. The types, amounts, and regions subject to restrictions, as well as the duration, conditions, and methods of the restrictions, will be promulgated by the Competent Authority.
+
+Approval from the Competent Authority is required before exporting or importing any food subject to the promulguated restrictions as per the preceding paragraph.
+
+Rice and processed rice products within the quota regulated by the Customs Import Tariff shall be imported by the Competent Authority or by importers/exporters qualified as food dealers, in proportions determined by the Competent Authority.
+
+Imports exceeding the quota may only be conducted by qualified food dealers in accordance with related regulations. Importers/exporters lacking food dealer qualifications must obtain approval from the Competent Authority before importing in accordance with related regulations.
+
+To address actual or anticipated supply-demand imbalances of rice or processed rice products in the domestic market, or to respond to unforeseen circumstances, the Competent Authority may approve imports at the in-quota tariff rate, without counting them towards the quota.
+
+## Article 8
+
+The Competent Authority may commission public food stock agents to handle the acquisition, safekeeping, processing, and distribution of public food stock.
+
+The conditions that public food stock agents and their warehouses must meet, as well as regulations for the acquisition, safekeeping, processing, distribution, and other management matters of public food stock, shall be determined by the Competent Authority.
+
+## Article 9
+
+The inspection of paddies acquired for public food stock shall include foreign matter, moisture content, test weight, and quality. Inspection standards shall be prescribed by the Competent Authority.
+
+## Article 10
+
+Any person intending to engage in food business activities must register as a food dealer with the Competent Authority.
+
+The above requirement for food dealer registration does not apply to retailers selling small quantities of food, as long as their daily food stock falls below the quantity prescribed by the Competent Authority.
+
+For food dealer registration as prescribed in Paragraph 1, the Competent Authority shall prescribe the application documents and procedures, the permitted and restricted business activities, changes requiring registration updates and their associated procedures and deadlines, the conditions for registration revocation, and any other compliance rules.
+
+## Article 11
+
+Food dealers must maintain records of food purchase, sale, storage, processing, and brokering. Imported foods and domestic foods shall be recorded separately.
+
+Food importers or processors publicly announced by the Competent Authority to operate above a certain scale must record details regarding sources of provisions and flow directions.
+
+Records mentioned in the preceding two paragraphs must be retained for a period of two years.
+
+The Competent Authority is authorized to dispatch personnel for inspections and sampling surveys related to the matters specified in Paragraphs 1 and 2. If necessary, the Competent Authority may request relevant details regarding sources of provisions and flow directions for food supplies, and food dealers may not evade, obstruct, or refuse such requests.
+
+## Article 12
+
+In the event of natural disasters or sudden incidents causing an unbalanced food supply and demand, the Competent Authority shall submit the following information to the Executive Yuan for approval of public announcement and management:
+
+1.The period, quantity, and price of food sales and purchases.
+
+2.Food storage, transportation, and processing.
+
+3.Emergency purchase and sale of food through ration distribution.
+
+## Article 13
+
+The Competent Authority shall guide the production and marketing of high-quality rice and establish a rice grading and testing system.
+
+## Article 14
+
+The following infomration shall be clearly labeled in Chinese and with common symbols on the packages or containers of packaged food offered for market sale:
+
+\1. Product name.
+
+\2. Quality specification.
+
+\3. Origin.
+
+\4. Net Weight.
+
+\5. Date of milling.
+
+\6. Expiration date.
+
+\7. Name, telephone number, and address of the manufacturer and domestic dealer.
+
+Unpackaged food offered for market sale shall be labeled in Chinese with the name and place of origin.
+
+The Competent Authority shall prescribe regulations for the food labeling required in the previous two paragraphs, including the specific contents and methods, as well as any additional labeling requirements.
+
+Food labeling shall be subject to the provisions of the Act Governing Food Safety and Sanitation in addition to the requirements in the previous three paragraphs.
+
+## Article 14-1
+
+Food offered for market shall not exhibit any of the following conditions:
+
+\1. The labeling information, including the listed items and contents, does not accurately reflect the actual contents, or the contents are adulterated or false, or the promotion or advertisement on the package or container is untrue, exaggerated, or misleading.
+
+\2. Mixing imported and domestic rice for sale.
+
+## Article 15
+
+The Competent Authority may conduct sampling surveys on the labeling of food offered for market sale and test the quality of the food. Retailers selling small quantities of food as specified in Paragraph 2 of Article 10 (hereinafter referred to as "food retailers") must not avoid, interfere with, or refuse sampling surveys or tests and must provide information on the food's sources.
+
+Personnel performing sampling surveys and tests in accordance with the preceding paragraph must display relevant credentials to food dealers or retailers. Sampled items from markets will be purchased at the posted price. The methods of sampling surveys and tests shall be determined by the Competent Authority.
+
+Tests conducted under Paragraph 1 shall follow the CNS national standards or other appropriate methods. The Competent Authority may delegate all or part of the tests to other entities such as testing bodies, legal entities, or academic or research institutes.
+
+## Article 15-1
+
+No person shall deliberately disseminate rumors or false information that affect market food prices, the Competent Authority’s implementation of food production and marketing programs, or acquisition for public food stock.
+
+## Article 16
+
+(Deleted)
+
+## Article 17
+
+Violations of any requirements publicly announced for management by the Competent Authority under Article 12 may result in imprisonment for up to three years, detention, and/or a fine up to the total value of the food involved.
+
+## Article 17-1
+
+(Deleted)
+
+## Article 18
+
+A violation of Paragraph 1 of Article 10 by engaging in food business activities without completing food dealer registration, or a violation of Paragraph 3 of Article 10 regarding the allowed and restricted business activities, changes requiring registration updates and their associated procedures and deadlines, or other relevant requirements will result in an order from the Competent Authority to rectify the violation within a specified time limit. Failure to comply within the time limit will result in a fine of no less than NT$60,000 and no more than NT$240,000. Each violation will incur a separate fine.
+
+The Competent Authority shall order a food dealer to rectify the following violations within a specified time limit. Failure to comply within the time limit will result in a fine of no less than NT$30,000 and no more than NT$150,00. Each violation will incur a separate fine.
+
+\1. Violation of Paragraph 1 of Article 11, failing to maintain separate records for imported and domestic foods.
+
+\2. Violation of Paragraph 3 of Article 11, failing to retain records for 2 years.
+
+\3. Violation of Paragraph 1 or Paragraph 2 of Article 14, failing to include the required information in labeling, or violation of Paragraph 3 of Article 14, regarding the labeling contents and methods required.
+
+For severe violations of Subparagraph 3 of the previous paragraph, the Competent Authority may impose a partial or complete suspension of the offender's food business activities for a designated period or revoke all or part of the offender's food dealer registration.
+
+## Article 18-1
+
+A violation of paragraph 2 of Article 14-1 shall incur a fine of no less than NT$100,000 and no more than NT$15,000,000. Each violation will incur a separate fine. In cases of serious violations, the Competent Authority shall impose a partial or complete suspension of the offender's food business activities for a designated period or revoke all or part of the offender's food dealer registration.
+
+If a food dealer fails to rectify its violation of Paragraph 1 of Article 14-1 within a specified time limit, as ordered by the Competent Authority, it shall face a fine of no less than NT $40,000 and no more than NT$4,000,000. Each violation will incur a separate fine. In serious violations, the Competent Authority may impose a fine without a prior order for rectification and shall additionally impose a partial or complete suspension of the offender's food business activities for a designated period, or revoke all or part of the offender's food dealer registration.
+
+A fine ranging from NT$30,000 to NT$3,000,000 per violation shall be imposed on a food dealer for any of the following circumstances:
+
+1.Violation of Paragraph 1 of Article 11, failing to record information, or violation of Paragraph 2 of Article 11, where an importer or processor fails to record details of the sources or flow directions for imported or processed food.
+
+2.Violation of Paragraph 4 of Article 11, including avoidance, obstruction, or refusal of inspections or sampling surveys of recorded details, or refusal to provide relevant details of sources and flow directions.
+
+3.Violation of Paragraph 1 of Article 15, where a food dealer or retailer avoids, obstructs, or refuses the competent authority's sampling surveys or tests of food offered for market sale, or refuses to provide relevant details of sources and flow directions.
+
+## Article 18-2
+
+A profit-seeking enterprise, farmers' association, or cooperative that has had its entire or partial food dealer registration revoked under Articles 18 or 18-1 is ineligible to reapply for a food dealer registration (entire or partial) under this Act for a period of one year from the date of revocation.
+
+The Competent Authority may publicly disclose the following information about a food dealer who fails to rectify a violation under Article 18, Paragraph 2, Subparagraph 3, or is subject to a penalty under Article 18, Paragraph 2. The disclosed information may include the name, address, and responsible person of the offending food dealer, the name of the involved product, specific details of the violation, and the location and date of product sampling.
+
+If a violation under the preceding paragraph seriously impairs consumer rights and interests, the Competent Authority shall order the removal of the marketed products from store shelves within three days, followed by a recall of the products within one month.
+
+A food dealer that fails to comply with the product removal or recall order within the designated timeframe will be subject to a fine of no less than NT$100,000 and no more than NT$3,000,000. In severe cases, the Competent Authority shall terminate the offender’s business operations, suspend its business operations for a designated period, or revoke its entire or partial food dealer registration. Re-registration (entire or partial) is not allowed for a period of one year from the date of revocation.
+
+## Article 18-3
+
+Any person who violates Article 15-1, causing harm to farmers' income or consumer rights, shall be subject to a fine of no less than NT$60,000 and no more than NT$300,000.
+
+## Article 19
+
+(Deleted)
+
+## Article 20
+
+(Deleted)
+
+## Article 21
+
+The Competent Authority shall collect separate fees for registrations it conducts and tests it performs pursuant to this Act. The fee-charging standards for each category will be prescribed by the Competent Authority.
+
+## Article 22
+
+(Deleted)
+
+## Article 23
+
+The enforcement rules of the Act shall be prescribed by the Competent Authority.
+
+## Article 24
+
+This Act shall take effect from the date of its promulgation.
+
+Articles amended on December 27, 2002, shall take effect on January 1, 2003. Articles amended on May 30, 2014, shall take effect six months after the date of promulgation.
+
+## History
+
+\1. Promulgated on May 30, 1997.
+
+\2. Amendment to Article 2, Article 10, and Article 11, and deletion of Article 20, promulgated on May 17, 2000.
+
+\3. Amendment of all 24 articles, promulgated on November 7, 2001.
+
+\4. Amendment to Article 7 and addition of Article 17-1, promulgated on June 19, 2002.
+
+\5. Amendment to Article 7 and Article 24, and deletion of Article 17-1, promulgated on December 31, 2002. The amendments on December 27, 2002 took effect on January 1, 2003.
+
+\6. Addition of Article 5-1, promulgated on May 24, 2006.
+
+\7. Addition of Article 18-1, deletion of Articles 16, 19, and 20, and amendments to Articles 4, 7, 8, 14, 15, 18, and 22, promulgated by President Order Hua-Tsung-Yi-Tzu No. 09900317101 on November 24, 2010.
+
+\8. Addition of Articles 14-1 and 18-2, deletion of Article 22, and amendments to Articles 3, 5, 10, 11, 14, 18, 18-1, 21, and 24, promulgated by President Order Hua-Tsung-Yi-Tzu No. 10300093251 on June 18, 2014.
+
+\9. Addition of Articles 15-1 and 18-3, promulgated on July 17, 2019 by President Order Hua-Tsung-Yi-Jing-Tzu No. 10800070511.
+
+Following Executive Yuan Order Tai-Gui-Zi No. 1125014346 issued on July 27, 2023, authority over matters in the following provisions of the Act that previously fell under the jurisdiction of the Council of Agriculture, Executive Yuan, was transferred to the Ministry of Agriculture on August 1, 2023: Article 2; Article 3; Subparagraph 4 of Article 4; Article 5; Article 5-1; Paragraph 1 of Article 6; Article 7; Article 8; Article 9; Article 10; Paragraphs 2 and 4 of Article 11; Article 12; Article 13; Paragraph 3 of Article 14; Article 15; Article 15-1; Article 17; Article 18; Paragraphs 1 and 2, and Subparagraph 3 of Paragraph 3 of Article 18-1; Paragraphs 2 and 3 of Article 18-2; Article 21; and Article 23.

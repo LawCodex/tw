@@ -1,0 +1,245 @@
+---
+title: "The Motion Picture Act"
+title_zh: "電影法"
+identifier: "P0040002"
+type: act
+law_level: "法律"
+category: "行政＞文化部＞影視出版目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1983-11-18
+last_amended: 2015-06-10
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=P0040002"
+retrieved: 2026-10-12
+---
+
+# The Motion Picture Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-culture/P0040002-the-motion-picture-act.md](../../../zh/laws/ministry-of-culture/P0040002-the-motion-picture-act.md)) is authoritative.
+
+## Article 1
+
+Motion picture industry is deemed part of the cultural industry. This Act has been formulated to provide guidance and financial incentives to, and oversight of, the motion picture industry,to promote the artistic and cultural development of motion pictures.
+
+## Article 2
+
+The term “central competent authority” as used in this Act shall refer to the Ministry of Culture, “special municipalities” shall refer to the city governments of special municipalities, and “cities and counties” to city and county governments.
+
+## Article 3
+
+The terms used in this Act are defined as follows:
+
+\1. Motion picture: refers to films with image and sound recordings, or digitalized productions of equivalent standards as that of films, which can be run continuously. These include domestic motion pictures and non-domestic motion pictures.
+
+\2. Motion picture enterprise: refers to the following:
+
+a. Motion picture production enterprise;
+
+b. Motion picture distribution enterprise;
+
+c. Enterprise engaged in the supplying of equipment, facilities, or techniques for motion picture production;
+
+d. Motion picture screening establishment.
+
+\3. Motion picture screening establishment: refers to an enterprise whose principal business involves the issuance and sale of gate tickets for the showing of films.
+
+\4. Workers engaged in the motion picture industry: refers to those who participate in the planning, scripting, directing, acting, and other aspects of films production.
+
+\5. Motion picture screener: Any person involved in the screening of motion pictures not attached to a motion picture screening establishment.
+
+The standards for determining domestic motion pictures and non-domestic motion pictures, as mentioned in Subparagraph 1 above shall be designed with the protection of the development of the domestic motion picture industry in mind and shall be separately announced by the central competent authority and published by the government.
+
+## Article 4
+
+To spur development of the motion picture industry and of film culture, the central competent authority shall draft related policies and implement the following as guidance:
+
+\1. Cultivate motion picture personnel;
+
+\2. Promote the creation of film scripts and stories;
+
+\3. Establish a domestic motion picture guidance fund;
+
+\4. Set up a guidance system for the investment, financing and matchmaking of the motion picture enterprise.
+
+\5. Assist with the production, distribution, screening, marketing, and domestic and foreign sale of domestic motion pictures;
+
+\6. Organize and provide guidance to chain screening establishments showing domestic motion pictures.
+
+\7. Aid the motion picture industry in upgrading its equipment and improving its techniques.
+
+\8. Assist with the collection, restoration, preservation, and promotion of film assets.
+
+\9. Establish a motion picture industrial park.
+
+\10. Provide guidance for the development of motion pictures featuring diversified cultures.
+
+\11. Providing other guidance to assist with the development of the motion picture industry.
+
+The central competent authority shall coordinate on assisting the development of the motion picture industry with other central government agencies and their subordinate agencies as well as special municipality, county, and city governments.
+
+The central competent authority shall, every four years, publish a white paper on the government’s motion picture policy addressing how the previous two paragraphs have been acted upon.
+
+## Article 5
+
+The motion picture industry or motion picture personnel may be cited for:
+
+\1. Being awarded a top prize or mention at an international film festival or exchange activities;
+
+\2. Showing outstanding effort in expanding the domestic and foreign market for domestic motion pictures or spurring film culture exchanges;
+
+\3. Making a noteworthy contribution to upgrading the equipment or techniques used by the domestic motion picture industry or increasing the industry’s international competitiveness;
+
+\4. Evidencing particular success in the screening of domestic motion pictures;
+
+\5. Making a noteworthy contribution to the research and development of motion picture scripts and stories;
+
+\6. Evidencing particular success in expanding access to culture.
+
+## Article 6
+
+When imported foreign motion pictures have caused or might cause severe damage to domestic motion picture enterprises, to sustain and develop domestic motion picture enterprises, the central competent authority may establish temporary measures to protect the cultural subjectivity of domestic motion pictures such as establishing a minimum percentage of films being screened that must be domestic motion pictures.
+
+## Article 7
+
+As an incentive to invest in domestically produced motion pictures, a private company that invests in the establishment or expansion of a domestic motion picture production enterprise of a definite size within ten years of May 22, 2015, is a holder of an original share subscription or by solicitation of registered shares issued by said domestic motion picture production enterprise, and holds the shares for three years or more, may credit a maximum of 20 percent of the amount paid for the share acquisitions against the amount of business income tax payable each year within a period of five years from the then-current year (the “investment tax credit”).
+
+The total amount of this credit in each ensuing year as referred to in the preceding paragraph shall not exceed 50 percent of the amount of the year's business income tax payable in the then-current year; however, this limitation does not apply to the deduction for the final year.
+
+The incentives stipulated in this Article may not be applied to capital raised through the issuance of registered shares as mentioned in Paragraph 1, or the expenses incurred through such issuance, that have already benefited from incentives detailed in other laws and regulations such as investment tax credit or exemption from business income tax.
+
+The scope of application, total investment credit, approving authorities, deadline for application, procedures, tax credit rate, and regulations governing other items concerning the aforementioned “a domestic motion picture production enterprise of a definite size” and “investment tax credit” mentioned in Paragraph 1 shall be determined by the central competent authority in conjunction with the Ministry of Finance and then sent to the Executive Yuan for approval.
+
+## Article 8
+
+Foreign motion picture production firms that have produced films on Republic of China (Taiwan) territory within the previous year and have paid value added and non-value added business tax of a certain amount connected with the purchase of goods or labor may apply for a tax rebate where the conditions of Paragraph 1 of Article 7 of the Value-added and Non-value-added Business Tax Act are met.
+
+## Article 9
+
+Those applying for ratings for a motion picture or an advertisement for a motion picture shall submit an application form as well as related documents, materials to the central competent authority.
+
+Motion pictures and advertisements for motion pictures shall not be screened if not granted a rating by the central competent authority. Films of an educational nature, subject to the authority of the competent authority for education, shall not be subject to this statute.
+
+A motion picture rating shall not violate the principle of proportionality.
+
+The central competent authority shall convene a rating commission to rate motion pictures. Members of the commission shall be representatives of government agencies, and scholars and experts having academic or practical experience in related fields.
+
+The central competent authority may commission private professional groups to aforementioned ratings.
+
+The commission’s conclusions shall be made public and clear rationales for ratings given be listed.
+
+## Article 10
+
+A certificate signifying a rating given by the ratings commission shall be issued by the central competent authority. The certificate shall include the following information about the motion picture: nationality, area, rating, screening time, audience age restriction, conditions, and approval number.
+
+For motion pictures which are to be entered in a film festival, the central competent authority may list on the certificate not only the audience age restrictions and conditions, but also restrictions on number and time of screenings.
+
+Motion pictures and motion picture advertisements that violate restrictions or prohibitions laid out in law, the central competent authority shall not grant a rating.
+
+The central competent authority shall issue regulations concerning the procedure, commissioning, rating, screening, use of advertisements and promotional materials and other items related to applying for a rating and the rating process.
+
+Where applicants are dissatisfied with the rating given, they may, within five days of receipt of notification of the rating given, apply for a second review with the central competent authority; only one additional review may be granted.
+
+## Article 11
+
+Motion pictures that have received a rating may be publicly screened for a period of four years, saving those meeting the following conditions:
+
+\1. Where the authorized distribution period is less than four years, the period granted shall be the same as the authorized distribution period.
+
+\2. Where the film is being screened at a film festival, the period granted shall be the same as the length of said film festival.
+
+## Article 12
+
+Where the following conditions are met, motion pictures or advertisements for motion pictures shall reapply for a rating:
+
+\1. Where the end of the authorized screening period has been reached, but further screening is desired;
+
+\2. Where the name, plot, or rating of a motion picture during its authorized screening period is changed by the applicant;
+
+\3. Where the reason for denying a rating has been removed.
+
+## Article 13
+
+Motion picture screening establishments shall, within one year of this amended Act’s May 22, 2015 promulgation, set up a computerized box-office statistics system and provide information from said system to the central competent authority or a legal person, group, or organization concerned with motion pictures designated by the central competent authority.
+
+The central competent authority may provide funding to motion picture screening establishments to help defray the cost of equipment and facilities connected to the installation of a computerized box-office statistics system.
+
+## Article 14
+
+Motion picture screening establishments shall abide by central competent authority regulations concerning the timing of the screening of advertisements.
+
+## Article 15
+
+Motion picture screening establishments shall display a motion picture’s title, rating, format, language, and screening time in a well-marked location on the screening premises. The same information shall be posted on a motion picture screening enterprise’s online ticketing system, where one exists.
+
+A motion picture screener shall display elements of the preceding paragraph in a well-marked location on the screening premises.
+
+Motion picture screening establishments and screeners are to confirm with members of the audience that they are of age when viewing a “restricted” film; asking, where conditions merit, that they show identification.
+
+Motion picture screening establishments shall display on the screening premises or on tickets the value of accident liability insurance.
+
+## Article 16
+
+Motion picture screeners are not to screen motion pictures for profit.
+
+## Article 17
+
+Where motion pictures are screened for profit domestically, they shall meet standards for handicapped access, and include either Chinese subtitles or Mandarin dubbing.
+
+## Article 18
+
+The central competent authority may dispatch personnel (having on their person identification) to make spot checks of motion picture screening establishments. Motion picture screening establishments and motion picture screeners are not to evade, hinder, or refuse them.
+
+## Article 19
+
+Where motion picture screening establishments or screeners are found to be in one of the following situations, the competent authority of the relevant special municipality, county, or city shall levy a fine of between NT$60,000 and NT$300,000 and state the time limit for the situation to be rectified. Where no such rectification has taken place, the fine may be applied consecutively for each violation.
+
+\1. Where Paragraph 2 of Article 9 has been violated, namely that a motion picture or motion picture advertisement that has not been submitted for rating has been screened.
+
+\2. Where Paragraph 4 of Article 10 has been violated, namely that regulations concerning rating, screening, and advertising have not been followed.
+
+\3. Where a motion picture or motion picture advertisement has been screened that has not reapplied for a rating in line with Article 12.
+
+\4. Where Article 14 or Article 16 is violated.
+
+\5. Where Article 18 is violated and personnel making spot checks are evaded, hindered, or refused.
+
+Where the conditions of subparagraph 1 to subparagraph 3 of the preceding paragraph apply, the central competent authority will levy a fine of between NT$30,000 and NT$150,000 on the provider of the motion picture or motion picture advertisement and state the time limit for the situation to be rectified. Where no such rectification has taken place, the fine may be applied consecutively for each violation.
+
+## Article 20
+
+Where anyone but motion picture screening establishments and motion picture screeners violates the provisions related to the use of motion picture advertisements prescribed by the central competent authority pursuant to paragraph 4 of Article 10, the central competent authority will levy a fine of between NT$20,000 and NT$100,000 and state the time limit for the situation to be rectified. Where no such rectification has taken place, the fine may be applied consecutively for each violation.
+
+## Article 21
+
+Where motion picture screening establishments violate Paragraph 1 of Article 13, the central competent authority shall issue a warning and state the time limit for the situation to be rectified. Where no such rectification has taken place, a fine of between NT$20,000 and NT$100,000 will be levied and a time limit for the situation to be rectified stated. Where no such rectification takes place, the fine may be applied consecutively for each violation.
+
+## Article 22
+
+Where Paragraph 1 or Paragraph 2 of Article 15 is violated, the competent authority of the relevant special municipality, county, or city shall issue a warning and state the time limit for the situation to be rectified. Where no such rectification has taken place, a fine of between NT$10,000 and NT$50,000 may be applied and a time limit for the situation to be rectified stated. Where no such rectification takes place, the fine may be applied consecutively for each violation.
+
+## Article 23
+
+The Enforcement Rules of the Motion Picture Law shall be set by the central competent authority.
+
+## Article 24
+
+This Act will take effect from its date of promulgation.
+
+## History
+
+1.Promulgated by the President Order on November 18,1983.
+
+2.Addition of Article 5 -1 and deletion of Articles 11 and 40 promulgated by the Presidential Order Hua Zong (I) Yi No. 000222660 on November 14, 2001.
+
+3.Revision of Article 5 promulgated by the Presidential Order Hua Zong (I) Yi No. 09100075680 on April 24, 2002.
+
+4.Addition of Article 50-1, and revision of Articles 6, 8, 10, 14, 17, 18, 27, 30, and 46 promulgated by the Presidential Order Hua Zong (I) Yi No. 09100119140 on June 12, 2002.
+
+5.Revision of Article 2; deletion of Article 5-1; and addition of Articles 39-1 and 39-2 promulgated by the Presidential Order Hua Zong (I) Yi No. 09200248371 on January 7, 2004
+
+6.Revision of Articles 39, 39-1, and 45 promulgated by Presidential Order Hua Zong (I) Yi No. 097002288191 on January 7, 2009
+
+7.Amended by Presidential Order Hua Zong(1) Yi No. 10400067401 on June 10, 2015

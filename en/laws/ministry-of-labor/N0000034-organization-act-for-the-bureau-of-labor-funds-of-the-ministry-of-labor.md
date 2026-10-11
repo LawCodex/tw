@@ -1,0 +1,83 @@
+---
+title: "Organization Act for the Bureau of Labor Funds of the Ministry of Labor"
+title_zh: "勞動部勞動基金運用局組織法"
+identifier: "N0000034"
+type: act
+law_level: "法律"
+category: "行政＞勞動部＞組織目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2014-01-29
+last_amended: 2014-01-29
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0000034"
+retrieved: 2026-10-12
+---
+
+# Organization Act for the Bureau of Labor Funds of the Ministry of Labor
+
+> Translation. The Chinese text ([zh/laws/ministry-of-labor/N0000034-organization-act-for-the-bureau-of-labor-funds-of-the-ministry-of-labor.md](../../../zh/laws/ministry-of-labor/N0000034-organization-act-for-the-bureau-of-labor-funds-of-the-ministry-of-labor.md)) is authoritative.
+
+## Article 1
+
+The Ministry of Labor (hereinafter referred to as "the Ministry") shall establish the Bureau of Labor Funds (hereinafter referred to as "the Bureau") to administer the business of all types of labor funds and investments.
+
+## Article 2
+
+The Bureau shall be in charge of the following matters:
+
+1.Investment and management of the Ministry's special funds (hereinafter referred to as "the Funds").
+
+2.Formulating and implementing investment strategies, managing asset allocation, and developing annual usage plans for the Funds.
+
+3.Establishing risk management budgets, conducting analysis and preparation of routine risk reports, and implementing risk management strategies for the Funds.
+
+4.Developing discretionary investment strategies for the Funds, planning and selecting domestic and international asset management firms, executing and supervising these engagements, and conducting evaluations of their performance.
+
+5.Overseeing the accounting procedures and custody of the investment and management of the Funds.
+
+6.Developing, implementing, and assessing of the annual audit plan for the Funds.
+
+7.Developing, implementing, and assessing of integrated services for the Funds.
+
+8.Developing, implementing, and assessing of management regulations for the Funds.
+
+9.Overseeing the overall planning and promotion of risk management information systems for the Funds.
+
+10.Other business related to the Funds.
+
+## Article 3
+
+The Bureau shall have one Director-General at senior grade 13, and two Deputy Directors-General at senior grade 12.
+
+## Article 4
+
+The Bureau shall have one Chief-Secretary at senior grade 11.
+
+## Article 5
+
+The official ranks, grades, and headcounts of personnel at the Bureau shall be regulated by a separate Personnel Establishment Table.
+
+To align with business requirements, the hiring staff shall consist of professionals possessing expertise in financial markets and the total number of the staff shall not exceed 30 based on the provisions of the employment regulations.
+
+The 51 people transferred to the Bureau from the original Bureau of Labor Insurance (hereinafter referred to as the Bureau of Labor Insurance) shall not be included in the scope of staffing by the Act Governing the Total Number of Personnel Headcounts of Central Government Agencies.
+
+## Article 6
+
+Before the implementation of this Act, the Executive Yuan and the Examination Yuan will conjointly determine the regulations governing the official levels and the pension matters for the existing staff of qualified civil servants transferred from the Bureau of Labor Insurance. However, if the remuneration of such qualified civil servants after the implementation of this law is lower than prior to implementation based on their official positions, the differences in the remuneration of such qualified civil servants and their official levels validated by the Ministry of Civil Service can be determined in accordance and with consent of the personnel. The differences shall be written off with the adjusted remuneration. Subsistence allowance shall not be claimed while the personnel receive the differences. If differences of the remuneration are not made up, subsistence allowance shall be claimed in accordance with the regulations.
+
+The restrictions mandated in the Civil Service Examination Act and the special regulations and transferring regulations of the Special Examination for Customs Clearance Agents shall not apply to the personnel identified in the former entry. However, with respect to transfer of the personnel, such restrictions are limited only to the positions of the examination authority, the subordinated agencies and the Bureau.
+
+The provisions of the existing regulations shall apply to the existing staff members who were not qualified as civil servants but were transferred from the Bureau of Labor Insurance in their terms of office until their resignation or retirement.
+
+The remuneration adjustment indicated in the first paragraph refer to the adjustment of the remuneration of the national military and public employees, their career advancements (promotions), their annual performance appraisals (verified), and their remuneration adjustments after the promotions.
+
+## Article 7
+
+The effective date of this Act shall be decreed by the Executive Yuan.
+
+## History
+
+1.Enacted and promulgated a total seven articles by the Presidential Order No.10300010781 on January 29, 2014.

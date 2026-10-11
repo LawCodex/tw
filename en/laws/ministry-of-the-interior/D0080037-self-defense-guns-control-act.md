@@ -1,0 +1,213 @@
+---
+title: "Self-defense Guns Control Act"
+title_zh: "自衛槍枝管理條例"
+identifier: "D0080037"
+type: act
+law_level: "法律"
+category: "行政＞內政部＞警政目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1946-06-28
+last_amended: 2002-06-26
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0080037"
+retrieved: 2026-10-12
+---
+
+# Self-defense Guns Control Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-the-interior/D0080037-self-defense-guns-control-act.md](../../../zh/laws/ministry-of-the-interior/D0080037-self-defense-guns-control-act.md)) is authoritative.
+
+## Article 1
+
+All guns for self-defense use by individuals and legally established organizations and institutions shall be regulated in accordance with this Act.
+
+Regulations governing the possession of self-defense guns by active duty military personnel, as well as applications for the inspection and licensing, alteration, disposal, requisition of such firearms, and other relevant matters for active duty military personnel shall be prescribed by the Ministry of National Defense.
+
+## Article 2
+
+The guns for self-defense referred to in this Act comprise the following:
+
+\1. Category A guns: all types of handguns, rifles, carbines, and homemade guns.
+
+\2. Category B guns: all types of shotguns, air guns, spearguns, and other guns with a self-defense capability.
+
+The above-mentioned categories include ammunition.
+
+## Article 3
+
+For security purpose, organizations and groups may request the local police departments to assign guards. If they need to be equipped with guns, an employee roster shall be submitted to the local police department for transfer to the Ministry of the Interior for approval; the number of guns shall not exceed 1/5 of the actual number of employees, except for departments responsible for public security tasks. Regulations governing applications for guns, allocation, licensing, and other relevant matters shall be prescribed by the Ministry of the Interior.
+
+## Article 4
+
+The competent authorities governing the management of self-defense guns are the Ministry of the Interior at the central level, the special municipal governments at the specialmunicipality level, and the county (or county-level city) governments at the county (or county-level city) level.
+
+## Article 5
+
+The inspection  and licensing of self-defense guns takes place once every two years, with the term of the license commencing from January 1 of the first year.
+
+## Article 6
+
+The quantity of self-defense guns possessed may not exceed one Category A and one Category B gun per person, or two Category A and Category B guns per household. Applications for inspection and licensing shall be submitted according to the following procedure:
+
+\1. Prepare three copies of the application form and submit them together with  guarantees from members of the applicant’s household, retail establishments or public servants, personnel in active military service, autonomous personnel or/and public representatives, six 2-inch half-length front-view photos of the applicant without headwear, and any other relevant documents to the police department in charge for registration, guarantee verification and inspection.
+
+\2. After receiving the application, the police department in charge shall immediately give the documents a careful review. If the applicant is found to have a bad record or criminal record, no license shall be granted and the applicant’s guns and ammunitions shall be requisitioned by purchase. Applicants confirmed to meet the requirements shall be listed in the register of the corresponding region, and personnel shall be dispatched to a proper location to handle inspection and branding, issue temporary inspection certificates, and collect the licensing fee.
+
+\3. The gun license shall be granted within 1 month after completion of inspection. For temporary applications to regrant or replace the original license, the term of validity is until the expiration date of the original license.
+
+The guarantors mentioned in Subparagraph 1 shall have the following qualifications:
+
+\1. Members of the household: refers to a head of the same household with the applicant  legally registered at a household registration office.
+
+\2. Retail establishments: refers to the principals of shops legally registered at commercial registration offices.
+
+\3. Public servants: refers to officers currently holding a position of junior rank or above.
+
+\4. Personnel in active military service: refers to active-duty military officer holding a position of majorl or above.
+
+\5. Autonomous personnel: refer to mayors of townships (or township-level　cities) or higher level jurisdictions.
+
+\6. Public representatives: refers to councilors at the special municipality and county ((or county-level city) levels or above.
+
+## Article 7
+
+For guns dedicated to hunting purpose, with a certificate provided by the chief of the local jurisdiction (village or borough), the quantity of Category B guns may be increased by 1 to 2 times per household over the limit prescribed in the above-mentioned article.
+
+## Article 8
+
+Foreigners residing in the Republic of China who wish to carry a gun for self-defense shall submit a letter of application together with the licensing fee and latest six recent 2-inch half-length front-view photos to a nearby embassy or consulate of their country for endorsement and guarantee, and then send to the local police department for inspection and licensing. If the foreign applicant with diplomatic status, the application shall be submitted to the Ministry of Foreign Affairs for transfer to the police department in the capital city for inspection and licensing.
+
+## Article 9
+
+When organizations or groups apply for a gun license, it should submit the approval documents, application form, gun history form, and employee roster to the local police department for inspection and decision in accordance with Subparagraphs 2 and 3 of Article 6.
+
+## Article 10
+
+A license shall be granted for each self-defense gun, with a licensing fee of NT$10 is charged for Category B guns dedicated for hunting, and for other guns the licensing fee is set at NT$20. However, foreigners with diplomatic status may be exempted from the license fee in accordance with international convention.
+
+The above-mentioned licenses shall be printed by the Ministry of the Interior. The quantity required by each special municipality and county (or county-level city) government shall be reported to the Ministry of the Interior together with the licensing fees for granting the licenses.
+
+The above-mentioned license fees shall be paid to the national treasury. But the special municipal and county (city) governments may deduct half the amount to cover inspection expenses. Expenditure budgets shall be handled separately.
+
+## Article 11
+
+Licenses for self-defense guns are valid for 2 years, and upon expiration  must immediately be surrendered and  a new license may be applied for.
+
+If any of the following conditions occur within the term of the license, the self-defense guns shall be purchased by the special municipal or county (or county-level city) government:
+
+\1. The holder has been sentenced to fixed-term imprisonment or more severe punishment, and the sentence has been confirmed.
+
+\2. The holder is incapable of using guns due to mental aberration or accidents.
+
+\3. Continued possession of guns by the holder presents a potential public security risk due to the holder’s misbehavior, accidents within the family, or serious disputes between the holder and others.
+
+If a self-defense gun is used to commit a crime, the weapons and ammunition on the scene as well as the bullets kept in other places shall be confiscated.
+
+## Article 12
+
+The number of equipped bullets of self-defense guns may not exceed 50 for each handgun or 100 for each rifle or carbine.
+
+## Article 13
+
+All licensed self-defense guns may be requisitioned or borrowed by special municipal or county (or county-level city) governments for public security needs. Regulations regarding the weapons subject to requisition, the period of implementation, regranting or replacement of the license, return of the firearm, compensation for damage and loss, and other related matters shall be prescribed by the Ministry of the Interior.
+
+## Article 14
+
+Regarding the purchase according to the provisions of this Act of self-defense guns and ammunition listed in Article 2, the purchase should be executed by the special municipal or county (or county-level city) government may execute purchasing, at a price standard formulated  by the special municipal or county (or county-level city) government and reported to the Ministry of the Interior for approval.
+
+Guns and ammunition other than those listed in Article 2 may be purchased by the government at a determined price if they come from legal sources and the holder reports and hands them in on his or her own initiative. The purchasing procedure and the price standards for the guns and ammunition shall be determined by the Ministry of the Interior.
+
+## Article 15
+
+The competent authorities of special municipal and county (or county-level city)  should conduct a general inspection of self-defense guns once a year, and prepare an inventory of self-defense guns and ammunition in their jurisdiction and report it to
+
+the Ministry of Interior for reference.
+
+## Article 16
+
+Where necessary, the police departments of all levels may send personnel to examine the self-defense guns and the licenses for the purpose of maintaining security. In special circumstances, they may carry out a temporary general inspection of self-defense guns with the approval of higher authorities.
+
+## Article 17
+
+In the circumstances set out in the following subparagraphs, the holder of a self-defense firearm will face the stipulated punishment. If criminal laws have been violated, the case will be transferred to the judicial authorities for judgment in accordance with the criminal code:
+
+\1. When a gun and the corresponding license are not kept in the same location, a fine not more than NTD100 shall be imposed.
+
+\2. When the holder carried a gun while wearing a military or police uniform without authority, a fine not more than NTD1,000 shall be imposed.
+
+\3. When the holder fails to immediately report the loss of a gun and ask the authorities to investigate the case and revoke the original license, a fine not more than NTD800 shall be imposed.
+
+\4. When the holder loses the gun license and fails to report it and apply for a new license, a fine not more than NTD200 shall be imposed.
+
+\5. When the gun license has been altered, a fine not more than NTD400 shall be imposed.
+
+\6. When making false reports or having someone else substitute, resulting in non-conformity between a gun and the license, a fine not more than NTD400 shall be imposed.
+
+\7. When the holder fails to apply for renewal upon expiration of the license, a fine not more than NTD100 shall be imposed.
+
+\8. When the subsequent user fails to apply for a license within three months after the death of the original holder, a fine not more than NTD100 shall be imposed.
+
+\9. When the gun owner moves his residence and fails to complete the move-out and move-in registration with the police agencies of the original and new places of residence within one month, a fine not more than NTD 100 shall be imposed.
+
+\10. When the holder refuses or evades inspection without due reasons, a fine not more than NTD600 shall be imposed.
+
+\11. When it is discovered or reported that a public or private group has included d individually owned guns and/or ammunition in the license application, a fine not more than NTD1,000 shall be imposed for the head of the group, and the mixed-in guns and/or ammunition shall be confiscated.
+
+\12. When the holder of a Category A gun and/or aummunition increases or consumes without stating the reasons and reporting for inspection, a fine not more than NTD400 shall be imposed, and the additional ammunition shall be confiscated.
+
+\13. When self-defense guns have been damaged and the holder fails to state the cause and report for inspection, a fine not more than NTD100 shall be imposed.
+
+\14. When a self-defense gun and/or ammunition is lent to others, a fine not more than NTD1,000 shall be imposed on both the holder and the borrower.
+
+\15. When self-defense guns and ammunition are no longer needed by the owner, the holder shall request the special municipal or county (or county-level city) government to purchase them. If the holder sells or gives away the guns and/or ammunition, a fine not more than NTD1,000shall be imposed on both the holder and the buyer/recipient, and the guns and ammunition that were resold or given away shall be confiscated.
+
+\16. When the license-holder of a self-defense gun goes abroad or enters military service, the guns and ammunition shall be handed over to the local police department for safekeeping. Otherwise, a fine not more than NTD100 shall be imposed and the gun and ammunition shall be taken into custody.
+
+\17. When someone carries a self-defense gun and/or ammunition without due reasons during a period of  martial law, a fine not more than NTD600 shall be imposed or the guns and ammunition shall be subject to purchase.
+
+The maximum fines prescribed in Subparagraphs 1~11 may be reduced by  half when being applied to Category B guns dedicated to hunting purpose.
+
+In the case of severe violations of any of Subparagraphs 5, 10 and 14 of Paragraph 1, the gun and ammunition shall be confiscated.
+
+If a organizations or groups commit any of Subparagraphs 3 to 7 or Subparagraphs 10 to 15, the case shall be dealt with by the higher-level authority.
+
+The fines and confiscations stipulated in the first paragraph shall be adjudicated by the competent authority. If the fines are not paid and confiscations executed within the allotted time, the competent authority may confiscate the guns and licenses, and transfer the case to the court for enforcement.
+
+## Article 18
+
+When the guarantor mentioned in Paragraph 1, Article 6 of this Act finds that the guaranteed gun holder is likely to use the guns to do harm to public security with the gun, he/she shall immediately report it to the competent police department at the moment. Otherwise, he/she shall be fined not more than NTD100.
+
+## Article 19
+
+The unlicensed and uninspected guns shall be confiscated by the police departments, unless their sources are legitimate and legal certifications are provided, in which case they shall be inspected for licensing or purchased in accordance with regulations. Any violation of criminal laws shall be prosecuted under the respective criminal laws.
+
+## Article 20
+
+The enforcement rules for this Act shall be enacted by the Executive Yuan.
+
+## Article 21
+
+This Act shall take effect on the date of promulgation.
+
+## History
+
+\1. Enacted and issued by the People’s Government on June 28, 1946; Enforced on Sept.1, 1946
+
+\2. Amended and issued by the People’s Government on Dec.17, 1947
+
+\3. Amended and issued by the President on Jan.15, 1949
+
+\4. Amended and issued by the President on Jan.27, 1949
+
+\5. Amended and issued by the President on Jan.22, 1965
+
+\6. Articles 2, 11 and 17 amended and issued by President Order Tai-Tung (1)-Yi-Tzu No.5643 on Nov.13, 1979
+
+\7. Articles 4, 10, 11, 13~15 and 17 amended and issued by President Order Hua-Tsung (1)-Yi-Tzu No.8900166200 on July 5, 2000
+
+\8. Article 6 amended and issued by President Order Hua-Tsung (1)-Yi-Tzu No.09100108320 on May 29, 2002
+
+\9. Articles 1, 3, 13 and 14 amended and issued by President Order Hua-Tsung (1)-Yi-Tzu No.09100125240 on June 26, 2002

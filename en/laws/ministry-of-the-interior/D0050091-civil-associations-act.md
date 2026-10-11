@@ -1,0 +1,531 @@
+---
+title: "Civil Associations Act"
+title_zh: "人民團體法"
+identifier: "D0050091"
+type: act
+law_level: "法律"
+category: "行政＞內政部＞合作及人民團體目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1942-02-10
+last_amended: 2023-02-08
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0050091"
+retrieved: 2026-10-12
+---
+
+# Civil Associations Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-the-interior/D0050091-civil-associations-act.md](../../../zh/laws/ministry-of-the-interior/D0050091-civil-associations-act.md)) is authoritative.
+
+## Chapter 1 General Provisions
+
+### Article 1
+
+The organization and activities of civil associations shall be implemented in accordance with the provisions of this Act; where there are special provisions in other laws, such provisions shall apply.
+
+### Article 2
+
+(Deleted)
+
+### Article 3
+
+Competent authorities as called in this Act, at the central and provincial level, refer to the Ministry of the Interior; at the municipal level, refer to municipal governments; and at the county (city) level, refer to county (city) governments. However, the target businesses of civil associations shall be directed and supervised by the target business competent authorities.
+
+### Article 4
+
+Civil associations are divided into the following three categories:
+
+\1. Occupational association.
+
+\2. Social association.
+
+\3. Political association.
+
+### Article 5
+
+The organizational area of a civil association shall refer to the corresponding administrative region and subordinate organizations may be established.
+
+Establishment of a subordinate organization as referred to in the above paragraph shall be registered with the local competent authority in accordance with the provisions of this Act.
+
+### Article 6
+
+The site of a civil association shall be located where the competent authority is located. However, with the approval of the competent authority, it may be located in another place, and branches may be established.
+
+### Article 7
+
+Two or more civil associations of the same level and the same category may be organized within the same organization area unless otherwise limited by law. However, the name of an association shall not conform to any of the following:
+
+\1. Be the same as an approved established association.
+
+\2. Be prone to providing the public with misleading impressions as being related to a government agency (institution), foundations that receive donations from the government, or a for-profit association.
+
+\3. Involves discriminatory or hateful words.
+
+## Chapter 2 Establishment
+
+### Article 8
+
+To organize a civil association, the initiators shall submit an application form, a draft of the articles of association, and a list of the initiators to the competent authority to apply for approval.
+
+There must be no less than thirty initiators, and any person who is an adult and, except for the situations described below, he/she may be an initiator as referred to in the above paragraph:
+
+\1. Is condemned to limited term imprisonment, and the imprisonment has not been executed or finished yet. However, this does not include probation.
+
+\2. Is under rehabilitative measure that has not been executed or finished yet.
+
+\3. Is announced to be bankrupted, and not yet restored related rights.
+
+\4. Has been placed under declaration of guardian and such declaration of guardian has not yet been withdrawn.
+
+The format of the application form referred to in the first paragraph shall be prescribed by the central competent authority.
+
+### Article 9
+
+After the application for establishment of a civil association is approved, an initiators’ meeting shall be called to elect committee members to organize a preparation committee, and an establishment conference shall be held after the preparation is finished.
+
+To call a meeting of the preparation committee and the inaugural meeting, a notice shall be given to the competent authority, and the competent authority may send personnel to attend the meetings as non-voting delegates.
+
+### Article 10
+
+A civil association shall, within thirty days after the inaugural meeting is held, report the articles of association, a list of members, and curriculum vitae of the elected personnel, to the competent authority for approval and accreditation, and the competent authority shall grant an accreditation certificate.
+
+A civil association shall prepare an official seal by itself and submit the impression to the competent authority for reference; the length, width, diameter or short diameter of an official seal shall be three centimeters or more and shall not be subject to the Statute of Seal.
+
+The competent authority may make the registrations of civil associations available for public inquiries via the Internet or otherwise.
+
+### Article 11
+
+After being approved and registered by the competent authority, a civil association may register itself as a judicial person at the governing local court, and shall submit a photocopy of the registration certificate to the competent authority for reference within thirty days after the registration is finished.
+
+### Article 12
+
+The articles of civil association shall include the following contents:
+
+\1. Name
+
+\2. Purpose.
+
+\3. Organizational area.
+
+\4. Site
+
+\5. Task.
+
+\6. Organizations.
+
+\7. Entry, withdrawal, and dismissal of members.
+
+\8. Rights and obligations of members.
+
+\9. Quota, authority, tenure, appointment, and recall of member representatives, directors, and supervisors.
+
+\10. Meeting.
+
+\11. Funds and accounting.
+
+\12. Procedure for modifying the articles of association.
+
+\13. Other matters that should be described according to law.
+
+## Chapter 3 Members
+
+### Article 13
+
+A member representative of a civil association refers to a representative chosen by the member organization or elected by the subordinate associations or elected by way of geographical election according to the provision of Article 28; the rights of member representatives shall be executed in the same way as members.
+
+### Article 14
+
+Where a member (member representative) of a civil association violates a law or the articles of the association, or does not follow a resolution of the members’ (member representatives’) assembly, thus causing serious damage to the association, he may be dismissed with the resolution of the members’ (member representatives’) assembly.
+
+### Article 15
+
+In any of the following occasions, a member of a civil association shall be withdrawn:
+
+\1. Death.
+
+\2. Deprived of membership.
+
+\3. Dismissed by a resolution of the members’ (member representatives’) assembly.
+
+### Article 16
+
+All the members (member representatives) of a civil association have the right to vote, to elect, to be elected, and to recall. Each member (member representative) may take one vote.
+
+## Chapter 4 Personnel
+
+### Article 17
+
+Each civil association shall set directors and supervisors, and they shall be elected from the members (member representatives). And the quota shall meet the following provisions:
+
+\1. In a civil association of the county (city) level or below, there may not be more than fifteen directors.
+
+\2. In a civil association of the province (city) level, there may not be more than twenty-five directors.
+
+\3. In a civil association directly under the jurisdiction of the central government, there may not be more than thirty-five directors.
+
+\4. The quota of supervisors of a civil association of any level may not exceed one-third of that of the directors of the association.
+
+\5. Alternate directors and alternate supervisors may be set in a civil association of any level, and the quota may not exceed one-third of that of the directors and supervisors of the association.
+
+Where the quota of directors and supervisors is not less than three respectively, standing directors and standing supervisors may be elected by and from the directors and supervisors, and the quota may not exceed one-third of the total number of directors and supervisors respectively; furthermore, a chairperson of the board of directors shall be elected by the directors from the standing directors, or elected by and from the directors if there is no standing director. Where there are three or more standing supervisors, one shall be elected by and from them to act as the convener of the board of supervisors.
+
+### Article 18
+
+The board of directors and the board of supervisors of a civil association shall perform their duties separately according to the resolutions of the members’ (member representatives’) assembly and the provision of the articles of association.
+
+### Article 19
+
+The elected directors and supervisors of an upper level civil association are not limited to the representatives designated by lower level civil associations.
+
+A person other than the directors and supervisors of a civil association may be designated by the association as a representative to attend an upper level civil association.
+
+### Article 20
+
+The tenure of the directors and supervisors of a civil association may not exceed four  years and can be re-elected unless otherwise prescribed by law or otherwise limited in the articles of association. The chairperson of the board of directors may be may be re-elected for a second term.
+
+### Article 21
+
+The directors and supervisors of civil associations all are positions of no pay.
+
+### Article 22
+
+Where a director or supervisor of a civil association violates a law, the articles of association, or resolutions of members’ (member representatives’) assembly, the case shall be handled in accordance with the related laws and the articles of association; furthermore, the director may be recalled by members’ (member representatives’) assembly.
+
+### Article 23
+
+A director or supervisor of a civil association who meets any of the following conditions shall be relieved from the position immediately, and the vacancy shall be filled by the alternate directors or alternate supervisors in order:
+
+\1. Deprived of membership (qualification of member representative).
+
+\2. Resigned due to certain reasons and approved by the board of directors or the board of supervisors.
+
+\3. Dismissed or removed.
+
+\4. Suspended from the rights for a term of longer than a half of the tenure.
+
+### Article 24
+
+A civil association may, according to the provision of its articles of association, employ staff to handle the affairs and business of the association.
+
+## Chapter 5 Meeting
+
+### Article 25
+
+The members’ (member representatives’) assembly of a civil association is divided into two types: regular meetings and extraordinary meetings, and both shall be convened by the chairperson of the board of directors.
+
+The regular meeting shall be convened on an annual basis. An extraordinary meeting shall be convened when the board of directors deems it necessary, or upon the requests of more than one-fifth of the members (member representatives), or upon request of the board of supervisors.
+
+Unless otherwise stipulated by laws and regulations, the articles of association of a civil association may specify that a members’ (member representatives’) assembly shall be convened through video conferencing or other means as promulgated by the central competent authority.
+
+Under the circumstances of calamities, incidents, or force majeure, the central competent authority may promulgate a ruling that authorizes a civil association to, without provision in its articles of association, hold its members’ (member representatives’) assembly through video conferencing or other means as promulgated by the central competent authority within a certain period of time.
+
+### Article 26
+
+To call a meeting of the members’ (member representatives’) assembly, a civil association shall give notice to the members’ (member representatives’) fifteen days in advance. However, this is not applicable where an extraordinary meeting is called due to emergency and with the notice received only one day before the meeting is called.
+
+The meetings referred to in the above paragraph shall be reported to the competent authority, and the competent authority may dispatch officers to attend the meeting as a non-voting delegate.
+
+### Article 27
+
+A resolution of the members’ (member representatives’) assembly of a civil association requires the attendance of more than one half of the members’ (member representatives’) and the consent of more than one half or a larger proportion of the attendees. However, the following matters may be resolved only with the consent of not less than two-thirds of the attendees:
+
+\1. Formulation and amendment of the articles of association.
+
+\2. Dismissal of a member (member representative).
+
+\3. Recall of a director or supervisor.
+
+\4. Disposal of properties.
+
+\5. Dissolution of the association.
+
+\6. Other important matters related to the rights and obligations of the members.
+
+### Article 28
+
+Where a civil association has three hundred or more members (member representatives), the organizational area may be subdivided to elect representatives according to the percentage of members (member representatives) and to call a representative’s assembly to perform the duty of the member’s assembly.
+
+The division of organizational area and the number of representatives in the above paragraph shall be reported to the competent authority for reference.
+
+### Article 29
+
+The board of directors and the board of supervisors of a civil association shall hold a meeting every three months, and may notify the alternate directors and alternate supervisors to attend the meeting as non-voting delegates.
+
+A resolution of the meeting referred to in the above paragraph needs the attendance of more than one half of the directors or the supervisors and the consent of more than one half of the attendees.
+
+Unless otherwise stipulated by laws and regulations, the articles of association of a civil association may specify that a meeting of the board of directors and supervisors shall be convened through video conferencing or other means as promulgated by the central competent authority.
+
+Under the circumstances of calamities, incidents, or force majeure, the central competent authority may promulgate a ruling that authorizes a civil association to, without provision in its articles of association, hold its meeting of the board of directors and supervisors through video conferencing or other means as promulgated by the central competent authority within a certain period of time.
+
+### Article 30
+
+Where the convener of the board of directors or the board of supervisors of a civil association has not called the meeting of the board of supervisors or the board of supervisors without due reason for two times, the competent authority shall relieve him from the position and elect or appoint a new convener.
+
+### Article 31
+
+The directors or supervisors of a civil association shall personally attend the meetings of the board of directors or the board of supervisors, and may not entrust others to represent them. Absence without due reason for two consecutive times will be regarded as resigning, and the vacancy will be filled by the alternate directors or alternate supervisors in sequence.
+
+### Article 32
+
+Where a meeting of the members’ (member representatives’) assembly or the board of directors of a civil association cannot be called according to law, the competent  authority may designate one of the directors to convene the meeting; where a meeting of the board of supervisors cannot be called according to law, the competent authority may designate one of the supervisors to convene the meeting.
+
+## Chapter 6 Funds
+
+### Article 33
+
+The financial sources of civil associations are as follows:
+
+\1. Admission fee.
+
+\2. Annual dues.
+
+\3. Funds for public undertakings.
+
+\4. Donations from the members.
+
+\5. Entrusted incomes.
+
+\6. Funds and its interests.
+
+\7. Other incomes.
+
+The amount and payment method of the fees listed in Subparagraphs 1~4 of the above paragraph shall be approved by the members’ (member representatives’) assembly, and shall be reported to the competent authority for examination and approval prior to implementation.
+
+### Article 34
+
+A civil association shall compile reports on budgeting and financial statement each year, submit it to the members’ (member representatives’) assembly for approval, and report it to the competent authority for examination and reference. However, a financial statement report shall be sent to the board of supervisors for auditing first, and then submitted along with the result of the auditing to the members’ (member representatives’) assembly.
+
+## Chapter 7 Occupational Associations
+
+### Article 35
+
+An occupational association refers to an association organized by the institutions and associations in the same trade or the jobholders of the same occupation with a view to associate the relationship between colleagues, enhance common benefits, and promote social economic construction.
+
+### Article 36
+
+(Deleted)
+
+### Article 37
+
+The members of a vocational association shall be those who are engaged in the corresponding occupation within the organizational area of the association.
+
+Vocational associations shall not refuse membership to those who are eligible for membership.
+
+### Article 38
+
+Where a member (member representative) of an occupational association cannot attend the members’ (member representatives’) assembly, he may entrust in writing another member (member representative) to represent him. However, the number of the entrusted attendees may not exceed one-third of the attendees who attend the meeting by themselves.
+
+Each member (member representative) may represent only one other.
+
+## Chapter 8 Social Associations
+
+### Article 39
+
+A social association refers to an association composed of individuals or associations for the purpose of promoting culture, academic research, medicine, health, religion, charity, sports, fellowship, social service, or other public welfare.
+
+### Article 40
+
+(Deleted)
+
+### Article 41
+
+The position title, election, and recall of the personnel of a social association may be otherwise prescribed in its articles of association, but shall be approved by the competent authority.
+
+### Article 42
+
+Where a member (member representative) of a social association cannot attend a meeting of the members’ (member representatives’) assembly, he may entrust in writing another member (member representative) to represent him; each member (member representative) may restrict the agent to one.
+
+### Article 43
+
+The board of directors and the board of supervisors of a social association shall hold a meeting at least every six months.
+
+## Chapter 9 Political Associations
+
+### Article 44
+
+A political association refers to an association organized by the citizens of the Republic of China with a view to help them to form political volition and to promote political participation for the citizens based on common ideas of democratic politics.
+
+### Article 45
+
+A political association that meets any of the following is a party:
+
+\1. A national political association intending to recommend candidates to participate in the election of public officials establishes a party in accordance with the provisions of this Act and reports to the central competent authority for approval and registration.
+
+\2. A national political association already registered with the purpose of recommending candidates to participate in the election of public officials.
+
+### Article 46
+
+Where a party is established in accordance with the provision of Subparagraph 1 of the above article, the articles of association of the party and a roll list of the principals shall be submitted within thirty days after the inaugural meeting is called to the central competent authority for registration and to receive a certificate and official seal.
+
+The party referred to in Subparagraph 2 of the above article shall, before the day when a public announcement for election is issued, submit its articles of association and a roll list of the principals to the central competent authority to apply for registration.
+
+### Article 46-1
+
+Where a party recorded in accordance with the provision of the above article meets any of the following provisions, it may be registered as a judicial person at the court according to law after it is approved by the central competent authority:
+
+\1. The party has been recorded for over one year.
+
+\2. The party has five or more public officials elected by the public in central, municipal, and county (city) governments.
+
+\3. The party possesses not less than NT$10,000,000 of properties.
+
+The registration of a party as a judicial person and other matters referred to in the above paragraph shall be applied to the provisions set forth in the Civil Code on public welfare associations unless otherwise prescribed in this Act.
+
+### Article 47
+
+The national administrative region shall be the organizational area of a party, and no regional party may be founded. However, branches may be established.
+
+### Article 48
+
+A party established under Article 46 may recommend candidates to participate in election of public officials according to law.
+
+### Article 49
+
+A political association shall be organized and operated according to the principle of democracy, and prescribe the positions, quota, tenure, election, and recall of personnel as well as meetings, funds, and other matters in its articles of association.
+
+### Article 50
+
+A party has the right to equally use public places and public-operated medias according to law.
+
+### Article 50-1
+
+A party may not set up organizations in universities, the court, or the army.
+
+### Article 51
+
+A political association may not accept donations from foreign associations, judicial  persons, individuals, or the associations or judicial persons of which the majority of members are foreigners.
+
+### Article 52
+
+The Ministry of the Interior shall set a party advisory committee to review the punishment made on parties.
+
+The party advisory committee shall be composed of just persons, and the number of committee members who come from the same party may not exceed one half of the total number; the organization of the committee shall be prescribed by the Ministry of the Interior.
+
+## Chapter 10 Supervision and Punishment
+
+### Article 53
+
+(Deleted)
+
+### Article 54
+
+After a civil association is approved and registered, the alteration of its articles of association, curriculum vitae of the employed personnel or list of the principals shall be reported to the competent authority for examination and reference within thirty  days.
+
+### Article 55
+
+Where a civil association has not been established within six months after the establishment is permitted, the permit shall be abolished. However, the term may be prolonged by up to three months with the approval of the competent authority.
+
+### Article 56
+
+Where it is necessary to merge or separate civil associations due to adjustment of organizational area or other reasons, an application may be submitted to the competent authority for approval of merger or separation.
+
+Where it is necessary to modify the administrative organization area or name of a civil association, a meeting record letter may be submitted to the competent authority for inspection. The modified name of civil association should not be similar to that of a civil association already registered.
+
+Tenure of office for a civil association resolved in the forgoing paragraph will obtain the resolution of member meeting or member representative meeting.
+
+### Article 57
+
+The competent authority may encourage civil associations of excellent performance, and the regulations on such encouragement shall be prescribed by the central competent authority.
+
+### Article 58
+
+Where a civil association violates a law or its articles of association or encumbers public welfare, the competent authority may warn it, cancel its resolution, or stop whole or a part of its activities, and order it to improve within a specified time limit; in case improvement is not made within the time limit or in serious circumstances, the following punishments may be executed:
+
+\1. Dismissal of the personnel.
+
+\2. Setting a time limit for correction.
+
+\3. Abolishment of the permit.
+
+\4. Dissolution.
+
+The punishment of warning, cancellation of resolution, and stoppage of activities  referred to in the above paragraph also may be executed by the competent authority of a target business. However, the punishment of cancellation of resolution or stoppage of activities shall be executed based on negotiation with the competent authority.
+
+Punishment of parties shall be limited to warning, setting time limit for correction, and dissolution. To get a party dissolved, the competent authority shall transfer the case along with related evidence to the Constitutional Court composed of Grand Justices of the Judicial Yuan for judgment.
+
+The transfer referred to in the above paragraph may be performed only provided that not less than two-thirds of the present commissioners of the party advisory committee think that the party has breached the Constitution.
+
+### Article 59
+
+A civil association shall be dissolved in any of the following circumstances:
+
+\1. The permit is abolished by the competent authority.
+
+\2. Bankrupted.
+
+\3. Merger or separation.
+
+\4. Corrections are not finished within the specified time limit.
+
+\5. A resolution of dissolution is approved in the members’ (member representatives’) assembly.
+
+The provision of Subparagraph 4 of the above paragraph is not applicable to dissolution of parties.
+
+### Article 60
+
+Where a civil association is established without applying for a permit or registration according to law, and it is not dissolved within the time limit set forth by the competent authority, a fine of not more than NT$60,000 shall be levied.
+
+Where the permit of a civil association is abolished by the competent authority and a time limit is set for dissolution but it is not dissolved before the time limit expires, the provision of the above paragraph shall apply.
+
+### Article 61
+
+Where a civil association is established without applying for a permit or registration according to law and a time limit for dissolution has been set by the competent authority, but it is not dissolved within the time limit and activities are still held in the name of the association despite the order of stoppage issued by the competent authority, the mastermind shall be punished with imprisonment for less than two years or detention.
+
+Where the permit of a civil association is abolished by the competent authority and a time limit is set for dissolution, but it is not dissolved before the time limit expires and activities are still held in the name of the association, the mastermind shall be punished according to the provision of the above paragraph.
+
+### Article 62
+
+Where donations are accepted that infringe on the provision of Article 51, perpetrators shall be punished with imprisonment for less than two years, detention or a fine not more than NT$60,000.
+
+The donation accepted by a person who commits the crime prescribed in the above paragraph shall be expropriated. In case the whole or a part of the donation cannot be expropriated, a sum equal to the price shall be replevied.
+
+### Article 63
+
+Where a sum fined under this Act is not paid within the time limit after a notice has been given, the case will be transferred to the court for coercive execution.
+
+## Chapter 11 Supplementary Provisions
+
+### Article 64
+
+(Deleted)
+
+### Article 65
+
+(Deleted)
+
+### Article 66
+
+Regulations on election and dismissal of elected personnel, personnel management, guidance on civil association affairs, and disposal of the financial affairs of civil associations shall be prescribed by the central competent authority.
+
+### Article 67
+
+This Act shall become effective as of the date of promulgation.
+
+The articles of this law amended on 12th May of 2009 of the Republic of China take effect on 23rd November of 2009.
+
+## History
+
+\1. The whole enacted text of 20 articles promulgated by the People’s Government on February 10, 1942
+
+\2. The amended title and the whole amended text of 67 articles promulgated by President Order (78) Hua-Tsung (1)-Yi-Tzu No.0516 on January 27, 1989 (Statute on the Organization of Civil Associations During the Extraordinary Period)
+
+\3. The original title “Civil Associations Act for the Period of Communist Rebellion” amended as “Civil Associations Act”; Articles 2, 48, 52, 58~60, and 62 amended; and Article 46-1 added by President Order (81) Hua-Tsung (1)-Yi-Tzu No.3639 on July 27, 1992
+
+\4. Article 50-1 added by President Order (82) Hua-Tsung (1)-Yi-Tzu No.7112 on December 31, 1993
+
+\5. Articles 3 and 46-1 amended by President Order (91) Hua-Tsung (1)-Yi-Tzu No.09100075600 on April 24, 2002
+
+\6. Articles 64 and 65 deleted, Articles 53, 55 and 58~61 amended by President Order Hua-Tsung (1)-Yi-Tzu No.09100239600 on December 11, 2002
+
+\7. Articles 8 and 67 amended by President Order Hua-Tsung (1)-Yi-Tzu No. 09800134331 on May 27, 2009, and take effect on November 23, 2009
+
+\8. Articles 2,36,40 and 53 deleted, Articles 5,37 and 56 amended by President Order (100) Hua-Tsung (1)-Yi-Tzu No 10000122941 on June 15, 2011
+
+\9. Article 8 amended by President Order Hua-Tsung (1)-Yi-Tzu No. 11000006121 on January 27, 2021
+
+Article 10 amended by President Order Hua-Tsung (1)-Yi-Tzu No. 11000006131 on January 27, 2021
+
+\10. Article 7, 25, 29, 66 amended by President Order Hua-Tsung (1)-Yi-Tzu No. 11200009211 on February 8, 2023

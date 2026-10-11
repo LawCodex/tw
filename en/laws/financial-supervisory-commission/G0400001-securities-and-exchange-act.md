@@ -1,0 +1,1911 @@
+---
+title: "Securities and Exchange Act"
+title_zh: "證券交易法"
+identifier: "G0400001"
+type: act
+law_level: "法律"
+category: "行政＞金融監督管理委員會＞證券暨期貨管理目  "
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1968-04-30
+last_amended: 2024-08-07
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0400001"
+retrieved: 2026-10-12
+---
+
+# Securities and Exchange Act
+
+> Translation. The Chinese text ([zh/laws/financial-supervisory-commission/G0400001-securities-and-exchange-act.md](../../../zh/laws/financial-supervisory-commission/G0400001-securities-and-exchange-act.md)) is authoritative.
+
+## Chapter I General Principles
+
+#### Article 1
+
+This Act is enacted for the purposes of developing the national economy and protecting investment.
+
+#### Article 2
+
+The regulation and supervision of public offering, issuance, and trading of securities shall be governed by this Act. Matters not provided for in this Act shall be governed by the provision of the Company Act and other relevant laws.
+
+#### Article 3
+
+The term "Competent Authority" as used in this Act means the Financial Supervisory Commission.
+
+#### Article 4
+
+The term "company" as used in this Act means a company limited by shares organized under the Company Act.
+
+The term "foreign company" as used in this Act means a company, for the purpose of profit making, organized and incorporated in accordance with the laws of a foreign country.
+
+#### Article 5
+
+The term "issuer" as used in this Act means either a company that publicly offers and issues securities or promoters who publicly offer securities.
+
+#### Article 6
+
+The term "securities" as used in this Act means government bonds, corporate stock, corporate bonds, and other securities approved by the Competent Authority.
+
+Any stock warrant certificate, certificate of entitlement to new shares, and certificate of payment or document of title to any of the securities referred to in the preceding paragraph shall be deemed as securities.
+
+Any securities referred to in the preceding two paragraphs, even without a physical certificate representing the title being printed, shall still be deemed securities.
+
+#### Article 7
+
+The term "public offering" as used in this Act means the act of offering securities to the general public by the promoters prior to the incorporation of the company or by the issuing company prior to the issuance of the securities.
+
+The term "private placement" as used in this Act means the act of offering securities to specific persons pursuant to paragraphs 1 and 2 of Article 43-6 by a public company.
+
+#### Article 8
+
+The term "issuance" as used in this Act means the act whereby an issuer, following a public offering, prepares and delivers securities or delivers securities through book-entry transfer.
+
+Securities delivered by book-entry transfer referred to in the preceding paragraph may be issued without printing physical securities.
+
+#### Article 9
+
+(Deleted)
+
+#### Article 10
+
+The term "underwriting" as used in this Act means the act of underwriting securities issued by an issuer on a firm commitment or best efforts basis in accordance with an agreement between the parties.
+
+#### Article 11
+
+The term "stock exchange" as used in this Act means a juristic person that, in accordance with the provisions of this Act, establishes premises and facilities for the purpose of providing a centralized securities exchange market.
+
+#### Article 12
+
+The term "centralized securities exchange market" as used in this Act means a marketplace maintained by a stock exchange for the purchase and sale of securities through a competitive bidding process.
+
+#### Article 13
+
+The term "prospectus" as used in this Act means an explanatory written statement that an issuer provides to the general public in compliance with this Act for the purpose of offering or selling securities.
+
+#### Article 14
+
+The term "financial reports" as used in this Act means the financial reports that issuers, securities firms, and stock exchanges are required to periodically prepare and file with the Competent Authority in compliance with laws and regulations.
+
+Regulations governing the preparation of financial reports with respect to the content, scope, procedures, preparation, and other matters required to be complied with for the financial reports referred to in the preceding paragraph shall be prescribed by the Competent Authority, and Chapters 4, 6, and 7 of the Business Entity Accounting Act shall not apply to those financial reports.
+
+The financial reports referred to in paragraph 1 shall be signed or stamped with the seal of the chairperson, managerial officer, and accounting officer, who shall also issue a statement that the report contains no misrepresentation or concealment.
+
+The accounting officer referred to in the preceding paragraph shall possess certain qualifications and undergo continuing professional education while holding the position. Regulations governing the qualifications of an accounting officer, the minimum hours of continuing professional education required, and the qualifications required of the institution offering the continuing education curriculum shall be prescribed by the Competent Authority.
+
+When a company whose stock is listed for trading on a stock exchange or over-the-counter securities exchange prepares its annual financial report in accordance with paragraph 2, it shall additionally disclose relevant information, including the company's remuneration policy, the average salary of all the company's employees and any adjustments thereto, and the remuneration of the directors and supervisors, in accordance with the regulations prescribed by the Competent Authority.
+
+A company referred to in the preceding paragraph shall specify in its articles of incorporation that a certain percentage of its annual earnings shall be allocated for salary adjustments or compensation distributions for its non-executive employees. However, the company's accumulated losses shall have been covered.
+
+The amount of salary adjustments or compensation distributions under the preceding paragraph is deductible from the amount of its profit-seeking enterprise income for the current fiscal year.
+
+#### Article 14-1
+
+Public companies, securities exchanges, securities firms, and enterprises set forth in Article 18 shall establish financial and operational internal control systems.
+
+The Competent Authority may prescribe regulations governing the internal control systems of companies or enterprises under the preceding paragraph.
+
+A company or enterprise under paragraph 1 shall file a statement of internal control with the Competent Authority within three months after the close of each fiscal year, unless approval otherwise has been granted by the Competent Authority.
+
+#### Article 14-2
+
+A company that has issued stock in accordance with this Act may appoint independent directors in accordance with its articles of incorporation. However, the Competent Authority, shall, as necessary in view of the company's scale, shareholder structure, nature of business, and other essential factors, require it to appoint independent directors, who furthermore shall be not less than two in number and not less than one-fifth of the total number of directors.
+
+Independent directors shall possess professional knowledge, and there shall be restrictions on their shareholdings and the positions they may concurrently hold. They shall maintain independence within the scope of performance of their duties, and may not have any direct or indirect interest relationship with the company. Regulations governing the professional qualifications, restrictions on shareholdings and concurrent positions held, determination of independence, method of nomination, and other required matters for compliance with respect to independent directors shall be prescribed by the Competent Authority.
+
+The company may not impede, refuse, or evade the actions of the independent directors in performing their duties. As the independent directors deem necessary to perform their duties, they may request the board of directors to appoint relevant personnel, or may at their own discretion hire professionals to provide assistance. The related necessary expenses will be borne by the company.
+
+In any of the following circumstances, a person may not act as an independent director, or if already acting in such capacity, shall ipso facto be dismissed:
+
+\1. Any circumstance set out in a subparagraph of Article 30 of the Company Act.
+
+\2. Election of a person that is a government agency, juristic person, or representative thereof as set out with Article 27 of the Company Act.
+
+\3. Failure to meet the qualifications for independent director set forth in paragraph 2.
+
+The transfer of an independent director's shareholdings is not subject to the latter part of paragraph 1, or to paragraph 3, of Article 197 of the Company Act.
+
+When an independent director is dismissed for any reason, resulting in a number of directors lower than that required under paragraph 1 or the company's articles of incorporation, a by-election for independent director shall be held at the next shareholders meeting. When all independent directors have been dismissed, the company shall convene a special shareholders meeting to hold a by-election within 60 days from the date the situation arose.
+
+#### Article 14-3
+
+A company that has selected independent directors as set forth in paragraph 1 of the preceding article, unless it has otherwise obtained approval from the Competent Authority, shall submit the following matters to the board of directors for approval by resolution; if an independent director has a dissenting opinion or qualified opinion, it shall be noted in the minutes of the directors meeting:
+
+\1. Adoption or amendment of an internal control system pursuant to Article 14-1.
+
+\2. Adoption or amendment, pursuant to Article 36-1, of handling procedures for financial or operational actions of material significance, such as acquisition or disposal of assets, derivatives trading, monetary loans to others, or endorsements or guarantees.
+
+\3. A matter relating to the personal interest of a director or supervisor.
+
+\4. A material asset or derivatives trade.
+
+\5. A material monetary loan, endorsement, or provision of a guarantee.
+
+\6. The offering, issuance, or private placement of any equity-type securities.
+
+\7. The engagement, discharge, or compensation of an attesting certified public accountant (CPA).
+
+\8. The appointment or discharge of a financial, accounting, or internal auditing officer.
+
+\9. Any other material matter so required by the Competent Authority.
+
+#### Article 14-4
+
+A company that has issued stock in accordance with this Act shall establish either an audit committee or supervisors. However, a company that falls within the conditions set by the Competent Authority based on company scale, type of operations, or other essential considerations shall establish an audit committee in lieu of supervisors.
+
+The audit committee shall be composed of the entire number of independent directors. It shall not be fewer than three persons in number, one of whom shall be convener, and at least one of whom shall have accounting or financial expertise.
+
+For a company that has established an audit committee, the provisions regarding supervisors in this Act, the Company Act, and other laws and regulations shall apply mutatis mutandis to the audit committee.
+
+The following provisions of the Company Act shall apply mutatis mutandis with regard to independent directors who are members of the audit committee: Article 200; Article 216, paragraphs 1, 3, and 4; Article 218, paragraphs 1 and 2; Article 218-1; Article 218-2, paragraph 2; Articles 224 to 226; and Article 245, paragraph 2. The provisions of Article 214, Article 215, and the proviso of Article 227 of the Company Act shall apply mutatis mutandis with regard to litigation brought against independent directors.
+
+Regulations governing the exercise by the audit committee and its independent director members of the powers set out in the preceding two paragraphs, and the operation procedures, matters to be recorded in the meeting minutes, and other matters related thereto, shall be prescribed by the Competent Authority.
+
+A resolution of the audit committee shall require the approval of one-half or more of all members.
+
+#### Article 14-5
+
+If a company that has issued stock in accordance with this Act has established an audit committee, the following matters shall require the approval of one-half or more of all audit committee members and be submitted to the board of directors for a resolution, and the provisions of Article 14-3 shall not apply:
+
+\1. Adoption or amendment of an internal control system pursuant to Article 14-1.
+
+\2. Assessment of the effectiveness of the internal control system.
+
+\3. Adoption or amendment, pursuant to Article 36-1, of handling procedures for financial or operational actions of material significance, such as acquisition or disposal of assets, derivatives trading, monetary loans to others, or endorsements or guarantees for others.
+
+\4. A matter relating to the personal interest of a director.
+
+\5. A material asset or derivatives trade.
+
+\6. A material monetary loan, endorsement, or provision of guarantee.
+
+\7. The offering, issuance, or private placement of any equity-type securities.
+
+\8. The engagement, discharge, or compensation of an attesting CPA.
+
+\9. The appointment or discharge of a financial, accounting, or internal auditing officer.
+
+\10. Annual financial reports and second quarter financial reports that must be audited and attested by a CPA, which are signed or sealed by the chairperson, managerial officer, and accounting officer.
+
+\11. Any other material matter so required by the company or the Competent Authority.
+
+With the exception of subparagraph 10, any matter under a subparagraph of the preceding paragraph that has not been approved by one-half or more of all audit committee members may be undertaken upon the approval of two-thirds or more of all directors, without regard to the restrictions of the preceding paragraph, and the resolution of the audit committee shall be recorded in the minutes of the directors meeting.
+
+If, for good cause, it is impossible to hold a meeting of the audit committee, the matters in the subparagraphs of paragraph 1 shall be adopted with the approval of two-thirds or more of all directors. However, the matters in paragraph 1, subparagraph 10 shall still require the opinion of the independent directors indicating their approval.
+
+A company that has established an audit committee is not subject to the provisions of Article 36, paragraph 1 requiring that its financial reports be recognized by the supervisors.
+
+"All audit committee members" and "all directors" as used in paragraphs 1 to 3 and the preceding article shall be calculated as the actual number of persons currently holding those positions.
+
+#### Article 14-6
+
+A company whose stock is listed on a stock exchange or traded over-the-counter shall establish a remuneration committee. Regulations governing the professional qualifications of its members, the exercise of their powers of office, and related matters shall be prescribed by the Competent Authority.
+
+The remuneration referred to in the preceding paragraph shall include salary, stock options, and any other substantive incentive measures for directors, supervisors, and managerial officers.
+
+#### Article 15
+
+The types of securities business operated in accordance with this Act are:
+
+\1. Securities underwriting and other relevant business approved by the Competent Authority.
+
+\2. Securities dealing and other relevant business approved by the Competent Authority.
+
+\3. Securities commission agency, brokerage, agency, and other relevant business approved by the Competent Authority.
+
+#### Article 16
+
+An operator of any business specified in the subparagraphs of the preceding Article is a securities firm and shall be categorized as follows:
+
+\1. If it operates the business specified in subparagraph 1 of the preceding Article, it is a securities underwriter.
+
+\2. If it operates the business specified in subparagraph 2 of the preceding Article, it is a securities dealer.
+
+\3. If it operates the business specified in subparagraph 3 of the preceding Article, it is a securities broker.
+
+#### Article 17
+
+(Deleted)
+
+#### Article 18
+
+Approval from the Competent Authority is required for the operation of any securities finance enterprise, centralized securities depository enterprise, or any other securities-related service enterprise.
+
+Regulations governing the conditions for establishment, application and approval procedures, finances, operations, management, and other required matters for compliance with respect to the enterprises referred to in the preceding paragraph shall be prescribed by the Competent Authority.
+
+#### Article 18-1
+
+The provisions of Article 38, Article 39, and Article 66 of this Act shall apply mutatis mutandis to enterprises referred to in the preceding Article.
+
+The provisions of Article 53, Article 54, and Article 56 of this Act shall apply mutatis mutandis to employees of enterprises referred to in the preceding Article.
+
+#### Article 18-2
+
+(Deleted)
+
+#### Article 18-3
+
+(Deleted)
+
+#### Article 19
+
+All contracts entered into pursuant to this Act shall be in writing.
+
+#### Article 20
+
+During the public offering, issuance, private placement, or trading of securities, there shall be no misrepresentation, fraud, or any other act sufficient to mislead other persons.
+
+Financial reports and financial and business documents filed or publicly disclosed by an issuer in accordance with this Act shall contain no misrepresentation or concealment.
+
+Anyone who violates the provisions of paragraph 1 shall be liable for compensation for damage sustained by bona fide acquirers or sellers of the securities.
+
+The principal who engages a securities broker to purchase or sell securities as a commission agent shall be deemed as an "acquirer" or "seller" for the purpose of the preceding paragraph.
+
+#### Article 20-1
+
+If there is any misrepresentation or concealment in the essential content of any financial report or financial or business document referred to in paragraph 2 of the preceding article or of financial reports filed or publicly disclosed pursuant to Article 36, paragraph 1, the persons in the following subparagraphs shall bear liability for compensation for damage suffered by the bona fide acquirers, sellers, or holders of the securities issued by the issuer:
+
+\1. The issuer and its responsible person(s).
+
+\2. Employees of the issuer who placed their signatures or seals on the financial report or the financial or business document in question.
+
+With the exception of the issuer, a person under any subparagraph of the preceding paragraph shall not be liable for damages if they can demonstrate that they exercised all due diligence and had good cause to reasonably believe that there was no misrepresentation or concealment in the reports or documents.
+
+A CPA who performs attestation of the financial reports or financial and business documents referred to in paragraph 1 shall be liable for compensation for any damage as set forth in paragraph 1 that arises out of their misconduct or their violation or neglect of their professional duties.
+
+With respect to a CPA's liability for compensation under the preceding paragraph, a bona fide acquirer, seller, or holder of securities may file a motion to the court to access  the CPA's working papers and request to review or make copies of them. The CPA and the accounting firm may not refuse such a motion or request.
+
+With the exception of the issuer, when the negligence of a person(s) under any subparagraph of paragraph 1 or paragraph 3 results in the occurrence of damage set forth in paragraph 1, each such person shall bear liability for compensation in proportion to their degree of responsibility.
+
+The provisions of paragraph 4 of the preceding Article shall apply mutatis mutandis to paragraph 1.
+
+#### Article 21
+
+The rights to claim damages prescribed in this Act shall be extinguished if not exercised within two years from the time the claimant learns of the cause that entitles them to claim the damages or within five years from the date of the offering, issuance, or trading.
+
+#### Article 21-1
+
+To further international cooperation between the securities market authorities of Taiwan and other countries, the Taiwan government or institutions authorized by it may, based on the principle of reciprocity, sign cooperative treaties or agreements with foreign governments, institutions, or international organizations, to facilitate matters such as information exchange, technical cooperation, and investigation assistance.
+
+Unless it would jeopardize the national interest or the rights or interests of the investing public, the Competent Authority may, in accordance with a treaty or agreement signed pursuant to the preceding paragraph, request related authorities or require related institutions, juristic persons, associations, or natural persons to provide necessary information in accordance with the treaty or agreement, and based on the principles of reciprocity and confidentiality, provide such information to the foreign government, institution, or international organization that has signed the treaty or agreement with Taiwan.
+
+To further international cooperation in securities markets, in cases in which a foreign government has undertaken investigation, prosecution, or judicial procedure in connection with any suspected violation of foreign financial regulatory legislation, when the foreign government requests assistance with investigation in accordance with a treaty or agreement signed pursuant to paragraph 1, the Competent Authority may require institutions, juristic persons, associations, or natural persons related to securities trading to present relevant account books or documents or to appear at its offices to give statements. When necessary, the Competent Authority may request the foreign government to send personnel to assist in its investigations.
+
+A party who is required to appear at the offices of the Competent Authority to give statements under the preceding paragraph may select and retain, to appear with the party, a lawyer, CPA, other agent, or other assisting personnel that the Competent Authority has given permission to accompany the party.
+
+An institution, juristic person, association, or natural person referred to in paragraph 2 and paragraph 3 may not evade, impede, or refuse any requirement by the Competent Authority to provide relevant account books or documents or to appear at its offices to give statements.
+
+## Chapter II The Offering, Issuance, Private Placement, and Trading of Securities
+
+### Section I The Offering, Issuance, and Trading of Securities
+
+#### Article 22
+
+With the exception of government bonds or other securities exempted by the Competent Authority, the public offering or issuance of securities without having filed for effective registration with the Competent Authority is prohibited.
+
+A company that has issued stock under this Act, when issuing new shares under the Company Act, shall still be required to comply with the preceding paragraph, except in cases handled as provided in Article 43-6, paragraphs 1 and 2 hereof.
+
+The provisions of paragraph 1 shall apply mutatis mutandis to a holder of securities as defined in Article 6, paragraph 1, or certificates of payment therefor, or documents of title thereto, or stock warrant certificates, or certificates of entitlement to new shares, who publicly offers to resell the securities or certificates.
+
+Regulations governing the conditions, documents required to be attached, review and approval procedures, and other required matters for compliance with respect to filings for effective registration under the preceding three paragraphs shall be prescribed by the Competent Authority.
+
+In formulating or amending provisions of the preceding paragraph's regulations relating to foreign exchange, the Competent Authority shall consult with and obtain the approval of the Central Bank of China.
+
+#### Article 22-1
+
+When a company that has issued stock under this Act issues new shares to increase the capital, the Competent Authority may prescribe the shareholding dispersion standards.
+
+The Competent Authority shall prescribe regulations governing the conditions required to be met, operation procedures, and other matters for compliance in connection with a public company's convening of shareholders meetings, shareholders meetings with video conferencing, the exercise of shareholders meeting voting power in writing or through electronic transmission, shareholder services including shareholder or stock affairs, in-house or outsourced handling of shareholder services, evaluation of shareholders services, and other matters relating to shareholder services.
+
+#### Article 22-2
+
+The transfer of stock by the directors, supervisors, managerial officers, or shareholders holding more than ten percent of the total shares of a company that has issued stock under this Act shall be effected in accordance with any of the following methods:
+
+\1. An offering to the public following approval from the Competent Authority or the effective date of a filing for registration with the Competent Authority.
+
+\2. Transfer, at least three days after the filing date for registration with the Competent Authority, on a centralized exchange market or the over-the-counter market, shares that comply with the holding period requirement and daily transfer allowance ratio prescribed by the Competent Authority. However, filing is not required for transfers totaling less than 10,000 shares per trading day.
+
+\3. Transfer, within three days from the date of filing for registration with the Competent Authority, to specific persons satisfying the qualifications prescribed by the Competent Authority.
+
+If a transferee of stock transferred under subparagraph 3 of the preceding paragraph wishes to transfer the shares within one year therefrom, they still must do so in accordance with one of the methods listed in the preceding subparagraphs.
+
+The calculation of shares held by persons referred to in paragraph 1 shall include shares held by their spouses and minor children and those held under the names of others.
+
+#### Article 23
+
+The transfer of stock warrant certificates shall be effected within the time limit for the subscription of new shares by existing shareholders.
+
+#### Article 24
+
+If a company issues new shares in accordance with this Act, any of its previous shares not issued in accordance with this Act shall be deemed as having been issued in accordance with this Act.
+
+#### Article 25
+
+A company that publicly issues stock, after registration, shall promptly file with the Competent Authority and announce to the public the class and numbers of the shares held by its directors, supervisors, managerial officers, and shareholders holding more than ten percent of the total shares.
+
+The holders of stock referred to in the preceding paragraph shall file, by the fifth day of each month, a report with the company of any changes in the number of shares they held during the preceding month. The issuer shall compile that information and file it with the Competent Authority by the fifteenth day of each month. When necessary, the Competent Authority may order the company to announce that information publicly.
+
+The provisions of paragraph 3 of Article 22-2 shall apply mutatis mutandis to the calculation of shareholding referred to in the preceding two paragraphs.
+
+When stock referred to in paragraph 1 is pledged, the pledgor shall immediately notify the company. The company shall file with the Competent Authority and publicly announce the status of a pledge of stock within five days after the creation of the pledge.
+
+#### Article 25-1
+
+The use of proxies for the attendance of a shareholders meeting of a company that publicly issues shares shall be restricted, prohibited, or regulated. The regulations governing the qualifications of a public company's proxy solicitors, proxy agents, and those handling proxy solicitation matters on its behalf, the format, acquisition, and methods of solicitation or agenting of proxies, the number of shares represented, statistical tallying and verification, the conditions under which votes cast by proxy shall be excluded, documents required to be filed with the authorities and kept on file, provision of information, and other required matters for compliance shall be prescribed by the Competent Authority.
+
+#### Article 26
+
+The total shares of registered stock held by all of the directors and all of the supervisors of any company that publicly offers and issues securities under this Act shall each respectively be not less than a certain percentage of its total issued shares.
+
+The regulations governing the director and supervisor shareholding percentages referred to in the preceding paragraph and for the auditing thereof shall be prescribed by order of the Competent Authority.
+
+#### Article 26-1
+
+When a company that has issued securities under this Act convenes a shareholders meeting, in the notice of the subjects to be discussed at the shareholders meeting it shall list and state the main contents of any proposals relating to paragraph 1 of Article 209, paragraph 1 of Article 240, and paragraph 1 of Article 241 of the Company Act. Such proposals may not be raised as extemporary motions.
+
+#### Article 26-2
+
+A company that has issued stock under this Act, when giving a shareholders meeting notice to shareholders who own less than 1,000 shares of registered stock, may do so in the form of a public announcement. For a regular shareholders meeting, such notice may be given 30 days before the meeting date; for a special shareholders meeting, such notice may be given 15 days before the meeting date.
+
+#### Article 26-3
+
+The board of directors of a company that has issued stock in accordance with the Act may not number less than five persons.
+
+When the government or a juristic person is a shareholder of a public company, then except with the approval of the Competent Authority, its representative(s) may not concurrently be elected or serve as director(s) and supervisor(s) of the company. The provisions of Article 27, paragraph 2 of the Company Act shall not apply.
+
+Except with the approval of the Competent Authority, the following relationships may not exist among more than half of a company's directors:
+
+\1. Spouse.
+
+\2. Relative within the second degree of kinship.
+
+Except with the approval of the Competent Authority, a company must have at least one supervisor who is not related, as defined in the subparagraphs of the preceding paragraph, to any other supervisor, and at least one supervisor who is not related to any director.
+
+When a company convenes a shareholders meeting for the election of directors and supervisors and the original electees do not meet the conditions of the two preceding paragraphs, the determination of which directors or supervisors are elected shall be made according to the following provisions:
+
+\1. If the conditions for among the directors are not met, the election of the director(s) receiving the lowest number of votes among those not meeting the conditions shall be deemed invalid.
+
+\2. If the conditions for among the supervisors are not met, the provisions of the preceding subparagraph shall apply mutatis mutandis.
+
+\3. If the conditions for among the supervisors and directors are not met, the supervisor(s) receiving the lowest number of votes among those not meeting the conditions shall be deemed invalid.
+
+When a person serving as director or supervisor is in violation of the provisions of paragraph 3 or paragraph 4, that person shall ipso facto be discharged through the mutatis mutandis application of the provisions of the preceding paragraph.
+
+When the number of directors falls below five due to the dismissal of a director for any reason, the company shall hold a by-election to fill the vacant seat(s) at the next shareholders meeting. When the number of directors falls short by one-third of the total number prescribed by the articles of incorporation, the company shall convene a special shareholders meeting within 60 days of the occurrence of that fact to hold a by-election for directors.
+
+A company shall formulate rules for the conduct of board meetings. Regulations governing the content of deliberations, procedures, matters to be recorded in the meeting minutes, public announcements, and other matters for compliance shall be prescribed by the Competent Authority.
+
+#### Article 27
+
+The Competent Authority may set a minimum or maximum value for each share of publicly issued stock. However, stock issued before such a value is set may continue to use its original value; the same shall apply when new shares of such  stock are issued for capital increase.
+
+A company shall report any modification of its issue price per share to the Competent Authority.
+
+#### Article 28
+
+(Deleted)
+
+#### Article 28-1
+
+If a public company whose stock is neither listed on a stock exchange nor traded on the over-the-counter market and whose ownership dispersion fails to meet the standards prescribed by the Competent Authority pursuant to paragraph 1 of Article 22-1 issues new shares for cash, it shall allocate a certain percentage of the total amount of the newly issued shares to be publicly offered, unless such a public offering is deemed to be unnecessary or inappropriate by the Competent Authority. The provisions of paragraph 3 of Article 267 of the Company Act regarding the preemptive subscription rights of existing shareholders shall not apply to such public offering.
+
+In cash offering of new shares by a public company whose stock is listed on a stock exchange or traded on the over-the-counter market, the Competent Authority may require a certain percentage of its new issues to be offered at the market value to the public; in such circumstance, the provisions of paragraph 3 of Article 267 of the Company Act regarding the preemptive subscription rights of existing shareholders shall not apply to such public offering.
+
+The percentage referred to in the preceding two paragraphs shall be ten percent of the total newly issued shares . However, if a higher percentage is determined by a resolution of the shareholders meeting, the percentage resolved upon shall be complied with.
+
+When shares are allocated for public offering in accordance with paragraphs 1 and 2, the price of the shares in the same issue that is subscribed by company employees or existing shareholders shall be identical to the price of the publicly issued shares.
+
+#### Article 28-2
+
+In any of the following situations, a company whose stock is listed on a stock exchange or traded on the over-the-counter market may, upon the approval of a majority of the directors present at a directors meeting attended by two-thirds or more of directors, buy back its shares from the centralized securities exchange market or over-the-counter market or in accordance with paragraph 2 of Article 43-1, without being subject to the restrictions of paragraph 1 of Article 167 of the Company Act:
+
+\1. Transfer of shares to its employees.
+
+\2. For equity conversion purposes in coordination with the issuance of corporate bonds with warrants, preferred shares with warrants, convertible corporate bonds, convertible preferred shares, or share subscription warrants; or
+
+\3. The buyback is necessary for purposes of maintaining the company's credit and shareholders' equity, and the shares bought back are cancelled.
+
+The number of shares bought back by a company under the preceding paragraph may not exceed ten percent of the total number of issued shares of the company. The total amount of the shares bought back may not exceed the amount of the retained earnings plus premium on capital stock plus realized capital reserve.
+
+Regulations regarding the procedures, price, quantity, method, conversion method, and matters required to be reported and publicly announced in connection with the buyback of shares by a company in accordance with paragraph 1 above shall be prescribed by the Competent Authority.
+
+The shares bought back by a company in accordance with paragraph 1 shall be transferred within five years from the date of buyback, except for shares bought back as referred to in subparagraph 3, for which amendment registration shall be completed within six months from the date of buyback. Any shares not transferred within the time limit shall be deemed unissued shares, and amendment registration shall be carried out.
+
+Shares bought back by a company in accordance with paragraph 1 shall not be pledged. Before the shares have been transferred, the shareholder's rights shall not be enjoyed.
+
+If a company buys back shares from the centralized securities exchange market or over-the-counter market, the shares held by its affiliated enterprises defined under Article 369-1 of the Company Act or its directors, supervisors, managerial officers, or shareholders holding more than 10 percent of the company's total shares, shall not be sold during the buyback period.
+
+The board of directors resolution referred to in paragraph 1, and the implementation thereof shall be reported in the most recent shareholders meeting. The same shall also apply if the shares are not bought back for any reason.
+
+The shares held by persons prohibited from selling their shares as set out in paragraph 6 shall include shares held by their spouses and minor children and those held under the names of other parties.
+
+#### Article 28-3
+
+A public company that publicly offers or issues stock warrants, preferred shares with warrants, or corporate bonds with warrants shall, when subscribers exercise the warrant rights in accordance with the subscription rules prescribed by the company, be obligated to issue the shares to them, and the restrictions of paragraph 7 of Article 156 of the Company Act requiring the issuance price to be the same and of paragraphs 1, 2, and 3 of Article 267 of the same Act regarding preemptive subscription rights of employees and existing shareholders shall not apply.
+
+The number of shares that may be subscribed under the subscription rules prescribed by a company referred to in the preceding paragraph shall be specified in the company's articles of incorporation in advance and shall not be subject to the restrictions of paragraphs 1 and 2 of Article 278 of the Company Act.
+
+#### Article 28-4
+
+The total issue amount of the corporate bonds offered and issued by a company that has issued stock in accordance with this Act, unless the Competent Authority has obtained the approval of the central authority with jurisdiction over the business of the company, shall comply with the following provisions, and is not subject to the restrictions under Article 247 of the Company Act:
+
+\1. The total issue amount of secured corporate bonds, convertible corporate bonds, or corporate bonds with warrants may not exceed 200 percent of the company's total assets less total liabilities.
+
+\2. The total issue amount of unsecured corporate bonds other than bonds under the preceding subparagraph may not exceed one-half of the company's total assets less total liabilities.
+
+#### Article 29
+
+If an issue of corporate bonds has a financial institution serving as a guarantor, it may be deemed a secured issue.
+
+#### Article 30
+
+When applying for approval to offer and issue securities publicly, a company is required to submit a prospectus, in addition to the other information required under the Company Act.
+
+The information required to be supplied in the prospectus referred to in the preceding paragraph shall be prescribed by an order of the Competent Authority.
+
+The provisions of paragraph 1 shall apply mutatis mutandis when a company applies for listing on a stock exchange or over-the-counter trading of its securities. The regulations governing the information required to be included in the prospectus shall be drafted by the stock exchange and over-the-counter securities exchange, respectively, and submitted for approval by the Competent Authority.
+
+#### Article 31
+
+A prospectus shall be delivered to the subscriber of securities prior to public offering.
+
+Any person who violates the preceding paragraph shall be liable for the compensation of damage sustained by any bona fide counterparty.
+
+#### Article 32
+
+If there is any misrepresentation or concealment in the material content of the prospectus referred to in the preceding Article, the following persons, within the scope of their responsibilities, shall be jointly and severally liable with the issuer to any bona fide counterparty for compensation for damage resulting therefrom:
+
+\1. The issuer and its responsible person(s).
+
+\2. Any employees of the issuer who has signed and affixed their seal on the prospectus to certify its accuracy in whole or in part.
+
+\3. Any underwriter of the securities.
+
+\4. Any CPA, lawyer, engineer, or any professional or technical person who has signed or affixed their seal to certify in whole or in part or to present their opinion on the correctness of the prospectus.
+
+With the exception of the issuer, the persons referred to in subparagraphs 1 through 3 of the preceding paragraph shall not be liable for compensation if they can prove that they exercised all due diligence, and that they had good cause to believe, with respect to portions of materials not certified by a person referred to in subparagraph 4, that there was no misrepresentation or concealment in the material content, or that they had good cause to believe, with respect to any certified portion, that it was true. The persons referred to in subparagraph 4 of the preceding paragraph also shall not be liable if they can prove that they exercised reasonable investigation and had good cause to believe that their certification or opinions were accurate.
+
+#### Article 33
+
+The stock or bond subscribers shall deliver the payment due for the subscription of the stock or bonds, together with the subscription forms for the stock or bonds, to the collecting agent. Upon receipt of the payment, the collecting agent shall deliver to each of those payers a certificate, signed/sealed by the issuer, of payment for the stock or bonds.
+
+Both the certificate of payment referred to in the preceding paragraph and its counterfoil shall be signed/sealed by the collecting agent, and the counterfoil shall be returned to the issuer.
+
+When a company that has issued securities under this Act issues new shares, if the period for payment of the subscription publicly announced pursuant to Article 273 of the Company Act is one month or longer, the failure of a subscriber to effect payment within the period shall result in the forfeiture of their rights of subscription, and the provisions of paragraph 3 of Article 266 of the Company Act applying mutatis mutandis the provisions of Article 142 of the Company Act shall not apply.
+
+#### Article 34
+
+An issuer shall deliver the stock or corporate bonds to the subscribers against the certificates of payment referred to in the preceding Article within thirty days from the date the stock or corporate bonds may be issued pursuant to the Company Act, and public announcement shall be made prior to the delivery.
+
+The transfer of the certificates of payment for stock or bonds shall be made within the time limit specified in the preceding paragraph.
+
+#### Article 35
+
+Stock or bonds issued by a company shall be duly certified. The regulations governing such certification shall be prescribed by the Competent Authority.
+
+#### Article 36
+
+Unless under special circumstances as otherwise provided by the Competent Authority, a company that has issued securities under this Act shall perform public announcement and filing with the Competent Authority as follows:
+
+\1. Within three months after the close of each fiscal year, publicly announce and file with the Competent Authority the annual financial report duly signed or sealed by the chairperson, managerial officer, and accounting officer, and audited and attested by a CPA, approved by the board of directors, and recognized by the supervisors.
+
+\2. Within 45 days after the end of the first, second, and third quarters of each fiscal year, publicly announce and register with the Competent Authority financial reports duly signed or sealed by the chairperson, managerial officer, and accounting officer and reviewed by a CPA and reported to the board of directors.
+
+\3. Within the first ten days of each calendar month, publicly announce and file with the Competent Authority the operating status for the preceding month.
+
+Regulations governing the applicable scope of the special circumstances as referred to in the preceding paragraph, deadlines for public announcement and filing under such special circumstances, and other required matters for compliance in connection therewith shall be prescribed by the Competent Authority.
+
+Within two days from the date of occurrence of any of the following events, any company referred to in paragraph 1 of this Article shall publicly announce and file with the Competent Authority:
+
+\1. Any inconsistency between the annual financial report approved by the regular meeting of shareholders and the annual financial report publicly announced and filed with the Competent Authority.
+
+\2. Any event that has a material impact on shareholders' rights and interests or securities prices.
+
+The companies referred to in paragraph 1 shall prepare an annual report and distribute it to the shareholders at the regular meeting of shareholders. The particulars to be covered in the annual report, principles for its preparation, and other required matters for compliance shall be prescribed by the Competent Authority.
+
+Copies of the reports publicly announced and filed with the Competent Authority referred to in paragraphs 1 to 3 and the annual report referred to in the preceding paragraph shall, if the securities are listed for trading on a stock exchange, be sent to the stock exchange, or, if the securities are traded over-the-counter, copies shall be sent to the institution designated by the Competent Authority, for review by the public.
+
+During a period that a company is undergoing a reorganization procedure, the powers of the board of directors and the supervisors under paragraph 1 shall be exercised by the reorganizers or the reorganization supervisors.
+
+The regular meeting of shareholders of a company whose stock is listed on a stock exchange or traded over-the-counter shall be held within six months after the close of each fiscal year, and the proviso of Article 170, paragraph 2 of the Company Act shall not apply.
+
+In a year which expires the term of the directors and supervisors of a company whose stock is listed on a stock exchange or traded over-the-counter, if the board of directors does not convene the regular meeting of shareholders to elect directors and supervisors for the new term in accordance with the preceding paragraph, the Competent Authority may ex officio set a deadline for the meeting to be held. If the meeting is not held by the deadline, the entire body of directors and supervisors shall ipso facto be dismissed from the time of expiration of the deadline.
+
+#### Article 36-1
+
+The Competent Authority shall prescribe rules governing the applicable scope, work procedures, required public announcements, required filings, and other required matters for compliance with respect to major financial or operational actions of public companies, such as acquisition or disposal of assets, engaging in derivatives trading, monetary loans to others, endorsements or guarantees for others, or disclosure of financial forecasts.
+
+#### Article 37
+
+To perform audit and attestation of the financial reports referred to in Article 36, a CPA shall require approval from the Competent Authority. Regulations governing the approval procedures shall be prescribed by the Competent Authority.
+
+Except as otherwise provided by the Certified Public Accountant Act or other laws, a CPA performing an audit and attestation under the preceding paragraph shall do so in compliance with the audit and attestation regulations promulgated by the Competent Authority.
+
+If there is any error or omission by a CPA in performing the attestation referred to in paragraph 1, the Competent Authority may impose any of the following sanctions, according to the seriousness thereof:
+
+\1. Warning.
+
+\2. Suspension from practicing any attestation under this Act for a period of two years.
+
+\3. Voidance of their approval to perform attestation.
+
+The financial reports referred to in paragraph 1 of Article 36 shall be placed at the company's office and branches for inspection or copying by shareholders and creditors.
+
+#### Article 38
+
+To protect the public interest or the interests of investors, the Competent Authority may, prior to the approval of a public offering or issuance, require the issuer, securities underwriters, or other related parties to submit reference materials or reports and make a direct examination of their relevant documents and accounts.
+
+The Competent Authority may, at any time after the issuance of securities, order the issuer to submit financial and business reports or make a direct examination of the financial and business conditions of the issuer.
+
+#### Article 38-1
+
+When the Competent Authority deems it necessary, it may, from time to time, appoint a CPA, lawyer, engineer, or other professionals or technicians to examine the financial and business conditions and related documents, statements, and account books of the issuer, securities underwriters, or other related parties and to submit reports or opinions to the Competent Authority, at the expense of the examinee.
+
+When shareholders who have been continuously holding, for a period of 1 year or longer, 3 percent or more of the total number of the outstanding shares of a company whose stock is listed on a stock exchange or traded over-the-counter deem that a specific matter materially damages the rights or interests of shareholders, they may apply to the Competent Authority, attaching their reasons, related evidence, and explanations of the necessity, for examination of the specific matter of the issuer or related documents and account books. When the Competent Authority deems it necessary, it will do as provided in the preceding paragraph.
+
+#### Article 39
+
+During its examination of the financial reports and other reference materials or reports filed by the issuer, or its examination of the financial and business conditions of the issuer, the Competent Authority, if it finds that the issuer has failed to comply with a law or regulation, may issue an order for corrections or improvements within a specified period, and it may additionally impose penalties pursuant to this Act.
+
+#### Article 40
+
+The approval of a public offering shall not be cited in promotional material as substantiating anything under the application or as a guarantee of the value of the securities.
+
+#### Article 41
+
+When the Competent Authority deems it necessary, it may order a company that has issued securities under this Act to set aside, in addition to the allocation of legal reserve required by law, a certain proportion of its earnings as a special reserve.
+
+When a company that has issued securities under this Act applies to capitalize its legal reserve or capital reserve, it shall first make up any loss. If it will capitalize capital reserve, a limit of a certain percentage shall be imposed.
+
+#### Article 42
+
+If a company intends to have stock that has not been issued in accordance with this Act listed on a stock exchange or traded on the over-the-counter market, it shall first apply to the Competent Authority for retroactive handling of the public issuance examination and approval procedures under this Act.
+
+Company stock that has not undergone retroactive handling of public issuance examination and approval procedures under this Act in accordance with the preceding paragraph may not be traded under this act, nor may any public tender offer or brokerage be conducted for the purposes of trading such stock.
+
+#### Article 43
+
+The payment or settlement of securities listed on a stock exchange or traded on over-the-counter markets shall be effected on a cash payment and actual delivery basis. The settlement period and the margin deposit to be paid in advance may be prescribed by an order of the Competent Authority.
+
+Settlement of trades of securities held in the custody of a centralized securities depository enterprise may be effected through book-entry transfer. The regulations for the operations thereof shall be prescribed by the Competent Authority.
+
+If securities held in the custody of a centralized securities depository enterprise are the subject of a pledge, the delivery of the pledge created may be effected through book-entry transfer, and Article 908 of the Civil Code shall not apply.
+
+Securities held in fungible custody by a securities depository shall be co-owned by the owners in accordance with the types and quantities of securities deposited by them. Upon withdrawal, securities of the same type and in the same quantity may be used to return them.
+
+To handle custody business, a centralized securities depository enterprise may enter the stock and corporate bonds held in its custody into the issuer's shareholders register or corporate bond counterfoils in its own name. When, before the stock or corporate bond issuer calls a shareholders meeting or corporate bondholders meeting, decides to distribute dividends or bonuses or other benefits, or pays principal or interest, the centralized securities depository enterprise notifies the issuer of the true name or title and domicile or residence of, and the amount held by, the owner of stock or corporate bonds held in its custody it shall be deemed to have entered that information into the issuer's shareholders register or corporate bond counterfoils or that the stock or corporate bonds have been delivered to the company, and the provisions of paragraph 1 of Article 165, Article 176, Article 260, and paragraph 3 of Article 263 of the Company Act shall not apply.
+
+The provisions in the preceding two paragraphs shall apply mutatis mutandis to government bonds and other securities.
+
+### Section II Purchase of Securities
+
+#### Article 43-1
+
+Any person who acquires, either individually or jointly with another person(s), more than 5 percent of the total issued shares of a public company shall report such acquisition to the Competent Authority and make a public announcement. The same applies when there is any change in the specifics reported. Regulations governing the reporting of the number of shares acquired, the purpose and the sources of funds for the acquisition of the shares, changes to the specifics reported, public announcement, period, and any other matters requiring compliance shall be prescribed by the Competent Authority.
+
+Any public tender offer to purchase the securities of a public company bypassing the centralized securities exchange market or the over-the-counter market may be conducted only after the offeror has reported to the Competent Authority, providing proof that it has the ability to perform payment of the tender offer consideration, and publicly announced specific matters, except under the following circumstances:
+
+\1. The number of securities proposed for the public tender offer by the offeror plus the total number of securities of the public company already obtained by the offeror and its related parties do not exceed 5 percent of the total number of voting shares issued by the public company.
+
+\2. The securities purchased by the offeror through the public tender offer are securities of a company of which the offeror holds more than 50 percent of the issued voting shares.
+
+\3. Other circumstances in conformity with the regulations prescribed by the Competent Authority.
+
+Any person who independently or jointly with another person(s) proposes to acquire a certain percentage of the total issued shares of a public company or the beneficiary securities of a real estate investment trust under the Real Estate Securitization Act shall make the acquisition through a public tender offer unless certain conditions are satisfied.
+
+Regulations governing the scope, conditions, period, related parties, and particulars for filing and public announcement in connection with purchases of securities pursuant to paragraph 2, and governing the acquisition of a certain percentage of the total issued shares of a public company under the preceding paragraph and the conditions in connection therewith, shall be prescribed by the Competent Authority.
+
+Any person who will make a public tender offer to purchase the beneficiary securities of a real estate investment trust under the Real Estate Securitization Act may conduct the public tender offer only after filing with the Competent Authority and making a public announcement. Regulations governing the scope, conditions, period, related parties, and particulars for filing and public announcement in connection with purchases of real estate securitization beneficiary securities and governing the acquisition of a certain percentage of the beneficiary securities of a real estate investment trust under paragraph 3 and the conditions in connection therewith shall be prescribed by the Competent Authority.
+
+#### Article 43-2
+
+A public tender offeror shall adopt uniform purchase conditions in the public tender offer, and may not make any of the following modifications to the purchase conditions:
+
+\1. Lower the public tender offer price.
+
+\2. Lower the proposed quantity of securities to be purchased through the public tender offer.
+
+\3. Shorten the public tender offer period.
+
+\4. Other particulars as prescribed by the Competent Authority.
+
+A public tender offeror that violates the requirement of uniform purchase conditions set forth in the preceding paragraph shall be liable for damages to the tenderer up to a limit of the difference between the highest price paid under the public tender offer and the price paid to the tenderer, multiplied by the number of shares subscribed.
+
+#### Article 43-3
+
+From the date of filing and public announcement until the date of expiration of the public tender offer period, the public tender offeror and its related parties shall not, through a centralized securities exchange, over-the-counter market, any other market, or by any other means, purchase the same type of securities of the public company or beneficiary securities of the real estate investment trust under the Real Estate Securitization Act.
+
+A public tender offeror that violates the preceding paragraph shall be liable to the tenderer for damages up to a limit of the difference between the price paid for the securities purchased through other means and the price under the public tender offer, multiplied by the number of shares subscribed.
+
+#### Article 43-4
+
+The public tender offeror, unless buying back shares pursuant to Article 28-2, shall deliver the public tender offer prospectus to the tenderer upon the tenderer's request or the tenderer's deposit of the securities with the appointed institution.
+
+The particulars to be published in the public tender offer prospectus referred to in the preceding paragraph shall be prescribed by the Competent Authority.
+
+The provisions of Article 31, paragraph 2 and of Article 32 shall apply mutatis mutandis to paragraph 1 hereinabove.
+
+#### Article 43-5
+
+After a public tender offeror has initiated a public tender offer, it may not suspend the public tender offer unless any of the following circumstances occurs and the Competent Authority has granted approval:
+
+\1. The public company whose securities are being purchased encounters any material change in its financial or business condition, and the offeror has presented evidence of the change.
+
+\2. The offeror becomes bankrupt, dies, is declared by a court to be under guardianship or assistance, or is required by a court ruling to undergo reorganization.
+
+\3. Other circumstances specified by the Competent Authority.
+
+If content reported or publicly announced by an offeror violates a law or regulation, the Competent Authority may, as necessary to protect the public interest, order the offeror to amend the particulars of the public tender offer report and carry out reporting and public announcement procedures anew.
+
+If the offeror fails to acquire the proposed quantity within the tender offer period or suspension of the public tender offer is approved by the Competent Authority, the offeror may not, within one year therefrom, carry out a public tender offer on the same company unless it has good cause and has obtained approval from the Competent Authority.
+
+If, after the public tender offer, the total number of issued shares of the acquired company held by the offeror and its related parties exceeds 50 percent of the total number of shares issued by the company, the offeror may, by a proposal in writing, with reasons stated therein, request the board of directors to convene a special meeting of shareholders; the restrictions set forth in Article 173, paragraph 1 of the Company Act shall not apply.
+
+### Section III Private Placement and Trading of Securities
+
+#### Article 43-6
+
+A public company may carry out private placement of securities with the following persons upon adoption of a resolution by at least two-thirds of the votes of the shareholders present at a meeting of shareholders who represent a majority of the total number of issued shares, without being subject to the restrictions of Article 28-1 and Article 139, paragraph 2 hereof and Article 267, paragraphs 1 to 3 of the Company Act :
+
+\1. Banks, bills finance enterprises, trust enterprises, insurance enterprises, securities enterprises, or other juristic persons or institutions approved by the Competent Authority.
+
+\2. Natural persons, juristic persons, or funds meeting the conditions prescribed by the Competent Authority.
+
+\3. Directors, supervisors, and managerial officers of the company or its affiliated enterprises.
+
+The total number of placees under subparagraphs 2 and 3 of the preceding paragraph shall not exceed 35 persons.
+
+A private placement of ordinary corporate bonds shall have a total issue amount not exceeding 400 percent of its total assets less total liabilities, unless the Competent Authority has obtained the approval of the central authority with jurisdiction over the business of the company; such a private placement is not subject to the restrictions under Article 247 of the Company Act, and may be carried out in installments within one year of the date of the resolution of the board of directors.
+
+Upon the reasonable request by a person(s) under paragraph 1, subparagraph 2 prior to consummation of the private placement, the company shall bear the obligation to provide information on company finances, business, or other information relevant to the current private placement of securities.
+
+Within 15 days from the date the share payments or payments of the price of the corporate bonds or other securities have been made in full, the company shall submit the relevant documentation in a report to the Competent Authority for recordation.
+
+For a private placement of securities conducted pursuant to paragraph 1, the following particulars shall be enumerated and explained in the notice of the subjects to be discussed at the shareholders meeting and shall not be raised as extemporary motions:
+
+\1. The basis and rationale for the setting of the price.
+
+\2. The means of selecting the specified persons. If the placees have already been arranged, the relationship between the placees and the company shall also be described.
+
+\3. The reasons necessitating the private placement.
+
+For a private placement of securities conducted pursuant to paragraph 1, for which the relevant particulars of the private placement by installments have furthermore been enumerated and explained in the proposal to the shareholders meeting as provided in the subparagraphs of the preceding paragraph, the private placement may be carried out by installments within one year from the date of the resolution of the shareholders meeting.
+
+#### Article 43-7
+
+Private placement and resale of securities may not be the subject of general advertisements or public inducements.
+
+Any violation of the preceding paragraph shall be considered an act of public offering to the general public.
+
+#### Article 43-8
+
+Placees and purchasers of privately placed securities may not resell the securities except under the following circumstances:
+
+\1. The privately placed securities are held by persons specified in Article 43-6, paragraph 1, subparagraph 1, and no securities of the same type as those privately placed securities are traded on the centralized securities exchange market or over-the-counter markets, and the securities are transferred to persons of the same qualifications.
+
+\2. At least one full year after the delivery date of the privately placed securities and within three years from the delivery date, the privately placed securities are transferred to persons conforming to Article 43-6, paragraph 1, subparagraphs 1 and 2, subject to the restrictions prescribed by the Competent Authority concerning holding period and trading quantities.
+
+\3. Three full years have elapsed since the delivery date of the privately placed securities.
+
+\4. A transfer occurs by operation of law or regulation;
+
+\5. It is a direct transfer between private persons, the quantity of which does not exceed one trading unit of the securities, with an interval between any two such transfers of not less than three months.
+
+\6. As otherwise approved by the Competent Authority.
+
+The restrictions on transfers of privately placed securities set forth in the preceding paragraph shall be conspicuously annotated on a company's share certificates and shall be stated on the relevant written documentation delivered to the placee or purchaser.
+
+## Chapter III Securities Firms
+
+### Section I General Provisions
+
+#### Article 44
+
+A securities firm must obtain permission and issuance of a license from the Competent Authority before operating a securities business. The operation of securities business by persons other than securities firms is prohibited.
+
+Permission from the Competent Authority shall be required for the establishment of branches by a securities firm.
+
+Permission and issuance of a license from the Competent Authority shall be required for a foreign securities firm to establish branches in the Republic of China.
+
+Standards for the establishment of securities firms governing matters including the conditions for the establishment of securities firms and branches thereof, the types of business in which they may engage, application procedures, documents required to be submitted, and regulations governing their finances, operations, and other required matters for compliance shall be prescribed by the Competent Authority.
+
+The Competent Authority shall consult with the Central Bank of China when it adopts or amends provisions of the regulations referred to in the preceding paragraph that relate to foreign exchange business.
+
+#### Article 44-1
+
+To facilitate the development of financial inclusion and financial technologies, applicants, not limited to securities firms and securities finance enterprises, may apply to conduct innovative experimentation in securities business pursuant to the Financial Technology Development and Innovative Experimentation Act.
+
+An innovative experiment under the preceding paragraph may be exempted from the application of the provisions of this Act within the period and scope approved by the Competent Authority.
+
+The Competent Authority shall reference the results of the implementation of the innovative experimentation under paragraph 1 to review the appropriateness of this Act and relevant financial laws and regulations.
+
+#### Article 45
+
+A securities firm shall operate the securities business within the category to which it belongs under Article 16 and may not operate securities business beyond its own category. However, if it obtains approval from the Competent Authority, this restriction shall not apply.
+
+A securities firm shall not be operated concurrently by another enterprise. However, a financial institution with permission from the Competent Authority may concurrently operate a securities business.
+
+A securities firm shall not invest in another securities firm except with the approval of the Competent Authority.
+
+#### Article 46
+
+A securities firm that concurrently operates the business of a securities dealer and a securities broker pursuant to the proviso of paragraph 1 of the preceding Article shall distinguish by written document for every trade whether the trade is made for its own account or a customer.
+
+#### Article 47
+
+A securities firm shall be a company duly incorporated and registered under the law. However, this restriction does not apply to securities firms that concurrently operate under the proviso of paragraph 2 of Article 45.
+
+#### Article 48
+
+The minimum capital requirements of securities firms shall be prescribed by an order of the Competent Authority based respectively on the categories of business in which a securities firm operates.
+
+The capital referred to in the preceding paragraph shall mean the total monetary amount of issued shares.
+
+#### Article 49
+
+The total external liabilities of a securities firm shall not exceed a prescribed multiple of its capital net worth. Its total current liabilities shall not exceed a prescribed percentage of its total current assets.
+
+The multiple and percentage referred to in the preceding paragraph shall be prescribed by an order of the Competent Authority.
+
+#### Article 50
+
+The name of a securities firm shall explicitly bear the word "securities." However, this requirement shall not apply to a securities firm under the proviso of paragraph 2 of Article 45.
+
+No person other than a securities firm may use a name similar to that of a securities firm.
+
+#### Article 51
+
+A director, supervisor, or managerial officer of a securities firm shall not serve concurrently in any position at another securities firm. However, if because of an investment relationship, and with the approval of the Competent Authority, a director, supervisor, or managerial officer may serve concurrently as a director or supervisor of the invested securities firm.
+
+#### Article 52
+
+(Deleted)
+
+#### Article 53
+
+A person who falls within any of the following categories shall not serve as a director, supervisor, or managerial officer of a securities firm. If such a person is already serving in such a capacity they shall be discharged, and the Competent Authority shall make a written request to the Ministry of Economic Affairs to void the registration of such person as a director, supervisor, or managerial officer:
+
+\1. Any person specified in any subparagraph of Article 30 of the Company Act.
+
+\2. Any person who served as a director, supervisor, managerial officer, or other equivalent position in a juristic person at a time when it was adjudicated bankrupt, if three years have not elapsed since the close of the bankruptcy or the reconciliation has not been performed.
+
+\3. Any person who within the last three years has a record with a financial institution of being refused transactions or a loss of credit.
+
+\4. Any person who has been sentenced under this Act to a criminal penalty of severity equal to or greater than the imposition of a criminal fine, and three years have not elapsed since completion of the sentence, expiration of the suspended sentence, or pardon.
+
+\5. Any person who has violated the provision of Article 51 hereof.
+
+\6. Any person who was discharged from their position under Article 56 or subparagraph 2 of Article 66 hereof within the last three years.
+
+#### Article 54
+
+Associated persons employed by securities firms whose duties relate to the securities business shall have reached the age of majority and possess the qualifications required by relevant laws and regulations and shall not fall into any of the following categories:
+
+\1. Having been adjudicated bankrupt and their rights not yet reinstated, or having been declared by a court to be under guardianship or assistance, and that declaration has not been voided.
+
+\2. Concurrently holding a position with another securities firm, provided that this restriction shall not apply when there is an investment relationship and the Competent Authority has granted approval allowing concurrent holding of the position of director or supervisor at the invested securities firm.
+
+\3. Having been sentenced to a criminal penalty of severity equal to or greater than a term of imprisonment for fraud, breach of trust, or violation of laws governing business and industry, and three years have not elapsed since completion of the sentence, expiration of the suspended sentence, or pardon.
+
+\4. Falling in any of the situations specified in subparagraphs 2 through 4 or subparagraph 6 of the preceding Article.
+
+\5. Having violated any order issued by the Competent Authority in accordance with this Act.
+
+The job titles of the associated persons referred to in the preceding paragraph shall be prescribed by the Competent Authority.
+
+#### Article 55
+
+Following the incorporation and registration process, a securities firm shall, in accordance with the regulations prescribed by the Competent Authority, deposit an operation bond.
+
+Creditors whose claims arise from the business that a securities firm has special permission to operate shall have a preferential payment right from the deposited operation bond referred to in the preceding paragraph.
+
+#### Article 56
+
+If any director, supervisor, or employee of a securities firm is found to have committed any act that violates this Act or another related law or regulation, and if such violation is sufficient to affect the normal operation of the securities firm, the Competent Authority may at any time ordering the securities firm to suspend the execution of business by such person for not more than one year or discharge such person from their position and additionally may impose sanctions in accordance with Article 66 depending on the severity of the violation.
+
+#### Article 57
+
+After a securities firm has obtained special permission to operate a securities business or permission to establish branches, the Competent Authority may withdraw such special permission or permission if it finds that the securities firm has violated a law or regulation or made any misrepresentation.
+
+#### Article 58
+
+When a securities dealer or its branch commences or suspends operations, it shall file with the Competent Authority for recordation.
+
+#### Article 59
+
+From the date a securities firm obtains its securities business license or a branch thereof obtains permission and registration, if the securities firm or branch fails to commence operations within three months or after commencing operations voluntarily suspends business for three consecutive months or longer, the Competent Authority may withdraw its special permission or permission.
+
+The securities firm, if it has good cause, may apply to the Competent Authority for an extension of the time limit referred to in the preceding paragraph.
+
+#### Article 60
+
+Except with the approval of the Competent Authority, a securities firm may not engage in the following types of business:
+
+\1. Margin purchases or short sales in securities trading.
+
+\2. Acting as an agent for margin purchases or short sales in securities trading.
+
+\3. Borrowing or lending securities or acting as an agent or broker for the borrowing or lending of securities.
+
+\4. Borrowing or lending money in connection with securities business or acting as an agent or broker for such borrowing or lending.
+
+\5. Accepting engagement by a customer to keep custody of and utilize money of the customer in connection with securities business.
+
+Regulations governing matters including the qualifications, personnel, business, and risk management of a securities firm applying for approval to engage in related business under the preceding paragraph shall be prescribed by the Competent Authority.
+
+#### Article 61
+
+The amount limits, periods, financing ratios, and margin percentages for margin purchases and short sales in securities trading shall be prescribed by the Competent Authority after consultation with and approval from the Central Bank of China. The standards governing what securities are eligible for margin purchases and short sales shall be prescribed by the Competent Authority.
+
+#### Article 62
+
+A securities broker or dealer may not engage in over-the-counter trading of securities, whether brokerage or proprietary, unless with the approval of the Competent Authority.
+
+Regulations governing the trading referred to in the preceding paragraph shall be prescribed by the Competent Authority.
+
+The provisions of Articles 156 and 157 shall apply mutatis mutandis to the trading referred to in paragraph 1.
+
+#### Article 63
+
+The provisions of Article 36 regarding the preparation, submission, and publication of financial reports shall apply mutatis mutandis to securities firms.
+
+#### Article 64
+
+The Competent Authority, to protect the public interest or the interest of investors, may at any time order a securities firm to provide financial or business reports and information or examine its business operations, assets, books and records, documents, or other relevant objects. The Competent Authority may place under seal or subpoena of relevant evidence and materials if it finds that there is a substantial likelihood of violation of a law or regulation.
+
+#### Article 65
+
+When the Competent Authority examines the business or financial conditions of a securities firm and finds that the securities firm has failed to comply with a law or regulation, it may, at any time, issue an order for corrections or improvements within a specified period.
+
+#### Article 66
+
+If a securities firm violates this Act or any order issued hereunder, in addition to being subject to the punishment provided under this Act, the Competent Authority may, depending on the severity of the situation, impose any of the following sanction, and may order the securities firm to correct the violation within a prescribed period:
+
+\1. Warning.
+
+\2. Order the securities firm to remove a director, supervisor, or managerial officer from their office.
+
+\3. Suspending the business, in whole or in part, of the company or its branch for a period of not more than six months.
+
+\4. Withdraw or revoke the business permission of the company or its branch.
+
+\5. Other necessary measures.
+
+#### Article 67
+
+If a securities firm has its special permission withdrawn or is ordered to suspend business by the Competent Authority under this Act, the securities firm shall wind up and liquidate any securities trades engaged in or any other matters entrusted to it before such withdrawal or business suspension.
+
+#### Article 68
+
+A securities firm whose special permission has been withdrawn shall still be deemed as a securities firm within the scope of the purposes of winding up and liquidating the trades or matters entrusted to it under the preceding article. A securities firm ordered to suspend operation shall be deemed still to be in operation within the scope of winding up and liquidating the securities trades engaged in or matters entrusted prior to the suspension of business.
+
+#### Article 69
+
+When a securities firm dissolves or partially ceases its business, its board of directors shall file a statement with the Competent Authority explaining the reasons.
+
+The provisions of Articles 67 and 68 shall apply mutatis mutandis to the matters referred to in the preceding paragraph.
+
+#### Article 70
+
+The regulations governing matters regarding the responsible persons and associated persons of securities firms shall be prescribed by an order of the Competent Authority.
+
+### Section II Securities Underwriting
+
+#### Article 71
+
+A securities underwriter that underwrites securities on a firm commitment basis shall, after the expiration of the period of underwriting specified in the underwriting agreement, subscribe for its own account the unsold portion, if any, of the securities it agreed to underwrite on a firm commitment basis.
+
+A securities underwriter that underwrites securities on a firm commitment basis may subscribe to such securities before placing them for sale or specify in the underwriting agreement that a portion of the securities covered in the agreement shall be reserved for subscription by the underwriter for its own account.
+
+The qualifications required for an underwriter to perform firm commitment underwriting shall be prescribed by the Competent Authority.
+
+#### Article 72
+
+A securities underwriter that underwrites securities on a best-efforts basis may, after the expiration of the underwriting period specified in the underwriting agreement, return the unsold portion, if any, of the securities to the issuer.
+
+#### Article 73
+
+(Deleted)
+
+#### Article 74
+
+Except as provided in Article 71, a securities underwriter shall not, during the underwriting period, acquire for its own account the securities that it has underwritten on a firm commitment or a best efforts basis.
+
+#### Article 75
+
+(Regulations Governing Sale of Shares Subscribed by Underwriter)
+
+The regulations governing the sale of securities acquired by a securities underwriter in accordance with Article 71 shall be prescribed by the Competent Authority.
+
+#### Article 76
+
+(Deleted)
+
+#### Article 77
+
+(Deleted)
+
+#### Article 78
+
+(Deleted)
+
+#### Article 79
+
+A securities underwriter shall be required to deliver on behalf of the issuer a prospectus in compliance with paragraph 1 of Article 31 when selling the securities it underwrites.
+
+#### Article 80
+
+(Deleted)
+
+#### Article 81
+
+A securities underwriter's total amount of firm commitment underwriting shall not exceed a certain multiple of the balance of its current assets less its current liabilities. The standards with respect thereto shall be prescribed by an order of the Competent Authority.
+
+If there is joint underwriting, the preceding paragraph shall apply to the calculation of the total amount of firm commitment underwriting by each securities underwriter.
+
+#### Article 82
+
+The standards governing the maximum compensation for firm commitment underwriting or the maximum commission for best efforts underwriting shall be prescribed by an order of the Competent Authority.
+
+### Section III Securities Dealers
+
+#### Article 83
+
+A securities dealer may be a subscriber to stock or a subscriber to corporate bonds.
+
+#### Article 84
+
+A securities dealer that is concurrently operated by a securities underwriter shall be subject to the restrictions specified in Article 74.
+
+### Section IV Securities Brokers
+
+#### Article 85
+
+The rates for the commission to be collected from principals by a securities broker engaged to buy or sell securities on a centralized securities exchange market shall be filed by the stock exchange with the Competent Authority for its approval.
+
+The rates for the commission to be collected from principals by a securities broker engaged in buying or selling securities on markets other than a centralized securities exchange market shall be filed by the securities association with the Competent Authority for its approval.
+
+#### Article 86
+
+A securities broker engaged by a principal to trade securities shall, in addition to preparing and delivering a trade report to the principal upon execution of a trade, also send a reconciliation statement to each of its principals at the end of each month.
+
+The particulars to be included in the trade report and the reconciliation statement referred to in the preceding paragraph shall be prescribed by an order of the Competent Authority.
+
+#### Article 87
+
+Securities brokers shall provide order forms to their principals for their use in buying and selling securities.
+
+The particulars to be included in the order forms referred to in the preceding paragraph shall be prescribed by an order of the Competent Authority.
+
+#### Article 88
+
+The documents referred to in paragraph 1 of Article 86, and paragraph 1 of Article 87 shall be kept at the place of business of the securities broker.
+
+## Chapter IV Securities Association
+
+#### Article 89
+
+A securities firm shall not commence business unless it is a member of a securities association.
+
+#### Article 90
+
+The material contents of the articles of association of a securities association and matters regarding the direction and supervision of its business shall be prescribed by an order of the Competent Authority.
+
+#### Article 91
+
+To ensure fairness in securities trading or to protect investors, the Competent Authority, when necessary, may order a securities association to amend its articles of association, bylaws, or resolutions, to provide reference materials and reports or to perform other specific acts.
+
+#### Article 92
+
+If any director or supervisor of a securities association violates a law or regulation, is negligent in implementing the articles of association or bylaws, misuses their authority, or acts against the principles of integrity and good faith, the Competent Authority may issue a reprimand or order the securities association to discharge such director or supervisor.
+
+## Chapter V Stock Exchange
+
+### Section I General Provisions
+
+#### Article 93
+
+Special permission or permission shall be obtained from the Competent Authority before the establishment of a stock exchange is registered. The application procedures and other necessary matters shall be prescribed by an order of the Competent Authority.
+
+#### Article 94
+
+A stock exchange may be organized as either a membership organization or a company organization.
+
+#### Article 95
+
+The standards for the establishment of stock exchanges shall be prescribed by the Competent Authority.
+
+Each stock exchange shall be limited to establishing one centralized securities exchange market.
+
+#### Article 96
+
+Except as provided in this Act, no person may engage in the operation of a business similar to that of a centralized securities exchange market. This shall also apply to the provision of premises or facilities for such purposes.
+
+#### Article 97
+
+The name of a stock exchange shall explicitly bear the words "stock exchange." No person other than a stock exchange may use a name similar to that of a stock exchange.
+
+#### Article 98
+
+The business of a stock exchange shall be to operate and provide a centralized securities exchange market. A stock exchange shall not operate other businesses nor invest in any other enterprise without the approval of the Competent Authority.
+
+#### Article 99
+
+A stock exchange shall deposit an operation bond with the National Treasury, the amount of which shall be prescribed by an order of the Competent Authority.
+
+#### Article 100
+
+The Competent Authority may withdraw the special permission or permission of an established stock exchange if it is found that the stock exchange had made any false statement in its application or any document in connection therewith or has otherwise violated a law or regulation.
+
+#### Article 101
+
+(Deleted)
+
+#### Article 102
+
+Matters relating to the direction and supervision of the business operation of a stock exchange and the regulation of its responsible persons and associated persons shall be prescribed by an order of the Competent Authority.
+
+### Section II Membership Stock Exchange
+
+#### Article 103
+
+A membership stock exchange is a non-profit association. Except as provided in this Act, a membership stock exchange shall be governed by the provisions of the Civil Code.
+
+The members of a stock exchange referred to in the preceding paragraph shall be limited to securities dealers and securities brokers.
+
+#### Article 104
+
+The number of members of a membership stock exchange shall be no less than seven.
+
+#### Article 105
+
+The articles of association of a membership stock exchange shall contain the following particulars:
+
+\1. Objectives.
+
+\2. Name.
+
+\3. Location of the head office and the location of the centralized securities exchange market established by it.
+
+\4. Matters concerning eligibility for membership.
+
+\5. Matters concerning the number of memberships.
+
+\6. Matters concerning the discipline of members.
+
+\7. Matters concerning the membership contributions to the stock exchange.
+
+\8. Matters concerning applications for withdrawal from membership by members.
+
+\9. Matters concerning the directors and the supervisors.
+
+\10. Matters concerning meetings.
+
+\11. Matters concerning member deposits and the settlement and clearing fund.
+
+\12. Matters concerning the apportionment of membership expenses.
+
+\13. Matters concerning the execution of business.
+
+\14. Matters concerning the disposal of residual assets upon dissolution.
+
+\15. Matters concerning accounting.
+
+\16. Method of public announcement.
+
+\17. Any other matters as required by the Competent Authority.
+
+#### Article 106
+
+(deleted)
+
+#### Article 107
+
+A member may apply for withdrawal from membership in accordance with the articles of association or for any of the following reasons:
+
+\1. The member has lost its membership qualifications.
+
+\2. The corporate member dissolves or its company license is voided.
+
+\3. The member is expelled from the stock exchange.
+
+#### Article 108
+
+A member shall deposit with the stock exchange a contribution to the settlement and clearing fund and pay securities transaction charges in accordance with the provisions of the articles of association.
+
+#### Article 109
+
+A member shall provide membership contributions in accordance with the provisions of the articles of association. Except for sharing the membership expenses in accordance with the provisions of the articles of association, a member's liability to the stock exchange shall be limited to the amount of its membership contribution.
+
+#### Article 110
+
+If any of its members commit the following acts, the membership stock exchange shall impose upon the member a monetary penalty and may warn, suspend or restrict such member from trading securities on the centralized securities exchange market or may expel the member:
+
+\1. Violation of a law or regulation or administrative disposition made pursuant thereto.
+
+\2. Violation of the articles of association, business rules, brokerage contract regulations, or other rules of the stock exchange.
+
+\3. Violation of the principles of integrity and good faith in trading, sufficient to cause damage to another.
+
+The provisions of the preceding paragraph shall be prescribed in the articles of association.
+
+#### Article 111
+
+If a membership stock exchange expels a member pursuant to the preceding Article, it shall report the expulsion to the Competent Authority for its approval. If the expulsion of the member is approved, the Competent Authority may withdraw the member's special permission for securities firm businesses.
+
+#### Article 112
+
+When any member withdraws from membership or is suspended from trading, the membership stock exchange shall, in accordance with the articles of association, require that member or designate another member to wind up and liquidate its trades on the centralized securities market. The member shall be deemed to have not yet withdrawn from membership or been suspended from trading within the scope of winding up and liquidating the trades.
+
+When another member is designated to wind up and liquidate trades under the preceding paragraph, a mandate contract relationship is deemed to exist between the withdrawing member and the designated member within the scope of the purposes of winding up and liquidating the trades.
+
+#### Article 113
+
+A membership stock exchange shall have at least three directors and one supervisor elected from among its members in accordance with the provisions of the articles of association. However, at least one-third of the directors and at least one supervisor shall be elected from related experts who are non-members.
+
+The term of office of both directors and supervisors shall be three years. Successive terms in office are permissible upon re-election.
+
+The directors shall organize a board of directors and shall elect the chairman of the board from among the non-member directors with the approval of the majority of the directors.
+
+The board chairman shall serve on a full-time basis. However, this restriction shall not apply if the stock exchange has assigned another managerial officer vested with full authority to take charge of operations.
+
+Standards and regulations governing the election of non-member directors and supervisors, as referred to in paragraph 1, shall be prescribed by the Competent Authority.
+
+#### Article 114
+
+The provisions of Article 53 shall apply mutatis mutandis to directors, supervisors, or managerial officers of a membership stock exchange.
+
+The violation of the provisions of the preceding paragraph by any director, supervisor, or managerial officer shall result in their automatic discharge.
+
+#### Article 115
+
+The directors, supervisors, or managerial officers of a membership stock exchange shall not serve concurrently as a director, supervisor, or managerial officer of another stock exchange.
+
+#### Article 116
+
+A member director's or supervisor's representative, a non-member director, or any other employee of a membership stock exchange is prohibited from trading securities on the stock exchange for themselves under any name, whether on their own or by appointing any other person.
+
+The persons referred to in the preceding paragraph are prohibited from providing funds to, sharing profits or losses with, or being involved in any other business interests with members of that stock exchange. However, this restriction shall not apply to the representatives of member directors or supervisors who perform such acts on behalf of the members they represent.
+
+#### Article 117
+
+In the event that the Competent Authority finds that any director or supervisor of the stock exchange was improperly elected or any director, supervisor, or managerial officer has violated any law or regulation, the articles of association, or an administrative disposition issued pursuant to law or regulation, the Competent Authority may notify the stock exchange to discharge such persons.
+
+#### Article 118
+
+Unless otherwise provided in this Act, the provisions of the Company Act relating to directors, supervisors, or managerial officers shall apply mutatis mutandis to the directors, supervisors, or managerial officers of a membership stock exchange.
+
+#### Article 119
+
+Except as set out in the following subparagraphs, a membership stock exchange shall not utilize the settlement and clearing fund in any manner unless otherwise approved by the Competent Authority:
+
+\1. Purchase of government bonds.
+
+\2. Deposit in banks or saving deposits with the postal administration.
+
+#### Article 120
+
+The directors, supervisors, or employees of a membership stock exchange shall not disclose confidential information relating to securities trades.
+
+#### Article 121
+
+The provisions of this section relating to directors and supervisors shall apply mutatis mutandis to the representatives of member directors and supervisors.
+
+#### Article 122
+
+A membership stock exchange shall be dissolved upon the occurrence of any one of the following causes:
+
+\1. Occurrence of any cause of dissolution specified in the articles of association.
+
+\2. Resolution of the general meeting of members.
+
+\3. The number of members falls to less than seven.
+
+\4. Bankruptcy.
+
+\5. Voidance of the permission for the establishment of the stock exchange.
+
+Dissolution under subparagraph 2 of the preceding paragraph shall not become effective without approval by the Competent Authority.
+
+#### Article 123
+
+The qualifications of, and the dismissal of associated persons employed by a membership stock exchange shall be governed mutatis mutandis by the provisions of Articles 54 and 56.
+
+### Section III Company-Type Stock Exchange
+
+#### Article 124
+
+The organization of a company-type stock exchange shall be limited to a company limited by shares.
+
+#### Article 125
+
+The articles of incorporation of a company-type stock exchange shall contain, in addition to those required under the Company Act, the following particulars:
+
+\1. The numbers and qualifications of brokers or dealers allowed to participate in centralized trading on the exchange.
+
+\2. Duration of existence.
+
+The duration of existence referred to in subparagraph 2 of the preceding paragraph shall not exceed a period of ten years. However, depending on the development of local securities trading, an application for extension may be filed with the Competent Authority three months prior to the expiration of the duration of existence.
+
+#### Article 126
+
+Directors, supervisors, shareholders, or employees of a securities firm shall not serve concurrently as managerial officers of a company-type stock exchange.
+
+At least one-third of the directors and supervisors of a company-type stock exchange shall be appointed by the Competent Authority from among relevant experts who are not shareholders. The provisions of paragraph 1 of Article 192 and paragraph 1 of Article 216 of the Company Act shall not apply.
+
+Standards and regulations governing the election of non-shareholder directors and supervisors as referred to in the preceding paragraph shall be prescribed by the Competent Authority.
+
+#### Article 127
+
+The stock of a company-type stock exchange shall not be listed for trading on its own centralized securities exchange market or one established by any other person.
+
+#### Article 128
+
+A company-type stock exchange shall not issue bearer stock. Transferees of its shares shall be limited to the securities firms incorporated with permission under this Act.
+
+The shareholding percentage that each securities firm may hold in the stock exchange shall be prescribed by the Competent Authority.
+
+#### Article 129
+
+Securities brokers or securities dealers that trade on a company-type stock exchange shall enter into a contract with the stock exchange for the usage of the centralized securities exchange market, and the stock exchange shall file the contract, together with other relevant materials, with the Competent Authority for its recordation.
+
+#### Article 130
+
+In addition to the grounds for termination specified in the contract referred to in the preceding Article, such contract shall also be terminated upon the dissolution of either party to the contract or the voidance of the special permission or the cessation of business of the securities broker or dealer.
+
+#### Article 131
+
+(Deleted)
+
+#### Article 132
+
+The contract prepared by a company-type stock exchange for the usage of its centralized securities exchange market shall contain provisions regarding deposits to the settlement and clearing fund and payment of securities transaction charges by the securities broker or dealer.
+
+The standards governing the amount of settlement and clearing funds shall be prescribed by an order of the Competent Authority.
+
+The rates for the securities transaction charges referred to in the first paragraph of this Article shall be jointly drafted by the stock exchange and the securities association and filed with the Competent Authority for its approval.
+
+#### Article 133
+
+A company-type stock exchange shall specify in the contract that when there is any violation of Article 110 by a securities broker or a securities dealer that uses the centralized securities exchange market, it shall require the broker or dealer to pay a monetary penalty or suspend or restrict its trading rights or terminate the contract.
+
+#### Article 134
+
+The provisions of Article 111 shall apply mutatis mutandis in the event a company-type stock exchange terminates its contract with a securities broker or dealer in accordance with the preceding Article.
+
+#### Article 135
+
+A company-type stock exchange shall, in line with the provisions of Article 112 of this Act, expressly include in the contract for the usage of its centralized securities exchange market provisions requiring that a securities broker or dealer designated to wind up and liquidate the trades of other securities brokers or dealers shall have the contractual obligation to perform that duty.
+
+#### Article 136
+
+A securities broker or dealer whose contract is terminated or is suspended from trading pursuant to Article 133 shall have the obligation of winding up and liquidating its trades on the centralized securities exchange market.
+
+#### Article 137
+
+The provisions of Articles 41 and 48, subparagraphs 1 through 4, and subparagraph 6 of Article 53, Articles 58, 59, 115, 117, 119 through 121, and 123 shall apply mutatis mutandis to a company-type stock exchange.
+
+### Section IV Listing and Trading of Securities
+
+#### Article 138
+
+A stock exchange shall, in addition to setting various rules, specify in detail in its business rules or operating rules the following particulars:
+
+\1. Listing of securities.
+
+\2. Use of the centralized securities exchange market.
+
+\3. Trading orders of securities brokers or securities dealers.
+
+\4. Closing and suspension of the market.
+
+\5. Types of trades.
+
+\6. Procedures for trading securities among securities dealers or securities brokers and the methods by which trading contracts are established.
+
+\7. Trading units.
+
+\8. Price fluctuation units (ticks) and price limits.
+
+\9. Clearing and settlement times and methods.
+
+\10. Real-time disclosure of trade information for securities trading, including order quantity, price, and the status of matching and execution.
+
+\11. Other matters related to trading.
+
+The determination of matters prescribed in the preceding paragraph shall not violate any law or regulation. In matters affecting the interests of securities firms, opinions shall be solicited in advance from the securities association.
+
+#### Article 139
+
+An issuer of securities publicly issued under this Act may file an application with a stock exchange for its listing.
+
+When a company whose stock is listed issues new shares, the new shares shall be listed for trading on the stock exchange from the day they are delivered to the shareholders. The Competent Authority may, however, impose restrictions on their trading on a stock exchange in case any of the items provided in paragraph 1 of Article 156 is applicable.
+
+Any company that lists new shares as referred to in the preceding paragraph shall forward the relevant documents to the stock exchange within ten days after the listing of new shares.
+
+#### Article 140
+
+A stock exchange shall adopt rules governing the review of securities listings and rules governing listing contracts and file such rules with the Competent Authority for its approval.
+
+#### Article 141
+
+A stock exchange shall enter into a securities listing contract with a company whose securities will be listed. The contents of the contract shall not contradict the rules governing listing contracts, and such contracts shall be filed with the Competent Authority for recordation.
+
+#### Article 142
+
+Securities publicly issued by an issuer may be traded on the centralized securities exchange market of a stock exchange only after the issuer and the stock exchange have entered into a securities listing contract.
+
+#### Article 143
+
+The securities listing fees shall be specified in the listing contract. A stock exchange shall file fee rates with the Competent Authority for approval.
+
+#### Article 144
+
+A stock exchange may, pursuant to laws and regulations or the provisions of the listing contract, delist securities, and such delisting shall be filed with the Competent Authority for recordation.
+
+#### Article 145
+
+An issuer of securities publicly listed on a stock exchange may, pursuant to the provisions of the listing contract, file an application with the stock exchange for delisting.
+
+The stock exchange shall draft procedures for handling applications for delisting and submit the procedures and any subsequent amendments thereto to the Competent Authority for approval.
+
+#### Article 146
+
+(Deleted)
+
+#### Article 147
+
+A stock exchange shall file a report with the Competent Authority for recordation whenever it suspends or resumes the trading of listed securities pursuant to laws or regulations, the provisions of the listing contract, or for the protection of public interest.
+
+#### Article 148
+
+When a company whose securities are listed on a stock exchange violates this Act or any order promulgated hereunder, the Competent Authority may, for the purpose of protecting the public interest or the interests of investors, order the stock exchange to suspend the trading of or delist those securities.
+
+#### Article 149
+
+The listing of government bonds shall be effected by an order of the Competent Authority, and the listing requirements of this Act shall not apply.
+
+#### Article 150
+
+The trading of listed securities shall be conducted on a centralized securities exchange market established by a stock exchange. However, this restriction shall not apply in the following circumstances:
+
+\1. Trading of government bonds.
+
+\2. Due to the operation of a law or regulation, it is impossible to acquire or dispose of the ownership of the securities through trading on the centralized securities market.
+
+\3. Direct transfer of securities between private persons, the quantity of which does not exceed one trading unit of the securities, with an interval between any two such transfers of not less than three months.
+
+\4. Other circumstances as prescribed by the Competent Authority.
+
+#### Article 151
+
+Persons who trade on a centralized securities exchange market shall be limited, on a membership stock exchange, to members, and on a company-type stock exchange, to securities dealers or securities brokers that have entered into a contract for usage of the centralized securities exchange market.
+
+#### Article 152
+
+A stock exchange shall be required to file a report with the Competent Authority in the event the centralized securities exchange market is suspended due to any event of force majeure. The same shall apply when the market reopens.
+
+#### Article 153
+
+In trading on the stock exchange market by stock exchange members or securities brokers or securities dealers, when either party to a trade fails to fulfill its delivery obligation, the stock exchange shall designate another member or securities broker or securities dealer to perform delivery in place of the non-performing party. For any resultant price difference and all expenses incurred, the stock exchange shall first utilize the settlement and clearing fund for indemnification. If the fund is insufficient, the stock exchange shall advance the payment. In all such cases, recovery shall be pursued from the party that failed to perform delivery.
+
+#### Article 154
+
+A stock exchange may set aside a compensation reserve out of its securities transaction fees to cover the payments specified in the preceding Article. The method of setting aside the reserve, the rate at which it is set aside, the conditions for suspension of setting aside the reserve, and the method of custody and utilization of the reserve shall be prescribed by an order of the Competent Authority.
+
+Claimants in cases arising from trading on the centralized securities exchange market shall have the preferential right to the satisfaction of their claims from the settlement and clearing fund specified in Article 108 and Article 132 in the following order of priority:
+
+\1. The stock exchange.
+
+\2. The principal in a brokerage trade.
+
+\3. Securities brokers and securities dealers.
+
+When the settlement and clearing fund is insufficient to satisfy such claims, the unsatisfied portion of the claims may be satisfied in accordance with the provisions of paragraph 2 of Article 55 of this Act.
+
+#### Article 155
+
+The following acts are prohibited with respect to securities listed on a stock exchange:
+
+\1. Placing an order to trade or a quote to trade on a centralized securities exchange market and failing to perform settlement after the trade is executed, where sufficient to affect the market order.
+
+\2. (Deleted)
+
+\3. Conspiring with another party in a scheme in which one party sells or buys a certain security at an agreed price while the other party buys or sells it in a corresponding trade(s), with the intent to inflate or deflate the trading price of that security on the centralized securities exchange market.
+
+\4. Continuously buying a certain security at high prices or selling it at low prices oneself or under the name of another with the intent to inflate or deflate the trading price of that security on the centralized securities exchange market, with a likelihood that market prices or market order will be affected.
+
+\5. Continuously placing orders for trades or quotes for trades and completing corresponding trades oneself or under the name of another, with the intent to create an impression of brisk trading in a certain security on the centralized securities exchange market.
+
+\6. Spreading rumors or false information with the intent to affect the trading prices of securities traded on the centralized securities exchange market.
+
+\7. Directly or indirectly engaging in any other act of manipulation to affect the trading prices of securities traded on the centralized securities exchange market.
+
+The provisions of the preceding paragraph shall apply mutatis mutandis to trades conducted on the over-the-counter market.
+
+Persons who violate the preceding two paragraphs shall be liable to compensate the damage suffered by bona fide buyers or sellers of the securities.
+
+The provisions of paragraph 4 of Article 20 of this Act shall apply mutatis mutandis to the preceding paragraph.
+
+#### Article 156
+
+In the occurrence of any of the following events with respect to securities listed on the stock exchange, when there is a likelihood that the event will affect market order or damage the public interest the Competent Authority may issue an order suspending the trading of the securities in whole or in part, or restricting the quantity of trading thereof by securities dealers and securities brokers:
+
+\1. The company that issued the securities becomes involved in litigation or other non-litigious matters, which is sufficient to result in the company's dissolution or changes in its organization, capital, business plans, financial condition, or suspension of production.
+
+\2. The company that issued the securities becomes involved in a major disaster, signs a major agreement, experiences an exceptional event, changes to the material content of business plans, or dishonors of a negotiable instrument, the result of which is sufficient to cause a significant material change in the financial condition of the company.
+
+\3. The company that issued the securities engages in any deceptive, dishonest, or illegal act, the result of which is sufficient to affect the prices of its securities.
+
+\4. The market price of the securities has undergone continuous major rises or major declines, resulting in abnormal fluctuations in the prices of other securities.
+
+\5. The company that issued the securities is involved in any material public hazard or food or drug safety event.
+
+\6. Other events of material significance.
+
+#### Article 157
+
+In the event that any director, supervisor, managerial officer, or shareholder holding more than ten percent of the shares of a stock issuing company sells listed stock of the company within six months after acquiring it, or repurchases listed stock of the company within six months after selling it, the company shall claim for the disgorgement of any profit therefrom.
+
+If the board of directors or the supervisors of the company fail to exercise the right of claim for disgorgement under the preceding paragraph on behalf of the company, its shareholders may request the directors or supervisors to exercise the right of claim within thirty days. If the directors or supervisors do not exercise that right within that deadline, the requesting shareholders may exercise the right of claim under the preceding paragraph on behalf of the company.
+
+If the directors or supervisors fail to exercise a claim under paragraph 1, they shall be jointly and severally liable to the company for compensation for any resultant damage suffered by the company.
+
+The right of claim under paragraph 1 shall be extinguished if not exercised within two years from the date on which the profit is obtained.
+
+The provisions of paragraph 3 of Article 22-2 hereof shall apply mutatis mutandis to paragraph 1 of this Article.
+
+This Article shall apply mutatis mutandis to other securities with equity characteristics issued by a company.
+
+#### Article 157-1
+
+Upon actually knowing any information of a company that issues stock that would have a material impact on its stock price, after the information is precise, and prior to the public disclosure of such information or within 18 hours after its public disclosure, the following persons shall not buy or sell, themselves or in the name of another, any stock or other securities with equity characteristics of that company that are listed on an exchange or traded over-the-counter:
+
+\1. A director, supervisor, or managerial officer of the company, or a natural person designated to exercise powers as representative pursuant to Article 27, paragraph 1 of the Company Act.
+
+\2. A shareholder holding more than ten percent of the shares of the company.
+
+\3. Anyone who has learned the information based on occupation or a control relationship.
+
+\4. Anyone who has lost the status under any of the preceding three subparagraphs for a period of less than six months.
+
+\5. Anyone who has learned the information from any of the persons in the preceding four subparagraphs.
+
+Upon actually knowing any information of a company that issues stock that would have a material impact on its ability to pay principal or interest, after the information is precise, and prior to the public disclosure of such information or within 18 hours after its public disclosure, the persons listed in the preceding paragraph shall not sell, themselves or in the name of another, any non-equity corporate bonds of that company that are listed on an exchange or traded over-the-counter.
+
+Persons in violation of the provisions of paragraph 1 or the preceding paragraph shall be liable, to trading counterparties who on the day of the violation made an opposite trade with bona fide intent, for damages in the amount of the difference between the buy or sell price and the average closing price for ten business days after the date of public disclosure. The court may also, upon the request of the trading counterparty who made an opposite trade with bon fide intent, treble the damages payable by the violator if the violation is severe. The court may reduce the damages if the violation is minor.
+
+The persons referred to in subparagraph 5 of paragraph 1 shall be jointly and severally liable with the persons referred to in subparagraphs 1 through 4 of paragraph 1 who provided the information for the damages referred to in the preceding paragraph. However, if the persons referred to in subparagraphs 1 through 4 of paragraph 1 who provided the information had good cause to believe the information had already been publicly disclosed, they shall not be liable for damages.
+
+The phrase "information that would have a material impact on its stock price" in paragraph 1 shall mean information relating to the finances or businesses of the company, or the market supply and demand of those securities, or to a public tender offer, the specific content of which would have a material impact on its stock price, or would have a material impact on the investment decision of a reasonably prudent investor. Regulations governing the scope of the information, the means of its disclosure and related matters shall be prescribed by the Competent Authority.
+
+Regulations governing the scope of information that would have a material impact on the ability of the issuing company to pay principal or interest as mentioned in paragraph 2, the means of its disclosure, and related matters shall be prescribed by the Competent Authority.
+
+The provisions of paragraph 3 of Article 22-2 shall apply mutatis mutandis to subparagraphs 1 and 2 of paragraph 1 of this Article; the same shall apply with respect to those who have lost the status for a period of less than six months. The provisions of paragraph 4 of Article 20 shall apply mutatis mutandis to the trading counterparty referred to in paragraph 2 of this Article.
+
+### Section V Securities Brokerage Transactions
+
+#### Article 158
+
+Brokerage contracts between a securities broker and its customers for trading on a centralized securities exchange market shall be prepared in accordance with the regulations governing brokerage contracts prescribed by the stock exchange.
+
+The main content of the brokerage contract regulations referred to in the preceding paragraph shall be prescribed by an order of the Competent Authority.
+
+#### Article 159
+
+A securities broker shall not accept any discretionary authorization that allows them to determine the type, quantity, or price of securities to be bought or sold on behalf of the principal.
+
+#### Article 160
+
+A securities broker shall not accept orders for securities trades in premises other than its principal place of business and its branches.
+
+### Section VI Supervision
+
+#### Article 161
+
+To protect the public interest and the interests of investors, the Competent Authority may, by order, notify a stock exchange to amend its articles of association/incorporation, business rules, operating rules, brokerage contracts regulations, and any other rules or suspend, prohibit, amend, or void resolutions or dispositions of the stock exchange.
+
+#### Article 162
+
+The provisions of Article 64 shall apply mutatis mutandis to the Competent Authority's inspection of a stock exchange and ordering it to furnish information.
+
+#### Article 163
+
+When a stock exchange takes any action in violation of a law or regulation or of an administrative disposition issued pursuant to a law or regulation, or detrimental to the public interest or disrupting the social order, the Competent Authority may impose any of the following dispositions:
+
+\1. Dissolution of the stock exchange.
+
+\2. Suspension or termination of the business of the stock exchange in whole or in part. However, the period of suspension shall not exceed three months.
+
+\3. Issuance of orders to discharge directors, supervisors, or managerial officers of the stock exchange.
+
+\4. Reprimands.
+
+When the Competent Authority imposes any dispositions specified in subparagraph 1 or 2, it shall report to the Executive Yuan for approval in advance.
+
+#### Article 164
+
+The Competent Authority may station supervisory personnel at any stock exchange. Regulations governing such supervision shall be prescribed by an order of the Competent Authority.
+
+#### Article 165
+
+A stock exchange, its members, and securities dealers and securities brokers that have contracted to use the centralized securities exchange market of the stock exchange shall comply with the instructions given by supervisory personnel pursuant to laws or regulations.
+
+## Chapter V-1 Foreign companies
+
+#### Article 165-1
+
+When stock issued by a foreign company has been approved for the first time by a stock exchange or over-the-counter securities exchange for listed trading on the stock exchange or over-the-counter market or for registration as emerging stock, if the issuer's stock is not traded on a foreign securities exchange, then, unless otherwise provided by the Competent Authority, the provisions of Articles 5 to 8, Articles 13 to 14-1, Article 14-2, paragraphs 1 to 4, and 6, Article 14-3, Article 14-4, paragraphs 1, 2, 5, and 6, Article 14-5, Article 14-6, Articles 19 to 21, Articles 22 to 25-1, Article 26-3, Article 27, Article 28-1, paragraphs 2 to 4, Article 28-2, Articles 28-4 to 32, Article 33, paragraphs 1, and 2, Articles 35 to 43-8, Article 61, Article 139, Articles 141 to 145, Article 147, Article 148, Article 150, and Articles 155 to 157-1 shall apply mutatis mutandis to the management and supervision of the public offering, issuance, private placement, and trading of the securities.
+
+#### Article 165-2
+
+When stock or securities representing stock issued by a foreign company other than under the preceding article is already traded on a foreign securities exchange, or the securities of a branch of a foreign financial institution or subsidiary of a foreign company meeting the requirements prescribed by the Competent Authority have been approved by a stock exchange or over-the-counter securities exchange for listed trading on the stock exchange or over-the-counter market, then, unless otherwise provided by the Competent Authority, the provisions of Articles 5 to 8, Article 13, Article 14, paragraphs 1 and 3, Articles 19 to 21, Article 22, Article 23, Articles 29 to 32, Article 33, paragraphs 1 and 2, Article 35, Article 36, paragraphs 1 to 6, Articles 38 to 40, Article 42, Article 43, Article 43-1, paragraphs 2 to 4, Articles 43-2 to 43-5, Article 61, Article 139, Articles 141 to 145, Article 147, Article 148, Article 150, and Articles 155 to 157-1 shall apply mutatis mutandis to the management and supervision of the public offering, issuance, and trading of the securities in the Republic of China.
+
+#### Article 165-3
+
+A foreign company shall designate an agent in the Republic of China to represent the company in litigious and non-litigious matters under this Act and to serve as its responsible person under this Act in the Republic of China.
+
+The agent under the preceding paragraph shall have a domicile or residence within the territory of the Republic of China.
+
+The foreign company shall file the name, domicile or residence, and power of attorney of the agent under paragraph 1 with the Competent Authority and shall do the same in case of any change thereto.
+
+## Chapter VI Arbitration
+
+#### Article 166
+
+Parties to any dispute arising in connection with securities trading conducted under this Act may, pursuant to their agreement, conduct arbitration. However, any dispute arising between a securities firm and a stock exchange or between securities firms shall be put to arbitration regardless of whether the parties have entered into an arbitration agreement.
+
+Unless otherwise provided in this Act, arbitration under the preceding paragraph shall be governed by the Arbitration Act.
+
+#### Article 167
+
+When a party to a dispute files any legal action in violation of the provisions of the preceding paragraph, the other party may petition the court to dismiss such action.
+
+#### Article 168
+
+In the event the arbitrators appointed by the parties to a dispute fail to select another arbitrator as provided by their agreement, the Competent Authority may appoint the arbitrator upon application or ex officio.
+
+#### Article 169
+
+Unless an action is commenced to set aside an arbitral award pursuant to Article 40 of the Arbitration Act, the Competent Authority may order the suspension of the business of a securities firm if the securities firm fails to perform or delays in performing under an arbitral award or settlement reached in accordance with Article 44 of the Arbitration Act.
+
+#### Article 170
+
+Securities associations and stock exchanges shall specify in their articles of association/incorporation or rules provisions relating to arbitration. Such provisions shall not conflict with this Act or the Arbitration Act.
+
+## Chapter VII Penal Provisions
+
+#### Article 171
+
+A person who commits any of the following offenses shall be punished with imprisonment for not less than three years and not more than ten years, and in addition thereto, a criminal fine of not less than NT$10 million and not more than NT$200 million may be imposed:
+
+\1. Violation of paragraph 1 or paragraph 2 of Article 20, paragraph 1 or paragraph 2 of Article 155, or paragraph 1 or 2 of Article 157-1.
+
+\2. A director, supervisor, managerial officer or employee of a company that has issued securities under this Act directly or indirectly causes the company to conduct trades that are disadvantageous and are inconsistent with regular business practice, causing substantial damage to the company.
+
+\3. A director, supervisor, or managerial officer of a company that has issued securities under this Act, with the intent to procure a benefit for themselves or for a third person, acts contrary to their duties or misappropriates company assets, thus causing damage of NT$5 million or more to the company.
+
+If the value of property or property interests gained by the commission of an offense under the preceding paragraph is NT$100 million or more, a sentence of imprisonment for not less than seven years shall be imposed, and in addition thereto, a criminal fine of not less than NT$25 million and not more than NT$500 million may be imposed.
+
+A person who commits an offense under paragraph 1, subparagraph 3, causing damage of less than NT$5 million to the company, shall be punished under Articles 336 and 342 of the Criminal Code.
+
+A person who commits an offense under the preceding 3 paragraphs and subsequently voluntarily surrenders themselves, if they voluntarily hand over the proceeds of the crime in full, shall have their punishment reduced or remitted. If, in addition, another principal offender or  a joint offender is captured as a result, their punishment shall be remitted.
+
+A person who commits an offense under paragraphs 1 to 3 and confesses during the prosecutorial investigation, if they voluntarily hand over the proceeds of the crime in full, shall have their punishment reduced. If, in addition, another principal offender or a joint offender is captured as a result, their punishment shall be reduced by one-half.
+
+Where the value of property or property interests gained by a person through the commission of an offense under paragraph 1 or 2 exceeds the maximum amount of the criminal fine, the fine may be increased within the scope of the value of the property or property interests gained; if the stability of the securities market is harmed, the punishment shall be increased by one-half.
+
+If the proceeds of a crime committed under paragraphs 1 to 3 belong to the offender or were obtained by a natural person, juristic person, or unincorporated body other than the offender under a circumstance set out in Article 38-1, paragraph 2 of the Criminal Code, the proceeds shall be confiscated, unless they shall be returned to a victim, third person, or person who is entitled to claim for damages.
+
+A person who violates Article 20, paragraph 1 or 2, Article 155, paragraph 1 or 2, or Article 157-1, paragraph 1 or 2, as applied mutatis mutandis under Article 165-1 or 165-2, shall be punished under the provisions of paragraph 1, subparagraph 1, and of paragraph 2 up to the preceding paragraph hereto.
+
+The provisions of paragraph 1, subparagraphs 2 and 3, and paragraphs 2 to 7 shall apply to the directors, supervisors, managerial officers, or employees of a foreign company.
+
+#### Article 172
+
+Any director, supervisor, or employee of a stock exchange who demands, agrees to accept, or accepts any improper benefit for an act in the performance of their duties shall be punished with imprisonment for not more than five years, detention, and/or a criminal fine of not more than NT$2.4 million.
+
+Any person referred to in the preceding paragraph who demands, agrees to accept, or accepts any improper benefits for a breach of their duties shall be punished with imprisonment for not more than seven years, and, in addition thereto, a criminal fine of not more than NT$3 million may be imposed.
+
+#### Article 173
+
+Any person who offers, promises, or delivers any improper benefit to any person under the preceding article for a breach of their duties shall be punished with imprisonment for not more than three years, detention, and/or a criminal fine of not more than NT$1.8 million.
+
+The punishment for an offense under the preceding paragraph may be remitted if the offender voluntarily surrenders themselves.
+
+#### Article 174
+
+A person who commits any of the following offenses shall be punished with imprisonment for not less than one year and not more than seven years, and in addition thereto, a criminal fine of not more than NT$20 million may be imposed:
+
+\1. Making of false statements on the application materials required under Article 30, Article 44, paragraphs 1 to 3, or Article 93, or Article 30 as applied mutatis mutandis under Article 165-1 or 165-2, of this Act.
+
+\2. Making and dissemination to the public of false information with regard to the market value of securities or important matters relating to approval of subscription or offering.
+
+\3. The violation of paragraph 1 of Article 32 by an issuer, its responsible personnel or employees, in instances  where no applicable exemption from liability is established pursuant to paragraph 2 of the same Article.
+
+\4. Any false statement in the content of any account book, form/statement, document, or other reference or report material an issuer or public tender offeror or related party thereof, a securities firm or its principals, securities association, stock exchange, or an enterprise referred to in Article 18, is required to provide pursuant to an order of the Competent Authority.
+
+\5. Any false statement in the content of any account book, form/statement, voucher, financial report, or other business document of any issuer, public tender offeror, securities firm, securities association, stock exchange, or an enterprise referred to in Article 18, required by law or by an order issued by the Competent Authority pursuant to law.
+
+\6. Any false statement in the content of a financial report under the preceding subparagraph by a managerial officer or accounting officer who signs or seals the financial report. However, the punishment may be reduced or remitted if the person has submitted a corrective opinion and provided evidence in a report to the Competent Authority before any other person has brought a complaint or the Competent Authority or a judicial agency has commenced an investigation.
+
+\7. With respect to an issuer or to trading in any specific securities, based on false information, making investment judgments, and expressing them by means of newspaper, written material, broadcast, film or other means.
+
+\8. Any director, managerial officer, or employee of an issuer who, in violation of laws or regulations, the articles of incorporation, or by acting beyond the scope of authority granted by the board of directors, loans company funds to a third party or uses company assets to provide security, a guarantee, or endorsement of a negotiable instrument for a third party, thereby causing substantial harm to the company.
+
+\9. Counterfeiting, altering, destroying, concealing, or obscuring working papers or relevant records or documents with the intent to impede inspection by the Competent Authority or investigation by a judicial agency.
+
+A person who commits any of the following offenses shall be punished with imprisonment for not more than five years, and a criminal fine of not more than NT$15 million may be imposed or additionally imposed:
+
+\1. Issuance by a lawyer of a false or untrue opinion regarding any contract, report, or document of a company or a foreign company relating to the public offering, issuance, or trading of securities.
+
+\2. A certified public account, with respect to any material falsehood or error in a financial report, document, or information reported or published by a company or foreign company, failing to fulfill their audit duties and issuing a false report or opinion; or a CPA, with respect to a material falsehood or error in a financial report of company or a foreign company, failing to perform auditing in accordance with applicable laws and regulations and generally accepted audit principles, resulting in the failure to point out the material falsehood or error.
+
+\3. Violation of Article 22, paragraphs 1 to 3.
+
+If the commission of an offense under the preceding paragraph severely affects the rights or interests of shareholders or harms the stability of the securities market, the punishment may be increased by one-half.
+
+If a personnel member or employee of an issuer commits an offense in subparagraph 6 of paragraph 1, and the offense is minor, the punishment may be reduced.
+
+The Competent Authority shall render a disposition suspending attestation work by a CPA who violates subparagraph 2 of paragraph 2.
+
+If a foreign company is an issuer, any violation of paragraph 1, subparagraphs 2 to 9 by the foreign company or a director, managerial officer, employee, or accounting officer of the foreign company shall be punished under paragraphs 1 and 4.
+
+A person who violates Article 22 as applied mutatis mutandis under Article 165-1 or 165-2 shall be punished under paragraphs 2 and 3.
+
+#### Article 174-1
+
+If a director, supervisor, managerial officer, or employee of a company that has issued securities under this Act commits a gratuitous act as set forth in Article 171, paragraph 1, subparagraphs 2 or 3 or set forth in paragraph 1, subparagraph 8 of the preceding Article, prejudicial to the rights of the issuer, the issuer may move for a court to void the act.
+
+If, at the time of the commission of a non-gratuitous act by a director, supervisor, managerial officer, or employee of a company under the preceding paragraph, such person knew the act to be prejudicial to the rights and interests of the issuer and the beneficiary of the act also knew of that circumstance at the time of receiving the benefit, the issuer may move for a court to void the act.
+
+When a motion is made to a court for voidance pursuant to either of the two preceding paragraphs, a motion may also be made for the court to order the beneficiary of the act or a party to whom any benefit was transferred to restore the status quo ante. However, this shall not apply if the party to whom the benefit was transferred was unaware of a cause for voidance at the time of the transfer.
+
+Any disposition of property between a director, supervisor, managerial officer, or employee under paragraph 1 and such a person's spouse, lineal relative, cohabiting relative, head of household, or family member shall be deemed a gratuitous act.
+
+Any disposition of property between a director, supervisor, managerial officer, or employee under paragraph 1 and any person other than those set forth in the preceding paragraph shall be presumed to be a gratuitous act.
+
+The right to voidance under paragraphs 1 and 2 shall be extinguished if not exercised within one year from the time the company learns there is cause for voidance or once ten years has passed from the time of the act.
+
+The provisions of the preceding 6 paragraphs shall apply to the directors, supervisors, managerial officers, or employees of a foreign company.
+
+#### Article 174-2
+
+(Deleted)
+
+#### Article 174-3
+
+A person who endangers, through the employment of theft, damage, or other illegal means, the normal operation of equipment functions of a core information and communication system of a stock exchange, an over-the-counter securities exchange, or a centralized securities depository enterprise shall be sentenced to imprisonment for not less than one year and not more than seven years; in addition thereto, a criminal fine of not more than NT$10 million may be imposed.
+
+A person who intends to endanger national security or social stability and commits an offense under the preceding paragraph shall be sentenced to imprisonment for not less than three years and not more than ten years; in addition thereto, a criminal fine of not more than NT$50 million may be imposed.
+
+If an offense under either of the preceding two paragraphs harms the stability of the securities market, the punishment shall be increased by one-half.
+
+An attempt to commit an offense specified in paragraph 1 or paragraph 2 is punishable.
+
+#### Article 174-4
+
+A person who endangers the normal operation of equipment functions of a core information and communication system of a stock exchange, an over-the-counter securities exchange, or a centralized securities depository enterprise by any of the following means shall be sentenced to imprisonment for not less than one year and not more than seven years; in addition thereto, a criminal fine of not more than NT$10 million may be imposed:
+
+\1. Without cause, gains access to its computer or related equipment by entering its account password, cracking the protective measures for using the computer, or exploiting any vulnerability of the computer system.
+
+\2. Without cause, interferes, through the use of computer programs or other electromagnetic methods, with its computer or related equipment.
+
+\3. Without cause, obtains, deletes, or alters any magnetic record of its computer or related equipment.
+
+A person who makes computer programs specifically for himself or another to commit any offense specified in the preceding paragraph is also subject to the penalty provisions thereof.
+
+A person who intends to endanger national security or social stability and commits any offense under the preceding two paragraphs shall be sentenced to imprisonment for not less than three years and not more than ten years; in addition thereto, a criminal fine of not more than NT$50 million may be imposed.
+
+If an offense under any of the preceding three paragraphs harms the stability of the securities market, the punishment shall be increased by one-half.
+
+An attempt to commit an offense specified in paragraphs 1 to 3 is punishable.
+
+#### Article 175
+
+A person who violates the provisions of paragraph 1 of Article 18, paragraph 1 of Article 28-2, paragraph 1 of Article 43, paragraph 3 of Article 43-1, paragraph 2 or 3 of Article 43-5, paragraph 1 of Article 43-6, paragraphs 1 through 3 of Article 44, paragraph 1 of Article 60, paragraph 1 of Article 62, Article 93, Articles 96 through 98, Article 116, Article 120, or Article 160 shall be punished with imprisonment for not more than two years, detention, and/or a criminal fine of not more than NT$1.8 million.
+
+A person who violates Article 43, paragraph 1, Article 43-1, paragraph 3, Article 43-5, paragraph 2 or 3, as applied mutatis mutandis under Articles 165-1 or 165-2, or violates Article 28-2, paragraph 1 or Article 43-6, paragraph 1, as applied mutatis mutandis under Article 165-1, shall be punished under the preceding paragraph.
+
+A person who conducts a public tender offer without prior public announcement in violation of Article 43-1, paragraph 2, or who conducts a public tender offer without prior public announcement in violation of Article 43-1, paragraph 2 as applied mutatis mutandis under Article 165-1 or 165-2, shall be punished under paragraph 1.
+
+#### Article 176
+
+(Deleted)
+
+#### Article 177
+
+A person who violates Article 34, Article 40, Article 43-8, paragraph 1, Article 45, Article 46, Article 50, paragraph 2, Article 119, Article 150, or Article 165 shall be punished with imprisonment for not more than one year, detention, and/or a criminal fine of not more than NT$1.2 million.
+
+A person who violates Article 40 or 150 as applied mutatis mutandis under Article 165-1 or 165-2, or Article 43-8, paragraph 1 as applied mutatis mutandis under Article 165-1, shall be punished under the preceding paragraph.
+
+#### Article 177-1
+
+A securities firm that violates the provisions of Article 74 or Article 84 shall be fined an administrative fine of an amount not greater than the price of the acquired securities. However, the fine imposed shall not be less than NT$240,000.
+
+#### Article 178
+
+A person who commits any of the following violations shall be fined an administrative fine of not less than NT$240,000 and not more than NT$4.8 million, and the person may be ordered to correct the violation within a prescribed period. If the person fails to make the correction within the prescribed period, consecutive fines may be imposed:
+
+\1. Violation of the provisions of Article 22-2, paragraph 1 or 2, Article 26-1, or Article 22-2, paragraph 1 or 2 as applied mutatis mutandis under Article 165-1.
+
+\2. Violation of the provisions of Article 14, paragraph 3, Article 14-1, paragraph 1 or 3, Article 14-2, paragraph 1, 3, or 6, Article 14-3, Article 14-5, paragraphs 1 to 3, Article 21-1, paragraph 5, Article 25, paragraph 1, 2, or 4, Article 31, paragraph 1, Article 36, paragraph 5 or 7, Article 41, Article 43-1, paragraph 1, Article 43-4, paragraph 1, or Article 43-6, paragraphs 5 to 7; or Article 14, paragraph 3, Article 31, paragraph 1, Article 36, paragraph 5, or Article 43-4, paragraph 1 as applied mutatis mutandis under Article 165-1 or 165-2; or Article 14-1, paragraph 1 or 3, Article 14-2, paragraph 1, 3 or 6, Article 14-3, Article 14-5, paragraphs 1 to 3, Article 25, paragraph 1, 2, or 4, Article 36, paragraph 7, Article 41, Article 43-1, paragraph 1, Article 43-6, paragraphs 5 to 7, as applied mutatis mutandis under Article 165-1.
+
+\3. An issuer or public tender offeror or a related party thereof or a principal of a securities firm fails to submit account books, forms/statements, documents, or other reference or report materials within the required time period as ordered by the Competent Authority, or evades, impedes, or refuses an examination conducted by the Competent Authority.
+
+\4. If any issuer or public tender offeror fails to comply with relevant regulations with respect to the preparation, submission, public announcement, provision, or preservation of the account books, forms/statements, vouchers, financial reports or other relevant business documents as required by this Act or by orders issued by the Competent Authority pursuant to this Act.
+
+\5. Violation of Article 14-4, paragraph 1 or 2, or of Article 14-4, paragraph 1 or 2 as applied mutatis mutandis under Article 165-1; or violation of the provisions of the regulations adopted pursuant to Article 14-4 paragraph 5, or adopted pursuant to that paragraph as applied mutatis mutandis under Article 165-1, governing procedures, exercise of powers, or matters to be recorded in the meeting minutes.
+
+\6. Violation of the forepart of Article 14-6, paragraph 1, or of the forepart of that paragraph as applied mutatis mutandis under Article 165-1, by failing to establish a remuneration committee; or violation of the provisions of the regulations adopted pursuant to the latter part of Article 14-6 paragraph 1, or adopted pursuant to the latter part of that paragraph as applied mutatis mutandis under Article 165-1, governing the qualifications for the members of the committee, its composition, procedures, exercise of powers, matters to be recorded in the meeting minutes, or public announcement and filing.
+
+\7. Violation of the provisions of the regulations adopted pursuant to Article 25-1, or adopted pursuant to that article as applied mutatis mutandis under Article 165-1, governing the qualifications of proxy solicitors, proxy agents, or those handling proxy solicitation matters, the methods of solicitation or acquisition of proxy forms, corporate compliance matters in connection with the convening of shareholders meetings, or refusal to comply with a request by the Competent Authority for provision of information.
+
+\8. Violation of the shareholding percentage requirements of directors and supervisors of public companies prescribed by the Competent Authority in accordance with paragraph 2 of Article 26, or of provisions regarding notifications and auditing in the rules for auditing of the shareholdings thereof.
+
+\9. Violation of the provisions of Article 26-3, paragraph 1 or 7, or the forepart of paragraph 8; or violation of the provisions of Article 26-3, paragraph 1 or 7, or the forepart of paragraph 8 as applied mutatis mutandis under Article 165-1; or violation of the provisions of the regulations adopted pursuant to the latter part of paragraph 8 of Article 26-3, or adopted pursuant to the latter part of that paragraph as applied mutatis mutandis under Article 165-1, regarding the content of deliberations, procedures, matters to be recorded in the meeting minutes, or public announcement.
+
+\10. Violation of the provisions of Article 28-2, paragraphs 2 or 4 to 7, or of Article 28-2, paragraphs 2 or 4 to 7 as applied mutatis mutandis under 165-1; or violation of the provisions of the regulations adopted pursuant to Article 28-2, paragraph 3, or adopted pursuant to that paragraph as applied mutatis mutandis under Article 165-1, regarding share buyback procedures, prices, volumes, methods, methods of transfer, or matters that must be filed and publicly announced.
+
+\11. Violation of the provisions of the regulations adopted pursuant to Article 36-1, or adopted pursuant to that article as applied mutatis mutandis under Article 165-1, regarding the scope, working procedures, required public announcements, or required filings for financial or operational actions of material significance, such as the acquisition or disposal of assets, engaging in derivatives trading, monetary loans to others, endorsements or guarantees for others, or disclosure of financial forecasts.
+
+\12. Violation of the provisions of Article 43-2, paragraph 1, Article 43-3, paragraph 1, or Article 43-5, paragraph 1; or of Article 43-2, paragraph 1, Article 43-3, paragraph 1, or Article 43-5, paragraph 1, as applied mutatis mutandis under Article 165-1 or Article 165-2; or violation of the regulations adopted pursuant to Article 43-1, paragraphs 4 or 5, or adopted pursuant to Article 43-1, paragraph 4 as applied mutatis mutandis under Article 165-1 or Article 165-2, regarding the scope, conditions, period, related parties, or particulars for filing and public announcement in connection with purchases of securities.
+
+When a foreign company is an issuer, any violation of subparagraph 3 or 4 of the preceding paragraph by the foreign company shall be punished under the preceding paragraph.
+
+If a violation subject to a penalty of an administrative fine under the preceding two paragraphs is a minor violation, the penalty may be remitted, or the violator may first be ordered to correct the violation within a prescribed time period, and the penalty may be remitted once the violation has been corrected.
+
+A reward shall be given for a report of a violation of Article 25-1 that leads to the discovery of a violation. Regulations governing such reward shall be prescribed by the Competent Authority.
+
+#### Article 178-1
+
+If a securities firm, an enterprise as set forth in Article 18, paragraph 1, a securities association, a stock exchange, or an over-the-counter securities exchange commits any of the following violations, the violating entity or association may be fined an administrative fine of not less than NT$300,000 and not more than NT$6 million, and the Competent Authority may order it to correct the violation within a prescribed time period; if it fails to correct the violation within the specified period, consecutive fines may be imposed for each instance of violation:
+
+\1. Violation of Article 14, paragraph 3, Article 14-1, paragraph 1 or 3, Article 21-1, paragraph 5, Article 58, Article 61, Article 69, paragraph 1, Article 79, Article 141, Article 144, Article 145, paragraph 2, Article 147, Article 152, or Article 159; or Article 61, Article 141, Article 144, Article 145, paragraph 2, or Article 147 as applied mutatis mutandis under Article 165-1 or 165-2.
+
+\2. Failure to submit account books, forms/statements, documents, or other reference or report materials within a specified time period as ordered by the Competent Authority or evading, impeding, or refusing of an examination duly conducted by the Competent Authority.
+
+\3. Failure to comply with relevant provisions regarding the preparation, submission, public announcement, maintenance, or preservation of account books, forms/statements, vouchers, financial reports, or other relevant business documents as required by this Act or by orders issued by the Competent Authority pursuant to this Act.
+
+\4. A securities firm or an enterprise, as set forth in Article 18, paragraph 1, fails to strictly implement its internal control system.
+
+\5. An enterprise, as set forth in Article 18, paragraph 1, violates the provisions of the regulations adopted pursuant to paragraph 2 of the same article regarding finances, operation, or management.
+
+\6. A securities firm violates the provisions of the regulations adopted pursuant to Article 22, paragraph 4 regarding the issuance of other securities approved by the Competent Authority or the provisions of the standards or regulations adopted pursuant to Article 44, paragraph 4, the regulations adopted pursuant to Article 60, paragraph 2, the regulations adopted pursuant to Article 62, paragraph 2, or the regulations adopted pursuant to Article 70 regarding finances, operations, or management.
+
+\7. An over-the-counter securities exchange violates provisions of the regulations adopted pursuant to Article 62, paragraph 2, a securities association violates provisions of the regulations adopted pursuant to Article 90, or a stock exchange violates provisions of regulations adopted pursuant to Article 93, Article 95, or Article 102, regarding finances, operations, or management.
+
+If a violation subject to a penalty of an administrative fine under the preceding paragraph is minor, the penalty may be remitted, or the violator may first be ordered to correct the violation within a prescribed time period, and the penalty may be remitted once the violation has been corrected.
+
+#### Article 179
+
+Except as provided in Article 177-1 and the preceding article, if a juristic person or a foreign company violates the provisions of this Act, the individual person(s) responsible for the act will be punished under the articles of this chapter.
+
+#### Article 180
+
+(Deleted)
+
+#### Article 180-1
+
+If a criminal fine assessed for an offense under this Chapter is NT$50 million or more, and the offender cannot pay it in full, it shall be commuted to labor for a period of not more than two years, to be calculated by the ratio of the total amount of the fine to the number of days in two years. If the fine assessed is NT$100 million or more and the offender lacks the ability to pay it in full, it shall be commuted to labor for a period of not more than three years, to be calculated by the ratio of the total amount of the fine to the number of days in three years.
+
+## Chapter VIII Supplementary Provisions
+
+#### Article 181
+
+Corporate shares or corporate bonds publicly issued under the Regulations Governing Securities Firms before the coming into force of this Act shall be deemed as having been publicly issued under this Act.
+
+#### Article 181-1
+
+A court may establish a specialized division or designate a specific person(s) to try criminal cases involving the violation of this Act
+
+#### Article 181-2
+
+A requirement by the Competent Authority for the establishment of independent directors pursuant to the proviso of Article 14-2, paragraph 1, the establishment of an audit committee pursuant to the proviso of Article 14-4, paragraph 1, or the ipso facto dismissal of a director or supervisor pursuant to Article 26-3, paragraph 6 during the enforcement of Article 26-3 may be applied from the time of expiration of the term currently being served by the directors or supervisors.
+
+#### Article 182
+
+(Deleted)
+
+#### Article 182-1
+
+The Enforcement Rules of this Act shall be prescribed by the Competent Authority.
+
+#### Article 183
+
+This Act shall come into force from the date of promulgation, except Article 54, Article 95, and Article 128 as amended and promulgated on 7 May 1997 and 19 July 2000, which come into force from 15 January 2001; Articles 14-2 through 14-5 and Article 26-3 as amended and promulgated on 11 January 2006, which come into force from 1 January 2007; the articles amended and promulgated on 30 May 2006, which come into force from 1 July 2006; the articles amended and promulgated on 10 June 2009, which come into force from 23 November 2009; Article 36 as amended and promulgated on 2 June 2010, which comes into force from 1 January 2012; and Article 36, paragraph 1, subparagraph 2 as amended and promulgated on 4 January 2012, which comes into force from fiscal year 2013.
+
+Article 43-1 of this Act, as amended on 21 April 2023, shall come into force one year after promulgation.
+
+## History
+
+\1. Full 183 Articles enacted and promulgated 30 April 1968 per Presidential Order
+
+\2. Articles 3, 17, 28, 95, and 156 amended and promulgated 13 November 1981 per Presidential Order No. (70) Tai-T'ung-(I)-Yi-7393
+
+\3. Articles 37 and 157 amended, and Articles 18-1, 18-2, and 25-1 added and promulgated 11 May 1983 per Presidential Order No. (72) Tai-T'ung-(I)-Yi-2546
+
+\4. Articles 6, 7, 17, 18, 18-1, 20, 22, 25, 26, 32, 33, 36, 41, 43 to 45, 51, 53, 54, 56, 60 to 62, 66, 71, 74, 76, 126, 137, 139, 150, 157, 163, 171 to 175, 177, and 178 amended; Articles 22-1, 22-2, 26-1, 26-2, 28-1, 43-1, 157-1, 177-1, and 182-1 added; and Articles 9, 52, 101, 176, and 182 deleted and promulgated 29 January 1988 per Presidential Order No. (77) Hua-Tsung-(I)-Yi-0270
+
+\5. Articles 54, 95, 128, and 183 amended and promulgated 7 May 1997 per Presidential Order No. (86) Hua-Tsung-(I)-Yi-8600104880; for implementation from 15 January 2001
+
+\6. Articles 3, 6, 8, 15, 18-2, 28-1, 41, 43, 53, 54, 56, 66, 75, 89, 126, 128, 138, 155, 157, 171 to 175, 177, 177-1, and 178 amended, Articles 18-3, 28-2 to 28-4, and 38-1 added, and Articles 80, 106, and 131 deleted and promulgated 19 July 2000 per Presidential Order No. (89) Hua-Tsung-(I)-Yi-8900178720; for implementation from 15 January 2001
+
+\7. Articles 25, 27, 43, 113, 126, and 177 amended and promulgated 14 November 2001 per Presidential Order No. (90) Hua-Tsung-I-Yi-9000223500
+
+\8. Articles 7, 20, 22, 43-1, 157-1, 174, 175, 177, 178, and the name of Chapter II amended, and Articles 43-2 to 43-8 and the names of sections 1 to 3 of Chapter II added and promulgated 6 February 2002 per Presidential Order No. (91) Hua-Tsung-I-Yi-09100025050
+
+\9. Articles 30, 37, and 178 amended and Articles 14-1 and 36-1 added and promulgated 12 June 2002 per Presidential Order No. (91) Hua-Tsung-I-Yi-09100116790
+
+\10. Articles 171, 174, and 178 amended and Article 180-1 added and promulgated 28 April 2004 per Presidential Order No. (93) Hua-Zong-I-Yi-09300080621
+
+\11. Articles 174-1, 174-2, and 181-1 added and promulgated on 18 May 2005 per Presidential Order No. (94) Hua-Zong-I-Yi-0940007252112.
+
+\12. Articles 14-2 to 14-5, 20-1, 21-1, 26-3, and 181-2 added, Articles 17, 18-2, 18-3, 28, 73, 76 to 78, and 180 deleted, and Articles 3, 6, 14, 18, 20, 22, 25-1, 28-3, 44, 45, 51, 54, 60, 95, 155, 156, 157-1, 172, 178, 182-1, and 183 amended and promulgated 11 January 2006 per Presidential Order No. (95) Hua-Zong-I-Yi-09500002801
+
+\13. Articles 171 and 183 amended and promulgated on 30 May 2006 per Presidential Order No. Hua-Zong-I-Yi-09500075861, for enforcement from 1 July 2006.
+
+\14. Articles 43-5 and 183 amended and promulgated on 10 June 2009 per Presidential Order No. Hua-Zong-I-Yi-09800145151, for enforcement from 23 November 2009.
+
+\15. Article 54 amended and promulgated on 13 January 2010 per Presidential Order No. Hua-Zong-I-Yi-09900005591
+
+\16. Articles 21-1, 36, 157-1, 171, 177, 178, and 183 amended and promulgated on 2 June 2010 per Presidential Order No. Hua-Zong-I-Yi-09900133481; the amended articles will be enforced from the date of promulgation, with the exception of amended Article 36, which will be enforced from 1 January 2012.
+
+\17. Article 14-6 added and promulgated per 24 November 2010 Presidential Order No. Hua-Zong-I-Yi-09900317071
+
+\18. Articles 4, 14, 22, 36, 38-1, 141, 142, 144, 145, 147, 166, 169 to 171, 174 to 175, 177, 178, 179, and 183 amended; Articles 165-1 to 165-3 and name of Chapter V-1 added; Article 146 deleted, and promulgated per 4 January 2012 Presidential Order No. Hua-Zong-I-Yi-10000299631, for enforcement from the date of promulgation, with the exception of Article 36, paragraph 1, subparagraph 2, which will be enforced from fiscal year 2013
+
+\19. Article 14-1 amended and promulgated per 5 June 2013 Presidential Order No. Hua-Zong-I-Yi-10200106151
+
+\20. Article 3 amended and promulgated per 4 February 2015 Presidential Order No. Hua-Zong-I-Yi-10400012531
+
+\21. Articles 20-1, 43-1, 43-3, 156, and 178 amended and promulgated per 1 July 2015 Presidential Order No. Hua-Zong-I-Yi-10400077141
+
+Article 155 amended and promulgated per 1 July 2015 Presidential Order No. Hua-Zong-I-Yi-10400077261
+
+\22. Articles 28-4 and 43-1 amended and promulgated per 7 December 2016 Presidential Order No. Hua-Zong-I-Yi-10500150281
+
+\23. Articles 171 and 172 amended and promulgated, Article 44-1 added, and Article 174-2 deleted per 31 January 2018 Presidential Order No. Hua-Zong-I-Yi-10700011051
+
+\24. Articles 14-2 and 178 amended and promulgated per 25 April 2018 Presidential Order No. Hua-Zong-I-Yi-10700042151
+
+\25. Article 14 amended and promulgated per 5 December 2018 Presidential Order No. Hua-Zong-I-Jing-10700130991
+
+\26. Articles 14-5, 28-2, 39, 43-1, 65, 66, 165-1, 177-1, 178, and 179 amended and promulgated and Article 178-1 added per 17 April 2019 Presidential Order Hua-Zong-I-Jing-10800037881
+
+\27. Articles 14-5 and 36 amended and promulgated per 21 June 2019 Presidential Order Hua-Zong-I-Jing-10800063491
+
+\28. Article 14 amended and promulgated per 19 May 2020 Presidential Order Hua-Zong-I-Jing-10900053581
+
+\29. Article 54 amended and promulgated per 27 January 2021 Presidential Order No. Hua-Zong-I-Jing-11000006091
+
+\30. Article 22-1 amended and promulgated per 30 November 2022 Presidential Order No. Hua-Zong-I-Jing-11100101161
+
+\31. Articles 43-1, 178-1, and 183 amended and promulgated per 10 May 2023 Presidential Order No. Hua-Zong-I-Jing-11200038321; for enforcement from the date of promulgation, with the exception of Article 43-1, which will be enforced from 1 year after promulgation
+
+\32. Articles 174-3 and 174-4 added and promulgated per 28 June 2023 Presidential Order No. Hua-Zong-I-Jing-11200054041
+
+Articles 14-4, 14-5, 178, and 181-2 amended and promulgated per 28 June 2023 Presidential Order No. Hua-Zong-I-Jing-11200054051
+
+\33. Article 14 amended and promulgated per 7 August 2024 Presidential Order No. Hua-Zong-I-Yi-11300069631

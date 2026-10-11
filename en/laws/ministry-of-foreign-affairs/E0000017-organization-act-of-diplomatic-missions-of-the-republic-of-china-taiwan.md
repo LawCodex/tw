@@ -1,0 +1,125 @@
+---
+title: "Organization Act of Diplomatic Missions of the Republic of China (Taiwan)"
+title_zh: "駐外機構組織通則"
+identifier: "E0000017"
+type: act
+law_level: "法律"
+category: "行政＞外交部＞組織目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2012-02-03
+last_amended: 2018-06-13
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=E0000017"
+retrieved: 2026-10-12
+---
+
+# Organization Act of Diplomatic Missions of the Republic of China (Taiwan)
+
+> Translation. The Chinese text ([zh/laws/ministry-of-foreign-affairs/E0000017-organization-act-of-diplomatic-missions-of-the-republic-of-china-taiwan.md](../../../zh/laws/ministry-of-foreign-affairs/E0000017-organization-act-of-diplomatic-missions-of-the-republic-of-china-taiwan.md)) is authoritative.
+
+## Article 1
+
+This Act is drafted to define a clear organizational structure for diplomatic missions of the Republic of China (Taiwan), so as to effectively manage and utilize the resources allocated to diplomatic affairs.
+
+## Article 2
+
+The term “diplomatic missions” in this Act refers to any of the following:
+
+\1. Embassies, consulates-general, and consulates established by the government in countries with which the Republic of China (Taiwan) has diplomatic relations
+
+\2. Representative offices or offices established by the government in countries with which the Republic of China (Taiwan) does not have diplomatic relations
+
+\3. Missions established by the government at the headquarters of international organizations
+
+Central government agencies (hereinafter “Agencies”) other than the Ministry of Foreign Affairs (hereinafter “MOFA”) may establish a subordinate department under a diplomatic mission after consulting with MOFA and gaining the approval of the Executive Yuan.
+
+## Article 3
+
+The competent authority for this Act shall be MOFA.
+
+The establishment, adjustment, abolishment, and area of jurisdiction of diplomatic missions shall be submitted by MOFA to the Executive Yuan for approval.
+
+## Article 4
+
+Diplomatic missions may establish internal departments to carry out their work. These internal departments shall be set up in line with the complexity of the diplomatic mission’s work. The names of departments, as well as their powers and responsibilities, shall be laid out in an organizational chart following consultations between MOFA and the Agency concerned and approved by the Executive Yuan.
+
+Where the organizational acts of Agencies include provisions that address the dispatch of personnel to work abroad, said Agencies may, after consulting with MOFA, have personnel work in a related internal department of the diplomatic mission or an attached organization; these individuals shall be directed and supervised by the diplomatic mission.
+
+## Article 5
+
+The title, rank, and number of heads and deputy heads of diplomatic missions shall be as follows:
+
+\1. Embassies and representative offices: one ambassador who is either a political appointee or a civil servant at senior grade 13 or 14, and one to three ministers at senior grade 12 or 13. Where there are two or more ministers, at least one shall be at senior grade 13.
+
+\2. Missions at the headquarters of international organizations: one permanent representative who is either a political appointee or a civil servant at senior grade 13 or 14, and one to three deputy permanent representatives at senior grade 12 or 13. Where there are two or more deputy permanent representatives, one shall be at senior grade 13.
+
+\3. Consulates-general and offices: one consul-general at senior grade 12 and one to two deputy consuls-general at senior grade 10 or 11.
+
+\4. Consulates: one consul at junior grade 9 or senior grade 10 and one to two deputy consuls at junior grade 7 or 8.
+
+The titles, ranks, and number of positions at diplomatic missions shall be defined in a separate organization chart. The number of ministers and deputy permanent representatives at senior grade 13 shall not exceed 10.
+
+Agencies whose organizational acts have regulations permitting the dispatch of personnel abroad shall consult with MOFA regarding titles, ranks, and number of positions. Organization charts shall be separately drafted following consultations with MOFA and submitted to the Executive Yuan for approval.
+
+Current personnel registered and accredited under the Act for Dispatched Personnel prior to the promulgation of this Act who do not enjoy the status of a civil servant may continue to be employed under the original laws and regulations until such time as they leave their position.
+
+Where there are regulations in place for personnel referred to in the previous paragraph to rotate back to their original dispatching Agency or to perform another function at a diplomatic mission, they may retain the same title as that of their original position.
+
+## Article 6
+
+Duties and responsibilities of the heads and deputy heads of diplomatic missions shall include:
+
+\1. Heads of embassies and representative offices shall, in acting at the direction of MOFA, carry out diplomatic work concerning relations between the Republic of China (Taiwan) and the countr(ies) under the diplomatic mission’s jurisdiction as well as other tasks assigned by MOFA. Deputy head(s) are to assist the head in carrying out these tasks.
+
+\2. Heads of consulates-general, consulates, and offices shall, in acting at the direction of MOFA, carry out diplomatic work concerning relations between the Republic of China (Taiwan) and the countries/areas under the diplomatic mission’s jurisdiction and other tasks assigned by MOFA. They shall be under the supervision of the head of the embassy or representative office in their respective country. Deputy head(s) are to assist the head in carrying out these tasks.
+
+\3. Heads of missions at the headquarters of international organizations shall, in acting at the direction of MOFA, carry out tasks concerning the international organization(s) that they are assigned to cover or that are in the country/area under the jurisdiction of their mission. They shall also carry out related work at the direction of other Agencies. Deputy head(s) are to assist the head in carrying out these tasks.
+
+When personnel of other Agencies work at the instruction of their dispatching Agency, they shall be under the direction and supervision of the head of the diplomatic mission to which they are attached. Where an individual does not comply with the coordination, direction, or supervision of the head of the diplomatic mission, or where an individual is found to be unfit, the head of the diplomatic mission may report to MOFA a request that the relevant Agency be informed and change the assignment. MOFA shall establish regulations standardizing the supervision of diplomatic missions and submit these to the Executive Yuan for approval.
+
+Where a head of a diplomatic mission has not yet been appointed, MOFA may assign a qualified civil servant working at the diplomatic mission, or person defined in Paragraph 4 of Article 5, to serve as acting head.
+
+## Article 7
+
+MOFA may grant diplomats appropriate nominal titles and ranks depending on operational needs.
+
+## Article 8
+
+Appointment, removal, promotion, or transfer of the supervisor(s) or highest-ranking official(s) of Agencies stationed at diplomatic missions shall be performed following consultations with MOFA. MOFA shall also be informed of the appointment, removal, promotion, or transfer of other personnel from these Agencies.
+
+## Article 9
+
+When MOFA personnel stationed abroad are ordered to return home, they shall return to MOFA or one of its subordinate agencies and hold the title they held while stationed abroad except where they are given another title in line with the organization acts of MOFA and its subordinate agencies. The number of positions shall be subject to quotas set by MOFA and its subordinate agencies through organization charts.
+
+## Article 10
+
+Depending on the needs of diplomatic missions, MOFA and Agencies may hire specialists in accordance with the Act for Hiring Contract Workers. The number of hires shall not exceed three percent of the budgeted personnel quota for diplomatic missions.
+
+## Article 11
+
+Depending on the needs of diplomatic missions, local professionals or personnel may be hired to assist with the diplomatic mission’s work in accordance with local labor laws.
+
+## Article 11-1
+
+In countries or cities where no diplomatic mission has been established, an honorary consul may be appointed.
+
+Regulations concerning the qualifications, conditions, scope of work, and other related affairs concerning honorary consuls referred to in the previous paragraph shall be separately determined by MOFA.
+
+## Article 12
+
+Central government agencies other than those under the Executive Yuan that dispatch personnel abroad in accordance with relevant laws shall establish an organization chart after consulting with MOFA. Dispatched personnel shall be attached to a relevant internal department of a diplomatic mission. The provisions of Paragraph 2 of Article 6, Article 7 to Article 9, and the preceding Article shall apply.
+
+## Article 13
+
+The Executive Yuan shall determine the date this Act shall come into force.
+
+Amendments to this Act shall come into force from the date of their promulgation.
+
+## History
+
+1.Promulgated by Order Hua Zong Yi Yi Zi No. 10100022891 on February 3, 2012
+
+2.Revisions promulgated by Order Hua Zong Yi Yi Zi No. 10700062381 on June 13, 2018

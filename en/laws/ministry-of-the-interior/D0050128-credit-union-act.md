@@ -1,0 +1,353 @@
+---
+title: "Credit Union Act"
+title_zh: "儲蓄互助社法"
+identifier: "D0050128"
+type: act
+law_level: "法律"
+category: "行政＞內政部＞合作及人民團體目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1997-05-21
+last_amended: 2015-02-04
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0050128"
+retrieved: 2026-10-12
+---
+
+# Credit Union Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-the-interior/D0050128-credit-union-act.md](../../../zh/laws/ministry-of-the-interior/D0050128-credit-union-act.md)) is authoritative.
+
+## Article 1
+
+The Credit Union Act is specified to promote sound operation and development of credit unions, to protect rights and interests of credit union members, to improve flow of mutual funds among the general public and to develop the function of a social security system.
+
+## Article 2
+
+A credit union is a judicial person.
+
+Credit union mentioned in this Act means a non-profit association, which established before the proclaimed of this Act or newly established according by this Act and organized by the natural persons and other non-profit organizations in common bond.
+
+The common bond means people who work in the same company, factory or a career group, who participate in the same club, religious group or aboriginal group or who live in the same country or town.
+
+People that join credit unions without the common bond are not qualified; however, it is not limited to those people that joined before the Act was amended.
+
+The membership is still valid within two years when members lose the common bond with the credit unions.
+
+## Article 3
+
+Credit unions are based on the system of limited liabilities and members are liable to their own shares.
+
+## Article 4
+
+The Credit Union League of the Republic of China (hereinafter called League) in this Act refers to an association organized by all credit unions. Any established credit union ought to join and become a member of the League.
+
+Management and supervision of credit unions are specified and implemented by the League in accordance with the Act.
+
+## Article 5
+
+The competent authority of credit unions is the Ministry of the Interior in the central government, the city government in a special municipality or the county (city) government in a county (city).
+
+## Article 6
+
+Credit unions should be specified on the name of the association and forbidden to other purposes except those specified in the Act.
+
+## Article 7
+
+The League is in charge of establishment, management, supervision, guidance and assistance of credit unions.
+
+Rules of establishment, management, supervision, guidance and assistance will be stipulated by the League and sent to the central competent authority for approval.
+
+## Article 7-1
+
+The League may undertake the business of credit guarantee for the credit unions for the purpose of helping members that are underprivileged and lacking in collateral surety, by providing access to necessary funds to improve quality of life and livelihood production, while the government shall provide assistances and incentives as necessary.
+
+The funds concerning the above mentioned guarantee business shall be raised by the League, who is responsible for determining the scope, counterpart, size, amount, and other issues due for legal compliance, and submit to the central competent authority in consultation with other relative authorities for review and approval.
+
+The government shall determine the institutions governing the depositing of the following funds at financial institutes:
+
+\1. Stabilization funds deposited at the League by each member union.
+
+\2. Excessive funds deposited at the League by each member union.
+
+\3. Excessive funds owned by each member union.
+
+The League may re-deposit a certain ratio of any fund previously mentioned in Subparagraphs 2 and 3 to be held in trust for the purpose of enhancing fund liquidity.
+
+The regulations governing a credit union’s deposit of excessive funds at a financial institute shall be stipulated by the central competent authority in consultation with the Central Bank and Financial Supervisory Commission.
+
+## Article 8
+
+Credit union established in accordance with the Act will be exempted from income taxes and business taxes.
+
+## Article 9
+
+The roles of a credit union are as follows:
+
+\1. Accepting members’ share subscriptions.
+
+\2. Providing charge accounts for its members.
+
+\3. Providing loans for its members.
+
+\4. Participating in various cooperative fund businesses under the initiatives of the League.
+
+\5. Providing payment services of utility, natural gas, tuition, telephone, tax, fine, and other payables and receivables for its members.
+
+\6. Participating in the League’s financing activities.
+
+\7. Participating in community projects that help to develop community industries;.
+
+\8. Participating in social enterprise businesses in the form of cooperatives under the initiatives of the League.
+
+\9. Subscribing national bonds or financial products.
+
+\10. Undertaking tasks commissioned by the government or public welfare organizations.
+
+\11. Other businesses approved by the central competent authority.
+
+No agreement in capital guarantee, interest guarantee, or fixed revenue concerning the subscriptions paid by union members to a credit union is allowed.
+
+The schemes for credit unions’ subscriptions of financial products mentioned in Subparagraph 9, Paragraph 1 shall be determined by the League and submitted to the central competent authority for reference.
+
+The sales and goods or services not provided by members concerning the roles  mentioned in Subparagraphs 7, 8, and 10 in Paragraph 1 executed by a credit union shall be subject to income tax and business tax stipulated in the Income Tax Act and Value-added and Non-value-added Business Tax Act, and Article 8 shall not apply. However, business tax does not apply to an undertaking commissioned by the government.
+
+## Article 10
+
+(Deleted)
+
+## Article 11
+
+The amount of loans made by a credit union to a single member shall not exceed ten percent of the total shares and reserves of the credit union.
+
+The amount of loans made by a credit union shall not exceed the amount of its ownership capital.
+
+The ownership capital of the credit union as mentioned in the previous shall be included shares, dormant account, capital reserves, reserves, special reserves, undistributed net income and net income for the year.
+
+## Article 12
+
+Credit unions are not allowed to provide services to non-members for accepting shares and providing loans.
+
+## Article 13
+
+Par value of shares of a credit union shall be one hundred dollars; the total value of shares held by any member shall not exceed ten percent of the total share balance of the credit union.
+
+Money paid for shares is as the saving and also the obligation as a member.
+
+## Article 13-1
+
+The total share of each member is not exceed one million dollars, dividends shall be exempted from his own individual income tax.
+
+## Article 14
+
+A member may withdraw from the credit union by giving a writing application to the credit union and be consented by the board of directors. The board of directors may determine to postpone the payment of the withdrawn shares in necessary, but not exceed sixty days since the withdrawal is approved.
+
+If members withdraw their shares during a year, they shall not be entitled to the dividends of the same year.
+
+When a member applies his withdrawal during a critical operation crisis of a credit union, the board of directors shall suspend the withdrawal applications and convene the temporary general meeting of members within one month.
+
+## Article 15
+
+Annual surpluses of credit unions are allotted or distributed in the following order:
+
+\1. Compensate accumulated losses.
+
+\2. Interest refund.
+
+\3. Set aside as the reserve more than twenty percent.
+
+\4. Set aside as the public welfare fund and education fund not less than five percent.
+
+\5. Dividends.
+
+There shall be reduced the percentage of the aforementioned refund carried when the reserve is equal to twenty percent of the share balance.
+
+## Article 16
+
+The supreme authority in the credit union is vested in the general meeting of members.
+
+There shall be one fifth of all members or a certain number of adult members to present, the general meeting of members shall be convened.
+
+Every member is entitled to cast one vote and authorization of exercising such right is not allowed.
+
+## Article 17
+
+There are general meeting of members and temporary general meeting of members. The general meeting of members shall be convened in annually within two months after the end of the fiscal year and a written notice shall be given to members in seven days before the meeting convened. The temporary general meeting of members shall be convened in accordance with related regulations.
+
+## Article 18
+
+There shall be the board of directors in a credit union to execute the resolutions reached at the general meeting of members and to take the joint responsibility for the credit union.
+
+The board of directors shall be consisted of seven to twenty-one members as the board members who shall be elected at the general meeting of members with a term of three years; and they may be re-elected.
+
+The board members shall elect a chairperson who should be eligible for re-elected once.
+
+## Article 19
+
+A credit union is required to establish a board of supervisors, and the board shall be jointly responsible for the credit union.
+
+The board shall consist of three to seven supervisors who are voted  in the annual general meeting. Each tenure shall be for three years and eligible for re-election.
+
+## Article 20
+
+The board members and the supervisory members are volunteers, shall not receive any remuneration.
+
+## Article 21
+
+(Deleted)
+
+## Article 22
+
+The directors and supervisors shall perform duties in accordance with the laws, bylaw, and resolutions made in the annual general meeting.
+
+The directors or supervisors shall be held liable to the credit union for the damage inflicted to the credit union and caused by the resolutions made by the board of directors or supervisors, unless otherwise a director or supervisor has objected to the resolution and the objection is evidenced by respective meeting minutes.
+
+A director or supervisor shall be held liable for the damage inflicted to the credit union and caused by the director’s or supervisor’s negligence or violation of the regulations.
+
+## Article 23
+
+A credit union shall be dissolved in one of the following situations and the League should report such event to the competent authority for approval.
+
+\1. Resolution of dissolution in the general meeting of members.
+
+\2. Less than fifty members.
+
+\3. Declaration of bankruptcy.
+
+\4. Dissolved by the command from the League.
+
+Resolution of one point of the above Subparagraph shall be passed by more than two thirds of members presented who shall be more than three fourths of all members.
+
+## Article 24
+
+When a credit union is liquidated upon dissolution, the League shall conduct supervision. A liquidator shall be elected in the general meeting of members, but, if there is no election in the general meeting, one of the board members shall be as a liquidator.
+
+## Article 25
+
+When a credit union suffers a loss at annual final accounts or after liquidation, the credit union shall use various reserve funds and shares to compensate for the loss; When there is a residual after liquidation, it shall be distributed according of the shares of members.
+
+## Article 26
+
+Upon completion of liquidation, the liquidator shall make a report within twenty days and send it to the League, which will refer it to the competent authority. In addition, a copy ought to be delivered to each member.
+
+## Article 27
+
+The League’s roles are as follows:
+
+\1. Guiding credit unions to develop its bylaw.
+
+\2. Conducting mutual assistance education and training programs.
+
+\3. Evaluating the establishment of credit unions and protecting their rights.
+
+\4. Supervising, auditing, and guiding credit unions.
+
+\5. Undertaking insurance programs of credit unions.
+
+\6. Managing the reserve funds deposited by credit unions.
+
+\7. Undertaking financing for credit unions and operating the excessive funds deposited by credit unions.
+
+\8. Assisting credit unions with their subscriptions of national bonds.
+
+\9. Undertaking cooperative businesses like children’s nurseries and elderly care for the credit union members.
+
+\10. Participating in social enterprises in the form of cooperative businesses and undertaking public welfare businesses.
+
+\11. Other approved tasks.
+
+Subparagraph 7 in the preceding Paragraph may be applicable to the League’s fund raising and use concerning the execution of its roles, and the financing and operating of the surplus funds stipulated in the same Subparagraph and other compliance requirements shall be determined by the League and submitted to the central competent authority for reference.
+
+The League’s undertaking of role 10 in Paragraph 1 shall be submitted to the central competent authority for reference .
+
+The roles executed by the League shall be subject to the supervision and guidance of the central competent authority, but the central competent authority may coordinate with other the target business competent authorities concerning the roles to provide assistance.
+
+## Article 28
+
+The League shall present related information of credit unions operating to the competent authority within three months at the end of every year.
+
+## Article 29
+
+When a credit union violates legal regulations and bylaw or can’t operate well to harm the rights and interests of the members, the competent authority shall take the following disciplinary actions. The League shall report to the competent authority for approval before taking disciplinary measures.
+
+\1. Cancel resolutions reached at meetings.
+
+\2. Suspend or discharge the office of the board members and the supervisory members.
+
+\3. Mandate credit unions to punish personnel who neglect their duties.
+
+\4. Suspend part of business activities.
+
+\5. Compulsory dissolution.
+
+\6. Other necessary dispositions.
+
+For any of the above situations, the board members and the supervisory members may be fined a minimum of sixty thousand dollars to a maximum of three hundred thousand dollars.
+
+## Article 30
+
+Credit unions established prior to announcement and execution of this Act shall register to the competent authority within one year after announcement and execution of this Act.
+
+The land and improved buildings purchased and registered by a natural person or in the name of the credit union with their own reserves prior to the amendment and implementation of this Act, the ownership of such land and buildings shall be changed to the credit union.
+
+Credit unions shall apply the certificates and papers required for the title change, which referred to the above-mentioned to their respective competent authorities of municipalities, counties and cities. The central competent authority shall make the regulation of procedures related to title change.
+
+## Article 31
+
+When a credit union or similar organization violates the regulation specified in Article 6 or is not established according to legal ordinances, the credit union or organization shall be fined with a maximum of three hundred thousand dollars or be imprisoned for up to two years.
+
+When a judicial person commits the aforementioned, the person in charge shall take the responsibility.
+
+## Article 32
+
+The board members, the supervisory members and employees of credit unions shall be fined with a maximum of six hundred thousand dollars or be imprisoned for up to one year or both for any of the following situations:
+
+\1. Object to transfer.
+
+\2. Conceal or destroy properties or account books of credit unions.
+
+\3. Forge debts or admit untrue liabilities.
+
+## Article 33
+
+The League shall report to the competent authority and claim a fine of a minimum of sixty thousand dollars to a maximum of three hundred thousand dollars to the credit unions depending upon how seriously they meet any of the following situations:
+
+\1. Violation of the Article 9 to run the unapproved business.
+
+\2. Violation of the Article 11 to grant the loans beyond limitations.
+
+\3. Violation of the Article 12 to provide the services to non-members.
+
+\4. Violation of the Article 13 to receive the shares over the maximum of the individual member.
+
+\5. Violation of the Article 14 to withdraw inconsistent with specified regulations.
+
+\6. Violation of the Article 15 to have the inappropriate distribution of surplus.
+
+\7. Violation of the Article 20 to pay the remuneration.
+
+The aforesaid fines are aimed at credit unions to be punished. Upon completion of punishment, credit unions are entitled to the right of claims to the person in charge.
+
+## Article 34
+
+The competent authority shall claim a fine of a minimum of sixty thousand dollars to a maximum of three hundred thousand dollars to the League depending upon how seriously the League meets any of the following situations:
+
+\1. Violation of the Article 27 to run unapproved business.
+
+\2. Violation of the Article 28 not to present the information or present the false one.
+
+## Article 35
+
+This Act will be executed upon the date of announcement.
+
+## History
+
+1.Proclaimed and implemented under orders of the President on May 21, 1997
+
+2.Proclaimed and amended under orders of the President on January 26, 2000
+
+3.Proclaimed and amended under orders of the President on February 6, 2002
+
+4.Amended Feb. 4, 2015

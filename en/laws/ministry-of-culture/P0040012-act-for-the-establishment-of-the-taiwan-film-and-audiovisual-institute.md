@@ -1,0 +1,367 @@
+---
+title: "Act for the Establishment of the Taiwan Film and Audiovisual Institute"
+title_zh: "國家電影及視聽文化中心設置條例"
+identifier: "P0040012"
+type: act
+law_level: "法律"
+category: "行政＞文化部＞組織目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2019-12-31
+last_amended: 2019-12-31
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=P0040012"
+retrieved: 2026-10-12
+---
+
+# Act for the Establishment of the Taiwan Film and Audiovisual Institute
+
+> Translation. The Chinese text ([zh/laws/ministry-of-culture/P0040012-act-for-the-establishment-of-the-taiwan-film-and-audiovisual-institute.md](../../../zh/laws/ministry-of-culture/P0040012-act-for-the-establishment-of-the-taiwan-film-and-audiovisual-institute.md)) is authoritative.
+
+## Chapter I General Principles
+
+### Article 1
+
+This Act is hereby drafted to establish the Taiwan Film and Audiovisual Institute (henceforth, “the Institute ”) to preserve the nation’s film and audiovisual tangible heritage and promote and advance the development of film and audiovisual culture.
+
+### Article 2
+
+The Institute shall be an administrative juridical person, the supervisory authority of which shall be the Ministry of Culture.
+
+### Article 3
+
+The scope of business of the Institute shall include:
+
+\1. The restoration, archiving, exhibition/screening, repurposing, and marketing of film and audiovisual heritage;
+
+\2. Providing grants for, promoting, and engaging in international exchanges on education on film and audiovisual cultural heritage;
+
+\3. Collecting, collating, analyzing, and conducting research on documents and historical archives relating to film and audiovisual heritage;
+
+\4. Managing the Institute and its facilities and venues for film and audiovisual;
+
+\5. Assisting with the government’s promotion of film and audiovisual culture related activities;
+
+\6. Overseeing commissioned management of film and audiovision related facilities and venues;
+
+\7. Publishing periodicals that promote the nation’s film and audiovisual culture internationally ; and
+
+\8. Other matters work related to film and audiovisual culture.
+
+### Article 4
+
+The Institute shall draw on the following funding resources:
+
+\1. Grants and donations from the government;
+
+\2. Donations from domestic and overseas public or private institutions, groups, or individuals;
+
+\3. Revenue from commissioned research and provision of services;
+
+\4. Operating revenue; and
+
+\5. Other revenue.
+
+Donations received as in Subparagraph 2 shall be deemed a donation to the government.
+
+### Article 5
+
+The Institute ’s Charter, personnel management, accounting method, internal controls, audit procedures, and other regulations shall, after being approved of by its Board of Directors, be submitted to the supervising authority for its reference.
+
+Public business to be conducted by the Institute shall be determined by its Board of Directors and reported to the supervising authority and shall not contravene related current laws or regulations.
+
+## Chapter II Organization
+
+### Article 6
+
+The Institute ’s Board of Directors shall consist of between 11 and 15 members.The appointment and dismissal of Directors shall be conducted by the supervisory authority and approved of by the Premier. Board members shall be selected from among the following:
+
+\1. Representatives of related government agencies;
+
+\2. Scholars and experts in the areas of film, television, and broadcasting; and
+
+\3. Experts in the areas of law, finance, and marketing management or persons who have made great contributions to or achievements with cultural content;
+
+The number of Directors chosen from Subparagraph 1 shall not account for more than one third of all Directors.
+
+The number of Directors of each gender drawn from Subparagraph 1 shall be no less than one third the total number of Directors.
+
+### Article 7
+
+The Institute ’s Board of Super visors shall consist of between three and five members. The hiring and dismissal of Supervisors shall be conducted by the supervisory authority and approved of by the Premier. Board members shall be selected from among the following:
+
+\1. Representatives of related government agencies; and
+
+\2. Persons with expertise in accounting, financial auditing, auditing, law, or management.
+
+Supervisors shall select one of their members to serve as Executive Supervisor.
+
+The number of Supervisors of each gender drawn from Subparagraph 1 shall be no less than one third the total number of Supervisors.
+
+### Article 8
+
+The appointment for both Directors and Supervisors shall be for a period of three years and may be renewed once. The number of those serving a second term,however, shall not exceed two thirds the number of Directors or Supervisors and shall not be less than one third.
+
+Directors and Supervisors representing government agencies shall be properly replaced if the postition is changerd and shall not be term limited. In accordance with Subparagraph 2 and 3 of Paragraph 1 of Article 6 and Subparagraph 2 of Paragraph 1 of the preceding Article , Directors and Supervisors who resign their position prior to their term’s expiry shall have replacements selected by the supervisory authority and approved by the Premier for a term coterminous with that of the original holder of the position.
+
+### Article 9
+
+A person to whom any of the following circumstances applies may not be hired as a Director or Supervisor:
+
+\1. A guardianship announcement or assistance announcement remains in force;
+
+\2. A conviction mandating imprisonment has been handed down and probation not yet granted;
+
+\3. A bankruptcy declaration has been filed, or where in accordance with the Consumer Debt Clearance Act a judge has mandated the debt clearance process begin, but whe re rig hts have not ye t been restored; or
+
+\4. Civil rights have been taken away and not yet restored;
+
+Where any of the preceding is found to apply to a Director or Supervisor, he or she shall be removed. Directors or Supervisors who are absent from a board meeting three times shall be removed.
+
+A Director or Supervisor to whom any of the following circumstances applies may be removed:
+
+\1. Proven immoral behavior detrimental to the image of the Institute;
+
+\2. Where work has been performed unsatisfactorily or duties have been neglected so as to seriously infringe upon the terms of employment;
+
+\3. Where the Institute has not met the standards laid out by the supervising authority for its annual performance review two years in a row;
+
+\4. Where there has been a proven con travention of the Civil Service Administrative Neutrality Act;
+
+\5. Where there has been proven lobbying or favors concerning matters under the individual’s purview, or where an individual has used his/her official capacity to accept entertainment, meals, or gifts such that the public interest or the interests of the Institute have been harmed;
+
+\6. Where it is proven that the Institute ’s property has been used for other than official use;
+
+\7. Where it is proven that an individual has not abided by the stipulations of this act concerning recusal in a case of conflict of interest, or the stipulations of Paragraph 1 of Article 16 forbidding contractual relationships; or
+
+\8. Other conduct unbecoming a Director or Supervisor.
+
+For any of these situations, the supervisory authority shall give the accused the opportunity to state his/her opinions and appeal the charges.
+
+Regulations concerning the Institute ’s selection and removal of new Directors and Supervisors and replacement Directors and Supervisors, as well as related matters, shall be drafted by the supervisory authority.
+
+### Article 10
+
+The Institute shall have one Chair of the Board of Directors who shall be selected by the supervisory authority from among the Directors and approved by the Premier. The removal of the Chair shall follow the same process.
+
+Regulations concerning the selection, removal, and replacement of the chair of board member as well as related matters, shall be drafted by the supervisory authority.
+
+The Chair shall be in charge of the matters of, and serve as its representative when a Chair is unable to perform his/her duties, he/she may appoint another Director to serve in his/her stead. Where no selection is made, the Directors shall appoint one of their own to serve as Acting Chair.
+
+No person having attained 65 years of age may take on the position of Chair. In the year in which a Chair attains the age of 70, he/she shall step down and be replaced. This stipulation shall not apply where special circumstances apply and the Executive Yuan has given approval.
+
+### Article 11
+
+The Board of Directors shall:
+
+\1. Review and approve development goals and plans;
+
+\2. Review and approve the establ ishment of branch organizations;
+
+\3. Review and approve annual work plans;
+
+\4. Review and approve the annual budget, final accounts , and goals;
+
+\5. Review a nd approve the Institute ’s Charter;
+
+\6. Review and approve the disposal and set burden of real estate of the Institute;
+
+\7. Review and approv e items stipulated in this Act as needing Board approval
+
+\8. Appoint and dismiss the Ins titute ’s President;
+
+\9.  Raise funds for the Institute and manage Institute property; and
+
+\10. Review and approve other important matters.
+
+### Article 12
+
+The Board of Directors shall meet at least once every three months. Where necessary,it may call ad hoc meetings. Meetings are convened and presided by the Chair.
+
+A quorum of one half of the Directors shall be required. Resolutions may be passed by a majority vote of Directors present, but for resolutions on Par agraphs 1 to 9 of the preceding Article, agreement of one half the total number of Directors shall be required for passage.
+
+### Article 13
+
+The Board of Supervisors shall:
+
+\1. Review and pass the annual approved budget;
+
+\2. Oversee Institute operations and fina ncial affairs;
+
+\3. Audit the financial records, documents, and property records of the Institute;and
+
+\4. Review or audit other important matters.
+
+Supervisors shall exercise independent authority; Executive Supervisors shall represent the Board of Supervisor s at meetings of the Board of Directors.
+
+### Article 14
+
+Directors, Supervisors, and Executive Supervisors shall personally attend meetings of the Board of Directors and the meeting of the Board of Supervisors; they may not appoint a proxy to attend.
+
+### Article 15
+
+Directors and Supervisors shall recuse themselves where a conflict of interest arises. They should not use the power, opportunities, or means afforded by the office for their own interest or that of a related individual. The supervisory authority shall determine the scope of where recusal needs to take place, and the penalty for failing to recuse oneself.
+
+Between Directors and Supervisors there shall not be a spousal or other relationship within three degrees of consanguinity.
+
+### Article 16
+
+Directors, Supervisors, and related individuals shall not enter into a subsidy, sale,rental, or other contractual, transactional relationship with the Institute . However, this shall not apply to those who, under the stipulations of Paragraph 1 of Article 14 of the Act on Recusal of Public Servants Due to Conflicts of Interest, are public servants who have recused themselves.
+
+Persons infringing upon this regulation, where the Institute suffers as a result,shall be made to pay compensation.
+
+### Article 17
+
+The Chair of the Board of Directors of the Institute may be a full time or part time position. Compensation for full time Chair shall be determined by the supervisory authority; there shall be no compensation for part time Chair.
+
+Directors, Supervisors, and Standing Supervisors shall all be uncompensated positions.
+
+### Article 18
+
+There shall be one President of the Institute . This person shall be proposed by the Chair and hired upon approval by the Board of Directors. The same procedure shall be followed for the President’s removal. The President shall, in accordance with the Charter and resolutions of the Board of Directors, and under the authority of the Chair , carry out the Institute ’s business and supervise all employees.
+
+Regulations concerning Directors and Chairs of the Board of Directors, namely Paragraphs 1 through 4 of Article 9, Paragraph 4 of Article 10, Article 15, Article 16, Paragraphs 2 and 3 of Article 19, and Paragraph 6 of Article 20, shall also apply to Presidents of the Institute.
+
+### Article 19
+
+Personnel shall be hired to work at the Institute in line with the rules concerning personnel management of the Institute. They shall not be considered civil servants. Their rights and duties are to be stipulated in their contracts.
+
+Persons having a spousal or other relationship within three degrees of consanguinity or marriage relations hip with Directors or Supervisors shall not serve in positions concerning general affairs, accounting, and personnel at the Institute.
+
+The Chair shall not appoint his/her spouse or a person within three degrees of consanguinity or marriage relationship to work at the Institute.
+
+## Chapter III Business and Supervision
+
+### Article 20
+
+The scope of supervision carried out by the supervisory authority shall be the following matters:
+
+\1. Approving the development goals and plans;
+
+\2. Approving or filing for reference the Institute’s Charter, annual work plan and budget, annual achievements report, and final accounts report;
+
+\3. Examining the Institute ’s property and finances;
+
+\4. Evaluating reports on operating performance;
+
+\5. Appointing and recommending Directors and Supervisors;
+
+\6. Meting out punishment to Directors and Supervisors who have infringed upon relevant regulations;
+
+\7. Dismissing, changing, abolishing, requiring improvements to be made, halting the execution of duties, and otherwise meting out punishment where the Constitution, laws, and regulations are breached by the Institute;
+
+\8. Approving the disposal and set burden of the real assets of the Institute;
+
+\9. Other supervisory duties in accordance w ith the law.
+
+### Article 21
+
+The supervisory authority shall evaluate the following:
+
+\1. The Institute ’s annual achievements;
+
+\2. An assessment of operating performance and goal achievement rate of the Institute;
+
+\3. An assessment of the success (percentage collected) o f fundraising campaigns;
+
+\4. Recommendations on budget allocation; and
+
+\5. Other related matters.
+
+The supervisory authority shall determine regulations governing the method and procedure of the evaluation and related matters.
+
+### Article 22
+
+The Institute ’s development goals and plan shall be approved by the supervisory authority after being approved of by the Board of Directors.
+
+The annual work plan and budget shall be sent to the supervisory authority after being adopted by the Board of Directors.
+
+### Article 23
+
+Within three months of the end of the Institute ’s accounting year, the Institute shall present its annual achievements report and final account report to an accountant for certification. These documents are then to be reviewed by the Board of Directors. After being approved by the Board of Supervisors, they are to be sent to the supervisory authority as well as the auditing authority.
+
+The final account report is to be audited by the auditing authority. After this audit, the report is to be sent to the supervisory authority or other related agency for any necessary action.
+
+## Chapter IV Accounting and Finances
+
+### Article 24
+
+The Institute ’s accounting year shall be the same as that followed by the government.
+
+The Institute ’s system of accounting shall be determined in accorda nce with laws concerning the system of accounting to be used by administrative institutions.
+
+The Institute ’s financial report shall be reviewed and certified by an accountant.
+
+### Article 25
+
+On the day the Taiwan Film Institute is dissolved, its rights and d uties shall be subsumed into the Institute . The restrictions of Paragraph 1 of Article 31 of the Foundations Act shall not apply.
+
+Government allocating funding for the Institute in the year in which it is established shall be reflected by the supervisory authority through adjustments to its original budget. The restrictions of Paragraphs 62 and 63 of the Budget Act shall not apply.
+
+### Article 26
+
+When the Institute is established, and such that it may perform its duties, government agencies may donate, lease, or provide free of charge publicly owned property to the Institute for its use.
+
+After the Institute’s establishment, and such that it may perform its duties, it may purchase publicly owned property. The land price shall be in accordance with the current land value. The price for improvements on the land shall be the estimated value provided for that year by the relevant revenue collection authority. Where no such estimate is available, the price shall be determined by the agency having managerial responsibility over public property.
+
+Following the Institute’s establishment, where it is commissioned to manage publicly assets and facilities for the usage of film and audiovisual venues, government agencies may lease or provide free of charge publicly owned real property toward this end.
+
+Following the Institute’s establishment, government agencies may lease or provide free of charge public assets aside from real property for use by the Institute in carrying out its work on collecting, using, and managing film and audiovisual heritage.
+
+Donations as stated in Paragraph 1 and the preceding Paragraph shall not be subject to Articles 25 and 26 of the Budget Act or Articles 28 and 60 of the National Property Act.
+
+Assets purchased by the Institute for purposes specified in connection with the budget allocated by the government shall be deemed public property.
+
+With the exception of property that is leased or provided free of charge as in Paragraph 1, 3, and 4, and that which is deemed public property as per the preceding Paragraph, all Institute property shall be deemed free property.
+
+For property that is leased or provided free of charge as in Paragraphs 1, 3, and 4, and that which is deemed public property as per Paragraph 6, the Institute shall register as property manager. All incomes shall accrue to the Institute as income and the restrictions of Paragraph 1 of Article 7 of the National Property Act shall not apply. The administration, usage, profits of the income, and it related regulations are formulated by the supervisory agencies.
+
+When publicly owned property is deemed unserviceable, it shall be remanded to the custody of the agency having managerial responsibility over p ublic property.
+
+Where the Institute has accepted a donation of publicly owned real estate, when said real estate is no longer needed by the Institute, the Institute shall return the real estate to the donating agency and shall not disposal arbiter. No penalty shall be applied.
+
+### Article 27
+
+The budget for the Institute must be allocated by government agencies in line with legal budgetary procedures and is subject to audit and supervision.
+
+Where the budget allocated to the Institute is more than 50 percent of all funding for the Institute in a given year, the supervisory authority shall send the budget to the Legislative Yuan for review and approval.
+
+The Institute shall draft and submit to the supervisory authority regulations concerning the use and management of its income.
+
+### Article 28
+
+Debts incurred by the Institute shall be limited to self liquidating loans, which shall be submitted to the supervisory authority for approval in advance. Where debts cannot be self liquidated in line with budgetary expenditures, the Institute shall review the situation and propose improvement measures to the supervisory authority for its approval.
+
+### Article 29
+
+The Institute’s procurement procedures shall be open and fair. Except where regulations concerning treaties, agreements, or conditions concluded by the Republic of China and Article 4 of the Government Procurement Act, the Government Procurement Act shall not apply. In such cases, regulations governing procurement procedures shall be submitted to the supervisory authority for approval.
+
+For procurement taking place under Article 4 of the Government Procurement Act, matters not provided for herein shall be governed by other applicable statutes.
+
+### Article 30
+
+Information about the Institute shall be made public in line with the Freedom of Government Information Act. The Institute shall make public its annual financial, annual business and annual achievements reports.
+
+The supervisory authority shall provide an analysis of the Institute ’s annual evaluation report and send it to the Legislative Yuan for its reference. Where necessary, the Legislative Yuan may request that the head of the supervisory authority bring the Chair of the Board of Directors, the Institute ’s Presi dent, or related managerial personnel to the Legislative Yuan to deliver a report on or stand for interpellation concerning the operations of the Institute.
+
+## Chapter V Additional Articles
+
+### Article 31
+
+Where there are objections to dispositions made against it, the Institute may appeal to the supervisory authority under the terms of the Administrative Appeal Act.
+
+### Article 32
+
+Where it becomes impossible for the Institute to achieve its establishment goals due to a change in circumstances or poor performance, the supervisory authority shall apply to the Executive Yuan to dissolve the Institute.
+
+Where the Institute is dissolved, the contracts of Institute personnel shall be terminated; remaining assets shall be turned over to the Treasury remaining debts shall be assumed by the supervisory authority.
+
+### Article 33
+
+The implementation date of this Act shall be determined by the Executive Yuan.
+
+## History
+
+1.Promulgated on December 31, 2019 by Presidential Decree No. Yi Yi Zi Di 10800143381

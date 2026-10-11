@@ -1,0 +1,381 @@
+---
+title: "Social Worker Act"
+title_zh: "社會工作師法"
+identifier: "D0050125"
+type: act
+law_level: "法律"
+category: "行政＞衛生福利部＞社會救助及社工目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1997-04-02
+last_amended: 2023-06-09
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0050125"
+retrieved: 2026-10-12
+---
+
+# Social Worker Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-health-and-welfare/D0050125-social-worker-act.md](../../../zh/laws/ministry-of-health-and-welfare/D0050125-social-worker-act.md)) is authoritative.
+
+## Chapter 1 General Principles
+
+### Article 1
+
+This Act is enacted in order to establish a professional service system of social work, promote the professional status of social workers, clearly define the rights and obligations of social workers, and assure the rights and interests of the target of service.
+
+### Article 2
+
+The term social worker, as referred to in this Act, means a professional practitioner who, based on specialized knowledge and skills in social work, assists individuals, families, groups, and communities in promoting, developing, or restoring their social functioning and seeking their well-being.
+
+The mission of a social worker is to promote the benefit of the public and society, assist the public in satisfying their basic needs, pay attention to minor groups, and realize social justice.
+
+### Article 3
+
+The competent authorities of this Act are the Ministry of Health and Welfare at the central level, the municipal governments at the municipal level, and the county (city) governments at the county (city) level.
+
+## Chapter 2 Obtainment of Qualification
+
+### Article 4
+
+A citizen of the Republic of China who passed the examination of social worker and obtained the certificate of social worker according to the provision of this Act shall act as a social worker.
+
+### Article 5
+
+Once a social worker has completed vocational social work training, and has been evaluated as qualified by the central competent authorities, the social worker shall receive vocational social worker certification.
+
+The preliminary examination of the above vocational social worker evaluation shall be conducted by a national professional social work organization entrusted by the central competent authorities. Persons in possession of social worker certification, who have completed the related vocational social worker training, are eligible to participate in the relevant vocational social worker evaluation.
+
+The regulations governing the classification and evaluation of vocational social workers shall be prescribed by the central competent authority.
+
+### Article 6
+
+Individuals who do not possess a social worker certificate are prohibited from using the title of social worker. Individuals who do not possess a vocational social worker certificate are prohibited from using the title of vocational social worker.
+
+### Article 7
+
+Whoever has any one of the following conditions shall not practice as a social worker; if he/she already practices as one, his/her social worker certificate shall be revoked or abolished:
+
+1.His/her social worker certificate was abolished under this Act.
+
+2.He/she has been under commencement of guardianship or assistantship, and such commencement of guardianship or assistance has not yet been revoked.
+
+### Article 8
+
+Whoever applies for the social worker or vocational social worker certificate shall prepare an application and qualification documentary evidence, which shall be checked and then sent to the central competent authority for permitting and granting.
+
+## Chapter 3 Practice
+
+### Article 9
+
+A social worker who wants to engage in the profession shall send the social worker certification to the competent authority of the municipality or county (city) where he/she is located, apply for registration, and then start to engage in the profession after being granted a business license.
+
+### Article 10
+
+Whoever has any one of the following conditions shall not be granted a practice license; if he/she already obtained one, it shall be revoked or abolished:
+
+1.His/her social worker certificate was revoked or abolished.
+
+2.His/her practice license has been revoked for less than one year.
+
+3.Based on objective facts, it has been confirmed that he/she has not been able to practice the work by a professional panel composed of relevant medical specialists, social workers, scholars, and experts invited by the municipal and county (city) authorities.
+
+4.He/she has been under commencement of guardianship or assistance, and such commencement of guardianship or assistance has not yet been revoked.
+
+Once the causes prescribed in the preceding subparagraphs 3 & 4 cease to exist, he/she may still apply for a practice license according to this Act.
+
+### Article 11
+
+When a social worker suspends, terminates, resumes, or changes their administrative region of practice, the social worker shall report such changes to the original issuing authority of his/her practice license for record-keeping within thirty days from the date of the occurrence.
+
+When a social worker changes the administrative region for his/her business prescribed in the preceding paragraph, he/she shall apply for a business license according to the provision of Article 9.
+
+In the event of a social worker’s death, the original practice license issuing authority shall revoke the social worker’s license.
+
+### Article 12
+
+A social worker shall engage in the following business:
+
+1.Social and psychological evaluation and disposition of the problems about behavior, social relationship, marriage, social adaptation, and so on;
+
+2.Protective services prescribed in each relevant social welfare act;
+
+3.Prevent and support services for an individual, a family, an organization, and a community;
+
+4.Development, conformity, exertion, distribution, and transfer of social welfare service resources;
+
+5.Social welfare institutions, organizations, or the design, management, R&D, supervision, evaluation, and educational training of social welfare programs implemented in health, employment, education, justice, national defense, and other fields;
+
+6.Maintenance of the people’s social welfare rights;
+
+7.Any other business that has been confirmed by the central competent authority or together with the target enterprise competent authority.
+
+### Article 13
+
+A social worker shall be subject to one place of practice only. However, coordination between agencies, organizations, and groups or those who have obtained prior approval is exempt.
+
+### Article 14
+
+A social worker shall not make false statements or reports when questioned by the competent authority or judicial police.
+
+### Article 15
+
+A social worker and staff of the social work office shall not disclose another’s secrets gained or held in his/her business without reason.
+
+### Article 16
+
+When performing their duties, social workers shall prepare social work records, which must be maintained by the agency, institution, organization, or office where they practice. Such records shall be retained for no less than seven years.
+
+### Article 17
+
+The behavior of a social worker shall comply with the provisions of social work ethics regulation.
+
+The ethics regulation prescribed in the preceding paragraph shall be enacted by the National Union of Licensed Social Workers and reported to the central competent authority for check and reference after being passed by the members’ (representatives) convention.
+
+### Article 17-1
+
+A social worker guilty of any of the following conditions shall be disciplined by the Association of the Licensed Social Workers or the competent authority:
+
+1.Major or repeated professional mistakes.
+
+2.Violating Articles 14 and 15.
+
+3.Violating the ethics regulation in the first paragraph of the preceding article in his/her professional practice.
+
+4.Any inappropriate professional behavior apart from the preceding three subpara-graphs.
+
+### Article 17-2
+
+Disciplinary measures for social workers are as follows:
+
+1.Warning.
+
+2.Order to receive a certain number of hours of continued education or study in addition to the first paragraph of Article 18.
+
+3.Restriction on the scope of practicing business or business suspension for a period not less than one month but not more than one year.
+
+4.Abolishment of the practice license.
+
+5.Abolishment of the social worker certificate.
+
+The disciplinary measures in the preceding paragraph may be combined into one single disciplinary sanction provided that there is no conflict in nature of such disciplinary measures.
+
+### Article 17-3
+
+Disciplinary actions imposed on social workers shall be handled by the social worker disciplinary committee.
+
+The social worker disciplinary committee shall notify the social worker subject to disciplinary action of the referred case and require the social worker to submit a defense or appear in person to make a statement within 20 days from the day following the delivery of the notice or on a designated date. If the defense is not timely submitted or a statement is not made to the committee on time, the social worker disciplinary committee may enter into a resolution at the discretion of the committee.
+
+If the disciplined party objects to the resolution made by the social worker disciplinary committee, an appeal may be filed with the social worker disciplinary appeal committee within 20 days from the day following the service of the written resolution.
+
+Disciplinary resolutions made by the social worker disciplinary committee and the social worker disciplinary appeal committee shall be forwarded to the competent authority with jurisdiction for execution.
+
+The members of the social worker disciplinary committee and the social worker disciplinary appeal committee shall be appointed by selection from experts and scholars in the fields of social work and law as well as members of the society who are not legislative representatives, in which legal experts and scholars and members of the society shall not constitute less than one-third (1/3) of all members.
+
+The social worker disciplinary committee shall be established by the competent authority of the central, municipal, or county (city). The social worker disciplinary appeal committee shall be established by the central competent authority. The procedures of establishment, organization, meetings, discipline, appeal, and the rules of other matters shall be established by the central competent authority.
+
+### Article 18
+
+The social worker and vocational social worker shall receive continuing education, providing complete continuing education supporting docu-mentation every 6 years, to renew his business license. The above social worker and vocational social worker continuing education course mate-rial, scores, completion method, continuing edu-cation completion documents, professional li-cense renewal process, and other related process-es shall be determined by the central competent authority.
+
+### Article 19
+
+When the social worker practices the business according to the law, no person shall hinder his or her professional practice by means of violence, coercion, intimidation, public insults, or other illegal methods.
+
+If the social worker encounters hindrance or becomes a victim of unlawful physical or mental assault in the course of practicing the business under Subparagraphs 1 to 3 of Article 12, he/she may request necessary assistance from the police authority. If the occurrence has taken place, the police authority shall eliminate or restrain it. In case criminal liabilities arise, such occurrence shall be referred to the judicial authority for investigation.
+
+If the social worker is involved in litigation due to the risks in the preceding two paragraphs, his or her affiliated agency (institute) or organization shall provide the necessary legal aid.
+
+### Article 19-1
+
+The social worker’s affiliated agency (institute), organization, and office shall protect his or her safety when he or she practices the business and shall provide necessary safeguarding measures.
+
+If the social worker’s affiliated agency (institute), organization, and office do not provide safe-guarding measures in the preceding paragraph or insufficiently do so, the social worker may re-quest provision, and his/her affiliated agency (in-stitute), organization, and office may not refuse.
+
+The safeguarding measures in the first paragraph shall be handled in accordance with occupational safety and health regulations prescribed by the central competent authority and the target enter-prise competent authority.
+
+### Article 20
+
+In the course of the social worker performing services in accordance with the relevant laws and the ethical code of the profession, if legal representation is involved, the associated organization and office shall provide the necessary legal aid.
+
+## Chapter 4 Social Worker Office
+
+### Article 21
+
+In order to establish a social worker office, a social worker shall fill in an application, prepare relevant documents and data, and then apply for permitting and registering by the competent authority of the municipality or county (city) where he is located and finally establish the office after being granted a business license.
+
+A social worker who applies for establishing a social worker office prescribed in the preceding paragraph shall have engaged in the business prescribed in Article 12 for more than five years and also have work record evidence.
+
+### Article 22
+
+The applicant of the social worker office shall take charge of the office as a responsible social worker and bear the responsibility of supervision for his business. If the social worker office is corporately applied for by more than two persons, one of them shall take charge of the office as a responsible social worker.
+
+### Article 23
+
+The social worker license cannot be rented out or lent for use by others. The social worker office business license cannot be rented out or lent for use by others.
+
+### Article 24
+
+The use or revision of a social worker office name requires approval from the authority that originally issued the practice license. Entities other than social worker offices are prohibited from using the term “social worker office” or any similar designation.
+
+### Article 25
+
+The fee standard of the social worker office shall be checked and ratified by the competent authority of the municipality, county (city).
+
+The social worker office shall provide a detailed fee statement and a receipt for any fees charged.
+
+The social worker office shall not violate fee standards or charge excessive fees.
+
+### Article 26
+
+A social worker office shall hang its social worker certificate, business license, opening license, and standard of charge on the outstanding location.
+
+### Article 27
+
+The advertisement content of social worker office shall be limited to the following items:
+
+1.The appellation, opening license character and number, address, telephone number, and transportation lines of the social worker office;
+
+2.The name, certificate character, and number of social worker;
+
+3.The business of social work prescribed in Article 12;
+
+4.Any other item permitted to be issued or advertised and announced by the central competent authority.
+
+Entities that are not social worker offices shall not engage in advertising as described in the preceding paragraph.
+
+### Article 28
+
+If a social worker office goes out of business, ceases operations, or alters register items, the social worker office shall report to the former opening license granted authority for approval within thirty days after the fact. A social worker office that removes or reopens shall apply regulations related to establishment.
+
+### Article 29
+
+If a social worker office goes out of business, ceases operations, or is removed, the target of service shall be transferred to another social worker office or proper service organization after obtaining the consent of service recipients. The transference shall report to the former opening license granted authority for approval. If a social worker office cannot continue business operations, relevant service records shall be handed over to the receiver to keep on file according to regulations. In the event of the death of the responsible social worker without an available receiver, all service records shall be placed on file at the competent authority of the municipality or county (city) where the social worker office is located for 6 months before being destroyed.
+
+### Article 30
+
+When deemed necessary, the competent authority must inspect, supervise, and evaluate a social work office.
+
+## Chapter 5 Association
+
+### Article 31
+
+A social worker may not perform professional duties unless they have joined a social worker association.
+
+A social worker association shall not refuse a social worker to join in.
+
+### Article 32
+
+The organizing region of the social worker association shall be divided according to the current administrative region into county (city) association and provincial (municipal) association, and the National Social Worker Unite Association shall be established. In the same region, a social worker association in the same rank shall be limited to only one.
+
+### Article 33
+
+The social worker association of the municipality and county (city) shall be initiated and organized by more than fifteen social workers working in the region. If the number of social workers in the region is less than fifteen, they shall join the association of the neighboring region or co-organize it. The National Social Worker Unite Association shall only be initiated upon over one-third of the municipality and county (city) associations are established.
+
+### Article 34
+
+A social worker association shall be supervised by the competent authority responsible for civil associations. However, its target enterprise shall be supervised by its competent authority.
+
+### Article 35
+
+The term of director-general, director, and supervisor of a social worker association is three years; a director-general may be elected and appointed for one more term.
+
+### Article 36
+
+The officers of the social worker association shall be selected under the auspices of the people’s organization law.
+
+## Chapter 6 Penal Provisions
+
+### Article 37
+
+If a social worker violates Article 23, his/her social worker certificate shall be abolished, and the case shall be transferred to judicial institutions for investigation if it involves criminal liabilities. The person specified above who is using rented or loaned licenses shall be fined no less than NT$20,000 and no more than NT$100,000.
+
+### Article 38
+
+If a social worker office violates the provisions of the first paragraph of Article 27, it shall be fined not less than NT$6,000 but not more than NT$30,000; if a social worker violates the provisions of the first paragraph of Article 28 and 29, it shall be fined not less than NT$3,000 but not more than NT$15,000 and also be ordered to reform within a time limit; if it does not reform upon the expiration of that time limit, it shall be fined continually by the day or its business license shall be abolished.
+
+### Article 39
+
+Anyone who violates the provisions of Article 14 or Article 15 shall be subject to a fine ranging from NT$20,000 to NT$100,000. In cases of serious violations, they may also face a suspension of practice ranging from one month to one year or the revocation of their practice license.
+
+### Article 39-1
+
+Persons who hinder social workers from practicing the business through violence, coercion, intimidation, or other illegal methods are subject to imprisonment for no more than three years or, in addition, a fine of no more than NT$300,000.
+
+### Article 40
+
+If a social worker violates the provisions of Article 9, the first paragraph of Article 31, he shall be fined not less than NT$10,000 but not more than NT$50,000; if a social worker violates the provisions of the first and the second paragraph of Article 11, Article 13, the first and the second paragraph of Article 16, he shall be fined not less than NT$3,000 but not more than NT$15,000 and also be ordered to reform within a time limit; if he still does not reform upon the expiration of a time limit after three punishments and order to reform within a time limit, he shall also be punished to putting up the shutters for not less than one month but not more than one year.
+
+### Article 41
+
+If a social worker violates the provisions of the second paragraph of Article 31, he/she shall be fined not less than NT$5,000 but not more than NT$25,000 by the competent authority of civil organizations and also be ordered to reform within a time limit; if it does not reform upon the expiration of that time limit, it shall be fined continually by the day.
+
+### Article 42
+
+Those in violation of Article 24 Subparagraph 2, Article 27 Subparagraph 2 shall be fined no less than NT$20,000 and no more than NT$100,000.
+
+Those in violation of Article 21 Subparagraph 1, Article 24 Subparagraph 1, Article 25 Subparagraph 2, Subparagraph 3, Article 26 shall be fined no less than NT$10,000 and no more than NT$50,000, and instructed to correct the violation within a set timeframe. If the violation is not corrected after 3 incidents, the offenders shall be subject to a suspension of no less than one month and no more than one year. Those in violation of Article 25 Subparagraph 3 must reimburse the overcharged amount within a set timeframe. If a social worker violates the provisions of the second paragraph of Articles 24 and 27, he/she shall be fined not less than NT$20,000 but not more than NT$100,000. If a social worker violates the provisions of the first paragraph of Article 21 and 24, the second and third paragraphs of Article 25 and Article 26, he/she shall be fined not less than NT$10,000 but not more than NT$50,000 and also be ordered to reform within a time limit; if he still does not reform upon the expiration of a time limit after three punishments and order to reform within a time limit, he shall also be punished to putting up the shutters for not less than one month but not more than one year; if it violates the provision of the third paragraph of Article 25, it shall also hand back the charge exceeded.
+
+### Article 43
+
+Whoever violates the provisions of Article 6 shall be fined not less than NT$15,000 but not more than NT$75,000 and also be declared his name, birth date, ID number, and the name of the institution who practices the business, and the director of the institution shall be fined the same sum prescribed in the preceding paragraph. Whoever continually violates the provision shall be continually fined by the day.
+
+### Article 44
+
+If a social worker is still practicing after being punished for putting up the shutters, his business license shall be abolished; if he is still practicing after his business license is abolished, his certificate of social work shall be abolished.
+
+### Article 45
+
+If a social worker office is still practicing after being punished for putting up the shutters, its opening license shall be abolished; if it is still practicing after its opening license is abolished, the certificate of social work of the responsible social worker shall be abolished.
+
+### Article 46
+
+The fine to the social worker office prescribed in this Act means to fine its responsible social worker.
+
+### Article 47
+
+The fine, putting up the shutters, discharge, abolishment of business license or opening license prescribed in this Act shall be punished by the competent authority of municipality or county (city); the abolishment of certificate of social worker shall be punished by the central competent authority.
+
+## Chapter 7 Supplementary Provisions
+
+### Article 48
+
+The central competent authority or the competent authority of municipality and county (city) shall charge for a certificate or license when granting the certificate or license according to this Act; the sum of charge shall be determined by the central competent authority.
+
+### Article 49
+
+Foreign Nationals are eligible to participate in the Social Worker Examination under the regulations of the ROC.
+
+Upon passing the examination, foreign nationals who possess the social worker certificate must apply for practice registration before conducting social work. The above foreign nationals are also obliged to follow the relevant social work regulations of ROC, the social work code of ethics, and the rules of the Social Worker Association.
+
+### Article 50
+
+The enforcement rules of this Act are to be determined by the central competent authority.
+
+### Article 51
+
+This Act shall be implemented starting from the announcement date.
+
+The amended regulations on May 12, 2009, shall be implemented on November 23, 2009.
+
+## History
+
+1.Promulgated on 19970402
+
+2.Amended on July 14, 1999
+
+3.Amended on April 24,2002
+
+4.Amended on June 05,2003
+
+5.Promulgated by President Order Hua-Tsung(1)-Yi-Tzu No. 09700002531 on January 16, 2008
+
+6.Amended on May 27, 2009
+
+7.Amended on Dec 19,2018
+
+8.Amended on Jan 15,2020
+
+9.Amended and promulgated Articles 7, 10 and 19 according to the order Zong-Tong-Hua-Zong-Yi-Yi-Zi No. 11200048971 dated June 9, 2023; added Articles 17-1 to 17-3, 19-1 and 39-1.

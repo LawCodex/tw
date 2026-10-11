@@ -1,0 +1,695 @@
+---
+title: "Fisheries Act"
+title_zh: "漁業法"
+identifier: "M0050001"
+type: act
+law_level: "法律"
+category: "行政＞農業部＞漁業目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1929-11-11
+last_amended: 2018-12-26
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0050001"
+retrieved: 2026-10-12
+---
+
+# Fisheries Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-agriculture/M0050001-fisheries-act.md](../../../zh/laws/ministry-of-agriculture/M0050001-fisheries-act.md)) is authoritative.
+
+## Chapter I General Principles
+
+### Article 1
+
+This Act is enacted to conserve and rationally utilize aquatic resources, increase fisheries productivity, promote sound fisheries development, guide and assist the recreational fishery, maintain the orderly operation of fisheries, and improve livelihoods of fishermen. Matters not stipulated in this Act shall be governed by the provisions of other acts and regulations.
+
+### Article 2
+
+For the purpose of this Act, the term “competent authority” means the Council of Agriculture of the Executive Yuan at the central government level, municipal governments at municipality level, and county/city governments at county/city level.
+
+### Article 3
+
+For the purpose of this Act, the term “fishery” or “fisheries” means the industries of catching/harvesting or cultivating aquatic fauna and flora, as well as the associated industries of processing, transportation, and marketing.
+
+### Article 4
+
+For the purpose of this Act, the term “fishery operator” means the fishing right holders, the fishing access privilege holders, or any other persons who engage in fisheries operation in accordance with the provisions of this Act.
+
+For the purpose of this Act, the term “fishery employee” means any crew member of fishing vessels or any other person who catches/harvests or cultivates aquatic fauna and flora for any fishery operator.
+
+### Article 5
+
+Fishery operators shall be limited to persons with the nationality of the Republic of China. However, such restriction is not applicable to any foreign person approved by the central competent authority to operate fisheries by means of cooperation with any fishery operator of the Republic of China.
+
+### Article 6
+
+Any person who intends to operate fishery in public waters or non-public waters adjacent thereto shall obtain approval and fishing license from the competent authority prior to the operation.
+
+### Article 7
+
+The competent authority may collect fees from applicants for the issuance of fishing licenses. The guidelines of issuing licenses and the amount of the fees shall be prescribed by the central competent authority.
+
+### Article 7-1
+
+The competent authority shall not issue fishing licenses in the event of any of the following circumstances:
+
+(1)The concerned fishing license has been withdrawn or revoked by the competent authority in accordance with this Act or the Act for Distant Water Fisheries.
+
+(2)The concerned fishing vessel is confiscated or forfeited.
+
+(3)The concerned vessel is imported without permission from the competent authority.
+
+(4)The period during which the restriction or suspension of the right to operate any fishery in accordance with Article 10 of this Act has not passed.
+
+(5)The concerned fishing license has been suspended in accordance with this Act or the Act for Distant Water Fisheries, and the execution of such punishment has not yet completed.
+
+(6)The fine imposed in accordance with this Act or the Act for Distant Water Fisheries has not yet been paid.
+
+(7)Before the change of ownership, the current fishery operator violates this Act or the Act for Distant Water Fisheries and the competent authority has not yet imposed punishment(s).
+
+### Article 8
+
+The building, modification, or chartering of any fishing vessel used by a fishery operator for the fishery operation shall obtain permission from the competent authority.
+
+The exportation or importation of any fishing vessel shall obtain permission from the competent authority before processing in accordance with the regulations of the competent authorities for trade.
+
+Guidelines for the building, modification, and chartering of fishing vessels as referred to in paragraph 1; for the mandate of the permission of the competent authority, qualifications, conditions, application procedures for the permission of import and export as referred to in the preceding paragraph; as well as other requirements shall be prescribed by the central competent authority.
+
+### Article 9
+
+For the purpose of exploiting or conserving aquatic resources, or for the need of public interests, the competent authority may impose restriction(s) or condition(s) when giving approval to any fishery operation.
+
+### Article 10
+
+For any fishery operator who violates the provisions of this Act or any order promulgated pursuant to this Act, the central competent authority may restrict or suspend the operator’s right to operate any fishery, or suspend his/her fishing license for not more than one year. Where the violation is considered serious, the central competent authority may withdraw the approval for fishery operation or revoke the fishing license of the fishery operator.
+
+For any fishery employee who violates this Act or any order promulgated pursuant to this Act, the central competent authority may suspend the Certificate of Fishing Vessel Officer or Fishing Vessel Crew Identification for not more than one year. Where the violation is considered serious, the central competent authority may withdraw the Certificate of Fishing Vessel Officer or Fishing Vessel Crew Identification.
+
+### Article 11
+
+Where any of the following circumstances occurs, the competent authority shall withdraw the approval for the fishery operation:
+
+(1)The concerned fishery operator does not have any justification for not being able to undertake his/her fishery operation for more than one year from the date of approval, or suspends his/her fishery operation for more than two consecutive years without approval.
+
+(2)The concerned fishery operator has applied and been approved for fishery operation as a person of the Republic of China, but loses his/her nationality of the Republic of China.
+
+(3)The approval for fishery operation is obtained by fraud or illicit means of the concerned applicant.
+
+Without stating justification and being approved by the competent authority, any fishery operator shall not suspend his/her fishery operation for one year or above. When the suspension ceases, the operator shall report the resumption of fishery operation to the competent authority for perusal. Any unreported case shall be considered as not resumed.
+
+### Article 11-1
+
+Any fishery operator’s fishing vessel whose fishing license or approval for fishery operation has been withdrawn shall not leave any port, except those who have re-applied and been granted fishing licenses by the competent authority.
+
+Any fishery operator’s fishing vessel whose fishing license has been suspended or the right to operate fishery has been restricted or suspended, shall not any leave port during the period of such punishment.
+
+Where any fishing vessel has left a port before the punishment imposed by the central competent authority pursuant to Article 10, paragraph 1 or Article 11, paragraph 1, or left a port in violation of the provisions of the preceding two paragraphs, the central competent authority shall order the vessel to return to port within the designated timeframe.
+
+Where any fishing vessel leaves a port in violation of the provisions of paragraph 1 or 2, the central competent authority may commission coast guard authorities to take appropriate measures to stop the vessel from leaving the port or order it to return to port immediately. In case of any resistance, the coast guard authorities may take compulsory measure(s).
+
+### Article 12
+
+For the purposes of maintaining the orderly operation of fishing vessels and safety of navigation and operation, the central competent authority shall prescribe regulations on the management of crew members of fishing vessels.
+
+### Article 13
+
+For the purpose of adjusting the fisheries structure, the competent authority may establish a fisheries advisory committee, which consists of experts, scholars, fisheries associations, and officials from relevant government authorities. The fisheries advisory committee shall be organized, functioned, and operated in accordance with regulations prescribed by the central competent authority.
+
+### Article 14
+
+The competent authority shall, by the fishery types, respectively adopt and promulgate regulations on facilities of fishing grounds; methods of catching, harvesting, and cultivating; fishing gears; and any other matters as deemed necessary.
+
+## Chapter II Fishing Right Fishery
+
+### Article 15
+
+For the purpose of this Act, the term “fishing right(s)” means any of the following rights:
+
+(1)Set net fishing right: the right to set up underwater rocky cliffs, build fences, or place fishing gears within a specific water area for catching/harvesting aquatic fauna.
+
+(2)Demarcated fishing right: the right to demarcate a specific water area for operating aquaculture of fauna and flora.
+
+(3)Exclusive fishing right: the right to use a specific water area to form a fishing ground for fishing access privilege holders to operate one of the following fisheries:
+
+i.Catching/harvesting aquatic fauna and flora.
+
+ii.Aquaculture of fauna and flora.
+
+iii.Catching /harvesting aquatic fauna with anchored fishing gear(s) within the waters at a depth of 25 meters or less.
+
+Applicants for the exclusive fishing right as referred to in the preceding paragraph shall be limited to fishermen’s associations or fisheries production cooperatives.
+
+### Article 16
+
+For the purpose of this Act, the term “fishing access privilege” means the right to operate fishery within the area of the exclusive fishing right.
+
+### Article 17
+
+The competent authority shall, according to the production of fishery resources and taking into account minerals exploration and mining, navigation, irrigation, environmental protection, and other public interests, plan holistically with respect to fishing right fishery in public waters, formulate and regularly publicize relevant programs annually, and accept applications for fishing rights.
+
+The programs as referred to in the preceding paragraph may be adjusted according to practical needs, and the adjusted version shall be publicized.
+
+### Article 18
+
+Set net and demarcated fishing rights shall be granted in accordance with the following order of priority:
+
+(1)Any fishery operator or fishery employee whose household is registered in the township/town /city/district where the fishing ground is located.
+
+(2)Any fishermen’ s association or fishery production cooperative registered in the township/town /city/district where the fishing ground is located.
+
+(3)Any fishery operator or fishery employee whose household is registered in the municipality /county/city where the fishing ground is located.
+
+(4)Any fishermen’s association or fishery production cooperative registered in the municipality/county/city where the fishing ground is located.
+
+(5)Any non-fishery operator or non-fishery employee whose household is registered in township/ town/city/district where the fishing ground is located.
+
+(6)Any non-fishery operator or non-fishery employee whose household is registered in municipality/county/city where the fishing ground is located.
+
+(7)Any fishery operator or fishery employee whose household is registered in other municipalities/counties/cities.
+
+(8)Any non-fishery operator or non-fishery employee whose household is registered in other municipalities/counties/cities.
+
+Any fishery operator applying for continuous operation before the expiration of his/her fishing right shall not be subject to the limit of the order of priority as referred to in the preceding paragraph.
+
+### Article 19
+
+Any fishermen’s association or fishery production cooperative approved to operate exclusive fishing right shall draft rules on fishing access and report to the competent authority for approval.
+
+Fishing access undertaken by any non-member of a fishermen’s association or fishery production cooperative shall also be concluded by a contract.
+
+### Article 20
+
+The fishing right shall be considered as a right in rem. Except as otherwise provided in this Act, the provisions of the rights in rem of real property in the Civil Code shall, mutatis mutandis, apply.
+
+### Article 21
+
+The creation, acquirement, change, and loss of fishing right shall not take effect until the registration has been made.
+
+In rendering any administrative disposition pursuant to Articles 10, 11, and 29 regarding set net fishing right, demarcated fishing right, and exclusive fishing right, the competent authority shall also register such administrative disposition to the respective fishing right.
+
+In processing the registration of fishing rights, the competent authority may charge applicants registration fees. Regulations on registration and the amount of fees shall be prescribed by the central competent authority.
+
+### Article 22
+
+In the event that any litigation arises out of fishing rights and the court of jurisdiction is decided in accordance with the place where the real property is located, the place where the real property is located shall be the municipality or city/county whose coast closest to the concerned fishing ground.
+
+### Article 23
+
+Exclusive fishing right shall not be the subject of any other rights or legal action, except for fishing access.
+
+### Article 24
+
+Set net fishing right and demarcated fishing right shall not be the subject of any other rights or legal actions, except for inheritance, transfer, and mortgage.
+
+### Article 25
+
+Unless otherwise approved by the competent authority, no mortgage shall be created on the fishing rights as referred to in Article 24, nor shall such rights be transferred without the approval from the competent authority, except for compulsory execution.
+
+A fishery operator or fishery employee shall have the first priority to be the transferee of the compulsory execution and the transfer as referred to in the preceding paragraph.
+
+Except as otherwise provided in a contract, working article(s) fixed within a fishing ground over which a mortgage has been created shall be deemed as the subject of the mortgage created.
+
+### Article 26
+
+Unless otherwise approved by the competent authority, fishing rights shall neither be merged nor subdivided.
+
+### Article 27
+
+Unless otherwise consented by at least two-thirds of the other co-holders who hold their own shares, any co-holder of set net fishing right, demarcated fishing right, or fishing access privilege shall not dispose of his/her own share(s).
+
+The provision of the preceding paragraph shall, mutatis mutandis, apply to the fishing right held in common.
+
+### Article 28
+
+The duration of fishing rights shall be as follows:
+
+(1)Set net fishing right: five years.
+
+(2)Demarcated fishing right: five years.
+
+(3)Exclusive fishing right: ten years.
+
+Upon the expiration of the duration as referred to in the preceding paragraph, the priority of renewing such right shall be given to fishing right holder(s).
+
+### Article 29
+
+The competent authority may alter or withdraw its approval to fishing right(s) or terminate the operation of any fishing right, if any of the following circumstances occurs:
+
+(1)Needs of national defense.
+
+(2)Economic utilization of lands.
+
+(3)Conservation of aquatic resources.
+
+(4)Needs of environmental protection.
+
+(5)Navigation and anchorage of any vessel.
+
+(6)Laying of underwater pipelines and cables.
+
+(7)Exploration and mining of minerals.
+
+(8)Needs of other public interests.
+
+Before rendering any administrative disposition as referred to in the preceding paragraph, the competent authority shall publicize such disposition in advance and notify all fishery operator(s) concerned.
+
+Where the administrative disposition as referred to in paragraph 1 causes any loss to fishery operator(s), the competent authority of the targeted business or the party claiming the alteration, withdrawal, or termination shall reconcile the operator(s) to make appropriate compensation for the loss(es). Should the reconciliation fail, the central competent authority shall decide the content of the compensation.
+
+### Article 30
+
+The fishing access privilege shall not be the subject of any other rights or legal action, except for inheritance and transfer.
+
+### Article 31
+
+For any fishing access privilege whose duration is not specified, its duration shall be the same as the exclusive fishing right.
+
+### Article 32
+
+An exclusive fishing right holder may collect fishing access fees from fishing access privilege holder(s). The amount of the fees shall be provided in the rules or the contract of fishing access.
+
+### Article 33
+
+A fishing right holder may, with the consent of the concerned land owner or land user, utilize the land or limit the removal of bamboo, timber, soil, and stones from the land, if it is deemed necessary for the followings:
+
+(1)To build sign(s) of the fishing ground.
+
+(2)To build or maintain necessary sign(s) within the fishing ground.
+
+(3)To build beacon(s) or other necessary facilities relating to fishing right.
+
+### Article 34
+
+For the purposes of fisheries survey, site investigation, or the building of the facilities as referred to in any subparagraph of Article 33, the concerned land may be accessed and any obstruction thereof may be removed, with the consent of the land owner and land user.
+
+### Article 35
+
+Where the consent cannot be obtained in the case of any of the circumstances as referred to in the preceding two Articles and it is deemed necessary, the relevant action(s) may be taken after applying for and obtaining the approval from the competent authority. When granting the approval, the competent authority shall publicize it and notify the said land owner and user. Any loss incurred shall be borne by the applicant through appropriate compensation.
+
+## Chapter III Specified Fishery
+
+### Article 36
+
+For the purpose of this Act, the term “specified fishery” means using any fishing vessel to operate fishery specified by the competent authority to catch/harvest aquatic fauna and flora for commercial purposes.
+
+The specified fishery as referred to in the preceding paragraph includes the type(s) of fishery, operating period(s), and operating area(s), and such items shall be stipulated in the fishing license.
+
+### Article 37
+
+The competent authority may impose restriction(s) on respective specified fishery regarding the total number and tonnage of fishing vessel(s), operating area(s), operating period(s), and other matters, if any of the following circumstances occurs:
+
+(1)Conservation of aquatic resources.
+
+(2)Adjustment of fisheries structure.
+
+(3)Restrictions from international fisheries agreements or fisheries cooperation with foreign countries.
+
+### Article 38
+
+Where the restriction(s) imposed in accordance with Article 37 on the total number of fishing vessels within respective specified fishery requires the reduction of the approved number of fishing vessels, the fisheries association(s) of the particular specified fishery shall coordinate with the operators for the reduction. The operators who continue their operation shall compensate those who are restricted.  The fishing vessels imposed with restrictions may operate other fishery type(s), and in such case, compensation may not be given. Should no coordination be reached, the competent authority shall mediate between the relevant operators, and make a decision at its discretion if such mediation fails.
+
+Where the restriction(s) as referred to in the preceding paragraph causes termination of the fishery operation and cancellation of the fishing license, the competent authority shall make appropriate compensation accordingly.
+
+### Article 39
+
+(deleted)
+
+### Article 39-1
+
+Where a fishing vessel whose operating area(s) approved by the central competent authority contains the high risk area(s) threatened by pirates or illegal armed force, the fishery operator may hire privately contracted armed security provided by private maritime security corporation(s).
+
+The fishery operator as referred to in the preceding paragraph shall report to the central competent authority for reference with the enclosure of relevant documents for each vessel. The central competent authority shall forward such information to the Ministry of Interior, Ministry of Finance, and Coast Guard Administration of the Executive Yuan.
+
+The fishery operator shall request the employed privately contracted armed security who is not a national of the Republic of China to embark or disembark the vessel abroad with firearms, ammunitions, or knives possessed or used by him/her, and shall not enter the territory of the Republic of China other than the fishing vessel(s) that has been reported for reference to be safeguarded.
+
+The high risk threatened area(s) as referred to in paragraph 1 shall be announced by the central competent authority.
+
+Regulations for the procedures of reporting for reference; documents to be enclosed such as fishing license(s), employment plan(s), and insurance plan(s); management of privately contracted armed security and the firearms, ammunitions, or knives possessed or used by them onboard and the record of use; as well as other requirements as referred to in paragraph 2, shall be prescribed by the central competent authority.
+
+The central competent authority shall collect the relevant information on private maritime security corporations for the reference of fishery operators.
+
+### Article 40
+
+(deleted)
+
+### Article 40-1
+
+(deleted)
+
+### Article 40-2
+
+(deleted)
+
+## Chapter IV Recreational Fishery
+
+### Article 41
+
+For the purpose of this Act, the term "recreational fishery" means the fishery that catches/harvests aquatic fauna and flora for recreational purpose by using any fishing vessel to conduct such activity on the water or by using any fishing vessel to carry passenger(s) to conduct such activity on island(s) or reef, or that engages in tourism by using any fishing vessel to conduct such activity on the water or by using any fishing vessel to carry passenger(s) to conduct such activity on island(s) or reef.
+
+Any fishery operator engaging in the recreational fishery as referred to in the preceding paragraph shall apply to the competent authority and may only operate such fishery after the license is granted.
+
+For any recreational fishery, the operating period as approved by the competent authority shall not be more than five years, and shall not exceed the validity period of vessel inspection and insurance.
+
+Any fishery operator as referred to in paragraph 2 that intends to continue the operation shall apply for license renewal at least three months prior to the expiry of the validity.
+
+Regulations on the application, change, revocation, and renewal of fishing licenses for the recreational fishery as referred to in paragraph 2 as well as matters to be recorded on the licenses shall be prescribed by the central competent authority.
+
+### Article 41-1
+
+The inspection, measurement, certified number of passengers, navigable waters, and other requirements for full-time or part-time recreational fishing vessels shall be subject to the regulations prescribed by the shipping administration authority on passenger ships and passenger small ships.
+
+Any recreational fishing vessels shall not carry passengers in excess of the number certified pursuant to the preceding paragraph, and shall not carry passengers outside the navigable waters as specified pursuant to the preceding paragraph.
+
+### Article 41-2
+
+Any fishery operator of a recreational fishing vessel shall take out the liability insurance in accordance with the insurance amount specified by the central competent authority, and shall take out the personal injury insurance for passenger(s).
+
+The beneficiary of the personal injury insurance policy as referred to in the preceding paragraph shall be limited to the insured party or his/her legal heir(s), not subject to Article 135 of the Insurance Act which prescribes that Article 105 and Article 107 of the same act shall mutatis mutandis apply.
+
+Upon expiry of the insurance as referred to in paragraph 1, fishery operators shall renew the insurance.
+
+### Article 42
+
+In case that any recreational fishery operates within the area covered by an exclusive fishing right, consent of the exclusive fishery right holder shall be obtained and rules prescribed by the said holder shall be complied with. The exclusive fishing right holder shall not withhold his/her consent without justification.
+
+### Article 43
+
+For recreational fishery, regulations on the items of activities, methods of catching/ harvesting aquatic fauna and flora, time limit of being out at sea, operating areas, number of fishing vessels, tonnage and length of fishing vessels, procedures on port entry and departure for fishing vessels, qualifications of fishing vessel officers or pilots, and other requirements shall be prescribed by the central competent authority.
+
+## Chapter V Conservation and Management
+
+### Article 44
+
+For the purposes of resources management and fisheries structure adjustment, the competent authority may promulgate regulations on the following matters:
+
+(1)Restrictions or prohibitions on catching, harvesting, or processing of aquatic fauna and flora.
+
+(2)Restrictions or prohibition on sale or possession of aquatic fauna and flora or the products made therefrom.
+
+(3)Restrictions or prohibitions on use of fishing gears and fishing methods.
+
+(4)Restrictions or prohibitions on fishing areas and fishing periods.
+
+(5)Restrictions on or removal of any object obstructing the migratory routes of aquatic fauna.
+
+(6)Restrictions or prohibitions on placing or abandoning objects harmful to aquatic fauna and flora.
+
+(7)Restrictions or prohibitions on placing or removal of protective objects necessary for the propagation of aquatic fauna and flora.
+
+(8)Restrictions or prohibitions on transplantation of aquatic fauna and flora.
+
+(9)Other matters as deemed necessary.
+
+Anyone that violates any provisions of subparagraph 4 to 9 of the preceding paragraph shall be imposed with administrative disposition(s) by the authority that promulgated the regulations.
+
+The municipal or county (city) competent authorities shall report to the central competent authority for approval prior to any promulgation made pursuant to paragraph 1.
+
+### Article 45
+
+For the purpose of conserving aquatic resources, the competent authority may designate and establish conservation zone(s) for aquatic fauna and flora reproduction.
+
+The establishment of any conservation zone for aquatic fauna and flora reproduction shall be subject to the approval of the concerned municipal competent authority. In the case of a county (city), the competent authority shall submit a management plan of the conservation zone to the central competent authority for approval and announce the establishment after being approved. In case that the establishment of a conservation zone involves two or more provinces (municipalities), it shall be reported to the central competent authority for approval.
+
+The municipal/county/city competent authority with jurisdiction over a conservation zone shall be responsible for the management of the conservation zone. Where the jurisdiction over the waters on which the conservation zone is established involves two or more counties/cities or provinces/municipalities, or the jurisdiction is not clear, the central competent authority shall appoint an agency to manage the conservation zone.
+
+### Article 46
+
+For the purpose of conserving aquatic resources, the competent authority may undertake surveys of catch amount, operation conditions, and sea conditions with respect to specified fishery .
+
+In undertaking the surveys as referred to in the preceding paragraph, the competent authority may require any fishery operator or fishery employee to submit a report on catch amount, operating period(s), fishing gear(s), fishing method(s), and other relevant matter(s). The fishery operator or the fishery employee shall not refuse.
+
+### Article 47
+
+(deleted)
+
+### Article 48
+
+Aquatic fauna and flora shall not be caught/harvested by the use of:
+
+(1)Toxic substances.
+
+(2)Explosives or other dynamites.
+
+(3)Electricity or other narcotics.
+
+He/She whose purpose is for experimental and research and who obtains the permission from the central or municipal competent authority shall not be subject to the restrictions as referred to in the preceding paragraph.
+
+### Article 49
+
+The competent authority may dispatch personnel to any fishing vessel, fishing ground of fishing right fishery, on shore fish farm, or other relevant site(s) of any fishery operator to inspect the catch, fishing gear(s), account book(s), and other object(s), as well as to question any relevant party. The Coast Guard Administration may, pursuant to its mandate, dispatch personnel to any fishing vessel of a fishery operator for inspection and questioning any relevant party. The relevant party shall not evade, obstruct, or refuse.
+
+In carrying out the inspection as referred to in the preceding paragraph, where any offense of fisheries crime is found whereas it is unable to request in time the judicial authority to conduct search or seizure, the concerned fishing vessel, catch, or other object(s) sufficient to prove the facts of crime may be provisionally detained. In case that any other violation of the provisions of this Act is found, the concerned catch, fishing gear(s), and other object(s) may be sealed.
+
+The provisional detention or seal conducted in accordance with the preceding paragraph shall be witnessed by any person in charge of the fishing vessel or the site or any civil servant. An inventory shall be made in respect of the object(s) being provisionally detained or sealed.
+
+After the provisional detention conducted pursuant to paragraph 2, the competent authority or the Coast Guard Administration shall immediately contact the judicial authority for search or seizure and deliver the object(s) provisionally detained.
+
+In carrying out the inspection, the personnel as referred to in paragraph 1 shall present his/her identification document and the authorization specifying the scope of inspection. In case that such personnel fail to do so, any person being inspected may refuse such inspection.
+
+### Article 50
+
+Where any dispute arises concerning the operation area(s), fishing ground(s), or the method(s) of catching or aquaculture, the concerned fishery operator(s) may apply to the competent authority for mediation.
+
+### Article 51
+
+Where there are more than one fishing methods used within the same fishing ground, the competent authority may, in consultation with the concerned fishery operators, prescribe rules for operation.
+
+## Chapter VI Fishery Development
+
+### Article 52
+
+For the purpose of fisheries financing, the competent authority shall, in conjunction with the authorities concerned, consult with financial institution(s) about providing various fishery loans.
+
+The financial and the fisheries competent authorities may, when necessary, approve the establishment of fisheries financial institution(s).
+
+### Article 53
+
+For the purposes of promoting fisheries investment and assuring fisheries safety, the competent authority shall coordinate with the authorities concerned to launch various fisheries insurance programs, or shall designate fishermen’s association(s) or consult with public or private insurance institution(s) to undertake the programs.
+
+### Article 53-1
+
+For the purpose of protecting fishermen's lives and property safety, the competent authority may prescribe regulations regarding relevant matters such as salvage operations for fishing vessels in distress, rescues of fishermen and fishing vessels in distress, awards to motor-powered vessel owners, and insurance to fishermen in their sea operations.
+
+### Article 54
+
+For the purposes of assuring fishery safety and maintaining the orderly operation within fishing areas, the competent authority shall conduct the following matters:
+
+(1)Construction and maintenance of fishing ports and fisheries infrastructure.
+
+(2)Deployment of patrol fleets to perform the duties of salvage, patrol, and fishery protection.
+
+(3)Establishment of fisheries radio broadcasting stations.
+
+(4)Establishment of safety facilities such as beacons, sign poles, and weather forecasting systems.
+
+(5)Establishment of regulations on operating in fishing grounds and the operation of fishing vessels.
+
+(6)Requests to the Ministry of Defense and other authorities concerned for the necessary assistance and protection.
+
+### Article 55
+
+The competent authority may provide awards to any party that is under any of the following circumstances:
+
+(1)Improving facility/facilities thus conducive to fisheries safety and salvage.
+
+(2)Improving fishing vessel(s), fishing gear(s), fishing method(s), or processing method(s) of fisheries products, with remarkable result(s).
+
+(3)Promoting fisheries education or conducting fisheries research(es), with remarkable result(s).
+
+(4)Exploiting fisheries resources thus conducive to fisheries development.
+
+(5)Contributing significantly by other means to fisheries development.
+
+Regulations on the awards as referred to in the preceding paragraph shall be prescribed by the central competent authority.
+
+### Article 56
+
+For the purpose of promoting fisheries development, the government shall establish a fisheries development fund. The competent authority shall propose the amount of the said fund to the Executive Yuan for approval, and duly appropriate its budget accordingly.
+
+The Executive Yuan shall prescribe regulations governing the incomes, expenditures, custody, and utilization of the fisheries development fund.
+
+### Article 57
+
+In response to price fluctuation of fisheries products and to stabilize the production and marketing of fisheries products, the competent authority may take appropriate guiding measures to maintain the stabilization of price and sustainable development of industries.
+
+### Article 58
+
+For fishing vessels, fishing gears, and fisheries materials imported for the purpose of fisheries production, in case that such items are not manufactured domestically or the quantity of those domestically manufactured is insufficient the Customs duty shall be exempted and reduced. Any item imported by a fisheries research institute for fisheries experimental and research purposes shall be exempted from the Customs duty.
+
+The Executive Yuan shall decide and promulgate items eligible for exemption or reduction of the Customs duty as referred to in the preceding paragraph and standards thereof.
+
+### Article 59
+
+Fuel for powered-equipment used in fisheries shall be exempted from commodity tax. The Executive Yuan shall decide the standard of preferential price of the fuel for powered-equipment used in fisheries.
+
+### Article 59-1
+
+To encourage fishermen to voluntarily cease fishing, and to reward fishermen for complying with the fishing closure, which lasts for two months or more every year, as promulgated by the central competent authority pursuant to Article 37 or 44, the central competent authority shall annually budget the reward for voluntary fishing cessation and closure by fishing vessels.
+
+For the reward for voluntary fishing cessation closure as referred to in the preceding paragraph, regulations on the qualifications for application, terms and conditions, required documents, procedures, deadline, reward amount, manner(s) for granting the reward,  revocation condition(s), and other requirements shall be prescribed by the central competent authority.
+
+## Chapter VII Penal Provisions
+
+### Article 60
+
+Any person who violates the provisions of any subparagraph of Article 48, paragraph 1 shall be subject to imprisonment for a period of one to five years, short-term imprisonment, or in addition thereto a criminal fine not exceeding 150 thousand New Taiwan Dollars.
+
+Any person who violates the regulations as promulgated by the competent authority pursuant to subparagraph (1) and (2) of Article 44, paragraph 1 shall be subject to imprisonment not exceeding three years, short-term imprisonment, or in lieu thereof or in addition thereto a criminal fine not exceeding 150 thousand New Taiwan Dollars.
+
+### Article 61
+
+Any person who violates the regulations on the restriction or prohibition on fishing gears and fishing methods as promulgated by the competent authority pursuant to subparagraph (3) of Article 44, paragraph 1 shall be subject to imprisonment not exceeding six months, short-term imprisonment, or in lieu thereof or in addition thereto a criminal fine not exceeding 30 thousand New Taiwan Dollars.
+
+### Article 62
+
+Any person who undertakes any of the following activities shall be liable to short-term imprisonment or a criminal fine not exceeding 150 thousand New Taiwan Dollars:
+
+(1)Altering any fishing vessel name or the registration number.
+
+(2)Removing, vitiating, or destroying any sign on any fishing ground or fishing gear.
+
+(3)Setting up any fence, building, or fishing gear without permission to obstruct the migratory routes of fish.
+
+### Article 63
+
+Where a representative of any legal person; the agent or employee of a legal person or natural person, or any other employee commits the violations as referred to Article 60 to 32 in the performance of their duties, in addition to punishing the offender(s) pursuant to the respective article, a criminal fine as stipulated in the respective article shall also be imposed upon the legal or natural person concerned.
+
+### Article 63-1
+
+(deleted)
+
+### Article 63-2
+
+(deleted)
+
+### Article 64
+
+Any person who undertakes any of the following activities shall be liable to a fine between 30 thousand and 300 thousand New Taiwan Dollars:
+
+(1)Operating any fishery in violation of Article 6.
+
+(2)Violating the administrative disposition imposed by the competent authority pursuant to Article 29, paragraph 1.
+
+(3)Continuing to operate the concerned fishery after the expiry of the fishing license, the renewal of which has not been approved.
+
+(4)Not being inspected or measured pursuant to Article 41-1, or carrying passengers in excess of the certified number or outside the certified navigable waters.
+
+### Article 64-1
+
+Where any fishing vessel leaves a port in violation of Article 11-1, paragraph 1 or 2, the concerned fishery operator or vessel owner shall be liable to a fine between 60 thousand and 300 thousand New Taiwan Dollars.
+
+Where any fishing vessel fails to return to a port within the designated timeframe pursuant to Article 11-1, paragraph 3, the concerned fishery operator or vessel owner shall be liable to a fine between 60 thousand and 300 thousand New Taiwan Dollars, and the fine may be repeatedly imposed on a daily basis.
+
+### Article 64-2
+
+Any fishery operator who undertakes any of the following activities shall be liable to a fine between 60 thousand and 300 thousand New Taiwan Dollars:
+
+(1)Violating Article 39-1, paragraph 2, for hiring privately contracted armed security without reporting to the central competent authority for reference in advance.
+
+(2)Violating Article 39-1, paragraph 3, for that the privately contracted armed security who is not a national of the Republic of China and employed by the fishery operator and the firearms, ammunitions or knives possessed or used by him/her do not embark or disembark the vessel abroad or enter the territory of the Republic of China other than the fishing vessel(s) that has been reported for reference to be safeguarded.
+
+### Article 65
+
+Any person who undertakes any of the following activities hall be liable to a fine between 30 thousand and 150 thousand New Taiwan Dollars:
+
+(1)Violating the restrictions or conditions imposed pursuant to Article 9.
+
+(2)Violating the regulations as promulgated pursuant to Article 14.
+
+(3)Violating the specifications or restrictions made pursuant to Article 36 or Article 37.
+
+(4)Failing to apply for license pursuant to Article 41, aragraph 2.
+
+(5)Failing to renew the license and continuing to operate recreational fishery, in violation of Article 41, paragraph 4.
+
+(6)Violating any of the provisions of subparagraph (4) to (9) of Article 44, paragraph 1.
+
+(7)Refusing, evading, or obstructing an inspection carried out pursuant to Article 49, paragraph 1, or refusing to answer to the personnel’s inquiry without justification or making false statement.
+
+(8)Violating the regulations prescribed pursuant to Article 54, subparagraph (5).
+
+(9)Violating any order issued by the competent authority pursuant to this Act.
+
+### Article 66
+
+Any person who undertakes any of the following activities shall be liable to a fine between 15 thousand and 75 thousand New Taiwan Dollars:
+
+(1)Violating Article 11, paragraph 2, for suspending the concerned fishery operation for one year or more without approval.
+
+(2)Refusing, evading, or obstructing the survey carried out pursuant to Article 46, paragraph 1, or violating the provisions of Article 46, paragraph 2 for refusing to submit a report.
+
+(3)Violating the rules for operation prescribed pursuant to Article 51.
+
+### Article 67
+
+(deleted)
+
+### Article 68
+
+In addition to the punishments imposed pursuant to Article 64 and Article 65, subparagraph (1) to (3), (6) to (8), the concerned catch caught/harvested or transported or the fishing gear(s) involved may also be forfeited, regardless of the ownership. In case the whole or part of such catch or fishing gear(s) cannot be forfeited, the value of such catch or fishing gear(s) shall be collected.
+
+## Chapter VII Supplementary Provisions
+
+### Article 69
+
+Regulations on registration and management of onshore fish farm aquaculture shall be prescribed by the municipal/county/city competent authority.
+
+The municipal/county/city competent authority may plan and establish an aquaculture production area in the environment that is appropriate for developing aquaculture or the area presently concentrated with fish farms. Regulations for the establishment and management shall be prescribed by the central competent authority.
+
+For any aquatic fauna and flora that are involved in gene transfer, field experiment(s) and safety assessment shall be completed before proliferation and utilization. Regulations on the management of field experiments, breeding, aquaculture of the transgenic breeding fauna and flora shall be prescribed by the central competent authority.
+
+### Article 69-1
+
+In the event that the Republic of China signs any fisheries agreement (or arrangement) for the overlapping exclusive economic zones with any neighboring State, any fishing vessel and fishery employee of that State operating in the area within the agreement (or arrangement) shall comply with the requirements of that agreement (or arrangement).
+
+The requirements of the agreement (or arrangement) as referred to in the preceding paragraph shall be promulgated by the central competent authority and published in the government gazette.
+
+### Article 69-2
+
+From 1 January 2009 till this Act amended on 22 January 2015 becomes effective, during which foreign crew members employed y fishery operators do not possess national health insurance cards, such foreign crew members are exempted from Article 9 of the National Health Insurance Act.
+
+### Article 70
+
+The central competent authority shall prescribe the enforcement rules of this Act.
+
+### Article 71
+
+This Act shall enter into force on the date of promulgation. For Article 7-1, Article 39, Article 40, Article 40-1, Article 40-2, Article 63-1, Article 63-2, and Article 68 amended on 5 July 2016, they shall enter into force six months after the promulgation.
+
+## History
+
+1.The full text of 49 articles were promulgated by the Nationalist Government on 11 November 1929 and became effective from 1 July 1930.
+
+2.Article 2, 3, 18, 19, 34, 38, 39, and 47 were amended and promulgated by the Nationalist Government on 5 August 1932.
+
+3.The full text of 65 articles was amended and promulgated by the President on 30 April 1970.
+
+4.Article 2 was amended and promulgated by the President on 6 January 1986.
+
+5.The full text of 71 articles was amended and promulgated on 1 February 1991 by Presidential Order Hua-Tsung (1) Yi-Tzu No. 0670.
+
+6.Article 2, 45, 48, and 69 were amended and promulgated by Presidential Order Hua-Tsung (1) Yi-Tzu No. 09100120990 on 19 June 2002.
+
+7.Article 7-1 and 53-1 were added, and Article 8 was amended and promulgated by Presidential Order Hua-Tsung (1) Yi-Tzu No. 09100243580 on 18 December 2002.
+
+8.Article 41 was amended and promulgated by Presidential Order Hua-Tsung (1) Yi-Tzu No. 09700002351 on 9 January 2008.
+
+9.Article 11-1 and 64-1 were added and Article 64 was amended and promulgated by Presidential Order Hua-Tsung (1) No. 10100264231 on 28 November 2012.
+
+10.Article 69-1 was added and promulgated by Presidential Order Hua-Tsung (1) No. 10200088111 on 8 May 2013.
+
+11.Article 39-1, 41-1, 41-2, and 64-2 were added, and Article 41, 43, 44, 60, 64, and 65 were amended and promulgated by Presidential Order Hua-Tsung (1) No. 10200156101 on 21 August 2013.
+
+12.Article 69-2 was added and promulgated by Presidential Order Hua-Tsung (1) No. 10400013341 on 4 February 2015.
+
+13.Article 40-1, 40-2, 63-1, and 63-2 were added, and Article 57 and 68 were amended and promulgated by Presidential Order Hua-Tsung (1) No. 10400075341 on 1 July 2015.
+
+14.Article 39, 40 to 40-2, 47, 63-1, 63-2, and 67 were deleted; and Article 7-1, 49, 61, 68, and 71 were amended and promulgated by Presidential Order Hua-Tsung (1) No. 10500078581 on 20 July 2016, and they became effective upon the date of promulgation. Notwithstanding, Article 7-1, 39, 40 to 40-2, 63-1, 63-2, and 68 became effective six months after promulgation.
+
+The mandates that belong to the “Coast Guard Administration” as stipulated in Article 11-1, paragraph 4; Article 49, paragraph 1 and 4 were originally under the mandates of the “Coast Guard Administration, Executive Yuan” and shall be under the mandates of the “Coast Guard Administration of the Ocean Affairs Council” from 28 April 2018.The mandates that belong to the “Coast Guard Administration, Executive Yuan” as stipulated in Article 39-1, paragraph 2 shall be under the mandates of the “Ocean Affairs Council” from 1 August 2023, as promulgated by the announcement Yuan-Tai-Guei-Tzu No. 1070172574 made by the Executive Yuan on 27 April 2018.
+
+15.Article 59-1 was amended and promulgated by Presidential Order Hua-Tsung (1) No. 10700140851 on 26 December 2018.
+
+The mandates that belong to the “Council of Agriculture, Executive Yuan” as stipulated in Article 2; Article 5; Article 6; Article 7; Article 7-1; Article 8; Article 9; Article 10; Article 11; Article 11-1, paragraph 1, 3, 4; Article 12; Article 13; Article 14; Article 17, paragraph 1; Article 19, paragraph 1; Article 21, paragraph 2,3; Article 25, paragraph 1; Article 26; Article 29; Article 35; Article 36, paragraph 1; Article 37; Article 38; Article 39-1, paragraph 1,2,4,5,6; Article 41, paragraph 2,3,5; Article 41-2, paragraph 1; Article 43; Article 44; Article 45; Article 46; Article 48, paragraph 2; Article 49, paragraph 1,4; Article 50; Article 51; Article 52; Article 53; Article 53-1; Article 54; Article 55; Article 56, paragraph 1; Article 57; Article 59-1; Article 60, paragraph 2; Article 61; Article 64, subparagraph (2); Article 64-2, subparagraph (1) ; Article 65, subparagraph (9) ; Article 69, paragraph 2,3; Article 69-1, paragraph 2; and Article 70 shall be under the mandates of the “Ministry of Agriculture” from 1 August 2023. The mandates hat belong to the fisheries research institutes as stipulated in Article 58, paragraph 1 were originally under the mandates of the “Fisheries Research Institute, Council of Agriculture, Executive Yuan” and shall be under the mandates of the “Fisheries Research Institute, Ministry of Agriculture” from 1 August 2023, as promulgated by the announcement Yuan-Tai-Guei-Tzu No. 1125014346 made by the Executive Yuan on 27 July 2023.

@@ -1,0 +1,805 @@
+---
+title: "Value-added and Non-value-added Business Tax Act"
+title_zh: "加值型及非加值型營業稅法"
+identifier: "G0340080"
+type: act
+law_level: "法律"
+category: "行政＞財政部＞賦稅目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1931-06-13
+last_amended: 2025-05-28
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0340080"
+retrieved: 2026-10-12
+---
+
+# Value-added and Non-value-added Business Tax Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-finance/G0340080-value-added-and-non-value-added-business-tax-act.md](../../../zh/laws/ministry-of-finance/G0340080-value-added-and-non-value-added-business-tax-act.md)) is authoritative.
+
+## Chapter 1 General Provisions
+
+#### Article 1
+
+Value-added or non-value-added business tax shall be levied, in accordance with this Act, on the sale of goods or services within the territory of the Republic of China (R.O.C.) and on the import of goods.
+
+#### Article 1-1
+
+"Value-added business tax" as used in this Act means the tax calculated under Chapter 4, Section 1 herein; "non-value-added business tax" means the tax calculated under Chapter 4, Section 2 herein.
+
+#### Article 2
+
+Taxpayers of the business tax are as follows:
+
+\1. Business entities that sell goods or services.
+
+\2. Consignees or holders of imported goods.
+
+\3. Purchasers of services provided by foreign enterprises, institutions, groups, or organizations that have no fixed place of business within the territory of the R.O.C.; however, in the case of foreign international transport enterprises that have no fixed place of business within the territory of the R.O.C but have agents in the ROC, the taxpayers are the agents.
+
+\4. If the agricultural or fishery fuel oil referred to in Subparagraph 27 or 28 of Paragraph 1 of Article 8 herein loses tax-exempt status due to a transfer or to a change in the purpose of use, the taxpayer is the transferring party or the party that changes the purpose of use; however, in the event that the transferring party or the party that changes the purpose of use is unknown, the taxpayer is the holder of the goods.
+
+#### Article 2-1
+
+A foreign enterprise, institution, group, or organization having no fixed place of business within the territory of the R.O.C. selling electronic services over the internet or other digital network to an individual in the territory of the R.O.C. shall be the taxpayer of the business tax and may not apply for the provision of Subparagraph 3 of the preceding article of this Act.
+
+#### Article 3
+
+The definition of sale of goods is the transfer of ownership of goods to others for a consideration.
+
+The definition of sale of services is the supply of services to others or the provision of goods to others for the use of the goods for a consideration with the exception of professional services offered by practitioners and services rendered by individuals in employment.
+
+Any one of the following circumstances shall be deemed as a sale of goods:
+
+\1. Goods produced, imported or purchased by a business entity for sale but in fact used by itself or transferred to others for no consideration.
+
+\2. Goods used to redeem debt or distributed to shareholders or investors; and goods left over when a business entity is dissolved or nullified.
+
+\3. Where a business entity purchases goods under its own name on behalf of a third party and delivers the goods to the third party.
+
+\4. Where a business entity consigns goods to others for sale.
+
+\5. Where a business entity sells the consigned goods.
+
+The preceding paragraph shall also be applicable to sale of services.
+
+#### Article 3-1
+
+The transfer or disposition of trust property between trust parties as follows shall not be deemed as a sale of goods regulated in the preceding article:
+
+\1. Between settler and trustee, due to the establishment of the trust.
+
+\2. Between the former trustee and new trustee, due to a new appointment of trustee during the term of the trust relationship.
+
+\3. Between settler and trustee, due to the unsuccessful creation, nullification, revocation, or cancellation of a trust act, or the termination of trust relations.
+
+#### Article 3-2
+
+When any of the circumstances provided in Subparagraph 1 or 2 of Paragraph 3 of Article 3 herein apply to a non-profit-seeking enterprise, institution, group, or organization, or to a business entity that engages solely in the business of tax-exempt goods or services, if it is discovered that the input tax has not been reported and deducted from the output tax, the provision of that article and paragraph regarding the circumstances being deemed a sale of goods shall not apply.
+
+#### Article 4
+
+Any of the following circumstances is a sale of goods within the territory of the R.O.C.:
+
+\1. Where goods sold are required to be transported in order to effectuate delivery and the origin of shipment is within the territory of the R.O.C..
+
+\2. Where goods sold are not required to be transported in order to effectuate delivery, and the goods are located within the territory of the R.O.C..
+
+Any of the following circumstances is a sale of services within the territory of the R.O.C.:
+
+\1. Where services sold are provided or utilized within the territory of the R.O.C..
+
+\2. Where passengers are boarded or goods loaded within the territory of the R.O.C by an international transportation enterprise.
+
+\3. Where a foreign insurance enterprise accepts reinsurance policies from an insurance enterprise within the territory of the R.O.C..
+
+#### Article 5
+
+Any of the following circumstances is an import of goods:
+
+\1. The transport of goods into the R.O.C., with the exception of the transport of bonded goods into a bonded zone.
+
+\2. The transport of bonded goods from a bonded zone into any other area of the R.O.C..
+
+#### Article 6
+
+Any of the following is a business entity:
+
+\1. A profit-seeking enterprise owned by the private sector, government, or jointly owned by both.
+
+\2. A nonprofit-seeking enterprise, institution, organization, or association which sells goods or services.
+
+\3. A foreign enterprise, institution, group, or organization which has a fixed place of business within the territory of the R.O.C.
+
+\4. A foreign enterprise, institution, group, or organization having no fixed place of business within the territory of the R.O.C., but which sells electronic services over the internet or other digital network to an individual in the territory of the R.O.C.
+
+#### Article 6-1
+
+"Bonded zone" as used in this Act means a technology industrial park, a science park, an agricultural technology park, or a free trade zone, approved by the government, or a bonded factory, bonded warehouse, or logistics center administered by Customs, or any other specially designated area approved for establishment by the competent authority in charge of the relevant industry and supervised by Customs.
+
+"Bonded zone business entity" as used in this Act means an enterprise inside a technology industrial park, a science park, an agricultural technology park, or a free trade zone, such zone or park being approved by the government. It also means a bonded factory, bonded warehouse, or logistics center administered by Customs, or an enterprise inside any other specially designated area approved for establishment by the competent authority in charge of the relevant industry and supervised by Customs.
+
+"Taxable zone business entity" as used in this Act means a business entity other than a bonded zone business entity.
+
+## Chapter 2 Scope of Reduction and Exemption
+
+#### Article 7
+
+The business tax rate is zero for sale of the following goods or services:
+
+\1. Exported goods.
+
+\2. Services relating to export or services provided in the R.O.C. but used in a foreign country.
+
+\3. Goods sold to outbound or transit passengers by duty-free shops established under applicable law.
+
+\4. Goods or services sold to a bonded zone business entity for its operational use.
+
+\5. International transportation; however, foreign transport enterprises engaging in international transport within the territory of the R.O.C. shall qualify for the zero tax rate only if reciprocal treatment, or exemption from similar taxes, is given to international transport enterprises of the R.O.C. by the foreign country in which the foreign enterprise is incorporated.
+
+\6. Vessels and aircraft used in international transportation and deep sea fishing boats.
+
+\7. Goods and maintenance services sold to be used for vessels and aircrafts which are used for international transportation and deep sea fishing boats.
+
+\8. Goods sold by a bonded zone business entity to a taxable zone business entity and exported directly without being transported to the taxable zone.
+
+\9. Goods sold by a bonded zone business entity to a taxable zone business entity for export and placed in a bonded warehouse or logistics center administered by an enterprise inside a free trade zone or by Customs.
+
+#### Article 7-1
+
+Foreign enterprises, institutions, organizations, or associations having no fixed place of business within the territory of the ROC, which purchase the goods or services on which value-added business tax(VAT) is levied to a total of a certain amount of money or more within the ROC for the purpose of engaging in exhibitions or temporary business activities within the period of one year may qualify for a VAT refund on the aforesaid goods or services; however, in the case of the following conditions such goods or services shall not be applicable for tax refund:(i) where the documents of the goods or services purchased are not obtained or kept as in the first paragraph above, or(ii)where the goods or services are purchased under the provisions of Subparagraphs 2 to 5 of Paragragh 1 of Article 19 of the Act.
+
+The aforesaid institutions may qualify for VAT refund, provided that reciprocal treatment, or exemption from similar taxes, is given to the same institutions of the ROC by the foreign country in which they are performing such activities as are described also above.
+
+Regulations concerning the calculation of the one-year period, the scope of exhibitions or temporary business activities, the definition of the certain amount of money or more, the obtaining of documentary evidence, the attached documents, the period of time within which application may be made for the refund and other relevant matters specified in the first paragraph, shall be prescribed by the Ministry of Finance(hereinafter referred to as the MOF).
+
+#### Article 8
+
+The following goods or services are exempted from the business tax:
+
+\1. The land being sold.
+
+\2. The water supplied to farmland for irrigation.
+
+\3. The medical services, medicine, ward lodging and meals provided by hospitals, clinics and sanitariums.
+
+\4. The social welfare services provided by social welfare organizations or institutions or labor organizations, duly established with permission of the competent authority, and social welfare services consigned by the government.
+
+\5. The education services offered by schools, kindergartens, and other educational and cultural institutions including cultural services offered under government's consignment.
+
+\6. Publications which are textbooks authorized by education authorities for use at various levels of schools and important specialized academic writings awarded by the government according to the law issued by the publishing industry.
+
+\7. (Deleted).
+
+\8. The goods or services sold by student-run shops of vocational schools which do not serve outsiders.
+
+\9. Newspaper, publications, communications manuscripts, advertisements, program broadcasting and program airing produced and sold by legally registered newspaper and magazine publishers, news agencies, and television and broadcasting stations, excluding the advertisements sold by newspaper publishers and advertisements broadcasted by television stations.
+
+\10. The goods or services sold to their members by cooperatives managed in accordance with the law; and business consigned by government to said cooperatives.
+
+\11. The goods or services sold to their members by farmers', fishermen's, workers', commercial and industrial associations in accordance with the law, business consigned by the government to said associations, and the management fee charged in accordance with Article 27 of “The Agricultural Products Market Transaction Act” for the use of an agricultural products wholesale market and in which the share ownership of farmers' associations, fishermen's associations, cooperatives and government institutions accounts for more than 70%.
+
+\12. The proceeds from goods sold in tenders, charity sales and charity shows held by charity and relief institutions organized according to the law, provided that the total proceeds are solely used by said institutions after deducting the necessary expenditures for the tenders, charity sales and charity shows.
+
+\13. The goods or services sold by employee welfare organizations of government bodies, state enterprises and social organizations which are organized and operated under relevant laws and are not open to the public.
+
+\14. The goods or services sold by prison workshops and their finished goods stores.
+
+\15. Services rendered by post and telecommunication offices in accordance with the law; and business consigned under government mandate.
+
+\16. Monopoly goods sold at statutory prices by state owned monopoly industries and by business entities which are authorized to sell the monopoly goods.
+
+\17. The service of consigned sale of stamp tax tickets and postage stamps.
+
+\18. The goods or services sold by peddlers or hawkers.
+
+\19. Feed and unprocessed raw agricultural, forestry, fishing and livestock products, and by-products; the agricultural, forestry, fishing and livestock products, and by-products of farmers' and fishermen's harvests sold by farmers and fishermen.
+
+\20. The fish caught and sold by fishermen.
+
+\21. The sales of rice and wheat flour and the service of husking rice.
+
+\22. The sales of fixed assets which are not regularly traded by business entities which compute their business tax according to Section 2 of Chapter 4.
+
+\23. Insurance policies accepted by insurance enterprises for insurance promoted by the government, covering military, government and education entities and their dependents, laborers, students, farmers, fishermen, exports, and compulsory automobile third party liability insurance, and reinsurance premiums paid out by insurance enterprises from premiums received by the same, and life insurance policy reserves, annuity insurance policy reserves and health insurance policy reserves, provided, however, that this does not include income, other benefits and return of policy reserves received on termination of life insurance, annuity insurance and health insurance.
+
+\24. The bonds issued by all levels of government and securities upon which a securities transaction tax has been imposed in accordance with the law.
+
+\25. Residual or obsolete goods sold at tenders by all levels of government.
+
+\26. The sales of weapons, warships, aircraft, tanks and reconnaissance communication equipment for military use to defense agencies.
+
+\27. Fertilizer, pesticides, veterinary drugs, agricultural machinery, transportation equipment for farmland, and fuel oil and electricity used by such machinery and equipment.
+
+\28. Fishing boats for coastal or inshore fishery and machinery, equipment, nets and fuel oil used by fishing boats.
+
+\29. Interest on the flow of funds between head and branch offices of banking enterprises, the revenue of trust and investment enterprise derived from trust funds in the manner designated by the settler, provided the settler bears the risk of loss and enjoys the proceeds, and unredeemed items where the proceeds arising from their sale by pawnshops does not exceed the aggregate of principal and interest receivable.
+
+\30. Gold bars, gold bricks, gold foil, gold coins and gold ornaments, excluding the processing fee.
+
+\31. The research services supplied by scientific or technological institutions which are established under the approval of the government.
+
+\32. The sales amount of operating financial derivatives products, corporate bonds, financial bonds, new Taiwan dollar interbank call loans and foreign currency call loans, excluding commissions and service charges of these products.
+
+Any business entity which sells the aforementioned exempt goods or services may apply to the MOF to waive the exemption and compute its business tax according to the provisions of Section 1 of Chapter 4. However, once approved, no changes may be made within three years.
+
+#### Article 8-1
+
+The proceeds from goods sold in auctions or charity sales and from benefit performances held by a settler of a charitable trust may be exempted from the business tax, provided that the proceeds, after deducting the necessary expenses for the auctions, charity sales, and benefit performances, are entirely and solely for the use of by the charity.
+
+The proceeds from goods sold in auctions or charity sales, and from benefit performances referred to in the preceding paragraph are excluded from the sales amount of the settler.
+
+#### Article 8-2
+
+（deleted）
+
+#### Article 8-3
+
+When the agricultural or fishery fuel oil exempted from business tax under Subparagraph 27 or 28 of Paragraph 1 of Article 8 herein loses tax-exempt status due to a transfer or a change in its purpose of use, the business tax so exempted shall become due and payable.
+
+#### Article 9
+
+The importation of any of the following goods is exempted from the business tax:
+
+\1. The goods specified in Subparagraph 6, Article 7, the fertilizer specified in Subparagraph 27 of Paragraph 1 of Article 8, and the goods specified in Subparagraph 30 of Paragraph 1 of Article 8.
+
+\2. The goods specified in Article 49 of the Customs Act, provided, however, that in case of transfer of ownership or change in purpose of use that results in supplementary payment of customs duties under Article 55 of the Customs Act, the business tax so exempted shall become due and payable.
+
+\3. National antiques.
+
+#### Article 9-1
+
+In the case of dealing with an extraordinary economic situation, or a situation to accommodate the supply of goods, the Executive Yuan may make an adjustment in business tax on imported wheat, barley, corn and soy beans and the restriction of Article 10 does not apply.
+
+The categories of goods subject to adjustment of business tax referred to in the preceding paragraph, the range of actual adjustment, and the dates for commencing and terminating such adjustment shall be drawn up jointly by the MOF and the related authorities, and be submitted to the Executive Yuan for approval.
+
+## Chapter 3 Tax Rates
+
+#### Article 10
+
+Except as otherwise prescribed by this Act, the business tax rate shall be no less than 5% and no more than 10%. The applicable collection rate shall be determined by the Executive Yuan.
+
+#### Article 11
+
+The business tax rates of banking, insurance, investment trusts, securities, futures, commercial paper and pawnshops are as follows:
+
+\1. The tax rate provided in Article 10 shall apply to the enterprises for their sales amounts which are not connected exclusively with their core business.
+
+\2. 5% tax rate shall apply to the banking and insurance enterprises for their sales amounts which are connected with banking and insurance business, however, property insurance enterprises shall deduct the amounts of compensation when computing their business tax payable. But the sales amounts from reinsurance premiums shall be taxed at 1%.
+
+\3. 2% tax rate shall apply to the enterprises for their sales amounts which are connected exclusively with their core business separate from the preceding 2 subparagraphs.
+
+The scope of “business not exclusive to the enterprises” and “core business of banking and insurance” shall be prescribed by the MOF, and submitted to the Executive Yuan for approval.
+
+From May 16, 2014 as the amended article came into force to December 31, 2024, the tax revenues from prescribed under Subparagraphs 1 and 3, Paragraph 1, and the revenues from 2% tax rate under Subparagraph 2, Paragraph 1 shall be appropriated to the Financial Special Reserves. The regulations for the operation, administration of the Reserves and other regulatory matters shall be prescribed by the Financial Supervisory Commission.
+
+During the period while the business tax revenues are appropriated to the Financial Special Reserves as referred to in the preceding paragraph, the Executive Yuan shall compensate local governments for the reduction of revenue losses due to the decrease of the centrally-allotted tax revenues according to the Act Governing the Allocation of Government Revenues and Expenditures, unless the Act is subsequently revised.
+
+#### Article 12
+
+The business tax rates for special food and beverage services enterprises are as follows: 1. 15% for night clubs and for restaurants providing entertaining show programs; 2. 25% for saloons and for tea rooms, coffee shops and bars offering companionship services.
+
+#### Article 13
+
+For small business entities, massage enterprises run by visually impaired persons who have duly obtained qualifications to engage in massage operations and that are entirely staffed with visually impaired persons to provide massage services, and other business entities exempted by the MOF from filing sales amounts, the business tax rate is 1%.
+
+For consignees of the agricultural wholesale markets and small business entities which sell agricultural products, the business tax rate is 0.1%.
+
+The definition of small business entities provided in the preceding paragraphs shall be the business entities, excluding those prescribed in Article 11 and 12, whose monthly average sales amount is below the criteria prescribed by the MOF in which case the business tax amount shall be determined and assessed by the tax authority.
+
+## Chapter 4 Calculation of Tax Computation
+
+### Section 1 General Tax Computation
+
+#### Article 14
+
+Except as otherwise prescribed in Section 2 of this chapter, business entities shall calculate the output tax based on the relevant sales amounts of goods and services, in accordance with the applicable tax rates prescribed in Article 7 or 10 and round to the nearest New Taiwan Dollar.
+
+The output tax is defined as the amount of business tax to be collected in accordance with this Act by the business entity at the time of selling goods or services.
+
+#### Article 15
+
+The amount of business tax payable or overpaid by a business entity will be the difference between the output tax in a tax period and the input tax in the same period.
+
+The amount of business tax returned by a business entity to a purchaser due to sales return of goods or rebates allowed shall be deducted from output tax in the tax period when the return or rebate occurs. The amount of business tax received by a business entity due to the business entity's return of purchased goods, or due to an allowance on purchased goods, shall be deducted from the amount of input tax in the tax period when such return of goods or allowance occurs.
+
+The input tax is defined as the business tax paid by a business entity in accordance with the act at the time of purchasing goods or services.
+
+#### Article 15-1
+
+If a business entity sells its used passenger car or motorcycle purchased from a person who is not required to file a tax computation under this section, such business entity may calculate the input tax by the following formula:
+
+Purchased cost of the used
+
+passenger car or motorcycle
+
+Input tax = －－－－－－－－－－－－－－－－ × Applicable collection rate
+
+1 + applicable collection rate
+
+The business entity shall report the input tax as referred to in the preceding paragraph in order to deduct it from the output tax of the used passenger car or motorcycle in the same period in which it reports the sales amount of such passenger car or motorcycle. However, if the input tax of the used passenger car or motorcycle is higher than output tax of the aforesaid vehicle, the excess portion shall not be deducted.
+
+When the business entity files the input tax as referred to in the first paragraph above, it shall provide relevant documents concerning the purchase of the aforesaid used passenger car or motorcycle.
+
+The preceding paragraphs shall be applicable to cases not currently being assessed or pending final decision at the effective date of this amended article.
+
+#### Article 16
+
+The sales amount prescribed in Article 14 means the total consideration received from the sale of goods or services, including any charges collected by a business entity besides the sales amount of the goods or services sold, but not including the business tax payable for that sale.
+
+If the goods referred to in the preceding paragraph are subject to the commodity tax, the tobacco and alcohol tax, or the health and welfare surcharge on tobacco, the sales amount shall include the amount of the commodity tax, the tobacco and alcohol tax, or the health and welfare surcharge on tobacco.
+
+#### Article 17
+
+In the event that a business entity sells goods or services at a price significantly lower than the market price with no proper reason, the competent tax authority may determine the sales amount based on the market price.
+
+#### Article 18
+
+The sales amount of an international transport enterprise transporting outbound cargo or passengers from within the territory of the R.O.C. shall be calculated as follows:
+
+\1. Marine transport enterprise: total ticket fares or freight charges for outbound passengers or cargo accepted for transportation from within the territory of the R.O.C.
+
+\2. Air transport enterprise:
+
+(a) passenger transportation: ticket fares from the point of embarkation within the territory of the R.O.C. to first-leg stations outside the territory of the R.O.C.;
+
+(b) cargo transportation: freight charges for the entire trip for the cargo accepted for transportation. However, where an international air transport enterprise transships its outbound cargo en route to an aircraft of another international air transport enterprise due to route restrictions or other reasons, its freight shall be calculated upon the charges actually attributable to the portion made by the first enterprise.
+
+First-leg stations outside the territory of the R.O.C., as provided in Item 1 of Subparagraph 2 of the preceding paragraph, shall be prescribed by the MOF.
+
+#### Article 19
+
+In any of the following events, a business entity may not deduct the input tax from the output tax:
+
+\1. Where the supporting documents, as set out in Article 33 herein, for purchased goods or services are not obtained or kept in the manner required.
+
+\2. The goods or services purchased are not for the use of principal and ancillary business operation. However, this requirement does not apply to purchases made for the support of national defense, provision of morale services to the troops, or contribution to the government.
+
+\3. Goods or services for social relations purposes.
+
+\4. Goods or services rewarded to individual employees.
+
+\5. Passenger cars for personal use.
+
+Business entities engaging solely in the business of tax-exempt goods or services as provided in Paragraph 1, Article 8 herein may not apply for refund of the input tax.
+
+When a business entity is prohibited from deducting a certain part of the input tax from the output tax because it engages on a concurrent basis in the business of tax-exempt goods or services provided in Paragraph 1, Article 8 herein, or due to other provisions of this Act, the ratio and calculation method related to the non-deductible amount shall be prescribed by the MOF.
+
+#### Article 20
+
+The business tax on imported goods shall be calculated based on the total sum of amount of the customs taxable value and import tariffs at the tax rate provided in Article 10.
+
+If the above-mentioned goods are subject to the commodity tax, the tobacco and alcohol tax, or the health and welfare surcharge on tobacco, the business tax shall be calculated based on the total amount prescribed in the preceding paragraph plus the commodity tax, the tobacco and alcohol tax, or the health and welfare surcharge on tobacco.
+
+### Section 2 Special Tax Computation
+
+#### Article 21
+
+Enterprises engaged in banking, insurance, investment trust, securities, futures, commercial paper and pawnshops shall calculate their business tax based on their sales amount at the tax rate provided in Article 11. However, the business tax for pawnshops may be calculated by the competent authority upon the assessed sales amount.
+
+#### Article 22
+
+The special food and beverage service enterprises under Article 12 shall compute the amount of their business tax based upon their sales amount at the tax rate provided in said article. However, the competent tax authority may compute the tax amount based upon the assessed sales amount according to its investigation.
+
+#### Article 23
+
+Consignees of the agricultural wholesale markets, small business entities selling agricultural products, other small business entities, massage enterprises run by visually impaired persons who have duly obtained qualifications to engage in massage operation, and entirely staffed with visually impaired persons to provide massage services, and other business entities exempted by the MOF from reporting their sales amount, shall compute their amount of business tax based upon the amount of sales as assessed by the competent tax authority and at the tax rate provided in Article 13, except in the case that the business entity has applied to calculate the business tax under Section 1 of this chapter and file tax returns in accordance with Article 35.
+
+#### Article 24
+
+For enterprises engaged in banking, insurance, and trust investment, the sales amount from operations not within the scopes of their exclusively authorized business, as defined in the footnote of "The Table of the Time Limits for Issuing Documentary Evidence of Sales" of this Act, may apply to calculate business tax in accordance with the provisions in Section 1 of this chapter and file tax returns in accordance with the provisions of Article 35.
+
+Where application has been made in accordance with the preceding paragraph and Article 23 to calculate the amount of business tax under Section 1 of this chapter, application may not be made for alteration for three years following approval.
+
+The MOF may gauge the nature and capabilities of small business entities and determine that Section 1 of this chapter shall be applied to calculate business tax and Article 35 shall be applied to file tax returns and pay taxes.
+
+#### Article 25
+
+When a business entity, whose business tax is assessed as prescribed in Article 23, purchases goods or services for business operation, obtains evidence stating amount of pertinent business tax, and files a return as required, 10% of input tax shall be deducted from the assessed tax amount by the competent tax authority. However, when the assessed tax amount is less than the minimum amount for assessment, this deduction shall not be applicable.
+
+If, as provided in the preceding paragraph, 10% of input tax exceeds the assessed tax amount, the excess may be deductible in the coming period.
+
+#### Article 26
+
+For consignees of the agricultural wholesale markets or small business entities which sell agricultural products, or other small business entities covered by Article 23 and other business entities exempted by the MOF from filing tax returns, the minimum taxable sales amount shall be prescribed by the MOF.
+
+#### Article 27
+
+Section 1 of this chapter, with the exception of Article 14; Paragraph 1, Article 15, and the proviso to Paragraph 1, Article 16, applies mutatis mutandis to the tax computation by a business entity under this section.
+
+## Chapter 5 Collection Procedures
+
+### Section 1 Registration of Tax Payer
+
+#### Article 28
+
+The head office of a business entity and its branches with fixed places of business shall each file an application for taxation registration separately with the competent tax authority before commencement of business.
+
+#### Article 28-1
+
+A business entity prescribed in Subparagraph 4, Article 6 of this Act with annual sales amount exceeding certain criteria, shall apply for taxation registration with the competent tax authority or appoint an individual residing within the territory of the R.O.C. or an enterprise, institution, group, or organization with a fixed place of business as a tax-filing agent to handle the taxation registration.
+
+Where any foreign enterprise, institution, group, or organization appoints a tax-filing agent in accordance with the preceding paragraph, it shall apply for approval from the local competent tax authority of the tax-filing agent. In case of a change of agent, it shall also file for approval for such an event.
+
+The certain criteria of annual sales amount referred to in Paragraph 1 above shall be prescribed by the MOF.
+
+#### Article 29
+
+Business entities engaged solely in the business of the sale of exempt goods or services, as provided in Subparagraphs 2 to 5, 8, 12 to 15, 17 to 20, and 31 of Paragraph 1 of Article 8 herein and government entities of all levels may be exempted from applying for taxation registration.
+
+#### Article 30
+
+In the case that there is any change in matters registered under Article 28 and 28-1, or there is a merger, ownership transfer, dissolution, or nullification of business of a business entity, an application for modification of registration or cancellation of registration shall be filed with the competent tax authority within fifteen days after the occurrence of such an event.
+
+An application by a business entity under the preceding paragraph, for modification of registration or cancellation of registration, may only take effect upon the payment in full of taxes, or upon the provision of security, provided, however, that this requirement shall not apply in the case of application for modification of registration due to merger, increase of capital, or a change in business address or scope of business.
+
+#### Article 30-1
+
+The particulars of taxation registration, procedures for applying for taxation registration or modification or cancellation of registration, documents required to be submitted, causes for revocation or nullification of registration, and provisions for other compliance matters shall be prescribed by the MOF.
+
+#### Article 31
+
+Prior to the temporary suspension of business or a resumption of business after the suspension, the business entity shall file for approval and recordation with the competent tax authority for such event.
+
+### Section 2 Books and Documentary Evidence
+
+#### Article 32
+
+Business entities selling goods or services shall issue uniform invoices to the purchaser at the time stipulated in "The Table of the Time Limits for Issuing Documentary Evidence of Sales" in this Act. Business entities of a special nature or small business entities may be exempted from issuing uniform invoices, and may, instead, issue ordinary receipts.
+
+The list price set by a business entity for taxable goods or services shall be inclusive of the business tax.
+
+Where a business entity calculates the output tax pursuant to Article 14, if the purchaser is a business entity, the output tax and the sales amount shall be stated separately on the uniform invoice; if the purchaser is not a business entity, the uniform invoice shall be issued at the list price.
+
+The uniform invoice shall be printed and sold by the government, or the business entity may print its own invoices with approval from the government or issued, transmitted or obtained via the internet or by other electronic means. The forms, items to be recorded, and use of invoices shall be prescribed by the MOF.
+
+The competent tax authority may approve a business entity to use a cash register to issue uniform invoices or to issue cash register receipts instead of issuing uniform invoices on an item-by-item basis. Regulations governing the use of cash registers shall be provided by the MOF.
+
+#### Article 32-1
+
+When business entities sell goods or services and issue and transmit electronic uniform invoices under Paragraph 4 of the preceding article, they shall transmit the issued electronic uniform invoices and the required relevant information to the E-Invoice Platform of the MOF within the prescribed time limit. With respect to purchasers requesting electronic uniform invoices by carriers which are approved by the competent tax authority, business entities shall upload the information of uniform invoices with the identification codes of carriers.
+
+The carriers in the preceding paragraph denote the numbers used to record or connect the information of electronic uniform invoices as follows:
+
+\1. National ID card numbers, the Citizen Digital Certificate numbers, phone numbers, and membership numbers of business entities or their partner institutions.
+
+\2. The payment instrument numbers of credit cards, ATM cards, stored value cards, electronic payment accounts, and so on, used by purchasers when trading.
+
+\3. Other numbers used to record or connect the information of an electronic uniform invoice.
+
+The identification codes of carriers in Paragraph 1 denote the numbers used by the E-Invoice Platform of the MOF to recognize the category of the carriers and the carriers in the preceding paragraph.
+
+The transmission time limit, issuance of electronic uniform invoices, and the range of the required relevant information referred to in Paragraph 1 above shall be announced by the MOF.
+
+#### Article 33
+
+A business entity which deducts input tax from output tax shall maintain the following documentary evidence with its name, address, and business administration number on such documents.
+
+\1. Uniform invoices specifying business tax paid on purchases of goods and services.
+
+\2. Uniform invoices specifying the amount of business tax issued by the business entity itself under the circumstances deemed as sales of goods or services as prescribed in Subparagraph 1 of Paragraph 3 or Paragraph 4 of Article 3.
+
+\3. Other documentary evidence specifying the amount of business tax and approved by the MOF.
+
+#### Article 34
+
+The MOF shall promulgate regulations governing the books of account and documentary evidence.
+
+### Section 3 Tax Return & Payment
+
+#### Article 35
+
+Except as otherwise prescribed by this Act, a business entity, whether or not it has sales, shall file a bimonthly tax return on a prescribed form for its sales amount and tax payable or overpaid of the preceding two months together with tax deduction and other appropriate documents with the competent tax authority prior to the fifteenth day of the following period. The business tax payable, if any, shall be paid to the government treasury in advance. The receipt for tax paid shall be enclosed with the tax return.
+
+A business entity which applies zero ratings as prescribed in Article 7 of this act may apply to the competent tax authority for filing a monthly tax return for its sales amount and tax payable or overpaid of the preceding month prior to the fifteenth day of the following month. Once approved to file a monthly tax return, the business entity cannot apply for approval to change the filing period within a year.
+
+The business entities mentioned in the preceding two paragraphs, if using uniform invoices, shall further enclose a detailed list of uniform invoices used.
+
+#### Article 36
+
+A purchaser of services sold by foreign enterprises, institutions, groups or organizations having no fixed place of business within the territory of the R.O.C. shall, prior to the fifteenth day of the period following the period in which the payment is made, compute the business tax based on the payment amount in accordance with the tax rate provided in Article 10 and pay the tax; if the services sold by foreign enterprises are categorized under Paragraph 1, Article 11, the purchaser shall calculate the business tax and pay it in accordance with the tax rate prescribed.However, where the purchaser is a business entity which computes its tax in accordance with the provisions of Section 1 of Chapter 4, and the purchased services are used solely in conducting business in taxable goods or services, such services are exempted from the business tax; where the purchaser is concurrently engaging in business involving tax-exempt goods or services under Paragraph 1, Article 8, the proportion payable shall be determined by the MOF.
+
+Where a foreign international transport enterprise which has no fixed place of business within the territory of the R.O.C., but has an agent within the territory of the R.O.C., sells services, the agent shall, prior to the fifteenth day of the period following the period in which passengers or goods depart the territory of the R.O.C., compute the business tax based on the sales amount at the tax rate provided in Article 10, file a tax return, and pay the tax according to the preceding article.
+
+A business entity prescribed in Subparagraph 4, Article 6 of this Act applying for taxation registration in accordance with Article 28-1, shall compute the business tax based on the sales amount at the tax rate provided in Article 10, file a tax return, and pay the tax according to the preceding article or appoint a tax-filing agent within the territory of the R.O.C. to handle the matter.
+
+#### Article 36-1
+
+Public and private schools at any level or educational or research institutions purchasing services provided by foreign enterprises, institutions, groups or organizations having no fixed place of business within the territory of the R.O.C. to be used for education, research, or experiment are not required to pay business tax according to the first paragraph of the preceding article.
+
+The preceding paragraph shall be applicable to cases not currently being assessed or pending final decision at the effective date of the amendment of this article.
+
+#### Article 37
+
+The business tax upon the performance by foreign artistic and show enterprises within the territory of the R.O.C. shall be reported and paid under Article 35 to the local competent tax authority where the performance takes place. However, in case the duration of the performance at any one location does not exceed 30 days, tax return and payment shall be filed and made within 15 days after performance is concluded.
+
+Such foreign artistic and show enterprises shall file and pay business tax before departure if the departure time is prior to the preceding paragraph time limit.
+
+#### Article 38
+
+The head office and other fixed places of business of a business entity located within the territory of the R.O.C. shall file tax returns and tax payable or overpaid to the local competent tax authority separately.
+
+A business entity which computes its business tax according to Section 1 of Chapter 4 may apply for approval from the MOF to combine the sales of goods or services of the head office and all branches and file a consolidated tax return and tax payable or overpaid to the local competent tax authority of the head office.
+
+#### Article 39
+
+Under the following situations, the amount of overpaid business tax claimed by a business entity shall be refunded after verification by the competent tax authority.
+
+\1. The overpaid business tax is resulted from the sale of goods or services subject to zero-tax-rate as provided in the provision of Article 7.
+
+\2. The overpaid business tax is resulted from the acquisition of fixed assets.
+
+\3. The overpaid business tax is by a business entity whose application has been made for cancellation of registration due to merger, business transfer, dissolution or nullification of business.
+
+Overpaid tax resulting from circumstances other than the aforementioned ones may be offset against future business tax payable. Business entities with special situations may apply to obtain approval from the MOF to receive tax refunds.
+
+#### Article 40
+
+For pawnshops and other business entities governed by Article 21 and Article 23, respectively, the competent tax authority shall assess the sales amount and tax payable and issue a payment notice every three months.
+
+For business entities governed by Article 22, the aforementioned procedures shall be done monthly.
+
+The rules in assessing sales amount and tax payable, as mentioned above, shall be prescribed by the MOF.
+
+#### Article 41
+
+The amount of business tax payable on imported goods shall be levied by Customs. With respect to the collection procedures and administrative relief of business tax, the provisions of the Customs Act and the Customs Smuggling Prevention Act shall apply mutatis mutandis.
+
+#### Article 42
+
+Tax which is to be paid by the taxpayer of his own accord under this Act shall be paid to the government treasury and accompanied by a tax payment slip prepared by the taxpayer.
+
+In accordance with the provisions of this Act, the competent tax authority shall issue a payment notice for payment of assessed business tax, back collection, and surcharges for delinquent reporting and non-reporting. The taxpayer shall pay to the government treasury within 10 days starting from the day following the day the payment notice is received by the taxpayer.
+
+In the event that the payment notice is lost, the taxpayer shall apply to the competent tax authority for re-issuance of such notice. The competent tax authority shall re-issue the notice on the next day following the day of receipt of the application. However, the time limit for tax payment shall still commence from the day following the receipt of the first notice, as provided for in the preceding paragraph.
+
+#### Article 42-1
+
+After receiving the business tax return, the competent tax authority shall, within six months counting from the day following the expiration of the filing period set forth in Article 35, assess the sales amount and the business tax payable or overpaid.
+
+When a taxpayer voluntarily files a supplementary tax return with the competent tax authority and makes a supplementary payment for the amount of tax owed, the competent tax authority shall assess the filing within six months from the day following its receipt of the same.
+
+With respect to cases required to be assessed by the competent tax authority under Paragraph 1 above, if there is no supplementary payment of tax due or refund of tax due, the competent tax authority may make a public announcement, specifying that the assessment is made based on the information in the tax return declared by the business entity, in lieu of delivering a notice of the assessed tax amounts.
+
+#### Article 43
+
+In any of the following circumstances, the competent tax authority may assess the sales amount and tax payable of a business entity and levy the delinquent tax based on the data obtained from investigation.
+
+\1. Where the sales amounts have not been reported more than 30 days beyond the prescribed time limit.
+
+\2. Where accounting records have not been kept or an entry has not been made in accounting records within the deadline prescribed by regulation and there has been a failure to make such entry after notification, or where accounting records have been lost, or where the tax authority is refused to check up on accounting records, or where false statements have been made in accounting records.
+
+\3. Where business operations have been commenced prior to completion of taxation registration, or where business has been continued after suspension of operation, and sales amounts have not been reported in accordance with regulation.
+
+\4. Where the sales amounts have not been reported or has been under- reported.
+
+\5. Where there has been a failure to issue uniform invoices or where the sales amounts shown on the uniform invoices have been understated.
+
+\6. Where uniform invoices have not been used, although it is required by regulation.
+
+Where the sales amounts reported by the business entity are found to be abnormal, the competent tax authority may, by referring to the circumstances of similar business and other related information, determine the sales amount or tax payable and levy the delinquent tax.
+
+### Section 4 Inspection
+
+#### Article 44
+
+In the course of investigation performed by an inspector appointed by the MOF, if a business entity is suspected of failing to issue uniform invoices when required to, the inspector shall record the violation at that locality, with specifications of name of the business entity, time, location, transacted item, and sales amount and refer the case to the competent tax authority so as to transmit the case to the court for imposition of penalty.
+
+The records referred to in the preceding paragraph shall be signed by the business entity or the purchaser or the chop (seal) thereof shall be affixed thereto. In the case that both of them refuse to sign or affix their chop (seal), the inspector shall record such factual events.
+
+## Chapter 6 Penalty Provisions
+
+#### Article 45
+
+A business entity failing to apply for taxation registration in accordance with the prescribed provision, in addition to being ordered to comply with the requirements within a specified time limit, may be punished with an administrative fine of no less than NT$3,000 and no more than NT$30,000. In case of a failure in compliance with the requirements within the specified time limit, the business entity may be punished consecutively for each violation according to the relevant laws and regulations.
+
+#### Article 46
+
+In any of the following circumstances, the business entity, in addition to being notified to make corrections or to comply with the requirements within a specified time limit, may be fined no less than NT$ 1,500 and no more than NT$15,000. Failure in compliance with the rules within the time limit may result in continuous punishment for each violation until compliance is met according to the relevant laws and regulations:
+
+1.The business entity fails to comply with the rules to apply for modification of registration, cancellation of registration, or temporary suspension or resumption of business.
+
+2.The business entity makes false statements in applying for business registration, modification of registration, or cancellation of registration.
+
+#### Article 47
+
+In any of the following circumstances, the taxpayer, in addition to being notified to make corrections or to comply with the requirements within a specified time limit, may be fined no less than NT$3,000 and no more than NT$30,000. Failure in compliance with the rules within the time limit may result in continuous punishment for each violation and suspension of business:
+
+1.Where uniform invoices have not been used, although prescribed.
+
+2.Where uniform invoices have been supplied for use by others.
+
+3.Where there is refusal to accept payment notice of business tax.
+
+#### Article 48
+
+In the event a business entity fails to record the necessary particulars or records false data on issuing uniform invoices, in addition to being ordered to make corrections or fulfill the requirements within a specified time limit, the business entity shall be fined an administrative fine of 1% of the sales amount on the uniform invoice, but in an amount of no less than NT$1,500 and no more than NT$15,000. In case the business entity fails to make corrections or fulfill the requirements after being notified, or fails to make appropriate corrections or fulfill the appropriate requirements, the penalty shall be imposed consecutively for each violation according to the relevant laws and regulations.
+
+In case the aforementioned unrecorded or false recorded item on the uniform invoice is the name, address, or business administration number of the purchaser, the second and the subsequent punishment shall be 2% of the sales amount stated on the invoice and shall be no less than NT$3,000 and no more than NT$30,000.
+
+#### Article 48-1
+
+In the event that a business entity fails to include the business tax in the list price that it sets for taxable goods or services under Paragraph 2, Article 32, and is notified to make corrections within a specified time limit but fails to do so, it shall be fined an administrative fine of no less than NT$1,500 and no more than NT$15,000.
+
+#### Article 48-2
+
+In the event that a business entity issuing and transmitting electronic uniform invoices via the internet or by other electronic means fails to transmit the electronic uniform invoices and the required relevant information, and the identification codes of carriers of the purchasers to the E-Invoice Platform of the MOF within the prescribed time limit, under Paragraph 1, Article 32-1, or fails to transmit the correct information, the business entity, in addition to being notified to make corrections or to comply with the requirements within a specified time limit, may be fined no less than NT$1,500 and no more than NT$15,000. Failure to make corrections or to comply with the requirements within the specified time limit may result in continuous punishment for each violation.
+
+#### Article 49
+
+In the event that a business entity fails to file the sales amount or a detailed list of uniform invoices used within the time limit as prescribed by in this Act, the business entity shall be liable to a delinquent reporting surcharge. The surcharge shall be equivalent to 1% of the tax payable for every two days overdue, provided that the filing is less than 30 days past due. The administrative fine shall not be less than NT$1,200 or more than NT$12,000. If the filing is in excess of 30 days past due, the business entity shall be liable to a non-reporting surcharge equivalent to 30% of the tax payable, as determined by the competent tax authority. The amount of this surcharge shall not be less than NT$3,000 or more than NT$30,000. Where there is no tax payable, the surcharges for delinquent reporting and non-reporting shall be NT$1,200 and NT$3,000 respectively.
+
+#### Article 49-1
+
+The tax-filing agent prescribed in Paragraph 1, Article 28-1 of this Act, who fails to file a business tax return and does not pay the business tax on behalf of the taxpayer within the prescribed period of time, shall be fined no less than NT$3,000 and no more than NT$30,000.
+
+#### Article 50
+
+A taxpayer, failing to pay any tax within the specified time limit, shall be subject to surcharge on belated payment. If the payment is not met thirty days after the time limit, the competent tax authority may, in addition to referring the case to the court for compulsory execution, suspend its business.
+
+Interest on the aforesaid tax due calculated at the fixed interest rate on January 1 of each year for a one-year time deposit of postal savings, shall accrue daily from the next day following the prescribed payment deadline to the date of full payment by the taxpayer.
+
+#### Article 51
+
+In any of the following circumstances, the taxpayer shall be pursued for payment of taxes owed and be fined no more than five times the amount of tax evaded, and the operation of the taxpayer's business may be suspended:
+
+\1. Where the taxpayer conducts business without application for taxation registration as required.
+
+\2. Where thirty days have elapsed since the time limit set for reporting the sales amount or detailed list of uniform invoices used, and the business tax due and payable has not been paid.
+
+\3. Where the sales amount is under-reported or not reported at all.
+
+\4. Where the taxpayer continues to conduct business after it has applied for cancellation of registration or its business has been suspended by the competent tax authority in accordance with the provisions of this Act.
+
+\5. Where the amount of input tax is falsely reported.
+
+\6. Where thirty days have elapsed since the time limit set for the payment of business tax, and the business tax has not been paid under Paragraph 1, Article 36 herein.
+
+\7. Where tax is evaded in any other way.
+
+In the event that a taxpayer falls within the circumstance of Subparagraph 5 of the preceding paragraph, if the taxpayer has obtained a voucher issued by a party that was not a counterparty to a transaction, and it is found that a purchase had occurred and that the voucher had been delivered to the taxpayer by the profit-seeking enterprise that sold the goods, and that the profit-seeking enterprise that sold the goods had duly made a supplementary payment of the tax owed and been penalized, the taxpayer may be exempted from the penalty prescribed in the preceding paragraph.
+
+#### Article 52
+
+A business entity found to have failed to issue uniform invoices or understated sales amount on uniform invoices before the statutory period for filing a tax return, in addition to paying the tax calculated on the basis of the understated or omitted sales amount at the prescribed tax rate, shall be fined no more than 5 times the amount of the tax evaded. But the amount of fines shall not exceed NT$1,000,000.
+
+Business entities found to have the aforementioned circumstance and committed such a violation three times within a one-year period shall be suspended from business operation.
+
+#### Article 53
+
+Where suspension of business is imposed as a penalty in accordance with this Act, a time period shall be set, with a maximum period of not exceeding six months, provided, however, that where, by the end of the period of suspension, the business entity penalized has not met the required obligation, the penalty may continue to be imposed until such time as the obligation is met.
+
+The penalty referred to in the preceding paragraph shall be enforced with the assistance of the police authorities and, further, a notice shall be given to the agency in charge of the business entity prior to enforcement.
+
+#### Article 53-1
+
+A business entity who violates the Business Tax Act is liable to penalties of the current provisions or the previous act, whichever is lesser.
+
+#### Article 54
+
+(Deleted)
+
+#### Article 55
+
+(Deleted)
+
+## Chapter 7 Supplementary Provisions
+
+#### Article 56
+
+(Deleted)
+
+#### Article 57
+
+The tax due, surcharges for delinquent reporting, non-reporting, and belated payment, and interest owed by a taxpayer pursuant to provisions of this Act and tax which shall be levied at the time of merger, transfer, dissolution or nullification, and which has yet to be levied, or which shall be paid but the time for payment of which has not expired, shall all take precedence over ordinary debts.
+
+#### Article 58
+
+In order to prevent tax evasion, maintain control of sources of tax revenue, and promote the use of uniform invoices, the MOF shall prescribe uniform invoice reward regulations. Three percent of the annual business tax revenue shall be set aside to support payment of rewards.
+
+#### Article 59
+
+The enforcement rules of this Act shall be prescribed by the MOF and submitted to the Executive Yuan for approval and promulgation.
+
+#### Article 60
+
+The effective date of the act shall be prescribed by the Executive Yuan. The only exceptions are Article 11 and 21, which were revised on 28 June, 1999 and came into force on 1 July, 1999, and the article amended on 26 May 2017 shall take force from the day of promulgation.
+
+## Attachments
+
+- [The Table of the Time Limits for Issuing Documentary Evidence of Sales.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008796)
+
+## History
+
+\1. Promulgated on June 13, 1931.
+
+\2. Amended and Promulgated on September 26, 1941.
+
+\3. Amended and Promulgated on July 2, 1942.
+
+\4. Amended and Promulgated on April 16, 1946.
+
+\5. Amended and Promulgated on May 2, 1947.
+
+\6. Article 5 Amended and Promulgated on November 14, 1947.
+
+\7. Amended and Promulgated on June 7, 1950.
+
+\8. Amended and Promulgated on November 24, 1951.
+
+\9. Article 4 Amended and Promulgated on September 19, 1952. Article 22 was added.
+
+\10. Amended and Promulgated on December 30, 1955.
+
+\11. Article 6 Amended and Promulgated on April 13, 1959.
+
+\12. Amended and Promulgated on December 30, 1965.
+
+\13. Article 7 Amended and Promulgated on January 11, 1968.
+
+\14. Articles 7 and 9 Amended and Promulgated on November 28, 1970.
+
+\15. Amended and Promulgated on June 29, 1980.
+
+\16. Amended and Promulgated on 15 November 1985 by Presidential Decree No. Hua–Tsung-1-Yi 5730.
+
+\17. Amended and Promulgated on 27 May 1988 by Presidential Decree No. Hua–Tsung-1-Yi 2048.
+
+\18. Article 54 and Article 55 deleted and promulgated on 30 July 1993 by Presidential Decree No. Hua–Tsung-1-Yi 3703.
+
+\19. Article 8 amended on 18 January 1995 by Presidential Decree No. Hua–Tsung-1-Yi 0248.
+
+\20. Article 8 and Article 51 amended on 2 August 1995 by Presidential Decree No. Hua–Tsung-1-Yi 5658.
+
+\21. Article 16 and Article 20 amended on 7 May 1997 by Presidential Decree No. Hua–Tsung-1-Yi 8600104810.
+
+\22. Article 52 amended on 30 May 1997 by Presidential Decree No. Hua–Tsung-1-Yi 8600126780.
+
+\23. Article 8 amended on 29 October 1997 by Presidential Decree No. Hua–Tsung-1-Yi 8600231640.
+
+\24. Article 53-1 amended on 17 June 1998 by Presidential Decree No. Hua–Tsung-1-Yi 8700119510.
+
+\25. Article 11, Article 21 & Article 60 and the time schedule for issuing sales certificate by enterprises engaged in futures and commercial papers were amended on 28 June 1999 by Presidential Decree No. Hua–Tsung-1-Yi 8800150080.
+
+\26. Articles 3-1 and 8-1 amended on 13 June 2001 by Presidential Decree No. Hua–Tsung-1-Yi 9000115180.
+
+\27. The title of Business Tax Act was renamed to Value-added and Non-value-added Business Tax Act and amended Articles 1, 11, 41, 49 and 60,and added Articles 1-1, 8-2 on 9 July 2001 by Presidential Decree No. Hua–Tsung-1-Yi 9000134120.
+
+\28. Article 11 amended on 25 June 2003 by Presidential Decree No. Hua–Tsung-1-Yi 09200114870.
+
+\29. Article 8-2 deleted and Article 11 amended on 22 June 2005 by Presidential Decree No. Hua–Tsung-1-Yi 09400092831.
+
+\30. Article 8 amended on 3 February 2006 by Presidential Decree No. Hua–Tsung-1-Yi 09500014911.
+
+\31. Article 15-1 amended on 12 December 2007 by Presidential Decree No. Hua–Tsung-1-Yi 09600164551.
+
+\32. Article 8 and Article 9 amended on 16 January 2008 by Presidential Decree No. Hua–Tsung-1-Yi 09700003931.
+
+\33. Article 9-1 amended on 10 March, 2008 by Presidential Decree Hua-tzung-1 Yi No.09700029861.
+
+\34. Article 7-1 amended on 5 May, 2010 by Presidential Decree Hua-tzung-1 Yi No.09900110351.
+
+\35. Article 51 amended on 8 December, 2010 by Presidential Decree Hua-tzung-1 Yi No.09900331431.
+
+\36. Articles 3-2, 6-1, 8-3, 30-1, 42-1, 48-1 added and Articles 2, 5, 7, 8, 9, 13, 16, 20, 23, 28, 30, 32, 36, 51 amended and promulgated on 26 January 2011 by Presidential Decree No. Hua-Tsung-1-Yi 10000016571. The effective date of the amendments to the Act shall be prescribed by the Executive Yuan.(The amendments came into force from 1 April 2011)
+
+\37. Article 36-1 was added and promulgated on 23 November 2011 by Presidential Decree No. Hua-Tsung-1-Yi 10000259711. The effective date of the amendment to the act shall be prescribed by the Executive Yuan.(The amendment came into force from 23 November 2011)
+
+\38. Article 12 was amended and promulgated on 8 January 2014 by Presidential Decree No. Hua-Tzung-1-Yi 10300000631.
+
+\39. Articles 11 and 36 were amended and promulgated on 4 June 2014 by Presidential Decree No. Hua-Tzung-1-Yi 10300085111. (The amendments came into force from 1 July 2014)
+
+\40. Addendum to Article 32-1 and Amendments to Articles 32, 45-48, 49, and 52 are promulgated via Presidential Decree No. Hua-Tsung-1-Yi 10400151441 on 30 December 2015. The effective date of the amendments to the Act shall be prescribed by the Executive Yuan.(The amendments came into force from 1 January 2016)
+
+\41. Addenda to Articles 2-1, 28-1, and 49-1 and Amendments to Articles 6, 28, 29 to 30-1, 36, 43, 45, and 51 are promulgated via Presidential Decree No. Hua-Tsung-1-Yi 10500161481 on 28 December 2016. The effective date of the amendments to the Act shall be prescribed by the Executive Yuan. (The amendments came into force from 1 May 2017)
+
+\42. Amendments to Articles 50 and 60 were promulgated via Presidential Decree Hua-tzung-Yi No. 10600073251 on June 14, 2017. The effective date of the amendments to the Act shall take force from the day of promulgation.
+
+\43. Amendments to Articles 2-1 and 6 were promulgated via Presidential Decree Hua-Tsung-1-Jing No.11200105801 on December 6, 2023. The effective date of the amendments to the Act shall be prescribed by the Executive Yuan. (The amendments came into force from December 20, 2023.)
+
+\44. Addendum to Article 48-2 and Amendments to Articles 6-1, 32-1, and 50 were promulgated via Presidential Decree Hua-Tsung-1-Yi No.11300068911 on August 7, 2024. The effective date of the amendments to the Act shall be prescribed by the Executive Yuan. (The amendments came into force from January 1, 2025.)
+
+\45. Amendment to Article 58 was promulgated via Presidential Decree Hua-Tsung-1-Jing No.11400053231 on May 28, 2025. The effective date of the amendment to the Act shall be prescribed by the Executive Yuan. (The amendment came into force from January 1, 2026.)

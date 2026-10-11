@@ -1,0 +1,121 @@
+---
+title: "Ocean Basic Act"
+title_zh: "海洋基本法"
+identifier: "D0090064"
+type: act
+law_level: "法律"
+category: "行政＞海洋委員會＞組織目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2019-11-20
+last_amended: 2019-11-20
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0090064"
+retrieved: 2026-10-12
+---
+
+# Ocean Basic Act
+
+> Translation. The Chinese text ([zh/laws/ocean-affairs-council/D0090064-ocean-basic-act.md](../../../zh/laws/ocean-affairs-council/D0090064-ocean-basic-act.md)) is authoritative.
+
+## Article 1
+
+In order to create a high-quality marine country that is ecological, safe, and prosperous, safeguard national marine rights and interests, enhance national marine scientific knowledge, deepen diversified marine culture, create a healthy marine environment, promote sustainable resources, improve the development of the marine industry, and promote regional and international marine affairs cooperation, hereby this Act is enacted.
+
+## Article 2
+
+The terms used in the Act are defined as follows:
+
+\1. Marine resources: refers to living or non-living natural resources in the covering waters of the sea floor and the sea floor and their subsoil.
+
+\2. Marine industry: refers to the use of marine resources and space for various production and service activities, or other industries related to marine resources.
+
+\3. Ocean development: refers to the sustainable use of marine resources, reasonable and good governance, cultivation and management.
+
+\4. Marine affairs: refers to the public affairs related to the ocean.
+
+## Article 3
+
+The government shall promote ocean-related knowledge, facilitate information, ensure the richness and vitality of the ocean, and create a high-value-added marine industrial environment. It shall also pursue a friendly environment, sustainable development, and reasonable and effective resources utilization and international cooperation and exchanges to protect and safeguard the maritime rights and interests of the nation, generations, and ethnic groups.
+
+## Article 4
+
+The government shall coordinate and integrate the maritime powers and responsibilities of the various industry competent authorities and jointly promote marine affairs.
+
+The government should enact (formulate) regulations for marine spatial planning, coordinate the use of sea areas and coopetition, and implement integrated marine management in response to the needs of multi-purpose marine use.
+
+## Article 5
+
+The government shall respect the principles of history, sovereignty, sovereign rights, and jurisdiction, and actively participate in regional and international cooperation related to marine affairs, maintaining, developing and sustainably sharing marine resources on the basis of peace, reciprocity, and ensuring our national marine rights and interests.
+
+## Article 6
+
+Nationals, enterprises and civil society organizations shall assist the government in advancing national marine policies, various related governance plans and measures.
+
+## Article 7
+
+In order to safeguard and promote our national marine rights and interests, national security, maritime public security, and maritime safety, and in response to major emergencies, the government should use a global perspective and international strategic thinking to enhance the energy of marine affairs execution and strengthen marine power to meet the needs of national survival, security and development.
+
+## Article 8
+
+The government shall integrate and make good use of domestic resources, formulate marine pollution prevention and control measures, reduce pollution at its source, strengthen pollution prevention and control energy, effectively respond to climate change, prudently promote national spatial planning, strengthen marine disaster protection, accelerate marine rehabilitation, and actively promote regional and international cooperation to protect the marine environment.
+
+## Article 9
+
+The government shall actively promote and assist the development of the marine industry, and in combination with fiscal, taxation and financial systems, provide a sound development policy for the marine industry, cultivate domestic talents and industrial chains, and promote the development of the marine economy.
+
+## Article 10
+
+The government shall establish an appropriate mechanism to respect, maintain, and preserve marine cultural assets such as traditional sea-use wisdom, safeguard and inherit the traditional sea-use culture and rights of indigenous peoples, and take into account scientific management of fisheries.
+
+The government shall plan to give play to the characteristics of marine space, create friendly marine facilities, develop marine sports, sightseeing, and recreational activities, strengthen the people's pro-sea and sea-loving awareness, and build a new civilization in which people and the sea coexist and prosper.
+
+## Article 11
+
+The government shall incorporate the important knowledge of oceans into the national basic education and training program of civil servants, integrate relevant teaching resources, training institutions or organizations, and establish links between schools at all levels and with regions and societies to promote universal marine education that all the people have access to.
+
+## Article 12
+
+The government shall promote the cooperation between the public and private sectors and academic institutions, establish a coordinated and integrated mechanism for the use and development of marine research resources, and enhance the capabilities of marine science research, law and policy development, and cultural expertise, conduct long-term, applied, and basic surveys and research, and establish a national marine information system and sharing platform.
+
+## Article 13
+
+The government shall, based on the ecosystem approach, prioritize the protection of natural coasts, landscapes, important marine life habitats, special and endangered species, vulnerable and sensitive areas, underwater cultural assets, etc., preserve marine biodiversity, formulate relevant preservation, conservation, protection policies and plans, adopt impact mitigation measures, ecological compensation or other development alternatives, set up marine protected areas, and strive to restore the marine ecosystem and natural context, and protect the original sea users’ rights.
+
+## Article 14
+
+The government shall designate budgeting slackly for marine affairs and take necessary measures to ensure that the budgetary funds meet the requirements for implementing policies.
+
+The government should allocate and invest resources reasonably according to actual needs, subsidize and commend relevant academic institutions, marine industries, civil society and individuals, etc., and jointly promote related marine affairs and measures.
+
+The central government may set up an ocean development fund to handle ocean development and resource sustainability related issues.
+
+## Article 15
+
+The government shall release a white paper on national marine policy within one year after the implementation of the Act, and shall periodically review and amend it in accordance with its performance and developments at home and abroad.
+
+Governments at all levels should cooperate with the national marine policy white paper, and review the policies and administrative measures they are in charge of. If some do not meet the requirements, they should formulate and amend their relevant policies and administrative measures and promote implementation.
+
+## Article 16
+
+Governments at all levels shall review the governing laws and regulations in accordance with the provisions of the Act within two years after the implementation of the Act. If some do not conform to the provisions of the Act, they shall enact (formulate), amend or abolish them.
+
+Before the regulation of the preceding paragraph is enacted (formulated), amended, or abolished, it shall be interpreted and applied by the central ocean specialized agency in cooperation with the central industry competent authority in accordance with the provisions of the Act.
+
+## Article 17
+
+Governments at all levels shall actually implement marine related laws and regulations, and those who violate them shall be banned and punished according to law.
+
+## Article 18
+
+In order to promote the deepening of the marine awareness of the government and all walks of life, June 8 is specifically designated as National Ocean Day.
+
+## Article 19
+
+The Act shall enter into force from the date of promulgation.
+
+## History
+
+1.Promulgated under Presidential Decree Hua-Tsong 1 Yi No.10800126571 on November 20, 2019

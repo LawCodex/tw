@@ -1,0 +1,305 @@
+---
+title: "Statutes for Establishment and Management of Budget, Accounting and Statistics Agencies and BAS Personnel"
+title_zh: "主計機構人員設置管理條例"
+identifier: "T0010003"
+type: act
+law_level: "法律"
+category: "行政＞行政院主計總處＞組織目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1981-12-28
+last_amended: 2012-12-05
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=T0010003"
+retrieved: 2026-10-12
+---
+
+# Statutes for Establishment and Management of Budget, Accounting and Statistics Agencies and BAS Personnel
+
+> Translation. The Chinese text ([zh/laws/directorate-general-of-budget-accounting-and-statistics/T0010003-statutes-for-establishment-and-management-of-budget-accounting-and-statistics.md](../../../zh/laws/directorate-general-of-budget-accounting-and-statistics/T0010003-statutes-for-establishment-and-management-of-budget-accounting-and-statistics.md)) is authoritative.
+
+## Chapter I General Provisions
+
+### Article 1
+
+The establishment and management of Budget, Accounting and Statistics ("BAS") Agencies and BAS personnel of all levels shall be conducted in accordance with the Act.
+
+### Article 2
+
+The term “Budget, Accounting and Statistics Agencies ("BAS Agencies") as mentioned in the Act shall refer to Agencies in charge of the budget, accounting and statistics affairs within governments of all levels, public organizations, public schools, state-owned enterprises, and organizations governing state-owned enterprises (hereinafter referred to as "organizations").
+
+The Directorate-General of Budget, Accounting and Statistics, Executive Yuan is the central BAS Agency in charge of the nation's BAS affairs.
+
+### Article 3
+
+First-level BAS Agencies mentioned in the Act consist of the following:
+
+\1. BAS Agencies of the Office of the President, National Security Council, Executive Yuan, Legislative Yuan, Judicial Yuan, Examination Yuan, and Control Yuan.
+
+\2. BAS Agencies of central second-level agencies and organizations or independent organizations equivalent to central second-level organizations, provincial governments, and provincial consultative councils.
+
+\3. BAS Agencies and organizations of special municipality governments and county (city) governments.
+
+### Article 4
+
+The term “budget, accounting and statistics personnel” as mentioned in the Act shall refer to the personnel in charge of the budget, accounting and statistics affairs.
+
+BAS Personnel are separated into "Responsible BAS Personnel" and "BAS Assistants”. The Comptrollers of Central BAS Authority and the personnel of organizations that take charge of the overall budget, accounting and statistics affairs are categorized as “Responsible BAS Personnel”, whereas the others are categorized as “BAS Assistants”.
+
+## Chapter II Establishment of BAS Agencies
+
+### Article 5
+
+The establishment of BAS Agencies and staff quota standards shall be stipulated by the Central BAS Authority on the basis of factors such as the grade of the agency in question, its organizational form, the number of its subordinate agencies and organizations, and the level of complexity of the BAS affairs.
+
+### Article 6
+
+The BAS Agencies of central government organizations shall be established in accordance with BAS agency establishment and staff quota standards; when standards for establishing a BAS agency are met, the agency's name and the titles of its Responsible BAS Personnel shall be determined as follows:
+
+\1. A Department of BAS, Department of Accounting, or Department of Statistics shall be headed by a Director.
+
+\2. A BAS Office, Accounting Office, or Statistics Office shall be headed by a Chief.
+
+A Department of BAS, Department of Accounting, or Department of Statistics mentioned in the preceding Paragraph may have a Deputy Director.
+
+When a first-level BAS agency establishes a Department or Office of BAS, it may establish a separate Department or Office of accounting or Department or a separate Office of statistics in view of the country's statistical service needs. When a first-level BAS Agency only establishes a Department or Office of BAS, its subordinate BAS Agencies at all levels shall, as a rule, establish BAS Offices. If, in view of special circumstances, there is indeed a need for an independent statistical unit, the Agency may establish a separate Accounting Office and Statistics Office. When a first-level BAS Agency establishes a separate Department or Office of accounting and Department or Office of statistics, its subordinate BAS Agencies at all levels shall, depending on statistical service needs, establish separate Accounting and Statistics Offices; however, if statistical matters are simple, the Agency shall establish a BAS Office, and the BAS Office shall assign specific personnel to perform statistical matters.
+
+If, due to service needs or special circumstances, statistical units mentioned in Paragraph 1 must be merged to perform matters of a similar nature at the organization, the organization to which the first-level BAS Agency is subordinate shall give its consent after consulting the Central BAS Authority, and the new unit must be given a separate name; the titles of the Responsible BAS Personnel and Deputy positions shall be determined as specified in Paragraphs 1 and 2 on the basis of the Offices and Departments that have been established. The BAS staff quota and BAS personnel management matters of such a statistical unit shall be managed pursuant to the BAS system, and the management shall be specified in the Agency's organizational regulation.
+
+When an organization has not established a statistical unit, statistical matters shall be implemented by the organization's BAS Agency.
+
+### Article 7
+
+The BAS Agencies of local government organizations shall be established in accordance with BAS Agency establishment and staff quota standards; when standards for establishing a BAS Agency are met, the Agency's name and the titles of its Responsible BAS Personnel shall be determined as follows:
+
+\1. A Department of BAS established by a special municipality government shall be headed by a Director.
+
+\2. When an organization subordinate to a special municipality government establishes an Accounting Office, it shall be headed by a Chief; when the organization has a heavy load of statistical matters, it may also establish a separate Statistics Office, which shall be headed by a Chief.
+
+\3. A Department of BAS established by a county or city government shall be headed by a Director.
+
+\4. When an organization subordinate to a county or city government establishes an Accounting Office, it shall be headed by a Chief; when the organization has a heavy load of statistical matters, it may also establish a separate Statistics Office, which shall be headed by a Chief.
+
+\5. A BAS Office established by a township or city public office shall be headed by a Chief.
+
+In the preceding Paragraph, a Department of BAS of a special municipality government shall also have a Deputy Director; a county or city government Department of BAS may have a Deputy Director.
+
+If an organization has not established a statistical unit, statistical matters shall be implemented by the organization's BAS Agency.
+
+### Article 8
+
+An organization that fails to meet the standards of BAS agency establishment for offices and departments as well as staff quota standards, shall handle the situation employing one of the following approaches:
+
+\1. It may be handled by the BAS Agency of its supervisory organization, in which case the budgeted amount and budget personnel quota may be calculated together with the BAS personnel quota of the supervisory organization in question.
+
+\2. In the case of central government fourth-level organizations as well as second-level organizations subordinate to special municipality and county or city governments, and the Executive of the service unit has a grade of recommended appointment below 8th rank, a dedicated BAS position may be established to perform relevant matters, and that person's title shall be BAS Personnel, Accountant, or Statistician.
+
+\3. The supervisory organization's BAS agency may assign BAS Personnel to perform relevant matters concurrently.
+
+\4. The same competent Authority may merge BAS Agencies established by several subordinate organizations into one.
+
+\5. The supervisory organization's BAS Agency may request the organization in question to select appropriate personnel from that organization and assign them concurrently pursuant to the BAS system.
+
+The competent Authority mentioned in Subparagraph 4 of the preceding Paragraph means the organization to which these first-level BAS Agencies are subordinate.
+
+The dedicated BAS Personnel mentioned in Subparagraph 2 of Paragraph 1 shall be considered as BAS Agencies. The Personnel mentioned in Subparagraphs 3 or 5 of  Paragraph 1 assigned to bear responsibility of the organization's BAS affairs concurrently shall be considered as Responsible BAS Personnel. While such concurrent Personnel shall bear the title of Director, when the Executive of the service unit in question has a grade of recommended appointment below 8th rank, and is responsible for the organization's BAS affairs, concurrent Personnel at central government fourth-level organizations and second-level organizations subordinate to special municipality and county or city governments shall bear a title of BAS Personnel, Accountant, or Statistician.
+
+### Article 9
+
+The name of an organization's BAS Agency shall be determined in that organization's organizational regulation.
+
+The grades of an organization's BAS Personnel shall be determined based on the organization's organizational regulation or applicable position grading table regulations. The grades of Responsible BAS Personnel should generally be equivalent to those of the organization's first-level service unit Executives.
+
+### Article 10
+
+Depending on the level of complexity of its functions, a Department of BAS, Department of Accounting, or Department of Statistics may establish separate divisions or sections to perform its functions. A BAS Office, Accounting Office, or Statistics Office may establish separate divisions, sections, or units to perform its functions.
+
+### Article 11
+
+Any matter in connection with the title of BAS Agency of an organization, or the titles and ranks of its Responsible BAS Personnel, or its internal organization, to which the provisions of Article 6, 7 and abovementioned Articles hereof are inapplicable, may be determined under the internal organization rules of such organization and by comparison to its other personnel of the same rank. The title of a BAS Assistant shall be made by comparison to the personnel of the same rank in the organization where such BAS Assistant serves.
+
+### Article 12
+
+The staffing affairs of a BAS Agency shall be arranged by its supervisory BAS Agency and reported to the Central BAS Authority for approval, provided that subject to the actual needs, such approval may be granted through authorization to a subordinate Agency; the regulation concerning therewith shall be determined by the Central BAS Authority.
+
+## Chapter III Retainment of BAS Personnel
+
+### Article 13
+
+The Administrative Deputy Minister of the Central BAS Authority shall be appointed and retained by the Minister from and among the incumbent Comptrollers or persons with prominent academic acquirements in BAS fields, abundant administrative experience, and qualification for the rank of the proposed position.
+
+### Article 14
+
+The Comptrollers of the Central BAS Authority shall bear one of the following qualifications:
+
+\1. Has served as a Comptroller and is qualified for the rank of the proposed position.
+
+\2. Has been in charge of BAS duties for at least one year with the rank of the 12th grade or above of selected appointment or an equivalent rank and grade, has delivered good performance, and is qualified to assume the proposed position.
+
+\3. Has been in charge of BAS duties at a Central BAS Authority for at least five years with the rank of the 10th grade of selected appointment or above or an equivalent rank and grade, has delivered good performance, and is qualified to assume the proposed position.
+
+\4. Has passed exams on subjects related to accounting, auditing, and statistics on the Civil Service Senior Examination, or on a civil servants special examination or a recommended appointment promotion examination at an equivalent level, or has graduated from a BAS or BAS-equivalent department in a domestic or foreign university accredited by the Ministry of Education, has performed BAS or audit duties for at least four years with the rank of the 10th grade or above of selected appointment or an equivalent rank and grade, has delivered good performance, and is qualified to assume the proposed position.
+
+\5. Has served as a full-time professor lecturing on BAS subjects or related subjects for 3 years or more in a foreign or domestic university accredited by the Ministry of Education, has special academic work in BAS fields, and is qualified for the rank of the proposed position.
+
+### Article 15
+
+Persons appointed to be in charge of BAS duties with the rank of the 12th grade or above of selected appointment or an equivalent rank and grade shall bear one of the following qualifications:
+
+\1. Has been in charge of BAS duties with the rank of the 12th grade or above of selected appointment or an equivalent rank and grade and is qualified to assume the proposed position.
+
+\2. Has served as the chief of a department of accounting or statistics or has been in charge of BAS duties for at least one year with the rank of the 11th grade or above of selected appointment or an equivalent rank and grade, has delivered good performance, and is qualified to assume the proposed position.
+
+\3. Has passed exams on subjects related to accounting, auditing, and statistics on the Civil Service Senior Examination, or on a civil servants special examination or a recommended appointment promotion examination at an equivalent level, or has graduated from a BAS or BAS-equivalent department in a domestic or foreign university accredited by the Ministry of Education, and has performed BAS or audit duties for at least three years with the rank of the 10th grade or above of selected appointment or an equivalent rank and grade, has delivered good performance, and is qualified to assume the proposed position.
+
+\4. Has performed BAS duties for at least four years with the rank of the 10th grade or above of selected appointment or an equivalent rank and grade, or has performed BAS duties for at least six years with the rank of the 9th grade of recommended appointment or above or an equivalent rank and grade, has delivered good performance, and is qualified to assume the proposed position.
+
+### Article 16
+
+Persons appointed to be in charge of BAS duties with the highest as the rank of the 11th grade of selected appointment or an equivalent rank and grade shall bear one of the following qualifications:
+
+\1. Has been in charge of BAS duties with the highest as the rank of the 11th grade of selected appointment or an equivalent rank and grade and is qualified to assume the proposed position.
+
+\2. Has been in charge of BAS duties for at least one year with the rank of the 9th  grade or above of selected appointment or an equivalent rank and grade, has delivered good performance, and is qualified to assume the proposed position.
+
+\3. Has passed exams on subjects related to accounting, auditing, and statistics on the Civil Service Senior Examination, or on a civil servants special examination or a recommended appointment promotion examination at an equivalent level, or has graduated from a BAS or BAS-equivalent department in a domestic or foreign university accredited by the Ministry of Education, and has performed BAS or audit duties for at least one year with the rank of the 10th grade or above of selected appointment or an equivalent rank and grade, and is qualified to assume the proposed position.
+
+\4. Has performed BAS duties for at least two years with the rank of the 10th grade or above of selected appointment or an equivalent rank and grade, or has perform BAS duties for at least five years with the rank of the 9th grade or above of recommended appointment or an equivalent rank and grade, has delivered good performance, and is qualified to assume the proposed position.
+
+### Article 17
+
+Persons appointed to be in charge of BAS duties with the highest as the rank of the 10th grade of selected appointment or an equivalent rank and grade shall bear one of the following qualifications:
+
+\1. Has been in charge of BAS duties with the highest as the rank of the 10th grade of selected appointment or an equivalent rank and grade and is qualified to assume the proposed position.
+
+\2. Has been in charge of BAS duties for at least two years with the rank of the 9th grade of recommended appointment or an equivalent rank and grade, has delivered good performance, and is qualified to assume the proposed position.
+
+\3. Has passed exams on subjects related to accounting, auditing, and statistics on the Civil Service Senior Examination, or on a civil servants special examination or a recommended appointment promotion examination at an equivalent level, or has graduated from a BAS or BAS-equivalent department in a domestic or foreign university accredited by the Ministry of Education, and has performed BAS duties for at least three years with the rank of the 9th grade or above of recommended appointment or an equivalent rank and grade, has delivered good performance, and is qualified to assume the proposed position.
+
+\4. Has performed BAS duties for at least one year with the rank of the 10th grade or above of selected appointment or an equivalent rank and grade, or has performed BAS duties for at least four years with the rank of the 9th grade or above of recommended appointment or an equivalent rank and grade, has delivered good performance, and is qualified to assume the proposed position.
+
+### Article 18
+
+Persons appointed to be in charge of BAS duties with the highest as the rank of the 9th grade of recommended appointment or an equivalent rank and grade shall bear one of the following qualifications:
+
+\1. Has been in charge of BAS duties with the highest as the rank of the 9th grade of recommended appointment or an equivalent rank and grade and is qualified to assume the proposed position.
+
+\2. Has performed BAS duties for at least one year with the rank of the 9th grade of recommended appointment or an equivalent rank and grade, has delivered good performance, and is qualified to assume the proposed position.
+
+\3. Has been in charge of BAS duties for at least three years with the rank of the 8th grade of recommended appointment or an equivalent rank and grade, has delivered good performance, and is qualified to assume the proposed position.
+
+\4. Has passed exams on subjects related to accounting, auditing, and statistics on the Civil Service Senior Examination, or on a civil servants special examination or a recommended appointment promotion examination at an equivalent level or has graduated from a BAS or BAS-equivalent department in a domestic or foreign university accredited by the Ministry of Education, and has performed BAS or audit duties for at least three years with the rank of the 8th grade or above of recommended appointment or an equivalent rank and grade, has delivered good performance, and is qualified to assume the proposed position.
+
+\5. Has performed BAS duties for at least five years with the rank of the 7th or above grade of recommended appointment or an equivalent rank and grade, has delivered good performance, and is qualified to assume the proposed position.
+
+### Article 19
+
+Persons appointed to be in charge of BAS duties with the highest as the rank of the 8th grade of recommended appointment or an equivalent rank and grade shall bear one of the following qualifications:
+
+\1. Has been in charge of BAS duties with the highest as the rank of the 8th grade of recommended appointment or an equivalent rank and grade and is qualified to assume the proposed position.
+
+\2. Has performed BAS duties for at least one year with the rank of the 8th grade of recommended appointment or an equivalent rank and grade and is qualified to assume the proposed position.
+
+\3. Has been in charge of BAS duties for at least two years with the rank of the 7th grade of recommended appointment or an equivalent rank and grade, has delivered good performance, and is qualified to assume the proposed position.
+
+\4. Has passed subjects related to accounting, auditing, and statistics on the Civil Service Senior Examination, or on a civil servants special examination or a recommended appointment promotion examination at an equivalent level or has graduated from a BAS or BAS-equivalent department in a domestic or foreign university accredited by the Ministry of Education, and has performed BAS or audit duties for at least four years with the rank of the 6th grade of recommended appointment or above or an equivalent rank and grade, has delivered good performance, and is qualified to assume the proposed position.
+
+\5. Has performed BAS duties for at least five years with the rank of the 6th grade or above of recommended appointment or an equivalent rank and grade, has delivered good performance, and is qualified to assume the proposed position.
+
+### Article 20
+
+Persons appointed to be in charge of BAS duties with the highest as the rank of the 7th grade of recommended appointment or an equivalent rank and grade shall bear one of the following qualifications:
+
+\1. Has been in charge of BAS duties with the highest as the rank of the 7th grade of recommended appointment or an equivalent rank and grade and is qualified to assume the proposed position.
+
+\2. Has passed exams on subjects related to accounting, auditing, and statistics on a civil service personnel examination or a civil service personnel promotion examination, has performed BAS or audit duties for at least one year, has delivered good performance, and is qualified to assume the proposed position.
+
+\3. Has performed BAS duties for at least one year with the rank of the 6th grade or above of recommended appointment or an equivalent rank and grade, has delivered good performance, and is qualified to assume the proposed position.
+
+\4. Has performed BAS duties for at least two years, has delivered good performance, and is qualified to assume the proposed position.
+
+### Article 21
+
+BAS Assistants of all ranks shall be recruited from those who are qualified for the rank of proposed position while subject to their work experience and education background in budget, accounting, and statistics or in other related fields.
+
+### Article 22
+
+The assignment of BAS duties stipulated by law for those who have passed the accounting and statistics civil servants examinations shall be conducted by the Central BAS Authority.
+
+## Chapter IV Management of BAS Personnel
+
+### Article 23
+
+The Minister may re-assign budget, accounting, and statistics personnel at any organization to different positions.
+
+### Article 24
+
+The employment/discharge or promotion/transfer of the Responsible BAS Personnel of First-level BAS Agencies shall be conducted by the Central BAS Authority, while the employment/discharge or promotion/transfer of all other BAS Personnel shall be conducted by their respective BAS Agencies or by the BAS Agencies superior to their Agencies by reporting to the Central BAS Authority for approval, provided that subject to the actual needs, such approval may be granted through authorization based on the official or position rank; the regulations concerning therewith shall be stipulated by the Central BAS Authority.
+
+When there is an employment/discharge or promotion/transfer of a BAS Personnel, the Chief of the organization where such BAS Personnel serves shall be informed upon announcement of such employment/discharge or promotion/transfer.
+
+### Article 25
+
+BAS personnel at state-owned enterprises shall be employed based on their work experience and education background in the budget, accounting, and statistics fields, which shall be performed in accordance with the employment statute applicable to the state-owned enterprise in question; the employment system is not subject to choice.
+
+Current BAS personnel who have undergone civil service qualification review in accordance with Civil Service Employment Act but are not qualified to be assigned to an equivalent position due to having been transferred to a transportation enterprise organization in the course of their career, current BAS personnel who had been transferred to a state-owned enterprise apart from a transportation enterprise organization in the course of their career and have a position classification on record, and current BAS personnel at state-owned enterprises who have been reviewed for civil service qualification in accordance with the Civil Service Employment Act may all continue to be employed in accordance with Civil Service Employment Act until they resign.
+
+### Article 26
+
+A system for periodical rotation of and among all levels of Responsible BAS Personnel shall be established, and the regulations concerning therewith shall be stipulated by the Central BAS Authority.
+
+### Article 27
+
+The salaries, performance evaluation, discharge, retirement, and pecuniary aid in case of death, as well as routine service grading and reward/punishment of BAS Personnel shall be respectively governed by the applicable laws and regulations; the procedures of conducting preceding matters shall conform to the BAS personnel system. However, the performance evaluation of BAS personnel shall consist of a preliminary review by a performance evaluation committee organized by the first-level BAS agency, a further review by Responsible BAS Personnel at the BAS agency, and the approval by the Central BAS Authority or an authorized BAS agency, which is then forwarded to the Ministry of Civil Service for final civil service review and approval. In the case of other performance evaluations not conducted at the end of the year, or performance evaluations conducted at first-level BAS Agencies due to special circumstances which do not involve performance evaluation committees (having been reported to the Central BAS Authority for approval), the cases consisting the dismissal of personnel due to performance evaluation results must be submitted to the Central BAS Authority's performance evaluation committee for assessment, while other such evaluation cases should be conducted by Responsible BAS Personnel at a subordinate first-level BAS Agency.
+
+Regarding routine evaluations and reward/punishment standards mentioned in the preceding Paragraph, the Central BAS Authority may separately draft reward/punishment regulations for use when evaluating BAS personnel; such reward/punishment regulations shall be submitted to the Ministry of Civil Service for subsequent reference.
+
+### Article 28
+
+The training or further education of BAS Personnel shall be overall proposed and conducted by the Central BAS Authority.
+
+First-level BAS Agencies may conduct a training or further education on their own subject to the actual needs provided that they shall report to the Central BAS Authority for approval and future reference.
+
+## Chapter V Supervision of BAS Personnel
+
+### Article 29
+
+The Responsible BAS Personnel of an organization shall report to the Responsible BAS Personnel of the organization superior to such organization while shall also be under the command of the chief of such organization in accordance with the law.
+
+BAS Assistants shall be under the command and supervision of their respective Responsible Personnel.
+
+### Article 30
+
+Responsible Personnel shall attend meetings concerning their functions held by the government or by the organization where they serve, associate and coordinate with related agencies to help making legal and appropriate disbursement of funds, and provide useful information for decision-making so as to enhance the administrative efficiency.
+
+## Chapter VI Supplementary Provisions
+
+### Article 31
+
+For needs of respective functions, BAS Agencies may recruit personnel from the fields of general administration, series of law codification, economic development and administration, information processing, or other related engineering series, provided that the personnel recruited from the above-mentioned fields shall not take up more than 1/10 of the total personnel.
+
+The Central BAS Authority may recruit personnel with the position classifications mentioned in the preceding Paragraph without the proportion restrictions specified in that paragraph when deemed necessary regarding implementing BAS functions as a whole and in compliance with the Central BAS Authority's organizational establishment regulations.
+
+### Article 32
+
+Unless otherwise stipulated by law, the salaries of BAS Personnel shall be determined by the “standards for salaries" of the organization where the BAS Personnel serve.
+
+### Article 33
+
+Where the title of BAS Agencies as well as the titles of the Responsible BAS Personnel given under the organizational regulations of each organization before the enforcement of the amendment of this Act fail to conform to the provisions of Article 6 and 7 hereof, the provisions of Article 6 and 7 hereof shall nevertheless govern.
+
+### Article 34
+
+The enforcement rules of this Act shall be made by the Central BAS Authority together with the Ministry of Civil Service.
+
+### Article 35
+
+The date on which this Act come into force shall be set by an order of the Executive Yuan.
+
+## History
+
+1.Date of Promulgation/Amendment: Promulgated on December 28, 1981 by President order No. (70)-Tai-Tong-(1)-Yi-Tze-8316
+
+2.Revised & announced on December 5, 2012 Hua-zong-yi-yi-zi No.10100269301

@@ -1,0 +1,597 @@
+---
+title: "Factory Management and Counseling Act"
+title_zh: "工廠管理輔導法"
+identifier: "J0030043"
+type: act
+law_level: "法律"
+category: "行政＞經濟部＞產業目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2001-03-14
+last_amended: 2024-05-24
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0030043"
+retrieved: 2026-10-12
+---
+
+# Factory Management and Counseling Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-economic-affairs/J0030043-factory-management-and-counseling-act.md](../../../zh/laws/ministry-of-economic-affairs/J0030043-factory-management-and-counseling-act.md)) is authoritative.
+
+## Chapter 1 General Provisions
+
+### Article 1
+
+This Act is enacted to promote industrial development and strengthen management and counseling to factories.
+
+### Article 2
+
+The competent authority referred to herein shall be the Ministry of Economic Affairs at the level of central government, the respective special municipality government at the level of special municipality, and the respective county (city) government at the level of country (city).
+
+### Article 3
+
+The term “factory”, as used herein, refers to a fixed place engaged in the manufacturing or processing of goods, where the area of the facilities thereof reaches a certain threshold, or where the production equipment reaches a certain threshold in term of power capacity or thermal energy.
+
+The criteria for defining the scope of the manufacturing or processing of goods, and the thresholds for the area and power capacity or thermal energy, as referred to in the preceding paragraph, shall be announced by the central competent authority.
+
+A business that has a fixed place for the manufacturing or processing of goods but does not meet the definition of factory specified in the preceding paragraph may still apply for a factory establishment permit or registration pursuant to this Act. Upon approval of the competent authority, such fixed place shall be regulated as a factory in accordance with this Act.
+
+Where the definition of factory hereunder is altered due to amendment of the criteria set forth in the second paragraph of this Article, the central competent authority shall, in such criteria, specify the deadline for application of a permit or registration for the businesses with a facility that did not meet the definition of a factory in the past but now does. As to the businesses whose facilities no longer meet the definition of a factory, the method for dealing with the factory registrations thereof shall be set forth in said criteria.
+
+### Article 4
+
+The duties of the competent authorities are as follows:
+
+\1.	Central competent authority:
+
+(1)	Drawing up or setting forth factory management laws and regulations and requirements for factory establishment.
+
+(2)	Conducting surveys of factories across the country and in various industries. .
+
+(3)	Approving and rejecting the applications for the transcripts of national factory registrations.
+
+(4)	Providing counseling for factories in selected industry sectors.
+
+(5)	Auditing and supervising the handling of factories in violation of this Act.
+
+(6)	Handling the applications for the establishment permits and registrations, management and counseling of factories in science-based industrial parks, export processing zones, free trade zones, agricultural technology parks and other specific zones approved by Executive Yuan.
+
+(7)	Other counseling and supervision matters regarding factory management.
+
+\2.	Competent authorities at the level of special municipalities and county (city):
+
+(1)	Handling the applications for the establishment permits, registrations of factories and revocations and cancellations thereof.
+
+(2)	Conducting surveys of factories within the jurisdiction.
+
+(3)	Approving and rejecting the applications for the transcripts of factory registrations within the jurisdiction.
+
+(4)	Providing counseling for factories within the jurisdiction.
+
+(5)	Handling the violations of this Act by the factories within the jurisdiction.
+
+(6)	Other matters assigned by the central competent authority.
+
+### Article 5
+
+The central competent authority may assign its subordinate organizations, and designate or commission other organizations (institutions) to handle matters specified in this Act.
+
+## Chapter 2 Registration and Establishment Permit
+
+### Article 6
+
+The enterprise to which a factory belongs shall be limited to a sole proprietorship, partnership, company, or business that may engage in manufacturing or processing activities pursuant to laws and regulations.
+
+### Article 7
+
+The name of a factory shall be the name of the enterprise to which it belongs; if an enterprise has two or more factories in the same special municipality, county (city), science-based industrial park, export processing zone, free trade zone, agricultural technology park or any other specific zone approved by Executive Yuan, the names of such factories shall be able to distinguish among themselves.
+
+### Article 8
+
+A factory shall have a responsible person; a person without or with restricted legal capacity shall not be the responsible person of a factory.
+
+The responsible person of a factory shall have a residence or domicile in Taiwan.
+
+### Article 9
+
+The land used for the establishment of factories shall be limited to land in urban planned industrial zones, non-urban Type D construction land, industrial zones designated for development pursuant to the law, or other land designated for the establishment of factories in accordance with laws.
+
+### Article 10
+
+A factory shall apply for registration in accordance with this Act after completion of the construction, and shall not engage in manufacturing or processing before the competent authority approves the registration application. However, this does not apply to the military factories owned by the Ministry of National Defense.
+
+Where a military factory of the Ministry of National Defense has been restructured into a factory of public or private business, the registration thereof shall be completed in accordance with this Act within three (3) years from the date of restructuring.
+
+### Article 11
+
+If a factory has any of following circumstances, it shall obtain an establishment permit before its establishment:
+
+\1.	The law stipulates that the factory’s establishment is subject to the approval of the industrial competent authority.
+
+\2.	Based on the policies of balanced industrial development, rational utilization of resources or energy conservation, the central competent authority has announced that the establishment of the factory is subject to the approval of the central competent authority.
+
+### Article 12
+
+A factory shall file for a factory registration within the period designated in the establishment permit. The permit will become invalid upon the expiration of the designated period if the registration is not filed therein.
+
+The designated period in the preceding paragraph shall not exceed two (2) years. However, if the registration cannot filed within the designated period with a reasonable cause, an application for extending the period for up to one (1) year may be filed prior to the expiration of the period. Such applications may be filed only for up to three (3) times.
+
+### Article 13
+
+The application for factory establishment permit or registration shall specify following information:
+
+\1.	Factory name and address
+
+\2.	The name and residence or domicile of responsible person.
+
+\3.	Industrial category
+
+\4.	Major products
+
+\5.	Power capacity, thermal energy and water volume to be consumed by the production equipment.
+
+\6.	Floor area of the factory and the buildings therein
+
+\7.	Other particulars to be registered as specified and announced by the central competent authority.
+
+The industrial category specified in Subparagraph 3 of the preceding paragraph shall be announced by central competent authority.
+
+### Article 14
+
+A factory shall not be granted an establishment permit or change its establishment permit under any of the following circumstances:
+
+\1.	An environmental impact assessment shall be conducted in accordance with Environmental Impact Assessment Act, while the relevant environmental impact statement or environmental impact assessment report has not been approved by the environmental protection authorities.
+
+\2.	The factory is in violation of land control regulations.
+
+\3.	The buildings of the factory are unauthorized structures or are in violation of the approved occupancy purpose of the structures.
+
+\4.	The central competent authority has announced the cessation of the establishment of a new factory or the expansion of an existing factory in accordance with Subparagraph 2, Paragraph 1, Article 17.
+
+### Article 15
+
+A factory shall not be registered or change its registration particulars under any of following circumstances:
+
+\1.	The manufacturing of the factory’s products is prohibited by law.
+
+\2.	The factory is in violation of land control regulations.
+
+\3.	The buildings of the factory are unauthorized structures or are in violation of the approved occupancy purpose of the structures.
+
+\4.	The factory is of the business type, scope and scale designated by the environmental protection authority, while the relevant environmental impact statement, environmental impact assessment report or pollution prevention plan has not been approved or agreed to by the environmental protection authorities.
+
+\5.	Where the factory is subject to any specific establishment requirements, the equipment of the factory fails to comply with such requirements.
+
+\6.	Where the manufacturing of the factory’s products is subject to prior establishment permit under the law, the establishment permit has not been obtained.
+
+\7.	Where the factory is required to obtain the establishment permit pursuant to Article 11, the factory does not obtain such permit or is not constructed pursuant to the establishment permit.
+
+\8.	The central competent authority has announced the cessation of the establishment of a new factory or the expansion of an existing factory in accordance with Subparagraph 2, Paragraph 1, Article 17.
+
+### Article 16
+
+Where there is any change in the particulars set forth in a factory establishment permit, the approval of an amended establishment permit shall be acquired before filing for a factory registration.
+
+Where there is any change in the registered particulars, an application for amending the registration must be filed.
+
+Where a factory is relocated or changes its category of industry, a new factory establishment permit or registration is required.
+
+### Article 17
+
+The central competent authority may adopt the following measures for the balanced industrial development, the rational utilization of resources, the protection of the ecology, environment and public interest, or to meet the requirements of international conventions and treaties or other policy needs:
+
+\1.	Imposing conditions when granting an establishment permit to a factory or approving its registration.
+
+\2.	Announcing the cessation of the establishment of new factories or the expansion of existed factories for selected products or areas.
+
+\3.	Announcing the compulsory reduction or cessation of production in existed factories for selected products or areas.
+
+The type of conditions set forth in Subparagraph 1 of the preceding paragraph shall be imposed in accordance with type of factory, products, operation model or other measures to be taken due to policy needs. The regulations governing the imposition of the conditions shall be prescribed by the central competent authority.
+
+The announcements set forth in Subparagraphs 2 and 3 of Paragraph 1 shall be made by central competent authority upon the approval of Executive Yuan.
+
+For compulsory reduction or cessation of production in existed factories in accordance with Subparagraph 3, Paragraph 1, the government may provide compensation. The regulations the scope, standards, procedures and relevant matters regarding the compensation shall be prescribed by the central competent authority.
+
+## Chapter 3 Management
+
+### Article 18
+
+In order to achieve a sound factory management or protect the public interest, he competent authority may notify a factory to submit or provide relevant information; where necessary, the competent authority may assign personnel to visit the factory to conduct investigation and the factory shall not evade, interfere or reject the investigation.
+
+When visiting the factory to conduct investigation, the personnel of competent authority shall present their identity documents and shall not engage in any behavior that interferes with or hinders the production, management, or leaks production secrets of the factory.
+
+To satisfy the control requirements of international convention or treaties, a factory shall submit reports on its production and sales of controlled substances within certain deadline; the same applies to any changes thereto. If necessary, the competent authority may also assign personnel to conduct investigation and the factory shall not evade, interfere or reject the investigation.
+
+The regulations governing the reporting contents, procedures, deadline, changes in reports and other requirements with respect to the controlled substances referred to in the preceding paragraph shall be prescribed by the central competent authority.
+
+### Article 19
+
+A factory’s responsible person or interested parties may apply to the competent authority for a transcript of the factory registration or a certificate regarding the factory registration.
+
+The interested parties referred to in the preceding paragraph shall explain the reasons for applying for the transcript or certificate.
+
+### Article 20
+
+A factory shall report the closing of its business activities to the competent authority; otherwise, the competent authority may cancel its factory registration at its own discretion.
+
+A factory shall be deemed closed under any of the following circumstances:
+
+\1.	There are facts sufficient to establish that the factory has voluntarily stopped its operation for over one (1) year.
+
+\2.	The major production equipment of the factory has been moved and it has been confirmed by the competent authority that there is no manufacturing or processing activities.
+
+### Article 21
+
+Within ten days from the day following the day on which a factory manufactures, processes or uses hazardous materials reaching the threshold quantity for control thereof, the factory shall report to the competent authority at the level of the special municipality or county (city) the hazardous materials it manufactures, processes or uses.
+
+The regulations governing the scope, type, threshold quantity for control, and the information to be reported, the reporting deadline, method, procedures and other requirements shall be prescribed by the central competent authority.
+
+Factories that manufacture, process or use hazardous materials shall fulfill their safety management responsibilities. In the event of major environmental pollution or occupational safety accident seriously compromising the safety of neighboring factories  or the general public, the competent authority at the level of special municipality or county (city) may order the factory to suspend its operation and implement remediation work. After the reason for suspending the operation no longer exists, the factory may apply for the approval of the competent authority at the level of special municipality or county (city) to resume the operation.
+
+The competent authority at the level of special municipality or county (city) shall archive and manage the factory information as set forth in Paragraph 1 and  relay the information to the relevant agencies.
+
+### Article 22
+
+Factories that manufacture, process, or use hazardous materials above the threshold quantity for control shall purchase public accident liability insurance. However, this requirement does not apply to those who have purchased any public accident liability insurance in accordance with other laws or regulations.
+
+The regulations governing the minimum amount of insurance coverage and the method of applying for the insurance referred to in the preceding paragraph shall be prescribed by the central competent authority in consultation with the central insurance authority.
+
+### Article 23
+
+Factories using recycled flammable waste as materials for manufacturing and processing approved or permitted by the competent authority in charge of the subject industry shall report monthly to the competent authority at the level of special municipality or county (city) the type and material inventory of said waste.
+
+The regulations governing the measures governing the information to be reported, the reporting deadline, method, procedures and other requirements shall be prescribed by the central competent authority.
+
+The competent authority at the level of special municipality or county (city) shall archive and manage the factory information as set forth in Paragraph 1. Where there is abnormal accumulation of raw materials is found in the factory, it shall immediately notify the competent authority in charge of the subject industry that granted the approval or permit and the relevant agencies to address the issue.
+
+Where there is concern of environmental pollution caused by the leaking or burning of the raw materials of the factory referred to in Paragraph 1, the competent authority may designate an area and order the factory to clear out and dispose of the raw materials within a certain period of time. If the raw materials are not cleared out or disposed of by the deadline, the raw material within such area will be deemed abandoned and be disposed of in accordance with Waste Disposal Act.
+
+### Article 24
+
+The competent authority at the level of special municipality or county (city) shall revoke the establishment permit or registration of a factory under any of the following circumstances:
+
+\1.	The information provided by the factory to the competent authority at the level of special municipality or county (city) when applying for the establishment permit or registration in accordance with this Act is false and such falsehood has been established by the court in a final judgment.
+
+\2.	The permit or approval of the competent authority in charge of the subject industry is required before the factory can apply for the establishment permit or registration, and the decision to revoke such permit or approval has become final and irrevocable.
+
+### Article 25
+
+The competent authority at the level of special municipality or county (city) shall abolish the establishment permit or registration of a factory under any of the following circumstances:
+
+\1.	The factory has manufactured or processed contrabands without authorization, and a court ruling to confiscate such contrabands has become final, and the judicial authority has notified the competent authority of such circumstances.
+
+\2.	The factory has violated any other laws and regulations and a final decision has been issued to close down the factory or revoke the registration thereof, and the agency that rendered such decision has notified the competent authority at the level of special municipality or county (city).
+
+\3.	The permit or approval of the competent authority in charge of the subject industry is required before the factory can apply for the establishment permit or registration thereof, and the decision to abolish such permit or approval has become final and irrevocable.
+
+\4.	The factory has been penalized two times or more due to material violation of this Act.
+
+The competent authority shall notify relevant competent authorities that a factory registration has been abolished in accordance with the preceding paragraph.
+
+## Chapter 4 Counseling
+
+### Article 26
+
+In order to promote industrial development, the competent authority shall provide counseling to factories regarding the following matters:
+
+\1.	The survey, research, introduction, transfer and promotion of industrial production technology.
+
+\2.	The development, industrial product design, quality improvement, automation, enhancement of productivity and operational rationalization
+
+\3.	Training of industrial technology talents
+
+\4.	Prevention and management techniques of industrial pollution and industrial safety and health.
+
+\5.	Other matters regarding industrial development
+
+### Article 27
+
+Where there are five and more factories manufacturing, processing or using hazardous materials reaching the threshold quantity for control in the same industrial zone managed by the central competent authority and its subordinated agencies, the central competent authority shall provide counseling to them to establish a regional joint prevention organization.
+
+The regional joint prevention organization referred to in the preceding paragraph shall promote the following issues:
+
+\1.	Establishment of an information system for the hazardous materials used by the factories within the organization.
+
+\2.	Establishment of an information system for disaster relief preparedness of the factories within the organization.
+
+\3.	Enhancement of disaster and emergency response skills for the factories within the organization.
+
+\4.	Establishment of the constitutional documents of the organization, disaster reporting model, mutual support protocol and other rights and obligations.
+
+\5.	Other matters regarding joint prevention.
+
+Regarding the factories manufacturing, processing or using hazardous materials reaching the threshold quantity for control as set forth in Paragraph 1 without participating in the regional joint prevention organization, the central competent authority shall guide them to participate in the organization.
+
+### Article 28
+
+To improve environmental quality, the central competent authority may guide the relevant factories within or outside in the industrial zones to jointly set up pollution prevention facilities.
+
+## Chapter 4-1 Management and Counseling of Unregistered Factories and Special Factories
+
+### Article 28-1
+
+The competent authority at the level of special municipality or county (city) shall suspend the electricity and water supply and/or demolish the unregistered factories established after May 20, 2016 (hereinafter referred to as “newly added unregistered factories”). For the existing factories established before May 19, 2016 (hereinafter referred to as “existing unregistered factories”), the following provisions shall apply:
+
+\1.	Where an existing unregistered factory is not categorized as low pollution, the competent authority at the level of special municipality or county (city) shall set a deadline to assist it to restructure, relocate or close down. Should such factory refuse to cooperate with the aforementioned measures, the competent authority at the level of special municipality or county (city) shall suspend the electricity and water supply and/or demolish such unregistered factory.
+
+\2.	Where an existing unregistered factory is categorized as low pollution but fails to apply to be regulated by the government or propose the factory improvement plan pursuant to Paragraph 1 of Article 28-5, the competent authority at the level of special municipality or county (city) shall suspend the electricity and water supply and/or demolish such unregistered factory.
+
+\3.	Where an existing unregistered factory is categorized as low pollution and has proposed and received approval for its factory improvement plan pursuant to Paragraph 1 of Article 28-5, the competent authority at the level of special municipality or county (city) shall assist with the remediation and shall inspect such factory periodically.
+
+The central competent authority shall review and approve or reject the deadline for assisting the existing unregistered factory not categorized as low pollution mentioned in the Subparagraph 1 of the preceding paragraph together with the relevant agencies and shall supervise the execution status of the restructure relocation or close down of the factory being assisted by the competent authority at the level of special municipality or county (city).
+
+The central competent authority shall provide the competent authority at the level of special municipality or county (city) with the assistance measures and relevant resources for them to assist the factories to restructure, relocate or  close down pursuant to the Subparagraph 1 of Paragraph 1.
+
+### Article 28-2
+
+To have all the unregistered factories be regulated by the government and to provide them with counseling, the central competent authority shall consult the relevant agencies for the execution plans.
+
+The competent authority at the level of special municipality or county (city) shall draft the plans for the management and counseling of the unregistered factories in their jurisdictions and submit the same to the central competent authority for approval within six (6) months from June 27, 2019 when the amendments of this Act come into force.
+
+The plans for the management and counseling referred to in the preceding paragraph shall specify the following information:
+
+\1.	The status of survey on the newly added unregistered factories and the existing unregistered factories.
+
+\2.	The execution status of the newly added unregistered factories pursuant to the first half of Paragraph 1 of the preceding article and the execution plans the existing unregistered factories pursuant to the latter half of Paragraph 1 of the preceding article.
+
+\3.	Other measures for management and counseling.
+
+Should the competent authority at the level of special municipality or county (city) fails to meet the deadline provided in Paragraph 2, the central competent authority may, at its own discretion, reduce the appropriation or allocation or defer the allocation of the relevant subsidies or take other relevant measures.
+
+To have the unregistered factories be regulated by the government and to provide them with counseling, the central competent authority shall set up a council for the factory management and counseling, and such council shall be composed of the relevant agencies and the governments at the level of special municipality or county (city). Academics, specialists and non-governmental organizations may be invited to participate in the meetings of the council, which will be in charge of reviewing and improving the efforts of the factory management and counseling. The Executive Yuan may be asked to coordinate the efforts if necessary.
+
+The relevant agencies and the governments at the level of special municipality or county (city) shall execute the resolutions and decisions made at the council of factory management and counseling referred to in the preceding paragraph. The central competent authority shall follow up on and assess the execution status and publish the results thereof online every year.
+
+### Article 28-3
+
+The competent authority at the level of special municipality or county (city) government shall regularly notify the central competent authority, and the competent authorities of agriculture, urban planning, regional planning, national spatial planning and building construction administration in the central government, of the list of the newly added and the existing unregistered factories within its jurisdiction and the execution status of the electricity and water supply suspension and/or the demolition of such unregistered factories.
+
+Should the competent authority at the level of special municipality or county (city) delay to suspend the electricity and water supply and/or demolish the newly added unregistered factories and the existing unregistered factories not being categorized as low pollution within its jurisdiction, the central competent authority or the competent authorities of urban planning, regional planning, national spatial planning and the building construction administration in the central government (hereinafter referred to as “central competent authorities”) may prescribe a time for such acts; if the competent authority at the level of special municipality or county (city) fail to comply the timeframe prescribed, the central competent authority may suspend the electricity and water supply at its own discretion.
+
+The central competent authority shall announce the execution status of the preceding two paragraphs online periodically.
+
+Paragraphs 2, 3 and 5 of Article 76 of the Local Government Act apply on a mutatis mutandis basis when the central competent authority is enforcing Paragraph 2.
+
+Should the competent authority at the level of special municipality or county (city) fails to act pursuant to Paragraph 1 or is under the circumstances prescribed in Paragraph 2, the central competent authority may reduce the appropriation or allocation or defer the allocation of the relevant subsidies or take other measures at its own discretion.
+
+### Article 28-4
+
+The competent authorities may provide subsidies or counseling to the existing unregistered factories with low pollution and those with special factory registration pursuant to Paragraph 5 of Article 28-5 or Article 28-6 to promote the following efforts:
+
+\1.	The planning of facilities in relation to environmental protection, water conservancy and soil and water conservation.
+
+\2.	The assistance and planning in relation to the treatment and discharge mechanism of wastewater and sewage; where necessary, an ad hoc committee may be set up to coordinate such issues.
+
+\3.	Cluster areas shall be prioritized for new urban plans or development of industrial parks to be zoned as urban-rural development areas pursuant to national spatial planning.
+
+### Article 28-5
+
+The existing unregistered factories with low pollution shall apply to be regulated by the government , either at its own volition or after being notified by the competent authority at the level of special municipality or county (city), within two (2) years from June 27, 2019 when the amendments of this Act come into force and shall propose the factory improvement plan within three (3) years from such date, provided that it shall not apply to be regulated by the government under any of the following circumstances:
+
+\1.	The manufacturing of the factory’s products is prohibited by law.
+
+\2.	The central competent authority has announced that the factory should not be established due to environmental protection or safety reasons..
+
+\3.	The competent authority at the level of special municipality or county (city) has applied to the central competent authority for approval to announce that the factory should not be established.
+
+The unregistered factories applying to be regulated by the government pursuant to the preceding paragraph shall pay the regulation counseling fee every year from June 27, 2019 when the amendments of this Act come into force until they have completed special factory registration. Should such factories fail to pay the regulation counseling fee within the prescribed time, the competent authority at the level of special municipality or county (city) shall reject its application to be regulated by the government or shall abolish the approval of the proposed factory improvement plan.
+
+The proposed factory improvement plan in Paragraph 1 shall specify the following information:
+
+\1.	The information required in Article 13.
+
+\2.	The manufacturing and processing activities in the factories before May 19, 2016.
+
+\3.	The remediation measures for the environment, including the plans for the treatment and discharge mechanism for wastewater and sewage.
+
+\4.	Other matters prescribed by the central competent authority.
+
+Upon review and approval of the proposed factory improvement plan in Paragraph 1 by the competent authority at the level of special municipality or county (city), the factories shall complete the improvement within two (2) years thereafter, provided that, where there are good reasons to justify the failure to complete such improvement within the prescribed two (2) years, such factories may apply for extension with the competent authority at the level of special municipality or county (city).
+
+Where the improvement is completed as the approved factory improvement plan proposed, the factories may apply for special factory registration and Subparagraphs 2 and 3 of Article 15 do not apply.
+
+Where a factory fails to complete the special factory registration pursuant to the preceding paragraph within ten (10) years from June 27, 2019 when the amendments of this Act come into force, the approval of its proposed factory improvement plan shall cease to be effective upon the expiration of such period.
+
+The special factory registration is valid for twenty (20) years from June 27, 2019 when the amendments of this Act come into force.
+
+### Article 28-6
+
+Where a factory has applied for temporary factory registration pursuant to Article 34, such factory may apply for special factory registration with the competent authority at the level of special municipality or county (city) within the scope of the temporary registration within two (2) years from June 27, 2019 when the amendments of this Act come into force and Subparagraphs 2 and 3 of Article 15 do not apply.
+
+### Article 28-7
+
+Where the special factory registration is approved by the competent authority at the level of special municipality or county (city) pursuant to Paragraph 5 of Article 28-5 and the preceding paragraph, the factory shall pay the operation management fee every year until obtaining the certificate for legal occupancy of the land and building. Should such factory fails to pay the operation management fee within the prescribed time, the competent authority at the level of special municipality or county (city) shall abolish its special factory registration.
+
+The operation management fee and the regulation counseling fee collected pursuant to the preceding paragraph and Paragraph 2 of Article 28-5 shall only be used on the management and counseling of unregistered factories, the improvement of the public facilities of the neighboring areas, and shall be used on the treatment and discharge mechanism of the wastewater and sewage and the remediation of air pollution at the first priority. The competent authority at the level of special municipality or county (city) may set up a fund for such purpose and the management thereof shall be reported to the central competent authority for recordation.
+
+The central competent authority shall consult relevant agencies to prescribe the regulations governing the standards for low pollution identification, the application qualifications and the procedures, the review procedures and the standards of the competent authority at the level of special municipality or county (city), the additional requirements in relation to the approval of the proposed factory improvement plan, the audit and review of the improvement status, the deadline of the extension of completing the improvement provided in Paragraphs 1, 4 and 5 of Article 28-5, and the preceding article, the items provided in Subparagraph 4, Paragraph 3 of Article 28-5 and the amount, the payment procedure and other related matters regarding the operation management fee in Paragraph 1 and the counseling fee in Paragraph 2 of Article 28-5.
+
+The competent authority at the level of special municipality or county (city) may delegate to or commission related agencies (institutions), judicial persons or organizations to be in charge of the management and the counseling of the unregistered factories and special factory registration.
+
+### Article 28-8
+
+Article 21 of the Regional Plan Act, Article 38 of the Spatial Plan Act, Article 79 of the Urban Planning Act and Subparagraph 1 of Article 86 and Subparagraph 1, Paragraph 1 of Article 91 of the Building Act do not apply to the factories that have completed their special factory registration. Water and electricity supply and occupancy approval shall be granted to the buildings of such factories and the restrictions provided in Paragraph 1 of Article 73 of the Building Act shall not apply.
+
+Subparagraph 1 of Article 30 and the first half of the preceding paragraph do not apply under the following circumstances:
+
+\1.	An existing unregistered factory not being categorized as low pollution has, within the counseling period prescribed by the competent authority at the level of special municipality or county (city) pursuant to Subparagraph 1, Paragraph 1 of Article 28-1, completed its restructure, relocation or closing of business.
+
+\2.	An existing unregistered factory with low pollution is within the period from the application to be regulated by the government pursuant to Paragraph 1 of Article 28-5 to the  approval of the proposed factory improvement plan by the competent authority at the level of special municipality or county (city) and the period for improvement in Paragraph 4 of the same article.
+
+\3.	A factory that has applied for temporary factory registration pursuant to Article 34 is within the period from the application of special factory registration pursuant to Article 28-6 to the approval of registration by the competent authority at the level of special municipality or county (city).
+
+### Article 28-9
+
+A factory that has completed its special factory registration shall not:
+
+\1.	Change the enterprise to which it belongs.
+
+\2.	Where the enterprise to which it belongs is a sole proprietorship, change the  enterprise’s responsible person, except where such change is due to inheritance.
+
+\3.	Where the enterprise to which it belongs is a partnership, change the enterprise’s partners, except where such change is due to inheritance.
+
+\4.	Increase the floor area of the land, factory and the building.
+
+\5.	Change or increase the industry category or the main products not classified as low pollution.
+
+\6.	Make the whole or part of the land and the building of the factory available for use by others to set up their factories.
+
+\7.	Fail to meet the conditions imposed for the approval of the factory improvement plan by the competent authority at the level of special municipality or county (city).
+
+Paragraph 2 of Article 16, Article 17 to Article 32 shall apply to those who have completed the special factory registration.
+
+### Article 28-10
+
+For the factories that have completed their special factory registration, the competent authority may, in accordance with the following provisions, change the land to appropriate zoning or change the designation thereof to appropriate land category:
+
+\1.	Cluster areas shall be prioritized for new urban plans or development of industrial parks to be zoned as urban-rural development areas and shall change the zoning or occupancy permit thereof pursuant to the Urban Planning Act, the Regional Plan Act and the Spatial Planning Act.
+
+\2.	For land that does not fall under the preceding paragraph and is located outside of the urban plan, those who have completed the special factory registration shall propose the plan for using the lands and shall apply to the competent authority at the level of special municipality or county (city) for issuing the approval of the certificate of special factories lands to change the zoning of such lands. Nevertheless, the competent authority at the level of special municipality or county (city) may reject its application for the comprehensive planning of the preceding subparagraph.
+
+\3.	The lands that are not included in the Subparagraph 1 but are included in the urban planning shall act in accordance with the Urban Planning Act.
+
+Prior to the change the category of the usage of the lands pursuant to Subparagraph 2 of the preceding paragraph, those who have completed the special factory registration shall make monetary contribution to the competent authority at the level of special municipality or county (city) and such contributions will be appropriated to the agriculture development fund set up in accordance with Paragraph 1 of Article 54 of the Agriculture Development Act.
+
+The competent authority at the level of special municipality or county (city) may ask the applicants for the review fee for reviewing the plan for using the lands provided in Subparagraph 2 of Paragraph 1.
+
+The qualifications in each Subparagraph of Paragraph 1 shall be in consistent with the provisions in the Urban Planning Act, Article 15 and Article 15-2 of the Regional Plan Act, and Article 26 of the Spatial Planning Act and the related laws and regulations may be reviewed and simplified by the competent authorities in charge of the above-mentioned laws and regulations by taking into consideration the needs of assistance and principles for safety.
+
+The central competent authority shall consult relevant agencies to prescribe the regulations governing the standards for identifying the cluster area in Subparagraph 1 of Paragraph 1, the application requirements, the required documentation, the application procedures, the area limitation for the application, the review criteria and procedures of the competent authority at the level of special municipality or county (city) for the plan for using the lands in Subparagraph 2 of Paragraph 1, the calculation basis for the monetary contribution in Paragraph 2, the review fee in Paragraph 3 and other related matters.
+
+### Article 28-11
+
+Those who have completed the special factory registration may apply for the factory registration pursuant to Paragraph 1 of Article 10 upon the change the category of the usage of the lands pursuant to the Subparagraph 2, Paragraph 1 of the preceding article.
+
+The competent authority at the level of special municipality or county (city) shall require the factories applying for the factory registration to restrict its industrial category and their major products to low pollution.
+
+### Article 28-12
+
+The public may file complaints against the following unregistered factories by submitting facts or evidence to the competent authority at the level of special municipality or county (city):
+
+\1.	The newly added unregistered factories.
+
+\2.	The existing unregistered factories not being categorized as low pollution failing to restructure, relocate or close down the factories within the time prescribed by the competent authority at the level of special municipality or county (city).
+
+\3.	The existing unregistered factories with low pollution failing to apply to be regulated by the government pursuant to Paragraph 1 of Article 28-5.
+
+The competent authority at the level of special municipality or county (city) may award the complainant and shall keep confidential the identities thereof. The regulations governing the reward and the other related matters shall be prescribed by the central competent authority.
+
+## Chapter 5 Punishment
+
+### Article 28-13
+
+Under any of the cases provided in Paragraph 1 of Article 28-9, the competent authority at the level of special municipality or county (city) shall order the factories with special factory registration to make rectification within the prescribed time and shall punish the responsible person of such factories with an administrative fine of not less than NT$100,000 and not more than NT$500,000, and should such factories fail to make rectification within the prescribed time, the competent authority at the level of special municipality or county (city) shall abolish their special factory registration.
+
+### Article 28-14
+
+Where a factory is under any of the following circumstances, the competent authority shall impose a fine of not less than NT$50,000 and not more than NT$5,000,000 on the responsible person of the factory, and shall order the factory to make rectifications or file a report within the prescribed deadline; failure to rectify or report by the deadline may result in consecutive penalties:
+
+\1.	Violation of Paragraph 1, Article 21 for the failure to file a report on hazardous materials within the specified period of time.
+
+\2.	Violation of Paragraph 2, Article 21 for the failure to comply with the regulations regarding the information to be reported or the reporting deadline prescribed thereunder or filing a false report.
+
+### Article 29
+
+For a factory manufacturing, processing or using hazardous materials reaching the threshold quantity for control and in violation of Paragraph 1 of Article 22 for not taking out public liabilities insurance, the responsible person of the factory shall be subject to a fine of NT$50,000 to NT$250,000 and shall  rectify such violation by the prescribed timeframe. For failure to make rectification within the prescribed timeframe, consecutive punishment may be imposed.
+
+### Article 30
+
+Where a factory is under any of the following circumstances, the competent authority shall order it to stop work and complete the factory registration by the prescribed deadline, and if the factory still engages in the manufacture or processing of goods without completing the registration by the deadline, it shall be subject to a fine of not less than NT$20,000 and not more than NT$100,000; if the factory still fails to rectify the violation by the prescribed deadline, it may be subject to fines of not less than NT$40,000 and not more than NT$200,000 per violation until it ceases to operate:
+
+\1.	Violate Paragraph 1 of Article 10 for not completing the factory registration and engaging in manufacturing and processing without permission.
+
+\2.	Violate Paragraph 3 of Article 16 for failing to complete factory registration and engaging in manufacturing and processing goods after relocation.
+
+\3.	Continue manufacturing and processing after cancellation of factory registration in accordance with Article 24.
+
+\4.	Continue manufacturing and processing after abolishment of factory registration in accordance with Article 25.
+
+### Article 31
+
+Where a factory is under any of the following circumstances, the competent authority shall order the factory to make rectification, complete the application or file a report by the prescribed deadline. If the factory fails to make rectification, complete the application or file a report by the prescribed deadline, the responsible person of the factory shall be subject to a fine of not less than NT$10,000 and not more than NT$50,000, and if the factory still fails to do so, it may be subject to consecutive penalties:
+
+\1.	Engagement in businesses other than manufacturing and processing goods by using partial or whole factory or building, except for businesses related with products manufactured.
+
+\2.	Violation of Paragraph 3, Article 16 for the failure to obtain a new establishment permit or registration and engage in manufacturing and processing after the industry category is changed.
+
+\3.	Violation of Subparagraph 1, Paragraph 1, Article 17 for the failure to meet the conditions imposed thereunder.
+
+\4.	Violation of the quantity reduction or production cessation regulations announced under Subparagraph 3, Paragraph 1, Article 17.
+
+\5.	Violation of Paragraph 1, Article 18 for the failure to file or provide related information or evade, interfere or reject investigation conducted thereunder.
+
+\6.	Violation of Paragraph 3, Article 18 for the failure to make filings by the prescribed deadline or evade, interfere or reject investigation conducted thereunder.
+
+\7.	Violation of Paragraph 1, Article 23 for the failure to make the monthly filing of material inventory.
+
+\8.	Violation of Paragraph 2, Article 23 for the failure to comply with the filing requirements specified by the regulations established thereunder.
+
+### Article 32
+
+Where a factory violates Paragraph 2, Article 16, the competent authority shall order the factory to apply for the registration of change within a certain period of time; if the factory fails to do so or is not allowed to do so under the law, the responsible person of the factory shall be subject to a fine of not less than NT$5,000 and not more than NT$25,000, and if the factory still fails to rectify the violation within the period of time, it may be subject to consecutive punishment.
+
+## Chapter 6 Supplementary Provisions
+
+### Article 33
+
+To provide counseling to factories that are not registered for lawful operation, the central competent authority shall consult relevant agencies to prescribe relevant measures. The counseling period shall be from 2 June 2010 to 2 June 2020.
+
+Before the expiration of the counseling period referred to in the preceding paragraph, the punishments s set forth in Paragraph 1 of Article 30 and Paragraph 1 of Article 21 of the Regional Planning Act, Article 79 of the Urban Planning Act regarding violation of land or building use and Paragraph 1 of Article 86 and Subparagraph 1,Paragraph 1 of Article 91 of the Architecture Act shall not  apply to the unregistered factories within the specified areas.
+
+The specified areas referred to in the preceding paragraph shall be published by the central competent authority in consultation with relevant agencies within two years from 2 June 2010.
+
+### Article 34
+
+Existing factories that had not been registered before 14 March 2008 and satisfy the environmental protection, fire, water conservancy and conservation of water and soil regulations may make their monetary contribution to the local competent authority and apply for temporary factory registration before 2 June 2015 without being subject to the restrictions under Paragraphs 2 and 3 of Article 15.
+
+To avoid increasing environmental pollution and jeopardizing public safety, factories that have undergone temporary registration in accordance with the preceding paragraph shall be restricted from changing the enterprises to which they belong and their registered particulars of the factories.
+
+The regulations governing the criteria for the determination of low pollution, procedures of make-up temporary registration, restrictions on the changes in enterprises and factory registrations, the monetary contribution including the amount, the payment procedures, methods of use, and other related matters shall be prescribed by the central competent authority in consultation with relevant agencies.
+
+Punishment regulations as set forth in Paragraph 1 of Article 21 of the Regional Planning Act, Article 79 of the Urban Planning Act regarding violation of land or building use and Paragraph 1 of Article 86 and Subparagraph 1, Paragraph 1, Article 91 of the Architecture Act do not to factories with temporary factory registration until the said registration becomes invalid.
+
+A factory with temporary factory registration shall acquire legal use of the land and building certificate before 2 June 2020. Failure to acquire them will cause the temporary factory registration to become invalid upon expiration and the local competent authority shall punish the business in accordance with Article 30.
+
+### Article 35
+
+If a factory rejects to comply with the order to stop work or has been ordered to suspend its operation, competent authority may notify the electric or water company to stop electric or water supply to the factory.
+
+Unless there is a certificate issued by the competent authority that the reason to stop electric or water supply no longer exists, the electric and water companies shall not resume the electric and water supply to the factory.
+
+### Article 36
+
+The existed factories manufacturing, processing or using hazardous materials reaching the threshold quantity for control before enforcement of the amendments of this Act shall file the information on all their hazardous materials by the deadline specified by central competent authority and purchase public liabilities insurance.
+
+The factory that uses recycled flammable waste as materials for manufacturing and processing approved or permitted by the competent authority in charge of the subject industry before enforcement of the amendments of this Act shall make monthly filing to the competent authorities at the level of special municipality or county (city) for the material inventory in accordance with deadline announced by central competent authority after enforcement of the amendments of this Act.
+
+### Article 37
+
+The central competent authority shall establish a schedule of the review fees, registration fees, transcript fees, and certificate fees payable upon the application for an establishment permit, registration, or amendment to such permit or registration, or upon the application by a factory’s responsible person or interested parties for transcript or certificate of factory registration particulars.
+
+### Article 38
+
+The enforcement rules of this Act shall be prescribed by the central competent authority.
+
+### Article 39
+
+This Act shall become effective on the date of promulgation.
+
+The effective date of the provisions amended and promulgated on July 24, 2019 and the provisions amended on May 7, 2024 shall be set by the Executive Yuan.
+
+## History
+
+\1.	Promulgated as per Letter, Reference Hua-Zong-1-Yi-Zi No.09000046490, dated March 14, 2001.
+
+\2.	Amended as per Letter, Reference Hua-Zong-1-Yi-Zi No.09900136601,dated June 02, 2010.
+
+\3.	Article 33 and 34 were amended as per Letter, Reference Hua-Zong-1-Yi-Zi No.10300009941,dated January 22,2014.
+
+\4.	Article 39, Chapter 4-1, Article 28-1,28-2,28-3,28-4,28-5,28-6,28-7,28-8 ,28-9,28-10,28-11,28-12and 28-13were amended as per Letter, Reference Hua-Zong-1-Jing-Zi No.10800074591, dated July 24, 2019.
+
+The Act was then set to be effective beginning from March 20, 2020 by the Executive Yuan Order No. 1090007168B dated March 18, 2020.
+
+\5.	Amended Articles 31 and 39 and new Article 28-14 promulgated per Presidential Decree No. Hua-Tsong-Yi-Ching-11300042361 dated May 24, 2024, which shall be effective on the date set by the Executive Yuan.
+
+The Act was then set to be effective beginning from August 1, 2024 by the Executive Yuan Order No. 1131017005 dated July 30, 2024.

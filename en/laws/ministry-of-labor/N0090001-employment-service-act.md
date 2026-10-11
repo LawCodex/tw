@@ -1,0 +1,857 @@
+---
+title: "Employment Service Act"
+title_zh: "就業服務法"
+identifier: "N0090001"
+type: act
+law_level: "法律"
+category: "行政＞勞動部＞就業服務目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1992-05-08
+last_amended: 2025-01-20
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0090001"
+retrieved: 2026-10-12
+---
+
+# Employment Service Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-labor/N0090001-employment-service-act.md](../../../zh/laws/ministry-of-labor/N0090001-employment-service-act.md)) is authoritative.
+
+## Chapter Ⅰ General Provisions
+
+### Article 1
+
+The Act is enacted for the purpose of promoting national employment with the goal of enhancing social and economic development. In instances where this Act does not provide specific guidance, provisions shall be governed by applicable statutes.
+
+### Article 2
+
+For the purpose of this Act:
+
+\1. The term "employment services" refers to services aimed at assisting nationals in seeking employment and aiding employer s in the recruitment or hiring of employees.
+
+\2. The term "employment services institution" refers to an agency providing employment services. This includes public employment services institution established by governmental bodie (s) and private employment services institution established by private individual(s) or no n-governmental organization(s).
+
+\3. The term "employer" refers to any person who engages or hires employees for the purpose of work.
+
+\4. The term "Senior or Mid-Aged Persons" refer to nationals aged between forty-five to sixty-five years.
+
+\5. The term "long-term unemployed" refers to an insured person who has been unemployed for one year; has accumulated at least 6 months of insurance enrollment within the three years preceding the cessation of their insurance coverage and has registered for jo b seeking at a public employment service agencies within one month.
+
+### Article 3
+
+Every national shall have the freedom to choose their occupation, subject to the limitations and restrictions as prescribed by law.
+
+### Article 4
+
+All nationals possessing the capability to work shall have equal access to Employment Services, without discrimination.
+
+### Article 5
+
+(Ⅰ)For the purpose of ensuring fair and equal opportunity in seeking employment, employers are prohibited from discriminating against any job applicant or employee based on race, class, language, thought, religion, political party affiliation, place of origin, birth place, gender, gender orientation, age, marital status, appearance, facial features, disability, astrological sign, blood type, or former membership in any labor union; in cases where other laws specifically address discrimination, those laws shall take precedence.
+
+(Ⅱ)When recruiting or hiring employee(s), employers refrain from engaging in any of the following acts:
+
+\1. Making false statements or misrepresentations or disclosures relating to employment.
+
+\2. Retaining any personal identification documents (such as identification cards, work certificates, or other certifying documents) of job applicants or employees, or requesting the surrender of personal documents unrelated to the employment, without the individual’s consent.
+
+\3. Retaining personal belongings of job applicants, or demanding deposits or bonds from job applicants or employees.
+
+\4. Assigning tasks to any job applicant or employee that violate public order or accepted moral standards.
+
+\5. Providing false information or fraudulent health examination samples in applications for permits to employ foreign workers, or in the recruitment, importation, or management of such workers.
+
+\6. Failing to publicly display or inform the range of regular pay less than NT＄40,000.
+
+### Article 6
+
+(Ⅰ)For the purposes of the Act, the term "competent authority(ies)" refers to the Ministry of Labor at the central government level, the respective municipal city government(s) at the municipal level, and the respective county/city government(s) at the County/City level.
+
+(Ⅱ)In matters concerning employment services to indigenous peoples, the Central Competent Authority shall collaborate with the Council of Indigenous Peoples of the Executive Yuan.
+
+(Ⅲ)The Central Competent Authority shall:
+
+\1. Formulate nationwide employment policies, propose statutes for legislative enactment, promulgate regulations, and develop nationwide plans/programs.
+
+\2. Provide information on the nationwide employment market.
+
+\3. Establish standards for the implementation of employment services.
+
+\4. Supervise, guide, coordinate, and assess employment services throughout the nation.
+
+\5. Issue permits to employers for the employment of foreign workers and administer such employment.
+
+\6. Issue, suspend, or terminate permits for private employment services institutions involved in:
+
+(1) Introducing foreign worker(s) to work in Taiwan.
+
+(2) Introducing resident(s) of Hong Kong, Macau, or Mainland China to work in the Republic of China; or
+
+(3) Introducing nationals to work abroad.
+
+\7. Handle other matters related to nationwide employment services and employment promotion.
+
+(Ⅳ)The competent authority(ies) at the municipal and county/city levels shall:
+
+\1. Address employment discrimination issues.
+
+\2. Administer and examine the employment of foreign workers in the Republic of China.
+
+\3. Issue, suspend, or terminate permits for private employment services institutions that introduce nationals to work within the Republic of China.
+
+\4. Manage private employment services institutions beyond the scope described in subparagraph 6 of Paragraph 3 and subparagraph 3 of this Paragraph.
+
+\5. Cooperate in other matters related to employment services for nationals.
+
+### Article 7
+
+(Ⅰ)The competent authority(ies) may convene consultative bodies composed of representatives from labor groups, employers, government officials, and scholars and experts. These bodies shall review and provide consultation on matters related to employment services and employment promotion. The composition of the consultative bodies must ensure that at least half of the participants are representatives from labor groups, employers, and scholars and experts.
+
+(Ⅱ)No less than one-third of the representatives in any category mentioned in Paragraph 1 are of a single gender, ensuring gender diversity.
+
+### Article 8
+
+To enhance professional knowledge and operational efficiency of the employment services personnel, the competent authority(ies) shall conduct periodic on-the-job training programs.
+
+### Article 9
+
+Employment services institutions, as well as their personnel, are prohibited from publicly disclosing any information pertaining to employers or job applicants, except as required for the purpose of employment referrals.
+
+### Article 10
+
+(Ⅰ)During periods of legal strikes or ongoing industrial disputes resulting from the termination of labor contracts that affect the rights of the majority of the labor force, employment services institutions are prohibited from referring job applicants to work at the affected workplaces.
+
+(Ⅱ)The term "majority of the labor " as referred to in Paragraph 1 of this article is defined as: the involvement of ten or more workers in the industrial dispute within a business entity, or in cases where there are fewer than ten workers involved, one-third or more of the workers at the workplace subject to the dispute.
+
+### Article 11
+
+(Ⅰ)The competent authority(ies) should reward and publicly commend individuals who have made distinguished contributions to the advancement of nationals' employment.
+
+(Ⅱ)The regulations concerning the criteria, categories, procedures, and other relevant aspects regarding the rewards and public commendations as referred to in Paragraph 1 of this article shall be separately prescribed by the Central Competent Authority.
+
+## Chapter Ⅱ Public Employment Services
+
+### Article 12
+
+(Ⅰ)Competent authorities are authorized to establish public employment services institutions as necessary to meet business needs.
+
+(Ⅱ)Should the population of indigenous people(s) have reached twenty thousand or more within the jurisdiction of a municipal city or a county/city, public employment services institution(s) for indigenous peoples may be established in order to accommodate the special cultural needs of such indigenous people(s).
+
+(Ⅲ)The Central Competent Authority shall set the guidelines on the establishment of public employment services institution(s) as referred to in Paragraphs 1 and 2 of this article.
+
+### Article 13
+
+Employment services processed by public employment services institutions shall be offered free of charge. However, public employment services institutions may collect fees from employers for expenses incurred in examinations or recruitment activities that are specifically entrusted by those employers.
+
+### Article 14
+
+Public employment services institutions are required to process all applications from job applicants seeking employment and from employers seeking to hire, without refusal. Notwithstanding the provision in the previous paragraph, a public employment services institution may refuse to process an application if the application is in violation of applicable laws or regulations; if the job applicant or employer fails to provide necessary information for job referral purposes.
+
+### Article 15
+
+(Delete)
+
+### Article 16
+
+To enhance information availability of various job markets, public employment services institutions shall collect, organize and analyze information regarding wage variations, supply and demand of human resources and any prospective developments within their respective districts of responsibility.
+
+### Article 17
+
+(Ⅰ)Public employment services institutions shall provide employment counseling for job applicants, and refer them for appropriate work, vocational training, skill examinations, entrepreneurial guidance, determination of unemployment status or applying for unemployment benefits based on the outcomes of the job and vocational counseling.
+
+(Ⅱ)All services provided and counseling content as described in Paragraph 1 must be systematically recorded.
+
+(Ⅲ)The Central Competent Authority shall set the guidelines on the job and vocational counseling and any other related matters as referred to in Paragraph 1.
+
+### Article 18
+
+Public employment services institutions are required to establish and maintain collaborative relationships with schools within their respective responsible districts, with a view to assist those schools with vocational counseling for students. In conjunction with these educational institutions, public employment services institutions shall: facilitate the referral of graduates to appropriate employment opportunities or vocational training programs; participate in developing and implementing vocational training programs. Following the employment of these students, public employment services institutions are responsible for providing ongoing post-employment counseling and support.
+
+### Article 19
+
+In order to assist job applicants who lack the necessary knowledge and skills with employment, public employment services institutions may refer these individuals to appropriate vocational training programs and upon completion of their successful completion, assist and facilitate their job placement.
+
+### Article 20
+
+Public employment services institutions are required to provide referral services to individuals applying for unemployment benefits under employment insurance. These services include: referrals to suitable employment opportunities, and referrals to vocational training programs.
+
+## Chapter Ⅲ Promoting Employment
+
+### Article 21
+
+The government is responsible for planning and formulating adjustment measures to enhance the effective utilization of human resources and national employment. These measures should be based on investigatory information regarding employment and unemployment trends, focusing on the supply and demand dynamics of human resources.
+
+### Article 22
+
+The Central Competent Authority shall establish and maintain a nationwide network dedicated to providing employment information. The primary objectives of this network are: to facilitate an inter-regional balance in the supply and demand of human resources; to coordinate and enhance the implementation of unemployment benefits under the employment insurance program.
+
+### Article 23
+
+(Ⅰ)In response to significant unemployment caused by economic recession, the Central Competent Authority may: encourage employers to engage in negotiations with labor unions or workers to reduce working hours, adjust wages, or conduct educational training programs; enhance vocational training programs or implement necessary measures to create temporary job opportunities based on actual needs; subsidize enterprise start-up loan interests and, if necessary, provide relevant allowances or benefits to promote employment.
+
+(Ⅱ)The Central Competent Authority shall issue regulations governing the application requirements, scope, procedures, duration, financial sources, and other relevant aspects concerning the subsidies, allowances, and benefits mentioned in Paragraph 1.
+
+### Article 24
+
+(Ⅰ)The competent authorities shall devise and implement plans to promote the employment of the following groups, who are willing and actively seeking employment. Where necessary, relevant allowances or benefits may be provided to:
+
+\1. Individuals who are sole financial supporters of their families.
+
+\2. Senior or middle-aged persons
+
+\3. Persons with disabilities.
+
+\4. Indigenous peoples.
+
+\5. Individuals from medium or low-income families with working capacity.
+
+\6. Persons who are long-term unemployed.
+
+\7. Women seeking re-employment after displacement.
+
+\8. Victims of domestic violence.
+
+\9. Rehabilitated ex-convicts.
+
+\10. Other persons deemed eligible by the central competent authority.
+
+(Ⅱ)The plans as referred to in Paragraph 1 of this article shall undergo periodic reviews to ensure their effective implementation.
+
+(Ⅲ)The Competent Authority shall provide relevant support to qualified care workers who are willing and seeking employment.
+
+(Ⅳ)The Central Competent Authority shall issue regulations specifying application requirements, amount, duration, financial sources, and other relevant aspects concerning the allowances and benefits described in Paragraph 1 of this Article.
+
+### Article 25
+
+Public employment services institutions are obligated to proactively seek and secure job opportunities that are suitable for individuals with disabilities and for senior or middle-aged persons. These institutions shall periodically publish information regarding the job opportunities obtained for these groups, ensuring accessibility and visibility.
+
+### Article 26
+
+The competent authorities are required to provide vocational training programs tailored for women who have left their employment due to pregnancy, childbirth, or child-rearing responsibilities. These programs shall be developed based on actual needs and aim to facilitate the re-employment of these women.
+
+### Article 27
+
+The competent authorities shall establish vocational training programs for indigenous peoples and persons with disabilities who are seeking employment. These programs are to be developed in response to the particular needs of these groups, with the aim of facilitating their successful integration into the workforce.
+
+### Article 28
+
+After referring disabled individuals or indigenous peoples to employment, public employment services institutions are required to conduct followup visits. The purpose of these visits is to assist these employees in adapting to their new jobs and to ensure their successful integration into the workplace.
+
+### Article 29
+
+(Ⅰ)Competent authorities at the municipal and county/city levels are required to compile lists of individuals from medium and low-income families within their jurisdiction who have the capacity to work. These lists shall be forwarded to local public employment services institutions to facilitate job placement or enrollment in vocational training programs for these individuals.
+
+(Ⅱ)Public employment services institutions shall subsidize the charges associated with applying for jobs for: persons from medium or low-income families with the capacity to work; victims of domestic violence.
+
+### Article 30
+
+Public employment services institutions are required to maintain close collaboration with local conscription offices. The primary goal of this collaboration is to facilitate job placement or enrollment in vocational training programs for demobilized soldiers.
+
+### Article 31
+
+Public employment services institutions are mandated to establish and maintain active collaboration with rehabilitation programs. The primary goal of this collaboration is to assist post-convicted individuals, referred to as 'protected persons', in securing job placement or enrolling in vocational training programs.
+
+### Article 32
+
+(Ⅰ)The competent authorities shall allocate an annual budget specifically for implementing measures under this Act, aimed at promoting national employment.
+
+(Ⅱ)The Central Competent Authority may provide subsidies to the competent authorities at the municipal city and county/city levels. The provision of such subsidies shall take into account the actual fiscal situations of these lower-level authorities.
+
+### Article 33
+
+(Ⅰ)In the event of a layoff, the employer is required to prepare a list of laid-off employees at least ten days prior to their departure. This list must include the employee's name, sex/gender, age, address, telephone numbers, position, reasons for the layoff, and whether they require employment counseling. This list must be submitted to and the local competent authority(ies) and public employment services institution(s) must be informed accordingly. In cases of layoffs due to natural disasters, unforeseen events, or other force majeure circumstances, the employer shall complete and submit this list within three days following the employee's departure.
+
+(Ⅱ)Upon receiving the information as specified in Paragraph 1, public employment services institutions are obligated to assist the laid-off employees in finding re-employment, taking into account their willingness and working capacity.
+
+### Article 33-1
+
+The Central Competent Authority is authorized to delegate responsibilities concerning employment services and employment promotion, as outlined in this Act, to: subordinate employment services institutions or vocational training agencies under its jurisdiction; competent authorities at the municipal or county/city level; other relevant agencies or organizations.
+
+## Chapter Ⅳ Private Employment Services
+
+### Article 34
+
+(Ⅰ)Private employment services institutions, including any branches, must apply to the competent authorities for approval before establishment. These institutions are prohibited from engaging in employment services businesses without first obtaining an operation permit, which must be periodically renewed.
+
+(Ⅱ)Institutions or organizations that do not require an operation permit include: schools or vocational training agencies established under applicable laws and regulations; institutions or organizations entrusted by governmental organs to provide training and employment services. The aforementioned exempted entities are permitted to offer free-of-charge employment services to their graduates, post-training trainees, or job applicants without an operation permit.
+
+(Ⅲ)The Central Competent Authority shall establish regulations concerning: the requirements for obtaining an operation permit; the duration and renewal of operation permits; the termination of operation permits; other regulatory matters related to operation permits for private employment services institutions and their branches, as mentioned in Paragraph 1.
+
+### Article 35
+
+(Ⅰ)Private employment services institutions are permitted to engage in the following employment services businesses:
+
+\1. Job placement or human resources agency services.
+
+\2. Being entrusted to recruit employees.
+
+\3. Providing employment counseling or psychological testing to assist individuals in career development planning.
+
+\4. Other employment services businesses as may be specified by the Central Competent Authority.
+
+(Ⅱ)Private employment services institutions are authorized to collect fees for the employment services provided as outlined in Paragraph 1.The Central Competent Authority shall establish regulations regarding the items and amounts of fees that may be charged for these services.
+
+### Article 36
+
+(Ⅰ)Private employment services institutions are required to employ a prescribed number of qualified professional employment services staff.
+
+(Ⅱ)The specific qualifications and required number of professional employment services staff in Paragraph 1 will be stipulated in the "Regulations on the Permission and Administration of Private Employment Services Institutions."
+
+### Article 37
+
+Members of the professional employment services staff are expressly prohibited from engaging in the following activities:
+
+1.Permitting others to conduct employment services businesses under their name.
+
+2.Engaging in employment services businesses in a manner that contravenes applicable laws and regulations.
+
+### Article 38
+
+Private employment services institution that processes any of the following agency businesses shall organize and register as a for-profit corporation corporation. However, a non-profit institution or organization established to process the Employment Services by the central competent authority, with its permission, designated or entrusted by it shall be exempted from such requirement:
+
+1.Introducing foreign worker(s) to work in the Republic of China;
+
+2.Introducing Hong Kong, Macau, or Mainland China resident(s) to work in the Republic of China; or
+
+3.Introducing nationals to work outside the Republic of China.
+
+### Article 39
+
+Private Employment services institutions shall prepare and keep all the relevant documents and materials in accordance with the applicable laws and regulations for inspection by competent authorities, and shall not evade, impede, or refuse any such inspection.
+
+### Article 40
+
+(Ⅰ)Private employment service institutions and their staff members are strictly prohibited from engaging in the following practices:
+
+\1. Conducting agency businesses without a legally binding written contract with employers or job applicants.
+
+\2. Making false advertisements or disclosures, or violating advertisement specifications outlined in Article 5, Paragraph 1.
+
+\3. Unlawfully withholding any job applicant's personal identification documents.
+
+\4. Retaining job applicant's personal belongings or demanding bonds for job referral services.
+
+\5. Excessively charging fees, accepting unjust interest, or engaging in other unfair financial practices.
+
+\6. Offering or delivering unjust benefits.
+
+\7. Referring job applicants to employment that violates public order or accepted moral standards.
+
+\8. Submitting false information or fraudulent health examination samples in foreign worker employment processes.
+
+\9. Engaging in threats, fraud, embezzlement, or betrayal in employment services activities.
+
+\10. Withholding documents or identification unlawfully from employers or employees.
+
+\11. Falsifying or providing inaccurate information on reporting forms required by competent authorities.
+
+\12. Failing to adhere to legal requirements for business alterations, suspensions, or permit renewals.
+
+\13. Not displaying necessary operation permits, fee schedules, or staff certifications as required by law.
+
+\14. Resuming business operations before the end of a suspension period imposed by competent authorities.
+
+\15. Neglecting due diligence, leading to legal violations or damage to labor or employer interests.
+
+\16. Renting, subleasing, or improperly transferring operation permits or staff certificates.
+
+\17. Situations where a significant number or percentage of foreign workers recruited become untraceable within a specified timeframe after entry into the country, with specific numbers and percentages to be determined by the Central Competent Authority.
+
+\18. Engaging in sexual assault, human trafficking, serious personal offenses, or acts of severe injury or homicide against job applicants or foreign workers.
+
+\19. It is mandatory for private employment services institutions to report any suspicions that a foreign worker they have placed is a victim of sexual assault, human trafficking, offenses against personal liberty, severe injury, or homicide. These offenses may be committed by the employer, their family members, or any representatives or personnel managing labor affairs on behalf of the employer. Such reports must be made to the competent authority, entry and exit administrative authority, police, or other judicial authorities within 24 hours of acknowledging the suspicion.
+
+\20. Any other conduct that violates this Act or orders issued pursuant to it.
+
+(Ⅱ)Matters such as the number of persons, ratios, and verification methods referred to in sub-paragraph 17 of the preceding paragraph shall be determined by the central competent authority.
+
+### Article 41
+
+When entrusted with publishing or disseminating recruitment advertisements, private employment services institutions must retain detailed records of the entrusting employer (including name, residence, telephone numbers, and identification/business registration numbers) for two months from the date of advertisement. These records must be made available for inspection by competent authorities, and institutions are prohibited from evading, impeding, or refusing such inspections.
+
+## Chapter Ⅴ Employment and Oversight of Foreign Workers
+
+### Article 42
+
+To prioritize nationals’ employment rights, the employment of foreign workers must not adversely affect the employment opportunities, terms of employment, economic development, or social stability of nationals.
+
+### Article 43
+
+Unless specifically exempted in this Act, employing a foreign worker within the Republic of China is contingent upon obtaining an employment permit through the required application process.
+
+### Article 44
+
+It is prohibited to facilitate or allow foreign workers to stay and engage in work illegally within the Republic of China.
+
+### Article 45
+
+It is unlawful to refer foreign workers to work for any third party without proper authorization.
+
+### Article 46
+
+Employers hiring foreign nationals to work in the Republic of China are limited to the following categories, unless otherwise stipulated in the Act:
+
+1.Professional or technical work.
+
+2.Senior managers in businesses in which overseas Chinese or foreign nationals receive approval to invest or establish.
+
+3.Teachers at the following categories of school:
+
+(a) Teachers in public or registered private colleges and universities or schools for overseas Chinese .
+
+(b) Qualified teachers of foreign language courses in public or registered private senior high schools or below.
+
+(c) Subject teachers in the bilingual department at a public or registered private experimental senior high school or bilingual school.
+
+4.Full-time teachers at short-term supplementary schools registered under the Supplementary and Continuing Education Act.
+
+5.Sports coaches and athletes.
+
+6.Religious, artistic, and performing art related work.
+
+7.Seafarers of commercial ships, working ships, and other vessels granted special permission by the Ministry of Transportation and Communications.
+
+8.Ocean fishing work.
+
+9.Render home care workers , institutional care workers and household assistance workers.
+
+10.Work designated by the Central Competent Authority to meet the needs of national infrastructure projects or socio-economic development.
+
+11.Other work where it is necessary to hire foreign nationals because of the special nature of the job and the lack of such talent in Taiwan, approved on a case-by-case basis by the Central Competent Authority.
+
+The qualifications and review standards for foreign nationals engaged in the aforementioned work will be determined by the Central Competent Authority in consultation with the central authority for target industries, other than where specified in other laws. However, for live-in care workers detailed in point 9 above, if the care recipient has indigenous status, the assessment and method of determination will be decided by the Ministry of Health and Welfare in consultation with the Council of Indigenous Peoples.
+
+Employers who hire foreign nationals in accordance with the provisions of points 8 to 10 of Paragraph 1 must draft a fixed-term written labor contract; if no fixed term is set, the term of the contract shall be the same as the work permit period. The same applies when the contract is renewed.
+
+Employers who hire foreign nationals to engage in render home care work, where the care recipient is 80 years of age or older, or between 70 and 79 years of age and suffering from stage 2 cancer or above, are exempt from the requirement to undergo a professional evaluation by a medical institution.
+
+### Article 47
+
+(Ⅰ)Employers intending to hire foreign workers for work categories listed in Subparagraphs 8 to 11 of Paragraph 1 of Article 46 must first attempt domestic recruitment with reasonable labor terms. The application for a permit to recruit foreign personnel is permissible only if sufficient domestic employees cannot be acquired to meet business needs. In the process of recruiting foreign workers under these conditions, employers are required to: notify the labor union or the workers of the business entity about the full details of such recruitment; announce publicly the recruitment information in the workplace where the foreign workers will be employed.
+
+(Ⅱ)During domestic recruitment as stated in Paragraph 1, unless there are justifiable reasons, employers may not refuse to employ job applicants referred by public employment services institutions.
+
+### Article 48
+
+(Ⅰ)Employers must apply to the Central Competent Authority for an employment permit before employing a foreign worker, submitting all relevant documents. Exemptions from this requirement include:
+
+1 .Foreign workers employed as consultants or researchers by the government or its subordinate academic research institutes.
+
+\2. Foreign workers married to nationals of the Republic of China with a registered residence in the country and permitted to stay.
+
+\3. Foreigners employed in public or registered private colleges/universities in lecturing or academic research roles approved by the Ministry of Education.
+
+(Ⅱ)The Central Competent Authority, in collaboration with other relevant central authorities overseeing the occupations in question, shall establish regulations regarding the application for, and annulment of, employment permits and other matters related to the employment and administration of foreign workers.
+
+(Ⅲ)The Central Competent Health Authority, in collaboration with the Central Competent Authority, shall establish regulations governing the health examinations for employed foreign workers before and after their entry into the Republic of China.
+
+(Ⅳ)Health examinations after entry into the Republic of China as mentioned in Paragraph 3 shall be conducted by hospitals designated by the Central Competent Health Authority. The Central Competent Health Authority shall prescribe regulations for the qualifications, designation, and termination of such designations of hospitals, along with other administrative matters.
+
+(Ⅴ)If a foreign worker fails the health examinations and is ordered to leave the country within a specified period, the employer must immediately ensure and oversee the worker's departure.
+
+(Ⅵ)The Central Competent Authority may specify the country of origin and set quotas for foreign workers engaging in work categories mentioned in Subparagraphs 8 to 11 of Paragraph 1 of Article 46.
+
+### Article 48-1
+
+(Ⅰ)Local employers intending to hire foreign workers for homecare or household assistance for the first time must complete a training session conducted by the competent authority or its designated non-profit organization. Upon applying for an employment permit, these employers must submit a certificate of attendance from the completed training session.
+
+(Ⅱ)Rules governing the participants, details, implementation, the eligibility and requirements of the organizational designee authorized to conduct training and other criteria of the abovementioned training session are to be stipulated by the Central Competent Authority.
+
+### Article 49
+
+Foreign embassies, consulates, agencies, international organizations, and their staff, operating within the Republic of China and intending to employ foreign workers, must apply to the Ministry of Foreign Affairs for an employment permit. The Ministry of Foreign Affairs, in collaboration with the Central Competent Authority, shall develop regulations regarding: the issuance and annulment of employment permits for foreign workers employed by these international entities, other administrative matters related to the employment of such foreign workers.
+
+### Article 50
+
+The scope of jobs as limited in Paragraph 1 of Article 46 does not apply to the following categories of students who are employed to work in the Republic of China:
+
+1.Foreign students enrolled in public or registered private colleges/universities.
+
+\2. Overseas compatriot student and other foreign students of Chinese origin enrolled in public or registered private high schools or higher educational institutions.
+
+Outside of winter and summer vacation periods, the total working hours for these students shall not exceed 20 hours per week.
+
+### Article 51
+
+(Ⅰ)Employed foreign workers falling into the following categories are exempt from the requirements outlined in Paragraphs 1 and 3 of Article 46, Article 47, Article 52, Paragraphs 3 and 4 of Article 53, Subparagraph 5 of Article 57, Subparagraph 4 of Article 72, and Article 74. Additionally, their employers are exempt from paying the employment security fees required under Article 55:
+
+1.A refugee permitted to stay in the Republic of China.
+
+2.Individuals who have been continuously and legally employed in the Republic of China for at least five consecutive years, demonstrating good-mannered behavior and maintaining a residence within the country.
+
+3.Individuals permitted to live with their lineal relatives who have a registered domestic residence in the Republic of China.
+
+4.Individuals permitted to stay permanently in the Republic of China.
+
+(Ⅱ)Foreign workers specified in subparagraphs 1, 3, and 4 of Paragraph 1 may independently apply to the Central Competent Authority for work permits in the Republic of China without their employer's initiation.
+
+(Ⅲ)When a foreign legal person, without a branch office or representative agency in the Republic of China, needs to appoint a foreign worker for work specified in Subparagraph 1 or 2 of Paragraph 1 of Article 46 due to contract performance (such as construction, sale, or technical cooperation), the business entity contracted with or an authorized agent of the foreign legal person must apply for the necessary permits in accordance with regulations established under Paragraphs 2 and 3 of Article 48.
+
+### Article 52
+
+(Ⅰ)Employment permits for foreign workers engaged in work types listed in Subparagraphs 1 to 7 and Subparagraph 11 of Paragraph 1 of Article 46 shall be valid for up to three years. Employers may apply for extensions based on business needs.
+
+(Ⅱ)For work types in Subparagraphs 8 to 10 of Paragraph 1 of Article 46, permits shall also not exceed three years. In case of major and special circumstances, as defined by the Executive Yuan, further extensions may be granted, not exceeding six months for major construction projects.
+
+(Ⅲ)The Central Competent Authority will consult with representatives from relevant government agencies, labor, employers, and scholars to decide the annual maximum number of foreign workers allowed, based on the foreign workers employment alert index.
+
+(Ⅳ)A foreign worker who has complied with laws and regulations and has left the Republic of China upon employment termination or permit expiration or having failed health examinations but has since passed those examinations upon receiving medical attention in their home countries, may re-enter to work. Foreign workers in job categories under Subparagraphs 8 to 10 of Article 46 are limited to a total of 12 years of work in the Republic of China and are subject to the provisions of Subparagraph 2 of Paragraph 1 of Article 51.
+
+(Ⅴ)If such a foreign worker wishes to return home during the employment period, the employer must consent, and the Central Competent Authority will prescribe the process and regulations regarding leave-taking, the duration of absence and other relevant procedures.
+
+(Ⅵ)Foreign workers providing homecare services (Subparagraph 9 of Article 46) who complete professional training or demonstrate exceptional skill and performance, and meet the eligibility criteria set by the Central Competent Authority, may serve up to 14 years in total within the Republic of China.
+
+(Ⅶ)The Central Competent Authority, in consultation with relevant authorities, will stipulate the eligibility, requirements, and determination methods for extended service as outlined in Paragraph 6.
+
+### Article 53
+
+(Ⅰ)If an employed foreign worker needs to transfer to a new employer or work for multiple employers within the employment permit duration, the new employer(s) must apply for the relevant permit. In case of transfer to a new employer, the application must include documents certifying the termination of the previous employment.
+
+(Ⅱ)The permit requirement for transfer or multiple employment does not apply to foreign workers mentioned in Subparagraphs 1, 3, and 4 of Paragraph 1 of Article 51 who have already obtained a permit from the Central Competent Authority.
+
+(Ⅲ)Foreign workers employed in job categories listed in Subparagraphs 1 to 7 of Paragraph 1 of Article 46 are prohibited from changing to work categories listed in Subparagraphs 8 to 11 of the same paragraph when transferring to a new employer or job.
+
+(Ⅳ)Unless authorized by the Central Competent Authority under specific circumstances outlined in Paragraph 1 of Article 59, foreign workers employed in job categories listed in Subparagraphs 8 to 11 of Paragraph 1 of Article 46 may not change employers or work types.
+
+(Ⅴ)If a transfer to a new employer or job is authorized for a foreign worker as mentioned in Paragraph 4, the total duration of the previous and new employment combined must adhere to the limitations specified in Article 52.
+
+### Article 54
+
+(Ⅰ)The Central Competent Authority shall not issue, or may halt, the whole or part of permits for recruitment, employment, or extension thereof for foreign workers engaged in work as defined in Subparagraphs 8 to 11 of Paragraph 1 of Article 46 if any of the following circumstances arise or exist:
+
+1.Legal strikes or industrial disputes at the designated workplace (Article 10).
+
+2.Unjustifiable refusal of workers referred by public employment services or spontaneous applicants during domestic recruitment.
+
+3.Significant number or percentage of untraceable foreign workers or deliberate hiding by the employer, as prescribed by the Central Competent Authority.
+
+4.Illegal employment of foreign workers by the employer.
+
+5.Illegal layoff or discharge of national workers.
+
+6.Official investigative evidence pointing to deliberate undermining of national workers' labor terms by foreign worker employment.
+
+7.Disturbance of local community tranquility or public order by foreign workers and subsequent legal punishment in accordance with the Social Order Maintenance Act.
+
+8.Illegal withholding of foreign workers’ passports/residence certificates or embezzlement of their belongings.
+
+\9. Failure to pay travel or detention expenses for foreign workers within the prescribed period.
+
+10.Unjust interests involved in recruiting foreign workers through private employment services.
+
+11.Submission of false information for employment applications or related recruitment/administration processes.
+
+12.The employer has made false recruitment advertisement(s).
+
+13.Non-compliance with relevant application requirements by the employer and failure to rectify within the specified time.
+
+14.The employer has violated the provision(s) of the Act or the regulations promulgated pursuant to Paragraphs 2 or 3 of Article 48 or Article 49.
+
+15.The employer violated the provisions of Occupational Safety and Health Act and resulted in death or injury without appropriate indemnification or compensation.
+
+16.Other serious violations of labor protection laws and regulations.
+
+(Ⅱ)The aforementioned circumstances detailed in Subparagraphs 3 to 16 of Paragraph 1, are relevant if they occurred within two years prior to the application date.
+
+(Ⅲ)The Central Competent Authority will officially announce the figures or percentages related to untraceable foreign workers as mentioned in Subparagraph 3 of Paragraph 1.
+
+### Article 55
+
+(Ⅰ)Employers hiring foreign workers for work as defined in Subparagraphs 8 to 10 of Paragraph 1 of Article 46 must pay employment security fees into a specific account established by the Central Competent Authority. These fees support the promotion of national employment, enhancement of labor welfare, and management of foreign worker employment and administration.
+
+(Ⅱ)The Central Competent Authority, in consultation with relevant authorities, will determine the amount of employment security fees based on factors like national economic development, labor market supply and demand, and other relevant working conditions.
+
+(Ⅲ)Employers or care receivers qualifying as lowincome or lower-middle-income households (as defined in the Public Assistance Act) or those eligible for subsidies under the People with Disabilities Rights Protection Act or Senior Citizen Welfare Act are exempt from paying the employment security fees when hiring foreign workers for homecare services (Subparagraph 9 of Paragraph 1 of Article 46).
+
+(Ⅳ)Employers may be relieved from the obligation to pay employment security fees if the employed foreign worker in Paragraph 1 is no longer in contact or the employment has been terminated, provided the employer has reported this according to applicable rules and the employment permit has been annulled.
+
+(Ⅴ)Employers failing to pay the employment security fees within the designated time limit may receive a 30-day extension. After this period, a delay penalty is imposed at a rate of 0.3% per day on the outstanding fees, starting the day after the extension period until payment is made. The penalty shall not exceed 30% of the total outstanding fees.
+
+(Ⅵ) If the employer does not pay the delay penalty within 30 days from its commencement, the Central Competent Authority may enforce direct collection of the unpaid fees and penalties. Additionally, the employer's employment permit may be revoked, either in whole or in part.
+
+(Ⅶ)The Competent Authority is required to regularly publish information on the operation of the fund, including related meeting minutes, on their official websites.
+
+### Article 56
+
+(Ⅰ)If a foreign worker is unjustifiably absent from work without contact for three consecutive days, or if a foreign worker's employment is terminated, the employer must notify the local competent authority, the entry and exit administrative authority, and the Police in writing within three days of the occurrence. In cases of absence without contact, employers are also permitted to request the entry and exit administrative authority and the Police to conduct an inspection, communicating this request in writing.
+
+(Ⅱ)If a foreign worker believes they have been falsely reported by their employer as being unjustifiably absent for at least three days, they may file an appeal with the local competent authority. Upon verification of such falsity, the Central Competent Authority shall annul any original disciplinary sanctions, including the termination of the employment permit and the order for the worker to leave the Republic of China within a specified period.
+
+### Article 57
+
+As for employment of foreign worker(s), employer shall not engage in any of the following:
+
+\1. Employing a foreign worker without a valid permit, employing after the permit's expiration, or employing a foreign worker already permitted to be employed simultaneously by a third party.
+
+\2. Employing a foreign worker in the employer's name but in practice having the worker engage in work for a third party.
+
+\3. Assigning the employed foreign worker to work outside the scope of the work permitted.
+
+\4. Commanding a foreign worker, without authorization, who is employed for work as defined in Subparagraphs 8 to 10 of Paragraph 1 of Article 46, to change their workplace.
+
+\5. Fail to arrange health examinations for foreign workers or neglect to submit health examination reports to the competent health authority as required by law.
+
+6.Dismiss or lay off national workers as a result of employing foreign workers.
+
+7.Coercing, threatening, or using illegal means to force foreign workers to work against their will.
+
+8.Illegally withholding foreign workers’ passports or residence certificates, or embezzling their belongings.
+
+\9. Violating any other provisions of this Act or regulations promulgated pursuant to it, not already specified above.
+
+### Article 58
+
+(Ⅰ)Employers may apply to the Central Competent Authority for a replacement foreign worker if the original worker has departed from the Republic of China, died, or become untraceable during the employment permit period, through no fault of the employer, and remains unfound three months after reporting to the entry and exit administrative authority and police as per legal procedures.
+
+(Ⅱ)Employers of foreign workers in live-in care work (Subparagraph 9, Paragraph 1, Article 46) may apply for a replacement under the following conditions, provided the reason for the application is not attributable to the employer:
+
+1.The foreign worker is untraceable at an airport in the entering or departing country or a housing unit, and the employer has notified the authorities as legally required.
+
+2.The foreign worker becomes untraceable at the employer's location and is not found within two months after the employer notifies the authorities.
+
+3.The employer consents to the foreign worker’s transfer to a new employer or work within the permit duration, and the new employer continues the employment, or the Central Competent Authority revoked the employment permit more than a month ago, and the new employer has not continued employment.
+
+(Ⅲ)The duration of the replacement employment permit is limited to the remaining time on the original permit. If the remaining duration on the original employment permit is less than six months, a replacement application will not be permitted.
+
+### Article 59
+
+(Ⅰ)Foreign workers employed in job categories listed in Subparagraphs 8 to 11 of Paragraph 1 of Article 46 may change to a new employer or engage in new work under the following circumstances, subject to authorization by the Central Competent Authority:
+
+1.The death or emigration of the original employer or the care recipient.
+
+2.Work discontinuation due to attached, sinking, or long-term repair of the vessel they work on.
+
+3.Work discontinuation due to factory closure, suspension of business operations or failure to pay wages pursuant to the employment contract, resulting in termination.
+
+4.Other than the above, similar circumstances not attributable to the employed foreign worker.
+
+(Ⅱ)The Central Competent Authority shall promulgate the procedures governing changing employment to a new employer or new work as referred to in Paragraph 1 of this Article.
+
+### Article 60
+
+(Ⅰ)In cases where a foreign worker is dispatched out of the Republic of China by the entry and exit administrative authority, the following parties are responsible for paying the travel expenses and necessary detention expenses, in this order:
+
+1.The person who illegally accommodates, employs, or introduces the foreign worker for work.
+
+2.The foreign worker's employer, if responsible for reasons leading to the dispatch.
+
+3.The foreign worker being dispatched.
+
+(Ⅱ)If multiple parties are involved as described in Subparagraph 1 of Paragraph 1, they are jointly and severally liable for the expenses.
+
+(Ⅲ)The employment security fund will initially cover the expenses mentioned in Paragraph 1. The responsible person(s) must reimburse the fund within a specified period, as notified by the competent authority managing the fund.
+
+(Ⅳ)Employers who have paid a bond related to the dispatch of a foreign worker can apply to the Central Competent Authority for a refund. This application must include the bond payment receipt and other relevant certifying documents.
+
+### Article 61
+
+In the event that a foreign worker passes away during the duration of their employment contract, the employer is responsible for managing and bearing the costs of the relevant funeral matters on behalf of the deceased worker.
+
+### Article 62
+
+(Ⅰ)Competent authorities, entry and exit administrative authorities, police, coastal patrol, and judicial police officers are authorized to appoint personnel with proper identification to conduct inspections at locations where foreign workers are employed or suspected of being employed illegally.
+
+(Ⅱ)Employers, their agents, foreign workers, and other related individuals are prohibited from evading, impeding, or refusing the inspections referred in Paragraph 1.
+
+## Chapter Ⅵ Penal Provisions
+
+### Article 63
+
+(Ⅰ)Violations of Article 44 or Subparagraph 1 or 2 of Article 57 will incur a fine ranging fromNT$150,000 to NT$750,000. In cases of recurrent violations of the same provisions within a five-year period, the offender may be subject to imprisonment for up to three years, detention with hard labor, and/or a fine of up to NT$1,200,000.
+
+(Ⅱ)If the representative of a legal person or an agent, employee, or other staff member of a legal or natural person commits a violation of Article 44 or Subparagraph 1 or 2 of Article 57 in a business capacity, both the individual offender and the respective legal or natural person will be penalized. The penalties will include the fines or pecuniary penalties as outlined in Paragraph 1,applicable to both the individual and the legal or natural entity involved in the violation.
+
+### Article 64
+
+(Ⅰ)Violations of Article 45 will incur a fine ranging from NT$100,000 to NT$500,000. In cases of recurrent violations within a five-year periods, offenders face imprisonment of up to one year, detention with hard labor, and/or a fine of up toNT$600,000.
+
+(Ⅱ)If the violation of Article 45 is committed with the intention of making a profit, the offender may be imprisoned for up to three years, detained with hard labor, and/or face a fine of up toNT$1,200,000.
+
+(Ⅲ)If the representative of a legal person or an agent, employee, or other staff member of a legal or natural person commits a violation of Article 45 in a business capacity, both the individual offender and the respective legal or natural person will be subject to penalties. These penalties include the fines or pecuniary penalties outlined in Paragraphs 1 and 2, applicable to both the individual and the legal or natural entity involved in the violation.
+
+### Article 65
+
+(Ⅰ)Any individual who violates of the provisions specified in Paragraph 1, Subparagraphs 1, 4 or 5 or Paragraph 2 of Article 5, Paragraph 2 of Article 34, or Subparagraphs 2, 7, 8, 9 or 18 of Paragraph 1, Article 40 shall be fined therefore an amount of at least NT$300,000 and at most NT$1,500,000.
+
+(Ⅱ)Violations of the provisions specified in Subparagraphs 2, 7, 8, 9 or 18 of Paragraph, Article 40 by those engaging in employment services businesses without permit shall be punished in accordance with Paragraph 1 of Article 65.
+
+(Ⅲ)For violations of Paragraph 1 of Article 5, the competent authority at the municipal and county/city government level shall have the employer’s name or title and the person-incharge put on public notice, and shall order the employer to make improvements within a specified period; failure to make improvements shall result in consecutive fines for each violation upon expiration of the aforementioned period.
+
+### Article 66
+
+(Ⅰ)Any individual who violates Subparagraph 5 of Paragraph 1 of Article 40 by demanding, agreeing to receive later, or accepting fees or interests beyond the prescribed standards will be fined an amount at least ten times and up to twenty times the amount of the excess fees or unjust interest involved.
+
+(Ⅱ)Individuals engaging in employment services businesses without the necessary permit, in violation of Subparagraph 5 of Paragraph 1 of Article 40, will be subjected to the penalties outlined in Paragraph 1.
+
+### Article 67
+
+(Ⅰ)Any individual who violates Subparagraph 2, 3 or 6 of Paragraph 2 of Article 5, Article 10, Paragraph 1 of Article 36, Article 37, Article 39, Subparagraphs 1, 3, 4, 6, 10 to 17, 19, or 20, Paragraph 1 of Article 40, Subparagraphs 5, 8, or 9 of Article 57 or Paragraph 2 of Article 62 shall be fined an amount of at least NT$60,000 and at most NT$300,000.
+
+(Ⅱ)Individuals engaging in employment services businesses without the necessary permit, in violation of Subparagraphs 1, 3, 4,6 or 10, Paragraph 1 of Article 40 shall be punished in accordance with paragraph 1 of this Article.
+
+### Article 68
+
+(Ⅰ)Any individual who violates Article 9, paragraph 1 of Article 33, Article 41, Article 43, Paragraph 1 of Article 56, Subparagraph 3 or 4 of Article 57, or Article 61 shall be fined an amount of at least NT$30,000 and at most NT$150,000.
+
+(Ⅱ)Any individual that violates Subparagraph 6 of Article 57 shall be fined an amount of at least NT$20,000 and at most NT$100,000 per national worker so dismissed or laid off.
+
+(Ⅲ)Any foreign worker who violates Article 43 shall be immediately ordered to depart from the Republic of China and banned from further engaging in work in the territory.
+
+(Ⅳ)Where a foreign worker has violated the provisions of Article 43 or where any of the circumstances referred to in Paragraphs 1 and 2 of Article 74 has arisen or existed, but said foreign worker fails to depart as ordered by the competent authority from the Republic of China by the end of the specified period, the entry and exit administrative authority may enforce such departure and provide provisional shelter prior to deportation.
+
+### Article 69
+
+The competent authority may order a private employment services institution to suspend its operations for up to one year if any of the following circumstances arise or exist:
+
+\1. The institution violates Subparagraphs 4 to 6 or 8 of Paragraph 1 of Article 40 or Article 45.
+
+\2. The institution commits the same violation again after being fined three consecutive times for that violation and fails to rectify the issue.
+
+\3. The institution receives four or more fines within a one-year period.
+
+### Article 70
+
+(Ⅰ)The competent authority may order a private employment services institution to annul the operation permit of the private employment services institution concerned if any of the following circumstances arise or exist:
+
+\1. The institution violates Article 38, Subparagraphs 2, 7, 9 14, or 18, Paragraph 1 of Article 40; or
+
+\2. the institution has been ordered to suspend its operation for two or more times within one year.
+
+(Ⅱ)In cases where the operational permit for a private employment services institution has been annulled, the competent authority shall reject any further application for establishment of another such institution by the person in charge or by its representative within five years of such annulment.
+
+### Article 71
+
+If a member of the professional employment services staff violates the provisions of Article 37, the Central Competent Authority is authorized to annul the individual's professional certification.
+
+### Article 72
+
+The employer’s recruitment permit and employment permit shall be annulled in whole or in part if any of the following circumstances arise or exit:
+
+1.Any of the circumstances specified in the respective Subparagraphs of Paragraph 1 of Article 54 has arisen or existed.
+
+2.Any of the circumstances specified in Subparagraphs 1, 2, and 6 to 9 of Article 57 has arisen or existed.
+
+3.The employer has failed to rectify within the specified period in any of the circumstances as referred to in Subparagraphs 3 and 4 of Article 57.
+
+4.After having been notified by the competent health authority of the circumstances as referred to in Subparagraph 5 of Article 57, the employer has failed to make the arrangement(s) or submission of the report(s); or
+
+5.The employer has violated the provisions of Article 60.
+
+### Article 73
+
+In case any of the following occurs with respect to a foreign worker, the employment permit shall be annulled:
+
+1.The employed foreign worker has engaged in work for an employer who is not identified in the permit.
+
+2.The employed foreign worker has engaged, without being appointed by his/her employer, in work on their own initiative that is not within the scope of the permit;
+
+3.The employed foreign worker has been unjustifiably absent from their work and has not been in contact for three consecutive days or if employment has been terminated.
+
+4.The employed foreign worker has refused to undergo health examinations, submitted fake health examination sample(s), or failed health examinations, or their mental and/or physical condition(s) are/is not qualified for the assigned work, or they have been infected with any of the contagious diseases listed and announced by the central competent health authority.
+
+5.The employed foreign worker has been in serious violation of the regulations promulgated pursuant to Paragraph 2 or 3 of Article 48 or Article 49.
+
+6.Other than the above, the employed foreign worker has been in serious violation of applicable laws and regulations in the Republic of China.
+
+7.The employed foreign worker has refused to submit any information as required by applicable laws and regulations, or has submitted false information in violation of the applicable laws and regulations.
+
+### Article 74
+
+(Ⅰ)Unless otherwise stated in the Act, foreign workers must depart from the Republic of China immediately upon the expiration of their employment permit or its annulment according to Article 73. They are also barred from further employment within the territory.
+
+(Ⅱ)If a foreign worker is unjustifiably absent from work for three consecutive days, the competent authority managing entry/exit matters may order the worker to depart from the Republic of China immediately, even before the formal annulment of their employment permit.
+
+(Ⅲ)The immediate departure order as mentioned in paragraph (a) does not apply in the following circumstances:
+
+1.For foreign students, overseas compatriot student, or foreign students of Chinese origin employed under the Act, if the employment permit has expired or any conditions from Subparagraphs 1 to 5 of Article 73 have occurred.
+
+2.During the permit duration, if the foreign worker has initially failed to undergo or failed health examinations as per applicable laws but subsequently passed further health examinations authorized by the Competent Health Authority.
+
+### Article 75
+
+The fines stipulated in this Act shall be imposed and collected by the competent authorities at the municipal level and at the county/city level.
+
+### Article 76
+
+Should the fines imposed in accordance with the present Act are not paid within the specified period, legal proceedings will be initiated to enforce the collection of unpaid fines.
+
+## Chapter Ⅶ Supplementary Provisions
+
+### Article 77
+
+Foreign workers who were granted employment permits in accordance with the laws and regulations prior to the amendments of this Act are exempt from reapplying for permits under the amended Act. This exemption remains valid until the expiration of their original employment permit duration, as established before the entry into force of the Act's amendments.
+
+### Article 78
+
+(Ⅰ)Foreign individuals who are family members of staff at foreign embassies, consulates, agencies, and international organizations stationed in the Republic of China, as well as other foreign persons reported ad hoc by the Ministry of Foreign Affairs to the Central Competent Authority, are required to apply to the Ministry of Foreign Affairs for a work permit if they wish to work in the Republic of China.
+
+(Ⅱ)The provisions of Articles 46 to 48, 50, 52 to 56, 58 to 61, and 74 shall not apply to the foreign workers in Paragraph 1 of this article working in the Republic of China.
+
+(Ⅲ)The Ministry of Foreign Affairs shall collaborate with the Central Competent Authority to promulgate the regulations regarding the issuance and annulment of such permit and other matters related to employment and administration.
+
+### Article 79
+
+The provisions of the Act regarding foreign workers shall be applicable to the employment of stateless persons as well as nationals of the Republic of China who also possess the nationality of foreign country(s) but with no permanent residence in the Republic of China.
+
+### Article 80
+
+Unless otherwise provided for in the applicable laws and regulations, the relevant provisions in Chapter 5 of the Act shall govern, as the nature of the matter involved therein sees fit, the employment of Mainland China residents in the Republic of China and their administration.
+
+### Article 81
+
+Competent authorities, when processing applications for permits and issuing permits and other certificates in accordance with the present Act, shall charge examination fees and certificates fees. The amount of the examination and certificate fees shall be prescribed by the Central Competent Authority.
+
+### Article 82
+
+The enforcement rules of the Act shall be prescribed by the Central Competent Authority.
+
+### Article 83
+
+The Act shall become effective on the date of promulgation. However, for the effective date of amended Paragraphs 1 to 3 of Article 48 of the Act as of January 21, 2002 shall be determined by the Executive Yuan’s administrative order(s), and for the effective date of amended articles of the Act as of May 5, 2006 shall become effective on July 1, 2006.
+
+## History
+
+1.Enacted and promulgated a total seventy articles of the Act by the Presidential Order No. 2359 on May 8, 1992
+
+2.Amended and promulgated Article 49 of the Act by the Presidential Order No. 8600118890 on May 21, 1997
+
+3.Amended and promulgated Articles 43 and 51 of the Act by the Presidential Order No. 8900021190 on January 26, 2000
+
+4.Promulgated a total eighty-three articles of the Act by the Presidential Order No. 09100010130 on January 21, 2002, and enforced on the date of promulgation except Paragraphs 1 to 3 of Article 48 to be decided by the Order of Executive Yuan
+
+Promulgated Paragraphs 1 to 3 of Article 48 of the Act by the Executive Yuan Order No. 0930080307 on January 9, 2004, and enforced on January 15, 2004
+
+5.Amended and promulgated Articles 46, 48, 51-53 of the Act by the Presidential Order No. 09200087890 on May 13, 2003
+
+6.Amended and promulgated Article 52 of the Act by the Presidential Order No. 09200092550 on May 16, 2003
+
+7.Amended and promulgated Articles 64 and 83 of the Act by the Presidential Order No. 09500075901 on May 30, 2006, and enforced on July 1, 2006
+
+8.Amended and promulgated Articles 5, 40, 55, 58, and 60 of the Act by the Presidential Order No. 09600064151 on May 23, 2007
+
+9.Amended and promulgated Article 52 of the Act by the Presidential Order No. 09600087311 on July 11, 2007
+
+10.Amended and promulgated Article 48 of the Act by the Presidential Order No. 09700147411 on August 6, 2008
+
+11.Amended and promulgated Articles 2, 24, and 26 of the Act by the Presidential Order No. 09800116311 on May 13, 2009
+
+12.Amendments of Articles 52 and Article 55 Promulgated under Hua- Zong-Yi-Yi-ZiNo.10100021441 Presidential Decree on January 30, 2012
+
+13.Amendments of Articles 5 Promulgated under Hua- Zong-Yi-Yi-ZiNo.10100264211 Presidential Decree on November 28, 2012
+
+14.Amended on December 25,2013
+
+15.Amended on June 17, 2015
+
+16.Amended on October 07, 2015
+
+17.Amended on November 03, 2016
+
+18.Amended on November 28, 2018
+
+19.Amended on May 10, 2023
+
+20.Amended on January 20, 2025

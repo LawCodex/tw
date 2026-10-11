@@ -1,0 +1,137 @@
+---
+title: "The Hualien-Taitung Area Development Act"
+title_zh: "花東地區發展條例"
+identifier: "A0030242"
+type: act
+law_level: "法律"
+category: "行政＞國家發展委員會＞通用目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2011-06-29
+last_amended: 2011-06-29
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=A0030242"
+retrieved: 2026-10-12
+---
+
+# The Hualien-Taitung Area Development Act
+
+> Translation. The Chinese text ([zh/laws/national-development-council/A0030242-the-hualien-taitung-area-development-act.md](../../../zh/laws/national-development-council/A0030242-the-hualien-taitung-area-development-act.md)) is authoritative.
+
+## Article 1
+
+This Act is enacted to promote the industrial development, preserve its natural ecology and landscape, foster its diverse cultural features, improve the quality of life and environment, and augment the welfare of residents of Hualien-Taitung area.
+
+## Article 2
+
+The Hualien-Taitung area as referred to in this Act means Hualien County and Taitung County.
+
+## Article 3
+
+The competent authorities for this Act are the Executive Yuan at the central government level, Hualien County Government and Taitung County Government at the county level.
+
+## Article 4
+
+The main tasks of the central competent authority are as follows:
+
+1.To formulate a strategic plan for the sustainable development of the Hualien-Taitung area, and review the plan once every four years.
+
+2.To coordinate, review, supervise and provide guidance for the construction and development of the Hualien-Taitung area.
+
+## Article 5
+
+In accordance with the strategic plan for the sustainable development of the Hualien-Taitung area, the county competent authorities shall separately or jointly formulate four-year implementation schemes for the integrated development plans including:
+
+1.Objectives of the scheme and scope of implementation.
+
+2.Tourism and cultural development.
+
+3.Improvement of indigenous peoples’ living conditions and environment.
+
+4.Protection of the ecological environment.
+
+5.Development of infrastructure.
+
+6.Development of industry.
+
+7.Development of transportation and communications.
+
+8.Development of medical facilities and services.
+
+9.Development of social welfare.
+
+10.Disaster prevention and remediation.
+
+11.Social order maintenance.
+
+12.River management.
+
+13.Education facilities.
+
+14.Yearly implementation plans and division of work.
+
+15.Yearly financial plans and sources of funds.
+
+16.Other relevant development matters.
+
+The integrated development implementation plans referred to in the preceding paragraph shall be approved by the central competent authority before being implemented.
+
+The integrated development implementation plans referred to in the first paragraph shall be revised as necessary to match the strategic plan for the sustainable development of the Hualien-Taitung area, and shall be subject to rolling review at appropriate times; the procedure for which shall be conducted in accordance with the preceding paragraph.
+
+## Article 6
+
+In order to capitalize on the unique strengths and features of the Hualien-Taitung area, the central competent authority may specify key industries, through low-interest financing, credit guarantees, industry assistance, talent cultivation, and other incentives or preferential measures for a particular industry’s development.
+
+The competent authorities for stations or related facilities of state-owned public transportation systems should plan to retain appropriate advertising space for priority provision, at a preferential price, for use by focal industries in the Hualien-Taitung area.
+
+## Article 7
+
+To maintain and enhance urban and rural landscapes that possess the special features of the Hualien-Taitung area, the county competent authorities may formulate architecture and landscape control and reward measures, to comprehensively enhance the architectural esthetics and cultural features of the area.
+
+## Article 8
+
+To protect indigenous subsistence and cultural heritage, county competent authorities shall, in accordance with the Indigenous Peoples Basic Law, formulate related initiatives, including talent cultivation and support for indigenous participation in natural resource management.
+
+## Article 9
+
+The competent authorities at each level shall furnish and employ guidance and assistance to actively encourage talent to move to or return to the eastern region to set up businesses, and shall promote the cultivation of local talent and cooperation between industry and academia.
+
+## Article 10
+
+For students with household registration in the Hualien-Taitung area, the Ministry of Education shall allocate a budget to subsidize schoolbook costs for students who are receiving national compulsory education.
+
+Regulations governing the scope, conditions, form and other matters concerning subsidies referred to in the preceding paragraph shall be prescribed by the Ministry of Education.
+
+## Article 11
+
+In order to improve external transportation services for the Hualien-Taitung area, and meet the external transportation and industrial development needs of local residents, the Ministry of Transportation and Communications shall increase rail capacity and shorten travel times between trains, and shall enhance the safety and reliability of highways.
+
+A comprehensive and well functioning public transportation network shall be constructed for the Hualien-Taitung area, and improvement made to roads and public transportation serving indigenous people’s settlements, to provide safe, fast and convenient, user-friendly, reliable and comfortable transportation services.
+
+## Article 12
+
+The central government shall annually allocate a budget for meeting the costs, or budget slack for subsidizing, the conduct of implementation projects for overall development and related industrial development.
+
+To achieve the sustainable development of the Hualien-Taitung area, the central competent authority shall establish a Hualien-Taitung area Sustainable Development Fund in the amount of NT$ 40 billion, obtained from the following sources:
+
+1.Allocation from the ten-year budget compilation by the central competent authority.
+
+2.Allocation from the budget compilation of the county competent authorities.
+
+3.Interest on the fund.
+
+4.Donations from individuals or organizations.
+
+5.Other incomes.
+
+Regulations governing the receipts, expenditures, custody and utilization of the Hualien-Taitung area Sustainable Development Fund shall be prescribed by the central competent authority in consultation with the Hualien County Government and the Taitung County Government.
+
+## Article 13
+
+This Act shall come into force from the date of promulgation.
+
+## History
+
+1.Enacted and promulgated by President Order Hua-Tsung (1)-Yi-Tzu No.10000136201 on June 29, 20110

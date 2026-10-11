@@ -1,0 +1,1953 @@
+---
+title: "Income Tax Act"
+title_zh: "所得稅法"
+identifier: "G0340003"
+type: act
+law_level: "法律"
+category: "行政＞財政部＞賦稅目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1943-02-17
+last_amended: 2026-09-11
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0340003"
+retrieved: 2026-10-12
+---
+
+# Income Tax Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-finance/G0340003-income-tax-act.md](../../../zh/laws/ministry-of-finance/G0340003-income-tax-act.md)) is authoritative.
+
+## Chapter 1 General Principles
+
+### Section 1 General Provisions
+
+#### Article 1
+
+Income tax is classified into individual income tax and profit-seeking enterprise income tax.
+
+#### Article 2
+
+For any individual having income from sources in the Republic of China, the individual income tax shall be levied in accordance with this Act on his income derived from sources in the Republic of China.
+
+Unless otherwise provided in this Act, in the case of an individual who is a nonresident in the Republic of China but who has derived income from sources in the Republic of China, income tax payable by him on all such income shall be withheld and paid at the respective sources.
+
+#### Article 3
+
+For any profit-seeking enterprise operating within the territory of the Republic of China, the profit-seeking enterprise income tax shall be levied in accordance with this Act.
+
+For any profit-seeking enterprise having its head office within the territory of the Republic of China, the profit-seeking enterprise income tax shall be levied on its total profit-seeking enterprise income derived within and without the territory of the Republic of China; however, in case income tax has been paid on the income derived outside of the territory of the Republic of China in accordance with the tax law of the source country of that income, such tax paid may, upon presentation by the taxpayer of evidence of tax payment issued by the tax office of said source country for the same business year and attested by a Chinese embassy or consulate or other organizations recognized by the Government of the Republic of China in the said local, be deducted from the amount of tax payable by the taxpayer at the time of filing final returns on the total profit-seeking enterprise income, to the extent that such a deduction shall not exceed the amount of tax which, computed at the applicable domestic tax rate, is increased in consequence of inclusion of its income derived from abroad.
+
+For any profit-seeking enterprise having its head office without the territory of the Republic of China but having income derived from sources in the Republic of China, profit-seeking enterprise income tax shall be levied on its profit-seeking enterprise income derived within the territory of the Republic of China.
+
+#### Article 3-1
+
+(Deleted)
+
+#### Article 3-2
+
+Where the settlor of a trust deed is a profit-seeking enterprise and the beneficiary of the whole or any part of the trust benefit designated therein is not the settlor once the trust deed takes effect, then the said beneficiary shall include the value of his/her/its entitlement to such trust benefit in the aggregate amount of his/her/its annual income in the year the trust deed takes effect for assessment of income tax under this Act.
+
+In the case of a trust deed referred to in the preceding Paragraph wherein the settlor is named as the beneficiary of the whole or any part of the trust benefit, if the beneficiary is replaced by a person other than the settlor during the term of such trust relationship, then the said new beneficiary shall include the value of his/her/its entitlement to such trust benefit in the aggregate amount of his/her/its annual income in the year the beneficiary change takes effect for assessment of income tax under this Act.
+
+In the case of a trust deed wherein the settlor is a profit-seeking enterprise, if more trust property is added during the term of such trust relationship, so as to increase the right of a person other than the settlor to enjoy the trust benefit, then the said person shall include the increased portion of the value of his/her/its entitlement to such trust benefit in the aggregate amount of his/her/its annual income in the year the trust property increase takes effect for assessment of income tax under this Act.
+
+Where the beneficiary or beneficiaries of a trust deed set forth in any of the preceding three Paragraphs are unspecified or not in existence yet, the trustee shall be considered as the taxpayer for that trust deed who shall declare and pay the tax for the value of the beneficiary's entitlement to such trust benefit in the year the trust deed takes effect, the year the change of beneficiary takes effect, or the year in which more trust property is added. The tax thereof shall be calculated in accordance with the prescribed withholding tax rate within the time limit stipulated in Article 71 of this Act. The aforementioned withholding tax rate shall be formulated by the Ministry of Finance (hereinafter referred to as the MOF) and submitted to the Executive Yuan for its approval and promulgation.
+
+#### Article 3-3
+
+Where the trust property is transferred or otherwise disposed of based on transfer of trust relationship between the interested parties under any of the following circumstances, such transfer or disposition of trust property shall be exempt from assessment of income tax:
+
+\1. Between the settlor and a trustee, due to creation of the trust deed;
+
+\2. Between the original trustee and a new trustee, upon change of the trustee during the term of persistence of the trust relationship;
+
+\3. Between a trustee and a beneficiary, upon delivery of the trust property by the trustee pursuant to the intent of trust during the term of persistence of the trust relationship;
+
+\4. Between the settlor and the trustee or between the trustee and the beneficiary upon extinguishment of the trust relationship; or
+
+\5. Between the settlor and the trustee due to unsuccessful creation of, or invalidation, cancellation or nullification of the trust deed.
+
+The income arising from management or disposition of the trust property by the trustee prior to transfer or disposition of the trust property to be effected under the preceding Paragraph shall be subject to assessment of income tax in accordance with the provisions of Article 3-4 of this Act.
+
+#### Article 3-4
+
+With regard to the revenue, if any, derived from trust property, the trustee shall, in the year of derivation of such revenue and after deducting there-from the costs, necessary expenses and loss occurred, calculate the amount of each category of income as classified in this Act to be payable to each trust beneficiary; and each beneficiary shall include such portion of trust benefit distributed to him/her/it in his/her/its annual income tax return to be filed in the then current year for assessment of income tax under this Act.
+
+Where there are two or more beneficiaries entitled to the trust benefit set forth in the preceding Paragraph, the trustee shall calculate the amounts of such revenue distributable to all beneficiaries in accordance with the benefit distribution proportions explicitly provided in the trust deed or the deduced proportions. However, if the distribution proportions are unknown or can not be deduced, then the revenue of various categories of such revenue derived from the trust property and distributable to trust beneficiaries shall be calculated on an average basis.
+
+In the absence of specific or any beneficiary/beneficiaries, the tax payer for the amount of revenue derived from the trust property as calculated in the year of occurrence of such revenue under the preceding two Paragraphs shall be the trustee of the trust deed, and a withholding tax shall be paid at the applicable withholding rates and declared in the annual income tax return to be filed within the filing period stipulated in Article 71 of this Act. As for the withholding tax already declared and paid in accordance with the provisions of Paragraph 2, Article 89-1 of this Act, the amount of such withholding tax may be deducted from the amount of income tax payable by the tax payer. The withholding tax rates shall be formulated by the MOF and submitted to the Executive Yuan for its approval.
+
+In case a trustee fails to comply with the provisions set out in the preceding Paragraphs 1 through 3, the tax authority shall assess the amount of income of the trust beneficiary concerned based on the relevant information available and levy the income tax accordingly.
+
+With regard to the charitable trust conforming to the requirements set out in Article 4-3 of this Act, the trust benefits actually distributed to trust beneficiaries shall be included in their respective annual income for the year of such distribution for assessment of tax under this Act.
+
+With regard to the mutual trust funds, securities investment trust funds, futures trust funds and/or other trust funds approved by the Financial Supervisory Commission, Executive Yuan under the acts, the trust benefits actually distributed to trust beneficiaries shall be included in their respective annual income for the year of such distribution for assessment of tax under this Act.
+
+#### Article 4
+
+Income tax shall be exempted for the following categories of income:
+
+\1. (Deleted)
+
+\2. (Deleted)
+
+\3. Compensation for death or injury and that obtained in pursuance of the National Compensation Act;
+
+\4. Pension or compensation for death received in accordance with applicable laws or regulations by the bereaved family of a person who died in performing official duties. Pension or compensation for death in one lump sum or by installments received in accordance with applicable laws or regulations by the bereaved family of a person who died while not performing official duties with the lump sum or the total amount paid in all installments in one year calculated together with the amount of the Separation Income provided in Paragraph 1, Article 14 hereof; however, the total amount received shall not be more than the deductible amount provided in Category 9, Paragraph 1, Article 14 hereof;
+
+\5. Payment for special disbursement, allowance in kind or cash in lieu thereof and housing allowances received from the government by public servants, teachers, military personnel, policemen and laborers; and that portion included in the uniform-scale salary received by employees of state-run organizations representing allowance in kind and housing allowance;
+
+\6. Interest on savings of a compulsory nature made in accordance with laws or ordinance;
+
+\7. Compensation payment made under life insurance, labor insurance and insurance for public servants, military personnel and teachers;
+
+\8. Scholarships and subsidies granted by governments of the Republic of China,  foreign governments, international institutions, educational, cultural, and scientific research organizations or associations, and other public or private organizations for encouragement of advanced studies, research or participation in scientific and professional training, except for the scholarships or subsidies received as the remuneration for services rendered to the grantors;
+
+\9. Income, derived by virtue of office, of foreign diplomatic officials, consular officials and other persons entitled to treatment accordable to diplomatic officials in the service of foreign embassies, legations and consulates in the Republic of China;
+
+\10. Income, derived by virtue of office, of employees, other than diplomatic officials, consular officials and persons entitled to diplomatic treatment, who, being nationals of a foreign country, are employed by the embassy, legation or consulate of their country or by subsidiary agencies thereof in the Republic of China; provided that reciprocal treatment is accorded by the foreign country concerned to employees of the nationality of the Republic of China employed by the embassy, legation or consulate of the Republic of China or by subsidiary agencies thereof, in the foreign country concerned.
+
+\11. Salaries paid by foreign governmental agencies, organizations or educational and cultural institutions to foreign technicians and professors of universities and colleges for services rendered within the territory of the Republic of China under technical cooperation or cultural and educational exchange agreements made by and between such foreign governmental agencies, organizations or educational and cultural institutions and those of the Republic of China;
+
+\12. (Deleted)
+
+\13. Income derived by educational, cultural, public welfare and charitable organizations or institutions and are in conformity with the criteria prescribed by the Executive Yuan, from the operations of their own and their subsidiaries;
+
+\14. Surplus profit of consumer cooperatives operated in accordance with law and doing no business with outsiders;
+
+\15. (Deleted)
+
+\16. Income earned by an individual or by a profit-seeking enterprise from the sale of land, or by an individual from the sales of apparel or furniture for household use, or income earned by a profit-seeking enterprise from the transactions of a sale of property for the purpose of stockpiling war materials in accordance with the regulations established by the government. The portion of stock or bond transactions income, earned by an individual or a profit-seeking enterprise through sale of stock or corporate bonds of companies limited by shares, attributable to changes in the valuation of said securities from date of acquisition to December 31, 1973.
+
+\17. Properties received by way of inheritance, bequest or gift, except properties obtained as a gift from a profit-seeking enterprise;
+
+\18. All kinds of income derived by governments of various levels;
+
+\19. Income of public utility enterprises owned by governments of various levels;
+
+\20. Business income obtained from the operation inside the territory of the Republic of China by a foreign enterprise engaged in international transportation; provided that reciprocal treatment is accorded by the foreign country concerned to an international transport enterprise of the Republic of China operating in its territory;
+
+\21. Royalties paid to a foreign enterprise for the use of its patent rights, trademarks, and/or various kinds of special licensed rights in order to introduce new production technology or products, improve product quality, or reduce production cost under the approval of the competent authority as a special case, as well as remuneration paid to a foreign enterprise for the provision of technical services in construction of a factory for an important productive enterprise determined and approved as such by the competent authority;
+
+\22. Interest derived from loans offered to the government of the Republic of China or legal entities within the territory of the Republic of China by foreign government or international financial institutions for economic development, and interest derived from the financing facilities offered by foreign financial institutions to their branch offices and other financial institutions within the territory of the Republic of China.
+
+Interest derived from loans extended to legal entities within the territory of the Republic of China by foreign financial institutions for financing important economic construction projects under the approval of the MOF.
+
+Interest derived from favorable-interest export loans offered to or guaranteed for the legal entities within the territory of the Republic of China by foreign governmental institutions and foreign financial institutions that specialize in offering export loans or guarantees;
+
+\23. Individual income derived from publishing articles, books, musical compositions, drama productions, drawing cartoons, and remuneration on an hourly basis for speeches. However, the total amount of such income for the whole year shall not exceed NT$ 180,000;
+
+\24. Various payments paid to personnel engaged in handling various kinds of examinations held by governmental agencies or academic organizations as commissioned by such agencies or engaged in handling entrance examinations held by public and private schools of various levels.
+
+Criteria of "performing official duties" as referred to in Item 4 of the preceding Paragraph shall be stipulated by the Executive Yuan.
+
+#### Article 4-1
+
+Income tax on gains derived from the securities transactions shall be suspended from January 1, 1990; and, at the same time, losses on such transactions shall not be deductible from the amount of income.
+
+#### Article 4-2
+
+Income tax on gains derived from transactions of futures under the Futures Transaction Tax Act shall be suspended for the time being and losses on such transactions shall not be deductible from the amount of income.
+
+#### Article 4-3
+
+Where a profit-seeking enterprise provides property for the purpose of formation of, or contribution to, or participation in any of the following charitable trusts, the value of the beneficiaries' entitlement to the benefits distributable to them under the said charitable trust shall be exempt from assessment of income tax and from application of the provisions of Article 3-2 and the proviso set out in Subparagraph 17, Paragraph 1, Article 4 of this Act:
+
+\1. A charitable trust, the trustee thereof is a trust business operator as defined in the Trust Business Act;
+
+\2. A charitable trust which will not pay special benefit in any manner to any specific person or any person who may be designated as a specific person, except for payment of the expenses which must be made to an enterprise incorporated in realizing the creation objective of the said charitable trust; and
+
+\3. A trust property which, according to the provisions of the trust deed thereof, will be transferred to a government authority at a specific level, or a charitable juristic person or charitable trust having a similar objective upon the cancellation, termination or extinguishment of such trust deed.
+
+#### Article 4-4
+
+An individual or a profit-seeking enterprise who has any income derived from transactions of house, house and the share of land associated with the house, or any land which can be issued a construction permit (hereinafter referred to as the “house and land") acquired on or after January 1, 2016, shall be subject to assessment of income tax in accordance with the provisions of Articles 14-4 through 14-8 and Article 24-5 of this Act.
+
+For an individual or a profit-seeking enterprise who acquires the right to use a house by creation of superficies or the presale house with its building location on or after January 1, 2016, the transactions of the right or the presale house with its building location shall be regarded as the transactions of the house and land in the preceding Paragraph.
+
+For any individual or profit-seeking enterprise directly or indirectly holding more than half of the total number of shares or the total amount of capital of an enterprise within or outside the Republic of China, where at least 50% of the value of such shares or capital are constituted by house and land within the territory of the Republic of China, the transactions of the shares or capital shall be regarded as the transactions of the house and land as provided in Paragraph 1; however, such shall not apply if the shares being transacted are those of stocks in exchange-listed, OTC-listed, or emerging stock companies.
+
+Land that meets the criteria of Paragraph 1 shall be exempt from application of Subparagraph 16, Paragraph 1, Article 4 of this Act; the house provided in Paragraph 1 shall exclude farmhouses built in accordance with the Agricultural Development Act.
+
+#### Article 4-5
+
+House and land transactions mentioned in the preceding Article shall be exempt from assessment of income tax provided they comply with any one of the following conditions. However, for the house and land conforming to the provisions of Subparagraph 1, the amount of the exempt income calculated in accordance with Paragraph 3, Article 14-4 shall not exceed NT$4,000,000.
+
+\1. Self-use house and land held by an individual, his (her) spouse, or their minor children which complies with any one of the following conditions:
+
+(1) The individual, his (her) spouse, or their minor children have lived in, maintained their household registration at the self-use house, and have owned the house for 6 consecutive years.
+
+(2) The house and land have never been used for lease, business operation, or professional practice in the last 6 years before its sale.
+
+(3) The individual, his (her) spouse, or their minor children have never applied for the provision of this subparagraph in the last 6 years before the sale.
+
+\2. Land that complies with the provisions of Article 37 or Article 38-1 of the Agricultural Development Act allowing for application for non-imposition of the land value increment tax.
+
+\3. Expropriated land and land improvements, including the price negotiation before the expropriation.
+
+\4. Transfer of land reserved for public facilities under the Urban Planning Law before the expropriation.
+
+Land and improvements on land provided in Subparagraphs 2 to 4 shall be exempt from application of Article 14-5; related losses incurred from the transactions shall also be exempt from application of loss deduction provided in Paragraph 2, Article 14-4, loss deduction provided in Paragraph 3, Article 24-5, and loss deduction from the amount of income of the profit-seeking enterprise provided in the second part of Paragraph 4, Article 24-5.
+
+#### Article 5
+
+The personal exemption for individual income tax shall be limited to NT$ 60,000 each person per year. If the total increase of the consumer price index has reached a figure of 3% or higher compared to the index of the year of previous adjustment, the exemption shall be adjusted accordingly. The adjusted amount shall be calculated in units of NT$100; if the amount is less than NT$1,000, it shall be calculated as a unit of NT$1,000 and rounded up or down to the nearest NT$1,000 using the traditional method.
+
+The tax brackets and rates of individual income tax are as follows:
+
+\1. If the annual total net consolidated income is less than or equal to NT$520,000, the tax rate shall be 5%.
+
+\2. If the annual total net consolidated income is above NT$520,000 but not more than NT$1,170,000, the income tax payable shall be NT$26,000 plus 12% for the portion of income more than NT$520,000.
+
+\3. If the annual total net consolidated income is above NT$1,170,000 but not more than NT$2,350,000, the income tax payable shall be NT$104,000 plus 20% for the portion of income more than NT$1,170,000.
+
+\4. If the annual total net consolidated income is above NT$2,350,000 but not more than NT$4,400,000, the income tax payable shall be NT$340,000 plus 30% for the portion of income more than NT$2,350,000.
+
+\5. If the annual total net consolidated income is above NT$4,400,000, the income tax payable shall be NT$955,000 plus 40% for the portion of income more than NT$4,400,000.
+
+If the total increase of the consumer price index has reached a figure of 3% or higher compared to the index of the year of previous adjustment, the tax brackets as described in the preceding Paragraph shall be adjusted accordingly. The adjusted amount shall be calculated in units of NT$10,000; if the amount is less than NT$10,000, it shall be calculated as a unit of NT$1,000 and rounded up or down to the nearest NT$10,000 using the traditional method.
+
+The exemption and the tax brackets for individual income tax shall be publicly announced by the MOF in accordance with the preceding Paragraphs 1 & 3 before the beginning of each year. The consumer price index as indicated above shall be publicly released by the Directorate-General of Budget, Accounting and Statistics, Executive Yuan based on the average consumer price index for 12 months up to the end of October of the previous year.
+
+The minimum taxable amount and rates for profit-seeking enterprise income tax are as follows:
+
+\1. If the total taxable income of a profit-seeking enterprise is NT$120,000 or less, the profit-seeking enterprise is exempt from tax.
+
+\2. If the total taxable income of a profit-seeking enterprise is more than NT$120,000, the income tax rate shall be 20%. However, the income tax payable shall not exceed one half of the portion of taxable income more than NT$120,000.
+
+\3. Where the total taxable income of a profit-seeking enterprise is more than NT$120,000 but not more than NT$500,000, the income tax rate shall be in accordance with the following provisions instead of the preceding Subparagraph. However, the income tax payable shall not exceed one half of the portion of taxable income more than NT$120,000.
+
+(1) The income tax rate for taxable year 2018 shall be 18%.
+
+(2) The income tax rate for taxable year 2019 shall be 19%.
+
+#### Article 5-1
+
+The standard deduction, special deduction of income from salaries/wages and special deduction for the disabled or handicapped shall be handled in accordance with Article 17, and their respective calculations for adjustments shall apply mutatis mutandis to paragraph 1 and paragraph 4 of Article 5.
+
+The deductions of paragraph 1 and the exemption of Article 5 shall be assessed every three years in accordance with the standard of income and changes in basic living standards.
+
+#### Article 6
+
+All amounts of money as provided in this Act should be expressed in New Taiwan Dollars.
+
+#### Article 6-1
+
+With regard to the property provided by any individual or profit-seeking enterprise for creating, or contributing to, or participating in a charitable trust conforming to the applicable requirements set out in Article 4-3, the provisions of Article 17 and Article 36 of this Act shall govern.
+
+#### Article 6-2
+
+Separate accounting books and records shall be established and maintained for individual trust deeds by the respective trustees of such trust deeds for use in keeping the details of the receiving and disbursing transactions effected under each individual trust deed. Every disbursement transaction must be supported by appropriate certificate or receipt.
+
+### Section 2 Definitions
+
+#### Article 7
+
+The term "person" as used in this Act refers to a natural person or juristic person. The term "individual" used in this Act means a natural person.
+
+The term "individual residing in the Republic of China" refers to one of the following:
+
+\1. A person who has domicile within the territory of the Republic of China and resides at all times within the territory of the Republic of China;
+
+\2. A person who has no domicile within the territory of the Republic of China but resides within the territory of the Republic of China for a period of more than 183 days during a taxable year.
+
+The term "individual not residing in the Republic of China" denotes an individual who does not fit the descriptions provided in the preceding paragraph.
+
+The term "taxpayer" as used in this Act means a person who is required under this Act to report or pay income tax.
+
+The term "tax withholder" as used in this Act means a person who is required under this Act to withhold income tax from his payment to be made to a taxpayer.
+
+#### Article 8
+
+The term "income from sources in the Republic of China" used in this Act refers to income of the following categories:
+
+\1. Dividends distributed by companies incorporated and registered in accordance with the Company Act of the Republic of China and by foreign companies authorized by the government of the Republic of China to operate within the territory of the Republic of China;
+
+\2. Profits distributed by profit-seeking enterprises organized in the form of a cooperative or a partnership within the territory of the Republic of China;
+
+\3. Remuneration for services rendered within the territory of the Republic of China; however, this shall not apply to remuneration obtained from an employer without the territory of the Republic of China by an individual not residing in the Republic of China but staying in the Republic of China for a period of not more than ninety days during a taxable year;
+
+\4. Interest obtained from governments of various levels of the Republic of China, from juristic persons within the territory of the Republic of China and from individuals residing in the Republic of China;
+
+\5. Rental obtained from lease of property situated within the territory of the Republic of China;
+
+\6. Royalties obtained from patents, trademarks, copyrights, secret formulas and franchises by virtue of their being made available for use by other persons within the territory of the Republic of China;
+
+\7. Profits from the transaction of properties within the territory of the Republic of China;
+
+\8. Remuneration for services performed by personnel sent abroad by the government of the Republic of China on overseas missions and for services rendered abroad by employees in general;
+
+\9. Profits from operation of industry, commerce, agriculture, forestry, fishery, animal husbandry, mining, and metallurgy enterprises within the territory of the Republic of China;
+
+\10. Prizes or awards won from skills competitions or by chance, etc. within the territory of the Republic of China; and
+
+\11. Any other income obtained within the territory of the Republic of China.
+
+#### Article 9
+
+The terms "income from the transaction of property" and "losses from the transaction of property" as used in this Act refer to profits and losses resulting from sale, purchase, or exchange of property by a taxpayer who comes to possess the property through a manner other than engaging in regular sales and purchases of such properties for profit-seeking purposes.
+
+#### Article 10
+
+The term "fixed place of business" as used in this Act refers to fixed places for operation of business, including administrative offices, branch or sub-branch offices, business offices, factories, workshops, warehouses, mining fields, and construction sites, however, this shall exclude warehouse or storage sites used exclusively for purchase of goods and maintenance shops not used for processing or manufacturing products.
+
+The term "business agent" as used in this Act means an agent fulfilling any of the following requirements:
+
+\1. Where the agent, in addition to representing its principal in the purchase of goods, is authorized to regularly represent the principal in making business arrangements and in signing contracts;
+
+\2. Where the agent regularly keeps in store goods of its principal and delivers the same, for its principal, to others; and
+
+\3. Where the agent regularly accepts, for its principal, order for goods.
+
+#### Article 11
+
+The term "practitioner of profession" as used in this Act refers to a lawyer, certified public accountant, architect, technician, physician, pharmacist, obstetrician, author, broker, scrivener, artisan, performer, or any person who makes a living with craftsmanship or art.
+
+The term "profit-seeking enterprise" as used in this Act refers to industrial, commercial, agricultural, forestry, fishing, animal husbandry, mining or metallurgical enterprises operated by public, private, or joint public and private interests and having a business name or place and organized in the form of sole proprietorship, partnership, company or in any other form of organization.
+
+The term "public utility enterprise" as used in this Act refers to an organization established by a government of any level for the purpose of attaining certain objectives of a specific enterprise without computation of profit or loss and distribution of dividend.
+
+The term "educational, cultural, public welfare and charitable organizations or institutions" as used in this Act denotes organizations or institutions that are organized in accordance with the provisions of the Book of General Principles of the Civil Code relating to public welfare organization and foundations or in accordance with the provisions of other relevant laws and ordinances and are duly registered with the competent authority.
+
+The term "cooperative" as used in this Act refers to cooperatives which are organized in accordance with the Cooperative Act, duly registered with the competent authority at the place of their business, and conduct their operations in accordance with laws, however, an organization that is engaged in business of a cooperative nature, and fails to meet the requirements set forth herein, shall not be considered as a cooperative.
+
+Ⅵ.The term "taxable year" as used in this Act where the individual income tax is involved shall commence on the first day of January and end on the thirty-first day of December of each year.
+
+#### Article 12
+
+(Deleted)
+
+## Chapter 2 Consolidated Income Tax
+
+#### Article 13
+
+Individual income tax shall be levied on the amount of his net consolidated income, which shall be the gross consolidated income minus the amount of tax-exempt income, and various deductions.
+
+#### Article 14
+
+The gross amount of consolidated income of an individual shall be the aggregate of the following categories of income for the whole year:
+
+Category 1:
+
+Income from profit-seeking activities: the dividends received by each shareholder of a company, the earnings received by each member of a cooperative, the earnings received by each investor of other juristic persons and the earnings payable each year to each partner of a profit-seeking partnership, the earnings derived in each year by a sole proprietor from the operation of business, and income from an individual’s incidental trading shall all come under this Category of income.
+
+The earnings payable to a partner or the earnings derived by a sole proprietor from the operation of business shall be the assessed amount of the profit-seeking enterprise income.
+
+Category 2:
+
+Income from professional practice: any income of an individual from professional practice or performances after deduction of the rental for or depreciation of the place of business, depreciation of and repairing expenses for the facilities and equipment required for business, or the cost of medications, supplies, etc. sold to clients, salaries and wages for employees required for business, travelling expenses for practicing the profession and other direct and necessary expenditures, shall be the actual amount of income in this category.
+
+Any individual engaged in professional practice shall at least keep a journal as his accounting book to provide detailed entries of all the operating revenues and expenses. For all business expenditures, documents of positive evidence shall be secured. The documents of evidence and account book shall be kept for a period of at least five years. Measures regarding the setting up, acquisition, and maintenance of the documents of evidence and account books and other related matters shall be prescribed by the MOF.
+
+Depreciation of buildings, facilities, and equipment used in professional practice shall be calculated in accordance with the Table of Service Life of Fixed Assets. The relevant provisions with respect to profit-seeking enterprise income tax of this Act shall be applicable, mutatis mutandis. Measures regarding the inspection of the documents of evidence, recognition of the revenues and expenses from professional practice and their account books and other related matters shall be prescribed by the MOF.
+
+Category 3:
+
+Employment Income: any income from salaries and wages of public functionaries, teachers, military personnel, policemen, staff employees and workers of public and private enterprises and any income earned by persons rendering services:
+
+\1. The amount of employment income shall be all salaries and wages earned for performing duties or doing works after deducting the special deduction for employment income as provided in Item 3-2, Subparagraph 2, Paragraph 1 of Article 17. If the balance is a negative figure, the amount of employment income shall be counted as zero. However, if the total amount of the following necessary expenses, which are directly related to services rendered and paid by the income receiver, exceeds the deduction amount, the income receiver should submit relevant supporting documents so that these necessary expenses can be deducted from salaries and wages, and the amount of income shall be the balance after such a deduction :
+
+(1)Vocational clothing expenses: The expenses of purchase, rental, cleaning, and maintenance of special clothing which must be worn for performing an occupation or performance costumes. The annual deduction for each person is limited to 3% of the total salaries and wages in performance of his (her) vocation.
+
+(2)Upgrading training expenses: The training expenses of participating in courses at specified institutions for the specific skills or expertise which is required to perform duties, do work or follow legal requirements. The annual deduction for each person is limited to 3% of the total salaries and wages.
+
+(3)Vocational tool expenses: The expenses incurred in purchasing books, periodicals, and tools for performing duties or doing work. If the efficiency of vocational tools is not exhausted within two years and the expenditure exceeds a certain amount, such tool shall be depreciated or amortized. The annual deduction for each person is limited to 3% of the total salaries and wages in performance of his (her) vocation.
+
+\2. The provisions regarding the special deduction for employment income as provided for in Item 3-2, Subparagraph 2, Paragraph 1 of Article 17 shall not apply to the employment income calculated in accordance with the provisions of the preceding subparagraph when calculating the tax payable in accordance with Article 15 and when calculating the net consolidated income in accordance with Article 17.
+
+\3. The regulations governing the scope, recognition, and documentary evidence of any one of the expenses listed under subparagraph 1, the specified institutions under Item 2, a certain amount and the method, and useful years of depreciation or amortization under Item 3, and other related matters shall be prescribed by the MOF.
+
+\4. Salaries and wages as provided in subparagraph 1 shall include salaries, stipends, wages, allowances, annuities, cash awards, bonuses and all kinds of subsidies, whereas, the money received for performing duties for the employer as traveling expenditures, daily allowance and overtime pay not in excess of the prescribed amounts and the incomes which are exempt from income tax as prescribed under Article 4 of this Act shall be excluded.
+
+\5. The lump sum of the voluntary pension contribution and the voluntary annuity insurance premiums according to the Labor Pension Act: up to 6% of an employee's monthly wage or salary may be deducted from the employee's taxable salary or wage in the year concerned; the voluntary annuity insurance premiums made by an employee shall not apply to the insurance premiums deduction under Article 17.
+
+Category 4:
+
+Income from interest: any income from interest on public debts, corporate bonds, financial, various kinds of short-term commercial papers, deposits and other loans:
+
+\1. Public debts shall include bonds, treasury notes, securities, and other notes issued by governments of all levels;
+
+\2. Prize money from raffle-savings in excess of the amount of savings shall be deemed as income from interest on deposits:
+
+\3. Short-term commercial papers shall include one-year or shorter treasury bonds, transferable time deposit certificates issued by banks, promissory notes and bills of exchange issued by companies and government-owned enterprises, and other short-term certificates of indebtedness approved by the authority in charge of the specific end enterprise.
+
+The portion of the pecuniary amount realized by the short-term commercial papers at their maturity in excess of the selling price at their initial issuance shall be deemed as income from interest; such income shall not be added to the gross consolidated income, but withheld in accordance with the provision of Article 88.
+
+Category 5:
+
+Income from lease and from royalties: any income from lease of property, from utilization of money obtained as the price of a lien on property, or from royalties on patents, registered trademarks, copyrights, secret formulas, and all kinds of franchise made available for use by others:
+
+\1. The amount of income from the lease of property and from royalties shall be the whole year's income after deduction of necessary losses and expenditures;
+
+\2. Any income derived from long-lasting tenant right and superficies created for fixed terms shall be deemed as income from lease;
+
+\3. For money received in the form of rental deposit or in other similar forms for lease of property, and for money received as the price of a lien created on property, to calculate the income from leasing the prevailing bank interest rate for one-year-term deposit shall be used as a basis;
+
+4 Income tax on revenue from leases calculated in accordance with the amount of rent prevailing in the locality shall be paid for properties lent to others for use, unless it can be verified that no payment is made and the properties involved are not being used for business or for carrying out professional services;
+
+\5. The revenue from a lease will be upward adjusted by the tax authority according to the amount of rent prevailing in the locality if the contracted rental rate of the lent properties was obviously too low in comparison with the local prevailing standards.
+
+Category 6:
+
+Income from independent farming, fishing, animal husbandry, forestry and mining: The amount of income shall be the whole year's income after deduction of necessary expenses.
+
+Category 7:
+
+Income from property transactions: any income derived from transactions of property and right:
+
+\1. Where the property or right was originally acquired at a price, the income amount shall be the transaction price after deduction of original cost and all expenses necessary for acquisition, improvement and ownership transfer of that asset;
+
+\2. Where the property or right was originally acquired through succession or donation, the income amount shall be the transaction price after deduction the prevailing value at time of succession or donation and all expenses necessary for acquisition, improvement and ownership transfer of that property or right;
+
+\3. One-half of the amount of income of an individual derived from transactions in registered stocks or registered corporate bonds issued by a company limited by shares, or public bonds issued by governments of all levels, or development bonds issued by banks under the approval of government, if the individual has held such stocks or bonds for a period of one year or longer, shall be considered as a part of his income in the taxable year, while the other one-half shall be exempted from income tax.
+
+Category 8:
+
+Prizes or awards won from skills competitions or by chance: any income derived from prizes or awards in contests or lotteries shall be included in the category:
+
+\1. All expenses necessary for participating in contests or games are permitted to be deducted;
+
+\2. All costs necessary for participating in lotteries are permitted to be deducted;
+
+\3. Prize money from lottery tickets under the auspices of the government, shall be withheld in accordance with the provision of Article 88, and shall not be included in the gross consolidated income.
+
+Category 9:
+
+Separation income: The retirement pay, severance pay, separation pay, resignation pay, life-time pension , the old-age pension not covered by insurance benefits and the insurance payment made under annuity insurance according to the Labor Pension Act received by a person, but not including the following: receipt of the savings made by said person from taxable income of his or her salary every year; the insurance payment from the voluntary annuity insurance premiums according to the Labor Pension Act every year; and/or the interest accrued from the savings and the premiums.
+
+\1. If received in one lump sum, the income amount is calculated as follows:
+
+(1)If the total amount received in one lump sum is less than NT$150,000 multiplied by the number of service years at the time of separation, the income amount shall be considered zero;
+
+(2) If the total amount received in one lump sum is more than NT$ 150,000 multiplied by the number of service years at the time of separation, half of the portion of the amount that is over NT$ 150,000 multiplied by the number of service years at the time of separation but less than NT$ 300,000 multiplied by the number of service years at the time of separation shall be the income amount;
+
+(3)The portion of the amount over NT$ 300,000 multiplied by the number of service years shall totally be included in the income amount.
+
+The fractional part of the number of service years, if less than 6 months, shall be calculated as half a year and, if over 6 months, as one year.
+
+\2. If received by installments, the income amount shall be the balance of the total amount of all installments received in one year with the deduction of NT$650,000;
+
+\3. If a portion of the separation income is received in one lump sum and a portion in installments, the deductible amount mentioned in Item 2 above shall be calculated in proportion to the amounts received in one lump sum and in installments respectively.
+
+Category 10:
+
+Other income: any income other than the aforesaid after deduction of necessary expenses and costs. However, the reward for information or accusation and income from transactions in structured products between individuals and securities firms or banks shall not be added to the gross consolidated income, but withheld in accordance with the provisions of Article 88.
+
+Where any of the aforesaid categories of income are earned in kind, in the form of valuable securities or in foreign currencies, the amount of income shall be computed at the prevailing price or exchange rate prescribed or recognized by the government or in the absence thereof, at the respective actual local value at time of receipt.
+
+When an individual earns such as income derived from independent forestry, or remuneration in lump sum distributed after each trip for fishing in the high seas, or income from old age pensions or retirement pensions or alimony paid in lump sum or compensation received for returning leased farm land in accordance with the provision of Article 77 of the Equalization of Land Rights Act, such income is variable income, only half of which should be computed in an individual's gross consolidated income.
+
+If the increase of consumer price index accumulates to 3% or more over the figure last adjusted, the amounts stipulated in Category 9 of Paragraph 1 above shall be adjusted accordingly and the adjustment shall be made at the rate of NT$1,000 as a basic unit with the hundreds rounded off if the adjusted amount is less than NT$1,000. As to the method of publication and the consumer price index mentioned above, the provisions in Paragraph 4, Article 5 hereof shall apply mutatis mutandis.
+
+#### Article 14-1
+
+Beginning January 1, 2007, Income received by an individual from interest on government bonds, corporate bonds, and financial bonds shall not be added to the gross consolidated income, but withheld in accordance with the provisions of Article 88.
+
+Beginning January 1, 2010, the following income received by an individual shall not be added to the gross consolidated income, but withheld in accordance with the provisions of Article 88 at the rate of 10%:
+
+\1. The portion of the pecuniary amount realized by short-term commercial papers at their maturity in excess of the selling price at their initial issuance is deemed as income from interest.
+
+\2. The interest distributed from beneficiary securities or asset-backed securities issued in accordance with the Financial Asset Securitization Act and the Real Estate Securitization Act.
+
+\3. The interest derived from repo (RP/RS) trade whereby an individual purchases securities or short-term commercial papers as described in the preceding paragraph and Subparagraphs 2 and 3 in this paragraph shall be the net amount of the sale price at their maturity in excess of the original purchase price.
+
+\4. Income from transactions in structured products between individuals and securities firms or banks.
+
+The provision regarding special deduction for savings and investment as provided for in Item 3-3, Subparagraph 2, Paragraph 1 of Article 17 shall not apply to the interest as provided in the first paragraph and Subparagraphs 1 to 3 in the preceding paragraph.
+
+#### Article 14-2
+
+(Deleted)
+
+#### Article 14-3
+
+In case any individual person, profit-seeking enterprise, or organization or institution which is established for educational, cultural, public welfare or charitable purposes, is discovered to have improperly evaded or reduced the tax burden for himself/ herself/ itself or for other person(s) by means of transfer of funds or shareholder's equity, or any other false arrangement with any other domestic or foreign individual person, profit-seeking enterprise, or organization or institution which is established for educational, cultural, public welfare or charitable purposes, the tax authority for the purpose of computing the accurate amount of income and tax payable of the relevant taxpayers may, with the approval of the MOF, make necessary adjustment according to the facts of actual transactions of investigation in accordance with the relevant laws.
+
+If a company, cooperative, or other juristic person increase dividends or earnings distributed to shareholders, members, or investors through false arrangements or improper means that falsely increase the amount of tax credit set forth in Paragraph 4, Article 15, the tax authority may, based on the information acquired during investigation, make necessary adjustment in accordance with the amount of dividend or earnings payable to or received by such individual person.
+
+#### Article 14-4
+
+Income or losses derived from transactions of house and land incurred by an individual provided in Article 4-4, where the house and land were originally acquired at a price, the amount of the income shall be the transaction price after deduction of the original cost and all expenses necessary for acquisition, improvement, and ownership transfer of that house and land; where the house and land were acquired through inheritance or gift, the amount of the income shall be the transaction price after deduction of the current value of the house and the assessed present value of land at the time of inheritance or gift (which shall be duly adjusted with the price index announced by the government) and all expenses necessary for acquisition, improvement, and ownership transfer of that house and land. However, the land value increment tax paid in accordance with the Land Tax Act shall be excluded from the expenses, unless such tax paid is prorated to the part of the total amount of land value increment not being deducted from the amount of the income.
+
+The amount of losses from transactions of house and land incurred by an individual is deductible from the income derived from transactions of house and land within three years from the day of transaction.
+
+Income derived from transactions of house and land incurred by an individual calculated in accordance with the previous two Paragraphs, after deduction of the total amount of land value increment calculated in accordance with the assessed present value provided in Paragraph 1, Article 30 of the Land Tax Act, shall not be added to the gross consolidated income. The tax payable shall be computed separately in accordance with the following tax rate:
+
+\1. For an individual residing in the territory of the Republic of China:
+
+(1)The transferred house and land that had been held for a period of no more than 2 years shall be taxed at 45%.
+
+(2)The transferred house and land that had been held for a period of more than 2 years but no more than 5 years shall be taxed at 35%.
+
+(3)The transferred house and land that had been held for a period of more than 5 years but no more than 10 years shall be taxed at 20%.
+
+(4)The transferred house and land that had been held for a period of more than 10 years shall be taxed at 15%.
+
+(5)House and land that have been held for a period of no more than 5 years and are transferred because of a job transfer, involuntary separation from employment, or any other involuntary cause announced by the MOF, shall be taxed at 20%.
+
+(6)An individual who sells house and land, where the house is built in partnership with a business entity and the share of land associated with the unit has been held for a period of no more than 5 years, shall be taxed at 20%.
+
+(7)A house and the share of land associated with the house that are transferred for the first time after the completion of construction and have been held for a period of no more than 5 years, where the house and land are acquired through participation in urban renewal by providing land, legal buildings, other rights, or capital in accordance with the Urban Renewal Act or the participation in reconstruction in accordance with the Statute for Expediting Reconstruction of Urban Unsafe and Old Buildings, shall be taxed at 20%.
+
+(8) For income derived from transactions of self-use house and land conforming to the provisions of Subparagraph 1, Paragraph 1, Article 4-5, if the amount of income calculated in accordance with this paragraph exceeds NT$4 million, the income shall be taxed at 10% on the part of the income amount exceeding NT$4 million.
+
+\2. For an individual not residing in the territory of the Republic of China:
+
+(1)The transferred house and land that had been held for a period of no more than 2 years shall be taxed at 45%.
+
+(2)The transferred house and land that had been held for a period of more than 2 years shall be taxed at 35%.
+
+The holding periods stated in the preceding paragraph and Subparagraph 1, Paragraph 1, Article 4-5, where the house and land were acquired through inheritance or legacy, may be consolidated with the holding period of the decedent or the legator.
+
+#### Article 14-5
+
+An individual who has income or losses derived from transactions of house and land provided in the preceding Article, regardless of the taxable amount, shall fill out and file the tax returns to the competent tax authority within 30 days from the day set in the following Subparagraphs, attached with a photocopy of the contract and other relevant documents; the payment receipt of the tax payable, if any, shall be attached:
+
+\1. The day following the day on which the ownership transfer registration of house and land is completed as provided in Paragraph 1 of Article 4-4.
+
+\2. The day following the transaction day of the right to use a house by creation of superficies, or the day following the transaction day of presale house with its building location, as provided in Paragraph 2 of Article 4-4.
+
+\3. The day following the transaction day of shares or capital, as provided in Paragraph 3 of Article 4-4.
+
+#### Article 14-6
+
+When an individual fails to file the tax return specified in the preceding Article, or when, without due cause, the declared transaction price is lower than the prevailing market price, the tax authority may assess the transaction price, based on the prevailing market price or data obtained through investigation. When an individual fails to present the documents of evidence of the original cost, the tax authority may assess the cost, based on the data obtained through investigation; without the investigative information, the tax authority may assess the cost, based on the assessed value of the house and the present value of land at the time of acquisition (which shall be duly adjusted with the price index announced by the government). When an individual fails to present the expenses necessary for acquisition, improvement, and ownership transfer of the house and land, the tax authority may assess the expense, based on 3% of the transaction price, and such expense shall not exceed NT$300,000.
+
+#### Article 14-7
+
+When an individual fails to file the tax return within the period as specified in Article 14-5, the tax authority may assess the amount of income and tax payable and issue to the individual a written notice, demanding the payment of tax within the time limit.
+
+For implementation of the investigation and verification by the tax authority after receiving a tax return filed by an individual in accordance with Article 14-5, the provisions of Paragraph 1 of Article 80 shall apply mutatis mutandis.
+
+For serving, checking and correction of the assessment notice showing the result of further investigation in accordance with the preceding Paragraph, Article 81 shall apply mutatis mutandis.
+
+For an individual who has refundable tax payment through the investigation and verification in accordance with Paragraph 2, Paragraphs 2 and 4 of Article 100 shall apply mutatis mutandis.
+
+For an individual who declares the deductions of various kinds of costs, expenses, and losses which exceed the limitations prescribed by Article 14-4 and the preceding Article, and thus the voluntary payment of tax falls short, Article 100-2 shall apply mutatis mutandis.
+
+#### Article 14-8
+
+For the amount of tax in accordance with the provision of Article 14-5 paid by an individual on the income realized from the sales of house and land of a self-use residence, if he(or she) repurchases another house and land as his(or her) self-use residence within two years from the date on which the ownership transfer registration of house and land is completed or the transaction day of the right to use a house by creation of superficies, he (or she) may apply to be refunded from the tax payable at the ratio of the repurchase price in the original sales price.
+
+For an individual who purchases house and land for his self-use residence within two years from the date on which the ownership transfer registration of house and land is completed or the transaction day of the right to use a house by creation of superficies, when he (or she) sells another self-use resident house and land and declares his (or her) tax in accordance with the provision of Article14-5, he (or she) may deduct the amount of tax at the ratio provided in the preceding Paragraph with the limitation that it does not exceed the tax payable.
+
+If the house and land repurchased as self-use residence, as provided in the preceding two Paragraphs, was transferred or used for purposes other than the original purpose within five years from the day the transfer registration was completed for the reacquisition , the amount of deducted or refunded tax shall be paid back.
+
+#### Article 15
+
+Beginning January 1, 2014, where a taxpayer, his(her) spouse and/or a dependent whose support deduction may be made in accordance with Article 17 of this Act has any incomes as provided in Paragraph 1 of Article 14, except the separated taxpayer and his(her) spouse who are approved to file their tax returns and calculate the tax payable separately in accordance with this Act, the taxpayer shall file a joint tax return and calculate the tax payable jointly. After the taxpayer has been identified, a change may be made within six months from the time limit prescribed for filling income tax returns for the taxable year.
+
+Regarding the calculation of the tax payable as provided in the preceding Paragraph, the taxpayer shall choose one of the ways in the following Subparagraphs:
+
+\1. To calculate the tax payable on any categories of income jointly: The amount of tax leviable on any categories of income as provided in Paragraph 1 of Article 14 of a taxpayer, his(her) spouse and dependents may be computed jointly. In computing the amount of such tax, the exemption and deductions may be deducted from the incomes in accordance with Article 17.
+
+\2. To calculate the tax payable on the employment income separately, and to calculate the tax payable on the remaining categories of income jointly:
+
+(1) The amount of tax leviable on the employment income of a taxpayer or his(her) spouse may be computed separately. In computing the amount of such tax, only the tax exempt amount and the special deduction for employment income as specified in Article 17 may be deducted from the employment income of the person whose employment income is computed separately.
+
+(2) The amount of tax leviable on the remaining categories of income of a taxpayer, his(her) spouse and dependents, except the salary income as provided in the preceding Item, may be computed jointly. In computing the amount of such tax, the exemption and deductions, except as provided in the preceding Item, may be made from the remaining incomes in accordance with Article 17.
+
+\3. To calculate the tax payable on any categories of income separately:
+
+(1) The amount of tax leviable on any categories of income as provided in Paragraph 1 of Article 14 of a taxpayer or his(her) spouse may be computed separately. In computing the amount of such tax, only the tax exempt amount, the special deduction for losses from property transactions, the special deduction for employment income, the special deduction for savings and investment, and the special deduction for disability as specified in Article 17 may be deducted from the income of the person whose incomes are computed separately.
+
+(2) The amount of tax leviable on the income as provided in Paragraph 1 of Article 14 of the person whose income is not computed separately and his (her) dependents may be computed jointly. In computing the amount of such tax, the exemption and deductions, except as provided in the preceding Item, may be deducted from the incomes in accordance with Article 17.
+
+(3) The amount of the special deduction for savings and investment in accordance with the preceding two Items, not to exceed the amount as provided in Item 3-3, Subparagraph 2, Paragraph 1 of Article 17, shall be first applicable to the income of the person and his(her) dependents whose income is not computed separately. The balance of unused deduction, if any, may therefore be applicable to the relevant income of the person whose income is computed separately as provided in Item 1.
+
+The standard of identifying the separated taxpayer and his or her spouse as provided in Paragraph 1 and related documents of evidence shall be issued by the MOF.
+
+From January 1, 2018, where a taxpayer, his(her) spouse, and dependents whose support deduction may be made in accordance with Article 17 of this Act receive income from profit-seeking activities as provided in Category 1, Paragraph 1 of Article 14, the gross amount of tax payable, computed in the annual individual income tax return for the current year in accordance with Paragraph 2, may be offset from the amount of tax credit, based on 8. 5% of the total amount of the dividends and earnings distributed by a company, a cooperative, or other juristic person in the year 1998 or each ensuing year thereafter, with the credit ceiling set at NT$80,000 per year per income tax return.
+
+The taxpayer will be able to opt to calculate the tax payable separately in accordance with the single tax rate of 28% on the total amount of the dividends and earnings in the tax return in the preceding Paragraph, and such tax payable shall be included in the individual income tax return filed by the taxpayer and excluded from the application of Paragraph 2 regarding tax calculation method and from the preceding Paragraph regarding tax credit.
+
+#### Article 16
+
+In the computation of an individual's gross consolidated income in accordance with the preceding two Articles, if a taxpayer and his spouse operate two or more profit-seeking enterprises, any loss determined by the tax office may be deducted from his income from profit-seeking activities as determined by the tax office and the amount of income shall be the balance after such a deduction.
+
+The deduction as provided in the preceding paragraph may be make only where the "blue return" as provided in Article 77 of this Act, issued by all the profit-seeking enterprises operated; however this shall not apply if the consolidated income report is not filed by the taxpayer within the prescribed time limit.
+
+#### Article 17
+
+The net consolidated income of an individual shall be the gross consolidated income as computed in accordance with Article 14 and the preceding two Articles less the following exemptions and deductions:
+
+\1. Exemptions: Taxpayers may deduct a prescribed amount of exemption for themselves, their spouses, and dependents when they meet any of the conditions below. Furthermore, the exemption amount for taxpayers and spouses that are at least seventy years old shall be increased by 50%:
+
+(1) Lineal ascendant(s) of the taxpayer and his (her) spouse having attained sixty years of age, or being incapable of earning a livelihood and being supported by the taxpayer. If a lineal ascendant being supported by the taxpayer has attained seventy years of age, the exemption amount for said lineal ascendant shall be increased by 50%.
+
+(2) Children of the taxpayer who are minors, or who, although having attained the age of majority, are being supported by the taxpayer by reason of their studying in school, or having physical or mental disability, or being incapable of earning a livelihood. If a minor child is supported by the taxpayer, the exemption amount for said minor child shall be increased by 50%.
+
+(3) Brothers and sisters of the taxpayer and his (her) spouse who are minors, or who, although having attained the age of majority, are being supported by the taxpayer by reason of their studying in school, or having physical or mental disability, or being incapable of earning a livelihood.
+
+(4)Other relatives or family members of the taxpayer within the meaning of Subparagraph 4, Article 1114, or Paragraph 3, Article 1123, of the Civil Code who are minors, or who, although having attained the age of majority, are actually being supported by the taxpayer by reason of their studying in school, or having physical or mental disability, or being incapable of earning a livelihood.
+
+\2. Deductions: A taxpayer may select either the "Standard Deduction" or "Itemized Deductions" and may, in addition thereto, declare special deductions:
+
+(1) Standard Deduction: NT$120,000 for a single taxpayer; with a deduction of twice the amount of a single taxpayer’s deduction for a taxpayer and his or her spouse.
+
+(2) Itemized Deductions:
+
+i. Contributions and donations: For the taxpayer, his (her) spouse and dependent(s), contributions and donations made to educational, cultural, public welfare or charitable organizations or associations in a total amount not in excess of 20% of the total amount of the gross consolidated income is deductible. However, there is no limit to the amount of donations or contributions made for the support of national defense or troop morale or contributions to the government.
+
+ii. Insurance premiums: Premiums paid by or for the taxpayer, his (her) spouse or lineal dependent(s) on life insurance, with the deductible amount not exceeding NT$ 24,000 for each person per year. However, there is no limit to the amount of the premium paid for national health insurance, labor insurance, farmer health insurance, national pension insurance, and insurance for military personnel, public servants or teachers.
+
+iii. Medical and childbirth expenses: Medical and childbirth expenses incurred by the taxpayer, his (her) spouse, or dependent(s) provided that payments so made are limited to those paid to public hospitals, the hospitals or clinics appointed under National Health Insurance, or those hospitals having complete and accurate accounting records as recognized by the MOF. However, no deduction shall be made for the portion (of such expense) covered by an insurance payment.
+
+iv. Losses from disaster: The portion of loss incurred by the taxpayer, his (her) spouse or dependent(s) from a disaster caused by force majeure. However, no deduction shall be made for the portion of loss for which an insurance benefit or relief has been received.
+
+v. Interest on a house mortgage: The interest payable on a loan from a financial institution by a taxpayer, his (her) spouse and dependent(s) for the purpose of a house for his (her) own use may be deducted from his (her) consolidated income, with the deductible amount not to exceed NT$ 300,000 per year per tax return. However, if a special deduction for savings and investment has been made in the same tax return, the amount of such special deduction shall be subtracted from the aforesaid interest of the house mortgage; the deduction for interest on the house mortgage in accordance with the above mentioned provisions is limited to one house only.
+
+(3) Special Deductions:
+
+i. Special deduction for Losses from property transactions: The amount of loss from property transactions incurred by a taxpayer, his (her) spouse and dependent(s) which is deductible in one year shall not exceed the declared amount of income derived from property transactions in the same year. However, if no income or no sufficient income derived from property transactions in the same year is available for deduction, the loss may be carried forward in the next three years. The provisions relating to the computation of income derived from property transactions set forth in Category 7, Paragraph 1, Article 14 of the Act shall apply mutatis mutandis to the computation of loss from property transactions.
+
+ii. Special deduction for employment income: For a taxpayer, his (her) spouse and dependent(s) having employment income, the deductible amount not to exceed NT$200,000 per year may be deducted for each person.
+
+iii. Special deduction for savings and investment: For a taxpayer, his( her) spouse and dependent(s) having interest derived from deposits in financial institutions, income from trust funds in the nature of savings, and dividends accrued on registered share certificates publicly issued and listed on the market by a company, the deductible amount should not exceed NT$270,000 per year per tax return. However, this limit of deduction does not apply to the interest accrued and exempt from income tax on postal pass-book savings under the provisions of the Postal Remittances and Savings Act and the interest accrued on short-term commercial papers subject to separate taxation as stipulated in this Act.
+
+iv. Special deduction for the disabled: If the taxpayer, his (her) spouse or dependent has a disability certificate or is a patient as defined in Subparagraph 4, Paragraph 1, Article 3 of the Mental Health Act, a deduction of NT$200,000 per year may be made for each such person.
+
+v. Special deduction for educational tuition: If any of the children of a taxpayer is studying in a college or university, a deduction of NT$ 25,000 per child per year may be made for his (her) educational tuition. However, the tuition of the Open University, vocational colleges, the first three years of five-year vocational colleges and students who have accepted government subsidies are excluded.
+
+vi. Special deduction for pre-school children: Starting from 2024, for a taxpayer who has children under or equal to six years of age, the amount of deduction for the first pre-school child is NT$150,000 per year; the amount of deduction for a second child and more is NT$225,000 per child per year.
+
+vii. Special deduction for long-term care: Starting from 2025, for a taxpayer, his (her) spouse, or dependent(s) who is a qualified person with physical or mental incapacity and needs long-term care services prescribed by the Ministry of Health and Welfare, a deduction of NT$ 180,000 per year may be made for each person.
+
+viii. Special deduction for rent for housing: Starting from 2024, rent for housing in the R.O.C. paid by a taxpayer his (her) spouse, and lineal dependent(s) and used as their own residence rather than for business or performing professional services, may be deducted from their consolidated income to the extent of NT$180,000 per year per tax return, not including government subsidy. However, no deduction shall be made for taxpayers, their spouses, or lineal dependent(s) who own a house in the R.O.C.
+
+The provisions of the deductions set forth in Item 2, Subparagraph 2 of the preceding Paragraph shall not apply to a taxpayer who is subject to filing a final income tax return in accordance with Article 71 of this Act but fails to do so and is assessed by the tax authority as to his (her) tax liabilities.
+
+The provisions regarding the special deduction for long-term care as provided for in Item 3-7, Subparagraph 2 of Paragraph 1 and the special deduction for rent for housing as provided for in Item 3-8 shall not apply to the taxpayer whose circumstances fall under any of following three conditions:
+
+\1. The taxpayer or his (her) spouse’s annual total net consolidated income after the amount of the special deductions for long-term care and rent for housing have been deducted is declared in accordance with Paragraph 2 of Article 15 of this Act such that the declared individual income tax rate is greater than or equal to 20%.
+
+\2. The taxpayer’s option for the single tax rate of 28% on the total amount of his (her) household dividends and earnings computed separately from their consolidated income is declared in accordance with Paragraph 5 of Article 15 of this Act.
+
+\3. The amount of basic income of the taxpayer calculated in accordance with Article 12 of the Income Basic Tax Act is greater than the amount of deduction described in Article 13 of the same Act.
+
+#### Article 17-1
+
+Where an individual subject to the filing of individual income tax return under Article 71-1 is deceased or departs from the Republic of China during a taxable year, the deductible amounts of tax exemption and standard deductions for him (her) shall be computed respectively in proportion to the ratio between the number of days before his (her) death or the number of days of his (her) residing in the territory of the Republic of China in that year and the total number of days of the said taxable year.
+
+#### Article 17-2
+
+The amount of individual income tax paid by a taxpayer on the income realized from the sale of a self-used residential building, if he repurchases another building as his self-use residence within two years from the date on which the registration of transfer of ownership of the old building was completed, and the cost of the new building exceeds the original sale price, may be deducted or refunded from the individual income tax payable or paid for the year in which the transfer of the ownership of the repurchased residential building for self-use was registered. However, if the income realized from the property transaction had already been offset against the loss incurred from property transaction concluded previously in accordance with the stipulations of this Act, then the provisions hereof shall not apply.
+
+The preceding paragraph shall also apply to the taxpayer who buys first and sells later.
+
+#### Article 17-3
+
+The provisions regarding special deductions for savings and investment as provided for in Item3-3 of Subparagraph 2, Paragraph 1 of Article 17 of the Income Tax Act shall not apply to the dividends on the registered stocks publicly offered and listed by any company and acquired on or after January 1, 1999 by a tax-payer and his/her spouse and any dependent supported by him/her as covered in a joint annual income tax return.
+
+#### Article 17-4
+
+Where the taxpayer, his or her spouse, and dependents donated the non-cash property to the government, national defense, troop morale, educational, cultural, public welfare, or charitable organizations or associations and claimed the deductible amount of donations in accordance with Item 2-1 of Subparagraph 2, Paragraph 1, Article 17 of the Act, the calculation of the amount of donations, unless otherwise provided by law, shall be based on the acquisition cost. However, under any of following three conditions, the tax authority shall determine the amount of the donations in accordance with the approved standards set by the MOF:
+
+\1. The taxpayer is unable to provide documents proving the acquisition costs of non-cash property;
+
+\2. The non-cash property donated is received by way of inheritance or gift;
+
+\3. The calculated value of the non-cash property donated is significantly different from the acquisition cost, due to change of depreciation, depletion, market conditions, or other factors.
+
+The standards stated in the proviso of the preceding Paragraph are to be prescribed by the MOF in light of the actual trading activities in the market in the year of donations.
+
+The taxpayer, his or her spouse, and dependents donated non-cash property prior to the implementation of the provisions as amended on 12 July 2016 and the cases of taxpayers individual income tax on which has not been levied or determined will be subject to the first Paragraph hereof.
+
+## Chapter 3 Profit-Seeking Enterprise Income Tax
+
+### Section 1 Registration
+
+#### Article 18
+
+(deleted)
+
+#### Article 19
+
+(deleted)
+
+#### Article 20
+
+(deleted)
+
+### Section 2 Account Books, Vouchers and Accounting
+
+#### Article 21
+
+A profit-seeking enterprise shall keep sufficient and accurate account books, vouchers and accounting records to calculate its total amount of business income.
+
+All procedures governing the aforesaid keeping, acquisition, use, maintenance, accounting treatment and other matters concerned shall be prescribed by the MOF.
+
+#### Article 22
+
+The accounting system of a company shall be on the accrual basis. But a profit-seeking enterprise not organized as a company may, if there is an established custom of the business or if the volume of business is small, report to the competent tax authority to adopt a cash-basis accounting basis.
+
+A profit-seeking enterprise not organized as a company may change its adopted accounting system but shall report the change to the competent tax authority three months prior to the commencement of the next fiscal year.
+
+#### Article 23
+
+The fiscal year shall commence on the first day of January and end on the thirty-first day of December of each calendar year. However, a profit-seeking enterprise may, on account of an established custom of the business or of special circumstances arising from the seasonal nature of the business and upon the approval of the competent tax authority, change the commencing and expiring dates of its fiscal year.
+
+### Section 3 Profit-seeking enterprise Income Amount
+
+#### Article 24
+
+The amount of income of a profit-seeking enterprise shall be the net income, i.e., the gross yearly income after deduction of all costs, expenses, losses and taxes. When calculating the amount of income in which there are taxable and exempt incomes involved, the costs, expenses or losses, except for those which are attributable to such respective income in a direct, reasonable and definite way, which may be attributed to thereby and recognized as deductions respectively, shall be reasonably allocated to the respective income. Measures regarding such allocation shall be prescribed by the MOF.
+
+The accounts, expenses, losses, or various debts recorded in a profit-seeking enterprise's accounts that are payable but yet to be paid at the time of the expiry of the statute of limitations shall be enumerated under “other revenue” headings, and shall be enumerated under “non-operating expenditure” headings at the time of actual payment.
+
+Income derived from interest of short-term commercial papers by a profit-seeking enterprise in accordance with Category 4, Paragraph 1 of Article 14 shall not be added to the amount of income of the profit-seeking enterprise, but withheld in accordance with Article 88. However, where the issuing date of short-term commercial papers held by a profit-seeking enterprise is a day on or after January 1, 2010, the interest income of such short-term commercial papers shall be added to the amount of income of the profit-seeking enterprise.
+
+Beginning January 1, 2010, interest distributed from beneficiary securities or asset-backed securities issued in accordance with the Financial Asset Securitization Act or the Real Estate Securitization Act by a profit-seeking enterprise shall be added to the amount of income of the profit-seeking enterprise, and excluded from the application of Paragraph 2, Article 41 of the Financial Asset Securitization Act and Paragraph 3, Article 50 of the Real Estate Securitization Act regarding separate taxation.
+
+The dividends or earnings received by a profit-seeking enterprise having its head office outside the territory of the Republic of China shall not be added to the amount of income of the profit-seeking enterprise, but withheld in accordance with Article 88.
+
+#### Article 24-1
+
+Revenues received by a profit-seeking enterprise from interest on government bonds, corporate bonds, and financial bonds shall be calculated in accordance with the bonds’ holding periods, face values and interest rates.
+
+The tax on interest revenues, as mentioned in the preceding paragraph and calculated in accordance with the prescribed withholding rates, shall be deducted from the amount of income tax payable on the annual income tax return of a profit-seeking enterprise.
+
+The gains or losses derived from securities transactions whereby a profit-seeking enterprise purchases bonds as described in the first paragraph between two interest payment days and then sells them before the next interest payment day shall be the net amount of the sale price minus the purchase price and interest revenues.
+
+Beginning January 1, 2010, the interest derived from a repo (RP/RS) trade whereby a profit-seeking enterprise purchases securities or short-term commercial papers as described in the first paragraph and Paragraphs 2 and 3 in the preceding Article shall be the net amount of the sale price at their maturity in excess of the original purchase price. The interest shall be withheld in accordance with Article 88 and added to the amount of income of the profit-seeking enterprise, and the amount of such withholding tax shall be deducted from the amount of income tax payable for the annual income tax return of the profit-seeking enterprise.
+
+#### Article 24-2
+
+Articles 4-1 and 4-2 shall not apply to gains or losses resulting from the buying or selling of securities or financial derivatives as approved by the competent authority for the purposes of risk management undertaken by a warrant issuer who issues call (put) warrants which have been approved by the competent authority. In such case, the gains or losses shall be included in the profits or losses from issuing call (put) warrants. Where, however, the losses resulting from the buying and selling of call (put) warrants and the underlying securities as approved by the competent authority and from the buying and selling of futures, which are subject to the futures transaction tax in accordance with the Futures Transaction Tax Act, exceed the net amount of premiums received for the issuance of the call (put) warrants after subtracting relevant costs and expenses, such losses shall not be deductible.
+
+Articles 4-1 and 4-2 shall not apply to profits or losses resulting from the carrying on of the business of financial derivatives transactions as approved by the competent authority. Such profits or losses shall, after the completion of settlement, be included in the amount of the income of the profit-seeking enterprise in the year of settlement and taxed accordingly.
+
+#### Article 24-3
+
+Where a shareholder, a member of the board of directors, or a supervisor of a profit-seeking enterprise organized as a company who receives money on behalf of the company and does not turn in the said sum within a reasonable period of time, or appropriates the sum for his or her own use, a tax shall be charged to the company for interest income based on the lending base rate of the Bank of Taiwan on January 1 of each respective year. However, if the aforesaid person has committed the offence of misappropriation, breach of trust or fraud against the company and has been charged with a lawsuit or prosecuted by a prosecutor, the company shall be exempt from such tax on interest income.
+
+A company that lends money to a shareholder or any person without charging interest or charging the stipulated interest at an obviously lower rate, except for paying in advance the salary of an employee, shall calculate interest income based on the lending base rate of the Bank of Taiwan on January 1 of each respective year and an interest income tax shall be levied on the profit-seeking enterprise in accordance with this Act.
+
+#### Article 24-4
+
+Beginning from the year 2011, a profit-seeking enterprise which has its head office within the territory of the Republic of China and is engaged in marine transportation, qualified under certain criteria and approved by the central competent authority will be able to calculate the taxable income derived from marine transportation on the basis of the amount of the net tonnage, which is regulated in Paragraph 2. As for the revenue from activities other than marine transportation, the calculation of such income is subject to the relevant provisions of this Act.
+
+The taxable income derived from marine transportation as mentioned in the preceding paragraph is calculated by multiplying the accumulated daily profit, calculated in accordance with the following table, by 365 days:
+
+\1. For each ship with a net tonnage not exceeding 1,000 tons, the daily profit for each 100 tons up to 1,000 tons shall be NT$67.
+
+\2. If the net tonnage of the ship is above 1,000 tons but no more than 10,000 tons, the daily profit for each 100 tons between 1,000 and 10,000 tons shall be NT$49.
+
+\3. If the net tonnage of the ship is above 10,000 tons but no more than 25,000 tons, the daily profit for each 100 tons between 10,000 and 25,000 tons shall be NT$32.
+
+\4. If the net tonnage of the ship is above 25,000 tons, the daily profit for each 100 tons above 25,000 tons shall be NT$14.
+
+The profit-seeking enterprise which elects to calculate the taxable income derived from marine transportation in accordance with Paragraph 1, once the choice is made to do so, shall be bound to such choice for a period of 10 years and shall not be changed. In case the profit-seeking enterprise fails to meet the requirements with reference to Paragraph 1 within the aforementioned period, and the approval has been cancelled by the central competent authority, such enterprise will not be eligible to apply to calculate its income under the terms and conditions in the preceding paragraph for a period of five years commencing from the year in which it fails to meet the requirements.
+
+To the profit-seeking enterprise which elects to calculate its taxable income in accordance with Paragraph 2, the following provisions do not apply:
+
+\1. The proviso of Paragraph 1, Article 39 regarding the deduction of losses.
+
+\2. Other tax incentives provided for in other laws.
+
+The regulations governing the scope of business revenue, deadlines for filing applications, application procedures and other relevant matters in Paragraph 1 shall be prescribed by the MOF in consultation with the central competent authority.
+
+#### Article 24-5
+
+Income or losses derived from transactions of house and land by a profit-seeking enterprise for the current year, where the amount of the income or losses shall be the total revenue minus the costs, expenses, and losses. However, the land value increment tax paid in accordance with the Land Tax Act shall be excluded from the expenses, unless such tax paid is prorated to the part of the total amount of land value increment not being deducted from the amount of the income.
+
+Income derived from transactions of house and land by a profit-seeking enterprise and calculated in accordance with the preceding Paragraph, after deduction of the total amount of land value increment calculated in accordance with the assessed present value provided in Paragraph 1, Article 30 of the Land Tax Act, shall not be added to the amount of income of the profit-seeking enterprise. The tax payable shall be computed separately in accordance with the following tax rates. If the enterprise has no fixed establishment within the territory of the Republic of China, its business agent or an entrusted agent shall be responsible for the filing of the income tax return and the payment of tax.
+
+\1. For a profit-seeking enterprise having its head office within the territory of the Republic of China:
+
+(1) The transferred house and land that have been held for a period of no more than 2 years shall be taxed at 45%.
+
+(2) The transferred house and land that have been held for a period of more than 2 years but no more than 5 years shall be taxed at 35%.
+
+(3) The transferred house and land that have been held for a period of more than 5 years shall be taxed at 20%.
+
+(4) House and land that have been held for a period of no more than 5 years and are transferred because of any involuntary cause announced by the MOF shall be taxed at 20%.
+
+(5) A profit-seeking enterprise who sells house and land, where the house is built in partnership with a business entity and the share of land associated with the unit has been held for a period of no more than 5 years, shall be taxed at 20%.
+
+(6) House and the share of land associated with the house that are transferred for the first time after the completion of construction and have been held for a period of no more than 5 years, where the house and land are acquired through participation in urban renewal by providing land, legal buildings, other rights, or capital in accordance with the Urban Renewal Act or participation in reconstruction in accordance with the Statute for Expediting Reconstruction of Urban Unsafe and Old Buildings, shall be taxed at 20%.
+
+\2. For a profit-seeking enterprise having its head office outside the territory of the Republic of China:
+
+(1) The transferred house and land that have been held for a period of no more than 2 years shall be taxed at 45%.
+
+(2) The transferred house and land that have been held for a period of more than 2 years shall be taxed at 35%
+
+The amount of losses derived from transactions of house and land by a profit-seeking enterprise for the current year calculated in accordance with Paragraph 1 shall be deducted first from the income derived from transactions of house and land computed at the same applicable tax rate for the current year. Only when such income is insufficient to be deducted, may the portion of losses which are not yet deducted be deducted from the income derived from transactions of house and land computed at the different applicable tax rate for the current year. If there is a balance of losses after the subtraction in the current year, the losses may be deducted from the income derived from transactions of house and land within ten years from the year after such losses are derived.
+
+A house and the share of land associated with the house that are transferred for the first time after the completion of construction shall be exempt from application of the preceding two Paragraphs. Income derived from such transactions of house and land by a profit-seeking enterprise calculated in accordance with Paragraph 1, after deduction of the total amount of land value increment calculated in accordance with the assessed present value provided in Paragraph 1, Article 30 of the Land Tax Act, shall be added to the amount of income of the profit-seeking enterprise. If the balance is a negative figure, the transaction income shall be counted as zero. The losses derived from transaction of house and land may be deducted from the income of the profit-seeking enterprise. However, the total amount of land value increment prescribed above shall not be deducted.
+
+In the course of an investigation or a recheck conducted by the tax authority, where a profit-seeking enterprise fails to present the account books and documents of evidence to prove the amount of his income derived from a transaction of house and land, the tax authority shall determine the amount of the transaction income based on the investigative information. When the investigative information of the cost or expense is not available, the tax authority may assess the cost, based on the assessed value of the house and the present value of the land at the time of acquisition (which shall be duly adjusted with the price index announced by the government), and may assess the expense, based on 3% of the transaction price, and such expense shall not exceed NT$300,000.
+
+A profit-seeking enterprise organized as a sole proprietorship or a partnership that has any income derived from transactions of house and land shall be subject to assessment of income tax in accordance with Articles 14-4 through 14-7 of this Act, and such income shall not be added to the amount of income of the profit-seeking enterprise. The preceding five Paragraphs shall not apply to a profit-seeking enterprise organized as a sole proprietorship or a partnership.
+
+#### Article 25
+
+Any profit-seeking enterprise having its head office outside the territory of the Republic of China and being engaged in international transport, construction contracting, providing technical services, or machinery and equipment leasing, etc., in the territory of the Republic of China, the cost and expenses for which are difficult to allocate and calculate may apply for approval from the MOF, or the MOF may make the decision to consider ten percent of its total business revenue for an enterprise engaged in international transport business, or fifteen percent of its total business revenue for one engaged in any other businesses, as its income derived within the territory of the Republic of China regardless whether or not it has a branch office or business agent in the territory of the Republic of China. In such cases, however, the regulations in Article 39 regarding the deduction of losses cannot be applied.
+
+Business revenue derived by an international transport enterprise within the Republic of China as provided in the preceding paragraph shall be as follows:
+
+\1. Marine transport enterprises: Referring to all ticket fares or transportation charges for outbound passengers and cargo accepted for carriage inside the territory of the Republic of China;
+
+\2. Air transport enterprises:
+
+(1) Passenger transport: refers to ticket fares from the stations of embarkation inside the territory of the Republic of China to first-leg stations outside the territory of the Republic of China,
+
+(2) Cargo transport: refers to freight charges for the entire trip for the cargo accepted for carriage. However, if an international air transport enterprise has transshipped its outbound cargo enroute to an aircraft of another international air transport enterprise due to the route restrictions or other reasons, its freight charges shall be calculated according to the distance of the trip actually made.
+
+First-leg stations outside the territory of the Republic of China as provided in Item 1, Subparagraph 2 of the preceding paragraph shall be prescribed by decree of the MOF.
+
+#### Article 26
+
+In the case of a motion picture enterprise outside of the territory of the Republic of China which has no branch office inside the territory of the Republic of China, fifty percent of the revenue from the lease of motion pictures through agents shall be deemed as income within the territory of the Republic of China. Where a branch office has been established inside the territory of the Republic of China, costs may be computed at forty-five percent of the revenue from the lease of motion pictures.
+
+#### Article 27
+
+Where documents of evidence with respect to purchases are not obtained or kept by a profit-seeking enterprise or are found to be incorrect upon verification, the tax authority may determine the purchase costs on the basis of the lowest prices in the current year at the locality concerned.
+
+Where documents of evidence with respect to sales are not issued to others or the counterfoils thereof are not kept by a profit-seeking enterprise, the tax authority may determine the selling prices on the basis of the highest price in the current year at the locality concerned.
+
+#### Article 28
+
+The portion of an item of raw material used by a manufacturer in excess of the general raw material consumption standard of the trade shall be disallowed unless a justifiable reason is submitted to the tax authority and found true upon verification by the tax authority.
+
+#### Article 29
+
+Interest on capital is a distribution of profit and, as such, shall not be considered as expense or loss.
+
+#### Article 30
+
+Interest payable on loans within a business year is deductible as expense or loss of that year.
+
+Where the interest rate on a loan as provided for in the loan contract exceeds the statutory rate, computation shall nevertheless be made according to the maximum interest rate chargeable by local commercial banks; however, in case the tax authority has determined the maximum interest rate with respect to a loan acquired from a source other than a bank by reference to the market rate, the maximum interest rate as determined by the tax authority may apply.
+
+#### Article 31
+
+(Deleted)
+
+#### Article 31-1
+
+(Deleted)
+
+#### Article 32
+
+Salaries of the staff employees and workers of a profit-seeking enterprise in conformity with any of the following provisions may be considered as expense or loss:
+
+\1. Salaries of the staff employees and workers paid by corporations or cooperatives, or salaries of the shareholders, board directors and supervisors who conduct business under a prior agreement paid by corporations or cooperatives duly prescribed in the provisions of incorporation or under a previous resolution of a shareholders' meeting or members' meeting as payable, irrespective of whether the enterprises or cooperatives operate at a profit or loss.
+
+\2. Salaries of the staff employees and workers of a partnership or sole-proprietorship and salaries of the partners or sole proprietor who conducts the business, paid irrespective of whether the partnership or sole-proprietorship operates at a profit or loss, if the amount of the salaries paid does not exceed the standard generally adhered to by other firms of the same trade.
+
+#### Article 33
+
+All those profit-seeking enterprises to which the Labor Standards Act applies may each year set aside an amount within the limit of no more than fifteen percent of the total salaries and wages paid in that year, as a worker retirement reserve according to the Labor Standards Act or as labor pension or annuity insurance premiums according to the Labor Pension Act, and the appropriation thus made may be considered as expense of that year.
+
+Any profit-seeking enterprise which is not subject to the application of the Labor Standards Act and has established rules for the retirement of staff employees and workers may each year set aside a reserve for retirement pensions of no more than four percent of the total salaries and wages paid in that year. However, in the case where a profit-seeking enterprise has set aside a retirement fund for staff employees that is operated independently of the aforesaid profit-seeking enterprise under a separate means of custody, operation, distribution, etc., in conformity with the regulations as prescribed by the MOF, the profit-seeking enterprise may each year appropriate within the limit of no more than eight percent of the total salaries and wages paid in that year to the retirement reserve and may further consider the appropriation as an expense of that year.
+
+Where a retirement fund for workers or a reserve for retirement pensions for staff employees has been set up pursuant to the above two paragraphs, payment of retirement pensions or severance pay in accordance with the regulations shall be paid first from such fund or reserve when staff employees and workers retire or are dismissed henceforward, and only when the fund or the reserve is insufficient to meet requirements, may such payments be considered as expense of the year of payment.
+
+In computing income during a liquidation proceeding upon dissolution, closure, merger or transfer of ownership of a profit-seeking enterprise in accordance with Article 75, the accumulative balance of the retirement fund for workers or the reserve for retirement pensions should be transferred to the current year's profit and handled accordingly.
+
+#### Article 34
+
+Expenditures incurred in the expansion, replacement, improvement or repair of buildings, vessels, machinery, tools, apparatus, appliances and other equipment for use in business, where such expenditures result in an increase of the value or efficiency thereof that cannot be exhausted within two years, are an increment of the capital and, as such, shall not be considered as expense or loss.
+
+#### Article 35
+
+For damages due to force majeure, the portion of loss that has been indemnified by insurance shall not be considered as expense or loss.
+
+#### Article 36
+
+Voluntary contributions and donations made by a profit-seeking enterprise shall be considered as expense or loss of the year of payment in accordance with the following provisions:
+
+\1. Regarding those contributions that have been made for assisting national defense construction or troop morale, to government at any level and donations for a designated purpose approved by the MOF as a special case, no restriction on the amount of money is placed;
+
+\2. In addition to the contributions and donations as provided in the preceding subparagraph, those that have been made by organizations and institutions which conform to Paragraph 4 of Article 11 are capped at ten percent of the amount of income.
+
+#### Article 37
+
+Direct expenses incurred in the course of business for social entertainment for which positive evidence of payment has been received may be considered as expense or loss to the extent as provided hereunder:
+
+\1. If the value of yearly purchases of an enterprise is less than NT$30,000,000, direct expenses for social entertainment incurred at the time and for the purpose of purchase shall not exceed 0.15% of the value of purchases for the whole year, and such expenses for an enterprise approved to use Blue Returns shall not exceed 0.2% of the value of purchases for the whole year. If the value of yearly purchases is between NT$30,000,000 and NT$150,000,000, the expenses for social entertainment corresponding to the portion of purchases in excess of NT$30,000,000 shall not exceed 0.1% of that portion, and such expense for an enterprise approved to use the Blue Returns shall not exceed 0.15%. If the value of yearly purchases is between NT$150,000,000 and NT$600,000,000, the expenses for social entertainment corresponding to the portion of purchases in excess of NT$150,000,000 shall not exceed 0.05% of that portion, and such expenses for an enterprise approved to use the Blue Returns shall not exceed 0.1%. If the value of yearly purchases exceeds NT$600,000,000, the expenses for social entertainment corresponding to the portion of purchases in excess of NT$600,000,000 shall not exceed 0.025% of that portion, and such expenses for an enterprise approved to use the Blue Returns shall not exceed 0.05%;
+
+\2. If the value of yearly sales of an enterprise is less than NT$30,000,000, direct expenses for social entertainment incurred at the time and for the purpose of sales shall not exceed 0.45% of the value of sales for the whole year, and such expenses for an enterprise approved to use the Blue Returns shall not exceed 0.6% of the value of sales for the whole year. If the value of yearly sales is between NT$30,000,000 and NT$ 150,000,000, the expenses for social entertainment corresponding to the portion of sales in excess of NT$30,000,000 shall not exceed 0.3% of that portion, and such expenses for an enterprise approved to use the Blue Returns shall not exceed 0.4%. If the value of yearly sales is between NT$150,000,000 and NT$600,000,000, the expenses for social entertainment corresponding to the portion of sales in excess of NT$150,000,000 shall not exceed 0.2% of that portion, and such expenses for an enterprise approved to use the Blue Returns shall not exceed 0.3%. If the value of yearly sales exceeds NT$600,000,000, the expenses for social entertainment that correspond to the portion of sales in excess of NT$600,000,00 shall not exceed 0.1% of that portion, and such expenses for an enterprise approved to use the Blue Returns shall not exceed 0.15%.
+
+\3. If the amount of yearly freight charges of an enterprise is less than NT$30,000,000, direct expenses for social entertainment incurred at the time and for the purpose of transportation of goods shall not exceed 0.6% of the freight charge for the whole year , and such expenses for an enterprise approved to use the Blue Returns shall not exceed 0.7% of the freight charges for the whole year. If the amount of yearly freight charges is between NT$30,000,000 and NT$150,000,000, the expenses for social entertainment corresponding to the portion of freight charges in excess of NT$30,000,000 shall not exceed 0.5% of that portion, and such expenses for an enterprise approved to use the Blue Returns shall not exceed 0.6%. If the amount of yearly freight charges exceeds NT$150,000,000, the expenses for social entertainment corresponding to the portion of freight charges in excess of NT$150,000,000 shall not exceed 0.4% of that portion, and such expenses for an enterprise approved to use the Blue Returns shall not exceed 0.5%.
+
+\4. If the yearly business income of those businesses engaged in providing services or credit is less than NT$9,000,000, direct expenses for social entertainment incurred at the time and for the purpose of consummating business transactions for the supply of services or credit shall not exceed 1% of the business income for the whole year, and such expenses for an enterprise approved to use the Blue Returns shall not exceed 1. 2% of the business income for the whole year. If the yearly business income is between NT$9,000,000 and NT$45,000,000, the expenses for social entertainment corresponding to the portion of business income in excess of NT$9,000,000 shall not exceed 0.6% of that portion, and such expenses for an enterprise approved to use the Blue Returns shall not exceed 0.8%. If the yearly business income exceeds NT$45,000,000, the expenses for social entertainment corresponding to the portion of business income in excess of NT$45,000,000 shall not exceed 0.4% of that portion, and such expenses for an enterprise approved to use the Blue Returns shall not exceed 0.6%.
+
+The limits of various entertainment expenses allowed for disbursement by state-owned enterprises shall be determined by the competent authority and set out in their budgets. For a profit-seeking enterprise that engages in export trade and earns foreign exchange receipts, besides considering as expense the payment of social entertainment expenses as prescribed in the Subparagraphs of the preceding Paragraph, a special social entertainment expense may also be considered as expense, not exceeding 2% of its total foreign exchange receipt settlements of the current year.
+
+#### Article 38
+
+Losses incurred not in the course of operation of business or subsidiary business, family expenses, surcharges for delinquent reporting, non-reporting, and delinquent payment of tax as provided in various tax laws, and various fines shall not be considered as expense or loss.
+
+#### Article 39
+
+Losses incurred in the operation of business in previous years shall not be included in the computation of taxable income for the current year. However, in the case of a profit-seeking enterprise organized as a company that keeps a complete set of account books and evidential documents, uses the Blue Returns as provided in Article 77, or the account books of which have been audited and attested to by a certified public accountant, both for the years such losses occurred and for the years to which the losses are carried over, and then files annual income tax return within the prescribed period, taxation may be made on its net income after the deduction of losses incurred in the preceding ten years as verified and determined by the competent tax authority.
+
+If losses incurred before the implementation of the amendment of this Act on January 6, 2009, by a profit-seeking enterprise organized as a company conforming to the requirements set out in the proviso of the preceding Paragraph, as verified and determined by the tax authority have not been deducted completely according to the Act before January 6, 2009, the amended provision applies to the remaining losses.
+
+#### Article 40
+
+Where the period of business operation is under one year, the amount of income derived for such period shall first be converted into a corresponding annual income according to the proportion of the length of the period to the year, and the amount of income tax shall then be determined by the tax rate applicable to such annual income but paid on the basis of the original proportion for the period in which business is actually operated.
+
+Where the period of business operation is shorter than one month, it shall be counted as one month.
+
+#### Article 41
+
+If a profit-seeking enterprise whose head office is outside the territory of the Republic of China has a fixed place of business or a business agent located inside the territory of the Republic of China, the fixed place of business or business agent shall keep separate accounting books and its profit-seeking enterprise income tax shall be assessed accordingly.
+
+#### Article 42
+
+The dividends or earnings received by a profit-seeking enterprise, organized as a company, a cooperative, or other juristic person, from its investment in another domestic profit-seeking enterprise shall not be included in its taxable income.
+
+#### Article 43
+
+(Deleted)
+
+#### Article 43-1
+
+A profit-seeking enterprise which has an affiliated relationship with, or is directly or indirectly owned or controlled by another domestic or foreign profit-seeking enterprise, whereof, if it is found that arrangement of their mutual income, cost, expense, profit or loss distribution does not conform with the regular business practices for resulting in the tax evasion or reduction, the tax authority, for the purpose of accurately computing the income of this enterprise, may report it to the MOF for approval in effecting an adjustment in accordance with the regular business practice.
+
+#### Article 43-2
+
+Beginning from the year 2011, excess interest shall not be considered as expense or loss if the proportion of related party debt to equity of a profit-seeking enterprise exceeds a specified ratio.
+
+The profit-seeking enterprise referred to in the preceding paragraph shall, when filing its tax return, disclose the information regarding the debt-to-equity ratio of the debt owed to related parties and other relevant information in its annual income tax return.
+
+The regulations governing the scope of related parties, liabilities, and owner's equity, the specified debt-to-equity ratio, and other requirements to be observed by the profit-seeking enterprise specified in Paragraph 1 of this Article shall be prescribed by the MOF.
+
+The preceding three paragraphs shall not apply to banks, credit cooperatives, financial holding companies, bills finance companies, insurance companies and securities firms.
+
+#### Article 43-3
+
+For any profit-seeking enterprise and its related parties directly or indirectly holding 50% or more of the shares or capital of a foreign affiliated enterprise in a low-tax country or jurisdiction, or having a significant influence on such a foreign affiliated enterprise, unless one of the following provisions is met, the surplus earnings of that foreign affiliated enterprise shall be recognized as the profit-seeking enterprise’s investment income which is calculated according to the ratio and holding period of the shares or capital, and such investment income shall be included in the taxable income of the current year:
+
+\1. The foreign affiliated enterprise engages in substantial operating activities in its country or jurisdiction.
+
+\2. The current year surplus earnings of the foreign affiliated enterprise are below a given standard. However, if the aggregate amount of the current year’s surplus earnings of all foreign affiliated enterprises which are held by the same profit-seeking enterprise exceeds such standard, the investment income of the aforesaid foreign affiliated enterprises shall still be included in the taxable income of the current year.
+
+The term "low-tax country or jurisdiction", as mentioned in the preceding paragraph, refers to where the tax rate of the profit-seeking enterprise income tax or substantially similar tax in the country or jurisdiction where a foreign affiliated enterprise is located is not more than 70 percent of the tax rate set in Subparagraph 2 of Paragraph 5 of Article 5, or where only income sourced from that country or jurisdiction is taxed.
+
+Starting from the current year in which the foreign affiliated enterprise meets Paragraph 1, if the losses of each year incurred in the foreign affiliated enterprise have been audited and attested to by a certified public accountant in a local country or jurisdiction or in the Republic of China , then filed by the profit-seeking enterprise, and verified by the tax authority, such losses may be deducted from surplus earnings of the foreign affiliated enterprise within ten years, and the investment income of the profit-seeking enterprise shall be calculated in accordance with Paragraph 1.
+
+When the profit-seeking enterprise receives dividends or surplus earnings from the foreign affiliated enterprise, the amount received has been recognized as investment income under Paragraph 1 shall not be included in the taxable income; the excess amount shall be included in the taxable income of the receiving year. In the case that income tax has been paid on dividends or surplus earnings in accordance with the tax law of the source country, such tax paid may, upon presentation by the taxpayer of evidence of tax payment issued by the tax office of said source country and attested by an overseas agency of the Republic of China or other organizations recognized by the Government of the Republic of China in the said locale, be deducted from the amount of tax payable by the taxpayer within five years from the date following the expiration date of the statuary period for filing the tax return in the year of recognizing investment income, to the extent that such deduction shall not exceed the amount of additional tax payable from the inclusion of the investment income with the applicable domestic rate.
+
+The regulations governing the scope and relevant calculation methods of related parties, affiliated enterprises, a significant influence, recognized investment income, substantial operating activities, a standard of the current year surplus earnings, the deduction of losses, and foreign tax credits, required documents, and other requirements specified in the preceding four Paragraphs shall be prescribed by the MOF.
+
+If an affiliated enterprise specified in Paragraph 1 is subject to Article 43-4 for a given year, the preceding five Paragraphs do not apply.
+
+#### Article 43-4
+
+Any foreign profit-seeking enterprise established according to foreign law but with a place of effective management in the Republic of China shall be deemed as a profit-seeking enterprise having its head office within the territory of the Republic of China, and it shall be subject to the profit-seeking enterprise income tax in accordance with the Income Tax Act and other relevant laws. In case of violation, the foreign profit-seeking enterprise shall be subject to the Income Tax Act and other relevant laws.
+
+A foreign profit-seeking enterprise specified in the preceding Paragraph shall be deemed as a profit-seeking enterprise established according to the Republic of China’s laws, and its payment of various kinds of income shall be recognized as income from sources in the Republic of China in accordance with Article 8. The tax withholders shall withhold income tax from various income payments and issue withholding tax statements or non-withholding tax statements, dividend statements, and other relevant certificates in accordance with the Income Tax Act and other relevant laws. In case of violation, the foreign profit-seeking enterprise shall be subject to the Income Tax Act and other relevant laws. However, if the foreign profit-seeking enterprise distributes surplus earnings not earned in the year pertaining to the profit-seeking enterprise income tax in accordance with Paragraph 1, the surplus earnings are considered to be not from sources in the Republic of China in accordance with Article 8.
+
+The term "a foreign profit-seeking enterprise with a place of effective management in the Republic of China" as mentioned in Paragraph 1 refers to a foreign profit-seeking enterprise that is in accordance with the following provisions:
+
+\1. The decision maker who makes significant decisions in business management, financial management, and personnel management is an individual resident in the Republic of China, the head office is within the territory of the Republic of China, or the place where the significant decisions are made is in the Republic of China.
+
+\2. Financial statements, records of accounting books, minutes of meetings of the Board of Directors or minutes of meetings of the shareholders are prepared or stored in the territory of the Republic of China.
+
+\3. Major business activities are carried out in the Republic of China.
+
+The MOF shall prescribe the regulations governing the measures applying to levying income tax, withholding tax, and issuing certificates; the standard and procedure of identifying place of management and evidential documents; and other requirements specified in the preceding three Paragraphs.
+
+### Section 4 Evaluation of Assets
+
+#### Article 44
+
+Inventories of merchandise, raw materials, supplies, goods-in-process, finished goods and by-products shall be evaluated on the basis of actual cost. Where the cost is higher than the net realizable value, the taxpayer may take the net realizable value as the basis of evaluation. A loss on a decline in the net realizable value of the inventories is allowed to be the cost of goods sold. In case the cost is not ascertainable or the net realizable value is not derivable by reasonable anticipation, the competent tax authority shall determine it on the basis of expert opinion or by appraisal.
+
+Net realizable value as provided in the preceding paragraph refers to the expected net margin from the sales under regular operation.
+
+Cost as provided in Paragraph 1 may be calculated by using the specific identification method, first-in first-out method, weighted average method, moving average method, or other methods approved by the competent authority in accordance with the categories or characteristics of an inventory.
+
+#### Article 45
+
+Actual cost means the price paid for the acquisition of an asset and includes not only the purchase price paid at the time of acquisition but also all necessary expenses incidental to acquisition or incurred in making it fit for use in the operation of business. Where an asset is manufactured or constructed instead of purchased, the cost includes materials, labor and all expenses incurred in the designing, manufacturing, construction and installation necessary to make it fit for use in the operation of business. In the case of an asset brought forward at the beginning of a period, the cost means the original inventory price.
+
+The expenses incurred in the expansion, replacement, improvement, or repair of any asset as a result of which the asset’s value or efficiency is increased may, to the extent of such increase, be added to the balance of the actual cost for computation.
+
+#### Article 46
+
+Market value means the current price prevailing at the locality concerned on the day of making the final report of the account.
+
+#### Article 47
+
+The cost of goods-in-transit is the cost standing at the time of commencement of transit, and the market value thereof is the market value prevailing at the place of destination.
+
+Evaluation of a by-product shall be in accordance with Article 44 of this Act where the cost thereof is verifiable and on the basis of the market value after the deduction of selling expenses where the cost thereof is not available.
+
+#### Article 48
+
+Article 44 of this Act shall apply mutatis mutandis in the evaluation of short-term investments in valuable securities. Where the market value of such a security at the close of a financial period has been subject to violent fluctuations, the average price during the immediately preceding month may be taken as the market value on the day of making the final report of the account.
+
+#### Article 49
+
+Accounts receivable and notes receivable shall be evaluated at their respective amounts less deductions for estimated allowance for bad debts.
+
+Allowance for bad debts as set forth in the preceding Paragraph shall be estimated and set aside in an amount not exceeding 1% of the amount of outstanding balance of the accounts receivable and the notes receivable, or of the amount of outstanding balance of credits in the case of a financial institution.
+
+Where the percentage of bad debt losses actually incurred and declarable by a profit-seeking enterprise under the law exceeds the percentage specified in the preceding Paragraph, the allowance for such bad debts may be estimated and set aside in an amount not exceeding the average of the percentages of actual bad debts declarable by the said profit-seeking enterprise under the law in the preceding three years.
+
+For a profit-seeking enterprise, if it is found in the following year that the amount of all ascertained losses in bad debts differs from that of the estimated losses, an adjustment shall be made in the estimation of losses in bad debts for the current year to conform to the allowable percentage.
+
+Under any of the following circumstances, an account receivable or note receivable or any other item of uncollected credit may be deemed as an ascertained bad debts loss:
+
+\1. Where the outstanding amount is wholly or partially uncollectible by reason of insolvency, dodging of the debtor, compromise or adjudication of bankruptcy, or any other cause;
+
+\2. Where the outstanding amount has been past due for a period over two years during which neither the principal nor the interest accrued thereon has been paid despite demands made therefor.
+
+If the outstanding amount as set forth in the preceding Paragraph is collected after being written off as a loss, the amount actually collected shall be deemed as a profit for the year in which it is collected.
+
+#### Article 50
+
+Buildings, fixtures, appurtenant equipment, vessels, machinery, tools, apparatus, appliances and other fixed assets shall be evaluated at cost less prescribed depreciation.
+
+#### Article 51
+
+Fixed assets must be depreciated by using the straight-line method, fixed percentage on diminishing book value method, sum-of-years`-digits method, production method, working-hour method or other depreciation methods approved by the competent authority. Where the assets belong to different categories, the calculation of depreciation may combine the computations based on the respective categories.
+
+The service life of various kinds of fixed assets shall be such as is prescribed in the Table of Service Life of Fixed Assets; however, the service life of equipment installed to prevent water pollution or air pollution may be shortened to two years.
+
+In the computation of depreciation of each kind of fixed asset, the service life of such fixed assets shall not be shorter than the minimum years of service life specified in the said table unless special permission has been granted by the Government to adopt the shortening as an incentive.
+
+#### Article 51-1
+
+When a passenger sedan that was newly purchased by a profit-seeking enterprise is depreciated in accordance with paragraph 1 of the preceding Article, its actual cost shall not exceed the criteria prescribed by the MOF.
+
+If the aforementioned passenger sedan, after having been used, is sold, destroyed, or scrapped, its income or loss shall also be computed on the basis of its remaining value, which is calculated in accordance with the formal method of depreciation prescribed by this Act.
+
+#### Article 52
+
+Where the actual cost of a fixed asset is increased or decreased after a number of years of use, the depreciation of the asset shall be computed on the basis of the cost after such increase or decrease at the prescribed rate of depreciation with the remaining portion of the service life taken as its service life.
+
+#### Article 53
+
+Where the fixed assets have at the time of acquisition been used for a number of years, the depreciation thereof shall be computed at the prescribed rate of depreciation with the remaining portion of the service life taken as their service life.
+
+Where it is foreseeable at the time of acquisition of the fixed assets that they will not have the normal length of service life on account of certain special circumstances, the actual useful years may, upon presentation of documentary evidence, be taken as their service life for computing depreciation at the prescribed rate.
+
+#### Article 54
+
+For valuation of depreciable fixed assets, accumulated depreciation accounts must be established and presented as deductions of the respective assets. The depreciation of fixed assets must be presented on an annual basis.
+
+When the depreciation of fixed assets is computed, the salvage value must be estimated. The balance after deduction of the salvage value shall be used as the basis for the computation.
+
+If a fixed asset continues to be used after the expiration of its service life, the asset can continue to be depreciated using the salvage value thereof.
+
+#### Article 55
+
+Where a fixed asset has reached the full period of its prescribed useful years but the accumulation of depreciation thereof has not amounted to the cost thereof, depreciation at the original rate may be made until full depreciation has been made.
+
+#### Article 56
+
+(Deleted)
+
+#### Article 57
+
+If a fixed asset which has been completely depreciated is destroyed or becomes obsolete at the expiration of its useful years, the difference, if any, of the residual value previously estimated over the proceeds from the sale of scraps may be charged to loss for the current year. In case the proceeds from sale of scraps exceed the residual value previously estimated, the difference shall be charged to income of the current year.
+
+Where fixed assets are destroyed or become obsolete on account of specific reasons at any time before the end of their prescribed service life, their undepreciated value may, upon submission of reliable documentary evidence, be charged to loss for the proper fiscal year; however, proceeds from the sale of scraps, if any, shall be considered as income.
+
+#### Article 58
+
+Where the service life of a fixed assets is less than two years, the cost thereof may be considered as a loss for the fiscal year in which such assets are acquired, manufactured or constructed, and annual depreciation thereof is not required.
+
+#### Article 59
+
+Depletion assets shall be valued on the basis of the value left over after deducting from the cost of such assets the depletion charge for each period. Computation of the depletion charge may be made according to one of the following formulas, provided that whichever is used shall not be changed afterwards:
+
+\1. Computing at the close of the business year the depletion charge deductible for the current year on the basis of the quantity actually exploited within the current year multiplied by the estimated unit depletion charge, which is worked out by dividing the cost of the depletion assets against the quantity exploitable;
+
+\2. Setting aside annually from the gross amount of proceeds realized from the exploitation or sale of products the depletion charge according to the Table of Depletion Assets, provided that the depletion charge set aside annually shall not exceed fifty percent of the amount of gain derived in the current year from the assets before deducting therefrom the depletion charge and that the aggregation of such depletion charge shall in no case exceed the cost of the assets. In the case of depletion assets that produce petroleum or natural gas, a depletion in the amount of 27.5 percent of the gross amount of proceeds realized from the sale of the production in the current year may be set aside therefrom annually till the assets are completely exhausted, provided that the depletion charge set aside annually shall not exceed fifty percent of the amount of gain derived in the current year from the assets before deducting therefrom the depletion charge.
+
+#### Article 60
+
+Business rights, trademarks, copyrights, patents and other franchises are assets only if they are acquired by purchase.
+
+Such intangible assets as referred to in the preceding paragraph shall be valued at cost less the amount amortized for each period.
+
+The cost of intangible assets shall be amortized in equal annual installments in accordance with the following prescribed number of years of amortization, however, where an intangible asset after acquisition cannot be amortized according to the prescribed number of years of amortization on account of specific reasons, an application stating the reasons therefore may be submitted to the competent tax authority for permission to amortize in a different manner:
+
+\1. Amortization of business rights shall be based on a period of ten years;
+
+\2. Amortization of copyrights shall be based on a period of fifteen years;
+
+\3. Amortization of trademarks, patents and all other franchises may be based on the number of years of enjoyment of such rights after acquisition.
+
+#### Article 61
+
+In the case of a 25 percent rise in prices, the fixed assets, depletion assets and intangible assets as referred to in this Act may be revalued. Rules governing the conduction of asset revaluation and formulas of revaluation shall be separately prescribed by the Executive Yuan.
+
+#### Article 62
+
+Deposits, loans, and bonds for long-term investment shall be valued at the current value computed based on the period for amortization. Computation of the current value shall be based on the interest at the contracted rate if the debt is interest bearing, or at the average interest rate prevailing among local banks on deposits at a fixed term of one year if the debt is not interest bearing.
+
+When the debt as referred to in the preceding paragraph is recovered at maturity, the portion of interest accruing from the value in excess of the current value shall be considered as profit for the year in which the debt is recovered.
+
+#### Article 63
+
+Where a long-term investment is made to hold all the shares or more than one-half of the shares of a subsidiary enterprise, it shall be valued on the basis of the total net worth of the assets of such an enterprise or a part thereof proportionate to the amount of shares held. Where the amount of long-term investment in any other enterprise is less than one-half of its total amount of capital, the valuation of the investment shall be based on the cost.
+
+#### Article 64
+
+Evaluation of prepaid expenses shall be based on the portion of the amount remaining within the unexpired period; the inventory of supplies must be valued on the basis of the portion of the amount covering the unused supplies; evaluation of other deferred expenses must be based on the non-amortized amount.
+
+Expenditures of a profit-seeking enterprise incurred during the organizational period must be recorded as current expenses. The term "organizational period" means the period from the preparatory stage to the starting date of the business that commences to generate significant revenue.
+
+The expenses defrayed for the issue of corporate bonds and the difference resulting from the discounted issuance of corporate bonds against their face value shall, where a definite period of amortization is provided for, be amortized in installments according to such a period.
+
+#### Article 65
+
+In the case of dissolution, discontinuance, merger or consolidation, spin-off, acquisition, or transfer of ownership of a profit-seeking enterprise, evaluation of its assets shall be based on the current value or the actual price at which the transaction is made.
+
+#### Article 66
+
+A taxpayer shall keep an inventory stating therein the quantity, unit, unit price, total price and location of all his assets as well as whether the price indicates the cost, the current value or the appraised value.
+
+Where a taxpayer fails to produce reliable documentary evidence in support of the valuation of his assets, the competent tax authority may directly determine the value of such assets by way of appraisement.
+
+### Section 5 Shareholder Deductible Tax Account
+
+#### Article 66-1
+
+(Deleted)
+
+#### Article 66-2
+
+(Deleted)
+
+#### Article 66-3
+
+(Deleted)
+
+#### Article 66-4
+
+(Deleted)
+
+#### Article 66-5
+
+(Deleted)
+
+#### Article 66-6
+
+(Deleted)
+
+#### Article 66-7
+
+(Deleted)
+
+#### Article 66-8
+
+(Deleted)
+
+### Section 6 Taxation on Undistributed Surplus Earnings
+
+#### Article 66-9
+
+From 1998 to 2017, if there are any earnings of the current year not distributed by a profit-seeking enterprise, an additional profit-seeking income tax shall be levied at the rate of ten percent on such undistributed surplus earnings. Beginning from the year 2018, the aforesaid tax shall be levied at the rate of five percent.
+
+The term "undistributed earnings" as referred to in the preceding Paragraph shall denote the total amount of after-tax net income for the period and other profit items adjusted to the current year’s undistributed earnings other than after-tax net income for the period as calculated by a profit-seeking enterprise in accordance with the Business Entity Accounting Act, Securities and Exchange Act, or other laws used in preparing financial reports, less the following sums:
+
+\1. The make-up of the losses in previous years and the next year’s loss, provided they have been audited and attested to by a certified public accountant;
+
+\2. The dividends or earnings which have been distributed from the earnings gained in the current year;
+
+\3. The legal earned surplus reserve having been set aside from the surplus earnings of the current year in accordance with the Company Act or other laws, the legal reserve and the public interest reserve having been set aside in accordance with the Cooperative Act;
+
+\4. The sinking fund reserve or restricted distributable surplus earnings which were required to be set aside or restricted from distribution under any treaty signed by the Republic of China with another country, or under any agreement signed in accordance with the economic assistance or loan agreement signed by the Republic of China with any international organization;
+
+\5. The special reserve or restricted distributable surplus earnings which were required to be set aside or restricted from distribution of the surplus earnings of the current year pursuant to the order given by the competent authority in accordance with other laws;
+
+\6. The capital reserve which was required to be transformed from income after tax pursuant to other laws;
+
+\7. The amount of other loss items adjusted to the current year’s undistributed earnings other than after-tax net income for the period; and
+
+\8. Other accounts as approved by the MOF.
+
+The amount of the accounts specified in Subparagraphs 2 through 6 of the preceding Paragraph shall be limited to those that actually occurred prior to the end of the fiscal year following the year in which the respective incomes are taxable.
+
+The terms "after-tax net income for the period" and "the amount of other profit (or loss) items adjusted to the current year’s undistributed earnings other than after-tax net income for the period" referred to in Paragraph 2 of this Article, in the case where the financial statements in the current year of a profit-seeking enterprise were audited and attested to by a certified public accountant, shall be based on the amount which was assessed by such certified public accountant. However, if thereafter the competent tax authority conducts an assessment of such financial statements and makes an adjustment to the aforesaid items, the original amount shall be replaced by the amount after such adjustment, of which the competent tax authority has informed the enterprise.
+
+If the reasons why distributable surplus earnings were restricted from distribution pursuant to Subparagraphs 4 and 5 of Paragraph 2 of this Article no longer pertain, the part of the distributable surplus earnings that were undistributed prior to the end of the fiscal year following the year when the reasons stopped pertaining shall be added to the surplus earnings of the year when the reasons stopped pertaining and be subject to the levy of an additional profit-seeking income tax at the rate provided by Paragraph 1 of this Article.
+
+## Chapter 4 Assessment & Collection Procedure
+
+### Section 1 Provisional Payment
+
+#### Article 67
+
+A profit-seeking enterprise, except one that conforms to Article 69, shall within the one-month period from September 1 to September 30 of each year, take one-half of the amount of tax payable as declared in its profit-seeking enterprise income tax return filed in the preceding year as the amount of the provisional payment of tax and pay it to the public treasury and file with the competent tax authority a declaration for provisional payment of tax on a prescribed form along with the receipt of the provisional payment.
+
+A profit-seeking enterprise, without using investment tax credit, refundable tax from administrative remedy and withholding tax to offset the amount of the provisional tax payment in the preceding Paragraph, shall be exempt from filing a provisional income tax return according to the preceding Paragraph, if it pays the provisional tax to the public treasury.
+
+Notwithstanding Paragraph 1, a profit-seeking enterprise organized as a company which keeps a complete set of account books and evidential documents, uses the Blue Return as provided in Article 77, or the account books of which have been audited and attested to by a certified public accountant, and then files its provisional tax return within the said period may alternatively compute the amount of provisional tax payment, which is based on the operating income incurred for the first six months of the current year under the relevant provisions of the Income Tax Act and applied with the tax rates.
+
+#### Article 68
+
+In the case where a profit-seeking enterprise fails to make the provisional tax payment within the period as specified in Paragraph 1 of the preceding Article but has since filed the return and paid the amount of provisional tax payment, which is computed in accordance with the said provision, on his own accord to the tax authority before 31 October, interest accruable thereon as calculated on a daily basis at the banking rate for deposits as specified in Article 123 from 1 October until the date of the payment shall be collected together with the aforesaid amount of provisional tax payment.
+
+In the case where a profit-seeking enterprise fails to make the provisional payment in accordance with the preceding paragraph before October 31, the tax authority shall compute the amount of provisional tax payable by it in accordance with Paragraph 1 of the preceding Article and issue to the said profit-seeking enterprise a tax demand notice covering the provisional payment plus one month's interest to be calculated at the banking interest rate for deposits as specified in Article 123, requiring the said profit-seeking enterprise to make the payment to the public treasury in fifteen days.
+
+#### Article 69
+
+The preceding two Articles shall not apply to the following cases:
+
+\1. (Deleted);
+
+\2. A profit-seeking enterprise without permanent establishment in the territory of the Republic of China, having its profit-seeking enterprise income tax withheld by business agent or the payer in accordance with Article 98-1;
+
+\3. A sole proprietorship or a partnership and any approved small-scale profit-seeking enterprise;
+
+\4. Any profit-seeking enterprise not subject to profit-seeking enterprise income tax in accordance with this Act or other relevant laws;
+
+\5. (Deleted).
+
+\6. Other profit-seeking enterprises approved by the MOF.
+
+#### Article 70
+
+(Deleted)
+
+### Section 2 Annual Income Tax Return
+
+#### Article 71
+
+A taxpayer shall, within the period from May 1 to May 31 of each year, fill out and file to the competent tax authority an annual income tax return declaring therein the items and amounts that make up his/her gross consolidated income (for an individual) or the gross profit-seeking income (for a profit-seeking enterprise) for the preceding year together with the tax deductions/exemptions, and/or offsets associated therewith, if any. The taxpayer shall further calculate the amount of income tax actually payable by him/her/it by deducting the provisional income tax payment, the unused withholding tax and the amount of tax credit as calculated per Paragraph 4 of Article 15 from the amount of the income tax payable for the whole year, and shall pay the remaining balance before filing the annual income tax return. However, the withholding tax from the income subject to separate taxation in accordance with this Act shall not be deductible.
+
+A profit-seeking enterprise organized as a sole proprietorship or a partnership shall declare an annual income tax return as per the preceding paragraph and be exempt from computing and making a tax payment before filing its income tax return; the amount of income of a profit-seeking enterprise shall be included in “Income from profit-seeking activities” as defined in Category 1, Paragraph 1 of Article 14, and the individual income tax shall be levied in accordance with this Act. However, a sole proprietorship or a partnership recognized as a small-scale profit-seeking enterprise shall not file an annual income tax return; the amount of the profit-seeking enterprise income assessed by the tax authority shall be included in “Income from profit-seeking activities” and the individual income tax shall be levied in accordance with this Act.
+
+An individual residing in the territory of the Republic of China whose annual gross consolidated income does not exceed the sum of the amount of exemption plus the standard deduction for the current year shall be exempt from filing an annual income tax return. However, if an application has been filed for refund of the tax withheld and the amount of tax credit as calculated per Paragraph 4 of Article 15 from the amount of the income tax payable for the whole year, or subject to separated taxation according to Paragraph 5 of Article 15, the said taxpayer shall still be required to file the annual income tax return.
+
+#### Article 71-1
+
+In case an individual residing in the territory of the Republic of China dies in the taxable year, his/her taxable income derived in the year of his/her death and in the previous years, except for those who are exempt from filing an annual income tax return as provided in Article 71, shall be subject to the annual income tax return which shall be filed by the will executors, heirs or estate administrators within three months from the date of death of the decedent. In such a case, the will executors, heirs or estate administrators shall, within the total value of the estate, be responsible for all the obligations concerning the tax return. However, in case the deceased is survived by his/her spouse who is an individual residing in the territory of the Republic of China, the spouse shall file the annual income tax return and make a tax payment thereof in accordance with Article 71.
+
+Any individual residing in the territory of the Republic of China who abolishes his/her domicile or residence in the territory of the Republic of China and is going to leave the territory of the Republic of China shall file his/her annual income tax return for the taxable year before his/her departure. However, in case the individual’s spouse is residing in the territory of the Republic of China and continues to live in the territory of the Republic of China, he/she shall file the annual income tax return and make a tax payment in accordance with Article 71.
+
+In conformity with Subparagraph 13 of Article 4, an educational, cultural, public welfare and charitable organization or institution and its operational organization, shall file its income tax return in accordance with Article 71, and shall still pay income tax if it is not qualified to be exempt from income tax.
+
+#### Article 72
+
+The period for filing an annual income tax return as provided in Paragraph 1 of Article 71-1 may, before the time limit and under special circumstances, through the application of the will executors, or heirs, or estate administrator and upon the approval of the tax authority, be extended to a date not later than the time limit prescribed for filing an estate tax return.
+
+Any taxpayer as provided in Paragraph 2 of Article 71-1 and Article 73 may, under the special circumstances of being unable to file his/her/its tax return within the time limit or file by himself/herself/itself, appoint an individual residing in the territory of the Republic of China to file a tax return and make a tax payment on his/her/its behalf with the approval of the tax authority. In the case of a delinquent payment or failure to entrust a certified public accountant or any other lawful agent to file the tax return and make a tax payment on his/her/its behalf, the tax authority may notify the exit/entry control office to deny exit clearance to such a taxpayer.
+
+#### Article 73
+
+When an individual not residing in the territory of the Republic of China or a profit-seeking enterprise having no fixed place of business or business agent within the territory of the Republic of China derives income within the territory of the Republic of China as provided for in Article 88, the income reporting provisions under Article 71 shall not apply and the tax withholder shall withhold the income tax payable in accordance with prescribed withholding rates. If the taxpayer has income which does not fall within the scope of withholding as provided for in Article 88 and is going to leave the territory of the Republic of China prior to the time limit prescribed for filing income tax return in the taxable year, he/she shall file a tax return with the competent tax authority prior to his/her departure and make tax payment according to the prescribed tax rates, and, if he/she does not leave within the time limit prescribed for filing income tax return in the taxable year, he/she shall file a tax return and make tax payment in accordance with this Act.
+
+In the case of a profit-seeking enterprise with no fixed place of business but having a business agent in the territory of the Republic of China, except where computation of income is made in accordance with Articles 25 and 26 and income tax is withheld and paid in accordance with the provisions concerned, the business agent concerned shall be responsible for filing of an income tax return with the competent tax authority and for payment of income tax in accordance with this Act.
+
+#### Article 73-1
+
+Off-shore Banking Branches shall report all interest derived from loans extended to individuals, legal entities, government agencies and financial institutions within the territory of the Republic of China, except for the interest which is tax-exempt according to the laws, and calculate their income taxable based on the total amount of interest and the prescribed withholding rates within the time limit as stipulated in Article 71 of this Act.
+
+#### Article 73-2
+
+(Deleted)
+
+#### Article 74
+
+Where a profit-seeking enterprise changes its fiscal year with the approval of the competent tax authority, it shall, within one month from the date of change, file with the competent tax authority on a prescribed form the amount of income accrued prior to the change, compute the income tax payable in accordance with Article 40 and make payment thereof prior to filing its income tax return.
+
+#### Article 75
+
+A profit-seeking enterprise shall make its current final income tax return up to the date of dissolution, closure, merger, or ownership transfer, and then its total business income and tax payable on a prescribed form to the competent tax authority within forty-five days, and further make payment before filing the income tax return.
+
+A profit-seeking enterprise shall report any income derived from liquidation during the period of liquidation on a prescribed form to the competent tax authority within thirty days from the date of completion of liquidation, and the taxpayer shall, before filing its tax return, make payment at the prescribed profit-seeking enterprise income tax rate in the taxable year. However, this is not applicable to those enterprises which are exempt from the liquidation process in accordance with other laws.
+
+The term "period of liquidation" as referred to in the preceding paragraph for the company organization shall be the time limit in accordance with the Company Act; for the limited partnership organization it shall be the time limit in accordance with the Limited Partnership Act; and for others it shall be three months from the date of dissolution, closure, merger, or ownership transfer.
+
+A profit-seeking enterprise organized as a sole proprietorship or a partnership shall make its current final income tax return or liquidation income tax return according to Paragraphs 1 and 2 and be exempt from computing and making a tax payment before filing its income tax return. The amount of income of a profit-seeking enterprise shall be included in “Income from profit-seeking activities” as defined in Category 1, Paragraph 1 of Article 14, and the individual income tax shall be levied in accordance with this Act. However, the sole proprietorship or a partnership which is assessed as a small-scale profit-seeking enterprise shall not make its current final income tax return or liquidation income tax return. The tax authority shall assess the amount of profit-seeking enterprise income and incorporate the income into its sole proprietor’s or partners’ “Income from profit-seeking activities” and levy individual income tax in accordance with this Act
+
+In the case of failure to submit a current final income tax return or liquidation income tax return within the time limit as provided in Paragraphs 1 and 2, the tax authority shall assess and determine the amount of business income and tax payable; if a profit-seeking enterprise is organized as a sole proprietorship or a partnership, the tax authority shall assess its taxable income, incorporate the income into its sole proprietor’s or partners’ “Income from profit-seeking activities” and levy individual income tax in accordance with this Act.
+
+In the event of bankruptcy, a profit-seeking enterprise shall, within ten days prior to the time limit prescribed for credit filing announced by the court, file its current final income tax return with the competent tax authority. In the case of failure to file a tax return within the time limit, the tax authority shall assess and determine its amount of business income and tax payable immediately according to the finding made by itself.
+
+The court shall, at the same time of announcement of credit filing, notify the local tax authority of the bankruptcy declared on the profit-seeking enterprise in the preceding paragraph.
+
+#### Article 76
+
+A taxpayer shall attach to his/her/its annual income tax return any receipts for self-paid taxes and other related documents of evidence and, in the case of a profit-seeking enterprise, also the balance sheet, inventory of properties, and income statement.
+
+At the time of filing an income tax return by a company, cooperative, or other juristic person, its responsible person shall submit a statement listing the names and residences of shareholders, members, or investors and the amount of dividends or earnings payable or paid. In the case of a partnership, its responsible person shall submit a statement listing the names and residences of partners and their respective percentages of investment and profit or loss allocation.
+
+#### Article 76-1
+
+(Deleted)
+
+#### Article 77
+
+Profit-seeking income tax return forms shall be used in accordance with the following provisions:
+
+\1. Ordinary return - to be used by profit-seeking enterprises other than those authorized to use the Blue return;
+
+\2. Blue return - to be used by profit-seeking enterprises duly authorized by tax authority.
+
+The Blue return refers to the tax form which is printed according to the prescribed form on blue paper and designed for encouraging profit-seeking enterprises to  honestly report their income. Rules governing the use of blue return shall be prescribed by the MOF.
+
+There are two kinds of individual income tax return forms, namely the general return and the concise return. The forms and the usages thereof shall be prescribed by the MOF.
+
+#### Article 78
+
+The tax authority shall at all times assist and urge taxpayers to file annual income tax returns within the prescribed period and shall, fifteen days prior to expiration thereof, send a reminder pointing out the responsibility associated with belated reporting.
+
+The reminder as provided in the preceding paragraph may be sent in the form of a public notice.
+
+#### Article 79
+
+Where a taxpayer fails to file an annual income tax return within the prescribed period, the tax authority shall serve a delinquent notice, requiring the taxpayer to complete an annual income tax return within fifteen days from the date of receipt of the notice. In the event the taxpayer does not file the annual income tax return within the fifteen days given in the notice, the tax authority shall make assessment of the amount of income and tax payable on the basis of available taxation data or the profit standard of the same trade and serve the taxpayer the assessment notices along with a tax demand notice. In case any additional taxation data is afterwards discovered upon investigation by the tax authority, such taxation data shall be handled in accordance with the relevant provisions of the Tax Collection Act. Where a profit-seeking enterprise is organized as a sole proprietorship or a partnership, the tax authority shall assess its taxable income and incorporate the income into its sole proprietor’s or partners’ “Income from profit-seeking activities” and levy individual income tax in accordance with this Act.
+
+The provisions of the preceding paragraph shall not apply to a taxpayer subject to individual income tax. In the event of failure on the part of such a taxpayer in filing an annual income tax return after expiration of the prescribed period, the tax authority shall forthwith determine the amount of income and tax payable based on the available taxation data and notify the taxpayer to pay the tax within the time limit. In case any additional taxation data is afterwards discovered upon investigation by the tax authority, such taxation data shall be handled in accordance with the relevant provisions of the Tax Collection Act.
+
+### Section 3 Investigation
+
+#### Article 80
+
+The tax authority shall, after receipt of an annual income tax return, appoint a person to make an investigation thereof and determine the amount of income and tax payable.
+
+Where there is a large number of taxpayers in a locality, the tax authority may, in lieu of individual investigation as provided in the preceding paragraph, conduct random checks by trade and determine the income standard of each trade.
+
+Where the amount of income reported by a taxpayer is above the standard set forth in the preceding paragraph, the reported income shall be taken as the basis for taxation. However, a taxpayer who is found by the tax authority to have reported his or her income unusually or with any underreporting, omission or evasion of the taxable income, or income reported as lower than such standard shall be subjected to an investigation.
+
+Opinions of the revelant trade associations may be sought in determining income standards of taxpayers in the respective trades.
+
+The regulations governing how the tax authority conducts an assessment of an income tax return by paper reviewing, auditing or any other method of investigation, as well as the regulations governing how the aforesaid tax authority audits the items affecting the amounts of income, tax payable and tax credits of an income tax return, shall be prescribed by the MOF.
+
+#### Article 81
+
+The competent tax authority shall, on the basis of its findings, work out and serve upon the taxpayer a notice showing the amount of tax leviable as well as the tabulation of amounts of various items which make up the tax.
+
+Where the notice carries any erroneous entries or miscalculations, the taxpayer may, within ten days after receipt of the said notice, check with the competent tax authority or request for corrections.
+
+If the circumstances of assessment of the individual income tax fall under any of the following conditions, the competent tax authority may make public declaration of the tax assessments instead of issuing and serving a “Notice of Consolidated Income Tax Assessment”:
+
+\1. The refund to the taxpayer is equal to the amount filed on his/her individual income tax return.
+
+\2. The taxpayer need not pay an additional amount and does not receive a refund because the amount filed in his/her individual income tax return and the amount assessed by the competent tax authority are the same.
+
+\3. In accordance with relevant regulations, where the amount of tax to be paid additionally or refunded is less than a specific amount, the tax payment or refund may be waived.
+
+#### Article 82
+
+(Deleted)
+
+#### Article 82-1
+
+(Deleted)
+
+#### Article 83
+
+A taxpayer shall, in the course of an investigation or recheck conducted by the tax authority, provide account books and related documents of evidence that will prove the amount of his/her/its income. Where such account books and documents of evidence are not provided, the tax authority may determine the amount of his/her/its income based on the available taxation data or the profit standard of the same trade concerned.
+
+The taxpayer shall present the account books and documents of evidence as referred to in the preceding paragraph to the tax authority for investigation within the prescribed time limit. Under special circumstances, if it is requested by the taxpayer or considered necessary by the tax authority, an investigation at the taxpayer's place of business may be made by a designated official.
+
+Where a taxpayer has already filed the income tax return in accordance with the established regulations but failed to provide the account books and documents of evidence to prove the amount of his/her/its income within a prescribed time limit when notified by the tax authority conducting an investigation, the tax authority may determine the amount of his/her/its income based on the available taxation data or the profit standard of the same trade concerned. If more taxation data are subsequently discovered upon investigation, such taxation data shall be still dealt with according to law.
+
+#### Article 83-1
+
+If the tax authority or a tax investigator designated by the MOF discovers a taxpayer is suspected of tax evasion or omission in substantial amounts, the authority or investigator may, as the case merits, report to the MOF for approval to institute a further investigation on the taxpayer's net assets, fund flowing, and other business data which are not conformable to the regular business practice.
+
+If the result of a further investigation, as prescribed in the preceding paragraph, conducted by the tax authority or tax investigator proves that the taxpayer has evaded and/or omitted taxes, the taxpayer shall be responsible for bearing the burden of proof.
+
+#### Article 84
+
+The tax authority may, when making an investigation or recheck, request the presence of the taxpayer or his/her/its agent at the office of the tax authority to answer questions.
+
+If the taxpayer has justifiable reasons for his/her/its inability to answer questions at the time indicated by the tax authority, he/she/it shall submit a statement to the tax authority within seven days from the date of receipt of the notice.
+
+#### Article 85
+
+The household registration agency shall, when effecting a change of household registration in accordance with laws, make out and send duplicate copies of such registration to the tax authority concerned.
+
+#### Article 86
+
+The competent tax authority shall issue receipts for receiving any and all accounting books or documentary evidence provided by the taxpayer and other related parties, and shall return the same to the provider(s) thereof within seven days from the date on which all such accounting books and documentary evidence are fully provided. Under special circumstances, the time period of retention of such documents may be extended for another seven days, with the approval of the head of the competent tax authorities.
+
+#### Article 87
+
+(Deleted)
+
+### Section 4 Withholding of Tax
+
+#### Article 88
+
+For a taxpayer having any income of the following categories, the tax withholder involved shall withhold a tax payable at the time of payment of income according to the prescribed withholding rates or withholding regulations, and pay the tax withheld in accordance with Article 92:
+
+1.The dividends distributed by a company to an individual not residing in the Republic of China or profit-seeking enterprise having its head office outside the Republic of China; or the earnings distributed by a cooperative, other juristic person, partnership, or a sole proprietorship to its members, investors, partners, or sole proprietor not residing in the Republic of China;
+
+2.The income from salaries, interest, rentals, commissions, royalties, prizes or awards won from skills competitions or by chance, retirement pay, severance pay, separation pay, resignation pay, life-time pensions, old-age pensions not covered by insurance benefits, rewards for information or accusation, transactions in structured products, and fees for professional practices paid by any organization, non-departmental public body, institution, school, enterprise, administrator of bankruptcy estates, practitioner of profession, or trustee of a trust deed managing or disposing of the trust property, and the income paid to a foreign profit-seeking enterprise without fixed place of business or business agent within the Republic of China;
+
+3.Profit-seeking enterprise income derived from operations by a profit-seeking enterprise stipulated in Article 25 having its income tax withheld by a business agent or the payer in accordance with Article 98-1;
+
+4.Profit-seeking enterprise income derived from operations in the Republic of China by a foreign motion picture enterprise without a branch office in the Republic of China stipulated in Article 26.
+
+Where a profit-seeking enterprise organized as a sole proprietorship or a partnership files its annual income tax return, final income tax return, or liquidation income tax return according to Paragraph 2 of Article 71 or Paragraph 4 of Article 75, the income tax payable on the earnings distributable by a sole proprietorship or a partnership to its sole proprietor or partners not residing in the Republic of China shall be withheld in accordance with prescribed withholding rates by the time limit prescribed for the annual income tax return, final income tax return or liquidation income tax return, and paid in accordance with Article 92 by the tax withholder; and thereafter, Subparagraph 1 in the preceding paragraph shall not apply when the aforesaid earnings are actually distributed.
+
+Where a profit-seeking enterprise organized as a sole proprietorship or a partnership stipulated in the preceding paragraph files an annual income tax return, final income tax return or liquidation income tax return in accordance with this Act, requests corrections of the above tax returns, or fails to file the above tax returns, which is assessed and determined by the tax authority to be more profit-seeking enterprise income that increases the earnings of a sole proprietor or a partner of the profit-seeking enterprise, the tax withholder shall withhold the tax payable on the above increased amount of the earnings that should be distributed to the sole proprietors or partners not residing in the Republic of China according to the prescribed withholding rates within 30 days from the date immediately following the date of the receipt of the notice of tax assessment, and pay the tax withheld in accordance with Article 92.
+
+The withholding rates and withholding regulations applicable to each kind of income stipulated in the preceding three paragraphs shall be drafted and established by the MOF and submitted to the Executive Yuan for approval.
+
+#### Article 89
+
+The tax withholders and taxpayers of each kind of income tax stipulated in the preceding article are designated as follows:
+
+1.For the dividends distributed by a company to an individual not residing in the Republic of China or a profit-seeking enterprise having its head office outside the Republic of China; the earnings distributed by a cooperative to its members not residing in the Republic of China; the earnings distributed by other juristic persons to its investors not residing in the Republic of China; or the earnings distributed or payable by a profit-seeking enterprise organized as a sole proprietorship or a partnership to its sole proprietor or partners not residing in the Republic of China, the tax withholder shall be the said company, cooperative, other juristic person, sole proprietorship, or partnership; the taxpayer shall be the said individual shareholder not residing in the Republic of China, the profit-seeking enterprise shareholder having its head office outside the Republic of China, or the member, investor, partner, or sole proprietor not residing in the Republic of China;
+
+2.For the income from salaries, interest, rentals, commissions, royalties, fees for professional practices, prizes or awards won from skills competitions or by chance, retirement pay, severance pay, separation pay, resignation pay, life-time pensions, old-age pensions not covered by insurance benefits, rewards for information or accusation, transactions in structured products, and the income paid to a foreign profit-seeking enterprise without fixed place of business or business agent within the Republic of China, the tax withholder shall be the organization, non-departmental public body, institution, school, enterprise, administrator of bankruptcy estates, practitioner of profession, or trustee of a trust deed; the taxpayer shall be the recipient of such income;
+
+3.For the profit-seeking enterprise income tax on income stipulated in Subparagraph 3 of Paragraph 1 of the preceding article, the withholder shall be the business agent or the payer of such income; the taxpayer shall be the profit-seeking enterprise having its head office outside the Republic of China;
+
+4.For the profit-seeking enterprise income tax on income receivable by a foreign motion picture enterprise, the withholder shall be the business agent or the payer of such income; the taxpayer shall be the foreign motion picture enterprise.
+
+Where a withholder fails to fulfill the obligation of withholding tax, and where demanding it has become impossible by reason that the whereabouts of the withholder is unknown or for other causes, the tax authority may collect the tax directly from the taxpayers concerned.
+
+If an organization, non-departmental public body, institution, school, enterprise, administrator of bankruptcy estates, practitioner of profession, or trustee of a trust deed makes payments subject to tax withholding stipulated in the preceding article as well as the other income stipulated in Category 10, Paragraph 1 of Article 14, and where the tax is not withheld because the amount paid does not reach the minimum amount of income subject to tax withholding, or the payment is not subject to tax withholding under this Act, the aforesaid entity shall submit a list of recipients of such payments that include information such as name, address, national identification card number, and total amount paid during the year in accordance with the prescribed form to the competent tax authority by the end of January of each year, and issue the non-withholding tax statements to taxpayers concerned by February 10 of each year. In the case that three national holidays occur in succession in January, the period for the submission of the non-withholding tax statements shall be extended to February 5, and the period for the issuance of such statements shall be extended to February 15. However, in the case of dissolution, closure, merger, transfer, deactivation or change of ownership of an organization, non-departmental public body, institution, school, enterprise, or a bankruptcy affair dealt with by an administrator of bankruptcy estates concluded by a court ruling, the aforesaid entity shall immediately issue the non-withholding tax statements, and submit them to the competent tax authority within ten days thereafter.
+
+#### Article 89-1
+
+With regard to revenue arising from a trust property as referred to in Article 3-4 hereof, the tax withholder concerned shall, at the time of payment thereof, name the trustee of the said trust deed as the taxpayer for that payment and shall complete the tax withholding process in accordance with the preceding two articles. However, the aforesaid revenue, except for the income subject to separate taxation in accordance with this Act, payable by a tax withholder in respect of a charitable trust set forth in Paragraph 5 of Article 3-4 hereof shall be exempt from the assessment of withholding tax which is otherwise payable under Article 88 hereof.
+
+When issuing a withholding tax statement in accordance with Article 92-1 hereof, the trustee of a trust deed shall take the amount of tax withheld from each category of the income paid to a trust beneficiary as the amount of income tax withheld for the said trust beneficiary. However, if there are two or more trust beneficiaries, the trustee shall calculate the withholding tax paid by each trust beneficiary in accordance with the proportion to be determined under Paragraph 2 of Article 3-4 hereof.
+
+Where the trust beneficiary is an individual who is not residing in the territory of the Republic of China or a profit-seeking enterprise which does not have a fixed business place in the territory of the Republic of China, the trustee of the said trust deed shall be regarded as the tax withholder and shall, in accordance with Article 88 hereof, withhold the income tax from various income payments payable to said trust beneficiary as calculated under Paragraphs 1 and 2 of Article 3-4 hereof provided. However, the withholding tax already paid up by the trust beneficiary/beneficiaries as set forth in the preceding paragraph may be deductible from the withholding tax payable by such trust beneficiary/beneficiaries under this paragraph.
+
+Where the trust beneficiary is a profit-seeking enterprise having its head office outside the territory of the Republic of China but having a fixed business place within the territory of the Republic of China, the provisions in the preceding paragraph shall apply mutatis mutandis to the dividends or earnings among its trust benefits.
+
+When making distributions of trust benefits in respect of a charitable trust or a trust fund as set forth in Paragraphs 5 and 6 of Article 3-4 hereof, the trustee thereof shall be considered as the tax withholder who shall complete the withholding process in accordance with the preceding two articles.
+
+#### Article 90
+
+For purchases or sales of goods on behalf of a client, a profit-seeking enterprise shall record in detail the name and address of the client, the description and classification of the goods, quantity, price, date and amount of commission, and preserve all relevant documents of evidence.
+
+#### Article 91
+
+All warehouses or godowns accepting goods for storage shall report on a prescribed form the name and address of the client, the description, kind, quantity and assessed value of the goods stored, the amount charged for storage and the dates of receipt and delivery of the goods, and submit the form to the competent tax authority within three days from the date of receipt of goods.
+
+The tax authority may dispatch personnel for regular inspection of warehouses and godowns, accounting books and records.
+
+#### Article 92
+
+The tax withholders of each kind of income stipulated in Article 88 shall make payment to the national treasury of all the taxes withheld in the previous month by the tenth day of each month, file the withholding tax statements and submit them to the competent tax authority for verification by the end of January of each year, and issue them to the taxpayers concerned by February 10 of each year. In the case that three national holidays occur in succession in January, the period for the submission of the withholding tax statements shall be extended to February 5 and the period for the issuance of such statements shall be extended to February 15. However, in the case of dissolution, closure, merger, transfer, deactivation or change of ownership of an organization, non-departmental public body, institution, school, enterprise, or a bankruptcy affair dealt with by an administrator of bankruptcy estates concluded by a court ruling, the tax withholder concerned shall immediately file and issue the withholding tax statements for the amount withheld and submit them to the competent tax authority within ten days thereafter.
+
+Where an individual not residing in the Republic of China or a profit-seeking enterprise without fixed place of business in the Republic of China has income stipulated in Article 88, the tax withholder shall make payment to the national treasury of all the taxes withheld, file the withholding tax statements, and issue them to the taxpayer concerned after submitting them to the competent tax authority for verification within ten days from the date of withholding. In the case that three national holidays occur in succession within ten days from the date of withholding, the period for the payment of all the taxes withheld, submission, and issuance of the withholding tax statements shall be extended for 5 days.
+
+In the case of dividends or earnings received by a profit-seeking enterprise having its head office outside the Republic of China but having a fixed place of business within the Republic of China, the provision in the preceding paragraph shall apply mutatis mutandis.
+
+#### Article 92-1
+
+The trustee of a trust deed shall, by the end of January of each year, submit in prescribed format the following documents related to the trust: the inventory of property, the revenue and expenditure statements, the statement of trust benefits accrued and payable to trust beneficiaries under Paragraphs 1, 2, 5 and 6 of Article 3-4 hereof, and the statement of withholding tax and other relevant documents as required under Article 89-1 to the competent tax authority, and shall prepare and issue, by February 10 of each year, the withholding tax statements or non-withholding tax statements and relevant certificates and receipts to taxpayers concerned. In the case that three national holidays occur in immediate succession in January, the period for the submission of inventory of property, the revenue and expenditure statements, the statement of trust benefits and other relevant documents shall be extended to February 5 and the period of the issuance of the withholding tax statements or non-withholding tax statements and relevant certificates and receipts to taxpayers concerned shall be extended to February 15.
+
+#### Article 93
+
+The tax authority shall, immediately upon receipt of a withholding report from a tax withholder, review the amount of income and tax withheld. It may further appoint a person to make an investigation thereof.
+
+#### Article 94
+
+Any tax withholder shall notify the taxpayers of withholding at time thereof and shall make out and issue to the taxpayers withholding tax statement in accordance with Article 92 of this Act. In case the amount withheld differs from that determined by the tax authority for assessment, the tax withholder shall return to the taxpayer the amount over-withheld or shall make additional payment of the deficit, which the tax withholder may claim from the taxpayer.
+
+#### Article 94-1
+
+Where an organization, non-departmental public body, institution, school, enterprise, administrator of bankruptcy estate, practitioner of profession, trustee of a trust deed, or other withholder required to issue the non-withholding tax statements, withholding tax statements, and other relevant statements stipulated in Paragraph 3 of Article 89, Paragraph 1 of Article 92, and Article 92-1 has submitted such statements to the tax authority by the deadline and the content of such statements meet the following conditions, the aforesaid entity may be exempt from issuing the statements to the taxpayers:
+
+1.The taxpayer is an individual residing in the Republic of China, profit-seeking enterprise having fixed place of business in the Republic of China, organization, institution, professional practitioner, or trustee of a trust deed.
+
+2.The data on such statements has been included in the income information provided for the taxpayers by the tax authorities during the period for the filing of income tax returns.
+
+3.Other situations prescribed by the MOF.
+
+Those who are exempt from issuing the statements to taxpayers according to the preceding paragraph shall still issue the statements to the taxpayers if requested.
+
+#### Article 95
+
+The tax authority shall at any times check on tax withholders to see whether their withholding reports are accurate and shall urge them to withhold tax and make tax payments according to this Act.
+
+#### Article 96
+
+(Deleted)
+
+#### Article 97
+
+Article 83 through Article 86 shall apply mutatis mutandis to the withholding of tax.
+
+### Section 5 Payment of Tax
+
+#### Article 98
+
+Self-payment of tax by a taxpayer and payment of tax withheld by a tax withholder as provided in this Act shall each be made with a tax payment slip completed by the payer.
+
+Payment of tax against a demand notice issued by the tax authority as provided in this Act shall be made by the taxpayer within ten days from the date of receipt of the demand notice.
+
+#### Article 98-1
+
+A profit-seeking enterprise having its head office outside the territory of the Republic of China which has been approved by the MOF in accordance with Article 25 may compute its profit-seeking enterprise income tax in accordance with the following provisions:
+
+\1. For an enterprise having a branch office in the territory of the Republic of China, the branch office shall make the provisional tax payment and file a declaration on such provisional payment in accordance with Article 67 and at the close of the year shall further compute the tax for annual settlement, make payment of the same and file an annual income tax return in accordance with Article 71;
+
+\2. For an enterprise without a branch office but having a business agent in the territory of the Republic of China, the business agent shall be responsible for withholding the tax. In the event that the business agent does not collect the price of goods pursuant to contractual agreement, it shall be responsible for reporting and paying the tax in accordance with the relevant withholding provisions or the payer shall withhold the tax at the time of payment under the approval of the competent tax authority;
+
+\3. For an enterprise having neither branch office nor business agent in the territory of the Republic of China, the payer shall withhold the tax at the time of payment.
+
+#### Article 99
+
+A taxpayer may, at the time of preparing a provisional tax payment, claim an offset with the taxes withheld evidenced by withholding tax statements, and pay the remaining balance in cash. Where the tax withheld exceeds the provisional payment, the portion in excess thereof may be offset against the tax payable for the same year.
+
+#### Article 100
+
+The tax authority shall, after having determined the annual income of a taxpayer, make out and serve on him/her/it a tax demand notice giving the balance of the tax payable for the full taxable year after deducting the provisional payment, the tax withheld yet to be offset, the amount of tax credits as specified in Paragraph 4 of Article 15, and other payments of the tax. However, the withholding tax from income subject to separate taxation in accordance with this Act shall not be deductible.
+
+In case the tax as determined payable for annual settlement falls short of the total amount of tax paid, the tax authority shall make out and issue to the taxpayer a refund notice or an exchequer's check for refunding the overpaid amount of income tax.
+
+If, thereafter any tax is decided upon as additionally payable or refundable pursuant to a recheck result, or a decision made on an administrative appeal or an administrative litigation, the tax authority shall make out and deliver to the taxpayer a tax demand notice, a revenue refund notice, or an exchequer's check for refunding the overpayment or for demanding the full payment of the tax payable. The taxpayer liable for additional tax shall, within ten days after service of the foregoing tax demand notice, fully pay the income tax obligation.
+
+In the case of a refund as provided in the preceding two paragraphs, the tax authority shall, promptly and no later than ten days from the date of verification, fill out and serve to the taxpayer a tax refund notice or an exchequer's check. The period for refunding the overpayment shall be three months commencing from the date of service of the tax refund notice to the taxpayer. Upon expiration of the said refunding period, no refund will be made.
+
+Where the amount of retained surplus profits declared by a taxpayer under Article 102-2 hereof is verified as being underdeclared or overdeclared, the provisions set out in Paragraphs 1 through 4 of this article shall apply mutatis mutandis to the supplemental payment of the shortfall tax or the refund of the overpaid tax.
+
+#### Article 100-1
+
+(Deleted)
+
+#### Article 100-2
+
+In the case where the items or the amounts of tax exemptions and various kinds of deductions declared in the annual income tax return filed by a taxpayer subject to individual income tax, or the deductions of various kinds of costs, expenses, losses, or investment tax credits declared in the annual income tax return filed by a taxpayer subject to profit-seeking enterprise income tax exceed the limitations prescribed by this Act and other subordinate regulations, or other laws and thus the payment of tax falls short, the remaining tax balance as determined by the tax authority shall be levied along with interest to be calculated on a daily basis at the banking interest rate as specified in Article 123 hereof from the date immediately following the expiry date prescribed for filing annual income tax returns until the date of payment. However, the interest to be charged shall be limited to the amount accruable for a period of one year.
+
+In the case where the amount of interest to be charged under the preceding Paragraph does not exceed NT$1,500, such charge shall be exempted.
+
+#### Article 101
+
+The provisions of all sections and articles of this chapter relating to the computation of various time limits shall apply mutatis mutandis where the fiscal year comes under the proviso of Article 23.
+
+#### Article 102
+
+A taxpayer may appoint a certified public accountant or any other lawful agent to act on his/her/its behalf in such matters relating to income estimation and filing of statement, tax returns, application for recheck, administrative appeal or administrative litigation as provided in all sections of this chapter. The regulations governing such appointment shall be prescribed by the MOF.
+
+The annual income tax return of a profit-seeking enterprise within a certain scope shall be audited and attested by a certified public accountant or any other lawful agent appointed by the profit-seeking enterprise. The regulations governing such appointments shall be prescribed by the MOF.
+
+In the case of a profit-seeking income tax return audited and attested by a certified public accountant or any other lawful agent, the profit-seeking enterprise may enjoy the various benefits conferred by this Act for using the Blue Return.
+
+### Section 6 Declaration of Surplus Earnings
+
+#### Article 102-1
+
+A profit-seeking enterprise shall, by the end of January of each year, fill out the dividend statement on a prescribed form and submit the data of dividends or earnings in the year 1998 or an ensuing year thereafter that were distributed to shareholders, members, or investors for the whole year of the preceding year to the competent tax authority for verification and shall further issue dividend statements to all taxpayers by February 10 of each year. In the case that three national holidays occur in immediate succession in January, the period for the submission of the aforementioned data shall be extended to February 5 and the period of the issuance of the dividend statements to taxpayers concerned shall be extended to February 15. However, if the profit-seeking enterprise enters into the process of dissolution or merger, it shall forthwith fill out dividend statements concerning the dividends or surplus earnings which have been distributed, and shall submit them to the competent tax authority within ten days.
+
+The profit-seeking enterprise referred to in the preceding paragraph shall, when filing its tax return of the year 2017 and previous years, prepare, in a prescribed format, a statement of changes that occurred in the said taxable year in the shareholder imputation credit account and file the said statement along with the filled-out tax return form with the competent tax authority for its auditing and verification. However, it shall file the tax return upon the completion date of the liquidation process, if it enters into the process of dissolution; or on the effective date of merger, if it enters into the process of merger.
+
+The statement of changes in the shareholder imputation credit accounts referred to in the preceding paragraph shall reflect the amount of beginning balance, the amount of increases and decreases in the then current year, and the current balance in the said account.
+
+Under Paragraph 1, a profit-seeking enterprise shall issue dividend statements and report such issuance to the competent tax authority within the deadline. It shall be exempt from issuing the dividend statements to the taxpayers if the statements meet the following conditions:
+
+\1. The taxpayer is an individual residing in the territory of the Republic of China, a profit-seeking enterprise having fixed place of business in the territory of the Republic of China, or an organization, institution, practitioner of profession, or trustee of a trust deed.
+
+\2. The data of dividends or earnings has been included in the income information provided for the taxpayers by the tax authorities during the period for the filing income tax returns.
+
+\3. Other situations prescribed by the MOF.
+
+Those who are exempt from preparing and issuing dividend statements to taxpayers according to the preceding paragraph shall still prepare and issue dividend statements to taxpayers upon their request.
+
+#### Article 102-2
+
+A profit-seeking enterprise shall, during the period from May 1 to May 31 in the year following the year for which an income tax return shall be filed, fill out and submit to the competent tax authority a tax return indicating therein the retained earnings as calculated in accordance with Paragraph 2 of Article 66-9 and the amount of additional income tax which shall be paid before the filing of the tax return. This tax return shall still be filed even if the amount of the retained earnings so calculated turns out to be zero or a negative figure.
+
+In the case where a profit-seeking enterprise is dissolved or merged with another profit-seeking enterprise prior to its filing of the income tax return under the preceding paragraph, it shall, within forty-five days from the date of dissolution or merger, file to the competent tax authority a tax return concerning its retained earnings which have not been surcharged with an additional ten percent profit-seeking income tax up to the date of its dissolution or merger, and shall calculate and make the payment of such surcharged tax before filing the tax return. Upon failure of a profit-seeking enterprise to declare such portion of retained earnings within the aforementioned filing period, the tax authority shall forthwith investigate the case, assess the amount of the surcharge income tax on such retained earnings, and notify, by a notice, the said profit-seeking enterprise to pay the surcharge tax accordingly.
+
+Where a profit-seeking enterprise has obtained from the competent tax authority an approval to the change of its fiscal year, it shall include its retained earnings which have not been surcharged with a ten percent additional profit-seeking income tax prior to such change of its fiscal year into the amount of its retained earnings in the fiscal year after the change of its fiscal year, and shall take appropriate action in accordance with Paragraph 1 of this article.
+
+When filing its tax return in accordance with Paragraphs 1 and 2 of this article, the profit-seeking enterprise shall submit along with the tax return the receipt of its self-paid tax payment and other relevant evidential documents.
+
+#### Article 102-3
+
+A competent tax authority shall assist profit-seeking enterprises to file the declaration of their respective retained surplus earnings prior to the cut-off date of the filing period, and shall issue a reminder notice at least fifteen days prior to the expiration date of the filing period stating therein the responsibility of taxpayer for any delay in filing the tax return. The reminder notice may be issued by means of a public notice.
+
+Where a profit-seeking enterprise fails to file the income tax return for its retained surplus earnings within the prescribed filing period, the tax authority shall serve a delinquent notice,  requiring the profit-seeking enterprise to file the tax return within fifteen days from the date of receipt of the notice. In the event the profit-seeking enterprise does not file the tax return within the fifteen days given in the notice, the tax authority shall assess the amount of undeclared retained surplus earnings and the amount of additional profit-seeking enterprise income tax on the basis of available taxation data, and shall issue to the said profit-seeking enterprise the assessment notices along with a tax demand notice.In case any additional taxation data is afterwards discovered upon investigation by the tax authority, such taxation data shall be handled in accordance with the relevant provisions of the Tax Collection Act.
+
+#### Article 102-4
+
+After receiving a tax return filed by a profit-seeking enterprise for its retained earnings, the tax authority shall appoint personnel to conduct an investigation and to verify the amount of its retained earnings and the amount of income tax leviable thereon. For implementation of the investigation and verification, Articles 80 through 86 of this Act shall apply mutatis mutandis.
+
+## Chapter 5 Reward and Penalty
+
+#### Article 103
+
+When receiving information or accusation that a taxpayer or tax withholder is evading tax payment through concealment, underreporting, fraud, or other improper means, the tax authority, upon verification of the information or accusation, shall grant the informer a reward of twenty percent of the fine and keep his/her name in strict confidence.
+
+The tax authority shall notify the informer of the reward as provided in the preceding paragraph upon verification of the information or accusation, and within three days from receipt of the fine and set a time limit for his/her collection of the reward.
+
+The informer who has participated in the tax evasion shall not be entitled to the reward.
+
+Where the informer is a public functionary, the provisions of this article relating to the granting of a reward shall not apply.
+
+#### Article 104
+
+(Deleted)
+
+#### Article 105
+
+(Deleted)
+
+#### Article 106
+
+Under any of the following circumstances, the competent tax authority shall, in addition to requiring the submission of a report or the amendment of report entries within a specified time period, impose upon the violator a fine of not more than NT$1,500:
+
+\1. Where the responsible person of a profit-seeking enterprise organized as a company, a cooperative, or other juristic person fails, in violation of Article 76, to report within the prescribed time period the dividends or profits payable or paid to shareholders, members, or investors;
+
+\2. Where the responsible person of a partnership fails, in violation of Article 76, to report the names and residences of partners, the amounts of their respective investments and the percentage of allocation of profit or loss in a detailed list;
+
+\3. Where the responsible person of a profit-seeking enterprise fails to record the necessary information in the account books required by Article 90;
+
+\4. Where the responsible person of a warehouse or godown fails to report the necessary information as required by Paragraph 1 of Article 91.
+
+#### Article 107
+
+Where a taxpayer fails, in violation of Article 83, to provide account books and documentary evidences within the specified time period, shall be subject to a fine of not more than NT$1,500.
+
+Where a taxpayer refused to accept a tax demand notice without furnishing justifiable reasons, the competent tax authority shall accomplish the service of such notice in accordance with Article 18 of the Tax Collection Act and the taxpayer shall be subject to a fine of not more than NT$1500.
+
+#### Article 107-1
+
+(Deleted)
+
+#### Article 108
+
+Where a taxpayer failed to file an annual income tax return within the period as specified in Article 71 but has subsequently filed one in accordance with Paragraph 1 of Article 79, and the amounts of taxable income and tax payable have been determined by the tax authority through investigation, it shall be levied a delinquent reporting surcharge in an amount equal to ten percent of the amount of tax payable assessed and determined by tax authority; where such a taxpayer is a profit-seeking enterprise organized as a sole proprietorship or a partnership, the enterprise shall be levied a delinquent reporting surcharge in an amount equal to ten percent of the amount calculated at the profit-seeking enterprise income tax rate applicable in the current year on the assessed income. The amount of the delinquent reporting surcharge shall not exceed NT$30,000 but shall not be less than NT$1,500.
+
+Where a taxpayer further fails to file an annual income tax return within the time limit as prescribed in Paragraph 1 of Article 79, and the amounts of taxable income and tax payable have been determined by the tax authority based on the available data or the profit standard of the same trade, it shall be levied a non-reporting surcharge in an amount equal to twenty percent of the amount of tax payable assessed and determined by tax authority; where such a taxpayer is a profit-seeking enterprise organized as a sole proprietorship or a partnership, it shall be levied a non-reporting surcharge in an amount equal to twenty percent of the amount calculated at the profit-seeking enterprise income tax rate applicable in the current year on the assessed income. The amount of the non-reporting surcharge shall not exceed NT$90,000 but shall not be less than NT$4,500.
+
+Paragraphs 1 and 2 shall not apply to taxpayers who are subject to individual income tax and those who are exempt from filing annual income tax returns according to Article 71 of this Act.
+
+#### Article 108-1
+
+Where a profit-seeking enterprise had failed to file the income tax return for its undistributed surplus earnings before the filing deadline as required by Article 102-2 but subsequently completed the tax filing procedure in accordance with Paragraph 2 of Article 102-3, and the amounts of undistributed surplus earnings and additional income tax payable have been determined by the tax authority through investigation, it shall be levied a delinquent reporting surcharge in an amount equal to ten percent of the amount of additional income tax payable assessed and determined by tax authority. The amount of the delinquent reporting surcharge shall not exceed NT$30,000 but shall not be less than NT$1,500.
+
+Where a profit-seeking enterprise further fails to file the tax return within the time limit as prescribed in Paragraph 2 of Article 102-3, and the amounts of undistributed surplus earnings and additional income tax payable have been determined by the tax authority based on the available data, it shall be levied a non-reporting surcharge in an amount equal to twenty percent of the amount of additional income tax payable assessed and determined by tax authority. The amount of the non-reporting surcharge shall not exceed NT$90,000 but shall not be less than NT$4,500.
+
+#### Article 108-2
+
+Where an individual failed to file the tax return within the period as specified in Article 14-5, he/she shall be subject to a fine in the amount of not less than NT$3,000 but not more than NT$30,000.
+
+In the case of an individual who has filed the house and land income tax return in accordance with this Act, any omission or underreporting of income taxable hereunder shall be subject to a fine of no more than twice the amount of the tax evaded.
+
+In the case of an individual who fails to file the house and land income tax return in accordance with this Act, he/she shall, in addition to paying the amount of income tax assessed and determined by tax authority in accordance with this Act, be subject to a fine of no more than three times the amount of tax determined as payable.
+
+#### Article 109
+
+(Deleted)
+
+#### Article 110
+
+In the case of a taxpayer who has filed an annual income tax return or a current final income tax return or liquidation income tax return in accordance with this Act, any omission or under-reporting of income taxable hereunder shall be subject to a fine of no more than twice the amount of the tax evaded.
+
+In the case of a taxpayer who fails to file an annual income tax return or a current final income tax return or liquidation income tax return in accordance with this Act and who is found by the tax authority to have income taxable hereunder, it shall, in addition to paying the amount of income tax assessed and determined by tax authority in accordance with this Act, be subject to a fine of no more than three times the amount of tax determined as payable.
+
+Where a profit-seeking enterprise, due to tax exemption provided under the incentive statute or because of business deficit,  does not have a taxable income even though the amount of income omitted or underreported is added to it, it shall be subject to a fine at prescribed multiples, respectively, according to the preceding two paragraphs on the amount of the taxable omission and underreporting of income calculated at the profit-seeking enterprise income tax rate applicable in the current year. The amount of the fine, however, shall not exceed NT$90,000 or be less than NT$4,500.
+
+Where a profit-seeking enterprise is organized as a sole proprietorship or a partnership in accordance with Paragraphs 1 and 2 and there is any omission or underreporting of taxable income hereunder, such enterprises shall be subject to a multiplier fine, respectively, according to Paragraphs 1 and 2 on the omission and  underreporting of taxable income calculated at the profit-seeking enterprise income tax rate applicable in the current year.
+
+In the case of a taxpayer who is subject to individual income tax and fit any of the following conditions that falsely increases the amount of tax credit set forth in Paragraph 4 of Article 15, the taxpayer shall be subject to a fine of no more than the amount of the tax evaded:
+
+\1. A taxpayer who fails to calculate the amount of tax credit based on the tax credit rate or the amount of the credit ceiling as specified in Paragraph 4, Article 15.
+
+\2. A taxpayer who fails to calculate the amount of tax credit based on the amount of dividends or earnings received.
+
+\3. A taxpayer who receives neither dividends nor earnings and makes a false declaration of tax credit.
+
+#### Article 110-1
+
+In case a taxpayer, after an additional tax payment notice has been served to him/her/it for tax evasion or omission, is suspected by the tax authority of concealing or transfering his/her/its property to evade the collection of tax, the tax authority may, with a statement of detailed facts, without furnishing any security, apply to the court for a provisional seizure of his/her/its property. But if the taxpayer has furnished property equivalent to the tax payable as security or a surety from a reliable businessman, the tax authority may file an application to the court for a withdrawal of the case or a lifting of the attachment.
+
+#### Article 110-2
+
+Where a profit-seeking enterprise has filed an income tax return in accordance with Article 102-2 hereof, but did not report or underreported its retained surplus earnings in such tax return, it shall be subject to a fine of no more than the amount of the tax evaded.
+
+Where a profit-seeking enterprise failed to file an income tax return in accordance with Article 102-2 hereof, and was discovered by the tax authority to have failed to declare retained surplus earnings which should have been reported under this Act, it shall, in addition to paying the amount of additional income tax assessed and determined by tax authority, be subject to a fine of no more than the amount of tax determined as payable.
+
+#### Article 111
+
+Where a government organization, non-departmental public body, or public school in violation of Paragraph 3 of Article 89 fails to timely or accurately submit or issue the non-withholding tax statements, a notice shall be served upon their competent authority or supervising authority to demand their conformity in accordance with this Act.
+
+Where any entity that shall submit and issue the non-withholding tax statements other than those stipulated in the preceding paragraph in violation of Paragraph 3 of Article 89 fails to timely or accurately submit or issue the non-withholding tax statements, it shall be subject to a fine in an amount not less than NT$1,500 but not more than NT$20,000 and be ordered to correctly submit and issue the required statements within a given time limit. Those that fail to correctly submit or issue the required statements within the given time limit shall be subject to a fine in an amount not less than NT$3,000 but not more than NT$90,000.
+
+#### Article 111-1
+
+Where the trustee of a trust deed is found to have underdeclared or omitted the declaration of any revenue accrued on the trust property, or made false declaration of any relevant costs, necessary expenses and/or losses, and thus has caused an undercalculation of the amount of trust beneficiaries' income as required in Paragraphs 1, 2, 5, and 6 of Article 3-4, or has failed to accurately sort the categories of the beneficiaries' income, and thus has caused a reduction of trust beneficiaries' tax-paying obligations, the trustee shall be subject to a fine in an amount equal to five percent of the amount of underdeclared or evaded income of trust beneficiaries or the amount of incorrectly sorted income of such beneficiaries. The amount of the fine, however, shall not exceed NT$300,000 or be less than NT$15,000.
+
+Where the trustee of a trust deed fails to calculate the amount of trust beneficiaries' income from different categories of income in accordance with the proportions set out in Paragraph 2 of Article 3-4 of this Act, the said trustee shall be subject to a fine in an amount equal to five percent of the deficit between the amount of income calculated by the trustee and the amount of income to be calculated in accordance with the applicable proportions. The amount of the fine, however, shall not exceed NT$300,000 or be less than NT$15,000.
+
+Where the trustee of a trust deed fails to file in time or to file an accurate tax withholding return or fails to prepare and issue the relevant documents, withholding tax statements, non-withholding tax statements, other relevant certificates or receipts as required in Article 92-1 hereof, the said trustee shall be subject to a fine in the amount of NT$7,500, and in addition thereto, shall be required to make a supplemental filing or issuing within a given time limit. Where the trustee fails to make such supplemental filing or issuing within the given deadline, it shall be subject to a fine in an amount equal to five percent of the amount of revenue accrued on the trust property in the then current year. The amount of the fine, however, shall not exceed NT$300,000 or be less than NT$15,000.
+
+#### Article 112
+
+A taxpayer who fails to pay within the prescribed time limit any amount of income tax shall be subject to a belated surcharge. In the case of a profit-seeking enterprise, the tax authority may order a suspension of business until the date of payment.
+
+For any amount of income tax stipulated in the preceding paragraph, interest accruable thereon as calculated on a daily basis at the interest rate for deposits as specified in Article 123 hereof for the period from the date immediately following the date of expiration for applying a belated surcharge till the date of payment shall be collectable together with the amount of aforesaid income tax.
+
+Business suspension stipulated in this Act shall be enforced by the tax authority with the assistance of the police.
+
+#### Article 113
+
+To an agent or business agent as provided in Article 73 of this Act who violates the provisions hereof, the respective penalty provisions applicable to taxpayers shall apply.
+
+#### Article 114
+
+Under any of the following circumstances, the tax withholder shall be subject to the punishment as set forth respectively herein below:
+
+1.A tax withholder who fails to withhold tax in accordance with Article 88 shall not only be ordered to correctly pay the tax amount which should have been withheld but was either not withheld or under-withheld and to submit the withholding tax statements within a given time limit, but also be subject to a fine in an amount not more than the tax amount that should have been withheld but was either not withheld or under-withheld. Those that fail to correctly pay the aforesaid tax amount or submit the withholding tax statements within the given time limit shall be subject to a fine in an amount not more than three times the tax amount which should have been withheld but was either not withheld or under-withheld;
+
+2.A tax withholder who has withheld taxes in accordance with this Act but fails to timely or accurately submit or issue the withholding tax statements within the time limit stipulated in Article 92 shall not only be ordered to correctly submit or issue the required statements within a given time limit, but also be subject to a fine in an amount not less than NT$1,500 but not more than NT$20,000. A tax withholder who is ordered to correctly submit or issue the withholding tax statements within a time limit set by the tax authority but fails to do so shall be subject to a fine in an amount not less than NT$3,000 but not more than NT$45,000.
+
+3.A tax withholder who fails to pay the tax withheld within the time limit stipulated in Article 92 shall be subject to a belated surcharge.
+
+#### Article 114-1
+
+Before December 31, 2017, where a profit-seeking enterprise fails to set up a imputation credit account which should be set up or update the records in such account as required in accordance with Articles 66-1 through 66-4 of this Act in force at the time the commission occurs, it shall be subject to a fine in the amount of not less than NT$3,000 but not more than NT$7,500 and shall be ordered, by a notice, to set up that account or to update the records in that account within one month accordingly. If the profit-seeking enterprise again fails to set up or to update the shareholder tax offsetting account after expiry of the one-month time limit, it shall be subject to a fine in the amount of not less than NT$7,500 but not more than NT$15,000 and shall be ordered, by a notice, to set up or to update such an account accordingly. Any further failure of the profit-seeking enterprise to set up or to update the shareholder tax offsetting account shall be subject to the same punishment successively on each violation basis until the said account has been set up and is regularly updated in accordance with this Act.
+
+#### Article 114-2
+
+Before December 31, 2017, under any of the following circumstances, a profit-seeking enterprise shall be ordered to pay the amount of the imputation tax credit of over-distributed surplus earnings, and shall be subject to a fine in an amount no more than the said amount of over-distributed surplus earnings:
+
+\1. The profit-seeking enterprise has violated Paragraph 2 of Article 66-2, Article 66-3, or Article 66-4 of this Act in force at the time the commission occurs by falsely increasing the amount in the imputation credit account, or short-reporting the amount of balance in the account of booked accumulation of retained surplus earnings set forth in Article 66-6 hereof in force at the time the commission occurs, to the extent that the amount of imputation tax credit actually allocated to shareholders or members has exceeded the amount of imputation tax credit which may be allocated to shareholders.
+
+\2. The profit-seeking enterprise has violated Paragraph 1 of Article 66-5 hereof in force at the time the commission occurs because the amount of imputation tax credit allocated by it to its shareholders or members has exceeded the amount of balance in its imputation credit account as booked as of the date of distribution of dividends or other surplus earnings.
+
+\3. The profit-seeking enterprise has violated Article 66-6 hereof in force at the time the commission occurs when distributing the net dividend by using a tax deduction ratio which is higher than the designated ratio for such purpose, whereby the amount of imputation tax credit actually allocated to its shareholders has exceeded the amount of imputation tax credit to be calculated in accordance with this Act.
+
+Before December 31, 2017, where a profit-seeking enterprise has violated Article 66-7 hereof in force at the time the commission occurs by allocating the amount of imputation tax credit to its shareholders or members for them to offset the income tax payable by them, the said profit-seeking enterprise shall be ordered to pay, within a given time limit, the amount of imputation tax credit so allocated by it, and shall be subject to a fine in an amount no more than the amount allocated.
+
+In case the profit-seeking enterprise set forth in the preceding two paragraphs has suspended business, closed down or moved to an unknown place, the competent tax authority shall collect from the shareholders or members of the said enterprise the amount of imputation tax credit which was over-allocated or unlawfully allocated by the said enterprise to its shareholders or members.
+
+#### Article 114-3
+
+Before December 31, 2017, where a profit-seeking enterprise which distributed dividends or earnings in the year 1998 or each ensuing year thereafter to shareholders, members, or investors failed to accurately submit or issue the dividend statements on a prescribed form within the time limit stipulated in Paragraph 1 of Article 102-1, it shall not only be ordered to correctly submit or issue the required statements within a given time limit, but also be subject to a fine in an amount not less than NT$1,500 but not more than NT$30,000. A profit-seeking enterprise which is ordered to correctly submit or issue the dividend statements within a time limit set by the tax authority but fails to do so shall be subject to a fine in an amount not less than NT$3,000 but not more than NT$60,000.
+
+After January 1, 2018, where a profit-seeking enterprise which distributed dividends or earnings in the year 1998 or an ensuing year thereafter to shareholders, members, or investors fails to accurately submit or issue the dividend statements on a prescribed form within the time limit stipulated in Paragraph 1 of Article 102-1, it shall not only be ordered to correctly submit or issue the required statements within a given time limit, but also be subject to a fine in an amount not less than NT$1,500 but not more than NT$30,000. A profit-seeking enterprise which is ordered to correctly submit or issue the dividend statements within a time limit set by the tax authority but fails to do so shall be subject to a fine in an amount not less than NT$3,000 but not more than NT$60,000.
+
+A profit-seeking enterprise which has violated Paragraph 2 of Article 102-1 by failing to timely or accurately submit the statements of changes in imputation credit account of shareholders shall be subject to a fine of NT$7,500 and be ordered to correctly submit the required statements within a given time limit. Those that fail to correctly submit the required statements within the given time limit shall be subject to a fine on the basis of each violation until the time of its submission of the statement required.
+
+#### Article 114-4
+
+Where a company, cooperative, or other juristic person who increases dividends or earnings distributed to shareholders, members, or investors through false arrangements or improper means, it shall be subject to a fine of no more than thirty percent of the amount of the false increase of the dividends or earnings. However, the amount of the fine shall not exceed NT$300,000 or be less than NT$15,000.
+
+#### Article 115
+
+(Deleted)
+
+#### Article 116
+
+Any delinquent reporting surcharge or non-reporting surcharge provided in this chapter shall be made known to the party at default by the tax authority by serving a surcharge assessment notice in which the facts and the basis of imposition thereof shall be given. Where the notice carries a wrong entry or computation error, the party at fault may, within ten days from receipt thereof, apply to the tax authority for recheck or correction.
+
+Upon expiration of the time limit as provided in the preceding paragraph, the tax authority shall issue a surcharge demand notice requiring payment by the party at fault within ten days.
+
+#### Article 117
+
+(Deleted)
+
+#### Article 118
+
+Where a certified public accountant or any other lawful agent, when acting on behalf of a taxpayer in matters relating to income estimation, filing of returns, application for recheck, administrative appeal or administrative litigation, certification of contents of account books or other affairs connected with taxation, commits a breach of any of the provisions of this Act, the competent tax authority may report the matter through channels to the MOF.
+
+#### Article 119
+
+All personnel of the tax authority shall keep in strict confidence, except to concerned parties and agencies, the amounts of income and income tax of any taxpayer, documentary evidences, and statements or documents made or provided by other parties. Any person found guilty thereof by the authority-in-charge or upon information of the injured party shall be subject to severe disciplinary action. Where such a person is also guilty of violating the Criminal Code, he/she shall further be referred to the court to be dealt with in accordance with law.
+
+Concerned parties and agencies as provided in the preceding paragraph refer to the taxpayer himself/herself/itself, his/her/its agent, attorneys, partners, successors, tax withholders, taxation agencies, control agencies, agencies receiving administrative appeal or handling administrative proceedings related to taxation, and such other agencies and personnel thereof as determined by the MOF.
+
+The furnishing of information by a tax authority to other government agencies for statistical purposes involving no disclosure of names of taxpayers is not subject to the confidence keeping restriction.
+
+Personnel of government agencies disclosing such information furnished by tax authority as provided in the first paragraph of this article shall be subject to punishment comparable to that imposable on personnel of tax authority.
+
+#### Article 120
+
+Tax assessors and collectors violating Article 68, 78, 86 or 103 of this Act shall be punished.
+
+## Chapter 6 Supplementary Provisions
+
+#### Article 121
+
+The enforcement rules of this Act, the tabulation of minimum estimated service life in years of fixed assets, and the tabulation of depletion rates of assets subject to depletion shall be prescribed by the MOF.
+
+#### Article 122
+
+Except as otherwise provided by law, all forms of applications, registrations, books and certificates herein specified shall be prescribed by the MOF.
+
+#### Article 123
+
+The term "the prevailing bank interest rate" shall refer to the fixed interest rate of postal savings for a one-year time deposit.
+
+#### Article 124
+
+Where there are special provisions in income tax agreements signed by the Republic of China with a foreign country, such special provisions shall prevail.
+
+#### Article 125
+
+(Deleted)
+
+#### Article 125-1
+
+A worker who was employed by an employer to do work, received wages and paid taxes on the pension, retirement pay, severance pay, and old-age pension not covered by insurance benefits received by him/her after Aug 1, 1984 and before amendment and implementation of this Act, may apply for a refund of overpaid tax within five years after amendment and implementation of this Act and shall not apply for such refund again if he/she failed to apply for it within the time limit. The refundable amount of tax approved by the concerned tax authority shall be refunded together with interest accrued thereon calculated on a daily basis for the period from the date of payment thereof by the taxpayer to the date of issuance of a national treasury check for the refunded amount at the fixed interest rate of postal savings for a one-year time deposit on the day when the refundable amount was paid.
+
+A tax refund based on provisions in the preceding paragraph that is paid within five years before amendment and implementation of this Act shall be applied for by the taxpayer concerned; however, if said five-year period is exceeded, the taxpayer shall submit concrete supporting evidence when filing an application.
+
+#### Article 125-2
+
+The tax revenue from the income tax referred to in Articles 14-4 through 14-8 and Article 24-5 of this Act, after deducting the redistribution from the central government to the local governments, shall be used for expenditures of housing policy and long-term social care services, in accordance with budgetary procedures. Regulations for distribution and use of the tax revenue shall be prescribed by the MOF in conjunction with the Ministry of Interior, and the Ministry of Health and Welfare.
+
+#### Article 126
+
+This Act shall come into force from the date of promulgation; however, Article 17 amended and promulgated on December 28, 2005 shall come into force on January 1, 2005; Category 9, Paragraph 1 of Article 14 amended and promulgated on January 2, 2008 shall come into force on January 1, 2008; Article 17 amended and promulgated on December 26, 2008 shall come into force on January 1, 2008; Paragraph 2 of Article 5 amended and promulgated on May 27, 2009 and Paragraph 5 of the same article amended and promulgated on June 15, 2010 shall come into force in fiscal year 2010; Subparagraphs 1 and 2, Paragraph 1 of Article 4, and Item 4, Subparagraph 1, Paragraph 1 of Article 17 amended and promulgated on January 19, 2011 shall come into force on January 1, 2012; the articles amended and promulgated on August 8, 2012 shall come into force on January 1, 2013; the articles amended and promulgated on June 24, 2015 shall come into force on January 1, 2016; the articles amended and promulgated on December 2, 2015 shall come into force on January 1, 2016; the articles amended and promulgated on July 24, 2019 shall come into force on January 1, 2019; the articles amended and promulgated on April 28, 2021 shall come into force on July 1, 2021; and the articles amended on August 21, 2026 shall come into force on January 1, 2026.
+
+The effective date of the articles of this Act promulgated on June 13, 2001, January 8, 2014, July 27, 2016, and August 7, 2024 shall be decided by the Executive Yuan. The articles amended and promulgated on June 4, 2014 shall come into force in fiscal year 2015, with the exception that Articles 66-4, 66-6, and 73-2 shall come into force on January 1, 2015.
+
+The articles of this Act amended and promulgated on February 7, 2018 shall come into force on January 1, 2018; however, Article 5, Article 66-9, Article 71, Article 75, Article 79, Article 108, and Article 110 shall come into force in fiscal year 2018, and Article 73-2 shall come into force from January 1, 2019.
+
+## History
+
+1.Promulgated on February 17, 1943.
+
+2.Article 6 Amended and Promulgated on October 13, 1943.
+
+3.Amended and Promulgated on April 16, 1946.
+
+4.Amended and Promulgated on April 1, 1948.
+
+5.Article 101 Amended and Promulgated on May 14, 1948.
+
+6.Article 4, Article 5, Article 128, Article 146~156, and Article158 amended and promulgated on September 7, 1949.
+
+7.Article 4, Article 5, Article 128, Article 146~156, and Article 158 amended and promulgated on June 21, 1950.
+
+8.Amended and Promulgated on December 23, 1955.
+
+9.Amended and Promulgated on January 29, 1963.
+
+10.Article 14, Article 17, Article 88, Article 89, Article 92, Article 105, and Article 111 amended and promulgated on December 30, 1968.
+
+11.Article 4 and Article 37 amended and promulgated, Article 31 and Article 43 deleted on December 31, 1970.
+
+12.Article 4, Article 24, Article 70, Article 71, Article 88, Article 89, and Article 114 amended and promulgated, and Article 31-1, Article 43-1 added by Presidential Decree Tai-tung-1 No.845 on December 30, 1971.
+
+13.Article 2, Article 4, Article 8, Article 14, Article 17, Article 21, Article 25, Article 32, Article 36, Article 69, Article 72, Article 73, Article 75, Article 76, Article 79, Article 88, Article 89, Article 92, Article 97, Article 100, Article 102, Article 105, and Article 108 amended and promulgated, and Article 17-1, Article 71-1, Article 76-1, Article 82-1, Article 100-1, Article 107-1, and Article 110-1 added by Presidential Decree Tai-tung-1 No.926 on December 30, 1972.
+
+14.Article 4, Article 9, Article 14, Article 71-1, and Article 72 amended and promulgated by Presidential Decree Tai-tung-1 No.5869 on December 29, 1973.
+
+15.Article 17, Article 79, Article 92, Article 105, and Article 108 amended and promulgated by Presidential Decree Tai-tung-1 No.5932 on December 30, 1974.
+
+16.Article 3, Article 4, Article 7, Article 8, Article 11, Article 14, Article 17, Article 24, Article 25, Article 31-1, Article 33, Article 37, Article 41, Article 44, Article 51, Article 67, Article 71, Article 71-1, Article 76-1, Article 83, Article 84, Article 88, Article 89, Article 97, Article 106, Article 110, Article 111, Article 114, Article 116, Article 117, and Article 120 amended and promulgated, and Article 82, Article 82-1, Article 87 , and Article 107-1 deleted by Presidential Decree No.0332 on January 30, 1977.
+
+17.Article 3, Article 4, Article 14, Article 17, Article 25, Article 33, Article 36, Article 67~70, Article 79, Article 88, Article 89, Article 98, Article 107, Article 109, Article 112, Article 114, Article 125, and the name of Section 1, Chapter 4 , Article 98-1 and Article 100-2 added, and Article 115 deleted by Presidential Decree Tai-tung-1 No.0354 on January 19, 1979.
+
+18.Article 11 amended and promulgated by Presidential Decree No.1675 on April 4, 1979.
+
+19.Article 37 amended and promulgated, and Article 51-1 added by Presidential Decree Tai-tung-1 No.3032 on June 18, 1979.
+
+20.Article 4, Article 14, Article 17, Article 42, Article 49, Article 61, Article 85, Article 107, Article 123 amended and promulgated, and Article 12, Article 31-1, Article 96, Article 125 deleted by Presidential Decree Tai-tung-1 No.7425 on December 30, 1980.
+
+21.Article 4, Article 14, Article 17, Article 18, Article 38, Article 83, Article 103, and Article 120 amended and promulgated, and Article 83-1 added by Presidential Decree Tai-tung-1 No.7807 on December 30, 1982.
+
+22.Article 14, Article 17, Article 25, Article 36, and Article 49 amended and promulgated by Presidential Decree Tai-tung-1 No.7189 on December 30, 1983.
+
+23.Article 17, Article 92, and Article 118 amended and promulgated, and Article 73-1 added by Presidential Decree Hua-tzung-1 No.6900 on December 30, 1984.
+
+24.Article 4, Article 33, Article 89, Article 111, and Article 117 amended and promulgated, and Article 17-2 added by Presidential Decree Hua-tzung-1 No.6534 on December 30, 1985.
+
+25.Article 4 and Article 17 amended and promulgated by Presidential Decree Hua-tzung-1 No.4249 on December 30, 1987.
+
+26.Article 4~6, Article 13, Article 15, Article 17, Article 17-1, Article 37~39, Article 49, Article 67~69, Article 71, Article 77, Article 79, Article 83, Article 89, Article 92, Article 100-2, Article 104~107, Article108, Article 111, Article 112, Article 114, and Article 116 amended and promulgated, Article 4-1 added, and Article 70 and Article 109 deleted by Presidential Decree Hua-tzung-1 No.7143 on December 30, 1989.
+
+27.Article 5 amended and promulgated by Presidential Decree Hua-tzung-1 No.6911 on December 30, 1991.
+
+28.Article 17 and Article 126 amended and promulgated, and Article 5-1 added by Presidential Decree Hua-tzung-1 No.0477 on February 5, 1993.
+
+29.Article 117 deleted by Presidential Decree Hua-tzung-1 No.3703 on July 30, 1993.
+
+30.Article 4 and Article 17 amended and promulgated by Presidential Decree Hua-tzung-1 No.0566 on January 27, 1995.
+
+31.Article 14, Article 42, Article 71, Article 76-1, Article 88, Article 89, Article 100, and Article 100-1 amended and promulgated, Article 3-1, Article 17-3, Article 66-1, Article 66-2, Article 66-3, Article 66-4, Article 66-5, Article 66-6, Article 66-7, Article 66-8, Article 66-9, Article 73-2, Article 102-1, Article 102-2, Article 102-3, Article 102-4, Article 108-1, Article 110-2, Article 114-1, Article 114-2, and Article 114-3 added by Presidential Decree Hua-tzung-1 No. 8600281700 on December 30, 1997.
+
+32.Article 4, Article 14, Article 73-1, Article 88, and Article 89 amended and promulgated, and Article 4-2 and Article 125-1 added by Presidential Decree Hua-tzung-1 No.8700122130 on June 20, 1998.
+
+33.Article 17, Article 89, and Article 111 amended and promulgated by Presidential Decree Hua-tzung-1 No.8800026330 on February 9, 1999.
+
+34.Article 17, Article 114, Article 126 amended and promulgated by Presidential Decree Hua-tzung-1 No.8900311030 on January 3, 2001.
+
+35.Article 3-2~3-4, Article 4-3, Article 6-1, Article 6-2, Article 89-1, Article 92-1, and Article 111-1 added and promulgated, Article 56 deleted, and Article 123 and Article 126 amended by Presidential Decree Hua-tzung-1 No.9000116070 on June 13, 2001.
+
+36.Article 67, Article 68, Article 71, Article 72, Article 100-2, Article 102-2, Article 102-4 and Article 108 amended and promulgated by Presidential Decree Hua-tzung-1 No.09100017040 on January 30, 2002.
+
+37.Article 80 amended and promulgated by Presidential Decree Hua-tzung-1 No.09200006870 on January 15, 2003.
+
+38.Article 15, Article 17, and Article 126 amended and promulgated by Presidential Decree Hua-tzung-1 No.09200116590 on June 25, 2003.
+
+39.Article 17 and Article 126 amended and promulgated by Presidential Decree Hua-tzung-1 No. 09400212551 on December 28, 2005, and shall come into force retroactively on January 1, 2005.
+
+40.Article 18, Article 19, Article 76-1, Article 104, and Article 105 deleted and promulgated, and Article 14, Article 21, Article 24, Article 66-9, Article 76, Article 88, Article 89, Article 111, Article 121, Article 123, and Article 125-1 amended by Presidential Decree Hua-tzung-1 No.09500075621 on May 30, 2006.
+
+41.Article 17 amended and promulgated by Presidential Decree Hua-tzung-1 No.09500087061 on June 14, 2006.
+
+42.Article 14-1, Article 24-1, and Article 24-2 added and promulgated by Presidential Decree Hua-tzung-1 No.09600088001 on July 11, 2007.
+
+Article 108 and Article 108-1 amended and promulgated by Presidential Decree Hua-tzung-1 No.09600088011 on July 11, 2007.
+
+43.Article 14, Article 33, and Article 126 amended and promulgated by Presidential Decree Hua-tzung-1 No.09600179021 on January 2, 2008.
+
+44.Article 5-1, Article 17, and Article 126 amended and promulgated by Presidential Decree Hua-tzung-1 No.09700282061 on December 26, 2008.
+
+45.Article 39 amended and promulgated by Presidential Decree Hua-tzung-1 No.09800014571 on January 21, 2009.
+
+46.Article 14, Article 14-1, Article 24, Article 24-1, Article 66-3, Article 71, Article 73-2, Article 88, Article 89, Article 89-1, Article 92, Article 94 and Article 100 amended and promulgated by Presidential Decree Hua-tzung-1 No.09800097651 on 22 April 2009.
+
+47.Issuance of Decree Hua-tzung-1 No.09800129131 by the President on 27 May 2009. The amendments to Article 3-1, Article 5, Article 20, Article 24-3, Article 44, Article 51, Article 54, Article 59, Article 64, Article 65, Article 67, Article 69, Article 71, Article 75, Article 77, Article 79, Article 80, Article 88, Article 89, Article 100-2, Article 106, Article 108, Article 110, Article 111-1, Article 114, Article 114-2 and Article 126 of the Income Tax Act have been promulgated.
+
+48.Issuance of Decree Hua-tzung-1 No.09900150571 by the President on 15 June 2010. The amendments to Article 5 and Article 126 of the Income Tax Act have been promulgated.
+
+49.Articles 4, 17and 126 amended and promulgated by Presidential Decree Hua-tzung-1 No.10000010141 on January 19, 2011.
+
+50.Article 24-4, Article 43-2 added and promulgated, Article 3-4, Article 24, Article 44, Article 66-6, Article 81, and Article 114-3 amended by Presidential Decree Hua-tzung-1 No. 10000016611 on January 26, 2011.
+
+51.Article 17 amended and promulgated by Presidential Decree Hua-tzung-1 No.10000246131 on November 9, 2011.
+
+52.Article 89, Article 92, Article 92-1,and Article 102-1 amended and promulgated by Presidential Decree Hua-tzung-1 No. 10000297891 on January 4, 2012.
+
+53.Article 4-1, Article 14-2, Article 14-3, Article 88, Article 89 and Article 126 amended and promulgated by Presidential Decree Hua-tzung-Yi No. 10100177751 on August 8, 2012.
+
+54.Article 17 amended and promulgated by Presidential Decree Hua-tzung-Yi No. 10100269281 on December 5, 2012.
+
+55.Article 14-2, Article 88, and Article 89 amended and promulgated by Presidential Decree Hua-tzung-Yi No. 10200131111 on July 10, 2013.
+
+56.Article 94-1, Article 102-1, and Article 126 amended and promulgated by Presidential Decree Hua-Tzung-Yi No.10300000621 on January 8, 2014.
+
+57.Article 5, Article 14, Article 17, Article 66-4, Article 66-6, Article 71, Article 73-2, Article 75, Article79, Article 108, Article 110, and Article 126 amended and promulgated by Presidential Decree Hua-tzung-Yi No.10300085101 on June 4, 2014.
+
+58.Article 14-2 amended and promulgated by Presidential Decree Hua-tzung-Yi No.10400002071 on January 14, 2015.
+
+59.Article 15 amended and promulgated by Presidential Decree Hua-tzung-Yi No.10400005611 on January 21, 2015.
+
+60.Amendment to Article 126 and addendums to Articles 4-4, 4-5, 14-4, 14-5, 14-6, 14-7, 14-8, 24-5, 108-2, and 125-2 of the Income Tax Act are promulgated via Presidential Decree Hua-tzung-Yi No.10400073881 on June 24, 2015.
+
+61.Article 4-1, 14-2, and 126 amended and promulgated by Presidential Decree Hua-tzung-Yi No.10400140891 on December 2, 2015.
+
+62.Addendums to Articles 17-4, 43-3, 43-4 and amendment to Articles 126 of the Income Tax Act are promulgated by Presidential Decree Hua-tzung-Yi No.10500080981 on July 27, 2016.
+
+63.Article 112 amended and promulgated by Presidential Decree Hua-tzung-Yi No.10600073281 on June 14, 2017.
+
+64.Article 5, Article 14, Article 14-3, Article 15, Article 17, Article 24, Article 42, Article 66-9, Article 71, Article 75, Article 76, Article 79, Article 88, Article 89, Article 89-1, Article 92, Article 100, Article 102-1, Article 106, Article 108, Article 110, Article 114-1, Article 114-2, Article 114-3, and Article 126 are amended and promulgated; Article 114-4 is added; and Article 3-1, Article 66-1, Article 66-2, Article 66-3, Article 66-4, Article 66-5, Article 66-6, Article 66-7, Article 66-8, Article 73-2, Article 100-1, and the name of Section 5, Chapter 3 are deleted by Presidential Decree Hua-tzung-Yi No.10700015201 on 7 February 2018.
+
+65.Article 14, Article 17, Article 126 amended and promulgated by Presidential Decree Hua-Tzung-I-Jing No.10800075041 on July 24, 2019.
+
+66.Article 17 amended and promulgated by Presidential Decree Hua-Tzung-I-Jing No.11000003461 on January 20, 2021.
+
+67.Article 4-4, Article 4-5, Article 14-4, Article 14-5, Article 14-6, Article 24-5, and Article 126 amended and promulgated by Presidential Decree Hua-Tzung-I-Jing No.11000039201 on April 28, 2021.
+
+68.Article 17 amended and promulgated by Presidential Decree Hua-Tzung-I-Jing No.11200115321 on January 3, 2024.
+
+69.Article 88, Article 89, Article 92, Article 94-1, Article 111, Article 112, Article 114, Article 114-3,and Article 126 amended and promulgated by Presidential Decree Hua-Tzung-I-Yi No.11300069611 on August 7, 2024.
+
+70.Article 17 amended and promulgated by Presidential Decree Hua-Tzung-I-Jing No.11400132281 on December 26, 2025.
+
+71.Article 17 and Article 126 amended and promulgated by Presidential Decree Hua-Tzung-I-Jing No.11500086671 on September 11, 2026.

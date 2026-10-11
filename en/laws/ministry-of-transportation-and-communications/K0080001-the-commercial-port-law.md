@@ -1,0 +1,705 @@
+---
+title: "The Commercial Port Law"
+title_zh: "商港法"
+identifier: "K0080001"
+type: act
+law_level: "法律"
+category: "行政＞交通部＞港務目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1980-05-02
+last_amended: 2026-02-04
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0080001"
+retrieved: 2026-10-12
+---
+
+# The Commercial Port Law
+
+> Translation. The Chinese text ([zh/laws/ministry-of-transportation-and-communications/K0080001-the-commercial-port-law.md](../../../zh/laws/ministry-of-transportation-and-communications/K0080001-the-commercial-port-law.md)) is authoritative.
+
+## Chapter 1 General Principles
+
+### Article 1
+
+Matters concerning planning, construction, management, operation, security, and pollution prevention of commercial ports are governed by this Law.
+
+### Article 2
+
+The competent authority under this Law shall be the Ministry of Transportation and Communications (hereinafter referred to as “MOTC”).
+
+The entities responsible for the operation and management of commercial ports are as follows:
+
+\1. International Commercial Ports:
+
+These shall be operated and managed by state-owned enterprises established by the competent authority.
+
+Matters involving the exercise of public authority shall be handled by the Maritime and Port Bureau, MOTC (hereinafter referred to as the “Maritime and Port Bureau”).
+
+\2. Domestic Commercial Ports:
+
+These shall be operated and managed by the Maritime and Port Bureau or by agencies designated by the Executive Yuan (the latter hereinafter referred to as the “Designated Agencies”).
+
+### Article 3
+
+Terms used in this Law are defined as follows:
+
+\1. “Commercial Port” refers to a port where merchant ships enter and depart from.
+
+\2. “International Commercial Port” refers to a port where ROC-flagged ships and foreign-flagged ships are allowed to enter and depart from.
+
+\3. “Domestic Commercial Port” refers to a port where only ROC-flagged ships are allowed to enter and depart from. Foreign-flagged ships are only allowed to enter and depart from such port if special permission is granted from the ROC government or for the mere purpose of taking shelter.
+
+\4. “Commercial Port Area” refers to waterways within the Commercial Port borders, and the land areas where the need of port construction, development and operation is called for.
+
+\5. “Commercial Port Facilities” refers to all relevant facilities which would facilitate the entrance, docking, departure of ships, and loading and unloading of cargoes, warehousing, lightering operation, passenger services, port-sightseeing, and businesses related to FTZ operation, either above water, on land, or under water.
+
+\6. “Specialized Zones” refers to regions, within the Commercial Port Area, which have been delimited for the use of fishery, manufacturing industries, or other particular purposes.
+
+\7. “Commercial Port Controlled Areas” refers to regions, within the Commercial Port Area, which have been designated to be under surveillance with regard to personnel and vehicle access.
+
+\8. “Berth” means a water area of wharf, buoy berth or other mooring facilities for harboring ships.
+
+\9. “Anchorage” means a water area where ships are allowed to anchor.
+
+\10. “Dangerous Objects” refers to substances that are within the definition of International Maritime Dangerous Goods Code (IMDG Code) enacted by the United Nations International Maritime Organization.
+
+\11. “Ship Stevedore Operator” refers to enterprises, inside of the Commercial Port Area, dealing with business by means of providing machinery and labor services for loading and unloading of cargoes without using methods through the original channel.
+
+\12. “Ship Tallymen” refers to the business engaging in the operation of counts, handovers, check-and-accept, cabin control, and cargo sorting upon loading and unloading cargoes.
+
+\13. “Commercial Port Administrative Authority” refers to the state-operated enterprise agencies mandated by the MOTC and in accordance with Article 2, Paragraph 2, Subparagraph 1 of this Law.
+
+### Article 4
+
+For the appointment of an International Commercial Port, the MOTC shall report to the Executive Yuan for approval and promulgation. The MOTC shall consult with the Ministry of Interior Affairs (the MOIA) and relevant authorities to delimit a commercial port area before reporting to the Executive Yuan for approval.
+
+For the appointment of a Domestic Commercial Port, the MOTC shall report to the Executive Yuan for future reference and promulgation. The MOTC shall consult with the MOIA and relevant authorities for purpose of commercial port area delimiting before granting an approval.
+
+### Article 5
+
+The port police authorities are entitled to establish a port police force in accordance with laws for the purpose of public order at the commercial port area, and to assist personnel in undertaking respective duties.
+
+Fire control matters within the commercial port area shall be carried out by the port fire authorities or commissioned local government agencies.
+
+While the above- mentioned  port police authorities and port fire authorities assist in handling violations within the port, they are also placed under the instruction and monitoring of the Maritime and Port Bureau.
+
+## Chapter 2 Planning and Construction
+
+### Article 6
+
+The complete planning and development plan of the commercial port area are designated by the Commercial Port Administrative Authority, Maritime and Port Bureau, or the designated agencies, to consult and plan according to the opinions of local municipalities and county (city) of the commercial port. These are reported to the MOTC for relaying it to the Executive Yuan for approval and implementation.
+
+Except for commercial port facilities, it is allowed to, within the commercial port area, delimit various specialized zones, and establish export processing zones and free trade zones in accordance with the actual situation of the local area.
+
+### Article 7
+
+The land needed for a commercial port that is state-owned, shall be requisitioned in accordance with relevant laws by the Commercial Port Administrative Authority, or appropriated by the Maritime and Port Bureau according to relevant laws. If the land is privately-owned, then the Maritime and Port Bureau has to levy according to relevant law, or it has to be purchased with a negotiating price by the Commercial Port Administrative Authority and its owners, or achieve its using rights by other methods. Furthermore, when the negotiating price or rights of other methods have reached 50% of the planned new land area, so that other new land areas cannot be price shared or obtain using rights, then this land has to be levied according to relevant laws.
+
+A commercial port construction plan shall specify the ownership of reclaimed land (if any). The land shall be registered in accordance with the plan after reclaiming, and be used and operated by the Commercial Port Administrative Authority.
+
+The reclaimed land mentioned above is registered as the manager of the Maritime and Port Bureau, which should be invested in the property of The Commercial Port Administrative Authority or purchase made by the application of the Commercial Port Administrative Authority.
+
+The Maritime and Port Bureau may offer the state-owned land to the Commercial Port Administrative Authority for development, construction or business operations by leasing, creating or investing the right of superficies for development, without subjection to Article 25 of the Land Act, Article 28 of National Property Law or local public property administration regulations.
+
+The state-owned land mentioned above is offered to the international commercial port public facilities to implement or coordinate with government policy users, to provide usage of the Commercial Port Administrative Authority for free.
+
+The Maritime and Port Bureau , according to Paragraph 4, stipulates the rental or establishment of superficies towards the income of the Commercial Port Administrative Authority, which should be paid to the port construction fund. However, the Maritime and Port Bureau operating state-owned property surplus owned by local government, should be paid to the local government.
+
+The methods, conditions, time limit, retrieval, rights and obligations and other relevant items provided by properties of the fourth paragraph, should be regulated by the MOTC.
+
+### Article 8
+
+The Commercial Port Administrative Authority, Maritime and Port Bureau, or the designated agencies should provide needed locations for visitors, clearance of goods, and luggage inspection for customs, immigration, quarantine, and safety inspection and all public rights authorities free of charge. These locations do not need to pay land value tax.
+
+The land obtained by the Commercial Port Administrative Authority inside the commercial port areas, should contain a ten-thousandth of the land value tax.
+
+Commercial port areas should plan within the area a specialized official wharf that is needed by coastal guard authorities. The rental benchmark should be regulated by the MOTC.
+
+### Article 9
+
+Except for the announced areas of Maritime and Port Bureau or the designated agencies, the construction, restoration, alteration or destruction of buildings and facilities within the commercial port area, should be consented to by the Maritime and Port Bureau or the designated agencies. The Maritime and Port Bureau or the designated agencies shall itself demolish those which were constructed or established in the absence of its approval.
+
+## Chapter 3 Management and Operation
+
+### Article 10
+
+Except for breakwaters, navigation channels, turning basin, navigation aids, public roads, and information, gate sentry, control facilities etc. commercial port public infrastructures of free trade zones, and various facilities inside international or commercial port areas should be entrusted by the governments towards The Commercial Port Administrative Authority to construct and maintain. Furthermore, it also has to be constructed and operated by themselves, or operated by public-owned business authorities in the agreed manner, to invest, construct, or rent.
+
+Commercial port facilities can be operated by public-owned authorities in the agreed manner of investment or rental. Its order, rental benchmark, performance management, acceptance, and controversy handlings of selection of undertakers, should be regulated by the MOTC.
+
+### Article 11
+
+The construction and maintenance fee of commercial port public infrastructures should be paid by port construction funds.
+
+### Article 12
+
+In order to promote international commercial port construction and development, the Maritime and Port Bureau should obtain commercial port service fees according to the gross tonnage of ship entrance, head counts of on-board travelers, and loaded and unloaded cargo. All these are used for the construction of international commercial ports.
+
+The rates, collecting, safekeeping, and operating method of commercial port service fees mentioned above, should be stipulated by the Maritime and Port Bureau, which should be reported to the MOTC to check and ratify.
+
+Commercial port service fees should pay for port construction funds.
+
+The Commercial Port Administrative Authority,  Maritime and Port Bureau, or the designated agencies, and public-owned business authorities obtain port business fees and maximum rate from random commercial port facility users. These are stipulated by The Commercial Port Administrative Authority, Maritime and Port Bureau, or the designated agencies, to report to the MOTC to check and ratify. The same applies if there are any modifications.
+
+### Article 13
+
+The wrecks, materials or floating articles within the commercial port area should be retrieved or removed should be agreed by the Commercial Port Administrative Authority, Maritime and Port Bureau or designated agencies.The Commercial Port Administrative Authority, Maritime and Port Bureau or the designated agencies shall retrieve, remove those wrecks, materials or floating articles within the commercial port area, if the owners fail to retrieve or remove them within a specific period notified or published by the Commercial Port Administrative Authority, Maritime and Port Bureau or the designated agencies. The same applies when the owners are unknown and unreachable.
+
+If the wrecks, materials or floating articles are located in the entrance of the commercial port area, berth or fairway channel so as to block the entering or departing ship’s navigation or docking, the Commercial Port Administrative Authority, Maritime and Port Bureau or the designated agencies shall retrieve or remove those directly and immediately.
+
+If the Commercial Port Administrative Authority, Maritime and Port Bureau or the designated agencies retrieves or removes the wrecks, materials or floating articles in accordance with the preceding two paragraphs, and the owners fail to pay the costs for the retrieval or removal within a specific period notified by the  Commercial Port Administrative Authority, Maritime and Port Bureau or the designated agencies, or the owners are unknown, the Commercial Port Administrative Authority, Maritime and Port Bureau or the designated agencies shall announce an auction and sell them. The retrieval and removal costs shall be deducted from the proceeds , and the remaining amount shall be returned to the owners, or be deposited and announced for taking delivery. However, if six months have passed and no one, which is entitled to the deposits, claims the remaining amount, the  Commercial Port Administrative Authority, Maritime and Port Bureau or the designated agencies is entitled to the proceeds.
+
+### Article 14
+
+If wastes, hazardous substances, sewage have been dumped into the commercial port area through ditches, sewers, or other pipeline facilities, the users or operators shall set up equipment or pollution prevention facilities in the vents, and clean up all the garbage gathered there from.
+
+If the users or administrators fail to set up or clean up in accordance with the preceding paragraph, in the international commercial port, the Commercial Port Administrative Authority shall report to the Maritime and Port Bureau in order to consult with relevant authorities and order them to take appropriate measures within a specific period of time, or clean up by the Commercial Port Administrative Authority; And in the domestic commercial port, it shall be cleaned up by the Maritime and Port Bureau or the designated agencies directly, the costs thereof shall be on the users’ or operators’ account.
+
+### Article 15
+
+If ships berthed inside the commercial port are determined by the Commercial Port Administration Authority, Maritime and Port Bureau or designated agencies to impede berth scheduling or port safety, they shall order the ships to depart the port within 3 months, or order the ships to move to the designated location. If the berth shifting is not carried out as ordered, they may move the ships as regulated and order the ships to depart the port within 3 months upon completion of the berth shifting.
+
+The Commercial Port Administrative Authority, Maritime and Port Bureau or the designated agencies limits the numbers of small ships, berthing locations, and operations to maintain the order, divert shipping, and maintain convenient operations inside the port. When necessary, small ships can be moved to other locations to berth.
+
+Ships and floating articles cannot operate inside the port area without the approval of the Commercial Port Administrative Authority, Maritime and Port Bureau or the designated agencies.
+
+The obtaining of the moving and berthing fees mentioned in the first and second paragraph should be carried out by the Commercial Port Administrative Authority, Maritime and Port Bureau or the designated agencies. All costs are shared by ship owners.
+
+### Article 16
+
+For those ships, which have unduly stayed in the commercial port area and been attached in accordance with laws, the Commercial Port Administrative Authority, Maritime and Port Bureau or the designated agencies is entitled to notify the carriers or cargo owners to transship their cargoes or discharge the cargoes into warehouses within a specific period of time. If they fail to follow as instructed, the  Commercial Port Administrative Authority, Maritime and Port Bureau or the designated agencies is entitled to discharge and warehouse them directly, and order the carriers or the cargo owners to take delivery of the cargoes after paying all relevant charges. If they fail to take delivery within that period, the Port Authority is entitled to coordinate customs authorities, put the cargoes to an auction, then notify the carriers or cargo owners to collect the proceeds, or deposit the proceeds in accordance with the laws, after deducting all relevant charges.
+
+### Article 17
+
+In order to facilitate the import and transportation of bulk cargoes which are essential for public livelihood, or raw materials for industrial needs, the Commercial Port Administrative Authority, Maritime and Port Bureau or the designated agencies shall give priority to those ships carrying said cargoes for berthing, loading or unloading.
+
+### Article 18
+
+The master of a ship shall restrict the number of seafarers going ashore for leave, when his/her ship berths in port. The number of seafarers remained on board shall be sufficient to operate and navigate the ship and be capable of handling emergency events.
+
+## Chapter 4 Security and Pollution Prevention
+
+### Article 19
+
+The ship owner or her agents shall fill in a prior declaration form for the ship’s entrance or departure for international commercial ports, 24 hours before the ship’s arrival, or 12 hours before the ship’s departure, and file the form with the Maritime and Port Bureau for inspection and the Commercial Port Administrative Authority to arrange berthing. However, if ships due to certain matters arrive within 12 hours after departure, entrance procedures should be handled again after the Maritime and Port Bureau have given their approval.
+
+The ship owner or her agents shall fill in a prior declaration form for the ship’s entrance or departure for domestic commercial ports, 24 hours before the ship’s arrival, or 12 hours before the ship’s departure, and file the form with the Maritime and Port Bureau or the designated agencies for inspection and to arrange berthing. However, if ships due to certain matters arrive within 12 hours after departure, entrance procedures should be handled again after the Maritime and Port Bureau or the designated agencies have given their approval.
+
+Regarding the goal and ship status of the entrance of ships actually entering the port that do not fit with the prior declaration of the entrance of ships, the owner of the ship and its representative should make amends accordingly.
+
+If the ship is likely to affect the functions and the public security of the commercial port, the  Maritime and Port Bureau or the designated agencies is entitled to reject the application for her entrance into the port until such a possibility no longer exists.
+
+### Article 20
+
+A ship shall hoist the ROC national flag, the national flag of her registration port, and the call sign flags, while entering or departing from a port.
+
+### Article 21
+
+When a ship encounters an emergency event and requires urgent berthing, the Maritime and Port Bureau or the designated agencies consults with relevant authorities to inspect the situation, and is entitled to reject the application for her entrance into the port when one of the following conditions is met:
+
+\1. A ship carrying dangerous objects.
+
+\2. Commercial port that cannot handle a ship that carries people who have been subjected to or seem to be infected with infectious diseases, and that will influence national epidemic prevention safety.
+
+\3. Body of the ship has been seriously damaged, or the ship is in danger of sinking.
+
+\4. Other violation of regulations or there is no need of entering the port.
+
+### Article 22
+
+Ships berthed inside the commercial port should shall immediately adopt emergency measures to prevent danger or remove or depart from the port according to the instructions of  the Commercial Port Administrative Authority, Maritime and Port Bureau or the designated agencies.
+
+When ships do not remove or depart from the port according to the instructions of preceding paragraph, then the Maritime and Port Bureau or the designated agencies may take necessary measures.
+
+When ships berthed inside commercial ports encounter disaster, then the Commercial Port Administrative Authority, Maritime and Port Bureau or the designated agencies may move its location, even to an area outside the port according to the actual situation.
+
+### Article 23
+
+Ships entering the port shall berth at the location or anchorage arranged by the Commercial Port Administrative Authority, Maritime and Port Bureau or the designated agencies. When emergencies occur, emergency stopping can be made under the condition that it does not influence commercial port safety, with the situation later reported to the Commercial Port Administrative Authority, Maritime and Port Bureau or the designated agencies in written statements.
+
+### Article 24
+
+A nuclear ship or a ship carrying nuclear materials shall not enter the port in the absence of prior approval by the Atomic Energy Administration Authority.
+
+The ship mentioned in the preceding paragraph shall accept the inspection by the Maritime and Port Bureau if necessary. If it is likely to cause dangers to public security, the master shall react immediately, and notify, in a priority method, the Commercial Port Administrative Authority, Maritime and Port Bureau or the designated agencies for taking urgent measures.
+
+### Article 25
+
+A ship, which carries the dangerous objects of explosive, compressive, inflammable, oxidizable, poisonous, epidemic, radioactive or corrosive substances, shall apply to the Commercial Port Administrative Authority, Maritime and Port Bureau or the designated agencies for a berthing site, before entering the port.
+
+While loading or unloading dangerous objects within a port area, the ship shall obtain a prior permit from the Commercial Port Administrative Authority, Maritime and Port Bureau or the designated agencies. The Commercial Port Administrative Authority, Maritime and Port Bureau or the designated agencies shall order cargo owners to provide transport vehicles and take instant delivery of the dangerous objects to leave the port, if the dangerous objects are highly hazardous. Other dangerous objects, which cannot be moved from the port immediately, shall be stored at a place or site designated for dangerous objects, and be kept in proper way.
+
+A ship, which carries dangerous objects, shall hoist red flags during daytime and red lights during the nighttime, at the positions where they are conspicuous.
+
+### Article 26
+
+A master shall, immediately after entering the port, report to the Commercial Port Administrative Authority, Maritime and Port Bureau or the designated agencies  his/her findings, in the present routing, of newly-formed sandbars, submerged reefs, or other new obstacles, which are likely to affect navigation safety.
+
+The Maritime and Port Bureau or the designated agencies shall announce the findings and set up warning signs for those newly-formed sandbars, submerged reefs or other obstacles, which would affect the navigation of ships, found in the commercial port area or nearby water areas.
+
+### Article 27
+
+When a ship encounters a maritime casualty or other accidents within the commercial port area, the master shall immediately adopt emergency measures to prevent dangers and report to the  Commercial Port Administrative Authority, Maritime and Port Bureau or the designated agencies, in a priority method, for salvage operation.
+
+### Article 28
+
+In the absence of permission from the Commercial Port Administrative Authority, Maritime and Port Bureau or the designated agencies, no ship is allowed to give signals, set off fireworks, or detonate explosives within a commercial port area. When encountering a fire or an emergency event, a ship shall whistle and ring a bell. It shall also hoist a warning flag during daytime, and set off a signal light, signal fire or flashlight during the nighttime.
+
+### Article 29
+
+While navigating within a commercial port area, a ship shall not sound siren or signals unless it is necessary to comply with rules of preventing collision, or warn of an urgent situation or emergency event.
+
+### Article 30
+
+A ship shall load or unload cargoes, embark or disembark passengers and seafarers at the site or place appointed by the Commercial Port Administrative Authority, Maritime and Port Bureau or the designated agencies.
+
+### Article 31
+
+While navigating within the commercial port area, a ship shall cruise at a reduced speed, and shall not overtake other ships in a narrow navigation channel or obstruct the safe navigation of other ships.
+
+### Article 32
+
+In the absence of permission from the Commercial Port Administrative Authority, Maritime and Port Bureau or the designated agencies, a ship, which is in a commercial port area, shall not fasten barge or any small boat alongside the ship. If the ship is equipped with an outstretching beam, which might obstruct navigation of other ships, the beam shall be taken in or put aside.
+
+While tugging another ship within a commercial port area, a ship shall comply with those rules provided by the Commercial Port Administrative Authority, Maritime and Port Bureau or the designated agencies.
+
+### Article 33
+
+A ship, which is navigating or berthing in a commercial port area, shall comply with the rules of prevention of collision and other relevant regulations provided by the Commercial Port Administrative Authority, Maritime and Port Bureau or the designated agencies.
+
+### Article 34
+
+The Commercial Port Administrative Authority shall dismantle the location and the luminosity of the land-based lights in the place neighboring the port entrance or exit, if such lights may be mistaken as port navigation lights or may affect the visibility of port navigation lights. The Commercial Port Administrative Authority is designated to dismantle the lights of international commercial ports after report to and agreed by the Maritime and Port Bureau, while the Maritime and Port Bureau or the designated agencies is designated to dismantle the domestic commercial ports.
+
+### Article 35
+
+The personnel and vehicles entering the commercial port control area shall apply to the Commercial Port Administrative Authority, Maritime and Port Bureau or the designated agencies for a pass, and subject to the inspection of the port police.
+
+### Article 36
+
+The following acts are prohibited within a commercial port area:
+
+\1. Anchoring in an area where submarine cables or pipelines are laid.
+
+\2. Raising and catching marine life.
+
+\3. Any other acts which may affect the safety of the port area.
+
+In accordance with Section 2 in the preceding Paragraph, the Maritime and Port Bureau or the designated agencies may coordinate to set measures and to delimit a fishery area for the public without affecting port operations, safety and causing pollution.
+
+### Article 36-1
+
+Within the specified scope of the commercial port area it is prohibited to engage in remote-controlled unmanned aerial vehicle flight activities without application for permission; regarding prevention and violations, the Commercial Port Administrative Authority, Maritime and Port Bureau or the designated agencies may take appropriate measures as need.
+
+The specified scope of the commercial port area referred to in the preceding Paragraph shall be announced by the Maritime and Port Bureau or the designated agencies.
+
+The regulations governing the review procedures, required documents, terms and conditions, management, revocation of permission and other matters to be complied with in the application for permission referred to in Paragraph 1 shall be prescribed by the MOTC.
+
+### Article 37
+
+The following acts that pollute the commercial port are prohibited within a commercial port area:
+
+\1. Ships that emit toxic liquids, toxic substances, harmful substances, sewage, oil and water or other contaminants.
+
+\2. Construction, repair, dismantling, cabin cleaning or salvage, and pollution causing behavior of ships.
+
+\3. Loading, unloading, transportation, repair, or other operations that causes seawater contamination or waste disposal behavior.
+
+\4. Ship exhausting, loading and unloading, transportation, vehicle transport, or any behavior causing the release or discharge of a visible amount of particulate pollutants into the air.
+
+### Article 38
+
+Waste oil, waste, or other pollutants of ships within the commercial port area should be kept onboard or transferred to the reception facilities on shore.
+
+Pollutions mentioned above that can be transferred to the reception facilities on shore should entrust private-owned waste removal authorities.
+
+### Article 39
+
+When ships within the commercial port area encounter accidents on the beach, or other accidents that pollute the water area, the master and ship owner have to immediately adopt measures to prevent, remove, or reduce pollution, and instantly notify the Commercial Port Administrative Authority, Maritime and Port Bureau or the designated agencies.
+
+If the master and ship owner do not take any measures causing the pollution event to grow, then the Commercial Port Administrative Authority, Maritime and Port Bureau or the designated agencies can take necessary actions. The ship owner will be responsible for all costs. Not until all costs are paid up, may ships belonging to such company leave the port.
+
+### Article 40
+
+The following acts within the commercial port area require a permit from the Commercial Port Administrative Authority, Maritime and Port Bureau or the designated agencies:
+
+\1. Fastening ropes, fittings or boats to a buoy, beacon and other navigational aids.
+
+\2. Berthing or towing bamboo rafts, timber rafts or other materials.
+
+\3. Collecting mud, sands or pebbles.
+
+\4. Scrapping ships, and repairing ships in locations that are not shipyards.
+
+\5. Storing ships or materials on the land within the port area.
+
+\6. Laying, changing or dismantling those pipelines of water supply, sewage, petroleum or chemicals, and electrical and telecommunication equipment.
+
+\7. Constructing, repairing or dismantling railways or road.
+
+\8. Dredging or exploding operation.
+
+\9. Placing life boats or diving. However, this situation is not limited to emergency or rescue events.
+
+\10. Other facilities, which may affect the operations and functions of the commercial port.
+
+### Article 41
+
+The Commercial Port Administrative Authority, Maritime and Port Bureau or the designated agencies should designate a disaster prevention and business plan, and report to the MOTC to check and ratify.
+
+The preceding plan should be reviewed regularly, and these reviews should be carried out when necessary.
+
+When disasters or emergencies occur within the commercial port area, the Commercial Port Administrative Authority, Maritime and Port Bureau or the designated agencies have to mobilize the personnel and equipment of public-owned business authorities within the commercial port area and should also cooperate with the relevant authorities.
+
+Various public-owned business agencies within the commercial port area should cooperate with the Commercial Port Administrative Authority, Maritime and Port Bureau or the designated agencies to implement disaster prevention drill and training.
+
+### Article 42
+
+The Commercial Port Administration Authority should handle various international commercial port security assessment tasks, and plan out the security assessment report accordingly. These reports and plans should be sent to the Maritime and Port Bureau for ratification.
+
+Various public-owned business agencies within the international commercial port area should handle the security assessment tasks of port facilities according to the preceding plan. The Security assessment report and security plan should also be made accordingly. These reports and plans should be sent to the Maritime and Port Bureau or other accredited agencies for ratification.
+
+### Article 43
+
+The Maritime and Port Bureau should verify and test the security facilities and security business of various public-owned business agencies within international commercial port areas. Furthermore, those that are verified and tested should not avoid, hinder, or refuse these tests. If deficiencies are found in inspection results, they should be informed to make corrections in a limited time.
+
+Port police authorities should be consulted to handle the verification and testing for the Maritime and Port Bureau in the preceding paragraph.
+
+### Article 44
+
+Article 15 to Article 20, Article 23 to Article 25, Article 28 to Article 34, Article 36 to Article 40, that are relevant to ship entrance and departure, berthing, suspending ship service, hindrance of port safety, port pollution, hindrance of loading and unloading of port facilities and dangerous objects, control of ships encountering danger or taking refuge, and management of ship repair, and port management regulations, should be stipulated by the MOTC.
+
+## Chapter 5 Ship Stevedore Operator and Ship Tallymen Management
+
+### Article 45
+
+Application for forwarders of ship cargo handling management within the commercial port area, should possess relevant documents and applications that Maritime and Port Bureau or the designated agencies can prepare and establish.
+
+Applicants of the preceding paragraph can only start business after they have applied for a business license with the Maritime and Port Bureau or the designated agencies, and have received the permit within six months of the preparation, and completed company registration, along with all equipment properly placed.
+
+If the preparation is not completed within six months as mentioned in the preceding paragraph, yet they have already applied for a business license with the Maritime and Port Bureau or designated the agencies, then the preparation should be restricted. But if there are proper reasons, an additional six months can be granted within 30 days before the above mentioned six month period expires. Such extension can only be applied once.
+
+### Article 46
+
+Application for ship cargo management within the commercial port area should possess relevant documents and applications to apply with to the  Maritime and Port Bureau or the designated agencies.
+
+Applicants of the preceding paragraph can only start business after they have applied for a business license with the Maritime and Port Bureau or the designated agencies, and have received the permit within six months of the preparation, and completed company registration, along with all equipment properly placed.
+
+If the preparation is not completed within six months as mentioned in the preceding paragraph, yet they have already applied for a business license with the Maritime and Port Bureau or the designated agencies, then the preparation should be restricted. But if there are proper reasons, an additional six months can be granted within 30 days before the above mentioned six month period expires. Such extension can only be applied once.
+
+### Article 47
+
+Ship Stevedore Operator and Ship Tallymen should open business within the six months upon receiving their business license (starting from the day they receive their license). If business is not opened six months after they received their license, then the Maritime and Port Bureau or the designated agencies can repeal their permit, and cancel their license. But if there are proper reasons, an additional six months can be granted within 30 days before the above mentioned six month period expires. Such extension can only be applied once.
+
+If Ship Stevedore Operator and Ship Tallymen have opened business, but have no operating performance for at least six continuous months, then the Maritime and Port Bureau or the designated agencies can repeal their business permit, and cancel their license. Those that have closed their business voluntarily for six months will have the same results.
+
+If Ship Stevedore Operator and Ship Tallymen cannot operate normally due to natural disasters or other unavoidable events, starting from the date of the event, descriptions of the event should be made within 7 days, along with the date that operations should normally begin again. This information should be reported to Maritime and Port Bureau or the designated agencies for future reference.
+
+Ship Stevedore Operator and Ship Tallymen when closing business, should, starting from the date of closing, return their business license to Maritime and Port Bureau or the designated agencies within 30 days. If the license has not yet been returned, the Maritime and Port Bureau or the designated agencies can repeal their business permit, and cancel their license.
+
+### Article 48
+
+When Ship Stevedore Operator and Ship Tallymen intend to change their organization, name, address, representative, or capital, then they should change their company or business registration, and request another permit from Maritime and Port Bureau or the designated agencies .
+
+### Article 49
+
+Business license of Ship Stevedore Operator and Ship Tallymen cannot be borrowed, rent, or transferred.
+
+### Article 50
+
+Ship Stevedore Operator should report the operations, financial condition and other relevant documents of the previous year to Maritime and Port Bureau or the designated agencies before the end of each June for future reference.
+
+Maritime and Port Bureau or the designated agencies should send personnel to check on the offices, business places, and other relevant locations of Ship Stevedore Operator and Ship Tallymen at any time. Industries cannot refuse without proper reasons.
+
+When inspectors of the preceding paragraph carry on with their job, they should tender their official documents. Industries can refuse the inspection if inspectors fail to show their documents.
+
+### Article 51
+
+Minimum paid-in capital, operating machines, and insured amount of public liability insurance of Ship Stevedore Operator ; if these are found by  Maritime and Port Bureau or the designated agencies to have  not reached minimal standards, due improvements shall be made within the given limited time. If no improvements have been made by the time limit, Maritime and Port Bureau or the designated agencies can repeal their business permit, and cancel their license.
+
+### Article 52
+
+Minimum paid-in capital, operating machines, insured amount of public liability insurance, and application, issue, renewal of preparation and establishment and business permit of Ship Stevedore Operator should be stipulated by the MOTC. The license receiving fee and other items that should be followed, are also stipulated by the MOTC.
+
+Business items of Ship Tallymen, application, issue, and renewal of preparation and establishment and business permit, along with license receiving fee and other rules that should be followed, should all be stipulated by the MOTC.
+
+## Chapter 6 Marine Rescue, Salvaging Management, and Foreign Merchant Ship Control Check
+
+### Article 53
+
+If a ship is stranded, sinks or becomes adrift outside the commercial port area due to sandbars or other accidents, then the Maritime and Port Bureau should order the master and ship owner to adopt necessary contingency measures and salvage operations, then remove the ship and loaded cargo to the designated area within a limited time period. If the required improvement is not made within the specific time limit, a fine may be imposed consecutively on a daily basis, if necessary.
+
+Regarding situations of the preceding paragraph, when necessary, the Maritime and Port Bureau should adopt contingency or treatment measures. The ship owner is responsible for the fees caused by these measures.
+
+Before the master and ship owner of the ship that is stranded, sunk, or malfunctioned and adrift has removed their ship, or under the possibility that he will not do so, the Maritime and Port Bureau can request the ship owner to pay a financial guarantee equal to the amount of removing the ship. Before the ship owner has paid their guarantee, the Maritime and Port Bureau can prohibit the departure of the ship’s personnel.
+
+### Article 54
+
+Relevant operations such as salvaging sunken ships, materials, and shipbreaking, should report their contract and operational plan to the Maritime and Port Bureau to be able to start operations.
+
+The operational plan mentioned in the preceding paragraph should include information such as the applicant, basic information, location, amount, working method, oil pollution prevention measure, labor safety and health measures, and construction period.
+
+If the owner of the sunken ship or material is unclear, the Maritime and Port Bureau should publicly announce its basic information, location, and amount for three months, till it can start to salvage.
+
+If the owner of the sunken ship or material cannot be informed or has not salvaged within the noticed time period, the rules of the preceding paragraph can be used.
+
+### Article 55
+
+When engaging in salvaging sunken ships, materials, and shipbreaking, construction should be made according to the operational plan approved by the  Maritime and Port Bureau. No harbor waterway facility can be damaged. Ship navigation safety should also not be affected.
+
+If above mentioned operations cannot be completed within the time limit, then a description of the event should be made within 7 days, to apply for an extension.
+
+### Article 56
+
+The starting and ending date of the salvaging of sunken ships, materials, and shipbreaking operations should be reported in written form to the Maritime and Port Bureau before the actual day or second day the operation starts.
+
+After the operations of the preceding paragraph has been completed, the applicant should consult with Maritime and Port Bureau, relevant authorities, businesses, or groups to approve completion.
+
+### Article 57
+
+In order to maintain ship navigation safety and assist vessels in distress, the MOTC can appoint or entrust other authorities or administrative authorities to handle coastal radio and task control center business.
+
+### Article 58
+
+The Procedures for Port State Control and its regulations announced by the  Maritime and Port Bureau according to the International Maritime Organization or other relevant authorities, should implement examination of ship certificate, security, equipment, crew quotas and other matters towards the entrance and departure of foreign merchant ships.
+
+### Article 59
+
+When the Maritime and Port Bureau executes foreign merchant ship control examination, they should hand it to the master to sign after information has been recorded in the inspection record. If there are any violations, the Maritime and Port Bureau requires improvements be made within a specific period of time.
+
+After foreign merchant ships have made improvements according to the preceding paragraph, they should request the Maritime and Port Bureau  for reexamination, and pay for the reexamination fees as well. The amounts should be stipulated by the Maritime and Port Bureau, and checked and ratified by the MOTC.
+
+### Article 60
+
+When foreign merchant ships seriously violate control examination regulations, influence ship navigation safety of ship personnel, and can seriously threaten marine environment, the Maritime and Port Bureau shall retain ships until improvements are completed, in order for them to be approved to navigate.
+
+Where foreign merchant ships violate control examination regulations but our country does not possess the facilities to force the ship conform to the regulations and there is the possibility that retaining the ship will have an affect on port safety or public interests, then the ship will be allowed to leave subject to approval from the Maritime and Port Bureau after issuing a certificate by ship classification register institute .
+
+## Chapter 7 Penalty
+
+### Article 61
+
+When the ship owner or master violates Article 37, Subparagraph 1 and excretes toxic liquids, toxic substances, or hazardous substances, a fine ranging from NT$1,000,000 to NT$5,000,000 can be issued by Maritime and Port Bureau or designated agencies. An order to make improvements within a limited amount of time may also be granted. If no improvements have been made by then, they will be fined per violation.
+
+### Article 62
+
+When one of the following conditions is met, a fine ranging from NT$600,000 to NT$3,000,000 can be issued to the master or ship owner by the Maritime and Port Bureau or the designated agencies:
+
+\1. Violation of Article 24
+
+\2. Violation of Article 25
+
+If these violations result in any damage then the owner or captain of the ship shall also be fined.
+
+If a vessel re-violates the same provisions provided in the preceding paragraph within one year, the fine shall be doubled.
+
+### Article 63
+
+When one of the following conditions is met, a fine ranging from NT$300,000 to one point NT$1,500,000 can be issued to the master or ship owner by the Maritime and Port Bureau or the designated agencies:
+
+\1. Violation of Article 37, Subparagraph 1, that regulates the excretion of slop or other pollutants; or violation of Subparagraph 2 of the same article.
+
+\2. Violation of Article 38
+
+\3. Violation of Article 39, Paragraph 1
+
+An order to make improvements within a limited amount of time may also be granted. If no improvements have been made by then, they will be fined per violation. When the degree of violation is serious, a suspension shall be ordered.
+
+### Article 64
+
+In violation of Article 37, Subparagraph 4, a fine ranging from NT$100,000 to NT$1,000,000 can be issued by the Maritime and Port Bureau or the designated agencies. An order to make improvements within a limited amount of time may also be granted. If no improvements have been made by then, they will be fined per violation.
+
+### Article 65
+
+When one of the following conditions is met, a fine ranging from NT$100,000 to NT$500,000 can be issued by the Maritime and Port Bureau or the designated agencies.:
+
+\1. Violation of Article 13, Paragraph 1 or Article 54, Paragraph 1
+
+\2. Violation of Article 35
+
+\3. Violation of Article 36, Paragraph 1
+
+\4. Violation of Article 40
+
+\5. Violation of Article 45, Paragraph 2 or Article 46, Paragraph 2
+
+\6. Violation of Article 49
+
+The degree of the violation might also result in issuance of suspension of business, forced disembarkation or departure. Repeated offenders may result in confiscation of salvage equipment, rigs, and related materials.
+
+### Article 65-1
+
+If the owner or operator of the remote-controlled unmanned aerial vehicle falls under any of the following circumstances, the flight activities will be prohibited, and the Maritime and Port Bureau or the designated agencies will impose a fine of NT$300,000 to NT$1,500,000 if the circumstances are severe, the remote-controlled unmanned aerial vehicle may also be seized:
+
+\1. Violating the provisions of Article 36-1, Paragraph 1 by engaging in remote-controlled unmanned aerial vehicle flight activities within the specific scope of the commercial port area without permission.
+
+\2. Violating the regulations on the terms and conditions or management matters for engaging in remote-controlled unmanned aerial vehicle flight activities stipulated in the Article 36-1, Paragraph
+
+### Article 65-2
+
+Anyone who jeopardizes the normal operation of commercial port facilities or equipment by theft, destruction or other illegal manners shall be sentenced to an imprisonment of one to seven years, and may also be fined an amount up to NT$10,000,000.
+
+Anyone who commits the crime mentioned in the preceding Paragraph with the intention of jeopardizing national security or social stability shall be sentenced to an imprisonment of three to ten years, and may also be fined an amount up to NT$50,000,000.
+
+If any or all of the situations mentioned in the above two paragraphs causes significant harm or disaster, the amount of the penalty shall be increased by 50%; anyone that causes death shall be sentenced to life imprisonment or an imprisonment of at least seven years, and may also be fined an amount up to NT$100,000,000; anyone that causes severe injuries shall be sentenced to an imprisonment from five to twelve years, and may also be fined an amount up to NT$80,000,000.
+
+Those found guilty of attempting the offenses of Paragraphs 1 and 2 shall also be punished.
+
+### Article 65-3
+
+Anyone who jeopardizes the normal operation of the core information and communication system of the commercial port facilities or equipment in any of the following manners shall be sentenced to an imprisonment from one to seven years, and may also be fined an amount up to NT$10,000,000:
+
+\1. Entering the account password without reason, cracking the computer system protection measures, or exploiting the loopholes of the computer system to access the computer or related equipment.
+
+\2. Interfering with the computer or related equipment with computer programs or other electromagnetic means without reason.
+
+\3. Obtaining, deleting or changing the electromagnetic records of the computer or related equipment without reason.
+
+The same shall apply to those who make computer programs exclusively for committing the crimes of the preceding Paragraph by themselves or any others.
+
+Those who commit crimes in the preceding two Paragraphs with the intention of jeopardizing national security or social stability shall be sentenced to an imprisonment of three to ten years, and may also be fined an amount of NT$50,000,000 utmost.
+
+If any or all the situations mentioned in the above three Paragraphs cause any disasters, the amount of the penalty shall be increased by 50%; those that cause death shall be sentenced to life imprisonment or an imprisonment of at least seven years, and may also be fined an amount of NT$100,000,000 utmost; those that cause severe injuries shall be sentenced to the imprisonment from five to 12 years, and may also be fined an amount of NT$80,000,000 utmost.
+
+Those with the attempted offenses of Paragraphs 1 to 3 shall also be punished.
+
+### Article 65-4
+
+Ships which are ordered to depart the port within the time limit prescribed by the Commercial Port Administration Authority, Maritime and Port Bureau or designated agencies pursuant to Paragraph 1 of Article 15 but fail to do so without justified reasons shall be confiscated by the Maritime and Port Bureau or designated agencies, irrespective of the ship owners.
+
+If foreign merchant ships are stayed pursuant to Paragraph 1 of Article 60 and found presenting the ship registration, ship certificate, IMO number, or other ship identification data inconsistent with the facts, the Maritime and Port Bureau or designated agencies shall order the ship owners or their agents to supplement the justified reasons, ownership certificates, and related ship certificates within 3 months. If they fail to do so upon expiration of said time limit, the foreign merchant ships shall be confiscated by the Maritime and Port Bureau or designated agencies, irrespective of the ship owners.
+
+### Article 66
+
+When one of the following conditions is met, a fine ranging from NT$100,000 to NT$500,000 can be issued by the Maritime and Port Bureau or the designated agencies:
+
+\1. Violation of Article 14
+
+\2. Violation of Article 15, Paragraph 3
+
+\4. Violation of relevant port management items in Article 44
+
+\5. Violation of cargo loading and unloading, moving, repair, or other operations that causes seawater contamination listed in Article 37, Subparagraph 3.
+
+Ships and rigs which have not been logged or registered constitute a violation of Subparagraph 2 in the preceding paragraph and thus may be confiscated.
+
+### Article 67
+
+When one of the following conditions is met, a fine ranging from NT$100,000 to
+
+NT$500,000 can be issued by the Maritime and Port Bureau or the designated agencies:
+
+\1. Violation of Article 18
+
+\2. Violation of Article 19, Paragraph 1 or 2
+
+\3. Violation of Article 22
+
+\4. Violation of Article 23
+
+\5. Violation of Article 26, Paragraph 1
+
+\6. Violation of Article 27
+
+\7. Violation of Article 28
+
+\8. Violation of Article 29
+
+\9. Violation of Article 30
+
+\10. Violation of Article 31
+
+\11. Violation of Article 32
+
+\12. Violation of Article 33
+
+\13. Violation of Article 53, Paragraph 1
+
+### Article 68
+
+If any public-owned business authority within the commercial ort area avoids, hinders, or refuses the audit, inspection and testing listed in Article 43, Paragraph 1, a fine from NT$30,000 to NT$150,000 can be issued by the Maritime and Port Bureau.
+
+If any public-owned business authority within the commercial port area violates Article 43, Paragraph 1, but makes improvements within the limited time period, a fine ranging from NT$20,000 to NT$100,000 can be issued by the Maritime and Port Bureau.
+
+### Article 69
+
+Violation of waste disposal in Article 37, Subparagraph 3, a fine from NT$6,000 to NT$30,000 can be issued by the Maritime and Port Bureau or the designated agencies. They will also be asked to make improvements within a limited time period. If by then, no improvements have been made, they will be fined per violation.
+
+### Article 70
+
+Ship Stevedore Operator and Tallymen meet any one of the following conditions, they will be ordered by the Maritime and Port Bureau or the designated agencies, to make improvements within a limited time period. If by then, no improvements have been made, they will be subjected a fine from NT$6,000 to NT$30,000:
+
+\1. Violation of Article 48
+
+\2. Violation of Article 50
+
+### Article 71
+
+Those caught fishing outside the territory listed in Article 36, Paragraph 2, are subjected to a fine from NT$600 to NT$3,000, and their fishing equipment may also be confiscated.
+
+### Article 72
+
+For those failing to pay port service charges or charges for the recovery of damages to the facilities in the commercial port area within the limited time stipulated in Article 12, suspension of operations may be ordered or a prohibition on ship entrance and departure may be issued unless considerable guarantee has been provided.
+
+The securing of tangible evidence of the damages to the facilities in the commercial port area should be handled in accordance with relevant regulations of Transportation Occurrences Investigation Act.
+
+### Article 73
+
+For port facilities of a public-owned enterprise which has not completed the port facilities safety evaluation and port safety plans in accordance with Article 42, Paragraph 2, and has been notified by the Maritime and Port Bureau or the designated agencies to make improvements in a limited time period, a suspension of operation may be granted if such enterprise fails to fulfill the standards within the stated time frame.
+
+## Chapter 8 Supplementary Rules
+
+### Article 74
+
+The Maritime and Port Bureau shall entrust each competent authority of various target business purposes with the following items in the commercial port area:
+
+\1. Issuance of Industrial and commercial registration certificate.
+
+\2. Issuance of Industrial electricity certificate.
+
+\3. Issuance of Permit of Foreign or Non-Resident Foreign Professional or Technology Personnel Employment.
+
+\4. Issuance of Relevant Proof for Application of Tax Relief.
+
+\5. Issuance of merchandise export visa, certificate of origin, and processing certificate.
+
+If each competent authority of various target business purposesthe competent authorities fail to entrust the stipulated items within the preceding paragraph, each competent authority of various target business purposesthe should assign personnel within the commercial port area in handling the affair.
+
+### Article 75
+
+In case commercial port safety and management items involving international matters, the MOTC may, by reference, undertake to adopt and enact the relevant international conventions or, agreements, and the regulations, directives, standards, recommendations or programs prescribed in the annexes thereto as provisions.
+
+### Article 76
+
+The effective date of this law shall be determined by the Executive Yuan.
+
+## History
+
+\1. Promulgated on May 2,1980
+
+\2. Amendment to Article 2,4,12,15,16,18,20,46-48, addition of Article 16-1,23-1,50-1 and promulgated on November 28, 1986
+
+\3. Amendment to Article 7 promulgated on August 7, 1987
+
+\4. Amendment to Article 12 promulgated on January 10, 1996
+
+\5. Amendment to Article 7,51 promulgated on May 7,1997
+
+\6. Amendment to Article 15,16-1,17,33,36,44,46,47,48,50,51,augment to Article 16-2, 23-2,35-1,43-1,47-1,and cancellation to Article 7,34,35 promulgated on November 21, 2001. Article7, 15 promulgated on January 1,2003
+
+\7. Amendment to Article 3,4,6,11,49 promulgated on January 2,2003
+
+\8. Amendment to Article 18 promulgated on February 5, 2005
+
+\9. Amendment to whole articles promulgated on December 28, 2011
+
+\10. Amendment to Article 72 promulgated on April 28, 2021
+
+\11. Addition of Article 36-1 and 65-1 to 65-3 and promulgated on June 28, 2023; The effective date shall be determined by the Executive Yuan.
+
+12.Amendment to Article 15 and addition of Article 65-4 promulgated on January 5, 2026; The effective date shall be determined by the Executive Yuan.
+
+13.Amendment to Article 2,53 promulgated on February 4, 2026;The effective date shall be determined by the Executive Yuan.

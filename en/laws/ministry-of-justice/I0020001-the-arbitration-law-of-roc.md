@@ -1,0 +1,523 @@
+---
+title: "The Arbitration Law of ROC"
+title_zh: "仲裁法"
+identifier: "I0020001"
+type: act
+law_level: "法律"
+category: "行政＞法務部＞法律事務目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1961-01-20
+last_amended: 2015-12-02
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=I0020001"
+retrieved: 2026-10-12
+---
+
+# The Arbitration Law of ROC
+
+> Translation. The Chinese text ([zh/laws/ministry-of-justice/I0020001-the-arbitration-law-of-roc.md](../../../zh/laws/ministry-of-justice/I0020001-the-arbitration-law-of-roc.md)) is authoritative.
+
+## CHAPTER I: Arbitration Agreement
+
+### Article 1
+
+Parties to a dispute arising at present or in the future may enter into an arbitration agreement designating a single arbitrator or an odd number of arbitrators to constitute an arbitral tribunal to determine the dispute.
+
+The dispute referred to in the preceding paragraph is limited to those which may be settled in accordance with the law.
+
+The arbitration agreement shall be in writing.
+
+Written documents, documentary instruments, correspondence, facsimiles, telegrams or any other similar types of communications between the parties evincing prima facie arbitration agreement shall be deemed to establish an arbitration agreement.
+
+### Article 2
+
+An arbitration agreement shall not be valid unless it is entered into in respect of a legal relationship and any dispute arising therefrom.
+
+### Article 3
+
+The validity of an arbitration clause in a contract shall be determined independently from the contract itself. The invalidity, nullification, revocation, rescission, or termination of the contract shall not affect the validity of the arbitration clause.
+
+### Article 4
+
+If either party fails to comply with the arbitration agreement and instead initiates litigation, the court shall, upon petition by the other party, issue a ruling to stay the legal proceedings and order the plaintiff to submit the dispute to arbitration within a specified period, except where the defendant has already conducted oral arguments on the merits of the case.
+
+If a plaintiff fails to submit the dispute to arbitration within the specified time period prescribed in the preceding paragraph, the court shall dismiss the lawsuit.
+
+For litigation provided in Paragraph 1, once the court has issued a ruling to stay the proceedings, the litigation shall be deemed withdrawn upon the rendering of the arbitral award.
+
+## CHAPTER II: Constitution of Arbitral Tribunal
+
+### Article 5
+
+An arbitrator shall be a natural person.
+
+In the event that a corporate entity or any other organization which is not an arbitration institution is appointed as an arbitrator in an arbitration agreement, it shall be deemed that no arbitrator was appointed.
+
+### Article 6
+
+A person with legal or other professional knowledge or experience, who is reputable and impartial, and possesses any of the following qualifications, may serve as an arbitrator:
+
+1.Has served as a judge or prosecutor.
+
+2.Has practiced as a lawyer, accountant, architect, mechanic, or other commerce-related professional for more than five years.
+
+3.Has served as an arbitrator in arbitration cases administered by domestic or foreign arbitration institutions.
+
+4.Has held a position of assistant professor or above at a domestic or foreign institution of higher education recognized by the Ministry of Education for more than five years.
+
+5.Possesses specialized knowledge or skills in a particular field and has practiced in that field for more than five years.
+
+### Article 7
+
+Person under any of the following circumstances shall not be an arbitrator:
+
+1.Has been convicted of corruption or malfeasance.
+
+2.Has been convicted of any other offense and sentenced to imprisonment for one year or more.
+
+3.Has been deprived of civil rights and has not yet been reinstated.
+
+4.Has been declared bankrupt and has not yet been reinstated.
+
+5.Has been declared under guardianship or assistantship and the declaration has not yet been revoked.
+
+6.Is a minor.
+
+### Article 8
+
+Any person qualified to act as an arbitrator under this Law shall receive training and obtain a certificate before registering as an arbitrator with arbitration institutions, except under the following circumstances:
+
+1.Has served as a judge or prosecutor.
+
+2.Has practiced as a lawyer for more than three years.
+
+3.Has served as a full-time professor for two years or associate professor for three years at a domestic or foreign institution of higher education recognized by the Ministry of Education, and has taught major legal courses for more than three years.
+
+4.Was registered as an arbitrator prior to the effectiveness of amendment of this Law and has actually participated in arbitration proceedings.
+
+The calculation of teaching experience and the scope of major legal courses under Subparagraph 3 of the preceding paragraph shall be jointly determined by the Ministry of Justice and relevant authorities.
+
+Arbitrators who have not applied for registration pursuant to the first paragraph shall still be subject to the training requirements of this Law.
+
+Registered arbitrators shall participate in regular annual lectures held by the arbitration institution; the arbitration institution may cancel the registration of an arbitrator who fails to participate in such lectures on schedule.
+
+Regulation governing arbitrator’s training and lecture shall be jointly stipulated by the Executive Yuan and the Judicial Yuan.
+
+### Article 9
+
+Where an arbitration agreement does not specify arbitrators or the method of their appointment, each party shall appoint an arbitrator, and the appointed arbitrators shall jointly select a third arbitrator to serve as the presiding arbitrator. The arbitral tribunal shall notify the parties in writing of the appointments.
+
+If the arbitrators fail to agree on the presiding arbitrator within thirty days, either party may petition the court for appointment.
+
+Where a sole arbitrator is stipulated and the parties fail to agree within thirty days after receiving a written request for appointment, either party may petition the court for appointment.
+
+Under the circumstances of the preceding two paragraphs, if the parties have agreed that the arbitration shall be administered by an arbitration institution, then the arbitrator shall be appointed by the arbitration institution.
+
+Where a party consists of two or more individuals and no agreement is reached regarding the appointment of an arbitrator, the appointment shall be made by a majority vote; In the event of a tie, the appointment shall be made by drawing lots.
+
+### Article 10
+
+Upon appointment of an arbitrator, a party shall notify the other party and the appointed arbitrator in writing. When an arbitrator is appointed by an arbitration institution, the institution shall notify both parties and the arbitrator in writing.
+
+Once the written notice has been delivered under the preceding paragraph, it may not be withdrawn or amended without the prior agreement of both parties.
+
+### Article 11
+
+A party who has already appointed its own arbitrator may, by written notice, request the other party to appoint an arbitrator within fourteen days from the date of receipt of the notice.
+
+Where an arbitrator is to be appointed by an arbitration institution, either party may request that institution appoint an arbitrator within the same period specified in the preceding paragraph.
+
+### Article 12
+
+Where the arbitrator has not been appointed within the time period specified in the first paragraph of the preceding Article, the requesting party may apply to an arbitration institution or the court to make the appointment.
+
+Where the arbitrator has not been appointed within the time period specified in the second paragraph of the preceding Article, the requesting party may apply to the court to make the appointment.
+
+### Article 13
+
+An arbitrator appointed in an arbitration agreement may be replaced if that arbitrator becomes unable to serve as a result of death or any other cause, or refuses to act as an arbitrator, or unduly delays the performance of arbitral duties. In the event that the parties fail to agree upon a replacement, either party may petition an arbitration institution or the court for replacement.
+
+If an arbitrator appointed by one party becomes unable to serve as a result of any of the circumstances set out in the preceding paragraph, the other party may, by notice, request the party to appoint a replacement within fourteen days from the date of receipt of the notice. However, the presiding arbitrator appointed pursuant to paragraph 1 of Article 9 shall not be affected.
+
+Where the requested party fails to appoint a replacement within the specified period in the preceding paragraph, the requesting party may petition an arbitration institution or the court for replacement.
+
+Where an arbitrator appointed by an arbitration institution or the court becomes unable to serve as a result of any of the circumstances set out in the paragraph 1, the institution or the court may, upon petition or ex officio, appoint a replacement.
+
+If the presiding arbitrator becomes unable to serve for any of the reasons set out in paragraph 1, the court may, upon petition or ex officio, appoint a replacement.
+
+### Article 14
+
+Except as otherwise provide in this Law with respect request for recusal, parties may not raise objections to the arbitrators selected by the arbitration institution or court under this chapter.
+
+### Article 15
+
+Arbitrators shall conduct the arbitration independently and impartially, and shall maintain confidentiality.
+
+Arbitrators shall promptly notify the parties if any of the following circumstances apply:
+
+1.Any ground for mandatory judicial recusal set out in Article 32 of the Code of Civil Procedure;
+
+2.A present or former employment or agency relationship between the arbitrator and a party;
+
+3.A present or former employment or agency relationship between the arbitrator and a party’s representative or a key witness; or
+
+4.Any other circumstance that could raise justifiable doubts as to the arbitrator’s independence or impartiality.
+
+### Article 16
+
+Parties may request the recusal of an arbitrator under any of the following circumstances:
+
+1.Where the arbitrator does not meet the qualifications agreed upon by the parties.
+
+2.Where the arbitrator is subject to any of the circumstances specified in Paragraph 2 of the preceding Article.
+
+Parties shall not request the recusal of an arbitrator they have selected themselves, except where the grounds for the recusal arise after the selection or were not known until after the selection.
+
+### Article 17
+
+A party requesting the recusal of an arbitrator shall submit a written application stating the reasons for recusal to the arbitral tribunal within fourteen days of becoming aware of the grounds for recusal. The arbitral tribunal shall render its decision within ten days of receiving the application. This provision shall not apply where the parties have otherwise agreed.
+
+In the event that the arbitral tribunal has not yet been constituted, the period for submitting the application shall begin upon its constitution.
+
+A party dissatisfied with the decision of the arbitral tribunal may petition the court for a ruling within fourteen days.
+
+A party shall not raise objections to the court's ruling made pursuant to the preceding paragraph.
+
+In the event that both parties request the recusal of an arbitrator, the arbitrator shall recuse themselves immediately.
+
+A party requesting the recusal of a sole arbitrator shall submit such a request to the court.
+
+## CHAPTER III: Arbitral Proceedings
+
+### Article 18
+
+A party shall provide written notice to the other party when submitting a dispute to arbitration.
+
+Unless otherwise agreed by the parties, the arbitral proceedings shall commence upon the respondent’s receipt of the written notice of arbitration.
+
+In the event that the circumstance mentioned in the preceding paragraph involves multiple respondents who receive the notices on different dates, the arbitral proceedings shall commence on the date when the first respondent receives the notice.
+
+### Article 19
+
+In the absence of an agreement on the arbitral procedures, this Law shall apply. Where this Law is silent, the arbitral tribunal may apply the Code of Civil Procedure mutatis mutandis or other rules of procedure which it deems proper.
+
+### Article 20
+
+The seat of arbitration, unless agreed by the parties, shall be determined by the arbitral tribunal.
+
+### Article 21
+
+In the absence of an agreement between the parties regarding the arbitration procedure, the arbitral tribunal shall, within ten days from the date of receipt of the notice of the appointment as arbitrators, determine the place of arbitration and the time for the hearing, and shall notify both parties accordingly. The arbitral tribunal shall render an arbitral award within six months thereafter; if necessary, the period may be extended by three months.
+
+For future disputes, the ten-day period shall commence from the date of receipt of the notice of the occurrence of the dispute.
+
+If the arbitral tribunal fails to render an award within the period specified in the first paragraph, either party may, unless the arbitration is compulsory, directly file a lawsuit or petition for the continuation of litigation. If a party files a lawsuit or petitions for the continuation of litigation, the arbitration procedure shall be deemed terminated.
+
+Article 133 of the Civil Code shall not apply in the event that the direct lawsuit is filed as mentioned in the preceding paragraph.
+
+### Article 22
+
+Any objection to the jurisdiction of the arbitral tribunal shall be determined by the arbitral tribunal. However, a party who has already submitted arguments on the substance of the dispute may no longer raise such an objection.
+
+### Article 23
+
+The arbitral tribunal shall ensure that each party has a full opportunity to present its case and the arbitral tribunal shall conduct the necessary investigations of the claims by the parties.
+
+Unless otherwise agreed by the parties, the arbitral proceedings shall not be made public.
+
+### Article 24
+
+Either party may, in writing, appoint a representative to appear before the arbitral tribunal to make statements for and on its behalf.
+
+### Article 25
+
+In an arbitration involving a foreign element, the parties may agree on the language(s) to be used in the arbitral proceedings. However, the arbitral tribunal or either party may request that any documents relating to the arbitration be accompanied by translations in other languages.
+
+If a party or an arbitrator is not proficient in Mandarin, the arbitral tribunal shall arrange for an interpreter.
+
+### Article 26
+
+The arbitral tribunal may summon witnesses or experts to appear for questioning but shall not require them to testify under oath.
+
+If a witness fails to appear without justifiable reason, the arbitral tribunal may petition the court to order the witness to appear.
+
+### Article 27
+
+The service of documents in arbitration proceedings conducted by the arbitral tribunal shall be governed mutatis mutandis by the provisions on service under the Code of Civil Procedure.
+
+### Article 28
+
+The arbitral tribunal may, when necessary, request assistance from the court or other competent authorities in the conduct of the arbitration.
+
+A requested court may exercise its investigative powers in the same manner and to the same extent as a court having jurisdiction over the case.
+
+### Article 29
+
+A party who knows or ought to know that the arbitral proceedings are in violation of this Law or the arbitration agreement, and nevertheless proceeds without raising an objection, shall be deemed to have waived the right to object.
+
+Any objection shall be decided by the arbitral tribunal, and such decision shall not be subject to appeal.
+
+The assertion of an objection shall not suspend the arbitral proceedings.
+
+### Article 30
+
+In the event that a party asserts any of the following which the arbitral tribunal finds unjustifiable, the arbitration proceedings may continue, and an arbitral award may still be rendered:
+
+1.The arbitration agreement is invalid;
+
+2.The arbitral proceedings are not in accordance with the law;
+
+3.The arbitration agreement has been breached;
+
+4.The arbitration agreement is unrelated to the dispute at issue;
+
+5.The arbitral tribunal lacks jurisdiction.
+
+6.Any other ground for filing a motion to set aside an arbitral award.
+
+### Article 31
+
+Where the parties have expressly agreed, the arbitral tribunal may render its decision based on principles of equity.
+
+### Article 32
+
+The deliberations of an arbitral award shall not be made public.
+
+The decision of a panel of arbitrators shall be determined by a majority vote.
+
+If no single arbitrator’s opinion reaches a majority in a deliberation concerning an amount, the highest amount shall be sequentially combined with the next highest until a majority is reached.
+
+If the panel of arbitrators fails to reach a majority decision, the arbitration proceedings shall be deemed terminated unless otherwise agreed by the parties, and the tribunal shall notify the parties accordingly.
+
+Article 133 of the Civil Code shall not be applicable to the circumstance prescribed in the preceding paragraph, unless a party fails to file a lawsuit within one month after receiving the notification.
+
+### Article 33
+
+To the extent that a decision on the dispute has been reached where a decision can be rendered, the arbitral tribunal shall declare the conclusion of the hearing and shall issue an arbitral award within ten days, addressing the claims and issues raised by the parties.
+
+An arbitral award shall contain the following elements:
+
+1.The name and domiciles or residences of the parties. If a party is a corporate entity or another type of organization or institution, its name, registered office, principal office or business office address shall be stated.
+
+2.The names and domiciles or residences of the statutory agents or representatives, if any, of the parties.
+
+3.The names, nationalities, and domiciles or residences of the interpreters, if any.
+
+4.The main text of the decision.
+
+5.The relevant facts and reasons for the arbitral award, unless the parties have agreed that such information need not be provided.
+
+6.The date and place of the arbitral award.
+
+The original award shall be signed by the arbitrator(s) who participated in the deliberation. If an arbitrator refuses or is unable to sign the award, the signing arbitrator(s) shall provide a written explanation for the missing signature(s).
+
+### Article 34
+
+The arbitral tribunal shall deliver the original copy of the arbitral award to the parties.
+
+The original copy of the award prescribed in the preceding paragraph, along with the service report, shall be submitted to the court at the seat of arbitration for record-keeping.
+
+### Article 35
+
+The arbitral tribunal may correct, on its own initiative or upon request, any clerical, computational, or typographic errors, or any other manifest errors of a similar nature in the award, and shall provide written notification of this correction to the parties as well as the court. The foregoing is likewise applicable to any discrepancy between an official copy of the arbitral award and the original thereof.
+
+### Article 36
+
+Any dispute in a legal proceeding that shall be settled exclusively pursuant to the summary proceeding prescribed in the Code of Civil Procedure may be submitted to an arbitration institution by agreement of the parties. The arbitration institution shall appoint a sole arbitrator to conduct the arbitration pursuant to the procedure rules for summary arbitration procedure prescribed by the arbitration institution.
+
+In any case other than those prescribed in the preceding paragraph, the parties may agree to adopt the summary arbitration procedure prescribed by the arbitration institution.
+
+## CHAPTER IV: Enforcement of Arbitral Award
+
+### Article 37
+
+The award shall, as applicable, be binding on the parties and have the same force as a final judgment of a court.
+
+An award shall not be enforceable unless a competent court has on application of a concerned party, granted an enforcement order. However, the arbitral award may be enforced without an enforcement order granted by a competent court if the parties to the arbitration so agree in writing and the arbitral award concerns any of the following subject matters:
+
+1.Payment of a specified sum of money or a certain amount of fungible goods or valuable securities;
+
+2.Delivery of a specified movable property.
+
+The provision of the preceding paragraph is binding not only on the parties but also on the following persons with respect to the arbitration:
+
+1.Successors of the parties after the commencement of the arbitration, or those who have taken possession of the contested property for a party or its successors.
+
+2.Any entity on whose behalf a party enters into an arbitration proceeding; the successors of said entity after the commencement of arbitration; and those who have taken possession of the contested property for said entity or its successors.
+
+### Article 38
+
+The court shall dismiss a petition for an enforcement under any of the following circumstances:
+
+1.The arbitral award concerns a dispute that is unrelated to the subject matter of the arbitration agreement or exceeds the scope of the arbitration agreement, unless the affected portion of the award may be severed and such severance does not affect the remainder of the award.
+
+2.The reasons for the arbitral award were not stated, unless such omission was rectified by the arbitral tribunal.
+
+3.The arbitral award requires a party to perform an act prohibited by law.
+
+### Article 39
+
+If a party to an arbitration agreement petition the court for a provisional attachment or injunction pursuant to the provisional remedy proceedings under the Code of Civil Procedure, but has not yet submitted the dispute to arbitration, the court granting the provisional attachment or injunction shall, upon request of the opposing party, order the applicant to submit the dispute to arbitration within a specified period. However, in the event that the applicant is also entitled to initiate litigation, the court may also order the party to file a lawsuit.
+
+If the applicant of the provisional remedy proceedings fails to submit the dispute to arbitration or initiate litigation within the specified period prescribed in the preceding paragraph, the court may, upon request of the opposing party, revoke the ruling on provisional attachment or injunction.
+
+## CHAPTER V: Motion to Set Aside an Arbitral Award
+
+### Article 40
+
+A party may file a motion to set aside an arbitral award under any of the following circumstances:
+
+1.Any of the circumstances set forth in Article 38 apply.
+
+2.The arbitration agreement was not formed, is invalid, or had not taken effect or had become ineffective at the time the arbitral tribunal concluded its hearings.
+
+3.The arbitral tribunal failed to allow the parties to present their arguments before concluding its hearings, or a party was not duly represented in the arbitration proceedings.
+
+4.The composition of the arbitral tribunal or the arbitration proceedings violated the arbitration agreement or the law.
+
+5.An arbitrator violated the disclosure obligations prescribed in Paragraph 2 of Article 15 and is biased, or participated in the arbitration despite being subject to a challenge, unless the challenge was dismissed pursuant to this Law.
+
+6.An arbitrator participating in the arbitration committed a criminal offense in relation to the arbitration by breaching their duties.
+
+7.A party or its representative committed a criminal offense in relation to the arbitration.
+
+8.The evidence or interpretation upon which the arbitration award relies, was forged, altered, or is otherwise fraudulent.
+
+9.If a judgment of a criminal or civil matter, or an administrative ruling upon which the arbitration award relies, has been reversed or materially altered by a final judgment or administrative ruling.
+
+The circumstances described in subparagraphs 6 to 8 of the preceding paragraph shall be limited to cases where a guilty verdict has been rendered and finalized, or where criminal proceedings cannot be commenced or continued for reasons other than insufficient evidence.
+
+The circumstances described in subparagraph 4 regarding violations of the arbitration agreement, as well as subparagraphs 5 to 9, shall be limited to cases where such violations are sufficient to affect the outcome of the arbitral award.
+
+### Article 41
+
+A motion to set aside an arbitral award may be filed with the district court at the seat of arbitration.
+
+A motion to set aside shall be filed with the court within a peremptory thirty-day period from the date the award is rendered or served. However, if any of the grounds mentioned in subparagraphs 6 to 9 of the first paragraph of the preceding Article exist, and if it is indicated that the party’s failure to file a motion to set aside the award within the prescribed period was not due to its own fault, then the thirty-day period shall commence from the date the party becomes aware of the grounds for setting aside. In any case, a motion to set aside an arbitral award shall be time-barred after five years from the date on which the arbitral award was rendered.
+
+### Article 42
+
+In the event that a party files a motion to set aside an arbitral award, the court may, upon the party’s request, order a stay of enforcement of the arbitral award, provided that the applicant furnishes appropriate and definite security.
+
+If the court sets aside an arbitral award, it shall, by its authority, simultaneously revoke any enforcement order issued in connection with the award.
+
+### Article 43
+
+Once an arbitral award has been set aside by a final judgment of a court, a party may initiate litigation concerning the dispute unless the parties have agreed otherwise.
+
+## CHAPTER VI: Settlement and Mediation
+
+### Article 44
+
+The parties to an arbitration may reach a settlement before the arbitral award is rendered. If the parties reach a settlement before the conclusion of the arbitration, the arbitrator shall issue a settlement agreement reflecting the agreed terms.
+
+A settlement agreement under the preceding paragraph shall have the same force and effect as that of an arbitral award. However, the settlement agreement shall only be enforced upon the court’s approval of an enforcement application and issuance of an enforcement order.
+
+### Article 45
+
+In the absence of an arbitration agreement, the arbitration institution may, upon the request of a party and with the consent of the other party, facilitate mediation by appointing an arbitrator selected by both parties. If the mediation is successfully concluded, the arbitrator shall prepare a mediation record.
+
+A mediation record prescribed in the preceding paragraph shall have the same force and effect as an arbitral settlement. However, the mediation shall only be enforced upon the court’s approval of an enforcement application and issuance of an enforcement order.
+
+### Article 46
+
+The provisions of Article 38 and Articles 40 to 43 shall apply mutatis mutandis to settlement and mediation proceedings hereunder.
+
+## CHAPTER VII: Foreign Arbitral Award
+
+### Article 47
+
+A foreign arbitral award refers to an arbitral award rendered outside the territory of the Republic of China or an arbitral award made in accordance with foreign laws within the territory of the Republic of China.
+
+A foreign arbitral award, upon recognition by the court, shall have the same force and effect as a final judgment of the court and may serve as a title for enforcement.
+
+### Article 48
+
+A petition for recognition of a foreign arbitral award shall be submitted to the court, along with the following documents:
+
+1.The original arbitral award or an authenticated copy thereof;
+
+2.The original arbitration agreement or an authenticated copy thereof;
+
+3.The full text of the applicable foreign arbitration laws, regulations, institutional rules of the foreign arbitration, or international arbitration rules governing the arbitral award.
+
+If the documents in the preceding paragraph are made in a foreign language, a copy of the Chinese translation thereof shall be submitted.
+
+The word “authenticated' as mentioned in subparagraphs 1 and 2 of paragraph 1 refers to authentication made by embassies, consulates, representative offices, liaison offices, or any other agencies duly authorized by the government of the Republic of China.
+
+Copies of the petition mentioned in paragraph 1 shall be prepared in accordance with the number of respondents and submitted to the court, which shall serve the copies on the respondents.
+
+### Article 49
+
+The court shall dismiss a petition submitted by a party for recognition of a foreign arbitral award, if the award involves any of the following circumstances:
+
+1.Where the recognition or enforcement of the arbitral award is contrary to the public order or good morals of the Republic of China.
+
+2.Where the subject matter of the dispute is not arbitrable under the laws of the Republic of China.
+
+The court may dismiss a petition for recognition of a foreign arbitral award if the country where the award was rendered, or the country whose arbitration laws governed the award, does not recognize arbitral awards of the Republic of China.
+
+### Article 50
+
+If a party petitions the court for recognition of a foreign arbitral award which concerns any of the following circumstances, the respondent may request the court to dismiss the petition within twenty days from the date of receipt of the notice of the petition:
+
+1.The arbitration agreement is invalid due to the incapacity of a party under the applicable law chosen by the parties.
+
+2.The arbitration agreement is null and void under the law chosen by the parties, or in the absence of such choice, under the law of the place where the award was rendered.
+
+3.A party was not properly served with the appointment of an arbitrator or other procedural matters, or there exist circumstances indicating a lack of due process.
+
+4.The arbitral award is unrelated to the subject matter of the arbitration agreement or exceeds its scope, unless the offending portion can be severed without affecting the remainder of the award.
+
+5.The composition of the arbitral tribunal or the arbitration procedure violates the arbitration agreement or in the absence of such agreement, the law of the seat of arbitration.
+
+6.The arbitral award is not yet binding on the parties or has been revoked or suspended by a competent authority.
+
+### Article 51
+
+Where a party to an arbitration petition for setting aside a foreign arbitral award or suspension of the enforceability of a foreign arbitral award, the court may, upon request, order the applicant to provide an appropriate and adequate security to suspend the recognition or enforcement proceedings until a final determination on the foreign arbitral award is made.
+
+If the foreign arbitral award referred to in the preceding paragraph has been revoked, the court shall dismiss any petition for recognition or, upon request, rescind any recognition of the arbitral award.
+
+## CHAPTER VIII: Additional Provisions
+
+### Article 52
+
+Unless otherwise provided in this Law, the court shall apply the provisions of the Non-contentious Matters Law in arbitral proceedings. In the absence of applicable provisions therein, the provisions of the Code of Civil Procedure shall apply mutatis mutandis.
+
+### Article 53
+
+A dispute that is required to be submitted to arbitration pursuant to other laws shall be governed mutatis mutandis by this Law, unless otherwise provided in such laws.
+
+### Article 54
+
+Arbitration institutions may be solely or jointly established by professional or social organizations at any level and shall be responsible for the registration and deregistration of arbitrators and the administration arbitration matters.
+
+The regulations governing organization, establishment approval, revocation or annulment of approval, arbitrators' registration and deregistration, arbitration fees, mediation procedures, and mediation fees shall be jointly prescribed by the Executive Yuan and the Judicial Yuan.
+
+### Article 55
+
+To promote arbitration and mitigate the sources of litigation, the government may provide subsidies to arbitration institutions as deemed necessary.
+
+### Article 56
+
+The provisions of this Law shall take effect from the date of promulgation, except for those provisions amended and promulgated on June 24, 1998, which took effect six months thereafter, and those amended and promulgated on December 15, 2009, which took effect on November 23, 2009.
+
+## History
+
+1.Promulgated on January 20, 1961
+
+2.Amended on June 11, 1982
+
+3.Amended on December 26, 1986
+
+4.As amended on June 24, 1998 and effective on December 24, 1998
+
+5.Articles 8, 54, and 56 as amended and effective on July 10, 2002
+
+6.Articles 7and 56 as amended on December 30, 2009
+
+7.Amended on December 2, 2015

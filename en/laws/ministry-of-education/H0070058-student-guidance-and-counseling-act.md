@@ -1,0 +1,325 @@
+---
+title: "Student Guidance and Counseling Act"
+title_zh: "學生輔導法"
+identifier: "H0070058"
+type: act
+law_level: "法律"
+category: "行政＞教育部＞學生事務及特殊教育目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2014-11-12
+last_amended: 2024-12-18
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=H0070058"
+retrieved: 2026-10-12
+---
+
+# Student Guidance and Counseling Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-education/H0070058-student-guidance-and-counseling-act.md](../../../zh/laws/ministry-of-education/H0070058-student-guidance-and-counseling-act.md)) is authoritative.
+
+## Article 1
+
+This Act has been formulated for the purpose of promoting and protecting students’ physical and mental health and holistic development, and to ensure sound student guidance and counseling work.
+
+Student guidance and counseling shall be implemented in accordance with the provisions of this Act, except when there are other regulations prescribed in the Special Education Act or the applicable laws governing juvenile reformatory schools.
+
+## Article 2
+
+In this Act, the term "competent authority" refers to the Ministry of Education at the central government level (the central competent authority); to the municipal government at the municipality level; and to the county (city) government at the county (city) level.
+
+The competent authority for military academies and preparatory schools is the Ministry of National Defense; and the competent authority for police colleges at all levels is the Ministry of the Interior; and the competent authority for juvenile reformatory schools is the Ministry of Justice.
+
+When any matter stipulated in this Act involves an area over which any other competent authority exercises administrative oversight, each competent authority shall work in coordination with any other one involved to achieve the aims of this Act.
+
+## Article 3
+
+The terms used in this Act are defined as follows:
+
+\1. School(s): Any public or private educational institutions at the elementary, secondary, or higher levels, military academies, military preparatory schools, police colleges at all levels, and juvenile reformatory schools.
+
+\2. Guidance teacher: A teacher who satisfies the requirements to be a guidance teacher in any school up to and including the senior secondary level, who in accordance with the law and regulations is assigned to engage in student guidance and counseling work in such a school.
+
+\3. Professional school counselor: A person who holds the national license as a clinical psychologist, counseling psychologist, or social worker, who has been engaged in accordance with legislation by the competent authority or a school to undertake student counseling work.
+
+The requirements to be a guidance teacher referred to subparagraph 2 of the previous paragraph shall be prescribed by the central competent authority.
+
+The provisions regarding parent representatives as prescribed in Article 4, paragraphs 2-5; Article 5; and Article 8, paragraph 2, do not apply to juvenile reformatory schools.
+
+## Article 4
+
+To exercise administrative oversight of student guidance and counseling, the competent authority at each level shall assign a dedicated unit or dedicated personnel to handle the planning and implementation of student guidance and counseling work.
+
+The competent authority for schools up to and including the senior secondary level shall establish a student guidance and counseling center responsible for undertaking the following:
+
+\1. Plan, arrange, and  place professional school counselors.
+
+\2. Provide guidance and counseling, referral and transfer services for students with serious problems in adjustment difficulties, deviant behavior problems, and self-harm.
+
+\3. Provide assessment and evaluation of individual and system, guidance and counseling, and resource referral services for students receiving the services.
+
+\4. Coordinate and dispatch professional counselors to support the direct and indirect services,  including psychological assessment, guidance and counseling work, and resource connection, for schools to handle crises.
+
+\5. Support the professional consultation services of school teachers and parents.
+
+\6. Support schools to hold case meetings for system integration.
+
+\7. Provide counseling and treatment effectiveness evaluation and follow-ups on serious cases.
+
+\8. Organize professional enhancement, training, and supervision for guidance teachers and assist the competent authorities in planning professional development and training for guidance teachers.
+
+\9. Assist competent authorities in promoting major student guidance and counseling policies.
+
+\10. Plan and promote other matters in relation to student guidance and counseling.
+
+The student guidance and counseling centers shall be staffed with, center supervisors, professional school counselors, and administrative staff who oversee professional school counselors. School competent authorities shall select those with expertise in guidance and counseling as center supervisors.
+
+The central competent authority shall consult with the competent authorities at the municipality and county (city) levels to establish the regulations governing the organization; establishment and planning; facilities and equipment; promotion and operation; qualifications, selection, secondment, training, and reward of staff; coordination and communication with schools; and supervision of student guidance and counseling centers of competent authorities at all levels.
+
+To facilitate the operation of student guidance and counseling centers, improve the expertise and enhance the service willingness, as well as provide students with comprehensive guidance and counseling access, competent authorities at all levels shall allocate adequate budgets. The central competent authority shall review and modify the operation policies in coordination with the competent authorities at the municipality and county (city) levels every year to ensure compliance with the intent of this paragraph.
+
+## Article 5
+
+In order to advance the development of student guidance and counseling work, the competent authority at each level shall convene a student counseling advisory committee, responsible for undertaking the following:
+
+\1. Professionals in related fields, including clinical psychologists, counseling psychologists, social workers, and psychiatrists.
+
+\2. Coordinate the efforts of schools under their supervision and other relevant authorities (institutions) to facilitate and develop student guidance and counseling-related work.
+
+\3. Research and discuss the future development direction for implementation of student guidance and counseling measures.
+
+\4. Provide advice on strategies, programs, and planning associated with the promotion and development of student guidance and counseling work.
+
+\5. Provide advice on student guidance and counseling courses, teaching materials, activity planning, and research and development.
+
+\6. Coordinate with other competent authorities when a particular activity falls within their jurisdiction, and bring in resources from the private sector, to jointly facilitate student guidance and counseling work.
+
+\7. Other consultation associated with the advancement and development of student guidance and counseling work.
+
+The advisory committee referred to in the preceding paragraph shall have one person as convener; the head of the competent authority at each level shall take on this role. The head of competent authority at each level shall appoint other committee members from the following personnel:
+
+\1. Related professional personnel, including clinical psychologists, counseling psychologists, social workers, and psychiatrists.
+
+2 .Related scholars and experts other than those indicated in the above subparagraph.
+
+3 .Education administrative staff.
+
+\4. School administrative staff, including guidance and counseling office directors.
+
+\5. Teacher representatives, including guidance teachers and special education teachers.
+
+\6. Parent representatives.
+
+\7. Student representatives.
+
+\8. Representativ Representatives of relevant authorities (institutions) or professional groups.es of relevant authorities (institutions) or professional groups.
+
+The total number of members representing education administrative staff and school administrative staff, as stated in the preceding paragraph, shall not exceed one-half of the total number of committee members. The committee members of any gender shall not be less than one-third of the total number of committee members.
+
+The regulations governing the selection and appointment of members, as well as the organization and operating methods, of the student counseling advisory committee referred to in paragraph 1 shall be prescribed by the competent authority at each level.
+
+## Article 5-1
+
+Maintaining the best interest of children and youth shall be the basic principle of student guidance and counseling work. For decisions involving the conflict of rights of different subjects, the protection of the rights of children and youth shall be prioritized. Interpretations shall be made in the best interest of children and youth.
+
+When providing guidance and counseling to students, special attention should be given to children and youths’ expression of their opinions, physical and mental health, the right to education and other relevant rights , as well as their self-identity, family bonding, caregiving, protection and safety, and other related needs.
+
+With the consent of the students who are minor, and the counseling referrals made by the school case assessment meeting, then to the best interests of students, the professional school counselors with psychologist license can provide counseling services without the consent of the legal representatives, and this practice is not subject to the restrictions of Article 19 of the Psychologists Act.
+
+## Article 6
+
+Schools shall provide three levels of guidance and counseling—developmental guidance, intervention-based guidance, and comprehensive treatment services—based on students’ physical and psychological status and needs.
+
+The three levels of guidance and counseling referred to in the previous paragraph are detailed as follows:
+
+\1. Developmental guidance: To advance students' psychological well-being, social adjustment, and adaptive development, schools shall formulate a school guidance and counseling work plan, and implement measures to provide life counseling guidance, academic support, and career counseling, for all students.
+
+\2. Intervention-based guidance: Early identification, discovery, and timely intervention shall be implemented for students in need of personalized guidance and counseling This applies to students with maladjustment, emotional distress, and deviant behavior, or traumatic experiences.Based on individual needs, schools should develop personalized guidance programs that may include consultation, individual or group counseling, and other supportive measures. Assessment and referral mechanisms should also be provided for case management, guidance, and counseling.
+
+\3. Comprehensive treatment services: Integrated services should be given to students with serious difficulties or problems in school adjustment, deviant behavior, serious violations, or students in need of continuous guidance and counseling based on their needs. The integrated service should be provided in collaboration with various resources and professional services, including psychotherapy, social work, family guidance and counseling, occupational therapy, legal services, and psychiatric treatment.
+
+In the event of an emergency case, schools up to and including the senior secondary level, in collaboration with the student guidance and counseling center, may convene a case assessment meeting to decide the necessity of referring the case to comprehensive treatment services.
+
+In the event of an emergency case, schools up to and including the senior secondary level may refer the case to remedial counseling when it is necessary after the targeted or case assessment meeting convened by the school and the student guidance and counseling center.
+
+## Article 6-1
+
+Schools shall maintain records of students receiving intervention-based guidance and comprehensive treatment services for follow-up services.
+
+Schools may convene case assessment meetings to establish guidance and counseling programs or plans, based on the individual traits of students.
+
+Schools may convene case conferences to establish guidance and counseling programs or plans, based on the individual traits of students.
+
+Schools up to and including the senior secondary level shall invite school administrative staff, related teachers, and guidance teachers to engage in establishing strategies associated with guidance and counseling programs or plans. They may also invite professional school counselors, the parents, and the student to engage in the process based on the student’s needs.
+
+Colleges and institutions for higher education shall invite school administrative staff, related teachers, and professional school counselors to engage in establishing guidance and counseling programs or plans. They may also invite the student or the student’s parents to engage in the process based on the student’s needs.
+
+Schools may handle the attendance records or performance evaluations of students in need of guidance and counseling with flexibility. Schools may also proactively assist such students in catching up with schoolwork irrespective of the limitations prescribed in related regulations.
+
+Both academic and administrative staff of schools should cooperate with the strategies associated with guidance and counseling programs or plans as prescribed in paragraphs 2-5 within their duties.
+
+## Article 7
+
+School principals, teachers, and professional school counselors are all responsible for guidance and counseling work for students.
+
+All school administrative units shall conjointly facilitate and implement measures associated with the three levels of guidance and counseling as prescribed in Article 6, assist the personnel specified in the preceding paragraph in practicing their guidance and counseling duties, and arrange guidance- and counseling-related courses or activities.
+
+For students who have dropped out of school, have prolonged absence from school, have withdrawn from school, have physical and mental disabilities, exhibit self-harming behaviors, face hardship, experience cultural or economic disadvantages, and show apparent need of guidance and counseling, the responsible unit or responsible person of schools up to and including the senior secondary level should proactively offer guidance and counseling resources.
+
+When implementing student guidance and counseling, schools may combine the resources of the student guidance and counseling center, special education resource center, family education center, student off-campus guidance and counseling committee, and the youth guidance and counseling committee. They may seek assistance from other related agencies (institutions). The requested relevant authorities (institutions) shall cooperate with such requests.
+
+## Article 8
+
+Schools up to and including the senior secondary level shall set up a student guidance and counseling committee responsible for the following:
+
+\1. Integrate appropriate resources of the school's various units, formulate student counseling work plans, and implement plans and assess their results.
+
+\2. Plan and/or arrange activities related to student guidance and counseling work for students, teachers and other staff, administrative personnel, and parents.
+
+\3. Utilize parental support and private-sector resources to promote and facilitate student guidance and counseling work.
+
+\4. Other matters related to the promotion and development of student guidance and counseling work.
+
+The student guidance and counseling committee referred to in the previous paragraph shall have one chairperson, with the school principal taking on this role. The other committee members shall be appointed by the principal from among the school's administrators, guidance teachers or professional school counselors, teacher representatives, non-teaching staff representatives, student representatives, and parent representatives; the committee members of any gender shall not be less than one-third of the total number of committee members. However, junior high schools and primary schools may be exempted from appointing any student representative to the committee based on their circumstances.
+
+The regulations governing the organization, meetings, and other matters associated with the student guidance and counseling committee referred to in paragraph 1 shall be prescribed by the school.
+
+The regulations governing the organization, meetings, and other matters associated with the student guidance and counseling committee referred to in Paragraph 1 shall be prescribed by the school.
+
+In order to integrate the resources of the school's various units to facilitate and advance student guidance and counseling work, schools at the junior college level or higher may also apply the provisions of the previous three paragraphs, mutatis mutandis, and set up a student guidance and counseling committee.
+
+## Article 9
+
+Each school shall facilitate student guidance and counseling work by having a dedicated unit or dedicated personnel take charge of the collection, handling, and use of student information; conduct student intelligence, aptitude, and personality tests; survey students’ interests, achievements, and aspirations; and conduct counseling, and consultations.
+
+Schools shall designate a place to properly retain student guidance and counseling data as prescribed in the preceding paragraph. The central competent authority shall establish regulations governing the methods and duration of retention and destruction of such data and the collection, processing, and use of student personal data.
+
+Those with guidance and counseling specialties should be prioritized for the appointment of the school guidance and counseling administrators.
+
+## Article 10
+
+Schools up to and including the senior secondary level shall have the following numbers of full-time guidance teachers on their staff:
+
+\1. Primary schools with 20 or fewer classes shall employ one full-time guidance teacher; those with 21 or more classes shall employ one full-time guidance teacher for every 20 classes.
+
+\2. Junior high schools with 12 or fewer classes shall employ one full-time guidance teacher on staff; those with 13 or more classes shall employ one full-time guidance teacher for every additional 12 classes.
+
+\3. Senior secondary schools with 12 or fewer classes shall employ one full-time guidance teacher; and those with 13 or more classes shall employ one full-time guidance teacher for every additional 12 classes.
+
+A school that offers education at two or more levels shall separately employ one or more full-time guidance teachers for each level of education offered, in accordance with the provisions stipulating the number required for each individual level.
+
+## Article 11
+
+The competent authorities of schools up to and including the senior secondary level shall employ full-time professional school counselors in accordance with the following regulations. They may also employ a number of part-time professional school counselors based on actual needs.
+
+\1. Based on the number of schools within their jurisdiction: One counselor for less than 20 schools; two counselors for 21-40 schools; and so on for 41 and more schools.
+
+\2. Based on the total student population within their jurisdiction: Divide the total student population by the base number of 4,500-5,000 (as announced by the competent authority at the central government level).
+
+The central competent authority may approve increases to the number of full-time professional school counselors for the jurisdiction of any competent authority of schools up to and including the senior secondary level, taking into account student needs and regional differences. Such increases shall not exceed six percent of the total number of full-time professional school counselors nationwide as prescribed in paragraph 1.
+
+The central competent authority may subsidize, based on actual needs, the funds required by the competent authorities at the municipality level and county (city) level for hiring the full-time professional school counselors as prescribed in paragraphs 1 and 2.
+
+The central competent authority shall establish the regulations governing the qualifications, establishment, hiring, salary, suspension, dismissal, implementation methods, duration, report of incompetent personnel, and other related matters regarding the full-time professional school counselors hired by the competent authorities of schools up to and including the senior secondary level in accordance with paragraphs 1 and 2. Such regulations should be developed in coordination with the competent authorities at the municipality level and county (city) level.
+
+Junior colleges and institutions for higher education with less than 900 students shall hire at least one full-time professional school counselor. When there are more than 900 students, they shall hire one more full-time professional school counselor for every 900 students. They may consider hiring one more full-time professional school counselor based on actual needs when the additional number of students is less than 900 students but more than 450 students Open universities and religious studies institutions are exempt from these requirements.
+
+For schools with multiple campuses, the number of certified guidance counselors at each campus shall be separately determined based on the total number of students at that specific campus.
+
+## Article 11-1
+
+The competent authorities of schools up to and including the senior secondary level shall select at least one in every seven professional school counselors as the supervisor within their jurisdiction. If the total number of professional school counselors within the jurisdiction is less than seven, they shall also select one as the supervisor.
+
+## Article 12
+
+Teachers at schools up to and including the senior secondary level shall implement developmental guidance and shall also proactively collaborate with the guidance and counseling office to support intervention-based guidance and comprehensive treatment services.
+
+Guidance teachers at schools up to and including the senior secondary level shall plan developmental guidance and shall also combine on- and off-campus resources, implement and assess the suitability of intervention-based guidance, and assist with the promotion of comprehensive treatment services.
+
+The professional school counselors hired by the competent authorities of schools shall implement the intervention-based guidance and comprehensive treatment services, as well as assist with the promotion of developmental guidance.
+
+Academic and administrative staff of junior colleges and institutions for higher education shall implement developmental guidance and shall also proactively collaborate with the guidance and counseling centers to support intervention-based guidance and comprehensive treatment services.
+
+Professional school counselors shall take charge of intervention-based guidance and comprehensive treatment services and assist with the promotion of developmental guidance.
+
+The central competent authority shall consult the competent authorities at the municipality and county (city) levels to establish the regulations governing the recipients, contents, division of responsibilities, referral, administrative support of all administrative units, and other related matters of guidance and counseling work for teachers, guidance teachers, and professional school counselors at schools up to and including the senior secondary level.
+
+If a student considers that the counseling measures arranged by the school are illegal or inappropriate and files a complaint about the damage on his/her rights and interest, the complaint shall be handled in accordance with the Primary and Junior High School Act, Senior High School Education Act, Junior College Act, University Act, and Special Education Act.
+
+## Article 13
+
+Schools up to and including the senior secondary level shall arrange developmental guidance related courses and in-class guidance activities, in accordance with curriculum requirements; these shall be taught by a full-time teacher of the particular subject or by a guidance teacher.
+
+It is not permitted to allocate full-time guidance teachers to a regular teaching role. But if guidance teachers teach developmental guidance-related courses in response to curriculum requirements, the regulations governing full-time guidance teachers’ teaching hours shall be prescribed by the relevant competent authority.
+
+## Article 14
+
+Competent authorities at all levels shall plan appropriate channels for professional training and facilitate the pre-service training and in-service continuing education of guidance and counseling competencies for academic and administrative staff and professional school counselors.
+
+Schools shall arrange periodically training on guidance and counseling competencies for school principals, academic and administrative staff, and professional school counselors. Such training should also be included in the annual guidance and counseling plan for implementation.
+
+The competent authorities of schools up to and including the senior secondary level shall arrange periodically a minimum of 18 hours of pre-service training for new guidance and counseling directors or leaders. They shall also arrange periodically a minimum of 12 hours of in-service continuing education for guidance and counseling directors or leaders every academic year. The hiring authorities or schools shall grant official (service) leave to personnel participating in training or continuing education.
+
+The competent authorities of schools up to and including the senior secondary level shall arrange periodically a minimum of 36 hours of pre-service training for new guidance teachers and new professional school counselors. They shall also arrange periodically a minimum of 18 hours of in-service continuing education for guidance teachers and new professional school counselors every academic year. The hiring authorities or schools shall grant official (service) leave to personnel participating in training or continuing education.
+
+The actual needs at work of participants shall be considered in the content of the pre-service training and in-service continuing education as prescribed in the preceding two paragraphs. The pre-service training and in-service continuing education may be offered in the forms of training sessions, workshops, professional supervision, professional learning communities of teachers, visits, and experience exchanges. Instructors of these training programs shall have relevant competencies or practical experience.
+
+Schools up to and including the senior secondary level shall arrange periodically a minimum of 3 hours of in-service continuing education on guidance and counseling competencies for school principals and academic and administrative staff. The hiring authorities or schools shall grant official (service) leave to personnel participating in training or continuing education.
+
+## Article 15
+
+The compliance of in-service training and the effectiveness of student counseling work shall be taken into account in the guidance teachers and professional school counselors’ performance reviews, and those whose performance is outstanding shall receive appropriate recognition and incentives.
+
+## Article 16
+
+Schools shall set up the facilities and equipment required to undertake student guidance and counseling work and institute and facilitate such work; the criteria for setting up such facilities and equipment shall be prescribed by the central competent authority.
+
+## Article 17
+
+Personnel involved in student counseling work are not permitted to disclose any information or confidential information they have about other persons which they have obtained in the course of performing their duties, and they are bound by a duty of confidentiality. This restriction does not apply, however, where disclosure is required under the provisions of another law or regulation or when taking action to avert an imminent crisis or danger.
+
+The personnel referred to in the previous paragraph shall also strictly abide by professional ethical standards and protect the rights and benefits of students receiving professional guidance and counseling services.
+
+## Article 18
+
+Each school shall undertake regular assessment and evaluation of its guidance and counseling work, and institute accountability for student guidance and counseling work.
+
+The competent authority at each level shall regularly assess and evaluate the effect and results of each school’s student guidance and counseling work. The results shall be incorporated into each school’s evaluation. Schools with outstanding results shall receive appropriate recognition and incentives; schools performing poorly shall be provided with advice to help them improve.
+
+## Article 19
+
+In order to ensure students’ needs in guidance and counseling services at each stage of education is well-connected, schools shall provide comprehensive and sustained referral and transition services; the regulations governing the referral and transition services shall be prescribed by the central competent authority.
+
+The central competent authority may set up a student reporting system for schools to undertake the reporting and the guidance and counseling work transition referred to in the previous paragraph.
+
+## Article 20
+
+To facilitate student guidance and counseling work, the competent authority at each level and schools shall prioritize the necessary funding and allocate specific funding for this purpose only.
+
+## Article 21
+
+Parents, guardians, or legal representatives of students attending schools up to and including the senior secondary level shall fulfill parental educational duties, play their part in sharing responsibility for providing guidance, work together with the schools by participating in activities related to student guidance and counseling, and provide assistance when necessary.
+
+In order to encourage more parent participation in student counseling work, schools at all levels shall proactively provide parents with information about counseling resources and notify them about counseling-related activities.
+
+## Article 22
+
+The numbers of full-time guidance teachers and full-time professional school counselors to be employed, stipulated in Article 10 and Article 11, shall increase annually, commencing on August 1, 2017, and the central competent authority shall examine and review these staffing requirements every five years, commencing from 2017.
+
+## Article 23
+
+The enforcement rules for this Act shall be prescribed by the central competent authority.
+
+## Article 24
+
+This Act is effective from the date of promulgation.
+
+Amendments have been made to Articles 1, 2, 3, 11, and 11-1. The Executive Yuan shall determine the date of implementation.
+
+## History
+
+\1. Presidential Order No. 168991 promulgating this Act comprising twenty-four articles was issued on November 12, 2014
+
+\2. Presidential Decree Hua-Zong-Yi-Zi No. 11300118951, promulgated on December 18, 2024:Amendments to Articles 1 to 5, 6, 7, 9 to 11, 12, 14, and 24. Addition of Articles 5-1, 6-1, and 11-1. Except for the effective dates of Articles 1 through 3, 11, and 11-1—which shall be determined by the Executive Yuan—all other amended and newly added articles shall take effect immediately from the date of promulgation.

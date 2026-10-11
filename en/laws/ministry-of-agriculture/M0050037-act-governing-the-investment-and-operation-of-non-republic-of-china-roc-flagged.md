@@ -1,0 +1,193 @@
+---
+title: "Act Governing the Investment and Operation of Non-Republic of China (ROC) Flagged Fishing Vessels"
+title_zh: "投資經營非我國籍漁船管理條例"
+identifier: "M0050037"
+type: act
+law_level: "法律"
+category: "行政＞農業部＞漁業目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2008-12-17
+last_amended: 2016-07-20
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0050037"
+retrieved: 2026-10-12
+---
+
+# Act Governing the Investment and Operation of Non-Republic of China (ROC) Flagged Fishing Vessels
+
+> Translation. The Chinese text ([zh/laws/ministry-of-agriculture/M0050037-act-governing-the-investment-and-operation-of-non-republic-of-china-roc-flagged.md](../../../zh/laws/ministry-of-agriculture/M0050037-act-governing-the-investment-and-operation-of-non-republic-of-china-roc-flagged.md)) is authoritative.
+
+## Article 1
+
+The Act Governing the Investment and Operation of Non-Republic of China (ROC) Flagged Fishing Vessels (hereinafter referred to as “the Act”) is enacted to regulate persons with the nationality of the Republic of China (hereinafter referred to as “the ROC") who engage in fishery by investing in and operating non-ROC flagged fishing vessels, for the purpose of conserving marine fisheries resources, whereby contributing to good governance of international fisheries.
+
+## Article 2
+
+The competent authority of the Act is the Council of Agriculture, Executive Yuan.
+
+## Article 3
+
+Terms used in the Act shall be defined as follows:
+
+(1) “overseas” means maritime areas beyond the territorial sea and the exclusive economic zone of the ROC.
+
+(2) “invest/investment” means using a certain amount of money or sharing, such as funding, fishing equipment or facilities, and rights, solely or jointly in the operation of fishery.
+
+(3) “operate/operation” means operating businesses of fishing, trading, transporting, import, and export of catch or fisheries products, using one’s own or chartered fishing vessels(s).
+
+(4) “engage in fishery” means the conducting activities of fishing, trading, transporting, import, and export of catch or fisheries products, using one’s own or chartered fishing vessel(s).
+
+(5) “fish laundering” means activities that constitute any of the following behaviors:
+
+i.selling or transacting in, under the name of a national fishing vessel, catch or fisheries products of species regulated by international fisheries organizations and caught by any non-ROC flagged fishing vessel.
+
+ii.selling or transacting in, under the name of a non-ROC flagged fishing vessel that is invested and operated by a person with the nationality of the ROC, catch or fisheries products of species regulated by international fisheries organizations and caught by any other fishing vessels;
+
+(6) “interested party” means any person who holds or maintains information relating to catch amount, fishing periods, fishing gears, fishing methods, and investment and operation of fishing vessels.
+
+The certain amount of money or sharing as referred to in subparagraph (2) of the preceding paragraph shall be announced by the competent authority.
+
+## Article 4
+
+Any person with the nationality of the ROC is not permitted to engage in fishery overseas by investing in and operating any non-ROC flagged fishing vessel, without prior authorization of the competent authority.
+
+In case of any of the following circumstances, the competent authority shall not authorize the investment and operation of any non-ROC flagged fishing vessel as referred to in the preceding paragraph, and the competent authority shall revoke the authorization that has already been granted:
+
+(1) The flag State of the non-ROC flagged fishing vessel concerned lacks mechanism in controlling and managing its fishing vessels.
+
+(2) The flag State of the non-ROC flagged fishing vessel concerned is identified as illegal, unreported, and unregulated (IUU) fishing non-cooperating country or is subject to a letter of identification for more than 2 years by other States, international fisheries organizations, or other economic integrated organizations.
+
+(3) The fishery type and fishing area of the non-ROC flagged fishing vessel concerned are under the management of an international fisheries organization and the flag State of the non-ROC flagged fishing vessel concerned is not a party or cooperating non-party to that international fisheries organization.
+
+(4) The non-ROC flagged fishing vessel concerned is listed on a IUU fishing vessel list of an international fisheries organization.
+
+Conditions for the authorization as referred to in paragraph 1, application procedures, review, conditions for revocation of the authorization, and other requirements shall be prescribed by the competent authority.
+
+## Article 5
+
+Any person who obtains the authorization in accordance with Article 4 shall make regular reports of data relating to fishing operations to the competent authority.
+
+The period, types, content, manner, and other matters relating to the reporting of data as referred to in the preceding paragraph shall be prescribed by the competent authority.
+
+## Article 6
+
+Any person with the nationality of the ROC who engages in fishery overseas by investing in and operating any non-ROC flagged fishing vessel shall comply with regulations prescribed by the competent authority which take into consideration conservation measures adopted by international fisheries organizations as well as relevant regulations as prescribed by the concerned flag or coastal State(s).
+
+The regulations as referred to in the preceding paragraph include management measures relating to authorization to fish, permitted fishing areas, fishing periods, vessel position reporting, fishing gears, fishing methods, catch quota, and other requirements.
+
+## Article 7
+
+For the purpose of fisheries management, the competent authority may require any interested party to submit reports on catch amount, fishing periods, fishing gears, and fishing methods.
+
+If deems necessary, the competent authority may dispatch personnel to investigate interested parties and relevant organizations or institutions, and require the provision or submission of any information relating to the investment and operation of non-ROC flagged fishing vessels concerned.
+
+In case of urgency in providing the reports or conducting the investigations as referred to in the preceding two paragraphs, the competent authority may dispatch personnel to conduct inspections at relevant sites and question interested parties.
+
+In carrying out investigations or inspections as referred to in paragraphs 1 to 3 above, the personnel dispatched shall present documents identifying their authorization, or such badge that proves their identification.
+
+The interested parties, organizations, and institutions shall not evade, obstruct, or refuse the investigations, inspections, or requirements for submission of reports and provision or submission of information as provided in paragraphs 1 to 3 above.
+
+## Article 8
+
+Any person with the nationality of the ROC who engages in fishery overseas by investing in and operating any non-ROC flagged fishing vessel shall not commit any of the following serious infringements:
+
+(1) Investment in or operation of any fishing vessel as referred to in Article 4, paragraph 2.
+
+(2) Fishing without permission from the flag State concerned.
+
+(3) Conducting transshipment at sea or in port, or landing in port without authorization from the flag State concerned.
+
+(4) Fishing in waters under the jurisdiction of any coastal State without authorization therefrom.
+
+(5) Falsifying, altering, or concealing vessel names, names of registry ports, or international radio call signs.
+
+(6) Not installing on board vessel monitoring system (VMS) pursuant to regulations of the flag State concerned, intentionally causing the VMS to misreport vessel positions, or rendering VMS non-functional when fishing.
+
+(7) Continuing catching species with catch limit when the total catch of such species of a fishing vessel has exceeded the catch limit allowed by the flag State concerned..
+
+(8) Fishing in prohibited fishing areas or seasons as established by international fisheries organizations.
+
+(9) Using fishing gears as prohibited by international fisheries organizations.
+
+(10) Fishing for, retaining, transshipping, landing, or selling species as prohibited by international fisheries organizations.
+
+(11) Not submitting or filling in logbooks or catch reports, in violation of regulations of the flag States concerned, or misreporting logbooks or catch reports.
+
+(12) Failing to file reports in accordance with Article 5, or filing false reports.
+
+(13) Refusing, evading, or obstructing any observer dispatched by the flag State concerned or any international fisheries organization to conduct observation tasks.
+
+(14) Refusing, evading, or obstructing the investigation conducted by the competent authority pursuant to Article 7, paragraph 2, or the inspection conducted by the competent authority pursuant to Article 7, paragraph 3.
+
+(15) Concealing, altering, or destroying any evidence related to violation of the Act.
+
+(16) Providing catch certificate documents of a fishing vessel for the use of other fishing vessel(s), or using catch certificate documents of other fishing vessel(s) for selling catch caught by itself.
+
+(17) Falsification or alteration of catch certificate documents, using catch certificate documents not issued to the catch concerned, or intentionally using catch certificate documents that are falsified or altered to sell catch or fisheries products.
+
+(18) Participating in joint fishing with, transshipping with, or supplying any fishing vessel listed on IUU fishing vessel lists of international fisheries organizations or any stateless vessel.
+
+The prohibited fishing seasons and areas as referred to in subparagraph (8), the prohibited fishing gears as referred to in subparagraph (9), the prohibited species as referred to in subparagraph (10), and the IUU fishing vessel lists as referred to in subparagraph (18) of the preceding paragraph shall be promulgated by the competent authority.
+
+## Article 9
+
+Any person with the nationality of the ROC that invests in and operates any non-ROC flagged fishing vessel and engages in fish laundering shall be sentenced to imprisonment for a period between 6 months and 3 years, and in addition thereto, may be subject to a criminal fine between 6 million and 30 million New Taiwan Dollars.
+
+In case that a representative of any legal person, or an agent of any legal or natural person commits the violations stipulated in the preceding paragraph, in addition to the penalties in accordance with the preceding paragraph, a criminal fine as referred to in the preceding paragraph shall also be imposed upon the legal or natural person concerned.
+
+Any person with the nationality of the ROC who commits the violations as provided in paragraph 1 outside the territories of the ROC shall be punished in accordance with the Act, irrespective of whether her/his act is punishable under the law of the country where the violations are committed.
+
+Any person with the nationality of the ROC who invests in and operates any non-ROC flagged fishing vessel and commits the violations as provided in paragraph 1 shall be revoked the authorization of such investment and operation by the competent authority.
+
+## Article 10
+
+Any person with the nationality of the ROC that violates Article 8, paragraph 1 shall be punished in accordance with the following provisions, and the competent authority may revoke his/her authorization to invest in and operate the concerned non-ROC flagged fishing vessel(s):
+
+(1) For any fishing vessel 500 Gross Tonnage (GT) or above: a fine between 6 million and 30 million New Taiwan Dollars.
+
+(2) For any fishing vessel 100 GT or above, and less than 500 GT: a fine between 4 million and 20 million New Taiwan Dollars.
+
+(3) For any fishing vessel less than 100 GT: a fine between 2 million and 10 million New Taiwan Dollars.
+
+In case that the value of catch or fisheries products concerned exceeds the fine imposed pursuant to the provisions as stipulated in the preceding paragraph, an amount of a fine for up to 5 times of the value of such catch or fisheries products shall be imposed.
+
+Any person with the nationality of the ROC who has committed the same provision of the serious infringements as stipulated in Article 8, paragraph 1 for 2 times within 3 years, or different serious infringements as stipulated in Article 8, paragraph 1 for 3 times within 3 years shall be punished in accordance with the following provisions, and the competent authority shall revoke his/her authorization to invest in and operate the concerned non-ROC flagged fishing vessel(s):
+
+(1) For any fishing vessel 500 GT or above: a fine between 9 million and 45 million New Taiwan Dollars.
+
+(2) For any fishing vessel 100 GT or above, and less than 500 GT: a fine between 6 million and 30 million New Taiwan Dollars.
+
+(3) For any fishing vessel less than 100 GT: a fine between 3 million and 15 million New Taiwan Dollars.
+
+In case that the value of catch or fisheries products concerned exceeds the fine imposed pursuant to the provisions as stipulated in the preceding paragraph, an amount of a fine for up to 8 times of the value of such catch or fisheries products shall be imposed.
+
+The value of catch or fisheries products as referred to in paragraphs 2 and 4 shall be calculated based on the average prices of such catch or fisheries products in domestic fish markets in the preceding 3 years.
+
+## Article 11
+
+Any person with the nationality of the ROC that engages in fishery overseas by investing in and operating any non-ROC flagged fishing vessel and commits any of the following violations shall be imposed upon a fine between2 million and 10 million New Taiwan Dollars, and consecutive punishments may be imposed for repeated violations:
+
+(1) Engaging in fishery overseas by investing in and operating any non-ROC flagged fishing vessel without obtaining the authorization, in violation of Article 4, paragraph 1.
+
+(2) Failing to comply with relevant regulations on fishing as stipulated by the flag or coastal States concerned, in violation of Article 6, paragraph 1; or failing to comply with regulations regarding authorization to fish, permitted fishing areas, fishing periods, vessel position reporting, fishing gears, fishing methods, or catch quota as stipulated by the competent authority pursuant to Article 6, paragraph 2, except for those regarding the serious infringements.
+
+(3) Refusing, evading, or obstructing the requirements by the competent authority to submit reports pursuant to Article 7, paragraph 1.
+
+## Article 12
+
+For any person with the nationality of the ROC that invests in and operate any foreign fishing vessel, and engages in fish laundering, in case that such person at the same time invests in and operates any fishing vessel under the flag of the ROC, such person may be subject to deduction of catch quota from that allocated to the national vessel(s) in question at a level equivalent to the amount of the laundered fish.
+
+## Article 13
+
+The Act shall become effective 6 months after its promulgation.
+
+## History
+
+1.The full text of 19 Articles promulgated on December 17, 2008 by Presidential Order Hua-Tsung (1) Yi-Tzu No. 09700271591.
+
+2.The full text of 13 Articles amended and promulgated on July 20, 2016 by Presidential Order Hua-Tsung (1) Yi-Tzu No.10500078591 and became effective after six months of its enactment.
+
+The mandates that belong to the “Council of Agriculture, Executive Yuan” as stipulated in Article 2; Article 3, paragraph 2; Article 4; Article 5; Article 6, paragraph 1; Article 7, paragraph 1, 2, 3; Article 8, paragraph 1, subparagraph (14); Article 8, paragraph 2; Article 9, paragraph 4; Article 10, paragraph 1 and 3; and Article 11, subparagraph (2) and (3) shall be under the mandates of the “Ministry of Agriculture” from August 1, 2023, as promulgated by the announcement Yuan-Tai-Guei-Tzu No. 1125014346 made by the Executive Yuan on July 27, 2023.

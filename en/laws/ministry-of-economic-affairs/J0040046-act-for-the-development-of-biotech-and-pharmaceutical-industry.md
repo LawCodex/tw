@@ -1,0 +1,183 @@
+---
+title: "Act for the Development of Biotech and Pharmaceutical Industry"
+title_zh: "生技醫藥產業發展條例"
+identifier: "J0040046"
+type: act
+law_level: "法律"
+category: "行政＞經濟部＞產業目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2007-07-04
+last_amended: 2021-12-30
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0040046"
+retrieved: 2026-10-12
+---
+
+# Act for the Development of Biotech and Pharmaceutical Industry
+
+> Translation. The Chinese text ([zh/laws/ministry-of-economic-affairs/J0040046-act-for-the-development-of-biotech-and-pharmaceutical-industry.md](../../../zh/laws/ministry-of-economic-affairs/J0040046-act-for-the-development-of-biotech-and-pharmaceutical-industry.md)) is authoritative.
+
+## Article 1
+
+This Act is enacted in order to promote the development of the biotech and pharmaceutical industry in the Republic of China (Taiwan), to position it as a main driver of economic transformation.
+
+## Article 2
+
+This Act governs matters concerning the development of the biotech and pharmaceutical industry. Matters not provided for in this Act shall be governed by other relevant laws; provided, however, that where the provisions of such other laws are more favorable than those contained herein, the provisions of such other laws shall prevail.
+
+## Article 3
+
+The authority in charge of the implementation of this Act is the Ministry of Economic Affairs (the “Competent Authority”).
+
+## Article 4
+
+For the purposes of this Regulation, the following definitions apply:
+
+1.“Biotech and Pharmaceutical Industry” refers to the industry that deals with New Drugs, New Dosage Forms, High-Risk Medical Devices, Regenerative Medicine, Precision Medicine, Digital Medicine, Innovative Technology Platforms Dedicated to Biotech and Pharmaceutical Industry and Other Strategic Biotech and Pharmaceutical Products used by human beings, animals and plants.
+
+2.“Biotech and Pharmaceutical Company” refers to a company in the Biotech and Pharmaceutical Industry that is organized and incorporated in accordance with the Company Act and engages in any of the following business activities approved by the Competent Authority:
+
+(i)the research, development and manufacture of New Drugs, New Dosage Forms, High-Risk Medical Devices, Regenerative Medicine, Precision Medicine, Digital Medicine, Innovative Technology Platforms Dedicated to Biotech and Pharmaceutical Industry and Other Strategic Biotech and Pharmaceutical Products; and
+
+(ii)the contract development and manufacture of New Drugs, New Dosage Forms, High-Risk Medical Devices, Regenerative Medicine, Precision Medicine, Digital Medicine and Other Strategic Biotech and Pharmaceutical Products.
+
+3.“New Drug ” refers to a drug that has a new ingredient, a new therapeutic effect or a new administration method, and “New Dosage Form” refers to a new dosage form of a pharmaceutical preparation, as approved by the central governmental authority in charge of the industry concerned.
+
+4.“High-Risk Medical Device” refers to a Class III medical device or a Class II medical device of which the approval requires clinical trials, as approved by the central governmental authority in charge of the industry concerned.
+
+5.“Regenerative Medicine” refers to a drug, medical device, product or technology that uses cells or genes to reconstruct or repair the structure or function of the human body for the purpose of treatment or prevention of diseases, as approved by the central governmental authority in charge of the industry concerned.
+
+6.“Precision Medicine” refers to an innovative product or technology that analyzes the relationship between the physiological and pathological characteristics of an individual and the mechanism and extent of a disease through genetic sequencing, molecular identification, metabolite analysis or other omics-based tests, in order to provide predictive, preventive, diagnostic and therapeutic functions for treating diseases, as approved by the Competent Authority in conjunction with the central governmental authority in charge of the industry concerned.
+
+7.“Digital Medicine” refers to an innovative product or technology that is applied in the field of healthcare with big data, cloud computing, Internet of Things (IoT), artificial intelligence and/or machine learning technologies, and is used to enhance the prevention, diagnosis and treatment of diseases, as approved by the Competent Authority in conjunction with the central governmental authority in charge of the industry concerned; provided that the medical device software of artificial intelligence or machine learning technology shall be subject to the approval of the central governmental authority in charge of the industry concerned.
+
+8.“Innovative Technology Platforms Dedicated to Biotech and Pharmaceutical Industry” refers to a platform for products or technologies with high research and development (“R&D”) risk, importance and innovation that specializes in the research, development and manufacture activities identified in Subparagraph 3 or 5 above, or in the development and manufacture of New Drugs, New Dosage Forms or Regenerative Medicine identified in Item (ii) of Subparagraph 2 above, as approved by the Competent Authority in conjunction with the central governmental authority in charge of the industry concerned and the Ministry of Finance.
+
+9.“Other Strategic Biotech and Pharmaceutical Product” refers to a biotech and pharmaceutical item having a strategic development direction designated by the Executive Yuan and announced by the Competent Authority after being approved thereby.
+
+Regarding the Biotech and Pharmaceutical Company referred to in Subparagraph 2 of the preceding paragraph, the approval criteria, the documents required to be submitted, the application procedures for approval, the revocation or termination of the approval, and other relevant matters shall be prescribed by the Competent Authority.
+
+## Article 5
+
+For the purpose of promoting the advancement of the Biotech and Pharmaceutical Industry, a Biotech and Pharmaceutical Company engaged in the business activities specified in Item (i), Subparagraph 2, Paragraph 1, Article 4 hereof may, for a period of five years from the time it is subject to the profit-seeking enterprise income tax, enjoy a reduction in its profit-seeking enterprise income tax payable by up to twenty-five percent (25%) of the total funds invested in R&D activities identified in Subparagraphs 3 to 9, Paragraph 1, Article 4 hereof each year.
+
+The total amount of investment credited against the profit-seeking enterprise income tax payable by a Biotech and Pharmaceutical Company in each year under the preceding Paragraph shall not exceed fifty percent (50%) of the amount of the profit-seeking enterprise income tax payable by the Biotech and Pharmaceutical Company in a year; provided, however, that this restriction shall not apply to the amount of investment to be credited in the last year of the aforementioned five-year period.
+
+With respect to the investment tax credit referred to in the first paragraph of this article, the regulations governing the scope of its application, authority in charge of granting the approval, deadline for filing applications, application procedures, valid period, tax credit rate and other relevant matters shall be prescribed by the Competent Authority in conjunction with the Ministry of Finance.
+
+## Article 6
+
+Where a Biotech and Pharmaceutical Company invests in brand-new machinery, equipment or system, for production and manufacturing, and the total expenditure amounts to between NT$10 million and NT$1 billion spending within the same taxable year, it may select one of the following methods to offset the profit-seeking enterprise income tax payable for that taxable year. Once the Biotech and Pharmaceutical Company selects a method, it cannot be altered, and the amount of tax credit each year shall not exceed thirty percent (30%) of the profit-seeking enterprise income tax payable in the then-current year:
+
+\1. Up to five percent (5%) of the annual investment amount may be credited against the profit-seeking enterprise income tax payable in the current year from the first year the Biotech and Pharmaceutical Company incurs payable profit-seeking income tax liability; and
+
+\2. Up to three percent (3%) of the annual investment amount may be credited against the profit-seeking enterprise's income tax payable each year, over a period of the three years from the first year the Biotech and Pharmaceutical Company incurs profit-seeking income tax liability.
+
+Where the Biotech and Pharmaceutical Company referred to in the preceding paragraph is eligible for the investment credit under the preceding paragraph as well as other types of investment credit in the same year, the total amount creditable in that year shall not exceed fifty percent (50%) of its profit-seeking enterprise income tax payable in the then-current year, unless the then-current year is the final year for using such credit.
+
+The Biotech and Pharmaceutical Company referred to in the preceding paragraph applying for the investment credit under Paragraph 1 shall submit an investment proposal capable of generating certain benefits to the Competent Authority for approval on a case-by-case basis. Each Biotech and Pharmaceutical Company may apply for such investment credit only once per taxable year.
+
+With respect to the investment tax credit referred to in the preceding three paragraphs ,the regulations governing its scope of eligibility, investment proposal capable of generating certain benefits, application deadline, application procedure, calculation of the total creditable amount in the then-current year, and other relevant matters shall be prescribed by the Competent Authority in conjunction with the Ministry of Finance.
+
+## Article 7
+
+To encourage the establishment or expansion of Biotech and Pharmaceutical Companies, a profit-seeking enterprise that (i) originally subscribes for or underwrites shares issued by a Biotech and Pharmaceutical Company; and (ii) has been a registered shareholder of the Biotech and Pharmaceutical Company for a period of three (3) years or more, may, for a period of five (5) years from the first year it incurs profit-seeking enterprise income tax liability, enjoy a reduction in its profit-seeking enterprise income tax payable by up to twenty percent (20%) of the total amount of price paid for the subscription of the shares in such Biotech and Pharmaceutical Company; provided that such Biotech and Pharmaceutical Company has not applied for exemption from profit-seeking enterprise income tax or shareholder investment credit based on the subscription price under any other laws. The total amount creditable in each year shall not exceed fifty percent (50%) of the profit-seeking enterprise income tax payable in the then-current year.
+
+Where the Biotech and Pharmaceutical Company described in the preceding paragraph engages in the business activities described in Item (ii), Subparagraph 2, Paragraph 1, Article 4 hereof, it is eligible for the tax credit hereunder only if it is not listed on the Taiwan Stock Exchange and the Taipei Exchange, or is a company listed on the Taiwan Stock Exchange or the Taipei Exchange but was incorporated and registered less than ten (10) years ago.
+
+If the profit-seeking enterprise described in Paragraph 1 is a venture capital company (“VC”), its corporate shareholders may, for a period of five years from the fourth anniversary of the date on which the VC becomes a registered shareholder of the subject Biotech and Pharmaceutical Company, enjoy a reduction in their profit-seeking enterprise income tax payable based on the total deductible amount enjoyed by the VC under Paragraph 1 hereof and the shareholders' respective shareholdings in the VC. The total amount creditable in each year shall not exceed fifty percent (50%) of the profit-seeking enterprise income tax payable in the then-current year.
+
+With respect to the investment tax credit applicable to the shareholders of the profit-seeking enterprises described in Paragraph 1 hereof and the VCs described in the preceding paragraph, the requirements, deadline for filing applications, application procedures, valid period, tax credit rate and other relevant matters shall be prescribed by the Competent Authority in conjunction with the Ministry of Finance.
+
+## Article 8
+
+Where an individual invests at least NT$1 million in cash in one year in a Biotech and Pharmaceutical Company that is not listed on the Taiwan Stock Exchange or the Taipei Exchange, and acquires newly issued shares of such company, and holds such shares for a period of three (3) years, up to fifty percent (50%) of the investment amount may be deducted from the individual's consolidated income each year, within two years commencing from the third anniversary of such shareholding, provided that the aggregate amount deductible from an individual's consolidated income each year shall not exceed NT$5 million.
+
+Where the Biotech and Pharmaceutical Company described in the preceding paragraph engages in the business activities described in Item (i), Subparagraph 2, Paragraph 1, Article 4 hereof, it is eligible for the tax incentives hereunder only if it is a company incorporated and registered less than ten (10) years ago; where it engages in the business activities described in Item (ii), Subparagraph 2, Paragraph 1, Article 4 hereof, it is eligible for the tax incentives hereunder only if it is a company incorporated and registered less than five (5) years ago.
+
+The qualifications of the individuals, the application deadline, the application procedure, the calculation of the shareholding period, the authority in charge of granting the approval, and other relevant matters under Paragraph 1 hereof shall be prescribed or designated by Competent Authority in conjunction with the Ministry of Finance.
+
+## Article 9
+
+To encourage top executives and technology investors to participate in the operation of Biotech and Pharmaceutical Companies and R&D activities, and to share in their operational achievements, the new shares issued by a Biotech and Pharmaceutical Company to top executives as bonuses or compensation and to technology investors in return for their technology know-how contributions may be excluded from their taxable income for the year in which such shares are acquired. Once this choice is made, it cannot be altered. However, if a top executive or technology investor chooses to exclude such new shares from their taxable income for the year in which such shares are acquired, when the shares are transferred (including a book-entry transfer to a securities depository account), the total transfer price of such shares, or the market price thereof at the time of gifting or distribution as estate or on the book-entry transfer date, shall be included as income in the year of the transfer and be declared for income tax assessment in accordance with the Income Tax Act.
+
+Where a top executive or an individual technology investor chooses to exclude the shares from their taxable income for the year in which such shares are acquired in accordance with the preceding paragraph, and has held such shares and continued to be employed by or provide services relating to their technology know-how to the Biotech and Pharmaceutical Company for at least two years, if the shares are transferred (including a book-entry transfer) at a price (either the total transfer price or the market price at the time of gifting or distribution as estate or on the book-entry transfer date) higher than the market price or purchase price at which such individual acquired such shares, such original acquisition price instead shall be used as the revenue amount for the year of the transfer and be declared for income tax assessment in accordance with the Income Tax Act. However, the above provisions shall not apply if the top executive or the individual technology investor has not declared the price of the shares for income tax assessment or has declared the price for income tax assessment but cannot provide documentary proof of the original acquisition price, and the taxation authority cannot verify the original acquisition price.
+
+The term "transfer" in the two preceding paragraphs refers to the purchase and sale, gifting, distribution as estate, cancellation of shares as a result of capital reduction, corporate liquidation, or ownership changes due to other causes.
+
+"Top executives" as referred to in Paragraph 1 hereof are those who have biotechnology and pharmaceutical-related expertise or skills and hold the position of CEO or a managerial officer, at the minimum, in a Biotech and Pharmaceutical Company; "Technology investors" referred to in Paragraph 1 hereof are the investors that provide a Biotech and Pharmaceutical Company with the technology know-how that it needs in return for the acquisition of its shares.
+
+Where an individual technology investor's income is calculated in accordance with Paragraph 1 or 2 hereof but is not declared or substantiated by any documents, the sum of their costs and necessary expenses shall be calculated at thirty percent (30%) of their revenue and be deducted from their taxable income.
+
+The tax incentives under Paragraphs 1 and 2 are available only if the Biotech and Pharmaceutical Company submits the required documents and information in the prescribed format to the Competent Authority for certification in the year in which its top executives or technology investors acquire the shares issued. A copy of the results of the certification shall be provided to the taxation authority where the Biotech and Pharmaceutical Company is located.
+
+In the year in which the top executives or individual technology investors to whom Paragraph 2 applies have held the shares and been employed by or provided the services relating to their technology know-how to the Biotech and Pharmaceutical Company for two (2) years, the Biotech and Pharmaceutical Company shall submit documents proving such individuals' shareholding and services aforementioned to the Competent Authority for recordation. A copy of each of the evidentiary documents shall also be submitted to the taxation authority where the Biotech and Pharmaceutical Company is located.
+
+The scope of biotech and pharmaceutical expertise or technology referred to in Paragraph 4, the required format, documents, deadlines and procedures for certification and recordation referred to in the preceding paragraphs, and other relevant matters shall be prescribed by the Competent Authority.
+
+The procedure and required documents for declaring deferral of the income tax payable on the shares acquired by the top executives and technology investors under Paragraphs 1 and 2, and other related matters shall be prescribed by the Ministry of Finance.
+
+## Article 10
+
+Biotech and Pharmaceutical Companies may issue stock options to their top executives and technology investors referred to in the preceding article, provided that the proposal on the issuance of such stock options has been approved by (i) a majority vote at a board meeting attended by at least two-thirds (2/3) of all the directors; and (ii) the Competent Authority.
+
+Holders of the stock options as described in the preceding paragraph may subscribe for a specific number of shares at the stipulated price, which may be lower than the par value of the share, as prescribed under Article 140 of the Company Act.
+
+Article 267 of the Company Act shall not apply in the event that a Biotech and Pharmaceutical Company issues new shares pursuant to Paragraph 1 of the preceding article.
+
+The stock options obtained by top executives or technology investors under Paragraph 1 of this article shall not be sold or gifted. The same restriction applies to those who inherited such stock options.
+
+The income tax payable on the shares acquired by the top executives or technology investors via the exercise of their stock options, as well as the Biotech and Pharmaceutical Company's submission for certification and recordation with the Competent Authority, shall be governed by Paragraphs 1 to 3, 5 to 7, and 8 of the preceding article. The procedure for declaring deferral of the income tax payable on the shares acquired through the exercise of stock options, the required documents, and other relevant matters shall be prescribed by the Ministry of Finance.
+
+The requirements, required documents, and other relevant matters for applying for the Competent Authority’s approval to issue stock options pursuant to Paragraph 1, shall be prescribed by the Competent Authority.
+
+## Article 11
+
+To strengthen the introduction and transfer of biotech and pharmaceutical technologies, organizations established with government funds to provide technical assistance shall provide the necessary technical assistance accordingly.
+
+## Article 12
+
+Research personnel in public schools at the junior college level and above or public research institutions (organizations) that provide key technologies to start-up Biotech and Pharmaceutical Companies shall not be subject to Article 34 of the Act of Governing the Appointment of Educators and Paragraph 1, Article 13 of the Civil Servants Work Act, which prohibit business operation and limit the total shares held in a business to ten percent (10%), or Article 13 Paragraph 2, and Article 14 of the Civil Servants Work Act, which restrict research personnel from holding other positions concurrently. Nevertheless, relevant provisions under the Act on Recusal of Public Servants Due to Conflict of Interest shall still apply.
+
+A start-up Biotech and Pharmaceutical Company referred to in the preceding paragraph is a Biotech and Pharmaceutical Company incorporated and registered within eight (8) years.
+
+The determination of research personnel in public schools at the junior college level and above or public research institutions (organizations) as described in Paragraph 1, the types and number of jobs that research personnel may concurrently hold, the percentage of investment in the form of technology know-how as capital, disclosure of relevant information on business operation, recusal due to conflict of interest, supervision, audit, and other matters to be observed shall be prescribed by the Executive Yuan in conjunction with the Examination Yuan.
+
+## Article 13
+
+In order to advance the technologies in the Biotech and Pharmaceutical Industry, to enhance the R&D collaboration among industrial players, public institutions and the research and academic sectors, and to promote the advancement of the Biotech and Pharmaceutical Industry, research personnel in public schools at the junior college level and above or public research institutions (organizations) may, subject to the consent of their schools or institutions (organizations), serve as R&D advisors or consultants to Biotech and Pharmaceutical Companies.
+
+## Article 14
+
+To expedite the review and approval of new biotech and pharmaceutical products and facilitate product launch, each central competent authority in charge of the industry concerned shall establish open and transparent procedures and a unified review system for the necessary pre-market approvals, including field tests, clinical trials, product registration and others. Furthermore, these authorities shall develop professional review capabilities and refine the relevant review standards.
+
+To facilitate the R&D of biotech and pharmaceutical products and technologies, the Competent Authority and each central governmental authority in charge of the industry concerned may provide assistance in establishing testing sites for products and technologies under research and development.
+
+## Article 15
+
+Any persons or entities that receives tax incentives under other laws or regulations shall not receive the tax credits provided under this Act for the same matters.
+
+If a Biotech and Pharmaceutical Company has, within the past three (3) years, committed a material violation of any law governing environmental protection, labor or food safety and sanitation, as confirmed by the central governmental authority in charge of the industry concerned, the Biotech and Pharmaceutical Company shall be ineligible to apply for any of the tax incentives under Article 5 or 6 hereof. Additionally, its right to receive such tax incentives, if any, shall be terminated, and any tax benefits already received during the period of such violation in accordance with the aforementioned articles shall be recovered.
+
+Where a tax incentive has to be terminated and recovered in accordance with the preceding paragraph, the Ministry of Finance shall publish the name of the Biotech and Pharmaceutical Company on its official website once the decision on the termination or recover becomes final.
+
+## Article 16
+
+For any top executive or technology investor who chooses to exclude the shares from their taxable income for the year in which such shares are acquired pursuant to Paragraph 1, Article 9, or Paragraph 5, Article 10 hereof, the Biotech and Pharmaceutical Company shall, prior to January 31 following the year in which such shares are transferred (including a book-entry transfer), submit a declaration detailing the transfer of such shares to the competent taxation authority in the prescribed format. Failure to submit the report by the deadline or the submission of an inaccurate declaration will result in the taxation authority ordering a supplemental report within a specified period and imposing a fine on the representative of the Biotech and Pharmaceutical Company a fine equivalent to ten percent (10%) of the unreported or underreported income; provided that the fine does not exceed NT$500,000 and is no less than NT$50,000. The fine shall be reduced by fifty percent (50%) for the delayed submission if the Biotech and Pharmaceutical Company submits the declaration before being ordered to do so by the taxation authority.
+
+Where a Biotech and Pharmaceutical Company fails to submit a supplemental declaration by the deadline as ordered by the taxation authority, the representative of the company shall be subject to a fine equivalent to fifteen percent (15%) of the unreported or underreported income; provided that the fine does not exceed NT$1 million and is no less than NT$100,000.
+
+## Article 17
+
+This Act shall come into force on the date of its promulgation and shall remain in effect until December 31, 2031, except that the valid period for Articles 5 to 10, as amended on December 21, 2021, shall be from January 1, 2022 to December 31, 2031.
+
+## History
+
+\1. Full text (13 articles) promulgated per Presidential Decree Hua-Tzung-(I)-Yi-09600083781 dated July 4, 2007, which shall be effective from the date of its promulgation to December 31, 2021.
+
+\2. Amended Article 3 promulgated per Presidential Decree Hua-Tzung-(I)-Yi-10600005941 dated January 18, 2017.
+
+\3. Amended name and full text (17 articles) promulgated per Presidential Decree Hua-Tzung-(I)-Yi-11000117751 dated December 30, 2021, which shall be effective from the date of its promulgation to December 31, 2031; provided that Articles 5 to 10 shall be effective from January 1, 2022 to December 31, 2031(“Act for the Development of Biotech and New Pharmaceuticals Industry” was renamed “Statute for the Development of Biotech and Pharmaceutical Industry”)

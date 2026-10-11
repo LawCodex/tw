@@ -1,0 +1,233 @@
+---
+title: "The Taxpayer Rights Protection Act"
+title_zh: "納稅者權利保護法"
+identifier: "G0340142"
+type: act
+law_level: "法律"
+category: "行政＞財政部＞賦稅目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2016-12-28
+last_amended: 2025-05-28
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0340142"
+retrieved: 2026-10-12
+---
+
+# The Taxpayer Rights Protection Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-finance/G0340142-the-taxpayer-rights-protection-act.md](../../../zh/laws/ministry-of-finance/G0340142-the-taxpayer-rights-protection-act.md)) is authoritative.
+
+## Article 1
+
+The Taxpayer Rights Protection Act (hereinafter “this Act”) is enacted for the purposes of implementing the protection of the right to life, work, property and other relevant fundamental rights in the Constitution of the Republic of China, ensuring rights of taxpayers, achieving tax equity, and carrying through the due process of law.
+
+On issues relating to the protection of taxpayer’s rights, the provisions of this Act prevail over conflicting provisions elsewhere.
+
+## Article 2
+
+The competent authorities as defined by this Act at the central government level shall be the Ministry of Finance（hereinafter referred to as the MOF）, at the municipal level shall be the municipal governments, and at the county or city levels shall be the county or city governments.
+
+## Article 3
+
+Taxpayers shall have the right and duty of paying taxes in accordance with the law.
+
+In the case of municipality, county (or city), and township (town or city), the law referred to in the preceding paragraph includes the self-governance statutes passed by the local legislature.
+
+The administrative regulations, interpretative letters or directives issued by the competent authorities can only explain the original intent of law or provide for the technicalities and details necessary for the enforcement of the law. They cannot set out new tax obligations or increase or decrease the amount of tax obligations.
+
+## Article 4
+
+The amount of income used to pay the expenses that taxpayers incur for meeting the basic needs of living in accordance with human dignity for themselves and their dependents shall not be taxed.
+
+The amount of income used to pay the expenses for meeting the basic needs of living mentioned in the preceding paragraph shall be determined by the central competent authority in accordance with 60% of the median of the disposable income per person for the past year announced by the central Department of Budget, Accounting and Statistics, and it shall be announced and reviewed regularly every year.
+
+When the central competent authority announces the amount of income used to pay the expenses for meeting the basic needs of living, it shall also announce the criteria and information for its determination.
+
+## Article 5
+
+Taxpayers shall bear tax burdens according to their actual economic abilities; no differential treatment is permitted unless there is a reasonable policy purpose.
+
+## Article 6
+
+Tax law or any other law with tax incentives toward a particular policy purpose shall stipulate a definite implementation period but not exceed the purpose of any reasonable policy.
+
+When drafting the tax incentive bill referred to in the preceding paragraph, the public hearing and tax expenditure evaluation shall be completed before submitting it to the Legislative Yuan for deliberation.
+
+## Article 7
+
+The laws involving taxation shall be construed in accordance with the principle of taxation by law and the respective purposes of the relevant laws, balancing therewith the principle of fairness considering economic purposes and economic substance.
+
+When a tax authority identifies the constituent elements and facts of a tax assessment, they shall base these on the actual economic relationships and the economic interests derived therefrom.
+
+If a taxpayer, for the purpose of gaining tax benefits, abuses legal forms to avoid the constituent elements of taxation by non-arm’s length transactions and attain the economic benefits derived from arm’s length transactions, such actions shall be termed tax avoidance. The tax authority shall still assess the taxpayer’s tax obligations according to the legal forms commensurate with the actual economic benefits, and impose surcharge and interests.
+
+The tax authority shall bear the burden of proof for the tax avoidance referred to in the preceding paragraph and the constituent elements and facts of the tax assessment referred to in Paragraph 2.
+
+The obligation of taxpayers to facilitate investigation by reporting the required information under this Act and any other relevant tax law is not affected by the preceding paragraph.
+
+A tax authority, after identifying tax avoidance as referred to in Paragraph 3 between a taxpayer and his or her counterparty or related persons, in order to determine the correct amount of the tax obligations owed, may, in accordance with the tax law, make adjustments based on arm’s length transactions or the  information obtained through investigation.
+
+The surcharge referred to in Paragraph 3 shall be 15% of the tax that should have been paid, and the taxpayer shall be charged with the daily interest accrued on the amount of such tax that should have been paid at the fixed interest rate on January 1 of each year for the one-year period deposit of postal savings, for the period from the next day of the original deadline to the day on which a notice was issued demanding the tax that should have been paid.
+
+In the case of Paragraph 3, a tax authority may not impose a penalty on tax evasion, except that taxpayers conceal, make false and misleading presentation, or provide incorrect information as to material items when filing tax returns or being investigated, which results in the tax authority assessing a lower amount of tax.
+
+Taxpayers may, before engaging in specific transactions, apply to and provide relevant documents to a tax authority for consultation; the tax authority shall reply within six months.
+
+The cases of tax avoidance that shall be subject to a civil penalty according to a tax law but have not yet been issued a penalty before this Act comes into force, Paragraphs 3, 7, and 8 of this Article shall apply. The cases of tax avoidance that have already been issued a penalty but have not become final, the amount of such penalties shall not exceed the total amount of the surcharge and interests prescribed in Paragraph 7, except for the proviso of Paragraph 8.
+
+## Article 8
+
+The authorities shall proactively make the following information available to the public for inquiry, downloading, and usage.
+
+1.Income distribution brackets of all citizens, and the corresponding proportionate tax burden and number of their real estate properties.
+
+2.Tax expenditure analyses.
+
+3.Other information that helps to promote tax equity.
+
+## Article 9
+
+Interpretative letters or directives and other administrative rules about tax matters made by the tax authorities shall be made public, unless they involve official secrets, business secrets, or personal privacy.
+
+Interpretative letters or directives which are not made public according to Paragraph 2 of Article 160 of the Administrative Procedure Act, Article 8 of the Freedom of Government Information Law, or other appropriate means shall not be relied upon in other cases.
+
+The central competent authority shall review every four years whether or not the interpretative letters or directives violate the provisions or spirits of any statute, or create or increase any obligation to pay tax without statutory basis, and may entrust such tasks to external research institutions.
+
+## Article 10
+
+The authorities shall proactively provide appropriate and essential assistance to taxpayers, and ensure their protection by due process during tax assessment and collection.
+
+## Article 11
+
+Tax authorities or the personnel appointed by the Taxation Administration of the MOF shall investigate ex officio into evidence and shall take into consideration circumstances whether advantageous or disadvantageous to the party. The means of investigation must be permitted by law, necessary, and minimizing harm to the fundamental rights of taxpayers.
+
+The tax authorities shall bear the burden of proof for the constituent elements and facts of tax assessment or penalty, except explicitly specified otherwise by other laws.
+
+The evidence obtained as a result of the illegal investigation carried by the tax authorities or the personnel appointed by the Taxation Administration of the MOF cannot be used as the basis for tax assessment or penalty, except that the illegality of the obtaining of evidence is minor and the exclusion of that evidence obviously harms public interest.
+
+Before a tax authority makes a tax assessment or imposes a penalty, it shall give the taxpayer a chance to explain in a statement, except for the circumstances set out in Article 103 of the Administrative Procedure Act or in the proviso of Article 42 of the Administrative Penalty Act.
+
+The tax assessment or penalty made by the tax authorities shall be in writing and state therein its reason and legal basis, except for the circumstances set in Article 97 of the Administrative Procedure Act.
+
+The tax assessments and penalties referred to in the preceding paragraph shall be invalid if not made in writing or by public announcement. If no reason is stated, the defect may be cured only before the end of the administrative appeal procedure; if no administrative appeal procedure is required, such defects may be cured only before a suit is filed in an administrative court.
+
+## Article 12
+
+Except where the purpose of tax investigation may be defeated if prior notice is given, tax authorities or the Taxation Administration of the MOF shall notify in writing prior to the investigation, the person under investigation, specifying the purpose and scope of such investigation or inquiry. If the person under investigation appoints an agent, the agent shall present power of attorney at the time of the investigation or inquiry.
+
+The person under investigation has the right to appoint an agent or appear in the company of an assistant, and may remain silent or object to the investigation before the agent or assistant’s arrival, except when the agent or assistant is late or absent for no legitimate reason after being notified in accordance with the law.
+
+The person under investigation may, after informing the tax authority, make video and audio recording of the process of investigation by himself or herself or request the tax authority to do so, and the tax authority shall not reject such a request, except for legitimate reasons for upholding the secrecy of tax investigation and writing the reasons down in the records.
+
+If it is necessary for a tax authority to make video and audio recording, the person under investigation shall be informed in advance of such recording.
+
+## Article 13
+
+After a taxpayer files a recheck or administrative appeal, they may apply to the tax authority or the agency with jurisdiction of administrative appeal for examining, transcribing, copying, or taking photographs of information relevant to the tax assessment and penalty, to the extent necessary for claiming or protecting his or her legal interests.
+
+The tax authority or the agency with jurisdiction of administrative appeal shall not refuse to provide information, or provide incomplete information, in response to the application referred to in the preceding paragraph, unless there is one of the circumstances set out in Paragraph 2 of Article 46 of the Administrative Procedure Act, or in Article 51 of the Administrative Appeal Act, and the circumstance is stated clearly in the refusal.
+
+## Article 14
+
+When tax authorities are unable to determine the tax base after investigation, or the investigation costs are disproportionally expensive, tax estimation is allowed for the principle of upholding tax equity, and the basis for estimation and the calculation information shall be stated in writing.
+
+Tax estimation made by tax authorities shall consider all material items relevant to estimation through reasonable and objective procedures and appropriate means.
+
+Estimation shall be done by the means which is nearest  the actual amount when more than two means exist.
+
+In the cases that taxpayers have already fulfilled their obligation to facilitate investigation by reporting the required information, tax authorities shall not impose a penalty according to the estimation results.
+
+## Article 15
+
+Tax authorities or the personnel appointed by the Taxation Administration of the MOF shall conduct tax investigation, take provisional measures, and collect the tax payable or fine ex officio and in accordance with the procedure required by law, and may not do what is unnecessary for accomplishing the goals and shall choose the appropriate approaches that minimize infringement upon taxpayers’ rights.
+
+## Article 16
+
+Taxpayers’ acts in breach of duty under tax law are not punishable unless committed intentionally or negligently.
+
+No taxpayer may be excused from responsibility for administrative penalty by reason of his ignorance of the law, but the penalty may be reduced or exempted as the situation may justify.
+
+When a tax authority imposes a penalty, it shall consider the culpability of the taxpayer’s act in breach of duty under tax law, the impact resulted therefrom, the benefits gained from such an act, and the wealth of the taxpayer.
+
+## Article 17
+
+When the central competent authority appoints members of the administrative appeal review committee according to the Administrative Appeal Act, the proportion of members from outside the civil service, scholars, and experts may not be less than two-thirds, and shall possess specialties in law, taxation, or accounting.
+
+## Article 18
+
+Special tribunals for taxation shall be set up in the Supreme Administrative Court and High Administrative Courts to adjudicate the administrative litigation filed by taxpayers due to taxation cases.
+
+The special tribunals for taxation shall be composed of judges who obtained the certificate for judges specializing in tax cases issued by the Judicial Yuan.
+
+The judges adjudicating tax cases shall receive certain hours of professional training or on-the-job training every year.
+
+The Judicial Yuan shall promulgate regulations for the composition of the special tribunals for taxation, the standards by which the certificates for judges specializing in tax cases are issued, and the annual training required of the judges adjudicating tax cases.
+
+## Article 19
+
+To formulate advisory opinions of the fundamental policy of protecting taxpayers’ rights, the central competent authority shall organize the Advisory Committee for Protecting Taxpayer Rights.
+
+The Advisory Committee for Protecting Taxpayer Rights shall carry out the following:
+
+1.The study and drafting of fundamental policies and measures concerning taxpayers’ rights protection.
+
+2.The study, drafting, and revision of the plans concerning the protection of taxpayer rights, and the review of the effect of such plans.
+
+3.The education and promotion of taxpayer rights protection.
+
+4.The coordination among relevant agencies in relation to matters of taxpayers’ rights protection.
+
+5.The review of the implementation of tax preferences and the information which is required to be disclosed to the public in accordance with this Act.
+
+The head of the central competent authority of this Act shall be the chairperson of the Advisory Committee for Protecting Taxpayer Rights. The members of the Advisory Committee for Protecting Taxpayer Rights shall be the representatives of relevant government agencies, private-sector associations, nongovernmental organizations, scholars, and experts. The ratio of the representatives of relevant government agencies shall not exceed one third of the total number of the members. The total number of members, the term of office, appointment, organization, and related matters shall be promulgated by the central competent authority.
+
+## Article 20
+
+Tax authorities shall proactively provide appropriate and essential assistance to taxpayers, and organize taxpayer ombudsmen to deal with the following:
+
+\1. Assist taxpayers to communicate and coordinate tax disputes.
+
+\2. Accept complaints or petitions made by taxpayers, and recommend ways for improvement.
+
+\3. When taxpayers seek remedy in accordance with the law, provide necessary consultation and assistance.
+
+\4. Report the work results on taxpayer rights protection every year.
+
+The taxpayer ombudsmen referred to in the preceding paragraph may conduct any necessary investigation when dealing with taxpayer rights protection matters.
+
+External experts and scholars may be appointed as the taxpayer ombudsmen referred to in the preceding paragraph.
+
+Tax authorities shall report the names and contact information of taxpayer ombudsmen to the MOF for future reference, and make available such information on the Web sites of tax authorities; the same shall be done whenever such information changes.
+
+The MOF may send personnel to examine the matters set out in Paragraph 1, and such matters are included in the annual performance review of tax authorities.
+
+The MOF shall annually submit a report on the performance and assessment results of the tax authorities in protecting taxpayer rights to the Legislative Yuan for future reference.
+
+## Article 21
+
+If a taxpayer is dissatisfied with a tax assessment and, after the recheck decision, files an appeal or administrative litigation, he or she may amend or add reasons why the tax assessment is illegal prior to the time when a decision is made by the administrative appeal review committee, or the end of oral argument in an administrative court adjudicating issues of facts, and the agency with jurisdiction of administrative appeal or the administrative court shall consider such reasons. The same applies when the agency with jurisdiction of administrative appeal or the administrative court finds ex officio that the tax assessment is illegal.
+
+In a case referred to in the preceding paragraph, the tax authorities shall file a reply and state specifically and clearly its opinions of the amended or added reasons.
+
+Administrative courts shall investigate evidence to verify taxpayers’ tax payable and determine the amount within the range set by a taxpayer’s challenge, except for complex cases which are difficult to investigate.
+
+During an administrative litigation filed by a taxpayer due to his or her dissatisfaction with the tax assessment, recheck, or administrative appeal, if the tax assessment, recheck, or administrative appeal is revoked or amended by a court because of illegality after the taking effect of this Act, and the tax payable has not become final after the expiry of a 15-year period from the day on which the judgment is made, the tax payable may no longer be assessed. However, if the tax payable has not become final due to the taxpayer’s intentional delay of the litigation process or caused by other reasons beyond the control of mankind, the tax payable may still be assessed.
+
+The preceding paragraph applies mutatis mutandis to the surcharge and belated surcharge (Article 20 of the Tax Collection Act ), interests, delinquent reporting surcharges, non-reporting surcharges, and fines.
+
+## Article 22
+
+Enforcement rules for this Act will be prescribed by the central competent authority.
+
+## Article 23
+
+This Act shall come into force one year after its promulgation.
+
+## History
+
+1.Promulgated by Presidential Decree Hua-Tzung-1 Yi No. 10500161471 on 28 December 2016, and shall effect from 1 year after promulgated.
+
+2.Amendments to Articles 4, 6, and 20 were promulgated via Presidential Decree Hua-Tsung-1-Jing No. 11400053691 on May 28, 2025, and shall effect from 1 year after promulgated. ( The amendments came into force from May 28, 2026. )

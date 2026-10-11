@@ -1,0 +1,611 @@
+---
+title: "Estate and Gift Tax Act"
+title_zh: "遺產及贈與稅法"
+identifier: "G0340072"
+type: act
+law_level: "法律"
+category: "行政＞財政部＞賦稅目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1973-02-06
+last_amended: 2021-01-20
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0340072"
+retrieved: 2026-10-12
+---
+
+# Estate and Gift Tax Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-finance/G0340072-estate-and-gift-tax-act.md](../../../zh/laws/ministry-of-finance/G0340072-estate-and-gift-tax-act.md)) is authoritative.
+
+## Chapter 1 General
+
+#### Article 1
+
+In the event of the death of a Republic of China (hereinafter referred to as R.O.C.) national who habitually resides within the territory of the R.O.C. and leaves property behind, the estate tax shall be levied on all the estate both within and outside the territory of the R.O.C. in accordance with this Act.
+
+For R.O.C. nationals who habitually reside outside the territory of the R.O.C., as well as non-R.O.C. nationals, who, upon death, leave property within the territory of the R.O.C., the estate tax shall be levied on the estate within the territory of the R.O.C. in accordance with this Act.
+
+#### Article 2
+
+Unclaimed estate shall be forfeited to the national treasury according to the law; the estate tax due shall be allocated by the national treasury in accordance with the provisions of the Act Governing the Allocation of Government Revenues and Expenditures.
+
+#### Article 3
+
+R.O.C. nationals who habitually reside within the territory of the R.O.C. and make gifts of their property, whether within or outside the territory of the R.O.C., shall be subject to gift tax in accordance with the provisions of this Act.
+
+R.O.C. nationals who habitually reside outside the territory of the R.O.C., as well as non-R.O.C. nationals, who make gifts of their property within the territory of the R.O.C., shall be subject to gift tax in accordance with the provisions of this law.
+
+#### Article 3-1
+
+If the decedent or the donor voluntarily renounces the nationality of the R.O.C. within two years prior to the occurrence of death or the act of gifting, estate tax or gift tax shall still be levied in accordance with the provisions of this Act on nationals of the R.O.C..
+
+#### Article 3-2
+
+For a trust established by a will, upon the death of the testator, the trust property shall be subject to estate tax in accordance with the provisions of this Act.
+
+In the event of the death of a beneficiary during the continuance of the trust relationship, estate tax shall be levied on the portion of the trust benefits to which the beneficiary is entitled but has not yet received, in accordance with the provisions of this Act.
+
+#### Article 4
+
+In this Act, 'property' refers to movable property, immovable property, and all other rights with property value.
+
+In this Act, 'gift' refers to the act whereby the owner of property gratuitously transfers it to another person with the consent of the latter, thus becoming effective.
+
+In this Act, 'habitual residence within the territory of the R.O.C.' refers to the following circumstances of the decedent or donor:
+
+1.Having a domicile within the territory of the R.O.C. within two years prior to the occurrence of death or the act of gifting.
+
+2.Having a residence within the territory of the R.O.C. without a domicile, and the total duration of residence within the territory of the R.O.C. within two years prior to the occurrence of death or the act of gifting exceeds 365 days. However, individuals employed by the government of the R.O.C. for specific periods of residence within the territory of the R.O.C., this provision does not apply.
+
+In this Act, 'habitual residence outside the territory of the R.O.C.' refers to individuals who do not meet the criteria for habitual residence within the territory of the R.O.C. as stipulated in the preceding paragraph.
+
+In this Act, 'agricultural land' shall be subject to the provisions of the Agricultural Development Act.
+
+#### Article 5
+
+When the transfer of property meets any of the following conditions, it shall be deem as a gift and subject to gift tax in accordance with the provisions of this Act:
+
+1.Where the transferor, within the statute of limitations for the right of action, exempts or assumes a debt free of charge, the amount of the debt exempted or assumed.
+
+2.Where the transferor transfers property or exempts or assumes a debt for a significant disproportionate consideration, the difference between the consideration and the value of the property or debt.
+
+3.Where the transferor uses their own funds to purchase property for another person without charge, the amount of the funds used. However, if the property is real estate, then the real estate itself.
+
+4.Where the transferor contributes capital to purchase property for another person for a significant disproportionate consideration, the difference between the capital contribution and the consideration.
+
+5.Property acquired by persons with limited legal capacity or no legal capacity shall be deemed a gift from their legal representative or guardian. However, if it can be proven that the funds used for the purchase belong to the purchaser, this provision does not apply.
+
+6.Sales of property between relatives within the second degree of kinship. However, if it can be demonstrated with reliable evidence that the full purchase price has been paid and that the payment was not made through a loan from the seller or by providing collateral to borrow from others, this provision does not apply.
+
+#### Article 5-1
+
+In a trust deed where all or part of the beneficiaries of the trust benefit are not settlors, it shall be considered that the settlor has made a gift of the right to enjoy the trust benefit to such beneficiaries, and gift tax shall be levied in accordance with the provisions of this Act.
+
+If, during the continuance of the trust relationship, beneficiaries designated as settlors in the trust deed become non-settlors, the provisions of the preceding paragraph regarding gift tax shall apply upon such change.
+
+During the continuance of the trust relationship, if the settlor adds trust property resulting in an increase in the right of non-settlors to enjoy the trust benefit, gift tax shall be levied on the increased portion at the time of addition, in accordance with the provisions of the first paragraph.
+
+The taxpayer for the preceding three paragraphs shall be the settlor. However, if the settlor falls under any of the circumstances stipulated in the proviso of Paragraph 1, Article 7 of this Act, the trustee shall be the taxpayer.
+
+#### Article 5-2
+
+No gift tax shall be levied on the transfer or disposition of trust property between the following parties:
+
+1.Between the settlor and the trustee due to the establishment of the trust relationship.
+
+2.Between the original trustee and the new trustee when there is a change in the trustee during the continuance of the trust relationship.
+
+3.Between the trustee and the beneficiary when the trustee delivers the trust property to the beneficiary in accordance with the purpose of the trust during the continuance of the trust relationship.
+
+4.Between the settlor and the trustee or between the trustee and the beneficiary when the trust relationship is terminated.
+
+5.Between the settlor and the trustee in the event of the failure to be established, invalidity, termination, or revocation of the trust relationship.
+
+#### Article 6
+
+The taxpayers for estate tax are as follows:
+
+1.If there is an executor of the will, the executor of the will shall be the taxpayer.
+
+2.If there is no executor of the will, the heirs and legatees shall be the taxpayers.
+
+3.If there is neither an executor of the will nor heirs, the estate administrator designated according to law shall be the taxpayer.
+
+If an estate administrator is required to be designated, and within six months from the date of death, no appointment has been reported to the court or if appointment is impossible due to specific reasons, the tax authority may, in accordance with the provisions of the Non-litigation Matters Act, apply to the court for the appointment of an estate administrator.
+
+#### Article 7
+
+The taxpayer for gift tax shall be the donor. However, if the donor falls under any of the following circumstances, the donee shall be the taxpayer:
+
+1.The donor's whereabouts are unknown.
+
+2.The gift tax remains unpaid beyond the prescribed payment deadline stipulated by this Act, and there are no donor’s assets within the territory of the R.O.C. available for execution.
+
+3.The gift tax has not been assessed at the time of donor’s death.
+
+If there are two or more donees as stipulated in the preceding paragraph, the tax liability shall be borne proportionately by each donee based on the value of the gifted property, calculated in accordance with the provisions of this Act.
+
+#### Article 8
+
+Prior to the full payment of estate tax, the estate shall not be divided, bequests shall not be delivered, or transfer registration shall not be processed. Prior to the full payment of gift tax, gift transfer registration shall not be processed. However, in accordance with the provisions of Article 41, upon advance application and approval from the competent tax authority, a certificate of consent for transfer may be issued, or a tax exemption certificate, a certificate excluding from the gross estate, or a certificate excluding from the total gift value may be issued, this provision does not apply.
+
+For real estate within the estate, when creditors apply for compulsory execution, the court shall notify the competent tax authority, determine swiftly its tax amount in accordance with statutory procedures, and transfer it to the court for compulsory execution.
+
+#### Article 9
+
+Properties within or outside the territory of the R.O.C. as referred to in Articles 1 and 3 shall be determined based on the location of the property at the time of the death of the deceased or at the time of gifting by the donor:
+
+1.Movable properties, real estate and rights attached to real estate shall be based on the location of the movable property or real estate. However, for ships, vehicles, and aircraft, the location are located at the jurisdiction of the registry for ships, vehicles, or aircraft.
+
+2.Mining rights are located at the location of the mining area or mine.
+
+3.Fishing rights are located at the location of the administrative jurisdiction.
+
+4.Patent rights, trademark rights, copyright, and publishing rights are located at the location of the registration authority.
+
+5.Other business-related rights are located at the location of the business.
+
+6.Deposits and entrustments accepted by financial institutions are located at the location of the financial institution's office or business premises.
+
+7.Claims are located at the habitual residence of the debtor or the location of the debtor's office or business premises.
+
+8.Government bonds, corporate bonds, stocks, or investments are located at the location of the issuing authority or the principal office of the invested enterprise.
+
+9.Rights and interests related to trusts are located at the location of the office or business premises of the trust enterprise.
+
+If there is any uncertainty in the determination of the location of properties not covered in the preceding subparagraphs, it shall be determined by the Ministry of Finance（hereinafter referred to as the MOF）.
+
+#### Article 10
+
+The calculation of the value of inherited and gifted properties shall be based on their market value at the time of the death of the heir or at the time of the donor making the gift; if the deceased is declared dead, the value of inherited and gifts properties shall be based on their market value on the day of death declared in the court judgment.
+
+For cases of death or gift occurrences that happened before the amendment of this Act on January 15th, 1995, and the case has not yet been assessed or become final, the valuation shall be conducted in accordance with the preceding paragraph after the amendment.
+
+The market value referred to in the first paragraph shall be determined as follows: for land, it shall be based on the assessed present value or assessed standard value; for houses, it shall be based on the standard value of houses; for the estimation of the market value of other properties not stipulated in this law, it shall be determined by the MOF.
+
+#### Article 10-1
+
+The calculation of the value of the rights subject to in estate tax in accordance with Paragraph 2, Article 3-2, shall be done in accordance with the following provisions:
+
+1.For rights enjoying the full benefits of a trust, when the trust benefit is in monetary form, the trust amount shall be the value of the rights subject to estate tax. When the trust benefit is property other than money, the market value of the trust property at the time of the beneficiary's death shall be used as the basis.
+
+2.For rights enjoying trust benefits other than profits, when the trust benefit is in monetary form, the trust amount shall be calculated based on the present value of trust benefits at the interest rate of one-year fixed deposit compounded annually from the beneficiary's death to the time of receiving trust benefit, as determined by the Postal Remittance and Saving banks at the time of the beneficiary's death. When the trust benefit is property other than money, the market value of the trust property at the time of the beneficiary's death shall be used to calculate the present value at the interest rate of one-year fixed deposit compounded annually from the beneficiary's death to the time of receiving trust benefit, as determined by the Postal Remittance and Saving banks at the time of the beneficiary's death.
+
+3.For rights enjoying the profit-bearing portion of the trust benefit, the amount shall be based on either the trust amount or the market value of the trust property at the time of the beneficiary's death, minus the value calculated according to the preceding paragraph. However, if the profits is paid on government bonds, corporate bonds, financial debenture, or other fixed-interest-bearing securities, the calculation of the value shall be the present value of annual interest calculated with compounded annually at the interest rate of one-year fixed deposit, as determined by the Postal Remittance and Saving banks at the time of the beneficiary's death.
+
+4.For rights enjoying trust benefits paid in fixed amounts periodically, the calculation shall be based on the total present value calculated at the interest rate of one-year fixed deposit compounded annually. For rights enjoying trust benefits after deducting periodic payments, the calculation shall be based on the market value of the trust property at the time of the beneficiary's death minus the value calculated according to the preceding provision.
+
+5.For rights enjoying part of trust benefits as specified in the preceding four subparagraphs, the calculation shall be based on the proportion of benefits.
+
+#### Article 10-2
+
+The calculation of the value of the right subject to gift tax in accordance with the provisions of Article 5-1 shall be done in accordance with the following provisions:
+
+1.For rights enjoying all trust benefits, when the trust benefits are in monetary form, the trust amount shall be the value of the rights subject to gift tax; when the trust benefits are assets other than money, the fair market value of the trust property at the time of gift shall be used as the basis.
+
+2.For rights enjoying trust benefits other than profits, when the trust benefit is in monetary form, the trust amount shall be calculated based on the present value of benefit at the interest rate of one-year fixed deposit compounded annually from the time of gift to the time of receiving trust benefit, as determined by the Postal Remittance and Saving banks at the time of gift. When the trust benefit is property other than money, the market value of the trust property at the time of gift shall be used to calculate the present value at the interest rate of one-year fixed deposit compounded annually from the time of gift to the time of receiving trust benefit, as determined by the Postal Remittance and Saving banks at the time of gift.
+
+3.For rights enjoying the profit-bearing portion of the trust benefit, the amount shall be based on either the trust amount or the market value of the trust property at the time of gift, minus the value calculated according to the preceding paragraph. However, if the profits is paid on government bonds, corporate bonds, financial debenture, or other fixed-interest-bearing securities, the calculation of the value shall be the present value of annual interest calculated with compounded annually at the interest rate of one-year fixed deposit, as determined by the Postal Remittance and Saving banks at the time of gift.
+
+4.For rights enjoying trust benefits paid in fixed amounts periodically, the calculation shall be based on the total present value calculated at the interest rate of one-year fixed deposit compounded annually. For rights enjoying trust benefits after deducting periodic payments, the calculation shall be based on the market value of the trust property at the time of gift minus the value calculated according to the preceding provision.
+
+5.For rights enjoying part of trust benefits as specified in the preceding four subparagraphs, the calculation shall be based on the proportion of benefits enjoyed vis-a-vis total benefits.
+
+#### Article 11
+
+For estate tax or gift tax that has been paid on foreign property in accordance with the laws of the country where it is located, the taxpayer may present a tax payment certificate issued by the tax authority of the country where it is located, and attested by a Chinese embassy or consulate by the R.O.C. in the said local; if there is no embassy or consulate, a visa from a local public accountant or notary should be obtained in order to deduct the estate tax or gift tax payable. However, the amount of such deduction shall not exceed the increase in tax payable calculated based on the domestic applicable tax rate due to the addition of the foreign estate.
+
+The property gifted by the deceased within two years before death is subject to estate tax in accordance with the provisions of Article 15. The gift tax and land value increment tax paid shall be added together with the interest calculated by the interest rate of one-year fixed deposit of the Postal Remittance and Saving banks and deducted from the amount of estate tax payable. However, the amount of deduction shall not exceed the increase in tax payable after the gifted property is included in the gross estate.
+
+#### Article 12
+
+All amounts prescribed in this Act shall be denominated in New Taiwan Dollar (NTD).
+
+#### Article 12-1
+
+The following amounts stipulated in this Act shall be adjusted according to the degree of increase starting from the following year whenever the cumulative increase in the consumer price index reaches 10% or more compared with the last adjusted index. The adjusted amount shall be calculated in units of NT$10,000, and if it does not reach the NT$10,000, it shall be calculated as a unit of NT$10,000 and rounded up or down to the nearest NT$10,000 using the traditional method:
+
+1.Tax exemption.
+
+2.Amount of tax bracket.
+
+3.The amount of appliances and utensils necessary for the decedent's daily life and professional tools that is excluded from the gross estate.
+
+4.Deductions for the deceased’s spouse, direct descendants, parents, brothers and sisters, grandparents, funeral expenses deductions and special deductions for the disabled.
+
+Before the end of December each year, the MOF shall, in accordance with the provisions of the preceding paragraph, calculate the applicable amounts for inheritance or gift cases occurring in the following year and then announce them. The referred to in the preceding paragraph consumer price index refers to the average consumer price index for the twelve months starting from November of the previous year to the end of October of the current year as announced by the Directorate-General of Budget, Accounting and Statistics of the Executive Yuan.
+
+## Chapter 2 Computation of Estate Tax
+
+#### Article 13
+
+Estate tax is based on the gross estate calculated in accordance with the provisions of this Act at the time of death, minus the various deductions stipulated in Articles 17 and 17-1 and the tax exemption stipulated in Article 18. Net taxable estate shall be levied according to the following tax rates:
+
+1.If the taxable estate is NT$50 million or less, the tax will be levied at 10%.
+
+2.If the taxable estate exceeds NT$50 million to NT$100 million, a tax of NT$5 million will be levied, plus 15% of the amount exceeding NT$50 million.
+
+3.If the taxable estate exceeds NT$100 million, a tax of NT$12.5 million will be imposed, plus 20% of the amount exceeding NT$100 million.
+
+#### Article 14
+
+The gross estate shall include all of the decedent's property as stipulated in Article 1 at the time of his death, and the value calculated in accordance with Article 10. However, properties that are not included in the gross estate as stipulated in Article 16 are not included.
+
+#### Article 15
+
+Property gifted to the following individuals within two years before the death of the decedent shall be deemed to be the decedent's estate upon his death, and shall be incorporated into his gross estate and taxed in accordance with the provisions of this Act:
+
+1.The deceased's spouse.
+
+2.Each of the statutory heirs of the deceased as provided in Articles 1138 and 1140 of the Civil Code.
+
+3.The spouses of the statutory heirs mentioned in the preceding subparagraph.
+
+For inheritance cases occurring after June 26, 1998, and before the enactment of the aforementioned amendment, the provisions of the preceding paragraph shall apply.
+
+#### Article 16
+
+Exclusions from the gross estate include the following:
+
+1.Property donated by the testator, legatee(s), or the heir to various levels of government and publicly funded educational, cultural, public welfare, charitable organizations.
+
+2.Property donated by the testator, legatee(s), or the heir to public utility enterprises wholly owned by the government.
+
+3.Property donated by the testator, legatee(s), or the heir to educational, cultural, public welfare, charitable, religious organizations, and ancestor worship guild service organizations established as foundations according to the Foundations Act and meeting the standards prescribed by the Executive Yuan.
+
+4.Books and items related to culture, history, and art within the estate, declared and registered by the heir with the competent tax authority. However, if the heir transfers these books or items, he or she is obliged to file a return and pay supplemental taxes on his or her initiative.
+
+5.Copyrights, patents, and artworks created by the deceased.
+
+6.Tools and equipment necessary for the daily life of the deceased, valued at NT$720,000 in total or less.
+
+7.Tools necessary for the profession of the deceased, valued at NT$400,000 in total or less.
+
+8.Forests subject to prohibition or restriction on logging according to law. However, after lifting the prohibition, he or she is obliged to file a return and pay supplemental taxes on his or her initiative.
+
+9.Life insurance payouts, military, public servants and educational personnel, labor, or farmers insurance payouts, and mutual aid funds payable to designated beneficiaries at the time of the deceased's death.
+
+10.Inherited property already subject to estate tax within five years prior to the deceased's death.
+
+11.Original property or separate property of the deceased's spouse and children, duly registered or proven.
+
+12.Land within the deceased's estate that has been converted into public roads or other roads open to the public free of charge, as certified by the competent authority. However, the portion of open space that is required by law to be reserved when building houses should still be included in the total amount of estate.
+
+13.The decedent's debt claims and other claims against another person that are unrecoverable or unexercised but duly proven.
+
+#### Article 16-1
+
+If the testator, legatee(s), or heir provides property, donates, or contributes to a charitable trust, established at the time of the deceased's death and meeting the following criteria, the property shall be excluded from the gross estate:
+
+1.The trustee is a trust enterprise as defined by the Trust Enterprise Act.
+
+2.Each such charitable trust, except for expenses necessary for the purposes of its establishment, shall not confer special benefits on identified or identifiable individuals in any way.
+
+3.Upon termination, dissolution, or extinguishment of the trust relationship as explicitly stipulated, trust property shall transfer to government authorities at all levels, similar-purpose public interest organizations or charitable trust.
+
+#### Article 17
+
+The following subparagraphs shall be deducted from the gross estate and exempt from estate tax:
+
+1.If the deceased had a spouse, NT$4,000,000 shall be deducted from the gross estate.
+
+2.For heirs who are lineal descendants by blood, NT$400,000 each shall be deducted from the gross estate. If the heir is underage, an additional NT$400,000 shall be deducted for each year until they reach adulthood. However, if closer descendants renounce the right to inheritance in favor of more distant descendants, the deduction amount shall be limited to the original deduction amount available before renunciation of inheritance.
+
+3.If the deceased had parents, NT$1,000,000 shall be deducted from the gross estate for each parent.
+
+4.Individuals specified in the preceding three subparagraphs who are classified as severely disabled under the People with Disabilities Rights Protection Act or as severely ill individuals under the Mental Health Act, shall each receive an additional NT$5,000,000 deduction.
+
+5.If the deceased had siblings or grandparents who were dependent on them, NT$400,000 shall be deducted from the gross estate for each sibling or grandparent. If any sibling is underage, an additional NT$400,000 shall be deducted for each year until they reach adulthood.
+
+6.Agricultural land intended for agricultural use and crops thereon within the estate, inherited or bequeathed by the heirs, shall be fully deducted in value. If the heir fails to continue agricultural use of the land within five years from the date of inheritance and fails to restore agricultural use within the specified period set by relevant authorities, the amount of tax that should have been paid shall be collected. However, this does not apply if the heir dies, the land is expropriated, or it is legally changed to non-agricultural use.
+
+7.If the particular property was subject to estate tax within six to nine years prior to the deceased's death, the amount of deduction allowed shall be eighty percent, sixty percent, forty percent, and twenty percent respectively.
+
+8.Taxes, levies, fines, and penalties that the deceased was liable to pay according to law before their death.
+
+9.Outstanding debts of the deceased supported by credible evidence.
+
+10.Funeral expenses of the deceased, calculated at NT$1,000,000.
+
+11.Direct necessary expenses for executing the will and managing the estate.
+
+If the deceased was an R.O.C. national habitually residing outside the territory of the R.O.C. or a non-R.O.C. national, the provisions from Subparagraphs 1 through 7 of the preceding paragraph do not apply. Deductions specified in Subparagraphs 8 through 11 of the preceding paragraph are limited to events occurring within the territory of the R.O.C.. Heirs who waive inheritance rights are not counted when applying the Subparagraphs 1 through 5 of the preceding paragraph.
+
+#### Article 17-1
+
+If the spouse of the deceased declares the right to claim for the distribution of the remainder of the property under Article 1030-1 of the Civil Code, the taxpayer may apply to the tax authority to deduct it from the gross estate.
+
+If the taxpayer fails to pay the property in the amount of the claim to the spouse of the deceased within one year from the date of issuance of the tax payment certificate or tax exemption certificate by the tax authority, the tax authority shall, within five years from the day following the expiration of the aforementioned period, recover the outstanding tax for the unpaid portion.
+
+#### Article 18
+
+If the deceased was an R.O.C. national habitually residing within the territory of the R.O.C., the tax exemption amount of NT$12,000,000 shall be deducted from the gross estate; this deduction is doubled for military, police, or civil servant who died while performing their duties.
+
+If the deceased was an R.O.C. national habitually residing outside the territory of the R.O.C. or a non-R.O.C. national, the deduction for tax exemption shall be handled in accordance with the provisions of the preceding paragraph.
+
+## Chapter 3 Computation of Gift Tax
+
+#### Article 19
+
+Gift tax is levied on the net amount of the taxable gift based on the total amount of gifts made by the donor each year, after deducting the deductions stipulated in Article 21 and the tax exemption stipulated in Article 22, according to the following tax rates:
+
+1.If the taxable gifts are NT$25 million or less, a 10% tax will be levied.
+
+2.If the taxable gifts exceed NT$25 million to NT$50 million, a tax of NT$ 2.5 million yuan will be levied, plus 15% of the amount exceeding NT$25 million.
+
+3.If the taxable gifts exceed NT$50 million, a tax of NT$6.25 million will be levied, plus 20% of the amount exceeding NT$50 million.
+
+If there are two or more gifts within a year, the amount of the gifts shall be calculated together, and the tax amount shall be calculated in accordance with the provisions of the preceding paragraph. The gift tax for the most recent gift is the total tax amount minus the amount of gift tax paid for the previous gifts.
+
+#### Article 20
+
+Exclusions from the total amount of gifts include the following:
+
+1.Property donated to various levels of government and publicly funded educational, cultural, public welfare, charitable organizations.
+
+2.Property donated to public utility enterprises or assets wholly owned by the government.
+
+3.Property donated to educational, cultural, public welfare, religious organizations, and public funeral service organizations established as foundations according to the Foundations Act and meeting the standards prescribed by the Executive Yuan.
+
+4.Living expenses, education expenses, and medical expenses paid by the obligation bearer to the dependents.
+
+5.Agricultural land intended for agricultural use and crops, gifted to heirs as defined in Article 1138 of the Civil Code, shall not be included in the full value of the land and crops thereon. If the recipient fails to continue agricultural use of the land within five years from the date of receipt and fails to restore agricultural use within the specified period set by relevant authorities, or although it has ever resumed agricultural use within the time limit ordered but has returned to the condition of non-agricultural use, the amount of tax that should have been paid shall be collected. However, this does not apply if the recipient dies, the land is expropriated, or it is legally changed to non-agricultural use.
+
+6.Property donated between spouses.
+
+7.Property gifted by parents to children upon marriage, with a total value not exceeding NT$1,000,000.
+
+Regarding property donated between spouses and property received from parents upon marriage with a value within NT$1,000,000 before January 14, 1995, if the assessment has not been verified or the assessment has not been finalized by the effective date of this amendment, the provisions of Subparagraphs 6 and 7 of the preceding paragraph shall apply.
+
+#### Article 20-1
+
+When a beneficiary has rights to enjoy trust benefits because a settlor provides property to establish, make donation to, or join a charitable trust satisfying the requirements set out in Article 16-1, such rights shall be excluded from the total amount of gifts.
+
+#### Article 21
+
+The portion of liability transferred together with the gift borne by the recipient shall be deducted from the gift amount.
+
+#### Article 22
+
+The taxpayer of gift tax may deduct an exemption of NT$2,200,000 from the total gift amount annually.
+
+## Chapter 4 Tax Collection Procedure
+
+### Section 1 Tax Return and Payment
+
+#### Article 23
+
+If the deceased leaves property upon death, the taxpayer shall, within six months from the date of the deceased's death, file an estate tax return with the competent tax authority in the jurisdiction where the deceased's household registration is established in accordance with the provisions of this Act. However, if the tax authority applies to the court to appoint an estate administrator in accordance with the second paragraph of Article 6, the calculation shall start from the date when the court appoints the estate administrator.
+
+If the deceased, who was an R.O.C. national habitually residing outside the territory of the R.O.C. or a non-R.O.C. national, dies leaving property within the territory of the R.O.C., the estate tax return shall be filed with the competent tax authority in the location where the central government of the R.O.C. is situated.
+
+#### Article 24
+
+Except for gifts as specified in Article 20, if the total value of property gifted by a donor to others within one year exceeds the exemption for gift tax, the donor shall, within thirty days from the occurrence of the gift transaction exceeding the exemption, file a gift tax return with the competent tax authority in accordance with the provisions of this Act.
+
+If the donor is an R.O.C. national habitually residing within the territory of the R.O.C., they shall file with the competent tax authority in the jurisdiction where the donor's household registration is established. If the donor is an R.O.C. national habitually residing outside the territory of the R.O.C. or a non-R.O.C. national, and the gift pertains to their property within the territory of the R.O.C., they shall file with the competent tax authority in the location where the central government of the R.O.C. is situated.
+
+#### Article 24-1
+
+Except for charitable trust, as stipulated in Article 20-1, if the settlor falls under the circumstances subject to gift tax liability as specified in Article 5-1, the date of establishing or amending the trust deed shall be deemed as the date of the donation, and the provisions of Paragraph 1 of the preceding article, shall apply.
+
+#### Article 25
+
+If the same donor makes two or more donations in the same year that are subject to tax returns in accordance with the provisions of this Act, when filing the latest gift tax return, the donor shall also report the facts of all donations in the same year and whether taxes are paid.
+
+#### Article 26
+
+If a taxpayer of estate tax or gift tax has legitimate reasons for being unable to file the tax return by the deadline, they shall apply for an extension in writing before the expiration of the time limit prescribed in the preceding three articles.
+
+The period for applying for an extension in the preceding paragraph is limited to three months. However, in cases of force majeure or other special circumstances, the competent tax authority may determine the extension period based on the actual situation.
+
+#### Article 27
+
+(deleted)
+
+#### Article 28
+
+The tax authority, upon learning of the fact of death or receiving a death report, shall issue a declaration notice within one month, attaching the estate tax declaration form, and deliver it to the taxpayer, notifying them to declare within the specified time limit. Ten days before the expiration of the deadline, a reminder notice shall be issued, reminding the taxpayer of their responsibility for late declaration and urging them to comply.
+
+The aforementioned notice shall clearly state in prominent text the relevant provisions of the Civil Code regarding limited inheritance and waiver of inheritance.
+
+The taxpayer may not be exempted from the declaration obligation stipulated in this Act on the grounds that the tax authority has not issued the notice prescribed in the first paragraph.
+
+#### Article 29
+
+The tax authority shall, within two months from the date of receiving the estate tax or gift tax declaration form, conduct investigations and valuation to determine the amount of tax payable, issue a tax payment notice, and notify the taxpayer to make the payment. If there are special circumstances preventing completion within two months, a request for extension shall be submitted to the supervisory authority within the deadline for approval.
+
+#### Article 30
+
+The taxpayer of estate tax or gift tax shall, within two months from the date of receiving the tax payment notice from the tax authority, settle the payable tax; if necessary, taxpayer may apply to the tax authority for a two-month extension within the specified period.
+
+If the amount of estate tax or gift tax payable exceeds NT$300,000 or more and the taxpayer encounters difficulties in making a lump-sum cash payment, they may, within the tax payment period, apply to the competent tax authority to pay in installments over a period of up to eighteen months, with each installment not exceeding two months apart.
+
+For those who have applied for installment payments, interest shall be accrued from the day after the payment deadline until the date of payment by the taxpayer, based on the fixed interest rate of one-year term deposit of Postal Saving Fund; in case of interest rate changes, the calculation shall be based on the revised interest rate.
+
+If the amount of estate tax or gift tax payable exceeds NT$300,000 or more and the taxpayer encounters difficulties in making a lump-sum cash payment, they may, within the tax payment period, apply to offset the insufficient cash payment with taxed property within the territory of the R.O.C. or with tangible assets owned by the taxpayer that are easy to redeem for cash and be preserved. For taxed property within the territory of the R.O.C. that do not easily redeem or preserve, or if the market value at the time of application for offsetting is lower than the value at the time of death or gift, the amount of tax that can be offset shall be limited to the proportion of the value of the property available for offsetting to the total value of the taxable property.
+
+For undecided cases which occurred prior to the implementation of amendments made on January 12, 2009, the provisions of the preceding three paragraphs shall apply. However, if the provisions before the amendments are more favorable to the taxpayer, the provisions before the amendments shall apply.
+
+The assessment of the value of property for offsetting in the fourth paragraph shall be determined by the MOF.
+
+For inherited property collectively owned by a joint ownership by the heirs, and if the inherited property is solely owned or held in fractional ownership by the deceased, an application for offsetting may be made with the consent of more than half of the heirs and their proportional shares greater than a half, or with the consent of more than two-thirds of the total proportional shares of the heirs, without being subject to the restriction in Paragraph 3, Article 828 of the Civil Code.
+
+#### Article 31
+
+(deleted)
+
+#### Article 32
+
+(deleted)
+
+#### Article 33
+
+The tax authorities shall conduct an investigation immediately upon discovering that the taxpayer of estate tax or gift tax has violated the provisions of Article 23 or Article 24 by failing to file an estate tax or gift tax return within the prescribed time limit, or by failing to apply for an extension of the filing deadline in accordance with Article 26. Within the period specified in Article 29, the tax authorities shall determine the amount of tax payable, notify the taxpayer of the obligation to pay within the deadline specified in Article 30.
+
+### Section 2
+
+#### Article 34
+
+(deleted)
+
+#### Article 35
+
+(deleted)
+
+#### Article 36
+
+(deleted)
+
+### Section 3 Investigation and Reporting
+
+#### Article 37
+
+After the household registration authority accepts the registration of death, it shall promptly transmit a copy of the death registration to the tax authorities.
+
+#### Article 38
+
+(deleted)
+
+#### Article 39
+
+The tax authorities, upon conducting an investigation, if they find that the taxpayer intentionally evades estate tax or gift tax through fraud or improper means as defined in Article 46, may state the reasons and apply to the local judicial authority for implementation of search, seizure, or other compulsory measures.
+
+#### Article 40
+
+When the deceased, prior to death, rented a safe deposit box or had deposits in a financial or trust institution, the heirs or interested parties may, after the deceased's death, in accordance with legal procedures, open the deceased's safe deposit box or withdraw the deceased's deposits. Prior to this action, they shall notify the competent tax authority for joint verification and registration.
+
+#### Article 41
+
+After the taxpayer responsible for estate tax or gift tax has paid the full amount of tax due, fines, and accrued belated surcharges and interest, the competent tax authority shall issue a certificate of tax payment. If it is determined that no tax is due, a certificate of tax exemption shall be issued. If there are special reasons requiring the transfer of property ownership before the tax is fully paid, the taxpayer may provide a definitive guarantee for tax payment and apply to the competent tax authority for a certificate of consent to transfer.
+
+According to the provisions of Article 16, property that is excluded from the gross estate, or according to the provisions of Article 20, property that is excluded from the total gifts, upon the taxpayer's application, the tax authority shall issue a certificate of exclusion from the gross estate or a certificate of exclusion from the total gifts.
+
+#### Article 41-1
+
+When there are two or more heirs, and after some of the heirs have paid a portion of the estate tax, fines, and accrued belated surcharges and interest according to their statutory share, they may apply to the competent tax authority for a certificate of consent to transfer for the purpose of registering the collective joint-ownership of the inherited real estate. Before all due payments are fully settled, the real estate collectively owned by a joint ownership cannot be subject to division of the estate registration or any disposal, alteration, or encumbrance of the rights to the real estate collectively owned by a joint ownership.
+
+#### Article 42
+
+When land administration authorities and other government agencies, or public and private enterprises, handle the transfer registration of property inherited or gifted, they shall notify the parties involved to provide a copy of the tax payment certificate, tax exemption certificate, certificate of exclusion from the gross estate, certificate of exclusion from the total gifts, or certificate of consent to transfer, as issued by the tax authority. If these documents cannot be provided, the transfer registration shall not be processed.
+
+## Chapter 5 Penalty
+
+#### Article 43
+
+Reports or accusations against taxpayers and other related persons for underreporting, failing to report, concealing, or intentionally evading taxes through false or fraudulent means, or for assisting others in tax evasion, if verified to be true, the competent tax authority shall reward the informant with a portion of the fine collected and shall keep the informant's identity confidential.
+
+#### Article 44
+
+If the taxpayer violates the provisions of Article 23 or Article 24 by failing to file the estate tax or gift tax return within the prescribed time limit, a fine of up to twice the determined tax amount shall be imposed.
+
+#### Article 45
+
+If a taxpayer, having filed the estate or gift tax return as required by this Act, is found to have underreported or omitted assets, a fine of up to twice the amount of the underreported tax shall be imposed.
+
+#### Article 46
+
+If a taxpayer intentionally evades estate tax or gift tax through fraud or other improper methods, in addition to being reassessed and required to pay the tax based on the rates applicable in the year the inheritance or gift occurred, a fine of one to three times the amount of the evaded tax shall be imposed.
+
+#### Article 47
+
+The fines specified in the preceding three articles, together with the tax payable, shall not exceed the gross estate or the total amount of the gifts.
+
+#### Article 48
+
+Tax officials who violate the provisions of Article 29, and household registration officials who violate the provisions of Article 37, shall be strictly punished by their respective supervisory authorities and required to promptly rectify the situation. If their actions involve criminal conduct, they shall be prosecuted in accordance with the Criminal Code of the Republic of China and other relevant laws.
+
+#### Article 49
+
+(deleted)
+
+#### Article 50
+
+If a taxpayer violates the provisions of Article 8 by dividing the estate, delivering bequests, or processing transfer registration before the estate tax is fully paid, or by processing gift transfer registration before the gift tax is fully paid, they shall be subject to imprisonment for a term of up to one year.
+
+#### Article 51
+
+If a taxpayer fails to pay the assessed estate tax or gift tax within the period specified in Article 30, a belated surcharges of 1% of the tax due shall be imposed for every two days of delay. If payment is not made within 30 days, the competent tax authority shall refer the case for compulsory execution. However, if the failure to pay within the legal period is due to force majeure or reasons not attributable to the taxpayer, and the taxpayer provides concrete evidence and applies for an extension or installment payment within ten days after the cause ceases, and the application is approved, the belated surcharges shall be waived.
+
+The tax due in the preceding paragraph shall accrue daily interest from the day following the expiration of the payment period until the day of payment, at the fixed interest rate for one-year fixed deposit of postal savings, and shall be collected together with the tax.
+
+#### Article 52
+
+If there is a violation of the provisions of Article 42, where, during the handling of property transfer registration related to estate or gift property, the parties involved are not notified to present a tax payment certificate, tax exemption certificate, certificate of exclusion from the gross estate, certificate of exclusion from the total gifts, or a certificate of consent to transfer, and the registration is accepted without these documents, private enterprises shall be fined up to NT$15,000. Government agencies and public enterprises shall have the responsible officials and the directly supervising personnel strictly disciplined by the competent authority.
+
+#### Article 53
+
+(deleted)
+
+## Chapter 6 Supplemental Provisions
+
+#### Article 54
+
+(deleted)
+
+#### Article 55
+
+The enforcement rules of this Act shall be prescribed by the MOF.
+
+#### Article 56
+
+The forms of various documents prescribed by this Act shall be formulated by the MOF.
+
+#### Article 57
+
+(deleted)
+
+#### Article 58
+
+Regarding the imposition of estate tax and gift tax, matters not provided for in this Act shall be governed by the provisions of other laws.
+
+#### Article 58-1
+
+After the implementation of the amendments to this Act on January 12, 2009, any actual annual revenue losses incurred by local governments as stipulated by the Act Governing the Allocation of Government Revenues and Expenditures shall be compensated by the central government until the provisions expanding the scale of centrally allocated tax revenues under the revised Act Governing the Allocation of Government Revenues and Expenditures come into effect. This compensation shall not be subject to the restriction in Article 23 of the Budget Act that the revenues from government bonds shall not be used for current expenditures.
+
+The actual revenue loss mentioned in the preceding paragraph shall be calculated as the difference between the average annual revenue from estate tax and gift tax of each local government for the three years prior to the implementation of the amendments on January 12, 2009, and the revenue from estate tax and gift tax for the current or subsequent years after the implementation, rounded to the nearest NT$10,000.
+
+#### Article 58-2
+
+After the implementation of the amendments to this law on April 25, 2017, the portion of estate tax and gift tax revenues collected at rates exceeding 10% but not exceeding 20%, as prescribed in Article 13 and the first paragraph of Article 19, shall be allocated to the special fund established under the Long-Term Care Services Act and used for long-term care service expenditures. These revenues shall not be subject to the provisions of the Act Governing the Allocation of Government Revenues and Expenditures.
+
+#### Article 59
+
+This Act shall come into effect from the date of its promulgation.
+
+The effective date of the articles of this Act amended on May 29, 2001, shall be determined by the Executive Yuan.
+
+## History
+
+1.Full text promulgated on 6 February, 1973 by Presidential Decree.
+
+2.Amendment to Article 57 promulgated on 5 September, 1973 by Presidential Decree.
+
+3.Amendments to Articles 12, 13, 16 to 20, 22,30, 44 to 46, 51 to 53, and 56, and deletion of Article 27, 31, 32, 34 to 36, 38, 49, 54 and 57, as well as the heading of Section 2, Chapter IV promulgated on 19 June, 1981 by Presidential Decree.
+
+4.Deletion of Article 53 promulgated on 30 July, 1993 by Presidential Decree.
+
+5.Addition of Article 3-1, 12-1, and 41-1, amendments to Article 4, Article 5, Article 10, Article 11, Article 13, Articles 16-20, Article 22, Article 30, Article 41 and Article 51 promulgated on 13 January, 1995 by Presidential Decree.
+
+6.Amendments to Article 11 and 20 promulgated on 24 June, 1998 by Presidential Decree.
+
+7.Amendment to Article 15 promulgated on 15 July, 1999 by Presidential Decree No.8800162090.
+
+8.Amendments to Article 4, 17, and 20 promulgated on 26 January, 2000 by Presidential Decree.
+
+9.Addition of Article 3-2, 5-1, 5-2, 10-1, 10-2.16-1, 20-1, and 24-1, and amendment to Article 59 promulgated on 13 June, 2001 by Presidential Decree and promulgated on 1 July, 2001 with the approval of Executive Yuan.
+
+10.Amendment to Article 28 promulgated on 2 June, 2004 by Presidential Decree No.09300104241.
+
+11.Addition of Article 17-1, 58-1, and amendments to Article 7, 10 , 13 ,18 , 19, 22, 30, 44, and 45 promulgated on 21 January, 2009 by Presidential Decree No.09800015721.
+
+12.Amendments to Article 30 promulgated on 1 July, 2015 by Presidential Decree No.10400075361.
+
+13.Addition of Article 58-2, and amendments to Article 12-1, 13, and 19 promulgated on 10 May, 2017 by Presidential Decree No. 10600056411.
+
+14.Amendments to Article 51 promulgated on 14 June, 2017 by Presidential Decree No.10600073271.
+
+15.Article 17 amended and promulgated by Presidential Decree Hua-tzung-Yi No. 11000003471 on January 20, 2021.

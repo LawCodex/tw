@@ -1,0 +1,1735 @@
+---
+title: "Road Traffic Management and Penalty Act"
+title_zh: "道路交通管理處罰條例"
+identifier: "K0040012"
+type: act
+law_level: "法律"
+category: "行政＞交通部＞公路目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1968-02-05
+last_amended: 2025-05-28
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0040012"
+retrieved: 2026-10-12
+---
+
+# Road Traffic Management and Penalty Act
+
+> Translation. The Chinese text ([zh/laws/ministry-of-transportation-and-communications/K0040012-road-traffic-management-and-penalty-act.md](../../../zh/laws/ministry-of-transportation-and-communications/K0040012-road-traffic-management-and-penalty-act.md)) is authoritative.
+
+## Chapter I General Provisions
+
+### Article 1
+
+This Act is enacted to enforce traffic control, maintain traffic order, and ensure traffic safety.
+
+### Article 2
+
+Traffic control, fines, and penalties are governed by the Act; matters not prescribed by the Act shall be determined by other laws or regulations.
+
+### Article 3
+
+Definitions for terms used in the Act:
+
+\1. Roadways: All highways, streets, lanes, alleys, squares, arcades, hallways, or other passageways for public use.
+
+\2. Vehicle lanes: Roadways with dividers, guard rails, or markings; and other roadways for vehicles.
+
+\3. Sidewalks: Arcades, hallways and ground-level roadways designated for pedestrian use; pedestrian bridges, and underpasses marked for pedestrian use.
+
+\4. Pedestrian crossings: Parts of roadways designated by markings for pedestrian use.
+
+\5. Signs: Boards with text or drawings indicating warnings, prohibitions, and instructions for road traffic control.
+
+\6. Markings: Lines, symbols, or words marked on road surfaces or other facilities to indicate warnings, prohibitions, and instructions for road traffic control.
+
+\7. Signals: Hand gestures, colored lights, sounds, and text that illustrate instructions for road traffic control such as go, caution, and stop.
+
+\8. Vehicles: Cars (including motorcycles) powered by a prime mover, slow-moving vehicles and other motor vehicles on roadways not including the vehicles powered by electricity installed on rails.
+
+\9. Mass rapid transit system vehicles: Exclusive power driven vehicles referred to the Mass Rapid Transit Act.
+
+\10. Temporary parking: When vehicles stop or remain idle for less than 3 minutes to load or unload passengers or goods, and are ready to depart at any time.
+
+\11. Parking: When vehicles park along both sides of a roadway or in a parking lot, and are not ready to depart.
+
+### Article 4
+
+The placement and management of road traffic signs, markings, signals, and other related equipment shall be used to facilitate travel and ensure traffic safety by providing vehicle drivers, mass rapid transit system vehicle drivers, and pedestrians with warnings, prohibitions, instructions, and other information related to road conditions.
+
+Drivers of vehicles, mass rapid transit system vehicles, and pedestrians on roadways shall follow the instructions, warnings, and prohibitive regulations as provided by road traffic signs, markings, and signals, as well as directions given by traffic officers or personnel directing and inspecting traffic pursuant to laws and regulations.
+
+Regulations regarding matters such as instructions, warnings, prohibitive regulations, designs, methods of display, placement standards and placement locations for the aforementioned road traffic signs, markings, and signals shall be determined by the Ministry of Transportation and Communications (hereafter “MOTC”) in conjunction with the Ministry of the Interior (hereafter “MOI”).
+
+Vehicle drivers, mass rapid transit system vehicle drivers, and pedestrians who violate paragraph 2 and cause people injuries or deaths, or have others cause injuries or deaths, shall be subjected to criminal liability, traffic officers or personnel directing and inspecting traffic pursuant to laws and regulations are excluded .
+
+### Article 5
+
+To maintain road traffic safety and ensure traffic moving smoothly, roadway or police authorities may declare orders with respect to the following matters when necessary:
+
+\1. Prohibiting or restricting vehicles and pedestrians from entering certain routes or certain sections thereof; prohibiting vehicles and pedestrians from crossing roadways, long term parking or temporary parking.
+
+\2. Designating pedestrian zones.
+
+### Article 6
+
+In the event of an incident occurs and traffic or pedestrian volume increases significantly on roadways that might stop or disrupt traffic, police authorities or traffic officers shall temporary re-locate, stop, or limit the usage of lanes for vehicles or pedestrians.
+
+### Article 7
+
+Traffic condition inspection and traffic violation recording shall be conducted by traffic police officers or personnel conducting traffic inspections pursuant to laws and regulations.
+
+The aforementioned inspection can be conducted by traffic assistants work with traffic police officers, or work independently for handling illegal parking; regulations regarding the recruitment, training, and enforcement of traffic assistants shall be determined by the MOI in conjunction with the MOTC.
+
+### Article 7-1
+
+Under the following situations, members of the general public shall submit factual accounts, evidence, and information regarding any person who violates this Act to the responsible roadway authorities or police offices:
+
+1.Violation of Article 30, paragraph 1, subparagraph 2 or 7.
+
+2.Violation of Article 30-1, paragraph 1.
+
+3.Violation of Article 31, paragraph 6, or Article 31-1, paragraph 1 to 3.
+
+4.Violation of Article 33, paragraph 1, subparagraph 2, 3, 4, 6, 7, 9, 11 to 15 , paragraph 4 or Article 92, paragraph 7.
+
+5.Violation of Article 42.
+
+6.Violation of Article 43, paragraph 1, subparagraph 1, 3, 4, or paragraph 3.
+
+7.Violation of Article 44, paragraph 1, subparagraph 2, or paragraph 2 or paragraph 3.
+
+8.Violation of Article 45, paragraph 1 , subparagraph 1, 3, 4, 6, 10, 11, 13, 16, or paragraph 2.
+
+\9. Violation of Article 47, paragraph 1.
+
+10.Violation of Article 48, subparagraph 1, 2, 4, 5, or 7.
+
+\11. Article 49.
+
+\12. Violation of Article 53, or Article 53-1.
+
+\13. Violation of Article 54.
+
+\14. Violation of Article 55, paragraph 1, subparagraph 1: Stopping on sidewalks and pedestrian crossings. However, this does not apply to motorcycles stopping on arcades.
+
+\16. Violation of Article 56, paragraph 1, subparagraph 1: Parking on the sidewalks and pedestrian crossing. However, this does not apply to motorcycles parking on arcades.
+
+\17. Violation of Article 56, paragraph 1, subparagraph 10, and paragraph 2.
+
+\18. Violation of Article 60, paragraph 2, subparagraph 3.
+
+The responsible roadway authorities or police offices shall report the person with the violation referred to in Paragraph 1 upon confirmation. However, violations happening after 7 days of the occurrence may be exempt from being reported by authorities.
+
+Members of the general public reports two or more violations of the same provisions of this Act by the same vehicle; if the detection time between two continuous citations does not exceed 6 minutes, and the driver has not passed more than one intersection, the responsible roadway authorities or police offices shall only report once.
+
+Any citation for violations referred to in Paragraph 1 shall be complied according to Paragraph 5 of Article 7-2 of this Act.
+
+### Article 7-2
+
+A car driver shall receive a citation, not necessary at the scene, if the driver violates the following regulations:
+
+\1. Running a red light or railroad crossing.
+
+\2. Cutting off a pedestrian at a pedestrian crossing.
+
+\3. Failing to pay the parking fee as it should be.
+
+\4. Does not follow the direction of officers at the scene and ran away, or without yielding the right of way to fire trucks, ambulances, police cars, rescue vehicles, or emergency response vehicles for a toxic chemical substance disaster or accident upon sirens sound.
+
+\5. Illegal parking or cutting off a pedestrian crossing, as reported by an on-site crossing guard of schools.
+
+\6. Failing to pay toll or weight at a toll plaza or a weight station.
+
+\7. Any violation can be proved by the scientific instruments.
+
+The scientific instruments referred to Subparagraph 7 of the above paragraph must belong legal measuring instrument and be qualified for regular inspection, which location and road segment to obtain evidence of violation shall be announced and updated on the website. However, the following committed offenses by a car driver are not subject to this requirement:
+
+1.Violation of Article 43, paragraph 1, subparagraph 1, 3, 4 and paragraph 3.
+
+2.Violation of Article 33, paragraph 1 to 3 and Articl 92, paragraph 2.
+
+3.Illegal cross passing other vehicles.
+
+4.Illegal parking and drivers leaving the scene.
+
+5.Violating lane use restriction.
+
+6.Making a turn and changing lanes without following the safety rules.
+
+7.Failing to maintain a safe driving distance.
+
+8.Crossing over the no-crossing or channelizing lines.
+
+9.Violating the maximum or minimum speed limits.
+
+10.Violation of Article 31, paragraph 1, 2, 6, Articl 31-1, paragraph 1, 2 and
+
+Article 92, paragraph 7, subparagraph 6.
+
+For the enforcement road segment referred to in Subparagraph 9 shall be set with speed measurement banned signs 100 meters to 300 meters before the segment on a roadway and 300 to 1,000 meters on a freeway or highway. The same standard shall be applied to the location where a violator citation is issued.
+
+Heavy trucks on roads with weigh stations failing to enter the scales or
+
+exceeding its gross weight limit or gross combination load could be cited, in accordance with evidence data from scientific instruments.
+
+Any citation for violations referred to in Paragraph 1 and 4, shall include the vehicle’s license plate number, model, and other identifiable information; and the citation shall be issued in the name of the vehicle’s owner or the major driver designated by owner. However, rental cars with a term of more than one year could be issued in the name of a renter by the application of rental company.
+
+### Article 7-3
+
+Mass rapid transit system vehicle drivers have any citation for violations referred to Article7-2 Paragraph 1 the citation shall be issued in the name of the operation of mass rapid transit system operator, and the citation shall provide the location, time, route, and other identifiable information.
+
+### Article 8
+
+Punishments for violations under this Act shall be enforced by the following authorities:
+
+\1. Articles 12 to 68 and Paragraphs 7 and 8 of Article 92 shall be enforced by the competent roadway authorities.
+
+\2. Articles 69 to 84 shall be enforced by police authorities.
+
+Before an official charge can be issued under the aforementioned paragraphs, violators shall be given the opportunity to make a statement.
+
+The competent roadway authorities shall set up a traffic violation charging office to handle the charges under Subparagraph 1 of Paragraph 1; its relevant organizational procedures shall be determined by the MOTC and the municipal governments.
+
+### Article 8-1
+
+For mass rapid transit system vehicles driving on the sharing road lanes, if the mass rapid transit system vehicle drivers violate the regulations in Chaptor II shall be punished according to each response regulations.
+
+### Article 9
+
+Violators of this Act shall pay the fines under the regulations directly to the designated administrative unit(s) within 30 days upon receiving notice of road traffic violations as provided by Paragraph 4 of Article 92 and close the case. Violators disagree with the facts of the citation shall file a claim to the charging authority within 30 days upon receiving notice. Should an individual fail to report to a designated administrative office before the deadline as specified in the notice, pay the relevant fine on time, or file claims within the time limit as prescribed by the regulations, the charging authority shall determine the charge directly.
+
+Part of the fines prescribed in the Act shall be used as special funds to improve road traffic safety and order. Regulations regarding the fund allocation, appropriation ratio, and application shall be determined by the MOTC in conjunction with the MOI and the Ministry of Finance.
+
+### Article 9-1
+
+Car owners and drivers must pay all fines for violations detailed in Chapters II and III of the Act before they may process to transfer vehicle ownership, suspend / recover / hand over / revoke plate, and license plate applications with the roadway supervisory authority.
+
+### Article 10
+
+Any vehicle owners, drivers, pedestrians, or persons who impede traffic and thereby violate road traffic regulations and are subjected to criminal liability according to laws shall be sent to the respective local prosecutor offices, district juvenile courts, or military authorities.
+
+### Article 11
+
+Military vehicles and vehicle drivers shall follow the road traffic regulations as prescribed by the Act and obey the directions given by the traffic police officers and military police.
+
+## Chapter II Cars
+
+### Article 12
+
+In the event of any of the followings, car owners shall be fined from NT$3,600 to NT$36,000 and the car or motorcycles shall be confiscated at from the scene and be detained by the authorities:
+
+\1. Operating a vehicle without license plates.
+
+\2. Operating a self- assembled vehicle without license plates or any vehicle that has altered its specifications or purpose of use after its license plates were issued.
+
+\3. Operating a vehicle with forged or altered license plates or with license plates applied/obtained using a fake ID.
+
+\4. Operating a vehicle with revoked or void license plates.
+
+\5. Lending license plates to drivers of other vehicles, or using license plates from other vehicles.
+
+\6. Operating a vehicle after its license plate has been suspended.
+
+\7. Failing to display license plates or failing to affix license plates in designated spots.
+
+\8. Operating a vehicle without license plates or a vehicle that has had its license plate for cancellation, suspension, revoked, or void.
+
+\9. Operating a vehicle declared no longer in operation.
+
+\10. Failing to apply renewing license plates for lost with the competent roadway authorities or continuing to operate a vehicle after receiving a citation for said failure.
+
+Vehicles described in Subparagraph 1 and 6 through 10, the fine shall be charged the maximum fine; vehicles described in Subparagraph 3, the fine shall be doubled the maximum fine prescribed in the first paragraph.
+
+Vehicles described in Subparagraph 1 of the above paragraph that have not get the type approval certificate according to Highway Act, and vehicles described in Subparagraph 2 and in Subparagraph 3 where the vehicle’s license plate is forged or altered as the other vehicle’s license plate or in cases of accidents causing injury or death or for violating the first regulation for the second time within 10 years, and in Subparagraph 9 shall be confiscated. License plates of vehicles described in Subparagraphs 3 and 4 shall be withheld, and license plates of vehicles described in Subparagraphs 5 through 7 shall be revoked.
+
+For drivers, who are not the vehicle owner, driving vehicles described in Subparagraphs 1, 3, and 6 through 10 in the first paragraph, the fine shall be the maximum fine prescribed in the first paragraph.
+
+Vehicles discovered parking without valid license plates, use forged, altered license plates or with license plates applied/obtained using a fake ID, using license plates from other vehicles, or fail to display license plates or fail to affix license plates in designated spots while parked on the road, penalties shall be imposed according to the first, second, and third paragraphs, and the vehicle shall be confiscated at from the scene and be detained by the authorities, the license plate of vehicle shall be withheld.
+
+### Article 13
+
+In the event of any of the followings, car owners shall be fined from NT$2,400 to NT$4,800, and required to apply new license plates or make corrections:
+
+\1. License plates damaged, altered, or rendered unrecognizable as a result of installing other devices.
+
+\2. Alteration of the number of passengers, loading weight, or gross weight marked on passenger vehicles or trucks which does not match the approved amounts.
+
+\3. Engine numbers or vehicle identification numbers not marked on the registered positions or match the modal as registration.
+
+### Article 14
+
+Driving a car shall carry the vehicle licenses, certificates for trailers, or certificates for back up engines within the vehicle at all times.
+
+In the event of any of the following, car owners shall be fined from NT$300 to NT$600 and shall be required to make corrections, apply for renewing of license plates, or stop driving:
+
+1.License plates lost or broken and failing to report to the competent roadway authorities for applying new or replacing ones.
+
+2.Failing to keep license plates clean or cover the license plates by things to block observation, unless it is caused by not avoidable roadway situations such as rain, snow or other nature disasters.
+
+### Article 15
+
+In the event of any of the following, car owners shall be fined from NT$900 to NT$1,800:
+
+\1. The car owner fails to comply with the prescribed time limit for replacement of the number plate after notification, and fails to apply for extension of the time limit, and still uses the original number plate.
+
+\2. The car owner has obtained a test car or temporary license, but has not returned it after expiry of the period.
+
+\3. The car owner is using a trade license or temporary license to carry passengers or goods, and is charging a fee for the operation of the car.
+
+\4. The car owner has a test drive license but does not test drive on the designated routes or areas.
+
+\5. The car owner's driving license and trailer use permit expired without following the regulations to renew and continue driving.
+
+\6. The car owner uses a special license plate for antique cars, and does not drive on the specified time, route or area.
+
+For Subparagraph 1 of the above paragraph, upon a second notice and still failing to renew the license plates before expiry, the license plate registration shall be cancelled. License plates described in Subparagraphs 2, 3 and 6 shall be withheld and cancelled. Violators described in Subparagraph 4 shall be required to make corrections; license plates described in Subparagraph 5 shall be withheld and required to be replaced.
+
+### Article 16
+
+In the event of any of the following, car owners shall be fined from NT$900 to NT$1,800:
+
+\1. Various vehicle alterations without reporting and recording as required by the regulations.
+
+\2. A vehicle’s lights (besides headlights), windshield, side windows, rear window, horn, rear mirrors, pipes, mufflers or other equipment are missing or not fixed when damaged; or adding, removing, or altering of the original designs in a manner that endangers the safety of the vehicle.
+
+3.Tail lamps, brake lamps, reversing lamps, direction lamps, rear fog lamps, third brake lamps, and contour marking lamps are dirty and not cleaned, or are covered by other objects, thus affecting normal identification.
+
+\4. Failing to display required identification on vehicles.
+
+\5. Failing to install taxi meters, roof lights, or holders for commercial registration cards in a taxi as required by the regulations; or installing unqualified sun reflective film on the front and rear windows of a taxi.
+
+\6. Installing high-volume speakers or other noise-producing devices that emit loud or irregular tones.
+
+For offenses described in Subparagraphs 1 through 5 of the above paragraph, corrections shall be made and sun reflective film shall be removed; for offenses described in Subparagraph 6, car owners shall be charged the maximum fine, and the high-volume speakers or other noise-producing devices shall be confiscated.
+
+### Article 17
+
+Car owners failing to conduct regular or temporary inspections before the deadline shall be fined from NT$900 to NT$1,800. If the expiration is more than 1 month, the license plates shall be suspended. Until passing the inspections, the license plates can be returned. If the expiration is more than 6 months, the license plates shall be revoked.
+
+License plates for cars that fail to pass inspections and fail to apply for re-inspection within 1 month, or fail to pass re-inspection, shall be suspended.
+
+### Article 18
+
+Car owners who fail to apply to the competent roadway authorities for temporary inspection and continues to operate a car that has undergone alterations or changes to major components such as car body, engine, chassis, or electronic system or that has been repaired for severe damage due to traffic accidents shall be fined from NT$2,400 to NT$9,600 and requested to do inspection.
+
+Should the car owner violate the above provisions twice or more within a year, its license plates shall be suspended for 3 months. Should the license plates be suspended twice within 3 years and the owner commit the above offenses again, the license plates shall be revoked.
+
+### Article 18-1
+
+Car owners operating a car without tachograph, driving vision assistant system or the lateral protection device that are legally required shall be fined from NT$12,000 to NT$24,000.
+
+Cars owners with a malfunctioning tachograph, driving vision assistant system or the lateral protection device, and drive on the road without fixing the above devices shall be fined from NT$9,000 to NT$18,000.
+
+Car owners failing to store the data collected by the tachograph in Paragraph 1 or failing to operate the tachograph in proper ways, which results in tachograph malfunction shall be fined from NT$9,000 to NT$12,000.
+
+With the exception of failing to maintain the data collected by the tachograph, violators of the previous three Paragraphs shall be requested to receive temporarily inspections.
+
+The particular specification of driving vision assistant system, vehicle and the lateral protection device types required to install such systems shall be determined by the MOTC.
+
+Regulations regarding the enforcement, promotion, counseling and reward of the lateral protection device shall be determined by the MOTC.
+
+### Article 19
+
+Should a car with a brake that is not adjusted properly and effective or an unstable steering wheel continue to be used, the car owner shall be fined from NT$1,800 to NT$3,600 and the car owner shall be required to adjust or repair said devices.
+
+### Article 20
+
+Should a car with a damaged engine, chassis, electronic system, or doors and apparently result in safety concern, but continue to be operated without repaired, the owner shall be fined from NT$1,800 to NT$3,600, and its license plates shall be withheld until the vehicle being repaired and passed inspection. Any vehicle that has failed in inspection and verified as no longer usable shall be requested to be condemned.
+
+### Article 21
+
+In the event of any of the following, car driver’s shall be fined from NT$6,000 to NT$24,000, and shall be prohibited from driving right at scene:
+
+\1. Operating a small car or motorcycle without a driver’s license.
+
+\2. Operating a small car with a motorcycle license.
+
+\3. Operating a small car or motorcycle using a fake or altered license, or a license obtained by unlawful manners.
+
+\4. Operating a small car or motorcycle with a driver’s license that has been revoked or cancelled.
+
+\5. Operating a small car or motorcycle while the driver’s license is suspended.
+
+\6. Holding a learning permit and driving a vehicle outside the designated training site without the guidance of a licensed driver.
+
+\7. Holding a learning permit and driving a vehicle outside the designated training sites on unapproved roads or at unapproved time periods.
+
+\8. Working as a driving instructor without a driver’s license.
+
+\9. Operating a vehicle in a manner that violates the regulations prescribed for driver’s license holders.
+
+The driver who violates the preceding provision more than twice within five years shall be fined NT$24,000 and prohibited from driving at scene; if an accident results in serious injury or death, the car may be confiscated.
+
+During the period of suspension or revocation of driver’s license in accordance with Article 35, paragraphs 1 to 5 of the Act, if the driver violates the provisions of subparagraphs 1 to 5 of paragraph 1 of this Article, he/she shall be subject to an additional fine of NT$12,000, in accordance with the fine under paragraph 1 or 2 of this Article.
+
+Regulations mentioned in subparagraph 9 of the paragraph 1 shall be determined by the MOTC.
+
+The driver’s licenses as described in Subparagraphs 3 and 4 of Paragraph 1 shall be withheld, and the driver’s licenses as described in Subparagraph 5 shall be revoked.
+
+If a car owner allows a driver who violates paragraph 1, subparagraphs 1 to 5 to drive his/her car, the car owner shall be fined in accordance with the provisions of the first paragraph, and his/her car license shall be suspended for one month. The car owner shall have his/her car license suspended for three months if he/she violates the law twice within five years. The car owner shall have his/her car license revoked for six months if he/she violates the law three or more times within five years. However, this does not apply to car owners who have exercised due diligence in verifying the eligibility of the driver's driving license, or who have exercised due diligence in such a way as to avoid the occurrence of a breach of the law.
+
+If a minor over 14 years of age violates paragraph 1, subparagraphs 1 or 3, a traffic policeman or other officer who is ordered to perform a traffic inspection shall notify his/her legal representative or guardian, in writing or by other means, of the facts of the violation.
+
+### Article 21-1
+
+In the event of any of the following while driving a bus, truck, or Tractor trailer, both the car owners and driver’s shall be fined from NT$40,000 to NT$80,000 and be prohibited from driving at the scene:
+
+\1. Operating the vehicle without a driver’s license.
+
+\2. Operating the vehicle with only a motorcycle driver’s license.
+
+\3. Operating the vehicle with only a small car driver’s license.
+
+\4. Operating a bus or tractor trailer with only a truck driver’s license, or a tractor trailer with only a bus driver’s license.
+
+\5. Operating a vehicle with a revoked or cancelled driver’s license.
+
+\6. Operating a vehicle using a counterfeit or altered driver’s license, or a license obtained by unlawful manners.
+
+\7. Operating a vehicle while the driver’s license is suspended.
+
+The driver who violates the preceding provision more than twice within five years shall be fined NT$80,000 and prohibited from driving at scene; if an accident results in serious injury or death, the vehicle may be confiscated.
+
+During the period of suspension or revocation of driver’s license, in accordance with Article 35, paragraph 1 of the Act, if the driver violates the provisions of subparagraphs 1 to 5 of paragraph 1 of this Article, he/she shall be subject to an additional fine of NT$40,000 in accordance with the fine under paragraph 1 or 2 of this Article.
+
+The driver’s licenses detailed in subparagraphs 5 and 6 of the paragraph 1 shall be withheld, and the driver’s licenses detailed in Subparagraph 7 shall be revoked.
+
+In case of violation of paragraph 1, the license shall be suspended for one month; in case of violation for the second time within five years, the license shall be suspended for three months; in case of violation for three or more times within five years, the license of the vehicle shall be suspended for six months.
+
+The car owner shall not be liable for the penalties of this Article if the car owner has exercised due diligence in verifying the eligibility of the driver for a driver’s license, or if the violation is unavoidable even though due diligence has been exercised.
+
+### Article 22
+
+In the event of any of the following, car driver’s shall be fined from NT$1,800 to NT$3,600, and shall be prohibited from driving at the scene:
+
+\1. Operating a commercial vehicle with a general driver’s license.
+
+\2. Working as a professional driver with a general driver’s license.
+
+\3. Operating non-military vehicles with a military driver’s license.
+
+\4. Operating a heavy motorcycle with a driver’s license for Tractor trailers, buses, trucks, or small cars.
+
+\5. Operating a light motorcycle with a driver’s license for tractor trailers, buses, trucks, or small cars. However, the person who has obtained a motor vehicle driving license before the amendment on 14th April 2023 comes into effect will not be subject to this limitation.
+
+\6. Operating a general heavy motorcycle with a light motorbike license.
+
+\7. Operating vehicles with an expired driver’s license.
+
+If the car driver operates a large heavy motorcycle with a driver’s license for tractor trailers, buses, trucks, small cars, general heavy motorcycles or light motorcycles, he/she shall be fined NT$6,000 and be prohibited from driving.
+
+The driver's licence shall also be suspended if there is a violation of paragraph 1, subparagraph 7.
+
+Should a car owner allow an illegal driver as defined in Paragraph 1 to drive, he/she shall be fined as stipulated in Paragraph 1 and a traffic violation shall be recorded for said vehicle. However, this does not apply to car owners who have exercised due diligence in verifying the eligibility of the driver's driving license, or who have exercised due diligence in such a way as to avoid the occurrence of a breach of the law.
+
+### Article 23
+
+In the event of any of the following, the driver’s license for a car driver shall be suspended for 3 months:
+
+\1. Lending a driver’s license for use by another person.
+
+\2. Allowing vehicles to be operated by a person without a driver’s license or with a suspended, cancelled, or revoked driver’s license.
+
+### Article 24
+
+If the driver or car owner violates this Act, the driver or car owner shall be ordered to undergo road safety lessons in addition to the fines prescribed by the Act.
+
+Responsible roadway authorities may, due to major amendments to traffic laws or traffic safety measures, require professional car driver’s to attend road traffic safety lessons if necessary.
+
+Should a car driver be required to attend road traffic safety lessons as detailed in the above two paragraphs and fail to attend without a legitimate reason, he/she shall be fined NT$1,800. If the car owner is again notified to attend road safety lessons but fails to do so after a lapse of more than six months, he/she, being the driver of the car, shall have his/her driver’s license suspended for six months. If the driver is the car owner, the license of the vehicle shall be suspended for six months.
+
+If the car driver or car owner violates the Act again within one year after receiving road safety lessons in accordance with the first paragraph, the number of hours of lessons for him/her or other relevant persons shall be increased.
+
+### Article 25
+
+Car operators shall carry their driver licenses while driving cars at all times.
+
+In the event of any of the following, car drivers shall be fined from NT$300 to NT$600, and be required to re-register, renew a license, apply for a new license, or be prohibited from driving:
+
+\1. Legally changing his/her name, date of birth, or address without reporting to the competent traffic authority with the new information.
+
+\2. Failing to apply a new driver license or applying a new driver license exceeds the prescribed deadline.
+
+### Article 26
+
+Should a professional car driver fail to have his/her driver licenses reviewed within the designated time period, he/she shall be fined from NT$300 to NT$600; if it exceeds over 1 year from the designated time, he/she driver license shall be revoked without notice.
+
+The professional car driver whose driver license has been revoked as detailed in the above paragraph may apply a general driver license as the same level of vehicle.
+
+### Article 27
+
+Should a car pass a toll highway or bridge and the car owner or driver fails to pay the required toll, the owner or driver shall make payment as receive a written notice from the competent authority. Should the owner or driver fail to make payment before the expiration date, he/she shall be fined NT$300.
+
+Should a car run its way through the toll booth to avoid paying as it shall be, the car owner or driver shall be fined from NT$3,000 to NT$6,000 and shall still pay the toll.
+
+Because of the offense behavior specified above and results in injury or death to any person who is executing toll collection, his/her driver license shall be revoked.
+
+### Article 28
+
+(annulled )
+
+### Article 29
+
+In the event of any of the following conditions concerning the loading of goods, car owners shall be fined from NT$3,000 to NT$18,000 and be required to correct the situation or be prohibited from driving:
+
+\1. Carrying goods that exceed the prescribed length, width, or height limits.
+
+\2. Carrying goods that exceed the prescribed weight, length, width, or height limits without applying for permission or without displaying hazardous warning signs.
+
+\3. Carrying hazardous materials without applying for permission or without putting hazardous warning signs as required, using a tank truck with a tank that has not been certified and approved, operation personnel do not have a qualify professional training, or failing to follow relevant safety regulations.
+
+\4. Failing to follow the regulations about carrying goods on a truck or tractor-trailer.
+
+\5. Failing to follow the regulations about installing hauling devices or attaching trailers.
+
+\6. Carrying containers exceeding the body of the vehicle’s body, or failing to install an interlocking system as required.
+
+\7. Driving with a trailer without a permit.
+
+Vehicles carrying goods which violate the regulations as provided in Subparagraphs 1 to 4 of the preceding paragraph shall be charged with 1 traffic violation.
+
+For driver’s held responsible for the offenses as described in Subparagraphs 1 to 4 of Paragraph 1, besides receiving a fine under Paragraph 1, the vehicle owners shall also be charged with 1 traffic violation under said regulations.
+
+Should the offense detailed in Paragraph 1 result in injury, the driver’s license shall be suspended for 1 year. Should said offense result in serious injury or death, the driver’s license shall be revoked.
+
+### Article 29-1
+
+In the event of carrying sand, stone or soil not by a designated vehicle, or the vehicle’s trunk does not comply with the regulations, or has been altered, the vehicle’s owner shall be fined from NT$40,000 to NT$80,000, and said vehicle shall be prohibited from driving at scene.
+
+Any business which in responsible of the production or alteration of said violating vehicle shall be fined from NT$40,000 to NT$80,000.
+
+### Article 29-2
+
+Should a vehicle carrying goods exceed its gross weight limit or gross combination load, the vehicle’s owner shall be fined and charged with one traffic violation. In the event that the vehicle driver is found responsible, the driver shall be fined under Paragraph 3 and charged with one traffic violation points under Paragraph 3.
+
+Should a vehicle carrying goods cross a bridge and exceed its weight limit, the driver shall be fined. If the vehicles owner is found liable, he/she shall be fined and charged with one violation under Paragraph 3.
+
+For the situations described in the above two paragraphs, the vehicle driver shall be required to reduce the vehicle weight to meet the regulation before being allowed to proceed, and a fine of NT$10,000 shall be charged; in the case of loads exceeding the weight limit by no more than 10 tons, a fine of NT$1,000 shall be charged for each ton that exceeds the limit; in the case of loads exceeding the weight limit by 10 to 20 tons, a fine of NT$2,000 shall be charged for each ton that exceeds the limit; in the case of loads exceeding the weight limit by 20 to 30 tons, a fine of NT$3,000 shall be charged for each ton that exceeds the limit; and in the case of loads exceeding the weight limit by over 30 tons, a fine of NT$5,000 shall be charged for each ton that exceeds the limit. Fractions of one ton shall be rounded up to one ton.
+
+Should a vehicle driver carrying goods enter the road section within 5 kilometers of a weigh station, and fail to follow instructions to enter the scales as provided by relevant road traffic signs, markings, or signals, or given instructions by traffic police officers or personnel conducting traffic inspections, the driver shall be fined NT$90,000 and forced to enter the scales. If the vehicles owner is found liable, he/she shall be fined and charged with one violation.
+
+Should an offense detailed in Paragraphs 1 and 2 result in injury, the driver’s license shall be suspended for 1 year. Should said offense result in serious injury or death, the driver’s license shall be revoked.
+
+### Article 29-3
+
+Any person responsible for transporting hazardous goods shall undergo training by a professional training institution certified by the MOTC and receive a certificate of training completion before operating a vehicle carrying hazardous goods.
+
+Regulations regarding matters such as professional training, qualifications for professional training institutes, permission for training, training sites, training equipment, course design, format of completion certificates, period of validity for training, auditing, management, and other details for the professional personnel training listed in Paragraph 1 shall be determined by the MOTC in conjuction with relevant authorities.
+
+When a driver license is revoked according to the regulations of this Act, the training certificate belonging to said license holder as described in Paragraph 1 shall be canceled, too; and the driver may not apply for another license within a certain time period in accordance with Article 67.
+
+Should a professional training institute undertaking the personnel training of hazardous goods transportation fails to follow regulations regarding training, issuing certificates, or other matters, said institute shall be ordered to cease training for a period of 3 to 6 months or have the training permission cancelled depending on circumstances.
+
+Any training certificates issued in a manner as detailed in the above paragraph are invalid. Any training institute that has its permission to hold training courses been cancelled may not reapply for such permission within a period of 3 years.
+
+### Article 29-4
+
+Tank trucks carrying atmospheric pressure liquid tanks shall pass inspection by a MOTC-approved body inspection institute and receive a certificate of inspection qualification before carrying hazardous goods.
+
+Regulations regarding matters such as inspection, qualifications for body inspection, inspection licenses, conditions for inspection sites, inspection instruments and equipments, qualifications for inspection personnel, inspection standards, format for inspection certificates, period of validity for inspections, auditing, and other binding matters for atmospheric liquid tanks as detailed in the above paragraph shall be determined by the MOTC in conjuction with relevant authorities.
+
+Should a body inspection institute responsible for atmospheric pressure liquid tanks fail to follow regulations in inspecting said tanks and in issuing inspection certificates or fail to follow other regulations regarding inspections, said agency shall be ordered to cease inspections for a period of 3 to 6 months or have its license cancelled, depending on the violation situations.
+
+Any inspection certificates issued as detailed in the above paragraph are invalid. The body inspection institute that is charged with license revoked can not apply the license permission for 3 years.
+
+### Article 30
+
+In the event of any of the following conditions concerning the loading of goods, the driver shall be fined from NT$3,000 to NT$18,000, and be required to correct the situation or be prohibited from driving:
+
+\1. Carrying goods that exceed the weight, length, width, or height limits without special admission; or failing to follow regulations regarding designated routes and times.
+
+\2. Carrying goods that leak, scatter, fall off, drop or give off unpleasant odor.
+
+\3. Carrying more workers than is permitted by the regulations, or failing to follow the regulations regarding passenger seating.
+
+\4. Exceeding the approved number of passengers. This does not apply to public buses carrying passengers with a gross weight that meets the approved limits during rush hour.
+
+\5. Exceeding the approved number of passengers in the front seat of a small passenger car or driver’s cabin of a truck.
+
+\6. Carrying passengers outside the vehicles cabin.
+
+\7. Failing to properly secure passengers and goods and apparently cause safety concerns.
+
+\8. Failing to present any of the following: special permission for carrying hazardous goods; proof of inspection for a tank on a tank truck; operation training certificate; or failing to follow the regulations by driving in designated lane(s), route(s) and time slots.
+
+Should a vehicle owner be held responsible for any of the offenses above, he/she shall be fined and charged with one traffic violation.
+
+Should the offenses detailed in Paragraph 1 or 2 result in injury, the driver’s license shall be suspended for 1 year. Should said offenses result in serious injury or death, the driver’s license shall be revoked.
+
+### Article 30-1
+
+If the vehicle parts, equipment, or attachments are not stable or fall of while travelling on the road, the driver shall be subject to a fine from NT$1,000 to NT$6,000 and shall be ordered to make corrections or be prohibited from travelling on the road.
+
+Should the preceding offenses detailed in above paragraph result in injury, the driver’s license shall be suspended for 1 year. Should said offenses result in serious injury or death, the driver’s license shall be revoked.
+
+### Article 31
+
+Should a car driver or passengers in the front seat of a car or back seats of a small car fail to fasten their seatbelts as required by regulations, the driver shall be fined NT$1,500. If the driver of a large commercial passenger car fails to fasten their seatbelts as required by regulations, the driver shall be fined NT$2,000. In the case of a large commercial passenger car, a taxi or a rental car with a hired driver, if the driver already informed the passengers of their seatbelt obligation, and the passengers still fail to fasten the seatbelt, the fine shall be levied on the passengers instead.
+
+Should a driver operate a car on freeways or expressways and violate the above regulations, or the passenger over 4 years old in a large car fails to fasten their seatbelts as required by regulations, he/she shall be fined from NT$3,000 to NT$6,000. In the case of a large commercial passenger car, a taxi, or a rental car with a hired driver, if the driver already informed the passengers of their seatbelt obligation, and the passengers still fail to fasten the seatbelt, the fine shall be levied on the passengers instead.
+
+Should a driver of a small car fail to place children in child car seats, he/she shall be fined from NT$1,500 to NT$3,000. Regulations regarding placing said children properly, the promotion of such practices, and other relevant matters shall be determined by the MOTC in conjunction with the MOI and other relevant authorities.
+
+Should a driver leave a child under 6 years old (inclusive), or a child in need of special care, alone in a vehicle, he/she shall be fined NT$3,000.
+
+Should a motorcycle carry passengers or goods in a manner that violates regulations, the driver shall be fined from NT$300 to NT$600.
+
+Should a driver or passengers of a motorcycle fail to wear a helmet as required by regulations, the driver shall be fined NT$500.
+
+The correct method to use the seatbelt, measures for enforcement, and measures for dealing with cases where a seatbelt cannot be fastened for special reasons, promotion of said measures, and other relevant matters as detailed in Paragraph 1 and 2 shall be determined by the MOTC.
+
+### Article 31-1
+
+While driving a car on roads, if the driver use the handheld mobile phones, computers, or other similarly feature devices to make calls, talks, send/receive data, or perform other operations that can inhibit the vehicle’s safe operation, he/she shall be fined NT$3,000.
+
+While riding a motocycle on road, if the driver uses a handheld mobile phone, computer, or other devices to make a call, talk / send / receive data, or perform other activities that can inhibit the vehicle’s safe operation, he/she shall be fined NT$1,000.
+
+While driving a car and riding a motorcycle on road, if the driver holds, smokes, lights the cigarette to endanger the other persons’ safety, he/she shall be fined NT$600.
+
+The driver of police cars, fire trucks, or ambulances shall, when are carrying out his or her duties or permitted under other laws, be exempt from the regulations as defined in Paragraphs 1 and 2.
+
+Regulations regarding the enforcement and promotion of paragraphs 1 and 2 shall be determined by the MOTC.
+
+### Article 31-2
+
+A child as described in Paragraph 3 of Article 31 refers to a person of 4 years or less of age and with a body weight of 18 kilograms or less.
+
+### Article 32
+
+For a motor-powered machine not classified as a car, should the machine be operated without a special admission as required by regulations or without the legally required driver license, the owner or driver shall be fined from NT$3,000 to NT$9,000; and said machine shall be prohibited from driving.
+
+Should the driver of the machine detailed above fail to keep a special admission with him/her, he/she shall be fined NT$300 and prohibited from driving.
+
+Should the machine detailed in Paragraph 1 be operated on roads, violating the regulations set forth in this chapter on cars, is subject to the same charge punishment in accordance with respective regulations.
+
+### Article 32-1
+
+Should a moving device, a moving sports and leisure equipment, or a similar moving equipment that is not within the scope of a vehicle, a motor-powered machine and personal mobility device be operated or used on roads, the operators or users shall be fined from NT$1,200 to NT$3,600; and said device or equipment shall be prohibited from using.
+
+### Article 33
+
+Should a car driver fail to follow relevant restrictions, prohibitions, traffic controls, or other regulatory matters on a freeway, a highway, or a roadway with a control station, and commit one of the following offenses, he/she shall be fined from NT$3,000 to NT$6,000:
+
+\1. Driving speed exceeds the maximum or is below the minimum speed limits.
+
+\2. Failing to maintain a safe driving distance.
+
+\3. Driving in the wrong lane without complying with regulations.
+
+\4. Arbitrary change of lanes without complying with regulations.
+
+\5. Allowing passengers to stand in seats.
+
+\6. Failing to use the car’s lights according to regulations.
+
+\7. Overtaking or crossing lanes illegally.
+
+\8. Reducing speed, temporarily stopping or parking without complying with regulations.
+
+\9. Using road shoulders without complying with the regulations.
+
+\10. Failing to follow the instructions of the construction safety facilities.
+
+\11. Failing to cover or bind loaded materials in accordance with regulations.
+
+\12. Failing to follow signs, markings, or signals while driving.
+
+\13. Entering or travelling on a prohibited road.
+
+\14. Continuously and intensively honking the horn, flashing the lights, or otherwise forcing the vehicle in front to give way.
+
+\15. Throwing objects or waste out of the vehicle while driving.
+
+\16. The depth of the tread on the tires does not comply with regulations.
+
+The inner lane of the preceding road shall be the overtaking lane. If a driver fails to return to the original lane after overtaking a vehicle within a safe distance, thereby blocking the overtaking lane, the driver shall be fined from NT$6,000 to NT$12,000.
+
+In addition to the first two paragraphs, if a driver violates the control regulations, the driver shall be fined from NT$600 to NT$1,200.
+
+Any person, vehicle or power machine that is not permitted to drive on or enter the roads mentioned in the first paragraph, but drives on or enters the roads, shall be subject to a fine from NT$3,000 to NT$6,000.
+
+If the Act provides for heavier penalties for the acts in the first four paragraphs, the provisions of the Act shall apply.
+
+The MOTC in conjunction with the MOI shall determine the rules and regulations for the control of the offences referred to in the first paragraph.
+
+### Article 34
+
+Any car driver proved to be continue driving for more than 8 hours or to be so ill as to affect driving safety shall be fined from NT$1,200 to NT$2,400 and be prohibited from driving. Should the car owner be held responsible, the vehicle license plate shall be suspended for 3 months.
+
+### Article 35
+
+Should a test or inspection prove that any of the following offenses occurs on the driver, the motorcycle driver shall be fined from NT$15,000 to NT$90,000, the car driver shall be fined NT$30,000 to NT$120,000, the car or motorcycles shall be removed from the scene and be detained by the authorities, and the driver’s license shall be suspended for 1 to 2 years. In the same case, should any passenger with the age of 12 or younger in the car, or result in an accident with injuries, the driver’s license shall be suspended for 2 to 4 years; and should said accident result in serious injury or death, the driver’s license shall be revoked and be permanently prohibited from driving :
+
+\1. Alcohol concentration in the body exceeds the prescribed limit.
+
+\2. Taking drugs, psychedelics, narcotics, or similar controlled substances.
+
+A driver of a commercial bus shall have his/her driver’s license revoked if the circumstances described in the preceding paragraph make it liable to suspension. The penalty shall be doubled for the period of suspension of the driver’s license of a driver who has caused an accident in which a child under the age of 12 is in the vehicle.
+
+On 17 April 2019, the date of the commencement of the amended and published provisions of this Act, if a car or motorcycle driver violates the first regulation for the second time within ten years, he/she shall be fined according to the vehicle he/she is driving, and the fine shall be the maximum amount of the fine prescribed in the first regulation. A third violation of this provision shall be subject to a fine of NT$90,000, which shall be added to the fine imposed for the previous violation of this provision. The car or motorcycle shall be removed at scene for storage and the driver's license shall be revoked. The highway authority may publish the driver's name, photo and the facts of the offense. If the accident causes serious injury or death, the driver's license shall be revoked and the driver shall not be allowed to apply for another driver’s license.
+
+A car or motorcycle driver shall be fined NT$180,000, and his/her car or motorcycle shall be removed from the premises for safekeeping and his/her driver’s license shall be revoked if he/she is involved in one of the following cases. If a car or motorcycle driver causes serious injury or death, his/her driver’s license shall be revoked and he/she shall not be allowed to apply for a driver’s license again.
+
+1.Driving a motor vehicle or motorbike through a place where the police have posted a notice that the tests and examinations mentioned in the first paragraph are to be carried out, but failing to stop and be inspected as instructed.
+
+\2. Refusal to undergo the tests and examinations mentioned in the first paragraph.
+
+\3. Consumption of alcohol, drugs, psychedelics, narcotics, or similar controlled substances before undergoing the tests and examinations mentioned in the first paragraph.
+
+\4. Taking alcohol, drugs, LSD, narcotics, or similar controlled substances after a traffic accident and before undergoing the tests and examinations mentioned in the first paragraph.
+
+On 17 April 2019, the date of the commencement of the amended and published provisions of this Act, a car or motorcycle driver who violates the provisions of Paragraph 4 for the second time within ten years shall be subject to a fine of NT$360,000. A third violation of this provision shall be subject to a fine of NT$180,000, which shall be added to the fine imposed for the previous violation of this provision. The car or motorcycle shall be removed at scene for storage and the driver's license shall be revoked. The highway authority may publish the driver's name, photo, and the facts of the offense. If the accident causes serious injury or death, the driver's license shall be revoked and the driver shall not be allowed to apply for another driver’s license.
+
+Should a car or motorcycle driver refuse or is unable to undergo the tests and examinations mentioned in the first paragraph, the traffic police or the officers who are ordered to perform traffic inspection duties shall forcibly transfer him to the commissioned medical or examination institution to perform blood or other body samples and tests and examinations on him.
+
+If a car or motorcycle owner does not prohibit the driver of a car or motorcycle from driving, knowing that the driver of the car or motorcycle meets the conditions mentioned in Paragraph 1, he/she shall be subject to a fine in accordance with Paragraph 1 and the license of the car or motorcycle shall be revoked for a period of 2 years. The motorcycle/car license shall be withheld and the motorcycle/car will be seized and transferred to another place for safekeeping.
+
+If a car or motorcycle driver drives a vehicle with an alcohol concentration of 0.25 milligrams per litre or a blood alcohol concentration of 0.05 per cent, a fellow passenger who is eighteen years of age or older shall be subject to a fine from NT$6,000 to NT$15,000 per year. However, passengers who are 70 years of age or older, mentally challenged, or passengers in the motor transport industry are exempted from this restriction.
+
+Should a driver meet the conditions as detailed in Paragraph 1, Paragraph 3 to Paragraph 5, his/her vehicle license shall be suspended for 2 years, his/her car or motorcycle shall be removed to custody, and his/her vehicle license shall be withheld. The vehicle may be forfeited if the accident resulted in serious injury or death.
+
+If the rental car business has fulfilled its obligation to inform of the penalty in this article, and the driver still fails to follow regulations in Paragraph 1, Paragraph 3 to Paragraph 5, the driver shall be punished in accordance with Paragraph 1, Paragraph 3 to Paragraph 5 respectively, and one-half of the fine shall be added.
+
+Should a driver have the conditions as detailed in Paragraph 1, 3 to 5 and is subjected to a criminal charge, he/she shall pay the necessary fine and show the receipt before reclaiming a car in custody without being restriction by Paragraph 2 of Article 85-2.
+
+Should the driver as detailed in the preceding paragraph receive a fine by a court, which is lower than the minimum fine provided by Paragraph 4 of Article 92 of this Act, he/she shall still pay the difference to match the minimum fine.
+
+### Article 35-1
+
+A driver who obtains driver licenses according to Paragraph 5 of Article 67 shall apply for registration of a car with alcohol interlock device before issuing a driver license; the driver drives the car without alcohol interlock device shall be fined NT $60,000 to NT$120,000, and the car shall be detained by the authorities.
+
+A driver who applies for registration in accordance with the provisions of the preceding paragraph fails to use the alcohol interlock device shall be fined NT $10,000 to NT$30,000, and the car shall be detained by the authorities.
+
+The alcohol interlock device in Paragraph 1 unlock by another person, he/ she shall be fined NT $6,000 to NT$120,000.
+
+The design, function,vehicle types, management,given period of alcohol interlock device, and other relevant matters in Paragraph 1 shall be determined by the MOTC and MOI.
+
+### Article 35-2
+
+If a professional driver employed by a automotive transportation enterprise who drives and violates Paragraph 1, 3, 4 or 5 of Article 35 in the performance of his/her duties and therefore is bound to compensate for the injury to others, the court may fix no more than three times of the damages amount as punitive damages to be borne by the automotive transportation enterprise based on the degree of infringement as per the claim of the victim. However, the automotive transportation enterprise is not liable for the injury if it has exercised reasonable care in the selection of the employee, and in the supervision of the performance of his duties and the injury would have been occasioned notwithstanding the exercise of such reasonable care.
+
+The right to claim punitive damages in the preceding paragraph shall be extinguished since the claimant knows that there is damage and compensation for the obligor for two years; the date of the cause of compensation more than five years is the same applies.
+
+### Article 36
+
+Any taxi driver conducts business operation without registering at police authorities and obtaining the business registration certificate shall be fined from NT$1,500 to NT$3,600.
+
+Should a taxi driver who had already fined for failing to obtain a business registration certificate continue to do business without such a certificate, his/her driver’s license shall be revoked.
+
+Should a taxi driver fail to report changes on business registration or to conduct a yearly inspection within a designated time period, he/she shall be fined NT$1,200. Should he/she fail to report such changes for more than 6 months, his/her business registration shall be revoked.
+
+Should a taxi driver apply for business registration as detailed in the preceding paragraph, he/she can not apply a new registration within 1 year.
+
+In the event that business registration certificates as detailed in Paragraph 1 are not put in the designated holders in the car or are obstructed by things, shall be fined NT$1,500.
+
+### Article 37
+
+Any person convicted of the crimes as specified in the next paragraph, or persons given correctional penalties pursuant to the Statue Governing Seizing Mobsters shall be prohibited from applying taxi driver business registration.
+
+\1. Homicide, resulting in aggravated injury, robbery, pillage, plunder, extortion for money, kidnapping.
+
+\2. Other crimes as specified by Articles 184, 185 or185-3 of the Criminal Law.
+
+\3. Other crimes as specified by Articles 221 to 229 of the Criminal Law；Articles 24 to 27 of the Statue for Prevention of Sexual Transactions Involving Children and Adolescents; Articles 33 to 37 of the Statue for Child and Youth Sexual Exploitation Prevention Act.
+
+\4. Articles 7 or 8 of the Statue for Governing the Control of Guns, Ammunition, Knives and Weapons.
+
+\5. Articles 4 to 6 of the Statue for the Smuggling Punishment Act.
+
+\6. Articles 3、4 or6 of the Statue for the Organized Crime Prevention Act.
+
+\7. The Statue for Prevention of Narcotics.
+
+Whoever commits a crime other than the third paragraph of the preceding paragraph, and one of the following circumstances, before applying for practice registration.No further declaration or execution of the sentence within the 12 years, subject to the restrictions of the preceding paragraph：
+
+\1. If probation has not been revoked, the sentence shall forfeit its validity after the expiration of the period of probation.
+
+\2. A sentence of life imprisonment, the completion of the execution or the remission of the principal punishment or persons given correctional penalties pursuant to the Statue Governing Seizing Mobsters.
+
+Should a taxi driver be convicted of the crimes in Paragraph 2 of this article, be sentenced to prison in the first trial of a court, his/her business registration certificate shall been suspended. Any driver who has been convicted by a court and sentenced to prison, his/her business registration certificate shall be canceled. In addition to complying with the provisions of the preceding paragraph, any taxi driver shall be prohibited from applying for taxi driver business registration.
+
+Should a taxi driver commit crimes resulting in aggravated injury ,larceny, fraud, theft, obstruction of freedom, or any of the crimes specified in Articles 231 to 235,235.1 of the Criminal Law during operation and be sentenced to prison in the first trial of a court, his/her business registration certificate shall be suspended. Any driver who has been convicted by a court and sentenced to prison, his/her business registration certificate shall be canceled and his/her business registration certificate. The punishment to be executed is an imprisonment for more than six months ,if probation has not been revoked, the sentence shall forfeit its validity after the expiration of the period of probation,.his/her business registration certificate shall be canceled and cannot be processed within three years. Should a taxi driver have his/her business registration certificate been suspended for reasons as specified in the offenses of embezzlement, any driver who has been convicted by a court and sentenced to prison, his/her business registration certificate shall be canceled and his/her business registration certificate and cannot be processed within 3 years.
+
+Should a taxi driver have his/her business registration certificate been suspended for reasons as specified in the preceding two paragraphs and fail to return said certificate to the issuing police authority, said certificate shall be canceled.
+
+Any taxi driver whose business registration certificate is canceled or suspended for violating the previous Article or this Article and who is subjected to take punishment from a police authority shall be exempt from the regulations said in Subparagraph 1, Paragraph 1, Article 8.
+
+Any canceled business registration certificate shall be detained by the police authorities.
+
+Regulations regarding the qualifications for a taxi driver, business registration, tests, fees for joining training courses, issuing certificates, and other binding matters shall be determined by the MOI in conjunction with the MOTC.
+
+### Article 38
+
+Any car driver without the permission to collect passengers and thereby impede the traffic in places such as railway and highway stations or other locations with heavy traffic shall be fined from NT$1,500 to NT$3,000. Should the car in question be a large commercial passenger car, 1 traffic violation shall be charged for that vehicle.
+
+Should a taxi driver refuse to serve passengers without reasonable reasons or take a detour on purpose, he/she shall be fined from NT$600 to NT$1,200.
+
+### Article 39
+
+On any roadway without center line markings, a car driver failing to operate the vehicle on the right hand side of the road shall be fined from NT$600 to NT$1,200; driving on a one-way street or following the regulations in the process of overtaking other vehicles shall be exempt from this Article.
+
+### Article 40
+
+Any car driver who operates a car at a speed above the maximum or below the minimum speed limits shall be fined from NT$1,200 to NT$2,400 beside in the circumstances as detailed in Subparagraph 2, Paragraph 1, Article 43.
+
+### Article 41
+
+Any car driver who honks the horn not following the car regulations or at a volume exceeding the designated limits shall be fined from NT$300 to NT$600.
+
+### Article 42
+
+Any car driver who uses the lights not following the regulations shall be fined from NT$1,200 to NT$3,600.
+
+### Article 43
+
+A driver who drives a motor vehicle under any of the following circumstances shall be subject to a fine from NT$6,000 to NT$36,000, and shall be prohibited from driving on the spot:
+
+\1. Zigzagging or operating the vehicle in other dangerous manners.
+
+\2. Driving at a speed exceeding the maximum speed limit by 40 kilometers per hour.
+
+\3. Arbitrarily forcing another vehicle to yield the right-of-way by approaching, changing lanes abruptly, or other improper means.
+
+\4. To slow down, brake or stop in the middle of the lane at any time, except in case of emergency.
+
+\5. Removing mufflers or making noise by other means.
+
+\6. Driving backwards, reversing, or driving in the opposite direction on a motorway or expressway.
+
+Should a driver engage in any behavior as stipulated in Subparagraphs 1 to 4 of the previous paragraph and thereby result in an accident, his/her driver license shall be revoked. For driver’s who violate Subparagraph 5 of the preceding paragraph, in the case of repeat offense within a year, his/her driver license shall be suspended for 6 months.
+
+When two or more vehicles violate the regulations as specified in Paragraph 1, or driver’s engage in speed racing or competition on roadways, each driver shall be fined from NT$30,000 to NT$90,000 and prohibited from driving at scene; and his/her driver’s licenses shall be revoked.
+
+A car driver who commits an act under paragraph 1 or the preceding paragraph shall have his/her car license suspended for six months. If a motor vehicle subject to license suspension is again offered for use in violation of paragraph 1, 3, 4 or the preceding paragraph, the car shall be confiscated.
+
+If a car driver under the age of 18 violates the provisions of Paragraph 1 and Paragraph 3, the name of his legal representative or guardian may be announced by the police.
+
+### Article 44
+
+In the event of any of the following occurs while operating a car, the car driver shall be fined from NT$600 to NT$1,800:
+
+\1. Failing to slow down to less than 15 kilometres per hour while approaching a railway level crossing.
+
+\2. Failing to slow down while approaching a pedestrian crossing without a vehicle signal control.
+
+\3. Failing to reduce speed where signs indicate winding roads, sloping roads, narrow roads, narrow bridges, tunnels, or roadways under construction.
+
+\4. Failing to reduce speed where signs indicate schools or hospitals.
+
+\5. Failing to reduce speed as instructed by signs, markings, or signals.
+
+\6. Failing to reduce speed while traveling on muddy or wet roads, thereby splashing mud or water onto the pedestrians.
+
+\7. Failing to reduce speed when visibility is impaired by rain or fog, or when obstacles block the road incidentally.
+
+Should a car driver approach a pedestrian crossing or other intersection where pedestrians can cross according to the law and encounters pedestrians crossing, but does not pause to allow pedestrians to cross first, he/she shall be fined from NT$1,200 to NT$6,000.
+
+Should a car driver driving a motor vehicle near a pedestrian crossing or other intersection where pedestrians can cross according to the law and encounters a visually impaired person carrying a white cane or with a guide dog, but does not give priority to the visually impaired person, he/she shall be subject to a fine from NT$2,400 to NT$7,200.
+
+A car driver who commits an accident resulting in injury or death shall be subject to a fine of not less than NT$7,200 and not more than NT$36,000 for such accident. Should the offenses result in injury, the driver’s license shall be suspended for 1 year. Should said offenses result in serious injury or death, the driver’s license shall be revoked.
+
+### Article 45
+
+In the event any of the following violations occur while attempting to overtake another vehicle, the car driver shall be fined from NT$600 to NT$1,800:
+
+\1. Driving while not following traffic directions.
+
+\2. Driving side-by-side with other vehicles on a single-lane street.
+
+\3. Driving in the opposite traffic lane.
+
+\4. Failing to follow regulations when driving on a road with multiple lanes.
+
+\5. Cutting into a moving traffic platoon.
+
+\6. Driving on the sidewalk.
+
+\7. Failing to yield to pre-entered vehicles when entering a circle without a signal control.
+
+\8. Failing to yield to vehicles on the inner-lanes of a multiple lanes circle.
+
+\9. Vehicles on the branch road fail to give way to vehicles on the main road. Vehicles in streets with the lesser number of lanes do not give way to vehicles in streets with the greater number of lanes. When the number of lanes is the same, vehicles coming from the left do not give way to vehicles coming from the right.
+
+\10. Failing to give priority to vehicles or pedestrians in motion before starting a vehicle.
+
+\11. Driving quickly behind fire trucks, ambulances, police cars, rescue vehicles, or emergency response vehicles for a toxic chemical substance disaster or accident after hearing the sirens; or passing a fire hose placed on the road by a fire fighting unit while fighting a fire.
+
+\12. Driving arbitrarily beyond the boundary line, or driving arbitrarily across two lanes of traffic.
+
+\13. (For motorcycle riders) Failing to drive in the prescribed lane.
+
+\14. Failing to give way or slow down in accordance with the regulations when encountering a special vehicle for children, a school bus, or a coach vehicle.
+
+\15. Failing to follow the traffic regulations or instructions from signs and markings when entering intersections or alleys without signal control.
+
+\16. Occupying bicycle lanes.
+
+\17. Failing to pull over or closely following upon hearing or seeing mass rapid transit system vehicles approaching as their alarms sound or warning lights flash.
+
+\18. Failing to stop at intersections with stop-and-go signs, stop signs, or flashing red light signals.
+
+Should a driver fail to pull over upon hearing the siren of a fire truck, ambulance, police car, rescue vehicle, or emergency response vehicles for a toxic chemical substance disaster or accident, the driver of the car shall be fined NT$3600, and the driver’s license shall be revoked.
+
+If the situations of the preceding paragraph caused death or injury, the car driver shall be fined NT$6,000 to NT$90,000 and the driver's license shall be revoked.
+
+### Article 46
+
+In the event of any of the followings while confronting oncoming traffic, car drivers shall be fined from NT$600 to NT$1,800:
+
+\1. Failing to keep a proper distance.
+
+\2. Downhill vehicle failing to yield uphill vehicles, uphill vehicles failing to yield downhill vehicles already halfway up, and uphill vehicles competing for the right of way.
+
+\3. Vehicles near the wall failing to yield the vehicles near the edge while driving on mountain roads.
+
+### Article 47
+
+In the event of any of the following while overtaking other vehicles, car driver’s shall be fined from NT$1,200 to NT$2,400:
+
+\1. Overtaking other vehicles where there are signs to indicate winding roads, steep slopes, narrow bridges, tunnels, crossroads, or roadways under construction.
+
+\2. Overtaking other vehicles near school, hospital, or the road section with no crossing signs or markings; or there is oncoming traffic crossing over; or overtaking more than two vehicles at one time.
+
+\3. Overtaking vehicles from the right, failing to maintain proper distance while overtaking, or returning to the original lane before reaching a safe distance.
+
+\4. Overtaking a vehicle that does not indicate willingness to yield or moving to the side and slowing down.
+
+\5. Failing to yield or moving to the side and slow down when a following car indicates intention to overtake by honking its horn or flashing lights if there are no obstacles ahead, and without a legitimate reason.
+
+Overtaking refers to the act of overtaking a vehicle when there is only one lane of traffic in the same direction or in both directions.
+
+### Article 48
+
+In the event any of the following occurs while making a turn or changing lanes, car driver’s shall be fined from NT$600 to NT$1,800:
+
+\1. Failing to look out for crossing pedestrians prior to making a turn or change lanes, or, failing to slow down prior to turning.
+
+\2. Failing to follow the directions instructed by signs, markings, and signals.
+
+\3. Using the opposite lane to make a left turn before reaching the center of an intersection.
+
+\4. Making a right turn on a multi-lane street without using the outer lane, or making a left turn on said road without using the inner lane.
+
+\5. Making a left turn from a slow-moving traffic lane where the slow- and fast-moving traffic lanes are divided, or making a right turn from the fast-moving traffic lane of said road. However, if there are signs, markings or signals on the street, all vehicles shall follow their instructions.
+
+\6. Failing to give way to a vehicle travelling straight ahead.
+
+\7. Occupying the inner or outer most side or the dedicated lane at intersections where there is a dedicated sign of left-turn or right-turn only.
+
+### Article 49
+
+In the event of any of the followings while making a U-turn, car drivers shall be fined from NT$600 to NT$1,800:
+
+\1. Making a U-turn where there is a sign indicates winding roads, hill roads, narrow roads, narrow bridges, or tunnels.
+
+\2. Making a U-turn on roadways with signs prohibiting that movement, with traffic direction separators, or with lines prohibiting overtaking or lane switching.
+
+\3. Making a U-turn on sections of roads where left turns are prohibited.
+
+\4. Making a U-turn at a circle without following the direction of traffic.
+
+\5. Failing to stop and activate left turn signal or failing to pay attention to traffic in both directions or pedestrians before making a U-turn.
+
+### Article 50
+
+In the event of any of the followings when reversing a car, car drivers shall be fined from NT$600 to NT$1,200:
+
+\1. Reversing the car where there is a sign indicates winding roads, hill roads, narrow roads, bridges, tunnels, circles, one-way streets, driving on fast moving traffic, or on mass rapid transit system vehicles sharing road lanes.
+
+\2. Reversing the car without turning on the reverse lights, or reversing the car without watching out for other vehicles or pedestrians.
+
+\3. Failing to make sure that there is enough space when reversing a large car without assistance from someone behind the car, and failing to warn pedestrians to keep away from the vehicle.
+
+### Article 51
+
+Should a car driver on a hill road, if he/she zigzags at uphill or turns off the engine and drive in neutral gear at downhill, he/she shall be fined from NT$600 to NT$1,200.
+
+### Article 52
+
+Should a car driver fails to follow regulations at ferry terminals, he/she shall be fined from NT$600 to NT$1,200.
+
+### Article 53
+
+Should a car driver pass through a intersection with signal control without following the signal instruction and run a red light he/she shall be fined from NT$1,800 to NT$5,400.
+
+Should the driver as detailed in the above paragraph make a right turn during a red light, he/she shall be fined from NT$600 to NT$1,800.
+
+### Article 53-1
+
+Should a car driver pass through a mass rapid transit system vehicles sharing road lanes intersection with signal control without following the signal instruction and run a red light, he/she shall be fined from NT$3,600 to NT$10,800.
+
+Should the driver as detailed in the above paragraph make a right turn during a red light, he/she shall be fined from NT$1,200 to NT$3,600.
+
+### Article 54
+
+In the event of any of the following while entering a railroad crossing, car drivers shall be fined from NT$15,000 to NT$90,000; and should that behavior result an accident, his/her driver license shall be revoked:
+
+\1. Failing to follow the instructions of the watching guards, or continuing to cross railroad tracks when the alarm is on, warning lights are flashing, or the crossing gates is lowering down.
+
+\2. Failing to stop as required by regulation and running through a railroad crossings－where there are warning signs or road bumpers but with no watching guards, crossing gates, sound alarms or flash lights.
+
+\3. Overtaking other vehicles, making a U-turn, reversing, stopping, or parking at a railroad crossing.
+
+### Article 55
+
+In the event of any of the followings to make a stop, car drivers shall be fined from NT$300 to NT$600:
+
+\1. Stopping on bridges, in tunnels, at circles, in front of obstacles, on sidewalks, on pedestrian crossings, or in fast moving traffic lanes.
+
+\2. Stopping at intersections, within the range of 10 meters near a bus stop, or within the range of 5 meters near the exits or entrances for fire trucks.
+
+\3. Stopping in places with signs or markings indicating no stop allowed.
+
+\4. Stopping without conforming the traffic direction, without keeping to the right of roadways, without keeping close to the edges of one-way streets, or parallel parking.
+
+\5. Stopping in front of traffic signs and block the signs.
+
+Drivers are exempt from the 3-minute temporary parking rule when transporting children under 7 years old or people with disabilities to access vehicles.
+
+### Article 56
+
+In the event of any of the followings when parking the car, car drivers shall be fined from NT$600 to NT$1,200:
+
+\1. Parking in places where stopping is prohibited.
+
+\2. Parking on winding roads, hill roads, narrow roads, channelizing lines, dividing islands or road section under construction.
+
+\3. Parking at the exits or entrances of airports, bus/railway stations, ferry terminals, schools, shopping malls, exhibition halls, arenas, markets or other places for public use, or in front of fire hydrants.
+
+\4. Parking in places with signs or markings indicating that parking is prohibited.
+
+\5. Parking in places that obviously hinder the passing of other people or vehicles.
+
+\6. Parking without conforming to the traffic direction, without keeping to the right-hand side of the roadways,or parking without keeping to the edges of one-way streets.
+
+\7. Parking and doing business on the sides of roadways where allowed for parking.
+
+\8. Parking vehicles for private use at the waiting areas reserved for commercial cars.
+
+\9. Failing to park in accordance with the regulations regarding parking times, locations, methods, and vehicle types.
+
+\10. Illegally parking in spaces reserved for the disables.
+
+Car drivers shall be fined NT$2,400 when parallel parking.
+
+Should a driver park in a parking slot for toll and fail to pay the designated fee as required by regulations, the competent authority shall notify the driver in writing to pay said fee along with any additional labor/operational fees incurred within 7 days; should the driver fail to pay the specified fees within the time period, he/she shall be fined NT$300.
+
+In the situations described in Paragraph 1 and 2, traffic police officers, traffic inspectors, or traffic assistants pursuant to laws and regulations shall order drivers to move car to proper places; if drivers refuse or if they are not in the cars, traffic police officers, traffic inspectors, traffic assistants, those pursuant to laws and regulations, may remove said vehicles to proper places.
+
+Drivers described in Subparagraph 10 of Paragraph 1 shall be charged the maximum fine, and described in Paragraph 3 shall be required to reimburse the unpaid fees.
+
+Competent roadway authorities, municipal road authorities, or police authorities may, as long as it does not impede pedestrian passing or result in traffic concerns, can set permit parking place with signs or markings within the area of 10 meters near circles and intersections.
+
+### Article 56-1
+
+If the driver or passenger fails to open or close the car door in accordance with regulations when the driver stops temporarily or stops, the driver shall be fined from NT $2,400 to NT $4,800. However, if the taxi driver or the rental vehicle agent has fully informed of the duty, and the passenger still fails to open or close the door in accordance with the provisions and causes an accident, the passenger shall be punished.
+
+### Article 57
+
+Should car owners, car dealers or repair shops park a car on streets for sale or repaired, shall be fined from NT$2,400 to NT$4,800.
+
+In the situations described above, traffic police officers or personnel conducting traffic inspections pursuant to laws and regulations shall order the responsible owner, to move the cars to proper places when necessary. Should said responsible party refuse to do so, traffic officers or personnel conducting traffic inspections pursuant to laws and regulations shall move the vehicles and charge the owner for the removal.
+
+### Article 58
+
+In the event of any of the following situations, car drivers shall be fined from NT$600 to NT$1,200:
+
+\1. Failing to maintain designated safe distance between vehicles in front or behind.
+
+\2. Failing to move along with other vehicles but cut into the traffic at the intersections with traffic signal control during red time; thereby causing traffic congestion and impede the passage of other vehicles.
+
+\3. Arriving and entering an intersection with traffic signal control, when there is already congested in front, vehicles still drive into the intersection and can not go through before light change and thus impede the passage of other vehicles.
+
+### Article 59
+
+In the event of car breakdown, should the car driver make no attempt to remove the car to avoid impeding traffic, fail to put warning signs at a proper distance in front or behind the car, or fail to remove said warning signs after vehicle being removed; the car driver shall be fined from NT$1,500 to NT$3,000.
+
+### Article 60
+
+Should a driver’s behaviors violate this Act while operating a vehicle and refuse to cooperate or stop for inspection, or flees the scene after being requested to stop by traffic police officers or personnel conducting traffic inspections pursuant to laws and regulations, he/she shall be charged according to relevant regulations and an additional fine from NT$10,000 to NT$30,000. In addition, the driver’s license shall be suspended for 6 months. Should a car driver violate this paragraph twice or more within 5 years, the driver shall be fined NT$30,000, and the driver’s license shall be suspended for 1 year.
+
+If one of the following circumstances applies to a driver driving a motor vehicle, but there is no penalty stipulated in the articles of this chapter, the driver shall be fined not less than NT$900 and not more than NT$1,800:
+
+\1. Failing to follow the directions or refusing to cooperate with traffic officers or inspection personnel pursuant to laws and regulations.
+
+\2. Failing to follow orders issued by roadway or police authorities under the regulations provided in Article 5.
+
+\3. Failing to follow the instructions of traffic signs, markings, or signals on roadways.
+
+\4. Failing to comply with the regulations of the responsible authority when a taxi stops to pick up passengers.
+
+If the circumstances specified in Article 21, paragraph 1, subparagraph 1 to 5 or Article 21-1, paragraph 1, apply to the driver of a motor vehicle, and the driver of the car, after being stopped by a traffic policeman or a person who is ordered by law to carry out a traffic inspection duty, still fails to listen to the authority, or refuses to stop and accept the inspection and flees the scene, he/she shall be subject to a fine from NT$15,000 to NT$45,000.
+
+### Article 61
+
+In the event of any of the following situations, the driver’s license shall be revoked:
+
+\1. Being sentenced to prison for committing a crime using a vehicle.
+
+\2. Refusing to be inspected by traffic police officers or personnel conducting traffic inspections pursuant to laws and regulations, or violating Paragraph 1 of Article 60, and thereby causing injury or death.
+
+\3. Hitting and injuring on-duty traffic police officers or other personnel directing traffic.
+
+\4. Violating the Road Traffic Safety Regulation in Article 33, thereby causing an accident resulting in death.
+
+For any of the situations described in subparagraphs 2 and 3 of the above paragraph, the driver shall be fined between NT$90,000 to NT$150,000; Should a car driver violate subparagraphs 2 or 3 of the above paragraph more than twice within 5 years, the driver shall be fined NT$150,000.
+
+A driver who drives a motor vehicle in violation of road traffic safety rules, the control rules of Article 33, causing serious injury to a person, shall have his/her driver's license suspended for 3 to 6 months.
+
+If the driver of tractor trailers, buses, trucks, or powered mechanical vehicle weighing over 3.5 tonnes is liable to have his/her driver’s license suspended, his/her driver’s license shall be revoked.
+
+In the situations described in subparagraph 1 of paragraph 1, the car driver’s license may be temporarily withheld and the driver may be prohibited from driving until a court sentence is made.
+
+### Article 62
+
+Should a car driver cause an accident that results in no injury or death, and not taking the necessary measures following the regulations, he/she shall be fined between NT$1,000 and NT$3,000. Should the driver flee the scene, his/her driver license shall be suspended for 1 to 3 months.
+
+Should the car mentioned in the above paragraph remain function, and the driver fails to move the vehicle to the sides of the road and thereby impeding the traffic flow, the driver shall be fined from NT$600 to NT$1,800.
+
+Should a car driver cause an accident that results in injury or death, he/she shall immediately give first aid to the injuries, take measures following the regulations, or inform the police authority. Vehicles involved shall not be moved and so as the evidence at scene without the consent of police. Violators shall be fined from NT$3,000 to NT$9,000. However, should the injured party agree, the driver shall move the vehicle to a place where it will not obstruct traffic after marking the locations of the cars involved in accidents.
+
+Should a car driver mentioned in the above paragraph cause an accident resulting in injury and flee the scene, his/her driver license shall be revoked. Should the said accident result in serious injuries or deaths and the driver flee the scene, the driver license shall be revoked, and the driver shall be permanently prohibited from applying new driver license and taking test.
+
+In the event of a hit-and-run as described in Paragraph 1 and the preceding paragraph, should the car owner be notified to give testimony but fail to appear without due cause or should the owner fail to provide the relevant information for the car’s driver, the car’s license plates shall be suspended for 1 to 3 months.
+
+Should the involved vehicle’s mechanical parts, as well as scratches and markings, needed to be inspected, assessed, or examined, said vehicle may be temporarily detained for these purposes for a period of less than 3 months. Any vehicle that is not detained but its driver or owner refuses to or cannot move if in a timely manner shall be removed by the police otherwise it may obstruct traffic.
+
+Should the mechanical parts of said vehicle be damaged and thereby causing safety concerns, it shall be prohibited from driving.
+
+### Article 63
+
+If a car driver violates the provisions of this Act, in addition to the prescribed penalties, and the violation is reported on the spot, he/she shall be charged with 1 to 3 violation points depending on the degree of harm to the order of the vehicle and traffic safety.
+
+No violation points will be recorded for those who have already been punished by suspension or revocation of driver’s licenses in the above cases.
+
+Should the car driver be charged with 12 traffic violation points within 1 year, his/her driver’s license shall be suspended for 2 months. Should the car driver violate any of the regulations and thus be charged with violation points after his/her driver’s license has been suspended twice in 2 years, the said driver’s license shall be revoked.
+
+The driver may petition to attend road safety lessons at his/her own expense if he/she has been charged with 6 traffic violation points within 1 year. After completing the lessons, the driver will be given 2 credit points. The credit will be counted from the date when the number of violation points reaches 6, and will be limited to twice in a year.
+
+### Article 63-1
+
+Except as provided in Article 63-2, paragraph 4, the license of a car driver shall be suspended for a period of one month for every three violations recorded within a three-month period in accordance with the provisions of the Act.
+
+### Article 63-2
+
+In the case of a direct report, if the notified person is a natural person and he/she fails to specify a principal driver, or does not raise an issue that can be attributed to another person, the behavior of such a notified person should be subject to a road safety lecture, or should result in the suspension or revocation of the motor vehicle driving license. If the notified person does not have a valid driver's license to drive the vehicle, he/she shall be punished according to the following provisions:
+
+\1. If the driver's behavior is such that he/she should receive a road safety lecture, his/her motor vehicle shall be marked as having violated governing regulations once.
+
+\2. If the driver's behavior warrants the suspension of his/her driver’s license, he/she shall have his/her license suspended.
+
+\3. If the driver's behavior warrants the revocation of his/her driver’s license, he/she shall have his/her license revoked.
+
+In the case of a direct report, if the notified person is a non-natural person who is also the owner of a motor vehicle and has not appointed a principal driver or has not raised an issue that can be attributed to another person, the behavior of such a notified person should be subject to a road safety lecture, or should result in the suspension or revocation of the motor vehicle driving license. The notified person shall be punished in accordance with the provisions of each paragraph of the proviso in the preceding paragraph.
+
+In the case of a direct report, if the notified person is a hirer who is a non-natural person and has not appointed a principal driver or has not raised an issue that can be attributed to another person, the behavior of such a notified person should be subject to a road safety lecture, or should result in the suspension or revocation of the motor vehicle driving license. The notified person should be punished in accordance with the following provisions:
+
+\1. If the driver's behavior should be subject to a road safety lecture, he/she shall be fined two times of the original fine.
+
+\2. If the driver's behavior warrants the suspension or revocation of his/her driver’s license, the driver shall be fined three times of the original fine.
+
+For every three times of violation specified in paragraph 1 and paragraph 2 in a year, the driver’s license will be revoked for two months.
+
+### Article 64
+
+(annulled)
+
+### Article 65
+
+Should a car owner or driver violate this Act and receive a written notice of a ruling from the competent authority and fail to commence the revocation charge proceedings at the administrative litigation court under the district court within a period of 30 days, or should the owner or driver fails to pay fines or hand in license plates or driver license as required by the ruling after a court sentense is made, the owner or driver shall be subjected to the following punishments:
+
+\1. The already revoked license plates or driver licenses shall be cancelled without notice by the competent roadway authority.
+
+\2. The already suspended license plates or driver licenses shall be subjected to double penalties during the suspension period. Should the owners or drivers continue to fail to hand in license plates or driver licenses within the designated time period, the license plates or driver license of said owner or driver shall be revoked.
+
+\3. Should the owners or drivers fail to pay the fine, the charge shall be enforced compulsory according to law.
+
+Any car owners or drivers who has violated Subparagraph 3 of the previous paragraph less than 10 years prior to June 30, 2006, and had his/her license plates or driver licenses been revoked before the amendments of Subparagraph 3 of the previous paragraph went into effect, he/she may pay off all fines within 5 years and apply for re-issuing of the said revoked license plates or driver licenses.
+
+### Article 66
+
+A driver whose motor vehicle license has been suspended or revoked shall be required to undergo an inspection and pass the examination by the responsible highway authority after a period of six months, before he/she can apply for a new license.
+
+In the preceding paragraph, a person whose license has been revoked for driving a vehicle during the period of license suspension shall apply for another license in accordance with the preceding paragraph only after the expiry of the period of license suspension for the original violation of the Act.
+
+### Article 67
+
+A driver who has had his driver’s license revoked in accordance with Paragraph 3 of Articles 27,Paragraph 5 of 29-2, Paragraph 1, the latter section of Paragraph 3, the latter section of Paragraph 4, the latter section of Paragraph 5 of Article 35, Article 54, Subparagraph 1 and 2 of Paragraph 1 of Article 61, and the latter section of Paragraph 4 of Article 62 shall be prohibited from obtaining a driver’s license for the rest of his life. However, this does not apply to the circumstances provided for in one of the provisions of Article 67-1.
+
+The driver who has had his/her driver's license revoked in accordance with Paragraph 4 of Article 29, Paragraph 3 of Article 30, Paragraph 2 of Article 30-1, the first section of Paragraph 3 and the first section of Paragraph 4 of Article 35, Paragraph 2 and 3 of Article 43, Paragraph 4 of Article 44, Paragraph 3 of Article 45, Subparagraph 3 and 4 of Paragraph 1 and Paragraph 4 of Article 61, the first section of Paragraph 4 of Article 62, shall be prohibited from obtaining a driver's license for a period of three years. The driver of large commercial passenger cars who has had his/her driver's license revoked in accordance with Paragraph 2 of Article 35, shall not be allowed to apply for a driver's license within four years. The driver who has had his or her driver's license revoked pursuant to the first section of Paragraph 5 of Article 35, shall not be eligible to apply for a driver's license within five years.
+
+A driver who has had his or her driver's license revoked under any other section of the Act shall not be eligible to obtain a driver's license for a period of one year.
+
+The driver who has had his or her driver's license revoked in accordance with the provisions of the second and preceding paragraphs and has been prohibited from obtaining a driver's license for a period of six years or more shall be prohibited from obtaining a driver's license for the rest of his or her life. However, this does not apply to the circumstances provided for in one of the provisions of Article 67-1.
+
+A driver who has had his or her driver's license revoked in accordance with the provisions of Article 35, and who has not completed the required drunk driving prevention education or treatment for alcohol addiction, shall not be allowed to obtain a driver's license.
+
+The MOTC in consultation with the MOHW, shall determine the methods for the implementation of the above mentioned drunk driving prevention education and treatment for alcohol dependence, as well as the implementation institutions, methods, fees, accreditation criteria for completion of drunk driving prevention education and treatment for alcohol dependence, and other related matters.
+
+The provisions of paragraphs 1 to 4 on not being allowed to obtain a driver's license shall apply when the driver does not have a driver's license, or when the driver's license has been revoked or cancelled.
+
+The driver who has not obtained a driver’s license, or whose driver’s license has been suspended, cancelled, or revoked, and who causes serious injury or death in an accident, shall not be allowed to obtain a driver’s license within four years, except for the circumstances stipulated in the first or the fourth paragraph, which stipulate that he/she shall not be allowed to obtain a driver’s license for the rest of his/her life.
+
+The driver who violates the provisions of the Act shall be punished by suspension of driver’s license. If the driver has not obtained a driver’s license, or if his driver’s license has been suspended or revoked, he shall not be allowed to apply for a driver’s license within the maximum period of suspension stipulated.
+
+### Article 67-1
+
+Car drivers who are qualified for some special conditions listed below pertaining to the circumstances detailed in Paragraphs 1 to 4 of the previous Article, he/she may apply for taking a new driver license test with the competent roadway authority after the given period of time:
+
+\1. The drivers license been revoked after a fatal accident for more than 12 years.
+
+\2. The driver license been revoked after an accident that has resulted in severe injuries for more than 10 years.
+
+\3. The driver license been revoked after an accident that has resulted in injuries for more than 8 years.
+
+\4. The driver license been revoked after an incident other than above for more than 6 years.
+
+Applicants described in the above paragraphs may be issued a driver license with a shorten period of validity by the competent roadway authority after passing relevant tests. Said driver license shall be renewed when its valid period is over, following the conditions determined by the competent authority.
+
+Regulations regarding matters such as special circumstances, types of driver licenses, valid periods for said driver license, and conditions for applying for said driver licenses as described in the previous two paragraphs shall be determined by the MOTC in conjuction with the MOI and other relevant authorities.
+
+### Article 68
+
+Car drivers whose driver licenses are subject to be revoked as a result of violations of this Act and the Road Traffic Safety Regulation, all types of driver licenses under his/her name shall be revoked as well.
+
+With the exception of tractor-trailers, buses, and trucks; should a driver operate a car with a not qualified license as he/she holds and violate the provisions provided by this Act or the Road Traffic Safety Regulations so that the driver license shall be suspended, without causing accidents with light injuries or serious injuries, 5 traffic violation points shall be charged. Should the traffic violation points reach 6 points or should the driver license be suspended again within 1 year, the driver license shall be suspended in accordance with the original punishment.
+
+## Chapter III Slow-moving Vehicles
+
+### Article 69
+
+Slow-moving vehicles are classified and defined as follows:
+
+\1. Bicycle:
+
+(1) Pedal-powered bicycle
+
+(2) Electric power-auxiliary bicycle: a type approved two-wheeled vehicle that is powered mainly by human exercise and with electric assistance with a maximum speed of 25 km/hr or less and weighs 40 kg or less.
+
+(3) Mini electric two-wheel vehicle: a two-wheeled vehicle that is powered mainly by electricity, with a maximum speed of 25 km/hr or less, and weighs 40 kg without a battery or 60kg including a battery.
+
+2.Other Slow-moving vehicles:
+
+(1) Human-driven vehicles: a vehicle carrying passengers or goods that is pulled or pushed by a human. Including other slow-moving vehicles that are powered by human exercise and with electric assistance has a maximum speed of 25 km/hr or less, and can be operated on designated road sections.
+
+(2) Animal-driven vehicle: a vehicle pulled by cattle, horses, etc.
+
+(3) Personal mobility device: a self-balancing device or one without a seating position designed to carry one person that is powered mainly by electricity, with a maximum speed at 25 km/hr.
+
+Other slow-moving vehicle in Items 1 to 2 of Subparagraph 2 of the preceding paragraph drive on roads without applying for a registration with the municipal, county, or city government, the driver shall be fined NT$300 and prohibited from driving.
+
+Regulations regarding the registration, issuing of licenses, designs, designated road sections, driving time and management for said slow- moving vehicles in Items 1 to 2 of Subparagraph 2 of the Paragraph 1 shall be determined by the municipal, county, or city governments.
+
+Personal mobility device in Item 3 of Subparagraph 2 of the Paragraph 1 shall follow the regulations regarding designs, designated road sections, driving time, speed limit, and safety attention and management stipulated by municipal, county, or city government before being operated on roads.
+
+Personal mobility device in Items 3 of Subparagraph 2 of the Paragraph 1 violate the rules in the preceding paragraph and this chapter, the operators or users shall be fined NT$1,200 to NT$3,600; and said device shall be prohibited from using.
+
+### Article 69-1
+
+All electric power-auxiliary bicycles shall be inspected, apply for safety type approval and labeled with a certificate of approval before being operated on roads.
+
+All mini electric two-wheel vehicles shall be inspected, users shall apply for safety type approval. License plates shall be registered, used, and displayed before the said vehicle is operated on roads.
+
+Regulations regarding matters such as testing criteria, testing methods, type approval procedure, conformity of production, qualifications for application, period of validity for approval certificates, auditing, supervision and administration for the inspection detailed in the above two paragraphs shall be determined by the MOTC. The MOTC may authorize professional vehicle technology research institutes to deal with such manners.
+
+The owner of mini electric two-wheel vehicle shall be insured with compulsory automobile liability insurance, in accordance with the Compulsory Automobile Liability Insurance Act. For those who have not been insured as required, the roadway supervisory authority will not accept an application for registration, or replacement or issuance of license plates.
+
+Should a mini electric two-wheel vehicle with registered license plates be operated on roads without having insurance contracts, the competent authority shall notify the owner in writing to renew the insurance within a specified period. Should the vehicle continue to operate without establishing insurance contracts within the designated period, the license plates shall be revoked.
+
+### Article 69-2
+
+Owners of mini electric two-wheel vehicles must pay all fines for violations detailed in Chapters II and III of the Act before they may transfer vehicle ownership, revoke plate, and replace license plate with the roadway supervisory authority.
+
+### Article 70
+
+Slow-moving vehicles after being declared disqualification and prohibited from riding and still be operated shall be confiscated and decomposed.
+
+### Article 71
+
+Should an electric power-auxiliary bicycles have been inspected with safety type approval that operated on road without labeling with a certificate of approval, the driver shall be fined NT$600 to NT$1,200, and shall be prohibited from riding.
+
+Should an electric power-auxiliary bicycle operating on road without having been inspected for safety type approval, the electric power- auxiliary bicycles shall be confiscated.
+
+### Article 71-1
+
+In the event of any of the followings, the owners of mini electric two- wheel vehicle shall be fined from NT$1,200 to NT$3,600 and shall be prohibited from riding:
+
+\1. Operating a mini electric two-wheel vehicle without license plates.
+
+\2. Operating a mini electric two-wheel vehicle with forged or altered license plates.
+
+\3. Lending license plates to riders of other mini electric two-wheel vehicles, or using license plates from other mini electric two-wheel vehicles.
+
+\4. Failing to display license plates or failing to affix license plates in designated locations.
+
+\5. Mini electric two-wheel vehicle that has had its license plate for revoked and ridden without license plates.
+
+\6. Failing to apply renewing license plates for lost with the competent roadway authorities and continuing to operate a vehicle after receiving a citation for said failure.
+
+The mini electric two-wheel vehicle in the previous paragraph that have applied for safety type approval shall be confiscated. Should the said vehicle have not been inspected for safety type approval, it shall be confiscated. The license plates shall be withheld, in accordance with Subparagraphs 2 and 3.
+
+The owner of mini electric two-wheel vehicle shall be fined, according to above two paragraphs, and the mini electric two-wheel vehicle shall be confiscated and detained by the authorities when it is discovered parking without effective license plates.
+
+Should the mini electric two-wheel vehicle have been inspected for safety type approval and labeled with a certificate of approval before this Act was amended on April 19, 2022, the license plates shall be registered, used, and displayed in accordance with regulations within two years after the Act was amended. Those who fail to use within the expiration date shall be punished according to Subparagraph 1 of Paragraph 1.
+
+### Article 71-2
+
+For license plates of mini electric two-wheel vehicle damaged, altered, or rendered unrecognizable as a result of installing other devices, owners shall be fined from NT$900 to NT$1,800, and required to apply for new license plates or make corrections.
+
+In the event of any of the following, mini electric two-wheel vehicle owners shall be fined from NT$150 to NT$300 and shall be required to make corrections, apply for renewing of license plates, or stop riding:
+
+\1. License plates lost or broken and failing to be reported to the competent roadway authorities for applying new or replacing ones.
+
+\2. Failing to keep license plates clean or cover the license plates by things to block observation, unless it is caused by not avoidable roadway situations such as rain, snow, or other nature disasters.
+
+### Article 72
+
+Should a slow-moving vehicle be altered without permission, or its safety equipments such as brakes, bells, lights, or reflective devices are not kept intact and in good condition, the vehicle’s owner shall be fined NT$300 to NT $1,200 and be required to install such equipment or make corrections.
+
+Should electric power-auxiliary bicycles and mini electric two-wheel vehicle be ridden or used on the road that has the added, removed, altered the electronic control device or the original designs without authorization, the owner of electric bicycle shall be fined NT$1800 to NT$5400.
+
+### Article 72-1
+
+Should a mini electric two-wheel vehicle be ridden or used on the road exceeding the allowed driving speed by 25km/hr, the driver shall be fined NT$900 to NT$1800.
+
+### Article 72-2
+
+Should a person with the age of 14 or younger ride mini electric two- wheel vehicle or personal mobility device, the person’s legal representatives or guardians shall be fined NT$600 to NT$1200, and prohibited from riding. The mini electric two-wheel vehicle shall be confiscated.
+
+Rental operators of mini electric two-wheel vehicle or personal mobility devices who fail to teach drivers how to operate the vehicles and road driving regulations before renting mini electric two-wheel vehicle or personal mobility devices to drivers shall be fined NT$600 to NT$1,200.
+
+### Article 73
+
+In the event of any of the followings, the driver of a slow-moving vehicle shall be fined from NT$300 to NT$1,200:
+
+1.Operating without legitimate reason outside the designated slow- moving vehicle lanes or failing to keep right on roadways without designated slow-moving vehicle lanes.
+
+2.Operating not on the designated route or not at the designated time period.
+
+3.Failing to follow regulations when turning, overtaking, parking, or crossing an intersection.
+
+4.Competing on the right of way, racing on roadways, or operating the vehicle in any other dangerous manners.
+
+5.Failing to turn on light when driving at night.
+
+6.While driving a vehicle, using a mobile phone, a computer or other devices with similar features to dial, to receive calls, to exchange mobile data , or any behavior that impairs driving safety.
+
+The driver of a slow-moving vehicle, with an alcohol level exceeding the maximum tolerate standard, shall be fined NT$1,200 to NT$2,400, and prohibited from riding. The mini electric two-wheel vehicle shall be confiscated.
+
+The driver of slow-moving vehicles refusing tests outlined in previous Paragraph shall be fined NT$4,800, and prohibited from riding. The mini electric two-wheel vehicle shall be confiscated.
+
+The driver of mini electric two-wheel vehicles failing to wear helmets as required by law.
+
+### Article 74
+
+In the event of any of the following, the driver of a slow-moving vehicle shall be fined from NT$300 to NT$1,200:
+
+\1. Failing to obey the directions made by traffic police officers; or failing to follow the instructions indicated by signs, markings, or signals.
+
+\2. Failing to follow the traffic direction on a slow-moving vehicle lane.
+
+\3. Failing to follow the regulations by crossing over fast-moving vehicle lanes.
+
+\4. Parking in violation of regulations.
+
+\5. Riding on sidewalks or fast-moving vehicle lanes.
+
+\6. Failing to pull over upon hearing the sirens of fire trucks, police cars, ambulances, rescue vehicles, or emergency response vehicles for a toxic chemical substance disaster or accident.
+
+\7. Failing to yield to pedestrians when crossing a pedestrian crosswalk or turning at an intersection.
+
+\8. Failing to yield to pedestrians on walkways indicated by signs or markings to allow slow-moving vehicles to drive.
+
+\9. Failing to pull over or closely following upon hearing or seeing mass rapid transit system vehicles approaching as their alarms sound or warning lights flash.
+
+If a slow-moving vehicle driver approaching a pedestrian crossing encounters a visually impaired person with a white cane or a guide dog and does not pause to allow the visually impaired person to pass through first, he/she shall be fined from NT$600 to NT$1,200.
+
+The driver of slow-moving vehicle subparagraph 5 or 8 of paragraph 1, who causes a visually impaired person to be injured or death, shall be fined NT$1,200 to NT$3,600.
+
+### Article 75
+
+In the event of any of the followings provided in all subparagraphs of Article 54 concerning operating a slow moving vehicle at railroad crossings, the driver of a slow-moving vehicle shall be fined from NT$1,200 to NT$2,400.
+
+### Article 76
+
+In the event of any of the followings while carrying passengers or goods, the driver of a slow-moving vehicle shall be fined from NT$300 to NT$600:
+
+\1. Exceeding the number of passengers allowed.
+
+\2. Exceeding the weight limit for goods or carrying goods exceeding the limits of the vehicle body.
+
+\3. Carrying goods easy for leaking, scattering, and spraying odors; or hazardous materials without tightly sealed or properly packed.
+
+\4. Carrying poultry or livestock that are piled up or placed upside down.
+
+\5. Carrying goods that have not been well secured.
+
+\6. Failing to pull over to the side when loading or unloading passengers or goods, thereby impeding traffic.
+
+\7. Pulling other vehicles or being pulled by other vehicles.
+
+In the event of any of the followings while carrying children, The driver of bicycle and electric power-auxiliary bicycle shall be fined NT$300 to NT$600:
+
+\1. The driver’s age is younger than 18 years old.
+
+\2. The age or weight of children exceeds the age/weight allowed by law.
+
+\3. Failing to use qualified child seats, bicycles or electric assisted bicycles.
+
+\4. Failure to transport children in a lawful manner.
+
+The implementation of laws regarding bicycle, electric assisted bicycles, and the inspection method of child seats shall be determined by the MOTC.
+
+### Article 77
+
+(annulled)
+
+### Article 77-1
+
+Riders of mini electric two-wheel vehicle found in violation of Chapter 2 or this Chapter may receive a citation in accordance with Article 7-2.
+
+## Chapter IV Pedestrians
+
+### Article 78
+
+In the event of any of the followings, the pedestrians shall be fined NT$500:
+
+1.Failing to follow the instructions of signs, markings, signals, or those given by police.
+
+2.Failing to walk within a designated sidewalk or failing to walk on the side of a road that has no designated sidewalk without good cause.
+
+3.Passing through vehicle lanes in violation of regulations.
+
+4.Running, chasing around, playing, sitting, lying, squatting, or standing on roadways with heavy traffic or at railroad crossings in a manner that impedes traffic.
+
+Should a pedestrian with physical disability who relies on mobility aids violate the regulations set forth in Subparagraph 2 of the preceding paragraph because there are obstacles on sidewalks, the pedestrian shall be exempt from punishment.
+
+### Article 79
+
+(annulled)
+
+### Article 80
+
+In the event of any of the following events when approaching a railroad crossing, the pedestrians shall be fined NT$2,400:
+
+\1. Failing to follow the instructions of crossing guards; running through the railroad crossing after crossing gates have been lowered down or after alarms sound and warning lights flash.
+
+\2. Running through railroad crossings where no guards, no crossing gates, no alarms, and no flash signals without caring the coming trains by the manners of waiting, watching and listening before moving as required by regulations.
+
+### Article 81
+
+Any person who climbs on, jumps off, or clings to a moving vehicle shall be fined NT$500.
+
+### Article 81-1
+
+Any person who illegally seeks customers at railway or bus stations or other places with heavy traffic and thereby impedes the traffic shall be fined from NT$1,500 to NT$3,000.
+
+## Chapter V Road Obstacles
+
+### Article 82
+
+In the event of any of the following, the responsible person shall be required to immediately stop their behavior and clear the obstacles, and the responsible person or said person’s employer shall be fined from NT$1,200 to NT$2,400:
+
+\1. Piling, placing, setting, or throwing objects on roadways that may impede traffic.
+
+\2. Burning objects beside the roadways, thereby producing heavy smoke which may impede visibility.
+
+\3. Using roadways as a work place.
+
+\4. Parking trailers, containers, or motor-powered machines on roadways.
+
+\5. Using roadways to revamp buildings without approval, or exceeding prescribed limits of roadways that can be used to revamp buildings.
+
+\6. Excavating roadways with permission from responsible authorities or failing to put warning signs or clean obstacles after completion.
+
+\7. Placing or altering traffic signs, markings, signals, or other similar marks on roadways without permission.
+
+\8. Placing stone tablets, billboards, decorated archways, or similar objects on roadways without permission.
+
+\9. Holding tournaments, banquets, or performances; filming movies; or similar activities on roadways without permission.
+
+\10. Setting up stands on roadways without permission.
+
+\11. Any person, except traffic officers or personnel directing and inspecting traffic pursuant to laws, or on-site crossing guards at schools, blocking people and vehicles and obstructing traffic.
+
+Should an object impede traffic as described in Subparagraph 1 of the above paragraph or a billboard as described in Subparagraph 8 fail to be removed immediately upon warning, or should the persons responsible not be present, the object in question shall be regarded as waste and removed in accordance with waste-disposal laws and regulations. Tents and frames of stands as described in Subparagraph 10 shall be confiscated regardless of whether they are owned by the person being punished.
+
+Any person who commits offenses described in Subparagraphs 1 and 2 of Paragraph 1 on freeways or on either sides of the freeway shall be fined from NT$3,000 to NT$6,000; those who cause traffic accidents as a result shall be subjected to double penalties.
+
+Any person in the crosswalk committing offenses described in paragraphs 1 shall be fined NT$3,000 to NT$6,000; those who cause another person to be injured or death shall be subjected to double penalties.
+
+### Article 82-1
+
+Abandoned vehicles occupying roadways shall be cleaned away by their owners within a designated time period upon notification by police authority after being reported by the general public, the police authorities, or the competent environmental protection authorities. Should the vehicle owner fail to clean the vehicle within the designated time period, be unable to notify, or the owner can not be identified, the vehicle shall be removed by the competent environmental protection authority or by a contracted private organization, and the vehicle’s owner shall be responsible for the corresponding removing and storage fees. Should the vehicle remain unclaimed for 1 month after public announcement, said vehicle shall be dealed as a waste by said competent environmental protection authority according to laws.
+
+Regulation regarding the definition of a abandoned vehicle as described in the previous paragraph and measures concerning how said vehicle is reported and handled shall be determined by the MOTC in conjuction with the MOI, the Ministry of Justice, and the Environment Protection Administration, Executive Yuan. The removal and storage fees shall be determined by the municipal, county, or city governments.
+
+### Article 83
+
+Failing to follow instructions and cease any of the following behaviors, the responsible person or said person’s employer shall be fined from NT$300 to NT$600, and will be ordered to remove the object:
+
+\1. Distributing advertisements, fliers, or other similar items on traffic lanes or on a divider island.
+
+\2. Selling goods on traffic lanes, inside bus or railway stations, or in service areas of freeways and thereby impeding traffic.
+
+### Article 84
+
+In the event of poultry, livestock, or pets running on roadways without properly care and thereby impeding traffic, the owner or persons responsible shall be fined from NT$300 to NT$600.
+
+## Chapter VI Supplementary Provisions
+
+### Article 85
+
+With regard to the penalties of this Act, if the person who is punished for the reported violation of road traffic management believes that the reported violation should be attributed to another person, he/she should inform the punishing authority of the person who should be attributed to by attaching relevant evidence and the relevant documents of the person who should be attributed to, and submit by the date of the notification of the report of the reported violation of road traffic management, and the punishing authority shall immediately notify the person who should be attributed to, to come to the court for further action. The punishing authority shall notify the person to be held liable to appear in the case and deal with the case in accordance with the law. Failure to comply with the requirements after the expiry date shall still be punished in accordance with the provisions of this Act for the violation of the terms and conditions.
+
+Where the penalty imposed under this Act is the suspension or revocation of the license of a vehicle, it is not exempted by reason of the transfer of title to the vehicle, the pledge, the leasing of the vehicle to another person, or the termination of the leasing relationship after the penalty is imposed.
+
+In cases where a direct report is made or a fine is imposed on another person in accordance with the provisions of this Act, it is presumed that the person to whom the direct report is made or such other person is negligent.
+
+### Article 85-1
+
+Car drivers, owners, dealers, or repair shops which violates the regulations prescribed in Paragraph 1 of Article 56 or Article 57 and fails to make corrections in compliance with the orders given by traffic police officers or personnel conducting traffic inspections pursuant to laws and regulations after citation may be cited repeatedly.
+
+Violations of the same provisions of this Act, which citation as detailed in Article 7-2, under the following situations, violators may be cited repeatedly:
+
+1.The cited car travels at a speed above the maximum limit or below the minimum limit or under the circumstances of Paragraphs 1 and 2 of Article 33, and the distance between two continuous citations is more than 6 km, detection time between two continuous citations is longer than 6 minutes, or passing more than one intersection; with the exemption of violations occurring in a tunnel.
+
+2.The cited car has the situations detailed in Paragraph 1 and 2 of Article 56 or Article 57, and the car driver, owner, dealer, or repair shop is not at scenes or unable to move the car for more than 2 hours.
+
+### Article 85-2
+
+For vehicle owners or drivers who should be prohibited from passing, driving under this Act, traffic police officers or personnel conducting traffic inspections pursuant to laws and regulations shall enforce the above prohibitions at the time of detection and shall directly move and detain said vehicles if necessary.
+
+In the circumstances described in the above paragraph, vehicle owners or entrusted third parties may reclaim the vehicles with custody receipts and vehicle licenses after the cause for such custody has expired. If the vehicle in question matches the circumstances detailed in Article 35 of this Act, payment receipt of the fine shall be attached. However, should the violation be a first offense and have not resulted in an accident, a proof of payment by installments may be used instead.
+
+If the vehicle that has been relocated and kept in accordance with Article 35 belongs to rental car dealers, the vehicle owner could inspect the lease contract, the name of the illegal driver and the address, and take the vehicle back.
+
+### Article 85-3
+
+With respect to the removal and detention specified in Paragraph 1 and 4 of Article 12, Article 35, Paragraph 1 and 2 of Article 35-1, Paragraph 4 of Article 56,Paragraph 2 of Article 57, Paragraph 6 of Article 62, Paragraph 2 and 3 of Article 71-1, Paragraph 1 of 72-2, Paragraph 2 and 3 of Article 73, and the first paragraph of the preceding Article, a traffic police officer or an officer who is ordered to perform traffic inspection duties may directly transfer or detain a vehicle, and a traffic assistant may directly carry out the transfer under Paragraph 4 of Article 56. The said removal or detention may be handled by private tow trucks by contract.
+
+The owner of the vehicle may be charged a removal fee and a storage fee for the removal or detention of the vehicle. If the vehicle owner fails to pay the fees, he/she shall be required to pay them.
+
+If the owner of the vehicle mentioned in the first paragraph has been notified of the transfer, custody or detention of the vehicle and the vehicle has not been claimed by the deadline or the owner cannot be identified, and if the vehicle has been posted for three months but still has not been claimed, the vehicle shall be sold by the custodian agency of the vehicle at an auction. The proceeds of the auction shall be deposited in accordance with the law after deduction of fines, transfer fees, storage fees, and other necessary expenses incurred in violation of the Act.
+
+The unclaimed vehicles announced in the preceding paragraph shall be removed in accordance with the provisions of the Waste Disposal Act and its related regulations if they meet the criteria for identification of abandoned vehicles.
+
+Vehicles or other objects subject to forfeiture under the Act may be auctioned, destroyed, or removed in accordance with the Waste Disposal Act and its related regulations, as determined by a judgement or adjudicator.
+
+The methods of removal and storage, collection of fees, public auction, and transfer for disposal in the preceding five paragraphs shall be determined by the MOTC and the MOI at the central level, and by the municipal and county (city) governments under the direct jurisdiction of the local government in accordance with their respective powers and responsibilities.
+
+### Article 85-4
+
+Should a person with the age of 14 or younger and violate the regulations provided by this Act, punishments shall be imposed on said person’s legal representatives or guardians.
+
+### Article 85-5
+
+Violation of Article 85-2 or Article 85-3, the mass rapid transit system vehicle shall be moving or detention, before doing that should notify the operator.
+
+### Article 86
+
+In one of the following cases, if the driver is criminally liable under the law for causing injury or death, the penalty may be increased by up to one-half:
+
+\1. Operating the vehicle without a driver’s license.
+
+\2. Driving while the driver's license is revoked, cancelled or suspended.
+
+\3. Driving under the influence of alcohol.
+
+\4. Driving under the influence of drugs, psychedelics, narcotics or similar controlled substances.
+
+\5. Failing to give priority to pedestrians when driving on pavement, near pedestrian crossings, or at other intersections where pedestrians can cross according to the law.
+
+\6. Driving at a speed exceeding the maximum speed limit by 40 kilometers per hour.
+
+\7. Arbitrarily forcing another vehicle to yield the right-of-way by approaching, changing lanes abruptly or other improper means.
+
+\8. To slow down, brake, or stop in the middle of the lane at any time, except in case of emergency.
+
+\9. Racing with other motor vehicles on the road.
+
+\10. Continuously running through red lights and speeding.
+
+If a pedestrian or a slow-moving vehicle enters the fast lane without following the regulations, thus causing the driver who was driving in the fast lane in accordance with the regulations to cause injury or death, the driver shall be held criminally liable according to the law, but the sentence may be reduced.
+
+### Article 87
+
+Violators who do not accept the punishments imposed by the authorities as detailed in Article 8 or Paragraph 6 of Article 37 may challenge the punitive authority as a defendant in the administrative litigation court under the district court of jurisdiction. Such revocation proceedings must begin within 30 days of the original ruling being served.
+
+### Article 88
+
+(annulled)
+
+### Article 89
+
+(annulled)
+
+### Article 90
+
+Behaviors in violation of this Act shall not be subject to reporting if more than 2 months have passed since the violation. If the behavior violating the Act reoccurs or is continuous in nature, it shall not be subject to reporting if more than 2 months have passed since the violation ended. However, in the event of an accident involving injuries or deaths for which the responsibilities cannot be determined and for which investigations have begun, the calculation for the aforementioned 2 month period shall begin from the day on which the investigations have been closed. If the above-mentioned accident does not go through investigation yet requires analysis and examination, behaviors in violation of the Act shall not be subject to reporting after 3 months of its occurrence.
+
+### Article 90-1
+
+Drivers of slow-moving vehicles or pedestrians who fail to take road traffic safety lessons in accordance with regulations shall be fined from NT$600 to NT$1,200.
+
+### Article 90-2
+
+(annulled)
+
+### Article 90-3
+
+Competent roadway authorities, competent municipal roadway authorities, or police authorities may, as long as it does not impact safe passage or result in traffic concerns, shall establish parking spaces for motorcycles or slow-moving vehicles by signs or markings within the range of 10 meters near circles, crosswalks, or intersections.
+
+Competent roadway authorities, competent municipal road authorities, or police authorities may, as long as it does not impact safe passage or result in traffic concerns, set up right of way for slow-moving vehicles on sidewalks by signs or markings when necessary.
+
+### Article 91
+
+The institutions or persons listed below shall be rewarded; regulation regarding the said rewards shall be determined by the MOTC, the MOI and in conjuction with related authorities:
+
+\1. Schools, media, or public and private driving schools that contribute significantly to the promotion of traffic safety.
+
+\2. Those who report vehicles that caused an accident , , assist in first aid, or care for persons injured in accidents caused by a vehicle. .
+
+\3. Drivers with excellent driving records.
+
+\4. Those who accuse others with behavior detailed in Subparagraph 1, 2, 3, 4 of Paragragh 1 of Article 43 upon confirmation a violation.
+
+### Article 92
+
+Regulations on the classification of vehicles, application for car license plates, change registration, management regulations, tonnage of car loading, approval of seating and standing capacity, items and criteria for car inspection, inspection frequency, driver license tests, renewal and issuance of driver’s license, period of validity for driver’s license and registration, loading, driving, changes to car equipment, scope of powered machinery, driver’s qualifications and driving, traffic lanes designation, application for mini electric two-wheel vehicle license plates changing registration, management regulations, pedestrian crossings, roadway obstructions, and other matters of road traffic safety shall be determined by the MOTC in conjunction with the MOI.
+
+Motorcycles are prohibited from driving on freeways. However, large and heavy motorcycles with a cylinder capacity of 550 cubic centimeters may be driven on highways according to the road sections and time periods stipulated by the MOTC. The driver shall have a driver’s license to drive a large heavy motorbike with a cylinder capacity of 550 cubic centimeters or more for at least one year, and a driver’s license to drive a small car.
+
+Road authorities may charge a fee for road traffic safety lectures. The MOTC in conjunction with the MOI, shall decide on the target audience, the terms and conditions of the road safety lectures, the manner, content, timing, hours, implementation unit, fee standard and other related matters.
+
+The MOTC in conjunction with the MOI, shall determine the criteria for the imposition of fines, the number of citations or minor violations, the payment of fines, the number of points to be recorded, the number of points and the procedures for notification, the procedures for presenting opinions or rulings to the fining authority, the conditions for applying for payment by instalments, the number of instalments, the treatment of failure to comply with the deadline, the provisions for the treatment by instalments, the payment authority, and the details of the handling of other related matters.
+
+The MOI in conjunction with the MOTC and the MOHW, shall decide on the methods of dealing with the driver of a road traffic accident, the act to be dealt with by the person who caused the accident, the rescue, control and diversion of injuries at the scene, the detention, transfer and return of the vehicle involved in the accident, the investigation and handling of the accident, and the methods of handling other matters.
+
+Unless otherwise provided for in this Act, the regulations on driving and penalties for large and heavy motorcycles shall be similar to those for small motorcycles. The MOTC in conjunction with the MOI, shall determine the driving license examination and driving regulations.
+
+If a driver of a large heavy motorcycle with a cylinder capacity of 550 cubic centimeters commits any of the following acts on a motorway, the driver shall be fined from NT$3,000 to NT$6,000:
+
+\1. Driving on sections of roadways not expressly permitted.
+
+\2. Failing to drive during the expressly permitted hours.
+
+\3. Failing to comply with the requirements of the second paragraph even with a driving license.
+
+\4. Driving side-by-side in a single lane, overtaking, or failing to use the shoulder as required.
+
+\5. Carrying people or goods in a manner that violates regulations.
+
+\6. Failing to wear a helmet.
+
+If the driver of a large heavy motorbike with a cylinder capacity of 550 cubic centimeters violates the provisions of paragraph 4 of the preceding paragraph, or the driver of such motorcycle traveling on a motorway commits an act referred to in paragraph 4 of the preceding paragraph, he/she is liable for a fine of NT$6,000.
+
+Public/private organizations, corporations or groups may be commissioned to conduct road safety lectures. The MOTC shall determine the relevant qualifications, application procedures, equipment and personnel, fees, license forms, items to be recorded in the contract, verification and supervision, and other matters and methods.
+
+### Article 92-1
+
+When the punitive authorities rule on whether to suspend, revoke, or cancel the license of a professional driver, they may send a written or other notice to the owners of the responsible cars under the request of the driver’s employers.
+
+### Article 93
+
+The effective date of this Act shall be determined by the order of the Executive Yuan.
+
+## History
+
+\1. Promulgated on February 5, 1968. (77 Articles)
+
+\2. Amendment to Articles 14, 75 and addition of Articles 76~78 and the original Articles 76, 77 are change to 79,80 on January 27, 1969.
+
+\3. Promulgated on July 24, 1975. (93 Articles)
+
+\4. Amendment to Articles 8, 21, 27, 31, 33, 54, 65~68, 89,and addition of Articles 37-1 on July 29, 1981.
+
+\5. Promulgated on May 21, 1986. (93 Articles)
+
+\6. Amendment to Articles 3, 7, 8, 12, 15~17, 24, 27, 29~31, 33, 35~38, 44, 55~57, 59, 60, 62~65, 67, 86, 87, 90 and addition of Articles 7-1, 63-1, 82-1, 83-1, 85-1 on January 22, 1997.
+
+\7. Amendment to Articles 12, 14 on April 23, 1997.
+
+\8. Amendment to Articles 37 on April 21, 1999.
+
+\9. Amendment to Articles 8, 9, 12~14, 19, 21, 25, 28~31, 33~35, 37, 39~41, 43, 45, 47, 51~53, 55~57, 60, 61, 63, 67, 75, 78, 80~84, 87, 90, 93 and addition of Articles 18-1, 21-1, 29-1, 29-2, 31-1, 85-2~85-4, 90-1, 90-2 and deletion of Articles 64, 77, 79 promulgated on January 17, 2001.
+
+\10. Amendment to Articles 4, 9, 12, 16, 21-1, 24, 29, 30, 33, 35, 37, 62, 82-1, 85-1, 85-2, 92 and addition of Articles 7-2, 9-1, 29-3, 29-4 promulgated on July 3, 2002.
+
+\11. Addition of Articles 92-1 promulgated on January 2, 2003.
+
+\12. Addition of Articles 61 promulgated on April 21, 2004.
+
+\13. Amendment to Articles 56 promulgated on Febuary 5, 2005.
+
+\14. Amendment to Articles 68 promulgated on December 14, 2005.
+
+\15. Amendment to Articles 3, 5, 7-2, 8~10, 12~16, 18, 20~26, 29, 29-2, 29-3, 30~33, 35~38, 40, 42~50, 53~55, 57~63, 65~67, 69, 71~74, 76, 78, 80, 82, 83~85-1, 85-3, 90-2, 92 and addition of Articles 31-2, 32-1, 67-1, 90-3 and deletion of Articles 28 promulgated on December 28, 2005.
+
+\16. Amendment to Articles 9-1, 92 promulgated on January 29, 2007.
+
+\17. Amendment to Articles 69 and addition of Articles 69-1 promulgated on July 4, 2007.
+
+\18. Amendment to Articles 65 promulgated on May 28, 2008.
+
+\19. Amendment to Articles 38 promulgated on May 5, 2010.
+
+\20. Amendment to Articles 35 promulgated on January 19, 2011.
+
+\21. Amendment to Articles 31 promulgated on May 11, 2011.
+
+\22. Amendment to Articles 45, 55, 78 promulgated on May 18, 2011.
+
+\23. Amendment to Articles 65, 85-3, 87 and deletion of Articles 88, 89, 90-2 promulgated on November 23, 2011.
+
+\24. Amendment to Articles 3, 4, 7-2, 21, 21-1, 22, 27, 31, 31-1, 33, 35, 43, 45, 54, 85-2, 90-3, 91, 92 promulgated on May 30, 2012.
+
+\25. Amendment to Articles 8, 35, 67 promulgated on January 30, 2013.
+
+\26. Amendment to Articles 14, 25, 31 promulgated on May 8, 2013.
+
+\27. Amendment to Articles 7-2,9,31-1,43,45,73,74 promulgated on January 8, 2014
+
+\28. Amended on June 18, 2014
+
+\29. Amended on January 07, 2015
+
+\30. Amended on May 20, 2015
+
+\31. Amendment to Articles 37 promulgated on November 9, 2016.
+
+\32. Amended to Articles 29-2、54、63、69 and addition of Articles 56-1 on November 16, 2016
+
+\33. Amendment to Articles 60 promulgated on May 23, 2018.
+
+\34. Amendment to Articles 61、63 promulgated on June 13, 2018
+
+\35. Amended to Articles 35、37、45、67、73、85-2、87 and addition of Articles 35-1、35-2 promulgated on April 17, 2019
+
+\36. Amendment to Articles 44,48,74,82 promulgated on May 22, 2019
+
+\37. Addition of Articles 69,72,73,76 and addition of Articles 72-1 promulgated on June 19, 2019.
+
+\38. Amendment to Articles 30,55,90 promulgated on JUNE 10, 2020
+
+\39. Amendment to Articles 18-1,43 promulgated on January 20, 2021.
+
+\40. Amendment to Articles 10,29 promulgated on June 9, 2021.
+
+\41. Amendment to Articles 18-1,31 promulgated on August 1, 2022.
+
+\42. Amendment to Articles 7-1,7-2,85-1 promulgated on April 30, 2022.
+
+\43. Amendment to Articles 35,35-1 promulgated on January 28, 2022.
+
+\44. Amended to Articles 32-1、69、69-1、71、72、72-1、73、74、78、85-3、92 and addition of Articles 69-2、71-1、71-2、72-2、77-1 promulgated on May 4, 2022
+
+\45. Amended to Articles 7-1、15、16、21、21-1、22、23、24、29、29-2、30、31、33、35、43、44、45、47、48、56-1、60、61、63、63-1、66、67、74、82、85、85-3、86、92 and addition of Articles 30-1、63-2 promulgated on May 3, 2023
+
+\46. Amended to Articles 7-1、63、63-2 promulgated on May 29, 2024.
+
+\47. Amended on May 28, 2025
