@@ -1,0 +1,43 @@
+---
+title: "衛星廣播電視購物頻道插播式字幕管理辦法"
+title_en: "Regulations on the Use of Captions in Shopping Channels of Satellite Broadcasting Businesses"
+identifier: "P0050046"
+type: regulation
+law_level: "命令"
+category: "行政＞國家通訊傳播委員會＞傳播目"
+jurisdiction: tw
+language: zh-Hant
+date: 2016-10-04
+last_amended: 2016-10-04
+status: in_force
+source: "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=P0050046"
+retrieved: 2026-10-12
+---
+
+# 衛星廣播電視購物頻道插播式字幕管理辦法
+
+## 第 1 條
+
+本辦法依衛星廣播電視法第三十七條第二項規定訂定之。
+
+## 第 2 條
+
+本辦法所稱插播式字幕，指另經編輯製作而在電視螢幕上展現，且非屬於原有播出內容之文字或圖形。
+
+## 第 3 條
+
+插播式字幕之播送以不干擾收視為原則，其播送位置及播送方式應考量觀眾收視權益。
+
+## 第 4 條
+
+購物頻道應於螢幕下方以插播式字幕播送消費申訴之受理方式，並以清楚、明顯及可資辨識方式標示之。
+
+## 第 5 條
+
+本辦法自發布日施行。
+
+## 沿革
+
+1.中華民國一百零五年十月四日國家通訊傳播委員會通傳內容字第 10548
+
+027660  號令訂定發布全文 5  條；並自發布日施行

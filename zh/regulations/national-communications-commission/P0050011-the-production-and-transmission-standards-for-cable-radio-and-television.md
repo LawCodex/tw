@@ -1,0 +1,76 @@
+---
+title: "有線廣播電視廣告製播標準"
+title_en: "The Production and Transmission Standards for Cable Radio and Television Advertisements"
+identifier: "P0050011"
+type: regulation
+law_level: "命令"
+category: "行政＞國家通訊傳播委員會＞傳播目"
+jurisdiction: tw
+language: zh-Hant
+date: 1994-03-09
+last_amended: 1999-09-15
+status: in_force
+source: "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=P0050011"
+retrieved: 2026-10-12
+---
+
+# 有線廣播電視廣告製播標準
+
+## 第 1 條
+
+本標準依有線廣播電視法第五十條第二項規定訂定之。
+
+## 第 2 條
+
+本標準所稱有線廣播電視廣告，係指系統經營者播送之影像、聲音，內容為推廣商品、觀念、服務或形象者。
+
+## 第 3 條
+
+有線廣播電視廣告內容不得有下列情形之一：
+
+一、違反法律強制或禁止規定。
+
+二、妨害兒童或少年身心健康。
+
+三、妨害公共秩序或善良風俗。
+
+前項各款例示如附表。
+
+## 第 4 條
+
+有線廣播電視事業應依中央主管機關指定之時段、鎖碼播送特定廣告。
+
+## 第 5 條
+
+播送廣告時應以字幕、圖卡、旁白、音樂或其他方式與節目明顯區分。
+
+## 第 6 條
+
+製播有線廣播電視廣告注意事項由中央主管機關定之。
+
+## 第 7 條
+
+本標準自發布日施行。
+
+## 附件
+
+- [附表.PDF](https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233353)
+- [附表.DOC](https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000018886)
+
+## 沿革
+
+1.中華民國八十三年三月九日行政院新聞局（83）強廣一字第 03761  號
+
+令訂定發布全文 8 條
+
+2.中華民國八十四年九月二十日行政院新聞局（84）強廣一字第 15204
+
+號令修正發布第 3 條附表第 2 款例示
+
+3.中華民國八十八年九月十五日行政院新聞局（88）強廣一字第 15040
+
+號令修正發布名稱及全文 7  條；並自發布日起施行
+
+（原名稱：有線電視廣告製作標準；新名稱：有線廣播電視廣告製播標
+
+準）

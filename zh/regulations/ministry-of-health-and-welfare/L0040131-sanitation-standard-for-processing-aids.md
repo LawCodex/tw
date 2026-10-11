@@ -1,0 +1,56 @@
+---
+title: "加工助劑衛生標準"
+title_en: "Sanitation Standard for Processing Aids"
+identifier: "L0040131"
+type: regulation
+law_level: "命令"
+category: "行政＞衛生福利部＞食品藥物管理目"
+jurisdiction: tw
+language: zh-Hant
+date: 2016-02-17
+last_amended: 2020-08-11
+status: in_force
+source: "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0040131"
+retrieved: 2026-10-12
+---
+
+# 加工助劑衛生標準
+
+## 第 1 條
+
+本標準依食品安全衛生管理法第十八條之一規定訂定之。
+
+## 第 2 條
+
+（刪除）
+
+## 第 3 條
+
+加工助劑之使用量應以可達使用目的之最小量為原則，並應儘可能於終產品中降低其殘留量，且該殘留量不應對消費者健康造成危害。
+
+## 第 4 條
+
+使用附表一之加工助劑應符合該表列載之使用規定。
+
+## 第 5 條
+
+附表一列載之加工助劑規格應符合附表二之規定。
+
+## 第 6 條
+
+本標準自發布日施行。
+
+## 附件
+
+- [附表一：加工助劑之使用規定.ODT](https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000174171)
+- [附表二：加工助劑之規格.ODT](https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000174172)
+
+## 沿革
+
+1.中華民國一百零五年二月十七日衛生福利部部授食字第 1051300445 號
+
+令訂定發布全文 6  條；並自發布日施行
+
+2.中華民國一百零九年八月十一日衛生福利部衛授食字第 1091302097 號
+
+令修正發布第 1  條條文；刪除第 2  條條文

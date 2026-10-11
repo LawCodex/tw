@@ -1,0 +1,84 @@
+---
+title: "西藥優良運銷準則"
+title_en: "Western Pharmaceuticals Good Distribution Practice Regulations"
+identifier: "L0030086"
+type: regulation
+law_level: "命令"
+category: "行政＞衛生福利部＞食品藥物管理目"
+jurisdiction: tw
+language: zh-Hant
+date: 2017-12-28
+last_amended: 2017-12-28
+status: in_force
+source: "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0030086"
+retrieved: 2026-10-12
+---
+
+# 西藥優良運銷準則
+
+## 第 1 條
+
+本準則依藥事法第五十三條之一第四項規定訂定之。
+
+## 第 2 條
+
+執行西藥批發、輸入及輸出之業者（以下簡稱業者）之品質管理，應符合附表一品質管理基準之規定。
+
+## 第 3 條
+
+業者之組織與人事，應符合附表二組織與人事基準之規定。
+
+## 第 4 條
+
+業者之作業場所與設備，應符合附表三作業場所及設備基準之規定。
+
+## 第 5 條
+
+業者之文件，應符合附表四文件基準之規定。
+
+## 第 6 條
+
+業者之作業程序，應符合附表五作業程序基準之規定。
+
+## 第 7 條
+
+業者之客戶申訴、退回與回收，應符合附表六申訴、退回與回收基準之規定。
+
+## 第 8 條
+
+業者之委外作業，應符合附表七委外作業基準之規定。
+
+## 第 9 條
+
+業者之自我查核，應符合附表八自我查核基準之規定。
+
+## 第 10 條
+
+業者之運輸，應符合附表九運輸基準之規定。
+
+## 第 11 條
+
+本準則用詞，定義如附表十。
+
+## 第 12 條
+
+本準則自發布日施行。
+
+## 附件
+
+- [附表一：品質管理基準.PDF](https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000209486)
+- [附表二：組織與人事基準.PDF](https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000209487)
+- [附表三：作業場所及設備基準.PDF](https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000209488)
+- [附表四：文件基準.PDF](https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000209489)
+- [附表五：作業程序基準.PDF](https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000209490)
+- [附表六：客戶申訴、退回與回收基準.PDF](https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000209491)
+- [附表七：委外作業基準.PDF](https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000209492)
+- [附表八：自我查核基準.PDF](https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000209493)
+- [附表九：運輸基準.PDF](https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000209494)
+- [附表十：名詞定義.PDF](https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000209495)
+
+## 沿革
+
+1.中華民國一百零六年十二月二十八日衛生福利部衛授食字第 106110753
+
+9 號令訂定發布全文 12 條；並自發布日施行

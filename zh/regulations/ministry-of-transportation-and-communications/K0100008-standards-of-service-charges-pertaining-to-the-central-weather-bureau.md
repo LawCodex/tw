@@ -1,0 +1,108 @@
+---
+title: "交通部中央氣象局規費收費標準"
+title_en: "Standards of Service Charges Pertaining to the Central Weather Bureau"
+identifier: "K0100008"
+type: regulation
+law_level: "命令"
+category: "行政＞交通部＞氣象目"
+jurisdiction: tw
+language: zh-Hant
+date: 2004-06-21
+last_amended: 2004-06-21
+status: in_force
+source: "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0100008"
+retrieved: 2026-10-12
+---
+
+# 交通部中央氣象局規費收費標準
+
+## 第 1 條
+
+本標準依氣象法第三十條第二項規定訂定之。
+
+## 第 2 條
+
+機關、學校、團體或個人向交通部中央氣象局（以下簡稱中央氣象局）申請提供氣象資料、儀器校驗、氣象專業服務或發給證照，中央氣象局應依本標準收費。
+
+## 第 3 條
+
+申請氣象資料之項目及費額如下：
+
+一、地面及高空氣象資料之項目及費額如附表一。
+
+二、遙測氣象資料之項目及費額如附表二。
+
+三、地震資料之項目及費額如附表三。
+
+四、海象資料之項目及費額如附表四。
+
+五、數值天氣預報模式資料之項目及費額如附表五。
+
+六、中央氣象局出版之氣象資料彙編刊物之項目及費額如附表六。
+
+## 第 4 條
+
+申請儀器校驗之項目及費額如附表七。
+
+申請現場校驗者，除應繳納校驗費外，另依據專用觀測站觀測儀器校驗辦法第八條第二項規定負擔交通費、加班費、出差費或其他必要之費用。
+
+## 第 5 條
+
+申請提供氣象專業服務應訂定契約為之，其項目及費額如附表八。
+
+前項契約應就氣象專業服務之範圍、屬性、內容及方式等要項計算合約總價。但其各項費額之計價差額不得逾附表八規定費額之百分之二十。
+
+依第一項契約所得之資料應於約定範圍內使用。但使用於新增設之電視頻道或加工後轉售，應經中央氣象局同意，並加收原合約總價百分之七十費額，且轉售後之資料不得移轉或再次轉售。
+
+## 第 6 條
+
+申請發給從事氣象或海象預報業務許可證照之項目及費額如附表九。但因行政區域調整或門牌改編致作業場所地址變動而申請換發證照者免繳證照費。
+
+## 第 7 條
+
+機關、學校、團體或個人向中央氣象局申請第三條之氣象資料專供學術研究之用途者，應檢具專供學術研究之證明文件，並依表列費額繳納百分之三十費額。
+
+與中央氣象局簽訂氣象學術研究合作契約，其屬中央氣象局之業務需要者，基於互惠原則，得向中央氣象局申請減免本標準各項收費。
+
+## 第 8 條
+
+申請第三條氣象資料及第四條儀器校驗所需郵資、包裝費、運費等費用由申請人負擔。
+
+## 第 9 條
+
+本標準自發布日施行。
+
+## 附件
+
+- [附表一申請地面及高空氣象資料之項目及費額.PDF](https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233238)
+- [附表一申請地面及高空氣象資料之項目及費額.DOC](https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000015458)
+- [附表二申請遙測氣象資料之項目及費額.PDF](https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233239)
+- [附表二申請遙測氣象資料之項目及費額.DOC](https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000015459)
+- [附表三申請地震資料之項目及費額.PDF](https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233240)
+- [附表三申請地震資料之項目及費額.DOC](https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000015460)
+- [附表四申請海象資料之項目及費額.PDF](https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233241)
+- [附表四申請海象資料之項目及費額.DOC](https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000015461)
+- [附表五申請數值天氣預報模式資料之項目及費額.PDF](https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233242)
+- [附表五申請數值天氣預報模式資料之項目及費額.DOC](https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000015462)
+- [附表六申購中央氣象局出版氣象資料彙編刊物之項目及費額.PDF](https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233243)
+- [附表六申購中央氣象局出版氣象資料彙編刊物之項目及費額.DOC](https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000015463)
+- [附表七申請氣象儀器校驗之項目及費額.PDF](https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233244)
+- [附表七申請氣象儀器校驗之項目及費額.DOC](https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000015464)
+- [附表八申請氣象專業服務之項目及費額.PDF](https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233245)
+- [附表八申請氣象專業服務之項目及費額.DOC](https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000015465)
+- [附表九申請核發從事氣象海象預報業務許可證照之項目及費額.PDF](https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233246)
+- [附表九申請核發從事氣象海象預報業務許可證照之項目及費額.DOC](https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000015466)
+
+## 沿革
+
+1.中華民國九十三年六月二十一日交通部交航發字第 093B000051 號令訂
+
+定發布全文 9  條；並自發布日施行
+
+中華民國一百十二年九月十三日行政院院臺規字第 1121032982 號公告
+
+第 2  條、第 3  條第 5  款附表5、第 6  款、第 6  款附表6、第 5
+
+條第 3  項、第 7  條所列屬「交通部中央氣象局」之權責事項，自一
+
+百十二年九月十五日起改由「交通部中央氣象署」管轄

@@ -1,0 +1,47 @@
+---
+title: "稻米出進口同意文件規費收費標準"
+title_en: "Fee-charging Standards for Issuing Approval Documents for Importing and Exporting Rice"
+identifier: "M0030103"
+type: regulation
+law_level: "命令"
+category: "行政＞農業部＞農糧目"
+jurisdiction: tw
+language: zh-Hant
+date: 2022-10-27
+last_amended: 2022-10-27
+status: in_force
+source: "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0030103"
+retrieved: 2026-10-12
+---
+
+# 稻米出進口同意文件規費收費標準
+
+## 第 1 條
+
+本標準依規費法第十條第一項規定訂定之。
+
+## 第 2 條
+
+出進口人依稻米出進口同意文件核發要點申請核發稻米出進口同意文件應繳納規費如下，申請變更時，亦同：
+
+一、每件新臺幣一百元。
+
+二、以急件申請於三個工作日內核發，每件新臺幣一百五十元。
+
+## 第 3 條
+
+各機關學校為業務需要申請核發稻米出進口同意文件者，免收取規費。
+
+## 第 4 條
+
+申請稻米出進口同意文件不予核發者，其所繳規費無息退還。
+
+## 第 5 條
+
+本標準自中華民國一百十二年七月一日施行。
+
+## 沿革
+
+1.中華民國一百十一年十月二十七日行政院農業委員會農糧字第 1111090
+
+793 號令訂定發布全文 5  條；並自一百十二年七月一日施行

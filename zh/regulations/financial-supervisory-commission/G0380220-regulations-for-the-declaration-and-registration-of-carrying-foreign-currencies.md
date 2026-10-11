@@ -1,0 +1,53 @@
+---
+title: "旅客或隨交通工具服務之人員攜帶外幣出入國境申報登記辦法"
+title_en: "Regulations for the Declaration and Registration of Carrying Foreign Currencies by Cross-Border Passengers or Service Crew of A Transportation Vehicle"
+identifier: "G0380220"
+type: regulation
+law_level: "命令"
+category: "行政＞金融監督管理委員會＞銀行目"
+jurisdiction: tw
+language: zh-Hant
+date: 2010-07-30
+last_amended: 2010-07-30
+status: in_force
+source: "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0380220"
+retrieved: 2026-10-12
+---
+
+# 旅客或隨交通工具服務之人員攜帶外幣出入國境申報登記辦法
+
+## 第 1 條
+
+本辦法依管理外匯條例第十一條規定訂定之。
+
+## 第 2 條
+
+旅客或隨交通工具服務之人員（以下簡稱旅客）攜帶外幣出入國境申報登記之範圍、程序及其他應遵行事項，依本辦法之規定辦理。
+
+## 第 3 條
+
+旅客出入國境，同一人於同日單一航次攜帶外幣逾等值一萬美元者，應向海關申報登記。
+
+## 第 4 條
+
+旅客攜帶外幣逾等值一萬美元者，應依下列規定辦理申報登記：
+
+一、入境者，應填具「中華民國海關申報單」及「旅客或隨交通工具服務之人員攜帶外幣、人民幣、新臺幣或有價證券入出境登記表」，向海關申報登記後查驗通關。
+
+二、出境者，應向海關填報「旅客或隨交通工具服務之人員攜帶外幣、人民幣、新臺幣或有價證券入出境登記表」後核實通關。
+
+## 第 5 條
+
+海關對於依本辦法申報登記之原始資料及相關電子檔案，應自申報登記之翌日起，保存五年。
+
+## 第 6 條
+
+本辦法自發布日施行。
+
+## 沿革
+
+1.中華民國九十九年七月三十日行政院金融監督管理委員會金管銀外字第
+
+09950002060 號令、中央銀行台央法字第 0990037022 號令會銜訂定發
+
+布全文 6  條；並自發布日施行

@@ -1,0 +1,59 @@
+---
+title: "勞工職業災害保險未繳還之保險給付扣減辦法"
+title_en: "Regulations for Deduction of Unreturned Insurance Benefits for Those with Labor Occupational Accident Insurance"
+identifier: "N0050032"
+type: regulation
+law_level: "命令"
+category: "行政＞勞動部＞勞動保險目"
+jurisdiction: tw
+language: zh-Hant
+date: 2022-03-02
+last_amended: 2022-03-02
+status: in_force
+source: "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0050032"
+retrieved: 2026-10-12
+---
+
+# 勞工職業災害保險未繳還之保險給付扣減辦法
+
+## 第 1 條
+
+本辦法依勞工職業災害保險及保護法（以下簡稱本法）第三十四條第二項規定訂定之。
+
+## 第 2 條
+
+本辦法所稱未繳還之保險給付，指已領取之保險給付，經保險人撤銷或廢止，並通知繳還而未繳還者。
+
+## 第 3 條
+
+未繳還之保險給付，保險人得自被保險人或其受益人領取本法下列保險給付之金額，辦理扣減至足額清償為止：
+
+一、傷病給付。
+
+二、失能給付。
+
+三、死亡給付。
+
+四、失蹤給付。
+
+## 第 4 條
+
+保險人依前條規定辦理扣減時，應依下列方式為之：
+
+一、請領本法一次金給付者：全數扣減。
+
+二、請領本法年金給付者：自每次得領取年金給付金額扣減至足額清償為止。
+
+## 第 5 條
+
+保險人以被保險人或其受益人請領之保險給付扣減者，應於核發保險給付時，以書面通知之。
+
+## 第 6 條
+
+本辦法自中華民國一百十一年五月一日施行。
+
+## 沿革
+
+1.中華民國一百十一年三月二日勞動部勞動保 3  字第 1110150096 號令
+
+訂定發布全文 6  條；並自一百十一年五月一日施行

@@ -1,0 +1,69 @@
+---
+title: "交通部觀光署東部海岸國家風景區管理處所屬景區入園清潔維護費收費標準"
+title_en: "Fee-charging Standards for the Cleaning and Maintenance of the Scenic Areas Managed by East Coast National Scenic Area Headquarters, Tourism Administration, Ministry of Transportation and Communications"
+identifier: "K0110036"
+type: regulation
+law_level: "命令"
+category: "行政＞交通部＞觀光目"
+jurisdiction: tw
+language: zh-Hant
+date: 2013-11-01
+last_amended: 2023-12-19
+status: in_force
+source: "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0110036"
+retrieved: 2026-10-12
+---
+
+# 交通部觀光署東部海岸國家風景區管理處所屬景區入園清潔維護費收費標準
+
+## 第 1 條
+
+本標準依規費法第十條第一項第二款規定訂定之。
+
+## 第 2 條
+
+本處入園清潔維護費收費景區及收費基準如附表。
+
+## 第 3 條
+
+本標準自發布日施行。
+
+## 附件
+
+- [附表 交通部觀光署東部海岸國家風景區管理處所屬景區入園清潔維護費收費基準表.PDF](https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000357192)
+
+## 沿革
+
+1.中華民國一百零二年十一月一日交通部觀光局東部海岸國家風景區管理
+
+處觀海管字第 1020300156 號令訂定發布全文 3  條；並自一百零二年
+
+十一月一日施行；石梯坪風景區收費自一百零三年六月三十日施行
+
+2.中華民國一百零六年十二月二十八日交通部觀光局東部海岸國家風景區
+
+管理處觀海管字第 1060300459 號令修正發布第 2  條條文之附表
+
+3.中華民國一百零七年五月十八日交通部觀光局東部海岸國家風景區管理
+
+處觀海管字第 1070300114 號令修正發布第 3  條條文
+
+中華民國一百十二年九月十三日行政院院臺規字第 1121032982 號公告
+
+第 2  條、第 2  條附表所列屬「交通部觀光局東部海岸國家風景區管
+
+理處」之權責事項，自一百十二年九月十五日起改由「交通部觀光署東
+
+部海岸國家風景區管理處」管轄
+
+4.中華民國一百十二年十二月十九日交通部觀光署東部海岸國家風景區管
+
+理處觀海管字第 11203005612  號令修正發布名稱、第 3  條條文及第
+
+2 條條文之附表；並自發布日施行
+
+（原名稱：交通部觀光局東部海岸國家風景區管理處所屬景區入園清潔
+
+維護費收費標準；新名稱：交通部觀光署東部海岸國家風景區管理處所
+
+屬景區入園清潔維護費收費標準）

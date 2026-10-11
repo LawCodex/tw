@@ -1,0 +1,39 @@
+---
+title: "檔案管理人員專業認證考試收費標準"
+title_en: "Fee-charging Standards for Professional Certification of Records Manager"
+identifier: "A0030353"
+type: regulation
+law_level: "命令"
+category: "行政＞國家發展委員會＞通用目"
+jurisdiction: tw
+language: zh-Hant
+date: 2023-12-27
+last_amended: 2023-12-27
+status: in_force
+source: "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030353"
+retrieved: 2026-10-12
+---
+
+# 檔案管理人員專業認證考試收費標準
+
+## 第 1 條
+
+本標準依規費法第十條第一項規定訂定之。
+
+## 第 2 條
+
+參加檔案管理人員專業認證考試者，應繳納報名費新臺幣五百元。
+
+## 第 3 條
+
+前條報名費收費數額，應依辦理費用、成本變動及消費者物價指數變動情形等影響因素，每三年至少檢討一次。
+
+## 第 4 條
+
+本標準自發布日施行。
+
+## 沿革
+
+1.中華民國一百十二年十二月二十七日國家發展委員會檔案管理局檔企字
+
+第 1120012446B  號令訂定發布全文 4  條；並自發布日施行

@@ -1,0 +1,62 @@
+---
+title: "僑務委員會提供政府資訊收費標準"
+title_en: "The Fee-charging Standards for Using Government Information of Overseas Community Affairs Council, R.O.C. (TAIWAN)"
+identifier: "E0010022"
+type: regulation
+law_level: "命令"
+category: "行政＞僑務委員會＞一般業務目"
+jurisdiction: tw
+language: zh-Hant
+date: 2006-08-24
+last_amended: 2006-08-24
+status: in_force
+source: "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=E0010022"
+retrieved: 2026-10-12
+---
+
+# 僑務委員會提供政府資訊收費標準
+
+## 第 1 條
+
+本標準依政府資訊公開法（以下簡稱本法）第二十二條第二項規定訂定之。
+
+## 第 2 條
+
+閱覽、抄錄或攝影政府資訊，每二小時收取費用新臺幣二十元；不足二小時，以二小時計算。
+
+## 第 3 條
+
+重製或複製政府資訊，依政府資訊重製或複製收費標準表（如附表），收取費用。
+
+前項收費標準表未明定之項目，按重製或複製工本費，收取費用。
+
+## 第 4 條
+
+重製或複製政府資訊，如另需提供郵寄服務者，其郵遞費用以實支數額計算。
+
+## 第 5 條
+
+申請政府資訊供學術研究或公益用途者，於申請時應檢附相關證明文件，經核准後，除郵遞費用仍以實支數額計算外，其餘費用，減半徵收。
+
+## 第 6 條
+
+申請之政府資訊屬規費法第十二條第一款所定辦理業務或教育宣導資料者，得免費提供。
+
+## 第 7 條
+
+本標準所定之費用，其收取應依預算程序辦理。
+
+## 第 8 條
+
+本標準自本法施行之日施行。
+
+## 附件
+
+- [附表僑務委員會政府資訊重製或複製收費標準表.PDF](https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233978)
+- [附表僑務委員會政府資訊重製或複製收費標準表.DOC](https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000037242)
+
+## 沿革
+
+1.中華民國九十五年八月二十四日僑務委員會僑四檔字第 09530280481
+
+號令訂定發布全文 8  條；並自政府資訊公開法施行之日施行

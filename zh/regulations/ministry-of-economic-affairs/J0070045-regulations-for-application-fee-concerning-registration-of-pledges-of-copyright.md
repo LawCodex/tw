@@ -1,0 +1,39 @@
+---
+title: "著作財產權質權各項登記規費收費準則"
+title_en: "Regulations for Application Fee Concerning Registration of Pledges of Copyright"
+identifier: "J0070045"
+type: regulation
+law_level: "命令"
+category: "行政＞經濟部＞智慧財產權目"
+jurisdiction: tw
+language: zh-Hant
+date: 2010-09-24
+last_amended: 2010-09-24
+status: in_force
+source: "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0070045"
+retrieved: 2026-10-12
+---
+
+# 著作財產權質權各項登記規費收費準則
+
+## 第 1 條
+
+本準則依規費法第十條規定訂定之。
+
+## 第 2 條
+
+著作財產權質權各項登記申請規費如下：
+
+一、質權設定每件新臺幣三千元。
+
+二、質權讓與、變更、消滅或處分之限制，每件新臺幣二千元。
+
+## 第 3 條
+
+本準則自發布日施行。
+
+## 沿革
+
+1.中華民國九十九年九月二十四日經濟部經智字第 09904605970  號令訂
+
+定發布全文 3  條；並自發布日施行

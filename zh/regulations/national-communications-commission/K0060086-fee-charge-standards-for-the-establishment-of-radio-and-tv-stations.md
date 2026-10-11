@@ -1,0 +1,54 @@
+---
+title: "廣播電視業者設置電臺規費收費標準"
+title_en: "Fee Charge Standards for the Establishment of Radio and TV Stations"
+identifier: "K0060086"
+type: regulation
+law_level: "命令"
+category: "行政＞國家通訊傳播委員會＞收費標準目"
+jurisdiction: tw
+language: zh-Hant
+date: 2010-03-15
+last_amended: 2010-03-15
+status: in_force
+source: "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0060086"
+retrieved: 2026-10-12
+---
+
+# 廣播電視業者設置電臺規費收費標準
+
+## 第 1 條
+
+本標準依電信法第七十條及廣播電視法第五十條之一之規定訂定之。
+
+## 第 2 條
+
+依本標準收取之廣播電視電臺設備及工程技術證照規費包括審查費、審驗費及證照費；其收費項目及其費額如附表。
+
+## 第 3 條
+
+審查費、審驗費於申請時收取之；證照費於核發證照時收取之。
+
+## 第 4 條
+
+申請人應以現金、以銀行為發票人之支票、國庫支票或匯票至國家通訊傳播委員會繳納規費。
+
+前項支票、國庫支票或匯票之受款人應載明國家通訊傳播委員會。
+
+## 第 5 條
+
+申請人依本標準規定繳納各項規費後，除有溢繳、誤繳或法規另有規定者外，不予退還。
+
+## 第 6 條
+
+本標準自發布日施行。
+
+## 附件
+
+- [附表廣播電視業者設置電臺規費項目.PDF](https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000234741)
+- [附表廣播電視業者設置電臺規費項目.DOC](https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000077655)
+
+## 沿革
+
+1.中華民國九十九年三月十五日國家通訊傳播委員會通傳技字第 0994300
+
+5080  號令訂定發布全文 6  條；並自發布日施行

@@ -1,0 +1,47 @@
+---
+title: "發射載具申請發射許可收費標準"
+title_en: "Fee-charging Standards for Application of Launch Vehicles Launch Permit"
+identifier: "H0160092"
+type: regulation
+law_level: "命令"
+category: "行政＞國家科學及技術委員會＞科學技術目"
+jurisdiction: tw
+language: zh-Hant
+date: 2024-10-23
+last_amended: 2024-10-23
+status: in_force
+source: "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0160092"
+retrieved: 2026-10-12
+---
+
+# 發射載具申請發射許可收費標準
+
+## 第 1 條
+
+本標準依規費法第十條第一項規定訂定之。
+
+## 第 2 條
+
+發射載具依太空發展法第十一條第一項規定申請發射許可者，應繳納審查費，每件新臺幣二萬三千元。
+
+## 第 3 條
+
+依本標準收費時，應掣發收據。
+
+## 第 4 條
+
+本標準所規定之各項審查費繳納後，除依規費法之規定得申請退還外，不得以任何理由要求退費或保留。
+
+## 第 5 條
+
+發射許可核發後，依發射載具發射許可及太空事故處理辦法第十五條規定撤銷或廢止者，已繳納之審查費不予退還。
+
+## 第 6 條
+
+本標準自發布日施行。
+
+## 沿革
+
+1.中華民國一百十三年十月二十三日國家科學及技術委員會科會前字第 1
+
+130073588B  號令訂定發布全文 6  條；並自發布日施行

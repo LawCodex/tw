@@ -1,0 +1,57 @@
+---
+title: "冷凍空調業之專任技術士訓練講習實施辦法"
+title_en: "Regulations for Running Training and Workshops for Full-Time Technicians of Refrigeration and Air Conditioning Industries"
+identifier: "J0030080"
+type: regulation
+law_level: "命令"
+category: "行政＞經濟部＞產業目"
+jurisdiction: tw
+language: zh-Hant
+date: 2004-12-22
+last_amended: 2004-12-22
+status: in_force
+source: "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0030080"
+retrieved: 2026-10-12
+---
+
+# 冷凍空調業之專任技術士訓練講習實施辦法
+
+## 第 1 條
+
+本辦法依冷凍空調業管理條例第十四條第二項規定訂定之。
+
+## 第 2 條
+
+冷凍空調業專任技術士訓練或講習，中央主管機關得委託其他機構辦理。
+
+## 第 3 條
+
+冷凍空調業專任技術士應參與每兩年八小時之訓練或講習。
+
+## 第 4 條
+
+冷凍空調業訓練或講習課程包括下列事項：
+
+一、冷凍空調業之相關法規。
+
+二、冷凍空調設備製造之相關事項。
+
+三、冷凍空調設備施工、安裝、測試、維護或保養之相關事項。
+
+四、其他相關事項。
+
+## 第 5 條
+
+訓練或講習結束時，應對參與訓練之冷凍空調業專任技術士進行測驗。
+
+測驗合格者，始得發給訓練或講習時數證明；測驗不合格者，該訓練或講習之時數不予計算。
+
+## 第 6 條
+
+本辦法自發布日施行。
+
+## 沿革
+
+1.中華民國九十三年十二月二十二日經濟部經工字第 09304609090  號令
+
+訂定發布全文 6  條；並自發布日施行

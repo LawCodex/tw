@@ -1,0 +1,58 @@
+---
+title: "食品原料口香糖及泡泡糖基劑衛生標準"
+title_en: "Sanitation Standards for Chewing and Bubble Gum Bases as Food Raw Materials"
+identifier: "L0040103"
+type: regulation
+law_level: "命令"
+category: "行政＞衛生福利部＞食品藥物管理目"
+jurisdiction: tw
+language: zh-Hant
+date: 1984-11-15
+last_amended: 2013-08-20
+status: in_force
+source: "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0040103"
+retrieved: 2026-10-12
+---
+
+# 食品原料口香糖及泡泡糖基劑衛生標準
+
+## 第 1 條
+
+本標準依食品衛生管理法第十七條規定訂定之。
+
+## 第 2 條
+
+口香糖及泡泡糖可使用之基劑如附表，應由符合該表中所列各項規定之物質一種或多種組成，其各成分之使用量不得超過加工所必需者。除附表中所列物質外，亦可含依「食品添加物使用範圍及限量暨規格標準」之規定准用於口香糖及泡泡糖中之食品添加物。
+
+## 第 3 條
+
+口香糖及泡泡糖基劑之重金屬限量：
+
+一、砷：3 ppm  以下（以 As 計）。
+
+二、鉛：3 ppm  以下。
+
+三、重金屬：0.004％以下（以 Pb 計）。
+
+## 第 4 條
+
+口香糖及泡泡糖基劑之微生物限量，應符合「一般食品衛生標準」之規定。
+
+## 第 5 條
+
+本標準自發布日施行。
+
+## 附件
+
+- [附表：咀嚼基劑法表.PDF](https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235588)
+- [附表：咀嚼基劑法表.DOC](https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000133341)
+
+## 沿革
+
+1.中華民國七十三年十一月十五日行政院衛生署（73）衛署食字第 49893
+
+3 號公告訂定發布全文 1  點
+
+2.中華民國一百零二年八月二十日衛生福利部部授食字第 1021350146 號
+
+令修正發布全文 5  條；並自發布日施行
