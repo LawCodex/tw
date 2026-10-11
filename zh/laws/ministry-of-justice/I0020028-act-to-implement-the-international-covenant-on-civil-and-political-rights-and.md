@@ -1,0 +1,65 @@
+---
+title: "公民與政治權利國際公約及經濟社會文化權利國際公約施行法"
+title_en: "Act to Implement the International Covenant on Civil and Political Rights and the International Covenant on Economic, Social and Cultural Rights"
+identifier: "I0020028"
+type: act
+law_level: "法律"
+category: "行政＞法務部＞法制目"
+jurisdiction: tw
+language: zh-Hant
+date: 2009-04-22
+last_amended: 2009-04-22
+status: in_force
+source: "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0020028"
+retrieved: 2026-10-12
+---
+
+# 公民與政治權利國際公約及經濟社會文化權利國際公約施行法
+
+## 第 1 條
+
+為實施聯合國一九六六年公民與政治權利國際公約（International Covenant on Civil and Political Rights）及經濟社會文化權利國際公約（International Covenant on Economic Social and Cultural Rights）（以下合稱兩公約），健全我國人權保障體系，特制定本法。
+
+## 第 2 條
+
+兩公約所揭示保障人權之規定，具有國內法律之效力。
+
+## 第 3 條
+
+適用兩公約規定，應參照其立法意旨及兩公約人權事務委員會之解釋。
+
+## 第 4 條
+
+各級政府機關行使其職權，應符合兩公約有關人權保障之規定，避免侵害人權，保護人民不受他人侵害，並應積極促進各項人權之實現。
+
+## 第 5 條
+
+各級政府機關應確實依現行法令規定之業務職掌，負責籌劃、推動及執行兩公約規定事項；其涉及不同機關業務職掌者，相互間應協調連繫辦理。
+
+政府應與各國政府、國際間非政府組織及人權機構共同合作，以保護及促進兩公約所保障各項人權之實現。
+
+## 第 6 條
+
+政府應依兩公約規定，建立人權報告制度。
+
+## 第 7 條
+
+各級政府機關執行兩公約保障各項人權規定所需之經費，應依財政狀況，優先編列，逐步實施。
+
+## 第 8 條
+
+各級政府機關應依兩公約規定之內容，檢討所主管之法令及行政措施，有不符兩公約規定者，應於本法施行後二年內，完成法令之制（訂）定、修正或廢止及行政措施之改進。
+
+## 第 9 條
+
+本法施行日期，由行政院定之。
+
+## 沿革
+
+1.中華民國九十八年四月二十二日總統華總一義字第 09800096331  號令
+
+制定公布全文 9  條；依第 9  條規定：本法施行日期，由行政院定之
+
+中華民國九十八年十月二十九日行政院院臺外字第 0980067638 號令發
+
+布定自九十八年十二月十日施行
